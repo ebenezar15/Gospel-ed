@@ -46,7 +46,7 @@ export default function Family() {
   const W = maxY + 260, H = maxX - minX + 80;
   const VW = 1100, VH = 560;
   // Start fitted to the tree, but never so small that names become unreadable; the reader can pan from there.
-  const fit = () => { const k = Math.max(0.55, Math.min(1, VW / W, VH / H)); return zoomIdentity.translate(10, Math.max(0, (VH - H * k) / 2)).scale(k); };
+  const fit = () => { const k = Math.max(0.85, Math.min(1, VW / W, VH / H)); return zoomIdentity.translate(10, Math.max(0, (VH - H * k) / 2)).scale(k); };
   const hl = line ? new Set(LINES[line].ids) : new Set<string>();
   useEffect(() => {
     if (!svg.current) return;

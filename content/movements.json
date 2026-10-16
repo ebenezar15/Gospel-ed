@@ -5370,5 +5370,2629 @@
         "positionId": "healing-critics"
       }
     ]
+  },
+  {
+    "id": "hearing-gods-voice",
+    "title": "Hearing God's voice: guidance, impressions and the sufficiency of Scripture",
+    "category": "movement",
+    "question": "Does God speak to believers today beyond Scripture, through an inner voice, impressions, dreams or prophetic words, and how should Christians seek guidance for their decisions?",
+    "intro": "Since the 1980s a widespread evangelical and charismatic emphasis has taught that believers can and should learn to 'hear God's voice' in a personal, conversational way. Dallas Willard's *Hearing God* (1999, revised from *In Search of Guidance*, 1984) gave the idea philosophical and pastoral depth. Mark Virkler's 'four keys' and two-way journaling offered a practical method. Jack Deere, a former Dallas Seminary professor, argued from Scripture and church history that God still speaks in many ways.\n\nReformed theologians raise concerns rooted in the sufficiency of Scripture (2 Timothy 3:16-17). The Westminster Confession (1.6) holds that nothing is to be added to Scripture 'by new revelations of the Spirit', and Calvin and Luther both opposed 'enthusiasts' who claimed private revelations. Kevin DeYoung's *Just Do Something* (2009) argues that anxious searching for God's specific will leads to paralysis. A related but distinct 'wisdom model', set out in Garry Friesen's *Decision Making and the Will of God* (1980), holds that God has no hidden 'individual will' that believers must discover. Within his revealed moral will, they are free to choose wisely.\n\nThe three positions agree that Scripture is supreme. They disagree on whether God ordinarily gives personal, extra-biblical communication, and on how decisions should be made.",
+    "keyRefs": [
+      "2 Tim 3:16-17",
+      "John 10:27",
+      "Acts 16:6-10",
+      "Rom 12:2",
+      "Prov 3:5-6",
+      "1 Kgs 19:11-12",
+      "Heb 1:1-2",
+      "Deut 29:29"
+    ],
+    "positions": [
+      {
+        "id": "conversational-guidance",
+        "name": "Conversational relationship: God still speaks personally",
+        "color": "#8f7356",
+        "summary": "This view holds that God's purpose is a conversational relationship with his people, not only rules to follow. As Willard puts it, believers are meant to live in an ongoing friendship with God, in which he speaks and they learn to recognise his voice. God speaks above all through Scripture. He also speaks through the 'still small voice' of inner impressions, through dreams and visions, through other people, through circumstances and through prophecy.\n\nThese communications never add to Scripture's doctrine and must always be tested by it. They concern application, such as encouragement, direction and conviction, not new truths about God. Learning to recognise God's voice is described as a skill developed over time, like Samuel learning to distinguish it. Willard stresses character and union with God more than decision-making technique. Virkler offers a structured method of quieting, picturing, attending to spontaneous thoughts and journaling. Deere argues that Scripture and church history, including Reformation and Puritan figures, show God speaking this way.",
+        "figures": [
+          {
+            "name": "Dallas Willard",
+            "lived": "1935-2013",
+            "profession": "Philosopher, University of Southern California; writer on spiritual formation",
+            "bio": "Willard was a respected phenomenologist who wrote widely read books on discipleship and spiritual formation. *Hearing God* treats God's speaking as part of a 'conversational relationship' grounded in the reality of God's kingdom. It also warns against using God's voice to avoid responsibility, and it insists that God's 'voice' is recognised by its quality, its spirit and its content, and above all by its harmony with Scripture.",
+            "works": [
+              {
+                "author": "Dallas Willard",
+                "title": "In Search of Guidance",
+                "year": 1984
+              },
+              {
+                "author": "Dallas Willard",
+                "title": "Hearing God: Developing a Conversational Relationship with God",
+                "year": 1999
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Mark Virkler",
+            "lived": "living",
+            "profession": "Pastor, founder of Communion With God Ministries and Christian Leadership University",
+            "bio": "Virkler says that after years of failing to hear God, he developed 'four keys' drawn largely from Habakkuk 2:1-2. Believers recognise God's voice as spontaneous thoughts that 'light upon' the mind, quiet themselves, look for vision, and write down the dialogue in a journal. His courses have been widely used in charismatic churches.",
+            "works": [
+              {
+                "author": "Mark Virkler and Patti Virkler",
+                "title": "Dialogue with God",
+                "year": 1986
+              },
+              {
+                "author": "Mark Virkler and Patti Virkler",
+                "title": "4 Keys to Hearing God's Voice",
+                "year": 2010
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Jack Deere",
+            "lived": "living",
+            "profession": "Former Old Testament professor at Dallas Theological Seminary, pastor and author",
+            "bio": "Deere was a cessationist scholar who became convinced of continuing gifts through John Wimber in the mid-1980s and left Dallas Seminary. His books argue exegetically that the Bible never teaches the cessation of God's speaking. They also argue historically that respected Reformation and Puritan-era figures, such as George Wishart, John Knox and Samuel Rutherford, were credited with predictive and revelatory insights.",
+            "works": [
+              {
+                "author": "Jack Deere",
+                "title": "Surprised by the Power of the Spirit",
+                "year": 1993
+              },
+              {
+                "author": "Jack Deere",
+                "title": "Surprised by the Voice of God",
+                "year": 1996
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "A. W. Tozer",
+            "lived": "1897-1963",
+            "profession": "Christian and Missionary Alliance pastor and editor",
+            "bio": "Tozer's devotional classic, *The Pursuit of God*, includes a chapter on 'the speaking voice'. In it he argues that God is by nature continuously speaking and that the Bible is the written expression of that living voice, to be heard personally, not merely studied. Later writers on hearing God often cite him as a forerunner, though his own emphasis was on hearing God through Scripture.",
+            "works": [
+              {
+                "author": "A. W. Tozer",
+                "title": "The Pursuit of God",
+                "year": 1948
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Priscilla Shirer",
+            "lived": "living",
+            "profession": "Bible teacher and author",
+            "bio": "Shirer's study on discerning God's voice became popular in evangelical women's ministry and beyond. It presents the Holy Spirit's personal guidance as normal for believers, always tested by Scripture and recognised by its character.",
+            "works": [
+              {
+                "author": "Priscilla Shirer",
+                "title": "Discerning the Voice of God",
+                "year": 2007,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "The modern emphasis has several sources. One is the charismatic renewal's expectation of spiritual gifts. Another is evangelical interest in spiritual formation, through Willard, Richard Foster's *Celebration of Discipline* (1978) and the rediscovery of practices such as Ignatian discernment and Brother Lawrence's 'practice of the presence of God'. A third is the wide influence of devotional writing like Tozer's. Within Southern Baptist life, Henry Blackaby's *Experiencing God* (1990) popularised the idea that God speaks through the Bible, prayer, circumstances and the church.\n\nIn practice the movement ranges from Willard's careful, Scripture-bounded account to more expansive charismatic methods. Popular evangelical language ('God laid it on my heart', 'I felt led') shows how deeply the expectation has spread.",
+        "claims": [
+          "God's goal is a personal, conversational relationship with his children, not merely rule-keeping.",
+          "God speaks primarily through Scripture, but also through inner impressions, dreams, visions, other believers, circumstances and prophecy.",
+          "Such communication never adds doctrine to Scripture and is always subject to it.",
+          "Recognising God's voice is a skill learned over time, through Scripture, prayer, community and experience.",
+          "God's voice is recognised by its consistency with Scripture and Christ's character, by its peace and authority, and by its fruit.",
+          "Treating God as speaking only through the text risks reducing the relationship to study and making the Spirit's present work invisible."
+        ],
+        "scriptures": [
+          {
+            "ref": "John 10:27",
+            "reading": "'My sheep hear my voice.' Hearing Christ is a normal mark of belonging to him."
+          },
+          {
+            "ref": "1 Sam 3:8-10",
+            "reading": "Samuel had to learn to recognise the Lord's voice with Eli's help. Hearing God is a learned discernment."
+          },
+          {
+            "ref": "1 Kgs 19:11-12",
+            "reading": "God spoke to Elijah not in wind, earthquake or fire but in a 'still small voice', an inner, quiet communication."
+          },
+          {
+            "ref": "Acts 8:29",
+            "reading": "The Spirit told Philip to approach the chariot, giving specific personal direction for ministry."
+          },
+          {
+            "ref": "Acts 10:19-20",
+            "reading": "The Spirit spoke to Peter about the men at the door, an example of specific guidance in real time."
+          },
+          {
+            "ref": "Acts 16:6-10",
+            "reading": "The Spirit forbade Paul to preach in Asia, and a night vision called him to Macedonia. Guidance in the New Testament included impressions and dreams."
+          },
+          {
+            "ref": "Hab 2:1-2",
+            "reading": "The prophet stood to watch and see what God would say, and was told to write the vision. Virkler's model of quieting, looking and journaling draws on this."
+          },
+          {
+            "ref": "Rom 8:14",
+            "reading": "Those led by the Spirit of God are the sons of God. Being led is normal Christian experience."
+          },
+          {
+            "ref": "Isa 30:21",
+            "reading": "'Thine ears shall hear a word behind thee, saying, This is the way.' God promises guidance to his people."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Throughout Scripture, God's people receive personal communication. In Acts this includes ordinary believers such as Ananias, Philip and Cornelius, not only apostles. Nothing in the New Testament says this pattern would end.",
+            "refs": [
+              "Acts 9:10-12",
+              "Acts 8:29",
+              "Acts 10:3-6"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Jesus describes his followers as sheep who know his voice. A relationship in which one party never speaks personally would not be the friendship Jesus offers.",
+            "refs": [
+              "John 10:27",
+              "John 15:15"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "Willard argues that a personal God who indwells believers would naturally communicate personally. Denying this makes the Christian life functionally deistic, with God present only in a book."
+          },
+          {
+            "kind": "historical",
+            "text": "Christian tradition has long practised discernment of God's personal leading: Augustine's 'take up and read' (*Confessions* 8.12), Ignatius of Loyola's rules for the discernment of spirits, Quaker attention to the inner light, and Puritan reflection on providential 'impressions'."
+          },
+          {
+            "kind": "historical",
+            "text": "Deere notes that Scottish Reformation and Covenanter figures such as George Wishart, John Knox and Samuel Rutherford were credited by contemporaries with prophetic foresight. The Reformed tradition's own history is therefore more open to God's present speaking than its confessional cessationism suggests."
+          },
+          {
+            "kind": "logical",
+            "text": "The Westminster Confession speaks of the 'whole counsel of God' for doctrine, worship and salvation. Personal guidance about which job to take or whom to visit does not add to that counsel, so it does not violate sufficiency."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Reformed confessional critics (Westminster Confession 1.6; Calvin, *Institutes* 1.9)",
+            "text": "Scripture is sufficient for all of faith and life, and nothing is to be added to it by new revelations of the Spirit. Expecting regular personal communication tends to relativise Scripture and opens the door to the private claims the Reformers called fanaticism.",
+            "refs": [
+              "2 Tim 3:16-17",
+              "Heb 1:1-2"
+            ]
+          },
+          {
+            "from": "Kevin DeYoung, *Just Do Something* (2009)",
+            "text": "The search for God's voice on every decision produces anxiety, passivity and paralysis. It also becomes a way to avoid responsibility, because 'God told me' ends discussion and cannot be challenged."
+          },
+          {
+            "from": "Garry Friesen and the wisdom model",
+            "text": "The idea that God has a detailed 'individual will' to be discovered through inner impressions is not taught in Scripture. Impressions are subjective, cannot be verified, and are easily confused with our own desires."
+          },
+          {
+            "from": "Critics of Virkler's method",
+            "text": "Treating spontaneous thoughts as God's voice and journaling them as dialogue blurs the line between imagination and revelation. It gives believers no reliable way to tell their own subconscious from God.",
+            "refs": [
+              "Jer 17:9",
+              "Jer 23:16"
+            ]
+          },
+          {
+            "from": "Pastoral critics",
+            "text": "Claims of 'God told me', about marriage partners, business ventures or church decisions, have often caused harm and spiritual manipulation when they proved wrong."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Willard and Deere agree that nothing may be added to Scripture's doctrine. They argue that personal guidance is application, not new doctrine, and that the Confession itself (1.6) acknowledges the necessity of the Spirit's inward illumination and leaves many circumstances to 'Christian prudence'.",
+            "refs": [
+              "1 Cor 2:12-14"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Willard explicitly warned against seeking a word for every decision. He taught that mature believers often decide by wisdom, and that God's speaking aims at character and partnership, not at relieving us of responsibility."
+          },
+          {
+            "toCritique": 2,
+            "text": "Proponents acknowledge that impressions are fallible. That is why they insist on testing by Scripture, by mature counsel, by fruit and over time. Fallibility calls for discernment, not for denying that God speaks.",
+            "refs": [
+              "1 Thess 5:21",
+              "1 John 4:1"
+            ]
+          },
+          {
+            "toCritique": 3,
+            "text": "Virkler insists that journaled words must be submitted to Scripture and to spiritual counsellors. He argues that God sanctifies the imagination rather than bypassing it, as in the visions of the prophets.",
+            "refs": [
+              "Hab 2:1-2",
+              "Acts 2:17"
+            ]
+          },
+          {
+            "toCritique": 4,
+            "text": "Proponents agree that 'God told me' should not be used to control others. Willard specifically criticised that use as a sign of immaturity."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "People who 'hear God' think their impressions are equal to Scripture.",
+            "correction": "Willard, Deere and Virkler all teach that Scripture is the final authority and that impressions must be tested by it. The debate is about whether such impressions exist and how much weight they carry."
+          },
+          {
+            "strawMan": "Hearing God means believers expect an audible voice.",
+            "correction": "Most proponents describe God's speaking as inner thoughts, impressions or a sense of conviction, and occasionally dreams. They do not normally mean an audible voice."
+          },
+          {
+            "strawMan": "This view is a purely charismatic innovation.",
+            "correction": "Willard was not a typical charismatic, and the practice of personal discernment draws on Catholic, Quaker, Puritan and evangelical devotional traditions."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Nurtured a warm, relational prayer life and attentiveness to God for many believers.",
+            "Brought spiritual formation practices into evangelical churches.",
+            "Encouraged believers to expect God's presence in everyday life."
+          ],
+          "negative": [
+            "Popular forms can foster 'God told me' manipulation and decisions later regretted.",
+            "Some believers report anxiety and guilt when they do not 'hear' anything.",
+            "Can shift attention from Scripture's clear commands to the search for private words."
+          ]
+        },
+        "adherents": [
+          "Charismatic and Pentecostal churches",
+          "Many evangelicals shaped by spiritual formation (Willard, Foster) and by *Experiencing God*",
+          "Vineyard and Reformed-charismatic congregations",
+          "Catholic and Anglican practitioners of discernment"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Dallas Willard",
+              "title": "Hearing God",
+              "year": 1999
+            },
+            {
+              "author": "Jack Deere",
+              "title": "Surprised by the Voice of God",
+              "year": 1996
+            },
+            {
+              "author": "Mark Virkler and Patti Virkler",
+              "title": "4 Keys to Hearing God's Voice",
+              "year": 2010
+            },
+            {
+              "author": "Henry Blackaby and Claude King",
+              "title": "Experiencing God",
+              "year": 1990
+            }
+          ],
+          "critic": [
+            {
+              "author": "Kevin DeYoung",
+              "title": "Just Do Something: A Liberating Approach to Finding God's Will",
+              "year": 2009
+            },
+            {
+              "author": "Garry Friesen with J. Robin Maxson",
+              "title": "Decision Making and the Will of God",
+              "year": 1980
+            },
+            {
+              "author": "John MacArthur",
+              "title": "Strange Fire",
+              "year": 2013
+            }
+          ]
+        },
+        "originYear": 1984
+      },
+      {
+        "id": "sufficiency-scripture",
+        "name": "Reformed sufficiency: God speaks through his written Word",
+        "color": "#5a6e8a",
+        "summary": "Reformed critics hold that God now speaks to his people through Scripture, made effective by the Spirit's illumination. He does not speak through ongoing personal revelations. The Westminster Confession states that the earlier ways in which God revealed his will have ceased (1.1), and that the whole counsel of God for his glory and for human salvation, faith and life is set down in Scripture or deduced from it, with nothing to be added by new revelations of the Spirit (1.6).\n\nGod certainly guides, but through his providence, which orders circumstances, and through renewed minds that apply Scripture wisely. Providence is not a coded message to be decoded. Calvin's and Luther's polemics against 'enthusiasts' who set private revelations beside or above Scripture remain, on this view, a needed warning. The practical result is freedom: believers obey God's revealed will and trust his sovereign care, without anxiously searching for hidden signals.",
+        "figures": [
+          {
+            "name": "John Calvin",
+            "lived": "1509-1564",
+            "profession": "Reformer of Geneva, theologian",
+            "bio": "In *Institutes* 1.9 Calvin criticised 'fanatics' who abandoned Scripture to seek new revelations from the Spirit. He argued that the Spirit's role is to seal and confirm the Word he inspired, not to bring a different word. His joining of Word and Spirit is the foundation of the Reformed position.",
+            "works": [
+              {
+                "author": "John Calvin",
+                "title": "Institutes of the Christian Religion",
+                "year": 1559,
+                "locator": "1.9",
+                "publicDomain": true
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Richard B. Gaffin Jr.",
+            "lived": "living",
+            "profession": "Professor emeritus of biblical and systematic theology, Westminster Theological Seminary",
+            "bio": "Gaffin argued that the revelatory gifts, prophecy and tongues, belonged to the foundational apostolic era of redemptive history. The Spirit's ongoing work is to apply the completed revelation, not to extend it.",
+            "works": [
+              {
+                "author": "Richard B. Gaffin Jr.",
+                "title": "Perspectives on Pentecost",
+                "year": 1979
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Sinclair B. Ferguson",
+            "lived": "living",
+            "profession": "Scottish Reformed theologian and pastor",
+            "bio": "Ferguson's short book on guidance presents the Reformed approach pastorally. God guides by his Word, by renewed thinking and by providence, and believers need not seek inner voices to know God's will.",
+            "works": [
+              {
+                "author": "Sinclair B. Ferguson",
+                "title": "Discovering God's Will",
+                "year": 1982
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "John MacArthur",
+            "lived": "living",
+            "profession": "Pastor of Grace Community Church, Sun Valley, California",
+            "bio": "MacArthur has written on God's will as primarily revealed in Scripture (salvation, Spirit-filling, sanctification, submission, suffering), and has argued that within those bounds believers may do what they desire. His later books sharply criticise claims of extra-biblical revelation.",
+            "works": [
+              {
+                "author": "John MacArthur",
+                "title": "Found: God's Will",
+                "year": 1977
+              },
+              {
+                "author": "John MacArthur",
+                "title": "Strange Fire",
+                "year": 2013
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Kevin DeYoung",
+            "lived": "living",
+            "profession": "Presbyterian pastor and seminary professor",
+            "bio": "DeYoung's short, widely read book argues that God's will of decree is hidden and his will of desire is revealed in Scripture. Christians should stop looking for a hidden plan and instead obey, seek wisdom and make decisions. He presents the approach as liberating for young adults paralysed by indecision.",
+            "works": [
+              {
+                "author": "Kevin DeYoung",
+                "title": "Just Do Something: A Liberating Approach to Finding God's Will",
+                "year": 2009
+              },
+              {
+                "author": "Kevin DeYoung",
+                "title": "Taking God at His Word",
+                "year": 2014
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "The Reformation set Scripture against two kinds of rival authority: Roman tradition and the 'enthusiasts' or 'heavenly prophets', radical reformers such as Thomas Müntzer and the Zwickau prophets who claimed direct revelation. Luther's *Against the Heavenly Prophets* (1525) and Calvin's *Institutes* 1.9 set the pattern. The Westminster Confession (1646) codified it.\n\nIn the twentieth century, Reformed theologians answered Pentecostal and charismatic claims by restating sufficiency and, often, cessationism. The renewed debate since the 1990s has been sharpened by Grudem's 'fallible prophecy' view and by popular books on hearing God. Not all who hold the sufficiency position are strict cessationists. Some allow that God may in rare cases give impressions but deny that these have any authority or should be sought.",
+        "claims": [
+          "Scripture is sufficient for all that God requires for faith and life, and nothing is to be added to it by new revelations.",
+          "God's former modes of revelation (prophets, visions, direct speech) have ceased now that the canon is complete.",
+          "The Spirit illumines and applies Scripture. He does not provide additional private messages.",
+          "God guides through his providence and through renewed minds applying Scripture, not through decoding signs or impressions.",
+          "God's secret will is not ours to discover. His revealed will is to be obeyed.",
+          "Seeking extra-biblical words invites self-deception and undermines confidence in Scripture."
+        ],
+        "scriptures": [
+          {
+            "ref": "2 Tim 3:16-17",
+            "reading": "Scripture makes the believer complete, thoroughly furnished for every good work. Nothing else is needed for godly living."
+          },
+          {
+            "ref": "Heb 1:1-2",
+            "reading": "God spoke in many ways in the past but has now spoken finally in his Son. The era of diverse revelation has reached its climax."
+          },
+          {
+            "ref": "Deut 29:29",
+            "reading": "Secret things belong to God and revealed things to us. Believers are responsible for what is revealed, not for uncovering what is hidden."
+          },
+          {
+            "ref": "2 Pet 1:19-21",
+            "reading": "We have a 'more sure word of prophecy' in Scripture, which surpasses even Peter's experience on the mount of transfiguration."
+          },
+          {
+            "ref": "Ps 119:105",
+            "reading": "God's word is a lamp to the feet and a light to the path. Guidance comes through the word."
+          },
+          {
+            "ref": "Rom 12:2",
+            "reading": "The renewed mind proves what is the good and acceptable will of God, through transformed thinking, not inner voices."
+          },
+          {
+            "ref": "Jude 1:3",
+            "reading": "The faith was once for all delivered. Nothing remains to be added."
+          },
+          {
+            "ref": "Isa 8:20",
+            "reading": "To the law and to the testimony: anything that does not speak according to this word has no light in it."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Paul says Scripture makes the man of God 'perfect' and 'thoroughly furnished unto all good works'. If Scripture equips for every good work, ongoing personal revelation is not needed for any of them.",
+            "refs": [
+              "2 Tim 3:16-17"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Peter calls Scripture a 'more sure word' than his own vision on the mount. If an apostle ranked Scripture above his own revelatory experience, believers today should not seek guidance through experiences.",
+            "refs": [
+              "2 Pet 1:16-21"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Luther (*Against the Heavenly Prophets*, 1525) and Calvin (*Institutes* 1.9) both opposed radicals who claimed direct revelation. The Peasants' War and Münster (1534-35) showed the Reformers how such claims could lead to violence and disorder."
+          },
+          {
+            "kind": "historical",
+            "text": "The Westminster Confession 1.1 and 1.6 codified the Reformed consensus that the former ways of revelation have ceased and that nothing is to be added to Scripture by new revelations of the Spirit."
+          },
+          {
+            "kind": "logical",
+            "text": "If God regularly speaks personally, those words carry divine authority and must be obeyed. Either they become a functional second canon, or they are admitted to be fallible, in which case it is unclear why they should be treated as God's voice at all."
+          },
+          {
+            "kind": "logical",
+            "text": "Believers who rely on impressions cannot distinguish the Spirit from their own desires, fears or digestion. Scripture, by contrast, is public, fixed and testable."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Jack Deere and continuationists",
+            "text": "No passage teaches that God's speaking would cease. 2 Timothy 3 concerns doctrine and godliness, not every personal decision, and the Reformers' own circles contained people credited with prophetic insight.",
+            "refs": [
+              "Acts 2:17-18",
+              "1 Cor 14:1"
+            ]
+          },
+          {
+            "from": "Dallas Willard",
+            "text": "Restricting God's speaking to the Bible risks a 'Bible deism', in which the living God has gone silent apart from a text. The Bible itself describes a relational, communicative God."
+          },
+          {
+            "from": "Wayne Grudem and Reformed charismatics",
+            "text": "Sufficiency means Scripture is sufficient as the standard of doctrine and ethics. It does not mean God cannot give fallible impressions that are tested by Scripture, any more than wise counsel from a friend violates sufficiency."
+          },
+          {
+            "from": "Historians of Puritan piety",
+            "text": "Many Puritans did speak of God 'setting home' particular texts to them in moments of decision and of providential 'impressions', so the Reformed tradition was more experiential than the strict sufficiency position suggests."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Sufficiency advocates reply that Hebrews 1 and Ephesians 2:20 imply the closure of foundational revelation. They see the reported prophetic insights of Knox's era as either providential foresight or wise inference, not new revelation, and say the Confession was written with full awareness of such claims.",
+            "refs": [
+              "Eph 2:20",
+              "Heb 1:1-2"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "They answer that Scripture is God's living voice, not a dead text. The Spirit speaks through it now, applying it personally, which is far from deism.",
+            "refs": [
+              "Heb 4:12",
+              "Heb 3:7"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "They argue that 'fallible revelation' is a contradiction. What is really described is impressions and intuitions, which may be useful but should not be called God speaking."
+          },
+          {
+            "toCritique": 3,
+            "text": "They accept that Puritans spoke of texts being 'set home' by the Spirit. They argue this was illumination of Scripture, exactly what the sufficiency view affirms, not extra-biblical revelation."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Reformed sufficiency means God is distant and does not guide.",
+            "correction": "The Reformed view affirms detailed, meticulous providence and the Spirit's personal application of Scripture. It denies new revelation, not God's personal involvement."
+          },
+          {
+            "strawMan": "Sufficiency advocates think the Bible tells you which job to take.",
+            "correction": "They hold that the Bible gives the principles and wisdom for such decisions, and that within its bounds believers choose freely and trust God's providence."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Protected churches from leaders claiming private revelations.",
+            "Freed many believers from anxious searching for signs.",
+            "Kept Scripture central in devotional and decision-making practice."
+          ],
+          "negative": [
+            "Can foster a merely intellectual faith, short on experiential communion with God.",
+            "Some believers in this tradition report a sense of God's silence and hunger for personal relationship."
+          ]
+        },
+        "adherents": [
+          "Confessional Presbyterian and Reformed churches",
+          "Many Reformed Baptists",
+          "Cessationist evangelicals",
+          "Some conservative Lutherans"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "John Calvin",
+              "title": "Institutes of the Christian Religion",
+              "year": 1559,
+              "locator": "1.9",
+              "publicDomain": true
+            },
+            {
+              "author": "Westminster Assembly",
+              "title": "Westminster Confession of Faith",
+              "year": 1646,
+              "locator": "1.1 and 1.6",
+              "publicDomain": true
+            },
+            {
+              "author": "Kevin DeYoung",
+              "title": "Just Do Something",
+              "year": 2009
+            },
+            {
+              "author": "Sinclair B. Ferguson",
+              "title": "Discovering God's Will",
+              "year": 1982
+            }
+          ],
+          "critic": [
+            {
+              "author": "Jack Deere",
+              "title": "Surprised by the Power of the Spirit",
+              "year": 1993
+            },
+            {
+              "author": "Dallas Willard",
+              "title": "Hearing God",
+              "year": 1999
+            },
+            {
+              "author": "Wayne Grudem",
+              "title": "The Gift of Prophecy in the New Testament and Today",
+              "year": 1988
+            }
+          ]
+        },
+        "originYear": 1525
+      },
+      {
+        "id": "wisdom-model",
+        "name": "The wisdom model: no hidden 'individual will' to discover",
+        "color": "#7f7a52",
+        "summary": "Garry Friesen's *Decision Making and the Will of God* (1980) challenged what he called the 'traditional view'. That view holds that God has an ideal, detailed plan for each believer, an 'individual will' or 'dot', which must be found through inner impressions, open doors and signs. Friesen argued that Scripture speaks of God's sovereign will, his hidden plan that always comes to pass, and his moral will, his revealed commands. It does not speak of a third, individual will to be discovered.\n\nWithin God's moral will, believers have freedom and responsibility to choose. Where there is no command, they should choose what is wise, seeking counsel, using spiritual judgement and trusting God's sovereignty over the outcome. Bruce Waltke went further and argued that the anxious search for God's will can resemble pagan divination. The wisdom model is not tied to cessationism; Friesen allows that God can intervene specially, as in Acts. But it holds that such guidance is exceptional, not something to be sought as the normal way of deciding.",
+        "figures": [
+          {
+            "name": "Garry Friesen",
+            "lived": "living",
+            "profession": "Professor at Multnomah University",
+            "bio": "Friesen developed his view in a doctoral dissertation at Dallas Theological Seminary. Written with J. Robin Maxson, his book became a standard alternative to traditional guidance teaching and was substantially revised in 2004. He argues his case through a close survey of every biblical text on God's will.",
+            "works": [
+              {
+                "author": "Garry Friesen with J. Robin Maxson",
+                "title": "Decision Making and the Will of God",
+                "year": 1980
+              },
+              {
+                "author": "Garry Friesen with J. Robin Maxson",
+                "title": "Decision Making and the Will of God (revised edition)",
+                "year": 2004
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Bruce K. Waltke",
+            "lived": "living",
+            "profession": "Old Testament scholar (Dallas, Westminster, Regent, Reformed Theological Seminary)",
+            "bio": "Waltke is an eminent Hebrew scholar and commentator on Proverbs. In his book on guidance he argued that the quest to 'find God's will', in the sense of seeking hidden information about the future, has more in common with ancient divination than with biblical faith. He proposed instead a program of Scripture, a heart for God, wise counsel, attention to providence and sanctified judgement.",
+            "works": [
+              {
+                "author": "Bruce K. Waltke",
+                "title": "Finding the Will of God: A Pagan Notion?",
+                "year": 2002,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Phillip D. Jensen",
+            "lived": "living",
+            "profession": "Anglican minister, former Dean of Sydney",
+            "bio": "With Tony Payne, Jensen wrote a popular Australian evangelical treatment that urged believers to find guidance in Scripture and godly wisdom rather than in inner voices. It became influential in Sydney Anglicanism and beyond.",
+            "works": [
+              {
+                "author": "Phillip D. Jensen and Tony Payne",
+                "title": "Guidance and the Voice of God",
+                "year": 1997
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Haddon W. Robinson",
+            "lived": "1931-2017",
+            "profession": "Homiletics professor, Gordon-Conwell Theological Seminary",
+            "bio": "Robinson was best known as a teacher of preaching. His short book on decision-making presented a wisdom approach accessible to ordinary churchgoers, warning against treating feelings and circumstances as divine signals.",
+            "works": [
+              {
+                "author": "Haddon W. Robinson",
+                "title": "Decision Making by the Book",
+                "year": 1991
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "J. I. Packer",
+            "lived": "1926-2020",
+            "profession": "Anglican theologian, Regent College",
+            "bio": "Packer's chapter on guidance in *Knowing God* stressed that God guides chiefly by the wisdom of Scripture applied with prayer and counsel. It warned against treating inward feelings as infallible, while allowing that God's Spirit does give inward peace and conviction. His position sits between the wisdom model and traditional providential guidance.",
+            "works": [
+              {
+                "author": "J. I. Packer",
+                "title": "Knowing God",
+                "year": 1973,
+                "locator": "ch. 20, 'Thou Our Guide'",
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "Friesen wrote in reaction to mid-twentieth-century evangelical teaching on guidance, popular in youth and missions movements. That teaching urged young people to find 'God's perfect will' for career and marriage through impressions, 'fleeces' and 'open doors', and to fear missing it. Friesen found that this produced anxiety, indecision and spiritual elitism.\n\nThe wisdom model spread across denominational lines, among dispensationalists, Reformed Christians and Anglicans, because it rested on exegesis rather than on a view of the cessation of gifts. Kevin DeYoung's *Just Do Something* (2009) brought its practical conclusions to a new generation. It has become one of the main evangelical alternatives to both the conversational and the traditional views.",
+        "claims": [
+          "Scripture speaks of God's sovereign will (his hidden plan) and his moral will (his revealed commands), not of a detailed 'individual will' that believers must discover.",
+          "In decisions not addressed by God's moral will, believers are free and responsible to choose.",
+          "Believers should choose what is wise, using Scripture, counsel, reason and spiritual judgement.",
+          "God sovereignly superintends all outcomes, so believers need not fear 'missing God's will'.",
+          "Special supernatural guidance in Scripture was exceptional and usually unsought. It is not the normal method for decisions.",
+          "The anxious search for hidden information about the future can resemble divination more than faith."
+        ],
+        "scriptures": [
+          {
+            "ref": "1 Cor 7:39",
+            "reading": "A widow is free to marry whom she wishes, 'only in the Lord'. There is freedom within the moral will, not a predetermined 'right person' to find."
+          },
+          {
+            "ref": "Prov 3:5-6",
+            "reading": "Trust the Lord and he will direct (or 'make straight') your paths. This is a promise of God's providential care for the faithful, not a method of receiving signals."
+          },
+          {
+            "ref": "Prov 15:22",
+            "reading": "Plans succeed with many counsellors. Wisdom and counsel are God's normal means."
+          },
+          {
+            "ref": "Jas 1:5",
+            "reading": "If anyone lacks wisdom, let him ask God. Believers are told to pray for wisdom, not for specific information."
+          },
+          {
+            "ref": "Acts 15:28",
+            "reading": "'It seemed good to the Holy Ghost, and to us.' The Jerusalem council reached its decision through deliberation and Scripture."
+          },
+          {
+            "ref": "Phil 2:25",
+            "reading": "Paul 'supposed it necessary' to send Epaphroditus. He made an apostolic decision by judgement."
+          },
+          {
+            "ref": "1 Thess 3:1-2",
+            "reading": "Paul 'thought it good' to be left at Athens and sent Timothy. This is ordinary reasoned decision-making."
+          },
+          {
+            "ref": "Deut 29:29",
+            "reading": "Secret things belong to God. Revealed things belong to us, and we are to obey them."
+          },
+          {
+            "ref": "Jas 4:13-15",
+            "reading": "Believers plan while saying 'if the Lord will'. They plan freely and submit humbly to providence."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "When the New Testament speaks of 'the will of God' for believers, it almost always means moral commands, such as sanctification or giving thanks, or God's sovereign plan. It never means a hidden individual blueprint to be discovered.",
+            "refs": [
+              "1 Thess 4:3",
+              "1 Thess 5:18"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Paul regularly made decisions by reasoning and consultation ('I supposed it necessary', 'we thought it good'). Supernatural guidance in Acts typically came unsought, at key points in the mission.",
+            "refs": [
+              "Phil 2:25",
+              "1 Thess 3:1-2",
+              "Acts 16:6-10"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "If there is a single right choice in every matter, discovered through subjective signs, then believers can never be sure they have found it. Missing one 'dot' would derail the rest of life. The model is unworkable and contrary to the freedom of the gospel."
+          },
+          {
+            "kind": "historical",
+            "text": "Waltke argues that seeking to know the future by signs was characteristic of ancient Near Eastern divination, which Israel was forbidden. Israel's normal guidance was the law, wise counsel and, in special cases, prophetic intervention.",
+            "refs": [
+              "Deut 18:10-15"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "Wisdom literature, a whole section of the canon, trains people to make good decisions through observation, counsel and fear of the Lord. Its existence shows that God expects his people to decide wisely, not to wait for oracles.",
+            "refs": [
+              "Prov 1:1-7"
+            ]
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Dallas Willard and conversational proponents",
+            "text": "The wisdom model risks reducing the Christian life to autonomous choice within rules, effectively a practical deism. It ignores the many biblical examples of God giving specific direction.",
+            "refs": [
+              "Acts 8:29",
+              "Acts 13:2"
+            ]
+          },
+          {
+            "from": "Advocates of the traditional view of guidance",
+            "text": "God's sovereign plan does include specific callings, such as Jeremiah's or Paul's. Believers are told the Spirit 'leads' them, which presupposes a particular path.",
+            "refs": [
+              "Jer 1:5",
+              "Rom 8:14",
+              "Eph 2:10"
+            ]
+          },
+          {
+            "from": "Charismatic critics",
+            "text": "Friesen treats special guidance as exceptional, but in Acts it is woven through ordinary church life. Exceptional in the apostles' experience does not mean absent today."
+          },
+          {
+            "from": "Reformed sufficiency advocates (partial agreement)",
+            "text": "The wisdom model is right on decision-making, but Friesen's openness to special guidance concedes too much. Any such guidance would be revelation, which has ceased."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Wisdom advocates reply that God is intimately involved: he gives wisdom when asked, shapes desires, orders providence and is present in prayer. Making decisions responsibly is itself a form of fellowship with God.",
+            "refs": [
+              "Jas 1:5",
+              "Phil 2:13"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Friesen answers that 'Spirit-leading' in Romans 8:14 is about moral leading (putting sin to death, v. 13), not direction for decisions. Specific callings like Jeremiah's were revealed directly, not discovered by believers decoding impressions.",
+            "refs": [
+              "Rom 8:13-14"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Friesen notes that in Acts special guidance was given at God's initiative, usually unsought, and was clear and unmistakable, unlike vague impressions. It provides no warrant for a method of seeking signs."
+          },
+          {
+            "toCritique": 3,
+            "text": "Friesen grants the possibility of special intervention without making it normative. He leaves it to God's freedom, which he considers more faithful to Scripture than a theological rule that God cannot do so."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "The wisdom model says God does not care what we choose.",
+            "correction": "It holds that God cares deeply about moral choices and wise decisions, and is sovereign over outcomes. It denies only that he has a hidden ideal option we must find."
+          },
+          {
+            "strawMan": "Wisdom advocates never pray about decisions.",
+            "correction": "They pray constantly for wisdom, right desires and God's blessing on their plans. They do not treat prayer as a method for receiving coded instructions."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Relieved many believers of anxiety about 'missing God's will'.",
+            "Recovered the importance of wisdom literature and counsel for Christian decision-making.",
+            "Bridged charismatic and cessationist camps on practical guidance."
+          ],
+          "negative": [
+            "Can be heard as permission for spiritually careless decision-making.",
+            "Critics say it leaves too little room for God's specific calling and the Spirit's personal work."
+          ]
+        },
+        "adherents": [
+          "Many dispensational and Reformed evangelicals",
+          "Sydney Anglican and other conservative Anglican circles",
+          "Campus and youth ministries teaching decision-making",
+          "Readers of DeYoung and Friesen across traditions"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Garry Friesen with J. Robin Maxson",
+              "title": "Decision Making and the Will of God",
+              "year": 2004
+            },
+            {
+              "author": "Bruce K. Waltke",
+              "title": "Finding the Will of God: A Pagan Notion?",
+              "year": 2002,
+              "confidence": "needs-verification"
+            },
+            {
+              "author": "Phillip D. Jensen and Tony Payne",
+              "title": "Guidance and the Voice of God",
+              "year": 1997
+            },
+            {
+              "author": "Kevin DeYoung",
+              "title": "Just Do Something",
+              "year": 2009
+            }
+          ],
+          "critic": [
+            {
+              "author": "Dallas Willard",
+              "title": "Hearing God",
+              "year": 1999
+            },
+            {
+              "author": "Henry Blackaby and Claude King",
+              "title": "Experiencing God",
+              "year": 1990
+            },
+            {
+              "author": "Jack Deere",
+              "title": "Surprised by the Voice of God",
+              "year": 1996
+            }
+          ]
+        },
+        "originYear": 1980
+      }
+    ],
+    "battleground": [
+      {
+        "ref": "2 Tim 3:16-17",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "Scripture is sufficient as the standard for doctrine and godliness. It does not say God never speaks personally to apply it."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "Scripture fully equips for every good work, so personal revelations are neither needed nor promised."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "Scripture supplies the moral will and the wisdom for decisions. Believers need not seek hidden information."
+          }
+        ]
+      },
+      {
+        "ref": "John 10:27",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "Hearing Christ's voice personally is the normal experience of his followers."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "Christ's sheep hear his voice in the gospel and the Word, which is how he speaks to them savingly."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "Speaks of recognising and following Christ in salvation (v. 28), not of receiving guidance on decisions."
+          }
+        ]
+      },
+      {
+        "ref": "Acts 16:6-10",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "A model of normal Spirit-guidance through impressions and dreams."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "Apostolic-era revelation for the foundational mission. It is not a pattern for today."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "Exceptional, unsought guidance at a key moment. Notably, Paul was otherwise making his own plans."
+          }
+        ]
+      },
+      {
+        "ref": "Rom 12:2",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "A renewed mind becomes sensitive to God's leading, including his personal promptings."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "God's will is discerned by a mind transformed by Scripture, not by inner voices."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "God's will is 'proved' through renewed moral judgement, which is the heart of wisdom-based decision-making."
+          }
+        ]
+      },
+      {
+        "ref": "Prov 3:5-6",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "God directs the paths of those who trust him, often through inner guidance."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "God providentially makes the path straight for those who trust and obey his word."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "A promise of providential blessing on the faithful, not a method for decoding God's preference."
+          }
+        ]
+      },
+      {
+        "ref": "1 Kgs 19:11-12",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "God often speaks in the quiet inner voice, and believers must learn to listen for it."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "A unique revelation to a canonical prophet, not a promise of inner voices to all believers."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "A narrative of God's special dealing with Elijah. It does not set up a method for everyone."
+          }
+        ]
+      },
+      {
+        "ref": "Acts 15:28",
+        "readings": [
+          {
+            "positionId": "conversational-guidance",
+            "reading": "The council sensed the Spirit's leading together with their reasoning, so Spirit-sense and deliberation go hand in hand."
+          },
+          {
+            "positionId": "sufficiency-scripture",
+            "reading": "The decision came from Scripture (Amos 9 cited by James) and apostolic judgement."
+          },
+          {
+            "positionId": "wisdom-model",
+            "reading": "'It seemed good' is the language of reasoned judgement, the model for church decisions."
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "year": 1525,
+        "title": "Luther, Against the Heavenly Prophets",
+        "note": "Luther attacks radicals who claim direct revelation apart from the Word.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1548,
+        "title": "Ignatius's Spiritual Exercises approved",
+        "note": "Ignatian rules for discerning spirits become a lasting Catholic framework for personal discernment.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1559,
+        "title": "Calvin's Institutes 1.9",
+        "note": "Calvin's final edition condemns 'fanatics' who forsake Scripture for supposed revelations of the Spirit.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1646,
+        "title": "Westminster Confession",
+        "note": "Chapter 1 states that former modes of revelation have ceased and nothing is to be added to Scripture.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1948,
+        "title": "The Pursuit of God",
+        "note": "A. W. Tozer writes of God as continually speaking.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1980,
+        "title": "Decision Making and the Will of God",
+        "note": "Garry Friesen challenges the 'individual will' view of guidance.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1984,
+        "title": "In Search of Guidance",
+        "note": "Dallas Willard's first version of his book on hearing God.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1986,
+        "title": "Dialogue with God",
+        "note": "Mark Virkler publishes his journaling method.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1990,
+        "title": "Experiencing God",
+        "note": "Henry Blackaby and Claude King's study popularises the expectation of God speaking among Southern Baptists and other evangelicals.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1993,
+        "title": "Surprised by the Power of the Spirit",
+        "note": "Jack Deere argues against cessationism, including from Reformation-era history.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1996,
+        "title": "Surprised by the Voice of God",
+        "note": "Deere's sequel focuses on how God speaks today.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1999,
+        "title": "Hearing God",
+        "note": "Willard's revised and retitled book becomes the standard evangelical account of a 'conversational relationship'.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2002,
+        "title": "Finding the Will of God: A Pagan Notion?",
+        "note": "Bruce Waltke likens anxious will-seeking to divination. An earlier edition appeared in the 1990s.",
+        "confidence": "needs-verification"
+      },
+      {
+        "year": 2004,
+        "title": "Friesen revised edition",
+        "note": "A substantially revised edition extends the wisdom model and answers critics.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2009,
+        "title": "Just Do Something",
+        "note": "Kevin DeYoung popularises the wisdom approach for a new generation.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "influence": [
+      {
+        "from": "Ignatian discernment and Quaker piety",
+        "to": "conversational-guidance",
+        "note": "Traditions of attending to God's inner leading."
+      },
+      {
+        "from": "John Wimber",
+        "to": "conversational-guidance",
+        "note": "Through Jack Deere and the Vineyard."
+      },
+      {
+        "from": "Luther and Calvin",
+        "to": "sufficiency-scripture",
+        "note": "Polemic against enthusiasts and the joining of Word and Spirit."
+      },
+      {
+        "from": "Wisdom literature scholarship",
+        "to": "wisdom-model",
+        "note": "Waltke's work on Proverbs."
+      },
+      {
+        "from": "wisdom-model",
+        "to": "sufficiency-scripture",
+        "note": "DeYoung combines Reformed sufficiency with Friesen's practical approach."
+      },
+      {
+        "from": "conversational-guidance",
+        "to": "wisdom-model",
+        "note": "Friesen's critique targets the 'traditional view', which conversational teaching partly continues."
+      }
+    ],
+    "argumentMap": [
+      {
+        "id": "hg1",
+        "kind": "claim",
+        "text": "God speaks personally to believers today, beyond but never contrary to Scripture.",
+        "positionId": "conversational-guidance"
+      },
+      {
+        "id": "hg2",
+        "kind": "support",
+        "text": "Christ's sheep hear his voice.",
+        "parent": "hg1",
+        "positionId": "conversational-guidance",
+        "refs": [
+          "John 10:27"
+        ]
+      },
+      {
+        "id": "hg3",
+        "kind": "support",
+        "text": "Ordinary believers in Acts received specific guidance.",
+        "parent": "hg1",
+        "positionId": "conversational-guidance",
+        "refs": [
+          "Acts 9:10-12",
+          "Acts 8:29"
+        ]
+      },
+      {
+        "id": "hg4",
+        "kind": "objection",
+        "text": "Scripture is sufficient, and nothing is to be added by new revelations.",
+        "parent": "hg1",
+        "positionId": "sufficiency-scripture",
+        "refs": [
+          "2 Tim 3:16-17"
+        ]
+      },
+      {
+        "id": "hg5",
+        "kind": "reply",
+        "text": "Personal guidance applies Scripture. It does not add doctrine.",
+        "parent": "hg4",
+        "positionId": "conversational-guidance"
+      },
+      {
+        "id": "hg6",
+        "kind": "objection",
+        "text": "If personal words are fallible, it is unclear why they should be called God's voice.",
+        "parent": "hg5",
+        "positionId": "sufficiency-scripture"
+      },
+      {
+        "id": "hg7",
+        "kind": "objection",
+        "text": "Acts' special guidance was unsought and exceptional, not a method.",
+        "parent": "hg3",
+        "positionId": "wisdom-model",
+        "refs": [
+          "Acts 16:6-10"
+        ]
+      },
+      {
+        "id": "hg8",
+        "kind": "claim",
+        "text": "God has no hidden 'individual will' to discover. Believers choose wisely within his moral will.",
+        "positionId": "wisdom-model"
+      },
+      {
+        "id": "hg9",
+        "kind": "support",
+        "text": "Paul decided by judgement: 'I supposed it necessary'.",
+        "parent": "hg8",
+        "positionId": "wisdom-model",
+        "refs": [
+          "Phil 2:25"
+        ]
+      },
+      {
+        "id": "hg10",
+        "kind": "objection",
+        "text": "This reduces faith to autonomous choice within rules.",
+        "parent": "hg8",
+        "positionId": "conversational-guidance"
+      },
+      {
+        "id": "hg11",
+        "kind": "reply",
+        "text": "God gives wisdom when asked and works in desires. Wise choosing is fellowship with him.",
+        "parent": "hg10",
+        "positionId": "wisdom-model",
+        "refs": [
+          "Jas 1:5",
+          "Phil 2:13"
+        ]
+      },
+      {
+        "id": "hg12",
+        "kind": "claim",
+        "text": "God guides through his Word, illumined by the Spirit, and through providence.",
+        "positionId": "sufficiency-scripture",
+        "refs": [
+          "Ps 119:105"
+        ]
+      },
+      {
+        "id": "hg13",
+        "kind": "support",
+        "text": "The Reformers saw how claims to private revelation led to disorder.",
+        "parent": "hg12",
+        "positionId": "sufficiency-scripture"
+      },
+      {
+        "id": "hg14",
+        "kind": "objection",
+        "text": "Reformation-era figures such as Knox and Rutherford were credited with prophetic insight.",
+        "parent": "hg12",
+        "positionId": "conversational-guidance"
+      },
+      {
+        "id": "hg15",
+        "kind": "reply",
+        "text": "Such insights were providential foresight or illumination, not new revelation.",
+        "parent": "hg14",
+        "positionId": "sufficiency-scripture"
+      },
+      {
+        "id": "hg16",
+        "kind": "support",
+        "text": "Wisdom literature trains God's people to decide well without oracles.",
+        "parent": "hg8",
+        "positionId": "wisdom-model",
+        "refs": [
+          "Prov 1:1-7"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "tongues",
+    "title": "Speaking in tongues: xenolalia, glossolalia and initial evidence",
+    "category": "movement",
+    "question": "What was the New Testament gift of tongues: known human languages, inspired speech in unknown languages, or both? Is it the necessary sign of Spirit baptism, one gift among many, or a gift that has ceased?",
+    "intro": "Speaking in tongues is the most visible marker of Pentecostal and charismatic Christianity. The New Testament describes it in two main settings. In Acts 2 the disciples spoke so that pilgrims heard them in their own languages, which scholars call xenolalia, speech in real human languages. In 1 Corinthians 12-14 Paul regulates a gift of speaking 'mysteries' to God that no one understands without interpretation. Most modern tongues-speaking is glossolalia, fluent, language-like speech that does not correspond to any known language.\n\nThe modern movement began with Charles Parham's Topeka Bible school in 1901. Parham expected tongues to be xenolalia given for missionary preaching. When missionaries discovered they could not preach in the languages of the countries they went to, Pentecostals largely reinterpreted tongues as prayer and praise in the Spirit. In 1916 the Assemblies of God made tongues the 'initial physical evidence' of Spirit baptism. Charismatics and many Pentecostal scholars, notably Gordon Fee, later came to value tongues as a gift without making it the required evidence. Cessationists argue that the biblical gift, real languages serving as a sign, has ceased, and that modern glossolalia is something else. Linguists such as William Samarin (1972) studied glossolalia empirically, and their findings have been read in both directions.\n\nThis entry sets out three positions: classical Pentecostal initial evidence, charismatic 'gift but not requirement', and the cessationist and sceptical critique.",
+    "keyRefs": [
+      "Acts 2:1-13",
+      "Acts 10:44-46",
+      "Acts 19:6",
+      "1 Cor 12:10",
+      "1 Cor 12:30",
+      "1 Cor 13:1",
+      "1 Cor 14:2",
+      "1 Cor 14:22"
+    ],
+    "positions": [
+      {
+        "id": "initial-evidence",
+        "name": "Classical Pentecostal: tongues as initial evidence",
+        "color": "#a07052",
+        "summary": "Classical Pentecostals teach that baptism in the Holy Spirit is an empowerment for witness that is distinct from, and normally subsequent to, conversion. Its 'initial physical evidence' is speaking in other tongues as the Spirit gives utterance.\n\nThe doctrine rests on the pattern in Acts. At Pentecost (Acts 2), at Cornelius's house (Acts 10) and at Ephesus (Acts 19), tongues accompanied the Spirit's coming, and at Samaria (Acts 8) something visible evidently happened. Pentecostals distinguish the evidential tongues that accompany Spirit baptism, available to all, from the gift of tongues for public use with interpretation (1 Corinthians 12), which not all exercise. That distinction lets them answer Paul's question 'do all speak with tongues?'. Early Pentecostals, following Parham, expected tongues to be real foreign languages for missions. Most later Pentecostals understand them mainly as Spirit-inspired prayer and praise that may occasionally be a known human language.",
+        "figures": [
+          {
+            "name": "Charles Fox Parham",
+            "lived": "1873-1929",
+            "profession": "Holiness preacher, founder of Bethel Bible College in Topeka, Kansas",
+            "bio": "Parham taught his students that tongues were the biblical evidence of Spirit baptism. On 1 January 1901 student Agnes Ozman spoke in tongues, the event usually counted as the start of modern Pentecostalism. Parham believed such tongues were real languages that would let missionaries preach without study. His later influence was limited by personal scandal and by his racial views, including support for segregated meetings and his criticism of the interracial Azusa Street revival.",
+            "works": [
+              {
+                "author": "Charles F. Parham",
+                "title": "A Voice Crying in the Wilderness",
+                "year": 1902
+              },
+              {
+                "author": "Charles F. Parham",
+                "title": "The Everlasting Gospel",
+                "year": 1911,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "William J. Seymour",
+            "lived": "1870-1922",
+            "profession": "African American Holiness preacher, leader of the Azusa Street Mission, Los Angeles",
+            "bio": "Seymour, the son of formerly enslaved parents, heard Parham's teaching in Houston while forced by segregation to listen from outside the classroom. From 1906 he led the Azusa Street revival, whose multiracial worship and worldwide reach made it the movement's symbolic centre. He initially taught tongues as evidence. Later, troubled by divisiveness, he stressed that divine love, not tongues alone, was the true sign of the Spirit.",
+            "works": [
+              {
+                "author": "William J. Seymour (ed.)",
+                "title": "The Apostolic Faith (newspaper)",
+                "year": 1906
+              },
+              {
+                "author": "William J. Seymour",
+                "title": "The Doctrines and Discipline of the Azusa Street Apostolic Faith Mission",
+                "year": 1915
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Stanley M. Horton",
+            "lived": "1916-2014",
+            "profession": "Assemblies of God theologian, Assemblies of God Theological Seminary",
+            "bio": "Horton was the leading classical Pentecostal theologian of his generation. He defended subsequence and initial evidence from Acts and edited the denomination's systematic theology.",
+            "works": [
+              {
+                "author": "Stanley M. Horton",
+                "title": "What the Bible Says About the Holy Spirit",
+                "year": 1976
+              },
+              {
+                "author": "Stanley M. Horton (ed.)",
+                "title": "Systematic Theology: A Pentecostal Perspective",
+                "year": 1994
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Robert P. Menzies",
+            "lived": "living",
+            "profession": "Pentecostal New Testament scholar and missionary in China",
+            "bio": "Menzies argued that Luke has a distinctive pneumatology. In Luke-Acts the Spirit is primarily the 'Spirit of prophecy' empowering witness, not the source of salvation. This supports a Spirit baptism distinct from conversion, with tongues as its fitting sign. He wrote partly in response to James Dunn and Gordon Fee.",
+            "works": [
+              {
+                "author": "Robert P. Menzies",
+                "title": "Empowered for Witness: The Spirit in Luke-Acts",
+                "year": 1994
+              },
+              {
+                "author": "William W. Menzies and Robert P. Menzies",
+                "title": "Spirit and Power: Foundations of Pentecostal Experience",
+                "year": 2000
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "Frank D. Macchia",
+            "lived": "living",
+            "profession": "Pentecostal systematic theologian, Vanguard University",
+            "bio": "Macchia reframed Spirit baptism within a broad kingdom theology. He treats tongues as a sacramental sign of the Spirit's presence that breaks through human limits, not merely a proof. In this way he preserves the Pentecostal link between Spirit baptism and tongues with fresh theological depth.",
+            "works": [
+              {
+                "author": "Frank D. Macchia",
+                "title": "Baptized in the Spirit: A Global Pentecostal Theology",
+                "year": 2006
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "Pentecostalism grew out of the Wesleyan-Holiness and Keswick movements, which expected a 'second blessing' or 'enduement of power' after conversion. Parham's innovation in 1901 was to name tongues as the evidence. Azusa Street (1906-1909) spread the experience worldwide within a few years. Missionaries who went abroad expecting to preach in tongues mostly found they could not. The Garrs in India in 1907 are a well-documented case. Pentecostals then shifted toward understanding tongues as prayer languages.\n\nThe Assemblies of God, formed in 1914, wrote initial evidence into its 1916 Statement of Fundamental Truths. When F. F. Bosworth challenged the doctrine, the 1918 General Council reaffirmed it as the denomination's 'distinctive testimony'. Initial evidence remains official in the Assemblies of God and many other classical Pentecostal bodies, though surveys suggest that many members of Pentecostal churches have never spoken in tongues.",
+        "claims": [
+          "Baptism in the Holy Spirit is an empowerment for witness, distinct from and normally subsequent to conversion.",
+          "The initial physical evidence of Spirit baptism is speaking in other tongues as the Spirit gives utterance.",
+          "The pattern in Acts (chapters 2, 10 and 19, and implicitly 8) is normative for the church.",
+          "Evidential tongues, available to every Spirit-baptised believer, differ from the gift of tongues for public use, which not all exercise.",
+          "Tongues may be known human languages or unknown languages of prayer and praise.",
+          "Spirit baptism with tongues is available to every believer today and should be sought."
+        ],
+        "scriptures": [
+          {
+            "ref": "Acts 2:4",
+            "reading": "All were filled with the Holy Spirit and began to speak with other tongues as the Spirit gave utterance. This is the paradigm of Spirit baptism."
+          },
+          {
+            "ref": "Acts 10:44-46",
+            "reading": "Peter's companions knew the Gentiles had received the Spirit because they heard them speak with tongues. Tongues serve as the recognisable evidence."
+          },
+          {
+            "ref": "Acts 19:6",
+            "reading": "When Paul laid hands on the Ephesian disciples, the Spirit came on them and they spoke with tongues and prophesied."
+          },
+          {
+            "ref": "Acts 8:17-19",
+            "reading": "Simon saw that the Spirit was given through the laying on of hands. Something visible and audible occurred, most naturally tongues."
+          },
+          {
+            "ref": "Acts 1:8",
+            "reading": "The Spirit's coming brings power to witness. Spirit baptism is empowerment, not conversion."
+          },
+          {
+            "ref": "Acts 2:38-39",
+            "reading": "The promise of the Spirit is 'to you, and to your children, and to all that are afar off', so it is available in every generation."
+          },
+          {
+            "ref": "Mark 16:17",
+            "reading": "Believers 'shall speak with new tongues'. Tongues are a sign accompanying those who believe."
+          },
+          {
+            "ref": "1 Cor 14:5",
+            "reading": "Paul wishes that all spoke in tongues. The private use of tongues is open to all believers."
+          },
+          {
+            "ref": "1 Cor 14:18",
+            "reading": "Paul spoke in tongues more than all the Corinthians, which shows that the practice is apostolic and valuable."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "In every Acts narrative that describes what happened when people first received the Spirit (chapters 2, 10 and 19), tongues are mentioned. In chapter 10 tongues are the very means by which Peter's companions recognised that the Gentiles had received the Spirit.",
+            "refs": [
+              "Acts 2:4",
+              "Acts 10:45-46",
+              "Acts 19:6"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Luke's theology of the Spirit is prophetic empowerment for witness, as Menzies argues. Luke wrote narrative with theological intent, so his repeated pattern is meant to teach, not merely record.",
+            "refs": [
+              "Luke 24:49",
+              "Acts 1:8"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Paul's 'do all speak with tongues?' (1 Cor 12:30) refers to the public ministry gift exercised in the assembly. Paul's wish 'that ye all spake with tongues' (1 Cor 14:5) refers to the devotional use available to all.",
+            "refs": [
+              "1 Cor 12:30",
+              "1 Cor 14:5"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Irenaeus (*Against Heresies* 5.6.1) speaks of believers in his day who spoke in all kinds of languages through the Spirit. Tongues-like phenomena recur in church history, among Montanists, early Quakers, Camisards and the 1830 Irvingite revival in Scotland."
+          },
+          {
+            "kind": "historical",
+            "text": "Pentecostal publishers have collected accounts of tongues recognised by hearers as real languages, such as Ralph Harris's *Spoken by the Spirit* (1973). Defenders cite these as evidence of genuine xenolalia."
+          },
+          {
+            "kind": "logical",
+            "text": "An objective, recognisable sign protects Spirit baptism from being reduced to vague feelings and gives the believer assurance, as it did for Peter at Caesarea."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Gordon Fee and other Pentecostal scholars",
+            "text": "Historical narrative should not be made normative doctrine unless the author clearly intends it. Luke does not say tongues must always accompany the Spirit, and in Acts 8 tongues are not mentioned.",
+            "refs": [
+              "Acts 8:14-17",
+              "Acts 4:31"
+            ]
+          },
+          {
+            "from": "Reformed and evangelical theologians (e.g. James D. G. Dunn, Anthony Hoekema)",
+            "text": "In the New Testament, receiving the Spirit is part of conversion-initiation, not a second experience. Paul says all believers were baptised in one Spirit.",
+            "refs": [
+              "1 Cor 12:13",
+              "Rom 8:9"
+            ]
+          },
+          {
+            "from": "Cessationists and linguists",
+            "text": "Parham's expectation of missionary xenolalia failed: missionaries could not preach in foreign languages. Linguistic studies have not verified modern tongues as real languages, which undermines the claim that Pentecostal tongues are the Acts 2 phenomenon."
+          },
+          {
+            "from": "F. F. Bosworth (1918) and later charismatics",
+            "text": "Making tongues the required evidence creates two classes of Christians and pressures seekers to produce tongues. Many deeply Spirit-filled believers have never spoken in tongues.",
+            "refs": [
+              "1 Cor 12:29-31"
+            ]
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Menzies and Pentecostal scholars reply that Luke is a theologian as well as a historian. They argue that repeated patterns in his narrative convey teaching, and that Simon's reaction in Acts 8 implies an audible phenomenon.",
+            "refs": [
+              "Luke 1:1-4",
+              "Acts 8:18"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Pentecostals answer that Paul's 'baptised by one Spirit into one body' concerns incorporation into Christ, while Luke's 'baptised with the Holy Spirit' concerns empowerment. The two authors use similar language for different functions.",
+            "refs": [
+              "Acts 1:5",
+              "Acts 1:8"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Most Pentecostals today accept that tongues are usually not known languages, and they cite 1 Corinthians 14:2. They regard occasional reported xenolalia as genuine but not the norm, and note that Parham's missionary theory was never the denomination's official doctrine."
+          },
+          {
+            "toCritique": 3,
+            "text": "Classical Pentecostals affirm that believers who have not spoken in tongues are fully Christian and Spirit-indwelt. They hold that the fuller empowerment remains available and should be sought without pressure."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Pentecostals teach that you are not saved unless you speak in tongues.",
+            "correction": "Classical Pentecostals such as the Assemblies of God teach that every believer has the Spirit at conversion and is fully saved. Tongues are the evidence of a subsequent empowerment. (Some Oneness Pentecostal groups do link tongues to salvation, but that is a minority view.)"
+          },
+          {
+            "strawMan": "Pentecostals think tongues are always real foreign languages.",
+            "correction": "That was Parham's early view. Most Pentecostals today understand tongues primarily as prayer in unknown languages, with occasional known-language cases."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Gave millions of believers, many of them poor and marginalised, a deeply felt experience of God's presence and a sense of empowerment.",
+            "Fuelled the extraordinary missionary expansion of Pentecostalism in the twentieth century.",
+            "Created a shared, recognisable spiritual practice across races and cultures, as at Azusa Street."
+          ],
+          "negative": [
+            "Created a perceived two-tier Christianity and pressure on seekers to produce tongues.",
+            "The early missionary-xenolalia expectation led to disillusionment for some missionaries.",
+            "Divided churches and denominations over the evidence doctrine."
+          ]
+        },
+        "adherents": [
+          "Assemblies of God (worldwide)",
+          "Church of God (Cleveland, Tennessee)",
+          "International Pentecostal Holiness Church",
+          "Foursquare Church (with its own nuances)",
+          "Many independent Pentecostal churches in the Global South"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Stanley M. Horton",
+              "title": "What the Bible Says About the Holy Spirit",
+              "year": 1976
+            },
+            {
+              "author": "Robert P. Menzies",
+              "title": "Empowered for Witness",
+              "year": 1994
+            },
+            {
+              "author": "Frank D. Macchia",
+              "title": "Baptized in the Spirit",
+              "year": 2006
+            },
+            {
+              "author": "Gary B. McGee (ed.)",
+              "title": "Initial Evidence: Historical and Biblical Perspectives on the Pentecostal Doctrine of Spirit Baptism",
+              "year": 1991
+            }
+          ],
+          "critic": [
+            {
+              "author": "Gordon D. Fee",
+              "title": "Gospel and Spirit: Issues in New Testament Hermeneutics",
+              "year": 1991
+            },
+            {
+              "author": "James D. G. Dunn",
+              "title": "Baptism in the Holy Spirit",
+              "year": 1970
+            },
+            {
+              "author": "Anthony A. Hoekema",
+              "title": "What About Tongue-Speaking?",
+              "year": 1966
+            }
+          ]
+        },
+        "originYear": 1901
+      },
+      {
+        "id": "charismatic-tongues",
+        "name": "Charismatic continuationist: a valued gift, not a required sign",
+        "color": "#6c8670",
+        "summary": "Charismatic continuationists hold that the gift of tongues continues and is valuable. It is a means of praying and praising 'with the spirit', it edifies the speaker, and with interpretation it builds up the church. But it is one gift among many, distributed by the Spirit as he wills, and it is not the necessary evidence of a post-conversion Spirit baptism. Paul's rhetorical question 'do all speak with tongues?' expects the answer 'no'.\n\nMost in this group, following Gordon Fee, read 1 Corinthians 14 as describing speech to God in a language the speaker does not know, possibly 'tongues of angels', rather than a missionary language. They grant that Acts 2 was a special case of known languages. This position is held by mainline and Catholic charismatics, by 'Third Wave' evangelicals, and by a growing number of Pentecostal scholars who question initial evidence while valuing the experience.",
+        "figures": [
+          {
+            "name": "F. F. Bosworth",
+            "lived": "1877-1958",
+            "profession": "Pentecostal and later independent healing evangelist",
+            "bio": "Bosworth was an early Assemblies of God leader. In 1918 he argued that tongues were one of the gifts and not the universal evidence of Spirit baptism, and resigned from the denomination when it reaffirmed initial evidence. He later became known for his healing ministry and the book *Christ the Healer*.",
+            "works": [
+              {
+                "author": "F. F. Bosworth",
+                "title": "Do All Speak with Tongues?",
+                "year": 1918,
+                "confidence": "needs-verification"
+              },
+              {
+                "author": "F. F. Bosworth",
+                "title": "Christ the Healer",
+                "year": 1924
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Dennis J. Bennett",
+            "lived": "1917-1991",
+            "profession": "Episcopal priest, St Mark's, Van Nuys, and later St Luke's, Seattle",
+            "bio": "In 1960 Bennett's announcement to his Episcopal congregation that he had spoken in tongues made national news. It is often taken as the start of the charismatic renewal in mainline churches. He taught that believers could receive the Spirit's fullness and pray in tongues while remaining in their historic denominations.",
+            "works": [
+              {
+                "author": "Dennis J. Bennett",
+                "title": "Nine O'Clock in the Morning",
+                "year": 1970
+              },
+              {
+                "author": "Dennis and Rita Bennett",
+                "title": "The Holy Spirit and You",
+                "year": 1971
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Jack W. Hayford",
+            "lived": "1934-2023",
+            "profession": "Pastor of The Church On The Way, Van Nuys; president of the Foursquare Church",
+            "bio": "Hayford was a widely respected Pentecostal statesman and hymn writer. He presented tongues as a gracious 'spiritual language' for worship and intercession, an invitation rather than a test, and helped make the practice accessible to evangelicals outside Pentecostalism.",
+            "works": [
+              {
+                "author": "Jack W. Hayford",
+                "title": "The Beauty of Spiritual Language",
+                "year": 1992
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Gordon D. Fee",
+            "lived": "1934-2022",
+            "profession": "New Testament scholar, Regent College; Assemblies of God minister",
+            "bio": "Fee's commentary on 1 Corinthians and his study of Paul's theology of the Spirit are standard works across traditions. Writing as an Assemblies of God minister, he argued that subsequence and initial evidence cannot be established from Luke's narratives. He held at the same time that tongues are a real and valuable gift of prayer, and that Pentecostal experience of the Spirit recovers something vital in Paul.",
+            "works": [
+              {
+                "author": "Gordon D. Fee",
+                "title": "The First Epistle to the Corinthians (NICNT)",
+                "year": 1987
+              },
+              {
+                "author": "Gordon D. Fee",
+                "title": "God's Empowering Presence: The Holy Spirit in the Letters of Paul",
+                "year": 1994
+              },
+              {
+                "author": "Gordon D. Fee",
+                "title": "Gospel and Spirit",
+                "year": 1991
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Sam Storms",
+            "lived": "living",
+            "profession": "Pastor and theologian",
+            "bio": "Storms is a Reformed continuationist and a former cessationist. He has written a full-length defence of private tongues as a gift for prayer and worship, available to many believers though not required of all, and has answered cessationist arguments in detail.",
+            "works": [
+              {
+                "author": "Sam Storms",
+                "title": "The Language of Heaven: Crucial Questions about Speaking in Tongues",
+                "year": 2013
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "From 1960 the charismatic renewal brought tongues into Episcopal, Lutheran and Presbyterian churches, and from 1967, through the Duquesne weekend, into the Catholic Church. Most of these charismatics did not accept classical Pentecostal subsequence and initial evidence. They spoke instead of 'release' of the Spirit already received at baptism, or of gifts given as the Spirit wills. John Wimber's 'Third Wave' in the 1980s similarly made tongues optional.\n\nWithin Pentecostal scholarship, Fee's critique of initial evidence started a long debate. Some Pentecostal theologians defend the doctrine with new arguments (Menzies, Macchia). Others treat tongues as the 'normal' but not the required accompaniment of Spirit baptism. Global surveys suggest that tongues-speaking is practised by a minority even in many Pentecostal congregations.",
+        "claims": [
+          "The gift of tongues continues today and is a good gift for prayer, praise and, with interpretation, edification of the church.",
+          "Tongues are one gift among many, distributed as the Spirit wills. Not all believers speak in tongues.",
+          "Tongues are not the necessary evidence of Spirit baptism, and receiving the Spirit is part of conversion-initiation.",
+          "In 1 Corinthians tongues are normally speech to God in a language the speaker does not know, possibly including 'tongues of angels'.",
+          "Acts 2 was a unique sign of the gospel going to the nations in known languages, and is not the norm for all tongues.",
+          "Public tongues require interpretation and must be orderly. Private tongues build up the speaker."
+        ],
+        "scriptures": [
+          {
+            "ref": "1 Cor 12:7-11",
+            "reading": "The Spirit distributes gifts, including 'divers kinds of tongues', to each 'as he will'. Tongues are one gift among several."
+          },
+          {
+            "ref": "1 Cor 12:30",
+            "reading": "'Do all speak with tongues?' The Greek form expects 'no'. Not every Spirit-filled believer speaks in tongues."
+          },
+          {
+            "ref": "1 Cor 13:1",
+            "reading": "'Tongues of men and of angels.' Paul allows that tongues may include non-human, heavenly languages."
+          },
+          {
+            "ref": "1 Cor 14:2",
+            "reading": "The one who speaks in a tongue speaks to God, not to men, for no one understands. In Corinth this was not a missionary language."
+          },
+          {
+            "ref": "1 Cor 14:4",
+            "reading": "Speaking in a tongue edifies oneself, which is a legitimate private benefit."
+          },
+          {
+            "ref": "1 Cor 14:14-15",
+            "reading": "Praying in a tongue is praying 'with the spirit' while the mind is unfruitful. Paul will do both."
+          },
+          {
+            "ref": "1 Cor 14:39-40",
+            "reading": "'Forbid not to speak with tongues', but let everything be done decently and in order."
+          },
+          {
+            "ref": "Rom 8:26",
+            "reading": "The Spirit intercedes with groanings that cannot be uttered. Many continuationists see a link with prayer beyond words."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "In 1 Corinthians 12:29-30 Paul asks a series of questions, 'are all apostles? are all prophets? ... do all speak with tongues?', each expecting 'no'. Tongues cannot then be a universal requirement for Spirit-filled believers.",
+            "refs": [
+              "1 Cor 12:29-30"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Paul says all believers were baptised in one Spirit into one body. Spirit baptism is therefore common to all Christians, not a later experience evidenced by tongues.",
+            "refs": [
+              "1 Cor 12:13"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Paul's instructions in 1 Corinthians 14 assume tongues are not normally understood by anyone present. That distinguishes the Corinthian gift from the known languages of Acts 2.",
+            "refs": [
+              "1 Cor 14:2",
+              "1 Cor 14:13-16"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "In 1918 F. F. Bosworth argued against initial evidence from within the Assemblies of God. Seymour's later teaching (1915) also stressed love over tongues as the mark of the Spirit. Critique of the doctrine is therefore as old as the doctrine itself."
+          },
+          {
+            "kind": "historical",
+            "text": "Linguist William Samarin, while denying that glossolalia is a natural language, also found that it is not pathological and that speakers are generally psychologically normal. That undercuts older claims that tongues-speaking is hysteria."
+          },
+          {
+            "kind": "logical",
+            "text": "Making tongues a test produces pressure and imitation, and that would undermine the genuineness of the gift. Treating it as a free gift protects both the gift and the believer."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Classical Pentecostals (Robert Menzies; Assemblies of God position)",
+            "text": "Fee's hermeneutic downplays Luke's theological intent. Without the evidence doctrine, Spirit baptism loses its distinctiveness and churches tend to drift away from seeking empowerment altogether."
+          },
+          {
+            "from": "Cessationists",
+            "text": "If tongues in Corinth were unintelligible, they were still languages (glossa means language). Paul's gift was a real language unknown to the speaker. Modern glossolalia, which linguists find has no linguistic structure, does not match it.",
+            "refs": [
+              "1 Cor 14:10-11",
+              "1 Cor 14:21"
+            ]
+          },
+          {
+            "from": "Linguists and psychologists (William Samarin; John Kildahl)",
+            "text": "Glossolalia uses sounds from the speaker's own language, lacks vocabulary and grammar, and can be learned. Kildahl suggested it was learned behaviour linked to group dynamics and suggestibility."
+          },
+          {
+            "from": "Critics of private tongues",
+            "text": "Paul's emphasis is on edifying others, and he subordinates tongues to intelligible speech. Encouraging private tongues for self-edification exalts what Paul relativised.",
+            "refs": [
+              "1 Cor 14:19"
+            ]
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Fee and others reply that they affirm the reality and value of empowerment and tongues. Their concern is to ground doctrine in Scripture's explicit teaching, and to keep Pentecostal experience from depending on a fragile proof-text."
+          },
+          {
+            "toCritique": 1,
+            "text": "Continuationists answer that 'tongues of angels' (1 Cor 13:1) and 'no man understandeth' (14:2) show Paul did not require tongues to be human languages. Vern Poythress argued in 1980 that linguistic analysis cannot settle whether glossolalia carries encoded meaning or is the biblical gift.",
+            "refs": [
+              "1 Cor 13:1",
+              "1 Cor 14:2"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Defenders argue that the biblical gift need not be a natural human language, and that being learned in a supportive setting no more disproves a gift than learning to pray does. They also note that Kildahl's suggestibility findings have not been consistently replicated."
+          },
+          {
+            "toCritique": 3,
+            "text": "Paul himself says the one who speaks in a tongue edifies himself, thanks God that he speaks in tongues more than all, and wishes all spoke in tongues. Private use is commended, not merely tolerated.",
+            "refs": [
+              "1 Cor 14:4-5",
+              "1 Cor 14:18"
+            ]
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Charismatics think tongues are the most important gift.",
+            "correction": "Most charismatic teachers follow Paul in ranking prophecy and love above tongues. They value tongues as one gift among many."
+          },
+          {
+            "strawMan": "Rejecting initial evidence means rejecting Pentecostal experience.",
+            "correction": "Fee and many others who reject the doctrine practise tongues and value Pentecostal spirituality. They dispute a doctrinal formulation, not the experience."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Made tongues accessible to mainline, Catholic and evangelical Christians without the requirement of initial evidence.",
+            "Produced first-rate exegetical scholarship on Paul and the Spirit.",
+            "Reduced pressure and division over tongues in many congregations."
+          ],
+          "negative": [
+            "Classical Pentecostals argue it weakens expectation of empowerment.",
+            "Some congregations have quietly abandoned tongues altogether."
+          ]
+        },
+        "adherents": [
+          "Catholic Charismatic Renewal",
+          "Anglican, Lutheran and Presbyterian charismatics",
+          "Vineyard and 'Third Wave' churches",
+          "Reformed charismatics",
+          "Some Pentecostal scholars and congregations"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Gordon D. Fee",
+              "title": "God's Empowering Presence",
+              "year": 1994
+            },
+            {
+              "author": "Jack W. Hayford",
+              "title": "The Beauty of Spiritual Language",
+              "year": 1992
+            },
+            {
+              "author": "Sam Storms",
+              "title": "The Language of Heaven",
+              "year": 2013
+            },
+            {
+              "author": "Dennis J. Bennett",
+              "title": "Nine O'Clock in the Morning",
+              "year": 1970
+            }
+          ],
+          "critic": [
+            {
+              "author": "William W. Menzies and Robert P. Menzies",
+              "title": "Spirit and Power",
+              "year": 2000
+            },
+            {
+              "author": "O. Palmer Robertson",
+              "title": "The Final Word",
+              "year": 1993
+            },
+            {
+              "author": "William J. Samarin",
+              "title": "Tongues of Men and Angels: The Religious Language of Pentecostalism",
+              "year": 1972
+            }
+          ]
+        },
+        "originYear": 1960
+      },
+      {
+        "id": "cessationist-tongues",
+        "name": "Cessationist and sceptical critique",
+        "color": "#5f6878",
+        "summary": "Cessationists argue that the New Testament gift of tongues was the miraculous ability to speak real human languages the speaker had not learned, as Acts 2 shows plainly. They read 1 Corinthians as describing the same phenomenon, unintelligible in Corinth only because no one present knew the language.\n\nOn this view tongues served as a sign. Some, such as O. Palmer Robertson, see it as a covenantal sign of judgement on unbelieving Israel and of the gospel's move to the nations (1 Corinthians 14:21-22). Others see it as a credential of the apostolic message. Either way it ceased with the apostolic foundation of the church. Modern glossolalia, which linguistic studies indicate is not a human language, is therefore not the biblical gift. It is better understood as a learned or psychological phenomenon, sincerely practised, and some critics warn that it can also be spiritually counterfeit. Not all critics in this group are strict cessationists. Some simply doubt that modern tongues match the biblical description.",
+        "figures": [
+          {
+            "name": "Anthony A. Hoekema",
+            "lived": "1913-1988",
+            "profession": "Reformed systematic theologian, Calvin Theological Seminary",
+            "bio": "Hoekema wrote one of the first careful Reformed evaluations of Pentecostalism. He was critical of the doctrine of Spirit baptism as a second blessing and doubtful that modern tongues correspond to the New Testament gift, while writing irenically toward Pentecostal believers.",
+            "works": [
+              {
+                "author": "Anthony A. Hoekema",
+                "title": "What About Tongue-Speaking?",
+                "year": 1966
+              },
+              {
+                "author": "Anthony A. Hoekema",
+                "title": "Holy Spirit Baptism",
+                "year": 1972
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Robert L. Thomas",
+            "lived": "1928-2017",
+            "profession": "New Testament scholar, The Master's Seminary",
+            "bio": "Thomas wrote a detailed exegetical study of 1 Corinthians 12-14. He argued that the 'perfect' of 1 Corinthians 13:10 refers to the maturity or completion of revelation, so that tongues ceased with the apostolic era.",
+            "works": [
+              {
+                "author": "Robert L. Thomas",
+                "title": "Understanding Spiritual Gifts",
+                "year": 1978
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "O. Palmer Robertson",
+            "lived": "living",
+            "profession": "Reformed Old Testament scholar",
+            "bio": "Robertson argued that tongues and prophecy were revelatory gifts that ended with the completion of the canon. He drew particular attention to Paul's citation of Isaiah 28 in 1 Corinthians 14:21. On his reading, tongues were a sign of covenantal judgement on unbelieving Israel and of the gospel's transition to the nations, a purpose fulfilled by AD 70.",
+            "works": [
+              {
+                "author": "O. Palmer Robertson",
+                "title": "The Final Word: A Biblical Response to the Case for Tongues and Prophecy Today",
+                "year": 1993
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "John MacArthur",
+            "lived": "living",
+            "profession": "Pastor of Grace Community Church, Sun Valley, California",
+            "bio": "MacArthur is the most prominent popular cessationist. He argues that biblical tongues were real languages and that modern glossolalia is learned, psychologically induced or spiritually counterfeit. Critics, including some cessationists, consider his treatment of the charismatic movement too sweeping.",
+            "works": [
+              {
+                "author": "John MacArthur",
+                "title": "Charismatic Chaos",
+                "year": 1992
+              },
+              {
+                "author": "John MacArthur",
+                "title": "Strange Fire",
+                "year": 2013
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Thomas R. Edgar",
+            "lived": "living",
+            "profession": "New Testament professor, Capital Bible Seminary",
+            "bio": "Edgar argued that the biblical gifts were sign gifts tied to the apostles. He held that believers today are 'satisfied' by the promised indwelling Spirit without the need for miraculous manifestations.",
+            "works": [
+              {
+                "author": "Thomas R. Edgar",
+                "title": "Miraculous Gifts: Are They for Today?",
+                "year": 1983
+              },
+              {
+                "author": "Thomas R. Edgar",
+                "title": "Satisfied by the Promise of the Spirit",
+                "year": 1996
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "Protestant cessationism has roots in the Reformers' polemic against Catholic miracle claims and in observations by Church Fathers such as John Chrysostom. In his homilies on 1 Corinthians, Chrysostom said the phenomena Paul described used to occur but no longer did, and that the passage was obscure for that reason. Warfield's *Counterfeit Miracles* (1918) systematised the case.\n\nThe twentieth-century debate added empirical study of glossolalia. William Samarin's fieldwork, published as *Tongues of Men and Angels* (1972), concluded that glossolalia is phonologically structured speech without the semantic structure of language, drawn from sounds familiar to the speaker. John Kildahl's psychological study the same year suggested it was learned in group settings. In 2006 neuroimaging by Andrew Newberg's team at the University of Pennsylvania found decreased frontal-lobe activity during glossolalia. That finding has been cited both as evidence of a non-volitional experience and as neutral data.",
+        "claims": [
+          "The New Testament gift of tongues was the miraculous ability to speak real human languages the speaker had not learned.",
+          "1 Corinthians describes the same gift as Acts 2. It was unintelligible in Corinth only because no one present knew the language without an interpreter.",
+          "Tongues functioned as a sign of judgement on unbelieving Israel, of the gospel's move to the nations, and of the authority of the apostolic message.",
+          "As a revelatory sign gift, tongues ceased with the apostolic foundation and the completion of Scripture.",
+          "Modern glossolalia does not match the biblical gift. Linguistic studies show it is not a human language.",
+          "Practitioners are generally sincere believers, but the practice should not be presented as the biblical gift."
+        ],
+        "scriptures": [
+          {
+            "ref": "Acts 2:6-11",
+            "reading": "Every man heard them speak in his own language. The defining instance of tongues is known human languages."
+          },
+          {
+            "ref": "1 Cor 14:10-11",
+            "reading": "Paul compares tongues to the 'many kinds of voices in the world', that is, foreign human languages a hearer does not know."
+          },
+          {
+            "ref": "1 Cor 14:21-22",
+            "reading": "Paul quotes Isaiah 28: God speaks to 'this people' by men of other tongues, and tongues are a sign to unbelievers. Robertson reads this as a covenantal judgement-sign for Israel."
+          },
+          {
+            "ref": "Isa 28:11-12",
+            "reading": "God would speak to Israel through foreign tongues as judgement for their refusal to hear. This is the background to Paul's argument."
+          },
+          {
+            "ref": "1 Cor 13:8-10",
+            "reading": "Tongues 'shall cease'. Many cessationists read 'that which is perfect' as the completed revelation or mature church. Others read it as Christ's return and argue from other texts."
+          },
+          {
+            "ref": "Heb 2:3-4",
+            "reading": "God bore witness to the apostolic message with signs and gifts of the Spirit. These are described as confirming the first preaching."
+          },
+          {
+            "ref": "Eph 2:20",
+            "reading": "The revelatory gifts belong to the foundation of the church, which is laid once."
+          },
+          {
+            "ref": "1 Cor 14:19",
+            "reading": "Paul would rather speak five intelligible words than ten thousand in a tongue. Intelligibility is supreme."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Acts 2 is the only place Scripture defines tongues, and there they are real languages recognised by native speakers. The same word (glossa) is used in 1 Corinthians, and Paul's analogy to foreign languages (14:10-11) suggests the same phenomenon.",
+            "refs": [
+              "Acts 2:6-11",
+              "1 Cor 14:10-11"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Paul explicitly calls tongues a 'sign' and grounds this in Isaiah 28's prophecy of judgement on Israel through foreign speech. That purpose was tied to the transitional apostolic period.",
+            "refs": [
+              "1 Cor 14:21-22",
+              "Isa 28:11-12"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Chrysostom, preaching in the late fourth century, said the gifts Paul described in 1 Corinthians 12 used to happen but no longer did. Augustine similarly said tongues had been a sign suited to their time. This is evidence of a widespread patristic perception that tongues had ceased.",
+            "refs": [
+              "1 Cor 12:1"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Parham taught that Pentecostal tongues were missionary languages. When missionaries such as A. G. and Lillian Garr reached India in 1907, they could not preach in local languages, and the movement reinterpreted tongues. Critics see this as an early empirical failure of the claim that modern tongues are the Acts 2 gift."
+          },
+          {
+            "kind": "historical",
+            "text": "Samarin, after studying tongues-speakers in several countries, concluded that glossolalia lacks the vocabulary and grammar of human language and is made from sounds in the speaker's own phonological repertoire. He found no verified case of xenolalia."
+          },
+          {
+            "kind": "logical",
+            "text": "If a phenomenon can be learned, coached and replicated outside Christianity (glossolalia occurs in some other religious contexts), it cannot by itself be evidence of the Holy Spirit's supernatural gift."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Continuationist exegetes (Gordon Fee, D. A. Carson)",
+            "text": "Nothing in 1 Corinthians 13:8-10 indicates that tongues ceased before Christ's return. Most commentators, including some cessationists, take 'that which is perfect' to be the eschaton, when we see 'face to face'. Paul's 'forbid not to speak with tongues' remains in force.",
+            "refs": [
+              "1 Cor 13:12",
+              "1 Cor 14:39"
+            ]
+          },
+          {
+            "from": "Continuationists on the nature of tongues",
+            "text": "1 Corinthians 14:2 says the tongues-speaker speaks to God and 'no man understandeth', and 13:1 mentions angelic tongues. So Paul's gift need not be a human language, and the linguistic critique misses the point."
+          },
+          {
+            "from": "Vern Poythress (1980) and others",
+            "text": "Linguistic analysis can describe the surface features of glossolalia but cannot determine whether it is the biblical gift. The biblical gift may itself have had a similar outward form."
+          },
+          {
+            "from": "Historians of Christianity",
+            "text": "Tongues-like phenomena appear in many periods: in Irenaeus's report, among the Camisards and the early Quakers, and in the 1830 Irvingite revival. Patristic statements of cessation describe local experience, not a theological rule."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Some cessationists, such as Gaffin and Robertson, accept that 13:10 refers to the eschaton. They base cessation instead on the foundational role of revelatory gifts (Ephesians 2:20) and the closing of the canon.",
+            "refs": [
+              "Eph 2:20",
+              "Heb 1:1-2"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Cessationists reply that 'tongues of angels' in 1 Corinthians 13:1 is a hyperbolic hypothetical, parallel to 'all mysteries' and 'all faith', and that 'no man understandeth' simply means no one present without interpretation.",
+            "refs": [
+              "1 Cor 13:2",
+              "1 Cor 14:27-28"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Critics respond that if the biblical gift were indistinguishable from learned glossolalia, it could not have functioned as a sign, which Paul says it did."
+          },
+          {
+            "toCritique": 3,
+            "text": "Cessationists answer that sporadic later phenomena, often in movements judged heterodox, do not prove continuity of the apostolic gift. Chrysostom's testimony shows the mainstream church's experience."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Cessationists think God no longer works supernaturally.",
+            "correction": "Cessationists affirm regeneration, answered prayer and God's providential, sometimes extraordinary, working. They deny the continuation of specific revelatory sign gifts."
+          },
+          {
+            "strawMan": "Cessationists think everyone who speaks in tongues is demon-possessed.",
+            "correction": "Most cessationists regard glossolalia as a learned or psychological phenomenon practised by sincere believers. Only some warn of possible spiritual counterfeit in particular cases."
+          },
+          {
+            "strawMan": "Linguistic studies prove tongues are fake.",
+            "correction": "The studies show that glossolalia is not a natural human language. Whether that settles the theological question is disputed. Samarin himself did not regard tongues-speakers as abnormal."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Kept the focus of worship on intelligible speech and on Scripture.",
+            "Encouraged careful exegesis of 1 Corinthians 12-14 and of the relation between Acts and Paul.",
+            "Prompted empirical study of glossolalia that both sides now use."
+          ],
+          "negative": [
+            "Sweeping polemic has alienated sincere believers and divided churches.",
+            "Can foster suspicion of all experiential spirituality.",
+            "Cessationist arguments have shifted over time, which critics say shows weakness."
+          ]
+        },
+        "adherents": [
+          "Many confessional Reformed and Presbyterian churches",
+          "Many dispensational and independent Baptist churches",
+          "Some Lutheran and Anglican evangelicals",
+          "Church of Christ (Restoration Movement) congregations"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "O. Palmer Robertson",
+              "title": "The Final Word",
+              "year": 1993
+            },
+            {
+              "author": "Robert L. Thomas",
+              "title": "Understanding Spiritual Gifts",
+              "year": 1978
+            },
+            {
+              "author": "Anthony A. Hoekema",
+              "title": "What About Tongue-Speaking?",
+              "year": 1966
+            },
+            {
+              "author": "William J. Samarin",
+              "title": "Tongues of Men and Angels",
+              "year": 1972
+            },
+            {
+              "author": "John P. Kildahl",
+              "title": "The Psychology of Speaking in Tongues",
+              "year": 1972
+            }
+          ],
+          "critic": [
+            {
+              "author": "D. A. Carson",
+              "title": "Showing the Spirit: A Theological Exposition of 1 Corinthians 12-14",
+              "year": 1987
+            },
+            {
+              "author": "Gordon D. Fee",
+              "title": "God's Empowering Presence",
+              "year": 1994
+            },
+            {
+              "author": "Vern S. Poythress",
+              "title": "Linguistic and Sociological Analyses of Modern Tongues-Speaking: Their Contributions and Limitations",
+              "year": 1980,
+              "locator": "Westminster Theological Journal 42",
+              "confidence": "needs-verification"
+            }
+          ]
+        },
+        "originYear": 1918
+      }
+    ],
+    "battleground": [
+      {
+        "ref": "Acts 2:4-11",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "The paradigm of Spirit baptism with tongues as its evidence. Here the tongues were known languages."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "A unique, programmatic event signalling the gospel's reach to the nations, not the template for all tongues."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "The defining instance of the gift: real human languages. Any genuine tongues must match it."
+          }
+        ]
+      },
+      {
+        "ref": "Acts 10:44-46",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Tongues were how Peter's companions knew the Gentiles had received the Spirit: initial evidence."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "Tongues served here as a sign to Jewish believers that Gentiles were accepted, a specific purpose, not a universal rule."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "A one-time sign confirming the inclusion of the Gentiles, at a turning point in redemptive history."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 12:30",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Refers to the public gift of tongues with interpretation, which not all exercise. It does not refer to evidential tongues."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "The grammar expects 'no': not all speak in tongues, so tongues cannot be required evidence."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "Even in the apostolic church tongues were never universal, which undercuts initial evidence."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 13:8-10",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Tongues cease when 'that which is perfect', Christ's return, comes. They continue until then."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "The 'perfect' is the eschaton, when we see face to face (v. 12). Tongues continue in this age."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "Some read the 'perfect' as completed revelation. Others accept the eschatological reading and argue cessation from Ephesians 2:20 instead."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 14:2",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Tongues are often prayer to God in an unknown language, as in Pentecostal devotional practice."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "Corinthian tongues were speech to God not understood by anyone, which supports glossolalia as the biblical gift."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "'No man understandeth' means no one present. A real language was spoken but not known to the hearers."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 14:21-22",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Tongues are a sign to unbelievers, and in church they must be interpreted so that the church is edified."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "Paul uses Isaiah to warn that uninterpreted tongues alienate outsiders, so prophecy is better in the gathered church."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "Tongues were a covenantal sign of judgement on unbelieving Israel, a purpose tied to the apostolic era."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 13:1",
+        "readings": [
+          {
+            "positionId": "initial-evidence",
+            "reading": "Tongues may be human or angelic languages, and love must govern their use."
+          },
+          {
+            "positionId": "charismatic-tongues",
+            "reading": "Evidence that tongues may be non-human, heavenly languages, consistent with glossolalia."
+          },
+          {
+            "positionId": "cessationist-tongues",
+            "reading": "A hyperbolic hypothetical in a series ('all mysteries', 'all faith'). It does not define the gift."
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "year": 180,
+        "title": "Irenaeus reports tongues",
+        "note": "*Against Heresies* 5.6.1 mentions believers who speak in all kinds of languages through the Spirit.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 390,
+        "title": "Chrysostom on 1 Corinthians",
+        "note": "In his homilies on 1 Corinthians, Chrysostom says the gifts described used to occur but no longer do.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1830,
+        "title": "Irvingite tongues in Scotland",
+        "note": "Tongues and prophecy break out around Port Glasgow and spread to Edward Irving's London congregation.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1901,
+        "title": "Topeka",
+        "note": "Agnes Ozman speaks in tongues at Parham's Bethel Bible College on 1 January, and Parham teaches tongues as evidence and as missionary xenolalia.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1906,
+        "title": "Azusa Street revival",
+        "note": "William J. Seymour leads the Los Angeles revival that spreads Pentecostalism worldwide.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1907,
+        "title": "Missionary xenolalia tested",
+        "note": "A. G. and Lillian Garr arrive in India expecting to preach in local languages through tongues and find they cannot.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1916,
+        "title": "AG Statement of Fundamental Truths",
+        "note": "The Assemblies of God declares tongues the initial physical sign of Spirit baptism.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1918,
+        "title": "Bosworth controversy",
+        "note": "F. F. Bosworth challenges initial evidence and resigns. The General Council affirms it as the denomination's distinctive testimony.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1960,
+        "title": "Dennis Bennett",
+        "note": "An Episcopal priest's tongues experience becomes public, marking the start of the mainline charismatic renewal.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1967,
+        "title": "Duquesne weekend",
+        "note": "Catholic students and faculty at Duquesne University experience Spirit baptism, launching the Catholic Charismatic Renewal.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1972,
+        "title": "Samarin and Kildahl",
+        "note": "Linguistic and psychological studies of glossolalia are published.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1980,
+        "title": "Poythress on linguistic analysis",
+        "note": "Vern Poythress argues that linguistic and sociological studies cannot by themselves settle the theological question.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1991,
+        "title": "Fee's Gospel and Spirit",
+        "note": "Gordon Fee publishes his hermeneutical critique of subsequence and initial evidence. Gary McGee's edited volume *Initial Evidence* appears the same year.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1993,
+        "title": "The Final Word",
+        "note": "O. Palmer Robertson restates the cessationist case, emphasising tongues as a covenantal sign.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2006,
+        "title": "Neuroimaging and Macchia",
+        "note": "Andrew Newberg's team publishes brain scans of people speaking in tongues, and Frank Macchia reframes Spirit baptism in *Baptized in the Spirit*.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "influence": [
+      {
+        "from": "Wesleyan-Holiness movement",
+        "to": "initial-evidence",
+        "note": "Expectation of a second blessing after conversion."
+      },
+      {
+        "from": "Charles Fox Parham",
+        "to": "initial-evidence",
+        "note": "First formulation of tongues as evidence."
+      },
+      {
+        "from": "initial-evidence",
+        "to": "charismatic-tongues",
+        "note": "Charismatic renewal adopted the experience but largely dropped the evidence doctrine."
+      },
+      {
+        "from": "B. B. Warfield",
+        "to": "cessationist-tongues",
+        "note": "Classic Protestant cessationism."
+      },
+      {
+        "from": "William J. Samarin",
+        "to": "cessationist-tongues",
+        "note": "Linguistic findings used by critics, though Samarin was not a cessationist theologian."
+      },
+      {
+        "from": "Gordon D. Fee",
+        "to": "charismatic-tongues",
+        "note": "Exegetical critique of initial evidence from within Pentecostalism."
+      },
+      {
+        "from": "cessationist-tongues",
+        "to": "charismatic-tongues",
+        "note": "Cessationist challenges prompted detailed continuationist exegesis (Carson, Storms)."
+      }
+    ],
+    "argumentMap": [
+      {
+        "id": "tg1",
+        "kind": "claim",
+        "text": "Tongues are the initial physical evidence of Spirit baptism.",
+        "positionId": "initial-evidence"
+      },
+      {
+        "id": "tg2",
+        "kind": "support",
+        "text": "Tongues accompany the Spirit's coming in Acts 2, 10 and 19.",
+        "parent": "tg1",
+        "positionId": "initial-evidence",
+        "refs": [
+          "Acts 2:4",
+          "Acts 10:44-46",
+          "Acts 19:6"
+        ]
+      },
+      {
+        "id": "tg3",
+        "kind": "objection",
+        "text": "Narrative precedent is not normative unless the author intends it, and Acts 8 does not mention tongues.",
+        "parent": "tg2",
+        "positionId": "charismatic-tongues",
+        "refs": [
+          "Acts 8:14-17"
+        ]
+      },
+      {
+        "id": "tg4",
+        "kind": "reply",
+        "text": "Luke is a theologian, and Simon 'saw' something in Acts 8.",
+        "parent": "tg3",
+        "positionId": "initial-evidence",
+        "refs": [
+          "Acts 8:18"
+        ]
+      },
+      {
+        "id": "tg5",
+        "kind": "objection",
+        "text": "Paul's 'do all speak with tongues?' expects 'no'.",
+        "parent": "tg1",
+        "positionId": "charismatic-tongues",
+        "refs": [
+          "1 Cor 12:30"
+        ]
+      },
+      {
+        "id": "tg6",
+        "kind": "reply",
+        "text": "That refers to the public gift, not to evidential or devotional tongues.",
+        "parent": "tg5",
+        "positionId": "initial-evidence",
+        "refs": [
+          "1 Cor 14:5"
+        ]
+      },
+      {
+        "id": "tg7",
+        "kind": "claim",
+        "text": "Tongues continue as a valued gift but are not required of all.",
+        "positionId": "charismatic-tongues"
+      },
+      {
+        "id": "tg8",
+        "kind": "support",
+        "text": "Corinthian tongues were speech to God that no one understood, possibly angelic.",
+        "parent": "tg7",
+        "positionId": "charismatic-tongues",
+        "refs": [
+          "1 Cor 14:2",
+          "1 Cor 13:1"
+        ]
+      },
+      {
+        "id": "tg9",
+        "kind": "claim",
+        "text": "The biblical gift was real human languages and has ceased.",
+        "positionId": "cessationist-tongues"
+      },
+      {
+        "id": "tg10",
+        "kind": "support",
+        "text": "Acts 2 defines tongues as languages heard by native speakers.",
+        "parent": "tg9",
+        "positionId": "cessationist-tongues",
+        "refs": [
+          "Acts 2:6-11"
+        ]
+      },
+      {
+        "id": "tg11",
+        "kind": "support",
+        "text": "Linguists find that glossolalia is not a human language, and missionary xenolalia failed in 1907.",
+        "parent": "tg9",
+        "positionId": "cessationist-tongues"
+      },
+      {
+        "id": "tg12",
+        "kind": "objection",
+        "text": "Linguistics cannot decide whether glossolalia is the biblical gift. Paul's gift need not be a human language.",
+        "parent": "tg11",
+        "positionId": "charismatic-tongues"
+      },
+      {
+        "id": "tg13",
+        "kind": "objection",
+        "text": "If the gift were indistinguishable from learned glossolalia, it could not function as a sign.",
+        "parent": "tg8",
+        "positionId": "cessationist-tongues",
+        "refs": [
+          "1 Cor 14:22"
+        ]
+      },
+      {
+        "id": "tg14",
+        "kind": "objection",
+        "text": "The 'perfect' in 1 Corinthians 13:10 is Christ's return, so tongues continue until then.",
+        "parent": "tg9",
+        "positionId": "charismatic-tongues",
+        "refs": [
+          "1 Cor 13:8-12"
+        ]
+      },
+      {
+        "id": "tg15",
+        "kind": "reply",
+        "text": "Cessation rests on the foundational role of revelatory gifts, not only on 1 Corinthians 13.",
+        "parent": "tg14",
+        "positionId": "cessationist-tongues",
+        "refs": [
+          "Eph 2:20"
+        ]
+      },
+      {
+        "id": "tg16",
+        "kind": "support",
+        "text": "Reported known-language tongues, though rare, show the Acts 2 gift still occurs.",
+        "parent": "tg1",
+        "positionId": "initial-evidence"
+      },
+      {
+        "id": "tg17",
+        "kind": "objection",
+        "text": "No reported case of xenolalia has been verified by linguists.",
+        "parent": "tg16",
+        "positionId": "cessationist-tongues"
+      }
+    ]
   }
 ]
