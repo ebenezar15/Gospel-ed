@@ -32,8 +32,8 @@ function walk(f: string, v: any, path: string) {
   if (v && typeof v === 'object') {
     for (const [k, x] of Object.entries(v)) {
       const p = `${path}.${k}`;
-      if ((k === 'refs' || k === 'keyRefs') && Array.isArray(x)) x.forEach((r: string) => { if (!parseRef(r)) err(f, `bad ref "${r}" at ${p}`); });
-      else if (k === 'ref' && typeof x === 'string' && !parseRef(x)) err(f, `bad ref "${x}" at ${p}`);
+      if ((k === 'refs' || k === 'keyRefs' || k === 'keyVerses') && Array.isArray(x)) x.forEach((r: string) => { if (!parseRef(r)) err(f, `bad ref "${r}" at ${p}`); });
+      else if ((k === 'ref' || k === 'keyVerse') && typeof x === 'string' && !parseRef(x)) err(f, `bad ref "${x}" at ${p}`);
       if (x === 'needs-verification') verify.push(`${f} ${p}`);
       if (people.size && (k === 'personIds' || (path.endsWith('.family') && ['parents', 'spouses', 'children', 'siblings'].includes(k))) && Array.isArray(x)) x.forEach((id: string) => !people.has(id) && note(missing.people, id, `${f}${p}`));
       if (people.size && (k === 'personId' || ((k === 'from' || k === 'to') && f.startsWith('relationships'))) && typeof x === 'string' && !people.has(x)) note(missing.people, x, `${f}${p}`);
