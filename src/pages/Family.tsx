@@ -9,9 +9,9 @@ import { PageHeader, Refs, Section } from '../components/ui';
 
 type N = { id: string; children?: N[] };
 const LINES: Record<string, { label: string; ids: string[] }> = {
-  messianic: { label: 'Messianic line', ids: ['adam', 'seth', 'enoch', 'methuselah', 'noah', 'shem', 'terah', 'abraham', 'isaac', 'jacob', 'judah', 'boaz', 'obed', 'jesse', 'david', 'solomon', 'rehoboam', 'jehoshaphat', 'uzziah', 'hezekiah', 'manasseh-king', 'josiah', 'zerubbabel', 'joseph-of-nazareth', 'mary-mother-of-jesus', 'jesus'] },
-  levitical: { label: 'Levitical / priestly line', ids: ['jacob', 'levi', 'amram', 'aaron', 'moses', 'miriam', 'eleazar-priest', 'phinehas', 'zechariah-priest', 'john-the-baptist', 'elizabeth'] },
-  royal: { label: 'House of David', ids: ['jesse', 'david', 'solomon', 'absalom', 'rehoboam', 'jehoshaphat', 'joash-judah', 'uzziah', 'hezekiah', 'manasseh-king', 'josiah', 'zedekiah', 'zerubbabel'] },
+  messianic: { label: 'Messianic line', ids: ['adam', 'seth', 'enosh', 'kenan', 'mahalalel', 'jared', 'enoch', 'methuselah', 'lamech-father-of-noah', 'noah', 'shem', 'arphaxad', 'shelah', 'eber', 'peleg', 'reu', 'serug', 'nahor', 'terah', 'abraham', 'isaac', 'jacob', 'judah', 'perez', 'hezron', 'ram', 'amminadab', 'nahshon', 'salmon', 'boaz', 'obed', 'jesse', 'david', 'solomon', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoiakim', 'jehoiachin', 'zerubbabel', 'joseph-of-nazareth', 'mary-mother-of-jesus', 'jesus'] },
+  levitical: { label: 'Levitical / priestly line', ids: ['jacob', 'levi', 'amram', 'aaron', 'moses', 'miriam', 'nadab', 'abihu', 'eleazar-priest', 'ithamar', 'phinehas', 'eli', 'hophni', 'phinehas-son-of-eli', 'ichabod', 'abiathar', 'zadok', 'zechariah-priest', 'john-the-baptist', 'elizabeth'] },
+  royal: { label: 'House of David', ids: ['jesse', 'david', 'solomon', 'absalom', 'amnon', 'adonijah', 'nathan-son-of-david', 'tamar-daughter-of-david', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoahaz-of-judah', 'jehoiakim', 'jehoiachin', 'zedekiah', 'zerubbabel'] },
 };
 
 function build(root: string, collapsed: Set<string>): N {
@@ -46,7 +46,7 @@ export default function Family() {
   const W = maxY + 260, H = maxX - minX + 80;
   const VW = 1100, VH = 560;
   // Start fitted to the tree, but never so small that names become unreadable; the reader can pan from there.
-  const fit = () => { const k = Math.max(0.85, Math.min(1, VW / W, VH / H)); return zoomIdentity.translate(10, Math.max(0, (VH - H * k) / 2)).scale(k); };
+  const fit = () => { const k = Math.max(0.85, Math.min(1, VW / W, VH / H)); const rootY = nodes[0] ? nodes[0].x - minX + 40 : 0; return zoomIdentity.translate(10, VH / 2 - rootY * k).scale(k); };
   const hl = line ? new Set(LINES[line].ids) : new Set<string>();
   useEffect(() => {
     if (!svg.current) return;
