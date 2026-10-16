@@ -164,11 +164,44 @@ export type ConfidenceT = z.infer<typeof Confidence>;
 export type DateValueT = z.infer<typeof DateValue>;
 export type SourceT = z.infer<typeof Source>;
 
+/* ---------- study guides & plain-language layer ---------- */
+export const DeepDive = z.object({
+  id: z.string(), title: z.string(), category: z.string(), question: z.string(),
+  plainAnswer: z.string(),            // 3-6 sentences, the short honest answer in everyday words
+  keyTakeaways: z.array(z.string()),  // 4-7 bullet points
+  sections: z.array(z.object({
+    heading: z.string(), body: z.string(), refs: z.array(Ref),
+    sources: z.array(Source).optional(), confidence: Confidence.optional(),
+    callout: z.object({ kind: z.enum(['note', 'debate', 'tradition', 'myth']), text: z.string() }).optional(),
+  })),
+  table: z.object({ caption: z.string(), columns: z.array(z.string()), rows: z.array(z.array(z.string())) }).optional(),
+  timeline: z.array(z.object({ year: z.number(), title: z.string(), note: z.string(), confidence: Confidence })).optional(),
+  keyVerses: z.array(Ref),
+  views: z.array(z.object({ name: z.string(), summary: z.string() })).optional(),
+  related: z.array(z.string()),       // in-app routes, e.g. "/debates/soteriology"
+  furtherQuestions: z.array(z.string()),
+});
+export type DeepDiveT = z.infer<typeof DeepDive>;
+const PlainPos = z.object({ summary: z.string(), takeaway: z.string(), keyVerse: Ref.optional(), analogy: z.string().optional() });
+export const PlainLayer = z.record(z.string(), z.object({ summary: z.string(), takeaway: z.string(), whyItMatters: z.string(), positions: z.record(z.string(), PlainPos) }));
+export type PlainLayerT = z.infer<typeof PlainLayer>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
   'people-4.json': z.array(Person), 'people-5.json': z.array(Person), 'people-6.json': z.array(Person),
   'relationships.json': z.array(Relationship),
+  'people-7.json': z.array(Person), 'relationships-7.json': z.array(Relationship),
+  'people-8.json': z.array(Person), 'relationships-8.json': z.array(Relationship),
+  'people-9.json': z.array(Person), 'relationships-9.json': z.array(Relationship),
+  'people-10.json': z.array(Person), 'relationships-10.json': z.array(Relationship),
+  'people-11.json': z.array(Person), 'relationships-11.json': z.array(Relationship),
+  'guides-1.json': z.array(DeepDive),
+  'guides-2.json': z.array(DeepDive),
+  'guides-3.json': z.array(DeepDive),
+  'guides-4.json': z.array(DeepDive),
+  'guides-5.json': z.array(DeepDive),
+  'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),
   'timeline.json': z.array(TimelineEvent),

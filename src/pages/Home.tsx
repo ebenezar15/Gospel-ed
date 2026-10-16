@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useRef, useState } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { people, places, journeys, allDebates, books, eras, alive, lifespan, timeline } from '../data';
+import { people, places, journeys, allDebates, books, eras, alive, lifespan, timeline, guides } from '../data';
 import { makeEraScale } from '../lib/eraScale';
 import { fmtYear, Ref } from '../components/ui';
 import { loadKJV, versesFor } from '../lib/kjv';
@@ -119,6 +119,21 @@ export default function Home() {
         </div>
         <River />
       </section>
+
+      {guides.length > 0 && (
+        <section className="mb-10">
+          <div className="flex items-baseline justify-between gap-3 mb-4"><h2 className="text-3xl">Big questions, answered plainly</h2><Link to="/guides" className="text-sm text-accent font-semibold">All {guides.length} study guides →</Link></div>
+          <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">
+            {guides.slice(0, 6).map((g) => (
+              <Link key={g.id} to={`/guides/${g.id}`} className="card p-4 hover:border-accent group flex flex-col gap-1.5">
+                <span className="eyebrow">{g.category}</span>
+                <span className="display text-lg leading-snug group-hover:text-accent">{g.question}</span>
+                <span className="font-serif text-muted line-clamp-2">{g.plainAnswer}</span>
+              </Link>
+            ))}
+          </div>
+        </section>
+      )}
 
       <section>
         <h2 className="text-3xl mb-4">Start a journey</h2>

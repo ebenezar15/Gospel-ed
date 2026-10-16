@@ -5,12 +5,12 @@ type Turn = { role: 'user' | 'assistant'; content: string };
 type Tool = { name: string; description: string; inputSchema?: object; execute: (input: any) => unknown };
 
 /** A small chat with Claude. `rules` is the standing instruction turn the page always sends first. */
-export default function Chat({ rules, placeholder, suggestions, speaker, tools, intro }: {
-  rules: string; placeholder: string; suggestions: string[]; speaker: string; tools?: Tool[]; intro?: string;
+export default function Chat({ rules, placeholder, suggestions, speaker, tools, intro, initial }: {
+  rules: string; placeholder: string; suggestions: string[]; speaker: string; tools?: Tool[]; intro?: string; initial?: string;
 }) {
   const [available, setAvailable] = useState<boolean | null>(null);
   const [turns, setTurns] = useState<Turn[]>([]);
-  const [draft, setDraft] = useState('');
+  const [draft, setDraft] = useState(initial ?? '');
   const [live, setLive] = useState<string | null>(null);
   const [status, setStatus] = useState<string>('');
   const ctl = useRef<AbortController | null>(null);

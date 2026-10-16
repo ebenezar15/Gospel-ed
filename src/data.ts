@@ -1,7 +1,7 @@
 /** Loads every /content/*.json file at build time and builds the cross-reference indexes the UI uses. */
 import type {
   PersonT, PlaceT, EraT, TimelineEventT, EmpireT, JourneyT, RelationshipT, RosterT, BookT, DebateT,
-  GospelNodeT, EmphasisT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
+  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
 const files = import.meta.glob('../content/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
@@ -15,7 +15,7 @@ export const eras: EraT[] = get('eras.json', []);
 export const timeline: TimelineEventT[] = [...get<TimelineEventT[]>('timeline.json', [])].sort((a, b) => a.date.year - b.date.year);
 export const empires: EmpireT[] = get('empires.json', []);
 export const journeys: JourneyT[] = get('journeys.json', []);
-export const relationships: RelationshipT[] = get('relationships.json', []);
+export const relationships: RelationshipT[] = many<RelationshipT>('relationships');
 export const rosters: RosterT[] = get('rosters.json', []);
 const allBooks: BookT[] = [...get<BookT[]>('books-ot.json', []), ...get<BookT[]>('books-nt.json', [])];
 export const canonFormation = allBooks.find((b) => b.id === 'canon-formation');
@@ -34,6 +34,26 @@ export const occupations: OccupationT[] = get('occupations.json', []);
 export const giftsLists: GiftsListT[] = get('gifts.json', []);
 export const studyPaths: StudyPathT[] = get('study-paths.json', []);
 export const quiz: QuizQT[] = get('quiz.json', []);
+export const guides: DeepDiveT[] = many<DeepDiveT>('guides-');
+export const guideById = new Map(guides.map((g) => [g.id, g]));
+/** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */
+export const plain: PlainLayerT = Object.assign({}, get<PlainLayerT>('plain-1.json', {}), get<PlainLayerT>('plain-2.json', {}));
+
+/** Every theologian / figure named in any debate, merged by name, with the positions they shaped. */
+export type FigureEntry = { name: string; lived: string; profession: string; bio: string; works: DebateT['positions'][number]['figures'][number]['works']; roles: { debateId: string; debateTitle: string; positionId: string; positionName: string; role: string; category: string }[] };
+export const figures: FigureEntry[] = (() => {
+  const m = new Map<string, FigureEntry>();
+  allDebates.forEach((d) => d.positions.forEach((p) => p.figures.forEach((f) => {
+    const key = f.name.replace(/\s*\(.*?\)\s*/g, '').trim().toLowerCase();
+    const e = m.get(key) ?? { name: f.name, lived: f.lived, profession: f.profession, bio: f.bio, works: [], roles: [] };
+    if (f.bio.length > e.bio.length) { e.bio = f.bio; e.profession = f.profession; e.lived = f.lived; }
+    f.works.forEach((w) => { if (!e.works.some((x) => x.title === w.title)) e.works.push(w); });
+    e.roles.push({ debateId: d.id, debateTitle: d.title, positionId: p.id, positionName: p.name, role: f.role, category: d.category });
+    m.set(key, e);
+  })));
+  const year = (s: string) => { const x = /(\d{2,4})/.exec(s); return x ? +x[1] * (/BC/.test(s) ? -1 : 1) : 3000; };
+  return [...m.values()].sort((a, b) => year(a.lived) - year(b.lived));
+})();
 
 /* ---------- indexes ---------- */
 export const personById = new Map(people.map((p) => [p.id, p]));

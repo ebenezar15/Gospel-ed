@@ -128,7 +128,7 @@ function Saved() {
   );
 }
 
-function AskAtlas() {
+function AskAtlas({ initial }: { initial?: string }) {
   const fuse = useMemo(() => new Fuse([
     ...people.map((p) => ({ kind: 'person', id: p.id, title: p.names.primary, text: p.summary })),
     ...allDebates.map((d) => ({ kind: 'debate', id: d.id, title: d.title, text: d.question + ' ' + d.positions.map((p) => p.name).join(', ') })),
@@ -144,7 +144,7 @@ function AskAtlas() {
       execute: async (i: any) => { const p = parseRef(String(i.ref)); if (!p) throw new Error('Unrecognised reference format'); const k = await loadKJV(); return versesFor(k, p, 40).map((v) => `${v.c}:${v.v} ${v.text}`).join('\n'); } },
   ];
   const rules = `You are the guide inside Logos Atlas, an even-handed Bible, church-history and theology study app. Use the tools to look things up in the atlas and to quote KJV text before answering. Cite scripture as (Book chapter:verse). On contested questions, describe the main views fairly and never declare one correct. Distinguish what the text says from interpretation and from later tradition. Never fabricate quotations or citations; say when you are unsure. Keep answers under 250 words unless asked for more. When you mention an atlas person or debate, give its id in brackets like [person:paul] or [debate:atonement].`;
-  return <Chat rules={rules} speaker="Atlas guide" tools={tools} placeholder="Ask anything about the Bible, its people or its debates…"
+  return <Chat initial={initial} rules={rules} speaker="Atlas guide" tools={tools} placeholder="Ask anything about the Bible, its people or its debates…"
     intro="Ask a question and the guide will search the atlas and read the KJV text before answering."
     suggestions={['Which prophets were active when Samaria fell?', 'What does Acts 3:21 mean in different traditions?', 'Compare Elijah and John the Baptist', 'What did the earliest Christians preach?']} />;
 }
@@ -153,7 +153,8 @@ export default function Study() {
   const [sp] = useSearchParams();
   const verse = sp.get('verse');
   const path = sp.get('path');
-  const [tab, setTab] = useState<Tab>(verse ? 'verse' : path ? 'paths' : 'paths');
+  const ask = sp.get('ask') ?? undefined;
+  const [tab, setTab] = useState<Tab>(verse ? 'verse' : ask ? 'ask' : 'paths');
   useEffect(() => { if (verse) setTab('verse'); }, [verse]);
   return (
     <div>
@@ -163,7 +164,7 @@ export default function Study() {
       {tab === 'paths' && <Paths initial={path} />}
       {tab === 'compare' && <Compare />}
       {tab === 'saved' && <Saved />}
-      {tab === 'ask' && <AskAtlas />}
+      {tab === 'ask' && <AskAtlas initial={ask} />}
     </div>
   );
 }

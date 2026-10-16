@@ -21,7 +21,7 @@ const verify: string[] = [];
 
 // collect id sets for cross-link checks
 const people = new Set<string>(), places = new Set<string>(), eras = new Set<string>();
-for (const f of [1, 2, 3, 4, 5, 6].map((n) => `people-${n}.json`)) (load(f) ?? []).forEach((p: any) => people.add(p.id));
+for (const f of [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map((n) => `people-${n}.json`)) (load(f) ?? []).forEach((p: any) => people.add(p.id));
 (load('places.json') ?? []).forEach((p: any) => places.add(p.id));
 (load('eras.json') ?? []).forEach((e: any) => eras.add(e.id));
 const missing = { people: new Map<string, string[]>(), places: new Map<string, string[]>() };
@@ -36,7 +36,7 @@ function walk(f: string, v: any, path: string) {
       else if (k === 'ref' && typeof x === 'string' && !parseRef(x)) err(f, `bad ref "${x}" at ${p}`);
       if (x === 'needs-verification') verify.push(`${f} ${p}`);
       if (people.size && (k === 'personIds' || (path.endsWith('.family') && ['parents', 'spouses', 'children', 'siblings'].includes(k))) && Array.isArray(x)) x.forEach((id: string) => !people.has(id) && note(missing.people, id, `${f}${p}`));
-      if (people.size && (k === 'personId' || ((k === 'from' || k === 'to') && f === 'relationships.json')) && typeof x === 'string' && !people.has(x)) note(missing.people, x, `${f}${p}`);
+      if (people.size && (k === 'personId' || ((k === 'from' || k === 'to') && f.startsWith('relationships'))) && typeof x === 'string' && !people.has(x)) note(missing.people, x, `${f}${p}`);
       if (places.size && (k === 'placeIds') && Array.isArray(x)) x.forEach((id: string) => !places.has(id) && note(missing.places, id, `${f}${p}`));
       if (places.size && k === 'placeId' && typeof x === 'string' && !places.has(x)) note(missing.places, x, `${f}${p}`);
       if (eras.size && (k === 'eraIds') && Array.isArray(x)) x.forEach((id: string) => !eras.has(id) && err(f, `unknown era "${id}" at ${p}`));

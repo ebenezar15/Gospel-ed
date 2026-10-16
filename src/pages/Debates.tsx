@@ -4,7 +4,7 @@ import { motion } from 'framer-motion';
 import { ReactFlow, Background, Controls, MarkerType, type Node, type Edge } from '@xyflow/react';
 import '@xyflow/react/dist/style.css';
 import { hierarchy, tree } from 'd3-hierarchy';
-import { debates, eschatology, movements, debateById, contextItems } from '../data';
+import { debates, eschatology, movements, debateById, contextItems, plain, guides } from '../data';
 import { PageHeader, Section, Tabs, Refs, Ref, Paras, Conf, SourceLine, fmtYear, Bookmark, Empty, Stagger, item } from '../components/ui';
 import Sequence from '../components/Sequence';
 import Chat from '../components/Chat';
@@ -35,7 +35,7 @@ export default function Debates({ kind }: { kind: 'debate' | 'movement' }) {
               <motion.div key={d.id} variants={item}>
                 <Link to={`/${kind === 'movement' ? 'movements' : 'debates'}/${d.id}`} className="card p-4 block h-full hover:border-accent group">
                   <div className="display text-2xl group-hover:text-accent">{d.title}</div>
-                  <p className="font-serif text-muted mt-1">{d.question}</p>
+                  <p className="font-serif text-muted mt-1 text-[1.05rem]">{plain[d.id]?.takeaway ?? d.question}</p>
                   <div className="flex h-1.5 rounded overflow-hidden mt-3">{d.positions.map((p) => <span key={p.id} className="flex-1" style={{ background: colorOf(d, p) }} title={p.name} />)}</div>
                   <div className="text-xs text-muted mt-1.5">{d.positions.map((p) => p.name).join(' · ')}</div>
                 </Link>
@@ -48,12 +48,26 @@ export default function Debates({ kind }: { kind: 'debate' | 'movement' }) {
   );
 }
 
+function PlainBox({ title, summary, takeaway, extra, verse, analogy }: { title: string; summary: string; takeaway: string; extra?: string; verse?: string; analogy?: string }) {
+  return (
+    <section className="card p-5 mb-6" style={{ background: 'linear-gradient(135deg, rgb(var(--accent) / .07), rgb(var(--surface)))' }}>
+      <div className="eyebrow !text-accent mb-1.5">{title}</div>
+      <p className="font-serif text-[1.25rem] leading-relaxed max-w-[70ch]">{summary}</p>
+      <p className="mt-3 font-semibold max-w-[70ch]"><span className="text-accent">The heart of it: </span>{takeaway}</p>
+      {extra && <p className="mt-2 text-[.95rem] text-muted max-w-[70ch]"><span className="font-semibold text-ink">Why it matters: </span>{extra}</p>}
+      {analogy && <p className="mt-2 text-[.95rem] max-w-[70ch]"><span className="font-semibold">Picture it: </span><i className="font-serif text-[1.05rem]">{analogy}</i></p>}
+      {verse && <div className="mt-3"><Refs refs={[verse]} /></div>}
+    </section>
+  );
+}
+
 function PositionCard({ d, p, onOpen }: { d: DebateT; p: PositionT; onOpen: () => void }) {
   return (
     <button onClick={onOpen} className="card p-4 text-left hover:border-accent h-full flex flex-col gap-2 relative overflow-hidden">
       <span className="absolute inset-x-0 top-0 h-1" style={{ background: colorOf(d, p) }} />
       <div className="display text-2xl" style={{ color: colorOf(d, p) }}>{p.name}</div>
-      <p className="font-serif text-[.95rem] line-clamp-5">{p.summary}</p>
+      <p className="font-serif text-[1.02rem] line-clamp-5">{plain[d.id]?.positions[p.id]?.summary ?? p.summary}</p>
+      {plain[d.id]?.positions[p.id]?.takeaway && <p className="text-sm font-semibold"><span className="text-accent">In a sentence: </span>{plain[d.id]!.positions[p.id].takeaway}</p>}
       <div className="mt-auto text-xs text-muted">{p.figures.slice(0, 3).map((f) => f.name).join(', ')}{p.originYear ? ` · from ${fmtYear(p.originYear)}` : ''}</div>
     </button>
   );
@@ -64,6 +78,8 @@ function PositionDetail({ d, p }: { d: DebateT; p: PositionT }) {
   return (
     <article className="space-y-2">
       <div className="flex flex-wrap items-baseline gap-3"><h2 className="display text-4xl" style={{ color: c }}>{p.name}</h2>{p.originYear && <span className="text-muted tabular">from {fmtYear(p.originYear)}</span>}</div>
+      {plain[d.id]?.positions[p.id] && <PlainBox title="In plain words" summary={plain[d.id].positions[p.id].summary} takeaway={plain[d.id].positions[p.id].takeaway} verse={plain[d.id].positions[p.id].keyVerse} analogy={plain[d.id].positions[p.id].analogy} />}
+      <div className="eyebrow mb-1">In depth</div>
       <Paras text={p.summary} className="text-lg" />
       <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_320px] pt-4">
         <div className="min-w-0">
@@ -108,7 +124,8 @@ function Compare({ d }: { d: DebateT }) {
   const [sel, setSel] = useState<string[]>(d.positions.slice(0, Math.min(3, d.positions.length)).map((p) => p.id));
   const ps = d.positions.filter((p) => sel.includes(p.id));
   const rows: { label: string; render: (p: PositionT) => JSX.Element }[] = [
-    { label: 'In brief', render: (p) => <p className="font-serif text-[.92rem]">{p.summary.split('\n')[0]}</p> },
+    { label: 'In plain words', render: (p) => <p className="font-serif text-[1rem]">{plain[d.id]?.positions[p.id]?.summary ?? p.summary.split('\n')[0]}</p> },
+    { label: 'In a sentence', render: (p) => <p className="text-[.9rem] font-semibold">{plain[d.id]?.positions[p.id]?.takeaway ?? '—'}</p> },
     { label: 'Core claims', render: (p) => <ol className="list-decimal pl-4 font-serif text-[.9rem] space-y-1">{p.claims.map((c) => <li key={c}>{c}</li>)}</ol> },
     { label: 'Anchor texts', render: (p) => <Refs refs={p.scriptures.map((s) => s.ref)} /> },
     { label: 'Best argument', render: (p) => <p className="font-serif text-[.9rem]">{p.arguments[0]?.text}</p> },
@@ -231,6 +248,11 @@ Rules: present each view as its best defenders would (steelman), never declare a
       ]} />
       {tab === 'positions' && (
         <div className="space-y-6">
+          {plain[d.id] && <PlainBox title="This debate in plain words" summary={plain[d.id].summary} takeaway={plain[d.id].takeaway} extra={plain[d.id].whyItMatters} />}
+          {guides.filter((g) => g.related.some((r) => r.endsWith('/' + d.id))).length > 0 && (
+            <div className="flex flex-wrap gap-2 items-center"><span className="eyebrow">Study guide</span>{guides.filter((g) => g.related.some((r) => r.endsWith('/' + d.id))).map((g) => <Link key={g.id} to={`/guides/${g.id}`} className="chip hover:border-accent !text-[.82rem] !py-1">{g.title} →</Link>)}</div>
+          )}
+          <div className="eyebrow">In depth</div>
           <Paras text={d.intro} />
           <div><span className="eyebrow mr-2">Key texts</span><Refs refs={d.keyRefs} /></div>
           <div className="grid gap-3 md:grid-cols-2 lg:grid-cols-3">{d.positions.map((p) => <PositionCard key={p.id} d={d} p={p} onOpen={() => setTab('detail', { pos: p.id })} />)}</div>

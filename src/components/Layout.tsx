@@ -4,20 +4,20 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
+  people, places, placeLabel, books, guides, figures, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
 } from '../data';
 import { parseRef } from '../lib/refs';
 
 const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
   { group: 'The Book', items: [
-    { to: '/', label: 'Home', glyph: '⌂' }, { to: '/people', label: 'People', glyph: '☺' }, { to: '/rosters', label: 'Rosters', glyph: '≡' },
+    { to: '/', label: 'Home', glyph: '⌂' }, { to: '/guides', label: 'Study Guides', glyph: '❖' }, { to: '/people', label: 'People', glyph: '☺' }, { to: '/rosters', label: 'Rosters', glyph: '≡' },
     { to: '/books', label: 'Books', glyph: '❦' }, { to: '/family', label: 'Family Tree', glyph: '⚘' }, { to: '/connections', label: 'Connections', glyph: '✣' },
     { to: '/work', label: 'Work & Ministry', glyph: '⚒' },
   ] },
   { group: 'Time & Place', items: [{ to: '/timeline', label: 'Timeline', glyph: '⟿' }, { to: '/maps', label: 'Maps & Journeys', glyph: '✦' }, { to: '/lens', label: 'Who Was Alive?', glyph: '◎' }] },
   { group: 'Gospel & Doctrine', items: [
     { to: '/gospel-history', label: 'Gospel Through History', glyph: '✉' }, { to: '/afterlife', label: 'Afterlife & Kingdom', glyph: '☼' },
-    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '⌘' },
+    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '⌘' },
   ] },
   { group: 'Study', items: [{ to: '/study', label: 'Study Desk', glyph: '✎' }, { to: '/quiz', label: 'Quiz & Cards', glyph: '?' }] },
 ];
@@ -37,6 +37,8 @@ function useSearchIndex() {
       ...afterlifeTerms.map((t) => ({ kind: 'Term', title: t.term, sub: t.original, to: `/afterlife#${t.id}` })),
       ...gospelNodes.map((g) => ({ kind: 'Gospel history', title: g.title, sub: `${g.year} · ${g.place}`, to: `/gospel-history?node=${g.id}` })),
       ...eras.map((e) => ({ kind: 'Era', title: e.name, sub: e.summary.slice(0, 80), to: `/timeline?era=${e.id}` })),
+      ...guides.map((g) => ({ kind: 'Study guide', title: g.title, sub: g.question, to: `/guides/${g.id}` })),
+      ...figures.map((f) => ({ kind: 'Theologian', title: f.name, sub: `${f.lived} · ${f.profession}`, to: '/theologians' })),
       ...studyPaths.map((s) => ({ kind: 'Study path', title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to }))),
     ];

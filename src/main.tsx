@@ -21,6 +21,8 @@ import Context, { ContextPage } from './pages/Context';
 import Study from './pages/Study';
 import Quiz from './pages/Quiz';
 import NotFound from './pages/NotFound';
+import Guides, { GuidePage } from './pages/Guides';
+import Theologians from './pages/Theologians';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -49,6 +51,9 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="/context/:id" element={<ContextPage />} />
           <Route path="/study" element={<Study />} />
           <Route path="/quiz" element={<Quiz />} />
+          <Route path="/guides" element={<Guides />} />
+          <Route path="/guides/:id" element={<GuidePage />} />
+          <Route path="/theologians" element={<Theologians />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Layout>
