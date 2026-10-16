@@ -1,0 +1,1509 @@
+[
+ {
+  "from": "elkanah",
+  "to": "hannah",
+  "type": "spouse",
+  "refs": [
+   "1 Sam 1:1-2",
+   "1 Sam 1:8"
+  ],
+  "note": "Elkanah loved Hannah and gave her a double portion though she was childless."
+ },
+ {
+  "from": "elkanah",
+  "to": "peninnah",
+  "type": "spouse",
+  "refs": [
+   "1 Sam 1:2"
+  ],
+  "note": "Peninnah was Elkanah's second wife and had children."
+ },
+ {
+  "from": "elkanah",
+  "to": "samuel",
+  "type": "family",
+  "refs": [
+   "1 Sam 1:19-20"
+  ],
+  "note": "Father of Samuel."
+ },
+ {
+  "from": "peninnah",
+  "to": "hannah",
+  "type": "enemy",
+  "refs": [
+   "1 Sam 1:6-7"
+  ],
+  "note": "Called Hannah's 'rival'; she provoked her year after year."
+ },
+ {
+  "from": "eli",
+  "to": "hophni",
+  "type": "family",
+  "refs": [
+   "1 Sam 1:3",
+   "1 Sam 2:22-25"
+  ],
+  "note": "Eli's son; Eli rebuked him but did not restrain him (1 Sam 3:13)."
+ },
+ {
+  "from": "eli",
+  "to": "phinehas-son-of-eli",
+  "type": "family",
+  "refs": [
+   "1 Sam 1:3",
+   "1 Sam 2:22-25"
+  ],
+  "note": "Eli's son, priest at Shiloh."
+ },
+ {
+  "from": "hophni",
+  "to": "phinehas-son-of-eli",
+  "type": "family",
+  "refs": [
+   "1 Sam 2:34",
+   "1 Sam 4:11"
+  ],
+  "note": "Brothers who died on the same day, as foretold."
+ },
+ {
+  "from": "phinehas-son-of-eli",
+  "to": "ichabod",
+  "type": "family",
+  "refs": [
+   "1 Sam 4:19-21",
+   "1 Sam 14:3"
+  ],
+  "note": "Ichabod was born as news of Phinehas's death arrived."
+ },
+ {
+  "from": "eli",
+  "to": "ichabod",
+  "type": "family",
+  "refs": [
+   "1 Sam 4:21"
+  ],
+  "note": "Grandson of Eli."
+ },
+ {
+  "from": "samuel",
+  "to": "hophni",
+  "type": "confrontation",
+  "refs": [
+   "1 Sam 2:12-26",
+   "1 Sam 3:11-14"
+  ],
+  "note": "The boy Samuel grew in favour while Eli's sons grew corrupt; Samuel's first prophecy announced judgment on Eli's house."
+ },
+ {
+  "from": "eli",
+  "to": "abiathar",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:3",
+   "1 Sam 22:20",
+   "1 Kgs 2:27"
+  ],
+  "note": "Descendant (generations omitted): Abiathar son of Ahimelech son of Ahitub son of Phinehas; his banishment fulfilled the word against Eli's house."
+ },
+ {
+  "from": "kish",
+  "to": "saul-king",
+  "type": "family",
+  "refs": [
+   "1 Sam 9:1-2"
+  ],
+  "note": "Father of Saul."
+ },
+ {
+  "from": "kish",
+  "to": "abner",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:50-51"
+  ],
+  "note": "Kish and Ner (Abner's father) were sons of Abiel, so Abner was Saul's cousin; 1 Chr 8:33 suggests a different arrangement (debated)."
+ },
+ {
+  "from": "saul-king",
+  "to": "abner",
+  "type": "co-worker",
+  "refs": [
+   "1 Sam 14:50",
+   "1 Sam 26:5"
+  ],
+  "note": "Abner commanded Saul's army and slept beside him in camp."
+ },
+ {
+  "from": "saul-king",
+  "to": "ishbosheth",
+  "type": "family",
+  "refs": [
+   "2 Sam 2:8",
+   "1 Chr 8:33"
+  ],
+  "note": "Son of Saul, called Eshbaal in Chronicles."
+ },
+ {
+  "from": "saul-king",
+  "to": "ishbosheth",
+  "type": "successor",
+  "refs": [
+   "2 Sam 2:8-10"
+  ],
+  "note": "Succeeded Saul over the northern tribes through Abner."
+ },
+ {
+  "from": "saul-king",
+  "to": "merab",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:49"
+  ],
+  "note": "Saul's elder daughter."
+ },
+ {
+  "from": "saul-king",
+  "to": "rizpah",
+  "type": "spouse",
+  "refs": [
+   "2 Sam 3:7",
+   "2 Sam 21:8"
+  ],
+  "note": "Rizpah was Saul's concubine and mother of two of his sons."
+ },
+ {
+  "from": "merab",
+  "to": "david",
+  "type": "confrontation",
+  "refs": [
+   "1 Sam 18:17-19"
+  ],
+  "note": "Promised to David as a reward and trap, then given to Adriel instead."
+ },
+ {
+  "from": "jonathan",
+  "to": "mephibosheth",
+  "type": "family",
+  "refs": [
+   "2 Sam 4:4",
+   "2 Sam 9:3"
+  ],
+  "note": "Jonathan's son, lame from age five."
+ },
+ {
+  "from": "jonathan",
+  "to": "ishbosheth",
+  "type": "family",
+  "refs": [
+   "1 Chr 8:33"
+  ],
+  "note": "Brothers, sons of Saul."
+ },
+ {
+  "from": "jonathan",
+  "to": "merab",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:49"
+  ],
+  "note": "Brother and sister, children of Saul."
+ },
+ {
+  "from": "merab",
+  "to": "michal",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:49"
+  ],
+  "note": "Saul's two daughters, Merab the elder and Michal the younger."
+ },
+ {
+  "from": "abner",
+  "to": "ishbosheth",
+  "type": "ally",
+  "refs": [
+   "2 Sam 2:8-10"
+  ],
+  "note": "Abner made Ishbosheth king and was the real power behind his throne."
+ },
+ {
+  "from": "ishbosheth",
+  "to": "abner",
+  "type": "confrontation",
+  "refs": [
+   "2 Sam 3:7-11"
+  ],
+  "note": "Ishbosheth's accusation over Rizpah drove Abner to David."
+ },
+ {
+  "from": "abner",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 3:12-21"
+  ],
+  "note": "Abner defected and began bringing Israel to David."
+ },
+ {
+  "from": "abner",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 2:12-17",
+   "2 Sam 3:1"
+  ],
+  "note": "Before defecting, he led the long war of Saul's house against David."
+ },
+ {
+  "from": "joab",
+  "to": "abner",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 2:23",
+   "2 Sam 3:27"
+  ],
+  "note": "Abner killed Joab's brother Asahel; Joab murdered Abner at Hebron."
+ },
+ {
+  "from": "ishbosheth",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 3:1",
+   "2 Sam 4:8-12"
+  ],
+  "note": "Rival kings; David executed Ishbosheth's murderers."
+ },
+ {
+  "from": "david",
+  "to": "mephibosheth",
+  "type": "ally",
+  "refs": [
+   "2 Sam 9:1-13",
+   "2 Sam 21:7"
+  ],
+  "note": "David showed kindness to Jonathan's son for Jonathan's sake."
+ },
+ {
+  "from": "ziba",
+  "to": "mephibosheth",
+  "type": "co-worker",
+  "refs": [
+   "2 Sam 9:9-12"
+  ],
+  "note": "Ziba farmed Saul's estate for Mephibosheth."
+ },
+ {
+  "from": "ziba",
+  "to": "mephibosheth",
+  "type": "confrontation",
+  "refs": [
+   "2 Sam 16:3",
+   "2 Sam 19:26-27"
+  ],
+  "note": "Ziba accused Mephibosheth of treachery; Mephibosheth said Ziba slandered him."
+ },
+ {
+  "from": "ziba",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 16:1-4"
+  ],
+  "note": "Brought supplies to David in flight."
+ },
+ {
+  "from": "rizpah",
+  "to": "david",
+  "type": "confrontation",
+  "refs": [
+   "2 Sam 21:10-14"
+  ],
+  "note": "Her long vigil over her executed sons moved David to bury Saul's family honourably."
+ },
+ {
+  "from": "david",
+  "to": "ahinoam",
+  "type": "spouse",
+  "refs": [
+   "1 Sam 25:43",
+   "2 Sam 2:2"
+  ],
+  "note": "Ahinoam of Jezreel, one of David's first wives."
+ },
+ {
+  "from": "david",
+  "to": "maacah",
+  "type": "spouse",
+  "refs": [
+   "2 Sam 3:3"
+  ],
+  "note": "Daughter of Talmai king of Geshur, probably a diplomatic marriage."
+ },
+ {
+  "from": "david",
+  "to": "amnon",
+  "type": "family",
+  "refs": [
+   "2 Sam 3:2"
+  ],
+  "note": "Firstborn son."
+ },
+ {
+  "from": "ahinoam",
+  "to": "amnon",
+  "type": "family",
+  "refs": [
+   "2 Sam 3:2"
+  ],
+  "note": "Mother of Amnon."
+ },
+ {
+  "from": "maacah",
+  "to": "absalom",
+  "type": "family",
+  "refs": [
+   "2 Sam 3:3"
+  ],
+  "note": "Mother of Absalom."
+ },
+ {
+  "from": "maacah",
+  "to": "tamar-daughter-of-david",
+  "type": "family",
+  "refs": [
+   "2 Sam 13:1"
+  ],
+  "note": "Tamar was Absalom's full sister, so almost certainly Maacah's daughter (inferred, not stated)."
+ },
+ {
+  "from": "david",
+  "to": "tamar-daughter-of-david",
+  "type": "family",
+  "refs": [
+   "2 Sam 13:1",
+   "1 Chr 3:9"
+  ],
+  "note": "David's daughter; he was angry at her rape but did not act (2 Sam 13:21)."
+ },
+ {
+  "from": "david",
+  "to": "adonijah",
+  "type": "family",
+  "refs": [
+   "2 Sam 3:4",
+   "1 Kgs 1:6"
+  ],
+  "note": "Son by Haggith; David had never crossed him."
+ },
+ {
+  "from": "david",
+  "to": "nathan-son-of-david",
+  "type": "family",
+  "refs": [
+   "2 Sam 5:14",
+   "1 Chr 3:5"
+  ],
+  "note": "Son born in Jerusalem."
+ },
+ {
+  "from": "bathsheba",
+  "to": "nathan-son-of-david",
+  "type": "family",
+  "refs": [
+   "1 Chr 3:5"
+  ],
+  "note": "One of four sons of Bath-shua (Bathsheba)."
+ },
+ {
+  "from": "solomon",
+  "to": "nathan-son-of-david",
+  "type": "family",
+  "refs": [
+   "1 Chr 3:5"
+  ],
+  "note": "Full brothers; Matthew traces Jesus' line through Solomon, Luke through Nathan (Matt 1:6; Luke 3:31)."
+ },
+ {
+  "from": "absalom",
+  "to": "tamar-daughter-of-david",
+  "type": "family",
+  "refs": [
+   "2 Sam 13:1",
+   "2 Sam 13:20"
+  ],
+  "note": "Her full brother, who took her into his house and later avenged her."
+ },
+ {
+  "from": "amnon",
+  "to": "tamar-daughter-of-david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 13:11-17"
+  ],
+  "note": "Half-brother who raped her and threw her out."
+ },
+ {
+  "from": "absalom",
+  "to": "amnon",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 13:22",
+   "2 Sam 13:28-29"
+  ],
+  "note": "Absalom hated Amnon for two years and then had him killed."
+ },
+ {
+  "from": "adonijah",
+  "to": "solomon",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 1:5-10",
+   "1 Kgs 2:22-25"
+  ],
+  "note": "Rival claimants; Solomon had Adonijah executed."
+ },
+ {
+  "from": "joab",
+  "to": "adonijah",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 1:7"
+  ],
+  "note": "Joab backed Adonijah's bid for the throne."
+ },
+ {
+  "from": "abiathar",
+  "to": "adonijah",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 1:7",
+   "1 Kgs 2:22"
+  ],
+  "note": "Abiathar backed Adonijah."
+ },
+ {
+  "from": "nathan",
+  "to": "adonijah",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 1:11-27"
+  ],
+  "note": "Nathan and Bathsheba thwarted Adonijah's attempt."
+ },
+ {
+  "from": "shimei",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 16:5-13"
+  ],
+  "note": "Cursed David as a 'man of blood'; David spared him."
+ },
+ {
+  "from": "solomon",
+  "to": "shimei",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 2:36-46"
+  ],
+  "note": "Solomon confined and later executed him."
+ },
+ {
+  "from": "hushai",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 15:32-37",
+   "1 Chr 27:33"
+  ],
+  "note": "'The king's friend', sent back as David's double agent."
+ },
+ {
+  "from": "hushai",
+  "to": "ahithophel",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 15:34",
+   "2 Sam 17:5-14"
+  ],
+  "note": "Hushai's counsel defeated Ahithophel's, as David had prayed."
+ },
+ {
+  "from": "hushai",
+  "to": "absalom",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 16:16-19",
+   "2 Sam 17:7-14"
+  ],
+  "note": "Pretended loyalty to Absalom while working for David."
+ },
+ {
+  "from": "ahithophel",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 15:12",
+   "2 Sam 15:31"
+  ],
+  "note": "David's trusted counsellor who joined Absalom's revolt."
+ },
+ {
+  "from": "ahithophel",
+  "to": "absalom",
+  "type": "ally",
+  "refs": [
+   "2 Sam 16:20-23",
+   "2 Sam 17:1-4"
+  ],
+  "note": "Chief adviser to Absalom."
+ },
+ {
+  "from": "ahithophel",
+  "to": "bathsheba",
+  "type": "family",
+  "refs": [
+   "2 Sam 11:3",
+   "2 Sam 23:34"
+  ],
+  "note": "Possibly her grandfather, if Eliam son of Ahithophel is Eliam father of Bathsheba (speculative)."
+ },
+ {
+  "from": "zadok",
+  "to": "hushai",
+  "type": "co-worker",
+  "refs": [
+   "2 Sam 15:35-36",
+   "2 Sam 17:15-16"
+  ],
+  "note": "Hushai passed intelligence to David through the priests and their sons."
+ },
+ {
+  "from": "benaiah",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 8:18",
+   "2 Sam 23:20-23"
+  ],
+  "note": "Mighty man and captain of David's bodyguard."
+ },
+ {
+  "from": "benaiah",
+  "to": "solomon",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 1:36-38",
+   "1 Kgs 2:35"
+  ],
+  "note": "Escorted Solomon to his anointing and became his army commander."
+ },
+ {
+  "from": "benaiah",
+  "to": "joab",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 2:34-35"
+  ],
+  "note": "Executed Joab and took his place over the army."
+ },
+ {
+  "from": "benaiah",
+  "to": "adonijah",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 2:25"
+  ],
+  "note": "Carried out Adonijah's execution."
+ },
+ {
+  "from": "zadok",
+  "to": "solomon",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 1:39",
+   "1 Kgs 2:35"
+  ],
+  "note": "Anointed Solomon king and became his chief priest."
+ },
+ {
+  "from": "zadok",
+  "to": "abiathar",
+  "type": "co-worker",
+  "refs": [
+   "2 Sam 8:17",
+   "2 Sam 15:29"
+  ],
+  "note": "Joint priests under David."
+ },
+ {
+  "from": "abiathar",
+  "to": "zadok",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 2:26-27",
+   "1 Kgs 2:35"
+  ],
+  "note": "Zadok replaced Abiathar as chief priest."
+ },
+ {
+  "from": "zadok",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 15:24-29",
+   "2 Sam 19:11"
+  ],
+  "note": "Loyal priest during Absalom's revolt."
+ },
+ {
+  "from": "abiathar",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "1 Sam 22:20-23",
+   "1 Sam 23:6"
+  ],
+  "note": "Escaped Nob and served David with the ephod for decades."
+ },
+ {
+  "from": "eleazar-priest",
+  "to": "zadok",
+  "type": "family",
+  "refs": [
+   "1 Chr 6:4-8"
+  ],
+  "note": "Descendant (generations omitted) according to the Chronicler's genealogy."
+ },
+ {
+  "from": "hiram",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 5:11",
+   "1 Kgs 5:1"
+  ],
+  "note": "Sent cedar and craftsmen; 'always loved David'."
+ },
+ {
+  "from": "hiram",
+  "to": "solomon",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 5:1-12",
+   "1 Kgs 9:26-28"
+  ],
+  "note": "Treaty partner who supplied temple timber and sailors."
+ },
+ {
+  "from": "ahijah",
+  "to": "jeroboam-i",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 11:29-39",
+   "1 Kgs 14:1-16"
+  ],
+  "note": "Promised Jeroboam ten tribes, then foretold the end of his house."
+ },
+ {
+  "from": "ahijah",
+  "to": "solomon",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 11:31-33"
+  ],
+  "note": "Announced the kingdom would be torn from Solomon's son because of his idolatry."
+ },
+ {
+  "from": "rehoboam",
+  "to": "abijah-of-judah",
+  "type": "family",
+  "refs": [
+   "1 Kgs 14:31",
+   "2 Chr 11:20-22"
+  ],
+  "note": "Son by Maacah, Rehoboam's favourite wife."
+ },
+ {
+  "from": "rehoboam",
+  "to": "abijah-of-judah",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 14:31"
+  ],
+  "note": "Succeeded his father."
+ },
+ {
+  "from": "abijah-of-judah",
+  "to": "asa",
+  "type": "family",
+  "refs": [
+   "1 Kgs 15:8"
+  ],
+  "note": "Father of Asa."
+ },
+ {
+  "from": "abijah-of-judah",
+  "to": "asa",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 15:8"
+  ],
+  "note": "Asa succeeded him."
+ },
+ {
+  "from": "abijah-of-judah",
+  "to": "jeroboam-i",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 15:7",
+   "2 Chr 13:2-20"
+  ],
+  "note": "War between them; Abijah won at Zemaraim."
+ },
+ {
+  "from": "asa",
+  "to": "jehoshaphat",
+  "type": "family",
+  "refs": [
+   "1 Kgs 15:24",
+   "1 Kgs 22:41-43"
+  ],
+  "note": "Father of Jehoshaphat, who walked in his ways."
+ },
+ {
+  "from": "asa",
+  "to": "jehoshaphat",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 15:24"
+  ],
+  "note": "Jehoshaphat succeeded Asa, probably after a short co-regency (debated)."
+ },
+ {
+  "from": "asa",
+  "to": "baasha",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 15:16-22"
+  ],
+  "note": "War between them all their days."
+ },
+ {
+  "from": "asa",
+  "to": "ben-hadad",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 15:18-20",
+   "2 Chr 16:2-4"
+  ],
+  "note": "Asa bribed Ben-hadad son of Tabrimmon to break with Baasha."
+ },
+ {
+  "from": "jeroboam-i",
+  "to": "nadab-of-israel",
+  "type": "family",
+  "refs": [
+   "1 Kgs 14:20"
+  ],
+  "note": "Son of Jeroboam."
+ },
+ {
+  "from": "jeroboam-i",
+  "to": "nadab-of-israel",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 14:20"
+  ],
+  "note": "Succeeded his father."
+ },
+ {
+  "from": "baasha",
+  "to": "nadab-of-israel",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 15:27-28"
+  ],
+  "note": "Baasha assassinated Nadab."
+ },
+ {
+  "from": "nadab-of-israel",
+  "to": "baasha",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 15:28"
+  ],
+  "note": "Baasha reigned in his place."
+ },
+ {
+  "from": "ben-hadad",
+  "to": "baasha",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 15:20"
+  ],
+  "note": "Broke his treaty with Baasha and raided northern Israel."
+ },
+ {
+  "from": "omri",
+  "to": "ahab",
+  "type": "family",
+  "refs": [
+   "1 Kgs 16:28"
+  ],
+  "note": "Father of Ahab."
+ },
+ {
+  "from": "omri",
+  "to": "ahab",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 16:28"
+  ],
+  "note": "Ahab succeeded him."
+ },
+ {
+  "from": "omri",
+  "to": "athaliah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:26"
+  ],
+  "note": "Athaliah is called 'daughter' (granddaughter) of Omri."
+ },
+ {
+  "from": "omri",
+  "to": "mesha",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 3:4-5"
+  ],
+  "note": "The Mesha Stele says Omri oppressed Moab; Moab paid tribute to his dynasty."
+ },
+ {
+  "from": "ahab",
+  "to": "ahaziah-of-israel",
+  "type": "family",
+  "refs": [
+   "1 Kgs 22:40"
+  ],
+  "note": "Son of Ahab."
+ },
+ {
+  "from": "ahab",
+  "to": "ahaziah-of-israel",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 22:40"
+  ],
+  "note": "Succeeded Ahab."
+ },
+ {
+  "from": "jezebel",
+  "to": "ahaziah-of-israel",
+  "type": "family",
+  "refs": [
+   "1 Kgs 22:52"
+  ],
+  "note": "He walked in the way of his father and mother."
+ },
+ {
+  "from": "ahab",
+  "to": "jehoram-of-israel",
+  "type": "family",
+  "refs": [
+   "2 Kgs 3:1-2"
+  ],
+  "note": "Son of Ahab."
+ },
+ {
+  "from": "jezebel",
+  "to": "jehoram-of-israel",
+  "type": "family",
+  "refs": [
+   "2 Kgs 9:22"
+  ],
+  "note": "Jehu taunted Joram about his mother Jezebel."
+ },
+ {
+  "from": "ahaziah-of-israel",
+  "to": "jehoram-of-israel",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 1:17"
+  ],
+  "note": "Brothers; Ahaziah had no son, so Jehoram succeeded."
+ },
+ {
+  "from": "ahaziah-of-israel",
+  "to": "jehoram-of-israel",
+  "type": "family",
+  "refs": [
+   "2 Kgs 1:17",
+   "2 Kgs 3:1"
+  ],
+  "note": "Brothers, sons of Ahab."
+ },
+ {
+  "from": "elijah",
+  "to": "ahaziah-of-israel",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 1:3-17"
+  ],
+  "note": "Elijah intercepted his messengers to Baal-zebub and announced his death."
+ },
+ {
+  "from": "ahaziah-of-israel",
+  "to": "jehoshaphat",
+  "type": "ally",
+  "refs": [
+   "2 Chr 20:35-37"
+  ],
+  "note": "A shipping venture that God wrecked."
+ },
+ {
+  "from": "elisha",
+  "to": "jehoram-of-israel",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 3:13-14",
+   "2 Kgs 6:31-33"
+  ],
+  "note": "Elisha rebuked him and he sought Elisha's life, yet the prophet also delivered him."
+ },
+ {
+  "from": "jehu",
+  "to": "jehoram-of-israel",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 9:24"
+  ],
+  "note": "Jehu shot Joram at Jezreel."
+ },
+ {
+  "from": "jehoram-of-israel",
+  "to": "jehu",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 9:24",
+   "2 Kgs 10:36"
+  ],
+  "note": "Jehu replaced the house of Omri."
+ },
+ {
+  "from": "jehoram-of-israel",
+  "to": "mesha",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 3:4-27"
+  ],
+  "note": "Joint campaign against rebel Moab."
+ },
+ {
+  "from": "jehoshaphat",
+  "to": "mesha",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 3:7"
+  ],
+  "note": "Joined Israel's campaign against Moab."
+ },
+ {
+  "from": "elisha",
+  "to": "mesha",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 3:16-19"
+  ],
+  "note": "Elisha prophesied Moab's defeat."
+ },
+ {
+  "from": "jehoshaphat",
+  "to": "jehoram-of-judah",
+  "type": "family",
+  "refs": [
+   "1 Kgs 22:50",
+   "2 Chr 21:1"
+  ],
+  "note": "Firstborn son of Jehoshaphat."
+ },
+ {
+  "from": "jehoshaphat",
+  "to": "jehoram-of-judah",
+  "type": "successor",
+  "refs": [
+   "2 Chr 21:3"
+  ],
+  "note": "Given the kingdom as firstborn, probably after a co-regency."
+ },
+ {
+  "from": "jehoram-of-judah",
+  "to": "athaliah",
+  "type": "spouse",
+  "refs": [
+   "2 Kgs 8:18",
+   "2 Kgs 8:26"
+  ],
+  "note": "Marriage alliance with Ahab's house."
+ },
+ {
+  "from": "jehoram-of-judah",
+  "to": "ahaziah-of-judah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:24",
+   "2 Chr 21:17"
+  ],
+  "note": "His youngest son, the only one left after the raiders."
+ },
+ {
+  "from": "jehoram-of-judah",
+  "to": "ahaziah-of-judah",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 8:24"
+  ],
+  "note": "Succeeded his father."
+ },
+ {
+  "from": "elijah",
+  "to": "jehoram-of-judah",
+  "type": "confrontation",
+  "refs": [
+   "2 Chr 21:12-15"
+  ],
+  "note": "A letter from Elijah condemned him."
+ },
+ {
+  "from": "athaliah",
+  "to": "ahaziah-of-judah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:26",
+   "2 Chr 22:3"
+  ],
+  "note": "His mother and counsellor in wickedness."
+ },
+ {
+  "from": "ahaziah-of-judah",
+  "to": "joash-judah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 11:2"
+  ],
+  "note": "Joash was Ahaziah's infant son, rescued from Athaliah."
+ },
+ {
+  "from": "ahaziah-of-judah",
+  "to": "jehoram-of-israel",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 8:28-29"
+  ],
+  "note": "Nephew and uncle who fought together and died together in Jehu's revolt."
+ },
+ {
+  "from": "jehu",
+  "to": "ahaziah-of-judah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 9:27"
+  ],
+  "note": "Jehu's men killed Ahaziah."
+ },
+ {
+  "from": "obadiah-steward",
+  "to": "elijah",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 18:7-16"
+  ],
+  "note": "Arranged Elijah's meeting with Ahab."
+ },
+ {
+  "from": "obadiah-steward",
+  "to": "ahab",
+  "type": "co-worker",
+  "refs": [
+   "1 Kgs 18:3-6"
+  ],
+  "note": "Steward over Ahab's household."
+ },
+ {
+  "from": "obadiah-steward",
+  "to": "jezebel",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 18:4",
+   "1 Kgs 18:13"
+  ],
+  "note": "Secretly hid a hundred prophets from her purge."
+ },
+ {
+  "from": "elijah",
+  "to": "widow-of-zarephath",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 17:8-24"
+  ],
+  "note": "She fed Elijah; he raised her son."
+ },
+ {
+  "from": "elisha",
+  "to": "shunammite-woman",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 4:8-37",
+   "2 Kgs 8:1-6"
+  ],
+  "note": "She hosted Elisha; he promised and later raised her son."
+ },
+ {
+  "from": "elisha",
+  "to": "gehazi",
+  "type": "mentor",
+  "refs": [
+   "2 Kgs 4:12",
+   "2 Kgs 5:20-27"
+  ],
+  "note": "Gehazi served Elisha, who later exposed his greed."
+ },
+ {
+  "from": "gehazi",
+  "to": "shunammite-woman",
+  "type": "co-worker",
+  "refs": [
+   "2 Kgs 4:12-15",
+   "2 Kgs 8:4-5"
+  ],
+  "note": "Gehazi relayed messages and later told the king her story."
+ },
+ {
+  "from": "gehazi",
+  "to": "naaman",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 5:20-27"
+  ],
+  "note": "Gehazi deceived Naaman to get silver, and Naaman's leprosy came upon him."
+ },
+ {
+  "from": "elijah",
+  "to": "hazael",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 19:15"
+  ],
+  "note": "Elijah was told to anoint Hazael king of Aram."
+ },
+ {
+  "from": "elisha",
+  "to": "hazael",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 8:7-13"
+  ],
+  "note": "Elisha wept as he foretold Hazael's kingship and cruelty."
+ },
+ {
+  "from": "hazael",
+  "to": "ben-hadad",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 8:15"
+  ],
+  "note": "Hazael smothered Ben-hadad."
+ },
+ {
+  "from": "ben-hadad",
+  "to": "hazael",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 8:15"
+  ],
+  "note": "Hazael reigned in his place; Hazael's son also took the name Ben-hadad (2 Kgs 13:24)."
+ },
+ {
+  "from": "hazael",
+  "to": "jehoram-of-israel",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 8:28-29"
+  ],
+  "note": "Fought and wounded Joram at Ramoth-gilead."
+ },
+ {
+  "from": "hazael",
+  "to": "jehu",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 10:32-33"
+  ],
+  "note": "Took Israel's land east of the Jordan."
+ },
+ {
+  "from": "hazael",
+  "to": "joash-judah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 12:17-18"
+  ],
+  "note": "Joash paid him off with temple treasures."
+ },
+ {
+  "from": "ben-hadad",
+  "to": "ahab",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 20:1-34"
+  ],
+  "note": "Twice defeated by Ahab, who then spared him."
+ },
+ {
+  "from": "elisha",
+  "to": "ben-hadad",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 6:8-12",
+   "2 Kgs 8:7-10"
+  ],
+  "note": "Elisha foiled his raids and later answered his messenger."
+ },
+ {
+  "from": "jehoiada",
+  "to": "joash-judah",
+  "type": "mentor",
+  "refs": [
+   "2 Kgs 12:2",
+   "2 Chr 24:2"
+  ],
+  "note": "Joash did right all the days Jehoiada instructed him."
+ },
+ {
+  "from": "jehoiada",
+  "to": "athaliah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 11:4-16"
+  ],
+  "note": "Organised the coup that ended her reign."
+ },
+ {
+  "from": "jehoiada",
+  "to": "zechariah-son-of-jehoiada",
+  "type": "family",
+  "refs": [
+   "2 Chr 24:20"
+  ],
+  "note": "His son, later stoned at Joash's command."
+ },
+ {
+  "from": "joash-judah",
+  "to": "amaziah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 12:21",
+   "2 Kgs 14:1"
+  ],
+  "note": "Son of Joash."
+ },
+ {
+  "from": "joash-judah",
+  "to": "amaziah",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 12:21"
+  ],
+  "note": "Succeeded his murdered father."
+ },
+ {
+  "from": "amaziah",
+  "to": "uzziah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 14:21",
+   "2 Chr 26:1"
+  ],
+  "note": "Uzziah (Azariah) was his son."
+ },
+ {
+  "from": "amaziah",
+  "to": "uzziah",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 14:21"
+  ],
+  "note": "Probably after a long co-regency (debated)."
+ },
+ {
+  "from": "uzziah",
+  "to": "jotham",
+  "type": "family",
+  "refs": [
+   "2 Kgs 15:7",
+   "2 Chr 26:21"
+  ],
+  "note": "Son who governed for his leprous father."
+ },
+ {
+  "from": "uzziah",
+  "to": "jotham",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 15:7"
+  ],
+  "note": "Jotham ruled as regent, then as king."
+ },
+ {
+  "from": "jotham",
+  "to": "ahaz",
+  "type": "family",
+  "refs": [
+   "2 Kgs 15:38",
+   "2 Kgs 16:1"
+  ],
+  "note": "Son of Jotham."
+ },
+ {
+  "from": "jotham",
+  "to": "ahaz",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 15:38"
+  ],
+  "note": "Overlap between their reigns is debated."
+ },
+ {
+  "from": "ahaz",
+  "to": "hezekiah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 16:20",
+   "2 Kgs 18:1"
+  ],
+  "note": "Father of Hezekiah, who reversed his policies."
+ },
+ {
+  "from": "ahaz",
+  "to": "hezekiah",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 16:20"
+  ],
+  "note": "Hezekiah succeeded him."
+ },
+ {
+  "from": "isaiah",
+  "to": "ahaz",
+  "type": "confrontation",
+  "refs": [
+   "Isa 7:1-17"
+  ],
+  "note": "Isaiah urged faith and gave the Immanuel sign; Ahaz turned to Assyria instead."
+ },
+ {
+  "from": "pekah",
+  "to": "ahaz",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 16:5",
+   "Isa 7:1"
+  ],
+  "note": "Pekah and Rezin besieged Jerusalem (the Syro-Ephraimite war)."
+ },
+ {
+  "from": "ahaz",
+  "to": "tiglath-pileser-iii",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 16:7-10"
+  ],
+  "note": "Ahaz became his vassal: 'I am your servant and your son.'"
+ },
+ {
+  "from": "tiglath-pileser-iii",
+  "to": "menahem",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 15:19-20"
+  ],
+  "note": "'Pul' extracted a thousand talents of silver."
+ },
+ {
+  "from": "tiglath-pileser-iii",
+  "to": "pekah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 15:29"
+  ],
+  "note": "Took Galilee and Gilead in Pekah's days."
+ },
+ {
+  "from": "pekah",
+  "to": "hoshea-king",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 15:30"
+  ],
+  "note": "Hoshea killed Pekah and reigned in his place."
+ },
+ {
+  "from": "hoshea-king",
+  "to": "pekah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 15:30"
+  ],
+  "note": "Hoshea assassinated Pekah."
+ },
+ {
+  "from": "shalmaneser-v",
+  "to": "hoshea-king",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 17:3-6"
+  ],
+  "note": "Imprisoned Hoshea and besieged Samaria."
+ },
+ {
+  "from": "jehu",
+  "to": "jeroboam-ii",
+  "type": "family",
+  "refs": [
+   "2 Kgs 10:30",
+   "2 Kgs 15:12"
+  ],
+  "note": "Descendant (generations omitted): great-grandson through Jehoahaz and Jehoash; Jehu's dynasty lasted to the fourth generation as promised."
+ },
+ {
+  "from": "jonah",
+  "to": "jeroboam-ii",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 14:25"
+  ],
+  "note": "Jonah foretold Jeroboam's restoration of Israel's borders."
+ },
+ {
+  "from": "amos",
+  "to": "jeroboam-ii",
+  "type": "confrontation",
+  "refs": [
+   "Amos 7:9-11"
+  ],
+  "note": "Amos prophesied the sword against Jeroboam's house."
+ },
+ {
+  "from": "hosea",
+  "to": "jeroboam-ii",
+  "type": "confrontation",
+  "refs": [
+   "Hos 1:1",
+   "Hos 1:4"
+  ],
+  "note": "Hosea began prophesying in his reign, announcing the end of Jehu's house."
+ }
+]
