@@ -1,0 +1,448 @@
+[
+  {
+    "id": "pauls-journeys",
+    "title": "Paul's journeys in 7 steps",
+    "summary": "Follow Paul from the Damascus road to house arrest in Rome, using the maps to trace how the gospel moved from Jerusalem to the capital of the empire.",
+    "steps": [
+      {
+        "title": "The persecutor called",
+        "body": "Saul of Tarsus, a Pharisee trained under Gamaliel, was hunting Jesus' followers when the risen Jesus confronted him near Damascus. Blinded, he was baptised by Ananias and began proclaiming Jesus as Son of God. Paul later described this as a commission to the Gentiles.",
+        "refs": ["Acts 9:1-22", "Acts 22:3", "Gal 1:13-16"],
+        "link": "/people/paul"
+      },
+      {
+        "title": "Hidden years and Antioch",
+        "body": "Paul says he went to Arabia, returned to Damascus, and only after three years visited Jerusalem briefly before going to Syria and Cilicia. Barnabas later fetched him from Tarsus to teach in Antioch, where disciples were first called Christians.",
+        "refs": ["Gal 1:17-24", "Acts 9:26-30", "Acts 11:25-26"],
+        "link": "/people/barnabas"
+      },
+      {
+        "title": "First journey: Cyprus and Galatia",
+        "body": "Sent out by the Antioch church, Barnabas and Saul preached in Cyprus, then in Pisidian Antioch, Iconium, Lystra and Derbe. A pattern emerges: synagogue first, then Gentiles, with opposition following. They retraced their steps to appoint elders.",
+        "refs": ["Acts 13:1-14:28"],
+        "link": "/maps?journey=paul-journey-1"
+      },
+      {
+        "title": "The Jerusalem council",
+        "body": "Gentile conversions forced a question: must Gentile believers be circumcised and keep the law of Moses? Peter, Paul, Barnabas and James agreed they need not, asking only certain abstentions that eased table fellowship.",
+        "refs": ["Acts 15:1-35", "Gal 2:1-10"],
+        "link": "/people/james-brother-of-jesus"
+      },
+      {
+        "title": "Second journey: into Europe",
+        "body": "After parting from Barnabas, Paul took Silas, gained Timothy at Lystra, and was called by a vision to Macedonia. Churches formed in Philippi, Thessalonica and Berea; Paul spoke in Athens and stayed eighteen months in Corinth with Priscilla and Aquila.",
+        "refs": ["Acts 15:36-18:22", "Acts 16:9-10"],
+        "link": "/maps?journey=paul-journey-2"
+      },
+      {
+        "title": "Third journey: Ephesus",
+        "body": "Paul spent over two years in Ephesus, teaching daily so that the word spread through the province of Asia, until a riot by silversmiths. He revisited Macedonia and Greece, collected money for the Jerusalem poor and said farewell to the Ephesian elders at Miletus.",
+        "refs": ["Acts 19:1-41", "Acts 20:17-38", "Rom 15:25-28"],
+        "link": "/maps?journey=paul-journey-3"
+      },
+      {
+        "title": "Arrest and the road to Rome",
+        "body": "Arrested in the temple, Paul defended himself before crowds, councils, governors and King Agrippa, then appealed to Caesar. After shipwreck on Malta he reached Rome and spent two years under guard, preaching the kingdom of God without hindrance.",
+        "refs": ["Acts 21:27-36", "Acts 25:10-12", "Acts 27:1-28:16", "Acts 28:30-31"],
+        "link": "/maps?journey=paul-to-rome"
+      }
+    ]
+  },
+  {
+    "id": "kingdom-genesis-to-revelation",
+    "title": "The kingdom from Genesis to Revelation",
+    "summary": "Trace the theme of God's reign from humanity's commission in Eden through Israel's kings to Jesus' announcement and the final renewal of all things.",
+    "steps": [
+      {
+        "title": "Image-bearers given dominion",
+        "body": "Humans are made in God's image and told to fill and rule the earth as his representatives. Many read this as the first expression of God's kingdom purpose: God's rule extended through faithful human stewards. The fall disrupts but does not cancel that calling.",
+        "refs": ["Gen 1:26-28", "Ps 8:3-8"],
+        "link": "/people/adam"
+      },
+      {
+        "title": "A promise of blessing and kings",
+        "body": "God promises Abraham a great nation, a blessing for all families of the earth, and that kings will come from him. Jacob's blessing gives the sceptre to Judah.",
+        "refs": ["Gen 12:1-3", "Gen 17:6", "Gen 49:10"],
+        "link": "/people/abraham"
+      },
+      {
+        "title": "A kingdom of priests",
+        "body": "At Sinai, God calls Israel to be his treasured possession, a kingdom of priests and a holy nation. The LORD himself is Israel's king, as the Song of the Sea celebrates.",
+        "refs": ["Exod 15:18", "Exod 19:5-6"],
+        "link": "/maps?journey=exodus"
+      },
+      {
+        "title": "David's throne",
+        "body": "God promises David a son whose throne will be established forever. When later kings failed, this promise became the core of hope for a Messiah, a future anointed king.",
+        "refs": ["2 Sam 7:12-16", "Ps 89:3-4", "Isa 9:6-7"],
+        "link": "/people/david"
+      },
+      {
+        "title": "Kingdoms of the world and the kingdom of God",
+        "body": "In exile, Daniel sees successive empires replaced by a kingdom God sets up that will never be destroyed, and one like a son of man given everlasting dominion.",
+        "refs": ["Dan 2:44", "Dan 7:13-14"],
+        "link": "/people/daniel"
+      },
+      {
+        "title": "The kingdom has come near",
+        "body": "Jesus begins his ministry announcing that the time is fulfilled and the kingdom of God is at hand. His healings, exorcisms, parables and table fellowship show what God's reign looks like, and he teaches disciples to pray for it to come on earth as in heaven.",
+        "refs": ["Mark 1:14-15", "Matt 6:9-10", "Matt 12:28", "Luke 17:20-21"],
+        "link": "/people/jesus"
+      },
+      {
+        "title": "Proclaiming the kingdom to the nations",
+        "body": "The risen Jesus speaks of the kingdom for forty days and sends his followers to the ends of the earth. Acts ends with Paul in Rome proclaiming the kingdom of God, and believers are said to be transferred into the kingdom of God's Son.",
+        "refs": ["Acts 1:3-8", "Acts 28:31", "Col 1:13"],
+        "link": "/maps?journey=paul-to-rome"
+      },
+      {
+        "title": "The kingdom consummated",
+        "body": "Christ must reign until every enemy is defeated, the last being death, and then hands the kingdom to the Father. Revelation announces that the kingdom of the world has become the kingdom of our Lord and of his Christ. How the millennium of Revelation 20 fits this sequence is debated.",
+        "refs": ["1 Cor 15:24-28", "Rev 11:15", "Rev 20:1-6", "Rev 21:1-5"],
+        "link": "/debates/millennium"
+      }
+    ]
+  },
+  {
+    "id": "covenants",
+    "title": "Covenants of the Bible",
+    "summary": "Walk through the major covenants God makes in scripture and see how different traditions understand their relationship.",
+    "steps": [
+      {
+        "title": "Noah: a covenant with all creation",
+        "body": "After the flood God makes an unconditional covenant with Noah, his descendants and every living creature never again to destroy the earth by flood. The rainbow is its sign. Some traditions also speak of an earlier covenant with Adam, citing Hosea 6:7, though the term is not used in Genesis 1-3.",
+        "refs": ["Gen 9:8-17", "Hos 6:7"],
+        "link": "/people/noah"
+      },
+      {
+        "title": "Abraham: land, seed and blessing",
+        "body": "God promises Abraham descendants, land and blessing for the nations, and ratifies it in a ceremony where God alone passes between the pieces. Circumcision becomes the covenant sign.",
+        "refs": ["Gen 12:1-3", "Gen 15:1-21", "Gen 17:1-14"],
+        "link": "/people/abraham"
+      },
+      {
+        "title": "Sinai: Israel's covenant law",
+        "body": "Having redeemed Israel from Egypt, God gives the law at Sinai and the people pledge obedience. The covenant is sealed with blood, and blessings and curses depend on faithfulness.",
+        "refs": ["Exod 19:3-6", "Exod 20:1-17", "Exod 24:3-8", "Deut 28:1-2"],
+        "link": "/people/moses"
+      },
+      {
+        "title": "David: an everlasting dynasty",
+        "body": "God promises David a house, a kingdom and a throne established forever. Individual kings could be disciplined, but the promise itself is presented as enduring.",
+        "refs": ["2 Sam 7:8-16", "Ps 89:3-4", "Ps 89:28-37"],
+        "link": "/people/david"
+      },
+      {
+        "title": "The new covenant promised",
+        "body": "As Judah faces exile, Jeremiah announces a new covenant: the law written on hearts, everyone knowing the LORD, and sins forgiven. Ezekiel adds a new heart and God's Spirit within.",
+        "refs": ["Jer 31:31-34", "Ezek 36:26-27"],
+        "link": "/people/jeremiah"
+      },
+      {
+        "title": "The new covenant in Jesus' blood",
+        "body": "At the Last Supper Jesus calls the cup the new covenant in his blood. Hebrews quotes Jeremiah at length and argues that Jesus mediates a better covenant.",
+        "refs": ["Luke 22:20", "1 Cor 11:25", "Heb 8:6-13"],
+        "link": "/people/jesus"
+      },
+      {
+        "title": "How do the covenants fit together?",
+        "body": "Covenant theology sees one covenant of grace unfolding through these administrations; dispensationalism stresses distinct arrangements and a continuing future for national Israel; new covenant theology and progressive covenantalism take mediating positions. Each appeals to Paul's arguments about Abraham, the law and Israel.",
+        "refs": ["Gal 3:15-18", "Rom 11:25-29"],
+        "link": "/debates/israel-and-church"
+      }
+    ]
+  },
+  {
+    "id": "women-who-led",
+    "title": "Women who led",
+    "summary": "Meet women in scripture who prophesied, judged, interceded, witnessed, hosted and taught, and see where their roles are debated.",
+    "steps": [
+      {
+        "title": "Miriam the prophet",
+        "body": "Miriam led Israel's women in song after the sea crossing and is called a prophet. Micah lists her with Moses and Aaron as leaders God sent.",
+        "refs": ["Exod 15:20-21", "Mic 6:4"],
+        "link": "/people/miriam"
+      },
+      {
+        "title": "Deborah the judge",
+        "body": "Deborah was a prophet who judged Israel, settling disputes under a palm tree. She summoned Barak to battle against Sisera and celebrated the victory in one of the oldest songs in the Bible.",
+        "refs": ["Judg 4:4-10", "Judg 5:1-12"],
+        "link": "/people/deborah"
+      },
+      {
+        "title": "Huldah the prophet",
+        "body": "When the Book of the Law was found in the temple, King Josiah's officials went to Huldah the prophet. Her word authenticated the book and set the course of Josiah's reform.",
+        "refs": ["2 Kgs 22:14-20"],
+        "link": "/people/huldah"
+      },
+      {
+        "title": "Esther the queen",
+        "body": "Esther risked her life to approach the Persian king and expose a plot against the Jews. With Mordecai she later wrote with full authority to confirm the feast of Purim.",
+        "refs": ["Esth 4:13-16", "Esth 9:29-32"],
+        "link": "/people/esther"
+      },
+      {
+        "title": "Mary Magdalene, first witness",
+        "body": "All four Gospels place women at the empty tomb, and John and Matthew record the risen Jesus appearing to Mary Magdalene and the women first, sending them to tell the disciples.",
+        "refs": ["John 20:11-18", "Luke 24:1-10", "Matt 28:8-10"],
+        "link": "/people/mary-magdalene"
+      },
+      {
+        "title": "Lydia the host",
+        "body": "Lydia, a dealer in purple cloth, was the first recorded convert in Philippi. Her household was baptised, and her home became the base of the new church.",
+        "refs": ["Acts 16:13-15", "Acts 16:40"],
+        "link": "/people/lydia"
+      },
+      {
+        "title": "Priscilla the teacher",
+        "body": "Priscilla and her husband Aquila explained the way of God more accurately to the eloquent Apollos. Paul calls them co-workers who risked their necks for him and hosted a church in their home; Priscilla is often named first.",
+        "refs": ["Acts 18:24-26", "Rom 16:3-5"],
+        "link": "/people/priscilla"
+      },
+      {
+        "title": "Phoebe and Junia: debated roles",
+        "body": "Paul commends Phoebe as a deacon (or servant) and patron of the church at Cenchreae, and greets Junia with Andronicus as \"of note among the apostles\" (or \"well known to the apostles\"). How these titles should be read is part of a wider debate over women's roles in church leadership.",
+        "refs": ["Rom 16:1-2", "Rom 16:7"],
+        "link": "/debates/gender-roles"
+      }
+    ]
+  },
+  {
+    "id": "prophets-confronted-kings",
+    "title": "Prophets who confronted kings",
+    "summary": "In Israel the king was not above God's word. Follow prophets who rebuked rulers, often at great personal cost.",
+    "steps": [
+      {
+        "title": "Samuel and Saul",
+        "body": "When Saul offered sacrifice without waiting and later spared what God had devoted to destruction, Samuel announced that the kingdom would be taken from him: to obey is better than sacrifice.",
+        "refs": ["1 Sam 13:8-14", "1 Sam 15:22-28"],
+        "link": "/people/samuel"
+      },
+      {
+        "title": "Nathan and David",
+        "body": "After David took Bathsheba and arranged Uriah's death, Nathan told a parable of a rich man stealing a poor man's lamb and then declared, \"You are the man.\" David confessed, but the consequences followed his house.",
+        "refs": ["2 Sam 12:1-14", "Ps 51"],
+        "link": "/people/nathan"
+      },
+      {
+        "title": "Elijah and Ahab",
+        "body": "Elijah announced drought, defeated Baal's prophets on Mount Carmel, and later confronted Ahab in Naboth's vineyard after Jezebel had Naboth killed for his land.",
+        "refs": ["1 Kgs 17:1", "1 Kgs 18:17-40", "1 Kgs 21:17-24"],
+        "link": "/people/elijah"
+      },
+      {
+        "title": "Micaiah and the four hundred",
+        "body": "Four hundred court prophets promised Ahab victory; Micaiah alone foretold his death and was jailed for it. Ahab died in the battle as Micaiah had said.",
+        "refs": ["1 Kgs 22:6-37"],
+        "link": "/people/micaiah"
+      },
+      {
+        "title": "Amos at Bethel",
+        "body": "Amos announced judgment on Jeroboam II's house at the royal sanctuary of Bethel. The priest Amaziah ordered him back to Judah; Amos replied that he was no professional prophet but had been sent by the LORD.",
+        "refs": ["Amos 7:10-17"],
+        "link": "/people/amos"
+      },
+      {
+        "title": "Isaiah and the kings of Judah",
+        "body": "Isaiah urged King Ahaz to trust God rather than Assyria and gave the sign of Immanuel. Later he encouraged Hezekiah against Sennacherib but rebuked him for showing his treasures to Babylonian envoys.",
+        "refs": ["Isa 7:1-14", "Isa 37:21-35", "Isa 39:1-8"],
+        "link": "/people/isaiah"
+      },
+      {
+        "title": "Jeremiah and the last kings",
+        "body": "King Jehoiakim cut up and burned Jeremiah's scroll; Jeremiah had it rewritten. Zedekiah consulted him secretly but lacked the courage to surrender to Babylon as Jeremiah urged.",
+        "refs": ["Jer 36:20-32", "Jer 38:14-23"],
+        "link": "/people/jeremiah"
+      },
+      {
+        "title": "John the Baptist and Herod Antipas",
+        "body": "John told Herod Antipas that it was not lawful for him to have his brother's wife. He was imprisoned and then beheaded at Herodias' instigation.",
+        "refs": ["Mark 6:17-29", "Luke 3:19-20"],
+        "link": "/people/john-the-baptist"
+      }
+    ]
+  },
+  {
+    "id": "exile-to-return",
+    "title": "From exile to return",
+    "summary": "How Israel and Judah lost land, temple and king, what faith looked like in Babylon and Persia, and how far the return fulfilled the prophets' hopes.",
+    "steps": [
+      {
+        "title": "The fall of Samaria",
+        "body": "Assyria captured Samaria around 722 BC and deported the northern tribes. Kings explains the disaster theologically: Israel had followed other gods despite repeated prophetic warnings.",
+        "refs": ["2 Kgs 17:5-23"],
+        "link": "/timeline"
+      },
+      {
+        "title": "Josiah's reform and a delayed sentence",
+        "body": "Josiah purged idolatry and renewed the covenant after the Book of the Law was found. Yet Kings says judgment on Judah was only postponed because of Manasseh's sins.",
+        "refs": ["2 Kgs 22:8-20", "2 Kgs 23:1-3", "2 Kgs 23:25-27"],
+        "link": "/people/josiah"
+      },
+      {
+        "title": "Jerusalem falls",
+        "body": "Babylon deported Judah's elite in waves from about 605 to 586 BC (some date the fall to 587). Nebuchadnezzar's army burned the temple, broke down the walls and blinded Zedekiah.",
+        "refs": ["2 Kgs 24:10-16", "2 Kgs 25:1-21", "Lam 1:1-6"],
+        "link": "/maps?journey=exile-to-babylon"
+      },
+      {
+        "title": "Faith in Babylon",
+        "body": "Jeremiah told exiles to build houses and seek the city's welfare. Ezekiel saw God's glory by the Chebar canal, far from the temple, and Daniel and his friends remained faithful at court.",
+        "refs": ["Jer 29:4-14", "Ezek 1:1-3", "Dan 1:1-8", "Ps 137:1-6"],
+        "link": "/people/ezekiel"
+      },
+      {
+        "title": "Cyrus and the first return",
+        "body": "After Persia conquered Babylon in 539 BC, Cyrus allowed Jews to return and rebuild. Isaiah had called Cyrus the LORD's anointed.",
+        "refs": ["Ezra 1:1-4", "Isa 44:28-45:1"],
+        "link": "/people/cyrus"
+      },
+      {
+        "title": "The temple rebuilt",
+        "body": "Under Zerubbabel and Joshua the foundation was laid, but work stalled until Haggai and Zechariah stirred the people. The temple was finished around 516/515 BC; older people wept because it seemed small beside Solomon's.",
+        "refs": ["Ezra 3:10-13", "Hag 1:1-11", "Ezra 6:14-16"],
+        "link": "/people/zerubbabel"
+      },
+      {
+        "title": "Esther in the Persian diaspora",
+        "body": "Many Jews stayed in Persia. The book of Esther shows God's people preserved in the empire without God ever being named.",
+        "refs": ["Esth 4:13-14", "Esth 9:20-22"],
+        "link": "/people/esther"
+      },
+      {
+        "title": "Ezra and Nehemiah",
+        "body": "Ezra brought the law and taught it; Nehemiah rebuilt Jerusalem's walls in fifty-two days and the people renewed the covenant. The order and dating of their missions is debated.",
+        "refs": ["Ezra 7:6-10", "Neh 2:1-8", "Neh 6:15", "Neh 8:1-8"],
+        "link": "/maps?journey=return-under-ezra-nehemiah"
+      },
+      {
+        "title": "An unfinished return",
+        "body": "Even after the return, the people confessed that they were still slaves in their own land under foreign kings, and Malachi rebuked a weary priesthood while promising a coming messenger. Some scholars argue many Jews saw the exile as continuing until God's fuller restoration; others think this overstates the evidence.",
+        "refs": ["Neh 9:36-37", "Mal 3:1-4", "Mal 4:5-6"],
+        "link": "/people/malachi"
+      }
+    ]
+  },
+  {
+    "id": "gospel-in-acts",
+    "title": "The gospel in Acts: every sermon",
+    "summary": "Read the major speeches in Acts in order and compare how the message about Jesus is framed for Jews, God-fearers, pagans and rulers.",
+    "steps": [
+      {
+        "title": "Peter at Pentecost",
+        "body": "Peter explains the Spirit's coming from Joel, then argues from Psalms that the crucified Jesus was raised and exalted as Lord and Christ. He calls hearers to repent and be baptised, and about three thousand respond.",
+        "refs": ["Acts 2:14-41"],
+        "link": "/people/peter"
+      },
+      {
+        "title": "Peter at Solomon's Portico and before the council",
+        "body": "After a lame man is healed, Peter tells the crowd they killed the Author of life whom God raised, and calls them to repent so their sins may be blotted out. Before the Sanhedrin he declares there is salvation in no one else.",
+        "refs": ["Acts 3:12-26", "Acts 4:8-12", "Acts 5:29-32"],
+        "link": "/gospel-history"
+      },
+      {
+        "title": "Stephen's defence",
+        "body": "Stephen retells Israel's story from Abraham to Solomon, stressing that God was never confined to one land or building and that Israel repeatedly resisted those God sent. His speech ends in his martyrdom.",
+        "refs": ["Acts 7:2-53", "Acts 7:54-60"],
+        "link": "/people/stephen"
+      },
+      {
+        "title": "Peter at Cornelius' house",
+        "body": "Peter tells a Roman centurion's household that God shows no partiality, summarises Jesus' ministry, death and resurrection, and says everyone who believes receives forgiveness. The Spirit falls on the Gentile hearers.",
+        "refs": ["Acts 10:34-48"],
+        "link": "/people/cornelius"
+      },
+      {
+        "title": "Paul at Pisidian Antioch",
+        "body": "In the synagogue Paul traces Israel's history to David, presents Jesus as David's promised descendant raised from the dead, and announces forgiveness and freedom that the law of Moses could not give.",
+        "refs": ["Acts 13:16-41"],
+        "link": "/maps?journey=paul-journey-1"
+      },
+      {
+        "title": "Paul at Lystra",
+        "body": "Facing pagans who want to worship them, Paul and Barnabas urge them to turn from idols to the living God who made heaven and earth and showed his kindness through rain and harvests.",
+        "refs": ["Acts 14:15-17"],
+        "link": "/maps?journey=paul-journey-1"
+      },
+      {
+        "title": "Paul at the Areopagus",
+        "body": "In Athens Paul starts from an altar \"to an unknown god\" and quotes Greek poets, proclaims the Creator who does not live in shrines, and calls for repentance in view of judgment by the man God raised from the dead.",
+        "refs": ["Acts 17:22-31"],
+        "link": "/maps?journey=paul-journey-2"
+      },
+      {
+        "title": "Paul to the Ephesian elders",
+        "body": "Paul's only recorded speech to believers recalls his teaching of repentance toward God and faith in Jesus, charges the elders to shepherd the church obtained with God's own blood, and cites Jesus' saying that it is more blessed to give than to receive.",
+        "refs": ["Acts 20:17-35"],
+        "link": "/maps?journey=paul-journey-3"
+      },
+      {
+        "title": "Paul's defences",
+        "body": "Before the Jerusalem crowd and later before Agrippa and Festus, Paul tells his own conversion story and insists he says nothing beyond what Moses and the prophets foretold: that the Christ must suffer and rise and proclaim light to Jews and Gentiles.",
+        "refs": ["Acts 22:1-21", "Acts 24:10-21", "Acts 26:2-23"],
+        "link": "/maps?journey=paul-to-rome"
+      }
+    ]
+  },
+  {
+    "id": "death-resurrection-new-creation",
+    "title": "Death, resurrection and new creation",
+    "summary": "Follow the Bible's developing hope from the shadow of Sheol to the resurrection of Jesus and the promise of a renewed creation.",
+    "steps": [
+      {
+        "title": "Death enters",
+        "body": "God warns that eating from the tree of knowledge will bring death, and after the fall humans return to the dust. Paul reads Adam's sin as the doorway through which death spread to all.",
+        "refs": ["Gen 2:17", "Gen 3:19", "Rom 5:12"],
+        "link": "/people/adam"
+      },
+      {
+        "title": "The shadow of Sheol",
+        "body": "Much of the Old Testament speaks of Sheol, the realm of the dead, as a place of silence and darkness where praise ceases. Some psalms nevertheless express hope that God will not abandon the faithful there.",
+        "refs": ["Ps 88:3-12", "Eccl 9:5-10", "Job 14:10-14", "Ps 16:9-11"],
+        "link": "/afterlife"
+      },
+      {
+        "title": "Hope of resurrection",
+        "body": "The prophets begin to speak of the dead rising. Isaiah promises that the dead will live; Ezekiel sees dry bones restored, which he applies to Israel's national revival; Daniel speaks plainly of many who sleep in the dust awakening.",
+        "refs": ["Isa 25:7-8", "Isa 26:19", "Ezek 37:1-14", "Dan 12:2-3"],
+        "link": "/people/daniel"
+      },
+      {
+        "title": "A first-century dispute",
+        "body": "By Jesus' day the Pharisees affirmed a future resurrection while the Sadducees denied it. Jesus answered the Sadducees from God's self-description as the God of Abraham, Isaac and Jacob.",
+        "refs": ["Mark 12:18-27", "Acts 23:6-8"],
+        "link": "/afterlife"
+      },
+      {
+        "title": "Jesus is raised",
+        "body": "The earliest summary Paul received says Christ died for our sins, was buried, was raised on the third day and appeared to many. The Gospels stress the risen body was physical yet transformed.",
+        "refs": ["1 Cor 15:3-8", "Luke 24:36-43", "John 20:19-20"],
+        "link": "/people/jesus"
+      },
+      {
+        "title": "Between death and resurrection",
+        "body": "Jesus promises the thief \"today you will be with me in paradise,\" and Paul says to depart is to be with Christ. Traditions differ on the intermediate state: conscious presence with Christ, purification (purgatory), or soul sleep until the resurrection.",
+        "refs": ["Luke 23:43", "Phil 1:21-23", "2 Cor 5:1-8", "1 Thess 4:13-17"],
+        "link": "/afterlife"
+      },
+      {
+        "title": "The resurrection body",
+        "body": "Paul compares the resurrection body to a plant growing from a seed: sown perishable, raised imperishable; sown natural, raised spiritual. Death itself will be swallowed up in victory.",
+        "refs": ["1 Cor 15:35-57"],
+        "link": "/people/paul"
+      },
+      {
+        "title": "Judgment",
+        "body": "Scripture speaks of all people standing before God's judgment. How to understand the final state of the lost is debated: eternal conscious punishment, conditional immortality, or hopeful universalism.",
+        "refs": ["Matt 25:31-46", "John 5:28-29", "Rev 20:11-15"],
+        "link": "/debates/hell"
+      },
+      {
+        "title": "All things new",
+        "body": "The story ends not with escape from creation but its renewal: creation itself set free from decay, a new heaven and new earth, and God dwelling with his people, wiping away every tear.",
+        "refs": ["Isa 65:17-25", "Rom 8:18-25", "Rev 21:1-5", "Rev 22:1-5"],
+        "link": "/timeline"
+      }
+    ]
+  }
+]

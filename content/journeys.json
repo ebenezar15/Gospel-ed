@@ -1,0 +1,1888 @@
+[
+  {
+    "id": "abraham",
+    "title": "Abraham's journeys",
+    "personIds": [
+      "abraham",
+      "sarah",
+      "lot",
+      "terah"
+    ],
+    "eraId": "patriarchs",
+    "summary": "Abram leaves Ur with his father Terah, settles at Haran, then at God's call walks the length of Canaan, goes down to Egypt in famine, and returns to live by Hebron. His faith is tested on a mountain in the land of Moriah.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "ur",
+        "note": "Terah takes Abram, Sarai and Lot from Ur of the Chaldeans, heading for Canaan. Stephen says God first appeared to Abraham here.",
+        "refs": [
+          "Gen 11:27-31",
+          "Acts 7:2-4"
+        ]
+      },
+      {
+        "placeId": "haran",
+        "note": "The family settles in Haran and Terah dies there. God calls Abram, aged 75, to go to the land he will show him.",
+        "refs": [
+          "Gen 11:31-32",
+          "Gen 12:1-5"
+        ]
+      },
+      {
+        "placeId": "shechem",
+        "note": "At the oak of Moreh God promises the land to Abram's offspring; Abram builds his first altar in Canaan.",
+        "refs": [
+          "Gen 12:6-7"
+        ]
+      },
+      {
+        "placeId": "bethel",
+        "note": "Abram pitches his tent between Bethel and Ai and calls on the name of the LORD.",
+        "refs": [
+          "Gen 12:8",
+          "Gen 13:3-4"
+        ]
+      },
+      {
+        "placeId": "egypt",
+        "note": "Famine drives Abram to Egypt, where he presents Sarai as his sister; Pharaoh sends them away.",
+        "refs": [
+          "Gen 12:10-20"
+        ]
+      },
+      {
+        "placeId": "negev",
+        "note": "Abram returns through the Negev, rich in livestock, silver and gold; he and Lot later part ways.",
+        "refs": [
+          "Gen 13:1-12"
+        ]
+      },
+      {
+        "placeId": "hebron",
+        "note": "Abram settles by the oaks of Mamre at Hebron, receives the covenant promises, and later buries Sarah in the cave of Machpelah.",
+        "refs": [
+          "Gen 13:18",
+          "Gen 18:1-15",
+          "Gen 23:17-20"
+        ]
+      },
+      {
+        "placeId": "moriah",
+        "note": "God tests Abraham by commanding him to offer Isaac on a mountain in the land of Moriah; a ram is provided instead.",
+        "refs": [
+          "Gen 22:1-14",
+          "2 Chr 3:1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jacob",
+    "title": "Jacob's journeys",
+    "personIds": [
+      "jacob",
+      "esau",
+      "laban",
+      "leah",
+      "rachel"
+    ],
+    "eraId": "patriarchs",
+    "summary": "Jacob flees from Esau to his uncle Laban in Paddan-aram, meeting God at Bethel on the way. Twenty years later he returns with a large family, wrestles with God at Peniel, settles in Canaan, and at the end of his life goes down to Egypt.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "beersheba",
+        "note": "Jacob leaves Beersheba after taking Esau's blessing.",
+        "refs": [
+          "Gen 28:10"
+        ]
+      },
+      {
+        "placeId": "bethel",
+        "note": "He dreams of a stairway to heaven and vows to make the LORD his God.",
+        "refs": [
+          "Gen 28:11-22"
+        ]
+      },
+      {
+        "placeId": "haran",
+        "note": "At the well near Haran he meets Rachel and serves Laban fourteen years for his wives and six for his flocks.",
+        "refs": [
+          "Gen 29:1-30",
+          "Gen 31:38-41"
+        ]
+      },
+      {
+        "placeId": "paddan-aram",
+        "note": "In Paddan-aram eleven of his sons and his daughter Dinah are born; he leaves secretly for Canaan.",
+        "refs": [
+          "Gen 29:31-30:24",
+          "Gen 31:17-18"
+        ]
+      },
+      {
+        "placeId": "peniel",
+        "note": "At the Jabbok he wrestles with a man until daybreak and is renamed Israel.",
+        "refs": [
+          "Gen 32:22-32"
+        ]
+      },
+      {
+        "placeId": "shechem",
+        "note": "He buys land at Shechem and builds an altar; the violence against Dinah and the revenge of Simeon and Levi follow.",
+        "refs": [
+          "Gen 33:18-20",
+          "Gen 34:1-31"
+        ]
+      },
+      {
+        "placeId": "bethel",
+        "note": "God calls him back to Bethel, where the family buries foreign gods and God renews the promise.",
+        "refs": [
+          "Gen 35:1-15"
+        ]
+      },
+      {
+        "placeId": "bethlehem",
+        "note": "On the way to Ephrath (Bethlehem) Rachel dies giving birth to Benjamin.",
+        "refs": [
+          "Gen 35:16-20"
+        ]
+      },
+      {
+        "placeId": "hebron",
+        "note": "Jacob comes to his father Isaac at Mamre/Hebron; Isaac dies and is buried by Esau and Jacob.",
+        "refs": [
+          "Gen 35:27-29"
+        ]
+      },
+      {
+        "placeId": "beersheba",
+        "note": "Setting out for Egypt, Jacob offers sacrifices at Beersheba and God tells him not to fear going down.",
+        "refs": [
+          "Gen 46:1-4"
+        ]
+      },
+      {
+        "placeId": "goshen",
+        "note": "Jacob settles in Goshen, blesses Pharaoh and lives seventeen more years.",
+        "refs": [
+          "Gen 46:28-47:12",
+          "Gen 47:28"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "joseph-to-egypt",
+    "title": "Joseph sold into Egypt",
+    "personIds": [
+      "joseph-patriarch",
+      "reuben",
+      "judah",
+      "jacob"
+    ],
+    "eraId": "patriarchs",
+    "summary": "Sent by his father to check on his brothers, Joseph follows them from Hebron to Shechem and Dothan, where they sell him to traders who carry him to Egypt.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "hebron",
+        "note": "Jacob sends Joseph from the Valley of Hebron to see how his brothers are doing.",
+        "refs": [
+          "Gen 37:13-14"
+        ]
+      },
+      {
+        "placeId": "shechem",
+        "note": "A man finds Joseph wandering near Shechem and tells him his brothers moved on.",
+        "refs": [
+          "Gen 37:14-17"
+        ]
+      },
+      {
+        "placeId": "dothan",
+        "note": "The brothers throw him into a pit and sell him to Ishmaelite/Midianite traders for twenty shekels.",
+        "refs": [
+          "Gen 37:17-28"
+        ]
+      },
+      {
+        "placeId": "egypt",
+        "note": "Joseph is sold to Potiphar, later imprisoned, and finally raised to rule Egypt under Pharaoh.",
+        "refs": [
+          "Gen 37:36",
+          "Gen 39:1-6",
+          "Gen 41:39-44"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exodus-southern",
+    "title": "The exodus: southern Sinai route",
+    "personIds": [
+      "moses",
+      "aaron",
+      "miriam"
+    ],
+    "eraId": "egypt-exodus",
+    "summary": "The traditional route, held since at least the fourth century: Israel crosses near the Gulf of Suez, travels down the west side of the Sinai peninsula to Jebel Musa (Mount Sinai at St. Catherine's Monastery), then north to Kadesh-barnea. Supporters point to the long monastic tradition and the eleven-day distance of Deut 1:2. The text names stations, not coordinates, and the location of the sea crossing and of Mount Sinai is uncertain. Three main reconstructions are shown as variants with equal weight.",
+    "variant": "Southern Sinai route (traditional)",
+    "confidence": "debated",
+    "stops": [
+      {
+        "placeId": "rameses",
+        "note": "Israel sets out from Rameses in the eastern Delta the day after Passover.",
+        "refs": [
+          "Exod 12:37",
+          "Num 33:3-5"
+        ]
+      },
+      {
+        "placeId": "succoth",
+        "note": "First camp; then Etham on the edge of the wilderness. God leads them by the pillar of cloud and fire, not by the coastal \"way of the Philistines.\"",
+        "refs": [
+          "Exod 13:17-22"
+        ]
+      },
+      {
+        "placeId": "red-sea",
+        "note": "On this view the crossing is at the northern tip of the Gulf of Suez or the Bitter Lakes.",
+        "refs": [
+          "Exod 14:1-31"
+        ]
+      },
+      {
+        "placeId": "marah",
+        "note": "Three days without water; the bitter water is made sweet.",
+        "refs": [
+          "Exod 15:22-26"
+        ]
+      },
+      {
+        "placeId": "elim",
+        "note": "Twelve springs and seventy palms, often placed at Wadi Gharandel.",
+        "refs": [
+          "Exod 15:27"
+        ]
+      },
+      {
+        "placeId": "wilderness-of-sin",
+        "note": "Manna and quail are given.",
+        "refs": [
+          "Exod 16:1-36"
+        ]
+      },
+      {
+        "placeId": "rephidim",
+        "note": "Water from the rock and victory over Amalek while Moses' hands are held up.",
+        "refs": [
+          "Exod 17:1-16"
+        ]
+      },
+      {
+        "placeId": "mount-sinai",
+        "note": "Mount Sinai identified with Jebel Musa in the south of the peninsula; the law is given and Israel camps nearly a year.",
+        "refs": [
+          "Exod 19:1-2",
+          "Num 10:11-12"
+        ]
+      },
+      {
+        "placeId": "kadesh-barnea",
+        "note": "Eleven days' journey from Horeb, Israel reaches Kadesh and sends the spies.",
+        "refs": [
+          "Deut 1:2",
+          "Num 13:26"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exodus-northern",
+    "title": "The exodus: northern route",
+    "personIds": [
+      "moses",
+      "aaron",
+      "miriam"
+    ],
+    "eraId": "egypt-exodus",
+    "summary": "A northern reconstruction: the \"sea\" is one of the lagoons or lakes along the northern Sinai (e.g. Lake Bardawil) or the Bitter Lakes, and Mount Sinai is sought in the north-central Sinai or Negev (proposals include Jebel Sin Bishar, Jebel Helal and Har Karkom), closer to Kadesh-barnea. Supporters note that Kadesh was Israel's long-term base and that Egyptian forts guarded the coast road. Critics note that Exod 13:17 says God did not lead them by the coastal road. The text names stations, not coordinates, and the location of the sea crossing and of Mount Sinai is uncertain. Three main reconstructions are shown as variants with equal weight.",
+    "variant": "Northern / Mediterranean route",
+    "confidence": "debated",
+    "stops": [
+      {
+        "placeId": "rameses",
+        "note": "Departure from Rameses (often identified with Pi-Ramesses/Qantir).",
+        "refs": [
+          "Exod 12:37"
+        ]
+      },
+      {
+        "placeId": "succoth",
+        "note": "Succoth, possibly Tjeku in the Wadi Tumilat.",
+        "refs": [
+          "Exod 12:37",
+          "Exod 13:20"
+        ]
+      },
+      {
+        "placeId": "red-sea",
+        "note": "On this view the crossing is at a northern marshy lake (\"Sea of Reeds\").",
+        "refs": [
+          "Exod 14:1-2",
+          "Exod 14:21-22"
+        ]
+      },
+      {
+        "placeId": "marah",
+        "note": "Bitter water, placed on this route in the northern Shur wilderness.",
+        "refs": [
+          "Exod 15:22-25"
+        ]
+      },
+      {
+        "placeId": "wilderness-of-sin",
+        "note": "Manna and quail in the wilderness between Elim and Sinai.",
+        "refs": [
+          "Exod 16:1"
+        ]
+      },
+      {
+        "placeId": "mount-sinai",
+        "note": "Mount Sinai located in north-central Sinai or the Negev highlands rather than at Jebel Musa; the map pin shows the traditional site, so read this stop as an alternative identification.",
+        "refs": [
+          "Exod 19:1-2"
+        ]
+      },
+      {
+        "placeId": "kadesh-barnea",
+        "note": "Kadesh-barnea (Ain el-Qudeirat), close to the northern candidates for Sinai.",
+        "refs": [
+          "Num 13:26",
+          "Num 20:1"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exodus-midian",
+    "title": "The exodus: Midian / Arabia route",
+    "personIds": [
+      "moses",
+      "aaron",
+      "miriam",
+      "jethro"
+    ],
+    "eraId": "egypt-exodus",
+    "summary": "An Arabian reconstruction: Israel crosses the Sinai peninsula to the Gulf of Aqaba (the \"Red Sea\" crossing at Nuweiba or the Straits of Tiran) into Midian, and Mount Sinai is in north-west Arabia (often Jebel al-Lawz). Supporters cite Moses meeting God near Midian, Jethro living nearby, and Paul's \"Mount Sinai in Arabia.\" Critics reply that \"Arabia\" in Paul's day included Sinai, that the Aqaba crossing is too far for the timeline, and that claimed physical evidence at Jebel al-Lawz is disputed. The text names stations, not coordinates, and the location of the sea crossing and of Mount Sinai is uncertain. Three main reconstructions are shown as variants with equal weight.",
+    "variant": "Midian / Arabia route (Sinai in Arabia)",
+    "confidence": "debated",
+    "stops": [
+      {
+        "placeId": "rameses",
+        "note": "Departure from Rameses.",
+        "refs": [
+          "Exod 12:37"
+        ]
+      },
+      {
+        "placeId": "succoth",
+        "note": "First camp at Succoth.",
+        "refs": [
+          "Exod 12:37"
+        ]
+      },
+      {
+        "placeId": "red-sea",
+        "note": "On this view the crossing is the Gulf of Aqaba, an arm of the Red Sea (yam suph also names the Aqaba gulf in 1 Kgs 9:26).",
+        "refs": [
+          "Exod 14:21-22",
+          "1 Kgs 9:26"
+        ]
+      },
+      {
+        "placeId": "midian",
+        "note": "Israel enters Midian, the land where Moses had lived with Jethro and first met God at the bush.",
+        "refs": [
+          "Exod 3:1",
+          "Exod 18:1-5"
+        ]
+      },
+      {
+        "placeId": "mount-sinai",
+        "note": "Mount Sinai interpreted as a mountain in Arabia, often Jebel al-Lawz; the map pin shows the traditional site, so read this stop as an alternative identification.",
+        "refs": [
+          "Gal 4:25",
+          "Exod 19:1-2"
+        ]
+      },
+      {
+        "placeId": "kadesh-barnea",
+        "note": "Israel later moves north to Kadesh-barnea.",
+        "refs": [
+          "Num 13:26"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "wilderness-to-moab",
+    "title": "From Sinai to the plains of Moab",
+    "personIds": [
+      "moses",
+      "aaron",
+      "miriam",
+      "joshua",
+      "caleb",
+      "balaam"
+    ],
+    "eraId": "egypt-exodus",
+    "summary": "After a year at Sinai Israel moves to Kadesh, fails to enter the land, and spends a generation in the wilderness. Refused passage by Edom, they go around it, defeat Sihon and Og, and camp on the plains of Moab opposite Jericho.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "mount-sinai",
+        "note": "The cloud lifts in the second year and Israel sets out by tribes.",
+        "refs": [
+          "Num 10:11-13"
+        ]
+      },
+      {
+        "placeId": "kadesh-barnea",
+        "note": "The spies' report and the people's refusal; forty years of wandering decreed. Miriam later dies here.",
+        "refs": [
+          "Num 13:26-14:35",
+          "Num 20:1"
+        ]
+      },
+      {
+        "placeId": "edom",
+        "note": "Edom refuses passage on the King's Highway; Aaron dies at Mount Hor on the border; the bronze serpent.",
+        "refs": [
+          "Num 20:14-29",
+          "Num 21:4-9"
+        ]
+      },
+      {
+        "placeId": "moab",
+        "note": "Israel camps on the plains of Moab; Balaam is hired to curse them but blesses instead; Moses gives the speeches of Deuteronomy.",
+        "refs": [
+          "Num 22:1-6",
+          "Num 24:10-17",
+          "Deut 1:1-5"
+        ]
+      },
+      {
+        "placeId": "mount-nebo",
+        "note": "Moses views the land from Nebo and dies.",
+        "refs": [
+          "Deut 34:1-8"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "conquest",
+    "title": "The conquest under Joshua",
+    "personIds": [
+      "joshua",
+      "caleb",
+      "rahab",
+      "eleazar-priest"
+    ],
+    "eraId": "conquest-judges",
+    "summary": "Joshua leads Israel across the Jordan, takes Jericho and Ai, renews the covenant at Shechem, wins campaigns in the south and north, and sets up the tabernacle at Shiloh. Dates follow the early or late exodus and the scale of conquest is debated archaeologically.",
+    "confidence": "debated",
+    "stops": [
+      {
+        "placeId": "moab",
+        "note": "Spies go out from Shittim on the plains of Moab.",
+        "refs": [
+          "Josh 2:1"
+        ]
+      },
+      {
+        "placeId": "jericho",
+        "note": "Rahab hides the spies.",
+        "refs": [
+          "Josh 2:1-21"
+        ]
+      },
+      {
+        "placeId": "jordan-river",
+        "note": "The river stops as the priests' feet touch the water.",
+        "refs": [
+          "Josh 3:14-17"
+        ]
+      },
+      {
+        "placeId": "gilgal",
+        "note": "Twelve memorial stones; circumcision and Passover; the manna ceases.",
+        "refs": [
+          "Josh 4:19-24",
+          "Josh 5:2-12"
+        ]
+      },
+      {
+        "placeId": "jericho",
+        "note": "The walls fall after seven days of marching.",
+        "refs": [
+          "Josh 6:1-27"
+        ]
+      },
+      {
+        "placeId": "ai",
+        "note": "Defeat because of Achan's sin, then victory by ambush.",
+        "refs": [
+          "Josh 7:1-5",
+          "Josh 8:1-29"
+        ]
+      },
+      {
+        "placeId": "shechem",
+        "note": "Blessings and curses read at Mount Ebal and Gerizim.",
+        "refs": [
+          "Josh 8:30-35"
+        ]
+      },
+      {
+        "placeId": "lachish",
+        "note": "Southern campaign after the defense of Gibeon: Lachish and other cities taken.",
+        "refs": [
+          "Josh 10:31-35"
+        ]
+      },
+      {
+        "placeId": "hazor",
+        "note": "Northern coalition defeated; Hazor burned.",
+        "refs": [
+          "Josh 11:1-13"
+        ]
+      },
+      {
+        "placeId": "shiloh",
+        "note": "The tabernacle is set up at Shiloh and the land is allotted.",
+        "refs": [
+          "Josh 18:1-10"
+        ]
+      },
+      {
+        "placeId": "shechem",
+        "note": "Joshua's farewell covenant: \"choose this day whom you will serve.\"",
+        "refs": [
+          "Josh 24:1-28"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "david-flight",
+    "title": "David's flight from Saul",
+    "personIds": [
+      "david",
+      "saul-king",
+      "jonathan",
+      "abigail",
+      "samuel"
+    ],
+    "eraId": "united-monarchy",
+    "summary": "Hunted by a jealous Saul, David flees from the court at Gibeah, hides in caves and wilderness strongholds, spares Saul's life twice, and finally takes refuge among the Philistines until Saul's death opens the way to the throne.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "gibeah",
+        "note": "Saul throws his spear at David; Michal helps him escape through a window.",
+        "refs": [
+          "1 Sam 19:9-17"
+        ]
+      },
+      {
+        "placeId": "ramah",
+        "note": "David flees to Samuel at Naioth in Ramah; Saul's messengers prophesy.",
+        "refs": [
+          "1 Sam 19:18-24"
+        ]
+      },
+      {
+        "placeId": "gath",
+        "note": "He seeks refuge with Achish of Gath and feigns madness.",
+        "refs": [
+          "1 Sam 21:10-15"
+        ]
+      },
+      {
+        "placeId": "adullam",
+        "note": "His family and four hundred distressed men gather to him at the cave of Adullam.",
+        "refs": [
+          "1 Sam 22:1-2",
+          "Ps 142"
+        ]
+      },
+      {
+        "placeId": "en-gedi",
+        "note": "David cuts the corner of Saul's robe in a cave but spares him.",
+        "refs": [
+          "1 Sam 24:1-22"
+        ]
+      },
+      {
+        "placeId": "ziklag",
+        "note": "Achish gives him Ziklag; it is raided by Amalekites and David strengthens himself in God.",
+        "refs": [
+          "1 Sam 27:5-7",
+          "1 Sam 30:1-20"
+        ]
+      },
+      {
+        "placeId": "hebron",
+        "note": "After Saul dies, David is anointed king over Judah at Hebron.",
+        "refs": [
+          "2 Sam 2:1-4"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "elijah-to-horeb",
+    "title": "Elijah's flight to Horeb",
+    "personIds": [
+      "elijah",
+      "elisha",
+      "jezebel",
+      "ahab"
+    ],
+    "eraId": "divided-kingdom",
+    "summary": "After the contest on Carmel, Jezebel threatens Elijah. He runs south to Beersheba and the wilderness, is fed by an angel, walks forty days to Horeb, and is sent back north, where he calls Elisha.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "mount-carmel",
+        "note": "Fire falls on the altar and the prophets of Baal are killed.",
+        "refs": [
+          "1 Kgs 18:30-40"
+        ]
+      },
+      {
+        "placeId": "jezreel",
+        "note": "Elijah runs ahead of Ahab's chariot to Jezreel; Jezebel vows to kill him.",
+        "refs": [
+          "1 Kgs 18:45-19:2"
+        ]
+      },
+      {
+        "placeId": "beersheba",
+        "note": "He leaves his servant at Beersheba and goes a day's journey into the wilderness, where an angel feeds him.",
+        "refs": [
+          "1 Kgs 19:3-8"
+        ]
+      },
+      {
+        "placeId": "horeb",
+        "note": "At the mountain of God he hears the low whisper and is commissioned again.",
+        "refs": [
+          "1 Kgs 19:8-18"
+        ]
+      },
+      {
+        "placeId": "abel-meholah",
+        "note": "He throws his cloak over Elisha, who is plowing with twelve yoke of oxen.",
+        "refs": [
+          "1 Kgs 19:16-21"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jonah",
+    "title": "Jonah's journey",
+    "personIds": [
+      "jonah"
+    ],
+    "eraId": "divided-kingdom",
+    "summary": "Told to preach against Nineveh, Jonah takes ship for Tarshish in the opposite direction, is thrown overboard and swallowed by a great fish, then goes to Nineveh, whose people repent.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "joppa",
+        "note": "Jonah boards a ship at Joppa bound for Tarshish, \"away from the presence of the LORD.\"",
+        "refs": [
+          "Jonah 1:1-3"
+        ]
+      },
+      {
+        "placeId": "nineveh",
+        "note": "After the fish, he walks into the great city crying \"Yet forty days\"; the city repents and God relents, to Jonah's anger.",
+        "refs": [
+          "Jonah 3:1-10",
+          "Jonah 4:1-11"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "exile-to-babylon",
+    "title": "Exile to Babylon",
+    "personIds": [
+      "zedekiah",
+      "nebuchadnezzar",
+      "ezekiel",
+      "daniel"
+    ],
+    "eraId": "exile",
+    "summary": "Judah's leaders are deported in waves (605, 597, 586 BC). The usual route ran north from Jerusalem through Syria to Nebuchadnezzar's headquarters at Riblah and then down the Euphrates to Babylon, avoiding the desert.",
+    "confidence": "scholarly-consensus",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Jerusalem is taken and burned; the people are carried away.",
+        "refs": [
+          "2 Kgs 25:8-11"
+        ],
+        "year": -586
+      },
+      {
+        "placeId": "damascus",
+        "note": "The road north through Syria toward Riblah, where Zedekiah's sons are killed before his eyes. The exact route is a reconstruction.",
+        "refs": [
+          "2 Kgs 25:6-7",
+          "Jer 39:5-7"
+        ],
+        "year": -586
+      },
+      {
+        "placeId": "babylon",
+        "note": "The exiles are settled in Babylonia; Jeremiah urges them to seek the welfare of the city.",
+        "refs": [
+          "2 Kgs 25:11",
+          "Jer 29:4-7",
+          "Ps 137:1-4"
+        ],
+        "year": -586
+      },
+      {
+        "placeId": "chebar-canal",
+        "note": "Exiles live by the Chebar canal, where Ezekiel sees his visions.",
+        "refs": [
+          "Ezek 1:1-3",
+          "Ezek 3:15"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "return-under-ezra-nehemiah",
+    "title": "Return under Ezra and Nehemiah",
+    "personIds": [
+      "ezra",
+      "nehemiah",
+      "zerubbabel"
+    ],
+    "eraId": "return",
+    "summary": "After Zerubbabel's first return (538 BC), Ezra leads a second group from Babylon in 458 BC (or 398 BC on an alternative dating), and Nehemiah later travels from the Persian court at Susa to rebuild Jerusalem's walls (445 BC).",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "babylon",
+        "note": "Ezra sets out on the first day of the first month with the king's letter and gifts for the temple.",
+        "refs": [
+          "Ezra 7:6-9",
+          "Ezra 8:21-23"
+        ],
+        "year": -458
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Ezra arrives after four months, deals with mixed marriages, and later reads the Law.",
+        "refs": [
+          "Ezra 8:31-32",
+          "Ezra 10:1-5",
+          "Neh 8:1-8"
+        ],
+        "year": -458
+      },
+      {
+        "placeId": "susa",
+        "note": "Nehemiah, cupbearer at the citadel of Susa, hears of the broken walls and is sent by Artaxerxes.",
+        "refs": [
+          "Neh 1:1-4",
+          "Neh 2:1-8"
+        ],
+        "year": -445
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Nehemiah inspects the walls by night and the work is finished in fifty-two days.",
+        "refs": [
+          "Neh 2:11-18",
+          "Neh 6:15"
+        ],
+        "year": -445
+      }
+    ]
+  },
+  {
+    "id": "holy-family",
+    "title": "The holy family: Nazareth, Bethlehem, Egypt",
+    "personIds": [
+      "jesus",
+      "mary-mother-of-jesus",
+      "joseph-of-nazareth",
+      "herod-the-great"
+    ],
+    "eraId": "life-of-jesus",
+    "summary": "Joseph and Mary travel from Nazareth to Bethlehem for the census, present Jesus in the temple, flee to Egypt from Herod, and return to settle in Nazareth. Luke and Matthew each tell part of the story.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "nazareth",
+        "note": "Gabriel announces Jesus' birth to Mary in Nazareth.",
+        "refs": [
+          "Luke 1:26-38"
+        ]
+      },
+      {
+        "placeId": "bethlehem",
+        "note": "Joseph and Mary go to Bethlehem, the city of David, for the registration; Jesus is born and laid in a manger.",
+        "refs": [
+          "Luke 2:1-7",
+          "Mic 5:2"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Jesus is presented in the temple; Simeon and Anna recognize him.",
+        "refs": [
+          "Luke 2:22-38"
+        ]
+      },
+      {
+        "placeId": "bethlehem",
+        "note": "The magi worship the child in a house in Bethlehem.",
+        "refs": [
+          "Matt 2:1-11"
+        ]
+      },
+      {
+        "placeId": "egypt",
+        "note": "Warned in a dream, Joseph takes the child and his mother to Egypt until Herod dies: \"Out of Egypt I called my son.\"",
+        "refs": [
+          "Matt 2:13-15",
+          "Hos 11:1"
+        ]
+      },
+      {
+        "placeId": "nazareth",
+        "note": "Avoiding Archelaus in Judea, the family settles in Nazareth in Galilee.",
+        "refs": [
+          "Matt 2:19-23",
+          "Luke 2:39-40"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jesus-galilee-ministry",
+    "title": "Jesus' Galilean ministry",
+    "personIds": [
+      "jesus",
+      "peter",
+      "andrew",
+      "james-son-of-zebedee",
+      "john-the-apostle",
+      "matthew",
+      "mary-magdalene"
+    ],
+    "eraId": "life-of-jesus",
+    "summary": "From his baptism to his decision to go up to Jerusalem, Jesus works mainly around the Sea of Galilee, based at Capernaum, with forays into Gentile territory. The gospels arrange episodes topically as well as chronologically, so this order is approximate.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "jordan-river",
+        "note": "Baptized by John; the Spirit descends.",
+        "refs": [
+          "Mark 1:9-11"
+        ]
+      },
+      {
+        "placeId": "cana",
+        "note": "Water turned to wine, the first sign.",
+        "refs": [
+          "John 2:1-11"
+        ]
+      },
+      {
+        "placeId": "nazareth",
+        "note": "He reads Isaiah 61 in the synagogue and is rejected by his hometown.",
+        "refs": [
+          "Luke 4:16-30"
+        ]
+      },
+      {
+        "placeId": "capernaum",
+        "note": "He makes Capernaum his base, calls fishermen, heals Peter's mother-in-law and a paralytic, and calls Matthew.",
+        "refs": [
+          "Matt 4:13-22",
+          "Mark 1:21-34",
+          "Mark 2:1-17"
+        ]
+      },
+      {
+        "placeId": "sea-of-galilee",
+        "note": "Teaching from a boat; calming the storm.",
+        "refs": [
+          "Mark 4:1-2",
+          "Mark 4:35-41"
+        ]
+      },
+      {
+        "placeId": "decapolis",
+        "note": "He frees the Gerasene demoniac, who then proclaims him in the Decapolis.",
+        "refs": [
+          "Mark 5:1-20"
+        ]
+      },
+      {
+        "placeId": "nain",
+        "note": "He raises a widow's son at Nain.",
+        "refs": [
+          "Luke 7:11-17"
+        ]
+      },
+      {
+        "placeId": "bethsaida",
+        "note": "Feeding of the five thousand near Bethsaida; walking on the water.",
+        "refs": [
+          "Luke 9:10-17",
+          "Mark 6:45-52"
+        ]
+      },
+      {
+        "placeId": "tyre",
+        "note": "In the region of Tyre and Sidon he heals the Syrophoenician woman's daughter.",
+        "refs": [
+          "Mark 7:24-30"
+        ]
+      },
+      {
+        "placeId": "caesarea-philippi",
+        "note": "Peter confesses him as the Christ; Jesus foretells his death.",
+        "refs": [
+          "Mark 8:27-33"
+        ]
+      },
+      {
+        "placeId": "mount-tabor",
+        "note": "Transfiguration on a high mountain (traditionally Tabor; some argue Hermon).",
+        "refs": [
+          "Mark 9:2-8"
+        ]
+      },
+      {
+        "placeId": "capernaum",
+        "note": "Back in Capernaum he teaches the disciples about greatness and childlike faith.",
+        "refs": [
+          "Mark 9:33-37"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "jesus-final-journey",
+    "title": "Jesus' final journey to Jerusalem",
+    "personIds": [
+      "jesus",
+      "zacchaeus",
+      "lazarus",
+      "martha",
+      "mary-of-bethany",
+      "judas-iscariot",
+      "pontius-pilate",
+      "caiaphas"
+    ],
+    "eraId": "life-of-jesus",
+    "summary": "Jesus \"set his face to go to Jerusalem,\" travelling through Perea and Jericho to Bethany, entering the city at Passover, and going to the cross.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "capernaum",
+        "note": "He leaves Galilee for the last time.",
+        "refs": [
+          "Mark 9:33",
+          "Mark 10:1"
+        ]
+      },
+      {
+        "placeId": "jordan-river",
+        "note": "He teaches in Judea beyond the Jordan (Perea).",
+        "refs": [
+          "Mark 10:1-16",
+          "Luke 9:51"
+        ]
+      },
+      {
+        "placeId": "jericho",
+        "note": "Bartimaeus receives sight; Zacchaeus receives Jesus.",
+        "refs": [
+          "Mark 10:46-52",
+          "Luke 19:1-10"
+        ]
+      },
+      {
+        "placeId": "bethany",
+        "note": "Mary anoints him at Bethany six days before the Passover.",
+        "refs": [
+          "John 12:1-8"
+        ]
+      },
+      {
+        "placeId": "mount-of-olives",
+        "note": "He rides down the Mount of Olives on a colt, weeping over the city.",
+        "refs": [
+          "Luke 19:28-44"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "He clears the temple, teaches, and shares the Last Supper with the Twelve.",
+        "refs": [
+          "Mark 11:15-18",
+          "Mark 14:12-25"
+        ]
+      },
+      {
+        "placeId": "gethsemane",
+        "note": "He prays in anguish and is arrested.",
+        "refs": [
+          "Mark 14:32-50"
+        ]
+      },
+      {
+        "placeId": "golgotha",
+        "note": "Crucified outside the city, he dies and is buried nearby.",
+        "refs": [
+          "John 19:16-42"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "emmaus",
+    "title": "The road to Emmaus",
+    "personIds": [
+      "jesus"
+    ],
+    "eraId": "life-of-jesus",
+    "summary": "On resurrection day two disciples walking to Emmaus are joined by the risen Jesus, who explains the scriptures; they recognize him in the breaking of bread and hurry back to Jerusalem.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Two disciples, one named Cleopas, leave Jerusalem discussing the events.",
+        "refs": [
+          "Luke 24:13-24"
+        ]
+      },
+      {
+        "placeId": "emmaus",
+        "note": "About seven miles away, Jesus is made known to them as he breaks bread. The village's location is uncertain.",
+        "refs": [
+          "Luke 24:25-32"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "They return the same hour and find the Eleven saying, \"The Lord has risen indeed.\"",
+        "refs": [
+          "Luke 24:33-35"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "philip-evangelist",
+    "title": "Philip the evangelist",
+    "personIds": [
+      "philip-the-evangelist",
+      "ethiopian-eunuch"
+    ],
+    "eraId": "apostolic",
+    "summary": "Scattered by persecution, Philip preaches in Samaria, is sent to the desert road to Gaza where he baptizes the Ethiopian official, then preaches along the coast to Caesarea, where he later hosts Paul.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Philip is chosen as one of the Seven.",
+        "refs": [
+          "Acts 6:1-6"
+        ]
+      },
+      {
+        "placeId": "samaria",
+        "note": "He proclaims Christ in Samaria; many believe, including Simon the magician.",
+        "refs": [
+          "Acts 8:5-13"
+        ]
+      },
+      {
+        "placeId": "gaza",
+        "note": "On the desert road to Gaza he explains Isaiah 53 to the Ethiopian and baptizes him.",
+        "refs": [
+          "Acts 8:26-39"
+        ]
+      },
+      {
+        "placeId": "ashdod",
+        "note": "Philip is found at Azotus (Ashdod) and preaches in the coastal towns.",
+        "refs": [
+          "Acts 8:40"
+        ]
+      },
+      {
+        "placeId": "caesarea-maritima",
+        "note": "He settles in Caesarea; years later Paul stays with him and his four prophesying daughters.",
+        "refs": [
+          "Acts 8:40",
+          "Acts 21:8-9"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "peter-in-acts",
+    "title": "Peter in Acts",
+    "personIds": [
+      "peter",
+      "john-the-apostle",
+      "cornelius",
+      "dorcas",
+      "herod-agrippa-i"
+    ],
+    "eraId": "apostolic",
+    "summary": "Peter leads the Jerusalem church, visits Samaria and the coastal plain, opens the door to Gentiles at Caesarea, escapes Herod Agrippa, and later appears at Antioch. Tradition places his death in Rome.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Pentecost sermon and leadership of the early church.",
+        "refs": [
+          "Acts 2:14-41",
+          "Acts 4:1-22"
+        ]
+      },
+      {
+        "placeId": "samaria",
+        "note": "With John he lays hands on the Samaritan believers.",
+        "refs": [
+          "Acts 8:14-25"
+        ]
+      },
+      {
+        "placeId": "lydda",
+        "note": "He heals the paralyzed Aeneas.",
+        "refs": [
+          "Acts 9:32-35"
+        ]
+      },
+      {
+        "placeId": "joppa",
+        "note": "He raises Dorcas (Tabitha) and receives the vision of the sheet.",
+        "refs": [
+          "Acts 9:36-43",
+          "Acts 10:9-16"
+        ]
+      },
+      {
+        "placeId": "caesarea-maritima",
+        "note": "He preaches to Cornelius' household and the Spirit falls on Gentiles.",
+        "refs": [
+          "Acts 10:24-48"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Imprisoned by Herod Agrippa I and freed by an angel; later speaks at the council.",
+        "refs": [
+          "Acts 12:1-17",
+          "Acts 15:7-11"
+        ]
+      },
+      {
+        "placeId": "antioch-syria",
+        "note": "Paul rebukes him at Antioch for withdrawing from Gentile tables.",
+        "refs": [
+          "Gal 2:11-14"
+        ]
+      },
+      {
+        "placeId": "rome",
+        "note": "Tradition (1 Clement, Eusebius) says he ministered and was martyred in Rome; 1 Peter is sent from \"Babylon,\" often read as Rome.",
+        "refs": [
+          "1 Pet 5:13",
+          "John 21:18-19"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paul-conversion",
+    "title": "Paul's conversion and early years",
+    "personIds": [
+      "paul",
+      "barnabas"
+    ],
+    "eraId": "apostolic",
+    "summary": "Saul of Tarsus, trained in Jerusalem, sets out to arrest believers in Damascus, meets the risen Jesus, spends time in Arabia, returns to Damascus, visits Jerusalem, and goes home to Tarsus until Barnabas brings him to Antioch.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "tarsus",
+        "note": "Born in Tarsus of Cilicia, a Roman citizen.",
+        "refs": [
+          "Acts 22:3",
+          "Acts 22:28"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Educated under Gamaliel; approves Stephen's death and ravages the church.",
+        "refs": [
+          "Acts 22:3",
+          "Acts 8:1-3"
+        ]
+      },
+      {
+        "placeId": "damascus",
+        "note": "Struck down on the road, blinded, and baptized by Ananias.",
+        "refs": [
+          "Acts 9:1-19"
+        ]
+      },
+      {
+        "placeId": "arabia",
+        "note": "He goes away into Arabia (probably Nabatea) before returning to Damascus.",
+        "refs": [
+          "Gal 1:15-17"
+        ]
+      },
+      {
+        "placeId": "damascus",
+        "note": "He preaches and escapes in a basket over the wall.",
+        "refs": [
+          "Acts 9:19-25",
+          "2 Cor 11:32-33"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Three years after his conversion he visits Peter for fifteen days; Barnabas vouches for him.",
+        "refs": [
+          "Gal 1:18-19",
+          "Acts 9:26-29"
+        ]
+      },
+      {
+        "placeId": "tarsus",
+        "note": "Sent off to Tarsus; he works in Syria and Cilicia.",
+        "refs": [
+          "Acts 9:30",
+          "Gal 1:21"
+        ]
+      },
+      {
+        "placeId": "antioch-syria",
+        "note": "Barnabas brings him to Antioch, where they teach for a year.",
+        "refs": [
+          "Acts 11:25-26"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "paul-journey-1",
+    "title": "Paul's first missionary journey",
+    "personIds": [
+      "paul",
+      "barnabas",
+      "john-mark"
+    ],
+    "eraId": "apostolic",
+    "summary": "Sent out by the Antioch church (c. AD 46–48), Barnabas and Saul cross Cyprus, then plant churches in the cities of southern Galatia before retracing their steps and reporting how God \"opened a door of faith to the Gentiles.\"",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "antioch-syria",
+        "note": "The Spirit sets apart Barnabas and Saul; they sail via Seleucia.",
+        "refs": [
+          "Acts 13:1-4"
+        ],
+        "year": 46
+      },
+      {
+        "placeId": "salamis",
+        "note": "They preach in the synagogues of Salamis.",
+        "refs": [
+          "Acts 13:5"
+        ]
+      },
+      {
+        "placeId": "paphos",
+        "note": "The proconsul Sergius Paulus believes; Elymas the magician is blinded. Saul is now called Paul.",
+        "refs": [
+          "Acts 13:6-12"
+        ]
+      },
+      {
+        "placeId": "perga",
+        "note": "John Mark leaves them and returns to Jerusalem.",
+        "refs": [
+          "Acts 13:13"
+        ]
+      },
+      {
+        "placeId": "antioch-pisidia",
+        "note": "Paul's synagogue sermon; turning to the Gentiles after Jewish opposition.",
+        "refs": [
+          "Acts 13:14-52"
+        ]
+      },
+      {
+        "placeId": "iconium",
+        "note": "A great number believe, but a plot to stone them forces them out.",
+        "refs": [
+          "Acts 14:1-6"
+        ]
+      },
+      {
+        "placeId": "lystra",
+        "note": "A lame man is healed; the crowd hails them as gods, then Paul is stoned and left for dead.",
+        "refs": [
+          "Acts 14:8-20"
+        ]
+      },
+      {
+        "placeId": "derbe",
+        "note": "Many disciples are made.",
+        "refs": [
+          "Acts 14:20-21"
+        ]
+      },
+      {
+        "placeId": "lystra",
+        "note": "They return, strengthening the disciples and appointing elders.",
+        "refs": [
+          "Acts 14:21-23"
+        ]
+      },
+      {
+        "placeId": "iconium",
+        "note": "Return visit to encourage the church.",
+        "refs": [
+          "Acts 14:21-22"
+        ]
+      },
+      {
+        "placeId": "antioch-pisidia",
+        "note": "Return visit: \"through many tribulations we must enter the kingdom of God.\"",
+        "refs": [
+          "Acts 14:21-22"
+        ]
+      },
+      {
+        "placeId": "perga",
+        "note": "They speak the word in Perga and go down to Attalia.",
+        "refs": [
+          "Acts 14:24-25"
+        ]
+      },
+      {
+        "placeId": "antioch-syria",
+        "note": "They report to the church and stay a long time.",
+        "refs": [
+          "Acts 14:26-28"
+        ],
+        "year": 48
+      }
+    ]
+  },
+  {
+    "id": "paul-journey-2",
+    "title": "Paul's second missionary journey",
+    "personIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke",
+      "lydia",
+      "priscilla",
+      "aquila"
+    ],
+    "eraId": "apostolic",
+    "summary": "After parting from Barnabas, Paul takes Silas through Asia Minor, adds Timothy, and is called by a vision into Macedonia. Churches are founded in Philippi, Thessalonica, Berea and Corinth (c. AD 49–52).",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "antioch-syria",
+        "note": "Paul and Barnabas part over John Mark; Paul chooses Silas.",
+        "refs": [
+          "Acts 15:36-41"
+        ],
+        "year": 49
+      },
+      {
+        "placeId": "derbe",
+        "note": "Revisiting the churches with the council's decisions.",
+        "refs": [
+          "Acts 16:1-5"
+        ]
+      },
+      {
+        "placeId": "lystra",
+        "note": "Timothy joins the team.",
+        "refs": [
+          "Acts 16:1-3"
+        ]
+      },
+      {
+        "placeId": "galatia",
+        "note": "Forbidden by the Spirit to speak in Asia, they pass through Phrygia and Galatia.",
+        "refs": [
+          "Acts 16:6-8"
+        ]
+      },
+      {
+        "placeId": "troas",
+        "note": "The vision of the man of Macedonia; the \"we\" passages begin.",
+        "refs": [
+          "Acts 16:8-10"
+        ]
+      },
+      {
+        "placeId": "philippi",
+        "note": "Lydia is baptized; Paul and Silas are beaten and jailed, and the jailer believes.",
+        "refs": [
+          "Acts 16:11-40"
+        ]
+      },
+      {
+        "placeId": "thessalonica",
+        "note": "Three Sabbaths in the synagogue; a riot drives them out.",
+        "refs": [
+          "Acts 17:1-9"
+        ]
+      },
+      {
+        "placeId": "berea",
+        "note": "The Bereans examine the scriptures daily.",
+        "refs": [
+          "Acts 17:10-14"
+        ]
+      },
+      {
+        "placeId": "athens",
+        "note": "Paul speaks at the Areopagus about the unknown god.",
+        "refs": [
+          "Acts 17:16-34"
+        ]
+      },
+      {
+        "placeId": "corinth",
+        "note": "Eighteen months with Priscilla and Aquila; Gallio dismisses the case (AD 51–52). Paul writes 1–2 Thessalonians.",
+        "refs": [
+          "Acts 18:1-17"
+        ],
+        "year": 51
+      },
+      {
+        "placeId": "cenchreae",
+        "note": "Paul cuts his hair because of a vow and sails.",
+        "refs": [
+          "Acts 18:18"
+        ]
+      },
+      {
+        "placeId": "ephesus",
+        "note": "A brief visit; Priscilla and Aquila remain.",
+        "refs": [
+          "Acts 18:19-21"
+        ]
+      },
+      {
+        "placeId": "caesarea-maritima",
+        "note": "He lands at Caesarea and goes up to greet the church (Jerusalem).",
+        "refs": [
+          "Acts 18:22"
+        ]
+      },
+      {
+        "placeId": "antioch-syria",
+        "note": "Return to Antioch.",
+        "refs": [
+          "Acts 18:22"
+        ],
+        "year": 52
+      }
+    ]
+  },
+  {
+    "id": "paul-journey-3",
+    "title": "Paul's third missionary journey",
+    "personIds": [
+      "paul",
+      "timothy",
+      "titus",
+      "luke",
+      "apollos",
+      "priscilla",
+      "aquila"
+    ],
+    "eraId": "apostolic",
+    "summary": "Paul spends nearly three years at Ephesus, revisits Macedonia and Greece, gathers the collection for Jerusalem, and sails for Jerusalem despite warnings of chains (c. AD 53–57).",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "antioch-syria",
+        "note": "Paul sets out again.",
+        "refs": [
+          "Acts 18:23"
+        ],
+        "year": 53
+      },
+      {
+        "placeId": "galatia",
+        "note": "He strengthens the disciples throughout Galatia and Phrygia.",
+        "refs": [
+          "Acts 18:23"
+        ]
+      },
+      {
+        "placeId": "ephesus",
+        "note": "Two years in the hall of Tyrannus; the silversmiths' riot. He writes 1 Corinthians.",
+        "refs": [
+          "Acts 19:1-41",
+          "1 Cor 16:8-9"
+        ]
+      },
+      {
+        "placeId": "macedonia",
+        "note": "He encourages the churches of Macedonia and writes 2 Corinthians.",
+        "refs": [
+          "Acts 20:1-2",
+          "2 Cor 7:5-7"
+        ]
+      },
+      {
+        "placeId": "corinth",
+        "note": "Three months in Greece; he writes Romans.",
+        "refs": [
+          "Acts 20:2-3",
+          "Rom 16:1-2"
+        ],
+        "year": 57
+      },
+      {
+        "placeId": "philippi",
+        "note": "He keeps the Days of Unleavened Bread at Philippi.",
+        "refs": [
+          "Acts 20:3-6"
+        ]
+      },
+      {
+        "placeId": "troas",
+        "note": "Eutychus falls from a window during Paul's long talk and is restored.",
+        "refs": [
+          "Acts 20:6-12"
+        ]
+      },
+      {
+        "placeId": "assos",
+        "note": "Paul walks overland and rejoins the ship.",
+        "refs": [
+          "Acts 20:13-14"
+        ]
+      },
+      {
+        "placeId": "mitylene",
+        "note": "Sailing down the coast.",
+        "refs": [
+          "Acts 20:14"
+        ]
+      },
+      {
+        "placeId": "miletus",
+        "note": "Farewell to the Ephesian elders.",
+        "refs": [
+          "Acts 20:15-38"
+        ]
+      },
+      {
+        "placeId": "rhodes",
+        "note": "Brief stop.",
+        "refs": [
+          "Acts 21:1"
+        ]
+      },
+      {
+        "placeId": "patara",
+        "note": "They change ships for Phoenicia.",
+        "refs": [
+          "Acts 21:1-2"
+        ]
+      },
+      {
+        "placeId": "tyre",
+        "note": "Disciples urge him through the Spirit not to go on to Jerusalem.",
+        "refs": [
+          "Acts 21:3-6"
+        ]
+      },
+      {
+        "placeId": "caesarea-maritima",
+        "note": "At Philip's house Agabus binds himself with Paul's belt.",
+        "refs": [
+          "Acts 21:8-14"
+        ]
+      },
+      {
+        "placeId": "jerusalem",
+        "note": "Paul meets James and the elders and is arrested in the temple.",
+        "refs": [
+          "Acts 21:17-36"
+        ],
+        "year": 57
+      }
+    ]
+  },
+  {
+    "id": "paul-to-rome",
+    "title": "Paul's voyage to Rome",
+    "personIds": [
+      "paul",
+      "luke",
+      "festus",
+      "herod-agrippa-ii"
+    ],
+    "eraId": "apostolic",
+    "summary": "Having appealed to Caesar, Paul sails under guard from Caesarea, survives a storm and shipwreck on Malta, and reaches Rome, where he lives two years under house arrest (c. AD 59–62).",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "caesarea-maritima",
+        "note": "Paul appeals to Caesar before Festus and Agrippa II hears his defense.",
+        "refs": [
+          "Acts 25:10-12",
+          "Acts 26:1-32"
+        ],
+        "year": 59
+      },
+      {
+        "placeId": "sidon",
+        "note": "The centurion Julius lets Paul visit friends.",
+        "refs": [
+          "Acts 27:3"
+        ]
+      },
+      {
+        "placeId": "fair-havens",
+        "note": "They reach Fair Havens on Crete late in the season; Paul warns against sailing on.",
+        "refs": [
+          "Acts 27:7-12"
+        ]
+      },
+      {
+        "placeId": "crete",
+        "note": "A northeaster drives the ship from the coast of Crete.",
+        "refs": [
+          "Acts 27:13-20"
+        ]
+      },
+      {
+        "placeId": "malta",
+        "note": "Shipwreck; Paul survives a viper bite and heals Publius' father. They winter three months.",
+        "refs": [
+          "Acts 27:39-28:10"
+        ]
+      },
+      {
+        "placeId": "syracuse",
+        "note": "Three days in Syracuse.",
+        "refs": [
+          "Acts 28:12"
+        ]
+      },
+      {
+        "placeId": "rhegium",
+        "note": "They wait for a south wind.",
+        "refs": [
+          "Acts 28:13"
+        ]
+      },
+      {
+        "placeId": "puteoli",
+        "note": "Believers host them for seven days.",
+        "refs": [
+          "Acts 28:13-14"
+        ]
+      },
+      {
+        "placeId": "three-taverns",
+        "note": "Christians from Rome come out to meet Paul, and he takes courage.",
+        "refs": [
+          "Acts 28:15"
+        ]
+      },
+      {
+        "placeId": "rome",
+        "note": "Two years in his own rented house, proclaiming the kingdom unhindered.",
+        "refs": [
+          "Acts 28:16-31"
+        ],
+        "year": 60
+      }
+    ]
+  },
+  {
+    "id": "gospel-spread",
+    "title": "The spread of the gospel in Acts",
+    "personIds": [
+      "peter",
+      "philip-the-evangelist",
+      "barnabas",
+      "paul"
+    ],
+    "eraId": "apostolic",
+    "summary": "Acts follows the commission of Acts 1:8 outward from Jerusalem to Judea and Samaria, to Gentiles at Caesarea and Antioch, across Asia Minor and Greece, and finally to Rome.",
+    "confidence": "biblical",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Pentecost: the church is born among Jews from every nation.",
+        "refs": [
+          "Acts 1:8",
+          "Acts 2:1-41"
+        ],
+        "year": 30
+      },
+      {
+        "placeId": "samaria",
+        "note": "Philip preaches in Samaria after Stephen's death.",
+        "refs": [
+          "Acts 8:4-8"
+        ]
+      },
+      {
+        "placeId": "caesarea-maritima",
+        "note": "Peter preaches to Cornelius, the first Gentile household.",
+        "refs": [
+          "Acts 10:34-48"
+        ]
+      },
+      {
+        "placeId": "antioch-syria",
+        "note": "Greeks believe; the disciples are first called Christians; the mission base for Paul.",
+        "refs": [
+          "Acts 11:19-26"
+        ]
+      },
+      {
+        "placeId": "cyprus",
+        "note": "First missionary journey begins on Cyprus.",
+        "refs": [
+          "Acts 13:4-12"
+        ],
+        "year": 46
+      },
+      {
+        "placeId": "galatia",
+        "note": "Churches in the cities of southern Galatia.",
+        "refs": [
+          "Acts 14:21-23"
+        ]
+      },
+      {
+        "placeId": "philippi",
+        "note": "The gospel enters Europe.",
+        "refs": [
+          "Acts 16:11-15"
+        ],
+        "year": 49
+      },
+      {
+        "placeId": "corinth",
+        "note": "A large church in a cosmopolitan port city.",
+        "refs": [
+          "Acts 18:1-11"
+        ],
+        "year": 51
+      },
+      {
+        "placeId": "ephesus",
+        "note": "\"All the residents of Asia heard the word of the Lord.\"",
+        "refs": [
+          "Acts 19:10"
+        ],
+        "year": 54
+      },
+      {
+        "placeId": "rome",
+        "note": "Paul proclaims the kingdom at the heart of the empire; a church already existed there.",
+        "refs": [
+          "Rom 1:7-8",
+          "Acts 28:30-31"
+        ],
+        "year": 60
+      }
+    ]
+  },
+  {
+    "id": "gospel-spread-traditions",
+    "title": "Beyond Acts: traditions of the apostolic mission",
+    "personIds": [
+      "john-mark",
+      "thomas",
+      "ethiopian-eunuch",
+      "john-the-apostle"
+    ],
+    "eraId": "apostolic",
+    "summary": "Church traditions, not the New Testament, describe the gospel reaching Egypt, Ethiopia and India in the first centuries. These routes are flagged as tradition; their reliability varies.",
+    "confidence": "tradition",
+    "stops": [
+      {
+        "placeId": "jerusalem",
+        "note": "Starting point of the apostolic mission.",
+        "refs": [
+          "Acts 1:8"
+        ]
+      },
+      {
+        "placeId": "alexandria",
+        "note": "Tradition (Eusebius, Church History 2.16) makes John Mark the founder of the church in Alexandria. Not stated in scripture.",
+        "refs": [
+          "Acts 18:24"
+        ]
+      },
+      {
+        "placeId": "ethiopia",
+        "note": "Acts records the baptism of an Ethiopian court official; the Aksumite kingdom's conversion came later through Frumentius (4th century, per Rufinus).",
+        "refs": [
+          "Acts 8:26-39"
+        ]
+      },
+      {
+        "placeId": "india",
+        "note": "The Acts of Thomas and the St. Thomas Christians of Kerala hold that the apostle Thomas preached in India and was martyred near Chennai. Historians are divided on the claim.",
+        "refs": [
+          "John 20:24-29"
+        ]
+      },
+      {
+        "placeId": "ephesus",
+        "note": "Tradition (Irenaeus) places the apostle John's later ministry in Ephesus.",
+        "refs": [
+          "Rev 1:9-11"
+        ]
+      }
+    ]
+  }
+]

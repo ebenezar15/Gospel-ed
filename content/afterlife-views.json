@@ -1,0 +1,287 @@
+[
+  {
+    "id": "bodily-resurrection",
+    "title": "The resurrection of the flesh",
+    "summary": "From the earliest post-apostolic writers onward, the church insisted that the dead would be raised in the flesh, not merely survive as souls. Against Greek philosophical contempt for the body and against Gnostic teachers who denied the resurrection of the flesh, writers argued from creation, from nature's cycles, from God's power and justice, and above all from Christ's own resurrection.",
+    "figures": ["Clement of Rome", "Justin Martyr", "Athenagoras of Athens", "Irenaeus of Lyon", "Tertullian", "Methodius of Olympus"],
+    "sources": [
+      { "author": "Clement of Rome", "title": "1 Clement", "year": 96, "locator": "24-26", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Justin Martyr", "title": "First Apology", "year": 155, "locator": "18-19", "publicDomain": true },
+      { "author": "Athenagoras of Athens (attributed)", "title": "On the Resurrection of the Dead", "year": 180, "publicDomain": true, "confidence": "debated" },
+      { "author": "Tertullian", "title": "On the Resurrection of the Flesh", "year": 208, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5.1-15", "publicDomain": true },
+      { "author": "Caroline Walker Bynum", "title": "The Resurrection of the Body in Western Christianity, 200-1336", "year": 1995 }
+    ],
+    "refs": ["1 Cor 15:12-58", "Luke 24:36-43", "John 20:24-29", "Phil 3:20-21", "Rom 8:11", "John 5:28-29"],
+    "history": "1 Clement (c. 96) argues for the resurrection from day following night, seed dying and growing, and the legend of the phoenix (chs 24-26), a sign of how naturally early Christians reached for analogies in nature. Justin (c. 155) defends the possibility of resurrection by comparing it with the formation of a human from a tiny seed (*1 Apology* 18-19).\n\nThe treatise *On the Resurrection* traditionally ascribed to Athenagoras (c. 180) gives a philosophical case: humans are made as body-soul unities for an everlasting purpose, and divine justice requires that the whole person, who acted in the body, be judged. Its authenticity is debated (R. M. Grant and others have argued for a later date or different author).\n\nIrenaeus (c. 180) argued against Gnostics that the flesh which God formed and which the Eucharist nourishes is capable of incorruption (*Against Heresies* 5.2-3). Tertullian's *On the Resurrection of the Flesh* (c. 208-212) is the fullest Latin defence, insisting on the identity of the risen flesh. Later, Origen proposed that the risen body retains a 'form' (eidos) while its matter changes; Methodius of Olympus (*On the Resurrection*) attacked this as compromising material identity. The phrase 'resurrection of the flesh' (carnis resurrectionem) entered the Old Roman Creed and the Apostles' Creed.\n\nShift: the doctrine remained creedal everywhere, but emphasis moved over the centuries toward the fate of the soul at death (see 'going-to-heaven-shift'). Bynum shows, however, that medieval Western thinkers continued to care intensely about bodily identity and resurrection.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "renewal-of-creation",
+    "title": "The renewal of creation (Irenaeus)",
+    "summary": "Irenaeus taught that the final hope is not escape from the material world but its renewal: the righteous will reign on a restored earth, creation itself will be freed and made fruitful, and then the whole cosmos will be transfigured. For him salvation is the healing and fulfilment of creation (recapitulation in Christ), against Gnostics who despised matter.",
+    "figures": ["Irenaeus of Lyon", "Justin Martyr", "Methodius of Olympus"],
+    "sources": [
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5.32-36", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5.32.1 (creation restored to its pristine state and subject to the righteous)", "publicDomain": true },
+      { "author": "J. Richard Middleton", "title": "A New Heaven and a New Earth: Reclaiming Biblical Eschatology", "year": 2014 }
+    ],
+    "refs": ["Rom 8:19-23", "Isa 65:17-25", "Isa 11:6-9", "Matt 19:28", "Acts 3:21", "Rev 21:1-5", "Matt 5:5"],
+    "history": "In *Against Heresies* 5.32-36 Irenaeus argues that it is fitting for the righteous to receive the reward of their sufferings in the same creation in which they suffered. He insists that the promises to Abraham of the land must be literally fulfilled, that Isaiah's prophecies of peaceable animals and abundance are not merely allegorical (5.33-35), and that 'neither the substance nor the matter of the creation' is annihilated, only its 'fashion' passes away (5.36.1, reading 1 Cor 7:31). He ties this to his chiliasm (see 'chiliasm').\n\nShift: as chiliasm declined and Platonist spirituality grew, the renewal of the material cosmos received less attention in Western theology, though it was never denied in principle (Aquinas affirms a renewal of the world after judgment). Twentieth-century theology (Moltmann, Wright, Middleton, and much Reformed 'new creation' theology) has revived Irenaeus as a key witness. Critics caution that some revivals underplay the discontinuity and the transfiguring, God-centred character of the final state stressed by other Fathers.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "intermediate-state",
+    "title": "Hades as waiting place: the intermediate state",
+    "summary": "Many second- and third-century writers taught that ordinary souls do not go straight to heaven at death but wait in Hades (the underworld), divided into places of refreshment and of distress, until the resurrection. Martyrs were often an exception, entering paradise immediately.",
+    "figures": ["Justin Martyr", "Irenaeus of Lyon", "Tertullian", "Hippolytus of Rome (attributed)", "Cyprian of Carthage", "Ambrose of Milan"],
+    "sources": [
+      { "author": "Tertullian", "title": "On the Soul (De anima)", "year": 210, "locator": "55-58", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5.31.2", "publicDomain": true },
+      { "author": "Justin Martyr", "title": "Dialogue with Trypho", "year": 160, "locator": "80 (rejects those who say souls are taken to heaven at death)", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Hippolytus of Rome (authorship debated)", "title": "Against Plato, On the Cause of the Universe (Against the Greeks)", "year": 220, "publicDomain": true, "confidence": "debated" },
+      { "author": "Ambrose of Milan", "title": "On the Good of Death (De bono mortis)", "year": 390, "locator": "10.45-47", "publicDomain": true, "confidence": "needs-verification" }
+    ],
+    "refs": ["Luke 16:19-31", "Luke 23:43", "Phil 1:21-23", "2 Cor 5:1-8", "Rev 6:9-11", "Heb 12:23"],
+    "history": "Irenaeus argued that, as Christ went into the place of the dead for three days before rising, so his disciples' souls go to an invisible place appointed by God and await the resurrection there (*Against Heresies* 5.31.2); he regarded the view that souls go straight to heaven as a Gnostic error. Justin similarly criticizes those who say souls are taken up to heaven at death (*Dialogue* 80; the precise wording should be checked).\n\nTertullian (*On the Soul* 55) located all souls in the underworld except the martyrs, who go at once to paradise (citing the souls under the altar, Rev 6:9). He also suggests that souls already experience a foretaste of reward or punishment in Hades (ch. 58). A Greek fragment titled *Against Plato, On the Cause of the Universe*, attributed to Hippolytus (sometimes to Josephus in manuscripts), describes Hades as a subterranean region with a bright region (the 'bosom of Abraham') for the righteous and a region near the lake of fire for the wicked, awaiting judgment; its authorship is disputed.\n\nShift: by the fourth and fifth centuries the dominant expectation was that the souls of the holy enter the presence of Christ at death (Cyprian already expressed this for martyrs and the faithful; Augustine discusses 'secret receptacles' for souls, *Enchiridion* 109). In the West this developed into heaven, hell and purgatory as immediate destinations, defined in 1336 (see 'beatific-vision'); in the East the interim state remained less defined, with prayer for the departed.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "descent-into-hades",
+    "title": "Christ's descent into Hades",
+    "summary": "Early Christians widely believed that between his death and resurrection Christ went to the realm of the dead, proclaimed victory, and freed the righteous of the old covenant. The idea appears in Ignatius, Justin, Irenaeus, Melito and later in the *Gospel of Nicodemus*, and entered the Apostles' Creed as 'he descended into hell'. Its biblical basis and meaning remain debated.",
+    "figures": ["Ignatius of Antioch", "Justin Martyr", "Irenaeus of Lyon", "Melito of Sardis", "Origen", "Rufinus of Aquileia", "John Calvin"],
+    "sources": [
+      { "author": "Ignatius of Antioch", "title": "Letter to the Magnesians", "year": 110, "locator": "9.2", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Justin Martyr", "title": "Dialogue with Trypho", "year": 160, "locator": "72 (cites a saying attributed to Jeremiah about the Lord descending to the dead)", "publicDomain": true },
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "4.27.2", "publicDomain": true },
+      { "author": "Anonymous", "title": "Gospel of Nicodemus (Acts of Pilate), Descent into Hell section", "year": 400, "publicDomain": true, "confidence": "debated" },
+      { "author": "Rufinus of Aquileia", "title": "Commentary on the Apostles' Creed", "year": 404, "locator": "18 (notes 'descended into hell' is in the Aquileian creed, not the Roman)", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "John Calvin", "title": "Institutes of the Christian Religion", "year": 1559, "locator": "2.16.8-12", "publicDomain": true },
+      { "author": "Wayne Grudem", "title": "He Did Not Descend into Hell: A Plea for Following Scripture instead of the Apostles' Creed (JETS 34.1)", "year": 1991 }
+    ],
+    "refs": ["1 Pet 3:18-20", "1 Pet 4:6", "Eph 4:8-10", "Acts 2:27-31", "Rom 10:7", "Matt 12:40", "Matt 27:52-53", "Rev 1:18"],
+    "history": "Ignatius says the prophets awaited Christ as their teacher and that on his coming he raised them from the dead (*Magnesians* 9). Justin accuses Jews of removing from Jeremiah a passage about the Lord remembering his dead who slept and going down to preach salvation to them (*Dialogue* 72); the same saying is quoted by Irenaeus. Irenaeus also reports an elder's teaching that the Lord descended to the regions beneath the earth announcing his advent (*Against Heresies* 4.27.2). Melito's *Peri Pascha* pictures Christ trampling death and binding the strong one.\n\nThe *Gospel of Nicodemus* (a Latin and Greek work whose descent section is usually dated fourth to sixth century) dramatizes the 'Harrowing of Hell': Christ breaks the gates, binds Satan, and leads Adam and the patriarchs out. This shaped medieval drama and Eastern Anastasis icons. The creedal phrase descendit ad inferna (later ad inferos) is first attested in the fourth century (the Fourth Formula of Sirmium, 359, and the Aquileian creed reported by Rufinus) and entered the received Apostles' Creed.\n\nInterpretation varied: (1) a proclamation of victory and liberation of Old Testament saints (patristic mainstream, Catholic, Orthodox); (2) Christ suffering the torments of hell on the cross in soul (Calvin, *Institutes* 2.16.10); (3) simply that Christ truly died and was buried, entering the state of death (many Reformed, the Westminster Larger Catechism 50); (4) some evangelicals (e.g. Grudem) argue the phrase should be dropped. 1 Pet 3:19 is itself debated: preaching to the dead, to imprisoned fallen angels (the Watchers of 1 Enoch), or through Noah to his contemporaries (Augustine's reading).",
+    "confidence": "debated"
+  },
+  {
+    "id": "chiliasm",
+    "title": "Chiliasm: an earthly thousand-year kingdom",
+    "summary": "Many influential second-century Christians in Asia Minor and beyond expected that after the resurrection of the righteous Christ would reign for a thousand years in a rebuilt Jerusalem on a fruitful, renewed earth, before the final judgment. This 'chiliasm' (from Greek chilioi, thousand) or 'millenarianism' is attested in Papias, Justin, Irenaeus, Tertullian, Hippolytus, Lactantius and others.",
+    "figures": ["Papias of Hierapolis", "Justin Martyr", "Irenaeus of Lyon", "Tertullian", "Hippolytus of Rome", "Methodius of Olympus", "Lactantius", "Victorinus of Pettau"],
+    "sources": [
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5.33.3-4 (quotes the elders and Papias on the fruitful vines)", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Eusebius of Caesarea", "title": "Ecclesiastical History", "year": 325, "locator": "3.39.11-13", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Justin Martyr", "title": "Dialogue with Trypho", "year": 160, "locator": "80-81", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Tertullian", "title": "Against Marcion", "year": 208, "locator": "3.24", "publicDomain": true },
+      { "author": "Lactantius", "title": "Divine Institutes", "year": 310, "locator": "7.14-26", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Charles E. Hill", "title": "Regnum Caelorum: Patterns of Millennial Thought in Early Christianity", "year": 2001 }
+    ],
+    "refs": ["Rev 20:1-6", "Isa 65:17-25", "Isa 11:6-9", "Ezek 40:1-4", "1 Cor 15:23-26", "Matt 26:29"],
+    "history": "Papias (early second century) passed on, according to Irenaeus, a saying traced through 'the elders who saw John' of vines with ten thousand branches and enormous yields in the kingdom (*Against Heresies* 5.33.3-4). Eusebius records that Papias taught a corporeal thousand-year reign after the resurrection and judges him a man of 'very small intelligence', blaming him for passing the view to Irenaeus and others (*Ecclesiastical History* 3.39.12-13).\n\nJustin (*Dialogue* 80-81) says he and other fully orthodox Christians expect a resurrection of the flesh and a thousand years in a rebuilt and enlarged Jerusalem, citing Isaiah 65 and Revelation 20; he also admits that many Christians of pure and pious faith do not share this view. Irenaeus defends it at length (5.32-36). Tertullian (*Against Marcion* 3.24) describes a thousand-year reign in a Jerusalem let down from heaven.\n\nScholarly debate: older accounts treated chiliasm as the near-universal second-century view. Charles E. Hill argued that non-chiliastic eschatology (with the righteous going to heaven at death) was also widespread and early, so the picture was mixed. Modern premillennialists claim continuity with these Fathers; amillennialists note that the early chiliasts did not hold dispensational features such as a pretribulation rapture.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "decline-of-chiliasm",
+    "title": "The decline of chiliasm",
+    "summary": "From the third century, especially in Alexandria and later in the Latin West through Augustine, the literal thousand-year kingdom was increasingly criticized as carnal and Jewish-sounding, and Revelation 20 was reread spiritually as the present reign of Christ with his saints. By the fifth century chiliasm had become a minority or suspect view in both East and West.",
+    "figures": ["Origen", "Dionysius of Alexandria", "Nepos of Arsinoe", "Eusebius of Caesarea", "Tyconius", "Jerome", "Augustine of Hippo"],
+    "sources": [
+      { "author": "Origen", "title": "On First Principles", "year": 225, "locator": "2.11.2", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Eusebius of Caesarea", "title": "Ecclesiastical History", "year": 325, "locator": "7.24-25 (Dionysius against Nepos; doubts on Revelation's authorship)", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Eusebius of Caesarea", "title": "Ecclesiastical History", "year": 325, "locator": "3.39.12-13", "publicDomain": true },
+      { "author": "Augustine of Hippo", "title": "City of God", "year": 426, "locator": "20.7-9", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Jerome", "title": "Commentary on Isaiah", "year": 410, "locator": "book 18 preface", "publicDomain": true, "confidence": "needs-verification" }
+    ],
+    "refs": ["Rev 20:1-6", "John 5:24-25", "Col 3:1-4", "Eph 2:6", "Matt 12:29", "John 18:36"],
+    "history": "Origen rejected those who expected bodily pleasures, eating, drinking and marriage in the promised kingdom, interpreting the prophecies spiritually (*On First Principles* 2.11.2). Around 250-260 Dionysius of Alexandria, Origen's pupil, met the chiliasm of the Egyptian bishop Nepos, who had written a *Refutation of the Allegorists*. Dionysius debated his followers for three days in the Arsinoe district and, according to his own account preserved by Eusebius (*HE* 7.24), persuaded them; he also argued on stylistic grounds that Revelation was not written by the author of the Fourth Gospel (7.25). Eusebius himself dismissed Papias's views (3.39) and was cool toward Revelation.\n\nIn the West, the Donatist Tyconius (c. 380) read Revelation as a description of the church's ongoing struggle. Augustine, who admits he once held a spiritualized form of chiliasm, rejected the carnal version and interpreted the thousand years as the whole period of the church between Christ's first and second comings, with the first resurrection as spiritual regeneration (*City of God* 20.7-9). This became the dominant Western reading for over a millennium (amillennialism, in modern terms).\n\nCauses proposed by historians: Alexandrian allegorical exegesis; the end of persecution under Constantine, making the church's present reign seem plausible; reaction against Montanist prophecy; anti-Jewish polemic; and doubts over Revelation's canonicity in the East. Chiliasm was never condemned by an ecumenical council, and revived in various forms (Joachim of Fiore's influence, radical Reformation, seventeenth-century Puritans, and modern premillennialism). The Augsburg Confession (art. 17) rejected 'Jewish opinions' of an earthly kingdom before the resurrection.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "eternal-punishment",
+    "title": "Eternal punishment of the wicked",
+    "summary": "The dominant early and later view held that the impenitent wicked would suffer conscious, everlasting punishment in fire after the judgment. It appears in 2 Clement, Ignatius, the Martyrdom of Polycarp, Justin, Athenagoras, Tertullian and Minucius Felix, and receives its classic defence in Augustine, *City of God* book 21.",
+    "figures": ["Author of 2 Clement", "Ignatius of Antioch", "Polycarp of Smyrna", "Justin Martyr", "Tertullian", "Minucius Felix", "Augustine of Hippo"],
+    "sources": [
+      { "author": "Anonymous", "title": "2 Clement", "year": 150, "locator": "17.5-7", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Anonymous", "title": "Martyrdom of Polycarp", "year": 156, "locator": "11.2", "publicDomain": true },
+      { "author": "Justin Martyr", "title": "First Apology", "year": 155, "locator": "8 (punishment for an eternal period, not a thousand years as Plato said)", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Justin Martyr", "title": "First Apology", "year": 155, "locator": "28", "publicDomain": true },
+      { "author": "Tertullian", "title": "Apology", "year": 197, "locator": "48", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Augustine of Hippo", "title": "City of God", "year": 426, "locator": "book 21 (esp. 21.23 on Matt 25:46)", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Christopher W. Morgan and Robert A. Peterson (eds.)", "title": "Hell Under Fire", "year": 2004 }
+    ],
+    "refs": ["Matt 25:41-46", "Mark 9:43-48", "2 Thess 1:9", "Rev 14:10-11", "Rev 20:10", "Dan 12:2", "Isa 66:24"],
+    "history": "2 Clement (mid-second century) warns that the ungodly will be punished with terrible torments in unquenchable fire (17.5-7, drawing on Isa 66:24). The Martyrdom of Polycarp contrasts the brief fire of the persecutor with the fire of coming judgment and eternal punishment (11.2). Justin tells the emperor that each person goes to eternal punishment or salvation according to their deeds, and that this punishment lasts not a thousand years, as Plato said, but an eternal period (*1 Apology* 8). Tertullian and Minucius Felix (*Octavius* 35) describe a fire that torments without consuming.\n\nAugustine's *City of God* book 21 is the most influential defence: he argues that bodies can burn without being consumed (21.2-7), answers the 'merciful' who hope for limited punishment (21.17-27), and insists that 'eternal' must mean the same for punishment and life in Matt 25:46 (21.23). He notes that in his day very many (Enchiridion 112) pitied the damned and doubted endless punishment, showing the question was live.\n\nShift: this became the official teaching of the Western church (e.g. Fourth Lateran 1215) and of Orthodoxy, and was retained by the Reformers. Since the nineteenth century, increasing numbers of Protestants have adopted conditional immortality or hopeful universalism; defenders argue that eternal punishment best fits Jesus' teaching and the seriousness of sin against an infinite God, and critics argue it misreads 'destruction' language and portrays God as retributive without end.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "conditional-immortality-early",
+    "title": "Conditional immortality in early writers",
+    "summary": "Several early writers taught that the soul is not immortal by nature but receives continued existence from God, who grants immortality to the righteous. Some modern annihilationists read them as early witnesses that the wicked eventually cease to exist; other scholars argue these writers still held to everlasting punishment, and only Arnobius clearly taught annihilation.",
+    "figures": ["Justin Martyr", "Theophilus of Antioch", "Irenaeus of Lyon", "Arnobius of Sicca"],
+    "sources": [
+      { "author": "Justin Martyr", "title": "Dialogue with Trypho", "year": 160, "locator": "5-6 (souls are not immortal by nature; they exist as long as God wills)", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Theophilus of Antioch", "title": "To Autolycus", "year": 180, "locator": "2.27 (humanity made neither mortal nor immortal by nature, but capable of both)", "publicDomain": true },
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "2.34.3 (continuance of the soul depends on the will of God)", "publicDomain": true, "confidence": "debated" },
+      { "author": "Arnobius of Sicca", "title": "Against the Heathen (Adversus Nationes)", "year": 300, "locator": "2.14", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "LeRoy Edwin Froom", "title": "The Conditionalist Faith of Our Fathers", "year": 1965 },
+      { "author": "Edward William Fudge", "title": "The Fire That Consumes", "year": 1982 }
+    ],
+    "refs": ["1 Tim 6:16", "Rom 2:7", "2 Tim 1:10", "Gen 3:22", "Matt 10:28", "John 3:16"],
+    "history": "In the *Dialogue* (chs 5-6) Justin, recounting his conversion conversation with an old man, rejects the Platonic claim that souls are naturally immortal: souls live because God wills them to live and could cease if he did not; the souls of the unrighteous are punished 'as long as God wills them to exist and be punished'. Whether Justin envisaged an end to their existence is disputed, because elsewhere he speaks of eternal punishment (*1 Apology* 8). The exact wording should be checked against a critical edition.\n\nTheophilus of Antioch (*To Autolycus* 2.27) says humans were made neither mortal nor immortal by nature, but capable of either, depending on obedience. Irenaeus (*Against Heresies* 2.34.3) says souls continue to exist because God grants it, and that those who are ungrateful deprive themselves of 'length of days for ever and ever'; conditionalists cite this, while others note Irenaeus also describes eternal punishment (e.g. 4.28.2, 5.27.2).\n\nArnobius of Sicca (c. 300), a recent convert writing against pagans, is the clearest early annihilationist: souls are of a 'middle quality' and, if they do not know God, are finally consumed and pass into nothingness (*Against the Heathen* 2.14). His theology was idiosyncratic and little followed.\n\nShift: after Augustine, the natural immortality of the soul became standard (defined at the Fifth Lateran Council, 1513). Conditional immortality revived among some Socinians and English dissenters, in nineteenth-century writers such as Edward White, among Seventh-day Adventists and Christadelphians, and among twentieth-century evangelicals (John Stott tentatively, Edward Fudge, Clark Pinnock).",
+    "confidence": "debated"
+  },
+  {
+    "id": "apokatastasis",
+    "title": "Apokatastasis: the hope of universal restoration",
+    "summary": "A significant line of Greek-speaking theologians held that punishment after death is remedial and that God will finally restore all rational creatures, possibly including the devil, to union with himself. Origen is its most famous proponent; Gregory of Nyssa gave it a refined form; Didymus the Blind, Evagrius and, in the Syriac tradition, Isaac of Nineveh express related hopes. Clement of Alexandria's position is debated.",
+    "figures": ["Clement of Alexandria", "Origen", "Gregory of Nyssa", "Didymus the Blind", "Evagrius Ponticus", "Isaac of Nineveh (the Syrian)"],
+    "sources": [
+      { "author": "Clement of Alexandria", "title": "Stromata", "year": 200, "locator": "7.2 (punishments as corrective)", "publicDomain": true, "confidence": "debated" },
+      { "author": "Origen", "title": "On First Principles", "year": 225, "locator": "1.6.1-3; 3.6.1-6", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Gregory of Nyssa", "title": "On the Soul and the Resurrection", "year": 380, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Gregory of Nyssa", "title": "Catechetical Oration", "year": 385, "locator": "26", "publicDomain": true },
+      { "author": "Isaac of Nineveh", "title": "Discourses, Second Part", "year": 680, "locator": "39-41", "confidence": "needs-verification" },
+      { "author": "Ilaria L. E. Ramelli", "title": "The Christian Doctrine of Apokatastasis: A Critical Assessment from the New Testament to Eriugena", "year": 2013 },
+      { "author": "Michael J. McClymond", "title": "The Devil's Redemption: A New History and Interpretation of Christian Universalism", "year": 2018 }
+    ],
+    "refs": ["Acts 3:21", "1 Cor 15:22-28", "Col 1:19-20", "Eph 1:10", "Phil 2:9-11", "Rom 11:32", "1 Tim 2:4", "1 Tim 4:10"],
+    "history": "Clement of Alexandria described divine punishments as educative and corrective (e.g. *Stromata* 7.2), though whether he expected all to be saved is disputed. Origen (*On First Principles* 1.6) argued that the end will be like the beginning: through long ages of discipline all rational beings will be brought back, so that God will be 'all in all' (1 Cor 15:28). He treated this as a theological exploration, at times hedging (whether the devil would be saved, and whether souls might fall again, are contested points in his texts, transmitted partly through Rufinus's softened Latin).\n\nGregory of Nyssa, a revered Nicene bishop, taught in *On the Soul and the Resurrection* and the *Catechetical Oration* (26) that the purifying fire will remove evil from every creature, since evil is finite and non-being, so that finally even the inventor of evil will be healed. Didymus the Blind and Evagrius continued the Origenist tradition. Isaac of Nineveh (seventh century), revered in East and West Syriac and Greek Orthodox monasticism, argued in his recently recovered Second Part that God's love makes Gehenna a temporary scourge of love and that God would not create beings he knew would be lost forever (specific discourse numbers to be checked).\n\nAssessment is contested. Ramelli argues apokatastasis was widely held, rooted in Scripture and compatible with orthodoxy; McClymond and others argue it depends on Platonist metaphysics, was always a minority, and was rightly rejected. Augustine opposed it, and the Origenist form was condemned in the sixth century (see 'condemnations-543-553'). Modern defenders include Sergius Bulgakov, Hans Urs von Balthasar (as a hope, not a certainty) and David Bentley Hart.",
+    "confidence": "debated"
+  },
+  {
+    "id": "condemnations-543-553",
+    "title": "The condemnations of 543 and 553",
+    "summary": "In 543 the emperor Justinian issued an edict, with anathemas confirmed by a home synod in Constantinople, condemning Origenist doctrines including the pre-existence of souls and the temporary character of punishment. In 553, around the Fifth Ecumenical Council (Constantinople II), fifteen anathemas against Origenist teachings were adopted. Whether these were formally acts of the ecumenical council, and whether they target Origen himself, Gregory of Nyssa's hope, or a specific sixth-century monastic Origenism, is debated.",
+    "figures": ["Emperor Justinian I", "Patriarch Menas of Constantinople", "Pope Vigilius", "Cyril of Scythopolis", "Evagrius Ponticus (condemned posthumously)", "Didymus the Blind (condemned posthumously)"],
+    "sources": [
+      { "author": "Justinian I", "title": "Letter to Menas (Edict against Origen) with anathemas", "year": 543, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Council of Constantinople II", "title": "Fifteen anathemas against the Origenists", "year": 553, "publicDomain": true, "confidence": "debated" },
+      { "author": "Council of Constantinople II", "title": "Canons (Anathemas against the Three Chapters)", "year": 553, "locator": "canon 11 (lists Origen among heretics; text debated)", "publicDomain": true, "confidence": "debated" },
+      { "author": "Richard Price (trans.)", "title": "The Acts of the Council of Constantinople of 553", "year": 2009 },
+      { "author": "Brian E. Daley", "title": "The Hope of the Early Church: A Handbook of Patristic Eschatology", "year": 1991 }
+    ],
+    "refs": ["Matt 25:46", "Rev 20:10", "1 Cor 15:28"],
+    "history": "Disputes among Palestinian monks over Origenist teachings (pre-existence of souls, a spherical resurrection body, the restoration of demons, and the Evagrian Christology of the 'isochristoi') prompted imperial intervention. Justinian's 543 edict to Patriarch Menas listed anathemas, including one against anyone who says the punishment of demons or impious humans is temporary and will end. The 553 anathemas, preserved separately from the main council acts, target a cosmology closely linked to Evagrius more than Origen's own words.\n\nDebated points: (1) Were the fifteen anathemas passed at the ecumenical council itself? Many scholars (e.g. Richard Price, following earlier research) think they were approved by the assembled bishops shortly before the formal opening, giving them conciliar weight in practice; others argue they lack strict ecumenical status. (2) Canon 11 includes Origen's name in a list of heretics; some scholars have suggested the name was a later insertion, though most accept it. (3) Gregory of Nyssa was never condemned and remains a saint, which some take to mean that his version of the hope (without pre-existence) was not the target; others read the 543 anathema as rejecting all temporary-hell views.\n\nEffect: after the sixth century, universal restoration as a doctrine was regarded as heretical in both East and West, though it continued in some Syriac writers (Isaac of Nineveh, Stephen bar Sudaili earlier), in Eriugena, and resurfaced in modern theology.",
+    "confidence": "debated"
+  },
+  {
+    "id": "prayer-for-the-dead",
+    "title": "Early prayer and offerings for the dead",
+    "summary": "From at least the late second century Christians commemorated and prayed for the departed, offered the Eucharist on the anniversaries of their deaths, and inscribed requests for refreshment (refrigerium) and peace on tombs. This practice, shared by East and West, is the root from which both Orthodox prayer for the departed and the Latin doctrine of purgatory grew.",
+    "figures": ["Tertullian", "Perpetua", "Cyprian of Carthage", "Cyril of Jerusalem", "Monica", "Augustine of Hippo"],
+    "sources": [
+      { "author": "Tertullian", "title": "On the Military Crown (De corona)", "year": 211, "locator": "3", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Tertullian", "title": "On Monogamy", "year": 217, "locator": "10", "publicDomain": true },
+      { "author": "Anonymous (with Perpetua's own account)", "title": "The Passion of Perpetua and Felicity", "year": 203, "locator": "7-8 (vision of Dinocrates)", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Cyril of Jerusalem (or his successor John)", "title": "Mystagogical Catecheses", "year": 350, "locator": "5.9-10", "publicDomain": true, "confidence": "debated" },
+      { "author": "Augustine of Hippo", "title": "Confessions", "year": 400, "locator": "9.13", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Augustine of Hippo", "title": "On the Care to Be Had for the Dead", "year": 422, "publicDomain": true }
+    ],
+    "refs": ["2 Tim 1:16-18", "1 Cor 15:29", "Matt 12:32", "1 Cor 3:11-15"],
+    "history": "Tertullian lists annual offerings for the dead as an established custom (*De corona* 3) and says a widow prays for her husband's soul and seeks refreshment for him (*On Monogamy* 10). In the *Passion of Perpetua*, Perpetua prays for her dead young brother Dinocrates and sees him moved from a place of thirst and suffering to refreshment (7-8). Inscriptions in the Roman catacombs ask peace and refreshment for the departed. The Jerusalem *Mystagogical Catecheses* (5.9-10) describe prayer for the departed in the Eucharistic anaphora. Augustine asks readers to remember his mother Monica at the altar (*Confessions* 9.13).\n\nThe Jewish precedent of 2 Maccabees 12:39-45 (Judas's offering for the fallen) was cited, though this book is outside the Protestant canon. Protestants often cite 2 Tim 1:16-18 as a possible but uncertain instance (Paul's prayer for Onesiphorus, who may have died).\n\nShift: these practices did not by themselves imply a defined place of purifying punishment; they expressed communion and hope. The Orthodox continue prayer for the departed without a doctrine of purgatory; the Latin West developed purgatory (see 'purgatory-development'); the Reformers generally abolished prayers for the dead as lacking scriptural warrant (Anglican practice later varied).",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "purgatory-development",
+    "title": "The development of purgatory",
+    "summary": "The Western church gradually defined a post-death purification for those who die in God's grace but not yet fully purified. Seeds appear in Augustine; Gregory the Great's *Dialogues* popularized purgatorial fire for lesser sins; the noun purgatorium emerges in the twelfth century; the Councils of Lyon II (1274), Florence (1439) and Trent (1563) defined it. The Orthodox reject the Latin form (especially material fire and satisfaction) while praying for the dead, and the Reformers rejected it outright.",
+    "figures": ["Augustine of Hippo", "Caesarius of Arles", "Gregory the Great", "Thomas Aquinas", "Mark of Ephesus", "Martin Luther", "John Calvin"],
+    "sources": [
+      { "author": "Augustine of Hippo", "title": "City of God", "year": 426, "locator": "21.13, 21.24, 21.26", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Augustine of Hippo", "title": "Enchiridion", "year": 421, "locator": "69, 109-110", "publicDomain": true },
+      { "author": "Gregory the Great", "title": "Dialogues", "year": 594, "locator": "4.41 (4.39 in some numberings)", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Second Council of Lyon", "title": "Profession of Faith of Michael VIII Palaeologus", "year": 1274, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Council of Florence", "title": "Laetentur caeli (Decree of Union with the Greeks)", "year": 1439, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Council of Trent", "title": "Decree on Purgatory, Session 25", "year": 1563, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Jacques Le Goff", "title": "The Birth of Purgatory", "year": 1981 },
+      { "author": "John Calvin", "title": "Institutes of the Christian Religion", "year": 1559, "locator": "3.5.6-10", "publicDomain": true }
+    ],
+    "refs": ["1 Cor 3:11-15", "Matt 12:32", "Matt 5:25-26", "Heb 12:14", "Rev 21:27", "1 Pet 1:7"],
+    "history": "Augustine considered it 'not incredible' that some of the faithful are saved through a purifying fire after death to a greater or lesser extent (*Enchiridion* 69; *City of God* 21.26), while distinguishing temporary punishments (21.13) from eternal ones. Gregory the Great (*Dialogues* book 4, c. 594) taught that for certain lighter faults there is a purging fire before judgment, citing Matt 12:32 and 1 Cor 3, and told stories of souls freed by Masses; this greatly shaped medieval piety. Jacques Le Goff dated the 'birth' of purgatory as a distinct place to the late twelfth century, when the noun purgatorium appeared; critics say he overstated the novelty, since the concept was much older than the noun.\n\nLyon II (1274) included in the Byzantine emperor's profession that souls who die in charity before making satisfaction are purified after death by purgatorial or cleansing penalties, helped by the suffrages of the living. Florence (1439), in the decree of union with the Greeks, restated this; at the council the Greek spokesman Mark of Ephesus objected to the idea of a purifying material fire and of satisfaction, accepting an intermediate state and prayer for the dead. Trent (1563) affirmed purgatory and the help of suffrages, especially the Mass, while instructing bishops to avoid curious questions and superstitions. The Catechism of the Catholic Church (1030-1032) presents it as final purification rather than primarily a place of fire.\n\nThe Reformers rejected purgatory as lacking scriptural support and undermining Christ's finished work and justification by faith; abuse of indulgences triggered Luther's 95 Theses (1517). Some modern Protestants (e.g. C. S. Lewis, Jerry Walls) have argued for a purgatory of sanctification rather than satisfaction.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "soul-immortality-synthesis",
+    "title": "The Christian synthesis of soul and resurrection",
+    "summary": "From the third century, Christian theologians increasingly combined the biblical resurrection hope with a philosophical doctrine of an immaterial, naturally immortal soul. The two were held together: the soul survives death and is judged, and will be reunited with the body at the last day. This synthesis became standard in East and West, but its balance and biblical basis have been questioned in modern scholarship.",
+    "figures": ["Origen", "Gregory of Nyssa", "Augustine of Hippo", "Nemesius of Emesa", "Thomas Aquinas", "Fifth Lateran Council"],
+    "sources": [
+      { "author": "Augustine of Hippo", "title": "On the Immortality of the Soul", "year": 387, "publicDomain": true },
+      { "author": "Thomas Aquinas", "title": "Summa Theologiae", "year": 1270, "locator": "I q. 75 a. 6", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Fifth Lateran Council", "title": "Apostolici regiminis", "year": 1513, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Oscar Cullmann", "title": "Immortality of the Soul or Resurrection of the Dead?", "year": 1958 },
+      { "author": "John W. Cooper", "title": "Body, Soul, and Life Everlasting", "year": 1989 }
+    ],
+    "refs": ["Matt 10:28", "2 Cor 5:1-8", "Phil 1:21-23", "1 Cor 15:53-54", "1 Tim 6:16", "Eccl 12:7"],
+    "history": "Earlier writers such as Justin, Theophilus and Irenaeus stressed that only God is immortal by nature (1 Tim 6:16). By contrast, Origen, Gregory of Nyssa and Augustine engaged Platonist philosophy and argued for the soul's natural immortality, while insisting on the resurrection. Aquinas, using Aristotle, made the soul the 'form' of the body: it subsists after death but is incomplete without the body, which gives resurrection a philosophical necessity. The Fifth Lateran Council (1513) condemned the view that the intellectual soul is mortal.\n\nIn 1956 Oscar Cullmann's lecture *Immortality of the Soul or Resurrection of the Dead?* contrasted Socrates' calm death with Jesus' anguish, arguing that the New Testament knows resurrection, not natural immortality; this was widely influential and much criticized. Defenders such as John W. Cooper argue that the Bible itself supports a 'holistic dualism' with a conscious intermediate state, and that the classical synthesis did not abandon resurrection.",
+    "confidence": "debated"
+  },
+  {
+    "id": "soul-sleep-reformation",
+    "title": "Reformation debates over soul sleep",
+    "summary": "In the sixteenth century, some reformers and radical groups revived the view that souls sleep or die until the resurrection (Christian mortalism), partly in reaction to purgatory and the cult of the saints. Calvin's first theological work attacked it, and the Reformed and Lutheran confessions affirmed a conscious intermediate state, though Luther himself often used the language of sleep.",
+    "figures": ["Martin Luther", "John Calvin", "William Tyndale", "Michael Servetus", "Anabaptist groups", "John Milton", "Thomas Hobbes"],
+    "sources": [
+      { "author": "John Calvin", "title": "Psychopannychia", "year": 1542, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "William Tyndale", "title": "An Answer unto Sir Thomas More's Dialogue", "year": 1531, "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Fifth Lateran Council", "title": "Apostolici regiminis", "year": 1513, "publicDomain": true },
+      { "author": "Westminster Assembly", "title": "Westminster Confession of Faith", "year": 1646, "locator": "32.1", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Norman T. Burns", "title": "Christian Mortalism from Tyndale to Milton", "year": 1972 }
+    ],
+    "refs": ["1 Thess 4:13-14", "John 11:11-14", "Eccl 9:5", "Luke 23:43", "Phil 1:23", "Rev 6:9-11"],
+    "history": "Luther frequently described death as a deep sleep from which the believer will awake at the resurrection, but scholars debate whether he held to unconscious soul sleep or a restful, conscious state with God; his statements vary. Tyndale, against Thomas More, argued that teaching souls already in heaven undermined the resurrection hope Paul used to comfort the Thessalonians. Calvin wrote *Psychopannychia* (drafted c. 1534, published 1542) against Anabaptists who taught soul sleep, arguing from Luke 23:43, Phil 1:23 and Rev 6:9 for conscious rest with Christ.\n\nThe Westminster Confession (32.1) states that the souls of the righteous are received into the highest heavens and those of the wicked cast into hell, awaiting the resurrection, and that Scripture acknowledges no other place. Mortalism continued in English thought (Milton, Hobbes), and later in Seventh-day Adventism, Christadelphians and Jehovah's Witnesses. Some modern biblical scholars find the mortalist reading closer to Hebrew anthropology, while most systematic theologians retain a conscious intermediate state.",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "beatific-vision",
+    "title": "The beatific vision and Benedictus Deus (1336)",
+    "summary": "In Western theology the final joy of the saints came to be described as the 'beatific vision': seeing God's essence directly with the intellect, elevated by grace. After a controversy provoked by Pope John XXII, Pope Benedict XII defined in *Benedictus Deus* (1336) that fully purified souls see the divine essence immediately after death, before the resurrection. Eastern Orthodoxy speaks instead of seeing the uncreated light and participating in God's energies, not his essence.",
+    "figures": ["Augustine of Hippo", "Thomas Aquinas", "Pope John XXII", "Pope Benedict XII", "Gregory Palamas"],
+    "sources": [
+      { "author": "Benedict XII", "title": "Benedictus Deus", "year": 1336, "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Thomas Aquinas", "title": "Summa Theologiae", "year": 1270, "locator": "I-II q. 3 a. 8; I q. 12", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Augustine of Hippo", "title": "City of God", "year": 426, "locator": "22.29", "publicDomain": true },
+      { "author": "Gregory Palamas", "title": "Triads in Defence of the Holy Hesychasts", "year": 1340, "publicDomain": true }
+    ],
+    "refs": ["1 Cor 13:12", "1 John 3:2", "Matt 5:8", "Rev 22:4", "2 Cor 5:7-8", "Exod 33:20", "John 1:18"],
+    "history": "Augustine closes *City of God* (22.29) speculating how the saints will see God, perhaps even with their resurrected bodily eyes perceiving God in all things. Aquinas argued that final human happiness consists in the vision of the divine essence, which exceeds natural capacity and requires the 'light of glory'.\n\nIn sermons of 1331-1332 Pope John XXII suggested that the souls of the saints do not see God's essence until the general resurrection, seeing only the humanity of Christ in the meantime. This provoked strong opposition from theologians at Paris; he qualified his view shortly before his death in 1334. His successor Benedict XII defined in *Benedictus Deus* (1336) that the souls of the saints, once purified, see the divine essence face to face immediately after death, and that those dying in mortal sin descend at once to hell; this effectively defined the immediacy of the individual judgment in Latin theology.\n\nIn the same decade Gregory Palamas defended Eastern monks who claimed to see the uncreated light of Tabor, distinguishing God's unknowable essence from his energies, in which creatures participate. Orthodox theologians have therefore criticized the Western idea of seeing the divine essence, while Catholic theologians argue the positions can be reconciled. Protestants have generally affirmed the vision of God with less philosophical precision; there has been renewed interest in the doctrine (e.g. Hans Boersma, *Seeing God*, 2018).",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "theosis-final-state",
+    "title": "Theosis and the final state (Orthodox)",
+    "summary": "In the Greek patristic and Orthodox tradition, the goal of salvation is theosis or deification: becoming by grace what God is by nature, sharing in the divine life without ceasing to be creatures. The final state is not static rest but endless growth into God, beginning now in the sacraments and ascetic life, continuing after death and fulfilled in the resurrection and transfigured cosmos.",
+    "figures": ["Irenaeus of Lyon", "Athanasius of Alexandria", "Gregory of Nyssa", "Maximus the Confessor", "Gregory Palamas", "Vladimir Lossky"],
+    "sources": [
+      { "author": "Irenaeus of Lyon", "title": "Against Heresies", "year": 180, "locator": "5 preface", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Athanasius of Alexandria", "title": "On the Incarnation", "year": 318, "locator": "54.3", "publicDomain": true, "confidence": "scholarly-consensus" },
+      { "author": "Gregory of Nyssa", "title": "Life of Moses", "year": 390, "locator": "2.219-255 (perpetual progress, epektasis)", "publicDomain": true, "confidence": "needs-verification" },
+      { "author": "Maximus the Confessor", "title": "Ambigua", "year": 630, "locator": "7 and 41", "confidence": "needs-verification" },
+      { "author": "Vladimir Lossky", "title": "The Mystical Theology of the Eastern Church", "year": 1944 },
+      { "author": "Norman Russell", "title": "The Doctrine of Deification in the Greek Patristic Tradition", "year": 2004 }
+    ],
+    "refs": ["2 Pet 1:4", "Ps 82:6", "John 10:34-35", "John 17:21-23", "2 Cor 3:18", "1 John 3:2", "1 Cor 15:28", "Rom 8:29-30"],
+    "history": "Irenaeus speaks of the Word becoming what we are so that we might become what he is (preface to book 5); Athanasius gives the classic form, that God became human so that humans might be made divine (*On the Incarnation* 54.3). Gregory of Nyssa described the life of the saints, in this age and the next, as endless progress (epektasis) into the infinite God, so that perfection itself is ever-growing. Maximus the Confessor developed a cosmic vision in which humanity, united to God in Christ, mediates the transfiguration of all creation. Palamas framed deification as participation in God's uncreated energies.\n\nIn Orthodox eschatology the same divine glory is experienced differently according to the state of the person: as light and joy by those who love God, and as burning by those who reject him (an idea traced to Isaac the Syrian and developed by modern writers). This reframes heaven and hell as relational rather than primarily spatial; critics argue it can blur the biblical language of judgment and separation.\n\nShift: deification language faded from much Western theology after the medieval period (though present in Aquinas and some mystics) and was revived in the twentieth century through Orthodox theologians in the West, Catholic ressourcement, and Protestant studies of 'union with Christ' (e.g. the Finnish Luther research led by Tuomo Mannermaa).",
+    "confidence": "scholarly-consensus"
+  },
+  {
+    "id": "going-to-heaven-shift",
+    "title": "From resurrection hope to 'going to heaven'",
+    "summary": "Many historians and theologians argue that over the centuries popular Christian hope shifted from the resurrection of the body in a renewed creation to the soul's departure to heaven at death. N. T. Wright and others call for recovering the earlier emphasis; critics reply that the tradition always confessed resurrection and that the immediate heavenly hope is also biblical, so the contrast is overdrawn.",
+    "figures": ["Jaroslav Pelikan", "Oscar Cullmann", "N. T. Wright", "J. Richard Middleton", "Colleen McDannell and Bernhard Lang", "Caroline Walker Bynum", "John W. Cooper"],
+    "sources": [
+      { "author": "Jaroslav Pelikan", "title": "The Shape of Death: Life, Death, and Immortality in the Early Fathers", "year": 1961, "confidence": "needs-verification" },
+      { "author": "N. T. Wright", "title": "The Resurrection of the Son of God", "year": 2003 },
+      { "author": "N. T. Wright", "title": "Surprised by Hope", "year": 2008 },
+      { "author": "Colleen McDannell and Bernhard Lang", "title": "Heaven: A History", "year": 1988 },
+      { "author": "Caroline Walker Bynum", "title": "The Resurrection of the Body in Western Christianity, 200-1336", "year": 1995 },
+      { "author": "J. Richard Middleton", "title": "A New Heaven and a New Earth", "year": 2014 },
+      { "author": "John W. Cooper", "title": "Body, Soul, and Life Everlasting", "year": 1989 }
+    ],
+    "refs": ["1 Cor 15:51-57", "Rom 8:18-25", "Phil 3:20-21", "Rev 21:1-4", "2 Cor 5:1-8", "1 Pet 1:3-5", "1 Thess 4:13-18"],
+    "history": "The argument: early creeds and Fathers focused on resurrection and renewal; Platonist thought, monastic spirituality, the decline of chiliasm, the doctrine of immediate judgment and the beatific vision (1336), and later Pietist and revivalist preaching made 'going to heaven when you die' the centre of popular hope. McDannell and Lang trace changing images of heaven, from a theocentric vision of God to the nineteenth-century homely heaven of reunited families. Pelikan's study of the early Fathers (1961) explored how they combined Greek ideas of immortality with biblical resurrection. Cullmann (1956) sharply contrasted immortality with resurrection. Wright argues that the New Testament's 'heaven' is the temporary resting place, and the final hope is 'life after life after death' in a new creation, with large implications for ethics and mission.\n\nCritiques and responses: Bynum shows that medieval Western theology cared intensely about the resurrected body, so the 'loss of resurrection' narrative oversimplifies. Cooper and others argue that a conscious heavenly intermediate state is itself New Testament teaching (2 Cor 5:8, Phil 1:23), so popular piety is incomplete rather than mistaken. Some Catholic and Orthodox writers add that union with God, not the material setting, is the heart of the final state, and that new-creation rhetoric can become this-worldly. Wright's defenders reply that he affirms the intermediate state and the vision of God, and objects only to the displacement of resurrection.",
+    "confidence": "debated"
+  }
+]

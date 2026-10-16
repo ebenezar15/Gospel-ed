@@ -1,0 +1,71 @@
+{
+  "themes": [
+    "Kingdom of God",
+    "Resurrection",
+    "Lordship of Jesus",
+    "Repentance",
+    "Forgiveness of sins",
+    "Holy Spirit",
+    "Heaven / hell destiny",
+    "End-times urgency",
+    "Personal sin & guilt",
+    "New creation / restoration"
+  ],
+  "eras": [
+    {
+      "id": "jesus",
+      "label": "Jesus (c. 28–30)",
+      "values": [5, 2, 3, 5, 4, 2, 3, 4, 3, 4],
+      "note": "The Synoptics summarise Jesus' preaching as the kingdom drawing near plus a call to repent (Mark 1:14-15), so both score 5. Forgiveness is enacted in table fellowship and healings (4). He warns of Gehenna more than any other New Testament speaker, but as part of a kingdom message rather than its frame (3). End-times urgency is scored 4 because scholars split between a strongly imminent 'consistent eschatology' (Schweitzer) and a 'realized' or inaugurated reading (Dodd, Ladd). Resurrection is mostly predicted rather than preached (2); restoration of all things (Matt 19:28) and the renewal of Israel are significant (4)."
+    },
+    {
+      "id": "apostles-acts",
+      "label": "Apostles in Acts and Paul (c. 30–65)",
+      "values": [3, 5, 5, 4, 4, 4, 2, 3, 2, 3],
+      "note": "Every major Acts sermon turns on the resurrection and exaltation of Jesus as Lord and Messiah (5, 5). Repentance and forgiveness are the standard call (4, 4), and the Spirit is both promised and evidenced (4). Kingdom language remains (Acts 8:12; 19:8; 28:31) but is less frequent than in the Gospels (3). Coming judgment is announced (Acts 10:42; 17:31), but heaven and hell as individual destinations are not the frame of any recorded sermon (2). Paul's early letters show strong imminent hope (1 Thess 1:9-10), hence 3. Introspective guilt is minor in the sermons (2), though Romans develops universal sinfulness. Acts 3:21 and Rom 8:18-23 carry restoration hope (3). Note that the Acts speeches are Luke's summaries; how closely they reproduce actual sermons is debated."
+    },
+    {
+      "id": "apostolic-fathers",
+      "label": "Apostolic Fathers (c. 90–160)",
+      "values": [2, 4, 3, 4, 3, 2, 3, 3, 3, 2],
+      "note": "The resurrection of Jesus and of the body is defended strongly (1 Clement 24–26; Ignatius, *To the Smyrnaeans*), scoring 4. Repentance, especially after baptism (Hermas), and moral exhortation dominate (4). Judgment and eternal fire appear (2 Clement, Hermas), and the Didache ends with watchfulness for the Lord's coming, hence 3 for both destiny and urgency. Kingdom language survives in prayer (Didache 9–10) but is less central (2). These estimates rest on a small, uneven body of texts, mostly letters and manuals rather than evangelistic sermons."
+    },
+    {
+      "id": "nicene-fathers",
+      "label": "Apologists to Nicene and post-Nicene Fathers (c. 150–600)",
+      "values": [2, 4, 4, 3, 3, 3, 3, 1, 3, 3],
+      "note": "Who Christ is (incarnation, divinity, Lordship) and the defeat of death through resurrection are central (Athanasius; the creeds), hence 4 for both. Irenaeus' restored creation and Eastern deification keep restoration themes alive (3), while Origen and Gregory of Nyssa raised hopes of universal restoration that remained contested. Preachers like Chrysostom and Augustine used judgment and hell to motivate (3). End-times urgency drops sharply after Augustine reads the millennium as the church age (1), although early chiliasts (Justin, Irenaeus) and Montanists are exceptions. Kingdom becomes associated with the church or heaven (2)."
+    },
+    {
+      "id": "medieval",
+      "label": "Medieval West (c. 600–1500)",
+      "values": [2, 2, 2, 4, 3, 1, 5, 2, 4, 1],
+      "note": "Death, judgment, heaven, hell and purgatory are the most visible themes in popular preaching, art and devotion (5). Repentance is channelled through sacramental confession and satisfaction (4; Lateran IV 1215), and the cataloguing of individual sins is intense (4). Forgiveness is offered, but through the church's sacramental economy rather than as a direct proclamation (3). Easter and Christ the judge-king remain present (2, 2). Apocalyptic outbreaks (Joachim of Fiore, Vincent Ferrer) were real but episodic (2). This score reflects the Latin West; Byzantine preaching kept more emphasis on resurrection and theosis."
+    },
+    {
+      "id": "reformation",
+      "label": "Reformation (c. 1517–1650)",
+      "values": [2, 2, 3, 4, 5, 2, 3, 2, 5, 1],
+      "note": "Forgiveness received by faith is the heart of Protestant preaching (5), and the law-gospel pattern presses the burdened conscience (5). Repentance is redefined as lifelong (4). Christ's kingly office is taught (Calvin, *Institutes* 2.15) and the Catechisms speak of belonging to Christ (3). Heaven and hell remain the frame though purgatory is removed (3). Anabaptists stress kingdom discipleship and some radicals apocalyptic urgency, while Catholic reform keeps penance central; these are averaged here, which hides real variety. Luther expected the end soon and identified the papacy with Antichrist, but this was not usually the core of evangelistic appeal (2)."
+    },
+    {
+      "id": "revivalism-1730-1900",
+      "label": "Revivalism and awakenings (c. 1730–1900)",
+      "values": [1, 1, 2, 5, 4, 3, 5, 3, 5, 1],
+      "note": "Revival preaching made the individual's eternal destiny and the need for immediate conversion the central appeal (Edwards at Enfield, Whitefield, Finney), hence 5 for destiny, repentance and personal guilt. Forgiveness and assurance follow (4). The Spirit is stressed as the agent of new birth and, in Wesleyan holiness, of sanctification (3). Eschatology shifts from postmillennial optimism (Edwards, Finney's reform) toward premillennial urgency (Millerites, Darby, late Moody), averaged at 3. Kingdom and new creation are largely absent from evangelistic sermons, though postmillennial reform movements spoke of the kingdom advancing."
+    },
+    {
+      "id": "modern-evangelical-1900-present",
+      "label": "Modern evangelical and Pentecostal (c. 1900–present)",
+      "values": [1, 2, 3, 3, 5, 3, 5, 4, 5, 1],
+      "note": "Mass evangelism (Graham) and tracts (Four Spiritual Laws, Evangelism Explosion) centre on personal sin, forgiveness and the assurance of heaven (5, 5, 5). Dispensational teaching popularised by Scofield and later prophecy literature made end-times urgency prominent in many circles (4). The Holy Spirit is 5 for Pentecostal and charismatic preaching and 1–2 for many others, averaged at 3. Lordship is present ('receive Christ as Saviour and Lord') but debated in the 1980s 'lordship salvation' controversy (3). This is an average across very diverse global movements."
+    },
+    {
+      "id": "kingdom-recovery-today",
+      "label": "Kingdom and new-creation recovery (c. 1960–present)",
+      "values": [5, 5, 5, 3, 4, 3, 2, 2, 3, 5],
+      "note": "Scholars and pastors influenced by Ladd, Lausanne, Wright, Willard, McKnight and Bates deliberately re-centre preaching on the kingdom, Jesus' resurrection and Lordship, and new creation (5s). Forgiveness remains important (4). Heaven-as-destination and end-times urgency are de-emphasised or reframed (2). Critics argue personal guilt and judgment are under-preached here; proponents say they are placed within a larger story rather than removed. This column describes an advocacy movement, not the typical sermon in most churches today."
+    }
+  ],
+  "caveat": "This is an interpretive heat map, not measured data. Each number is a judgement about how central a theme was in public gospel preaching (not merely present in doctrine) for a broad and internally diverse period, based on representative surviving texts. The surviving evidence is uneven: we have Luke's summaries of apostolic sermons, few true evangelistic sermons from the second century, and huge numbers from the modern period. Eastern and Western, Catholic, Orthodox and Protestant, Global North and South streams differ within each column. Historians and theologians disagree on many of these readings, for example on how imminent Jesus' expectation was, on how far medieval preaching centred on hell, and on whether modern evangelicalism narrowed the gospel or simply applied it. Use the map to prompt questions and check the primary sources, not as a verdict."
+}

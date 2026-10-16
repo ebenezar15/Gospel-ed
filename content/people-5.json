@@ -1,0 +1,5602 @@
+[
+ {
+  "id": "jesus",
+  "names": {
+   "primary": "Jesus of Nazareth",
+   "original": "Hebrew/Aramaic Yeshua; Greek Iēsous",
+   "meaning": "Yeshua is a short form of Yehoshua, 'the LORD saves' (compare Matt 1:21)",
+   "aliases": [
+    "Jesus Christ",
+    "Christ",
+    "Messiah",
+    "Son of Man",
+    "Son of God",
+    "Son of David",
+    "Rabbi",
+    "Lord",
+    "Immanuel",
+    "the Nazarene",
+    "the carpenter's son",
+    "Logos (the Word)",
+    "Lamb of God"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "born": {
+   "year": -5,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "c. 6 BC (early in the window before Herod's death)",
+     "year": -6,
+     "source": "Matt 2:1; Matt 2:16 (children two years old and under)"
+    },
+    {
+     "label": "c. 4 BC (just before Herod's death on the usual dating)",
+     "year": -4,
+     "source": "Josephus, Antiquities 17.167, 17.191 (lunar eclipse and length of reign)"
+    },
+    {
+     "label": "c. 3-2 BC (minority view placing Herod's death in 1 BC)",
+     "year": -2,
+     "source": "Irenaeus and Tertullian's dating; modern revival by some chronologists"
+    }
+   ]
+  },
+  "died": {
+   "year": 30,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "AD 33 (Passover Friday 3 April; ministry counted from the 15th year of Tiberius reckoned from AD 29)",
+     "year": 33,
+     "source": "Luke 3:1; John 2:20; astronomical Passover tables"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "AD 27 start (shorter ministry, crucifixion AD 30)",
+      "year": 27
+     },
+     {
+      "label": "AD 29 start (crucifixion AD 33)",
+      "year": 29
+     }
+    ]
+   },
+   {
+    "year": 30,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "AD 33",
+      "year": 33
+     }
+    ]
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Judea / Galilee under Roman rule",
+  "placeIds": [
+   "bethlehem",
+   "egypt",
+   "nazareth",
+   "jordan-river",
+   "cana",
+   "capernaum",
+   "sea-of-galilee",
+   "bethsaida",
+   "chorazin",
+   "nain",
+   "sychar",
+   "tyre",
+   "sidon",
+   "decapolis",
+   "caesarea-philippi",
+   "mount-tabor",
+   "jericho",
+   "bethany",
+   "jerusalem",
+   "mount-of-olives",
+   "gethsemane",
+   "golgotha",
+   "emmaus"
+  ],
+  "family": {
+   "parents": [
+    "mary-mother-of-jesus",
+    "joseph-of-nazareth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "james-brother-of-jesus",
+    "jude-brother-of-jesus"
+   ]
+  },
+  "roles": [
+   "Teacher (rabbi)",
+   "Prophet",
+   "Messiah (Christ)",
+   "Healer and exorcist",
+   "Founder of the Christian movement"
+  ],
+  "occupations": [
+   "Builder / carpenter (tektōn)",
+   "Itinerant teacher"
+  ],
+  "skills": [
+   {
+    "name": "Teaching in parables",
+    "refs": [
+     "Mark 4:1-34",
+     "Luke 15:1-32"
+    ]
+   },
+   {
+    "name": "Scriptural argument and debate",
+    "refs": [
+     "Matt 22:15-46",
+     "Mark 12:18-27"
+    ]
+   },
+   {
+    "name": "Building trade (tektōn)",
+    "refs": [
+     "Mark 6:3",
+     "Matt 13:55"
+    ]
+   },
+   {
+    "name": "Reading Scripture publicly in the synagogue",
+    "refs": [
+     "Luke 4:16-21"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Healing",
+    "refs": [
+     "Mark 1:32-34",
+     "Matt 4:23-25"
+    ]
+   },
+   {
+    "name": "Authority over unclean spirits",
+    "refs": [
+     "Mark 1:21-28",
+     "Mark 5:1-20"
+    ]
+   },
+   {
+    "name": "Nature miracles",
+    "refs": [
+     "Mark 4:35-41",
+     "John 6:1-21"
+    ]
+   },
+   {
+    "name": "Prophetic insight",
+    "refs": [
+     "John 4:16-19",
+     "Mark 13:1-2"
+    ]
+   },
+   {
+    "name": "Forgiving sins",
+    "refs": [
+     "Mark 2:1-12",
+     "Luke 7:36-50"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Birth in Bethlehem",
+    "year": -5,
+    "placeId": "bethlehem",
+    "refs": [
+     "Matt 1:18-2:12",
+     "Luke 2:1-20"
+    ],
+    "summary": "Born to Mary, who was betrothed to Joseph, in Bethlehem of Judea in the days of Herod the Great. Matthew tells of magi from the east; Luke of shepherds and a manger."
+   },
+   {
+    "title": "Flight to Egypt and settling in Nazareth",
+    "year": -4,
+    "placeId": "egypt",
+    "refs": [
+     "Matt 2:13-23",
+     "Luke 2:39-40"
+    ],
+    "summary": "Warned in a dream, Joseph takes the family to Egypt to escape Herod, then settles in Nazareth of Galilee after Herod's death."
+   },
+   {
+    "title": "In the temple at twelve",
+    "year": 8,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:41-52"
+    ],
+    "summary": "On a Passover pilgrimage the boy Jesus stays behind in the temple, listening to and questioning the teachers, and speaks of being in his Father's house."
+   },
+   {
+    "title": "Baptism by John",
+    "year": 28,
+    "placeId": "jordan-river",
+    "refs": [
+     "Mark 1:9-11",
+     "Matt 3:13-17",
+     "Luke 3:21-23"
+    ],
+    "summary": "Baptized by John in the Jordan; the Spirit descends like a dove and a voice from heaven declares him the beloved Son. Luke says he was about thirty."
+   },
+   {
+    "title": "Temptation in the wilderness",
+    "year": 28,
+    "refs": [
+     "Matt 4:1-11",
+     "Luke 4:1-13"
+    ],
+    "summary": "Led by the Spirit into the wilderness for forty days, he answers each temptation of the devil with words from Deuteronomy."
+   },
+   {
+    "title": "Rejection at Nazareth and base at Capernaum",
+    "year": 28,
+    "placeId": "capernaum",
+    "refs": [
+     "Luke 4:16-30",
+     "Matt 4:12-17"
+    ],
+    "summary": "He reads Isaiah 61 in the Nazareth synagogue and claims its fulfilment; the town turns on him, and he makes Capernaum his base for the Galilean ministry."
+   },
+   {
+    "title": "Calling the Twelve and the Sermon on the Mount",
+    "year": 28,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Mark 3:13-19",
+     "Matt 5:1-7:29",
+     "Luke 6:12-49"
+    ],
+    "summary": "He chooses twelve disciples and teaches on the kingdom of heaven: the Beatitudes, the true meaning of the Law, prayer, and the two foundations."
+   },
+   {
+    "title": "Feeding of the five thousand",
+    "year": 29,
+    "placeId": "bethsaida",
+    "refs": [
+     "Mark 6:30-44",
+     "John 6:1-15",
+     "Luke 9:10-17"
+    ],
+    "summary": "The only miracle (besides the resurrection) told in all four Gospels. In John it leads to the Bread of Life discourse and to many followers turning away."
+   },
+   {
+    "title": "Peter's confession and the Transfiguration",
+    "year": 29,
+    "placeId": "caesarea-philippi",
+    "refs": [
+     "Matt 16:13-28",
+     "Mark 9:2-8"
+    ],
+    "summary": "Near Caesarea Philippi Peter confesses him as the Christ; Jesus begins to predict his suffering. On a high mountain he is transfigured before Peter, James and John, with Moses and Elijah."
+   },
+   {
+    "title": "Raising of Lazarus",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:1-44",
+     "John 11:45-53"
+    ],
+    "summary": "In Bethany he raises Lazarus four days after death; in John this sign prompts the council under Caiaphas to plan his death."
+   },
+   {
+    "title": "Entry into Jerusalem, Last Supper and arrest",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 11:1-11",
+     "Mark 14:12-52",
+     "1 Cor 11:23-26"
+    ],
+    "summary": "He enters Jerusalem on a donkey, clears the temple courts, shares a final meal in which he interprets bread and cup as his body and blood, prays in Gethsemane and is arrested."
+   },
+   {
+    "title": "Crucifixion, resurrection and ascension",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "Mark 15:1-47",
+     "John 19:16-42",
+     "Luke 24:1-53",
+     "1 Cor 15:3-8",
+     "Acts 1:6-11"
+    ],
+    "summary": "Condemned by Pontius Pilate and crucified at Golgotha, he is buried in Joseph of Arimathea's tomb. On the third day the tomb is found empty; the Gospels and Paul report appearances to Mary Magdalene, Peter, the Twelve and others, and Luke-Acts closes with his ascension from near Bethany."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "bethlehem",
+    "order": 1,
+    "year": -5,
+    "note": "Birth in the town of David.",
+    "refs": [
+     "Luke 2:4-7",
+     "Matt 2:1"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 2,
+    "year": -4,
+    "note": "Refuge from Herod.",
+    "refs": [
+     "Matt 2:13-15"
+    ]
+   },
+   {
+    "placeId": "nazareth",
+    "order": 3,
+    "year": -4,
+    "note": "Childhood and young adulthood in Galilee.",
+    "refs": [
+     "Matt 2:19-23",
+     "Luke 2:39-40"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 4,
+    "year": 8,
+    "note": "Passover visit at age twelve.",
+    "refs": [
+     "Luke 2:41-52"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 5,
+    "year": 28,
+    "note": "Baptized by John.",
+    "refs": [
+     "Mark 1:9-11"
+    ]
+   },
+   {
+    "placeId": "cana",
+    "order": 6,
+    "year": 28,
+    "note": "Water into wine, the first sign in John.",
+    "refs": [
+     "John 2:1-11"
+    ]
+   },
+   {
+    "placeId": "capernaum",
+    "order": 7,
+    "year": 28,
+    "note": "Base of the Galilean ministry.",
+    "refs": [
+     "Matt 4:13-17",
+     "Mark 2:1"
+    ]
+   },
+   {
+    "placeId": "sea-of-galilee",
+    "order": 8,
+    "year": 28,
+    "note": "Calling fishermen, stilling the storm, teaching from a boat.",
+    "refs": [
+     "Mark 1:16-20",
+     "Mark 4:35-41"
+    ]
+   },
+   {
+    "placeId": "sychar",
+    "order": 9,
+    "year": 28,
+    "note": "Conversation with the Samaritan woman at Jacob's well.",
+    "refs": [
+     "John 4:1-42"
+    ]
+   },
+   {
+    "placeId": "nain",
+    "order": 10,
+    "year": 29,
+    "note": "Raising a widow's son.",
+    "refs": [
+     "Luke 7:11-17"
+    ]
+   },
+   {
+    "placeId": "tyre",
+    "order": 11,
+    "year": 29,
+    "note": "Withdrawal to the region of Tyre and Sidon; the Syrophoenician woman.",
+    "refs": [
+     "Mark 7:24-31"
+    ]
+   },
+   {
+    "placeId": "caesarea-philippi",
+    "order": 12,
+    "year": 29,
+    "note": "Peter's confession.",
+    "refs": [
+     "Mark 8:27-30"
+    ]
+   },
+   {
+    "placeId": "mount-tabor",
+    "order": 13,
+    "year": 29,
+    "note": "Traditional (not textual) site of the Transfiguration; the Gospels say only 'a high mountain', and Mount Hermon is the main alternative.",
+    "refs": [
+     "Mark 9:2-8"
+    ]
+   },
+   {
+    "placeId": "jericho",
+    "order": 14,
+    "year": 30,
+    "note": "On the final journey: Bartimaeus and Zacchaeus.",
+    "refs": [
+     "Mark 10:46-52",
+     "Luke 19:1-10"
+    ]
+   },
+   {
+    "placeId": "bethany",
+    "order": 15,
+    "year": 30,
+    "note": "Anointed at Bethany; lodging during Passion Week.",
+    "refs": [
+     "John 12:1-8",
+     "Mark 11:11"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 16,
+    "year": 30,
+    "note": "Triumphal entry, temple teaching, Last Supper.",
+    "refs": [
+     "Mark 11:1-11",
+     "Luke 22:7-23"
+    ]
+   },
+   {
+    "placeId": "gethsemane",
+    "order": 17,
+    "year": 30,
+    "note": "Prayer and arrest.",
+    "refs": [
+     "Mark 14:32-50"
+    ]
+   },
+   {
+    "placeId": "golgotha",
+    "order": 18,
+    "year": 30,
+    "note": "Crucifixion outside the city.",
+    "refs": [
+     "John 19:17-18",
+     "Mark 15:22-27"
+    ]
+   },
+   {
+    "placeId": "emmaus",
+    "order": 19,
+    "year": 30,
+    "note": "Risen Jesus walks with two disciples and is known in the breaking of bread.",
+    "refs": [
+     "Luke 24:13-35"
+    ]
+   },
+   {
+    "placeId": "sea-of-galilee",
+    "order": 20,
+    "year": 30,
+    "note": "Resurrection appearance by the lake; Peter restored.",
+    "refs": [
+     "John 21:1-19"
+    ]
+   },
+   {
+    "placeId": "mount-of-olives",
+    "order": 21,
+    "year": 30,
+    "note": "Ascension.",
+    "refs": [
+     "Acts 1:9-12",
+     "Luke 24:50-51"
+    ]
+   }
+  ],
+  "summary": "Jesus of Nazareth was a Galilean Jew born near the end of Herod the Great's reign and executed by crucifixion under Pontius Pilate, prefect of Judea, around AD 30 or 33. After being baptized by John in the Jordan, he spent perhaps one to three years as a travelling teacher and healer, based in Capernaum and moving through Galilee, its neighbouring regions and finally Jerusalem. His central message was the arrival of the kingdom (reign) of God, taught through parables, memorable sayings and actions such as table fellowship with outsiders, healings and exorcisms. He gathered twelve disciples as a sign of Israel's renewal and drew both large crowds and sharp opposition.\n\nThe four Gospels present him as the promised Messiah and Son of God whose death was not an accident but the purpose of his mission: a ransom for many and the inauguration of a new covenant. All four end with the tomb found empty and with his followers' testimony that he was raised from the dead, the conviction that launched the Christian movement described in Acts and the letters of Paul.\n\nOutside the New Testament, Jesus is mentioned by the Jewish historian Josephus and the Roman historian Tacitus, which is why nearly all historians accept that he existed and was crucified under Pilate. What he was, whether a prophet, the Messiah, God incarnate, or a teacher later idealized by his followers, is the question every tradition answers differently.",
+  "textSays": "The Gospels say Jesus was conceived by the Holy Spirit and born of Mary while she was a virgin (Matt 1:18-25; Luke 1:26-38), in Bethlehem, and raised in Nazareth. He was baptized by John, proclaimed that the kingdom of God was at hand (Mark 1:14-15), taught with authority, healed the sick, cast out demons, ate with tax collectors and sinners, and called twelve disciples. He predicted his own suffering, death and resurrection (Mark 8:31). He was arrested in Jerusalem at Passover, tried before the high priest and before Pilate, crucified as 'King of the Jews', and buried. The Gospels report that on the third day the tomb was empty and that he appeared alive to many (Matt 28; Luke 24; John 20-21; 1 Cor 15:3-8). John's Gospel calls him the eternal Word who became flesh (John 1:1-14); Paul says he was in the form of God and emptied himself (Phil 2:5-11).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox (Chalcedonian)",
+    "view": "Jesus is the eternal Son of God, one divine person in two natures, fully God and fully human, as defined at Nicaea (325) and Chalcedon (451). His death and resurrection reconcile humanity to God; Orthodox theology especially stresses incarnation and resurrection as the healing and deification (theosis) of human nature, while Catholic theology also stresses the sacrificial character of the cross made present in the Eucharist."
+   },
+   {
+    "tradition": "Protestant (Lutheran, Reformed, Evangelical)",
+    "view": "Affirms the same Nicene and Chalcedonian Christology. Places strong emphasis on Christ's substitutionary death as the ground of justification by grace through faith, and on his threefold office as prophet, priest and king. Scripture alone is the authority for knowing him."
+   },
+   {
+    "tradition": "Judaism",
+    "view": "Generally regards Jesus as a Jewish teacher, sometimes respected, who did not fulfil the messianic expectations of the Hebrew Bible (an era of peace, the ingathering of exiles, a rebuilt temple). The Christian doctrines of incarnation and Trinity are seen as incompatible with the oneness of God (Deut 6:4)."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Reconstructions vary: many (following Schweitzer, Sanders, Ehrman, Allison) see an apocalyptic prophet announcing God's imminent reign; others (Wright, Dunn, Bauckham) stress continuity between Jesus' self-understanding and early high Christology; a minority (Crossan, Borg) emphasize a wisdom teacher and social reformer. Almost all accept his baptism by John and his crucifixion under Pilate as secure historical facts."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Authoritative teaching that reinterpreted the Law from within (Matt 5:21-48)",
+    "Compassion toward the sick, poor and excluded (Mark 1:40-42; Luke 7:36-50)",
+    "Steadfastness in facing death (Mark 14:36; Luke 9:51)"
+   ],
+   "failures": [
+    "The Gospels present him as without sin (Heb 4:15; 2 Cor 5:21); critics point to sayings such as Mark 10:18 or his harshness toward opponents (Matt 23), which Christian interpreters read as consistent with his holiness"
+   ],
+   "turningPoints": [
+    "Baptism and anointing by the Spirit (Mark 1:9-11)",
+    "Peter's confession and the first passion prediction (Mark 8:27-31)",
+    "Setting his face toward Jerusalem (Luke 9:51)",
+    "Gethsemane: accepting the cup (Mark 14:32-42)",
+    "Resurrection (Matt 28:1-10)"
+   ]
+  },
+  "context": "Jesus lived in a Judea divided after Herod the Great's death: Galilee was ruled by Herod Antipas, while Judea itself was under a Roman prefect from AD 6, with the temple run by a high-priestly aristocracy (Annas, Caiaphas). Jewish groups included Pharisees, Sadducees, Essenes and later Zealot-leaning revolutionaries; hopes for a messianic deliverer took many forms. Galilee was largely Jewish and agrarian, with fishing on the lake and new Hellenistic cities like Sepphoris and Tiberias. Jesus taught mostly in Aramaic and knew the Hebrew Scriptures; Greek was the language of trade and of the Gospels. Josephus (Antiquities 18.63-64, partly interpolated by later Christian scribes, and 20.200) and Tacitus (Annals 15.44) are the earliest non-Christian witnesses.",
+  "legacy": "Christianity, now the largest religion in the world, takes its name from Jesus as the Christ. His teaching (the Sermon on the Mount, the Lord's Prayer, the parables of the Good Samaritan and the Prodigal Son) shaped Western ethics, law and art. The calendar division BC/AD is reckoned from an estimate of his birth made by Dionysius Exiguus in the 6th century, which turned out to be several years too late. Jesus is also honoured in Islam as the prophet Isa, born of the virgin Mary.",
+  "traditions": [
+   {
+    "text": "Jesus was born in a cave near Bethlehem, the site later enclosed by the Church of the Nativity under Constantine.",
+    "source": "Justin Martyr, Dialogue with Trypho 78; Origen, Against Celsus 1.51",
+    "confidence": "tradition"
+   },
+   {
+    "text": "December 25 as the date of his birth (Western) and January 6 (Armenian), dates known from the 3rd-4th centuries; the Gospels give no date.",
+    "source": "Chronograph of 354 (Philocalian Calendar); Hippolytus, Commentary on Daniel 4.23 (authenticity of the passage debated, needs-verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Church of the Holy Sepulchre in Jerusalem marks both Golgotha and the tomb, identified when Constantine's builders cleared a temple of Venus in the 320s.",
+    "source": "Eusebius, Life of Constantine 3.25-40",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Speaks plainly but in arresting images and questions, often answering a question with another question or a story; warm toward the overlooked, piercing toward the self-righteous, and unhurried in his authority.",
+  "refs": [
+   "Matt 1:1-28:20",
+   "Mark 1:1-16:8",
+   "Luke 1:1-24:53",
+   "John 1:1-21:25",
+   "Acts 1:1-11",
+   "1 Cor 15:3-8",
+   "Phil 2:5-11",
+   "Heb 1:1-4"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "1 Cor",
+   "2 Cor",
+   "Gal",
+   "Eph",
+   "Phil",
+   "Col",
+   "1 Thess",
+   "2 Thess",
+   "1 Tim",
+   "2 Tim",
+   "Titus",
+   "Phlm",
+   "Heb",
+   "Jas",
+   "1 Pet",
+   "2 Pet",
+   "1 John",
+   "2 John",
+   "3 John",
+   "Jude",
+   "Rev"
+  ]
+ },
+ {
+  "id": "mary-mother-of-jesus",
+  "names": {
+   "primary": "Mary, mother of Jesus",
+   "original": "Hebrew Miryam; Greek Maria / Mariam",
+   "meaning": "Uncertain; proposals include 'bitter', 'beloved' or an Egyptian-derived 'beloved' (mry)",
+   "aliases": [
+    "The Virgin Mary",
+    "Theotokos (God-bearer)",
+    "Our Lady",
+    "Blessed Virgin",
+    "Maryam (Quran)"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "born": {
+   "year": -20,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Some estimate c. 18-16 BC, assuming betrothal in her early teens",
+     "year": -17
+    }
+   ]
+  },
+  "died": {
+   "year": 45,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Some traditions place her Dormition c. AD 48 or later",
+     "year": 48
+    }
+   ]
+  },
+  "nation": "Galilee (Judea under Rome)",
+  "placeIds": [
+   "nazareth",
+   "bethlehem",
+   "egypt",
+   "jerusalem",
+   "cana",
+   "capernaum",
+   "golgotha",
+   "ephesus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "joseph-of-nazareth"
+   ],
+   "children": [
+    "jesus"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Mother of Jesus",
+   "Disciple",
+   "Member of the earliest Jerusalem community"
+  ],
+  "occupations": [
+   "Homemaker in a Galilean artisan household"
+  ],
+  "skills": [
+   {
+    "name": "Reflective memory of events",
+    "refs": [
+     "Luke 2:19",
+     "Luke 2:51"
+    ]
+   },
+   {
+    "name": "Composing praise drawing on Israel's songs (the Magnificat echoes Hannah)",
+    "refs": [
+     "Luke 1:46-55",
+     "1 Sam 2:1-10"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith and obedience",
+    "refs": [
+     "Luke 1:38",
+     "Luke 1:45"
+    ]
+   },
+   {
+    "name": "Prophetic praise",
+    "refs": [
+     "Luke 1:46-55"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Annunciation",
+    "year": -6,
+    "placeId": "nazareth",
+    "refs": [
+     "Luke 1:26-38"
+    ],
+    "summary": "The angel Gabriel tells Mary, a virgin betrothed to Joseph, that she will conceive by the Holy Spirit and bear the Son of the Most High. She answers that she is the Lord's servant."
+   },
+   {
+    "title": "Visit to Elizabeth and the Magnificat",
+    "year": -6,
+    "refs": [
+     "Luke 1:39-56"
+    ],
+    "summary": "She travels to the hill country of Judah; Elizabeth's child leaps in the womb and Elizabeth blesses her. Mary sings of God lifting the humble and filling the hungry."
+   },
+   {
+    "title": "Birth of Jesus in Bethlehem",
+    "year": -5,
+    "placeId": "bethlehem",
+    "refs": [
+     "Luke 2:1-20",
+     "Matt 1:18-25"
+    ],
+    "summary": "Travelling with Joseph for the census, she gives birth and lays the child in a manger; she treasures the shepherds' report in her heart."
+   },
+   {
+    "title": "Presentation in the temple",
+    "year": -5,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:22-38"
+    ],
+    "summary": "Offering the sacrifice of the poor, she hears Simeon say a sword will pierce her own soul."
+   },
+   {
+    "title": "Flight to Egypt",
+    "year": -4,
+    "placeId": "egypt",
+    "refs": [
+     "Matt 2:13-23"
+    ],
+    "summary": "With Joseph and the child she flees Herod and later returns to Nazareth."
+   },
+   {
+    "title": "Finding Jesus in the temple",
+    "year": 8,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:41-51"
+    ],
+    "summary": "After three days' anxious search she finds the twelve-year-old among the teachers."
+   },
+   {
+    "title": "Wedding at Cana",
+    "year": 28,
+    "placeId": "cana",
+    "refs": [
+     "John 2:1-12"
+    ],
+    "summary": "She tells Jesus the wine has run out and instructs the servants to do whatever he tells them."
+   },
+   {
+    "title": "Family seeks Jesus",
+    "year": 28,
+    "placeId": "capernaum",
+    "refs": [
+     "Mark 3:20-21",
+     "Mark 3:31-35"
+    ],
+    "summary": "His mother and brothers come to see him; Jesus says whoever does God's will is his mother and brothers."
+   },
+   {
+    "title": "At the cross",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "John 19:25-27"
+    ],
+    "summary": "Standing near the cross, she is entrusted by Jesus to the beloved disciple, who takes her into his home."
+   },
+   {
+    "title": "Praying with the disciples before Pentecost",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:14"
+    ],
+    "summary": "Her last mention in Scripture: devoted to prayer with the apostles, the women and Jesus' brothers."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "nazareth",
+    "order": 1,
+    "year": -6,
+    "note": "Home town; the annunciation.",
+    "refs": [
+     "Luke 1:26-27"
+    ]
+   },
+   {
+    "placeId": "bethlehem",
+    "order": 2,
+    "year": -5,
+    "note": "Birth of Jesus.",
+    "refs": [
+     "Luke 2:4-7"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 3,
+    "year": -5,
+    "note": "Presentation and purification.",
+    "refs": [
+     "Luke 2:22-24"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 4,
+    "year": -4,
+    "note": "Refuge from Herod.",
+    "refs": [
+     "Matt 2:14"
+    ]
+   },
+   {
+    "placeId": "nazareth",
+    "order": 5,
+    "year": -4,
+    "note": "Return and settled life.",
+    "refs": [
+     "Matt 2:23"
+    ]
+   },
+   {
+    "placeId": "cana",
+    "order": 6,
+    "year": 28,
+    "note": "Wedding feast.",
+    "refs": [
+     "John 2:1"
+    ]
+   },
+   {
+    "placeId": "capernaum",
+    "order": 7,
+    "year": 28,
+    "note": "Stays briefly with Jesus.",
+    "refs": [
+     "John 2:12"
+    ]
+   },
+   {
+    "placeId": "golgotha",
+    "order": 8,
+    "year": 30,
+    "note": "At the crucifixion.",
+    "refs": [
+     "John 19:25"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 9,
+    "year": 30,
+    "note": "With the praying community in the upper room.",
+    "refs": [
+     "Acts 1:13-14"
+    ]
+   }
+  ],
+  "summary": "Mary was a young Jewish woman of Nazareth, betrothed to the craftsman Joseph, when, according to Luke and Matthew, she conceived Jesus by the Holy Spirit without a human father. Luke tells the story largely from her side: the angel's announcement, her consent, her song of praise (the Magnificat), the birth in Bethlehem and her quiet pondering of what she saw.\n\nDuring Jesus' ministry she appears only occasionally: prompting his first sign at Cana, seeking him with his brothers, and standing at the cross, where John's Gospel says Jesus entrusted her to the beloved disciple. Acts places her among the praying believers in Jerusalem before Pentecost, and after that Scripture is silent.\n\nFew figures have been so variously understood. For Catholic and Orthodox Christians she is the Theotokos, the ever-virgin Mother of God and the model disciple, honoured in liturgy and prayer; for most Protestants she is a supreme example of faith but not an object of devotion; for Muslims she is Maryam, the most honoured woman in the Quran.",
+  "textSays": "Mary is called a virgin betrothed to Joseph of the house of David (Luke 1:27; Matt 1:18). She conceives by the Holy Spirit (Luke 1:35; Matt 1:20) and is called 'favoured' and 'blessed among women' (Luke 1:28; Luke 1:42). Elizabeth is her relative (Luke 1:36). She gives birth in Bethlehem, is warned by Simeon of a sword piercing her soul (Luke 2:35), and twice is said to treasure things in her heart (Luke 2:19; Luke 2:51). Jesus is called 'the son of Mary' and is said to have brothers named James, Joses, Judas and Simon, and sisters (Mark 6:3). She is at the cross (John 19:25) and with the disciples in Jerusalem (Acts 1:14). The New Testament records nothing of her parents, later life or death.",
+  "interpretations": [
+   {
+    "tradition": "Catholic",
+    "view": "Mary is Mother of God (Council of Ephesus, 431), perpetually virgin, preserved from original sin from conception (Immaculate Conception, defined 1854) and assumed body and soul into heaven (Assumption, defined 1950). She is honoured (hyperdulia, not worship) as intercessor and Mother of the Church. Jesus' 'brothers' are read as cousins or relatives."
+   },
+   {
+    "tradition": "Eastern Orthodox",
+    "view": "Venerates Mary as Theotokos and Ever-Virgin, 'more honourable than the cherubim', and celebrates her Dormition (falling asleep) and bodily translation to heaven, without defining it as dogma in the Catholic manner. Generally does not adopt the Immaculate Conception doctrine. The 'brothers' are often read as Joseph's children by an earlier marriage."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Honours Mary as a woman of exemplary faith and as truly the mother of the incarnate Lord, but rejects prayers to her and the later Marian dogmas as lacking Scriptural basis. Many today read Mark 6:3 and Matt 1:25 as indicating that Mary and Joseph had other children, though Luther, Zwingli and some early Reformers affirmed her perpetual virginity."
+   },
+   {
+    "tradition": "Islam",
+    "view": "The Quran (Surah 19, named Maryam) affirms the virgin birth of Jesus (Isa) and honours Mary as chosen above the women of the worlds, while rejecting Jesus' divinity."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Willing consent to God's call (Luke 1:38)",
+    "Faith praised by Elizabeth (Luke 1:45)",
+    "Faithfulness to the end at the cross (John 19:25)"
+   ],
+   "failures": [
+    "Did not at first understand Jesus' words in the temple (Luke 2:50)",
+    "Mark places her with family members who thought Jesus 'out of his mind' (Mark 3:21; Mark 3:31), though the text does not say she shared that opinion"
+   ],
+   "turningPoints": [
+    "The annunciation (Luke 1:26-38)",
+    "Simeon's prophecy (Luke 2:34-35)",
+    "The cross and her new household with the beloved disciple (John 19:26-27)"
+   ]
+  },
+  "context": "Girls in first-century Galilee were commonly betrothed in their early to mid teens; betrothal was a binding legal bond, which is why Joseph considered divorce (Matt 1:19). An unexplained pregnancy carried real social danger. Nazareth was a small village of perhaps a few hundred people near the larger city of Sepphoris. The offering of two birds at the presentation (Luke 2:24; Lev 12:8) marks the family as poor.",
+  "legacy": "Mary became the most depicted woman in Western and Byzantine art. Her title Theotokos was central to the 5th-century Christological debates (Nestorius vs Cyril). The Magnificat is sung daily in Vespers and Evensong. The 'Hail Mary' prayer combines Luke 1:28 and Luke 1:42. Marian shrines (Guadalupe, Lourdes, Fatima) draw millions.",
+  "traditions": [
+   {
+    "text": "Her parents were Joachim and Anne, and she was presented in the temple as a child and raised there.",
+    "source": "Protevangelium (Infancy Gospel) of James 1-8, 2nd century",
+    "confidence": "tradition"
+   },
+   {
+    "text": "She 'fell asleep' (Dormition) in Jerusalem and was taken bodily to heaven; a tomb is venerated in the Kidron Valley.",
+    "source": "Transitus Mariae literature (5th-6th centuries); John of Damascus, Homilies on the Dormition",
+    "confidence": "tradition"
+   },
+   {
+    "text": "She lived her last years at Ephesus with the apostle John; the 'House of Mary' near Ephesus became a pilgrimage site in the 19th century. This competes with the older Jerusalem tradition.",
+    "source": "Inference from John 19:27 and John's Ephesian residence; Council of Ephesus church dedication (431); 19th-century visions of Anne Catherine Emmerich",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Gentle, few-worded and deeply reflective; speaks in the cadences of the Psalms and Hannah's song, with a mother's directness when practical things need doing.",
+  "refs": [
+   "Luke 1:26-56",
+   "Luke 2:1-52",
+   "Matt 1:18-2:23",
+   "John 2:1-12",
+   "Mark 3:31-35",
+   "Mark 6:3",
+   "John 19:25-27",
+   "Acts 1:14",
+   "Gal 4:4"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Gal"
+  ]
+ },
+ {
+  "id": "joseph-of-nazareth",
+  "names": {
+   "primary": "Joseph of Nazareth",
+   "original": "Hebrew Yosef; Greek Iōsēph",
+   "meaning": "'May he (God) add'",
+   "aliases": [
+    "Saint Joseph",
+    "Joseph the Betrothed",
+    "Joseph the carpenter",
+    "Joseph son of David"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "died": {
+   "year": 20,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Simply 'before Jesus' public ministry', inferred from his absence in the Gospel narratives",
+     "year": 27
+    }
+   ]
+  },
+  "tribe": "Judah",
+  "nation": "Galilee (Judea under Rome)",
+  "placeIds": [
+   "nazareth",
+   "bethlehem",
+   "egypt",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "mary-mother-of-jesus"
+   ],
+   "children": [
+    "jesus"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Husband of Mary",
+   "Legal father of Jesus",
+   "Descendant of David"
+  ],
+  "occupations": [
+   "Builder / carpenter (tektōn)"
+  ],
+  "skills": [
+   {
+    "name": "Building trade (tektōn: wood and stone work)",
+    "refs": [
+     "Matt 13:55"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Guidance through dreams",
+    "refs": [
+     "Matt 1:20-24",
+     "Matt 2:13-14",
+     "Matt 2:19-22"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Decides to divorce quietly, then obeys a dream",
+    "year": -6,
+    "placeId": "nazareth",
+    "refs": [
+     "Matt 1:18-25"
+    ],
+    "summary": "Learning Mary is pregnant, the 'righteous' Joseph plans a quiet divorce, but an angel tells him the child is from the Holy Spirit. He takes Mary as his wife and names the child Jesus."
+   },
+   {
+    "title": "Journey to Bethlehem for the census",
+    "year": -5,
+    "placeId": "bethlehem",
+    "refs": [
+     "Luke 2:1-7"
+    ],
+    "summary": "Because he is of the house of David, he registers in Bethlehem, where Jesus is born."
+   },
+   {
+    "title": "Flight to Egypt and return",
+    "year": -4,
+    "placeId": "egypt",
+    "refs": [
+     "Matt 2:13-23"
+    ],
+    "summary": "Warned in dreams, he takes the family to Egypt and later settles them in Nazareth to avoid Herod's son Archelaus."
+   },
+   {
+    "title": "Passover with the twelve-year-old Jesus",
+    "year": 8,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:41-51"
+    ],
+    "summary": "With Mary he searches for Jesus, who is found in the temple. This is his last appearance in the narrative."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "nazareth",
+    "order": 1,
+    "note": "Home.",
+    "refs": [
+     "Luke 2:4"
+    ]
+   },
+   {
+    "placeId": "bethlehem",
+    "order": 2,
+    "year": -5,
+    "note": "Census registration.",
+    "refs": [
+     "Luke 2:4-5"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 3,
+    "year": -4,
+    "note": "Refuge.",
+    "refs": [
+     "Matt 2:14"
+    ]
+   },
+   {
+    "placeId": "nazareth",
+    "order": 4,
+    "year": -4,
+    "note": "Settles the family.",
+    "refs": [
+     "Matt 2:22-23"
+    ]
+   }
+  ],
+  "summary": "Joseph was a Davidic descendant and craftsman of Nazareth, betrothed to Mary. Matthew's infancy narrative is told from his viewpoint: four dreams guide him to marry Mary, name the child, flee to Egypt and return to Galilee. He never speaks a word in the Gospels, but acts promptly and protectively. Both genealogies of Jesus run through him (Matt 1:1-16; Luke 3:23-38), making Jesus legally a 'son of David'. He disappears from the story after Jesus is twelve and is usually presumed to have died before the public ministry, since Jesus entrusts Mary to the beloved disciple at the cross.",
+  "textSays": "Joseph is called a righteous man (Matt 1:19), son of David (Matt 1:20), husband of Mary (Matt 1:16), and the tektōn whose son Jesus was thought to be (Matt 13:55; Luke 3:23). He does not have relations with Mary until she bears Jesus (Matt 1:25).",
+  "interpretations": [
+   {
+    "tradition": "Catholic",
+    "view": "Patron of the Universal Church (1870) and model of fathers and workers; often held to have been a lifelong virgin with Mary (following Jerome)."
+   },
+   {
+    "tradition": "Orthodox",
+    "view": "Honoured as 'Joseph the Betrothed', often pictured as an elderly widower whose earlier children are the 'brothers of the Lord'."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "An example of quiet obedience and righteous character; many read Matt 1:25 and Mark 6:3 as implying normal married life and further children after Jesus."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Joseph was an elderly widower with children from a previous marriage when chosen as Mary's guardian.",
+    "source": "Protevangelium of James 9",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He died in the arms of Jesus and Mary, the basis of his patronage of a happy death.",
+    "source": "History of Joseph the Carpenter (Egyptian, c. 6th-7th century)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "A man of few words and quick obedience; practical, protective and careful, speaking like a working craftsman rather than a scholar.",
+  "refs": [
+   "Matt 1:16-25",
+   "Matt 2:13-23",
+   "Luke 1:27",
+   "Luke 2:1-51",
+   "Luke 3:23",
+   "Matt 13:55",
+   "John 6:42"
+  ],
+  "books": [
+   "Matt",
+   "Luke",
+   "John"
+  ]
+ },
+ {
+  "id": "elizabeth",
+  "names": {
+   "primary": "Elizabeth",
+   "original": "Hebrew Elisheva; Greek Elisabet",
+   "meaning": "'My God is an oath' or 'God is abundance'",
+   "aliases": [
+    "Elisabeth"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "tribe": "Levi (a descendant of Aaron)",
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "zechariah-priest"
+   ],
+   "children": [
+    "john-the-baptist"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Mother of John the Baptist",
+   "Relative of Mary",
+   "Prophetic witness"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Filled with the Holy Spirit; prophetic blessing",
+    "refs": [
+     "Luke 1:41-45"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Conceives in old age",
+    "year": -7,
+    "refs": [
+     "Luke 1:5-7",
+     "Luke 1:24-25"
+    ],
+    "summary": "Righteous but barren and advanced in years, she conceives after Zechariah's vision and says the Lord has taken away her disgrace."
+   },
+   {
+    "title": "Greets Mary",
+    "year": -6,
+    "refs": [
+     "Luke 1:39-45"
+    ],
+    "summary": "When Mary arrives, the child leaps in Elizabeth's womb; filled with the Spirit she calls Mary 'the mother of my Lord'."
+   },
+   {
+    "title": "Names her son John",
+    "year": -6,
+    "refs": [
+     "Luke 1:57-61"
+    ],
+    "summary": "Against family expectation she insists the boy be called John."
+   }
+  ],
+  "summary": "Elizabeth was a descendant of Aaron married to the priest Zechariah, living in the hill country of Judea. Like Sarah and Hannah before her, she was childless into old age until God gave her a son, John the Baptist. Luke pairs her with her relative Mary: the elderly barren woman and the young virgin both conceive by God's action, and Elizabeth is the first person in Luke to recognize Mary's child as Lord.",
+  "textSays": "She is 'of the daughters of Aaron', righteous and blameless before God, and barren (Luke 1:5-7). She is Mary's relative (Luke 1:36). She hides herself five months, blesses Mary with a loud cry, and names her son John (Luke 1:24; Luke 1:42; Luke 1:60).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honoured as a saint; her words to Mary form the second half of the 'Hail Mary' and the feast of the Visitation celebrates the meeting."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Seen as an example of faithful waiting and Spirit-filled discernment, in the line of barren matriarchs whose sons mark turning points in salvation history."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "During Herod's massacre she fled with the infant John into the hills, where a mountain opened to hide them.",
+    "source": "Protevangelium of James 22",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Warm, exuberant and humble; speaks with the joy of long-delayed blessing and the confidence of someone the Spirit has just moved.",
+  "refs": [
+   "Luke 1:5-7",
+   "Luke 1:24-25",
+   "Luke 1:36",
+   "Luke 1:39-45",
+   "Luke 1:57-61"
+  ],
+  "books": [
+   "Luke"
+  ]
+ },
+ {
+  "id": "zechariah-priest",
+  "names": {
+   "primary": "Zechariah (father of John the Baptist)",
+   "original": "Hebrew Zekharyah; Greek Zacharias",
+   "meaning": "'The LORD remembers'",
+   "aliases": [
+    "Zacharias",
+    "Zachary"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "tribe": "Levi (priestly division of Abijah)",
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "elizabeth"
+   ],
+   "children": [
+    "john-the-baptist"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Priest",
+   "Father of John the Baptist",
+   "Prophet (the Benedictus)"
+  ],
+  "occupations": [
+   "Priest of the division of Abijah"
+  ],
+  "skills": [
+   {
+    "name": "Temple service (burning incense)",
+    "refs": [
+     "Luke 1:8-10"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy by the Holy Spirit",
+    "refs": [
+     "Luke 1:67-79"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Vision of Gabriel in the temple",
+    "year": -7,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 1:8-20"
+    ],
+    "summary": "Chosen by lot to burn incense, he sees the angel Gabriel, who announces the birth of a son. He asks for a sign and is struck mute for doubting."
+   },
+   {
+    "title": "Names John and regains his speech",
+    "year": -6,
+    "refs": [
+     "Luke 1:59-66"
+    ],
+    "summary": "He writes 'His name is John' on a tablet, and his tongue is loosed."
+   },
+   {
+    "title": "The Benedictus",
+    "year": -6,
+    "refs": [
+     "Luke 1:67-79"
+    ],
+    "summary": "Filled with the Spirit he praises God for raising a horn of salvation in the house of David and foretells his son will prepare the Lord's way."
+   }
+  ],
+  "summary": "Zechariah was a rural priest of the division of Abijah who served in the Jerusalem temple twice a year. While he was offering incense, the angel Gabriel announced that his elderly wife Elizabeth would bear a son who would go before the Lord in the spirit and power of Elijah. His doubt left him unable to speak until the child's naming, when he burst into the prophetic song known as the Benedictus, sung daily in Christian morning prayer.",
+  "textSays": "He and Elizabeth were righteous and blameless (Luke 1:6). He questioned Gabriel's message because of their age (Luke 1:18) and was made silent until it was fulfilled (Luke 1:20; Luke 1:64).",
+  "interpretations": [
+   {
+    "tradition": "Patristic and Orthodox",
+    "view": "Some Fathers and the Protevangelium identify him with the 'Zechariah son of Barachiah' murdered between the sanctuary and altar (Matt 23:35); most modern scholars identify that figure with Zechariah son of Jehoiada (2 Chr 24:20-22)."
+   },
+   {
+    "tradition": "Protestant and Catholic",
+    "view": "A model of a godly priest whose temporary unbelief is gently disciplined; his song links John's birth to the Davidic and Abrahamic covenants."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He was killed in the temple by Herod's agents for refusing to reveal where his infant son was hidden.",
+    "source": "Protevangelium of James 23-24",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Measured and liturgical, steeped in the language of the Psalms and the prophets; once silenced, now speaks with grateful wonder.",
+  "refs": [
+   "Luke 1:5-25",
+   "Luke 1:59-79",
+   "Luke 3:2"
+  ],
+  "books": [
+   "Luke"
+  ]
+ },
+ {
+  "id": "john-the-baptist",
+  "names": {
+   "primary": "John the Baptist",
+   "original": "Hebrew Yochanan; Greek Iōannēs ho baptistēs",
+   "meaning": "'The LORD is gracious'",
+   "aliases": [
+    "John the Baptizer",
+    "John the Forerunner (Prodromos)",
+    "Yahya (Quran)",
+    "John son of Zechariah"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "born": {
+   "year": -6,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "About six months before Jesus on any chronology; c. 7-5 BC",
+     "year": -5
+    }
+   ]
+  },
+  "died": {
+   "year": 29,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "c. AD 31-32 on the AD 33 crucifixion chronology",
+     "year": 31
+    },
+    {
+     "label": "c. AD 28",
+     "year": 28
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "AD 29, reckoning Tiberius' 15th year from Augustus' death (Aug AD 14) by different calendars",
+      "year": 29
+     }
+    ]
+   },
+   {
+    "year": 29,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "tribe": "Levi (priestly family)",
+  "nation": "Judea",
+  "placeIds": [
+   "jordan-river",
+   "dead-sea",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [
+    "zechariah-priest",
+    "elizabeth"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Prophet",
+   "Baptizer",
+   "Forerunner of the Messiah",
+   "Teacher of disciples"
+  ],
+  "occupations": [
+   "Wilderness prophet"
+  ],
+  "skills": [
+   {
+    "name": "Bold public preaching",
+    "refs": [
+     "Luke 3:7-14",
+     "Matt 3:7-12"
+    ]
+   },
+   {
+    "name": "Ascetic wilderness life",
+    "refs": [
+     "Mark 1:6",
+     "Luke 1:80"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy; filled with the Spirit from the womb",
+    "refs": [
+     "Luke 1:15",
+     "Luke 1:76"
+    ]
+   },
+   {
+    "name": "Recognition of Jesus as the Lamb of God",
+    "refs": [
+     "John 1:29-34"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Birth announced and born",
+    "year": -6,
+    "refs": [
+     "Luke 1:13-17",
+     "Luke 1:57-66"
+    ],
+    "summary": "Gabriel announces he will go before the Lord in the spirit and power of Elijah; born to elderly parents and named John."
+   },
+   {
+    "title": "Grows up in the wilderness",
+    "refs": [
+     "Luke 1:80"
+    ],
+    "summary": "He grows strong in spirit and lives in the wilderness until his public appearance."
+   },
+   {
+    "title": "Begins preaching a baptism of repentance",
+    "year": 28,
+    "placeId": "jordan-river",
+    "refs": [
+     "Luke 3:1-18",
+     "Mark 1:2-8",
+     "Matt 3:1-12"
+    ],
+    "summary": "In the 15th year of Tiberius he appears in the Judean wilderness by the Jordan, dressed in camel hair, calling Israel to repent and be baptized, warning of coming judgment and giving practical instructions to tax collectors and soldiers."
+   },
+   {
+    "title": "Baptizes Jesus",
+    "year": 28,
+    "placeId": "jordan-river",
+    "refs": [
+     "Matt 3:13-17",
+     "Mark 1:9-11"
+    ],
+    "summary": "He hesitates, saying he needs to be baptized by Jesus, but consents; he sees the Spirit descend."
+   },
+   {
+    "title": "Testifies 'Behold the Lamb of God'",
+    "year": 28,
+    "refs": [
+     "John 1:19-36"
+    ],
+    "summary": "He denies being the Messiah, Elijah or the Prophet, calls himself the voice in the wilderness (Isa 40:3), and points his disciples Andrew and another to Jesus."
+   },
+   {
+    "title": "'He must increase, but I must decrease'",
+    "year": 28,
+    "refs": [
+     "John 3:22-30"
+    ],
+    "summary": "Baptizing at Aenon near Salim, he describes himself as the friend of the bridegroom."
+   },
+   {
+    "title": "Imprisoned; sends a question from prison",
+    "year": 29,
+    "refs": [
+     "Luke 3:19-20",
+     "Matt 11:2-19"
+    ],
+    "summary": "Arrested by Herod Antipas for condemning his marriage to Herodias, he sends disciples to ask whether Jesus is 'the one who is to come'. Jesus answers with his works and calls John the greatest born of women and the Elijah who was to come."
+   },
+   {
+    "title": "Beheaded by Herod Antipas",
+    "year": 29,
+    "refs": [
+     "Mark 6:14-29",
+     "Matt 14:1-12"
+    ],
+    "summary": "At Herod's birthday banquet Herodias' daughter requests John's head; his disciples bury the body."
+   },
+   {
+    "title": "His disciples at Ephesus",
+    "year": 53,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:24-25",
+     "Acts 19:1-7"
+    ],
+    "summary": "Decades later Paul meets people in Ephesus who knew only John's baptism, showing how far his movement spread."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "jordan-river",
+    "order": 1,
+    "year": 28,
+    "note": "Baptizing in the lower Jordan near the Judean wilderness; John 1:28 names 'Bethany beyond the Jordan' (distinct from Bethany near Jerusalem).",
+    "refs": [
+     "Mark 1:4-5",
+     "John 1:28"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 2,
+    "year": 28,
+    "note": "Later baptizes at Aenon near Salim, where there was much water (site uncertain).",
+    "refs": [
+     "John 3:23"
+    ]
+   },
+   {
+    "placeId": "dead-sea",
+    "order": 3,
+    "year": 29,
+    "note": "Imprisoned and executed; Josephus names the fortress of Machaerus, east of the Dead Sea.",
+    "refs": [
+     "Mark 6:17",
+     "Mark 6:27"
+    ]
+   }
+  ],
+  "summary": "John the Baptist was a prophet of priestly birth who appeared in the Judean wilderness around AD 28, calling Israel to repentance and immersing penitents in the Jordan River as a sign of cleansing in readiness for God's coming judgment and a greater one to come. His austere dress and diet deliberately recalled Elijah, and crowds from Jerusalem and Judea came to him. He addressed social sins directly: share your goods, collect no more than is due, do not extort.\n\nAll four Gospels begin Jesus' public ministry with John, who baptized him and, in John's Gospel, pointed his own disciples (including Andrew) toward Jesus as the Lamb of God. John's denunciation of Herod Antipas' marriage to his brother's wife Herodias led to his imprisonment and beheading. Jesus called him more than a prophet and the Elijah who was to come.\n\nJosephus independently reports John as a good man who exhorted Jews to virtue and baptism, and says Antipas executed him at Machaerus out of fear that his influence might spark revolt. John's movement outlived him, as the disciples in Acts 19 show.",
+  "textSays": "Luke dates his call to the 15th year of Tiberius (Luke 3:1-2). He wore camel hair and ate locusts and wild honey (Mark 1:6). He preached a baptism of repentance for the forgiveness of sins (Mark 1:4) and said one mightier than he would baptize with the Holy Spirit (Mark 1:7-8). In John's Gospel he denies being Elijah (John 1:21), while Jesus says he is the Elijah who was to come (Matt 11:14; Matt 17:12-13), fulfilling Mal 4:5. Herod imprisoned and beheaded him (Mark 6:17-28).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "The Forerunner (Prodromos) and last of the Old Testament prophets, sanctified in the womb (Luke 1:15; Luke 1:41). Orthodox icons pair him with Mary in the Deesis interceding beside Christ; his nativity (24 June) and beheading (29 August) are major feasts."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "The bridge between the old covenant and the new, whose call to repentance and pointing to Christ is the model of all ministry ('He must increase, but I must decrease'). His baptism is distinguished from Christian baptism (Acts 19:1-5)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "An apocalyptic prophet of imminent judgment, independently attested by Josephus. Similarities to the Qumran community (wilderness, washing, Isa 40:3) lead some to propose a connection, but this is speculative. Many think Jesus began as part of John's circle; the Gospels' emphasis on John's inferiority may reflect rivalry with his ongoing followers."
+   },
+   {
+    "tradition": "Islam and Mandaeism",
+    "view": "Islam honours Yahya son of Zakariya as a prophet (Quran 19:7-15). The Mandaeans of Iraq and Iran revere John as their great teacher and practise repeated baptism."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Fearless confrontation of religious and political leaders (Matt 3:7; Mark 6:18)",
+    "Humility toward Jesus (John 3:30)",
+    "Integrity of life matching message (Matt 11:7-9)"
+   ],
+   "failures": [
+    "His question from prison suggests doubt or puzzlement about Jesus' kind of messiahship (Matt 11:3)"
+   ],
+   "turningPoints": [
+    "The word of God comes to him in the wilderness (Luke 3:2)",
+    "Baptizing Jesus (Matt 3:13-17)",
+    "Arrest by Herod (Luke 3:19-20)"
+   ]
+  },
+  "context": "Ritual washing (mikvaot) was common in Second Temple Judaism, but John's once-for-all baptism administered by a prophet was distinctive. Josephus, Antiquities 18.116-119, describes John's execution at Machaerus and says many Jews saw Herod's later military defeat by the Nabatean king Aretas as divine punishment for it. Herodias had been married to Herod's half-brother (called Philip in Mark 6:17; Josephus names him Herod), so the marriage violated Lev 18:16.",
+  "legacy": "John stands at the start of every Gospel and of the Christian calendar of Advent. Baptism, though transformed in meaning, remains the rite of entry to the church. He is the patron of many cities (Florence, Puerto Rico's San Juan) and the subject of works from Donatello to Caravaggio and Richard Strauss's opera Salome.",
+  "traditions": [
+   {
+    "text": "His body was buried at Sebaste (Samaria), where his tomb was venerated by the 4th century; his head is claimed by several churches including the Umayyad Mosque in Damascus.",
+    "source": "Jerome, Letter 108 (to Eustochium) and related 4th-century pilgrim reports (needs-verification on exact locator)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Blunt, urgent and uncompromising; speaks in images of axes, chaff and fire, without courtesy for the powerful but with plain instructions for ordinary people.",
+  "refs": [
+   "Luke 1:5-25",
+   "Luke 1:57-80",
+   "Luke 3:1-22",
+   "Mark 1:2-11",
+   "Mark 6:14-29",
+   "Matt 3:1-17",
+   "Matt 11:2-19",
+   "John 1:6-8",
+   "John 1:19-36",
+   "John 3:22-30",
+   "Mal 4:5-6",
+   "Isa 40:3",
+   "Acts 19:1-7"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "simeon",
+  "names": {
+   "primary": "Simeon (in the temple)",
+   "original": "Hebrew Shimon; Greek Symeōn",
+   "meaning": "'He has heard'",
+   "aliases": [
+    "Simeon the God-receiver (Theodochos)"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Devout man of Jerusalem",
+   "Prophetic witness"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Holy Spirit revelation and prophecy",
+    "refs": [
+     "Luke 2:25-35"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Takes the infant Jesus in his arms",
+    "year": -5,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:25-35"
+    ],
+    "summary": "Promised he would not die before seeing the Lord's Christ, he blesses God (the Nunc Dimittis), calls the child a light for the Gentiles and warns Mary of a sword piercing her soul."
+   }
+  ],
+  "summary": "Simeon was a righteous and devout man in Jerusalem, waiting for 'the consolation of Israel', to whom the Spirit revealed he would see the Messiah before death. Meeting Mary and Joseph at the presentation, he blessed God in the song known as the Nunc Dimittis ('Now you let your servant depart') and foretold division and suffering.",
+  "textSays": "Luke 2:25-35 calls him righteous and devout, with the Holy Spirit upon him. Luke does not say he was old or a priest, though his words imply he expected to die soon.",
+  "traditions": [
+   {
+    "text": "He was one of the seventy translators of the Septuagint, kept alive to see the Messiah.",
+    "source": "Later Byzantine legend (needs-verification on earliest source)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Serene and solemn, a man at peace speaking blessing, with a prophet's sobering edge.",
+  "refs": [
+   "Luke 2:25-35"
+  ],
+  "books": [
+   "Luke"
+  ]
+ },
+ {
+  "id": "anna",
+  "names": {
+   "primary": "Anna the prophetess",
+   "original": "Hebrew Hannah; Greek Hanna",
+   "meaning": "'Grace' or 'favour'",
+   "aliases": [
+    "Anna daughter of Phanuel"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "tribe": "Asher",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Prophetess",
+   "Widow devoted to temple worship"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Prophecy; fasting and prayer",
+    "refs": [
+     "Luke 2:36-38"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Speaks of the child to those awaiting redemption",
+    "year": -5,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 2:36-38"
+    ],
+    "summary": "Coming up at the moment of the presentation, she gives thanks to God and speaks about Jesus to all waiting for the redemption of Jerusalem."
+   }
+  ],
+  "summary": "Anna, daughter of Phanuel of the tribe of Asher, was an aged prophetess who after seven years of marriage was widowed and never left the temple, worshipping with fasting and prayer. Luke pairs her with Simeon as a second witness to the infant Jesus. The Greek can mean she was 84 years old or had been a widow for 84 years.",
+  "textSays": "Luke 2:36-38 calls her a prophetess of great age, from the northern tribe of Asher, and says she spoke of the child to all looking for Jerusalem's redemption.",
+  "voice": "An old woman of deep prayer, quick to praise, talkative about God's goodness to anyone who will listen.",
+  "refs": [
+   "Luke 2:36-38"
+  ],
+  "books": [
+   "Luke"
+  ]
+ },
+ {
+  "id": "peter",
+  "names": {
+   "primary": "Simon Peter",
+   "original": "Hebrew Shimon; Aramaic Kepha; Greek Petros",
+   "meaning": "Kepha / Petros = 'rock'",
+   "aliases": [
+    "Simon",
+    "Simeon (Acts 15:14; 2 Pet 1:1)",
+    "Cephas",
+    "Simon son of Jonah (Bar-Jonah)",
+    "Simon son of John"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "born": {
+   "year": -1,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Some estimate c. 5 BC to AD 5",
+     "year": 1
+    }
+   ]
+  },
+  "died": {
+   "year": 64,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "AD 67/68, late in Nero's reign (Eusebius' and Jerome's reckoning)",
+     "year": 67,
+     "source": "Jerome, On Illustrious Men 1"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "tradition"
+   }
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "bethsaida",
+   "capernaum",
+   "sea-of-galilee",
+   "caesarea-philippi",
+   "jerusalem",
+   "gethsemane",
+   "samaria",
+   "lydda",
+   "joppa",
+   "caesarea-maritima",
+   "antioch-syria",
+   "corinth",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "andrew"
+   ]
+  },
+  "roles": [
+   "Apostle (first in every list of the Twelve)",
+   "Leader of the Jerusalem church",
+   "Missionary to Jews (Gal 2:7-8)",
+   "Traditional author of 1 and 2 Peter"
+  ],
+  "occupations": [
+   "Fisherman"
+  ],
+  "skills": [
+   {
+    "name": "Fishing with nets on the Sea of Galilee",
+    "refs": [
+     "Mark 1:16",
+     "Luke 5:4-7",
+     "John 21:3-11"
+    ]
+   },
+   {
+    "name": "Public preaching",
+    "refs": [
+     "Acts 2:14-40",
+     "Acts 3:12-26"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Apostolic leadership and shepherding",
+    "refs": [
+     "John 21:15-17",
+     "1 Pet 5:1-4"
+    ]
+   },
+   {
+    "name": "Healing",
+    "refs": [
+     "Acts 3:1-10",
+     "Acts 9:32-42"
+    ]
+   },
+   {
+    "name": "Revelation and spiritual discernment",
+    "refs": [
+     "Matt 16:17",
+     "Acts 5:1-11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called from his nets",
+    "year": 28,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Mark 1:16-18",
+     "Luke 5:1-11",
+     "John 1:40-42"
+    ],
+    "summary": "Brought to Jesus by his brother Andrew and renamed Cephas; later called from fishing on the lake after a miraculous catch, with the promise that he would catch people."
+   },
+   {
+    "title": "Walks on water",
+    "year": 29,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Matt 14:22-33"
+    ],
+    "summary": "He steps out of the boat toward Jesus, begins to sink when he sees the wind, and is caught by Jesus' hand."
+   },
+   {
+    "title": "Confession at Caesarea Philippi",
+    "year": 29,
+    "placeId": "caesarea-philippi",
+    "refs": [
+     "Matt 16:13-23"
+    ],
+    "summary": "He confesses 'You are the Christ, the Son of the living God'; Jesus calls him the rock on which he will build his church and gives him the keys, but moments later rebukes him as 'Satan' for rejecting the way of the cross."
+   },
+   {
+    "title": "Witness of the Transfiguration",
+    "year": 29,
+    "refs": [
+     "Mark 9:2-8",
+     "2 Pet 1:16-18"
+    ],
+    "summary": "With James and John he sees Jesus transfigured and suggests building three shelters."
+   },
+   {
+    "title": "Foot-washing and the sword in Gethsemane",
+    "year": 30,
+    "placeId": "gethsemane",
+    "refs": [
+     "John 13:6-10",
+     "John 18:10-11"
+    ],
+    "summary": "He first refuses then begs to be washed entirely; at the arrest he cuts off the ear of the high priest's servant Malchus."
+   },
+   {
+    "title": "Denies Jesus three times",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 14:66-72",
+     "Luke 22:54-62"
+    ],
+    "summary": "In the high priest's courtyard he denies knowing Jesus; when the rooster crows he remembers and weeps bitterly."
+   },
+   {
+    "title": "Witness of the risen Jesus and restoration",
+    "year": 30,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Luke 24:34",
+     "1 Cor 15:5",
+     "John 21:15-19"
+    ],
+    "summary": "Paul and Luke record a personal appearance to Peter. By the lake Jesus asks three times 'Do you love me?' and commissions him to feed his sheep, foretelling his death."
+   },
+   {
+    "title": "Pentecost sermon",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 2:14-41"
+    ],
+    "summary": "He interprets the outpouring of the Spirit through Joel and proclaims Jesus as Lord and Christ; about three thousand are baptized."
+   },
+   {
+    "title": "Healing and trial before the council",
+    "year": 31,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 3:1-10",
+     "Acts 4:1-22"
+    ],
+    "summary": "He heals a man lame from birth at the Beautiful Gate and, with John, boldly tells the Sanhedrin they must obey God rather than men."
+   },
+   {
+    "title": "Opens the door to the Gentiles",
+    "year": 37,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 10:1-48",
+     "Acts 11:1-18"
+    ],
+    "summary": "After a vision in Joppa, he preaches to the Roman centurion Cornelius, whose household receives the Spirit and is baptized."
+   },
+   {
+    "title": "Escape from Herod's prison",
+    "year": 44,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:1-17"
+    ],
+    "summary": "After James is executed, Peter is arrested, freed by an angel, and leaves 'for another place'."
+   },
+   {
+    "title": "Jerusalem Council and Antioch confrontation",
+    "year": 49,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 15:6-11",
+     "Gal 2:7-14"
+    ],
+    "summary": "He argues that Gentiles are saved by grace without circumcision; Paul nevertheless rebukes him at Antioch for withdrawing from table fellowship with Gentiles."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "bethsaida",
+    "order": 1,
+    "note": "Home town according to John.",
+    "refs": [
+     "John 1:44"
+    ]
+   },
+   {
+    "placeId": "capernaum",
+    "order": 2,
+    "year": 28,
+    "note": "His house, where Jesus healed his mother-in-law.",
+    "refs": [
+     "Mark 1:29-31"
+    ]
+   },
+   {
+    "placeId": "caesarea-philippi",
+    "order": 3,
+    "year": 29,
+    "note": "Confession of Jesus as Messiah.",
+    "refs": [
+     "Matt 16:13-19"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 4,
+    "year": 30,
+    "note": "Passion, denial, Pentecost, leadership of the church.",
+    "refs": [
+     "Acts 2:14"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 5,
+    "year": 34,
+    "note": "Sent with John to the new Samaritan believers.",
+    "refs": [
+     "Acts 8:14-25"
+    ]
+   },
+   {
+    "placeId": "lydda",
+    "order": 6,
+    "year": 36,
+    "note": "Heals Aeneas.",
+    "refs": [
+     "Acts 9:32-35"
+    ]
+   },
+   {
+    "placeId": "joppa",
+    "order": 7,
+    "year": 36,
+    "note": "Raises Tabitha (Dorcas); vision on the rooftop.",
+    "refs": [
+     "Acts 9:36-43",
+     "Acts 10:9-16"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 8,
+    "year": 37,
+    "note": "Preaches to Cornelius.",
+    "refs": [
+     "Acts 10:24-48"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 9,
+    "year": 49,
+    "note": "Clash with Paul over table fellowship.",
+    "refs": [
+     "Gal 2:11-14"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 10,
+    "note": "A 'Cephas party' existed at Corinth, and he travelled with his wife; whether he visited Corinth is uncertain.",
+    "refs": [
+     "1 Cor 1:12",
+     "1 Cor 9:5"
+    ]
+   },
+   {
+    "placeId": "rome",
+    "order": 11,
+    "year": 64,
+    "note": "Tradition of ministry and martyrdom in Rome; 1 Peter is sent from 'Babylon', widely taken as a code name for Rome.",
+    "refs": [
+     "1 Pet 5:13",
+     "John 21:18-19"
+    ]
+   }
+  ],
+  "summary": "Simon, son of John (or Jonah), was a married fisherman from Bethsaida living in Capernaum when Jesus called him and his brother Andrew. Jesus gave him the name Cephas or Peter, 'Rock'. He heads every list of the Twelve, belongs with James and John to the inner circle, and acts as spokesman for the disciples: impulsive, devoted, quick to confess Jesus as Messiah and quick to misunderstand him. His threefold denial during Jesus' trial and his restoration by the risen Jesus are among the most human stories in the Gospels.\n\nIn the first half of Acts Peter is the leading figure in Jerusalem: preaching at Pentecost, healing, defying the Sanhedrin, and, through Cornelius, opening the church to Gentiles. Paul calls him one of the three 'pillars' and the apostle to the circumcised, while recording their sharp disagreement at Antioch. After Acts 15 he leaves the narrative.\n\nEarly tradition, strong and widespread by the late first and second centuries, places Peter's final ministry and martyrdom in Rome under Nero. Two New Testament letters bear his name, and Papias says Mark's Gospel preserves his preaching. His role is at the centre of the Catholic-Orthodox-Protestant debate over the papacy.",
+  "textSays": "Jesus renames him (Mark 3:16; John 1:42), says 'on this rock I will build my church' and gives him the keys of the kingdom (Matt 16:18-19), prays that his faith not fail and tells him to strengthen his brothers (Luke 22:31-32), and charges him to feed his sheep (John 21:15-17). He had a wife (Mark 1:30; 1 Cor 9:5). Paul met him in Jerusalem three years after his conversion (Gal 1:18) and calls him a pillar (Gal 2:9). John 21:18-19 foretells the kind of death by which he would glorify God.",
+  "interpretations": [
+   {
+    "tradition": "Catholic",
+    "view": "Matt 16:18 makes Peter himself the rock and the first head of the apostles; this primacy continues in his successors, the bishops of Rome. Peter is the first pope, martyred and buried in Rome beneath St Peter's Basilica."
+   },
+   {
+    "tradition": "Eastern Orthodox",
+    "view": "Honours Peter as 'first among the apostles' and the bishop of Rome historically as first in honour. Many Fathers read the rock as Peter's confession of faith, or see every bishop who holds that faith as sharing Peter's chair; universal jurisdiction of Rome is rejected."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Interpretations vary: Luther and many Reformers took the rock as Peter's confession or Christ himself; many modern Protestant exegetes (e.g. Cullmann, Carson) accept that the rock is Peter as the foundational apostle (Eph 2:20) but deny any transferable office of successors."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Peter's leadership in the early Jerusalem church and his death in Rome are widely accepted. 1 Peter's authorship is debated (its fine Greek may reflect a secretary such as Silvanus, 1 Pet 5:12); 2 Peter is widely regarded as pseudonymous, though some defend Petrine authorship."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Bold faith and confession (Matt 16:16; Matt 14:28-29)",
+    "Leadership and preaching (Acts 2)",
+    "Willingness to change his mind about Gentiles (Acts 10:34-35)"
+   ],
+   "failures": [
+    "Rebuked as 'Satan' for resisting the cross (Mark 8:33)",
+    "Sleeping in Gethsemane (Mark 14:37)",
+    "Denying Jesus three times (Mark 14:66-72)",
+    "Withdrawing from Gentile believers out of fear (Gal 2:11-13)"
+   ],
+   "turningPoints": [
+    "Call by the lake (Luke 5:8-11)",
+    "Confession at Caesarea Philippi (Matt 16:16)",
+    "The rooster's crow (Luke 22:61-62)",
+    "Restoration by the lake (John 21:15-19)",
+    "Vision at Joppa (Acts 10:9-16)"
+   ]
+  },
+  "context": "Fishing on the Sea of Galilee was a family business taxed by Herod Antipas; Peter's partnership with Zebedee's sons (Luke 5:10) implies a modest, working enterprise. Excavations at Capernaum found a first-century house later venerated as Peter's, over which an octagonal church was built in the 5th century. Under Nero, after the great fire of AD 64, Christians in Rome were executed in large numbers (Tacitus, Annals 15.44).",
+  "legacy": "Peter became the symbol of apostolic authority and of forgiven failure. St Peter's Basilica in Rome stands over the traditional site of his tomb; 20th-century excavations found a 2nd-century shrine there. 'The keys' and the rooster are his emblems, and the Petrine office remains the central issue dividing Catholic, Orthodox and Protestant churches.",
+  "traditions": [
+   {
+    "text": "Peter suffered martyrdom (with Paul) in the persecution at Rome.",
+    "source": "1 Clement 5 (c. AD 96)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was crucified in Rome under Nero, upside down at his own request.",
+    "source": "Eusebius, Church History 3.1, citing Origen; Acts of Peter 37-38",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Mark wrote his Gospel from Peter's preaching as his interpreter.",
+    "source": "Papias, quoted in Eusebius, Church History 3.39.15",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His 'trophy' (tomb or memorial) could be seen on the Vatican hill.",
+    "source": "Gaius of Rome, quoted in Eusebius, Church History 2.25.7",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Peter founded the church at Antioch and served as its first bishop before Rome.",
+    "source": "Eusebius, Church History 3.36.2; Jerome, On Illustrious Men 1",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Blunt, eager and emotional, the first to speak and sometimes the first to regret it; a Galilean fisherman's plainness, later tempered into the warm pastoral voice of an elder who knows his own weakness.",
+  "refs": [
+   "Mark 1:16-18",
+   "Matt 16:13-23",
+   "Luke 22:31-34",
+   "Mark 14:66-72",
+   "John 21:15-19",
+   "Acts 2:14-41",
+   "Acts 10:1-48",
+   "Acts 15:6-11",
+   "Gal 1:18",
+   "Gal 2:7-14",
+   "1 Cor 15:5",
+   "1 Pet 1:1",
+   "2 Pet 1:1"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "1 Cor",
+   "Gal",
+   "1 Pet",
+   "2 Pet"
+  ]
+ },
+ {
+  "id": "andrew",
+  "names": {
+   "primary": "Andrew",
+   "original": "Greek Andreas",
+   "meaning": "'Manly', 'brave'",
+   "aliases": [
+    "Andrew the First-Called (Prōtoklētos)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 60,
+   "circa": true,
+   "confidence": "needs-verification",
+   "alternatives": [
+    {
+     "label": "Traditional date of martyrdom at Patras sometimes given as AD 60; other accounts c. AD 69",
+     "year": 69
+    }
+   ]
+  },
+  "nation": "Galilee",
+  "placeIds": [
+   "bethsaida",
+   "capernaum",
+   "sea-of-galilee",
+   "jordan-river",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "peter"
+   ]
+  },
+  "roles": [
+   "Apostle",
+   "Former disciple of John the Baptist"
+  ],
+  "occupations": [
+   "Fisherman"
+  ],
+  "skills": [
+   {
+    "name": "Fishing",
+    "refs": [
+     "Mark 1:16"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Bringing people to Jesus",
+    "refs": [
+     "John 1:40-42",
+     "John 6:8-9",
+     "John 12:20-22"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Follows Jesus from John the Baptist and brings Peter",
+    "year": 28,
+    "placeId": "jordan-river",
+    "refs": [
+     "John 1:35-42"
+    ],
+    "summary": "Hearing John call Jesus the Lamb of God, he follows Jesus, then finds his brother Simon and says, 'We have found the Messiah'."
+   },
+   {
+    "title": "Called with Peter by the lake",
+    "year": 28,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Mark 1:16-18",
+     "Matt 4:18-20"
+    ],
+    "summary": "Casting nets with Simon, he leaves them to follow Jesus."
+   },
+   {
+    "title": "Brings the boy with loaves and fish",
+    "year": 29,
+    "refs": [
+     "John 6:8-9"
+    ],
+    "summary": "At the feeding of the five thousand he points out a boy with five barley loaves and two fish."
+   },
+   {
+    "title": "Brings Greeks to Jesus",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 12:20-22"
+    ],
+    "summary": "With Philip he passes on the request of some Greeks who wish to see Jesus."
+   }
+  ],
+  "summary": "Andrew, Simon Peter's brother, was a fisherman from Bethsaida and an early disciple of John the Baptist. In John's Gospel he is the first named follower of Jesus and immediately brings Peter, which is why Eastern Christians call him the 'First-Called'. He is part of a wider inner group (Mark 13:3) and appears repeatedly as someone who introduces others to Jesus. Tradition sends him to the Black Sea region and Greece, where he was martyred at Patras.",
+  "textSays": "He shares a house with Peter in Capernaum (Mark 1:29), is listed among the Twelve (Mark 3:18; Acts 1:13), and asks Jesus privately about the temple's destruction (Mark 13:3).",
+  "interpretations": [
+   {
+    "tradition": "Orthodox",
+    "view": "The 'First-Called' and traditional founder of the church of Byzantium (Constantinople), giving the Ecumenical Patriarchate an apostolic link parallel to Rome's Peter."
+   },
+   {
+    "tradition": "Catholic and Protestant",
+    "view": "A model of quiet personal evangelism; patron of Scotland, Russia and Greece."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He preached in Scythia (around the Black Sea).",
+    "source": "Origen, quoted in Eusebius, Church History 3.1.1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was crucified at Patras in Achaia; the X-shaped (saltire) cross became his emblem only in the later Middle Ages.",
+    "source": "Acts of Andrew (2nd-3rd century); later medieval iconography",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Modest and observant, more comfortable introducing others than taking the stage; speaks simply and practically.",
+  "refs": [
+   "John 1:35-44",
+   "Mark 1:16-18",
+   "Mark 1:29",
+   "Mark 13:3",
+   "John 6:8-9",
+   "John 12:20-22",
+   "Matt 10:2",
+   "Acts 1:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "james-son-of-zebedee",
+  "names": {
+   "primary": "James son of Zebedee",
+   "original": "Hebrew Ya'akov; Greek Iakōbos",
+   "meaning": "'He grasps the heel' / 'supplanter' (as Jacob)",
+   "aliases": [
+    "James the Great (the Greater)",
+    "Boanerges (with John)",
+    "Santiago",
+    "Sant Iago"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 44,
+   "circa": true,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "AD 43 (some date Agrippa's persecution slightly earlier)",
+     "year": 43
+    }
+   ]
+  },
+  "nation": "Galilee",
+  "placeIds": [
+   "sea-of-galilee",
+   "capernaum",
+   "gethsemane",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "john-the-apostle"
+   ]
+  },
+  "roles": [
+   "Apostle",
+   "Member of the inner three",
+   "First apostolic martyr"
+  ],
+  "occupations": [
+   "Fisherman"
+  ],
+  "skills": [
+   {
+    "name": "Fishing and mending nets in his father's business",
+    "refs": [
+     "Mark 1:19-20",
+     "Luke 5:10"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Called from mending nets",
+    "year": 28,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Mark 1:19-20"
+    ],
+    "summary": "He and John leave their father Zebedee in the boat with the hired men to follow Jesus."
+   },
+   {
+    "title": "Named 'Sons of Thunder'",
+    "year": 28,
+    "refs": [
+     "Mark 3:17",
+     "Luke 9:51-56"
+    ],
+    "summary": "Jesus nicknames the brothers Boanerges; they later offer to call down fire on an unwelcoming Samaritan village and are rebuked."
+   },
+   {
+    "title": "Inner-circle witness",
+    "year": 29,
+    "refs": [
+     "Mark 5:37",
+     "Mark 9:2",
+     "Mark 14:33"
+    ],
+    "summary": "With Peter and John he sees the raising of Jairus' daughter, the Transfiguration and Jesus' anguish in Gethsemane."
+   },
+   {
+    "title": "Asks for a seat of glory",
+    "year": 30,
+    "refs": [
+     "Mark 10:35-45",
+     "Matt 20:20-28"
+    ],
+    "summary": "With John (and, in Matthew, their mother) he asks for places at Jesus' right and left; Jesus says they will drink his cup."
+   },
+   {
+    "title": "Executed by Herod Agrippa I",
+    "year": 44,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:1-2"
+    ],
+    "summary": "Killed with the sword, the first of the Twelve to be martyred, fulfilling Jesus' word about the cup."
+   }
+  ],
+  "summary": "James and his brother John were fishermen, sons of Zebedee, partners with Simon Peter. With Peter they formed Jesus' inner circle. Their fiery temperament earned them the name 'Sons of Thunder', and their ambition for places of honour provoked the other disciples. James was the first of the Twelve to die for his faith, executed by Herod Agrippa I around AD 44, the only apostle whose death is recorded in the New Testament. He is called 'the Great' to distinguish him from James son of Alphaeus.",
+  "textSays": "Matthew identifies their mother, who is probably the Salome of Mark 15:40 (compare Matt 27:56). Acts 12:2 records his death 'with the sword'.",
+  "interpretations": [
+   {
+    "tradition": "Spanish Catholic tradition",
+    "view": "James preached in Hispania and his remains were brought to Galicia, discovered c. 813 and enshrined at Santiago de Compostela, the great medieval pilgrimage."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "The Spanish mission is regarded as legendary, first attested in 7th-century sources and conflicting with Acts 12 and Rom 15:20-24; James' early martyrdom in Jerusalem is accepted."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "The man who brought James to trial was so moved by his testimony that he confessed faith and was beheaded with him.",
+    "source": "Clement of Alexandria, Hypotyposes 7, quoted in Eusebius, Church History 2.9.2-3",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He preached in Spain and his body rests at Santiago de Compostela.",
+    "source": "Breviarium Apostolorum (7th century); Compostela tradition from the 9th century",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Forceful and zealous, quick to anger at insult to his master; a man of action rather than reflection.",
+  "refs": [
+   "Mark 1:19-20",
+   "Mark 3:17",
+   "Mark 5:37",
+   "Mark 9:2",
+   "Mark 10:35-45",
+   "Mark 14:33",
+   "Luke 9:51-56",
+   "Acts 1:13",
+   "Acts 12:1-2"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "Acts"
+  ]
+ },
+ {
+  "id": "john-the-apostle",
+  "names": {
+   "primary": "John son of Zebedee",
+   "original": "Hebrew Yochanan; Greek Iōannēs",
+   "meaning": "'The LORD is gracious'",
+   "aliases": [
+    "John the Apostle",
+    "John the Evangelist",
+    "John the Theologian (Orthodox)",
+    "Boanerges (with James)",
+    "the beloved disciple (traditional identification)",
+    "John of Patmos (traditional identification)"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "born": {
+   "year": 6,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "If he lived to c. AD 100, a birth c. AD 5-10 is often assumed",
+     "year": 10
+    }
+   ]
+  },
+  "died": {
+   "year": 100,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "A minority view (citing a disputed Papias fragment) holds he was martyred early, like James",
+     "year": 44,
+     "source": "Philip of Side / George the Sinner citing Papias (needs-verification)"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 98,
+    "circa": true,
+    "confidence": "tradition"
+   }
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "sea-of-galilee",
+   "capernaum",
+   "jerusalem",
+   "gethsemane",
+   "golgotha",
+   "samaria",
+   "ephesus",
+   "patmos"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "james-son-of-zebedee"
+   ]
+  },
+  "roles": [
+   "Apostle",
+   "Member of the inner three",
+   "Pillar of the Jerusalem church",
+   "Traditional author of the Gospel of John, 1-3 John and Revelation"
+  ],
+  "occupations": [
+   "Fisherman"
+  ],
+  "skills": [
+   {
+    "name": "Fishing",
+    "refs": [
+     "Mark 1:19-20"
+    ]
+   },
+   {
+    "name": "Theological writing (traditional attribution)",
+    "refs": [
+     "John 21:24",
+     "Rev 1:1-2"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Visionary revelation (if author of Revelation)",
+    "refs": [
+     "Rev 1:9-11"
+    ]
+   },
+   {
+    "name": "Apostolic witness",
+    "refs": [
+     "1 John 1:1-3",
+     "Acts 4:19-20"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called with James",
+    "year": 28,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "Mark 1:19-20",
+     "Luke 5:10-11"
+    ],
+    "summary": "He leaves his father's boat to follow Jesus. Many think he is the unnamed disciple with Andrew in John 1:35-40."
+   },
+   {
+    "title": "Sons of Thunder",
+    "year": 29,
+    "refs": [
+     "Mark 3:17",
+     "Mark 9:38-41",
+     "Luke 9:51-56"
+    ],
+    "summary": "He tries to stop an outsider casting out demons in Jesus' name and offers to call fire on a Samaritan village; Jesus rebukes both impulses."
+   },
+   {
+    "title": "Witness of the Transfiguration and Gethsemane",
+    "year": 29,
+    "refs": [
+     "Mark 9:2-8",
+     "Mark 14:32-42"
+    ],
+    "summary": "Part of the inner three with Peter and James."
+   },
+   {
+    "title": "Prepares the Passover",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 22:7-13"
+    ],
+    "summary": "Sent with Peter to prepare the Last Supper."
+   },
+   {
+    "title": "The beloved disciple at the supper and cross",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "John 13:23-25",
+     "John 19:25-27"
+    ],
+    "summary": "The disciple 'whom Jesus loved' reclines next to Jesus, stands at the cross and receives Mary into his home. Tradition identifies him as John; the Gospel never names him."
+   },
+   {
+    "title": "Runs to the empty tomb",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 20:2-10"
+    ],
+    "summary": "The beloved disciple outruns Peter, sees the grave clothes and believes."
+   },
+   {
+    "title": "With Peter before the Sanhedrin",
+    "year": 31,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 3:1-11",
+     "Acts 4:13-20"
+    ],
+    "summary": "The council marvels that these uneducated, common men speak so boldly."
+   },
+   {
+    "title": "Mission to Samaria",
+    "year": 34,
+    "placeId": "samaria",
+    "refs": [
+     "Acts 8:14-25"
+    ],
+    "summary": "Sent with Peter to pray for Samaritan believers to receive the Spirit, reversing his earlier wish to burn a Samaritan village."
+   },
+   {
+    "title": "Recognized as a pillar",
+    "year": 49,
+    "placeId": "jerusalem",
+    "refs": [
+     "Gal 2:9"
+    ],
+    "summary": "With James and Cephas he gives Paul and Barnabas the right hand of fellowship."
+   },
+   {
+    "title": "Exile on Patmos (if the seer is the apostle)",
+    "year": 95,
+    "placeId": "patmos",
+    "refs": [
+     "Rev 1:9"
+    ],
+    "summary": "A John on Patmos 'on account of the word of God' receives the visions of Revelation; identification with the apostle is traditional but debated."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "capernaum",
+    "order": 1,
+    "year": 28,
+    "note": "Fishing partnership on the lake.",
+    "refs": [
+     "Mark 1:19-21"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "year": 30,
+    "note": "Passion, resurrection and leadership in the Jerusalem church.",
+    "refs": [
+     "Acts 3:1"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 3,
+    "year": 34,
+    "note": "Mission with Peter.",
+    "refs": [
+     "Acts 8:14"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 4,
+    "year": 70,
+    "note": "Tradition places his later life and death in Ephesus.",
+    "refs": [
+     "Rev 2:1"
+    ]
+   },
+   {
+    "placeId": "patmos",
+    "order": 5,
+    "year": 95,
+    "note": "Exile under Domitian according to tradition.",
+    "refs": [
+     "Rev 1:9"
+    ]
+   }
+  ],
+  "summary": "John, son of Zebedee and brother of James, was a Galilean fisherman who became one of Jesus' closest disciples. In the Synoptic Gospels he is ardent and sometimes intolerant, one of the 'Sons of Thunder', who wants to call down fire and seeks a seat of glory. In Acts he is Peter's companion in Jerusalem, and Paul names him one of the three pillars of the church.\n\nFrom the second century onward the church identified him with the anonymous 'disciple whom Jesus loved' in the Fourth Gospel, and credited him with that Gospel, three letters and the book of Revelation. Irenaeus, who knew Polycarp, says John lived in Ephesus into the reign of Trajan (from AD 98), the last surviving apostle. This picture of the aged apostle of love, exiled to Patmos and dying peacefully in Ephesus, became the classic one.\n\nModern scholarship is divided. Some defend the traditional identification; others see the beloved disciple as a different, Judean follower of Jesus, attribute the Johannine writings to a community or to 'John the Elder' mentioned by Papias, and separate the author of Revelation from the author of the Gospel, a distinction already made by Dionysius of Alexandria in the 3rd century.",
+  "textSays": "John is a son of Zebedee (Mark 1:19), nicknamed Boanerges (Mark 3:17), in the inner circle (Mark 5:37; Mark 9:2; Mark 14:33), and a pillar in Jerusalem (Gal 2:9). He is called unschooled and ordinary (Acts 4:13). The Fourth Gospel is attributed to 'the disciple whom Jesus loved' (John 21:20-24) but never names him; Revelation's author calls himself John (Rev 1:1; Rev 1:4; Rev 1:9); 2 and 3 John come from 'the elder' (2 John 1:1; 3 John 1:1).",
+  "interpretations": [
+   {
+    "tradition": "Catholic, Orthodox and traditional Protestant",
+    "view": "John the apostle is the beloved disciple and author of the Gospel, the letters and Revelation. The Orthodox call him 'the Theologian' for the depth of the Gospel's prologue. This view rests on Irenaeus (Against Heresies 3.1.1), internal eyewitness claims (John 19:35; John 21:24) and the Gospel's silence about John by name, read as modesty."
+   },
+   {
+    "tradition": "Critical scholarship (Johannine community)",
+    "view": "The Gospel grew in stages within a community shaped by a revered founder, the beloved disciple, who may not have been one of the Twelve; final editors added chapter 21. Revelation's style and Greek differ markedly, suggesting a different John."
+   },
+   {
+    "tradition": "Eyewitness-based alternative (e.g. Bauckham)",
+    "view": "The beloved disciple was a real eyewitness and the Gospel's author, but was 'John the Elder' of Papias, a Jerusalem disciple distinct from the son of Zebedee. This explains Judean focus and the absence of Synoptic John-scenes."
+   },
+   {
+    "tradition": "Ancient critical voice",
+    "view": "Dionysius of Alexandria accepted Revelation as inspired but argued from vocabulary and style that its author was not the evangelist (Eusebius, Church History 7.25)."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Devotion: stays at the cross (John 19:26)",
+    "Bold witness before the authorities (Acts 4:19-20)",
+    "Growth from 'thunder' to the apostle of love (1 John 4:7-8)"
+   ],
+   "failures": [
+    "Sectarian intolerance of an outside exorcist (Mark 9:38)",
+    "Desire to destroy a Samaritan village (Luke 9:54)",
+    "Ambition for status (Mark 10:35-37)",
+    "Fled with the others at the arrest (Mark 14:50)"
+   ],
+   "turningPoints": [
+    "Call from the boat (Mark 1:19-20)",
+    "Seeing the empty tomb and believing (John 20:8)",
+    "Ministry to Samaritans (Acts 8:14-25)"
+   ]
+  },
+  "context": "The family business with hired servants (Mark 1:20) suggests some means; John 18:15-16 says 'another disciple' known to the high priest gained access to his courtyard, which some identify with John. Ephesus, the leading city of Roman Asia, became a centre of Johannine tradition. Under Domitian (81-96) local pressure on Christians increased, the traditional setting for Revelation.",
+  "legacy": "The Gospel of John, with its 'I am' sayings and prologue on the Word made flesh, shaped Christian doctrine of the incarnation and Trinity more than any other book. The eagle is John's symbol. Polycarp of Smyrna and, through him, Irenaeus claimed a direct line back to John, an important link in early arguments about apostolic tradition.",
+  "traditions": [
+   {
+    "text": "John lived at Ephesus until the time of Trajan and was the teacher of Polycarp.",
+    "source": "Irenaeus, Against Heresies 2.22.5 and 3.3.4; Eusebius, Church History 3.23 and 5.20",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was exiled to Patmos under Domitian and returned to Ephesus after the emperor's death.",
+    "source": "Irenaeus, Against Heresies 5.30.3; Clement of Alexandria, Who Is the Rich Man 42; Eusebius, Church History 3.18 and 3.20",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He fled a bathhouse in Ephesus on learning the heretic Cerinthus was inside.",
+    "source": "Irenaeus, Against Heresies 3.3.4",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was plunged into boiling oil at Rome and emerged unharmed.",
+    "source": "Tertullian, Prescription Against Heretics 36",
+    "confidence": "tradition"
+   },
+   {
+    "text": "In extreme old age he would only repeat, 'Little children, love one another'.",
+    "source": "Jerome, Commentary on Galatians 6:10",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "In youth fiery and partisan; in the tradition of his old age, contemplative and spare, returning again and again to light, truth, abiding and love.",
+  "refs": [
+   "Mark 1:19-20",
+   "Mark 3:17",
+   "Mark 9:2-8",
+   "Mark 10:35-45",
+   "Luke 9:51-56",
+   "John 13:23-25",
+   "John 19:25-27",
+   "John 20:2-10",
+   "John 21:20-24",
+   "Acts 3:1-11",
+   "Acts 4:13-20",
+   "Acts 8:14-25",
+   "Gal 2:9",
+   "Rev 1:9"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Gal",
+   "1 John",
+   "2 John",
+   "3 John",
+   "Rev"
+  ]
+ },
+ {
+  "id": "philip-apostle",
+  "names": {
+   "primary": "Philip the Apostle",
+   "original": "Greek Philippos",
+   "meaning": "'Lover of horses'",
+   "aliases": [
+    "Philip of Bethsaida"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 80,
+   "circa": true,
+   "confidence": "needs-verification",
+   "alternatives": [
+    {
+     "label": "Dates for his death at Hierapolis vary widely (AD 54-80s)",
+     "year": 54
+    }
+   ]
+  },
+  "nation": "Galilee",
+  "placeIds": [
+   "bethsaida",
+   "sea-of-galilee",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Practical calculation",
+    "refs": [
+     "John 6:5-7"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Inviting others to 'come and see'",
+    "refs": [
+     "John 1:45-46"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called and brings Nathanael",
+    "year": 28,
+    "refs": [
+     "John 1:43-46"
+    ],
+    "summary": "Jesus finds Philip and says 'Follow me'; Philip tells Nathanael they have found the one Moses and the prophets wrote about, answering scepticism with 'Come and see'."
+   },
+   {
+    "title": "Tested at the feeding of the five thousand",
+    "year": 29,
+    "refs": [
+     "John 6:5-7"
+    ],
+    "summary": "Asked where to buy bread, he calculates that two hundred denarii would not be enough."
+   },
+   {
+    "title": "Brings Greeks to Jesus",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 12:20-22"
+    ],
+    "summary": "Greeks approach Philip (with his Greek name) asking to see Jesus; he tells Andrew."
+   },
+   {
+    "title": "'Show us the Father'",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 14:8-11"
+    ],
+    "summary": "At the Last Supper he asks to see the Father; Jesus replies that whoever has seen him has seen the Father."
+   }
+  ],
+  "summary": "Philip came from Bethsaida, the town of Andrew and Peter, and appears in every list of the Twelve. Only John's Gospel gives him a personality: a practical, sometimes literal-minded follower who invites Nathanael with 'Come and see', calculates the cost of bread for the crowd, relays the Greeks' request and asks Jesus to show them the Father. He should not be confused with Philip the evangelist of Acts 6 and 8, though early writers sometimes merged the two.",
+  "textSays": "Philip was from Bethsaida (John 1:44; John 12:21) and is fifth in every list of the Twelve (Matt 10:3; Mark 3:18; Luke 6:14; Acts 1:13).",
+  "interpretations": [
+   {
+    "tradition": "Early church",
+    "view": "Polycrates of Ephesus calls Philip 'one of the twelve apostles' buried at Hierapolis with his daughters, but the prophesying daughters belong to Philip the evangelist (Acts 21:8-9), so the two Philips may have been conflated early."
+   },
+   {
+    "tradition": "Modern devotional reading",
+    "view": "Philip models honest questions that Jesus answers with deeper revelation."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He died and was buried at Hierapolis in Phrygia; a martyrium was built there and a tomb identified by archaeologists in 2011.",
+    "source": "Polycrates of Ephesus, quoted in Eusebius, Church History 3.31.3 and 5.24.2",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was crucified (some accounts say upside down) at Hierapolis.",
+    "source": "Acts of Philip (4th century)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Straightforward and practical, thinking in numbers and plain requests; earnest rather than eloquent.",
+  "refs": [
+   "John 1:43-48",
+   "John 6:5-7",
+   "John 12:20-22",
+   "John 14:8-11",
+   "Mark 3:18",
+   "Acts 1:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "bartholomew",
+  "names": {
+   "primary": "Bartholomew",
+   "original": "Aramaic Bar-Talmai; Greek Bartholomaios",
+   "meaning": "'Son of Talmai' (a patronymic)",
+   "aliases": [
+    "Nathanael (traditional identification)",
+    "Nathanael of Cana",
+    "Nathanael son of Talmai"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "cana",
+   "sea-of-galilee",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Guileless honesty (as Nathanael)",
+    "refs": [
+     "John 1:47"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Named among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:3",
+     "Mark 3:18",
+     "Luke 6:14",
+     "Acts 1:13"
+    ],
+    "summary": "Listed in all four lists, always paired with Philip in the Synoptics."
+   },
+   {
+    "title": "Nathanael meets Jesus under the fig tree",
+    "year": 28,
+    "refs": [
+     "John 1:45-51"
+    ],
+    "summary": "Sceptical ('Can anything good come out of Nazareth?'), Nathanael is told he is an Israelite without deceit, seen under the fig tree, and confesses Jesus as Son of God and King of Israel."
+   },
+   {
+    "title": "At the lakeside appearance",
+    "year": 30,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "John 21:2"
+    ],
+    "summary": "Nathanael of Cana is among the seven disciples who see the risen Jesus by the Sea of Tiberias."
+   }
+  ],
+  "summary": "Bartholomew is a name found only in the lists of the Twelve, and it is a patronymic ('son of Talmai'), implying he had another personal name. Since the 9th century, and widely today, he has been identified with Nathanael, whom Philip brought to Jesus in John 1. The case is circumstantial: John never mentions Bartholomew, the Synoptics never mention Nathanael, Bartholomew follows Philip in the Synoptic lists, and Nathanael appears among disciples in John 21:2. Not all scholars accept the identification.",
+  "textSays": "Nathanael came from Cana in Galilee (John 21:2) and was called 'an Israelite indeed, in whom is no guile' (John 1:47). Bartholomew appears only in name lists.",
+  "interpretations": [
+   {
+    "tradition": "Traditional (Western and Eastern)",
+    "view": "Bartholomew and Nathanael are one person, combining a patronymic with a personal name."
+   },
+   {
+    "tradition": "Sceptical view",
+    "view": "Nathanael may not have been one of the Twelve at all; John's Gospel names disciples outside the Twelve, and the identification is a harmonizing inference."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He preached in India, where Pantaenus later found a Hebrew Gospel of Matthew left by him.",
+    "source": "Eusebius, Church History 5.10.3",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was flayed alive and beheaded in Armenia; the Armenian Apostolic Church honours him with Thaddaeus as its founder.",
+    "source": "Armenian church tradition; Jacobus de Voragine, Golden Legend (13th century)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "As Nathanael: frank to the point of bluntness, sceptical at first, then wholehearted once convinced.",
+  "refs": [
+   "Matt 10:3",
+   "Mark 3:18",
+   "Luke 6:14",
+   "Acts 1:13",
+   "John 1:45-51",
+   "John 21:2"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "thomas",
+  "names": {
+   "primary": "Thomas",
+   "original": "Aramaic Te'oma; Greek Thōmas, Didymos",
+   "meaning": "'Twin' (both Thomas and Didymus mean twin)",
+   "aliases": [
+    "Didymus",
+    "Judas Thomas (Syriac tradition)",
+    "Doubting Thomas",
+    "Mar Thoma"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 72,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "Other traditional dates c. AD 53-68",
+     "year": 68
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 72,
+    "circa": true,
+    "confidence": "tradition"
+   }
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "sea-of-galilee",
+   "bethany",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle",
+   "Traditional apostle to Parthia and India"
+  ],
+  "occupations": [
+   "Fisherman (implied by John 21:2-3)"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Courageous loyalty",
+    "refs": [
+     "John 11:16"
+    ]
+   },
+   {
+    "name": "Confession of Christ's divinity",
+    "refs": [
+     "John 20:28"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Chosen among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:3",
+     "Mark 3:18",
+     "Luke 6:15",
+     "Acts 1:13"
+    ],
+    "summary": "Listed in every list; in Matthew paired with Matthew, in Acts with Philip and Bartholomew."
+   },
+   {
+    "title": "'Let us also go, that we may die with him'",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:7-16"
+    ],
+    "summary": "When Jesus resolves to return to Judea where he had been threatened with stoning, Thomas urges the others to go and die with him."
+   },
+   {
+    "title": "'How can we know the way?'",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 14:1-7"
+    ],
+    "summary": "His honest question prompts Jesus' saying 'I am the way, and the truth, and the life'."
+   },
+   {
+    "title": "Absent and unbelieving",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 20:24-25"
+    ],
+    "summary": "Missing from the first appearance to the disciples, he refuses to believe unless he sees and touches the wounds."
+   },
+   {
+    "title": "'My Lord and my God'",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 20:26-29"
+    ],
+    "summary": "A week later Jesus invites him to touch his wounds; Thomas makes the Gospel's highest confession. Jesus blesses those who believe without seeing."
+   },
+   {
+    "title": "At the lakeside appearance",
+    "year": 30,
+    "placeId": "sea-of-galilee",
+    "refs": [
+     "John 21:1-3"
+    ],
+    "summary": "Goes fishing with Peter and others and sees the risen Jesus."
+   },
+   {
+    "title": "In the upper room before Pentecost",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:13-14"
+    ],
+    "summary": "Listed among the apostles devoted to prayer."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "bethany",
+    "order": 1,
+    "year": 30,
+    "note": "Accompanies Jesus to Lazarus' tomb despite danger.",
+    "refs": [
+     "John 11:16"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "year": 30,
+    "note": "Last Supper and resurrection appearance.",
+    "refs": [
+     "John 20:26"
+    ]
+   },
+   {
+    "placeId": "sea-of-galilee",
+    "order": 3,
+    "year": 30,
+    "note": "Lakeside appearance.",
+    "refs": [
+     "John 21:2"
+    ]
+   }
+  ],
+  "summary": "Thomas, called Didymus ('the Twin'), is a name in the Synoptic lists of the Twelve, but in John's Gospel he becomes a vivid character: courageous enough to propose dying with Jesus, honest enough to admit he does not know the way, and stubborn enough to refuse belief in the resurrection without evidence. His encounter with the risen Jesus produces the climactic confession of John's Gospel, 'My Lord and my God'.\n\nWestern Christianity remembers him as 'doubting Thomas'; Eastern Christianity tends to celebrate his confession on 'Thomas Sunday' after Easter. Both readings draw on the same text: honest doubt that is met and answered.\n\nThomas has a remarkable afterlife in tradition. The Syriac-speaking church called him Judas Thomas and credited him with evangelizing Edessa (through Addai), Parthia and India. The St Thomas Christians of Kerala trace their origins to his arrival in AD 52 and his martyrdom near Mylapore (Chennai). The Gospel of Thomas and the Acts of Thomas bear his name but come from the 2nd-3rd centuries.",
+  "textSays": "Thomas is called Didymus (John 11:16; John 20:24; John 21:2). He speaks three times in John (John 11:16; John 14:5; John 20:25-28). He declares Jesus 'my Lord and my God' (John 20:28). Nothing is said in the New Testament about his later life.",
+  "interpretations": [
+   {
+    "tradition": "Western (Catholic and Protestant)",
+    "view": "'Doubting Thomas' is a cautionary and consoling figure: doubt is understandable, but blessed are those who believe without seeing (John 20:29). Many Protestant interpreters stress that his confession is the clearest New Testament statement of Christ's deity."
+   },
+   {
+    "tradition": "Eastern Orthodox and Syriac",
+    "view": "Celebrated on the Sunday after Pascha for his confession; his 'unbelief' is seen as providential, confirming the bodily reality of the resurrection for all (Gregory the Great also argued this in the West)."
+   },
+   {
+    "tradition": "St Thomas Christians of India",
+    "view": "Revere him as their founding apostle who landed in Kerala in AD 52, founded seven churches and was martyred at Mylapore; their liturgical tradition is East Syriac."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "An Indian mission is not impossible given Roman trade routes to the Malabar coast, but the evidence is late and legendary in form. Some see John's Thomas episodes as a narrative device addressing later believers who had not seen Jesus."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Loyal courage (John 11:16)",
+    "Honesty in questioning (John 14:5)",
+    "Full confession once convinced (John 20:28)"
+   ],
+   "failures": [
+    "Refused the testimony of the other disciples (John 20:25)"
+   ],
+   "turningPoints": [
+    "The second appearance in the locked room (John 20:26-29)"
+   ]
+  },
+  "context": "Roman trade with India through Red Sea ports was flourishing in the 1st century (the Periplus of the Erythraean Sea describes it), and coins of the Indo-Parthian king Gondophares, named in the Acts of Thomas, have been found, giving the legend a plausible setting.",
+  "legacy": "'Doubting Thomas' entered common speech, and Caravaggio's painting of Thomas touching the wound is one of the most famous images of the resurrection. In India, the Syro-Malabar, Malankara and Mar Thoma churches all claim his heritage, and the San Thome Basilica in Chennai stands over his traditional tomb.",
+  "traditions": [
+   {
+    "text": "Thomas was allotted Parthia as his mission field.",
+    "source": "Origen, quoted in Eusebius, Church History 3.1.1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He went to India under King Gondophares, worked as a builder, and was martyred by spearing.",
+    "source": "Acts of Thomas (Syriac, early 3rd century)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He sent Addai (Thaddaeus) to King Abgar of Edessa.",
+    "source": "Eusebius, Church History 1.13",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His relics were brought to Edessa and later to Ortona in Italy.",
+    "source": "Ephrem the Syrian, Carmina Nisibena 42 (needs-verification); Ortona tradition from 1258",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Candid, pragmatic and a little fatalistic; asks the question everyone else is thinking and refuses to pretend, but once convinced speaks with total commitment.",
+  "refs": [
+   "Matt 10:3",
+   "Mark 3:18",
+   "Luke 6:15",
+   "John 11:16",
+   "John 14:5-7",
+   "John 20:24-29",
+   "John 21:2",
+   "Acts 1:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "matthew",
+  "names": {
+   "primary": "Matthew",
+   "original": "Hebrew Mattityahu; Greek Maththaios",
+   "meaning": "'Gift of the LORD'",
+   "aliases": [
+    "Levi",
+    "Levi son of Alphaeus",
+    "Matthew the tax collector",
+    "Matthew the Evangelist"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "capernaum",
+   "sea-of-galilee",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle",
+   "Traditional author of the Gospel of Matthew"
+  ],
+  "occupations": [
+   "Tax/toll collector (telōnēs)"
+  ],
+  "skills": [
+   {
+    "name": "Record-keeping and finance",
+    "refs": [
+     "Matt 9:9"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Hospitality to outsiders",
+    "refs": [
+     "Luke 5:29"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called from the tax booth",
+    "year": 28,
+    "placeId": "capernaum",
+    "refs": [
+     "Matt 9:9",
+     "Mark 2:14",
+     "Luke 5:27-28"
+    ],
+    "summary": "Sitting at his toll booth, he is told 'Follow me', and rises, leaving everything."
+   },
+   {
+    "title": "Banquet for tax collectors and sinners",
+    "year": 28,
+    "placeId": "capernaum",
+    "refs": [
+     "Luke 5:29-32",
+     "Matt 9:10-13"
+    ],
+    "summary": "He hosts a great feast for Jesus; Pharisees object, and Jesus says he came to call sinners, not the righteous."
+   },
+   {
+    "title": "Listed among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:3",
+     "Mark 3:18",
+     "Luke 6:15",
+     "Acts 1:13"
+    ],
+    "summary": "Only Matthew's list labels him 'the tax collector'."
+   }
+  ],
+  "summary": "Matthew was a toll collector at Capernaum, collecting duties on goods for Herod Antipas, a job that made him a social outcast to many devout Jews. Mark and Luke tell the same call story about 'Levi son of Alphaeus', while the First Gospel names him Matthew, so most readers take Levi and Matthew to be one man with two names. Since the early 2nd century the church has attributed the First Gospel to him, though the Gospel itself is anonymous and many modern scholars think it was composed later in Greek, using Mark.",
+  "textSays": "The First Gospel calls the tax collector Matthew (Matt 9:9) and lists 'Matthew the tax collector' (Matt 10:3); Mark and Luke call him Levi son of Alphaeus (Mark 2:14; Luke 5:27).",
+  "interpretations": [
+   {
+    "tradition": "Traditional (patristic, Catholic, Orthodox, many Protestants)",
+    "view": "Matthew wrote the Gospel bearing his name, first for Jewish Christians. Papias says he arranged the 'oracles' in the Hebrew (Aramaic) language, and Irenaeus that he wrote while Peter and Paul preached in Rome."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The Gospel was composed in Greek c. AD 80-90 and depends on Mark, which seems unlikely for an eyewitness apostle; the name may reflect tradition about sources (such as sayings collections) connected with Matthew. Some identify Levi and Matthew as different people."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Matthew compiled the sayings (logia) in the Hebrew dialect.",
+    "source": "Papias, quoted in Eusebius, Church History 3.39.16",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He wrote a Gospel among the Hebrews in their own language.",
+    "source": "Irenaeus, Against Heresies 3.1.1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He preached in Ethiopia (or Persia) and died a martyr; the Western church honours him as a martyr, though Clement of Alexandria knew no martyrdom.",
+    "source": "Rufinus and Socrates Scholasticus on Ethiopia; Golden Legend (needs-verification on specific locators)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Orderly and precise, a man used to ledgers who now collects the sayings of Jesus; grateful and unpretentious about his past.",
+  "refs": [
+   "Matt 9:9-13",
+   "Mark 2:14-17",
+   "Luke 5:27-32",
+   "Matt 10:3",
+   "Acts 1:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "Acts"
+  ]
+ },
+ {
+  "id": "james-son-of-alphaeus",
+  "names": {
+   "primary": "James son of Alphaeus",
+   "original": "Greek Iakōbos ho tou Alphaiou",
+   "meaning": "'He grasps the heel'",
+   "aliases": [
+    "James the Less (possible identification)",
+    "James the Younger (possible identification)"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Listed among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:3",
+     "Mark 3:18",
+     "Luke 6:15",
+     "Acts 1:13"
+    ],
+    "summary": "Ninth in every list; nothing else is recorded about him by name."
+   }
+  ],
+  "summary": "James son of Alphaeus appears only in the lists of the Twelve. He is often identified with 'James the less' (or 'the younger'), son of a Mary present at the crucifixion (Mark 15:40), and Western tradition following Jerome sometimes also identified him with James the brother of the Lord. Both identifications are debated. If Matthew's father Alphaeus (Mark 2:14) is the same man, he and Matthew were brothers, but the Gospels never say so.",
+  "textSays": "He is called 'son of Alphaeus' in each list (Matt 10:3; Mark 3:18; Luke 6:15; Acts 1:13).",
+  "traditions": [
+   {
+    "text": "Identified with James the brother of the Lord, making 'brothers' of Jesus his cousins.",
+    "source": "Jerome, Against Helvidius 13-15",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Quiet and unassuming, one of the apostles known chiefly by his faithful presence.",
+  "refs": [
+   "Matt 10:3",
+   "Mark 3:18",
+   "Luke 6:15",
+   "Acts 1:13",
+   "Mark 15:40"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "Acts"
+  ]
+ },
+ {
+  "id": "thaddaeus",
+  "names": {
+   "primary": "Thaddaeus",
+   "original": "Greek Thaddaios",
+   "meaning": "Uncertain; possibly 'breast' or 'courageous heart' (Aramaic tad)",
+   "aliases": [
+    "Judas son of James",
+    "Judas (not Iscariot)",
+    "Lebbaeus (in some manuscripts of Matthew)",
+    "Jude the Apostle",
+    "Saint Jude"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Listed among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:3",
+     "Mark 3:18",
+     "Luke 6:16",
+     "Acts 1:13"
+    ],
+    "summary": "Mark and Matthew name Thaddaeus; Luke and Acts have Judas son of James in the same position."
+   },
+   {
+    "title": "Asks why Jesus reveals himself to the disciples and not the world",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 14:22-24"
+    ],
+    "summary": "'Judas (not Iscariot)' asks this at the Last Supper; Jesus answers that he and the Father will make their home with those who love him."
+   }
+  ],
+  "summary": "Thaddaeus (Mark, Matthew) and Judas son of James (Luke, Acts) occupy the same slot in the apostolic lists and are usually taken as one person, the double name perhaps helping to distinguish him from Judas Iscariot. His only recorded words are a question at the Last Supper. Western devotion knows him as St Jude, patron of lost causes; he is distinct from Jude the brother of Jesus, though some traditions merged them.",
+  "textSays": "Luke calls him 'Judas of James' (Luke 6:16; Acts 1:13), which most translate 'son of James'; the KJV's 'brother of James' is a less likely reading.",
+  "traditions": [
+   {
+    "text": "Western tradition sends him with Simon the Zealot to Persia, where both were martyred.",
+    "source": "Jacobus de Voragine, Golden Legend; Western liturgical feast of Sts Simon and Jude (28 October)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Armenian tradition honours Thaddaeus as co-founder of its church; Syriac tradition's Addai of Edessa was called Thaddaeus, though Eusebius counts him one of the Seventy.",
+    "source": "Eusebius, Church History 1.13; Armenian church tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Curious and sincere, asking short honest questions rather than making speeches.",
+  "refs": [
+   "Matt 10:3",
+   "Mark 3:18",
+   "Luke 6:16",
+   "Acts 1:13",
+   "John 14:22"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "simon-the-zealot",
+  "names": {
+   "primary": "Simon the Zealot",
+   "original": "Greek Simōn ho zēlōtēs / ho Kananaios",
+   "meaning": "'Zealot'; Kananaios is from Aramaic qan'ana, 'zealous' (not 'from Canaan' or 'from Cana')",
+   "aliases": [
+    "Simon the Cananaean",
+    "Simon the Canaanite (KJV)"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Listed among the Twelve",
+    "year": 28,
+    "refs": [
+     "Matt 10:4",
+     "Mark 3:18",
+     "Luke 6:15",
+     "Acts 1:13"
+    ],
+    "summary": "Distinguished from Simon Peter by his epithet."
+   }
+  ],
+  "summary": "Simon is known only by his epithet: 'the Zealot' in Luke and Acts, 'the Cananaean' (from the Aramaic for zealous) in Mark and Matthew. The term may mean he was zealous for the Law, or that he had links to revolutionary nationalism, though the organized Zealot party is attested by Josephus only from the Jewish War (AD 66-70). Either way, his presence alongside a tax collector like Matthew shows the diversity of the Twelve.",
+  "textSays": "He is listed among the Twelve with the epithets Kananaios (Matt 10:4; Mark 3:18) and Zealot (Luke 6:15; Acts 1:13).",
+  "traditions": [
+   {
+    "text": "He preached in Egypt and Persia (or Britain in some legends) and was martyred with Jude, by tradition sawn in two.",
+    "source": "Golden Legend; Western feast of Sts Simon and Jude (needs-verification on earliest source)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Intense and principled, a man of strong convictions redirected toward the kingdom of God.",
+  "refs": [
+   "Matt 10:4",
+   "Mark 3:18",
+   "Luke 6:15",
+   "Acts 1:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "Acts"
+  ]
+ },
+ {
+  "id": "judas-iscariot",
+  "names": {
+   "primary": "Judas Iscariot",
+   "original": "Hebrew Yehudah; Greek Ioudas Iskariōtēs",
+   "meaning": "Judas = 'praised'; Iscariot most likely 'man of Kerioth' (a town in Judea), alternatively from sicarius ('dagger-man') or Aramaic for 'false one' (debated)",
+   "aliases": [
+    "Judas son of Simon Iscariot",
+    "the betrayer"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "died": {
+   "year": 30,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "AD 33, on the later crucifixion chronology",
+     "year": 33
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 30,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "AD 33",
+      "year": 33
+     }
+    ]
+   }
+  ],
+  "nation": "Judea (if 'man of Kerioth')",
+  "placeIds": [
+   "jerusalem",
+   "bethany",
+   "gethsemane"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Apostle",
+   "Treasurer of the Twelve",
+   "Betrayer of Jesus"
+  ],
+  "occupations": [
+   "Keeper of the common purse"
+  ],
+  "skills": [
+   {
+    "name": "Managing money",
+    "refs": [
+     "John 12:6",
+     "John 13:29"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Sent out with authority like the other Twelve",
+    "refs": [
+     "Matt 10:1-8"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Chosen as one of the Twelve",
+    "year": 28,
+    "refs": [
+     "Mark 3:13-19",
+     "Luke 6:16"
+    ],
+    "summary": "Always listed last, already marked as the one who betrayed him."
+   },
+   {
+    "title": "Foreshadowing in John",
+    "year": 29,
+    "refs": [
+     "John 6:70-71"
+    ],
+    "summary": "Jesus says one of the Twelve is 'a devil', and John explains he meant Judas."
+   },
+   {
+    "title": "Objects to Mary's anointing",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 12:1-8"
+    ],
+    "summary": "He protests that the ointment could have been sold for the poor; John adds that he was a thief who helped himself from the money bag."
+   },
+   {
+    "title": "Bargains with the chief priests",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Matt 26:14-16",
+     "Mark 14:10-11",
+     "Luke 22:3-6"
+    ],
+    "summary": "He offers to hand Jesus over and is promised money; Matthew specifies thirty pieces of silver (compare Zech 11:12). Luke and John say Satan entered him."
+   },
+   {
+    "title": "At the Last Supper",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 13:21-30",
+     "Matt 26:20-25"
+    ],
+    "summary": "Jesus announces a betrayer and gives Judas the morsel; Judas goes out, 'and it was night'."
+   },
+   {
+    "title": "Betrays Jesus with a kiss",
+    "year": 30,
+    "placeId": "gethsemane",
+    "refs": [
+     "Mark 14:43-46",
+     "Luke 22:47-48",
+     "John 18:2-5"
+    ],
+    "summary": "He leads an armed crowd from the chief priests to Gethsemane and identifies Jesus with a kiss."
+   },
+   {
+    "title": "Remorse and death (Matthew)",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Matt 27:3-10"
+    ],
+    "summary": "Seeing Jesus condemned, he returns the silver, saying he has betrayed innocent blood, and hangs himself; the priests buy a potter's field with the money."
+   },
+   {
+    "title": "Death and the Field of Blood (Acts)",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:16-20"
+    ],
+    "summary": "Peter's speech says Judas acquired a field, fell headlong and burst open; the field was called Akeldama."
+   },
+   {
+    "title": "Replaced by Matthias",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:21-26"
+    ],
+    "summary": "The apostles cast lots to fill the place Judas left 'to go to his own place'."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "bethany",
+    "order": 1,
+    "year": 30,
+    "note": "Objects to the anointing.",
+    "refs": [
+     "John 12:4-6"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "year": 30,
+    "note": "Deal with the chief priests; Last Supper.",
+    "refs": [
+     "Mark 14:10-11"
+    ]
+   },
+   {
+    "placeId": "gethsemane",
+    "order": 3,
+    "year": 30,
+    "note": "Betrayal.",
+    "refs": [
+     "John 18:2-3"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 4,
+    "year": 30,
+    "note": "Returns the money; death.",
+    "refs": [
+     "Matt 27:3-5"
+    ]
+   }
+  ],
+  "summary": "Judas Iscariot, son of Simon Iscariot, was one of the Twelve chosen by Jesus, trusted with the group's money, and sent out to preach and heal like the others. He is remembered for one act: handing Jesus over to the chief priests in Gethsemane, identifying him with a kiss, for which Matthew says he received thirty pieces of silver.\n\nThe Gospels give overlapping explanations rather than one motive: greed (Matt 26:15; John 12:6), Satan entering him (Luke 22:3; John 13:27), and the fulfilment of Scripture (Ps 41:9; John 13:18). His end is told twice. Matthew says he hanged himself in remorse and the priests bought a potter's field; Acts says he fell headlong in a field he acquired. Interpreters have harmonized these (he hanged himself and the body later fell) or treated them as independent traditions.\n\nWhy Judas did it has fascinated readers ever since. Proposals range from disillusionment with a Messiah who would not fight, to an attempt to force Jesus' hand, to simple avarice. The 2nd-century Gospel of Judas even presents him as the only disciple who understood Jesus, a reading far removed from the canonical accounts.",
+  "textSays": "Judas is 'one of the Twelve' (Mark 14:10), the son of Simon Iscariot (John 6:71), the keeper of the money bag and a thief (John 12:6). Jesus foreknew the betrayal (John 6:64; Mark 14:18-21) and said it would have been better for that man not to have been born (Mark 14:21). After the betrayal Matthew records his remorse (Matt 27:3-4). Jesus calls him 'the son of destruction' (John 17:12), and Acts says he went 'to his own place' (Acts 1:25).",
+  "interpretations": [
+   {
+    "tradition": "Mainstream Christian (Catholic, Orthodox, Protestant)",
+    "view": "Judas freely chose betrayal, moved by greed and yielding to Satan, while God's sovereign purpose worked through the event to accomplish redemption (Acts 2:23). His despair is contrasted with Peter's repentance: both failed, but one returned to Jesus. Many have regarded him as lost, citing Mark 14:21 and John 17:12, though the Catholic Church has never declared any individual damned."
+   },
+   {
+    "tradition": "Modern theological reappraisal",
+    "view": "Karl Barth (Church Dogmatics II/2) treated Judas as the representative rejected one for whom Christ was also handed over; others note that paradidōmi means 'hand over' and that the Gospels' portrait darkens over time (Mark to John)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "The betrayal by an insider is widely accepted as historical, since the early church would hardly invent it. His motive is unknown; the differing death accounts reflect separate traditions, both tying his end to a field called Akeldama."
+   },
+   {
+    "tradition": "Gnostic (Gospel of Judas)",
+    "view": "A 2nd-century Sethian text (known to Irenaeus, recovered in a 3rd-4th century Coptic copy published in 2006) portrays Judas as receiving secret knowledge and as releasing Jesus' spirit from his body. It reveals 2nd-century Gnostic thought, not the historical Judas."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Trusted with the common fund (John 13:29)",
+    "Shared in the mission of the Twelve (Matt 10:1-5)"
+   ],
+   "failures": [
+    "Theft from the common purse (John 12:6)",
+    "Betrayal for money (Matt 26:14-16)",
+    "Despair rather than return (Matt 27:5)"
+   ],
+   "turningPoints": [
+    "The anointing at Bethany, immediately followed in Mark by his approach to the priests (Mark 14:3-11)",
+    "Satan entering him at the supper (John 13:27)",
+    "Seeing Jesus condemned (Matt 27:3)"
+   ]
+  },
+  "context": "Thirty shekels was the price of a slave in Exod 21:32 and the wage thrown to the potter in Zech 11:12-13, which Matthew cites (attributing it to Jeremiah, perhaps combining Jer 32:6-9). The chief priests needed a discreet way to arrest Jesus away from the Passover crowds (Mark 14:1-2); an insider could tell them where he would be at night.",
+  "legacy": "Judas' name became a byword for traitor in many languages, and 'thirty pieces of silver' and 'a Judas kiss' are proverbial. Medieval depictions often gave him exaggerated stereotypically Jewish features, contributing to Christian antisemitism, a legacy modern churches have repudiated. Dante places him in the lowest circle of the Inferno.",
+  "traditions": [
+   {
+    "text": "Judas swelled grotesquely before dying on his own land, which remained desolate and foul-smelling.",
+    "source": "Papias, Exposition of the Sayings of the Lord book 4, fragment preserved by Apollinaris of Laodicea",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The 'Field of Blood' (Akeldama) is located in the Hinnom Valley south of Jerusalem, where a monastery later stood.",
+    "source": "Jerome, On the Sites and Names of Hebrew Places (Onomasticon translation); later pilgrim tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Calculating, guarded and quick to sound principled about money and the poor; resentful underneath, later collapsing into anguished regret.",
+  "refs": [
+   "Mark 3:19",
+   "John 6:70-71",
+   "John 12:4-6",
+   "Matt 26:14-16",
+   "Mark 14:10-11",
+   "Luke 22:3-6",
+   "John 13:21-30",
+   "Mark 14:43-46",
+   "Matt 27:3-10",
+   "Acts 1:16-26",
+   "Ps 41:9"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "mary-magdalene",
+  "names": {
+   "primary": "Mary Magdalene",
+   "original": "Greek Maria hē Magdalēnē",
+   "meaning": "'Mary of Magdala' (Magdala from Hebrew/Aramaic migdal, 'tower')",
+   "aliases": [
+    "Mary of Magdala",
+    "Apostle to the Apostles",
+    "Equal-to-the-Apostles (Orthodox)",
+    "Myrrh-bearer"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 28,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 30,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "AD 33",
+      "year": 33
+     }
+    ]
+   }
+  ],
+  "nation": "Galilee",
+  "placeIds": [
+   "magdala",
+   "sea-of-galilee",
+   "jerusalem",
+   "golgotha",
+   "ephesus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Disciple",
+   "Patron of Jesus' ministry",
+   "First witness of the resurrection"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Financial support of the mission",
+    "refs": [
+     "Luke 8:2-3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faithful witness",
+    "refs": [
+     "John 20:18",
+     "Mark 15:40-41"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Freed from seven demons",
+    "year": 28,
+    "placeId": "magdala",
+    "refs": [
+     "Luke 8:1-3",
+     "Mark 16:9"
+    ],
+    "summary": "Healed by Jesus, she travels with him and the Twelve and, with Joanna, Susanna and others, supports them from her own means."
+   },
+   {
+    "title": "Watches the crucifixion",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "Mark 15:40-41",
+     "Matt 27:55-56",
+     "John 19:25"
+    ],
+    "summary": "She is named first among the women from Galilee who watch when the male disciples have fled."
+   },
+   {
+    "title": "Sees where Jesus is buried",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 15:47",
+     "Matt 27:61"
+    ],
+    "summary": "She and 'the other Mary' see the tomb and how the body is laid."
+   },
+   {
+    "title": "Finds the tomb empty",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 16:1-8",
+     "Luke 24:1-11",
+     "John 20:1-2"
+    ],
+    "summary": "Coming at dawn with spices, she finds the stone rolled away; in Luke her report seems to the apostles an 'idle tale'."
+   },
+   {
+    "title": "Meets the risen Jesus",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 20:11-17",
+     "Matt 28:8-10"
+    ],
+    "summary": "Weeping by the tomb, she mistakes Jesus for the gardener until he calls her by name; she answers 'Rabboni'."
+   },
+   {
+    "title": "Sent to tell the disciples",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 20:17-18"
+    ],
+    "summary": "Jesus sends her to his brothers; she announces 'I have seen the Lord'."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "magdala",
+    "order": 1,
+    "note": "Home town on the western shore of the Sea of Galilee.",
+    "refs": [
+     "Luke 8:2"
+    ]
+   },
+   {
+    "placeId": "sea-of-galilee",
+    "order": 2,
+    "year": 28,
+    "note": "Travels with Jesus through Galilean towns.",
+    "refs": [
+     "Luke 8:1"
+    ]
+   },
+   {
+    "placeId": "golgotha",
+    "order": 3,
+    "year": 30,
+    "note": "At the cross.",
+    "refs": [
+     "Mark 15:40"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 4,
+    "year": 30,
+    "note": "Burial, empty tomb and resurrection appearance.",
+    "refs": [
+     "John 20:1"
+    ]
+   }
+  ],
+  "summary": "Mary Magdalene came from Magdala, a fishing town on the Sea of Galilee. Luke says Jesus had freed her from seven demons, and that she and other women travelled with Jesus and the Twelve, supporting them financially. She is named in all four Gospels at the crucifixion, at the burial, and at the empty tomb, usually first among the women, which suggests she was prominent among Jesus' followers.\n\nIn John's Gospel she is the first person to see the risen Jesus and is sent to tell the disciples, which led early writers to call her 'apostle to the apostles'. Nothing in the New Testament says she was a prostitute or married to Jesus. The 'penitent prostitute' image arose in the West when Pope Gregory the Great (591) merged her with the sinful woman of Luke 7 and with Mary of Bethany; Eastern churches never made this identification, and the Catholic Church quietly separated them in its 1969 calendar reform.\n\nRecent interest, fuelled by Gnostic texts such as the Gospel of Mary and the Gospel of Philip and by popular fiction, has made her a focus of debates about women's leadership in early Christianity.",
+  "textSays": "She was healed of seven demons (Luke 8:2; Mark 16:9), supported Jesus' ministry (Luke 8:3), followed from Galilee and watched the crucifixion (Mark 15:40-41), saw the burial (Mark 15:47), came to the tomb (Matt 28:1; Mark 16:1; Luke 24:10; John 20:1), and was the first to see the risen Jesus according to John 20:14-18 and Mark 16:9 (the longer ending, absent from the earliest manuscripts).",
+  "interpretations": [
+   {
+    "tradition": "Western medieval Catholic",
+    "view": "Following Gregory the Great (Homily 33 on the Gospels), she was identified with the sinful woman who anointed Jesus (Luke 7:36-50) and with Mary of Bethany, becoming the great model of the repentant sinner. This view shaped centuries of art and devotion."
+   },
+   {
+    "tradition": "Eastern Orthodox",
+    "view": "Always distinguished her from the sinful woman and Mary of Bethany; she is honoured as a Myrrh-bearer and 'Equal-to-the-Apostles' for proclaiming the resurrection."
+   },
+   {
+    "tradition": "Modern Catholic and Protestant",
+    "view": "Most now reject the conflation as unsupported by the text. In 2016 the Catholic Church raised her memorial to a feast, calling her 'apostle of the apostles'. Protestants emphasize her as the first resurrection witness and a model of devoted discipleship."
+   },
+   {
+    "tradition": "Critical and feminist scholarship",
+    "view": "Sees her as a leading disciple whose role was minimized in later tradition; Gnostic texts reflect 2nd-century debates over her authority versus Peter's. Claims that she was Jesus' wife have no early evidence; the Gospel of Philip's 'companion' passage is fragmentary and late."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Gratitude expressed in costly support (Luke 8:3)",
+    "Courageous loyalty at the cross and tomb (Mark 15:40-47)",
+    "First proclaimer of the resurrection (John 20:18)"
+   ],
+   "failures": [
+    "Initially assumes the body has been stolen (John 20:2; John 20:13)"
+   ],
+   "turningPoints": [
+    "Deliverance from seven demons (Luke 8:2)",
+    "Hearing her name at the tomb (John 20:16)"
+   ]
+  },
+  "context": "Magdala (Migdal), excavated since 2009, had a 1st-century synagogue and a fish-processing industry. Women travelling with a teacher and funding him was unusual but not unheard of among well-off women; Joanna, wife of Herod's steward Chuza, was among them (Luke 8:3). The testimony of women carried less legal weight in Jewish and Roman settings, which many historians see as a sign that the women-at-the-tomb tradition was not invented.",
+  "legacy": "Mary Magdalene is one of the most depicted saints in Western art, usually with an ointment jar and long hair. The English word 'maudlin' derives from the tearful penitent of later legend. Her feast is 22 July.",
+  "traditions": [
+   {
+    "text": "She was conflated with the sinful woman of Luke 7 and with Mary of Bethany.",
+    "source": "Gregory the Great, Homily 33 (AD 591)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "She went with the apostle John and Mary to Ephesus, where she died and was buried.",
+    "source": "Gregory of Tours, Glory of the Martyrs 29; Modestus of Jerusalem (needs-verification on locators)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "She sailed to Provence with Lazarus and Martha, preached at Marseille and spent her last years as a hermit at Sainte-Baume.",
+    "source": "Jacobus de Voragine, Golden Legend (13th century); Vézelay and Saint-Maximin cult traditions",
+    "confidence": "tradition"
+   },
+   {
+    "text": "She was called 'apostle to the apostles'.",
+    "source": "Hippolytus, Commentary on the Song of Songs 25 (needs-verification); Thomas Aquinas, Commentary on John 20",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Intense, grieving and devoted; speaks from deep personal gratitude and with the urgency of someone who has seen something no one will believe.",
+  "refs": [
+   "Luke 8:1-3",
+   "Mark 15:40-41",
+   "Mark 15:47",
+   "Mark 16:1-8",
+   "Matt 27:55-61",
+   "Matt 28:1-10",
+   "Luke 24:1-11",
+   "John 19:25",
+   "John 20:1-18"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John"
+  ]
+ },
+ {
+  "id": "martha",
+  "names": {
+   "primary": "Martha of Bethany",
+   "original": "Aramaic Marta",
+   "meaning": "'Lady' or 'mistress (of the house)'",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "bethany"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "mary-of-bethany",
+    "lazarus"
+   ]
+  },
+  "roles": [
+   "Host of Jesus",
+   "Disciple",
+   "Confessor of Christ"
+  ],
+  "occupations": [
+   "Householder"
+  ],
+  "skills": [
+   {
+    "name": "Hospitality and serving",
+    "refs": [
+     "Luke 10:38-40",
+     "John 12:2"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Confession of faith",
+    "refs": [
+     "John 11:27"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Distracted with serving",
+    "year": 29,
+    "placeId": "bethany",
+    "refs": [
+     "Luke 10:38-42"
+    ],
+    "summary": "Welcoming Jesus into her house, she complains that her sister leaves her to serve alone; Jesus says Mary has chosen the good portion."
+   },
+   {
+    "title": "'I am the resurrection and the life'",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:17-27"
+    ],
+    "summary": "After Lazarus' death she goes out to meet Jesus, hears him say he is the resurrection and the life, and confesses him as the Christ, the Son of God."
+   },
+   {
+    "title": "Objects at the tomb",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:38-40"
+    ],
+    "summary": "She warns that after four days there will be an odour; Jesus reminds her that if she believes she will see God's glory."
+   },
+   {
+    "title": "Serves at the dinner",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 12:1-2"
+    ],
+    "summary": "At a supper in Jesus' honour, 'Martha served'."
+   }
+  ],
+  "summary": "Martha, sister of Mary and Lazarus of Bethany near Jerusalem, appears as an energetic host who welcomed Jesus into her home. Luke's story of her frustration with her contemplative sister has made 'Martha and Mary' a classic image of active and contemplative lives. John gives her a weightier role: after her brother's death she makes one of the Gospel's clearest confessions of faith, parallel to Peter's. John notes simply that Jesus loved Martha, her sister and Lazarus.",
+  "textSays": "Luke calls the house hers (Luke 10:38). John records that Jesus loved her (John 11:5) and her confession 'You are the Christ, the Son of God, who is coming into the world' (John 11:27).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Martha and Mary symbolize the active and contemplative lives, both honourable, with contemplation as the 'better part'. Orthodox count her among the myrrh-bearers."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Luther and others stressed that Jesus does not condemn serving but anxious busyness; her confession in John 11 is held up as faith amid grief."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "She went to Provence and tamed a dragon (the Tarasque) at Tarascon.",
+    "source": "Jacobus de Voragine, Golden Legend (13th century)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Brisk, frank and practical; says exactly what she thinks, to Jesus included, but holds fast to faith in grief.",
+  "refs": [
+   "Luke 10:38-42",
+   "John 11:1-44",
+   "John 12:1-2"
+  ],
+  "books": [
+   "Luke",
+   "John"
+  ]
+ },
+ {
+  "id": "mary-of-bethany",
+  "names": {
+   "primary": "Mary of Bethany",
+   "original": "Greek Maria / Mariam",
+   "meaning": "See Mary (Miryam)",
+   "aliases": [
+    "Mary sister of Martha",
+    "The woman who anointed Jesus at Bethany (Mark and Matthew leave her unnamed)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "bethany"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "martha",
+    "lazarus"
+   ]
+  },
+  "roles": [
+   "Disciple"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Attentive devotion",
+    "refs": [
+     "Luke 10:39",
+     "John 12:3"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Sits at Jesus' feet",
+    "year": 29,
+    "placeId": "bethany",
+    "refs": [
+     "Luke 10:38-42"
+    ],
+    "summary": "She listens to his teaching as a disciple would, and Jesus defends her choice."
+   },
+   {
+    "title": "Weeps at Lazarus' death",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:28-35"
+    ],
+    "summary": "Falling at Jesus' feet, she says her brother would not have died if he had been there; Jesus is deeply moved and weeps."
+   },
+   {
+    "title": "Anoints Jesus' feet",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 12:1-8",
+     "Mark 14:3-9"
+    ],
+    "summary": "She pours a pound of costly nard on Jesus' feet and wipes them with her hair; Jesus says she has kept it for his burial. Mark and Matthew tell of an unnamed woman anointing his head at Bethany, usually identified with her."
+   }
+  ],
+  "summary": "Mary, sister of Martha and Lazarus, is consistently pictured at Jesus' feet: listening as a disciple, grieving after her brother's death, and pouring expensive perfume on him days before his crucifixion. Jesus said her act of devotion would be told wherever the gospel is preached. Western tradition later merged her with Mary Magdalene and with the sinful woman of Luke 7, an identification most interpreters now reject.",
+  "textSays": "She sat at the Lord's feet listening (Luke 10:39), was loved by Jesus (John 11:5), and anointed him six days before Passover (John 12:1-3).",
+  "interpretations": [
+   {
+    "tradition": "Western medieval",
+    "view": "Identified with Mary Magdalene and the sinful woman of Luke 7 (Gregory the Great), a model of penitence and contemplation."
+   },
+   {
+    "tradition": "Orthodox and most modern interpreters",
+    "view": "A distinct person; her anointing in John 12 is seen as a prophetic act preparing Jesus for burial and possibly as a royal anointing."
+   }
+  ],
+  "voice": "Quiet and deeply feeling; says little, but her actions speak with unusual boldness.",
+  "refs": [
+   "Luke 10:38-42",
+   "John 11:1-45",
+   "John 12:1-8",
+   "Mark 14:3-9",
+   "Matt 26:6-13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John"
+  ]
+ },
+ {
+  "id": "lazarus",
+  "names": {
+   "primary": "Lazarus of Bethany",
+   "original": "Greek Lazaros, from Hebrew Eleazar",
+   "meaning": "'God has helped'",
+   "aliases": [
+    "Lazarus the Four-Days-Dead",
+    "Friend of Jesus"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "bethany",
+   "cyprus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "martha",
+    "mary-of-bethany"
+   ]
+  },
+  "roles": [
+   "Friend of Jesus",
+   "Living witness of Jesus' power"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Falls ill and dies",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:1-16"
+    ],
+    "summary": "His sisters send word: 'He whom you love is ill.' Jesus delays two days, saying the illness is for God's glory."
+   },
+   {
+    "title": "Raised after four days",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 11:38-44"
+    ],
+    "summary": "Jesus weeps, orders the stone removed, prays and calls 'Lazarus, come out'; he emerges still bound in grave cloths."
+   },
+   {
+    "title": "At dinner with Jesus",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 12:1-2"
+    ],
+    "summary": "He reclines at table with Jesus six days before Passover."
+   },
+   {
+    "title": "A target of the chief priests",
+    "year": 30,
+    "placeId": "bethany",
+    "refs": [
+     "John 12:9-11"
+    ],
+    "summary": "Because many believe in Jesus on his account, the chief priests plan to kill him too."
+   }
+  ],
+  "summary": "Lazarus lived in Bethany, near Jerusalem, with his sisters Martha and Mary, and is described as a friend whom Jesus loved. His raising after four days in the tomb is the seventh and climactic sign in John's Gospel and, in John's narrative, the event that triggers the decision to have Jesus killed. Lazarus never speaks in the text. He is different from the poor man Lazarus in Jesus' parable (Luke 16:19-31), though the shared name has invited comparison.",
+  "textSays": "John 11:3, John 11:5 and John 11:11 call him the one Jesus loves and 'our friend'. He had been in the tomb four days (John 11:17; John 11:39).",
+  "interpretations": [
+   {
+    "tradition": "Christian tradition broadly",
+    "view": "A sign pointing to Jesus as 'the resurrection and the life' and anticipating his own resurrection; Lazarus returns to mortal life, whereas Jesus rises to immortal life."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Its absence from the Synoptics raises historical questions; some see a Johannine development of healing traditions, others an authentic Judean tradition the Synoptics did not use. Some have proposed that Lazarus is the beloved disciple (John 11:3), a minority view."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He fled persecution to Cyprus, became bishop of Kition (Larnaca), and died there; his tomb lies beneath the Church of Saint Lazarus.",
+    "source": "Eastern Orthodox tradition; 9th-century church built by Emperor Leo VI",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He sailed to Provence and became the first bishop of Marseille.",
+    "source": "Medieval Provençal legend; Golden Legend",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "A man who has passed through death: quiet, grave and grateful, with little need to argue.",
+  "refs": [
+   "John 11:1-44",
+   "John 12:1-2",
+   "John 12:9-11",
+   "John 12:17"
+  ],
+  "books": [
+   "John"
+  ]
+ },
+ {
+  "id": "nicodemus",
+  "names": {
+   "primary": "Nicodemus",
+   "original": "Greek Nikodēmos",
+   "meaning": "'Victory of the people'",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem",
+   "golgotha"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Pharisee",
+   "Member of the Sanhedrin ('ruler of the Jews')",
+   "Teacher of Israel",
+   "Secret sympathizer of Jesus"
+  ],
+  "occupations": [
+   "Teacher of the Law"
+  ],
+  "skills": [
+   {
+    "name": "Knowledge of the Law and procedure",
+    "refs": [
+     "John 3:10",
+     "John 7:50-51"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Generosity in honouring Jesus' body",
+    "refs": [
+     "John 19:39"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Comes to Jesus by night",
+    "year": 28,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 3:1-21"
+    ],
+    "summary": "He acknowledges Jesus as a teacher from God and is told he must be born again (or 'from above'); he cannot understand. The conversation leads into John 3:16."
+   },
+   {
+    "title": "Defends due process",
+    "year": 29,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 7:45-52"
+    ],
+    "summary": "When the Pharisees condemn Jesus, he asks whether the Law judges a man without hearing him; they mock him as a Galilean sympathizer."
+   },
+   {
+    "title": "Helps bury Jesus",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "John 19:38-42"
+    ],
+    "summary": "With Joseph of Arimathea he brings about seventy-five pounds of myrrh and aloes, a royal quantity, to prepare Jesus' body."
+   }
+  ],
+  "summary": "Nicodemus was a Pharisee and member of the Jewish ruling council in Jerusalem who came to Jesus at night, puzzled by his teaching on new birth. John's Gospel follows him through three scenes: from tentative seeker, to cautious defender of fair procedure in the council, to open participant in Jesus' burial with an extravagant amount of spices. Whether he became a full believer the text leaves the reader to judge.",
+  "textSays": "He is 'a man of the Pharisees', 'a ruler of the Jews' (John 3:1) and 'the teacher of Israel' (John 3:10). John repeatedly notes that he first came by night (John 19:39).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated as a saint and myrrh-bearer who became a disciple; John 3 is read in connection with baptism ('born of water and the Spirit')."
+   },
+   {
+    "tradition": "Evangelical Protestant",
+    "view": "The classic example of a religious man needing to be 'born again' through personal faith; his progression shows faith growing from secret to public."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "A literary figure representing sympathetic Jewish leaders whose faith remained inadequate or hidden; his role in the burial is read by some as honouring Jesus as king, by others as treating him as definitively dead."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "The apocryphal Gospel of Nicodemus (Acts of Pilate), 4th century, bears his name and narrates Jesus' trial and descent into hell.",
+    "source": "Gospel of Nicodemus / Acts of Pilate",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Learned, careful and courteous, asking literal-minded questions; a man of position who weighs every step.",
+  "refs": [
+   "John 3:1-21",
+   "John 7:45-52",
+   "John 19:38-42"
+  ],
+  "books": [
+   "John"
+  ]
+ },
+ {
+  "id": "joseph-of-arimathea",
+  "names": {
+   "primary": "Joseph of Arimathea",
+   "original": "Greek Iōsēph ho apo Harimathaias",
+   "meaning": "'May he add'; Arimathea is usually identified with Ramathaim (Ramah)",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem",
+   "golgotha"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Member of the council",
+   "Secret disciple",
+   "Burier of Jesus"
+  ],
+  "occupations": [
+   "Councillor (bouleutēs)"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Courage and generosity",
+    "refs": [
+     "Mark 15:43",
+     "Matt 27:60"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Dissents from the council",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 23:50-51"
+    ],
+    "summary": "A good and righteous man, he had not consented to the council's decision."
+   },
+   {
+    "title": "Asks Pilate for the body",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 15:42-45",
+     "John 19:38"
+    ],
+    "summary": "He takes courage to approach Pilate, who grants the body after confirming Jesus is dead."
+   },
+   {
+    "title": "Buries Jesus in his own new tomb",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "Matt 27:57-60",
+     "John 19:39-42"
+    ],
+    "summary": "With Nicodemus he wraps the body in linen and lays it in a new rock-cut tomb in a garden near the place of crucifixion, rolling a stone across the entrance."
+   }
+  ],
+  "summary": "Joseph of Arimathea was a wealthy, respected member of the Jewish council who, all four Gospels agree, took responsibility for Jesus' burial. He was waiting for the kingdom of God, had opposed the council's verdict and was a secret disciple for fear of the authorities. By asking Pilate for the body of an executed rebel he took a public risk, and by placing it in his own new tomb he provided the setting for the empty-tomb narratives. Many historians consider the burial tradition early and reliable precisely because Joseph was a council member, an unlikely invention.",
+  "textSays": "He was rich (Matt 27:57), a respected council member (Mark 15:43), a disciple secretly (John 19:38) and had not agreed with the council's action (Luke 23:51).",
+  "interpretations": [
+   {
+    "tradition": "Christian tradition broadly",
+    "view": "Fulfils Isa 53:9, the servant 'with the rich in his death', and shows that faith hidden by fear can come into the open at the decisive moment."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Most accept a burial by a Jewish council member as historical; a minority (e.g. Crossan) doubt it, arguing crucified bodies were often left or put in common graves, while others point to Josephus and the Giv'at ha-Mivtar ossuary showing that crucified Jews could be buried."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "He brought the Holy Grail to Britain and founded the church at Glastonbury.",
+    "source": "Robert de Boron, Joseph d'Arimathie (c. 1200); later Glastonbury traditions",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was imprisoned by the Jewish leaders and miraculously freed by the risen Jesus.",
+    "source": "Gospel of Nicodemus (Acts of Pilate) 12-15",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Dignified and discreet, a man of standing who chooses his words carefully but acts decisively when it matters.",
+  "refs": [
+   "Matt 27:57-60",
+   "Mark 15:42-46",
+   "Luke 23:50-53",
+   "John 19:38-42",
+   "Isa 53:9"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John"
+  ]
+ },
+ {
+  "id": "zacchaeus",
+  "names": {
+   "primary": "Zacchaeus",
+   "original": "Hebrew Zakkai; Greek Zakchaios",
+   "meaning": "'Pure' or 'innocent'",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "nation": "Judea",
+  "placeIds": [
+   "jericho"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Chief tax collector",
+   "Repentant host of Jesus"
+  ],
+  "occupations": [
+   "Chief tax/toll collector (architelōnēs)"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Generosity and restitution",
+    "refs": [
+     "Luke 19:8"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Climbs a sycamore to see Jesus",
+    "year": 30,
+    "placeId": "jericho",
+    "refs": [
+     "Luke 19:1-10"
+    ],
+    "summary": "Too short to see over the crowd, he climbs a sycamore-fig; Jesus invites himself to his house. Zacchaeus gives half his goods to the poor and repays fourfold anyone he has defrauded, and Jesus declares that salvation has come to his house."
+   }
+  ],
+  "summary": "Zacchaeus was a rich chief tax collector at Jericho, a key customs point on the road to Jerusalem. His encounter with Jesus on the final journey to Jerusalem is told only in Luke, which closes with Jesus' mission statement: the Son of Man came to seek and to save the lost. His restitution goes beyond what the Law required (compare Exod 22:1; Lev 6:5).",
+  "textSays": "Luke 19:2-3 says he was a chief tax collector, rich and small in stature.",
+  "traditions": [
+   {
+    "text": "Peter appointed him the first bishop of Caesarea.",
+    "source": "Apostolic Constitutions 7.46",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Eager and impulsive, a little defensive about his reputation, then overflowing with generous resolutions.",
+  "refs": [
+   "Luke 19:1-10"
+  ],
+  "books": [
+   "Luke"
+  ]
+ },
+ {
+  "id": "pontius-pilate",
+  "names": {
+   "primary": "Pontius Pilate",
+   "original": "Latin Pontius Pilatus",
+   "meaning": "Pilatus possibly 'armed with a javelin' (pilum)",
+   "aliases": [
+    "Pilate",
+    "Prefect of Judea"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "active": [
+   {
+    "year": 26,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 36,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Recalled late 36 or early 37",
+      "year": 37
+     }
+    ]
+   }
+  ],
+  "nation": "Rome",
+  "placeIds": [
+   "caesarea-maritima",
+   "jerusalem",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Roman prefect of Judea",
+   "Judge at Jesus' trial"
+  ],
+  "occupations": [
+   "Roman equestrian governor"
+  ],
+  "skills": [
+   {
+    "name": "Roman judicial authority",
+    "refs": [
+     "John 19:10"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Mixes Galileans' blood with their sacrifices",
+    "year": 29,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 13:1"
+    ],
+    "summary": "Jesus is told of Galileans Pilate had killed while they were sacrificing, an incident otherwise unknown but consistent with his reputation."
+   },
+   {
+    "title": "Tries Jesus",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 18:28-19:16",
+     "Mark 15:1-15",
+     "Luke 23:1-25"
+    ],
+    "summary": "He questions Jesus about being King of the Jews, finds no basis for a charge, sends him to Herod Antipas, offers to release him or Barabbas, washes his hands (Matt 27:24) and finally hands him over to be crucified under pressure from the crowd and the threat of being 'no friend of Caesar'."
+   },
+   {
+    "title": "Writes the title on the cross",
+    "year": 30,
+    "placeId": "golgotha",
+    "refs": [
+     "John 19:19-22"
+    ],
+    "summary": "He has 'Jesus of Nazareth, King of the Jews' written in Hebrew, Latin and Greek, and refuses to change it: 'What I have written I have written.'"
+   },
+   {
+    "title": "Releases the body and grants a guard",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Mark 15:43-45",
+     "Matt 27:62-66"
+    ],
+    "summary": "He gives Joseph of Arimathea the body after confirming death, and (in Matthew) allows the tomb to be secured."
+   }
+  ],
+  "summary": "Pontius Pilate was the Roman prefect (governor) of Judea from AD 26 to 36, an equestrian administrator based at Caesarea Maritima who came to Jerusalem at festivals to keep order. He is the official who sentenced Jesus to crucifixion, which is why his name is recited in the Apostles' and Nicene Creeds. The Gospels show him as reluctant and convinced of Jesus' innocence but yielding to pressure; Philo and Josephus describe him as stubborn, provocative and harsh. A 1961 inscription at Caesarea confirms his name and title. He was recalled to Rome after a violent suppression of Samaritans in 36.",
+  "textSays": "The Gospels portray him asking 'What is truth?' (John 18:38), declaring Jesus innocent (Luke 23:4; John 19:4), and handing him over to satisfy the crowd (Mark 15:15). His wife sends warning of a dream (Matt 27:19). Acts and 1 Tim 6:13 remember the trial before him.",
+  "interpretations": [
+   {
+    "tradition": "Ethiopian and Coptic churches",
+    "view": "Venerate Pilate (and his wife Procla) as saints, following traditions that he became a believer."
+   },
+   {
+    "tradition": "Western and Orthodox mainstream",
+    "view": "A weak, compromised judge whose hand-washing could not remove guilt; named in the creed to anchor the gospel in history."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Many think the Gospels soften Pilate's role to reassure Roman readers, given Philo's and Josephus' portrait; others argue a politically cautious governor would plausibly avoid a riot at Passover."
+   }
+  ],
+  "context": "Josephus (Antiquities 18.55-62, 18.85-89) records Pilate's bringing military standards with images into Jerusalem, using temple funds for an aqueduct, and massacring Samaritans; Philo (Embassy to Gaius 299-305) describes golden shields offensive to Jews and calls him inflexible and cruel. Tacitus (Annals 15.44) notes that Christ suffered the extreme penalty under Pontius Pilate.",
+  "traditions": [
+   {
+    "text": "Pilate fell into misfortune under Caligula and took his own life.",
+    "source": "Eusebius, Church History 2.7",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His wife, named Procla or Claudia Procula, became a Christian.",
+    "source": "Gospel of Nicodemus 2; Origen, Homilies on Matthew (needs-verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Clipped, sardonic and wary; a Roman official balancing contempt for local quarrels with fear for his own position.",
+  "refs": [
+   "Mark 15:1-15",
+   "Matt 27:11-26",
+   "Luke 23:1-25",
+   "John 18:28-19:22",
+   "Luke 3:1",
+   "Luke 13:1",
+   "Acts 3:13",
+   "Acts 4:27",
+   "1 Tim 6:13"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "1 Tim"
+  ]
+ },
+ {
+  "id": "caiaphas",
+  "names": {
+   "primary": "Caiaphas",
+   "original": "Greek Kaiaphas; Aramaic Qayafa",
+   "meaning": "Family name, meaning uncertain; his personal name was Joseph (Josephus)",
+   "aliases": [
+    "Joseph Caiaphas",
+    "Joseph son of Caiaphas"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 18,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 36,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Deposed by Vitellius in 36 or 37",
+      "year": 37
+     }
+    ]
+   }
+  ],
+  "tribe": "Levi (priestly aristocracy)",
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "High priest",
+   "President of the Sanhedrin"
+  ],
+  "occupations": [
+   "High priest"
+  ],
+  "skills": [
+   {
+    "name": "Political manoeuvring with Rome",
+    "refs": [
+     "John 11:48-50"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Unwitting prophecy, according to John",
+    "refs": [
+     "John 11:51-52"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "'Better that one man should die'",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 11:47-53"
+    ],
+    "summary": "After Lazarus is raised, he argues it is expedient for one man to die for the people rather than the nation perish; John reads this as an unintended prophecy."
+   },
+   {
+    "title": "Plots Jesus' arrest",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Matt 26:3-5"
+    ],
+    "summary": "Chief priests and elders gather in his palace to arrest Jesus by stealth."
+   },
+   {
+    "title": "Interrogates Jesus",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Matt 26:57-68",
+     "Mark 14:53-65"
+    ],
+    "summary": "After false witnesses fail to agree, he asks Jesus under oath whether he is the Christ; at Jesus' answer about the Son of Man he tears his robes and declares blasphemy."
+   },
+   {
+    "title": "Opposes the apostles",
+    "year": 31,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 4:5-22",
+     "Acts 5:17-28"
+    ],
+    "summary": "With Annas he questions Peter and John and orders them not to teach in Jesus' name."
+   }
+  ],
+  "summary": "Joseph Caiaphas was high priest from about AD 18 to 36, an unusually long tenure that suggests skilful cooperation with Roman prefects, including Pilate, who was removed at about the same time. Son-in-law of the former high priest Annas, he presided over the council that condemned Jesus and handed him to Pilate, reasoning that one man's death was better than Roman reprisal against the nation. An ornate ossuary inscribed 'Joseph son of Caiaphas', found in Jerusalem in 1990, may belong to him, though the identification is debated.",
+  "textSays": "He was high priest 'that year' and son-in-law of Annas (John 11:49; John 18:13). He interrogated Jesus and charged him with blasphemy (Matt 26:63-66).",
+  "interpretations": [
+   {
+    "tradition": "Christian tradition",
+    "view": "The chief human agent of Jesus' condemnation, often used as a symbol of religious power protecting itself. Modern churches stress that he does not represent 'the Jews' collectively (Nostra Aetate, 1965)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "A pragmatic aristocrat responsible for order at Passover under Roman oversight; executing a messianic claimant who disturbed the temple would fit that role."
+   }
+  ],
+  "context": "Josephus (Antiquities 18.35, 18.95) records his appointment by Valerius Gratus and removal by Vitellius. The high priest controlled the temple and its treasury and was the main Jewish intermediary with Rome.",
+  "voice": "Smooth, calculating and authoritative; frames ruthless decisions as prudent statesmanship.",
+  "refs": [
+   "Matt 26:3-5",
+   "Matt 26:57-68",
+   "John 11:47-53",
+   "John 18:13-14",
+   "John 18:24",
+   "John 18:28",
+   "Luke 3:2",
+   "Acts 4:6"
+  ],
+  "books": [
+   "Matt",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "annas",
+  "names": {
+   "primary": "Annas",
+   "original": "Hebrew Hanan / Hananyah; Greek Hannas, Ananos",
+   "meaning": "'Gracious'",
+   "aliases": [
+    "Ananus son of Seth",
+    "Hanan"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 6,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 15,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Levi (priestly aristocracy)",
+  "nation": "Judea",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Former high priest",
+   "Patriarch of a high-priestly dynasty"
+  ],
+  "occupations": [
+   "High priest (AD 6-15)"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Questions Jesus first",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "John 18:12-24"
+    ],
+    "summary": "Jesus is brought first to Annas, who questions him about his disciples and teaching before sending him bound to Caiaphas."
+   },
+   {
+    "title": "Presides against the apostles",
+    "year": 31,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 4:5-7"
+    ],
+    "summary": "Named first among the high-priestly family examining Peter and John."
+   }
+  ],
+  "summary": "Annas was high priest from AD 6 to 15, appointed by the Roman legate Quirinius and deposed by Valerius Gratus. He remained the power behind the office: five of his sons and his son-in-law Caiaphas also served as high priest. Luke speaks of 'the high priesthood of Annas and Caiaphas' (Luke 3:2), reflecting his continuing status, and John has Jesus examined by him first.",
+  "textSays": "He is father-in-law of Caiaphas (John 18:13) and is still called high priest in Acts 4:6.",
+  "context": "Josephus, Antiquities 18.26 and 20.198, describes his appointment and his family's remarkable fortune in having five sons serve as high priest; his son Ananus had James the brother of Jesus executed in AD 62 (Antiquities 20.200).",
+  "voice": "An elder statesman of the priesthood: patient, probing and accustomed to deference.",
+  "refs": [
+   "Luke 3:2",
+   "John 18:13",
+   "John 18:19-24",
+   "Acts 4:6"
+  ],
+  "books": [
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "herod-the-great",
+  "names": {
+   "primary": "Herod the Great",
+   "original": "Greek Hērōdēs",
+   "meaning": "'Heroic' / 'song of the hero'",
+   "aliases": [
+    "Herod I",
+    "King Herod",
+    "King of the Jews (Roman title)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus"
+  ],
+  "born": {
+   "year": -73,
+   "circa": true,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "c. 74 BC",
+     "year": -74
+    }
+   ]
+  },
+  "died": {
+   "year": -4,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "1 BC (minority view based on a different eclipse and reign-counting)",
+     "year": -1,
+     "source": "Filmer (1966) and later chronologists"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -37,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Named king by the Senate in 40 BC; took Jerusalem in 37 BC",
+      "year": -40
+     }
+    ]
+   },
+   {
+    "year": -4,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "1 BC",
+      "year": -1
+     }
+    ]
+   }
+  ],
+  "nation": "Idumean by descent; client king of Judea under Rome",
+  "placeIds": [
+   "jerusalem",
+   "bethlehem",
+   "jericho",
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "herod-antipas"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "King of Judea",
+   "Roman client king",
+   "Builder"
+  ],
+  "occupations": [
+   "King"
+  ],
+  "skills": [
+   {
+    "name": "Monumental building (rebuilding the temple)",
+    "refs": [
+     "John 2:20"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "King when John and Jesus are born",
+    "year": -6,
+    "refs": [
+     "Luke 1:5",
+     "Matt 2:1"
+    ],
+    "summary": "Both infancy narratives set the births 'in the days of Herod, king of Judea'."
+   },
+   {
+    "title": "Receives the magi",
+    "year": -5,
+    "placeId": "jerusalem",
+    "refs": [
+     "Matt 2:1-12"
+    ],
+    "summary": "Troubled by news of a born king of the Jews, he consults the chief priests, who point to Bethlehem (Mic 5:2), and secretly asks the magi to report back."
+   },
+   {
+    "title": "Massacre of the infants at Bethlehem",
+    "year": -5,
+    "placeId": "bethlehem",
+    "refs": [
+     "Matt 2:16-18"
+    ],
+    "summary": "Tricked by the magi, he orders the killing of boys two years old and under in the Bethlehem region."
+   },
+   {
+    "title": "Death",
+    "year": -4,
+    "placeId": "jericho",
+    "refs": [
+     "Matt 2:19-22"
+    ],
+    "summary": "After his death Joseph is told to return; Archelaus now reigns in Judea."
+   }
+  ],
+  "summary": "Herod the Great ruled Judea as a Roman client king from 37 to 4 BC. An Idumean whose family had converted to Judaism, he gained power through Roman patrons (Mark Antony, then Augustus) and kept it through skill and brutality, executing a wife (Mariamne) and three sons. He was also one of antiquity's great builders: he rebuilt and vastly expanded the Jerusalem temple, and built Caesarea Maritima, Masada, the Herodium and palaces at Jericho. Matthew's account of his slaughter of Bethlehem's infants is not recorded elsewhere, but fits his paranoid character in Josephus. His death date, usually 4 BC, is the main anchor for dating Jesus' birth.",
+  "textSays": "Matthew presents him as a ruler who sought to destroy the newborn king (Matt 2:13) and died soon after (Matt 2:19). John 2:20 says the temple had been under construction for forty-six years.",
+  "interpretations": [
+   {
+    "tradition": "Christian reading",
+    "view": "Matthew portrays Herod as a new Pharaoh and Jesus as a new Moses rescued from a king's massacre (Exod 1:22); the Holy Innocents are honoured as martyrs (28 December in the West)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Some doubt the massacre's historicity because Josephus omits it; others note that Bethlehem's infant population would have been small (perhaps a dozen or two) and that Josephus did not record every atrocity."
+   }
+  ],
+  "context": "Josephus, Antiquities books 14-17 and Jewish War book 1, is the main source. Herod died at Jericho after a painful illness and was buried at the Herodium, where archaeologist Ehud Netzer identified his probable tomb in 2007. His kingdom was divided among Archelaus, Antipas and Philip.",
+  "voice": "Charming and grandiose in public, suspicious and menacing in private; speaks as a man who trusts no one.",
+  "refs": [
+   "Matt 2:1-22",
+   "Luke 1:5",
+   "John 2:20"
+  ],
+  "books": [
+   "Matt",
+   "Luke"
+  ]
+ },
+ {
+  "id": "herod-antipas",
+  "names": {
+   "primary": "Herod Antipas",
+   "original": "Greek Hērōdēs Antipas",
+   "meaning": "Antipas short for Antipatros",
+   "aliases": [
+    "Herod the tetrarch",
+    "King Herod (Mark's popular usage)",
+    "'That fox' (Luke 13:32)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus"
+  ],
+  "born": {
+   "year": -20,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "died": {
+   "year": 40,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Sometime after AD 39 in exile; exact date unknown",
+     "year": 39
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -4,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 39,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Galilee and Perea (Roman client tetrarchy)",
+  "placeIds": [
+   "tiberias",
+   "sea-of-galilee",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [
+    "herod-the-great"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Tetrarch of Galilee and Perea",
+   "Executioner of John the Baptist"
+  ],
+  "occupations": [
+   "Tetrarch (client ruler)"
+  ],
+  "skills": [
+   {
+    "name": "City building",
+    "refs": [
+     "John 6:23"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Imprisons and beheads John the Baptist",
+    "year": 29,
+    "refs": [
+     "Mark 6:17-29",
+     "Luke 3:19-20"
+    ],
+    "summary": "Rebuked by John for marrying Herodias, his brother's wife, he imprisons him; at his birthday banquet he rashly promises Herodias' daughter anything and has John beheaded."
+   },
+   {
+    "title": "Wonders if Jesus is John raised",
+    "year": 29,
+    "refs": [
+     "Mark 6:14-16",
+     "Luke 9:7-9"
+    ],
+    "summary": "Hearing about Jesus' deeds, he is perplexed and wants to see him."
+   },
+   {
+    "title": "'Go tell that fox'",
+    "year": 30,
+    "refs": [
+     "Luke 13:31-33"
+    ],
+    "summary": "Warned that Herod wants to kill him, Jesus calls him a fox and continues toward Jerusalem."
+   },
+   {
+    "title": "Questions Jesus at his trial",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Luke 23:6-12"
+    ],
+    "summary": "Pilate sends Jesus to him; Jesus answers nothing; Herod and his soldiers mock him and send him back, and Herod and Pilate become friends."
+   }
+  ],
+  "summary": "Herod Antipas, son of Herod the Great and the Samaritan Malthace, ruled Galilee and Perea as tetrarch from 4 BC to AD 39, so Jesus lived and worked almost entirely in his territory. He rebuilt Sepphoris and founded Tiberias on the Sea of Galilee as his capital. His marriage to Herodias, after divorcing a Nabatean princess, brought John the Baptist's rebuke and John's execution, and later a disastrous war with the Nabatean king Aretas IV. Luke alone records his brief encounter with Jesus during the passion. In AD 39 Caligula exiled him to Gaul after his nephew Agrippa accused him of plotting.",
+  "textSays": "Called tetrarch (Luke 3:1; Luke 3:19), he feared John as righteous yet killed him (Mark 6:20; Mark 6:26-27). Acts 4:27 names him with Pilate as having gathered against Jesus.",
+  "interpretations": [
+   {
+    "tradition": "Christian reading",
+    "view": "A weak, superstitious ruler governed by others' wishes, contrasted with John's integrity."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "A relatively capable, long-reigning client ruler; Josephus says he executed John fearing his influence could spark revolt, a political motive complementing Mark's personal story."
+   }
+  ],
+  "context": "Josephus, Antiquities 18.109-119 (Herodias, Aretas and John) and 18.240-255 (his exile to Lugdunum in Gaul; Jewish War 2.183 says Spain).",
+  "voice": "Vain, curious and easily swayed; enjoys a spectacle and fears both prophets and Rome.",
+  "refs": [
+   "Mark 6:14-29",
+   "Luke 3:1",
+   "Luke 3:19-20",
+   "Luke 9:7-9",
+   "Luke 13:31-33",
+   "Luke 23:6-12",
+   "Acts 4:27"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Luke",
+   "Acts"
+  ]
+ }
+]

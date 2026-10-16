@@ -1,0 +1,4948 @@
+[
+ {
+  "id": "amram",
+  "names": {
+   "primary": "Amram",
+   "original": "עַמְרָם",
+   "meaning": "exalted people (or: the kinsman is exalted)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt",
+   "goshen"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "jochebed"
+   ],
+   "children": [
+    "moses",
+    "aaron",
+    "miriam"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Levite clan head",
+   "father of Moses, Aaron and Miriam"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Marries Jochebed; father of Aaron and Moses",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 6:18-20",
+     "Num 26:59"
+    ],
+    "summary": "Amram, son of Kohath son of Levi, marries his father's sister Jochebed, who bears Aaron, Moses and Miriam. He is said to have lived 137 years."
+   }
+  ],
+  "summary": "Amram is the Levite father of Moses, Aaron and Miriam, named only in the genealogies. Exodus 2 tells the birth of Moses without naming either parent; the names come from Exodus 6 and Numbers 26. The genealogy (Levi, Kohath, Amram, Moses) is usually read as compressed, since it must span the long sojourn in Egypt.",
+  "textSays": "He is the son of Kohath, married his aunt Jochebed, fathered Aaron and Moses (and Miriam), and lived 137 years.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition makes Amram a leader of his generation who first separated from his wife because of Pharaoh's decree and then took her back at Miriam's urging, so that Moses was born (Babylonian Talmud, Sotah 12a)."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The four-generation line from Levi to Moses is generally treated as a tribal genealogy that names representative ancestors rather than every generation."
+   }
+  ],
+  "voice": "A quiet, weathered Levite elder who speaks of faith under a death decree in few words.",
+  "refs": [
+   "Exod 6:18-20",
+   "Num 3:19",
+   "Num 26:58-59",
+   "1 Chr 6:3"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "jochebed",
+  "names": {
+   "primary": "Jochebed",
+   "original": "יוֹכֶבֶד",
+   "meaning": "the LORD is glory (one of the earliest names built on the divine name)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "amram"
+   ],
+   "children": [
+    "moses",
+    "aaron",
+    "miriam"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "mother of Moses, Aaron and Miriam"
+  ],
+  "occupations": [
+   "nurse (paid by Pharaoh's daughter)"
+  ],
+  "skills": [
+   {
+    "name": "Courage and resourcefulness under persecution",
+    "refs": [
+     "Exod 2:2-3",
+     "Heb 11:23"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Hides the infant Moses and sets him in the Nile",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 2:1-4"
+    ],
+    "summary": "Defying the decree to drown Hebrew boys, she hides her son three months, then places him in a pitch-sealed papyrus basket among the reeds."
+   },
+   {
+    "title": "Nurses her own son for Pharaoh's daughter",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 2:7-10"
+    ],
+    "summary": "Through Miriam's intervention she is hired to nurse Moses, then brings him to the princess, who adopts him."
+   }
+  ],
+  "summary": "Jochebed is the Levite mother of Moses, unnamed in the birth story of Exodus 2 but named in the genealogies. Her act of hiding her child and placing him in a basket on the Nile is remembered in Hebrews as an act of faith that did not fear the king's command.",
+  "textSays": "A Levite woman bore a son, saw he was a fine child, hid him three months, then set him in an ark of bulrushes on the Nile; she was later paid to nurse him. Elsewhere she is named Jochebed, daughter of Levi and wife of Amram.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic interpretation identifies Jochebed with Shiphrah, one of the midwives who defied Pharaoh in Exodus 1."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Hebrews counts the parents' concealment of Moses among the acts of faith, and preachers have long held her up as a model of a mother's courage."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Identified with the midwife Shiphrah (and Miriam with Puah).",
+    "source": "Babylonian Talmud, Sotah 11b",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Practical and fierce in a hushed way, a mother who weighs risk carefully and then acts.",
+  "refs": [
+   "Exod 2:1-10",
+   "Exod 6:20",
+   "Num 26:59",
+   "Heb 11:23",
+   "Acts 7:20-21"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "Acts",
+   "Heb"
+  ]
+ },
+ {
+  "id": "moses",
+  "names": {
+   "primary": "Moses",
+   "original": "מֹשֶׁה (Mosheh)",
+   "meaning": "Exodus 2:10 links it to Hebrew mashah, 'to draw out'; many scholars also note the Egyptian element ms, 'born of / son' (as in Thutmose, Ramesses)",
+   "aliases": [
+    "Mosheh",
+    "Moshe Rabbenu ('Moses our teacher')",
+    "Musa (Islamic tradition)",
+    "the man of God"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus",
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1526,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology (exodus c. 1260 BC; Moses 80 at the exodus)",
+     "year": -1340
+    }
+   ]
+  },
+  "died": {
+   "year": -1406,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1220
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early exodus, from 1 Kgs 6:1 (480 years before Solomon's fourth year)",
+      "year": -1446,
+      "source": "1 Kgs 6:1"
+     },
+     {
+      "label": "Late exodus, from the store city Rameses and Ramesside-era settlement evidence",
+      "year": -1260
+     }
+    ]
+   },
+   {
+    "year": -1406,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1220
+     }
+    ]
+   }
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt",
+   "goshen",
+   "midian",
+   "horeb",
+   "rameses",
+   "succoth",
+   "red-sea",
+   "marah",
+   "elim",
+   "wilderness-of-sin",
+   "rephidim",
+   "mount-sinai",
+   "kadesh-barnea",
+   "edom",
+   "moab",
+   "mount-nebo"
+  ],
+  "family": {
+   "parents": [
+    "amram",
+    "jochebed"
+   ],
+   "spouses": [
+    "zipporah"
+   ],
+   "children": [],
+   "siblings": [
+    "aaron",
+    "miriam"
+   ]
+  },
+  "roles": [
+   "prophet",
+   "deliverer",
+   "lawgiver",
+   "covenant mediator",
+   "judge of Israel",
+   "intercessor"
+  ],
+  "occupations": [
+   "shepherd",
+   "prince in Pharaoh's household",
+   "prophet"
+  ],
+  "skills": [
+   {
+    "name": "Educated in the learning of Egypt",
+    "refs": [
+     "Acts 7:22"
+    ]
+   },
+   {
+    "name": "Shepherding",
+    "refs": [
+     "Exod 3:1"
+    ]
+   },
+   {
+    "name": "Judging disputes, later delegated to appointed judges",
+    "refs": [
+     "Exod 18:13-26"
+    ]
+   },
+   {
+    "name": "Writing down law and journey records",
+    "refs": [
+     "Exod 24:4",
+     "Num 33:2",
+     "Deut 31:9"
+    ]
+   },
+   {
+    "name": "Poetry and song",
+    "refs": [
+     "Exod 15:1-18",
+     "Deut 32:1-43",
+     "Ps 90"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy: speaking with God face to face",
+    "refs": [
+     "Num 12:6-8",
+     "Deut 34:10"
+    ]
+   },
+   {
+    "name": "Miraculous signs",
+    "refs": [
+     "Exod 4:1-9",
+     "Deut 34:11-12"
+    ]
+   },
+   {
+    "name": "Intercession",
+    "refs": [
+     "Exod 32:11-14",
+     "Num 14:13-20"
+    ]
+   },
+   {
+    "name": "Humility",
+    "refs": [
+     "Num 12:3"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Born under the death decree; drawn from the Nile",
+    "year": -1526,
+    "placeId": "egypt",
+    "refs": [
+     "Exod 2:1-10"
+    ],
+    "summary": "Hidden by his mother and set in a basket on the Nile, he is found and adopted by Pharaoh's daughter, who names him Moses."
+   },
+   {
+    "title": "Kills an Egyptian and flees to Midian",
+    "placeId": "midian",
+    "refs": [
+     "Exod 2:11-22",
+     "Acts 7:23-29"
+    ],
+    "summary": "Grown, he kills an Egyptian who was beating a Hebrew, is rejected by his own people, and flees. In Midian he marries Zipporah, daughter of the priest Reuel (Jethro)."
+   },
+   {
+    "title": "The burning bush and the divine name",
+    "placeId": "horeb",
+    "refs": [
+     "Exod 3:1-15",
+     "Exod 4:10-17"
+    ],
+    "summary": "At Horeb God speaks from a bush that burns but is not consumed, reveals the name YHWH (I AM WHO I AM), and sends Moses to Pharaoh. Moses protests his poor speech, and Aaron is appointed as his spokesman."
+   },
+   {
+    "title": "Confronts Pharaoh; the ten plagues",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 5:1-2",
+     "Exod 7:14-11:10"
+    ],
+    "summary": "Moses and Aaron demand Israel's release. Pharaoh refuses and the land is struck by ten plagues, ending with the death of the firstborn."
+   },
+   {
+    "title": "Passover and departure from Egypt",
+    "year": -1446,
+    "placeId": "rameses",
+    "refs": [
+     "Exod 12:1-42"
+    ],
+    "summary": "Israel eats the Passover lamb and leaves from Rameses for Succoth after 430 years in Egypt."
+   },
+   {
+    "title": "Crossing the sea",
+    "placeId": "red-sea",
+    "refs": [
+     "Exod 14:21-31",
+     "Exod 15:1-21"
+    ],
+    "summary": "Moses stretches out his hand, the waters divide, Israel crosses on dry ground, and the pursuing Egyptian army is drowned. Moses and Israel sing the Song of the Sea."
+   },
+   {
+    "title": "Covenant and law at Sinai",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 19:1-20",
+     "Exod 20:1-21",
+     "Exod 24:3-18"
+    ],
+    "summary": "God gives the Ten Commandments and the covenant laws. Moses reads the book of the covenant, the people pledge obedience, and blood seals the covenant."
+   },
+   {
+    "title": "The golden calf and intercession",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 32:1-35",
+     "Exod 33:12-23",
+     "Exod 34:1-9"
+    ],
+    "summary": "While Moses is on the mountain the people worship a calf made by Aaron. Moses breaks the tablets, then pleads for the people, asks to see God's glory, and receives the renewed covenant and the proclamation of God's character."
+   },
+   {
+    "title": "The spies' report and forty years' wandering",
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 13:1-3",
+     "Num 14:1-35"
+    ],
+    "summary": "Ten of twelve spies discourage the people from entering Canaan. Moses intercedes against their destruction, but that generation is sentenced to die in the wilderness."
+   },
+   {
+    "title": "Striking the rock at Meribah",
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 20:1-13"
+    ],
+    "summary": "Told to speak to the rock, Moses strikes it twice in anger. Water flows, but Moses and Aaron are told they will not lead Israel into the land."
+   },
+   {
+    "title": "The bronze serpent",
+    "refs": [
+     "Num 21:4-9",
+     "John 3:14-15"
+    ],
+    "summary": "When serpents afflict the complaining people, Moses makes a bronze serpent on a pole. Those who look at it live. Jesus later uses it as an image of his own lifting up."
+   },
+   {
+    "title": "Farewell speeches and death on Mount Nebo",
+    "year": -1406,
+    "placeId": "mount-nebo",
+    "refs": [
+     "Deut 1:1-5",
+     "Deut 31:1-8",
+     "Deut 34:1-12"
+    ],
+    "summary": "In Moab Moses restates the law, commissions Joshua, and blesses the tribes. He views the land from Nebo and dies at 120. God buries him, and his grave is unknown."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "egypt",
+    "order": 1,
+    "year": -1526,
+    "note": "Born and raised in Pharaoh's court.",
+    "refs": [
+     "Exod 2:1-10"
+    ]
+   },
+   {
+    "placeId": "midian",
+    "order": 2,
+    "note": "Flees after killing an Egyptian; marries and shepherds for some forty years.",
+    "refs": [
+     "Exod 2:15-22",
+     "Acts 7:29-30"
+    ]
+   },
+   {
+    "placeId": "horeb",
+    "order": 3,
+    "note": "Called at the burning bush.",
+    "refs": [
+     "Exod 3:1-12"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 4,
+    "note": "Returns to confront Pharaoh.",
+    "refs": [
+     "Exod 4:18-20",
+     "Exod 5:1"
+    ]
+   },
+   {
+    "placeId": "rameses",
+    "order": 5,
+    "year": -1446,
+    "note": "Starting point of the exodus.",
+    "refs": [
+     "Exod 12:37",
+     "Num 33:3-5"
+    ]
+   },
+   {
+    "placeId": "succoth",
+    "order": 6,
+    "note": "First stage of the march.",
+    "refs": [
+     "Exod 12:37",
+     "Exod 13:20"
+    ]
+   },
+   {
+    "placeId": "red-sea",
+    "order": 7,
+    "note": "The sea crossing (the route and location are debated).",
+    "refs": [
+     "Exod 14:1-2",
+     "Exod 14:21-22"
+    ]
+   },
+   {
+    "placeId": "marah",
+    "order": 8,
+    "note": "Bitter water made sweet.",
+    "refs": [
+     "Exod 15:22-26"
+    ]
+   },
+   {
+    "placeId": "elim",
+    "order": 9,
+    "note": "Twelve springs and seventy palms.",
+    "refs": [
+     "Exod 15:27"
+    ]
+   },
+   {
+    "placeId": "wilderness-of-sin",
+    "order": 10,
+    "note": "Manna and quail.",
+    "refs": [
+     "Exod 16:1-15"
+    ]
+   },
+   {
+    "placeId": "rephidim",
+    "order": 11,
+    "note": "Water from the rock; victory over Amalek.",
+    "refs": [
+     "Exod 17:1-13"
+    ]
+   },
+   {
+    "placeId": "mount-sinai",
+    "order": 12,
+    "note": "Covenant, law and tabernacle; about eleven months encamped.",
+    "refs": [
+     "Exod 19:1-2",
+     "Num 10:11-12"
+    ]
+   },
+   {
+    "placeId": "kadesh-barnea",
+    "order": 13,
+    "note": "Spies sent out; the long stay in the wilderness.",
+    "refs": [
+     "Num 13:26",
+     "Deut 1:46"
+    ]
+   },
+   {
+    "placeId": "edom",
+    "order": 14,
+    "note": "Refused passage, Israel goes around Edom.",
+    "refs": [
+     "Num 20:14-21",
+     "Num 21:4"
+    ]
+   },
+   {
+    "placeId": "moab",
+    "order": 15,
+    "note": "Camped on the plains of Moab; Deuteronomy delivered.",
+    "refs": [
+     "Num 22:1",
+     "Deut 1:5"
+    ]
+   },
+   {
+    "placeId": "mount-nebo",
+    "order": 16,
+    "year": -1406,
+    "note": "Views the land and dies.",
+    "refs": [
+     "Deut 34:1-5"
+    ]
+   }
+  ],
+  "summary": "Moses is the central human figure of the Hebrew Bible: the Levite child rescued from Pharaoh's genocide, raised as an Egyptian prince, exiled as a shepherd in Midian, and called at the burning bush to lead Israel out of slavery. Through him God sends the plagues, brings Israel through the sea, and makes the Sinai covenant. That covenant gives Israel its law, its priesthood and its tabernacle, and it shapes the rest of Scripture.\n\nThe narrative does not idealise him. He kills a man and flees. He argues with God about his calling. He loses his temper, breaks the first tablets in anger, and is barred from entering Canaan for striking the rock at Meribah. Yet he is also described as the meekest man on earth, as the one God spoke with face to face, and as a tireless intercessor who offers himself in place of a rebellious people. Deuteronomy closes by saying no prophet like him has arisen since.\n\nThe date of the exodus is debated. 1 Kings 6:1 places it 480 years before Solomon's temple, about 1446 BC. Many scholars prefer about 1260 BC under Ramesses II, because of the city name Rameses (Exod 1:11) and the pattern of early Iron Age highland settlement. Others treat the narrative as largely shaped in later centuries. The New Testament presents Jesus as the prophet like Moses and the mediator of a better covenant, and it also honours Moses as faithful in all God's house.",
+  "textSays": "The text says Moses was a Levite born under Pharaoh's decree, adopted by Pharaoh's daughter, and educated in Egypt (the education is stated in Acts 7:22). He fled to Midian after killing an Egyptian, married Zipporah, and was called by God at Horeb. With Aaron he confronted Pharaoh, led Israel out of Egypt and through the sea, received the law at Sinai, built the tabernacle, and led the people forty years in the wilderness. He was 80 when he spoke to Pharaoh (Exod 7:7) and 120 at his death in Moab. He was forbidden to enter Canaan because of Meribah, and God buried him in an unknown grave. The text calls him very meek, says God spoke with him mouth to mouth, and says no later prophet in Israel was like him. Later Scripture credits him with writing laws and records (Exod 24:4; Deut 31:9) and gives his name to Psalm 90.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Moshe Rabbenu, 'Moses our teacher', is the greatest of the prophets and the one through whom both the written Torah and, in rabbinic belief, the oral Torah were given at Sinai. Maimonides counts the unique status of Moses' prophecy among his Thirteen Principles. The Passover Haggadah famously barely mentions Moses, keeping the focus on God as Israel's redeemer."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Moses is honoured as a saint and prophet and read typologically: the Passover lamb, the manna, the rock and the bronze serpent prefigure Christ and the sacraments. Gregory of Nyssa's *Life of Moses* made his ascent of Sinai a model of the soul's endless progress into God. The Eastern Church keeps a feast of the Prophet Moses on 4 September."
+   },
+   {
+    "tradition": "Reformed and Evangelical",
+    "view": "Moses is the mediator of the old covenant, whose law reveals sin and points to Christ (Gal 3:24). The faithfulness of Moses as a servant in God's house is contrasted with Christ as the Son over it (Heb 3:5-6). Many in this tradition hold to Mosaic authorship of the Pentateuch in substance and generally favour the early date."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Most critical scholars regard the Pentateuch as composed and edited over centuries, from several sources or traditions, so that the historical Moses lies behind layers of later theology. Views on his historicity range from a real leader of a small group that escaped Egypt to a largely literary founder figure. The Egyptian form of his name is often taken as a sign of an authentic memory."
+   },
+   {
+    "tradition": "Islamic",
+    "view": "Musa is the prophet mentioned by name more often than any other in the Qur'an. He received the Tawrat and confronted Pharaoh (Fir'awn), and he is honoured as one of the greatest messengers."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Persistent intercession for a rebellious people",
+    "Humility and lack of self-interest (Num 11:29; Num 12:3)",
+    "Courage before Pharaoh",
+    "Faithfulness as a servant in God's house (Heb 3:5)"
+   ],
+   "failures": [
+    "Killed the Egyptian in rash, self-appointed zeal (Exod 2:11-12)",
+    "Resisted God's call (Exod 4:13-14)",
+    "Anger and the breaking of the tablets (Exod 32:19)",
+    "Struck the rock and did not treat God as holy at Meribah (Num 20:10-12)"
+   ],
+   "turningPoints": [
+    "Flight from Egypt to Midian",
+    "The burning bush",
+    "The golden calf crisis and his plea to see God's glory",
+    "Meribah, which shut him out of the land",
+    "Handing leadership to Joshua"
+   ]
+  },
+  "context": "Egypt's New Kingdom (c. 1550–1070 BC) used Semitic labourers in building projects, and the Delta site of Pi-Ramesses fits the name Rameses in Exodus 1:11. No Egyptian text names Moses or the exodus, which is unsurprising given how Egyptian royal records were kept. The Merneptah Stele (c. 1208 BC) shows that a people called Israel was already in Canaan by then. The Sinai covenant follows the shape of ancient Near Eastern treaties, with a historical prologue, stipulations, witnesses, and blessings and curses. Deuteronomy in particular resembles Hittite and Assyrian treaty forms, and the resemblance is used on both sides of the dating debate.",
+  "legacy": "The Torah of Moses became the constitution of Israel and the core of Judaism. Prophets appeal to it, Ezra reads it publicly, and later Judaism is organised around it. In the New Testament Moses appears with Elijah at the Transfiguration (Matt 17:3), and Jesus is presented as the prophet like Moses promised in Deuteronomy 18 (Acts 3:22). Moses' law and Jesus' grace and truth are set side by side (John 1:17). The exodus pattern of slavery, deliverance, covenant and journey to the promised land became a template for Christian baptism and salvation, and later for liberation movements such as the African American spirituals' 'Go Down, Moses'. Moses' laws also shaped Western legal thought.",
+  "traditions": [
+   {
+    "text": "As an Egyptian general, Moses led a campaign against Ethiopia and married an Ethiopian princess.",
+    "source": "Josephus, *Antiquities* 2.10 (2.238-253)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The archangel Michael disputed with the devil over Moses' body, a story Jude alludes to and early writers connect with a lost *Assumption of Moses*.",
+    "source": "Jude 1:9; Origen, *De Principiis* 3.2.1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Moses' ascent of Sinai into the dark cloud is an allegory of the soul's unending growth in the knowledge of God.",
+    "source": "Gregory of Nyssa, *The Life of Moses*",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Slow and careful, conscious that he is not eloquent, and he speaks in measured, weighty sentences. He is gentle with the weak, blunt with rebels, and willing to argue with God for the sake of his people.",
+  "refs": [
+   "Exod 2:1-25",
+   "Exod 3:1-22",
+   "Exod 14:13-31",
+   "Exod 20:1-21",
+   "Exod 32:1-35",
+   "Exod 33:11",
+   "Num 12:3-8",
+   "Num 20:7-13",
+   "Deut 18:15-19",
+   "Deut 34:1-12",
+   "Josh 1:1-2",
+   "Ps 90",
+   "Ps 106:23",
+   "Mic 6:4",
+   "Matt 17:1-5",
+   "John 1:17",
+   "John 5:46",
+   "Acts 7:20-44",
+   "2 Cor 3:7-18",
+   "Heb 3:1-6",
+   "Heb 11:23-29",
+   "Jude 1:9"
+  ],
+  "books": [
+   "Exod",
+   "Lev",
+   "Num",
+   "Deut",
+   "Josh",
+   "Ps",
+   "Mic",
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "2 Cor",
+   "Heb",
+   "Jude",
+   "Rev"
+  ]
+ },
+ {
+  "id": "aaron",
+  "names": {
+   "primary": "Aaron",
+   "original": "אַהֲרֹן",
+   "meaning": "uncertain; possibly of Egyptian origin",
+   "aliases": [
+    "Aaron the priest",
+    "Harun (Islamic tradition)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "born": {
+   "year": -1529,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology (three years older than Moses)",
+     "year": -1343
+    }
+   ]
+  },
+  "died": {
+   "year": -1407,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1221
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1260
+     }
+    ]
+   },
+   {
+    "year": -1407,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1221
+     }
+    ]
+   }
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt",
+   "mount-sinai",
+   "kadesh-barnea",
+   "edom"
+  ],
+  "family": {
+   "parents": [
+    "amram",
+    "jochebed"
+   ],
+   "spouses": [],
+   "children": [
+    "eleazar-priest"
+   ],
+   "siblings": [
+    "moses",
+    "miriam"
+   ]
+  },
+  "roles": [
+   "first high priest of Israel",
+   "spokesman for Moses",
+   "head of the priestly line"
+  ],
+  "occupations": [
+   "priest"
+  ],
+  "skills": [
+   {
+    "name": "Fluent speaker",
+    "refs": [
+     "Exod 4:14-16"
+    ]
+   },
+   {
+    "name": "Performing priestly rites and sacrifice",
+    "refs": [
+     "Lev 9:1-24",
+     "Lev 16:1-34"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Spokesman and prophet for Moses",
+    "refs": [
+     "Exod 7:1-2"
+    ]
+   },
+   {
+    "name": "Priestly intercession that stopped a plague",
+    "refs": [
+     "Num 16:46-48"
+    ]
+   },
+   {
+    "name": "The priestly blessing",
+    "refs": [
+     "Num 6:22-27"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Appointed as Moses' spokesman",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 4:14-16",
+     "Exod 4:27-31"
+    ],
+    "summary": "God sends Aaron to meet Moses at the mountain. He speaks for Moses to the elders and performs the signs."
+   },
+   {
+    "title": "Staff becomes a serpent before Pharaoh",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 7:8-12"
+    ],
+    "summary": "Aaron's staff becomes a serpent and swallows the staffs of Pharaoh's magicians. Aaron also stretches out the staff to begin several of the plagues."
+   },
+   {
+    "title": "Holds up Moses' hands against Amalek",
+    "placeId": "rephidim",
+    "refs": [
+     "Exod 17:10-13"
+    ],
+    "summary": "With Hur, Aaron supports Moses' arms until Joshua's victory."
+   },
+   {
+    "title": "Makes the golden calf",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 32:1-6",
+     "Exod 32:21-25"
+    ],
+    "summary": "Pressed by the people, Aaron collects gold, fashions a calf, and proclaims a feast to the LORD. Confronted by Moses, he plays down his role."
+   },
+   {
+    "title": "Ordained high priest",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 28:1-4",
+     "Lev 8:1-36",
+     "Lev 9:22-24"
+    ],
+    "summary": "Aaron and his sons are washed, robed and anointed. When Aaron first offers sacrifice, fire from the LORD consumes the offering."
+   },
+   {
+    "title": "Death of Nadab and Abihu",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Lev 10:1-7"
+    ],
+    "summary": "Aaron's two eldest sons offer unauthorised fire and are consumed. Aaron holds his peace."
+   },
+   {
+    "title": "With Miriam, challenges Moses",
+    "refs": [
+     "Num 12:1-15"
+    ],
+    "summary": "Aaron and Miriam speak against Moses over his Cushite wife and his unique authority. God rebukes them, and Aaron pleads for the stricken Miriam."
+   },
+   {
+    "title": "Stands between the dead and the living",
+    "refs": [
+     "Num 16:41-50"
+    ],
+    "summary": "After Korah's rebellion, Aaron runs into the assembly with incense and the plague stops."
+   },
+   {
+    "title": "His staff buds",
+    "refs": [
+     "Num 17:1-11",
+     "Heb 9:4"
+    ],
+    "summary": "Of twelve tribal staffs, Aaron's sprouts, blossoms and bears almonds overnight, confirming the Levitical priesthood."
+   },
+   {
+    "title": "Dies on Mount Hor",
+    "year": -1407,
+    "placeId": "edom",
+    "refs": [
+     "Num 20:22-29",
+     "Num 33:38-39"
+    ],
+    "summary": "Barred from Canaan with Moses after Meribah, Aaron dies at 123 on Mount Hor on the border of Edom. His garments pass to Eleazar, and Israel mourns thirty days."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "egypt",
+    "order": 1,
+    "note": "Born and lives among the enslaved Israelites.",
+    "refs": [
+     "Exod 4:14"
+    ]
+   },
+   {
+    "placeId": "horeb",
+    "order": 2,
+    "note": "Meets Moses at the mountain of God.",
+    "refs": [
+     "Exod 4:27"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 3,
+    "note": "Speaks before elders and Pharaoh.",
+    "refs": [
+     "Exod 4:29-31",
+     "Exod 5:1"
+    ]
+   },
+   {
+    "placeId": "mount-sinai",
+    "order": 4,
+    "note": "Golden calf; ordination as high priest.",
+    "refs": [
+     "Exod 32:1-6",
+     "Lev 8:1-36"
+    ]
+   },
+   {
+    "placeId": "kadesh-barnea",
+    "order": 5,
+    "note": "Meribah.",
+    "refs": [
+     "Num 20:1-13"
+    ]
+   },
+   {
+    "placeId": "edom",
+    "order": 6,
+    "note": "Death on Mount Hor at the edge of Edom.",
+    "refs": [
+     "Num 20:22-29"
+    ]
+   }
+  ],
+  "summary": "Aaron, Moses' elder brother, became Israel's first high priest and founder of the hereditary priesthood. God gave him to Moses as a mouthpiece, and he performed signs before Pharaoh and later bore Israel's names on his breastplate when he entered the sanctuary.\n\nHis story holds both honour and failure. He supported Moses at Rephidim, was anointed with holy oil, and ran with incense into a plague to stand between the dead and the living. Yet he made the golden calf at the foot of Sinai, joined Miriam in challenging Moses, and shared in the failure at Meribah that kept him out of Canaan. He died on Mount Hor, and his vestments passed to his son Eleazar.\n\nThe Aaronic priesthood that began with him stayed central to Israel's worship until the temple fell. The Letter to Hebrews contrasts it with the priesthood of Christ 'after the order of Melchizedek'.",
+  "textSays": "Aaron was a Levite, three years older than Moses and 83 at the confrontation with Pharaoh. He married Elisheba and fathered Nadab, Abihu, Eleazar and Ithamar (Exod 6:23). He served as Moses' spokesman, worked signs, and helped hold up Moses' arms against Amalek. He made the golden calf, was consecrated high priest, and saw two of his sons die. He challenged Moses with Miriam, stopped a plague with incense, and his staff budded. He died on Mount Hor at 123.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic teaching remembers Aaron as a lover and pursuer of peace who reconciled quarrelling people (Mishnah, *Avot* 1:12). His role in the calf is often softened as an attempt to delay the people until Moses returned. Priests (kohanim) trace descent from him."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Aaron is a type of the Christian priesthood, and his budding staff is read as a figure of the Virgin Birth. Orthodox and Catholic liturgy commemorate him as a holy prophet."
+   },
+   {
+    "tradition": "Reformed and Evangelical",
+    "view": "Aaron's priesthood is a temporary shadow fulfilled and replaced in Christ, the one high priest whose sacrifice needs no repeating (Heb 7:11-28). His sins show that Israel needed a better priest."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars see the prominence of Aaron as reflecting later priestly circles (the Priestly source) and rivalries among priestly families, though the core figure may be older."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Loyal partner to Moses",
+    "Courageous intercession during the plague",
+    "Submitted in silence to judgment over his sons (Lev 10:3)"
+   ],
+   "failures": [
+    "Made the golden calf and evaded blame",
+    "Envious challenge to Moses with Miriam",
+    "Shared in the unbelief at Meribah"
+   ],
+   "turningPoints": [
+    "Call to join Moses",
+    "The golden calf",
+    "Ordination as high priest",
+    "Death of Nadab and Abihu",
+    "Death on Mount Hor"
+   ]
+  },
+  "context": "Ancient Near Eastern temples had hereditary priests who maintained sacred space and offered sacrifice. Israel's priests did these things too, but they also taught the law and bore the people's names before God (Exod 28:29). Aaron's garments of linen, gold and gemstones, and the turban plate inscribed 'Holiness to the LORD', mark him as the sanctuary's representative.",
+  "legacy": "The priesthood of Aaron's line ran Israel's worship through the first and second temples. The priestly blessing (Num 6:24-26) is still recited in synagogues and churches. In Psalm 133 the oil running down Aaron's beard pictures unity. Hebrews uses Aaron as the foil for Christ's superior priesthood, and Luke notes that John the Baptist's mother Elizabeth was 'of the daughters of Aaron' (Luke 1:5).",
+  "traditions": [
+   {
+    "text": "Aaron loved peace, pursued peace, loved people and drew them near to the Torah.",
+    "source": "Mishnah, *Avot* 1:12 (saying of Hillel)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Warm, conciliatory and articulate, quick to smooth things over and eager to please. When tested he can be evasive, and he is subdued by grief.",
+  "refs": [
+   "Exod 4:14-16",
+   "Exod 7:1-12",
+   "Exod 28:1-4",
+   "Exod 32:1-25",
+   "Lev 8:1-36",
+   "Lev 10:1-7",
+   "Num 12:1-15",
+   "Num 16:46-48",
+   "Num 17:1-11",
+   "Num 20:22-29",
+   "Ps 99:6",
+   "Ps 133:1-3",
+   "Luke 1:5",
+   "Acts 7:40",
+   "Heb 5:1-4",
+   "Heb 7:11",
+   "Heb 9:4"
+  ],
+  "books": [
+   "Exod",
+   "Lev",
+   "Num",
+   "Deut",
+   "Josh",
+   "1 Chr",
+   "Ps",
+   "Mic",
+   "Luke",
+   "Acts",
+   "Heb"
+  ]
+ },
+ {
+  "id": "miriam",
+  "names": {
+   "primary": "Miriam",
+   "original": "מִרְיָם",
+   "meaning": "uncertain; often linked to Egyptian mry ('beloved') or Hebrew roots meaning 'bitterness' or 'rebellion'",
+   "aliases": [
+    "Miriam the prophetess",
+    "Mary (Greek Mariam is the same name)"
+   ]
+  },
+  "tier": "major",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "born": {
+   "year": -1535,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1350
+    }
+   ]
+  },
+  "died": {
+   "year": -1407,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1221
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1260
+     }
+    ]
+   },
+   {
+    "year": -1407,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1221
+     }
+    ]
+   }
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt",
+   "red-sea",
+   "mount-sinai",
+   "kadesh-barnea"
+  ],
+  "family": {
+   "parents": [
+    "amram",
+    "jochebed"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "moses",
+    "aaron"
+   ]
+  },
+  "roles": [
+   "prophetess",
+   "worship leader",
+   "one of three leaders sent before Israel (Mic 6:4)"
+  ],
+  "occupations": [
+   "prophetess"
+  ],
+  "skills": [
+   {
+    "name": "Quick thinking: arranging for Moses to be nursed by his own mother",
+    "refs": [
+     "Exod 2:7-8"
+    ]
+   },
+   {
+    "name": "Music and dance",
+    "refs": [
+     "Exod 15:20-21"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy",
+    "refs": [
+     "Exod 15:20",
+     "Num 12:2"
+    ]
+   },
+   {
+    "name": "Leadership in worship",
+    "refs": [
+     "Exod 15:20-21"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Watches over the infant Moses",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 2:4-8"
+    ],
+    "summary": "Moses' sister (named Miriam in later texts) watches the basket and offers to find a Hebrew nurse, bringing in his mother."
+   },
+   {
+    "title": "Leads the women in song at the sea",
+    "placeId": "red-sea",
+    "refs": [
+     "Exod 15:20-21"
+    ],
+    "summary": "Called 'the prophetess', she takes a timbrel and leads the women in dance, singing, 'Sing ye to the LORD, for he hath triumphed gloriously.'"
+   },
+   {
+    "title": "Challenges Moses and is struck with skin disease",
+    "refs": [
+     "Num 12:1-15"
+    ],
+    "summary": "With Aaron she criticises Moses' Cushite wife and asks whether God has spoken only through Moses. She becomes 'leprous, white as snow', is healed after Moses prays, and is shut out of the camp for seven days while Israel waits for her."
+   },
+   {
+    "title": "Dies at Kadesh",
+    "year": -1407,
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 20:1"
+    ],
+    "summary": "Miriam dies and is buried at Kadesh. The next verse notes there was no water for the congregation."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "egypt",
+    "order": 1,
+    "note": "Childhood under Pharaoh's decree.",
+    "refs": [
+     "Exod 2:4"
+    ]
+   },
+   {
+    "placeId": "red-sea",
+    "order": 2,
+    "note": "Song of victory.",
+    "refs": [
+     "Exod 15:20-21"
+    ]
+   },
+   {
+    "placeId": "mount-sinai",
+    "order": 3,
+    "note": "Encamped at the mountain with Israel.",
+    "refs": [
+     "Exod 19:1-2"
+    ]
+   },
+   {
+    "placeId": "kadesh-barnea",
+    "order": 4,
+    "note": "Death and burial.",
+    "refs": [
+     "Num 20:1"
+    ]
+   }
+  ],
+  "summary": "Miriam is the first woman in Scripture called a prophet. She was the elder sister of Moses and Aaron and is remembered as one of the three leaders God 'sent before' Israel (Mic 6:4). Most readers identify her with the unnamed sister who watched over the infant Moses on the Nile and boldly offered Pharaoh's daughter a Hebrew nurse.\n\nAfter the sea crossing she led the women of Israel in dance and song. Her two-line refrain is often regarded as one of the oldest pieces of poetry in the Bible. Later, with Aaron, she challenged Moses' unique authority, was struck with a skin disease, and was healed through Moses' prayer, and the whole camp waited for her seven days. She died at Kadesh shortly before Aaron and Moses. Deuteronomy cites her affliction as a warning, while Micah ranks her with her brothers as a leader of the exodus.",
+  "textSays": "She is called 'the prophetess, the sister of Aaron'. She led the women's song at the sea. With Aaron she spoke against Moses, was struck with leprosy (a skin disease), and was shut out of the camp seven days. She died and was buried at Kadesh. Micah names her with Moses and Aaron as sent before Israel, and the genealogies list her as a child of Amram and Jochebed. The sister in Exodus 2 is not named there.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition credits Miriam with prophesying Moses' birth and gives her a miraculous well that followed Israel in the desert. The well dried up when she died, which explains the lack of water in Num 20:2. Some modern Jewish practice places a 'Miriam's cup' on the Passover table."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Church Fathers read her song as a type of the Church rejoicing after baptism. Her rebuke is often used as a lesson against envy of God's appointed leaders. The Greek form of her name, Mariam, is the name of Mary the mother of Jesus."
+   },
+   {
+    "tradition": "Feminist and literary scholarship",
+    "view": "Many scholars think the Song of the Sea may originally have been attributed to Miriam and argue that her leadership role was reduced in the final editing. Others answer that the text openly honours her as a prophet and leader and that Numbers 12 treats Aaron's fault as equal to hers."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Courage and resourcefulness as a girl",
+    "Prophetic leadership in worship",
+    "Recognised leader alongside her brothers"
+   ],
+   "failures": [
+    "Envy and criticism of Moses in Numbers 12"
+   ],
+   "turningPoints": [
+    "Rescue of Moses",
+    "Song at the sea",
+    "Rebuke and healing",
+    "Death at Kadesh"
+   ]
+  },
+  "context": "Women singing and dancing with hand drums to celebrate military victory is a recognised pattern in Israel and the wider ancient Near East (compare Judg 11:34; 1 Sam 18:6-7). Skin disease brought ritual exclusion from the camp under Levitical law (Lev 13:45-46).",
+  "legacy": "Miriam is honoured as a prophet in Jewish and Christian tradition. Her song at the sea became an image of the redeemed praising God, echoed in the 'song of Moses' sung by the victorious in Revelation 15:3. Her name passed down as Mariam and Mary, borne by several women in the Gospels.",
+  "traditions": [
+   {
+    "text": "A well gave water to Israel in the wilderness because of Miriam's merit and disappeared at her death.",
+    "source": "Babylonian Talmud, Taanit 9a",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Miriam prophesied that her parents would bear the child who would save Israel.",
+    "source": "Babylonian Talmud, Megillah 14a",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Bold, exuberant and musical, an older sister used to taking charge. She speaks in short, ringing phrases.",
+  "refs": [
+   "Exod 2:4-8",
+   "Exod 15:20-21",
+   "Num 12:1-15",
+   "Num 20:1",
+   "Num 26:59",
+   "Deut 24:9",
+   "1 Chr 6:3",
+   "Mic 6:4"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "Deut",
+   "1 Chr",
+   "Mic"
+  ]
+ },
+ {
+  "id": "jethro",
+  "names": {
+   "primary": "Jethro",
+   "original": "יִתְרוֹ",
+   "meaning": "abundance, excellence",
+   "aliases": [
+    "Reuel",
+    "Raguel (KJV Num 10:29)",
+    "Shu'ayb (identified with him by some Islamic and Druze tradition)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "nation": "Midian",
+  "placeIds": [
+   "midian",
+   "horeb",
+   "mount-sinai"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "zipporah"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "priest of Midian",
+   "father-in-law and adviser of Moses"
+  ],
+  "occupations": [
+   "priest",
+   "shepherd (head of a herding household)"
+  ],
+  "skills": [
+   {
+    "name": "Administrative wisdom: organising courts of delegated judges",
+    "refs": [
+     "Exod 18:17-23"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Wise counsel",
+    "refs": [
+     "Exod 18:19"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Welcomes the fugitive Moses",
+    "placeId": "midian",
+    "refs": [
+     "Exod 2:16-22"
+    ],
+    "summary": "After Moses defends his seven daughters at a well, Reuel takes him in and gives him Zipporah in marriage."
+   },
+   {
+    "title": "Lets Moses return to Egypt",
+    "placeId": "midian",
+    "refs": [
+     "Exod 4:18"
+    ],
+    "summary": "Moses asks leave of Jethro and is sent off with a blessing of peace."
+   },
+   {
+    "title": "Rejoices at the exodus and offers sacrifice",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 18:1-12"
+    ],
+    "summary": "Bringing Zipporah and her sons, Jethro hears the story of deliverance, confesses that the LORD is greater than all gods, and offers sacrifice, eating with Aaron and the elders."
+   },
+   {
+    "title": "Advises Moses to appoint judges",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 18:13-27"
+    ],
+    "summary": "Seeing Moses judging alone from morning to evening, he advises setting capable, God-fearing men over thousands, hundreds, fifties and tens."
+   }
+  ],
+  "summary": "Jethro, also called Reuel, was the priest of Midian who sheltered Moses in exile and became his father-in-law. After the exodus he came to the mountain of God and praised the LORD for delivering Israel. He offered sacrifice there and gave Moses the practical advice to share the work of judging among capable men. The text never explains how a Midianite priest came to worship Israel's God, and scholars debate how far he influenced Israel's religion. The relationship of the names Reuel, Jethro and Hobab is also debated (Num 10:29; Judg 4:11).",
+  "textSays": "He was a priest of Midian with seven daughters, gave Zipporah to Moses, blessed Moses' return to Egypt, came to Moses in the wilderness, blessed the LORD, offered sacrifices, advised a system of judges, and went home.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition treats Jethro as a model convert who left idolatry. A Torah portion (Yitro, containing the Ten Commandments) is named after him."
+   },
+   {
+    "tradition": "Christian",
+    "view": "He is an example of a Gentile drawn to the true God and of good counsel humbly received by a great leader."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The 'Midianite' or 'Kenite' hypothesis suggests that worship of YHWH came to Israel partly through Midianite and Kenite circles in the south, with Jethro as a literary memory of that link. Critics of the hypothesis note that the text presents Jethro learning of the LORD's deeds from Moses."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "The Druze revere Jethro (Shu'ayb) as a chief prophet and make pilgrimage to a shrine near Hattin in Galilee.",
+    "source": "Druze religious practice (Nabi Shu'ayb shrine)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "A courteous, seasoned elder and host who gives frank advice kindly: 'What you are doing is not good.'",
+  "refs": [
+   "Exod 2:16-22",
+   "Exod 3:1",
+   "Exod 4:18",
+   "Exod 18:1-27",
+   "Num 10:29-32",
+   "Judg 4:11"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "Judg"
+  ]
+ },
+ {
+  "id": "zipporah",
+  "names": {
+   "primary": "Zipporah",
+   "original": "צִפֹּרָה",
+   "meaning": "bird",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "nation": "Midian",
+  "placeIds": [
+   "midian",
+   "mount-sinai"
+  ],
+  "family": {
+   "parents": [
+    "jethro"
+   ],
+   "spouses": [
+    "moses"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "wife of Moses"
+  ],
+  "occupations": [
+   "shepherdess"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Marries Moses",
+    "placeId": "midian",
+    "refs": [
+     "Exod 2:21-22"
+    ],
+    "summary": "Given to Moses by her father, she bears Gershom."
+   },
+   {
+    "title": "Circumcises her son on the way to Egypt",
+    "refs": [
+     "Exod 4:24-26"
+    ],
+    "summary": "When the LORD meets Moses and seeks to kill him, Zipporah circumcises their son with a flint, touches his feet with the foreskin, and calls him a 'bridegroom of blood'. The LORD lets him alone."
+   }
+  ],
+  "summary": "Zipporah, daughter of Jethro, married Moses in Midian and bore Gershom and Eliezer. She is best known for the obscure episode on the road to Egypt where her quick circumcision of their son averts the LORD's threat against Moses. Moses seems to have sent her home before the exodus, and Jethro later brought her and the boys back to him (Exod 18:2-6). Whether she is the 'Cushite woman' of Numbers 12:1 is debated.",
+  "textSays": "She was one of the seven daughters of the priest of Midian, married Moses, bore Gershom and Eliezer, circumcised a son in the encounter of Exodus 4, was sent back and later brought to Moses at the mountain of God.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Commentators debate whose life was threatened in Exodus 4 (Moses or the child) and explain the episode as punishment for delaying circumcision. Some midrashim identify her with the Cushite woman because of her beauty."
+   },
+   {
+    "tradition": "Christian and modern scholarship",
+    "view": "Exodus 4:24-26 is one of the most puzzling passages in the Torah. It is often read as stressing that the deliverer himself must be under the covenant sign, with Zipporah acting as an intercessor. Many scholars think the Cushite wife of Numbers 12 was a different, second wife."
+   }
+  ],
+  "voice": "Decisive under pressure and few in words, an outsider who acts when others freeze.",
+  "refs": [
+   "Exod 2:21-22",
+   "Exod 4:24-26",
+   "Exod 18:2-6"
+  ],
+  "books": [
+   "Exod"
+  ]
+ },
+ {
+  "id": "pharaoh-of-the-exodus",
+  "names": {
+   "primary": "Pharaoh of the Exodus",
+   "original": "פַּרְעֹה (from Egyptian per-aa, 'great house')",
+   "meaning": "royal title 'great house', not a personal name",
+   "aliases": [
+    "Pharaoh",
+    "Fir'awn (Islamic tradition)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "active": [
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early exodus: Amenhotep II (reigned c. 1427–1401 BC) or Thutmose III",
+      "year": -1446,
+      "source": "1 Kgs 6:1"
+     },
+     {
+      "label": "Late exodus: Ramesses II (reigned 1279–1213 BC)",
+      "year": -1260
+     },
+     {
+      "label": "Late exodus: Merneptah (reigned c. 1213–1203 BC)",
+      "year": -1210
+     }
+    ]
+   },
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1260
+     }
+    ]
+   }
+  ],
+  "nation": "Egypt",
+  "placeIds": [
+   "egypt",
+   "goshen",
+   "rameses",
+   "red-sea"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "king of Egypt",
+   "oppressor of Israel"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Refuses to let Israel go",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 5:1-9"
+    ],
+    "summary": "Pharaoh answers, 'Who is the LORD, that I should obey his voice?', and increases the slaves' workload."
+   },
+   {
+    "title": "Hardens his heart through the plagues",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 7:13-14",
+     "Exod 8:15",
+     "Exod 9:12",
+     "Exod 9:34-35",
+     "Exod 10:1-2"
+    ],
+    "summary": "Over ten plagues Pharaoh bargains, relents and reverses himself. The text alternates between Pharaoh hardening his own heart and the LORD hardening it."
+   },
+   {
+    "title": "Releases Israel after the death of the firstborn",
+    "placeId": "egypt",
+    "refs": [
+     "Exod 12:29-32"
+    ],
+    "summary": "After his own firstborn dies, he summons Moses by night and tells Israel to go."
+   },
+   {
+    "title": "Pursues Israel to the sea",
+    "placeId": "red-sea",
+    "refs": [
+     "Exod 14:5-9",
+     "Exod 14:23-28",
+     "Ps 136:15"
+    ],
+    "summary": "He pursues with chariots, and his army is drowned when the waters return."
+   }
+  ],
+  "summary": "The king who refused to release Israel is never named in Exodus, which uses only the title Pharaoh. He may or may not be the same king as the earlier oppressor who died while Moses was in Midian (Exod 2:23). His identity depends on the date of the exodus. The early date (about 1446 BC) points to Thutmose III or Amenhotep II. The late date points to Ramesses II, builder of Pi-Ramesses, or less often his son Merneptah. Scripture is less interested in his identity than in what his defiance shows: the God of Israel, not the divine king of Egypt, is Lord, and the hardening of Pharaoh's heart displays God's power (Rom 9:17).",
+  "textSays": "He refused to know the LORD, increased the burdens, repeatedly hardened his heart (and the LORD hardened it), lost his firstborn, released Israel, then pursued them. His chariot army was drowned in the sea. Exodus does not explicitly say Pharaoh himself drowned, though Psalm 136:15 says God overthrew Pharaoh and his host in the sea.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The midrash debates the hardening of his heart. A common view is that Pharaoh hardened his own heart for the first five plagues and God confirmed his choice afterwards."
+   },
+   {
+    "tradition": "Reformed",
+    "view": "Romans 9:17-18 is read as showing God's sovereign freedom to harden whom he wills for his glory, while Pharaoh remains responsible for his own pride."
+   },
+   {
+    "tradition": "Arminian and Wesleyan",
+    "view": "The hardening is God's judicial confirmation of Pharaoh's prior, freely chosen resistance, not an unconditional decree. These readers point out that Pharaoh hardens himself first."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "No Egyptian record mentions the plagues or the exodus. Scholars disagree whether any particular king lies behind the story or whether 'Pharaoh' is an archetype of imperial power."
+   }
+  ],
+  "voice": "Imperious and contemptuous, he bargains when cornered and turns defiant again as soon as relief comes.",
+  "refs": [
+   "Exod 1:8-22",
+   "Exod 5:1-9",
+   "Exod 7:13-14",
+   "Exod 12:29-32",
+   "Exod 14:5-28",
+   "Ps 136:15",
+   "Rom 9:17-18"
+  ],
+  "books": [
+   "Exod",
+   "Ps",
+   "Rom"
+  ]
+ },
+ {
+  "id": "joshua",
+  "names": {
+   "primary": "Joshua",
+   "original": "יְהוֹשֻׁעַ (Yehoshua)",
+   "meaning": "the LORD is salvation (Greek form Iesous, the same name as Jesus)",
+   "aliases": [
+    "Hoshea / Oshea (his earlier name)",
+    "Joshua son of Nun",
+    "Jehoshua",
+    "Jesus (KJV Acts 7:45 and Heb 4:8)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus",
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1490,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1300
+    }
+   ]
+  },
+  "died": {
+   "year": -1380,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1190
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1446,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late exodus",
+      "year": -1260
+     }
+    ]
+   },
+   {
+    "year": -1380,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1190
+     }
+    ]
+   }
+  ],
+  "tribe": "Ephraim",
+  "nation": "Israel",
+  "placeIds": [
+   "egypt",
+   "rephidim",
+   "mount-sinai",
+   "kadesh-barnea",
+   "moab",
+   "jordan-river",
+   "gilgal",
+   "jericho",
+   "ai",
+   "shechem",
+   "hazor",
+   "shiloh"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "military commander",
+   "assistant to Moses",
+   "spy",
+   "successor of Moses",
+   "leader of the conquest",
+   "allotter of the land"
+  ],
+  "occupations": [
+   "soldier",
+   "commander"
+  ],
+  "skills": [
+   {
+    "name": "Military leadership",
+    "refs": [
+     "Exod 17:9-13",
+     "Josh 8:1-29",
+     "Josh 10:9-11"
+    ]
+   },
+   {
+    "name": "Reconnaissance",
+    "refs": [
+     "Num 13:8",
+     "Josh 2:1"
+    ]
+   },
+   {
+    "name": "Dividing the land among the tribes",
+    "refs": [
+     "Josh 18:8-10"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Spirit of wisdom through the laying on of Moses' hands",
+    "refs": [
+     "Num 27:18",
+     "Deut 34:9"
+    ]
+   },
+   {
+    "name": "Courageous faith",
+    "refs": [
+     "Num 14:6-9",
+     "Josh 1:9"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Defeats Amalek at Rephidim",
+    "placeId": "rephidim",
+    "refs": [
+     "Exod 17:8-14"
+    ],
+    "summary": "Joshua leads Israel's fighters, and the battle turns according to whether Moses' hands are raised."
+   },
+   {
+    "title": "Attends Moses on Sinai and at the tent",
+    "placeId": "mount-sinai",
+    "refs": [
+     "Exod 24:13",
+     "Exod 32:17",
+     "Exod 33:11"
+    ],
+    "summary": "As Moses' young assistant he goes partway up the mountain and stays at the tent of meeting."
+   },
+   {
+    "title": "One of two faithful spies",
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 13:8",
+     "Num 13:16",
+     "Num 14:6-10",
+     "Num 14:30"
+    ],
+    "summary": "Renamed Joshua by Moses, he and Caleb urge Israel to trust God and enter the land. Only these two of their generation will do so."
+   },
+   {
+    "title": "Commissioned as Moses' successor",
+    "placeId": "moab",
+    "refs": [
+     "Num 27:18-23",
+     "Deut 31:7-8",
+     "Deut 34:9"
+    ],
+    "summary": "Moses lays hands on him before Eleazar and the congregation and charges him to be strong and courageous."
+   },
+   {
+    "title": "Crosses the Jordan",
+    "placeId": "jordan-river",
+    "refs": [
+     "Josh 1:1-9",
+     "Josh 3:14-17",
+     "Josh 4:19-24"
+    ],
+    "summary": "When the priests carrying the ark step into the flooded Jordan, the water stops and Israel crosses on dry ground to Gilgal. Twelve memorial stones are set up."
+   },
+   {
+    "title": "Meets the commander of the LORD's army",
+    "placeId": "jericho",
+    "refs": [
+     "Josh 5:13-15"
+    ],
+    "summary": "A sword-bearing figure declares he is commander of the LORD's army, and Joshua removes his sandals on holy ground."
+   },
+   {
+    "title": "The fall of Jericho",
+    "placeId": "jericho",
+    "refs": [
+     "Josh 6:1-27"
+    ],
+    "summary": "After seven days of marching with the ark and trumpets, the walls fall. The city is devoted to destruction except Rahab's household."
+   },
+   {
+    "title": "Achan's sin and the capture of Ai",
+    "placeId": "ai",
+    "refs": [
+     "Josh 7:1-26",
+     "Josh 8:1-29"
+    ],
+    "summary": "A defeat at Ai exposes Achan's theft of devoted things. After judgment, Joshua takes Ai by ambush."
+   },
+   {
+    "title": "Covenant renewal at Mount Ebal",
+    "placeId": "shechem",
+    "refs": [
+     "Josh 8:30-35"
+    ],
+    "summary": "Joshua builds an altar, writes a copy of the law on stones and reads the blessings and curses."
+   },
+   {
+    "title": "Treaty with Gibeon; the long day",
+    "refs": [
+     "Josh 9:3-27",
+     "Josh 10:12-14"
+    ],
+    "summary": "Deceived into a treaty with Gibeon, Joshua honours it and defends the city against five Amorite kings. He commands the sun to stand still, and the text calls the day unique."
+   },
+   {
+    "title": "Northern campaign and destruction of Hazor",
+    "placeId": "hazor",
+    "refs": [
+     "Josh 11:1-15"
+    ],
+    "summary": "He defeats a northern coalition at the waters of Merom and burns Hazor, 'the head of all those kingdoms'."
+   },
+   {
+    "title": "Farewell covenant at Shechem and death",
+    "placeId": "shechem",
+    "refs": [
+     "Josh 24:1-28",
+     "Josh 24:29-31"
+    ],
+    "summary": "He rehearses Israel's history and calls them to choose whom they will serve: 'as for me and my house, we will serve the LORD'. He dies at 110 and is buried at Timnath-serah."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "egypt",
+    "order": 1,
+    "note": "Born in slavery.",
+    "refs": [
+     "Num 14:30"
+    ]
+   },
+   {
+    "placeId": "rephidim",
+    "order": 2,
+    "note": "First battle, against Amalek.",
+    "refs": [
+     "Exod 17:8-13"
+    ]
+   },
+   {
+    "placeId": "mount-sinai",
+    "order": 3,
+    "note": "Moses' assistant.",
+    "refs": [
+     "Exod 24:13"
+    ]
+   },
+   {
+    "placeId": "kadesh-barnea",
+    "order": 4,
+    "note": "Spy mission and faithful report.",
+    "refs": [
+     "Num 13:26",
+     "Num 14:6-9"
+    ]
+   },
+   {
+    "placeId": "moab",
+    "order": 5,
+    "note": "Commissioned as successor.",
+    "refs": [
+     "Num 27:18-23"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 6,
+    "note": "Crossing.",
+    "refs": [
+     "Josh 3:14-17"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 7,
+    "note": "Base camp; circumcision and Passover.",
+    "refs": [
+     "Josh 4:19",
+     "Josh 5:2-10"
+    ]
+   },
+   {
+    "placeId": "jericho",
+    "order": 8,
+    "note": "Fall of Jericho.",
+    "refs": [
+     "Josh 6:20"
+    ]
+   },
+   {
+    "placeId": "ai",
+    "order": 9,
+    "note": "Defeat, then victory.",
+    "refs": [
+     "Josh 8:1-29"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 10,
+    "note": "Altar and reading of the law near Ebal and Gerizim.",
+    "refs": [
+     "Josh 8:30-35"
+    ]
+   },
+   {
+    "placeId": "hazor",
+    "order": 11,
+    "note": "Northern campaign.",
+    "refs": [
+     "Josh 11:10-13"
+    ]
+   },
+   {
+    "placeId": "shiloh",
+    "order": 12,
+    "note": "Tabernacle set up; land allotted.",
+    "refs": [
+     "Josh 18:1-10"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 13,
+    "note": "Final covenant renewal.",
+    "refs": [
+     "Josh 24:1-28"
+    ]
+   }
+  ],
+  "summary": "Joshua son of Nun, an Ephraimite, grew from Moses' young aide and field commander into his successor. With Caleb he alone among the twelve spies urged Israel to trust God and enter Canaan, and so only they of the exodus generation survived to do it. Commissioned by the laying on of Moses' hands, he led Israel across the Jordan, took Jericho, Ai and Hazor, and divided the land among the tribes. He ended his life calling Israel to renew the covenant at Shechem.\n\nThe Book of Joshua portrays him as a second Moses. Waters part before him, he removes his sandals on holy ground, he mediates the covenant, and he is repeatedly called to meditate on the law and be strong and courageous. He is not flawless: he attacks Ai without seeking God and is tricked by the Gibeonites because he 'asked not counsel at the mouth of the LORD' (Josh 9:14). But the book ends with the note that Israel served the LORD all his days.\n\nThe conquest raises two large debates. The first is historical. Excavations at Jericho, Ai and Hazor are read in different ways, and many scholars favour gradual settlement or peasant-revolt models over a swift campaign; the text itself also notes much land left unconquered (Josh 13:1). The second is ethical: how to understand the command to devote Canaanite cities to destruction. Christians have also seen in his name, the Hebrew form of Jesus, a foreshadowing of the one who leads God's people into rest.",
+  "textSays": "The text says he was the son of Nun of Ephraim, first named Hoshea. He fought Amalek, served Moses, spied out Canaan and gave a faithful report, and was commissioned with Moses' hands laid on him. He led the crossing of the Jordan and the wars of Joshua 6–12, allotted the land, and renewed the covenant at Shechem. He died at 110 and was buried at Timnath-serah in Ephraim. Joshua 10 says the sun stood still at his word, and Joshua 11:23 says he took 'the whole land', although Joshua 13:1 and Judges 1 list territory left unconquered.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Joshua is the faithful disciple who received the Torah from Moses and passed it to the elders, the second link in the chain of tradition (*Avot* 1:1). The rabbis remember him as the student who never left the tent. Rabbinic tradition also credits him with writing the book of Joshua (b. Bava Batra 15a)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "The Fathers read Joshua as a type of Jesus. The two share a name, and Joshua, not Moses (the law), brings the people into the promised land. The Jordan crossing prefigures baptism and Rahab's scarlet cord prefigures redemption by blood (Origen, *Homilies on Joshua*)."
+   },
+   {
+    "tradition": "Reformed and Evangelical",
+    "view": "Joshua shows covenant faithfulness and God keeping his promises to Abraham. The conquest is read as a unique, limited act of divine judgment on Canaanite sin (Gen 15:16), not a model for later warfare. Hebrews 4:8 shows that Joshua's rest was a foretaste of a greater Sabbath rest."
+   },
+   {
+    "tradition": "Critical and historical scholarship",
+    "view": "Most historians see the conquest account as a later theological narrative, edited within the Deuteronomistic History. It compresses a long and complex emergence of Israel in the highlands. Others, notably some evangelical archaeologists, argue for a historical core and point to the burning of Hazor and, under early dating, to the walls of Jericho."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Unwavering faith when the majority despaired",
+    "Loyal service and apprenticeship under Moses",
+    "Courage and decisive leadership",
+    "Integrity in keeping an oath even when deceived (Josh 9:19-20)"
+   ],
+   "failures": [
+    "Did not inquire of God before Ai or before the Gibeonite treaty",
+    "Left the land incompletely possessed and named no single successor (Judg 2:10)"
+   ],
+   "turningPoints": [
+    "Victory over Amalek",
+    "The spy report",
+    "Commissioning by Moses",
+    "The vision before Jericho",
+    "The covenant at Shechem"
+   ]
+  },
+  "context": "Late Bronze Age Canaan was a patchwork of city-states under Egyptian overlordship. The Amarna letters (c. 1350 BC) show local kings complaining about raiders called 'Habiru'; some link the Habiru with Hebrews, though most scholars think the terms are not equivalent. Hazor was the largest city in the region, and its Late Bronze city was destroyed by fire. Early Iron Age villages spread across the central hill country in the 12th–11th centuries BC. 'Devoting' a city to a god (herem) is also known from Moab's Mesha Stele.",
+  "legacy": "Joshua's charge, 'Be strong and of a good courage', and his choice, 'as for me and my house, we will serve the LORD', are among the most quoted lines in Scripture. The conquest narrative was used across history to justify Christian crusades and colonial wars, and modern ethics and theology are still working through that misuse. Christians read him as a figure of Jesus who brings God's people into their inheritance.",
+  "traditions": [
+   {
+    "text": "Joshua wrote the book that bears his name and the final eight verses of Deuteronomy.",
+    "source": "Babylonian Talmud, Bava Batra 15a",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Joshua married Rahab, and prophets and priests descended from them.",
+    "source": "Babylonian Talmud, Megillah 14b",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Plain-spoken and soldierly, he gives clear orders and repeats the charge to be strong and courageous. He is reverent and direct, and in old age he presses people for a decision.",
+  "refs": [
+   "Exod 17:8-14",
+   "Exod 33:11",
+   "Num 13:16",
+   "Num 14:6-10",
+   "Num 27:18-23",
+   "Deut 31:7-8",
+   "Deut 34:9",
+   "Josh 1:1-9",
+   "Josh 3:7",
+   "Josh 5:13-15",
+   "Josh 6:1-27",
+   "Josh 10:12-14",
+   "Josh 11:23",
+   "Josh 13:1",
+   "Josh 24:14-15",
+   "Josh 24:29-31",
+   "Judg 2:6-10",
+   "1 Kgs 16:34",
+   "Acts 7:45",
+   "Heb 4:8"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "Deut",
+   "Josh",
+   "Judg",
+   "1 Kgs",
+   "1 Chr",
+   "Neh",
+   "Acts",
+   "Heb"
+  ]
+ },
+ {
+  "id": "caleb",
+  "names": {
+   "primary": "Caleb",
+   "original": "כָּלֵב",
+   "meaning": "dog (in the sense of a loyal servant), or 'wholehearted'",
+   "aliases": [
+    "Caleb son of Jephunneh",
+    "the Kenizzite"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus",
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1485,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Late-exodus chronology",
+     "year": -1300
+    }
+   ]
+  },
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "kadesh-barnea",
+   "hebron",
+   "negev"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "spy",
+   "tribal leader of Judah",
+   "warrior"
+  ],
+  "occupations": [
+   "soldier"
+  ],
+  "skills": [
+   {
+    "name": "Warfare in old age",
+    "refs": [
+     "Josh 14:10-12",
+     "Josh 15:14"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "A different spirit: wholehearted faith",
+    "refs": [
+     "Num 14:24",
+     "Josh 14:8"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Faithful spy",
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 13:6",
+     "Num 13:30",
+     "Num 14:6-9"
+    ],
+    "summary": "Representing Judah, he silences the people and says, 'Let us go up at once and possess it.'"
+   },
+   {
+    "title": "Promised a share in the land",
+    "placeId": "kadesh-barnea",
+    "refs": [
+     "Num 14:24",
+     "Num 32:11-12"
+    ],
+    "summary": "Because he followed the LORD fully, he and his descendants are promised the land he walked on."
+   },
+   {
+    "title": "At 85, claims Hebron",
+    "placeId": "hebron",
+    "refs": [
+     "Josh 14:6-15",
+     "Josh 15:13-14"
+    ],
+    "summary": "Still strong, he asks for the hill country held by the Anakim and drives out the three sons of Anak."
+   },
+   {
+    "title": "Gives Achsah to Othniel",
+    "placeId": "negev",
+    "refs": [
+     "Josh 15:16-19",
+     "Judg 1:12-15"
+    ],
+    "summary": "He offers his daughter to whoever takes Kiriath-sepher. Othniel does so, and Achsah asks for springs of water as well."
+   }
+  ],
+  "summary": "Caleb son of Jephunneh, of Judah, was the other faithful spy alongside Joshua. While ten spies spread fear about giants and fortified cities, Caleb urged immediate obedience, and God commended him for having 'another spirit'. Forty-five years later, aged 85, he claimed the giant-held hill country of Hebron and took it. He is called a Kenizzite, which suggests that his clan was of non-Israelite origin and had been absorbed into Judah. Interpreters often cite this as a sign that membership in Israel rested on faith and allegiance more than on bloodline.",
+  "textSays": "He was the son of Jephunneh the Kenizzite and represented Judah among the spies. He gave a faithful report, was spared from the wilderness judgment, and at 85 received Hebron. He drove out the Anakim and gave his daughter Achsah to Othniel.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Midrash says Caleb went alone to Hebron during the spy mission to pray at the patriarchs' tombs for strength to resist the other spies (b. Sotah 34b)."
+   },
+   {
+    "tradition": "Christian",
+    "view": "He is a model of wholehearted perseverance and vigorous faith in old age."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The Calebites are seen as a southern clan, possibly Edomite-related (Kenaz appears in Gen 36:11), who were later incorporated into Judah around Hebron."
+   }
+  ],
+  "voice": "Bluff, cheerful and fearless, an old soldier who asks for the hardest assignment.",
+  "refs": [
+   "Num 13:30",
+   "Num 14:24",
+   "Num 32:12",
+   "Deut 1:36",
+   "Josh 14:6-15",
+   "Josh 15:13-19",
+   "Judg 1:12-15"
+  ],
+  "books": [
+   "Num",
+   "Deut",
+   "Josh",
+   "Judg",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "korah",
+  "names": {
+   "primary": "Korah",
+   "original": "קֹרַח",
+   "meaning": "bald",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "kadesh-barnea"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Kohathite Levite",
+   "leader of a rebellion"
+  ],
+  "occupations": [
+   "Levite"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Rebels against Moses and Aaron",
+    "refs": [
+     "Num 16:1-35"
+    ],
+    "summary": "With Dathan, Abiram and 250 leaders he accuses Moses and Aaron of exalting themselves, since 'all the congregation are holy'. The earth swallows the rebels' households and fire consumes the 250 men offering incense."
+   }
+  ],
+  "summary": "Korah, a Levite cousin of Moses and Aaron, led a revolt claiming that the whole congregation was holy and that the priesthood should not be reserved for Aaron. God judged the rebellion dramatically, but Korah's sons did not die (Num 26:11), and their descendants became temple singers credited with several psalms ('the sons of Korah'). Jude names Korah's rebellion as a pattern of defiance against God-given authority.",
+  "textSays": "He was son of Izhar, son of Kohath. He rebelled with Reubenite allies and 250 leaders and perished when the ground opened. His sons survived.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Mishnah names Korah's company as the classic example of a dispute not for the sake of heaven (*Avot* 5:17)."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Korah warns against rejecting God's appointed order (Jude 1:11). Protestant readers also note that his slogan misused the true teaching that all Israel was holy (Exod 19:6)."
+   }
+  ],
+  "voice": "Smooth and populist, he presents his ambition as concern for the equality of the people.",
+  "refs": [
+   "Exod 6:21",
+   "Num 16:1-35",
+   "Num 26:9-11",
+   "Ps 106:16-18",
+   "Jude 1:11"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "1 Chr",
+   "Ps",
+   "Jude"
+  ]
+ },
+ {
+  "id": "balaam",
+  "names": {
+   "primary": "Balaam",
+   "original": "בִּלְעָם",
+   "meaning": "uncertain; perhaps 'devourer' or 'not of the people'",
+   "aliases": [
+    "Balaam son of Beor"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "egypt-exodus"
+  ],
+  "nation": "Aram (Pethor on the Euphrates)",
+  "placeIds": [
+   "moab",
+   "midian"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "diviner",
+   "seer",
+   "prophet for hire"
+  ],
+  "occupations": [
+   "diviner"
+  ],
+  "skills": [
+   {
+    "name": "Divination and poetic oracles",
+    "refs": [
+     "Num 22:7",
+     "Num 24:1",
+     "Josh 13:22"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Inspired oracles despite himself",
+    "refs": [
+     "Num 23:5",
+     "Num 24:2-3"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Hired by Balak to curse Israel",
+    "placeId": "moab",
+    "refs": [
+     "Num 22:1-21"
+    ],
+    "summary": "Balak king of Moab sends for him. God first forbids him to go, then permits him to go on condition that he speak only God's word."
+   },
+   {
+    "title": "The speaking donkey",
+    "refs": [
+     "Num 22:21-35",
+     "2 Pet 2:15-16"
+    ],
+    "summary": "His donkey sees the angel of the LORD blocking the road and speaks when beaten. Balaam's eyes are then opened."
+   },
+   {
+    "title": "Four oracles of blessing",
+    "placeId": "moab",
+    "refs": [
+     "Num 23:7-10",
+     "Num 23:18-24",
+     "Num 24:3-9",
+     "Num 24:15-24"
+    ],
+    "summary": "From three vantage points he blesses Israel instead of cursing it, ending with the prophecy of a star out of Jacob and a sceptre out of Israel."
+   },
+   {
+    "title": "Counsels Moab to entice Israel; killed",
+    "placeId": "midian",
+    "refs": [
+     "Num 31:8",
+     "Num 31:16",
+     "Rev 2:14"
+    ],
+    "summary": "His counsel leads to Israel's sin with Moabite and Midianite women at Peor. He is killed with the kings of Midian."
+   }
+  ],
+  "summary": "Balaam son of Beor was a famous foreign seer hired by Balak of Moab to curse Israel on the plains of Moab. God turned his intended curses into blessings, including the messianic-sounding oracle of a star rising out of Jacob. The comic scene of the talking donkey shows a renowned 'seer' who sees less than his animal. Later passages say that he advised Moab to lure Israel into idolatry and immorality at Peor. Scripture remembers him as a man who loved the wages of unrighteousness (2 Pet 2:15). An 8th-century BC plaster inscription from Deir Alla in Jordan names a seer 'Balaam son of Beor', one of the few extra-biblical attestations of a figure from the Torah.",
+  "textSays": "He came from Pethor, was summoned by Balak, was stopped by the angel and his donkey, delivered four oracles blessing Israel, and was later killed by Israel among the Midianites. Numbers 31:16 blames the Peor apostasy on his counsel.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The rabbis contrasted the disciples of Abraham (generous, humble) with the disciples of Balaam (greedy, proud) (*Avot* 5:19). Some saw him as a Gentile counterpart to Moses."
+   },
+   {
+    "tradition": "Christian",
+    "view": "The New Testament treats him as the archetype of a corrupt, mercenary prophet (2 Pet 2:15; Jude 1:11; Rev 2:14). Many Fathers read the star of Num 24:17 as a prophecy of Christ, linking it to the magi's star."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The Deir Alla inscription (c. 800 BC) shows that Balaam was a known figure in Transjordanian tradition. The oracles in Numbers 23–24 contain archaic poetry, and the negative tradition (Num 31) is often assigned to a different source from the positive one."
+   }
+  ],
+  "voice": "Grand and professional in manner, with a seer's solemn cadence. He is torn between greed for the fee and fear of the God he cannot override.",
+  "refs": [
+   "Num 22:1-41",
+   "Num 23:1-30",
+   "Num 24:1-25",
+   "Num 31:8",
+   "Num 31:16",
+   "Deut 23:4-5",
+   "Josh 13:22",
+   "Josh 24:9-10",
+   "Neh 13:2",
+   "Mic 6:5",
+   "2 Pet 2:15-16",
+   "Jude 1:11",
+   "Rev 2:14"
+  ],
+  "books": [
+   "Num",
+   "Deut",
+   "Josh",
+   "Neh",
+   "Mic",
+   "2 Pet",
+   "Jude",
+   "Rev"
+  ]
+ },
+ {
+  "id": "rahab",
+  "names": {
+   "primary": "Rahab",
+   "original": "רָחָב",
+   "meaning": "broad, wide",
+   "aliases": [
+    "Rahab the harlot",
+    "Rachab (KJV Matt 1:5)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "nation": "Canaan (Jericho), later Israel",
+  "placeIds": [
+   "jericho"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "boaz"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "innkeeper or prostitute of Jericho",
+   "protector of Israel's spies",
+   "ancestor of David and Jesus (Matthew)"
+  ],
+  "occupations": [
+   "prostitute (zonah); some interpreters say innkeeper"
+  ],
+  "skills": [
+   {
+    "name": "Shrewdness and courage under interrogation",
+    "refs": [
+     "Josh 2:3-7"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith in Israel's God",
+    "refs": [
+     "Josh 2:9-11",
+     "Heb 11:31"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Hides the spies",
+    "placeId": "jericho",
+    "refs": [
+     "Josh 2:1-7"
+    ],
+    "summary": "She hides Joshua's two spies under flax on her roof and misdirects the king's men."
+   },
+   {
+    "title": "Confesses faith and receives the scarlet cord sign",
+    "placeId": "jericho",
+    "refs": [
+     "Josh 2:8-21"
+    ],
+    "summary": "She confesses that the LORD is God in heaven and on earth, asks mercy for her family, and is told to hang a scarlet cord from her window."
+   },
+   {
+    "title": "Spared at the fall of Jericho",
+    "placeId": "jericho",
+    "refs": [
+     "Josh 6:22-25"
+    ],
+    "summary": "Her household is brought out alive and lives in Israel."
+   }
+  ],
+  "summary": "Rahab was a Canaanite woman of Jericho, called a harlot, who hid Israel's spies and confessed faith in the LORD after hearing of the exodus. Spared with her family when the city fell, she joined Israel. Matthew lists her as the mother of Boaz and so an ancestor of David and Jesus. Hebrews names her for faith and James for works, and both present her as a picture of a Gentile outsider welcomed by grace. Some ancient and modern readers soften the Hebrew zonah to 'innkeeper', but most interpreters keep 'prostitute', noting that Hebrews and James use the Greek porne.",
+  "textSays": "She lived in a house on Jericho's wall, hid the spies, lied to the king's messengers, confessed the LORD as God, bargained for her family's lives, hung the scarlet cord, and was spared. Matthew 1:5 makes her the mother of Boaz by Salmon.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition counts her among the most beautiful women and says she became a proselyte, married Joshua, and was ancestor of eight prophet-priests including Jeremiah and Huldah (b. Megillah 14b)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "The Fathers (for example *1 Clement* 12) read her scarlet cord as a sign of redemption through the blood of Christ and her house as a figure of the Church outside which there is no safety."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Hebrews 11:31 and James 2:25 are read together: she was saved through faith, and her faith showed itself in action. Her lie is usually treated as recorded rather than endorsed, though ethicists debate it."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Some scholars note the chronological strain in making the Rahab of Jericho the mother of Boaz across the Judges period. They suggest either a different Rahab or a deliberately compressed genealogy."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Rahab became a proselyte and married Joshua.",
+    "source": "Babylonian Talmud, Megillah 14b",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The scarlet cord foretold redemption through the blood of the Lord, and Rahab showed both faith and prophecy.",
+    "source": "*1 Clement* 12",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Streetwise, quick and candid, she talks business and survival and comes out with a surprising confession of faith.",
+  "refs": [
+   "Josh 2:1-24",
+   "Josh 6:17",
+   "Josh 6:22-25",
+   "Matt 1:5",
+   "Heb 11:31",
+   "Jas 2:25"
+  ],
+  "books": [
+   "Josh",
+   "Matt",
+   "Heb",
+   "Jas"
+  ]
+ },
+ {
+  "id": "eleazar-priest",
+  "names": {
+   "primary": "Eleazar",
+   "original": "אֶלְעָזָר",
+   "meaning": "God has helped",
+   "aliases": [
+    "Eleazar son of Aaron",
+    "Eleazar the priest"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus",
+   "conquest-judges"
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "mount-sinai",
+   "edom",
+   "moab",
+   "shiloh"
+  ],
+  "family": {
+   "parents": [
+    "aaron"
+   ],
+   "spouses": [],
+   "children": [
+    "phinehas"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "high priest (successor of Aaron)",
+   "chief of the Levites",
+   "co-allotter of the land with Joshua"
+  ],
+  "occupations": [
+   "priest"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Invested with Aaron's garments",
+    "placeId": "edom",
+    "refs": [
+     "Num 20:25-28"
+    ],
+    "summary": "On Mount Hor Moses strips Aaron's high-priestly garments and puts them on Eleazar, and Aaron dies."
+   },
+   {
+    "title": "Allots the land with Joshua",
+    "placeId": "shiloh",
+    "refs": [
+     "Num 34:17",
+     "Josh 14:1",
+     "Josh 19:51"
+    ],
+    "summary": "With Joshua and the tribal heads he distributes Canaan by lot at Shiloh."
+   }
+  ],
+  "summary": "Eleazar, third son of Aaron, became high priest when Aaron died on Mount Hor after his elder brothers Nadab and Abihu died for offering unauthorised fire. He oversaw the Levites, stood beside Moses at Joshua's commissioning, and with Joshua divided the land. He was buried in the hill country of Ephraim, and the main high-priestly line, including the later Zadokites, traced descent through him.",
+  "textSays": "He was son of Aaron and Elisheba and father of Phinehas by a daughter of Putiel. He succeeded Aaron, assisted in the census and in Joshua's commissioning, divided the land, and died and was buried at Gibeah of Phinehas in Ephraim.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "He is remembered as the link through whom the high priesthood passed to Phinehas and later to Zadok (1 Chr 6:3-8)."
+   }
+  ],
+  "voice": "Formal and careful, a priest preoccupied with holiness and correct procedure.",
+  "refs": [
+   "Exod 6:23",
+   "Exod 6:25",
+   "Lev 10:16-20",
+   "Num 3:32",
+   "Num 20:25-28",
+   "Num 27:18-22",
+   "Josh 14:1",
+   "Josh 24:33",
+   "1 Chr 6:3-8"
+  ],
+  "books": [
+   "Exod",
+   "Lev",
+   "Num",
+   "Deut",
+   "Josh",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "phinehas",
+  "names": {
+   "primary": "Phinehas",
+   "original": "פִּינְחָס",
+   "meaning": "likely from Egyptian Pa-nehesy, 'the Nubian'",
+   "aliases": [
+    "Phinehas son of Eleazar"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "egypt-exodus",
+   "conquest-judges"
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "moab",
+   "midian",
+   "shiloh"
+  ],
+  "family": {
+   "parents": [
+    "eleazar-priest"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "priest",
+   "high priest",
+   "envoy to the eastern tribes"
+  ],
+  "occupations": [
+   "priest"
+  ],
+  "skills": [
+   {
+    "name": "Diplomacy in a tribal dispute",
+    "refs": [
+     "Josh 22:30-33"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Zeal for God's honour",
+    "refs": [
+     "Num 25:11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Stops the plague at Peor",
+    "placeId": "moab",
+    "refs": [
+     "Num 25:6-13"
+    ],
+    "summary": "When an Israelite brings a Midianite woman into his tent during the Peor apostasy, Phinehas spears both. The plague stops, and God grants him a covenant of perpetual priesthood."
+   },
+   {
+    "title": "Priest in the war against Midian",
+    "placeId": "midian",
+    "refs": [
+     "Num 31:6"
+    ],
+    "summary": "He accompanies the army with the holy vessels and trumpets."
+   },
+   {
+    "title": "Investigates the altar by the Jordan",
+    "refs": [
+     "Josh 22:10-34"
+    ],
+    "summary": "Sent to confront the eastern tribes over a suspected rival altar, he accepts their explanation that it is a witness, and civil war is averted."
+   },
+   {
+    "title": "Inquires of God at the civil war against Benjamin",
+    "refs": [
+     "Judg 20:27-28"
+    ],
+    "summary": "He serves before the ark and receives the instruction to attack Gibeah again."
+   }
+  ],
+  "summary": "Phinehas, grandson of Aaron, is remembered for his violent zeal at Baal-peor, which Psalm 106 says was 'counted unto him for righteousness'. God rewarded it with a covenant of lasting priesthood. Later he led a peace delegation that averted war with the Transjordan tribes, and he served before the ark into the early Judges period. His act at Peor became a byword for zeal in Second Temple Judaism; 1 Maccabees 2:26 compares Mattathias to him. Modern readers debate how to apply such a model without endorsing vigilante violence.",
+  "textSays": "He was son of Eleazar. He killed Zimri and Cozbi at Peor and stopped the plague, received a covenant of peace and perpetual priesthood, served in the Midianite war, mediated the altar dispute, and ministered before the ark at Bethel in Judges 20.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "His zeal was praised, yet the rabbis hedged it with strict limits, and some held that a court would not have authorised his act. Targum Pseudo-Jonathan and later midrash identify Phinehas with Elijah, a fellow zealot."
+   },
+   {
+    "tradition": "Christian",
+    "view": "He is read as an Old Testament example of zeal for God's holiness. Christian ethics warns against taking his act as a pattern now, since Christ rejected the sword in his cause (Matt 26:52). Psalm 106:31 is compared with Gen 15:6 in debates on justification."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Phinehas is Elijah.",
+    "source": "Targum Pseudo-Jonathan on Exod 6:18; Pirqe de-Rabbi Eliezer 47",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Intense and uncompromising, with little patience for compromise in worship. As an older man he is also a careful negotiator.",
+  "refs": [
+   "Exod 6:25",
+   "Num 25:6-13",
+   "Num 31:6",
+   "Josh 22:13-34",
+   "Judg 20:27-28",
+   "1 Chr 9:20",
+   "Ps 106:30-31"
+  ],
+  "books": [
+   "Exod",
+   "Num",
+   "Josh",
+   "Judg",
+   "1 Chr",
+   "Ezra",
+   "Ps"
+  ]
+ },
+ {
+  "id": "othniel",
+  "names": {
+   "primary": "Othniel",
+   "original": "עָתְנִיאֵל",
+   "meaning": "lion of God, or 'God is my strength'",
+   "aliases": [
+    "Othniel son of Kenaz"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1370,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1180
+     }
+    ]
+   },
+   {
+    "year": -1330,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1140
+     }
+    ]
+   }
+  ],
+  "tribe": "Judah (Kenizzite clan)",
+  "nation": "Israel",
+  "placeIds": [
+   "negev",
+   "hebron"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "first judge of Israel",
+   "warrior"
+  ],
+  "occupations": [
+   "soldier",
+   "judge"
+  ],
+  "skills": [
+   {
+    "name": "Taking a fortified city",
+    "refs": [
+     "Josh 15:16-17"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "The Spirit of the LORD came upon him",
+    "refs": [
+     "Judg 3:10"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Captures Kiriath-sepher and marries Achsah",
+    "placeId": "negev",
+    "refs": [
+     "Josh 15:16-17",
+     "Judg 1:12-13"
+    ],
+    "summary": "He takes the city (Debir) and wins Caleb's daughter Achsah."
+   },
+   {
+    "title": "Delivers Israel from Cushan-rishathaim",
+    "refs": [
+     "Judg 3:7-11"
+    ],
+    "summary": "After eight years of oppression by the king of Aram-naharaim, the Spirit comes upon Othniel. He prevails, and the land has rest forty years."
+   }
+  ],
+  "summary": "Othniel, Caleb's kinsman (nephew or younger brother; the Hebrew of Judg 1:13 can be read either way), is the first judge in the Book of Judges. His brief story is the model for the pattern that follows: Israel sins, is oppressed, cries out, and God raises a Spirit-empowered deliverer who brings rest. He is one of the few judges with no recorded moral failure.",
+  "textSays": "He was son of Kenaz, Caleb's younger brother. He captured Kiriath-sepher, married Achsah, judged Israel, defeated Cushan-rishathaim, and the land rested forty years.",
+  "interpretations": [
+   {
+    "tradition": "Literary and critical",
+    "view": "His account is seen as a paradigm narrative, short and formulaic, that sets the standard against which later judges are measured and found increasingly wanting."
+   },
+   {
+    "tradition": "Christian",
+    "view": "He is a model of the Spirit-empowered deliverer and a faint foreshadowing of the ideal Spirit-anointed ruler."
+   }
+  ],
+  "voice": "Steady and terse, a capable soldier without flourish.",
+  "refs": [
+   "Josh 15:16-17",
+   "Judg 1:12-13",
+   "Judg 3:7-11",
+   "1 Chr 4:13",
+   "1 Chr 27:15"
+  ],
+  "books": [
+   "Josh",
+   "Judg",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "ehud",
+  "names": {
+   "primary": "Ehud",
+   "original": "אֵהוּד",
+   "meaning": "uncertain; perhaps 'united' or 'where is majesty?'",
+   "aliases": [
+    "Ehud son of Gera"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1310,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1170
+     }
+    ]
+   },
+   {
+    "year": -1230,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology (judges' periods often overlap)",
+      "year": -1150
+     }
+    ]
+   }
+  ],
+  "tribe": "Benjamin",
+  "nation": "Israel",
+  "placeIds": [
+   "jericho",
+   "gilgal",
+   "moab",
+   "jordan-river"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "judge",
+   "deliverer",
+   "assassin of Eglon"
+  ],
+  "occupations": [
+   "tribute bearer",
+   "warrior"
+  ],
+  "skills": [
+   {
+    "name": "Left-handed swordsmanship and stealth",
+    "refs": [
+     "Judg 3:15-16",
+     "Judg 3:21"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Assassinates Eglon of Moab",
+    "placeId": "jericho",
+    "refs": [
+     "Judg 3:12-25"
+    ],
+    "summary": "Bringing tribute, the left-handed Benjamite hides a short sword on his right thigh, gets a private audience with the obese king with a 'secret message from God', kills him, and escapes while the servants wait outside the locked door."
+   },
+   {
+    "title": "Leads Israel to victory at the Jordan fords",
+    "placeId": "jordan-river",
+    "refs": [
+     "Judg 3:26-30"
+    ],
+    "summary": "He rallies Ephraim, seizes the fords, and about ten thousand Moabites fall. The land rests eighty years."
+   }
+  ],
+  "summary": "Ehud is the left-handed Benjamite judge who freed Israel from eighteen years of subjection to Eglon king of Moab, who held the 'city of palm trees' near Jericho. His story is told with dark humour and vivid detail. Readers differ on whether it is simply celebrated as a trickster victory over an oppressor or quietly signals the moral ambiguity that grows through Judges.",
+  "textSays": "He was son of Gera, a Benjamite and left-handed. God raised him up as a deliverer. He killed Eglon by a ruse, led Israel against Moab, and the land had rest eighty years.",
+  "interpretations": [
+   {
+    "tradition": "Literary scholarship",
+    "view": "The narrative is satire on a foreign tyrant. The name Eglon echoes the Hebrew for 'calf', suggesting a fattened animal for slaughter."
+   },
+   {
+    "tradition": "Christian",
+    "view": "God uses unlikely and marginal people (a left-hander from the smallest tribe) to save, though Ehud's deception is not presented as a general ethic."
+   }
+  ],
+  "voice": "Cool, wry and secretive, a man of few words who enjoys a double meaning.",
+  "refs": [
+   "Judg 3:12-30",
+   "Judg 4:1"
+  ],
+  "books": [
+   "Judg"
+  ]
+ },
+ {
+  "id": "deborah",
+  "names": {
+   "primary": "Deborah",
+   "original": "דְּבוֹרָה",
+   "meaning": "bee",
+   "aliases": [
+    "a mother in Israel",
+    "wife of Lappidoth (or 'woman of torches/fire')"
+   ]
+  },
+  "tier": "major",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1230,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology / many historians",
+      "year": -1125
+     }
+    ]
+   },
+   {
+    "year": -1190,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology (forty years' rest)",
+      "year": -1085
+     }
+    ]
+   }
+  ],
+  "tribe": "Ephraim (lived in the hill country of Ephraim; tribe not stated)",
+  "nation": "Israel",
+  "placeIds": [
+   "ramah",
+   "bethel",
+   "mount-tabor",
+   "megiddo",
+   "hazor"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophetess",
+   "judge",
+   "military summoner",
+   "poet"
+  ],
+  "occupations": [
+   "prophetess",
+   "judge"
+  ],
+  "skills": [
+   {
+    "name": "Adjudicating disputes",
+    "refs": [
+     "Judg 4:4-5"
+    ]
+   },
+   {
+    "name": "Poetry and song",
+    "refs": [
+     "Judg 5:1-31"
+    ]
+   },
+   {
+    "name": "Mobilising tribes",
+    "refs": [
+     "Judg 5:12-18"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy",
+    "refs": [
+     "Judg 4:4",
+     "Judg 4:6-7",
+     "Judg 4:14"
+    ]
+   },
+   {
+    "name": "Leadership and courage",
+    "refs": [
+     "Judg 4:8-9",
+     "Judg 5:7"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Judges Israel under the palm tree",
+    "placeId": "ramah",
+    "refs": [
+     "Judg 4:4-5"
+    ],
+    "summary": "She sits under the Palm of Deborah between Ramah and Bethel, and Israel comes to her for judgment."
+   },
+   {
+    "title": "Summons Barak with God's command",
+    "refs": [
+     "Judg 4:6-7"
+    ],
+    "summary": "She relays God's order to gather ten thousand men of Naphtali and Zebulun at Mount Tabor against Sisera, commander of Jabin's army."
+   },
+   {
+    "title": "Agrees to go to battle; prophesies Sisera's fall by a woman",
+    "refs": [
+     "Judg 4:8-10"
+    ],
+    "summary": "Barak will not go without her. She goes, but says the honour will fall to a woman."
+   },
+   {
+    "title": "Gives the signal to attack",
+    "placeId": "mount-tabor",
+    "refs": [
+     "Judg 4:14-16"
+    ],
+    "summary": "'Up! for this is the day', she declares. Barak descends Tabor, and the LORD routs Sisera's chariots."
+   },
+   {
+    "title": "The rains and the Kishon",
+    "placeId": "megiddo",
+    "refs": [
+     "Judg 5:19-21"
+    ],
+    "summary": "The song recalls kings fighting by the waters of Megiddo, stars fighting from heaven, and the torrent Kishon sweeping the enemy away."
+   },
+   {
+    "title": "The Song of Deborah",
+    "refs": [
+     "Judg 5:1-31"
+    ],
+    "summary": "With Barak she sings a victory hymn. It praises the volunteers, rebukes tribes that stayed home, celebrates Jael, and imagines Sisera's mother waiting in vain."
+   },
+   {
+    "title": "Forty years of rest",
+    "refs": [
+     "Judg 5:31"
+    ],
+    "summary": "The land has rest forty years."
+   }
+  ],
+  "summary": "Deborah is the only judge in the book who is also called a prophet, and the only one described as already judging before the crisis. Israelites came to her under her palm tree in the hill country of Ephraim to have disputes settled. When Jabin of Hazor and his commander Sisera, with nine hundred iron chariots, had oppressed Israel for twenty years, she summoned Barak with God's command. She went with him to battle when he insisted and foretold that a woman would get the glory.\n\nThe victory at the Kishon is told twice, in prose (Judges 4) and in poetry (Judges 5). The Song of Deborah is widely regarded as one of the oldest compositions in the Bible. It credits the victory to the LORD marching from Seir and to a storm that turned the plain into mud, and it praises the tribes who volunteered while shaming those who did not. Deborah calls herself 'a mother in Israel'.\n\nHer role has been central in debates about women's leadership in church and synagogue. Some see her as clear precedent for women in authority. Others see her as an exceptional case at a time when men failed to lead. Both sides agree that the text presents her positively and with no hint of disapproval.",
+  "textSays": "She was a prophetess, the wife (or 'woman') of Lappidoth, and judged Israel under a palm tree between Ramah and Bethel. She summoned Barak, accompanied him to Kedesh and Tabor, foretold Sisera's death at a woman's hand, gave the signal for battle, and sang the victory song with Barak. The land rested forty years.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Talmud counts Deborah among the seven prophetesses of Israel (b. Megillah 14a). Some rabbis criticise her for self-praise in the Song ('until I arose') and say her prophecy briefly left her as a result. The Targum presents her as a teacher of Torah."
+   },
+   {
+    "tradition": "Egalitarian (Protestant and others)",
+    "view": "Deborah exercised prophetic, judicial and national leadership with God's evident approval. This shows that God calls women to lead, and her example supports women's ordination and leadership."
+   },
+   {
+    "tradition": "Complementarian (Protestant and others)",
+    "view": "Deborah's leadership is genuine and honoured, but some argue it is presented as exceptional. She hands military command to Barak, delivers God's word rather than her own authority, and her story exposes male hesitancy (Judg 4:9). On this view it is not a pattern for church eldership, which the New Testament addresses separately."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "She is honoured as a holy prophetess and read as a type of the Church or of Mary, the woman through whom the enemy is defeated."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "The Song (Judg 5) is often dated to the 12th–11th centuries BC and is a key source for early Israel's tribal structure. The prose account is regarded as a later retelling with some differences, for example in which tribes take part."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Wisdom in judgment",
+    "Prophetic clarity",
+    "Courage to go to the battlefield",
+    "Gives the glory to God in song"
+   ],
+   "failures": [
+    "None recorded in the text (some rabbinic commentators fault the self-reference in her song)"
+   ],
+   "turningPoints": [
+    "Summoning Barak",
+    "The day of battle at Tabor",
+    "The victory song"
+   ]
+  },
+  "context": "In the Iron I period the central highlands were held by Israelite villages, while Canaanite city-states such as Hazor and Megiddo controlled the valleys with chariot forces. The Jezreel Valley and the Kishon river formed the battlefield. Heavy rain could flood the Kishon and bog down chariots, which fits the poem's 'stars fought from heaven'. Tribal levies were voluntary, which explains the song's praise and blame of different tribes.",
+  "legacy": "Her name became a symbol of women's wisdom and courage in Jewish and Christian history. The Song of Deborah is studied as a masterpiece of Hebrew poetry and a key witness to early Israel. Her story is the most frequently cited Old Testament example in debates on women in ministry.",
+  "traditions": [
+   {
+    "text": "Deborah is one of the seven prophetesses of Israel (Sarah, Miriam, Deborah, Hannah, Abigail, Huldah and Esther).",
+    "source": "Babylonian Talmud, Megillah 14a",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Authoritative and poetic, motherly yet commanding. She speaks in vivid imagery and with confident certainty about God's word.",
+  "refs": [
+   "Judg 4:1-24",
+   "Judg 5:1-31"
+  ],
+  "books": [
+   "Judg"
+  ]
+ },
+ {
+  "id": "barak",
+  "names": {
+   "primary": "Barak",
+   "original": "בָּרָק",
+   "meaning": "lightning",
+   "aliases": [
+    "Barak son of Abinoam"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1230,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1125
+     }
+    ]
+   },
+   {
+    "year": -1230,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1125
+     }
+    ]
+   }
+  ],
+  "tribe": "Naphtali",
+  "nation": "Israel",
+  "placeIds": [
+   "mount-tabor",
+   "megiddo"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "military commander",
+   "deliverer"
+  ],
+  "occupations": [
+   "soldier"
+  ],
+  "skills": [
+   {
+    "name": "Commanding tribal levies",
+    "refs": [
+     "Judg 4:10",
+     "Judg 4:14-16"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith (counted among the heroes of faith)",
+    "refs": [
+     "Heb 11:32-34"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Summoned by Deborah",
+    "refs": [
+     "Judg 4:6-9"
+    ],
+    "summary": "From Kedesh in Naphtali he is called to lead ten thousand men. He insists Deborah go with him."
+   },
+   {
+    "title": "Routs Sisera",
+    "placeId": "mount-tabor",
+    "refs": [
+     "Judg 4:14-16"
+    ],
+    "summary": "He charges down Tabor, the LORD throws Sisera's army into confusion, and Barak pursues it to Harosheth-hagoyim."
+   },
+   {
+    "title": "Finds Sisera dead in Jael's tent",
+    "refs": [
+     "Judg 4:22"
+    ],
+    "summary": "Pursuing Sisera, he is shown the commander already slain by Jael."
+   },
+   {
+    "title": "Sings with Deborah",
+    "refs": [
+     "Judg 5:1",
+     "Judg 5:12"
+    ],
+    "summary": "He joins Deborah in the victory song."
+   }
+  ],
+  "summary": "Barak of Kedesh-naphtali led the tribal army that defeated Sisera's chariots under Deborah's prophetic direction. His insistence that Deborah accompany him is read either as hesitant faith (and so the glory went to a woman) or as wise dependence on God's prophet. Hebrews lists him among the heroes of faith.",
+  "textSays": "He was son of Abinoam. He led ten thousand from Naphtali and Zebulun, required Deborah's presence, routed Sisera, and sang with Deborah. Hebrews 11:32 names him.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Some traditions make Barak Deborah's husband, identifying Lappidoth ('torches') with Barak ('lightning')."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Hebrews counts his act as faith. Commentators differ on whether his condition to Deborah was weakness or humility."
+   }
+  ],
+  "voice": "Earnest and cautious, a capable fighter who wants God's word close at hand before he moves.",
+  "refs": [
+   "Judg 4:6-24",
+   "Judg 5:1",
+   "Judg 5:12",
+   "Heb 11:32"
+  ],
+  "books": [
+   "Judg",
+   "Heb"
+  ]
+ },
+ {
+  "id": "jael",
+  "names": {
+   "primary": "Jael",
+   "original": "יָעֵל",
+   "meaning": "mountain goat (ibex)",
+   "aliases": [
+    "wife of Heber the Kenite"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "nation": "Kenite (allied with Israel; at peace with Jabin)",
+  "placeIds": [
+   "mount-tabor"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "slayer of Sisera"
+  ],
+  "occupations": [
+   "tent-dwelling herder's wife"
+  ],
+  "skills": [
+   {
+    "name": "Pitching tents (handling peg and mallet)",
+    "refs": [
+     "Judg 4:21"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Kills Sisera",
+    "refs": [
+     "Judg 4:17-22",
+     "Judg 5:24-27"
+    ],
+    "summary": "Sisera flees to her tent. She welcomes him, covers him, gives him milk, then drives a tent peg through his temple while he sleeps."
+   }
+  ],
+  "summary": "Jael, wife of Heber the Kenite, killed the fleeing Canaanite general Sisera in her tent, fulfilling Deborah's word that he would fall by a woman's hand. The Song of Deborah calls her 'blessed above women'. Her act broke the expected customs of hospitality and her clan's peace with Jabin, and interpreters have long debated whether she was a heroine of faith or a troubling figure of deception.",
+  "textSays": "She went out to meet Sisera, invited him in, gave him milk, covered him, and killed him with a tent peg and hammer. The song blesses her above women in the tent.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "She is generally praised as a righteous woman. Some midrash notes that she acted for the sake of heaven."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Some Fathers read her as a type of the Church crushing the enemy's head (compare Gen 3:15). Others are troubled by the breach of hospitality and limit the praise to her siding with God's people."
+   }
+  ],
+  "voice": "Calm, hospitable on the surface and steely underneath. She chooses her words and acts without hesitation.",
+  "refs": [
+   "Judg 4:11",
+   "Judg 4:17-22",
+   "Judg 5:6",
+   "Judg 5:24-27"
+  ],
+  "books": [
+   "Judg"
+  ]
+ },
+ {
+  "id": "gideon",
+  "names": {
+   "primary": "Gideon",
+   "original": "גִּדְעוֹן",
+   "meaning": "hewer, one who cuts down",
+   "aliases": [
+    "Jerubbaal ('let Baal contend')",
+    "Jerubbesheth (2 Sam 11:21)",
+    "Gedeon (KJV Heb 11:32)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "died": {
+   "year": -1140,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Early-exodus internal chronology",
+     "year": -1150
+    },
+    {
+     "label": "Late chronology / many historians",
+     "year": -1080
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1180,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early-exodus internal chronology",
+      "year": -1190
+     },
+     {
+      "label": "Late chronology",
+      "year": -1120
+     }
+    ]
+   },
+   {
+    "year": -1140,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late chronology",
+      "year": -1080
+     }
+    ]
+   }
+  ],
+  "tribe": "Manasseh (clan of Abiezer)",
+  "nation": "Israel",
+  "placeIds": [
+   "jezreel",
+   "jordan-river",
+   "succoth",
+   "shechem",
+   "midian"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "judge",
+   "deliverer",
+   "military commander"
+  ],
+  "occupations": [
+   "farmer (threshing wheat)",
+   "warrior"
+  ],
+  "skills": [
+   {
+    "name": "Military strategy: night surprise with torches, jars and trumpets",
+    "refs": [
+     "Judg 7:16-22"
+    ]
+   },
+   {
+    "name": "Diplomacy with offended allies",
+    "refs": [
+     "Judg 8:1-3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "The Spirit of the LORD clothed him",
+    "refs": [
+     "Judg 6:34"
+    ]
+   },
+   {
+    "name": "Faith, though hesitant (listed in Hebrews)",
+    "refs": [
+     "Heb 11:32-34"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called while threshing in a winepress",
+    "refs": [
+     "Judg 6:11-24"
+    ],
+    "summary": "Hiding from Midianite raiders, he is greeted by the angel of the LORD as a 'mighty man of valour'. He protests his weakness and asks for a sign, and fire consumes his offering."
+   },
+   {
+    "title": "Pulls down his father's Baal altar",
+    "refs": [
+     "Judg 6:25-32"
+    ],
+    "summary": "By night he destroys the altar of Baal and the Asherah pole. His father defends him, and he is named Jerubbaal."
+   },
+   {
+    "title": "The fleece",
+    "refs": [
+     "Judg 6:36-40"
+    ],
+    "summary": "He asks twice for a sign with a fleece, wet then dry, and God grants both."
+   },
+   {
+    "title": "Army reduced to three hundred",
+    "placeId": "jezreel",
+    "refs": [
+     "Judg 7:1-8"
+    ],
+    "summary": "God reduces 32,000 men to 300 who lapped water, so that Israel cannot boast that its own hand saved it."
+   },
+   {
+    "title": "Overhears the barley-loaf dream",
+    "placeId": "jezreel",
+    "refs": [
+     "Judg 7:9-15"
+    ],
+    "summary": "Sent into the enemy camp, he hears a Midianite tell a dream of a barley loaf flattening a tent and worships."
+   },
+   {
+    "title": "Night attack: 'The sword of the LORD and of Gideon'",
+    "placeId": "jezreel",
+    "refs": [
+     "Judg 7:16-22"
+    ],
+    "summary": "The three hundred break jars, raise torches and blow trumpets. Midian panics and turns on itself."
+   },
+   {
+    "title": "Pursuit across the Jordan; punishes Succoth and Penuel",
+    "placeId": "succoth",
+    "refs": [
+     "Judg 8:4-17"
+    ],
+    "summary": "Refused food by Succoth and Penuel, he captures the kings Zebah and Zalmunna and returns to punish both towns harshly."
+   },
+   {
+    "title": "Refuses kingship but makes an ephod",
+    "refs": [
+     "Judg 8:22-27"
+    ],
+    "summary": "He says, 'The LORD shall rule over you', yet makes a gold ephod from the spoil that becomes a snare to Israel and his house."
+   },
+   {
+    "title": "Death and aftermath",
+    "refs": [
+     "Judg 8:28-35",
+     "Judg 9:1-6"
+    ],
+    "summary": "Forty years of rest follow. He has seventy sons and a concubine's son, Abimelech. After his death Israel returns to Baal, and Abimelech murders his brothers at Shechem."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "jezreel",
+    "order": 1,
+    "note": "Camp by the spring of Harod; the Midianites in the Jezreel Valley.",
+    "refs": [
+     "Judg 6:33",
+     "Judg 7:1"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 2,
+    "note": "Ephraim seizes the fords; Gideon crosses in pursuit.",
+    "refs": [
+     "Judg 7:24-25",
+     "Judg 8:4"
+    ]
+   },
+   {
+    "placeId": "succoth",
+    "order": 3,
+    "note": "Refused bread, later punished.",
+    "refs": [
+     "Judg 8:5-7",
+     "Judg 8:16"
+    ]
+   },
+   {
+    "placeId": "midian",
+    "order": 4,
+    "note": "Captures the Midianite kings east of the Jordan.",
+    "refs": [
+     "Judg 8:10-12"
+    ]
+   }
+  ],
+  "summary": "Gideon of the clan of Abiezer in Manasseh was threshing wheat in a winepress to hide it from Midianite raiders when the angel of the LORD called him a mighty man of valour. A reluctant hero, he asked for repeated signs, among them the famous fleece. Yet he pulled down his own family's Baal altar and, with an army that God cut from 32,000 to 300, routed the Midianite hordes in a night attack with trumpets, jars and torches.\n\nThe second half of his story darkens. He takes harsh revenge on the towns of Succoth and Penuel, executes the Midianite kings in a blood feud for his brothers, and makes a golden ephod that becomes an object of idolatrous worship. He refuses the crown in words ('the LORD shall rule over you'), yet he lives like a king with many wives and seventy sons, and he names one son Abimelech, 'my father is king'. That son's bloody grab for power follows his death.\n\nThe book of Judges uses Gideon as a hinge. Before him the judges improve Israel. From him on, the deliverers themselves increasingly reflect Israel's decline. Isaiah remembers 'the day of Midian' as a model of God's decisive deliverance, and Hebrews lists Gideon among those who by faith 'out of weakness were made strong'.",
+  "textSays": "He was son of Joash the Abiezrite and was called by the angel of the LORD. He destroyed Baal's altar, was clothed by the Spirit, and tested God with a fleece. With 300 men he defeated Midian, pursued and killed Zebah and Zalmunna, and punished Succoth and Penuel. He declined kingship, made an ephod that became a snare, had many wives and seventy sons, and died in a good old age after forty years of rest.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The rabbis debate his merit. Some count him among the three least of the judges who were nonetheless as great in their generation as Moses, Aaron and Samuel in theirs (b. Rosh Hashanah 25b). His ephod is generally condemned."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "The Fathers read the dew on the fleece as an image of the Incarnation and of Mary's virginal conception (the fleece wet while the ground is dry). This reading is reflected in hymnody."
+   },
+   {
+    "tradition": "Protestant and Evangelical",
+    "view": "Gideon shows God's strength made perfect in weakness, since the 300 make clear that the victory is the LORD's. Many caution against using 'putting out a fleece' as a normal way to discern God's will, since it began in his doubt. His later decline warns that early faith can end in spiritual compromise."
+   },
+   {
+    "tradition": "Literary and critical scholarship",
+    "view": "Scholars note the irony of Gideon's refusal of kingship. Some read Judg 8:23 as genuine anti-monarchic theology, while others read it as a polite formula undercut by his royal lifestyle. The Gideon–Abimelech cycle is seen as Judges' extended reflection on kingship before Samuel."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Obedient in destroying idolatry despite fear",
+    "Trusted God with a tiny army",
+    "Gracious diplomacy with Ephraim"
+   ],
+   "failures": [
+    "Repeated demands for signs",
+    "Harsh vengeance on Succoth and Penuel",
+    "The ephod that became an idol",
+    "A royal lifestyle that prepared for Abimelech's tyranny"
+   ],
+   "turningPoints": [
+    "The call in the winepress",
+    "Tearing down Baal's altar",
+    "Reduction to 300 men",
+    "The offer of kingship and the ephod"
+   ]
+  },
+  "context": "Midianite, Amalekite and 'eastern' camel-riding raiders swept seasonally into the Jezreel Valley to plunder harvests. This is one of the earliest biblical portrayals of domesticated camels in warfare. Threshing in a winepress, a sunken vat, was a way of hiding grain. Ephods could be priestly garments or cult objects for seeking oracles.",
+  "legacy": "'The sword of the LORD and of Gideon' became a rallying cry. The Gideons International, founded in 1899 and known for distributing Bibles, took his name from his willing small band. 'Putting out a fleece' entered common speech. Isaiah and Psalm 83 recall the defeat of Midian as a model of divine rescue.",
+  "traditions": [
+   {
+    "text": "The dew on Gideon's fleece is a figure of the incarnation in the Virgin's womb.",
+    "source": "Ambrose, *On the Holy Spirit* 1 (prologue); Christian liturgical tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Self-doubting and cautious at first, full of 'but Lord' questions. Once he is sure, he is bold, and his tongue can be tactful or sharp.",
+  "refs": [
+   "Judg 6:1-40",
+   "Judg 7:1-25",
+   "Judg 8:1-35",
+   "Judg 9:1-6",
+   "1 Sam 12:11",
+   "2 Sam 11:21",
+   "Ps 83:9-11",
+   "Isa 9:4",
+   "Isa 10:26",
+   "Heb 11:32-34"
+  ],
+  "books": [
+   "Judg",
+   "1 Sam",
+   "2 Sam",
+   "Ps",
+   "Isa",
+   "Heb"
+  ]
+ },
+ {
+  "id": "jephthah",
+  "names": {
+   "primary": "Jephthah",
+   "original": "יִפְתָּח",
+   "meaning": "he opens (perhaps 'God opens [the womb]')",
+   "aliases": [
+    "Jephthah the Gileadite",
+    "Jephthae (KJV Heb 11:32)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1100,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology / many historians",
+      "year": -1080
+     }
+    ]
+   },
+   {
+    "year": -1094,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Late-exodus chronology",
+      "year": -1074
+     }
+    ]
+   }
+  ],
+  "tribe": "Manasseh (Gilead, east of the Jordan)",
+  "nation": "Israel",
+  "placeIds": [
+   "ammon",
+   "jordan-river"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "judge",
+   "military commander",
+   "outlaw chief"
+  ],
+  "occupations": [
+   "warrior",
+   "leader of a raiding band"
+  ],
+  "skills": [
+   {
+    "name": "Military leadership",
+    "refs": [
+     "Judg 11:3",
+     "Judg 11:32-33"
+    ]
+   },
+   {
+    "name": "Negotiation and historical argument",
+    "refs": [
+     "Judg 11:12-27"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "The Spirit of the LORD came upon him",
+    "refs": [
+     "Judg 11:29"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Driven out by his half-brothers",
+    "refs": [
+     "Judg 11:1-3"
+    ],
+    "summary": "Son of Gilead by a prostitute, he is expelled and gathers a band of 'vain men' in the land of Tob."
+   },
+   {
+    "title": "Recalled to lead Gilead against Ammon",
+    "refs": [
+     "Judg 11:4-11"
+    ],
+    "summary": "The elders who rejected him beg him to lead. He agrees on condition that he becomes head, and the agreement is sealed before the LORD at Mizpah."
+   },
+   {
+    "title": "Argues Israel's case to the king of Ammon",
+    "placeId": "ammon",
+    "refs": [
+     "Judg 11:12-28"
+    ],
+    "summary": "He recounts how Israel took the land from Sihon, not Ammon, three hundred years earlier, and appeals to the LORD as judge."
+   },
+   {
+    "title": "The vow and his daughter",
+    "refs": [
+     "Judg 11:29-40"
+    ],
+    "summary": "He vows to offer up whatever first comes out of his house if he returns victorious. His only daughter comes out dancing. After two months of mourning her virginity, he 'did with her according to his vow'."
+   },
+   {
+    "title": "War with Ephraim: 'Shibboleth'",
+    "placeId": "jordan-river",
+    "refs": [
+     "Judg 12:1-7"
+    ],
+    "summary": "When Ephraim threatens him, his Gileadites hold the Jordan fords and identify Ephraimites by their pronunciation of 'Shibboleth'. He judges six years."
+   }
+  ],
+  "summary": "Jephthah, an outcast son of Gilead, was recalled by the elders who had rejected him to deliver Gilead from the Ammonites. He argued Israel's claim to the land with a detailed appeal to history, received the Spirit, and won. But his rash vow ended in tragedy for his only daughter, and his quarrel with Ephraim ended in a massacre at the Jordan fords. Whether he actually sacrificed his daughter or dedicated her to lifelong virginity is a long-standing debate. Hebrews still lists him among those who acted by faith.",
+  "textSays": "He was a mighty man of valour and the son of a harlot. Recalled from Tob, he negotiated with Ammon, received the Spirit, vowed a burnt offering, defeated Ammon, and 'did with her according to his vow' to his daughter, whose fate became an annual lament. He fought Ephraim and judged six years.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Josephus (*Antiquities* 5.7.10) and most rabbis held that he did sacrifice her and condemned the vow as illegitimate, saying he could have had it annulled by the priest. Medieval commentators such as David Kimchi argued instead that she was kept in lifelong seclusion."
+   },
+   {
+    "tradition": "Christian (sacrifice view)",
+    "view": "The plain sense of 'burnt offering' and 'did according to his vow' indicates a real human sacrifice. The narrator presents it as tragic evidence of Israel's Canaanization, not as an approved act. Many Fathers, including Augustine, took this view."
+   },
+   {
+    "tradition": "Christian (dedication view)",
+    "view": "The 'and' of Judg 11:31 can be read 'or'. The emphasis on her virginity and the annual lament suggest she was devoted to perpetual celibate service at the sanctuary, since human sacrifice was forbidden (Deut 12:31). Defenders argue this better explains Hebrews 11:32."
+   }
+  ],
+  "voice": "Hard-bitten and transactional, a rejected man who bargains for respect. He argues like a lawyer and vows like a gambler.",
+  "refs": [
+   "Judg 10:17-18",
+   "Judg 11:1-40",
+   "Judg 12:1-7",
+   "1 Sam 12:11",
+   "Heb 11:32"
+  ],
+  "books": [
+   "Judg",
+   "1 Sam",
+   "Heb"
+  ]
+ },
+ {
+  "id": "samson",
+  "names": {
+   "primary": "Samson",
+   "original": "שִׁמְשׁוֹן (Shimshon)",
+   "meaning": "probably 'little sun' or 'of the sun' (from shemesh, sun)",
+   "aliases": [
+    "Shimshon",
+    "Samson the Nazirite"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1095,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Early-exodus internal chronology (overlapping with Eli)",
+     "year": -1120
+    },
+    {
+     "label": "Late chronology",
+     "year": -1085
+    }
+   ]
+  },
+  "died": {
+   "year": -1055,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Early-exodus internal chronology",
+     "year": -1080
+    },
+    {
+     "label": "Late chronology",
+     "year": -1045
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1075,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early-exodus internal chronology",
+      "year": -1100
+     }
+    ]
+   },
+   {
+    "year": -1055,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early-exodus internal chronology",
+      "year": -1080
+     }
+    ]
+   }
+  ],
+  "tribe": "Dan",
+  "nation": "Israel",
+  "placeIds": [
+   "zorah",
+   "timnah",
+   "ashkelon",
+   "gaza"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "judge",
+   "Nazirite from birth",
+   "lone deliverer against the Philistines"
+  ],
+  "occupations": [
+   "judge"
+  ],
+  "skills": [
+   {
+    "name": "Riddles and wordplay",
+    "refs": [
+     "Judg 14:12-18",
+     "Judg 15:16"
+    ]
+   },
+   {
+    "name": "Feats of physical strength",
+    "refs": [
+     "Judg 14:5-6",
+     "Judg 16:3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Supernatural strength when the Spirit rushed on him",
+    "refs": [
+     "Judg 14:6",
+     "Judg 14:19",
+     "Judg 15:14"
+    ]
+   },
+   {
+    "name": "Nazirite consecration",
+    "refs": [
+     "Judg 13:5",
+     "Num 6:1-8"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Birth announced to Manoah's barren wife",
+    "placeId": "zorah",
+    "refs": [
+     "Judg 13:2-24"
+    ],
+    "summary": "The angel of the LORD tells a barren Danite woman she will bear a son who must be a Nazirite from the womb and will begin to deliver Israel from the Philistines. The angel ascends in the altar flame."
+   },
+   {
+    "title": "Kills a lion; marries a Philistine woman",
+    "placeId": "timnah",
+    "refs": [
+     "Judg 14:1-9"
+    ],
+    "summary": "Against his parents' objections he seeks a wife at Timnah 'for she pleaseth me well'. The text adds that it was 'of the LORD'. He tears apart a lion with his bare hands and later eats honey from its carcass."
+   },
+   {
+    "title": "The wedding riddle and Ashkelon",
+    "placeId": "ashkelon",
+    "refs": [
+     "Judg 14:10-20"
+    ],
+    "summary": "His riddle is solved by coercing his bride. In fury he kills thirty men at Ashkelon to pay the wager."
+   },
+   {
+    "title": "Foxes, fire and the jawbone",
+    "refs": [
+     "Judg 15:1-17"
+    ],
+    "summary": "Denied his wife, he burns the Philistine harvest with three hundred foxes. Handed over bound by the men of Judah, he snaps the ropes and kills a thousand men with a donkey's jawbone at Lehi."
+   },
+   {
+    "title": "Water from En-hakkore",
+    "refs": [
+     "Judg 15:18-20"
+    ],
+    "summary": "Dying of thirst, he calls on the LORD, who splits a hollow place to give water. He judges Israel twenty years."
+   },
+   {
+    "title": "Carries off the gates of Gaza",
+    "placeId": "gaza",
+    "refs": [
+     "Judg 16:1-3"
+    ],
+    "summary": "After visiting a prostitute in Gaza, he escapes an ambush by tearing up the city gates and carrying them toward Hebron."
+   },
+   {
+    "title": "Betrayed by Delilah",
+    "refs": [
+     "Judg 16:4-21"
+    ],
+    "summary": "Delilah, bribed by the Philistine lords, presses him until he reveals that his strength is tied to his uncut hair. Shaved, he finds that 'the LORD was departed from him', and he is blinded and set to grind in prison in Gaza."
+   },
+   {
+    "title": "Death in the temple of Dagon",
+    "placeId": "gaza",
+    "refs": [
+     "Judg 16:22-31"
+    ],
+    "summary": "His hair grows back. Brought out to entertain a feast to Dagon, he prays for strength once more and pulls down the pillars, killing more in his death than in his life. He is buried between Zorah and Eshtaol."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "zorah",
+    "order": 1,
+    "note": "Birthplace; the Spirit begins to stir him at Mahaneh-dan.",
+    "refs": [
+     "Judg 13:2",
+     "Judg 13:25"
+    ]
+   },
+   {
+    "placeId": "timnah",
+    "order": 2,
+    "note": "Philistine marriage; lion and honey.",
+    "refs": [
+     "Judg 14:1-9"
+    ]
+   },
+   {
+    "placeId": "ashkelon",
+    "order": 3,
+    "note": "Kills thirty men to pay the wager.",
+    "refs": [
+     "Judg 14:19"
+    ]
+   },
+   {
+    "placeId": "gaza",
+    "order": 4,
+    "note": "Carries off the gates.",
+    "refs": [
+     "Judg 16:1-3"
+    ]
+   },
+   {
+    "placeId": "gaza",
+    "order": 5,
+    "note": "Prisoner and final act in Dagon's temple.",
+    "refs": [
+     "Judg 16:21-30"
+    ]
+   },
+   {
+    "placeId": "zorah",
+    "order": 6,
+    "note": "Buried in his father's tomb.",
+    "refs": [
+     "Judg 16:31"
+    ]
+   }
+  ],
+  "summary": "Samson is the last and most paradoxical of the major judges. His birth was announced by an angel, he was consecrated a Nazirite from the womb, and the Spirit of the LORD repeatedly rushed upon him with superhuman strength. Yet he was driven by appetite and revenge, chasing Philistine women, breaking his Nazirite separation (touching a carcass, holding a drinking feast), and finally giving away the secret of his consecration to Delilah.\n\nHis exploits are private feuds rather than national campaigns. He never raises an army, and the men of Judah would rather hand him over than fight (Judg 15:11-13). Still, the text insists that God was at work through his choices to 'begin' Israel's deliverance from the Philistines (Judg 13:5; 14:4). Blinded and enslaved, he prays for the first time for himself and God, and in his death he brings down Dagon's temple.\n\nReaders have long been divided. Some see a tragic hero whose final prayer of faith is honoured in Hebrews 11. Others see a mirror of Israel itself: set apart by God, compromised by assimilation, and finally humbled into dependence. Some critical scholars detect folk-hero or solar-myth motifs in his name and deeds, while others defend the stories as rooted in early Israelite–Philistine border conflict.",
+  "textSays": "The text says he was son of Manoah of Zorah, a Danite, and a Nazirite from birth by angelic command. He married a Timnite woman, killed a lion, posed a riddle, and killed Philistines at Ashkelon, Lehi and elsewhere. He judged Israel twenty years. He told Delilah his secret, was shaved, blinded and imprisoned, and died bringing down the temple of Dagon in Gaza. The Spirit is named as the source of his strength, and the LORD's departure as the reason he lost it.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The rabbis are ambivalent. They note that he 'went after his eyes' and so lost his eyes (Mishnah, *Sotah* 1:8), yet they count him a true judge. Some read Jacob's blessing of Dan, 'a serpent by the way', as a prophecy of Samson (b. Sotah 10a)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Many Fathers read Samson as a type of Christ, whose birth was announced by an angel, who was betrayed for silver, and who defeated his enemies in his death with arms outstretched. Augustine defends his death as obedience to a hidden divine command rather than suicide (*City of God* 1.21)."
+   },
+   {
+    "tradition": "Reformed and Evangelical",
+    "view": "Samson shows God's sovereign grace working through deeply flawed people (Judg 14:4) and the danger of treating God's gifts casually. Hebrews 11:32 honours not his morals but his final dependence on God."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars see the Samson cycle as a collection of Danite folk tales of a trickster strongman, perhaps with solar motifs: his name, Beth-shemesh nearby, and the sun-like power tied to his hair. These were later framed within the Deuteronomistic pattern. Others argue that the stories fit the 12th–11th century BC Shephelah frontier, where Philistine sites such as Timnah (Tel Batash) show cultural mixing."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Courage and astonishing strength",
+    "Wit and riddling skill",
+    "Final humble prayer and self-sacrifice"
+   ],
+   "failures": [
+    "Sexual appetite and choice of foreign partners against counsel",
+    "Casual breaches of his Nazirite vow",
+    "Revenge as motive",
+    "Revealing his consecration to Delilah"
+   ],
+   "turningPoints": [
+    "The angel's announcement",
+    "The Timnite marriage",
+    "Shaving and the departure of the LORD",
+    "The prayer in Dagon's temple"
+   ]
+  },
+  "context": "The Philistines, part of the Sea Peoples who settled the southern coast about 1175 BC, organised as a pentapolis (Gaza, Ashkelon, Ashdod, Ekron, Gath) and dominated the Shephelah lowlands by Samson's time. Dan was squeezed between them and the hills and later migrated north (Judg 18). Temples with central wooden pillars on stone bases, like the one at Tell Qasile, illustrate how pulling two pillars could bring down a roof. Nazirite vows are regulated in Numbers 6, though Samson's was lifelong and imposed from birth.",
+  "legacy": "Samson became a cultural icon of strength and downfall. He is the subject of Milton's *Samson Agonistes*, Handel's oratorio *Samson* and Saint-Saëns' opera *Samson et Dalila*. 'Samson and Delilah' became a byword for betrayal by seduction. Theologically his story is a classic study of gifting without character and of God's grace to the broken.",
+  "traditions": [
+   {
+    "text": "Samson was lame in both feet, a reading drawn from Jacob's blessing of Dan in Genesis 49:17.",
+    "source": "Babylonian Talmud, Sotah 10a",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Samson's self-destruction was not sin but obedience to the Spirit's secret command.",
+    "source": "Augustine, *City of God* 1.21",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Swaggering, playful and quick with a rhyme or riddle, he is quick to anger and quick to boast. By the end he speaks briefly and with broken humility.",
+  "refs": [
+   "Judg 13:1-25",
+   "Judg 14:1-20",
+   "Judg 15:1-20",
+   "Judg 16:1-31",
+   "Num 6:1-8",
+   "Heb 11:32"
+  ],
+  "books": [
+   "Judg",
+   "Heb"
+  ]
+ },
+ {
+  "id": "delilah",
+  "names": {
+   "primary": "Delilah",
+   "original": "דְּלִילָה",
+   "meaning": "uncertain; perhaps 'delicate', 'loose-haired', or a pun on Hebrew layla, 'night', against Samson the 'sun'",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "nation": "uncertain (Philistine or Israelite; the text does not say)",
+  "placeIds": [],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "betrayer of Samson"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Persistent persuasion",
+    "refs": [
+     "Judg 16:15-16"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Betrays Samson for silver",
+    "refs": [
+     "Judg 16:4-21"
+    ],
+    "summary": "Offered 1,100 pieces of silver by each Philistine lord, she presses Samson four times for the secret of his strength, has his hair shaved, and hands him to the Philistines."
+   }
+  ],
+  "summary": "Delilah, a woman of the valley of Sorek whom Samson loved, accepted a large bribe from the Philistine lords to discover and break his strength. After three false answers she wore him down until he revealed the Nazirite secret of his hair. Unlike Samson's other partners she is named, but the text gives no nationality, family or motive beyond money, and so interpreters have drawn her as anything from a femme fatale to a pragmatic survivor.",
+  "textSays": "She lived in the valley of Sorek. Samson loved her. She took the Philistine lords' money, asked four times, had him shaved on her knees, and called the Philistines.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Some midrash links her name to weakening ('she weakened his strength'). Some traditions identify her with Micah's mother of Judges 17 because of the matching sum of 1,100 pieces of silver."
+   },
+   {
+    "tradition": "Christian",
+    "view": "She is commonly read as a warning against seduction and divided loyalty, and sometimes as a figure of Judas' betrayal for silver."
+   },
+   {
+    "tradition": "Literary and feminist scholarship",
+    "view": "Scholars note that the text never says she loved Samson or that she was a Philistine. They caution against the later stereotype of the exotic temptress and ask how much she was herself acted on by powerful men."
+   }
+  ],
+  "voice": "Coaxing and wounded by turns, she uses guilt as a weapon: 'How canst thou say, I love thee, when thine heart is not with me?'",
+  "refs": [
+   "Judg 16:4-21"
+  ],
+  "books": [
+   "Judg"
+  ]
+ },
+ {
+  "id": "naomi",
+  "names": {
+   "primary": "Naomi",
+   "original": "נָעֳמִי",
+   "meaning": "pleasant, my delight",
+   "aliases": [
+    "Mara ('bitter', her self-chosen name)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "bethlehem",
+   "moab"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "widow",
+   "mother-in-law of Ruth",
+   "kinswoman of Boaz",
+   "nurse of Obed"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Knowledge of kinship law and local custom",
+    "refs": [
+     "Ruth 2:20",
+     "Ruth 3:1-4"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Famine, exile and bereavement",
+    "placeId": "moab",
+    "refs": [
+     "Ruth 1:1-5"
+    ],
+    "summary": "She goes to Moab with her husband Elimelech and two sons. All three die, leaving her with two Moabite daughters-in-law."
+   },
+   {
+    "title": "Returns to Bethlehem as 'Mara'",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 1:6-22"
+    ],
+    "summary": "She urges her daughters-in-law to go home. Orpah does so, Ruth refuses. In Bethlehem Naomi says the Almighty has dealt very bitterly with her."
+   },
+   {
+    "title": "Plans Ruth's appeal to Boaz",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 2:19-22",
+     "Ruth 3:1-5"
+    ],
+    "summary": "Recognising Boaz as a redeemer kinsman, she sends Ruth to the threshing floor at night."
+   },
+   {
+    "title": "Nurses her grandson",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 4:14-17"
+    ],
+    "summary": "The women bless the LORD, saying a son has been born to Naomi. She becomes nurse to Obed."
+   }
+  ],
+  "summary": "Naomi of Bethlehem is the emotional centre of the Book of Ruth. Driven to Moab by famine, she lost her husband and both sons, and she came home empty, renaming herself Mara, 'bitter'. She is honest in lament, yet her shrewd sense of kinship law and her care for Ruth's future set up the marriage to Boaz. Her story moves from emptiness to fullness: the book ends with a grandson in her lap and the women declaring that the LORD has not left her without a redeemer.",
+  "textSays": "She was wife of Elimelech and mother of Mahlon and Chilion. She was widowed in Moab, returned with Ruth, called herself Mara, guided Ruth to Boaz, and nursed Obed.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Naomi is a model of gentle guidance. The rabbis read her repeated urging of Ruth to turn back as the pattern for testing a would-be convert three times (Ruth Rabbah)."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Her lament is held up as faithful honesty before God, and her restoration shows God's quiet providence at work through ordinary means."
+   }
+  ],
+  "voice": "Raw and candid in grief, with a dry, maternal wit. She is practical and plain-spoken.",
+  "refs": [
+   "Ruth 1:1-22",
+   "Ruth 2:1-2",
+   "Ruth 2:19-22",
+   "Ruth 3:1-5",
+   "Ruth 4:3",
+   "Ruth 4:14-17"
+  ],
+  "books": [
+   "Ruth"
+  ]
+ },
+ {
+  "id": "ruth",
+  "names": {
+   "primary": "Ruth",
+   "original": "רוּת",
+   "meaning": "uncertain; often linked to 'friend' or 'companion' (re'ut) or to 'refreshment'",
+   "aliases": [
+    "Ruth the Moabitess"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1130,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Earlier placement in the Judges period",
+     "year": -1180
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1105,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Earlier placement (if the genealogy is compressed)",
+      "year": -1150
+     }
+    ]
+   },
+   {
+    "year": -1095,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Earlier placement",
+      "year": -1140
+     }
+    ]
+   }
+  ],
+  "nation": "Moab (joined Israel)",
+  "placeIds": [
+   "moab",
+   "bethlehem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "boaz"
+   ],
+   "children": [
+    "obed"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Moabite widow",
+   "convert to Israel's God",
+   "wife of Boaz",
+   "great-grandmother of David",
+   "ancestor of Jesus"
+  ],
+  "occupations": [
+   "gleaner (field labourer)"
+  ],
+  "skills": [
+   {
+    "name": "Diligent harvest labour",
+    "refs": [
+     "Ruth 2:7",
+     "Ruth 2:17"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Covenant loyalty (hesed)",
+    "refs": [
+     "Ruth 1:16-17",
+     "Ruth 3:10"
+    ]
+   },
+   {
+    "name": "Noble character (a 'virtuous woman')",
+    "refs": [
+     "Ruth 3:11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Widowed in Moab",
+    "placeId": "moab",
+    "refs": [
+     "Ruth 1:4-5",
+     "Ruth 4:10"
+    ],
+    "summary": "She marries Mahlon, son of the Judahite Naomi, and is widowed with no children."
+   },
+   {
+    "title": "'Thy people shall be my people'",
+    "refs": [
+     "Ruth 1:14-18"
+    ],
+    "summary": "When Naomi urges her to go home, Ruth clings to her and vows to share her land, people, God and grave, binding herself with an oath in the LORD's name."
+   },
+   {
+    "title": "Arrives in Bethlehem at barley harvest",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 1:19-22"
+    ],
+    "summary": "The two widows arrive as the barley harvest begins."
+   },
+   {
+    "title": "Gleans in Boaz's field",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 2:1-23"
+    ],
+    "summary": "She gleans 'by chance' in the field of Boaz, Elimelech's relative. He protects and provides for her and blesses her for taking refuge under the LORD's wings."
+   },
+   {
+    "title": "The night at the threshing floor",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 3:1-18"
+    ],
+    "summary": "Following Naomi's plan, she lies at Boaz's feet and asks him to spread his 'wing' over her as redeemer. He calls her a woman of noble character and promises to act."
+   },
+   {
+    "title": "Redeemed and married at the city gate",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 4:1-13"
+    ],
+    "summary": "Before the elders, a nearer kinsman declines, and Boaz buys Elimelech's land and takes Ruth as his wife to raise up the name of the dead."
+   },
+   {
+    "title": "Bears Obed, grandfather of David",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 4:13-22"
+    ],
+    "summary": "The LORD gives her conception. The women say she is better to Naomi than seven sons. Her son Obed becomes the father of Jesse, the father of David."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "moab",
+    "order": 1,
+    "note": "Homeland; marriage and widowhood.",
+    "refs": [
+     "Ruth 1:4"
+    ]
+   },
+   {
+    "placeId": "bethlehem",
+    "order": 2,
+    "note": "Settles with Naomi; marries Boaz.",
+    "refs": [
+     "Ruth 1:19-22",
+     "Ruth 4:13"
+    ]
+   }
+  ],
+  "summary": "Ruth was a Moabite widow who refused to abandon her bereaved Israelite mother-in-law Naomi. Her vow, 'whither thou goest, I will go... thy people shall be my people, and thy God my God', is one of the most famous declarations of loyalty in literature. In Bethlehem she gleaned barley in the field of Boaz, a wealthy relative of Naomi's husband. Through a bold night-time appeal at the threshing floor, she became his wife under Israel's customs of kinsman-redemption.\n\nThe short book that bears her name is set 'in the days when the judges ruled', but it is a sharp contrast to the violence of Judges. Ordinary people show hesed (steadfast covenant love) to one another, and God works quietly through harvest, chance and law rather than through miracles. The Hebrew text even calls her a woman of noble character (eshet chayil), the same phrase as Proverbs 31.\n\nRuth's Moabite origin is striking because Deuteronomy 23:3 excludes Moabites from the assembly. Her story has been read as showing how faith and loyalty bring a foreigner fully into Israel. She became great-grandmother of King David, and Matthew lists her among the four women in Jesus' genealogy.",
+  "textSays": "She was a Moabitess, widow of Mahlon, and vowed to go with Naomi and take her God. She gleaned in Boaz's field, appealed to him at the threshing floor as redeemer, and married him. She bore Obed, father of Jesse, father of David. The text calls her a virtuous woman and says she was better to Naomi than seven sons.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Ruth is the model convert (giyoret). Her vow is the basis for later conversion practice, and the book is read at Shavuot, the feast of the giving of Torah and of the harvest. The rabbis resolved the tension with Deuteronomy 23 by reading the exclusion as applying to Moabite men only (Mishnah, *Yevamot* 8:3)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Ruth is a figure of the Gentile Church joined to Christ, the true kinsman-redeemer, and an ancestor honoured on the Sunday of the Holy Forefathers. Her loyalty is held up as a model of faithful love."
+   },
+   {
+    "tradition": "Reformed and Evangelical",
+    "view": "The book shows God's hidden providence ('her hap was to light on' Boaz's field) and grace to outsiders. Boaz as redeemer (go'el) pictures Christ, who redeems at personal cost."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars date the book to the post-exilic period and read it as a gentle counter-voice to Ezra–Nehemiah's ban on foreign wives. Others date it to the monarchy (perhaps for legitimising David's line) on linguistic and thematic grounds. The genealogy (Ruth 4:18-22) may be a later appendix."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Steadfast loyalty",
+    "Hard work and humility",
+    "Courage in a risky appeal",
+    "Faith in Israel's God as an outsider"
+   ],
+   "failures": [
+    "None recorded in the text"
+   ],
+   "turningPoints": [
+    "Choosing Naomi and her God",
+    "Gleaning in Boaz's field",
+    "The threshing-floor appeal",
+    "Marriage and the birth of Obed"
+   ]
+  },
+  "context": "Israel's law allowed the poor, widows and foreigners to glean what reapers left (Lev 19:9-10; Deut 24:19). The go'el (kinsman-redeemer) could buy back family land (Lev 25:25), and levirate custom provided an heir for a dead man (Deut 25:5-10). Ruth's case combines these customs in a way scholars still discuss. Moab and Israel were related peoples (Gen 19:37) and frequent enemies. Business at the city gate before elders was the normal legal setting.",
+  "legacy": "Ruth's vow is often read at weddings, though originally spoken between two women. The book is read on Shavuot. She is one of the four women named in Matthew's genealogy of Jesus, with Tamar, Rahab and Bathsheba, all of whom have unusual or foreign connections. She stands as Scripture's model of loyalty and of the inclusion of the nations.",
+  "traditions": [
+   {
+    "text": "Ruth was a descendant of Eglon, king of Moab.",
+    "source": "Babylonian Talmud, Nazir 23b; Horayot 10b",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Samuel wrote the book of Ruth.",
+    "source": "Babylonian Talmud, Bava Batra 14b",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Gentle, modest and resolute. She speaks rarely, but when she does it is in plain, binding promises and polite, courageous requests.",
+  "refs": [
+   "Ruth 1:1-22",
+   "Ruth 2:1-23",
+   "Ruth 3:1-18",
+   "Ruth 4:1-22",
+   "Matt 1:5"
+  ],
+  "books": [
+   "Ruth",
+   "Matt"
+  ]
+ },
+ {
+  "id": "boaz",
+  "names": {
+   "primary": "Boaz",
+   "original": "בֹּעַז",
+   "meaning": "in him is strength (uncertain); also the name of a temple pillar (1 Kgs 7:21)",
+   "aliases": [
+    "Booz (KJV Matt 1:5)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "active": [
+   {
+    "year": -1105,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Earlier placement",
+      "year": -1150
+     }
+    ]
+   },
+   {
+    "year": -1095,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Earlier placement",
+      "year": -1140
+     }
+    ]
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "bethlehem"
+  ],
+  "family": {
+   "parents": [
+    "rahab"
+   ],
+   "spouses": [
+    "ruth"
+   ],
+   "children": [
+    "obed"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "landowner",
+   "kinsman-redeemer (go'el)",
+   "ancestor of David and Jesus"
+  ],
+  "occupations": [
+   "farmer (landowner)"
+  ],
+  "skills": [
+   {
+    "name": "Fair management of workers",
+    "refs": [
+     "Ruth 2:4",
+     "Ruth 2:15-16"
+    ]
+   },
+   {
+    "name": "Legal procedure at the gate",
+    "refs": [
+     "Ruth 4:1-10"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Generosity and covenant kindness",
+    "refs": [
+     "Ruth 2:8-12",
+     "Ruth 3:10-13"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Notices and protects Ruth",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 2:4-16"
+    ],
+    "summary": "He greets his reapers with a blessing, honours Ruth's loyalty, invites her to eat, and has extra grain dropped for her."
+   },
+   {
+    "title": "Agrees to redeem at the threshing floor",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 3:7-15"
+    ],
+    "summary": "Startled awake at midnight, he blesses Ruth, promises to act as redeemer if the nearer kinsman will not, and sends her home with grain."
+   },
+   {
+    "title": "Redeems the land and marries Ruth",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 4:1-13"
+    ],
+    "summary": "Before ten elders at the gate, the nearer redeemer declines and hands over his sandal, and Boaz acquires the land and Ruth. Obed is born."
+   }
+  ],
+  "summary": "Boaz of Bethlehem, 'a mighty man of wealth' of Elimelech's clan, is the generous landowner who protects the foreign widow Ruth and, as kinsman-redeemer, marries her to preserve the name and inheritance of her dead husband. His conduct embodies the covenant law's care for the poor and the stranger, and his willingness to redeem at cost to himself makes him, for Christian readers, a picture of Christ. Matthew names him as the son of Rahab, although many think the genealogy is compressed.",
+  "textSays": "He was a wealthy kinsman of Elimelech. He blessed his workers, protected and provided for Ruth, agreed to act as redeemer, settled the matter before elders at the gate, married Ruth, and fathered Obed. Matthew 1:5 calls him son of Salmon and Rahab.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Some rabbis identify Boaz with the judge Ibzan of Bethlehem (Judg 12:8-10). They praise his self-control at the threshing floor."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Boaz as go'el is a classic type of Christ the Redeemer, who takes a Gentile bride and pays the price of redemption."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Boaz is the judge Ibzan of Bethlehem.",
+    "source": "Babylonian Talmud, Bava Batra 91a",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Courteous, warm and dignified, an older man of standing who blesses freely. He is meticulous about doing things properly.",
+  "refs": [
+   "Ruth 2:1-23",
+   "Ruth 3:1-18",
+   "Ruth 4:1-22",
+   "1 Chr 2:11-12",
+   "Matt 1:5",
+   "Luke 3:32"
+  ],
+  "books": [
+   "Ruth",
+   "1 Chr",
+   "Matt",
+   "Luke"
+  ]
+ },
+ {
+  "id": "obed",
+  "names": {
+   "primary": "Obed",
+   "original": "עוֹבֵד",
+   "meaning": "servant, worshipper",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1095,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Earlier placement",
+     "year": -1140
+    }
+   ]
+  },
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "bethlehem"
+  ],
+  "family": {
+   "parents": [
+    "boaz",
+    "ruth"
+   ],
+   "spouses": [],
+   "children": [
+    "jesse"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "son of Ruth and Boaz",
+   "grandfather of David"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Born and named by the women of Bethlehem",
+    "placeId": "bethlehem",
+    "refs": [
+     "Ruth 4:13-17"
+    ],
+    "summary": "Born to Ruth and Boaz, he is nursed by Naomi and named by the neighbour women, who call him a restorer of life to her."
+   }
+  ],
+  "summary": "Obed, son of Boaz and the Moabite Ruth, was the father of Jesse and grandfather of King David. He appears only at the end of Ruth and in genealogies, but the women's blessing of him as a 'restorer of life' and the line that follows him give the book its climax: through a foreign widow's loyalty God prepares Israel's royal house.",
+  "textSays": "He was born to Ruth and Boaz, nursed by Naomi, named by the neighbour women, and fathered Jesse.",
+  "interpretations": [
+   {
+    "tradition": "Christian",
+    "view": "He is the link that connects the faithful outsider Ruth to David and so to Christ (Matt 1:5)."
+   }
+  ],
+  "voice": "Quiet and unassuming, a man who knows he stands in someone else's story.",
+  "refs": [
+   "Ruth 4:13-22",
+   "1 Chr 2:12",
+   "Matt 1:5",
+   "Luke 3:32"
+  ],
+  "books": [
+   "Ruth",
+   "1 Chr",
+   "Matt",
+   "Luke"
+  ]
+ },
+ {
+  "id": "jesse",
+  "names": {
+   "primary": "Jesse",
+   "original": "יִשַׁי (Yishai)",
+   "meaning": "uncertain; perhaps 'the LORD exists' or 'gift'",
+   "aliases": [
+    "Isai",
+    "Jesse the Bethlehemite"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "conquest-judges",
+   "united-monarchy"
+  ],
+  "born": {
+   "year": -1080,
+   "circa": true,
+   "confidence": "speculative"
+  },
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "bethlehem",
+   "moab"
+  ],
+  "family": {
+   "parents": [
+    "obed"
+   ],
+   "spouses": [],
+   "children": [
+    "david"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "father of David",
+   "head of a Bethlehem household"
+  ],
+  "occupations": [
+   "farmer and shepherd (flock owner)"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Samuel anoints his youngest son",
+    "placeId": "bethlehem",
+    "refs": [
+     "1 Sam 16:1-13"
+    ],
+    "summary": "Samuel comes to Jesse's sacrifice. After seven sons are passed over, the youngest, David, is fetched from the sheep and anointed."
+   },
+   {
+    "title": "Sends David to his brothers at the front",
+    "refs": [
+     "1 Sam 17:12-20"
+    ],
+    "summary": "Now old, he sends David with provisions to his three eldest sons in Saul's army."
+   },
+   {
+    "title": "Sheltered in Moab",
+    "placeId": "moab",
+    "refs": [
+     "1 Sam 22:3-4"
+    ],
+    "summary": "During David's flight from Saul, Jesse and his wife are placed under the protection of the king of Moab."
+   }
+  ],
+  "summary": "Jesse of Bethlehem, grandson of Ruth and Boaz, was the father of eight sons, the youngest of whom, David, was anointed king by Samuel. He is otherwise a background figure. His name lives on chiefly through prophecy: Isaiah foresees 'a rod out of the stem of Jesse', a royal shoot from the cut-down line of David. The New Testament applies this image to Christ, and Christian art developed it into the 'Jesse Tree'.",
+  "textSays": "He was son of Obed and father of eight sons (seven named in 1 Chronicles 2) and two daughters. He hosted Samuel, sent David to Saul and to the front, and took refuge in Moab during David's outlaw years. Isaiah prophesies a shoot and root of Jesse.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition counts Jesse among four people who died only because of the serpent's sin, not their own (b. Shabbat 55b). The 'stem of Jesse' is read messianically."
+   },
+   {
+    "tradition": "Christian",
+    "view": "The 'root of Jesse' is fulfilled in Christ (Rom 15:12; Rev 5:5 speaks of the Root of David). Medieval art and Advent practice depict the Jesse Tree from Jesse to Jesus."
+   }
+  ],
+  "voice": "An old, plain Bethlehem farmer, proud of his strong elder sons and slow to think of the youngest.",
+  "refs": [
+   "Ruth 4:17-22",
+   "1 Sam 16:1-13",
+   "1 Sam 17:12-20",
+   "1 Sam 22:3-4",
+   "1 Chr 2:12-16",
+   "Isa 11:1",
+   "Isa 11:10",
+   "Acts 13:22",
+   "Rom 15:12"
+  ],
+  "books": [
+   "Ruth",
+   "1 Sam",
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "Ps",
+   "Isa",
+   "Matt",
+   "Luke",
+   "Acts",
+   "Rom"
+  ]
+ }
+]

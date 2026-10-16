@@ -1,0 +1,4922 @@
+[
+ {
+  "id": "eli",
+  "names": {
+   "primary": "Eli",
+   "original": "עֵלִי",
+   "meaning": "Ascended, or My God",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "died": {
+   "year": -1070,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Later chronology (Philistine pressure in the 11th century)",
+     "year": -1050
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1110,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": -1070,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "tribe": "Levi",
+  "nation": "Israel",
+  "placeIds": [
+   "shiloh"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "priest",
+   "judge"
+  ],
+  "occupations": [
+   "priest"
+  ],
+  "skills": [
+   {
+    "name": "Reading people (at first mistakenly)",
+    "refs": [
+     "1 Sam 1:12-17"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Discerning that the LORD was calling Samuel",
+    "refs": [
+     "1 Sam 3:8-9"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Mistakes Hannah's prayer for drunkenness, then blesses her",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 1:9-18"
+    ],
+    "summary": "Eli sees Hannah's lips moving silently at the Shiloh sanctuary, rebukes her as drunk, then hears her explanation and prays that God grant her request."
+   },
+   {
+    "title": "Fails to restrain his sons",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 2:12-25",
+     "1 Sam 3:13"
+    ],
+    "summary": "Hophni and Phinehas take sacrificial meat by force and lie with women serving at the sanctuary; Eli rebukes them mildly but does not remove them."
+   },
+   {
+    "title": "Oracle against Eli's house",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 2:27-36",
+     "1 Kgs 2:27"
+    ],
+    "summary": "An unnamed man of God announces that Eli's priestly line will be cut off and replaced by a faithful priest; 1 Kings sees the fulfilment in Solomon's removal of Abiathar."
+   },
+   {
+    "title": "Teaches Samuel to answer the call",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 3:1-18"
+    ],
+    "summary": "Realising the LORD is calling the boy, Eli tells Samuel to say, Speak, for your servant hears, and then accepts the hard message against his own house."
+   },
+   {
+    "title": "Dies at the news of the ark's capture",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 4:12-18"
+    ],
+    "summary": "Ninety-eight, blind and heavy, Eli falls backward and breaks his neck when told that Israel was routed, his sons killed and the ark taken by the Philistines."
+   }
+  ],
+  "summary": "Eli was the aged priest at Shiloh at the end of the period of the judges, the man who first misjudged and then blessed Hannah and who raised Samuel in the sanctuary. The text credits him with judging Israel forty years, but its portrait is dominated by his failure to restrain his corrupt sons Hophni and Phinehas, which brings a prophetic sentence on his priestly house. He dies on hearing that the ark of God has been captured.",
+  "textSays": "Priest at Shiloh who judged Israel forty years (1 Sam 4:18). His sons abused their office and he honoured them above God (1 Sam 2:29). A man of God and then Samuel announced judgment on his house. He died at ninety-eight when the ark was captured.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic readings often treat Eli sympathetically as a righteous but indulgent father; his acceptance of judgment ('It is the LORD; let him do what seems good to him') is admired."
+   },
+   {
+    "tradition": "Christian (general)",
+    "view": "Eli is commonly used as a cautionary example for leaders who tolerate sin in their own households, and as a model of a mentor who points a younger person to God's voice."
+   }
+  ],
+  "context": "Shiloh housed the tabernacle and ark in the late judges period. Its destruction is not narrated in Samuel but is recalled in Ps 78:60 and Jer 7:12-14; archaeological evidence for an 11th-century destruction at Shiloh is debated.",
+  "legacy": "His line continued through Ahimelech and Abiathar until Solomon removed Abiathar, which 1 Kings presents as fulfilment of the oracle against Eli's house.",
+  "voice": "Old, weary and gentle; speaks slowly, is quick to bless, slow to confront, and resigned before God's verdict.",
+  "refs": [
+   "1 Sam 1:9-4:18",
+   "1 Kgs 2:27"
+  ],
+  "books": [
+   "1 Sam",
+   "1 Kgs"
+  ]
+ },
+ {
+  "id": "hannah",
+  "names": {
+   "primary": "Hannah",
+   "original": "חַנָּה",
+   "meaning": "Grace, favour",
+   "aliases": []
+  },
+  "tier": "major",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges"
+  ],
+  "born": {
+   "year": -1130,
+   "circa": true,
+   "confidence": "speculative"
+  },
+  "active": [
+   {
+    "year": -1110,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": -1090,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "tribe": "Ephraim (by residence)",
+  "nation": "Israel",
+  "placeIds": [
+   "ramah",
+   "shiloh"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "samuel"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "mother of Samuel",
+   "psalmist"
+  ],
+  "occupations": [
+   "homemaker"
+  ],
+  "skills": [
+   {
+    "name": "Poetry and song",
+    "refs": [
+     "1 Sam 2:1-10"
+    ]
+   },
+   {
+    "name": "Weaving and garment-making",
+    "refs": [
+     "1 Sam 2:19"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Persistent, honest prayer",
+    "refs": [
+     "1 Sam 1:10-16"
+    ]
+   },
+   {
+    "name": "Prophetic insight into kingship",
+    "refs": [
+     "1 Sam 2:10"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Barren and provoked by a rival wife",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 1:1-8"
+    ],
+    "summary": "Hannah is one of Elkanah's two wives. He loves her and gives her a double portion, but Peninnah, who has children, provokes her year after year at the Shiloh feast."
+   },
+   {
+    "title": "Vows a son to the LORD",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 1:9-11"
+    ],
+    "summary": "In deep distress she prays at the sanctuary and vows that if God gives her a son he will be given to the LORD all his life, and no razor will touch his head."
+   },
+   {
+    "title": "Misjudged by Eli, then blessed",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 1:12-18"
+    ],
+    "summary": "Eli thinks her silent praying is drunkenness. She explains she has been pouring out her soul; he blesses her, and she goes away no longer downcast."
+   },
+   {
+    "title": "Birth and naming of Samuel",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 1:19-20"
+    ],
+    "summary": "The LORD remembers her; she conceives and names the boy Samuel, explaining that she asked him of the LORD."
+   },
+   {
+    "title": "Presents Samuel at Shiloh",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 1:21-28"
+    ],
+    "summary": "After weaning him she brings Samuel with offerings to Eli and lends him to the LORD for life, fulfilling her vow."
+   },
+   {
+    "title": "Song of Hannah",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 2:1-10"
+    ],
+    "summary": "She sings of a God who reverses fortunes, lifting the poor and humbling the proud, and ends by speaking of the LORD's king and anointed before Israel has a king."
+   },
+   {
+    "title": "Yearly robe and further children",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 2:18-21"
+    ],
+    "summary": "Each year she makes Samuel a little robe; Eli blesses Elkanah and Hannah, and she bears three more sons and two daughters."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ramah",
+    "order": 1,
+    "note": "Home of Elkanah in the hill country of Ephraim (Ramathaim-zophim).",
+    "refs": [
+     "1 Sam 1:1"
+    ]
+   },
+   {
+    "placeId": "shiloh",
+    "order": 2,
+    "note": "Annual pilgrimage to the sanctuary; her vow and prayer.",
+    "refs": [
+     "1 Sam 1:3-18"
+    ]
+   },
+   {
+    "placeId": "ramah",
+    "order": 3,
+    "note": "Returns home; Samuel is born.",
+    "refs": [
+     "1 Sam 1:19-20"
+    ]
+   },
+   {
+    "placeId": "shiloh",
+    "order": 4,
+    "note": "Brings the weaned Samuel to Eli and sings her song.",
+    "refs": [
+     "1 Sam 1:24-2:10"
+    ]
+   },
+   {
+    "placeId": "ramah",
+    "order": 5,
+    "note": "Returns home, visiting Samuel yearly.",
+    "refs": [
+     "1 Sam 2:11-19"
+    ]
+   }
+  ],
+  "summary": "Hannah is the woman whose anguished prayer opens the books of Samuel. Childless and mocked by her husband's other wife, she pours out her grief at the Shiloh sanctuary and vows to give a son back to the LORD. God answers, and she hands the young Samuel over to Eli to serve at the sanctuary for life.\n\nHer song (1 Sam 2:1-10) is one of the theological keys to the books that follow. It celebrates a God who brings low and raises up, who feeds the hungry and empties the full, and it ends with the first mention in Samuel of the LORD's king, his anointed one. The reversals she sings about play out in the stories of Eli and Samuel, Saul and David.\n\nShe is also an example of honest prayer: she does not hide her bitterness, she persists year after year, and she keeps a costly vow once her prayer is answered.",
+  "textSays": "Wife of Elkanah of Ramathaim-zophim; barren while Peninnah had children (1 Sam 1:2). She prayed silently at Shiloh, vowed her son to the LORD, bore Samuel, gave him to Eli once he was weaned, and sang a prayer (1 Sam 2:1-10). Afterwards she bore three sons and two daughters (1 Sam 2:21).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Talmud (Berakhot 31a-b) derives rules for the Amidah prayer from Hannah: praying with directed heart, moving the lips while keeping the voice inaudible. Her story is read as the haftarah on the first day of Rosh Hashanah, linked with the idea that God remembers the barren on that day."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Hannah is read as a type of Mary; the Magnificat (Luke 1:46-55) closely echoes her song. Orthodox liturgy uses the Song of Hannah among the biblical odes sung at Matins."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Hannah is often held up as a model of persistent, honest prayer and of entrusting children to God, and her song as a summary of God's preference for the humble."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Many scholars think the song was an older royal psalm placed in Hannah's mouth by the editor, noting its reference to a king (1 Sam 2:10); others argue it fits its setting as anticipatory prophecy. Both views agree it frames the book's theme of reversal."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Brings real grief to God instead of hiding it",
+    "Keeps a costly vow",
+    "Theological depth: her song anticipates the monarchy"
+   ],
+   "failures": [
+    "The text records no notable failure; she is portrayed as wholly sympathetic"
+   ],
+   "turningPoints": [
+    "Her vow at Shiloh (1 Sam 1:11)",
+    "Eli's blessing (1 Sam 1:17)",
+    "Handing Samuel over (1 Sam 1:28)"
+   ]
+  },
+  "context": "Barrenness carried real social shame and economic risk in Israelite society. Polygamy, as in Elkanah's household, is described without endorsement and, as with Sarah and Hagar or Rachel and Leah, produces rivalry. The Nazirite-like vow (no razor) recalls Samson (Judg 13:5).",
+  "legacy": "Her song is echoed in Mary's Magnificat and in Christian and Jewish liturgy. She stands in the line of barren mothers through whom God gives a key child: Sarah, Rebekah, Rachel, Samson's mother, Elizabeth.",
+  "traditions": [
+   {
+    "text": "Rabbinic tradition counts Hannah among the seven women prophets of Israel.",
+    "source": "Babylonian Talmud, Megillah 14a",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Quiet but intense; speaks plainly about her sorrow, then breaks into confident, poetic praise full of contrasts between the mighty and the lowly.",
+  "refs": [
+   "1 Sam 1:1-2:21",
+   "Luke 1:46-55"
+  ],
+  "books": [
+   "1 Sam"
+  ]
+ },
+ {
+  "id": "samuel",
+  "names": {
+   "primary": "Samuel",
+   "original": "שְׁמוּאֵל",
+   "meaning": "Name of God, or Heard of God (the text links it to 'asked')",
+   "aliases": [
+    "the seer"
+   ]
+  },
+  "tier": "major",
+  "testament": "OT",
+  "eraIds": [
+   "conquest-judges",
+   "united-monarchy"
+  ],
+  "born": {
+   "year": -1105,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Lower chronology",
+     "year": -1085
+    }
+   ]
+  },
+  "died": {
+   "year": -1015,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Lower chronology",
+     "year": -1012
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1070,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": -1015,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "tribe": "Debated: Ephraim (1 Sam 1:1) or Levi (1 Chr 6:28)",
+  "nation": "Israel",
+  "placeIds": [
+   "ramah",
+   "shiloh",
+   "mizpah",
+   "bethel",
+   "gilgal",
+   "bethlehem"
+  ],
+  "family": {
+   "parents": [
+    "hannah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet",
+   "judge",
+   "priest (functioned sacrificially)",
+   "kingmaker"
+  ],
+  "occupations": [
+   "prophet",
+   "judge",
+   "priest"
+  ],
+  "skills": [
+   {
+    "name": "Circuit judging and administration",
+    "refs": [
+     "1 Sam 7:15-17"
+    ]
+   },
+   {
+    "name": "Recording the rights of kingship",
+    "refs": [
+     "1 Sam 10:25"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy: none of his words fell to the ground",
+    "refs": [
+     "1 Sam 3:19-21"
+    ]
+   },
+   {
+    "name": "Intercession",
+    "refs": [
+     "1 Sam 7:5-9",
+     "1 Sam 12:23",
+     "Jer 15:1"
+    ]
+   },
+   {
+    "name": "Seer: knowledge of hidden things",
+    "refs": [
+     "1 Sam 9:15-20"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Dedicated at Shiloh",
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 1:24-28",
+     "1 Sam 2:18-21"
+    ],
+    "summary": "Given by Hannah to serve under Eli, the boy ministers before the LORD wearing a linen ephod."
+   },
+   {
+    "title": "The LORD calls Samuel",
+    "year": -1080,
+    "placeId": "shiloh",
+    "refs": [
+     "1 Sam 3:1-21"
+    ],
+    "summary": "In a time when the word of the LORD was rare, God calls the boy by name; his first message is judgment on Eli's house. All Israel comes to recognise him as a prophet."
+   },
+   {
+    "title": "Victory at Mizpah and Ebenezer",
+    "placeId": "mizpah",
+    "refs": [
+     "1 Sam 7:3-14"
+    ],
+    "summary": "Samuel calls Israel to put away foreign gods, intercedes and offers sacrifice; the LORD thunders against the Philistines. He sets up a stone called Ebenezer, 'thus far the LORD has helped us'."
+   },
+   {
+    "title": "Judges Israel on circuit",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 7:15-17"
+    ],
+    "summary": "Each year he travels from Ramah to Bethel, Gilgal and Mizpah, judging Israel, and builds an altar at home in Ramah."
+   },
+   {
+    "title": "Israel demands a king",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 8:1-22"
+    ],
+    "summary": "His sons take bribes, and the elders ask for a king like the nations. Samuel is displeased; God tells him the people have rejected God, not Samuel, and has him warn them of what a king will take."
+   },
+   {
+    "title": "Anoints Saul",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 9:15-10:1",
+     "1 Sam 10:17-25"
+    ],
+    "summary": "Guided by God, he privately anoints Saul as leader, then presents him publicly at Mizpah by lot and writes down the rights and duties of the kingship."
+   },
+   {
+    "title": "Farewell address",
+    "placeId": "gilgal",
+    "refs": [
+     "1 Sam 12:1-25"
+    ],
+    "summary": "He defends his integrity, rehearses God's saving acts, calls down thunder in the wheat harvest, and promises not to stop praying for Israel."
+   },
+   {
+    "title": "Rebukes and rejects Saul",
+    "placeId": "gilgal",
+    "refs": [
+     "1 Sam 13:8-14",
+     "1 Sam 15:10-35"
+    ],
+    "summary": "Saul offers sacrifice without waiting and later spares Agag and the best of Amalek's livestock. Samuel declares that obedience is better than sacrifice and that God has rejected Saul as king."
+   },
+   {
+    "title": "Anoints David",
+    "placeId": "bethlehem",
+    "refs": [
+     "1 Sam 16:1-13"
+    ],
+    "summary": "Sent to Jesse's house, he learns that the LORD looks on the heart, and anoints the youngest son, David."
+   },
+   {
+    "title": "Shelters David at Ramah",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 19:18-24"
+    ],
+    "summary": "David flees to Samuel at Naioth in Ramah; Saul's messengers and Saul himself are overcome by prophetic frenzy."
+   },
+   {
+    "title": "Death and mourning",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 25:1",
+     "1 Sam 28:3"
+    ],
+    "summary": "All Israel mourns him and buries him at his house in Ramah."
+   },
+   {
+    "title": "Appears to Saul at Endor",
+    "refs": [
+     "1 Sam 28:3-25"
+    ],
+    "summary": "Summoned by a medium at Saul's request, Samuel (or an apparition) tells Saul that he and his sons will die the next day."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ramah",
+    "order": 1,
+    "note": "Born to Elkanah and Hannah.",
+    "refs": [
+     "1 Sam 1:19-20"
+    ]
+   },
+   {
+    "placeId": "shiloh",
+    "order": 2,
+    "note": "Raised at the sanctuary under Eli; his call.",
+    "refs": [
+     "1 Sam 1:24-3:21"
+    ]
+   },
+   {
+    "placeId": "mizpah",
+    "order": 3,
+    "note": "Assembly, repentance and victory over the Philistines.",
+    "refs": [
+     "1 Sam 7:5-12"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 4,
+    "note": "Part of his annual judging circuit.",
+    "refs": [
+     "1 Sam 7:16"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 5,
+    "note": "Circuit stop; renewal of the kingdom and confrontation with Saul.",
+    "refs": [
+     "1 Sam 7:16",
+     "1 Sam 11:14-15",
+     "1 Sam 15:12-33"
+    ]
+   },
+   {
+    "placeId": "bethlehem",
+    "order": 6,
+    "note": "Anoints David.",
+    "refs": [
+     "1 Sam 16:4-13"
+    ]
+   },
+   {
+    "placeId": "ramah",
+    "order": 7,
+    "note": "Home base; death and burial.",
+    "refs": [
+     "1 Sam 7:17",
+     "1 Sam 25:1"
+    ]
+   }
+  ],
+  "summary": "Samuel is the hinge figure between the judges and the kings. Given to God by his mother Hannah and raised at the Shiloh sanctuary, he is called as a boy at a time when the word of the LORD was rare, and grows into a prophet whose words do not fall to the ground. He combines roles no one else in Israel quite holds together: prophet, judge, intercessor and, in practice, priest.\n\nWhen the elders demand a king like the nations, Samuel resists, warns them of the cost, and then obeys God by anointing Saul. When Saul disobeys, Samuel announces his rejection and secretly anoints David, the youngest son of Jesse. He spends the rest of his life grieving over Saul while shielding David.\n\nLater biblical writers remember him chiefly as a man of prayer: Jeremiah pairs him with Moses as Israel's great intercessors, and the New Testament treats him as the first of the prophets after Moses.",
+  "textSays": "Son of Elkanah and Hannah, dedicated from birth and raised at Shiloh (1 Sam 1-2). Called by God (1 Sam 3), judged Israel all his life on a circuit from Ramah (1 Sam 7:15-17), anointed Saul (1 Sam 10:1) and then David (1 Sam 16:13). 1 Chronicles places him in a Levitical genealogy (1 Chr 6:28) and credits him with records of David's reign (1 Chr 29:29). Acts calls him the start of the prophets (Acts 3:24).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Samuel is ranked alongside Moses and Aaron (Ps 99:6). The Talmud credits him with writing the books of Judges, Ruth and his own book (completed by Gad and Nathan). Some rabbinic readings understand him as a lifelong Nazirite."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honoured as a prophet and saint (feast 20 August). His call is read as a model of vocation and listening ('Speak, for your servant hears'), and his anointing of David as pointing to Christ the Anointed."
+   },
+   {
+    "tradition": "Reformed and evangelical",
+    "view": "Emphasis falls on Samuel as faithful intercessor and on the theology of the monarchy: the request for a king was sinful in its motive, yet God used kingship for his purposes, leading to David and the messianic line."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Many scholars see in 1 Sam 8-12 a blend of pro-monarchic and anti-monarchic sources, explaining Samuel's mixed response to kingship; others read the tension as deliberate narrative ambivalence rather than source seams."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Integrity in office; no one could charge him with fraud (1 Sam 12:3-5)",
+    "Faithful intercession",
+    "Willingness to deliver hard words, even to his own mentor and to the king"
+   ],
+   "failures": [
+    "Appointed his sons as judges though they took bribes (1 Sam 8:1-3)",
+    "Initially judged by appearance when choosing a king (1 Sam 16:6-7)"
+   ],
+   "turningPoints": [
+    "His call (1 Sam 3)",
+    "The people's demand for a king (1 Sam 8)",
+    "Rejection of Saul (1 Sam 15)",
+    "Anointing of David (1 Sam 16)"
+   ]
+  },
+  "context": "Samuel's career coincides with Philistine expansion into the highlands after the loss of the ark (1 Sam 4). Israel was a tribal federation without central government, and the pressure of a militarily organised enemy is the background to the demand for a king.",
+  "legacy": "Samuel defined the prophet's role in Israel's monarchy as one who anoints and also confronts kings, a pattern followed by Nathan, Elijah and others. Two biblical books bear his name, and Hebrews lists him among the heroes of faith (Heb 11:32).",
+  "traditions": [
+   {
+    "text": "Samuel wrote the books of Judges, Ruth and the book bearing his name; Gad the seer and Nathan the prophet completed it.",
+    "source": "Babylonian Talmud, Bava Batra 14b-15a",
+    "confidence": "tradition"
+   },
+   {
+    "text": "A site at Nebi Samwil, north-west of Jerusalem, has been venerated as Samuel's tomb since at least the Byzantine period.",
+    "source": "Byzantine and medieval pilgrim accounts (dating debated)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Grave, formal and principled; speaks with the authority of someone who has heard God since childhood, alternating between stern rebuke and genuine grief.",
+  "refs": [
+   "1 Sam 1:20-25:1",
+   "1 Sam 28:3-20",
+   "1 Chr 6:28",
+   "1 Chr 29:29",
+   "Ps 99:6",
+   "Jer 15:1",
+   "Acts 3:24",
+   "Acts 13:20",
+   "Heb 11:32"
+  ],
+  "books": [
+   "1 Sam",
+   "1 Chr",
+   "2 Chr",
+   "Ps",
+   "Jer",
+   "Acts",
+   "Heb"
+  ]
+ },
+ {
+  "id": "saul-king",
+  "names": {
+   "primary": "Saul",
+   "original": "שָׁאוּל",
+   "meaning": "Asked for",
+   "aliases": [
+    "Saul son of Kish"
+   ]
+  },
+  "tier": "major",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "died": {
+   "year": -1010,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Short-reign reconstructions (2 or so years, reading 1 Sam 13:1 literally)",
+     "year": -1025
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1050,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Shorter reign",
+      "year": -1030
+     }
+    ]
+   },
+   {
+    "year": -1010,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "tribe": "Benjamin",
+  "nation": "Israel",
+  "placeIds": [
+   "gibeah",
+   "ramah",
+   "mizpah",
+   "gilgal",
+   "en-gedi",
+   "mount-gilboa"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "jonathan",
+    "michal"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "first king of Israel",
+   "military commander"
+  ],
+  "occupations": [
+   "king",
+   "soldier",
+   "farmer"
+  ],
+  "skills": [
+   {
+    "name": "Military leadership and mustering the tribes",
+    "refs": [
+     "1 Sam 11:6-11",
+     "1 Sam 14:47-48"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "The Spirit came upon him; prophesied",
+    "refs": [
+     "1 Sam 10:6-10",
+     "1 Sam 11:6"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Looking for donkeys, finds a kingdom",
+    "placeId": "ramah",
+    "refs": [
+     "1 Sam 9:1-27"
+    ],
+    "summary": "Searching for his father's lost donkeys, the tall Benjaminite meets Samuel, whom God has told to expect Israel's leader."
+   },
+   {
+    "title": "Anointed and chosen by lot",
+    "placeId": "mizpah",
+    "refs": [
+     "1 Sam 10:1-27"
+    ],
+    "summary": "Samuel anoints him privately; signs follow and he prophesies. At Mizpah the lot falls on him while he hides among the baggage."
+   },
+   {
+    "title": "Rescues Jabesh-gilead",
+    "refs": [
+     "1 Sam 11:1-15"
+    ],
+    "summary": "Moved by the Spirit, he summons the tribes, defeats Nahash the Ammonite, spares his critics and is confirmed king at Gilgal."
+   },
+   {
+    "title": "Unlawful sacrifice at Gilgal",
+    "placeId": "gilgal",
+    "refs": [
+     "1 Sam 13:5-14"
+    ],
+    "summary": "With the Philistines massing and troops deserting, Saul offers the burnt offering before Samuel arrives. Samuel says his kingdom will not continue."
+   },
+   {
+    "title": "Rash oath during the Michmash battle",
+    "refs": [
+     "1 Sam 14:24-46"
+    ],
+    "summary": "Saul forbids food until evening; Jonathan unknowingly eats honey, and Saul is ready to execute him until the troops ransom him."
+   },
+   {
+    "title": "Spares Agag; rejected as king",
+    "placeId": "gilgal",
+    "refs": [
+     "1 Sam 15:1-35"
+    ],
+    "summary": "Commanded to devote Amalek to destruction, Saul keeps the king and the best livestock. Samuel announces God's rejection; tearing Samuel's robe becomes a sign of the torn kingdom."
+   },
+   {
+    "title": "Spirit departs; David plays the lyre",
+    "placeId": "gibeah",
+    "refs": [
+     "1 Sam 16:14-23"
+    ],
+    "summary": "An evil spirit from the LORD torments him, and young David is brought to soothe him with music."
+   },
+   {
+    "title": "Jealousy and pursuit of David",
+    "refs": [
+     "1 Sam 18:6-16",
+     "1 Sam 19:9-10",
+     "1 Sam 23:7-29"
+    ],
+    "summary": "After the women sing that David has slain his ten thousands, Saul twice hurls a spear at him and then hunts him through the wilderness."
+   },
+   {
+    "title": "Massacre of the priests of Nob",
+    "refs": [
+     "1 Sam 22:6-19"
+    ],
+    "summary": "Believing the priests aided David, Saul has Doeg the Edomite kill eighty-five priests and strike the town."
+   },
+   {
+    "title": "Spared by David at En-gedi",
+    "placeId": "en-gedi",
+    "refs": [
+     "1 Sam 24:1-22"
+    ],
+    "summary": "David cuts off the corner of Saul's robe in a cave but refuses to harm the LORD's anointed; Saul weeps and admits David will be king."
+   },
+   {
+    "title": "Consults the medium at Endor",
+    "refs": [
+     "1 Sam 28:3-25"
+    ],
+    "summary": "Receiving no answer from God, Saul disguises himself and seeks a medium, who brings up Samuel. He hears that he will die the next day."
+   },
+   {
+    "title": "Death on Mount Gilboa",
+    "year": -1010,
+    "placeId": "mount-gilboa",
+    "refs": [
+     "1 Sam 31:1-13",
+     "1 Chr 10:1-14"
+    ],
+    "summary": "With three sons killed and himself badly wounded by Philistine archers, Saul falls on his own sword. The men of Jabesh-gilead recover and bury the bodies."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "gibeah",
+    "order": 1,
+    "note": "Home town and later royal seat ('Gibeah of Saul').",
+    "refs": [
+     "1 Sam 10:26",
+     "1 Sam 11:4"
+    ]
+   },
+   {
+    "placeId": "ramah",
+    "order": 2,
+    "note": "Meets Samuel while searching for donkeys (town unnamed in the text; traditionally Samuel's Ramah).",
+    "refs": [
+     "1 Sam 9:5-27"
+    ]
+   },
+   {
+    "placeId": "mizpah",
+    "order": 3,
+    "note": "Publicly chosen by lot.",
+    "refs": [
+     "1 Sam 10:17-24"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 4,
+    "note": "Kingship renewed; later his unlawful sacrifice and rejection.",
+    "refs": [
+     "1 Sam 11:14-15",
+     "1 Sam 13:8-14",
+     "1 Sam 15:12-35"
+    ]
+   },
+   {
+    "placeId": "en-gedi",
+    "order": 5,
+    "note": "Pursuing David; spared in the cave.",
+    "refs": [
+     "1 Sam 24:1-22"
+    ]
+   },
+   {
+    "placeId": "mount-gilboa",
+    "order": 6,
+    "note": "Final battle with the Philistines and death.",
+    "refs": [
+     "1 Sam 31:1-6"
+    ]
+   }
+  ],
+  "summary": "Saul son of Kish, a tall Benjaminite, was Israel's first king. Anointed by Samuel in answer to the people's demand for a king, he began with promise: the Spirit came on him, he rescued Jabesh-gilead from the Ammonites, and he fought the Philistines and other enemies on every side.\n\nHis reign then unravels through acts of impatient or partial obedience, above all offering sacrifice without Samuel and sparing Agag and Amalek's livestock. Samuel announces that God has rejected him. The rest of the story traces his decline into fear, jealousy of David, violent suspicion, and finally a desperate visit to a medium before he dies on Mount Gilboa.\n\nSaul is one of Scripture's most tragic figures. The narrative is sympathetic to his torment while holding him responsible, and David's lament over him and Jonathan is among the most moving poems in the Bible.",
+  "textSays": "Son of Kish of Benjamin, taller than anyone (1 Sam 9:2). Anointed by Samuel (1 Sam 10:1), confirmed after victory at Jabesh (1 Sam 11). Rejected for disobedience (1 Sam 13:13-14; 15:23). Tormented by an evil spirit from the LORD (1 Sam 16:14), pursued David, died at Gilboa (1 Sam 31). The length of his reign is textually damaged in 1 Sam 13:1; Acts 13:21 gives forty years. Chronicles says he died for unfaithfulness and for consulting a medium (1 Chr 10:13-14).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition is relatively gentle on Saul, noting his humility (hiding among the baggage) and the fact that he sinned fewer times than David; his downfall is attributed to misplaced mercy and failure to obey precisely. Some midrashim stress that he went to his death knowingly, accepting judgment."
+   },
+   {
+    "tradition": "Christian (patristic and Catholic)",
+    "view": "Saul often serves as a type of the person who begins in grace but falls through pride and disobedience; Gregory the Great used him as an example for rulers. Debate continues on whether the figure at Endor was truly Samuel or a demonic deception."
+   },
+   {
+    "tradition": "Reformed",
+    "view": "Saul illustrates that external anointing and spiritual experience do not equal saving faith; his rejection shows God's sovereignty in choosing David. Some Reformed writers stress his culpability; others note God's providence in giving the people the king they asked for."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Many scholars think the narrative was shaped in David's court to legitimise David's dynasty, so Saul may have been a more effective ruler than portrayed. Others argue the text's own sympathy for Saul tells against crude propaganda."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Humble beginnings (1 Sam 9:21; 10:22)",
+    "Decisive deliverance of Jabesh-gilead (1 Sam 11)",
+    "Magnanimity toward critics after victory (1 Sam 11:13)"
+   ],
+   "failures": [
+    "Impatient sacrifice (1 Sam 13)",
+    "Partial obedience and blame-shifting regarding Amalek (1 Sam 15)",
+    "Murderous jealousy of David",
+    "Slaughter of the priests of Nob",
+    "Consulting a medium"
+   ],
+   "turningPoints": [
+    "Gilgal sacrifice (1 Sam 13:13-14)",
+    "Rejection over Amalek (1 Sam 15:26-28)",
+    "The women's song (1 Sam 18:7-9)"
+   ]
+  },
+  "context": "Saul's kingdom was small and largely tribal, centred on Benjamin and the central hills, with no capital city, standing bureaucracy or temple. The Philistines held a monopoly on iron-working (1 Sam 13:19-22) and garrisons in the hill country. Tell el-Ful north of Jerusalem is commonly identified with Gibeah, though excavated remains there are debated.",
+  "legacy": "His failure shapes the Bible's theology of kingship: a king must be subject to God's word through the prophet. His house survived briefly through Ish-bosheth, and his grandson Mephibosheth was cared for by David. The apostle Paul, also a Benjaminite named Saul, was named after him (Acts 13:21; Phil 3:5).",
+  "voice": "Charismatic but insecure; swings between warmth and suspicion, defends himself with excuses, and in his last days speaks with haunted desperation.",
+  "refs": [
+   "1 Sam 9:1-31:13",
+   "2 Sam 1:17-27",
+   "1 Chr 10:1-14",
+   "Acts 13:21"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Chr",
+   "Acts"
+  ]
+ },
+ {
+  "id": "jonathan",
+  "names": {
+   "primary": "Jonathan",
+   "original": "יְהוֹנָתָן",
+   "meaning": "The LORD has given",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "died": {
+   "year": -1010,
+   "circa": true,
+   "confidence": "debated"
+  },
+  "active": [
+   {
+    "year": -1045,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": -1010,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "tribe": "Benjamin",
+  "nation": "Israel",
+  "placeIds": [
+   "gibeah",
+   "mount-gilboa"
+  ],
+  "family": {
+   "parents": [
+    "saul-king"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "michal"
+   ]
+  },
+  "roles": [
+   "crown prince",
+   "military commander"
+  ],
+  "occupations": [
+   "soldier"
+  ],
+  "skills": [
+   {
+    "name": "Archery and bold small-unit warfare",
+    "refs": [
+     "1 Sam 14:6-14",
+     "2 Sam 1:22"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith that God can save by many or by few",
+    "refs": [
+     "1 Sam 14:6"
+    ]
+   },
+   {
+    "name": "Loyal friendship",
+    "refs": [
+     "1 Sam 18:1-4",
+     "1 Sam 23:16-18"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Attacks the Philistine garrison",
+    "refs": [
+     "1 Sam 13:3",
+     "1 Sam 14:1-15"
+    ],
+    "summary": "With only his armour-bearer he climbs to a Philistine outpost near Michmash, trusting God, and triggers a panic that becomes a general rout."
+   },
+   {
+    "title": "Breaks his father's oath unknowingly",
+    "refs": [
+     "1 Sam 14:24-45"
+    ],
+    "summary": "He eats honey not knowing Saul's ban; Saul would have him killed, but the army ransoms him."
+   },
+   {
+    "title": "Covenant with David",
+    "placeId": "gibeah",
+    "refs": [
+     "1 Sam 18:1-4"
+    ],
+    "summary": "After David kills Goliath, Jonathan loves him as himself and gives him his robe, armour, sword, bow and belt."
+   },
+   {
+    "title": "Warns and protects David",
+    "refs": [
+     "1 Sam 19:1-7",
+     "1 Sam 20:1-42"
+    ],
+    "summary": "He pleads with Saul for David and later uses the arrow signal in the field to tell David he must flee."
+   },
+   {
+    "title": "Strengthens David at Horesh",
+    "refs": [
+     "1 Sam 23:16-18"
+    ],
+    "summary": "He finds David in the wilderness of Ziph, encourages him in God and says David will be king with Jonathan second to him."
+   },
+   {
+    "title": "Killed at Gilboa",
+    "placeId": "mount-gilboa",
+    "refs": [
+     "1 Sam 31:2",
+     "2 Sam 1:17-27"
+    ],
+    "summary": "He dies with his father and brothers; David laments him in the Song of the Bow."
+   }
+  ],
+  "summary": "Jonathan, Saul's eldest son and heir, is one of the most admirable figures in Samuel: a brave warrior who trusted God against long odds and a friend who bound himself to David by covenant even though David's rise cost him the throne. He repeatedly protected David from Saul while remaining loyal to his father, and died beside him at Gilboa. David honoured their covenant by caring for Jonathan's son Mephibosheth (2 Sam 9).",
+  "textSays": "Son of Saul; led a thousand men at Gibeah (1 Sam 13:2). Loved David as his own soul and made a covenant with him (1 Sam 18:1-3; 20:16-17). Died at Gilboa (1 Sam 31:2). David's lament says his love was more wonderful than the love of women (2 Sam 1:26).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Mishnah (Avot 5:16) holds up the love of David and Jonathan as the model of love that does not depend on any ulterior cause."
+   },
+   {
+    "tradition": "Traditional Christian",
+    "view": "Their bond is read as covenant friendship and self-giving loyalty; Jonathan's yielding of his claim to David is compared to John the Baptist's 'he must increase'."
+   },
+   {
+    "tradition": "Some modern readings",
+    "view": "Some interpreters read the relationship as romantic or erotic, pointing to the language of 2 Sam 1:26 and 1 Sam 20:30-41. Others reply that 'love' (ahavah) is standard covenant and political-loyalty vocabulary in the ancient Near East, and that the lament's comparison does not imply a sexual relationship. The question is debated."
+   }
+  ],
+  "voice": "Warm, frank and brave; speaks with quick conviction about God's power and with tender loyalty to his friend, while honouring his father.",
+  "refs": [
+   "1 Sam 13:2-3",
+   "1 Sam 14:1-46",
+   "1 Sam 18:1-4",
+   "1 Sam 20:1-42",
+   "1 Sam 23:16-18",
+   "1 Sam 31:2",
+   "2 Sam 1:17-27",
+   "2 Sam 9:1-13"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "michal",
+  "names": {
+   "primary": "Michal",
+   "original": "מִיכַל",
+   "meaning": "Who is like God?",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "tribe": "Benjamin",
+  "nation": "Israel",
+  "placeIds": [
+   "gibeah",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [
+    "saul-king"
+   ],
+   "spouses": [
+    "david"
+   ],
+   "children": [],
+   "siblings": [
+    "jonathan"
+   ]
+  },
+  "roles": [
+   "princess",
+   "wife of David"
+  ],
+  "occupations": [
+   "royal household"
+  ],
+  "skills": [
+   {
+    "name": "Quick-witted deception to save David",
+    "refs": [
+     "1 Sam 19:11-17"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Loves David and marries him",
+    "placeId": "gibeah",
+    "refs": [
+     "1 Sam 18:20-28"
+    ],
+    "summary": "Saul offers her to David for a bride-price of a hundred Philistine foreskins, hoping David will die; David doubles it and marries her."
+   },
+   {
+    "title": "Helps David escape",
+    "placeId": "gibeah",
+    "refs": [
+     "1 Sam 19:11-17"
+    ],
+    "summary": "She lets David down through a window and puts a household idol in his bed to delay Saul's men."
+   },
+   {
+    "title": "Given to another man, then taken back",
+    "refs": [
+     "1 Sam 25:44",
+     "2 Sam 3:13-16"
+    ],
+    "summary": "Saul gives her to Paltiel; later David demands her return as a condition of a deal with Abner, and Paltiel follows weeping."
+   },
+   {
+    "title": "Despises David dancing before the ark",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 6:16-23"
+    ],
+    "summary": "She rebukes David for dancing uncovered before servant girls; he replies he danced before the LORD. The text notes she had no child to the day of her death."
+   }
+  ],
+  "summary": "Michal, Saul's younger daughter, is the only woman in the Hebrew Bible said to love a man. She married David, saved his life from her father, was given to another husband in his absence, and was later reclaimed by David for political reasons. Her final scene, scorning David's dance before the ark, ends with the note that she had no child, closing off any heir uniting the houses of Saul and David.",
+  "textSays": "Daughter of Saul who loved David (1 Sam 18:20). She saved him (1 Sam 19:11-17), was given to Paltiel (1 Sam 25:44), was returned to David (2 Sam 3:13-16), despised him at the ark's arrival and had no child (2 Sam 6:16-23). 2 Sam 21:8 in the Hebrew and KJV names Michal as mother of five sons, but most manuscripts of the Septuagint and many translations read Merab (cf. 1 Sam 18:19).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic sources sometimes resolve 2 Sam 21:8 by saying Michal raised Merab's sons. Some midrashim present her positively, as pious and wise."
+   },
+   {
+    "tradition": "Christian (traditional)",
+    "view": "She is often read as a warning against contempt for wholehearted worship."
+   },
+   {
+    "tradition": "Feminist and literary readings",
+    "view": "Many modern readers see her as a woman used as a political pawn by both Saul and David, whose bitterness is understandable. Others reply that the narrator still presents her scorn as misjudging David's worship; both elements may be intended."
+   }
+  ],
+  "voice": "Proud and sharp-tongued, with the bearing of a king's daughter; once passionate, later bitter.",
+  "refs": [
+   "1 Sam 14:49",
+   "1 Sam 18:20-28",
+   "1 Sam 19:11-17",
+   "1 Sam 25:44",
+   "2 Sam 3:13-16",
+   "2 Sam 6:16-23"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "david",
+  "names": {
+   "primary": "David",
+   "original": "דָּוִד",
+   "meaning": "Beloved",
+   "aliases": [
+    "son of Jesse",
+    "the sweet psalmist of Israel"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "born": {
+   "year": -1040,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Lower chronology",
+     "year": -1030
+    }
+   ]
+  },
+  "died": {
+   "year": -970,
+   "circa": true,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "Lower chronology",
+     "year": -961
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1010,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -970,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "bethlehem",
+   "gibeah",
+   "ramah",
+   "gath",
+   "adullam",
+   "moab",
+   "en-gedi",
+   "ziklag",
+   "hebron",
+   "jerusalem",
+   "mount-of-olives",
+   "jordan-river"
+  ],
+  "family": {
+   "parents": [
+    "jesse"
+   ],
+   "spouses": [
+    "michal",
+    "abigail",
+    "bathsheba"
+   ],
+   "children": [
+    "absalom",
+    "solomon"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "king of Israel and Judah",
+   "shepherd",
+   "warrior",
+   "psalmist",
+   "prophet (in New Testament reading)"
+  ],
+  "occupations": [
+   "shepherd",
+   "musician",
+   "soldier",
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Lyre-playing and song-writing",
+    "refs": [
+     "1 Sam 16:18-23",
+     "2 Sam 23:1"
+    ]
+   },
+   {
+    "name": "Sling and close combat; military command",
+    "refs": [
+     "1 Sam 17:34-50",
+     "1 Sam 18:5-7"
+    ]
+   },
+   {
+    "name": "Political coalition-building",
+    "refs": [
+     "2 Sam 3:12-21",
+     "2 Sam 5:1-3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "The Spirit of the LORD rushed upon him from his anointing",
+    "refs": [
+     "1 Sam 16:13"
+    ]
+   },
+   {
+    "name": "Prophetic speech through psalms",
+    "refs": [
+     "2 Sam 23:2",
+     "Acts 2:29-31"
+    ]
+   },
+   {
+    "name": "Repentance",
+    "refs": [
+     "2 Sam 12:13",
+     "Ps 51"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Anointed by Samuel",
+    "placeId": "bethlehem",
+    "refs": [
+     "1 Sam 16:1-13"
+    ],
+    "summary": "The youngest son of Jesse, out keeping sheep, is anointed in front of his brothers; the Spirit comes on him from that day."
+   },
+   {
+    "title": "Defeats Goliath",
+    "refs": [
+     "1 Sam 17:1-58"
+    ],
+    "summary": "In the Valley of Elah he faces the Philistine champion with a sling, declaring that the battle is the LORD's, and kills him."
+   },
+   {
+    "title": "At Saul's court; friendship with Jonathan",
+    "placeId": "gibeah",
+    "refs": [
+     "1 Sam 18:1-30"
+    ],
+    "summary": "His success makes him popular and Saul jealous; Jonathan covenants with him and Michal marries him."
+   },
+   {
+    "title": "Fugitive years",
+    "placeId": "adullam",
+    "refs": [
+     "1 Sam 21:10-22:5",
+     "1 Sam 23:1-29"
+    ],
+    "summary": "Fleeing Saul, he feigns madness at Gath, gathers four hundred distressed men at the cave of Adullam and moves through the wilderness of Judah."
+   },
+   {
+    "title": "Spares Saul twice",
+    "placeId": "en-gedi",
+    "refs": [
+     "1 Sam 24:1-22",
+     "1 Sam 26:1-25"
+    ],
+    "summary": "Twice he has Saul at his mercy and refuses to strike the LORD's anointed."
+   },
+   {
+    "title": "Vassal of Achish at Ziklag",
+    "placeId": "ziklag",
+    "refs": [
+     "1 Sam 27:1-12",
+     "1 Sam 30:1-31"
+    ],
+    "summary": "He serves the Philistine king Achish from Ziklag while raiding Israel's enemies, and recovers his people after an Amalekite raid."
+   },
+   {
+    "title": "King at Hebron, then over all Israel",
+    "year": -1010,
+    "placeId": "hebron",
+    "refs": [
+     "2 Sam 2:1-4",
+     "2 Sam 5:1-5"
+    ],
+    "summary": "Judah anoints him at Hebron; after civil war with Saul's house he is anointed king over all Israel, reigning forty years in total."
+   },
+   {
+    "title": "Captures Jerusalem and brings up the ark",
+    "year": -1003,
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 5:6-10",
+     "2 Sam 6:1-19"
+    ],
+    "summary": "He takes the Jebusite stronghold, makes it the City of David, and brings the ark there amid dancing and sacrifice."
+   },
+   {
+    "title": "The Davidic covenant",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 7:1-29",
+     "Ps 89:3-4"
+    ],
+    "summary": "Wanting to build God a house, he is told instead that God will build him a house: a dynasty and throne established forever."
+   },
+   {
+    "title": "Adultery with Bathsheba and murder of Uriah",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 11:1-27"
+    ],
+    "summary": "He takes Bathsheba, and when she is pregnant arranges her husband Uriah's death in battle."
+   },
+   {
+    "title": "Confronted by Nathan; repents",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 12:1-25",
+     "Ps 51"
+    ],
+    "summary": "Nathan's parable of the poor man's lamb exposes him. He confesses; he is forgiven but told the sword will not depart from his house."
+   },
+   {
+    "title": "Absalom's rebellion",
+    "placeId": "mount-of-olives",
+    "refs": [
+     "2 Sam 15:1-37",
+     "2 Sam 18:1-33"
+    ],
+    "summary": "Driven from Jerusalem, he climbs the Mount of Olives weeping. After Absalom's death he mourns, 'O my son Absalom'."
+   },
+   {
+    "title": "Census and plague; buys the threshing floor",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 24:1-25",
+     "1 Chr 21:1-30"
+    ],
+    "summary": "His census brings a plague; he buys Araunah's threshing floor and builds an altar there, later the temple site (2 Chr 3:1)."
+   },
+   {
+    "title": "Makes Solomon king and dies",
+    "year": -970,
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 1:28-40",
+     "1 Kgs 2:1-12"
+    ],
+    "summary": "Prompted by Nathan and Bathsheba, he has Solomon anointed, charges him to keep God's law, and dies after reigning forty years."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "bethlehem",
+    "order": 1,
+    "year": -1025,
+    "note": "Home; anointed by Samuel.",
+    "refs": [
+     "1 Sam 16:1-13"
+    ]
+   },
+   {
+    "placeId": "gibeah",
+    "order": 2,
+    "note": "Serves at Saul's court.",
+    "refs": [
+     "1 Sam 16:21-23",
+     "1 Sam 18:2"
+    ]
+   },
+   {
+    "placeId": "ramah",
+    "order": 3,
+    "note": "First flight: to Samuel at Naioth.",
+    "refs": [
+     "1 Sam 19:18-24"
+    ]
+   },
+   {
+    "placeId": "gath",
+    "order": 4,
+    "note": "Feigns madness before Achish.",
+    "refs": [
+     "1 Sam 21:10-15"
+    ]
+   },
+   {
+    "placeId": "adullam",
+    "order": 5,
+    "note": "Cave of Adullam; his band forms.",
+    "refs": [
+     "1 Sam 22:1-2"
+    ]
+   },
+   {
+    "placeId": "moab",
+    "order": 6,
+    "note": "Leaves his parents with the king of Moab at Mizpeh of Moab.",
+    "refs": [
+     "1 Sam 22:3-4"
+    ]
+   },
+   {
+    "placeId": "en-gedi",
+    "order": 7,
+    "note": "Strongholds of En-gedi; spares Saul in the cave.",
+    "refs": [
+     "1 Sam 23:29-24:22"
+    ]
+   },
+   {
+    "placeId": "gath",
+    "order": 8,
+    "note": "Returns to Achish as a vassal.",
+    "refs": [
+     "1 Sam 27:1-4"
+    ]
+   },
+   {
+    "placeId": "ziklag",
+    "order": 9,
+    "note": "Base for sixteen months.",
+    "refs": [
+     "1 Sam 27:5-7"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 10,
+    "year": -1010,
+    "note": "Anointed king of Judah, later of all Israel.",
+    "refs": [
+     "2 Sam 2:1-4",
+     "2 Sam 5:1-5"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 11,
+    "year": -1003,
+    "note": "Captures the city and makes it his capital.",
+    "refs": [
+     "2 Sam 5:6-10"
+    ]
+   },
+   {
+    "placeId": "mount-of-olives",
+    "order": 12,
+    "note": "Flight from Absalom.",
+    "refs": [
+     "2 Sam 15:30"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 13,
+    "note": "Crosses the Jordan to Mahanaim; later returns.",
+    "refs": [
+     "2 Sam 17:22",
+     "2 Sam 19:15-18"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 14,
+    "year": -970,
+    "note": "Restored; dies and is buried in the City of David.",
+    "refs": [
+     "2 Sam 20:3",
+     "1 Kgs 2:10"
+    ]
+   }
+  ],
+  "summary": "David son of Jesse is the central king of the Old Testament: a shepherd boy anointed by Samuel, the giant-killer of the Valley of Elah, a fugitive from Saul who refused to lift his hand against the LORD's anointed, and finally the king who united the tribes, captured Jerusalem and made it the political and religious capital of Israel.\n\nGod's covenant with him in 2 Samuel 7, promising a house and a throne forever, becomes the foundation of Israel's messianic hope. Prophets look for a coming son of David, and the New Testament opens by calling Jesus the son of David. Many psalms are linked to him by their headings, and he is remembered as Israel's model worshipper.\n\nThe text does not idealise him. His adultery with Bathsheba and murder of Uriah are told in plain detail, and the second half of his reign is shadowed by violence within his own family: Amnon's rape of Tamar, Absalom's revolt and death, and the struggle over succession. His greatness in the narrative lies less in moral perfection than in his repentance and his trust in God's mercy.",
+  "textSays": "Youngest son of Jesse of Bethlehem (1 Sam 16:10-13). Anointed by Samuel; killed Goliath (1 Sam 17); fled Saul; anointed king at Hebron, ruling seven and a half years there and thirty-three in Jerusalem (2 Sam 5:4-5). Received God's covenant of an everlasting dynasty (2 Sam 7:12-16). Committed adultery and murder, was rebuked by Nathan and repented (2 Sam 11-12). Called a man after God's own heart (1 Sam 13:14; Acts 13:22). Seventy-three psalms carry 'of David' in their Hebrew headings.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "David is the ideal king and ancestor of the Messiah (Mashiach ben David). Rabbinic tradition credits him with composing or compiling the book of Psalms and treats his repentance as a model of teshuvah. The Talmud debates the extent of his sin with Bathsheba, some sages arguing soldiers' wives were conditionally divorced, a view others reject."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "David is honoured as prophet and saint and as a type of Christ, the shepherd-king born in Bethlehem. Psalm 51 became the church's classic penitential psalm, and the Psalter attributed to him is the backbone of the daily office."
+   },
+   {
+    "tradition": "Reformed and evangelical",
+    "view": "The Davidic covenant is a key stage in covenant theology, fulfilled in Christ, the son of David who reigns forever (Luke 1:32-33; Acts 2:29-36). David's sin and forgiveness illustrate justification apart from works (Rom 4:6-8)."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "The Tel Dan inscription (9th century BC) is widely read as mentioning the 'House of David', supporting a historical founder. Scholars debate the size of his kingdom: maximalists accept a substantial state; minimalists and some archaeologists (low chronology) see a modest chiefdom later idealised. Many also read the Succession Narrative (2 Sam 9-20; 1 Kgs 1-2) as either court apologetic or unusually candid royal history."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Courageous trust in God (1 Sam 17:45-47)",
+    "Refusal to seize the throne by violence against Saul (1 Sam 24:6)",
+    "Wholehearted worship (2 Sam 6:14)",
+    "Genuine repentance (2 Sam 12:13)",
+    "Loyalty to Jonathan's house (2 Sam 9)"
+   ],
+   "failures": [
+    "Adultery with Bathsheba and murder of Uriah (2 Sam 11)",
+    "Passivity after Amnon raped Tamar (2 Sam 13:21)",
+    "Indulgence of Absalom",
+    "The census (2 Sam 24:10)",
+    "Deathbed instructions for revenge on Joab and Shimei (1 Kgs 2:5-9)"
+   ],
+   "turningPoints": [
+    "Anointing (1 Sam 16)",
+    "Goliath (1 Sam 17)",
+    "Kingship at Hebron (2 Sam 2)",
+    "Covenant (2 Sam 7)",
+    "Bathsheba and Nathan (2 Sam 11-12)"
+   ]
+  },
+  "context": "David rose in the gap left by declining Egyptian and Hittite power, before Assyria's expansion, when small states could form in the Levant. Philistine pressure, the Saulide-Judahite rivalry and the neutral Jebusite city of Jerusalem explain many of his political moves. Excavations in the City of David (e.g. the Stepped Stone Structure) and at Khirbet Qeiyafa are cited in debates about 10th-century Judah.",
+  "legacy": "Founder of the dynasty that ruled Judah for about four centuries, organiser of Israel's worship (1 Chr 15-16; 23-26), and the figure through whom messianic hope is expressed: Isa 11:1, Jer 23:5, Ezek 34:23-24. Jesus is called son of David (Matt 1:1) and the root and offspring of David (Rev 22:16).",
+  "traditions": [
+   {
+    "text": "David was the author or editor of the whole book of Psalms, compiling also psalms by ten elders.",
+    "source": "Babylonian Talmud, Bava Batra 14b",
+    "confidence": "tradition"
+   },
+   {
+    "text": "A building on Mount Zion has been venerated as David's tomb since the medieval period; most archaeologists consider it unlikely to be authentic, since 1 Kgs 2:10 places the tomb in the City of David.",
+    "source": "Benjamin of Tudela, Itinerary (12th century)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Islam honours David (Dawud) as a prophet to whom the Zabur (Psalms) was given.",
+    "source": "Qur'an 4:163; 17:55",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Passionate and poetic; moves quickly from boldness to tears, speaks to God as to a close friend, and turns crises into songs.",
+  "refs": [
+   "1 Sam 16:1-31:13",
+   "2 Sam 1:1-24:25",
+   "1 Kgs 1:1-2:12",
+   "1 Chr 11:1-29:30",
+   "Ps 51",
+   "Matt 1:1",
+   "Luke 1:32",
+   "Acts 13:22",
+   "Rom 1:3",
+   "Rev 22:16"
+  ],
+  "books": [
+   "Ruth",
+   "1 Sam",
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "Ps",
+   "Isa",
+   "Jer",
+   "Ezek",
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "Heb",
+   "Rev"
+  ]
+ },
+ {
+  "id": "abigail",
+  "names": {
+   "primary": "Abigail",
+   "original": "אֲבִיגַיִל",
+   "meaning": "My father is joy",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Israel (Calebite clan of Judah)",
+  "placeIds": [
+   "ziklag",
+   "hebron"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "david"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "wife of Nabal, then of David"
+  ],
+  "occupations": [
+   "household manager"
+  ],
+  "skills": [
+   {
+    "name": "Diplomacy and persuasive speech",
+    "refs": [
+     "1 Sam 25:23-31"
+    ]
+   },
+   {
+    "name": "Rapid logistics",
+    "refs": [
+     "1 Sam 25:18"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Discernment; foresees David's 'sure house'",
+    "refs": [
+     "1 Sam 25:28-31"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Intercepts David's revenge",
+    "refs": [
+     "1 Sam 25:14-35"
+    ],
+    "summary": "When her husband Nabal insults David's men, she brings provisions, meets David on the road and talks him out of bloodshed."
+   },
+   {
+    "title": "Widowed and marries David",
+    "refs": [
+     "1 Sam 25:36-42"
+    ],
+    "summary": "Nabal dies ten days after hearing what she did; David sends for her and she becomes his wife."
+   },
+   {
+    "title": "Captured and rescued at Ziklag",
+    "placeId": "ziklag",
+    "refs": [
+     "1 Sam 30:1-18"
+    ],
+    "summary": "Amalekites carry her off in a raid; David recovers her and the others."
+   },
+   {
+    "title": "Mother of David's second son",
+    "placeId": "hebron",
+    "refs": [
+     "2 Sam 3:3",
+     "1 Chr 3:1"
+    ],
+    "summary": "At Hebron she bears Chileab, also called Daniel."
+   }
+  ],
+  "summary": "Abigail, wife of the wealthy and boorish Nabal of Carmel in Judah, is described as intelligent and beautiful. Her quick action and wise speech kept David from avenging himself on Nabal, and her words anticipated God's 'sure house' for David. After Nabal's death she became David's wife, shared his outlaw years at Ziklag, and bore him a son at Hebron.",
+  "textSays": "A woman of good understanding and beautiful (1 Sam 25:3). She persuaded David not to shed blood (1 Sam 25:32-33), married him (1 Sam 25:42), and bore Chileab/Daniel (2 Sam 3:3; 1 Chr 3:1).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Talmud (Megillah 14a-b) counts Abigail among the seven women prophets because of her prediction about David."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Often presented as an example of wise peacemaking and courage in a household ruled by a foolish man."
+   }
+  ],
+  "voice": "Calm, gracious and persuasive; uses careful courtesy and theological argument to turn an angry man aside.",
+  "refs": [
+   "1 Sam 25:2-42",
+   "1 Sam 27:3",
+   "1 Sam 30:5",
+   "2 Sam 2:2",
+   "2 Sam 3:3"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "bathsheba",
+  "names": {
+   "primary": "Bathsheba",
+   "original": "בַּת־שֶׁבַע",
+   "meaning": "Daughter of an oath, or daughter of seven",
+   "aliases": [
+    "Bath-shua (1 Chr 3:5)",
+    "the wife of Uriah (Matt 1:6)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "uriah",
+    "david"
+   ],
+   "children": [
+    "solomon"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "queen mother"
+  ],
+  "occupations": [
+   "royal household"
+  ],
+  "skills": [
+   {
+    "name": "Court politics and advocacy",
+    "refs": [
+     "1 Kgs 1:15-31"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Taken by David",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 11:2-5"
+    ],
+    "summary": "Seen bathing from the palace roof, she is sent for by David while her husband is at war, and becomes pregnant."
+   },
+   {
+    "title": "Widowed and married to David; the child dies",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 11:26-27",
+     "2 Sam 12:15-23"
+    ],
+    "summary": "After Uriah is killed she mourns and David marries her; the child dies as Nathan foretold."
+   },
+   {
+    "title": "Birth of Solomon",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 12:24-25"
+    ],
+    "summary": "David comforts her and she bears Solomon, whom the LORD loves."
+   },
+   {
+    "title": "Secures Solomon's succession",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 1:11-31"
+    ],
+    "summary": "With Nathan she reminds the aged David of his oath, and he orders Solomon's anointing."
+   },
+   {
+    "title": "Queen mother",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 2:13-25"
+    ],
+    "summary": "Solomon seats her at his right hand; she carries Adonijah's request for Abishag, which Solomon treats as treason."
+   }
+  ],
+  "summary": "Bathsheba, daughter of Eliam and wife of Uriah the Hittite, enters the story as the object of David's adultery and becomes the mother of Solomon. Later she is a decisive political actor, working with Nathan to secure Solomon's succession, and serves as queen mother. Matthew names her, as 'the wife of Uriah', in Jesus' genealogy.",
+  "textSays": "Daughter of Eliam, wife of Uriah (2 Sam 11:3). David sent for her and lay with her (2 Sam 11:4). She bore Solomon (2 Sam 12:24) and three other sons (1 Chr 3:5). She acted with Nathan for Solomon (1 Kgs 1:15-31). Listed in Jesus' genealogy (Matt 1:6).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition tends to exonerate her and sometimes identifies her as the mother who taught Lemuel (Prov 31:1), with Lemuel understood as Solomon."
+   },
+   {
+    "tradition": "Traditional Christian",
+    "view": "Older commentary sometimes faulted her for bathing in view of the palace; this is now widely rejected, since the text places all blame on David (2 Sam 11:27; 12:9)."
+   },
+   {
+    "tradition": "Modern scholarship",
+    "view": "Debate centres on her agency: many read 2 Sam 11 as an abuse of royal power amounting to coercion, while others see her later actions in 1 Kgs 1 as showing a shrewd political figure. These are not mutually exclusive."
+   }
+  ],
+  "voice": "Measured and dignified; in her later years speaks with the careful, formal courtesy of a seasoned court figure.",
+  "refs": [
+   "2 Sam 11:1-12:25",
+   "1 Kgs 1:11-31",
+   "1 Kgs 2:13-25",
+   "1 Chr 3:5",
+   "Matt 1:6"
+  ],
+  "books": [
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "Matt"
+  ]
+ },
+ {
+  "id": "uriah",
+  "names": {
+   "primary": "Uriah the Hittite",
+   "original": "אוּרִיָּה",
+   "meaning": "The LORD is my light",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Hittite (serving in Israel)",
+  "placeIds": [
+   "jerusalem",
+   "ammon"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "bathsheba"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "one of David's mighty men"
+  ],
+  "occupations": [
+   "soldier"
+  ],
+  "skills": [
+   {
+    "name": "Elite warrior",
+    "refs": [
+     "2 Sam 23:39"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Refuses to go home",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 11:6-13"
+    ],
+    "summary": "Recalled by David to cover up the pregnancy, he refuses to sleep with his wife while the ark and army are in the field."
+   },
+   {
+    "title": "Killed at Rabbah by David's order",
+    "placeId": "ammon",
+    "refs": [
+     "2 Sam 11:14-17"
+    ],
+    "summary": "He carries his own death warrant to Joab and is placed where the fighting is fiercest."
+   }
+  ],
+  "summary": "Uriah the Hittite, one of David's thirty mighty men, was Bathsheba's husband. His integrity, refusing comfort while his comrades were at war, sharply contrasts with David's conduct, and David had him killed at the siege of Rabbah. His name stands in the genealogy of Jesus as 'the wife of Uriah'.",
+  "textSays": "A Hittite among David's mighty men (2 Sam 23:39), husband of Bathsheba, killed on David's orders (2 Sam 11; 12:9).",
+  "voice": "Plain-spoken soldier with an unbending sense of duty and loyalty.",
+  "refs": [
+   "2 Sam 11:3-27",
+   "2 Sam 12:9-10",
+   "2 Sam 23:39",
+   "1 Kgs 15:5",
+   "Matt 1:6"
+  ],
+  "books": [
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "Matt"
+  ]
+ },
+ {
+  "id": "nathan",
+  "names": {
+   "primary": "Nathan",
+   "original": "נָתָן",
+   "meaning": "He gave",
+   "aliases": [
+    "Nathan the prophet"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "court prophet",
+   "royal adviser",
+   "chronicler"
+  ],
+  "occupations": [
+   "prophet"
+  ],
+  "skills": [
+   {
+    "name": "Parable and indirect confrontation",
+    "refs": [
+     "2 Sam 12:1-7"
+    ]
+   },
+   {
+    "name": "Court strategy",
+    "refs": [
+     "1 Kgs 1:11-14"
+    ]
+   },
+   {
+    "name": "Historical record-keeping",
+    "refs": [
+     "1 Chr 29:29",
+     "2 Chr 9:29"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy of the Davidic covenant",
+    "refs": [
+     "2 Sam 7:4-17"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Delivers the Davidic covenant",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 7:1-17",
+     "1 Chr 17:1-15"
+    ],
+    "summary": "He first approves David's plan to build a temple, then returns with God's word: David's son will build it, and God will establish David's house forever."
+   },
+   {
+    "title": "Confronts David: 'You are the man'",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 12:1-15"
+    ],
+    "summary": "Through the parable of the poor man's ewe lamb he leads David to condemn himself, then pronounces judgment and forgiveness."
+   },
+   {
+    "title": "Names Solomon Jedidiah",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 12:25"
+    ],
+    "summary": "God sends him to call the child Jedidiah, 'beloved of the LORD'."
+   },
+   {
+    "title": "Secures Solomon's accession",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 1:11-45"
+    ],
+    "summary": "When Adonijah claims the throne, he coordinates with Bathsheba and anoints Solomon with Zadok."
+   }
+  ],
+  "summary": "Nathan was the prophet at David's court who both announced God's everlasting covenant with David's house and confronted the king over Bathsheba and Uriah with the parable of the ewe lamb. In David's old age he engineered Solomon's succession. Chronicles credits him with histories of David and Solomon and with helping organise temple music.",
+  "textSays": "Prophet who delivered the covenant oracle (2 Sam 7), rebuked David (2 Sam 12), named Solomon Jedidiah (2 Sam 12:25), backed Solomon's anointing (1 Kgs 1), wrote records (1 Chr 29:29; 2 Chr 9:29), and gave commands on Levitical music (2 Chr 29:25).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian",
+    "view": "Nathan is the model of the prophet who speaks truth to power with courage and skill; his 'You are the man' is a classic of moral confrontation."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Some read 1 Kgs 1 as showing Nathan as a partisan court politician as much as a prophet; others see no conflict between prophetic office and political engagement."
+   }
+  ],
+  "voice": "Tactful, wise and fearless; tells stories to make hard truths land, then speaks bluntly.",
+  "refs": [
+   "2 Sam 7:1-17",
+   "2 Sam 12:1-25",
+   "1 Kgs 1:8-45",
+   "1 Chr 17:1-15",
+   "1 Chr 29:29",
+   "2 Chr 9:29",
+   "2 Chr 29:25",
+   "Ps 51"
+  ],
+  "books": [
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "2 Chr",
+   "Ps"
+  ]
+ },
+ {
+  "id": "gad-prophet",
+  "names": {
+   "primary": "Gad",
+   "original": "גָּד",
+   "meaning": "Fortune",
+   "aliases": [
+    "Gad the seer",
+    "David's seer"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "adullam",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet",
+   "seer to David"
+  ],
+  "occupations": [
+   "prophet"
+  ],
+  "skills": [
+   {
+    "name": "Recording David's acts",
+    "refs": [
+     "1 Chr 29:29"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophetic guidance",
+    "refs": [
+     "1 Sam 22:5",
+     "2 Sam 24:11-13"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Tells David to leave the stronghold",
+    "placeId": "adullam",
+    "refs": [
+     "1 Sam 22:5"
+    ],
+    "summary": "He directs the fugitive David to go into the land of Judah."
+   },
+   {
+    "title": "Offers David three punishments after the census",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 24:11-19",
+     "1 Chr 21:9-19"
+    ],
+    "summary": "He brings God's choice of famine, flight or plague, then tells David to build an altar on Araunah's threshing floor."
+   }
+  ],
+  "summary": "Gad was a prophet who accompanied David from his fugitive days, guiding his movements and later announcing judgment for the census and the site of the altar that became the temple mount. Chronicles credits him with a record of David's reign and with arranging temple music alongside Nathan.",
+  "textSays": "Prophet with David in the stronghold (1 Sam 22:5), David's seer at the census (2 Sam 24:11), author of records (1 Chr 29:29), involved in Levitical music (2 Chr 29:25).",
+  "voice": "Brief and direct; delivers God's word without embellishment.",
+  "refs": [
+   "1 Sam 22:5",
+   "2 Sam 24:11-19",
+   "1 Chr 21:9-19",
+   "1 Chr 29:29",
+   "2 Chr 29:25"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Chr",
+   "2 Chr"
+  ]
+ },
+ {
+  "id": "joab",
+  "names": {
+   "primary": "Joab",
+   "original": "יוֹאָב",
+   "meaning": "The LORD is father",
+   "aliases": [
+    "son of Zeruiah"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "died": {
+   "year": -970,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "hebron",
+   "jerusalem",
+   "ammon"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "commander of David's army"
+  ],
+  "occupations": [
+   "soldier",
+   "general"
+  ],
+  "skills": [
+   {
+    "name": "Military command and siegecraft",
+    "refs": [
+     "1 Chr 11:6",
+     "2 Sam 12:26-28"
+    ]
+   },
+   {
+    "name": "Political manipulation",
+    "refs": [
+     "2 Sam 14:1-24"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Murders Abner",
+    "placeId": "hebron",
+    "refs": [
+     "2 Sam 3:22-39"
+    ],
+    "summary": "He kills Saul's general Abner in revenge for his brother Asahel, undermining David's peace with the north."
+   },
+   {
+    "title": "Leads the capture of Jerusalem",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Chr 11:4-6"
+    ],
+    "summary": "He goes up first against the Jebusites and becomes chief commander."
+   },
+   {
+    "title": "Arranges Uriah's death",
+    "placeId": "ammon",
+    "refs": [
+     "2 Sam 11:14-25"
+    ],
+    "summary": "He carries out David's order to have Uriah killed at Rabbah."
+   },
+   {
+    "title": "Kills Absalom",
+    "refs": [
+     "2 Sam 18:9-17",
+     "2 Sam 19:1-8"
+    ],
+    "summary": "Against David's order he kills Absalom hanging in a tree, then rebukes David for mourning instead of thanking his troops."
+   },
+   {
+    "title": "Executed at the altar",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 2:5-6",
+     "1 Kgs 2:28-34"
+    ],
+    "summary": "Having backed Adonijah, he flees to the altar; Solomon has Benaiah kill him there."
+   }
+  ],
+  "summary": "Joab, son of David's sister Zeruiah, commanded David's army for most of his reign. Loyal to David's throne and ruthlessly effective, he also murdered rivals (Abner, Amasa), carried out David's plot against Uriah, and killed Absalom against orders. He backed Adonijah in the succession struggle and was executed at Solomon's command.",
+  "textSays": "Son of Zeruiah (2 Sam 2:18), commander of the army (2 Sam 8:16). Killed Abner (2 Sam 3:27), Absalom (2 Sam 18:14) and Amasa (2 Sam 20:10). Supported Adonijah (1 Kgs 1:7) and was killed by Benaiah (1 Kgs 2:34).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian (general)",
+    "view": "Joab is read as the archetype of the loyal but unscrupulous servant whose pragmatism serves the king while violating justice. David's 'these sons of Zeruiah are too hard for me' (2 Sam 3:39) captures the tension."
+   }
+  ],
+  "voice": "Blunt, hard-headed and impatient with sentiment; speaks like a soldier who believes results justify means.",
+  "refs": [
+   "2 Sam 2:12-32",
+   "2 Sam 3:22-39",
+   "2 Sam 11:14-25",
+   "2 Sam 14:1-33",
+   "2 Sam 18:1-19:8",
+   "2 Sam 20:4-23",
+   "2 Sam 24:1-9",
+   "1 Kgs 2:28-34"
+  ],
+  "books": [
+   "1 Sam",
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "absalom",
+  "names": {
+   "primary": "Absalom",
+   "original": "אַבְשָׁלוֹם",
+   "meaning": "Father of peace",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "died": {
+   "year": -980,
+   "circa": true,
+   "confidence": "speculative"
+  },
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "hebron",
+   "jerusalem",
+   "jordan-river"
+  ],
+  "family": {
+   "parents": [
+    "david"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "solomon"
+   ]
+  },
+  "roles": [
+   "prince",
+   "rebel king"
+  ],
+  "occupations": [
+   "prince"
+  ],
+  "skills": [
+   {
+    "name": "Charm and popular politics",
+    "refs": [
+     "2 Sam 15:1-6"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Avenges Tamar by killing Amnon",
+    "refs": [
+     "2 Sam 13:1-39"
+    ],
+    "summary": "After Amnon rapes his sister Tamar and David does nothing, Absalom waits two years and has Amnon killed, then flees to Geshur."
+   },
+   {
+    "title": "Returns through Joab's scheme",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 14:1-33"
+    ],
+    "summary": "Joab uses a wise woman of Tekoa to persuade David to bring him back; father and son are reconciled after two more years."
+   },
+   {
+    "title": "Steals the hearts of Israel",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 15:1-6"
+    ],
+    "summary": "He stands at the city gate promising justice to all who come with complaints."
+   },
+   {
+    "title": "Proclaimed king at Hebron",
+    "placeId": "hebron",
+    "refs": [
+     "2 Sam 15:7-18",
+     "2 Sam 16:15-23"
+    ],
+    "summary": "He launches his revolt at Hebron, David flees, and he takes Jerusalem and his father's concubines."
+   },
+   {
+    "title": "Dies in the forest of Ephraim",
+    "refs": [
+     "2 Sam 18:6-18",
+     "2 Sam 18:33"
+    ],
+    "summary": "Caught by his head in an oak, he is killed by Joab. David grieves bitterly."
+   }
+  ],
+  "summary": "Absalom, David's handsome third son by Maacah of Geshur, killed his half-brother Amnon to avenge his sister Tamar, then won popular support and led a full-scale revolt that drove David from Jerusalem. His defeat and death in the forest of Ephraim produced David's famous lament. His story fulfils Nathan's word that the sword would not depart from David's house.",
+  "textSays": "Son of David and Maacah (2 Sam 3:3), famous for his beauty and hair (2 Sam 14:25-26). Killed Amnon (2 Sam 13:28-29), rebelled (2 Sam 15), slept with David's concubines (2 Sam 16:22, cf. 2 Sam 12:11), was killed by Joab (2 Sam 18:14). Psalm 3 is headed as written when David fled from him.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Mishnah (Sotah 1:8) notes that he took pride in his hair and was caught by it, an example of measure for measure."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Often read as a study in ambition and in the consequences of David's failures as a father; David's lament is cited as an image of parental and divine grief."
+   }
+  ],
+  "voice": "Smooth, flattering and aggrieved; presents himself as the champion of the overlooked while nursing resentment.",
+  "refs": [
+   "2 Sam 3:3",
+   "2 Sam 13:1-19:8",
+   "Ps 3"
+  ],
+  "books": [
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "Ps"
+  ]
+ },
+ {
+  "id": "solomon",
+  "names": {
+   "primary": "Solomon",
+   "original": "שְׁלֹמֹה",
+   "meaning": "Peaceable (related to shalom)",
+   "aliases": [
+    "Jedidiah ('beloved of the LORD')",
+    "Qoheleth (by traditional identification)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "born": {
+   "year": -990,
+   "circa": true,
+   "confidence": "speculative"
+  },
+  "died": {
+   "year": -931,
+   "circa": true,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "Thiele chronology",
+     "year": -931,
+     "source": "E. R. Thiele"
+    },
+    {
+     "label": "Albright / alternative chronologies",
+     "year": -922
+    },
+    {
+     "label": "Galil",
+     "year": -930
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -970,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -931,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Israel",
+  "placeIds": [
+   "jerusalem",
+   "megiddo",
+   "hazor",
+   "tyre",
+   "egypt",
+   "sheba"
+  ],
+  "family": {
+   "parents": [
+    "david",
+    "bathsheba"
+   ],
+   "spouses": [],
+   "children": [
+    "rehoboam"
+   ],
+   "siblings": [
+    "absalom"
+   ]
+  },
+  "roles": [
+   "king of Israel",
+   "temple builder",
+   "sage",
+   "author (by attribution)"
+  ],
+  "occupations": [
+   "king",
+   "builder",
+   "sage"
+  ],
+  "skills": [
+   {
+    "name": "Administration and district government",
+    "refs": [
+     "1 Kgs 4:1-19"
+    ]
+   },
+   {
+    "name": "Building projects",
+    "refs": [
+     "1 Kgs 6:1-38",
+     "1 Kgs 9:15-19"
+    ]
+   },
+   {
+    "name": "International trade and diplomacy",
+    "refs": [
+     "1 Kgs 5:1-12",
+     "1 Kgs 10:22-29"
+    ]
+   },
+   {
+    "name": "Natural knowledge: plants and animals",
+    "refs": [
+     "1 Kgs 4:33"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Wisdom and understanding given by God",
+    "refs": [
+     "1 Kgs 3:9-12",
+     "1 Kgs 4:29-34"
+    ]
+   },
+   {
+    "name": "Proverbs and songs",
+    "refs": [
+     "1 Kgs 4:32",
+     "Prov 1:1"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Birth and naming",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Sam 12:24-25"
+    ],
+    "summary": "Born to David and Bathsheba after the death of their first child; the LORD loves him and Nathan names him Jedidiah."
+   },
+   {
+    "title": "Anointed king at Gihon",
+    "year": -970,
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 1:32-40"
+    ],
+    "summary": "When Adonijah claims the throne, David orders Solomon anointed by Zadok and Nathan at the Gihon spring."
+   },
+   {
+    "title": "Consolidates power",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 2:13-46"
+    ],
+    "summary": "He has Adonijah, Joab and Shimei executed and banishes Abiathar; 'the kingdom was established in the hand of Solomon'."
+   },
+   {
+    "title": "Asks for wisdom at Gibeon",
+    "refs": [
+     "1 Kgs 3:3-15",
+     "2 Chr 1:7-12"
+    ],
+    "summary": "In a dream God offers him anything; he asks for an understanding heart to govern, and is promised riches and honour too."
+   },
+   {
+    "title": "Judgment between two mothers",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 3:16-28"
+    ],
+    "summary": "He orders a disputed baby cut in two and identifies the true mother by her compassion."
+   },
+   {
+    "title": "Builds the temple",
+    "year": -966,
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 5:1-6:38",
+     "2 Chr 3:1-2"
+    ],
+    "summary": "With Hiram of Tyre's cedar and craftsmen he builds the temple over seven years, beginning in his fourth year, 480 years after the exodus by 1 Kgs 6:1."
+   },
+   {
+    "title": "Dedicates the temple",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 8:1-66",
+     "2 Chr 7:1-3"
+    ],
+    "summary": "The ark is brought in, the glory cloud fills the house, and Solomon prays that God will hear prayers made toward this place, even from foreigners and exiles."
+   },
+   {
+    "title": "Fortifies Hazor, Megiddo and Gezer",
+    "placeId": "megiddo",
+    "refs": [
+     "1 Kgs 9:15-19"
+    ],
+    "summary": "He uses forced labour to build the Millo, the wall of Jerusalem and royal cities."
+   },
+   {
+    "title": "Visit of the queen of Sheba",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 10:1-13"
+    ],
+    "summary": "She tests him with hard questions and declares that his wisdom and prosperity exceed the report."
+   },
+   {
+    "title": "Foreign wives and idolatry",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 11:1-13"
+    ],
+    "summary": "His seven hundred wives and three hundred concubines turn his heart to other gods in his old age; God announces the kingdom will be torn from his son."
+   },
+   {
+    "title": "Adversaries arise; death",
+    "year": -931,
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 11:14-43"
+    ],
+    "summary": "Hadad, Rezon and Jeroboam oppose him. He dies after forty years and Rehoboam succeeds."
+   }
+  ],
+  "summary": "Solomon, son of David and Bathsheba, ruled Israel at the height of its power and wealth. Asking God for wisdom rather than riches, he became proverbial for it, and he built the temple in Jerusalem that became the centre of Israel's worship for nearly four hundred years. His prayer at its dedication is one of the great prayers of the Old Testament.\n\nHis reign also had a darker side that the text does not hide. He secured the throne through executions, laid heavy forced labour and taxation on the northern tribes, multiplied horses, silver and wives against the warnings of Deut 17:16-17, and in old age built shrines for the gods of his foreign wives. God's verdict is that the kingdom will be divided after him, which happens at once under his son Rehoboam.\n\nTradition links Solomon with Proverbs, Ecclesiastes and the Song of Songs, and Jesus refers to his glory and his wisdom as benchmarks that the kingdom of God surpasses.",
+  "textSays": "Son of David and Bathsheba (2 Sam 12:24), anointed king (1 Kgs 1:39), asked for wisdom (1 Kgs 3:9), built the temple and palace (1 Kgs 6-7), wrote 3,000 proverbs and 1,005 songs (1 Kgs 4:32), loved many foreign women who turned his heart (1 Kgs 11:1-4), reigned forty years (1 Kgs 11:42). Headings attribute parts of Proverbs (Prov 1:1; 10:1; 25:1), the Song (Song 1:1) and Pss 72 and 127 to him; Ecclesiastes speaks as 'son of David, king in Jerusalem' (Eccl 1:1). Jesus says one greater than Solomon is here (Matt 12:42).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Solomon is the wise king and temple builder; rabbinic tradition attributes the Song, Proverbs and Ecclesiastes to him at different stages of life, while critiquing his marriages. Later legends make him master of demons and speaker with animals."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Solomon is read as a type of Christ the wise king and temple builder; the Wisdom of Solomon (deuterocanonical) is associated with his name. Patristic writers disputed whether he finally repented, some reading Ecclesiastes as a confession of old age."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Emphasis falls on the danger of a divided heart: a king blessed with wisdom who failed to obey. Many evangelicals hold Solomonic authorship of most of Proverbs and of Ecclesiastes and Song; others accept that Ecclesiastes uses a Solomonic persona."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Scholars debate the scale of Solomon's kingdom. Some attribute the six-chambered gates at Hazor, Megiddo and Gezer to Solomon (Yadin, Mazar); the low chronology (Finkelstein) dates them to the 9th-century Omrides. No contemporary inscription names Solomon. Most critical scholars date Ecclesiastes to the Persian or Hellenistic period."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Humble request for wisdom (1 Kgs 3:7-9)",
+    "Just judgment (1 Kgs 3:28)",
+    "Temple building and dedicatory prayer (1 Kgs 8)",
+    "Peace and prosperity (1 Kgs 4:25)"
+   ],
+   "failures": [
+    "Heavy forced labour (1 Kgs 5:13-14; 12:4)",
+    "Accumulating horses, gold and wives (1 Kgs 10:26-11:3; Deut 17:16-17)",
+    "Building shrines to Chemosh and Molech (1 Kgs 11:7-8)"
+   ],
+   "turningPoints": [
+    "Gibeon dream (1 Kgs 3)",
+    "Temple dedication and second appearance of God (1 Kgs 9:1-9)",
+    "Old age apostasy (1 Kgs 11:4)"
+   ]
+  },
+  "context": "Solomon's reign falls in a period of weak Egyptian and Mesopotamian power, letting a Levantine kingdom control trade routes. He allied with Hiram of Tyre and married Pharaoh's daughter (1 Kgs 3:1), notable since Egyptian princesses were rarely given to foreign kings. The temple's plan (porch, hall, inner sanctuary) has close parallels in Syrian temples such as Ain Dara and Tell Tayinat.",
+  "legacy": "The temple shaped Israelite worship until 586 BC, and Solomon's prayer framed later Jewish prayer toward Jerusalem (Dan 6:10). His failures are blamed for the split of the kingdom (1 Kgs 11:11-13). Wisdom literature was gathered under his name, and later Jewish, Christian and Islamic tradition (Sulayman) made him the archetype of the wise king.",
+  "traditions": [
+   {
+    "text": "Solomon wrote the Song of Songs in youth, Proverbs in maturity and Ecclesiastes in old age.",
+    "source": "Song of Songs Rabbah 1:1 (section number needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Hezekiah and his colleagues wrote down (edited) Proverbs, the Song and Ecclesiastes.",
+    "source": "Babylonian Talmud, Bava Batra 15a",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Solomon commanded demons through a ring given by God, used to build the temple.",
+    "source": "Testament of Solomon (pseudepigraphal, early centuries AD)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Ethiopian royal line descends from Menelik I, son of Solomon and the queen of Sheba.",
+    "source": "Kebra Nagast (14th century)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Eloquent and measured, fond of balanced sayings and observations about nature and human folly; in later life weary and reflective.",
+  "refs": [
+   "2 Sam 12:24-25",
+   "1 Kgs 1:11-11:43",
+   "1 Chr 22:5-29:28",
+   "2 Chr 1:1-9:31",
+   "Prov 1:1",
+   "Song 1:1",
+   "Neh 13:26",
+   "Matt 6:29",
+   "Matt 12:42"
+  ],
+  "books": [
+   "2 Sam",
+   "1 Kgs",
+   "1 Chr",
+   "2 Chr",
+   "Neh",
+   "Ps",
+   "Prov",
+   "Eccl",
+   "Song",
+   "Matt",
+   "Luke",
+   "John",
+   "Acts"
+  ]
+ },
+ {
+  "id": "queen-of-sheba",
+  "names": {
+   "primary": "Queen of Sheba",
+   "aliases": [
+    "queen of the south (Matt 12:42)",
+    "Makeda (Ethiopian tradition)",
+    "Bilqis (Islamic tradition)"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "united-monarchy"
+  ],
+  "nation": "Sheba (Saba)",
+  "placeIds": [
+   "sheba",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "queen"
+  ],
+  "occupations": [
+   "ruler"
+  ],
+  "skills": [
+   {
+    "name": "Testing with riddles",
+    "refs": [
+     "1 Kgs 10:1"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Visits Solomon",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 10:1-13",
+     "2 Chr 9:1-12"
+    ],
+    "summary": "Hearing of Solomon's fame, she comes with a great caravan of spices, gold and stones, tests him with hard questions, and blesses the LORD for setting him on the throne."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "sheba",
+    "order": 1,
+    "note": "Her kingdom, usually located in south-west Arabia (Yemen).",
+    "refs": [
+     "1 Kgs 10:1"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "note": "Visits Solomon's court.",
+    "refs": [
+     "1 Kgs 10:2"
+    ]
+   },
+   {
+    "placeId": "sheba",
+    "order": 3,
+    "note": "Returns to her own land.",
+    "refs": [
+     "1 Kgs 10:13"
+    ]
+   }
+  ],
+  "summary": "An unnamed queen of Sheba, a kingdom usually located in south-west Arabia, travelled to Jerusalem to test Solomon's wisdom and exchange rich gifts, possibly also on trade business. Jesus cites her as a Gentile who came from the ends of the earth to hear wisdom and will condemn his unbelieving generation. Ethiopian and Islamic traditions developed extensive stories about her.",
+  "textSays": "Came to test Solomon with hard questions, was overwhelmed by his wisdom and court, praised the LORD, exchanged gifts and returned home (1 Kgs 10:1-13). Jesus calls her the queen of the south (Matt 12:42; Luke 11:31).",
+  "interpretations": [
+   {
+    "tradition": "Ethiopian Orthodox",
+    "view": "Identified as Makeda, whose son by Solomon, Menelik I, founded the Solomonic dynasty and brought the ark to Aksum (Kebra Nagast)."
+   },
+   {
+    "tradition": "Scholarly",
+    "view": "Sabaean inscriptions confirm a powerful incense-trading kingdom in Yemen, though its monarchy is attested mainly from the 8th century BC; some locate Sheba in north Arabia or link it with Ethiopia. No extra-biblical source names this queen."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Her son Menelik I by Solomon founded Ethiopia's royal line.",
+    "source": "Kebra Nagast (14th century)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Qur'an tells of a queen of Saba who comes to Solomon and submits to God; later commentators name her Bilqis.",
+    "source": "Qur'an 27:22-44",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Regal, curious and testing; asks searching questions and is generous with praise once convinced.",
+  "refs": [
+   "1 Kgs 10:1-13",
+   "2 Chr 9:1-12",
+   "Matt 12:42",
+   "Luke 11:31"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Chr",
+   "Matt",
+   "Luke"
+  ]
+ },
+ {
+  "id": "rehoboam",
+  "names": {
+   "primary": "Rehoboam",
+   "original": "רְחַבְעָם",
+   "meaning": "The people is enlarged",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -913,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -931,
+    "circa": true,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Albright chronology",
+      "year": -922
+     }
+    ]
+   },
+   {
+    "year": -913,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Judah",
+  "placeIds": [
+   "shechem",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [
+    "solomon"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "king of Judah"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Fortifying cities",
+    "refs": [
+     "2 Chr 11:5-12"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Rejects the elders' counsel at Shechem",
+    "year": -931,
+    "placeId": "shechem",
+    "refs": [
+     "1 Kgs 12:1-15"
+    ],
+    "summary": "Asked to lighten Solomon's yoke, he follows his young advisers and promises scorpions instead of whips."
+   },
+   {
+    "title": "The northern tribes secede",
+    "placeId": "shechem",
+    "refs": [
+     "1 Kgs 12:16-20"
+    ],
+    "summary": "Israel cries 'To your tents', stones his labour chief Adoram, and makes Jeroboam king."
+   },
+   {
+    "title": "Forbidden to fight the north",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 12:21-24"
+    ],
+    "summary": "The prophet Shemaiah stops his campaign to reconquer Israel."
+   },
+   {
+    "title": "Shishak plunders Jerusalem",
+    "year": -926,
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 14:25-28",
+     "2 Chr 12:1-12"
+    ],
+    "summary": "In his fifth year Pharaoh Shishak takes the temple and palace treasures; Rehoboam replaces gold shields with bronze."
+   }
+  ],
+  "summary": "Rehoboam, Solomon's son by Naamah the Ammonite, inherited a kingdom already strained by heavy labour and taxes. His harsh answer at Shechem triggered the secession of the ten northern tribes under Jeroboam, leaving him with Judah and Benjamin. His reign also saw religious decline and the invasion of Pharaoh Shishak, an event confirmed by Sheshonq I's relief at Karnak.",
+  "textSays": "Son of Solomon and Naamah the Ammonite; reigned seventeen years in Jerusalem (1 Kgs 14:21). His harsh reply split the kingdom (1 Kgs 12:13-16). Judah built high places and pillars under him (1 Kgs 14:22-24). Chronicles adds his fortifications, his humbling before Shishak, and eighteen wives (2 Chr 11-12). Listed in Jesus' genealogy (Matt 1:7).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian",
+    "view": "The Shechem episode is a classic lesson in servant leadership: the elders advise that if he serves the people they will serve him forever (1 Kgs 12:7). The text also sees God's hand fulfilling Ahijah's word (1 Kgs 12:15)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "The Karnak list of Sheshonq I names many towns in Israel and the Negev but, as preserved, not Jerusalem, prompting debate over whether Jerusalem paid tribute rather than being attacked."
+   }
+  ],
+  "voice": "Brash and status-conscious, eager to prove himself tougher than his father; later chastened.",
+  "refs": [
+   "1 Kgs 11:43-12:24",
+   "1 Kgs 14:21-31",
+   "2 Chr 10:1-12:16",
+   "Matt 1:7"
+  ],
+  "books": [
+   "1 Kgs",
+   "1 Chr",
+   "2 Chr",
+   "Matt"
+  ]
+ },
+ {
+  "id": "jeroboam-i",
+  "names": {
+   "primary": "Jeroboam I",
+   "original": "יָרָבְעָם",
+   "meaning": "The people contends, or may the people multiply",
+   "aliases": [
+    "Jeroboam son of Nebat"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "united-monarchy",
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -910,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -931,
+    "circa": true,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Albright chronology",
+      "year": -922
+     }
+    ]
+   },
+   {
+    "year": -910,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Ephraim",
+  "nation": "Israel (northern kingdom)",
+  "placeIds": [
+   "jerusalem",
+   "egypt",
+   "shechem",
+   "bethel",
+   "dan",
+   "tirzah"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "first king of the northern kingdom",
+   "labour overseer under Solomon"
+  ],
+  "occupations": [
+   "king",
+   "administrator"
+  ],
+  "skills": [
+   {
+    "name": "Industrious administration",
+    "refs": [
+     "1 Kgs 11:28"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Promised ten tribes by Ahijah",
+    "placeId": "jerusalem",
+    "refs": [
+     "1 Kgs 11:26-40"
+    ],
+    "summary": "The prophet Ahijah tears his cloak into twelve pieces and gives him ten; God promises him a lasting house if he obeys. Solomon seeks to kill him and he flees to Shishak in Egypt."
+   },
+   {
+    "title": "Made king of Israel",
+    "year": -931,
+    "placeId": "shechem",
+    "refs": [
+     "1 Kgs 12:2-3",
+     "1 Kgs 12:20",
+     "1 Kgs 12:25"
+    ],
+    "summary": "Returning after Solomon's death, he is made king by the northern tribes and fortifies Shechem."
+   },
+   {
+    "title": "Golden calves at Bethel and Dan",
+    "placeId": "bethel",
+    "refs": [
+     "1 Kgs 12:26-33"
+    ],
+    "summary": "Fearing pilgrimages to Jerusalem, he sets up two calves, appoints non-Levitical priests and a new feast in the eighth month."
+   },
+   {
+    "title": "Rebuked by the man of God from Judah",
+    "placeId": "bethel",
+    "refs": [
+     "1 Kgs 13:1-10"
+    ],
+    "summary": "A prophet foretells Josiah's desecration of the altar; Jeroboam's outstretched hand withers and is restored."
+   },
+   {
+    "title": "Ahijah foretells his house's end",
+    "placeId": "tirzah",
+    "refs": [
+     "1 Kgs 14:1-18"
+    ],
+    "summary": "His disguised wife consults the blind Ahijah about their sick son, who dies as she enters Tirzah."
+   }
+  ],
+  "summary": "Jeroboam son of Nebat, an Ephraimite official under Solomon, was promised the northern tribes by the prophet Ahijah, fled to Egypt, and became the first king of the northern kingdom of Israel after Rehoboam's folly. To keep his people from worshipping in Jerusalem, he set up golden calves at Bethel and Dan. Kings measures nearly every later northern ruler by whether he walked in 'the sins of Jeroboam son of Nebat'.",
+  "textSays": "An Ephraimite placed over the forced labour of Joseph (1 Kgs 11:26-28). Ahijah gave him ten tribes on condition of obedience (1 Kgs 11:38). He made two golden calves, saying 'Behold your gods, O Israel' (1 Kgs 12:28). Reigned twenty-two years (1 Kgs 14:20).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition counts him among those who caused the many to sin; the Mishnah (Sanhedrin 10:2) lists him among kings with no share in the world to come."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Many scholars suggest the calves were meant as pedestals for an invisible YHWH (like the cherubim) rather than idols, and that the Deuteronomistic writers judged the northern cult from a Jerusalem perspective. Others note that the text itself treats this distinction as irrelevant because the cult broke covenant law."
+   }
+  ],
+  "voice": "Shrewd and capable, driven by political insecurity; justifies religious innovation as practical necessity.",
+  "refs": [
+   "1 Kgs 11:26-14:20",
+   "2 Chr 10:1-13:20",
+   "2 Kgs 17:21-22"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "2 Chr"
+  ]
+ },
+ {
+  "id": "ahab",
+  "names": {
+   "primary": "Ahab",
+   "original": "אַחְאָב",
+   "meaning": "Father's brother",
+   "aliases": [
+    "Ahab son of Omri"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -853,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -874,
+    "circa": true,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Alternative chronology",
+      "year": -871
+     }
+    ]
+   },
+   {
+    "year": -853,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Israel (northern kingdom)",
+  "placeIds": [
+   "samaria",
+   "jezreel",
+   "mount-carmel"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "jezebel"
+   ],
+   "children": [
+    "athaliah"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "king of Israel"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Military command and coalition warfare",
+    "refs": [
+     "1 Kgs 20:13-30"
+    ]
+   },
+   {
+    "name": "Building (ivory house, cities)",
+    "refs": [
+     "1 Kgs 22:39"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Marries Jezebel and serves Baal",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 16:29-33"
+    ],
+    "summary": "He marries the Sidonian princess and builds a temple and altar for Baal in Samaria."
+   },
+   {
+    "title": "Drought and contest on Carmel",
+    "placeId": "mount-carmel",
+    "refs": [
+     "1 Kgs 18:1-46"
+    ],
+    "summary": "After three years of drought he meets Elijah ('troubler of Israel'), witnesses fire from heaven on Carmel, and rides to Jezreel ahead of the rain."
+   },
+   {
+    "title": "Victories over Ben-hadad",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 20:1-43"
+    ],
+    "summary": "Encouraged by prophets he defeats the Arameans twice, but spares Ben-hadad and is condemned for it."
+   },
+   {
+    "title": "Naboth's vineyard",
+    "placeId": "jezreel",
+    "refs": [
+     "1 Kgs 21:1-29"
+    ],
+    "summary": "Jezebel has Naboth judicially murdered so Ahab can take his vineyard; Elijah pronounces doom, and Ahab's repentance delays it."
+   },
+   {
+    "title": "Death at Ramoth-gilead",
+    "year": -853,
+    "refs": [
+     "1 Kgs 22:1-40"
+    ],
+    "summary": "Ignoring Micaiah's warning he goes to battle in disguise, is struck by a random arrow and dies; dogs lick his blood in Samaria."
+   }
+  ],
+  "summary": "Ahab son of Omri ruled the northern kingdom for twenty-two years and was, by Assyrian evidence, one of the strongest kings of his day. Kings judges him the most wicked Israelite king for promoting Baal worship with his wife Jezebel. His reign is the setting of Elijah's ministry, the contest on Mount Carmel and the murder of Naboth. He died in battle at Ramoth-gilead, as Micaiah had foretold.",
+  "textSays": "Son of Omri; did more evil than all before him (1 Kgs 16:30). Married Jezebel and served Baal (1 Kgs 16:31-32). Humbled himself after Elijah's rebuke (1 Kgs 21:27-29). Killed at Ramoth-gilead (1 Kgs 22:34-37).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic sources portray him as both very wicked and, in some respects, generous and honouring the Torah scholars; the Mishnah (Sanhedrin 10:2) excludes him from the world to come."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "The Kurkh Monolith of Shalmaneser III lists 'Ahab the Israelite' contributing 2,000 chariots and 10,000 soldiers to the coalition at Qarqar in 853 BC. Scholars note the gap between his political strength and the biblical focus on his religious failure."
+   }
+  ],
+  "voice": "Sulky, self-pitying and easily led, yet capable of bravado in war and of momentary contrition.",
+  "refs": [
+   "1 Kgs 16:28-22:40",
+   "2 Chr 18:1-34",
+   "Mic 6:16"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "2 Chr",
+   "Mic"
+  ]
+ },
+ {
+  "id": "jezebel",
+  "names": {
+   "primary": "Jezebel",
+   "original": "אִיזֶבֶל",
+   "meaning": "Probably 'Where is the prince (Baal)?'",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -841,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "nation": "Sidon (Phoenicia); queen of Israel",
+  "placeIds": [
+   "sidon",
+   "samaria",
+   "jezreel"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "ahab"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "queen of Israel",
+   "queen mother",
+   "patron of Baal worship"
+  ],
+  "occupations": [
+   "royal"
+  ],
+  "skills": [
+   {
+    "name": "Political and legal manipulation",
+    "refs": [
+     "1 Kgs 21:7-14"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Kills the prophets of the LORD",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 18:4",
+     "1 Kgs 18:13"
+    ],
+    "summary": "She persecutes the LORD's prophets while supporting 450 prophets of Baal and 400 of Asherah at her table."
+   },
+   {
+    "title": "Threatens Elijah",
+    "placeId": "jezreel",
+    "refs": [
+     "1 Kgs 19:1-3"
+    ],
+    "summary": "After Carmel she vows to kill Elijah within a day, and he flees."
+   },
+   {
+    "title": "Engineers Naboth's death",
+    "placeId": "jezreel",
+    "refs": [
+     "1 Kgs 21:5-16",
+     "1 Kgs 21:23"
+    ],
+    "summary": "Using letters in Ahab's name she arranges false witnesses and Naboth's stoning, so Ahab can take his vineyard."
+   },
+   {
+    "title": "Death at Jezreel",
+    "year": -841,
+    "placeId": "jezreel",
+    "refs": [
+     "2 Kgs 9:30-37"
+    ],
+    "summary": "Painting her eyes and taunting Jehu from a window, she is thrown down by eunuchs and eaten by dogs, as Elijah foretold."
+   }
+  ],
+  "summary": "Jezebel, daughter of Ethbaal king of Sidon, married Ahab and became the driving force behind Baal worship in Israel. She persecuted the LORD's prophets, threatened Elijah, and orchestrated the judicial murder of Naboth. She remained powerful as queen mother until Jehu's coup, when she was thrown from a window at Jezreel. In Revelation her name is applied to a false prophetess at Thyatira.",
+  "textSays": "Daughter of Ethbaal of the Sidonians (1 Kgs 16:31). Killed prophets of the LORD (1 Kgs 18:4), threatened Elijah (1 Kgs 19:2), plotted Naboth's death (1 Kgs 21). Incited Ahab to evil (1 Kgs 21:25). Died as Elijah foretold (2 Kgs 9:36). Name used for a teacher at Thyatira (Rev 2:20).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian (traditional)",
+    "view": "Jezebel is the archetype of the idolatrous, manipulative ruler; her name became a byword."
+   },
+   {
+    "tradition": "Modern scholarship and feminist readings",
+    "view": "Some argue she acted as a loyal devotee of her own ancestral religion and as a capable queen in the Phoenician model of royal power, and that the sexualised later use of her name goes beyond the text. Others respond that the narrative's charge is not her gender but her violence and idolatry, which the text documents."
+   },
+   {
+    "tradition": "Archaeology",
+    "view": "A seal inscribed 'yzbl' (Jezebel) of unknown provenance has been proposed as hers; the identification is debated."
+   }
+  ],
+  "voice": "Imperious, sardonic and fearless; mocks weakness and speaks with the confidence of absolute royal power.",
+  "refs": [
+   "1 Kgs 16:31",
+   "1 Kgs 18:4-19",
+   "1 Kgs 19:1-2",
+   "1 Kgs 21:5-25",
+   "2 Kgs 9:7-37",
+   "Rev 2:20"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "Rev"
+  ]
+ },
+ {
+  "id": "elijah",
+  "names": {
+   "primary": "Elijah",
+   "original": "אֵלִיָּהוּ",
+   "meaning": "My God is the LORD (Yah)",
+   "aliases": [
+    "Elijah the Tishbite",
+    "Elias (Greek)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "active": [
+   {
+    "year": -865,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -850,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "If his letter to Jehoram (2 Chr 21:12) was written in his lifetime",
+      "year": -846
+     }
+    ]
+   }
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "tishbe",
+   "jordan-river",
+   "zarephath",
+   "samaria",
+   "mount-carmel",
+   "jezreel",
+   "beersheba",
+   "horeb",
+   "abel-meholah",
+   "gilgal",
+   "bethel",
+   "jericho"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet",
+   "miracle-worker",
+   "mentor of Elisha"
+  ],
+  "occupations": [
+   "prophet"
+  ],
+  "skills": [
+   {
+    "name": "Endurance running",
+    "refs": [
+     "1 Kgs 18:46"
+    ]
+   },
+   {
+    "name": "Wilderness survival",
+    "refs": [
+     "1 Kgs 17:3-6",
+     "1 Kgs 19:4-8"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prayer that shut and opened the heavens",
+    "refs": [
+     "1 Kgs 17:1",
+     "1 Kgs 18:42-45",
+     "Jas 5:17-18"
+    ]
+   },
+   {
+    "name": "Miracles: provision and raising the dead",
+    "refs": [
+     "1 Kgs 17:14-16",
+     "1 Kgs 17:21-23"
+    ]
+   },
+   {
+    "name": "Fire from heaven",
+    "refs": [
+     "1 Kgs 18:36-38",
+     "2 Kgs 1:10-12"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Announces drought",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 17:1"
+    ],
+    "summary": "He appears before Ahab declaring there will be neither dew nor rain except at his word."
+   },
+   {
+    "title": "Fed by ravens at the brook Cherith",
+    "placeId": "jordan-river",
+    "refs": [
+     "1 Kgs 17:2-7"
+    ],
+    "summary": "He hides east of the Jordan, drinking from the brook and fed by ravens until it dries up."
+   },
+   {
+    "title": "The widow of Zarephath",
+    "placeId": "zarephath",
+    "refs": [
+     "1 Kgs 17:8-24",
+     "Luke 4:25-26"
+    ],
+    "summary": "In Phoenician territory a widow's flour and oil do not run out, and he raises her son from the dead."
+   },
+   {
+    "title": "Contest on Mount Carmel",
+    "placeId": "mount-carmel",
+    "refs": [
+     "1 Kgs 18:17-40"
+    ],
+    "summary": "He challenges the people to stop limping between two opinions; Baal's prophets get no answer, and fire from the LORD consumes his drenched sacrifice. The prophets of Baal are killed at the Kishon."
+   },
+   {
+    "title": "Rain returns",
+    "placeId": "jezreel",
+    "refs": [
+     "1 Kgs 18:41-46"
+    ],
+    "summary": "He prays seven times until a small cloud appears, then runs ahead of Ahab's chariot to Jezreel."
+   },
+   {
+    "title": "Flight to Horeb",
+    "placeId": "horeb",
+    "refs": [
+     "1 Kgs 19:1-18"
+    ],
+    "summary": "Threatened by Jezebel he flees past Beersheba, asks to die, is fed by an angel and travels forty days to Horeb, where God speaks not in wind, earthquake or fire but in a low whisper."
+   },
+   {
+    "title": "Calls Elisha",
+    "placeId": "abel-meholah",
+    "refs": [
+     "1 Kgs 19:19-21"
+    ],
+    "summary": "He throws his cloak over Elisha, who is ploughing, and Elisha follows him."
+   },
+   {
+    "title": "Condemns Ahab over Naboth",
+    "placeId": "jezreel",
+    "refs": [
+     "1 Kgs 21:17-29"
+    ],
+    "summary": "He meets Ahab in Naboth's vineyard and pronounces judgment on Ahab's house and Jezebel."
+   },
+   {
+    "title": "Confronts Ahaziah",
+    "refs": [
+     "2 Kgs 1:1-17"
+    ],
+    "summary": "He intercepts messengers sent to consult Baal-zebub of Ekron, calls down fire on two companies of soldiers, and foretells the king's death."
+   },
+   {
+    "title": "Taken up in a whirlwind",
+    "placeId": "jordan-river",
+    "refs": [
+     "2 Kgs 2:1-12"
+    ],
+    "summary": "Travelling from Gilgal through Bethel and Jericho, he parts the Jordan with his cloak and is taken to heaven by a whirlwind as chariots of fire separate him from Elisha."
+   },
+   {
+    "title": "Promised return",
+    "refs": [
+     "Mal 4:5-6"
+    ],
+    "summary": "Malachi foretells that God will send Elijah before the great and dreadful day of the LORD."
+   },
+   {
+    "title": "At the transfiguration",
+    "refs": [
+     "Matt 17:1-13",
+     "Luke 9:28-36"
+    ],
+    "summary": "He appears with Moses talking with Jesus; Jesus says Elijah has already come, referring to John the Baptist."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "tishbe",
+    "order": 1,
+    "note": "Home in Gilead (location uncertain).",
+    "refs": [
+     "1 Kgs 17:1"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 2,
+    "year": -862,
+    "note": "Announces the drought to Ahab.",
+    "refs": [
+     "1 Kgs 17:1"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 3,
+    "note": "Brook Cherith, east of the Jordan.",
+    "refs": [
+     "1 Kgs 17:3-7"
+    ]
+   },
+   {
+    "placeId": "zarephath",
+    "order": 4,
+    "note": "Lodges with the widow in Sidonian territory.",
+    "refs": [
+     "1 Kgs 17:9-24"
+    ]
+   },
+   {
+    "placeId": "mount-carmel",
+    "order": 5,
+    "note": "Contest with the prophets of Baal.",
+    "refs": [
+     "1 Kgs 18:19-40"
+    ]
+   },
+   {
+    "placeId": "jezreel",
+    "order": 6,
+    "note": "Runs ahead of Ahab's chariot.",
+    "refs": [
+     "1 Kgs 18:46"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 7,
+    "note": "Leaves his servant and goes a day into the wilderness.",
+    "refs": [
+     "1 Kgs 19:3-4"
+    ]
+   },
+   {
+    "placeId": "horeb",
+    "order": 8,
+    "note": "Forty days' journey; the still small voice.",
+    "refs": [
+     "1 Kgs 19:8-18"
+    ]
+   },
+   {
+    "placeId": "abel-meholah",
+    "order": 9,
+    "note": "Calls Elisha from the plough.",
+    "refs": [
+     "1 Kgs 19:16-19"
+    ]
+   },
+   {
+    "placeId": "jezreel",
+    "order": 10,
+    "note": "Confronts Ahab in Naboth's vineyard.",
+    "refs": [
+     "1 Kgs 21:17-19"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 11,
+    "note": "Final journey begins.",
+    "refs": [
+     "2 Kgs 2:1"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 12,
+    "note": "Visits the sons of the prophets.",
+    "refs": [
+     "2 Kgs 2:2-3"
+    ]
+   },
+   {
+    "placeId": "jericho",
+    "order": 13,
+    "note": "Visits the sons of the prophets.",
+    "refs": [
+     "2 Kgs 2:4-5"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 14,
+    "note": "Parts the river and is taken up.",
+    "refs": [
+     "2 Kgs 2:6-11"
+    ]
+   }
+  ],
+  "summary": "Elijah the Tishbite bursts into the story unannounced to confront Ahab and Jezebel's promotion of Baal, the storm and fertility god, with a drought that only the LORD can end. His ministry is one long argument that the LORD alone is God, climaxing on Mount Carmel when fire falls on his sacrifice after Baal's prophets have cried out all day in vain.\n\nThe story also shows his human frailty. Immediately after Carmel he flees from Jezebel's threat, asks to die, and is gently restored by God at Horeb, the mountain of Moses, where God speaks in a low whisper and gives him new work: anointing kings and a successor, Elisha. He is one of two people in the Old Testament who do not die but are taken by God, carried up in a whirlwind.\n\nMalachi's promise that Elijah would return before the day of the LORD made him a figure of expectation. The Gospels identify John the Baptist as the Elijah who was to come, and Elijah himself appears with Moses at the transfiguration of Jesus.",
+  "textSays": "A Tishbite from Gilead (1 Kgs 17:1), hairy and wearing a leather belt (2 Kgs 1:8). Announced drought, was fed by ravens and a widow, raised her son, defeated Baal's prophets on Carmel, fled to Horeb, called Elisha, condemned Ahab and Ahaziah, and was taken up by a whirlwind (2 Kgs 2:11). 2 Chr 21:12-15 records a letter from him to Jehoram of Judah. Malachi promises his return (Mal 4:5); Jesus identifies John the Baptist with that role (Matt 11:14; 17:12). James calls him a man with a nature like ours (Jas 5:17).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Elijah is the herald of the Messiah. A cup is poured for him at the Passover Seder and a chair set for him at circumcisions; he is expected to resolve unanswered legal questions. Rabbinic stories show him appearing to sages and the poor."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honoured as a saint (20 July). The Carmelite order looks to him as spiritual founder. Many fathers taught that Elijah and Enoch are the two witnesses of Rev 11 who will return before the end."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Most Protestants hold that Malachi's prophecy was fulfilled in John the Baptist, who came 'in the spirit and power of Elijah' (Luke 1:17); some dispensationalists expect a future literal return as one of the two witnesses."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "The Elijah cycle is usually seen as prophetic legends from northern circles, incorporated into Kings, with the Carmel story as polemic against Baal's claim to control rain and fire. Scholars debate the Chronicler's letter to Jehoram, since 2 Kgs 3:11 suggests Elijah had already gone."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Fearless confrontation of kings",
+    "Persistent prayer (1 Kgs 18:42-44)",
+    "Single-minded zeal for the LORD (1 Kgs 19:10)"
+   ],
+   "failures": [
+    "Despair and wish to die after Carmel (1 Kgs 19:4)",
+    "Believing he alone was left faithful when seven thousand remained (1 Kgs 19:18)"
+   ],
+   "turningPoints": [
+    "Carmel (1 Kgs 18)",
+    "Horeb encounter (1 Kgs 19:11-18)",
+    "Passing the mantle (2 Kgs 2:13)"
+   ]
+  },
+  "context": "Under the Omride dynasty, Israel had close ties with Phoenicia through Ahab's marriage to Jezebel. Baal Hadad was the Canaanite storm god believed to bring rain; a drought and fire from heaven struck at his claimed domain. Ugaritic texts describe Baal as 'rider of the clouds', which illuminates the contest.",
+  "legacy": "Elijah became the model prophet: a lone voice against a corrupt establishment. His expected return shapes Jewish ritual and the Gospels' framing of John the Baptist and Jesus. Jesus cites his mission to a Gentile widow (Luke 4:25-26), and the disciples ask to call down fire like him (Luke 9:54).",
+  "traditions": [
+   {
+    "text": "Elijah is identified with Phinehas the zealous priest.",
+    "source": "Pseudo-Philo, Biblical Antiquities 48.1; Targum Pseudo-Jonathan on Exod 6:18 (locators need verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "A cup for Elijah is set at the Passover Seder and a chair of Elijah at circumcision ceremonies.",
+    "source": "Medieval Jewish custom (Pirke de-Rabbi Eliezer 29 for the chair; locator needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Carmelite order traces its spiritual lineage to Elijah's presence on Mount Carmel.",
+    "source": "Carmelite Rule of St Albert (c. 1209) and later Carmelite tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Fiery, terse and dramatic; speaks in short, challenging sentences and sarcasm toward idols, but in private can sound exhausted and lonely.",
+  "refs": [
+   "1 Kgs 17:1-19:21",
+   "1 Kgs 21:17-29",
+   "2 Kgs 1:1-2:12",
+   "2 Chr 21:12-15",
+   "Mal 4:5-6",
+   "Matt 11:14",
+   "Matt 17:1-13",
+   "Luke 1:17",
+   "Luke 4:25-26",
+   "Rom 11:2-4",
+   "Jas 5:17-18"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "2 Chr",
+   "Mal",
+   "Matt",
+   "Mark",
+   "Luke",
+   "John",
+   "Rom",
+   "Jas"
+  ]
+ },
+ {
+  "id": "elisha",
+  "names": {
+   "primary": "Elisha",
+   "original": "אֱלִישָׁע",
+   "meaning": "My God is salvation",
+   "aliases": [
+    "Eliseus (Greek)",
+    "son of Shaphat"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -795,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Earlier reckoning of Joash of Israel's reign",
+     "year": -798
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -852,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -795,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "abel-meholah",
+   "jordan-river",
+   "jericho",
+   "bethel",
+   "mount-carmel",
+   "samaria",
+   "dothan",
+   "damascus",
+   "gilgal",
+   "moab"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet",
+   "leader of the sons of the prophets",
+   "adviser to kings",
+   "miracle-worker"
+  ],
+  "occupations": [
+   "farmer",
+   "prophet"
+  ],
+  "skills": [
+   {
+    "name": "Ploughing with twelve yoke of oxen (a wealthy farm)",
+    "refs": [
+     "1 Kgs 19:19"
+    ]
+   },
+   {
+    "name": "Leading prophetic communities",
+    "refs": [
+     "2 Kgs 4:38",
+     "2 Kgs 6:1-7"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "A double portion of Elijah's spirit",
+    "refs": [
+     "2 Kgs 2:9-15"
+    ]
+   },
+   {
+    "name": "Healing and raising the dead",
+    "refs": [
+     "2 Kgs 4:32-37",
+     "2 Kgs 5:10-14"
+    ]
+   },
+   {
+    "name": "Prophetic sight of hidden things",
+    "refs": [
+     "2 Kgs 5:25-27",
+     "2 Kgs 6:8-12"
+    ]
+   },
+   {
+    "name": "Multiplying food",
+    "refs": [
+     "2 Kgs 4:1-7",
+     "2 Kgs 4:42-44"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called from the plough",
+    "placeId": "abel-meholah",
+    "refs": [
+     "1 Kgs 19:19-21"
+    ],
+    "summary": "Elijah throws his cloak over him; Elisha slaughters his oxen, feeds the people and follows Elijah."
+   },
+   {
+    "title": "Receives Elijah's mantle",
+    "placeId": "jordan-river",
+    "refs": [
+     "2 Kgs 2:1-15"
+    ],
+    "summary": "He refuses to leave Elijah, asks for a double portion of his spirit, sees him taken up, and parts the Jordan with the fallen cloak."
+   },
+   {
+    "title": "Heals Jericho's water; the Bethel youths",
+    "placeId": "jericho",
+    "refs": [
+     "2 Kgs 2:19-25"
+    ],
+    "summary": "He purifies the spring with salt; on the road to Bethel youths mock him and two bears maul forty-two of them."
+   },
+   {
+    "title": "Water in the Moabite campaign",
+    "placeId": "moab",
+    "refs": [
+     "2 Kgs 3:9-27"
+    ],
+    "summary": "For Jehoshaphat's sake he prophesies to the allied kings; ditches fill with water and Moab is routed."
+   },
+   {
+    "title": "The widow's oil",
+    "refs": [
+     "2 Kgs 4:1-7"
+    ],
+    "summary": "A prophet's widow fills borrowed jars with oil to pay her debts and save her sons from slavery."
+   },
+   {
+    "title": "The Shunammite's son",
+    "placeId": "mount-carmel",
+    "refs": [
+     "2 Kgs 4:8-37",
+     "2 Kgs 8:1-6"
+    ],
+    "summary": "He promises a hospitable woman a son; when the boy dies she rides to Carmel, and Elisha raises him. Later she recovers her land."
+   },
+   {
+    "title": "Feeds a hundred men",
+    "placeId": "gilgal",
+    "refs": [
+     "2 Kgs 4:38-44"
+    ],
+    "summary": "He cures a pot of poisoned stew and feeds a hundred with twenty barley loaves, with some left over."
+   },
+   {
+    "title": "Heals Naaman",
+    "placeId": "samaria",
+    "refs": [
+     "2 Kgs 5:1-27"
+    ],
+    "summary": "He tells the Aramean commander to wash seven times in the Jordan; Naaman is cleansed and confesses the God of Israel. Gehazi is struck with leprosy for greed."
+   },
+   {
+    "title": "Horses and chariots of fire at Dothan",
+    "placeId": "dothan",
+    "refs": [
+     "2 Kgs 6:8-23"
+    ],
+    "summary": "Surrounded by Aramean troops, he prays that his servant's eyes be opened, strikes the soldiers with blindness, leads them to Samaria and has them fed and released."
+   },
+   {
+    "title": "Siege of Samaria lifted",
+    "placeId": "samaria",
+    "refs": [
+     "2 Kgs 6:24-7:20"
+    ],
+    "summary": "During a terrible famine he predicts cheap food the next day; the Arameans flee in panic and four lepers discover the empty camp."
+   },
+   {
+    "title": "Hazael and Jehu",
+    "placeId": "damascus",
+    "refs": [
+     "2 Kgs 8:7-15",
+     "2 Kgs 9:1-10"
+    ],
+    "summary": "He weeps as he tells Hazael he will be king of Aram and harm Israel; he sends a disciple to anoint Jehu, fulfilling Elijah's commission."
+   },
+   {
+    "title": "Death and a final miracle",
+    "refs": [
+     "2 Kgs 13:14-21"
+    ],
+    "summary": "On his deathbed he has King Joash strike arrows; after burial a dead man thrown into his tomb revives on touching his bones."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "abel-meholah",
+    "order": 1,
+    "note": "Home; called by Elijah.",
+    "refs": [
+     "1 Kgs 19:16-19"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 2,
+    "note": "Sets out with Elijah.",
+    "refs": [
+     "2 Kgs 2:1"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 3,
+    "note": "With Elijah; refuses to leave him.",
+    "refs": [
+     "2 Kgs 2:2-3"
+    ]
+   },
+   {
+    "placeId": "jericho",
+    "order": 4,
+    "note": "With Elijah; later heals the spring.",
+    "refs": [
+     "2 Kgs 2:4-5",
+     "2 Kgs 2:18-22"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 5,
+    "year": -850,
+    "note": "Elijah taken up; Elisha parts the river.",
+    "refs": [
+     "2 Kgs 2:7-14"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 6,
+    "note": "Mocked by youths.",
+    "refs": [
+     "2 Kgs 2:23-24"
+    ]
+   },
+   {
+    "placeId": "mount-carmel",
+    "order": 7,
+    "note": "Then to Samaria; Carmel is also where the Shunammite finds him.",
+    "refs": [
+     "2 Kgs 2:25",
+     "2 Kgs 4:25"
+    ]
+   },
+   {
+    "placeId": "moab",
+    "order": 8,
+    "note": "With the allied armies against Moab.",
+    "refs": [
+     "2 Kgs 3:9-20"
+    ]
+   },
+   {
+    "placeId": "gilgal",
+    "order": 9,
+    "note": "With the sons of the prophets in famine.",
+    "refs": [
+     "2 Kgs 4:38"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 10,
+    "note": "Naaman comes to his house.",
+    "refs": [
+     "2 Kgs 5:3-9"
+    ]
+   },
+   {
+    "placeId": "dothan",
+    "order": 11,
+    "note": "Surrounded by Aramean troops.",
+    "refs": [
+     "2 Kgs 6:13-14"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 12,
+    "note": "During the siege.",
+    "refs": [
+     "2 Kgs 6:24-32"
+    ]
+   },
+   {
+    "placeId": "damascus",
+    "order": 13,
+    "year": -842,
+    "note": "Meets Hazael.",
+    "refs": [
+     "2 Kgs 8:7"
+    ]
+   }
+  ],
+  "summary": "Elisha son of Shaphat was Elijah's disciple and successor, called from the plough at Abel-meholah. When Elijah was taken up, Elisha received his cloak and a double portion of his spirit, and he went on to a long ministry of about fifty years through the reigns of several northern kings.\n\nWhere Elijah was a solitary figure of confrontation, Elisha often worked among the communities of the 'sons of the prophets', and many of his miracles meet ordinary needs: a widow's debts, a poisoned pot, a lost axe-head, a childless woman, a dead son. He also acted on the international stage, advising kings in war, healing the Aramean commander Naaman, foretelling Hazael's rule in Damascus, and setting Jehu's coup in motion.\n\nHis miracles of multiplying bread and raising the dead are widely seen as anticipations of Jesus' ministry, and Jesus cites his healing of the foreigner Naaman as a sign of God's grace to the Gentiles.",
+  "textSays": "Son of Shaphat of Abel-meholah, anointed to succeed Elijah (1 Kgs 19:16). Received a double portion of Elijah's spirit (2 Kgs 2:9-15). Performed many miracles (2 Kgs 2-8), anointed Jehu through a disciple (2 Kgs 9:1-3), died in the reign of Joash of Israel (2 Kgs 13:14-20). Jesus mentions Naaman's healing (Luke 4:27).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition counts sixteen miracles by Elisha against eight by Elijah, as the fulfilment of the double portion. The 'double portion' is also read as the firstborn's inheritance (Deut 21:17), marking him as Elijah's heir."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honoured as a saint (14 June in many calendars). His miracles are read typologically: the Jordan cleansing of Naaman as baptism, the feeding of a hundred as foreshadowing the feeding of the multitudes, the raising by his bones as related to the veneration of relics."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Elisha is generally presented as a model of faithful discipleship and succession, and his miracles as signs of God's care amid apostasy. The bear episode is explained by many as judgment on a mob of young men mocking God's prophet, rather than on small children."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "The Elisha cycle is usually seen as a collection of prophetic legends from northern prophetic guilds, with some stories possibly transferred between Elijah and Elisha. Scholars note its chronological placement is loose (e.g. 2 Kgs 8:1-6 after Gehazi's leprosy)."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Persistent loyalty to his master (2 Kgs 2:2-6)",
+    "Compassion for ordinary people",
+    "Grace toward enemies (2 Kgs 6:21-23)",
+    "Spiritual sight (2 Kgs 6:17)"
+   ],
+   "failures": [
+    "Harsh curse on the Bethel youths is often discussed as troubling (2 Kgs 2:24)",
+    "Anger at Joash's half-hearted arrow-striking (2 Kgs 13:19)"
+   ],
+   "turningPoints": [
+    "Call (1 Kgs 19:19)",
+    "Elijah's ascension and the mantle (2 Kgs 2:13-14)",
+    "Anointing of Jehu (2 Kgs 9)"
+   ]
+  },
+  "context": "Elisha worked during the decline of the Omride dynasty and the rise of Jehu's, when Aram-Damascus under Ben-hadad and then Hazael pressed hard on Israel. Prophetic communities ('sons of the prophets') lived at Bethel, Jericho and Gilgal.",
+  "legacy": "Elisha embodies the continuity of the prophetic office. Ben Sira praises him (Sir 48:12-14, deuterocanonical). In the Gospels, Jesus' feeding miracles and raising of the widow's son at Nain echo Elisha (and Elijah), and Jesus uses Naaman to challenge Nazareth.",
+  "traditions": [
+   {
+    "text": "Elisha performed twice as many miracles as Elijah, sixteen to eight.",
+    "source": "Later rabbinic and medieval Jewish commentary (exact source needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Elisha's tomb was venerated at Samaria-Sebaste, alongside that of John the Baptist, in the 4th century.",
+    "source": "Jerome, Letter 108 (Epitaph of Paula); section needs verification",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Steady, practical and compassionate; speaks briefly, often with a touch of irony, and sees spiritual realities others miss.",
+  "refs": [
+   "1 Kgs 19:16-21",
+   "2 Kgs 2:1-9:3",
+   "2 Kgs 13:14-21",
+   "Luke 4:27"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "Luke"
+  ]
+ },
+ {
+  "id": "naaman",
+  "names": {
+   "primary": "Naaman",
+   "original": "נַעֲמָן",
+   "meaning": "Pleasant",
+   "aliases": [
+    "Naaman the Syrian"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "nation": "Aram (Syria)",
+  "placeIds": [
+   "damascus",
+   "samaria",
+   "jordan-river"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "commander of the army of Aram"
+  ],
+  "occupations": [
+   "general"
+  ],
+  "skills": [
+   {
+    "name": "Military command",
+    "refs": [
+     "2 Kgs 5:1"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Healed in the Jordan",
+    "placeId": "jordan-river",
+    "refs": [
+     "2 Kgs 5:1-19"
+    ],
+    "summary": "On the advice of an Israelite slave girl he comes to Elisha, reluctantly dips seven times in the Jordan, is healed of his skin disease, and confesses there is no God in all the earth but in Israel."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "damascus",
+    "order": 1,
+    "note": "Commander in Aram.",
+    "refs": [
+     "2 Kgs 5:1-5"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 2,
+    "note": "Comes to the king of Israel and to Elisha's house.",
+    "refs": [
+     "2 Kgs 5:6-10"
+    ]
+   },
+   {
+    "placeId": "jordan-river",
+    "order": 3,
+    "note": "Washes seven times and is cleansed.",
+    "refs": [
+     "2 Kgs 5:14"
+    ]
+   },
+   {
+    "placeId": "damascus",
+    "order": 4,
+    "note": "Returns with earth from Israel to worship the LORD.",
+    "refs": [
+     "2 Kgs 5:17-19"
+    ]
+   }
+  ],
+  "summary": "Naaman was a great Aramean commander afflicted with a skin disease. Directed by a captive Israelite girl to Elisha, he was healed after humbling himself to wash in the Jordan, and he returned home to worship the God of Israel. Jesus cites him as an example of God's grace reaching foreigners.",
+  "textSays": "Commander of Aram's army, a mighty man but a leper (2 Kgs 5:1). Healed by washing seven times in the Jordan (2 Kgs 5:14); asked pardon for bowing in the house of Rimmon (2 Kgs 5:18). Mentioned by Jesus (Luke 4:27).",
+  "voice": "Proud soldier who becomes humbled and grateful; speaks with a commander's directness.",
+  "refs": [
+   "2 Kgs 5:1-27",
+   "Luke 4:27"
+  ],
+  "books": [
+   "2 Kgs",
+   "Luke"
+  ]
+ },
+ {
+  "id": "micaiah",
+  "names": {
+   "primary": "Micaiah",
+   "original": "מִיכָיְהוּ",
+   "meaning": "Who is like the LORD?",
+   "aliases": [
+    "Micaiah son of Imlah"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "nation": "Israel",
+  "placeIds": [
+   "samaria"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet"
+  ],
+  "occupations": [
+   "prophet"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Visionary prophecy of the heavenly council",
+    "refs": [
+     "1 Kgs 22:19-23"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Prophesies against Ahab",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 22:1-38",
+     "2 Chr 18:1-34"
+    ],
+    "summary": "Against four hundred court prophets promising victory, he foresees Israel scattered like sheep without a shepherd and a lying spirit in the prophets' mouths. He is struck and imprisoned; Ahab dies as he said."
+   }
+  ],
+  "summary": "Micaiah son of Imlah was the lone prophet who told Ahab the truth before the battle of Ramoth-gilead. Summoned at Jehoshaphat's request, he first mockingly echoed the court prophets, then described a vision of God's council sending a lying spirit to entice Ahab. He staked his credibility on the outcome, and Ahab died.",
+  "textSays": "A prophet Ahab hated because he never prophesied good concerning him (1 Kgs 22:8). Declared he would speak only what the LORD said (1 Kgs 22:14), described the heavenly council (1 Kgs 22:19-23), and was imprisoned (1 Kgs 22:27).",
+  "voice": "Ironic, unflinching and alone; speaks what he has seen regardless of the cost.",
+  "refs": [
+   "1 Kgs 22:8-28",
+   "2 Chr 18:7-27"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Chr"
+  ]
+ },
+ {
+  "id": "jehoshaphat",
+  "names": {
+   "primary": "Jehoshaphat",
+   "original": "יְהוֹשָׁפָט",
+   "meaning": "The LORD has judged",
+   "aliases": [
+    "Josaphat (Greek)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -848,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -872,
+    "circa": true,
+    "confidence": "scholarly-consensus",
+    "alternatives": [
+     {
+      "label": "Sole reign begins (coregency model)",
+      "year": -870
+     }
+    ]
+   },
+   {
+    "year": -848,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Judah",
+  "placeIds": [
+   "jerusalem",
+   "samaria",
+   "moab",
+   "edom"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "king of Judah",
+   "judicial reformer"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Judicial organisation",
+    "refs": [
+     "2 Chr 19:5-11"
+    ]
+   },
+   {
+    "name": "Teaching the law through officials and Levites",
+    "refs": [
+     "2 Chr 17:7-9"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Sends teachers of the law",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Chr 17:1-9"
+    ],
+    "summary": "He removes high places and sends officials and Levites with the Book of the Law through Judah's cities."
+   },
+   {
+    "title": "Allies with Ahab at Ramoth-gilead",
+    "placeId": "samaria",
+    "refs": [
+     "1 Kgs 22:1-35",
+     "2 Chr 19:1-3"
+    ],
+    "summary": "He insists on hearing a true prophet, but joins Ahab in battle anyway and narrowly escapes; Jehu son of Hanani rebukes him."
+   },
+   {
+    "title": "Appoints judges",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Chr 19:4-11"
+    ],
+    "summary": "He appoints judges in fortified cities, charging them to judge in the fear of the LORD without bribery."
+   },
+   {
+    "title": "Victory by praise",
+    "refs": [
+     "2 Chr 20:1-30"
+    ],
+    "summary": "Facing Moab, Ammon and Meunites, he prays, 'We do not know what to do, but our eyes are on you'; singers lead the army and the enemies destroy each other."
+   },
+   {
+    "title": "Campaign against Moab",
+    "placeId": "moab",
+    "refs": [
+     "2 Kgs 3:4-27"
+    ],
+    "summary": "With Jehoram of Israel and the king of Edom he marches through Edom; Elisha prophesies for his sake."
+   }
+  ],
+  "summary": "Jehoshaphat, son of Asa, was one of Judah's better kings. He taught the law across the land, reformed the courts, and led Judah in prayer when invaded. His great weakness was alliance with the house of Ahab, including the marriage of his son Jehoram to Athaliah, which brought Baal worship and near-extinction to David's line.",
+  "textSays": "Son of Asa, reigned twenty-five years (1 Kgs 22:41-42), walked in his father's ways though high places remained (1 Kgs 22:43). Made peace with Israel (1 Kgs 22:44). Chronicles details his reforms, judges and victory (2 Chr 17-20) and rebukes his alliances (2 Chr 19:2; 20:35-37). Listed in Jesus' genealogy (Matt 1:8).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian",
+    "view": "Praised as a godly reformer and cited as a model of dependence in crisis (2 Chr 20:12), but also as a warning against compromising alliances. The 'valley of Jehoshaphat' (Joel 3:2) is a symbolic name ('the LORD judges'); later tradition identified it with the Kidron Valley."
+   }
+  ],
+  "voice": "Earnest, devout and agreeable; quick to ask for the LORD's word, sometimes too eager to please allies.",
+  "refs": [
+   "1 Kgs 22:1-50",
+   "2 Kgs 3:1-27",
+   "2 Chr 17:1-21:1",
+   "Matt 1:8"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "1 Chr",
+   "2 Chr",
+   "Joel",
+   "Matt"
+  ]
+ },
+ {
+  "id": "jehu",
+  "names": {
+   "primary": "Jehu",
+   "original": "יֵהוּא",
+   "meaning": "The LORD is he",
+   "aliases": [
+    "Jehu son of Jehoshaphat son of Nimshi"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -814,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -841,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -814,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Israel (northern kingdom)",
+  "placeIds": [
+   "jezreel",
+   "samaria"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "army commander",
+   "king of Israel"
+  ],
+  "occupations": [
+   "soldier",
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Furious chariot driving",
+    "refs": [
+     "2 Kgs 9:20"
+    ]
+   },
+   {
+    "name": "Ruthless strategy",
+    "refs": [
+     "2 Kgs 10:18-27"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Anointed at Ramoth-gilead",
+    "year": -841,
+    "refs": [
+     "1 Kgs 19:16-17",
+     "2 Kgs 9:1-13"
+    ],
+    "summary": "A disciple of Elisha anoints him privately as king and commissions him to strike Ahab's house."
+   },
+   {
+    "title": "Kills Joram and Ahaziah",
+    "placeId": "jezreel",
+    "refs": [
+     "2 Kgs 9:14-29"
+    ],
+    "summary": "He drives to Jezreel, shoots Joram of Israel and throws his body on Naboth's field; Ahaziah of Judah is also killed."
+   },
+   {
+    "title": "Jezebel's death",
+    "placeId": "jezreel",
+    "refs": [
+     "2 Kgs 9:30-37"
+    ],
+    "summary": "He orders her thrown from a window."
+   },
+   {
+    "title": "Destroys Ahab's house and Baal's worshippers",
+    "placeId": "samaria",
+    "refs": [
+     "2 Kgs 10:1-28"
+    ],
+    "summary": "He has Ahab's seventy sons killed, then gathers Baal's worshippers in their temple in Samaria and slaughters them."
+   },
+   {
+    "title": "Keeps Jeroboam's calves",
+    "refs": [
+     "2 Kgs 10:29-36"
+    ],
+    "summary": "He does not turn from the golden calves; Hazael begins to cut off Israel's territory."
+   }
+  ],
+  "summary": "Jehu, a commander in Israel's army, was anointed at Elisha's instruction to wipe out the house of Ahab. His bloody coup killed two kings, Jezebel and Ahab's descendants, and he exterminated Baal worship in Israel. God commends his zeal with a dynasty of four generations, yet he kept Jeroboam's calves, and Hosea later condemns the bloodshed of Jezreel.",
+  "textSays": "Anointed king of Israel (2 Kgs 9:6), killed Joram, Ahaziah, Jezebel and Ahab's house (2 Kgs 9-10), destroyed Baal worship (2 Kgs 10:28), but did not turn from Jeroboam's sins (2 Kgs 10:29-31). Reigned twenty-eight years (2 Kgs 10:36). Hosea announces punishment for 'the blood of Jezreel' on his house (Hos 1:4).",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian",
+    "view": "Readers have long debated how to reconcile God's commendation (2 Kgs 10:30) with Hosea's condemnation (Hos 1:4). Many explain that Jehu carried out a commanded judgment but with excessive and self-serving violence; others think Hosea's word condemns his house's later failure rather than the coup itself."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "The Black Obelisk of Shalmaneser III (c. 841 BC) shows a king of Israel bowing with tribute, labelled as Jehu 'son of Omri' (meaning of the Omride land), widely accepted as the only surviving image of an Israelite king. The Tel Dan stele's claim that an Aramean king killed Joram and Ahaziah suggests rival accounts of the same events."
+   }
+  ],
+  "voice": "Brash, fast and violent; speaks with mocking bravado and boasts of his zeal for the LORD.",
+  "refs": [
+   "1 Kgs 19:16-17",
+   "2 Kgs 9:1-10:36",
+   "2 Chr 22:7-9",
+   "Hos 1:4"
+  ],
+  "books": [
+   "1 Kgs",
+   "2 Kgs",
+   "2 Chr",
+   "Hos"
+  ]
+ },
+ {
+  "id": "athaliah",
+  "names": {
+   "primary": "Athaliah",
+   "original": "עֲתַלְיָהוּ",
+   "meaning": "The LORD is exalted",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -835,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -841,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -835,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Israel by birth; queen of Judah",
+  "placeIds": [
+   "samaria",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [
+    "ahab"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "queen mother",
+   "reigning queen of Judah"
+  ],
+  "occupations": [
+   "ruler"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Seizes the throne of Judah",
+    "year": -841,
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Kgs 11:1-3",
+     "2 Chr 22:10-12"
+    ],
+    "summary": "After her son Ahaziah is killed by Jehu, she destroys the royal family; only the infant Joash is hidden in the temple."
+   },
+   {
+    "title": "Overthrown and killed",
+    "year": -835,
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Kgs 11:4-20",
+     "2 Chr 23:12-15"
+    ],
+    "summary": "In the seventh year the priest Jehoiada crowns Joash; crying 'Treason!', she is taken out and killed."
+   }
+  ],
+  "summary": "Athaliah, of Ahab's house and wife of King Jehoram of Judah, was the only woman to rule Judah or Israel as monarch in the Bible. After her son's death she tried to wipe out David's line and ruled six years, promoting Baal worship, until the priest Jehoiada crowned the hidden child Joash and she was executed.",
+  "textSays": "Called daughter of Ahab (2 Kgs 8:18) and daughter (granddaughter) of Omri (2 Kgs 8:26). Mother of Ahaziah; destroyed the royal offspring and reigned six years (2 Kgs 11:1-3). Her sons broke into the temple for the Baals (2 Chr 24:7).",
+  "interpretations": [
+   {
+    "tradition": "Scholarly",
+    "view": "Whether she was Ahab's daughter (and possibly Jezebel's) or Omri's daughter, Ahab's sister, is debated; most take 'daughter of Omri' as 'of the house of Omri'."
+   }
+  ],
+  "voice": "Ruthless and commanding; speaks with the entitlement of a dynasty that will not yield power.",
+  "refs": [
+   "2 Kgs 8:18",
+   "2 Kgs 8:26",
+   "2 Kgs 11:1-20",
+   "2 Chr 22:2-23:15",
+   "2 Chr 24:7"
+  ],
+  "books": [
+   "2 Kgs",
+   "2 Chr"
+  ]
+ },
+ {
+  "id": "joash-judah",
+  "names": {
+   "primary": "Joash (king of Judah)",
+   "original": "יְהוֹאָשׁ",
+   "meaning": "The LORD has given",
+   "aliases": [
+    "Jehoash"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "divided-kingdom"
+  ],
+  "died": {
+   "year": -796,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": -835,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": -796,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Judah",
+  "nation": "Judah",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "king of Judah",
+   "temple restorer"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Organising temple repair funding",
+    "refs": [
+     "2 Kgs 12:4-16"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Hidden and crowned at seven",
+    "year": -835,
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Kgs 11:1-21"
+    ],
+    "summary": "Rescued from Athaliah's massacre by his aunt Jehosheba, hidden six years in the temple, and crowned by Jehoiada."
+   },
+   {
+    "title": "Repairs the temple",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Kgs 12:4-16",
+     "2 Chr 24:4-14"
+    ],
+    "summary": "He sets up a chest for offerings to pay workers to repair the temple."
+   },
+   {
+    "title": "Apostasy and Zechariah's murder",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Chr 24:17-22"
+    ],
+    "summary": "After Jehoiada's death he turns to idols and has Jehoiada's son Zechariah stoned in the temple court."
+   },
+   {
+    "title": "Pays off Hazael; assassinated",
+    "placeId": "jerusalem",
+    "refs": [
+     "2 Kgs 12:17-21",
+     "2 Chr 24:23-25"
+    ],
+    "summary": "He gives temple treasures to Hazael of Aram and is killed by his own servants."
+   }
+  ],
+  "summary": "Joash, the infant survivor of Athaliah's purge, was made king of Judah at seven by the priest Jehoiada. While Jehoiada lived he did right and restored the temple, but afterwards he turned to idols and had Jehoiada's son Zechariah stoned. He paid tribute to Hazael of Aram and was assassinated after a forty-year reign.",
+  "textSays": "Son of Ahaziah, hidden by Jehosheba (2 Kgs 11:2), crowned at seven (2 Kgs 11:21), did right all the days Jehoiada instructed him (2 Kgs 12:2), repaired the temple, later killed Zechariah (2 Chr 24:20-22) and was assassinated (2 Kgs 12:20-21).",
+  "interpretations": [
+   {
+    "tradition": "Christian",
+    "view": "Many identify the Zechariah of Matt 23:35 and Luke 11:51 with Zechariah son of Jehoiada, the last murder in the Hebrew canon's order (Chronicles last); Matthew's 'son of Barachiah' raises a debated identification with the prophet Zechariah (Zech 1:1)."
+   }
+  ],
+  "voice": "Dutiful while guided, later defensive and resentful; speaks like a king who never learned to stand on his own.",
+  "refs": [
+   "2 Kgs 11:1-12:21",
+   "2 Chr 22:11-24:27"
+  ],
+  "books": [
+   "2 Kgs",
+   "2 Chr"
+  ]
+ }
+]

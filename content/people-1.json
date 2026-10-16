@@ -1,0 +1,5480 @@
+[
+ {
+  "id": "adam",
+  "names": {
+   "primary": "Adam",
+   "original": "אָדָם (ʾādām)",
+   "meaning": "\"human, humankind\"; wordplay with ʾădāmâ, \"ground\"",
+   "aliases": [
+    "the man",
+    "the first man"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "born": {
+   "year": -4004,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Septuagint-based chronology (Byzantine creation era)",
+     "year": -5509,
+     "source": "Byzantine Annus Mundi reckoning"
+    },
+    {
+     "label": "Hebrew (Masoretic) chronology, Jewish Anno Mundi",
+     "year": -3761,
+     "source": "Seder Olam tradition"
+    }
+   ]
+  },
+  "died": {
+   "year": -3074,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Septuagint-based chronology (Adam still lives 930 years)",
+     "year": -4579
+    }
+   ]
+  },
+  "placeIds": [
+   "eden"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "eve"
+   ],
+   "children": [
+    "cain",
+    "abel",
+    "seth"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "first human",
+   "head of humanity",
+   "gardener of Eden",
+   "namer of the animals"
+  ],
+  "occupations": [
+   "gardener",
+   "farmer"
+  ],
+  "skills": [
+   {
+    "name": "Cultivating and keeping the garden",
+    "refs": [
+     "Gen 2:15"
+    ]
+   },
+   {
+    "name": "Naming the animals (classifying and exercising delegated rule)",
+    "refs": [
+     "Gen 2:19-20"
+    ]
+   },
+   {
+    "name": "Working the ground outside Eden",
+    "refs": [
+     "Gen 3:23"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Bearer of the image and likeness of God",
+    "refs": [
+     "Gen 1:26-27",
+     "Gen 5:1"
+    ]
+   },
+   {
+    "name": "Dominion over creation as God's steward",
+    "refs": [
+     "Gen 1:28",
+     "Ps 8:5-8"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Formed from dust and given the breath of life",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:7"
+    ],
+    "summary": "God shapes the man from the soil and breathes into his nostrils, making him a living being."
+   },
+   {
+    "title": "Placed in the garden with one prohibition",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:8-17"
+    ],
+    "summary": "Adam is set in Eden to work and keep it, free to eat from every tree except the tree of the knowledge of good and evil."
+   },
+   {
+    "title": "Names the animals",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:19-20"
+    ],
+    "summary": "Adam names the creatures God brings to him, but no suitable partner is found among them."
+   },
+   {
+    "title": "Receives the woman",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:21-25"
+    ],
+    "summary": "God builds the woman from Adam's side; Adam greets her with the first recorded human speech, a poem of kinship."
+   },
+   {
+    "title": "Eats the forbidden fruit",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:6-7"
+    ],
+    "summary": "Adam, who was with Eve, eats the fruit she gives him; their eyes are opened and they know they are naked."
+   },
+   {
+    "title": "Hides and blames",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:8-12"
+    ],
+    "summary": "Adam hides from God, then blames the woman and, by implication, God who gave her."
+   },
+   {
+    "title": "Judgment on the ground and on toil",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:17-19"
+    ],
+    "summary": "The ground is cursed because of Adam; his work becomes painful labor ending in a return to dust."
+   },
+   {
+    "title": "Names Eve and is clothed by God",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:20-21"
+    ],
+    "summary": "Adam names his wife Eve, the mother of all living, and God makes garments of skin for them."
+   },
+   {
+    "title": "Expelled from Eden",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:22-24"
+    ],
+    "summary": "God sends the man out of the garden and guards the way to the tree of life with cherubim."
+   },
+   {
+    "title": "Father of Seth; dies at 930",
+    "refs": [
+     "Gen 4:25",
+     "Gen 5:3-5"
+    ],
+    "summary": "After Abel's death Adam fathers Seth in his own likeness; he lives 930 years in all."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "eden",
+    "order": 1,
+    "note": "Created and placed in the garden; expelled east of Eden after the fall.",
+    "refs": [
+     "Gen 2:8",
+     "Gen 3:24"
+    ]
+   }
+  ],
+  "summary": "Adam is the first human in the Bible's story, formed by God from the ground and placed in the garden of Eden to work it and keep it. His name is also the ordinary Hebrew word for \"human being,\" so in Genesis 1-3 he stands both as an individual and as a representative of humankind. He is made, with the woman, in the image of God and commissioned to fill and rule the earth as God's steward.\n\nGenesis 3 tells how Adam and Eve ate from the one forbidden tree, hid from God, and were expelled from the garden. The consequences fall on work, relationships, and life itself: the ground is cursed, toil becomes hard, and death enters as a return to dust. Adam's later life is recorded only briefly: he fathers Seth and dies at 930.\n\nIn the New Testament Adam becomes a theological figure. Paul sets him against Christ as the head of an old humanity whose disobedience brought sin and death, while Christ, the \"last Adam,\" brings righteousness and life. How literally to read Adam, and what his sin means for his descendants, are among the most discussed questions in Christian and Jewish thought.",
+  "textSays": "Genesis presents Adam as formed from dust and animated by God's breath (Gen 2:7), placed in Eden with a single command (Gen 2:16-17), given the woman as a partner (Gen 2:18-23), and joining her in eating the forbidden fruit (Gen 3:6). God pronounces consequences on the ground and on his labor and expels the couple (Gen 3:17-24). His genealogy lists Seth and other sons and daughters and a lifespan of 930 years (Gen 5:3-5). Luke traces Jesus' line back to Adam, \"the son of God\" (Luke 3:38). Paul states that sin and death entered the world through one man and that many were made sinners through his disobedience (Rom 5:12-19), and contrasts the first Adam, a living being, with the last Adam, a life-giving spirit (1 Cor 15:22, 1 Cor 15:45-49). 1 Tim 2:13-14 notes that Adam was formed first and was not deceived.",
+  "interpretations": [
+   {
+    "tradition": "Jewish (rabbinic)",
+    "view": "Adam is the common ancestor of all people, a basis for human equality and the infinite worth of each life (Mishnah Sanhedrin 4:5). Rabbinic thought generally speaks of the yetzer ha-ra, an inclination to evil present in every person, rather than inherited guilt; Adam's sin brought mortality but each person answers for his own deeds."
+   },
+   {
+    "tradition": "Catholic",
+    "view": "Adam is a real first parent whose sin lost original holiness and justice for the whole race; all humans inherit original sin as a deprived state (not personal guilt), healed by baptism. The Church allows evolutionary accounts of the body while affirming a real primeval fall (Catechism 390, 404-405; Pius XII, *Humani Generis* 36-37)."
+   },
+   {
+    "tradition": "Eastern Orthodox",
+    "view": "Adam's fall brought corruption and mortality into human nature; descendants inherit the condition of death and a weakened nature, but not Adam's personal guilt. Adam was created in an initial state of growth toward likeness to God, a path he abandoned and Christ restores."
+   },
+   {
+    "tradition": "Reformed / Protestant",
+    "view": "Adam acted as the federal (covenant) head of humanity, so that his guilt is imputed to all his descendants, just as Christ's righteousness is imputed to believers (reading Rom 5:12-21). Some evangelicals hold a recent historical Adam; others accept an ancient Adam chosen as representative within a larger population, and some read Adam as an archetype for humanity."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Bears God's image and receives a royal-priestly commission",
+    "Exercises wisdom in naming the creatures",
+    "Recognizes the woman as his own flesh and kin"
+   ],
+   "failures": [
+    "Eats what God had forbidden, apparently without protest",
+    "Hides from God and shifts blame to the woman and to God"
+   ],
+   "turningPoints": [
+    "Creation and placement in Eden",
+    "The eating of the fruit",
+    "Expulsion from the garden"
+   ]
+  },
+  "context": "Genesis 2-3 shares themes with ancient Near Eastern texts: humans formed from clay (Atrahasis), a lost chance at immortality (Adapa, Gilgamesh), and sacred gardens. Genesis differs in presenting one God, a good creation, and human moral responsibility rather than divine caprice. Many scholars assign Gen 2:4-3:24 to a source distinct from Gen 1:1-2:3; traditional readers see two complementary perspectives on one creation. Eden's description echoes later tabernacle and temple imagery (eastward entrance, cherubim, gold, guarding and serving), which suggests the garden is pictured as a sanctuary.",
+  "legacy": "Adam frames the biblical story of sin and redemption. Paul's Adam-Christ typology (Rom 5, 1 Cor 15) shaped Augustine's doctrine of original sin, Irenaeus's idea of recapitulation, and the Reformation's covenant theology. Today the relation of Adam to human evolution is a live discussion within Jewish and Christian scholarship.",
+  "traditions": [
+   {
+    "text": "Adam and Eve's life after Eden, their penitence, and Adam's death and burial are elaborated in the *Life of Adam and Eve* (Greek title *Apocalypse of Moses*).",
+    "source": "Life of Adam and Eve / Apocalypse of Moses (Jewish pseudepigraphon, c. 1st century AD)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Early Christian legend held that Adam's skull was buried at Golgotha, beneath the place of the cross; the skull at the foot of many crucifixes recalls this.",
+    "source": "Origen, Commentary on Matthew (Latin series 126); later Byzantine iconography",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Speaks slowly and with wonder, like someone who remembers when everything was new; candid about his failure, given to short, earthy sentences about soil, names, and loss.",
+  "refs": [
+   "Gen 1:26-31",
+   "Gen 2:4-25",
+   "Gen 3",
+   "Gen 4:1",
+   "Gen 4:25",
+   "Gen 5:1-5",
+   "1 Chr 1:1",
+   "Luke 3:38",
+   "Rom 5:12-21",
+   "1 Cor 15:22",
+   "1 Cor 15:45-49",
+   "1 Tim 2:13-14",
+   "Jude 1:14"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Luke",
+   "Rom",
+   "1 Cor",
+   "1 Tim",
+   "Jude"
+  ]
+ },
+ {
+  "id": "eve",
+  "names": {
+   "primary": "Eve",
+   "original": "חַוָּה (ḥawwâ)",
+   "meaning": "\"living\" or \"life-giver\"; explained as \"mother of all living\"",
+   "aliases": [
+    "the woman",
+    "Havah"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "born": {
+   "year": -4004,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Septuagint-based chronology (Byzantine creation era)",
+     "year": -5509
+    },
+    {
+     "label": "Jewish Anno Mundi (Masoretic)",
+     "year": -3761
+    }
+   ]
+  },
+  "placeIds": [
+   "eden"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "adam"
+   ],
+   "children": [
+    "cain",
+    "abel",
+    "seth"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "first woman",
+   "mother of all living",
+   "partner (\"helper corresponding to him\")"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Engaging in reasoned dialogue (with the serpent)",
+    "refs": [
+     "Gen 3:2-3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Bearer of the image of God alongside the man",
+    "refs": [
+     "Gen 1:27"
+    ]
+   },
+   {
+    "name": "Mother of all living; first to name a child with confession of God's help",
+    "refs": [
+     "Gen 3:20",
+     "Gen 4:1",
+     "Gen 4:25"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Built from the man's side",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:21-22"
+    ],
+    "summary": "God forms the woman from a part of the man's side and brings her to him."
+   },
+   {
+    "title": "Greeted as bone of his bones",
+    "placeId": "eden",
+    "refs": [
+     "Gen 2:23-25"
+    ],
+    "summary": "The man recognizes her as his counterpart; the narrator draws from this the pattern of marriage."
+   },
+   {
+    "title": "Questioned by the serpent",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:1-5"
+    ],
+    "summary": "The serpent challenges God's word and motives; Eve restates the command, adding that they must not touch the tree."
+   },
+   {
+    "title": "Takes and eats the fruit",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:6"
+    ],
+    "summary": "Seeing the tree as good for food, attractive, and desirable for wisdom, she eats and gives some to her husband."
+   },
+   {
+    "title": "Confesses she was deceived",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:13"
+    ],
+    "summary": "Asked by God what she has done, she answers that the serpent deceived her."
+   },
+   {
+    "title": "Hears the promise and the judgment",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:15-16"
+    ],
+    "summary": "God announces enmity between the serpent and the woman's offspring, and pain in childbearing and strain in marriage."
+   },
+   {
+    "title": "Named Eve and expelled",
+    "placeId": "eden",
+    "refs": [
+     "Gen 3:20-24"
+    ],
+    "summary": "Adam names her Eve; God clothes them and sends them out of the garden."
+   },
+   {
+    "title": "Bears Cain and Abel",
+    "refs": [
+     "Gen 4:1-2"
+    ],
+    "summary": "She names her firstborn Cain, saying she has gotten a man with the help of the LORD."
+   },
+   {
+    "title": "Bears Seth after Abel's murder",
+    "refs": [
+     "Gen 4:25"
+    ],
+    "summary": "She names Seth, saying God has appointed another offspring in place of Abel."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "eden",
+    "order": 1,
+    "note": "Created in the garden and later expelled with Adam.",
+    "refs": [
+     "Gen 2:22",
+     "Gen 3:23-24"
+    ]
+   }
+  ],
+  "summary": "Eve is the first woman in Genesis, built by God from the man's side and greeted by him as his true counterpart. Together they bear God's image and receive the commission to fill and rule the earth. Her name, given by Adam after the fall, means \"living\" because she would be the mother of all living.\n\nIn Genesis 3 the serpent draws Eve into a conversation that questions God's goodness. She eats the forbidden fruit and gives it to Adam, who is with her. God's judgment includes pain in childbirth and conflict in marriage, but it also contains the promise that her offspring will strike the serpent's head, a line Christian readers have long called the first gospel.\n\nEve's story continues in motherhood marked by grief: she bears Cain and Abel, loses Abel to his brother's violence, and names Seth as God's replacement for the son she lost. Each birth notice records her own words about God.",
+  "textSays": "The woman is formed from the man's side as a \"helper corresponding to him\" (Gen 2:18-22); the Hebrew ʿēzer is used elsewhere of God himself (Ps 33:20), so it does not imply inferiority. She speaks with the serpent, eats, and gives to her husband \"who was with her\" (Gen 3:6). She says the serpent deceived her (Gen 3:13). God promises enmity between the serpent's offspring and hers (Gen 3:15) and announces painful childbearing and a desire toward her husband who will rule over her (Gen 3:16). She is named Eve (Gen 3:20) and bears Cain, Abel, and Seth (Gen 4:1-2, Gen 4:25). Paul mentions the serpent's deceiving Eve (2 Cor 11:3), and 1 Tim 2:13-14 refers to her formation after Adam and her deception.",
+  "interpretations": [
+   {
+    "tradition": "Jewish (rabbinic)",
+    "view": "Rabbinic midrash debates whether the first human was created androgynous and then divided (Genesis Rabbah 8:1) and elaborates Eve's dialogue with the serpent, often noting that her addition of \"nor touch it\" shows the danger of building a fence that becomes confused with the command itself (Avot de-Rabbi Natan A 1)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Since Justin Martyr and Irenaeus, Eve has been paired with Mary: Eve's disobedience is undone by Mary's obedience, making Mary the \"new Eve\" (Irenaeus, *Against Heresies* 3.22.4). Gen 3:15 is read as the Protoevangelium, pointing to Christ and, in Catholic tradition, to Mary's role."
+   },
+   {
+    "tradition": "Complementarian Protestant",
+    "view": "Gen 2 establishes male headship before the fall and Gen 3:16 describes sin's distortion of that order; Paul's reference to creation order (1 Tim 2:13) is read as grounding distinct roles for men and women in church and home."
+   },
+   {
+    "tradition": "Egalitarian Protestant",
+    "view": "The woman is a full partner and \"helper\" in the sense God is a helper; male rule appears first as a consequence of sin (Gen 3:16), not a creation ideal, and redemption in Christ moves toward restoring mutual partnership (Gal 3:28). 1 Tim 2 is read as addressing a local situation."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Image-bearer and full partner in the creation mandate",
+    "Responds to loss with renewed faith in naming Seth",
+    "Bearer of the promised offspring line"
+   ],
+   "failures": [
+    "Is deceived by the serpent and eats the forbidden fruit",
+    "Shares the fruit with her husband"
+   ],
+   "turningPoints": [
+    "Formation from the man's side",
+    "The conversation with the serpent",
+    "Birth of Seth after Abel's death"
+   ]
+  },
+  "context": "Ancient Near Eastern myths offer no close parallel to the formation of a woman from a man's side, though a Sumerian wordplay on \"rib\" and \"life\" (the goddess Nin-ti) has been proposed as background; the connection is speculative. Genesis is unusual in giving the first woman extended speech and in recording her theological naming of children.",
+  "legacy": "Eve has carried an outsized and often contested legacy. Some ancient and medieval writers blamed women collectively for the fall, a reading many modern Jewish and Christian scholars reject as going beyond the text. The Eve-Mary parallel shaped Marian theology, and Gen 2-3 remains central to debates about gender roles.",
+  "traditions": [
+   {
+    "text": "The *Life of Adam and Eve* narrates Eve's repentance, her standing in the Tigris as penance, and her account of the fall to her children.",
+    "source": "Life of Adam and Eve / Apocalypse of Moses (c. 1st century AD)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Thoughtful and direct, with a mother's grief close to the surface; speaks of God's help with hard-won hope rather than easy cheer.",
+  "refs": [
+   "Gen 1:27-28",
+   "Gen 2:18-25",
+   "Gen 3",
+   "Gen 4:1-2",
+   "Gen 4:25",
+   "2 Cor 11:3",
+   "1 Tim 2:13-14"
+  ],
+  "books": [
+   "Gen",
+   "2 Cor",
+   "1 Tim"
+  ]
+ },
+ {
+  "id": "cain",
+  "names": {
+   "primary": "Cain",
+   "original": "קַיִן (qayin)",
+   "meaning": "wordplay on qānîtî, \"I have gotten\"; also related to \"smith\"",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [
+   "eden"
+  ],
+  "family": {
+   "parents": [
+    "adam",
+    "eve"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "abel",
+    "seth"
+   ]
+  },
+  "roles": [
+   "firstborn son of Adam and Eve",
+   "first murderer",
+   "city-builder"
+  ],
+  "occupations": [
+   "farmer (worker of the ground)",
+   "city-builder"
+  ],
+  "skills": [
+   {
+    "name": "Cultivating the ground",
+    "refs": [
+     "Gen 4:2"
+    ]
+   },
+   {
+    "name": "Building a city",
+    "refs": [
+     "Gen 4:17"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Offering not accepted",
+    "refs": [
+     "Gen 4:3-5"
+    ],
+    "summary": "Cain brings produce of the ground; God regards Abel's offering but not Cain's, and Cain becomes angry."
+   },
+   {
+    "title": "Warned about sin crouching at the door",
+    "refs": [
+     "Gen 4:6-7"
+    ],
+    "summary": "God tells Cain that if he does well he will be accepted, and that he must master the sin that desires him."
+   },
+   {
+    "title": "Murders Abel",
+    "refs": [
+     "Gen 4:8-10"
+    ],
+    "summary": "Cain kills his brother in the field and answers God's question with \"Am I my brother's keeper?\""
+   },
+   {
+    "title": "Banished and marked",
+    "refs": [
+     "Gen 4:11-16"
+    ],
+    "summary": "Cain is driven from the ground as a wanderer; God places a mark on him so that no one will kill him, and he settles in the land of Nod."
+   },
+   {
+    "title": "Builds a city",
+    "refs": [
+     "Gen 4:17"
+    ],
+    "summary": "Cain fathers a son named Enoch (not the Enoch who walked with God) and names a city after him."
+   }
+  ],
+  "summary": "Cain, the firstborn of Adam and Eve, worked the ground. When God accepted his brother Abel's offering but not his own, Cain grew angry, ignored God's warning to master the sin crouching at his door, and killed Abel in the field. God sent him away as a restless wanderer yet protected him with a mark. He settled east of Eden in Nod and built a city; his descendants pioneered herding, music, and metalwork, but also produced the violent Lamech. The New Testament holds him up as an example of envy and hatred (1 John 3:12, Jude 1:11).",
+  "textSays": "Genesis does not state why Cain's offering was not regarded; Heb 11:4 attributes Abel's acceptance to faith and 1 John 3:12 says Cain's own deeds were evil.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Midrash variously explains the quarrel (dividing the world, a disputed woman, or the site of the temple) and treats God's protection of Cain as a lesson in the possibility of repentance (Genesis Rabbah 22)."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Cain is commonly read as offering without faith or a right heart, in contrast to Abel (Heb 11:4); Augustine made Cain the founder of the earthly city in contrast to the city of God (*City of God* 15.1)."
+   }
+  ],
+  "voice": "Sullen and defensive, quick to resent and to evade responsibility; speaks in clipped, aggrieved questions.",
+  "refs": [
+   "Gen 4:1-17",
+   "Gen 4:24-25",
+   "Heb 11:4",
+   "1 John 3:12",
+   "Jude 1:11"
+  ],
+  "books": [
+   "Gen",
+   "Heb",
+   "1 John",
+   "Jude"
+  ]
+ },
+ {
+  "id": "abel",
+  "names": {
+   "primary": "Abel",
+   "original": "הֶבֶל (hevel)",
+   "meaning": "\"breath, vapor\" (the word used in Ecclesiastes for fleeting things)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [],
+  "family": {
+   "parents": [
+    "adam",
+    "eve"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "cain",
+    "seth"
+   ]
+  },
+  "roles": [
+   "second son of Adam and Eve",
+   "first martyr"
+  ],
+  "occupations": [
+   "shepherd (keeper of sheep)"
+  ],
+  "skills": [
+   {
+    "name": "Keeping flocks",
+    "refs": [
+     "Gen 4:2"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith expressed in offering",
+    "refs": [
+     "Heb 11:4"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Offers the firstborn of his flock",
+    "refs": [
+     "Gen 4:4"
+    ],
+    "summary": "Abel brings the firstborn and fat portions of his flock, and God regards his offering."
+   },
+   {
+    "title": "Killed by Cain",
+    "refs": [
+     "Gen 4:8-10"
+    ],
+    "summary": "Abel is murdered by his brother; his blood cries out to God from the ground."
+   }
+  ],
+  "summary": "Abel, a shepherd, was the second son of Adam and Eve. God accepted his offering of the firstborn of his flock, and his brother Cain, enraged, murdered him. His name means \"breath,\" fitting a life cut short. Jesus names him as the first righteous person whose blood was shed (Matt 23:35), and Hebrews counts him as the first example of faith.",
+  "voice": "Quiet and devout; speaks little, with the gentle attentiveness of a shepherd.",
+  "refs": [
+   "Gen 4:2-10",
+   "Gen 4:25",
+   "Matt 23:35",
+   "Luke 11:51",
+   "Heb 11:4",
+   "Heb 12:24",
+   "1 John 3:12"
+  ],
+  "books": [
+   "Gen",
+   "Matt",
+   "Luke",
+   "Heb",
+   "1 John"
+  ]
+ },
+ {
+  "id": "seth",
+  "names": {
+   "primary": "Seth",
+   "original": "שֵׁת (šēt)",
+   "meaning": "\"appointed, granted\" (from šāt, \"he has appointed\")",
+   "aliases": [
+    "Sheth"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [],
+  "family": {
+   "parents": [
+    "adam",
+    "eve"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "cain",
+    "abel"
+   ]
+  },
+  "roles": [
+   "third named son of Adam and Eve",
+   "ancestor of Noah's line"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Born as Abel's replacement",
+    "refs": [
+     "Gen 4:25"
+    ],
+    "summary": "Eve names him Seth, saying God has appointed another offspring instead of Abel."
+   },
+   {
+    "title": "People begin to call on the LORD",
+    "refs": [
+     "Gen 4:26",
+     "Gen 5:6-8"
+    ],
+    "summary": "In the days of Seth's son Enosh people begin to call on the name of the LORD; Seth lives 912 years."
+   }
+  ],
+  "summary": "Seth was born to Adam and Eve after Abel's murder and is described as fathered in Adam's likeness and image. Through him runs the genealogy of Genesis 5 that leads to Noah, and Luke's genealogy of Jesus passes through him. In his son's days people began to call on the name of the LORD.",
+  "traditions": [
+   {
+    "text": "Josephus says Seth's descendants discovered astronomy and inscribed their knowledge on two pillars, one of brick and one of stone, to survive flood or fire.",
+    "source": "Josephus, Jewish Antiquities 1.68-71",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Steady and reverent, speaking as one who carries a family's hope after tragedy.",
+  "refs": [
+   "Gen 4:25-26",
+   "Gen 5:3-8",
+   "1 Chr 1:1",
+   "Luke 3:38"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Luke"
+  ]
+ },
+ {
+  "id": "enoch",
+  "names": {
+   "primary": "Enoch",
+   "original": "חֲנוֹךְ (ḥănôk)",
+   "meaning": "\"dedicated\" or \"initiated\"",
+   "aliases": [
+    "Henoch"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "methuselah"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "seventh from Adam",
+   "one who walked with God",
+   "prophet (per Jude)"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Close fellowship with God (\"walked with God\")",
+    "refs": [
+     "Gen 5:22-24"
+    ]
+   },
+   {
+    "name": "Prophecy of judgment (as cited by Jude)",
+    "refs": [
+     "Jude 1:14-15"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Walks with God",
+    "refs": [
+     "Gen 5:21-22"
+    ],
+    "summary": "After fathering Methuselah, Enoch walks with God for three hundred years."
+   },
+   {
+    "title": "Taken by God",
+    "refs": [
+     "Gen 5:24",
+     "Heb 11:5"
+    ],
+    "summary": "At 365 years Enoch \"was not, for God took him\"; Hebrews says he was taken so that he did not see death."
+   }
+  ],
+  "summary": "Enoch, son of Jared and father of Methuselah, stands out in the Genesis 5 genealogy because the refrain \"and he died\" is replaced by \"he was not, for God took him.\" He is remembered for walking with God, and Hebrews says he pleased God and did not see death. Jude quotes a prophecy attributed to him, which closely matches *1 Enoch* 1:9.",
+  "traditions": [
+   {
+    "text": "A large body of literature, especially *1 Enoch*, presents Enoch as a seer shown heavenly secrets, the fall of the Watchers, and coming judgment; *1 Enoch* is canonical in the Ethiopian Orthodox Tewahedo Church.",
+    "source": "1 Enoch (Book of the Watchers, chs. 1-36, c. 3rd century BC)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Calm and otherworldly, speaking of God as a close companion and of judgment with grave certainty.",
+  "refs": [
+   "Gen 5:18-24",
+   "1 Chr 1:3",
+   "Luke 3:37",
+   "Heb 11:5-6",
+   "Jude 1:14-15"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Luke",
+   "Heb",
+   "Jude"
+  ]
+ },
+ {
+  "id": "methuselah",
+  "names": {
+   "primary": "Methuselah",
+   "original": "מְתוּשֶׁלַח (mətûšelaḥ)",
+   "meaning": "possibly \"man of the javelin\" or \"man of Shelah\"",
+   "aliases": [
+    "Mathusala"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [],
+  "family": {
+   "parents": [
+    "enoch"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "longest-lived person in the Bible",
+   "grandfather of Noah"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Lives 969 years",
+    "refs": [
+     "Gen 5:25-27"
+    ],
+    "summary": "Methuselah fathers Lamech at 187 and dies at 969, the greatest age recorded in Scripture."
+   }
+  ],
+  "summary": "Methuselah, son of Enoch and grandfather of Noah, is known only from genealogies, where he lives 969 years. By the Masoretic numbers he dies in the year of the flood. The long lifespans of Genesis 5 are read by some as literal, by others as symbolic or honorific numbers comparable to the inflated reigns in the Sumerian King List.",
+  "voice": "Patient and unhurried, with the long memory of an elder who has seen many generations.",
+  "refs": [
+   "Gen 5:21-27",
+   "1 Chr 1:3",
+   "Luke 3:37"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Luke"
+  ]
+ },
+ {
+  "id": "noah",
+  "names": {
+   "primary": "Noah",
+   "original": "נֹחַ (nōaḥ)",
+   "meaning": "\"rest\"; linked by wordplay to niḥam, \"comfort\" (Gen 5:29)",
+   "aliases": [
+    "Noe"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "primeval"
+  ],
+  "born": {
+   "year": -2948,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Septuagint chronology (approx.; flood c. 3300 BC)",
+     "year": -3900,
+     "source": "Approximate, from LXX ages in Gen 5"
+    }
+   ]
+  },
+  "died": {
+   "year": -1998,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Septuagint chronology (approx.)",
+     "year": -2950
+    }
+   ]
+  },
+  "placeIds": [
+   "ararat"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "shem",
+    "ham",
+    "japheth"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "builder of the ark",
+   "covenant partner with God",
+   "herald of righteousness",
+   "father of the post-flood nations"
+  ],
+  "occupations": [
+   "builder (ark)",
+   "farmer (man of the soil)",
+   "vinedresser"
+  ],
+  "skills": [
+   {
+    "name": "Large-scale construction following precise specifications",
+    "refs": [
+     "Gen 6:14-16",
+     "Gen 6:22"
+    ]
+   },
+   {
+    "name": "Animal husbandry on the ark",
+    "refs": [
+     "Gen 7:2-3",
+     "Gen 8:17-19"
+    ]
+   },
+   {
+    "name": "Cultivating vineyards",
+    "refs": [
+     "Gen 9:20"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Righteousness and blamelessness in his generation",
+    "refs": [
+     "Gen 6:9",
+     "Ezek 14:14"
+    ]
+   },
+   {
+    "name": "Obedient faith",
+    "refs": [
+     "Gen 6:22",
+     "Heb 11:7"
+    ]
+   },
+   {
+    "name": "Proclaiming righteousness",
+    "refs": [
+     "2 Pet 2:5"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Named as a bringer of relief",
+    "refs": [
+     "Gen 5:28-29"
+    ],
+    "summary": "Lamech names his son Noah, hoping he will bring relief from the toil of the cursed ground."
+   },
+   {
+    "title": "Finds favor in a corrupt world",
+    "refs": [
+     "Gen 6:5-10"
+    ],
+    "summary": "God grieves over human violence and evil; Noah finds favor and is described as righteous and blameless, walking with God."
+   },
+   {
+    "title": "Commanded to build the ark",
+    "refs": [
+     "Gen 6:13-22"
+    ],
+    "summary": "God announces the flood, gives precise dimensions for the ark, and promises a covenant; Noah does all that God commands."
+   },
+   {
+    "title": "Enters the ark",
+    "year": -2348,
+    "refs": [
+     "Gen 7:1-16"
+    ],
+    "summary": "Noah, his family, and the animals enter the ark; God shuts them in."
+   },
+   {
+    "title": "The flood",
+    "year": -2348,
+    "refs": [
+     "Gen 7:17-24"
+    ],
+    "summary": "The waters prevail for 150 days, and all land life outside the ark perishes."
+   },
+   {
+    "title": "God remembers Noah; the ark rests on Ararat",
+    "placeId": "ararat",
+    "refs": [
+     "Gen 8:1-5"
+    ],
+    "summary": "God sends a wind, the waters recede, and the ark comes to rest on the mountains of Ararat."
+   },
+   {
+    "title": "Sends the raven and the dove",
+    "placeId": "ararat",
+    "refs": [
+     "Gen 8:6-12"
+    ],
+    "summary": "Noah tests the land with a raven and then a dove, which returns with an olive leaf and finally does not return."
+   },
+   {
+    "title": "Builds an altar and offers sacrifice",
+    "placeId": "ararat",
+    "refs": [
+     "Gen 8:18-22"
+    ],
+    "summary": "Noah offers burnt offerings; God resolves never again to curse the ground or destroy every living creature."
+   },
+   {
+    "title": "Covenant and rainbow",
+    "refs": [
+     "Gen 9:1-17"
+    ],
+    "summary": "God blesses Noah, renews the creation mandate, protects human life, and sets the rainbow as the sign of an everlasting covenant with all creatures."
+   },
+   {
+    "title": "Drunkenness and the curse on Canaan",
+    "refs": [
+     "Gen 9:20-27"
+    ],
+    "summary": "Noah plants a vineyard and becomes drunk; Ham sees his nakedness, Shem and Japheth cover him, and Noah curses Canaan and blesses Shem and Japheth."
+   },
+   {
+    "title": "Dies at 950",
+    "refs": [
+     "Gen 9:28-29"
+    ],
+    "summary": "Noah lives 350 years after the flood and dies at 950."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ararat",
+    "order": 1,
+    "year": -2348,
+    "note": "The ark comes to rest on the mountains of Ararat (Urartu, eastern Anatolia); the text names a region, not a single peak.",
+    "refs": [
+     "Gen 8:4"
+    ]
+   }
+  ],
+  "summary": "Noah is the righteous man through whom God preserves life when the world is judged by the flood. Genesis describes the earth as filled with violence and God as grieved to his heart; Noah alone finds favor, walks with God, and builds the ark exactly as commanded. With his wife, three sons, their wives, and pairs of animals, he rides out the flood until the ark rests on the mountains of Ararat.\n\nAfter the flood Noah offers sacrifice and God makes a covenant with him and with every living creature, promising never again to destroy the earth by flood and setting the rainbow as its sign. The command to be fruitful and multiply is renewed, making Noah a second Adam figure who heads a new humanity. From his three sons come the nations listed in Genesis 10.\n\nThe story does not end on a heroic note. Noah plants a vineyard, becomes drunk, and lies uncovered; the episode leads to his curse on Canaan and blessings on Shem and Japheth. Later Scripture remembers him as a model of righteousness (Ezek 14:14), of faith that acted on God's warning (Heb 11:7), and of a generation caught unprepared by judgment (Matt 24:37-39).",
+  "textSays": "Noah is the son of Lamech (Gen 5:28-29), called righteous and blameless in his generation (Gen 6:9). He builds the ark to God's specifications (Gen 6:14-22) and enters it at 600 years old (Gen 7:6). The flood covers the earth and the ark rests on the mountains of Ararat (Gen 7:17-8:4). God makes a covenant with Noah, his descendants, and every living creature, with the rainbow as sign (Gen 9:8-17). Noah becomes drunk and curses Canaan (Gen 9:20-27) and dies at 950 (Gen 9:29). Ezekiel names him with Daniel and Job as exemplary righteous men (Ezek 14:14). Jesus compares the days of Noah to the coming of the Son of Man (Matt 24:37-39). Hebrews praises his faith (Heb 11:7), 1 Peter links the flood to baptism (1 Pet 3:20-21), and 2 Peter calls him a herald of righteousness (2 Pet 2:5).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The phrase \"righteous in his generation\" is debated in the Talmud: one view says he would have been greater in a better generation, another that he was righteous only relative to a wicked one (b. Sanhedrin 108a). The covenant with Noah grounds the seven Noahide laws, the moral obligations rabbinic tradition sees as binding on all humanity (b. Sanhedrin 56a)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "The ark is a type of the Church, outside of which there is no safety, and the flood waters prefigure baptism (1 Pet 3:20-21; Cyprian, *On the Unity of the Church* 6). Noah is commemorated as a righteous forefather in the Orthodox calendar."
+   },
+   {
+    "tradition": "Evangelical Protestant (global-flood view)",
+    "view": "Many young-earth creationists read the flood as a global, geologically significant event that laid down much of the fossil record, citing the universal language of Gen 7:19-23 and 2 Pet 3:6."
+   },
+   {
+    "tradition": "Evangelical and mainstream Protestant (local or literary views)",
+    "view": "Others read the flood as a large regional flood described from the narrator's viewpoint, where \"all the earth\" can mean the known land, or as a theological retelling that answers Mesopotamian flood stories with a moral, monotheistic account. These readers stress the theological claims (judgment, grace, covenant) over physical extent."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Righteous and blameless amid widespread violence",
+    "Persevering obedience in a long and public task",
+    "Worship as his first act after the flood"
+   ],
+   "failures": [
+    "Drunkenness and exposure after the flood"
+   ],
+   "turningPoints": [
+    "God's command to build the ark",
+    "Leaving the ark and receiving the covenant",
+    "The vineyard incident and the oracle over his sons"
+   ]
+  },
+  "context": "Flood stories appear across Mesopotamia: the Sumerian Ziusudra story, *Atrahasis*, and Tablet XI of the *Epic of Gilgamesh*, where Utnapishtim builds a boat, sends out birds, and offers sacrifice. Genesis shares this outline but differs sharply in motive: the gods of *Atrahasis* send the flood because human noise disturbs them, while Genesis grounds it in moral corruption and violence and ends with a covenant. Ararat is the Hebrew form of Urartu, the kingdom around Lake Van in eastern Turkey. Many critical scholars see two interwoven sources in Gen 6-9 (for example, the differing animal counts in Gen 6:19-20 and Gen 7:2-3); others read the variations as a single narrative with intentional structure.",
+  "legacy": "Noah's covenant is the Bible's first explicit covenant and extends to all creation, a basis for theological reflection on ecology and universal human dignity (Gen 9:6). The ark became a symbol of salvation and of the Church. The curse on Canaan was misused in the early modern period to justify enslaving Africans by applying it to Ham; the text curses Canaan, not Ham, and the reading is now widely repudiated.",
+  "traditions": [
+   {
+    "text": "Noah's birth is described as miraculous, with a radiant appearance that frightened Lamech.",
+    "source": "1 Enoch 106; Genesis Apocryphon (1QapGen) cols. 2-5",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Armenian tradition identifies the ark's resting place with Mount Ararat (Masis) and the town of Nakhchivan with Noah's settlement; Josephus mentions remains of the ark being shown in Armenia.",
+    "source": "Josephus, Jewish Antiquities 1.90-95",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Plain-spoken and weathered, a man of few words and practical obedience who speaks of judgment soberly and of the rainbow with deep gratitude.",
+  "refs": [
+   "Gen 5:28-32",
+   "Gen 6:5-22",
+   "Gen 7",
+   "Gen 8",
+   "Gen 9:1-29",
+   "Gen 10:1",
+   "1 Chr 1:4",
+   "Isa 54:9",
+   "Ezek 14:14",
+   "Ezek 14:20",
+   "Matt 24:37-39",
+   "Luke 3:36",
+   "Luke 17:26-27",
+   "Heb 11:7",
+   "1 Pet 3:20-21",
+   "2 Pet 2:5"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Isa",
+   "Ezek",
+   "Matt",
+   "Luke",
+   "Heb",
+   "1 Pet",
+   "2 Pet"
+  ]
+ },
+ {
+  "id": "shem",
+  "names": {
+   "primary": "Shem",
+   "original": "שֵׁם (šēm)",
+   "meaning": "\"name, renown\"",
+   "aliases": [
+    "Sem"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "primeval",
+   "patriarchs"
+  ],
+  "placeIds": [
+   "ararat"
+  ],
+  "family": {
+   "parents": [
+    "noah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "ham",
+    "japheth"
+   ]
+  },
+  "roles": [
+   "son of Noah",
+   "ancestor of the Semitic peoples and of Abraham"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Covers his father's nakedness",
+    "refs": [
+     "Gen 9:23"
+    ],
+    "summary": "With Japheth, Shem walks backward with a garment to cover Noah without looking."
+   },
+   {
+    "title": "Blessed by Noah",
+    "refs": [
+     "Gen 9:26"
+    ],
+    "summary": "Noah blesses the LORD, the God of Shem, and makes Canaan his servant."
+   }
+  ],
+  "summary": "Shem, son of Noah, survived the flood and became the ancestor of the peoples listed in Gen 10:21-31, including Eber and through him Abraham. Noah's blessing ties God's name to Shem, and the genealogy of Gen 11:10-26 narrows from Shem to Abram. The modern term \"Semitic\" derives from his name.",
+  "traditions": [
+   {
+    "text": "Rabbinic tradition identifies Shem with Melchizedek, king of Salem, and pictures a school of Shem and Eber where the patriarchs studied.",
+    "source": "b. Nedarim 32b; Genesis Rabbah 56:10; Targum Pseudo-Jonathan on Gen 14:18",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Dignified and reverent, conscious of being a link between the old world and the new.",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:18-27",
+   "Gen 10:21-31",
+   "Gen 11:10-11",
+   "1 Chr 1:17",
+   "Luke 3:36"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Luke"
+  ]
+ },
+ {
+  "id": "ham",
+  "names": {
+   "primary": "Ham",
+   "original": "חָם (ḥām)",
+   "meaning": "possibly \"hot\"; later a poetic name for Egypt",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [
+   "ararat"
+  ],
+  "family": {
+   "parents": [
+    "noah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "shem",
+    "japheth"
+   ]
+  },
+  "roles": [
+   "son of Noah",
+   "ancestor of Cush, Egypt (Mizraim), Put and Canaan"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Sees his father's nakedness",
+    "refs": [
+     "Gen 9:20-25"
+    ],
+    "summary": "Ham sees Noah drunk and uncovered and tells his brothers; Noah afterwards curses Ham's son Canaan."
+   }
+  ],
+  "summary": "Ham, son of Noah and father of Canaan, is the ancestor of Cush, Mizraim (Egypt), Put and Canaan in the Table of Nations. After he saw his father's nakedness Noah cursed not Ham but Canaan. Ps 105:23 uses \"the land of Ham\" for Egypt. The later use of this passage to justify racial slavery has no basis in the text, which curses Canaan alone.",
+  "voice": "Brash and careless, inclined to make a joke of what others treat with respect.",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:18-25",
+   "Gen 10:6-20",
+   "1 Chr 1:8-16",
+   "Ps 105:23"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Ps"
+  ]
+ },
+ {
+  "id": "japheth",
+  "names": {
+   "primary": "Japheth",
+   "original": "יֶפֶת (yepet)",
+   "meaning": "wordplay on yapt, \"may he enlarge\" (Gen 9:27)",
+   "aliases": [
+    "Iapetus (proposed Greek parallel)"
+   ]
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "primeval"
+  ],
+  "placeIds": [
+   "ararat"
+  ],
+  "family": {
+   "parents": [
+    "noah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "shem",
+    "ham"
+   ]
+  },
+  "roles": [
+   "son of Noah",
+   "ancestor of peoples of the north and the coastlands"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Covers Noah and is blessed",
+    "refs": [
+     "Gen 9:23",
+     "Gen 9:27"
+    ],
+    "summary": "Japheth helps cover his father and receives the blessing \"May God enlarge Japheth, and let him dwell in the tents of Shem.\""
+   }
+  ],
+  "summary": "Japheth, son of Noah, is the ancestor of peoples to the north and west, including Gomer, Magog, Madai (the Medes) and Javan (the Greeks), and of the \"coastland peoples\" (Gen 10:2-5). Noah's blessing that he would dwell in the tents of Shem was read by early Christians as a hint of the Gentiles joining Israel's worship.",
+  "voice": "Courteous and expansive, an outward-looking man.",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:18-27",
+   "Gen 10:1-5",
+   "1 Chr 1:5-7"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "terah",
+  "names": {
+   "primary": "Terah",
+   "original": "תֶּרַח (teraḥ)",
+   "meaning": "uncertain; possibly linked to the moon (yārēaḥ)",
+   "aliases": [
+    "Thara"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "died": {
+   "year": -2091,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology (Terah dies after Abram leaves)",
+     "year": -1921
+    },
+    {
+     "label": "Middle Bronze Age setting proposed by many scholars",
+     "year": -1900
+    }
+   ]
+  },
+  "placeIds": [
+   "ur",
+   "haran"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "abraham"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "father of Abram, Nahor and Haran",
+   "head of the clan migration from Ur"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Leaves Ur for Canaan, settles in Haran",
+    "placeId": "haran",
+    "refs": [
+     "Gen 11:31"
+    ],
+    "summary": "Terah takes Abram, Sarai and Lot from Ur of the Chaldeans toward Canaan, but they settle in Haran."
+   },
+   {
+    "title": "Dies in Haran",
+    "placeId": "haran",
+    "refs": [
+     "Gen 11:32",
+     "Acts 7:4"
+    ],
+    "summary": "Terah dies in Haran at 205; Stephen places Abraham's departure after his father's death."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ur",
+    "order": 1,
+    "note": "Family home, Ur of the Chaldeans.",
+    "refs": [
+     "Gen 11:28"
+    ]
+   },
+   {
+    "placeId": "haran",
+    "order": 2,
+    "note": "Settles and dies on the way to Canaan.",
+    "refs": [
+     "Gen 11:31-32"
+    ]
+   }
+  ],
+  "summary": "Terah, descendant of Shem and father of Abram, Nahor and Haran, led his family from Ur toward Canaan but stopped in Haran, where he died. Joshua recalls that Terah and his fathers served other gods beyond the River (Josh 24:2). Both Ur and Haran were centers of moon-god worship, which some connect with his name.",
+  "traditions": [
+   {
+    "text": "Terah is said to have been an idol-maker, whose idols the young Abraham smashed.",
+    "source": "Genesis Rabbah 38:13",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "A restless clan elder, ambitious to move yet prone to settle halfway.",
+  "refs": [
+   "Gen 11:24-32",
+   "Josh 24:2",
+   "1 Chr 1:26",
+   "Luke 3:34",
+   "Acts 7:4"
+  ],
+  "books": [
+   "Gen",
+   "Josh",
+   "1 Chr",
+   "Luke",
+   "Acts"
+  ]
+ },
+ {
+  "id": "abraham",
+  "names": {
+   "primary": "Abraham",
+   "original": "אַבְרָהָם (ʾabrāhām); earlier אַבְרָם (ʾabrām)",
+   "meaning": "Abram: \"exalted father\"; Abraham: explained as \"father of a multitude\" (Gen 17:5)",
+   "aliases": [
+    "Abram",
+    "friend of God",
+    "father of the faithful"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2166,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1996,
+     "source": "James Ussher, Annales Veteris Testamenti (1650)"
+    },
+    {
+     "label": "Late-exodus reckoning with shorter Egypt sojourn",
+     "year": -1950
+    },
+    {
+     "label": "Middle Bronze Age II setting favored by many scholars (approximate; many regard the narratives as not precisely datable)",
+     "year": -1800
+    }
+   ]
+  },
+  "died": {
+   "year": -1991,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1821
+    },
+    {
+     "label": "Middle Bronze Age II setting (approx.)",
+     "year": -1625
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -2091,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology",
+      "year": -1921
+     }
+    ]
+   },
+   {
+    "year": -1991,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology",
+      "year": -1821
+     }
+    ]
+   }
+  ],
+  "nation": "Hebrew (Semite from Ur and Haran)",
+  "placeIds": [
+   "ur",
+   "haran",
+   "shechem",
+   "bethel",
+   "ai",
+   "negev",
+   "egypt",
+   "hebron",
+   "mamre",
+   "dan",
+   "salem",
+   "sodom",
+   "gerar",
+   "beersheba",
+   "moriah"
+  ],
+  "family": {
+   "parents": [
+    "terah"
+   ],
+   "spouses": [
+    "sarah",
+    "hagar"
+   ],
+   "children": [
+    "ishmael",
+    "isaac"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "patriarch",
+   "father of Israel and of many nations",
+   "covenant partner of God",
+   "prophet (Gen 20:7)",
+   "intercessor"
+  ],
+  "occupations": [
+   "pastoral nomad and herdsman",
+   "clan chief"
+  ],
+  "skills": [
+   {
+    "name": "Managing large flocks, herds and household",
+    "refs": [
+     "Gen 13:2",
+     "Gen 24:35"
+    ]
+   },
+   {
+    "name": "Military leadership (rescue of Lot with 318 trained men)",
+    "refs": [
+     "Gen 14:14-16"
+    ]
+   },
+   {
+    "name": "Negotiation and land purchase",
+    "refs": [
+     "Gen 23:3-20"
+    ]
+   },
+   {
+    "name": "Hospitality",
+    "refs": [
+     "Gen 18:1-8"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith counted as righteousness",
+    "refs": [
+     "Gen 15:6",
+     "Rom 4:3"
+    ]
+   },
+   {
+    "name": "Intercessory prayer",
+    "refs": [
+     "Gen 18:22-33",
+     "Gen 20:17"
+    ]
+   },
+   {
+    "name": "Prophet",
+    "refs": [
+     "Gen 20:7"
+    ]
+   },
+   {
+    "name": "Friendship with God",
+    "refs": [
+     "2 Chr 20:7",
+     "Isa 41:8",
+     "Jas 2:23"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Called and promised land, nation and blessing",
+    "year": -2091,
+    "placeId": "haran",
+    "refs": [
+     "Gen 11:31",
+     "Gen 12:1-5"
+    ],
+    "summary": "Having come from Ur to Haran with Terah, Abram at 75 obeys God's call to leave for an unnamed land, receiving promises of a great nation, a great name, and blessing for all families of the earth."
+   },
+   {
+    "title": "Builds altars in Canaan; separates from Lot",
+    "placeId": "shechem",
+    "refs": [
+     "Gen 12:6-8",
+     "Gen 13:5-18"
+    ],
+    "summary": "At Shechem God promises the land to his offspring and Abram builds altars there and near Bethel; later he lets Lot choose the Jordan plain and settles by the oaks of Mamre."
+   },
+   {
+    "title": "Passes Sarai off as his sister in Egypt",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 12:10-20"
+    ],
+    "summary": "Fleeing famine, Abram has Sarai say she is his sister; Pharaoh takes her and is struck with plagues before sending them away."
+   },
+   {
+    "title": "Rescues Lot and meets Melchizedek",
+    "placeId": "salem",
+    "refs": [
+     "Gen 14:13-24"
+    ],
+    "summary": "Abram defeats the eastern kings, recovers Lot, receives bread, wine and blessing from Melchizedek, and gives him a tenth."
+   },
+   {
+    "title": "Covenant between the pieces",
+    "refs": [
+     "Gen 15:1-21"
+    ],
+    "summary": "Abram believes God's promise of offspring like the stars and it is counted to him as righteousness; God passes between the pieces and swears to give the land."
+   },
+   {
+    "title": "Ishmael born through Hagar",
+    "refs": [
+     "Gen 16:1-16"
+    ],
+    "summary": "At Sarai's suggestion Abram has a son by her servant Hagar."
+   },
+   {
+    "title": "Covenant of circumcision; renamed Abraham",
+    "refs": [
+     "Gen 17:1-27"
+    ],
+    "summary": "God renames Abram and Sarai, promises a son through Sarah, and gives circumcision as the covenant sign."
+   },
+   {
+    "title": "Hosts three visitors and intercedes for Sodom",
+    "placeId": "mamre",
+    "refs": [
+     "Gen 18:1-33"
+    ],
+    "summary": "Abraham welcomes the LORD and two angels, hears Isaac's birth announced, and pleads for Sodom down to ten righteous people."
+   },
+   {
+    "title": "Isaac born; Hagar and Ishmael sent away",
+    "placeId": "beersheba",
+    "refs": [
+     "Gen 21:1-21"
+    ],
+    "summary": "Sarah bears Isaac when Abraham is 100; at Sarah's demand and God's assurance, Hagar and Ishmael are sent away."
+   },
+   {
+    "title": "The binding of Isaac",
+    "placeId": "moriah",
+    "refs": [
+     "Gen 22:1-19"
+    ],
+    "summary": "God tests Abraham by commanding him to offer Isaac; the angel stops him, a ram is provided, and the promises are confirmed by oath."
+   },
+   {
+    "title": "Buys the cave of Machpelah",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 23:1-20"
+    ],
+    "summary": "After Sarah's death Abraham buys a field and cave at Hebron from Ephron the Hittite, his first legal holding in the land."
+   },
+   {
+    "title": "Dies and is buried by Isaac and Ishmael",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 25:7-10"
+    ],
+    "summary": "Abraham dies at 175 \"in a good old age\" and his two sons bury him beside Sarah."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ur",
+    "order": 1,
+    "note": "Birthplace region; Ur of the Chaldeans in southern Mesopotamia (a northern Ur near Haran is a minority proposal).",
+    "refs": [
+     "Gen 11:28-31"
+    ]
+   },
+   {
+    "placeId": "haran",
+    "order": 2,
+    "note": "Family settles; Abram called to go on at 75.",
+    "refs": [
+     "Gen 11:31",
+     "Gen 12:4"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 3,
+    "year": -2091,
+    "note": "Oak of Moreh; land promised to his offspring; first altar.",
+    "refs": [
+     "Gen 12:6-7"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 4,
+    "note": "Altar between Bethel and Ai.",
+    "refs": [
+     "Gen 12:8"
+    ]
+   },
+   {
+    "placeId": "negev",
+    "order": 5,
+    "note": "Journeys toward the Negev.",
+    "refs": [
+     "Gen 12:9"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 6,
+    "note": "Sojourn during famine; Sarai taken by Pharaoh.",
+    "refs": [
+     "Gen 12:10-20"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 7,
+    "note": "Returns to his altar; parts from Lot.",
+    "refs": [
+     "Gen 13:1-12"
+    ]
+   },
+   {
+    "placeId": "mamre",
+    "order": 8,
+    "note": "Settles by the oaks of Mamre at Hebron.",
+    "refs": [
+     "Gen 13:18"
+    ]
+   },
+   {
+    "placeId": "dan",
+    "order": 9,
+    "note": "Pursues the eastern kings as far as Dan.",
+    "refs": [
+     "Gen 14:14"
+    ]
+   },
+   {
+    "placeId": "salem",
+    "order": 10,
+    "note": "Met by Melchizedek king of Salem on his return.",
+    "refs": [
+     "Gen 14:17-20"
+    ]
+   },
+   {
+    "placeId": "gerar",
+    "order": 11,
+    "note": "Sojourns at Gerar; second sister episode with Abimelech.",
+    "refs": [
+     "Gen 20:1-18"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 12,
+    "note": "Treaty with Abimelech; plants a tamarisk and calls on the LORD.",
+    "refs": [
+     "Gen 21:22-34"
+    ]
+   },
+   {
+    "placeId": "moriah",
+    "order": 13,
+    "note": "Three days' journey to the land of Moriah for the binding of Isaac.",
+    "refs": [
+     "Gen 22:2-14"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 14,
+    "note": "Returns to Beersheba.",
+    "refs": [
+     "Gen 22:19"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 15,
+    "note": "Buries Sarah; is himself buried in the cave of Machpelah.",
+    "refs": [
+     "Gen 23:19",
+     "Gen 25:9-10"
+    ]
+   }
+  ],
+  "summary": "Abraham, first called Abram, is the founding father of Israel and a spiritual ancestor claimed by Jews, Christians and Muslims. Genesis 12 opens his story with God's call to leave his country and family for a land God would show him, attached to sweeping promises: a great nation, a great name, the land of Canaan for his offspring, and blessing through him for all the families of the earth. At seventy-five he goes, with his barren wife Sarai and his nephew Lot.\n\nThe narrative that follows tests whether Abraham will trust those promises when everything seems against them. He believes God and it is counted to him as righteousness (Gen 15:6), receives covenants sealed by a solemn ceremony and by circumcision, and intercedes boldly for Sodom. Yet he also twice passes off his wife as his sister to protect himself, and he takes Hagar as a surrogate when the promised child is slow in coming. The son of promise, Isaac, is born when Abraham is a hundred, and the climax comes when God commands him to offer Isaac on Moriah and then provides a ram in his place.\n\nAbraham dies owning only a burial cave in the land promised to him, yet later Scripture treats him as the model of faith. The prophets appeal to him as God's friend; Paul argues that his faith before circumcision makes him the father of all who believe, Jew and Gentile (Rom 4); James highlights the obedience that completed his faith (Jas 2:21-23); and Hebrews remembers him as a stranger looking for a city whose builder is God (Heb 11:8-19).",
+  "textSays": "Genesis records Abram's origin in Ur and Haran (Gen 11:27-32), God's call and promises (Gen 12:1-3), his journeys through Canaan and Egypt (Gen 12-13), his rescue of Lot and meeting with Melchizedek (Gen 14), God's covenant oath and Abram's credited faith (Gen 15), Ishmael's birth (Gen 16), the renaming and circumcision covenant (Gen 17), the visitors at Mamre and intercession for Sodom (Gen 18), the Gerar episode (Gen 20), Isaac's birth and Ishmael's departure (Gen 21), the binding of Isaac (Gen 22), Sarah's burial (Gen 23), the search for Rebekah (Gen 24), and his death at 175 (Gen 25:7-10). The New Testament cites him as justified by faith (Rom 4:1-25, Gal 3:6-9), as acting on faith (Heb 11:8-19), as justified by works that completed his faith (Jas 2:21-23), and as rejoicing to see Christ's day (John 8:56). Jesus speaks of Abraham, Isaac and Jacob at the feast of the kingdom (Matt 8:11).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Abraham is the first to recognize the one God and to reject idolatry, the model of hesed (lovingkindness) and hospitality, and the father of the covenant people. The Mishnah lists ten trials he withstood (m. Avot 5:3). The Akedah (binding of Isaac) is central to Rosh Hashanah liturgy as an appeal to Abraham's merit and God's mercy."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Abraham is \"our father in faith\" (Roman Canon of the Mass). Melchizedek's bread and wine prefigure the Eucharist, and the three visitors at Mamre are read as a foreshadowing of the Trinity, famously depicted in Rublev's icon. The binding of Isaac is a type of the Father offering the Son."
+   },
+   {
+    "tradition": "Lutheran and Reformed",
+    "view": "Gen 15:6 is foundational for justification by faith alone, read through Rom 4: Abraham was counted righteous by trusting God's promise before circumcision or law. James 2 is understood as showing that genuine faith proves itself in obedience, not as a second ground of justification. Reformed theology also stresses the continuity of the Abrahamic covenant, which grounds infant baptism for many."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars regard the Abraham cycle as traditions shaped and compiled over centuries, perhaps reaching final form in the exilic or Persian period, when the promise of land and an ancestor who left Mesopotamia spoke powerfully to exiles. Others point to Middle Bronze Age customs and names as evidence of older roots. Most agree the narratives cannot be confirmed or disproved archaeologically."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Leaves security at God's word",
+    "Believes God's promise against appearances",
+    "Generous to Lot and hospitable to strangers",
+    "Bold intercessor",
+    "Obedient in the supreme test of Moriah"
+   ],
+   "failures": [
+    "Twice endangers Sarah with a half-truth to protect himself",
+    "Takes Hagar at Sarah's urging, producing family conflict",
+    "Laughs at the promise of a son in old age"
+   ],
+   "turningPoints": [
+    "The call in Haran",
+    "The covenant between the pieces",
+    "Renaming and circumcision",
+    "The binding of Isaac"
+   ]
+  },
+  "context": "Abraham's world is the Middle Bronze Age Fertile Crescent: urban Ur and Haran, Amorite migrations, and seminomadic herders moving between towns in Canaan. Customs such as a barren wife giving a servant to bear children have parallels in ancient Near Eastern texts (for example, Old Assyrian marriage contracts and the Code of Hammurabi 144-147). The covenant ritual of cutting animals in Gen 15 resembles treaty ceremonies in which parties invoked the fate of the slain animals on themselves; here only God passes through. Some details, such as camels (Gen 12:16) and Philistines (Gen 21:32), are debated as anachronisms or as updated terms.",
+  "legacy": "Abraham is honored in Judaism as the first patriarch, in Christianity as the father of all believers, and in Islam as Ibrahim, a prophet and builder of the Kaaba with Ishmael. The phrase \"Abrahamic religions\" reflects this shared claim. His cave tomb at Hebron, under a Herodian enclosure, remains a sacred and contested site for Jews and Muslims.",
+  "traditions": [
+   {
+    "text": "As a young man Abraham smashed his father's idols and was thrown into a furnace by Nimrod but was delivered.",
+    "source": "Genesis Rabbah 38:13",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Abraham discovered the one God by reasoning from the order of the heavens.",
+    "source": "Josephus, Jewish Antiquities 1.154-157",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Cave of the Patriarchs at Hebron, enclosed by Herod the Great, is venerated as the burial place of Abraham, Sarah, Isaac, Rebekah, Jacob and Leah.",
+    "source": "Josephus, Jewish War 4.532; continuous local tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Courteous and dignified in the manner of an ancient clan chief, fond of bargaining and blessing; speaks of God with reverent intimacy and of his own failures with honesty.",
+  "refs": [
+   "Gen 11:26-32",
+   "Gen 12:1-20",
+   "Gen 13",
+   "Gen 14",
+   "Gen 15",
+   "Gen 16",
+   "Gen 17",
+   "Gen 18",
+   "Gen 19:27-29",
+   "Gen 20",
+   "Gen 21",
+   "Gen 22",
+   "Gen 23",
+   "Gen 24",
+   "Gen 25:1-11",
+   "Josh 24:2-3",
+   "Isa 41:8",
+   "Isa 51:2",
+   "Matt 1:1-2",
+   "Matt 3:9",
+   "Luke 16:22-31",
+   "John 8:31-58",
+   "Acts 7:2-8",
+   "Rom 4",
+   "Gal 3:6-29",
+   "Heb 6:13-15",
+   "Heb 7:1-10",
+   "Heb 11:8-19",
+   "Jas 2:21-23"
+  ],
+  "books": [
+   "Gen",
+   "Exod",
+   "Josh",
+   "Neh",
+   "Ps",
+   "Isa",
+   "Matt",
+   "Luke",
+   "John",
+   "Acts",
+   "Rom",
+   "Gal",
+   "Heb",
+   "Jas"
+  ]
+ },
+ {
+  "id": "sarah",
+  "names": {
+   "primary": "Sarah",
+   "original": "שָׂרָה (śārâ); earlier שָׂרַי (śāray)",
+   "meaning": "\"princess\"",
+   "aliases": [
+    "Sarai"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2156,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1986
+    },
+    {
+     "label": "Middle Bronze Age II setting (approx.)",
+     "year": -1790
+    }
+   ]
+  },
+  "died": {
+   "year": -2029,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1859
+    }
+   ]
+  },
+  "nation": "Hebrew",
+  "placeIds": [
+   "ur",
+   "haran",
+   "egypt",
+   "mamre",
+   "hebron",
+   "gerar",
+   "beersheba"
+  ],
+  "family": {
+   "parents": [
+    "terah"
+   ],
+   "spouses": [
+    "abraham"
+   ],
+   "children": [
+    "isaac"
+   ],
+   "siblings": [
+    "abraham"
+   ]
+  },
+  "roles": [
+   "matriarch",
+   "mother of Isaac",
+   "mother of nations (Gen 17:16)"
+  ],
+  "occupations": [
+   "matriarch managing a pastoral household"
+  ],
+  "skills": [
+   {
+    "name": "Hospitality, preparing food for guests",
+    "refs": [
+     "Gen 18:6"
+    ]
+   },
+   {
+    "name": "Running a large household",
+    "refs": [
+     "Gen 16:2",
+     "Gen 21:10"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faith that received power to conceive",
+    "refs": [
+     "Heb 11:11"
+    ]
+   },
+   {
+    "name": "Remembered as an example of hope in God",
+    "refs": [
+     "1 Pet 3:5-6"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Leaves Ur and Haran with Abram",
+    "placeId": "haran",
+    "refs": [
+     "Gen 11:29-31",
+     "Gen 12:5"
+    ],
+    "summary": "Sarai, described as barren, travels with Abram from Ur to Haran and on to Canaan."
+   },
+   {
+    "title": "Taken into Pharaoh's house",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 12:11-20"
+    ],
+    "summary": "Presented as Abram's sister because of her beauty, she is taken by Pharaoh until plagues force her release."
+   },
+   {
+    "title": "Gives Hagar to Abram",
+    "refs": [
+     "Gen 16:1-6"
+    ],
+    "summary": "Still childless, Sarai gives her Egyptian servant to Abram; when Hagar conceives and looks down on her, Sarai treats her harshly and Hagar flees."
+   },
+   {
+    "title": "Renamed Sarah and promised a son",
+    "refs": [
+     "Gen 17:15-21"
+    ],
+    "summary": "God renames her Sarah and declares she will become nations, with kings among her descendants."
+   },
+   {
+    "title": "Laughs at the promise",
+    "placeId": "mamre",
+    "refs": [
+     "Gen 18:9-15"
+    ],
+    "summary": "Overhearing the visitor say she will have a son, Sarah laughs to herself; the LORD asks if anything is too hard for him."
+   },
+   {
+    "title": "Taken by Abimelech of Gerar",
+    "placeId": "gerar",
+    "refs": [
+     "Gen 20:1-18"
+    ],
+    "summary": "A second time she is called Abraham's sister; God warns Abimelech in a dream and she is returned untouched."
+   },
+   {
+    "title": "Bears Isaac",
+    "refs": [
+     "Gen 21:1-7"
+    ],
+    "summary": "At ninety Sarah gives birth to Isaac and says God has brought her laughter."
+   },
+   {
+    "title": "Demands Hagar and Ishmael be sent away",
+    "refs": [
+     "Gen 21:8-12"
+    ],
+    "summary": "At Isaac's weaning Sarah sees Ishmael \"laughing\" or mocking and insists on their expulsion; God tells Abraham to listen to her."
+   },
+   {
+    "title": "Dies at Hebron",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 23:1-2",
+     "Gen 23:19"
+    ],
+    "summary": "Sarah dies at 127 at Kiriath-arba (Hebron) and is buried in the cave of Machpelah."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ur",
+    "order": 1,
+    "note": "Married to Abram in Ur.",
+    "refs": [
+     "Gen 11:29-31"
+    ]
+   },
+   {
+    "placeId": "haran",
+    "order": 2,
+    "note": "Settles with Terah's household.",
+    "refs": [
+     "Gen 11:31"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 3,
+    "note": "Taken into Pharaoh's house.",
+    "refs": [
+     "Gen 12:14-15"
+    ]
+   },
+   {
+    "placeId": "mamre",
+    "order": 4,
+    "note": "Hears the promise of Isaac in the tent.",
+    "refs": [
+     "Gen 18:1-10"
+    ]
+   },
+   {
+    "placeId": "gerar",
+    "order": 5,
+    "note": "Taken by Abimelech and restored.",
+    "refs": [
+     "Gen 20:2-14"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 6,
+    "note": "Region where Isaac grows up.",
+    "refs": [
+     "Gen 21:31-34"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 7,
+    "note": "Dies and is buried at Machpelah.",
+    "refs": [
+     "Gen 23:2",
+     "Gen 23:19"
+    ]
+   }
+  ],
+  "summary": "Sarah, first called Sarai, is the wife of Abraham and the first matriarch of Israel. Genesis introduces her with a single stark fact: she was barren and had no child (Gen 11:30). The whole promise to Abraham of a great nation therefore hangs on her, and the narrative repeatedly puts that promise at risk, once in Pharaoh's palace and again in Abimelech's court, when Abraham presents her as his sister.\n\nSarah's own initiatives are mixed. She gives her servant Hagar to Abraham to obtain a child through her, then turns on Hagar when the plan breeds contempt. When God renames her and the visitors at Mamre announce she will bear a son within a year, she laughs in disbelief. Yet she does bear Isaac at ninety, names her joy in him as laughter from God, and later insists that Isaac alone be the heir, a demand God tells Abraham to heed.\n\nSarah dies at Hebron, and Abraham's purchase of her burial cave becomes Israel's first foothold in the promised land. The New Testament remembers her as one who received strength to conceive because she judged God faithful (Heb 11:11), as a model of holy women who hoped in God (1 Pet 3:5-6), and as the free woman in Paul's allegory of two covenants (Gal 4:21-31).",
+  "textSays": "Sarai is Abram's wife and barren (Gen 11:29-30). Abraham later says she is his half-sister, daughter of his father but not his mother (Gen 20:12). She is taken by Pharaoh (Gen 12:15) and by Abimelech (Gen 20:2) and returned. She gives Hagar to Abram (Gen 16:2-3), is renamed and promised a son (Gen 17:15-16), laughs (Gen 18:12), bears Isaac (Gen 21:1-7), demands Ishmael's expulsion (Gen 21:10), and dies at 127 (Gen 23:1). Isaiah calls Israel to look to Sarah who bore them (Isa 51:2). Paul uses her as the free woman (Gal 4:22-31) and cites the promise of a son to her (Rom 9:9). Hebrews and 1 Peter praise her faith and hope (Heb 11:11, 1 Pet 3:6).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Sarah is counted among the seven prophetesses of Israel; the Talmud notes God told Abraham to \"listen to her voice\" (Gen 21:12), which rabbis read as her prophetic insight exceeding his (b. Megillah 14a). She is honored as the mother of converts and her story is read on Rosh Hashanah."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Sarah's miraculous conception prefigures births of promise culminating in Christ; she is commemorated among the holy forefathers. Her hospitality at Mamre is part of the scene read as a revelation of the Trinity."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Readers stress both her faith (Heb 11:11) and her doubts, as an encouragement that God's promises do not depend on human perfection. Paul's allegory in Gal 4 makes her a sign of the covenant of promise and freedom in Christ."
+   },
+   {
+    "tradition": "Feminist and womanist readings",
+    "view": "Many interpreters examine the power imbalance between Sarah and Hagar, an Egyptian slave woman, and note how Sarah herself is endangered by Abraham's choices. Womanist theologians such as Delores Williams highlight Hagar's survival as a counter-story to Sarah's privileged position."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Endures long barrenness and displacement",
+    "Comes to judge God faithful (Heb 11:11)",
+    "Discerns and protects the line of promise"
+   ],
+   "failures": [
+    "Uses Hagar to force the promise and then mistreats her",
+    "Laughs in disbelief and denies it"
+   ],
+   "turningPoints": [
+    "Giving Hagar to Abram",
+    "Renaming and the promise at Mamre",
+    "The birth of Isaac"
+   ]
+  },
+  "context": "Surrogacy through a female servant is attested in ancient Near Eastern law and contracts, where the child could be counted as the wife's. The wife-sister episodes have prompted proposals of a Hurrian legal custom of adopting a wife as a sister, but that theory has been widely questioned since the 1970s.",
+  "legacy": "Sarah is the only woman in the Old Testament whose age at death is recorded. She is honored as a matriarch by Jews, Christians and Muslims (in Islam as Sara), and her tomb in the Cave of the Patriarchs at Hebron remains a pilgrimage site.",
+  "traditions": [
+   {
+    "text": "Sarah is identified with Iscah, daughter of Haran (Gen 11:29), making her Abraham's niece; this reading is in tension with Gen 20:12.",
+    "source": "b. Megillah 14a; Josephus, Jewish Antiquities 1.151",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Sarah died from shock on hearing of the near-sacrifice of Isaac.",
+    "source": "Genesis Rabbah 58:5; Pirkei de-Rabbi Eliezer 32",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Strong-willed and wry, with a sharp sense of humor that has known bitterness; protective and outspoken about her household.",
+  "refs": [
+   "Gen 11:29-31",
+   "Gen 12:5-20",
+   "Gen 16:1-8",
+   "Gen 17:15-21",
+   "Gen 18:6-15",
+   "Gen 20:1-18",
+   "Gen 21:1-12",
+   "Gen 23:1-20",
+   "Gen 24:36",
+   "Gen 25:10",
+   "Isa 51:2",
+   "Rom 4:19",
+   "Rom 9:9",
+   "Gal 4:21-31",
+   "Heb 11:11",
+   "1 Pet 3:5-6"
+  ],
+  "books": [
+   "Gen",
+   "Isa",
+   "Rom",
+   "Gal",
+   "Heb",
+   "1 Pet"
+  ]
+ },
+ {
+  "id": "hagar",
+  "names": {
+   "primary": "Hagar",
+   "original": "הָגָר (hāgār)",
+   "meaning": "uncertain; possibly related to \"flight\" or \"stranger\"",
+   "aliases": [
+    "Agar"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "nation": "Egyptian",
+  "placeIds": [
+   "egypt",
+   "negev",
+   "beersheba"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "abraham"
+   ],
+   "children": [
+    "ishmael"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "Egyptian servant of Sarai",
+   "secondary wife of Abram",
+   "mother of Ishmael"
+  ],
+  "occupations": [
+   "household servant (slave)"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Receives divine encounters and promises; names God",
+    "refs": [
+     "Gen 16:7-13",
+     "Gen 21:17-19"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Given to Abram as a surrogate",
+    "refs": [
+     "Gen 16:1-4"
+    ],
+    "summary": "Sarai gives her Egyptian servant to Abram; Hagar conceives and looks on her mistress with contempt."
+   },
+   {
+    "title": "Flees and meets the angel of the LORD",
+    "placeId": "negev",
+    "refs": [
+     "Gen 16:6-14"
+    ],
+    "summary": "Mistreated by Sarai, she flees toward Shur; the angel of the LORD sends her back with a promise of countless offspring, and she names God \"the God who sees me.\""
+   },
+   {
+    "title": "Bears Ishmael",
+    "refs": [
+     "Gen 16:15-16"
+    ],
+    "summary": "Hagar bears Abram a son when he is eighty-six."
+   },
+   {
+    "title": "Sent away into the wilderness",
+    "placeId": "beersheba",
+    "refs": [
+     "Gen 21:9-21"
+    ],
+    "summary": "Expelled with bread and water, she wanders near Beersheba; when the water runs out God hears the boy, shows her a well, and promises he will become a great nation."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "egypt",
+    "order": 1,
+    "note": "Egyptian by origin; possibly acquired during Abram's stay in Egypt.",
+    "refs": [
+     "Gen 16:1",
+     "Gen 12:16"
+    ]
+   },
+   {
+    "placeId": "negev",
+    "order": 2,
+    "note": "Flees on the road to Shur; spring later called Beer-lahai-roi.",
+    "refs": [
+     "Gen 16:7",
+     "Gen 16:14"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 3,
+    "note": "Wanders in the wilderness of Beersheba after expulsion; later lives in the wilderness of Paran.",
+    "refs": [
+     "Gen 21:14",
+     "Gen 21:21"
+    ]
+   }
+  ],
+  "summary": "Hagar was Sarai's Egyptian servant, given to Abram to bear a child when Sarai remained barren. Her pregnancy led to conflict, and she fled into the wilderness, where she became the first person in the Bible visited by the angel of the LORD and the only one to give God a name: El-roi, \"the God who sees me.\" She bore Ishmael, was later sent away with him at Sarah's demand, and was again rescued by God, who opened her eyes to a well and promised her son a great future. Paul uses her as an allegory of the covenant of slavery (Gal 4:24-25), while many modern readers see in her an image of God's care for the vulnerable and the outsider.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Some midrash makes Hagar a daughter of Pharaoh and identifies her with Keturah, whom Abraham later married (Genesis Rabbah 61:4)."
+   },
+   {
+    "tradition": "Christian (Pauline)",
+    "view": "In Gal 4 Hagar represents Sinai and the present Jerusalem in slavery, contrasted with Sarah as the free covenant of promise; Paul presents this explicitly as allegory."
+   },
+   {
+    "tradition": "Islamic",
+    "view": "Hajar is honored as the mother of Ishmael; her running between the hills of Safa and Marwa in search of water is reenacted in the Hajj, a tradition not found in Genesis."
+   },
+   {
+    "tradition": "Womanist",
+    "view": "Delores Williams's *Sisters in the Wilderness* (1993) reads Hagar as a paradigm of Black women's survival under exploitation and of God's provision in the wilderness."
+   }
+  ],
+  "voice": "Guarded and proud, with the resilience of someone who has survived alone; speaks of being seen by God with fierce gratitude.",
+  "refs": [
+   "Gen 16:1-16",
+   "Gen 21:9-21",
+   "Gen 25:12",
+   "Gal 4:21-31"
+  ],
+  "books": [
+   "Gen",
+   "Gal"
+  ]
+ },
+ {
+  "id": "ishmael",
+  "names": {
+   "primary": "Ishmael",
+   "original": "יִשְׁמָעֵאל (yišmāʿēʾl)",
+   "meaning": "\"God hears\"",
+   "aliases": [
+    "Ismail (Arabic)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2080,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1910
+    }
+   ]
+  },
+  "placeIds": [
+   "negev",
+   "beersheba",
+   "hebron"
+  ],
+  "family": {
+   "parents": [
+    "abraham",
+    "hagar"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "isaac"
+   ]
+  },
+  "roles": [
+   "firstborn son of Abraham",
+   "ancestor of twelve tribal princes"
+  ],
+  "occupations": [
+   "archer and wilderness dweller"
+  ],
+  "skills": [
+   {
+    "name": "Archery",
+    "refs": [
+     "Gen 21:20"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Recipient of God's promise of a great nation",
+    "refs": [
+     "Gen 17:20",
+     "Gen 21:18"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Named by God before birth",
+    "refs": [
+     "Gen 16:11-12"
+    ],
+    "summary": "The angel tells Hagar to name her son Ishmael because the LORD has heard her affliction."
+   },
+   {
+    "title": "Circumcised at thirteen",
+    "refs": [
+     "Gen 17:23-26"
+    ],
+    "summary": "Ishmael is circumcised with Abraham, and God promises to bless him and make him fruitful, father of twelve princes."
+   },
+   {
+    "title": "Sent away; saved by God",
+    "placeId": "beersheba",
+    "refs": [
+     "Gen 21:9-21"
+    ],
+    "summary": "After Isaac's weaning he is expelled with Hagar; God hears the boy's voice and provides water; he grows up in the wilderness of Paran and becomes an archer."
+   },
+   {
+    "title": "Buries Abraham with Isaac",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 25:9"
+    ],
+    "summary": "Ishmael and Isaac together bury their father in the cave of Machpelah."
+   },
+   {
+    "title": "Dies at 137",
+    "refs": [
+     "Gen 25:12-18"
+    ],
+    "summary": "His twelve sons are listed as tribal princes; he dies at 137."
+   }
+  ],
+  "summary": "Ishmael was Abraham's firstborn son, born to Hagar. Though Isaac was chosen as the son through whom the covenant would pass, God also blessed Ishmael, promising he would father twelve princes and a great nation. Sent away as a youth, he survived in the wilderness through God's intervention and became an archer. He returned to bury Abraham alongside Isaac. His descendants are associated with the peoples of northern Arabia, and Esau married his daughter.",
+  "interpretations": [
+   {
+    "tradition": "Jewish and Christian",
+    "view": "Ishmael is the son outside the covenant line yet within God's blessing; Paul contrasts him as the son born \"according to the flesh\" with Isaac born through promise (Gal 4:23)."
+   },
+   {
+    "tradition": "Islamic",
+    "view": "Ismail is a prophet who helped Abraham build the Kaaba, and many Muslim interpreters identify him as the son Abraham was asked to sacrifice; he is regarded as an ancestor of Muhammad."
+   }
+  ],
+  "voice": "Independent and blunt, at home in open country; carries old hurts but honors his father.",
+  "refs": [
+   "Gen 16:11-16",
+   "Gen 17:18-26",
+   "Gen 21:9-21",
+   "Gen 25:9",
+   "Gen 25:12-18",
+   "Gen 28:9",
+   "1 Chr 1:28-31",
+   "Gal 4:22-30"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr",
+   "Gal"
+  ]
+ },
+ {
+  "id": "lot",
+  "names": {
+   "primary": "Lot",
+   "original": "לוֹט (lôṭ)",
+   "meaning": "possibly \"covering\"",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "placeIds": [
+   "ur",
+   "haran",
+   "egypt",
+   "bethel",
+   "sodom"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "nephew of Abraham",
+   "resident of Sodom",
+   "ancestor of Moab and Ammon"
+  ],
+  "occupations": [
+   "herdsman"
+  ],
+  "skills": [
+   {
+    "name": "Hospitality to strangers",
+    "refs": [
+     "Gen 19:1-3"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Travels with Abram",
+    "placeId": "haran",
+    "refs": [
+     "Gen 11:31",
+     "Gen 12:4-5"
+    ],
+    "summary": "Lot, son of Abram's dead brother Haran, goes with Terah and then Abram to Canaan."
+   },
+   {
+    "title": "Chooses the Jordan plain",
+    "placeId": "bethel",
+    "refs": [
+     "Gen 13:5-13"
+    ],
+    "summary": "When their herdsmen quarrel, Lot chooses the well-watered plain and pitches his tent toward Sodom."
+   },
+   {
+    "title": "Captured and rescued",
+    "placeId": "sodom",
+    "refs": [
+     "Gen 14:12-16"
+    ],
+    "summary": "Taken captive by the eastern kings, he is rescued by Abram."
+   },
+   {
+    "title": "Shelters the angels and escapes Sodom",
+    "placeId": "sodom",
+    "refs": [
+     "Gen 19:1-29"
+    ],
+    "summary": "Lot protects two visitors from the men of Sodom, even offering his daughters; the angels drag him and his family out before the city is destroyed, and his wife looks back and becomes a pillar of salt."
+   },
+   {
+    "title": "Fathers Moab and Ammon",
+    "refs": [
+     "Gen 19:30-38"
+    ],
+    "summary": "Living in a cave, his daughters make him drunk and conceive by him; their sons are the ancestors of Moab and Ammon."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "ur",
+    "order": 1,
+    "note": "Born to Abram's brother Haran.",
+    "refs": [
+     "Gen 11:27-28"
+    ]
+   },
+   {
+    "placeId": "haran",
+    "order": 2,
+    "note": "Travels with Terah.",
+    "refs": [
+     "Gen 11:31"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 3,
+    "note": "Goes up from Egypt with Abram.",
+    "refs": [
+     "Gen 13:1"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 4,
+    "note": "Separates from Abram near Bethel.",
+    "refs": [
+     "Gen 13:3-11"
+    ]
+   },
+   {
+    "placeId": "sodom",
+    "order": 5,
+    "note": "Settles in Sodom; flees to Zoar and the hills at its destruction.",
+    "refs": [
+     "Gen 13:12",
+     "Gen 19:30"
+    ]
+   }
+  ],
+  "summary": "Lot, Abraham's nephew, accompanied him from Ur to Canaan and grew wealthy alongside him. When they parted he chose the fertile Jordan plain and settled in Sodom. Abraham rescued him from captivity and later interceded for the city; angels brought Lot out before its destruction, but his wife looked back and was lost. The narrative ends darkly with his daughters' incest, from which Moab and Ammon descend. Yet 2 Peter calls him righteous and distressed by the lawlessness around him, and Jesus uses \"the days of Lot\" and Lot's wife as warnings.",
+  "textSays": "Genesis presents Lot's choices ambiguously; 2 Pet 2:7-8 calls him a righteous man tormented by what he saw.",
+  "voice": "Hesitant and anxious, eager to please and slow to leave; speaks with the uneasy politeness of a man caught between two worlds.",
+  "refs": [
+   "Gen 11:27-31",
+   "Gen 12:4-5",
+   "Gen 13:1-13",
+   "Gen 14:12-16",
+   "Gen 19:1-38",
+   "Deut 2:9",
+   "Luke 17:28-32",
+   "2 Pet 2:6-8"
+  ],
+  "books": [
+   "Gen",
+   "Deut",
+   "Luke",
+   "2 Pet"
+  ]
+ },
+ {
+  "id": "melchizedek",
+  "names": {
+   "primary": "Melchizedek",
+   "original": "מַלְכִּי־צֶדֶק (malkî-ṣedeq)",
+   "meaning": "\"king of righteousness\" (or \"my king is Zedek\")",
+   "aliases": [
+    "Melchisedec",
+    "king of Salem",
+    "king of peace"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "placeIds": [
+   "salem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "king of Salem",
+   "priest of God Most High"
+  ],
+  "occupations": [
+   "king",
+   "priest"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Priestly blessing",
+    "refs": [
+     "Gen 14:19-20"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Blesses Abram",
+    "placeId": "salem",
+    "refs": [
+     "Gen 14:18-20"
+    ],
+    "summary": "Melchizedek brings out bread and wine, blesses Abram by God Most High, and receives a tenth of everything."
+   },
+   {
+    "title": "Named in the royal psalm",
+    "refs": [
+     "Ps 110:4"
+    ],
+    "summary": "The LORD swears to the king, \"You are a priest forever after the order of Melchizedek.\""
+   },
+   {
+    "title": "Type of Christ's priesthood",
+    "refs": [
+     "Heb 7:1-17"
+    ],
+    "summary": "Hebrews argues that Jesus is a priest of Melchizedek's order, superior to the Levitical priesthood."
+   }
+  ],
+  "summary": "Melchizedek appears suddenly in Genesis 14 as king of Salem and priest of God Most High, blessing Abram after his victory and receiving a tenth of the spoils. He is mentioned again in Psalm 110, where Israel's king is declared a priest forever after his order. Hebrews builds on both texts, noting that he appears without recorded genealogy, birth or death, and presents him as a figure resembling the Son of God whose priesthood surpasses Aaron's.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition identifies him with Shem (b. Nedarim 32b). Salem is identified with Jerusalem (Ps 76:2)."
+   },
+   {
+    "tradition": "Christian (mainstream)",
+    "view": "A historical priest-king whose story serves as a type of Christ; his bread and wine are read in Catholic tradition as prefiguring the Eucharist."
+   },
+   {
+    "tradition": "Christian (minority)",
+    "view": "Some interpreters, ancient and modern, have taken him as a preincarnate appearance of Christ, based on Heb 7:3; most commentators read that verse as describing the silence of the Genesis record."
+   },
+   {
+    "tradition": "Second Temple Judaism (Qumran)",
+    "view": "The Qumran text 11QMelchizedek presents him as a heavenly deliverer who executes judgment at the end of days."
+   }
+  ],
+  "voice": "Majestic and serene; speaks in formal blessing and few words, with the authority of a priest.",
+  "refs": [
+   "Gen 14:18-20",
+   "Ps 110:4",
+   "Heb 5:6-10",
+   "Heb 6:20",
+   "Heb 7:1-17"
+  ],
+  "books": [
+   "Gen",
+   "Ps",
+   "Heb"
+  ]
+ },
+ {
+  "id": "isaac",
+  "names": {
+   "primary": "Isaac",
+   "original": "יִצְחָק (yiṣḥāq)",
+   "meaning": "\"he laughs\" or \"may he laugh\"",
+   "aliases": [
+    "Yitzhak",
+    "Ishaq (Arabic)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2066,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1896
+    },
+    {
+     "label": "Middle Bronze Age II setting (approx.)",
+     "year": -1700
+    }
+   ]
+  },
+  "died": {
+   "year": -1886,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1716
+    }
+   ]
+  },
+  "nation": "Hebrew",
+  "placeIds": [
+   "beersheba",
+   "moriah",
+   "negev",
+   "gerar",
+   "hebron",
+   "mamre"
+  ],
+  "family": {
+   "parents": [
+    "abraham",
+    "sarah"
+   ],
+   "spouses": [
+    "rebekah"
+   ],
+   "children": [
+    "esau",
+    "jacob"
+   ],
+   "siblings": [
+    "ishmael"
+   ]
+  },
+  "roles": [
+   "patriarch",
+   "son of the promise",
+   "heir of the Abrahamic covenant"
+  ],
+  "occupations": [
+   "herdsman",
+   "farmer"
+  ],
+  "skills": [
+   {
+    "name": "Farming with great yield",
+    "refs": [
+     "Gen 26:12"
+    ]
+   },
+   {
+    "name": "Digging and reopening wells",
+    "refs": [
+     "Gen 26:18-22"
+    ]
+   },
+   {
+    "name": "Peacemaking with neighbors",
+    "refs": [
+     "Gen 26:26-31"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prayer (for his barren wife)",
+    "refs": [
+     "Gen 25:21"
+    ]
+   },
+   {
+    "name": "Prophetic blessing of his sons",
+    "refs": [
+     "Gen 27:27-29",
+     "Heb 11:20"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Born to Abraham and Sarah",
+    "refs": [
+     "Gen 21:1-7"
+    ],
+    "summary": "Isaac is born when Abraham is 100 and Sarah 90, circumcised on the eighth day, and named for laughter."
+   },
+   {
+    "title": "Weaned; Ishmael sent away",
+    "refs": [
+     "Gen 21:8-12"
+    ],
+    "summary": "At his weaning feast conflict with Ishmael leads to Hagar and Ishmael's expulsion; God declares offspring will be named through Isaac."
+   },
+   {
+    "title": "Bound on Moriah",
+    "placeId": "moriah",
+    "refs": [
+     "Gen 22:1-14"
+    ],
+    "summary": "Isaac carries the wood, asks where the lamb is, and is bound on the altar before the angel stops Abraham and a ram is substituted."
+   },
+   {
+    "title": "Marries Rebekah",
+    "placeId": "negev",
+    "refs": [
+     "Gen 24:62-67"
+    ],
+    "summary": "Meditating in the field near Beer-lahai-roi, he meets Rebekah, brought from Abraham's kin; he loves her and is comforted after his mother's death."
+   },
+   {
+    "title": "Prays for Rebekah; twins born",
+    "refs": [
+     "Gen 25:19-26"
+    ],
+    "summary": "After twenty years of barrenness Isaac prays and Rebekah bears Esau and Jacob."
+   },
+   {
+    "title": "Covenant confirmed; wife-sister episode at Gerar",
+    "placeId": "gerar",
+    "refs": [
+     "Gen 26:1-11"
+    ],
+    "summary": "In famine God tells him not to go to Egypt and confirms Abraham's promises; at Gerar he passes Rebekah off as his sister until Abimelech discovers the truth."
+   },
+   {
+    "title": "Wells and treaty",
+    "placeId": "beersheba",
+    "refs": [
+     "Gen 26:17-33"
+    ],
+    "summary": "Isaac reopens Abraham's wells, moves on rather than fight, and makes peace with Abimelech at Beersheba."
+   },
+   {
+    "title": "Deceived into blessing Jacob",
+    "refs": [
+     "Gen 27:1-40"
+    ],
+    "summary": "Old and blind, he intends to bless Esau but is tricked by Rebekah and Jacob; he trembles violently and confirms the blessing."
+   },
+   {
+    "title": "Sends Jacob to Paddan-aram",
+    "refs": [
+     "Gen 28:1-5"
+    ],
+    "summary": "Isaac blesses Jacob again with Abraham's blessing and sends him to find a wife among Rebekah's kin."
+   },
+   {
+    "title": "Dies at Mamre",
+    "placeId": "mamre",
+    "refs": [
+     "Gen 35:27-29"
+    ],
+    "summary": "Isaac dies at 180 and is buried by Esau and Jacob."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "beersheba",
+    "order": 1,
+    "note": "Grows up in the Beersheba region.",
+    "refs": [
+     "Gen 21:31-34"
+    ]
+   },
+   {
+    "placeId": "moriah",
+    "order": 2,
+    "note": "Bound on the mountain in the land of Moriah.",
+    "refs": [
+     "Gen 22:2"
+    ]
+   },
+   {
+    "placeId": "negev",
+    "order": 3,
+    "note": "Lives near Beer-lahai-roi in the Negev.",
+    "refs": [
+     "Gen 24:62",
+     "Gen 25:11"
+    ]
+   },
+   {
+    "placeId": "gerar",
+    "order": 4,
+    "note": "Sojourns in Philistine Gerar during famine.",
+    "refs": [
+     "Gen 26:1-6"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 5,
+    "note": "God appears to him; altar and treaty.",
+    "refs": [
+     "Gen 26:23-33"
+    ]
+   },
+   {
+    "placeId": "mamre",
+    "order": 6,
+    "note": "Dies at Mamre near Hebron.",
+    "refs": [
+     "Gen 35:27"
+    ]
+   }
+  ],
+  "summary": "Isaac is the son of the promise, born to Abraham and Sarah in their old age after a quarter-century of waiting. His name, \"he laughs,\" echoes both his parents' disbelieving laughter and Sarah's joy at his birth. He is the bridge between Abraham and Jacob: the covenant passes through him, God reaffirms Abraham's promises to him in the same words, and he is remembered in the formula \"the God of Abraham, Isaac and Jacob.\"\n\nIsaac is the quietest of the patriarchs. His defining early moment is passive: he is bound on Moriah as his father obeys God's command. As an adult he is shown praying for his barren wife, meditating in the field, farming successfully, and repeatedly yielding disputed wells rather than fighting for them. He also repeats his father's failure, calling Rebekah his sister to protect himself at Gerar.\n\nIn old age, blind and partial to Esau, Isaac is deceived by Rebekah and Jacob into giving the firstborn's blessing to Jacob. When the truth emerges he does not revoke it, recognizing that the blessing stands. Hebrews counts this blessing of Jacob and Esau as an act of faith concerning things to come (Heb 11:20).",
+  "textSays": "Isaac is born as promised (Gen 21:1-3), bound on Moriah (Gen 22:9), marries Rebekah at forty (Gen 25:20), prays for her and fathers twins at sixty (Gen 25:21-26), loves Esau for his game (Gen 25:28), receives God's renewed promise (Gen 26:2-5, Gen 26:24), calls Rebekah his sister (Gen 26:7), prospers and makes peace over wells (Gen 26:12-33), blesses Jacob in place of Esau (Gen 27), and dies at 180 (Gen 35:28-29). Paul treats him as the child of promise (Rom 9:7-10, Gal 4:28), and Hebrews says Abraham reasoned God could raise Isaac from the dead (Heb 11:17-19).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Akedah (binding) is central to Jewish theology of merit and martyrdom; some midrashim stress that Isaac was an adult who consented (Genesis Rabbah 56:8), and medieval liturgy recalls the \"ashes of Isaac\" as an appeal for mercy. Isaac is associated with the afternoon prayer (Minchah), from his meditating in the field (b. Berakhot 26b)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Isaac carrying the wood up the mountain is a type of Christ carrying the cross, and the ram caught in the thicket a type of the substitutionary sacrifice (Melito of Sardis, *Peri Pascha* 69; Tertullian, *Against the Jews* 10)."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Isaac exemplifies the grace of election: he is the son of promise not of human effort (Rom 9:7-9), and his failures and passivity show that the covenant rests on God's faithfulness rather than the patriarchs' character."
+   },
+   {
+    "tradition": "Islamic",
+    "view": "Ishaq is honored as a prophet and the son of Abraham through Sarah; Muslim interpreters have differed on whether the son of the sacrifice was Isaac or Ishmael, with the majority later favoring Ishmael."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Submits at Moriah",
+    "Prays for his wife",
+    "Prefers peace to conflict over wells",
+    "Accepts God's choice of Jacob once revealed"
+   ],
+   "failures": [
+    "Lies about Rebekah at Gerar",
+    "Favoritism toward Esau driven by appetite"
+   ],
+   "turningPoints": [
+    "The binding on Moriah",
+    "Marriage to Rebekah",
+    "The stolen blessing"
+   ]
+  },
+  "context": "Wells were vital and contested in the semi-arid Negev; disputes over them, and treaties to settle them, fit the pastoral life of the region. A father's deathbed blessing was understood as binding and effective, which explains why Isaac could not simply retract the blessing given to Jacob.",
+  "legacy": "Isaac is the second patriarch of Israel, invoked in prayer and covenant formulas throughout Scripture (Exod 3:6, Matt 22:32). The binding of Isaac became one of the most interpreted texts in Jewish and Christian art and thought, from synagogue mosaics to Kierkegaard's *Fear and Trembling*.",
+  "traditions": [
+   {
+    "text": "Isaac was thirty-seven at the binding, since the episode was linked with Sarah's death at 127.",
+    "source": "Genesis Rabbah 56:8; Seder Olam Rabbah 1",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Gentle, reflective and slow to speak; prefers to yield rather than quarrel, and speaks of his father's God with quiet awe.",
+  "refs": [
+   "Gen 17:19-21",
+   "Gen 21:1-12",
+   "Gen 22:1-19",
+   "Gen 24:62-67",
+   "Gen 25:5-11",
+   "Gen 25:19-28",
+   "Gen 26",
+   "Gen 27",
+   "Gen 28:1-5",
+   "Gen 35:27-29",
+   "Exod 3:6",
+   "Matt 22:32",
+   "Rom 9:7-10",
+   "Gal 4:28",
+   "Heb 11:9",
+   "Heb 11:17-20",
+   "Jas 2:21"
+  ],
+  "books": [
+   "Gen",
+   "Exod",
+   "Matt",
+   "Rom",
+   "Gal",
+   "Heb",
+   "Jas"
+  ]
+ },
+ {
+  "id": "rebekah",
+  "names": {
+   "primary": "Rebekah",
+   "original": "רִבְקָה (ribqâ)",
+   "meaning": "possibly \"cord\" or \"noose\" (\"one who binds\"); also linked to a word for a tethered heifer",
+   "aliases": [
+    "Rebecca",
+    "Rivka"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2046,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Ussher chronology (approx.)",
+     "year": -1876
+    }
+   ]
+  },
+  "nation": "Aramean (of Abraham's kin in Paddan-aram)",
+  "placeIds": [
+   "haran",
+   "paddan-aram",
+   "negev",
+   "gerar",
+   "beersheba",
+   "hebron"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "isaac"
+   ],
+   "children": [
+    "esau",
+    "jacob"
+   ],
+   "siblings": [
+    "laban"
+   ]
+  },
+  "roles": [
+   "matriarch",
+   "wife of Isaac",
+   "mother of Esau and Jacob"
+  ],
+  "occupations": [
+   "shepherdess and water-drawer in her youth",
+   "matriarch of a pastoral household"
+  ],
+  "skills": [
+   {
+    "name": "Strenuous, generous hospitality (watering ten camels)",
+    "refs": [
+     "Gen 24:18-20"
+    ]
+   },
+   {
+    "name": "Cooking and planning (preparing the meal for the blessing)",
+    "refs": [
+     "Gen 27:8-17"
+    ]
+   },
+   {
+    "name": "Strategic initiative",
+    "refs": [
+     "Gen 27:42-46"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Seeks and receives a direct oracle from the LORD",
+    "refs": [
+     "Gen 25:22-23"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Waters the servant's camels",
+    "placeId": "haran",
+    "refs": [
+     "Gen 24:10-27"
+    ],
+    "summary": "At the well of Nahor's city she offers water to Abraham's servant and his camels, answering the sign he had prayed for."
+   },
+   {
+    "title": "Consents to go: \"I will go\"",
+    "placeId": "haran",
+    "refs": [
+     "Gen 24:50-61"
+    ],
+    "summary": "When her family asks if she will leave at once with a stranger to marry Isaac, she answers \"I will go\" and receives her family's blessing."
+   },
+   {
+    "title": "Meets and marries Isaac",
+    "placeId": "negev",
+    "refs": [
+     "Gen 24:62-67"
+    ],
+    "summary": "She veils herself on seeing Isaac in the field; he takes her as his wife and loves her."
+   },
+   {
+    "title": "Inquires of the LORD about the struggling twins",
+    "refs": [
+     "Gen 25:21-23"
+    ],
+    "summary": "After Isaac prays for her barrenness she conceives twins who struggle within her; she asks the LORD and is told the older will serve the younger."
+   },
+   {
+    "title": "Gives birth to Esau and Jacob",
+    "refs": [
+     "Gen 25:24-28"
+    ],
+    "summary": "Esau is born first with Jacob grasping his heel; Rebekah loves Jacob while Isaac loves Esau."
+   },
+   {
+    "title": "Endangered at Gerar",
+    "placeId": "gerar",
+    "refs": [
+     "Gen 26:6-11"
+    ],
+    "summary": "Isaac claims she is his sister; Abimelech discovers they are married and protects her."
+   },
+   {
+    "title": "Grieved by Esau's Hittite wives",
+    "refs": [
+     "Gen 26:34-35"
+    ],
+    "summary": "Esau's marriages to Hittite women make life bitter for Isaac and Rebekah."
+   },
+   {
+    "title": "Engineers Jacob's blessing",
+    "refs": [
+     "Gen 27:5-17"
+    ],
+    "summary": "Overhearing Isaac's plan to bless Esau, she prepares the meal and disguises Jacob, taking any curse on herself."
+   },
+   {
+    "title": "Sends Jacob away to Laban",
+    "refs": [
+     "Gen 27:42-28:5"
+    ],
+    "summary": "Learning that Esau plans to kill Jacob, she persuades Isaac to send him to her brother Laban to find a wife; she never appears again in the narrative."
+   },
+   {
+    "title": "Death of her nurse; burial at Machpelah",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 35:8",
+     "Gen 49:31"
+    ],
+    "summary": "Her nurse Deborah's death is noted at Bethel; Jacob later says Rebekah was buried in the cave of Machpelah."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "haran",
+    "order": 1,
+    "note": "Lives in the city of Nahor in Aram-naharaim (Paddan-aram), where she meets Abraham's servant.",
+    "refs": [
+     "Gen 24:10",
+     "Gen 25:20"
+    ]
+   },
+   {
+    "placeId": "negev",
+    "order": 2,
+    "note": "Travels by camel to Canaan and meets Isaac near Beer-lahai-roi.",
+    "refs": [
+     "Gen 24:61-62"
+    ]
+   },
+   {
+    "placeId": "gerar",
+    "order": 3,
+    "note": "Sojourns at Gerar during famine.",
+    "refs": [
+     "Gen 26:6"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 4,
+    "note": "Household settled at Beersheba when Jacob is sent away.",
+    "refs": [
+     "Gen 26:23",
+     "Gen 28:10"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 5,
+    "note": "Buried in the cave of Machpelah.",
+    "refs": [
+     "Gen 49:31"
+    ]
+   }
+  ],
+  "summary": "Rebekah, granddaughter of Abraham's brother Nahor, enters Genesis at a well, where her energetic kindness to a stranger and his ten thirsty camels marks her as the answer to his prayer for Isaac's bride. Asked whether she will leave her family at once, she says simply, \"I will go,\" echoing Abraham's own departure. She becomes Isaac's beloved wife and the second matriarch.\n\nLike Sarah she is barren until Isaac prays, and when the twins struggle within her she takes the unusual step of inquiring of the LORD herself. The oracle that the older will serve the younger shapes the rest of her story. She loves Jacob, and when the aging Isaac prepares to bless Esau, she devises the deception that secures the blessing for Jacob, even saying the curse may fall on her.\n\nThe cost is high. Esau vows to kill his brother, and Rebekah sends Jacob away for what she thinks will be \"a few days\"; the text never records her seeing him again. Readers debate whether she acted in faith to fulfill God's word or in manipulation that God overruled, and the text itself passes no explicit verdict.",
+  "textSays": "Rebekah is the daughter of Bethuel, Nahor's son, and sister of Laban (Gen 24:15, Gen 24:29). She waters the camels (Gen 24:18-20), agrees to go (Gen 24:58), marries Isaac (Gen 24:67), inquires of the LORD and receives the oracle (Gen 25:22-23), loves Jacob (Gen 25:28), plans the deception (Gen 27:5-17), and sends Jacob away (Gen 27:42-45). Her burial at Machpelah is mentioned in Gen 49:31. Paul cites the oracle given to her as an example of God's purpose of election not depending on works (Rom 9:10-13).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition generally portrays Rebekah positively, as a righteous woman who grew up among deceivers yet remained good, and as acting on prophetic knowledge when securing the blessing for Jacob (Genesis Rabbah 63:4, 67:9). Targum Onkelos renders her concern about the curse as a prophetic assurance."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Patristic writers often read her actions as cooperating with divine providence and as a type of the Church (or of Mary) who prefers the younger people, the Gentiles; some, like Augustine, describe the deception as a mystery rather than a lie (*Against Lying* 10.24)."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Many Reformation and evangelical interpreters see faith in the oracle mixed with sinful means: God's purpose stood, but the deception brought family rupture and Rebekah's separation from Jacob. Calvin commends her faith while faulting her method."
+   },
+   {
+    "tradition": "Literary and feminist readings",
+    "view": "Some scholars highlight Rebekah as the most active of the matriarchs, who receives the oracle directly and drives the plot, and note that Genesis gives her more initiative than Isaac in nearly every scene."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Generous and energetic hospitality",
+    "Decisive faith in leaving her family",
+    "Seeks God directly in distress",
+    "Takes the oracle seriously"
+   ],
+   "failures": [
+    "Favoritism toward Jacob",
+    "Deceives her husband and uses her son in the deception"
+   ],
+   "turningPoints": [
+    "The well at Nahor",
+    "The oracle about the twins",
+    "The stolen blessing and Jacob's departure"
+   ]
+  },
+  "context": "Marrying within the extended family was a common way to preserve clan identity and property in the ancient Near East. The brother's prominent role in arranging Rebekah's marriage (Gen 24:29-55) fits patterns attested in ancient societies. Gifts of jewelry and the bride-price given to her family were standard features of betrothal.",
+  "legacy": "Rebekah is honored as one of the four matriarchs in Judaism and named in traditional Jewish blessings for daughters. Her question to God and the oracle she received became a key text in debates about election (Rom 9). The phrase \"I will go\" is often used in sermons on faith and calling.",
+  "traditions": [
+   {
+    "text": "Rebekah was three years old when she met Abraham's servant, according to a calculation linking her birth to the binding of Isaac.",
+    "source": "Seder Olam Rabbah 1; Rashi on Gen 25:20",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Quick, resourceful and decisive; speaks briskly and practically, with a mother's fierce protectiveness and a conviction that she knows what God has said.",
+  "refs": [
+   "Gen 22:23",
+   "Gen 24:15-67",
+   "Gen 25:20-28",
+   "Gen 26:6-11",
+   "Gen 26:35",
+   "Gen 27:5-46",
+   "Gen 28:5",
+   "Gen 35:8",
+   "Gen 49:31",
+   "Rom 9:10-13"
+  ],
+  "books": [
+   "Gen",
+   "Rom"
+  ]
+ },
+ {
+  "id": "laban",
+  "names": {
+   "primary": "Laban",
+   "original": "לָבָן (lāvān)",
+   "meaning": "\"white\"",
+   "aliases": [
+    "Laban the Aramean"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "nation": "Aramean",
+  "placeIds": [
+   "haran",
+   "paddan-aram"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "leah",
+    "rachel"
+   ],
+   "siblings": [
+    "rebekah"
+   ]
+  },
+  "roles": [
+   "brother of Rebekah",
+   "father of Leah and Rachel",
+   "Jacob's employer and father-in-law"
+  ],
+  "occupations": [
+   "sheep owner",
+   "clan head"
+  ],
+  "skills": [
+   {
+    "name": "Shrewd bargaining",
+    "refs": [
+     "Gen 29:15-27",
+     "Gen 31:7"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Welcomes Abraham's servant",
+    "placeId": "haran",
+    "refs": [
+     "Gen 24:29-33"
+    ],
+    "summary": "Seeing the gold jewelry on his sister, Laban hurries to welcome the servant and negotiates Rebekah's marriage."
+   },
+   {
+    "title": "Substitutes Leah for Rachel",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 29:15-30"
+    ],
+    "summary": "After Jacob serves seven years for Rachel, Laban gives him Leah on the wedding night and demands seven more years for Rachel."
+   },
+   {
+    "title": "Changes Jacob's wages",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 30:25-36",
+     "Gen 31:7"
+    ],
+    "summary": "Laban agrees to pay Jacob in speckled flocks but removes them and repeatedly alters the terms."
+   },
+   {
+    "title": "Pursues Jacob and makes a covenant",
+    "refs": [
+     "Gen 31:22-55"
+    ],
+    "summary": "Warned in a dream not to harm Jacob, Laban overtakes him in Gilead, searches for his stolen household gods, and makes a boundary covenant at a heap of stones."
+   }
+  ],
+  "summary": "Laban, Rebekah's brother in Haran, appears first as a host attentive to the gold of Abraham's servant and later as Jacob's uncle and employer. He tricked Jacob by substituting Leah for Rachel and changed his wages ten times, but God prospered Jacob despite him. When Jacob fled, Laban pursued him, was warned by God in a dream, and the two made a covenant of non-aggression at Gilead. The deceiver Jacob thus meets his match in Laban.",
+  "voice": "Smooth, hospitable and calculating; speaks warmly about family while keeping a close eye on profit.",
+  "refs": [
+   "Gen 24:29-60",
+   "Gen 27:43",
+   "Gen 28:2-5",
+   "Gen 29:5-30",
+   "Gen 30:25-43",
+   "Gen 31:1-55"
+  ],
+  "books": [
+   "Gen"
+  ]
+ },
+ {
+  "id": "esau",
+  "names": {
+   "primary": "Esau",
+   "original": "עֵשָׂו (ʿēśāw)",
+   "meaning": "possibly \"hairy\"; also called Edom, \"red\"",
+   "aliases": [
+    "Edom"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "born": {
+   "year": -2006,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1836
+    }
+   ]
+  },
+  "nation": "Edomite (ancestor)",
+  "placeIds": [
+   "beersheba",
+   "edom",
+   "hebron"
+  ],
+  "family": {
+   "parents": [
+    "isaac",
+    "rebekah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "jacob"
+   ]
+  },
+  "roles": [
+   "firstborn of Isaac",
+   "ancestor of the Edomites"
+  ],
+  "occupations": [
+   "hunter",
+   "man of the field"
+  ],
+  "skills": [
+   {
+    "name": "Hunting",
+    "refs": [
+     "Gen 25:27",
+     "Gen 27:3-5"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Born first, red and hairy",
+    "refs": [
+     "Gen 25:24-26"
+    ],
+    "summary": "Esau is born first with Jacob holding his heel."
+   },
+   {
+    "title": "Sells his birthright for stew",
+    "refs": [
+     "Gen 25:29-34"
+    ],
+    "summary": "Exhausted, he trades his birthright to Jacob for red stew; the text says he despised his birthright."
+   },
+   {
+    "title": "Loses the blessing",
+    "refs": [
+     "Gen 27:30-41"
+    ],
+    "summary": "Returning from the hunt he finds Jacob has taken the blessing; he weeps and vows to kill his brother."
+   },
+   {
+    "title": "Reconciles with Jacob",
+    "refs": [
+     "Gen 33:1-16"
+    ],
+    "summary": "Meeting Jacob after twenty years, Esau runs to embrace him and weeps, then returns to Seir."
+   },
+   {
+    "title": "Buries Isaac; settles in Seir",
+    "placeId": "edom",
+    "refs": [
+     "Gen 35:29",
+     "Gen 36:6-8"
+    ],
+    "summary": "With Jacob he buries their father, then moves to the hill country of Seir; his descendants become Edom."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "beersheba",
+    "order": 1,
+    "note": "Grows up in Isaac's household.",
+    "refs": [
+     "Gen 28:10"
+    ]
+   },
+   {
+    "placeId": "edom",
+    "order": 2,
+    "note": "Settles in Seir, the land of Edom.",
+    "refs": [
+     "Gen 32:3",
+     "Gen 36:8"
+    ]
+   }
+  ],
+  "summary": "Esau, Jacob's older twin, was a skilled hunter and his father's favorite. He sold his birthright for a meal and later lost his father's blessing through Jacob's deception, after which he planned revenge. Twenty years later he met Jacob with an embrace instead of an army, a scene that rivals any act of forgiveness in Genesis. He became the ancestor of Edom, Israel's neighbor and frequent rival. Hebrews uses him as a warning against treating holy things lightly (Heb 12:16-17), while Paul cites \"Jacob I loved, Esau I hated\" (Mal 1:2-3) in discussing election, a phrase interpreters read either as individual election or as a Hebrew idiom of preference concerning nations.",
+  "voice": "Hearty, impulsive and physical; quick to anger and quick to weep, with a big-hearted generosity once the storm passes.",
+  "refs": [
+   "Gen 25:25-34",
+   "Gen 26:34-35",
+   "Gen 27:1-45",
+   "Gen 28:6-9",
+   "Gen 32:3-21",
+   "Gen 33:1-16",
+   "Gen 35:29",
+   "Gen 36:1-43",
+   "Mal 1:2-3",
+   "Rom 9:13",
+   "Heb 11:20",
+   "Heb 12:16-17"
+  ],
+  "books": [
+   "Gen",
+   "Obad",
+   "Mal",
+   "Rom",
+   "Heb"
+  ]
+ },
+ {
+  "id": "jacob",
+  "names": {
+   "primary": "Jacob",
+   "original": "יַעֲקֹב (yaʿăqōv); renamed יִשְׂרָאֵל (yiśrāʾēl)",
+   "meaning": "Jacob: \"heel-grabber\" or \"supplanter\" (also possibly \"may God protect\"); Israel: explained as \"he strives with God\" (Gen 32:28)",
+   "aliases": [
+    "Israel",
+    "Jeshurun (poetic name for the nation)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs",
+   "egypt-exodus"
+  ],
+  "born": {
+   "year": -2006,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1836,
+     "source": "James Ussher, Annales Veteris Testamenti (1650)"
+    },
+    {
+     "label": "Middle Bronze Age II setting (approx.)",
+     "year": -1750
+    }
+   ]
+  },
+  "died": {
+   "year": -1859,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1689
+    },
+    {
+     "label": "Middle Bronze Age II setting (approx.)",
+     "year": -1600
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1929,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology (flight to Haran)",
+      "year": -1759
+     }
+    ]
+   },
+   {
+    "year": -1859,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology",
+      "year": -1689
+     }
+    ]
+   }
+  ],
+  "nation": "Hebrew; eponymous ancestor of Israel",
+  "placeIds": [
+   "beersheba",
+   "bethel",
+   "haran",
+   "paddan-aram",
+   "peniel",
+   "succoth",
+   "shechem",
+   "bethlehem",
+   "hebron",
+   "mamre",
+   "egypt",
+   "goshen"
+  ],
+  "family": {
+   "parents": [
+    "isaac",
+    "rebekah"
+   ],
+   "spouses": [
+    "leah",
+    "rachel"
+   ],
+   "children": [
+    "reuben",
+    "levi",
+    "judah",
+    "joseph-patriarch",
+    "benjamin"
+   ],
+   "siblings": [
+    "esau"
+   ]
+  },
+  "roles": [
+   "patriarch",
+   "father of the twelve tribes",
+   "namesake of the nation Israel"
+  ],
+  "occupations": [
+   "shepherd",
+   "herdsman and breeder"
+  ],
+  "skills": [
+   {
+    "name": "Skilled and tireless shepherding",
+    "refs": [
+     "Gen 30:29-30",
+     "Gen 31:38-40"
+    ]
+   },
+   {
+    "name": "Selective breeding of flocks",
+    "refs": [
+     "Gen 30:37-43"
+    ]
+   },
+   {
+    "name": "Cooking (the red stew)",
+    "refs": [
+     "Gen 25:29"
+    ]
+   },
+   {
+    "name": "Shrewd negotiation and diplomacy",
+    "refs": [
+     "Gen 25:31-33",
+     "Gen 32:3-20"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Visions and dreams of God",
+    "refs": [
+     "Gen 28:12-15",
+     "Gen 46:2-4"
+    ]
+   },
+   {
+    "name": "Persistent prayer and wrestling with God",
+    "refs": [
+     "Gen 32:9-12",
+     "Gen 32:24-29",
+     "Hos 12:3-4"
+    ]
+   },
+   {
+    "name": "Prophetic blessing of his sons and grandsons",
+    "refs": [
+     "Gen 48:14-20",
+     "Gen 49:1-28",
+     "Heb 11:21"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Born grasping Esau's heel; buys the birthright",
+    "refs": [
+     "Gen 25:21-26",
+     "Gen 25:29-34"
+    ],
+    "summary": "The younger twin, born holding his brother's heel, is named Jacob; later he trades red stew to a famished Esau for his birthright."
+   },
+   {
+    "title": "Steals the blessing",
+    "placeId": "beersheba",
+    "refs": [
+     "Gen 27:1-29"
+    ],
+    "summary": "Disguised as Esau at Rebekah's direction, Jacob deceives blind Isaac and receives the firstborn's blessing."
+   },
+   {
+    "title": "Dream of the ladder at Bethel",
+    "placeId": "bethel",
+    "refs": [
+     "Gen 28:10-22"
+    ],
+    "summary": "Fleeing Esau, he dreams of a stairway to heaven; God renews Abraham's promises to him, and Jacob vows that the LORD will be his God."
+   },
+   {
+    "title": "Marries Leah and Rachel; family and flocks grow",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 29:1-30",
+     "Gen 29:31-30:43"
+    ],
+    "summary": "Jacob serves seven years for Rachel, is tricked into marrying Leah, and serves seven more; eleven sons and a daughter are born, and he prospers through breeding the flocks."
+   },
+   {
+    "title": "Flees from Laban; covenant at Gilead",
+    "refs": [
+     "Gen 31:1-55"
+    ],
+    "summary": "At God's command Jacob leaves secretly; Laban pursues, and they set up a stone heap as a witness to their treaty."
+   },
+   {
+    "title": "Wrestles with God at Peniel",
+    "placeId": "peniel",
+    "refs": [
+     "Gen 32:22-32"
+    ],
+    "summary": "Alone at the Jabbok, Jacob wrestles a man until dawn, demands a blessing, is renamed Israel, and limps away saying he has seen God face to face."
+   },
+   {
+    "title": "Reconciles with Esau",
+    "refs": [
+     "Gen 33:1-17"
+    ],
+    "summary": "Jacob bows seven times; Esau runs to embrace him. Jacob then settles at Succoth."
+   },
+   {
+    "title": "Shechem and the violation of Dinah",
+    "placeId": "shechem",
+    "refs": [
+     "Gen 33:18-34:31"
+    ],
+    "summary": "After Dinah is raped by Shechem, Simeon and Levi massacre the city, and Jacob rebukes them for making him odious in the land."
+   },
+   {
+    "title": "Returns to Bethel; Rachel dies",
+    "placeId": "bethlehem",
+    "refs": [
+     "Gen 35:1-20"
+    ],
+    "summary": "Jacob purges foreign gods, builds an altar at Bethel where God confirms his name Israel, and Rachel dies giving birth to Benjamin on the way to Ephrath (Bethlehem)."
+   },
+   {
+    "title": "Loses Joseph",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 37:3-35"
+    ],
+    "summary": "Jacob favors Joseph with a special robe; his brothers sell Joseph and show Jacob the bloodied robe, and he mourns inconsolably."
+   },
+   {
+    "title": "Goes down to Egypt",
+    "placeId": "goshen",
+    "refs": [
+     "Gen 46:1-7",
+     "Gen 46:28-30",
+     "Gen 47:7-10"
+    ],
+    "summary": "Assured by God at Beersheba, Jacob moves with seventy household members to Egypt, is reunited with Joseph, and blesses Pharaoh."
+   },
+   {
+    "title": "Blesses his sons and dies",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 48:1-22",
+     "Gen 49:1-33",
+     "Gen 50:1-14"
+    ],
+    "summary": "Jacob adopts Ephraim and Manasseh, pronounces oracles over his twelve sons, and dies; he is embalmed and buried at Machpelah."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "beersheba",
+    "order": 1,
+    "note": "Leaves his father's home fleeing Esau.",
+    "refs": [
+     "Gen 28:10"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 2,
+    "note": "Dream of the stairway; sets up a pillar and renames Luz as Bethel.",
+    "refs": [
+     "Gen 28:11-19"
+    ]
+   },
+   {
+    "placeId": "haran",
+    "order": 3,
+    "note": "Arrives at the well near Haran and meets Rachel.",
+    "refs": [
+     "Gen 29:1-12"
+    ]
+   },
+   {
+    "placeId": "paddan-aram",
+    "order": 4,
+    "note": "Twenty years serving Laban.",
+    "refs": [
+     "Gen 31:38-41"
+    ]
+   },
+   {
+    "placeId": "peniel",
+    "order": 5,
+    "note": "Wrestles with God at the ford of the Jabbok; renamed Israel.",
+    "refs": [
+     "Gen 32:22-31"
+    ]
+   },
+   {
+    "placeId": "succoth",
+    "order": 6,
+    "note": "Builds a house and shelters for his livestock.",
+    "refs": [
+     "Gen 33:17"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 7,
+    "note": "Buys land and builds an altar to El-Elohe-Israel.",
+    "refs": [
+     "Gen 33:18-20"
+    ]
+   },
+   {
+    "placeId": "bethel",
+    "order": 8,
+    "note": "Returns to fulfill his vow; God confirms the name Israel.",
+    "refs": [
+     "Gen 35:1-15"
+    ]
+   },
+   {
+    "placeId": "bethlehem",
+    "order": 9,
+    "note": "Rachel dies near Ephrath and is buried by the road.",
+    "refs": [
+     "Gen 35:16-20"
+    ]
+   },
+   {
+    "placeId": "mamre",
+    "order": 10,
+    "note": "Comes to Isaac at Mamre (Hebron).",
+    "refs": [
+     "Gen 35:27"
+    ]
+   },
+   {
+    "placeId": "beersheba",
+    "order": 11,
+    "note": "Offers sacrifices; God says not to fear going to Egypt.",
+    "refs": [
+     "Gen 46:1-4"
+    ]
+   },
+   {
+    "placeId": "goshen",
+    "order": 12,
+    "note": "Settles in Goshen; reunited with Joseph.",
+    "refs": [
+     "Gen 46:28-34",
+     "Gen 47:27"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 13,
+    "note": "Body carried back and buried in the cave of Machpelah.",
+    "refs": [
+     "Gen 50:12-13"
+    ]
+   }
+  ],
+  "summary": "Jacob, the younger twin of Esau, is the patriarch whose new name, Israel, becomes the name of the nation descended from his twelve sons. His story is the longest and most turbulent of the patriarchal cycles. Born grasping his brother's heel, he lives up to his name: he bargains Esau out of his birthright, deceives his blind father to obtain the blessing, and flees for his life.\n\nGod meets him in his flight. At Bethel he dreams of a stairway joining earth and heaven and hears Abraham's promises renewed to him. In Haran the deceiver is deceived: his uncle Laban substitutes Leah for Rachel, and Jacob labors twenty years, emerging with four wives, eleven sons, a daughter and great flocks. Returning home in fear of Esau, he wrestles through the night with a mysterious figure at the Jabbok, receives the name Israel, and limps into a reconciliation with his brother that he did not expect.\n\nHis later years are marked by grief: the violation of Dinah and his sons' revenge, Rachel's death in childbirth, and the apparent death of Joseph, his favorite. The family's rescue through Joseph brings Jacob to Egypt, where he blesses Pharaoh, adopts Joseph's sons, and speaks the oracles over his sons that anticipate the tribes' futures, including a ruler from Judah. Hebrews remembers him blessing Joseph's sons in faith while leaning on his staff (Heb 11:21).",
+  "textSays": "Genesis narrates Jacob's birth and early rivalry (Gen 25:19-34), the stolen blessing (Gen 27), Bethel (Gen 28:10-22), his years with Laban (Gen 29-31), Peniel and reconciliation with Esau (Gen 32-33), Shechem and Bethel (Gen 34-35), his grief over Joseph (Gen 37:31-35), the descent to Egypt (Gen 46-47), and his final blessings and death (Gen 48-50). He calls his own days \"few and evil\" (Gen 47:9). Hosea recalls that he strove with God and wept and sought favor (Hos 12:3-4). Malachi and Paul cite \"Jacob I loved\" (Mal 1:2, Rom 9:13). Jesus mentions Jacob among the patriarchs at the kingdom feast (Matt 8:11) and the woman at Sychar speaks of Jacob's well (John 4:5-12). Stephen recounts his descent and burial (Acts 7:12-16).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Rabbinic tradition largely idealizes Jacob as the studious \"dweller in tents\" (Gen 25:27) and the most complete of the patriarchs, while Esau comes to symbolize Rome and its successors. The ladder is read as a vision of the rise and fall of empires (Leviticus Rabbah 29:2), and the wrestling figure as Esau's guardian angel (Genesis Rabbah 77:3). Jacob is associated with the evening prayer."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Jacob's ladder is a type of Christ, the mediator between heaven and earth (John 1:51), and of the Virgin Mary in Orthodox hymnography. Fathers such as Hilary and Theodoret read the wrestler as the pre-incarnate Word. The struggle at the Jabbok is an image of persevering prayer."
+   },
+   {
+    "tradition": "Reformed",
+    "view": "Jacob is a prime example of unconditional election: God chose him before birth apart from works (Rom 9:10-13), and his story shows divine grace persistently transforming a flawed man. Others in the Arminian tradition read Rom 9 here as about the roles of nations (Edom and Israel) in salvation history rather than individual eternal destiny."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars see the Jacob cycle as a combination of northern tribal traditions with sanctuary legends (Bethel, Peniel, Shechem) and see Jacob-Esau and Jacob-Laban stories as reflecting Israel's relations with Edom and the Arameans. Some argue the Jacob tradition was once an independent origin story of Israel, later linked with Abraham."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Persistent, hard-working and resilient",
+    "Values the birthright and blessing that Esau despised",
+    "Clings to God for blessing",
+    "Learns humility before Esau"
+   ],
+   "failures": [
+    "Exploits his brother's hunger",
+    "Deceives his father",
+    "Plays favorites with Rachel and Joseph, fueling family conflict",
+    "Passive in response to Dinah's violation"
+   ],
+   "turningPoints": [
+    "The dream at Bethel",
+    "Laban's deception",
+    "Wrestling at Peniel and renaming as Israel",
+    "Reunion with Joseph in Egypt"
+   ]
+  },
+  "context": "Herding contracts like Jacob's with Laban are known from Old Babylonian texts, which also mention the herdsman's liability for animals lost to predators (compare Gen 31:39). Household gods (teraphim) such as those Rachel took were associated with family protection and possibly inheritance. Many of the places in Jacob's story (Bethel, Shechem, Peniel) later became sanctuaries or political centers of the northern kingdom.",
+  "legacy": "Jacob gives his name to the people of Israel and his sons to its twelve tribes. Phrases like \"Jacob's ladder\" and \"wrestling with God\" have entered common speech. Jews, Christians and Muslims (as Yaqub) honor him as a patriarch.",
+  "traditions": [
+   {
+    "text": "Jacob spent fourteen years studying in the academy of Shem and Eber before going to Laban.",
+    "source": "b. Megillah 17a; Rashi on Gen 28:9",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Jacob's well near Sychar (Shechem), mentioned in John 4, is identified with a well now within an Orthodox church at Nablus.",
+    "source": "Bordeaux Pilgrim (AD 333); continuous local tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Calculating and articulate in youth, given to bargains and conditions; in old age weary, tender and prophetic, speaking of his life as a hard pilgrimage held together by God's faithfulness.",
+  "refs": [
+   "Gen 25:19-34",
+   "Gen 27",
+   "Gen 28",
+   "Gen 29",
+   "Gen 30",
+   "Gen 31",
+   "Gen 32",
+   "Gen 33",
+   "Gen 34",
+   "Gen 35",
+   "Gen 37:1-35",
+   "Gen 42:1-4",
+   "Gen 43:1-14",
+   "Gen 45:25-28",
+   "Gen 46",
+   "Gen 47:1-31",
+   "Gen 48",
+   "Gen 49",
+   "Gen 50:1-14",
+   "Hos 12:2-4",
+   "Mal 1:2-3",
+   "Matt 8:11",
+   "John 1:51",
+   "John 4:5-12",
+   "Acts 7:8-16",
+   "Rom 9:10-13",
+   "Heb 11:20-21"
+  ],
+  "books": [
+   "Gen",
+   "Exod",
+   "Hos",
+   "Mal",
+   "Matt",
+   "John",
+   "Acts",
+   "Rom",
+   "Heb"
+  ]
+ },
+ {
+  "id": "leah",
+  "names": {
+   "primary": "Leah",
+   "original": "לֵאָה (lēʾâ)",
+   "meaning": "possibly \"weary\" or \"wild cow\"",
+   "aliases": [
+    "Lia"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "OT",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "nation": "Aramean",
+  "placeIds": [
+   "paddan-aram",
+   "shechem",
+   "hebron"
+  ],
+  "family": {
+   "parents": [
+    "laban"
+   ],
+   "spouses": [
+    "jacob"
+   ],
+   "children": [
+    "reuben",
+    "levi",
+    "judah"
+   ],
+   "siblings": [
+    "rachel"
+   ]
+  },
+  "roles": [
+   "matriarch",
+   "first wife of Jacob",
+   "mother of six tribes"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Praise in the midst of rejection (naming Judah)",
+    "refs": [
+     "Gen 29:35"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Given to Jacob in Rachel's place",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 29:16-25"
+    ],
+    "summary": "Laban substitutes Leah, whose eyes were \"weak\" or \"tender,\" for Rachel on Jacob's wedding night."
+   },
+   {
+    "title": "Bears sons while unloved",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 29:31-35"
+    ],
+    "summary": "Seeing she is unloved, God opens her womb; she names Reuben, Simeon and Levi in hope of her husband's love and Judah in praise of the LORD."
+   },
+   {
+    "title": "Rivalry with Rachel; more children",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 30:9-21"
+    ],
+    "summary": "She gives her servant Zilpah to Jacob, trades mandrakes with Rachel, and bears Issachar, Zebulun and Dinah."
+   },
+   {
+    "title": "Buried at Machpelah",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 49:31"
+    ],
+    "summary": "Jacob says he buried Leah in the cave of Machpelah, where he asks to lie too."
+   }
+  ],
+  "summary": "Leah, Laban's older daughter, was married to Jacob through her father's trick and lived in her sister Rachel's shadow as the less-loved wife. Her children's names trace her longing for Jacob's love and, with Judah, a turn to praise. She bore six of the tribal ancestors, including Levi (the priestly line) and Judah (the royal and messianic line), and was buried beside Jacob at Machpelah. Ruth 4:11 remembers Rachel and Leah together as the two who built the house of Israel.",
+  "voice": "Quiet and patient, aching to be noticed, but learning to speak of God's attention with gratitude.",
+  "refs": [
+   "Gen 29:16-35",
+   "Gen 30:9-21",
+   "Gen 31:4-16",
+   "Gen 33:1-7",
+   "Gen 49:31",
+   "Ruth 4:11"
+  ],
+  "books": [
+   "Gen",
+   "Ruth"
+  ]
+ },
+ {
+  "id": "rachel",
+  "names": {
+   "primary": "Rachel",
+   "original": "רָחֵל (rāḥēl)",
+   "meaning": "\"ewe\"",
+   "aliases": [
+    "Rahel"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "nation": "Aramean",
+  "placeIds": [
+   "haran",
+   "paddan-aram",
+   "bethel",
+   "bethlehem"
+  ],
+  "family": {
+   "parents": [
+    "laban"
+   ],
+   "spouses": [
+    "jacob"
+   ],
+   "children": [
+    "joseph-patriarch",
+    "benjamin"
+   ],
+   "siblings": [
+    "leah"
+   ]
+  },
+  "roles": [
+   "matriarch",
+   "beloved wife of Jacob",
+   "mother of Joseph and Benjamin"
+  ],
+  "occupations": [
+   "shepherdess"
+  ],
+  "skills": [
+   {
+    "name": "Keeping her father's sheep",
+    "refs": [
+     "Gen 29:9"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Meets Jacob at the well",
+    "placeId": "haran",
+    "refs": [
+     "Gen 29:9-12"
+    ],
+    "summary": "Rachel arrives with her father's sheep; Jacob rolls away the stone, waters her flock, kisses her and weeps."
+   },
+   {
+    "title": "Married after fourteen years of service",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 29:18-30"
+    ],
+    "summary": "Jacob serves seven years that seem like a few days, is tricked, and marries Rachel a week after Leah."
+   },
+   {
+    "title": "Barrenness and rivalry",
+    "placeId": "paddan-aram",
+    "refs": [
+     "Gen 30:1-8",
+     "Gen 30:22-24"
+    ],
+    "summary": "Envying Leah, she demands children, gives her servant Bilhah to Jacob, and at last God remembers her and she bears Joseph."
+   },
+   {
+    "title": "Steals her father's household gods",
+    "refs": [
+     "Gen 31:19",
+     "Gen 31:34-35"
+    ],
+    "summary": "As Jacob flees she takes Laban's teraphim and hides them by sitting on them, claiming she cannot rise."
+   },
+   {
+    "title": "Dies giving birth to Benjamin",
+    "placeId": "bethlehem",
+    "refs": [
+     "Gen 35:16-20"
+    ],
+    "summary": "On the road to Ephrath she dies in hard labor, naming her son Ben-oni; Jacob renames him Benjamin and sets a pillar on her grave."
+   }
+  ],
+  "summary": "Rachel, Laban's younger daughter, was the wife Jacob loved and worked fourteen years to marry. Long barren and bitterly envious of her sister, she finally bore Joseph, and later died near Bethlehem giving birth to Benjamin. Jeremiah pictures her weeping for her exiled children (Jer 31:15), and Matthew applies the image to the mothers of Bethlehem after Herod's massacre (Matt 2:18). Her roadside tomb has been venerated for centuries.",
+  "traditions": [
+   {
+    "text": "Rachel's Tomb near Bethlehem is venerated as her burial place; Jewish tradition holds she was buried by the road so she could weep for the exiles as they passed.",
+    "source": "Genesis Rabbah 82:10; Rashi on Gen 48:7",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Passionate and impatient, capable of tenderness and sharp envy; speaks with feeling about longing and loss.",
+  "refs": [
+   "Gen 29:6-30",
+   "Gen 30:1-8",
+   "Gen 30:22-25",
+   "Gen 31:4-35",
+   "Gen 33:2-7",
+   "Gen 35:16-20",
+   "Gen 48:7",
+   "Ruth 4:11",
+   "1 Sam 10:2",
+   "Jer 31:15",
+   "Matt 2:18"
+  ],
+  "books": [
+   "Gen",
+   "Ruth",
+   "1 Sam",
+   "Jer",
+   "Matt"
+  ]
+ },
+ {
+  "id": "reuben",
+  "names": {
+   "primary": "Reuben",
+   "original": "רְאוּבֵן (rəʾûvēn)",
+   "meaning": "\"see, a son!\"; linked to \"the LORD has seen my affliction\" (Gen 29:32)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "tribe": "Reuben",
+  "placeIds": [
+   "paddan-aram",
+   "dothan",
+   "egypt"
+  ],
+  "family": {
+   "parents": [
+    "jacob",
+    "leah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "levi",
+    "judah",
+    "joseph-patriarch",
+    "benjamin"
+   ]
+  },
+  "roles": [
+   "firstborn of Jacob",
+   "tribal ancestor"
+  ],
+  "occupations": [
+   "shepherd"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Tries to save Joseph",
+    "placeId": "dothan",
+    "refs": [
+     "Gen 37:21-30"
+    ],
+    "summary": "Reuben persuades his brothers to throw Joseph into a pit instead of killing him, intending to rescue him, but returns to find him gone."
+   },
+   {
+    "title": "Loses the firstborn's preeminence",
+    "refs": [
+     "Gen 35:22",
+     "Gen 49:3-4",
+     "1 Chr 5:1"
+    ],
+    "summary": "Because he lay with his father's concubine Bilhah, Jacob declares he will not excel; the birthright passes to Joseph's sons."
+   }
+  ],
+  "summary": "Reuben, Jacob's firstborn by Leah, showed a conscience at key moments, trying to rescue Joseph and later offering his own sons as surety for Benjamin. But his affair with Bilhah cost him the firstborn's place. His tribe settled east of the Jordan.",
+  "voice": "Well-meaning but unsteady; speaks with good intentions that fall short of action.",
+  "refs": [
+   "Gen 29:32",
+   "Gen 35:22",
+   "Gen 37:21-30",
+   "Gen 42:22",
+   "Gen 42:37",
+   "Gen 49:3-4",
+   "1 Chr 5:1-2"
+  ],
+  "books": [
+   "Gen",
+   "1 Chr"
+  ]
+ },
+ {
+  "id": "levi",
+  "names": {
+   "primary": "Levi",
+   "original": "לֵוִי (lēwî)",
+   "meaning": "\"attached, joined\" (Gen 29:34)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "OT",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "tribe": "Levi",
+  "placeIds": [
+   "paddan-aram",
+   "shechem",
+   "egypt"
+  ],
+  "family": {
+   "parents": [
+    "jacob",
+    "leah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "reuben",
+    "judah",
+    "joseph-patriarch",
+    "benjamin"
+   ]
+  },
+  "roles": [
+   "third son of Jacob",
+   "ancestor of the priestly tribe"
+  ],
+  "occupations": [
+   "shepherd"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Massacre at Shechem",
+    "placeId": "shechem",
+    "refs": [
+     "Gen 34:25-31"
+    ],
+    "summary": "With Simeon, Levi kills the men of Shechem in revenge for Dinah's rape, angering Jacob."
+   },
+   {
+    "title": "Jacob's oracle of scattering",
+    "refs": [
+     "Gen 49:5-7"
+    ],
+    "summary": "Jacob curses the anger of Simeon and Levi and says they will be scattered in Israel."
+   }
+  ],
+  "summary": "Levi, Jacob's third son by Leah, is remembered chiefly for the violent revenge he and Simeon took at Shechem. Jacob's dying oracle condemned their anger and foretold their scattering. For Levi's descendants that scattering became a vocation: the Levites, who included Moses and Aaron, received no tribal territory but served at the sanctuary and lived in cities throughout Israel (Num 35:1-8, Deut 33:8-11).",
+  "voice": "Hot-tempered and zealous, intensely loyal to family honor.",
+  "refs": [
+   "Gen 29:34",
+   "Gen 34:25-31",
+   "Gen 46:11",
+   "Gen 49:5-7",
+   "Exod 6:16",
+   "Num 35:1-8",
+   "Deut 33:8-11"
+  ],
+  "books": [
+   "Gen",
+   "Exod",
+   "Num",
+   "Deut"
+  ]
+ },
+ {
+  "id": "judah",
+  "names": {
+   "primary": "Judah",
+   "original": "יְהוּדָה (yəhûdâ)",
+   "meaning": "\"praise\" (Gen 29:35)",
+   "aliases": [
+    "Judas (Greek form)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs",
+   "egypt-exodus"
+  ],
+  "tribe": "Judah",
+  "placeIds": [
+   "paddan-aram",
+   "dothan",
+   "egypt",
+   "goshen"
+  ],
+  "family": {
+   "parents": [
+    "jacob",
+    "leah"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "reuben",
+    "levi",
+    "joseph-patriarch",
+    "benjamin"
+   ]
+  },
+  "roles": [
+   "fourth son of Jacob",
+   "ancestor of the royal tribe and of David",
+   "spokesman of the brothers"
+  ],
+  "occupations": [
+   "shepherd"
+  ],
+  "skills": [
+   {
+    "name": "Persuasive speech",
+    "refs": [
+     "Gen 37:26-27",
+     "Gen 44:18-34"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Recipient of the royal promise",
+    "refs": [
+     "Gen 49:8-12"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Proposes selling Joseph",
+    "placeId": "dothan",
+    "refs": [
+     "Gen 37:26-28"
+    ],
+    "summary": "Judah suggests selling Joseph to Ishmaelite traders rather than killing him."
+   },
+   {
+    "title": "Judah and Tamar",
+    "refs": [
+     "Gen 38:1-30"
+    ],
+    "summary": "Judah withholds his son from his widowed daughter-in-law Tamar, unknowingly fathers twins by her, and confesses, \"She is more righteous than I.\""
+   },
+   {
+    "title": "Pledges himself for Benjamin",
+    "refs": [
+     "Gen 43:8-10"
+    ],
+    "summary": "Judah persuades Jacob to release Benjamin by guaranteeing his safety with his own life."
+   },
+   {
+    "title": "Offers himself in Benjamin's place",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 44:18-34"
+    ],
+    "summary": "Before Joseph, Judah pleads for his father and offers to remain a slave instead of Benjamin, prompting Joseph to reveal himself."
+   },
+   {
+    "title": "Blessed as ruler",
+    "refs": [
+     "Gen 49:8-12"
+    ],
+    "summary": "Jacob declares the scepter will not depart from Judah until tribute comes and the peoples obey him."
+   }
+  ],
+  "summary": "Judah, Jacob's fourth son by Leah, undergoes one of the clearest transformations in Genesis. He proposed selling Joseph into slavery and later wronged his daughter-in-law Tamar, but when exposed he confessed her righteousness. Years later he offered his own freedom to save Benjamin, the speech that broke Joseph's reserve. Jacob's blessing gave Judah the scepter, and his tribe produced David and, according to the New Testament, Jesus, \"the Lion of the tribe of Judah\" (Rev 5:5).",
+  "voice": "Forceful and persuasive, a natural leader who learns to speak with humility and costly responsibility.",
+  "refs": [
+   "Gen 29:35",
+   "Gen 37:26-27",
+   "Gen 38:1-30",
+   "Gen 43:3-10",
+   "Gen 44:14-34",
+   "Gen 46:28",
+   "Gen 49:8-12",
+   "Matt 1:2-3",
+   "Heb 7:14",
+   "Rev 5:5"
+  ],
+  "books": [
+   "Gen",
+   "Ruth",
+   "1 Chr",
+   "Matt",
+   "Luke",
+   "Heb",
+   "Rev"
+  ]
+ },
+ {
+  "id": "tamar",
+  "names": {
+   "primary": "Tamar",
+   "original": "תָּמָר (tāmār)",
+   "meaning": "\"date palm\"",
+   "aliases": [
+    "Thamar"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "nation": "probably Canaanite",
+  "placeIds": [],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "daughter-in-law of Judah",
+   "mother of Perez and Zerah",
+   "ancestor of David and of Jesus"
+  ],
+  "occupations": [],
+  "skills": [
+   {
+    "name": "Bold strategy to secure justice",
+    "refs": [
+     "Gen 38:13-26"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Widowed and denied levirate marriage",
+    "refs": [
+     "Gen 38:6-11"
+    ],
+    "summary": "After the deaths of Er and Onan, Judah sends Tamar home, withholding his youngest son Shelah."
+   },
+   {
+    "title": "Secures her right through Judah",
+    "refs": [
+     "Gen 38:13-30"
+    ],
+    "summary": "Disguised, she conceives by Judah, keeps his seal, cord and staff as pledges, and is vindicated when he admits she is more righteous; she bears twins, Perez and Zerah."
+   }
+  ],
+  "summary": "Tamar married Judah's sons Er and Onan, both of whom died. When Judah failed to give her his third son as levirate custom required, she disguised herself and conceived by Judah himself, keeping proof that later forced his confession. Her son Perez became an ancestor of David (Ruth 4:12, Ruth 4:18-22), and Matthew names her as the first of four women in Jesus' genealogy (Matt 1:3).",
+  "voice": "Resolute and clear-eyed, a woman who speaks little but acts decisively for justice.",
+  "refs": [
+   "Gen 38:6-30",
+   "Ruth 4:12",
+   "1 Chr 2:4",
+   "Matt 1:3"
+  ],
+  "books": [
+   "Gen",
+   "Ruth",
+   "1 Chr",
+   "Matt"
+  ]
+ },
+ {
+  "id": "joseph-patriarch",
+  "names": {
+   "primary": "Joseph",
+   "original": "יוֹסֵף (yôsēp)",
+   "meaning": "\"may he add\" (Gen 30:24); also wordplay on \"he has taken away\" (Gen 30:23)",
+   "aliases": [
+    "Zaphenath-paneah (Egyptian name)",
+    "Joseph son of Jacob"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs",
+   "egypt-exodus"
+  ],
+  "born": {
+   "year": -1915,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1745
+    },
+    {
+     "label": "Hyksos-period setting (Second Intermediate Period), favored by some for a Semitic official",
+     "year": -1700
+    },
+    {
+     "label": "Late-exodus reckoning (approx.)",
+     "year": -1850
+    }
+   ]
+  },
+  "died": {
+   "year": -1805,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Ussher chronology",
+     "year": -1635
+    },
+    {
+     "label": "Hyksos-period setting (approx.)",
+     "year": -1590
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": -1898,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology (sold into Egypt)",
+      "year": -1728
+     }
+    ]
+   },
+   {
+    "year": -1805,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Ussher chronology",
+      "year": -1635
+     }
+    ]
+   }
+  ],
+  "tribe": "Joseph (Ephraim and Manasseh)",
+  "nation": "Hebrew; Egyptian official",
+  "placeIds": [
+   "paddan-aram",
+   "hebron",
+   "shechem",
+   "dothan",
+   "egypt",
+   "goshen"
+  ],
+  "family": {
+   "parents": [
+    "jacob",
+    "rachel"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "benjamin",
+    "reuben",
+    "levi",
+    "judah"
+   ]
+  },
+  "roles": [
+   "favored son of Jacob",
+   "slave and prisoner in Egypt",
+   "interpreter of dreams",
+   "vizier (second to Pharaoh) over Egypt",
+   "preserver of his family"
+  ],
+  "occupations": [
+   "shepherd",
+   "household steward",
+   "prison administrator",
+   "royal administrator (vizier)"
+  ],
+  "skills": [
+   {
+    "name": "Administration and management",
+    "refs": [
+     "Gen 39:4-6",
+     "Gen 39:22-23",
+     "Gen 41:46-49"
+    ]
+   },
+   {
+    "name": "Economic planning (grain storage and famine policy)",
+    "refs": [
+     "Gen 41:33-36",
+     "Gen 47:13-26"
+    ]
+   },
+   {
+    "name": "Shepherding",
+    "refs": [
+     "Gen 37:2"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophetic dreams",
+    "refs": [
+     "Gen 37:5-11"
+    ]
+   },
+   {
+    "name": "Interpretation of dreams by God's revelation",
+    "refs": [
+     "Gen 40:8",
+     "Gen 41:16",
+     "Gen 41:25-32"
+    ]
+   },
+   {
+    "name": "Wisdom and discernment, recognized by Pharaoh",
+    "refs": [
+     "Gen 41:38-39",
+     "Acts 7:10"
+    ]
+   },
+   {
+    "name": "Forgiveness and providential insight",
+    "refs": [
+     "Gen 45:5-8",
+     "Gen 50:19-21"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Favored son with dreams",
+    "placeId": "hebron",
+    "refs": [
+     "Gen 37:2-11"
+    ],
+    "summary": "At seventeen Joseph reports on his brothers, wears the special robe his father gives him, and tells dreams of his family bowing to him."
+   },
+   {
+    "title": "Sold by his brothers",
+    "year": -1898,
+    "placeId": "dothan",
+    "refs": [
+     "Gen 37:12-36"
+    ],
+    "summary": "Sent to check on his brothers, Joseph is stripped, thrown into a pit, and sold to traders who take him to Egypt; his father is told he was killed by a wild animal."
+   },
+   {
+    "title": "Steward in Potiphar's house",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 39:1-6"
+    ],
+    "summary": "Bought by Potiphar, captain of the guard, Joseph prospers because the LORD is with him and is put in charge of the household."
+   },
+   {
+    "title": "Resists Potiphar's wife; imprisoned",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 39:7-20"
+    ],
+    "summary": "He refuses her repeated advances, saying he will not sin against God; she accuses him falsely and he is jailed."
+   },
+   {
+    "title": "Interprets the dreams of the cupbearer and baker",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 40:1-23"
+    ],
+    "summary": "In prison he correctly interprets two officials' dreams, but the restored cupbearer forgets him for two years."
+   },
+   {
+    "title": "Interprets Pharaoh's dreams and is exalted",
+    "year": -1885,
+    "placeId": "egypt",
+    "refs": [
+     "Gen 41:1-45"
+    ],
+    "summary": "At thirty Joseph interprets Pharaoh's dreams of seven years of plenty and famine, proposes a plan, and is made ruler over Egypt, receiving an Egyptian name and wife."
+   },
+   {
+    "title": "Stores grain; sons Manasseh and Ephraim born",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 41:46-57"
+    ],
+    "summary": "Joseph gathers grain in the good years and sells it in the famine; he names his sons for God making him forget his hardship and making him fruitful."
+   },
+   {
+    "title": "Tests his brothers",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 42:1-44:34"
+    ],
+    "summary": "When his brothers come for grain, Joseph accuses them as spies, holds Simeon, demands Benjamin, and plants his cup in Benjamin's sack, testing whether they have changed."
+   },
+   {
+    "title": "Reveals himself and forgives",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 45:1-15"
+    ],
+    "summary": "Moved by Judah's plea, Joseph weeps aloud, reveals himself, and tells his brothers that God sent him ahead to preserve life."
+   },
+   {
+    "title": "Settles Jacob's family in Goshen",
+    "placeId": "goshen",
+    "refs": [
+     "Gen 46:28-47:12"
+    ],
+    "summary": "Joseph meets his father, presents his family to Pharaoh, and settles them in the best of the land."
+   },
+   {
+    "title": "Reassures his brothers after Jacob's death",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 50:15-21"
+    ],
+    "summary": "When his brothers fear revenge, Joseph says, \"You meant evil against me, but God meant it for good.\""
+   },
+   {
+    "title": "Dies, asking that his bones be carried up",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 50:22-26",
+     "Exod 13:19",
+     "Josh 24:32"
+    ],
+    "summary": "Joseph dies at 110, embalmed in Egypt; at the exodus his bones are carried out and buried at Shechem."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "paddan-aram",
+    "order": 1,
+    "note": "Born to Rachel during Jacob's service to Laban.",
+    "refs": [
+     "Gen 30:22-25"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 2,
+    "note": "Lives with Jacob in the valley of Hebron.",
+    "refs": [
+     "Gen 37:14"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 3,
+    "note": "Searches for his brothers near Shechem.",
+    "refs": [
+     "Gen 37:12-14"
+    ]
+   },
+   {
+    "placeId": "dothan",
+    "order": 4,
+    "year": -1898,
+    "note": "Finds his brothers and is sold to traders.",
+    "refs": [
+     "Gen 37:17-28"
+    ]
+   },
+   {
+    "placeId": "egypt",
+    "order": 5,
+    "note": "Slave, prisoner, then vizier.",
+    "refs": [
+     "Gen 39:1",
+     "Gen 41:41"
+    ]
+   },
+   {
+    "placeId": "goshen",
+    "order": 6,
+    "note": "Rides to Goshen to meet Jacob.",
+    "refs": [
+     "Gen 46:29"
+    ]
+   },
+   {
+    "placeId": "hebron",
+    "order": 7,
+    "note": "Leads the funeral procession to bury Jacob at Machpelah.",
+    "refs": [
+     "Gen 50:7-13"
+    ]
+   },
+   {
+    "placeId": "shechem",
+    "order": 8,
+    "note": "His bones are later buried at Shechem.",
+    "refs": [
+     "Josh 24:32"
+    ]
+   }
+  ],
+  "summary": "Joseph, Jacob's eleventh son and Rachel's firstborn, is the central figure of the longest continuous narrative in Genesis (chapters 37-50). Favored by his father and gifted with dreams of his family bowing before him, he provoked his brothers' hatred and was sold into slavery in Egypt. There he rose to manage the house of Potiphar, was falsely accused and imprisoned, and through his God-given ability to interpret dreams came to stand second only to Pharaoh.\n\nJoseph's foresight preserved Egypt and the surrounding lands through seven years of famine, and the famine brought his brothers to him for grain. Rather than taking revenge, he tested them, discovered in Judah's offer to take Benjamin's place a changed heart, and revealed himself with tears. He moved Jacob's whole household to Goshen, setting the stage for Israel's growth in Egypt and the exodus.\n\nThe story is notable for how rarely God speaks directly; instead the narrator and Joseph himself discern God's hidden providence working through human evil and ordinary decisions. Joseph's words, \"You meant evil against me, but God meant it for good\" (Gen 50:20), have become a classic statement of providence. His request that his bones be carried to Canaan expresses faith that God would keep the promise of the land (Heb 11:22).",
+  "textSays": "Joseph is the son of Rachel (Gen 30:22-24), loved more than his brothers (Gen 37:3), sold into Egypt (Gen 37:28), and in Potiphar's house the LORD is with him (Gen 39:2-3). He refuses Potiphar's wife (Gen 39:9), interprets dreams in prison and for Pharaoh (Gen 40-41), and is made ruler over Egypt at thirty (Gen 41:40-46). He marries Asenath, daughter of Potiphera priest of On (Gen 41:45), tests and forgives his brothers (Gen 42-45), settles his family (Gen 47:11), centralizes land ownership under Pharaoh during the famine (Gen 47:13-26), and dies at 110 (Gen 50:26). Psalm 105:16-22 retells his story as God's sending a man ahead. Stephen recounts it (Acts 7:9-16), and Hebrews praises his faith concerning his bones (Heb 11:22). Exod 1:8 notes a later king who did not know Joseph.",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "Joseph is called ha-tzaddik, \"the righteous,\" chiefly for resisting Potiphar's wife (b. Yoma 35b). Some midrash also critiques his youthful vanity. Rabbinic tradition speaks of a Messiah son of Joseph (Mashiach ben Yosef), a suffering forerunner figure (b. Sukkah 52a)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Joseph is a major type of Christ: beloved of his father, rejected by his brothers, sold for silver, humbled and then exalted, and forgiving those who wronged him (Ambrose, *On Joseph*). Orthodox liturgy commemorates \"Joseph the all-comely\" during Holy Week."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Reformed and evangelical readers stress the story as a model of providence in which God works through sin without being its author (Gen 50:20; Westminster Confession 5). Joseph is also held up as an example of integrity in secular work."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars treat the Joseph story as a carefully crafted novella, possibly composed in the monarchic or later period, drawing on authentic Egyptian color (names, titles, embalming) that some date to the late second or first millennium BC. Others argue for older roots. No Egyptian record names Joseph, and his historicity is debated."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Integrity under temptation",
+    "Faithfulness in service whether slave or ruler",
+    "Credits God for interpretation",
+    "Wise planner and administrator",
+    "Generous forgiveness"
+   ],
+   "failures": [
+    "Youthful tactlessness in reporting on his brothers and recounting his dreams",
+    "Harsh measures in the famine that brought Egyptians into servitude to Pharaoh (Gen 47:19-21), judged differently by readers"
+   ],
+   "turningPoints": [
+    "Sold into slavery",
+    "Interpretation of Pharaoh's dreams",
+    "Self-revelation to his brothers"
+   ]
+  },
+  "context": "Semitic people did rise to high office in Egypt, especially during the Second Intermediate Period, when the Hyksos (Semitic rulers) controlled the Delta, though some scholars prefer the Middle Kingdom or later. Details such as Joseph's Egyptian name, the signet ring and gold chain of office, shaving before appearing before Pharaoh, 110 years as an ideal lifespan, and embalming match Egyptian customs. The Egyptian *Tale of Two Brothers* has a motif resembling the Potiphar's wife episode. Famine-driven migration of Canaanites into the Delta is depicted in Egyptian art (for example, the Beni Hasan tomb painting of Asiatic traders, c. 1890 BC).",
+  "legacy": "Joseph's sons Ephraim and Manasseh became two tribes, so Joseph received a double portion in Israel, and Ephraim later led the northern kingdom. The story inspired works from Thomas Mann's *Joseph and His Brothers* to the musical *Joseph and the Amazing Technicolor Dreamcoat*. In Islam, Yusuf has a whole sura of the Qur'an (Sura 12), called the most beautiful of stories.",
+  "traditions": [
+   {
+    "text": "The romance *Joseph and Aseneth* tells how Joseph's Egyptian wife converted to the God of Israel before their marriage.",
+    "source": "Joseph and Aseneth (Jewish or Christian work, c. 1st century BC to 2nd century AD)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Joseph's Tomb at Nablus (ancient Shechem) is venerated as his burial place.",
+    "source": "Josh 24:32 and continuous Jewish and Samaritan local tradition; Bordeaux Pilgrim (AD 333)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Composed, articulate and courtly, like a seasoned official, but with deep feeling just beneath the surface; often steers conversation to God's hidden purposes.",
+  "refs": [
+   "Gen 30:22-24",
+   "Gen 37",
+   "Gen 39",
+   "Gen 40",
+   "Gen 41",
+   "Gen 42",
+   "Gen 43",
+   "Gen 44",
+   "Gen 45",
+   "Gen 46:28-34",
+   "Gen 47:1-31",
+   "Gen 48:1-22",
+   "Gen 49:22-26",
+   "Gen 50:1-26",
+   "Exod 1:8",
+   "Exod 13:19",
+   "Josh 24:32",
+   "Ps 105:16-22",
+   "John 4:5",
+   "Acts 7:9-16",
+   "Heb 11:22"
+  ],
+  "books": [
+   "Gen",
+   "Exod",
+   "Josh",
+   "Ps",
+   "John",
+   "Acts",
+   "Heb"
+  ]
+ },
+ {
+  "id": "benjamin",
+  "names": {
+   "primary": "Benjamin",
+   "original": "בִּנְיָמִין (binyāmîn)",
+   "meaning": "\"son of the right hand\" (or \"son of the south\"); first named Ben-oni, \"son of my sorrow\"",
+   "aliases": [
+    "Ben-oni"
+   ]
+  },
+  "tier": "minor",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs",
+   "egypt-exodus"
+  ],
+  "tribe": "Benjamin",
+  "placeIds": [
+   "bethlehem",
+   "egypt",
+   "goshen"
+  ],
+  "family": {
+   "parents": [
+    "jacob",
+    "rachel"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "joseph-patriarch",
+    "reuben",
+    "levi",
+    "judah"
+   ]
+  },
+  "roles": [
+   "youngest son of Jacob",
+   "tribal ancestor"
+  ],
+  "occupations": [],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Born as Rachel dies",
+    "placeId": "bethlehem",
+    "refs": [
+     "Gen 35:16-18"
+    ],
+    "summary": "Rachel names him Ben-oni as she dies; Jacob renames him Benjamin."
+   },
+   {
+    "title": "Brought to Egypt and tested",
+    "placeId": "egypt",
+    "refs": [
+     "Gen 43:15-34",
+     "Gen 44:1-17"
+    ],
+    "summary": "Joseph receives him with tears, gives him a fivefold portion, and has a silver cup hidden in his sack to test the brothers."
+   }
+  ],
+  "summary": "Benjamin, Jacob's youngest son and Rachel's second, was born near Bethlehem as his mother died. After Joseph's disappearance Jacob guarded him closely, and his presence in Egypt became the hinge of Joseph's test of his brothers. His small but warlike tribe (Gen 49:27) produced King Saul and, later, the apostle Paul (Phil 3:5).",
+  "voice": "Young and sheltered, earnest and somewhat bewildered by the drama around him.",
+  "refs": [
+   "Gen 35:16-18",
+   "Gen 35:24",
+   "Gen 42:4",
+   "Gen 42:36-38",
+   "Gen 43:15-34",
+   "Gen 44:1-34",
+   "Gen 45:14",
+   "Gen 49:27",
+   "Rom 11:1",
+   "Phil 3:5"
+  ],
+  "books": [
+   "Gen",
+   "Rom",
+   "Phil"
+  ]
+ },
+ {
+  "id": "job",
+  "names": {
+   "primary": "Job",
+   "original": "אִיּוֹב (ʾiyyôv)",
+   "meaning": "uncertain; possibly \"where is the father?\" or associated with \"enemy, hated one\"",
+   "aliases": [
+    "Iyov",
+    "Ayyub (Arabic)"
+   ]
+  },
+  "tier": "major",
+  "testament": "both",
+  "eraIds": [
+   "patriarchs"
+  ],
+  "active": [
+   {
+    "year": -2000,
+    "circa": true,
+    "confidence": "speculative",
+    "alternatives": [
+     {
+      "label": "Narrative setting resembles the patriarchal age (wealth in livestock, family priesthood, long life)",
+      "year": -1900
+     },
+     {
+      "label": "Composition of the book: Solomonic era (some traditional views)",
+      "year": -950
+     },
+     {
+      "label": "Composition of the book: exilic or post-exilic period (many critical scholars)",
+      "year": -500
+     }
+    ]
+   },
+   {
+    "year": -1850,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "nation": "man of Uz (non-Israelite, probably Edomite or Aramean region)",
+  "placeIds": [
+   "edom"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "righteous sufferer",
+   "wealthy chief of the East",
+   "family priest",
+   "intercessor for his friends"
+  ],
+  "occupations": [
+   "owner of herds and flocks",
+   "elder and judge at the city gate"
+  ],
+  "skills": [
+   {
+    "name": "Administering justice and defending the poor",
+    "refs": [
+     "Job 29:7-17"
+    ]
+   },
+   {
+    "name": "Managing vast livestock holdings",
+    "refs": [
+     "Job 1:3",
+     "Job 42:12"
+    ]
+   },
+   {
+    "name": "Poetic argument and lament",
+    "refs": [
+     "Job 3:1-26",
+     "Job 29:1-31:40"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Blameless integrity and fear of God",
+    "refs": [
+     "Job 1:1",
+     "Job 1:8"
+    ]
+   },
+   {
+    "name": "Patient endurance",
+    "refs": [
+     "Jas 5:11"
+    ]
+   },
+   {
+    "name": "Intercessory prayer",
+    "refs": [
+     "Job 1:5",
+     "Job 42:8-10"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Blameless and prosperous",
+    "placeId": "edom",
+    "refs": [
+     "Job 1:1-5"
+    ],
+    "summary": "Job, a blameless man of Uz with seven sons, three daughters and great herds, regularly offers sacrifices in case his children have sinned."
+   },
+   {
+    "title": "The accuser's first challenge",
+    "refs": [
+     "Job 1:6-12"
+    ],
+    "summary": "In the heavenly council the satan (\"the accuser\") suggests Job fears God only because he is blessed; God permits him to strike Job's possessions."
+   },
+   {
+    "title": "Loses wealth and children",
+    "refs": [
+     "Job 1:13-22"
+    ],
+    "summary": "Raiders and disasters destroy his livestock, servants and children in one day; Job worships, saying, \"The LORD gave, and the LORD has taken away.\""
+   },
+   {
+    "title": "Struck with sores",
+    "refs": [
+     "Job 2:1-10"
+    ],
+    "summary": "Permitted a second test, the accuser afflicts Job's body; his wife urges him to curse God and die, but he does not sin with his lips."
+   },
+   {
+    "title": "Friends arrive and sit in silence",
+    "refs": [
+     "Job 2:11-13"
+    ],
+    "summary": "Eliphaz, Bildad and Zophar come to comfort him and sit with him seven days without speaking."
+   },
+   {
+    "title": "Curses the day of his birth",
+    "refs": [
+     "Job 3:1-26"
+    ],
+    "summary": "Job breaks the silence with a lament wishing he had never been born."
+   },
+   {
+    "title": "Debates with his friends",
+    "refs": [
+     "Job 4:1-27:23"
+    ],
+    "summary": "In three cycles of speeches the friends insist suffering is punishment for sin; Job maintains his innocence, protests God's apparent injustice, and longs for a hearing before God and a redeemer or witness."
+   },
+   {
+    "title": "Final defense and oath of innocence",
+    "refs": [
+     "Job 29:1-31:40"
+    ],
+    "summary": "Job recalls his former honor, describes his present humiliation, and swears a detailed oath of integrity, challenging God to answer."
+   },
+   {
+    "title": "Elihu's speeches",
+    "refs": [
+     "Job 32:1-37:24"
+    ],
+    "summary": "A younger man, Elihu, rebukes both Job and the friends, arguing that God uses suffering to instruct."
+   },
+   {
+    "title": "God answers from the whirlwind",
+    "refs": [
+     "Job 38:1-41:34"
+    ],
+    "summary": "God questions Job about creation, wild animals, Behemoth and Leviathan, showing the vastness of divine wisdom without explaining the reason for Job's suffering."
+   },
+   {
+    "title": "Job's response and repentance",
+    "refs": [
+     "Job 40:3-5",
+     "Job 42:1-6"
+    ],
+    "summary": "Job lays his hand on his mouth and says that now his eye sees God, and he retracts or relents in dust and ashes."
+   },
+   {
+    "title": "Vindicated and restored",
+    "refs": [
+     "Job 42:7-17"
+    ],
+    "summary": "God says the friends have not spoken rightly as Job has; Job prays for them, and his fortunes are restored double, with new children and 140 more years of life."
+   }
+  ],
+  "summary": "Job is the central figure of the book that bears his name, a blameless and God-fearing man from the land of Uz who loses his wealth, children and health in a series of disasters. The reader is told what Job never learns: that his suffering follows a challenge in the heavenly court, where the accuser claims Job serves God only because God has blessed him. Job's initial response is famous for its resignation: \"The LORD gave, and the LORD has taken away; blessed be the name of the LORD.\"\n\nMost of the book, however, is poetry in which Job argues with three friends who insist that God always punishes the wicked and rewards the righteous, so Job must have sinned. Job refuses to accept a guilt he does not recognize. His speeches are raw, accusing God of injustice while longing for an advocate or redeemer to vindicate him, and he finally demands that God answer.\n\nGod does answer, out of a whirlwind, but not with an explanation. Instead God displays the breadth and strangeness of creation, from the stars to the wild ox to Leviathan, and Job responds with humility. In the epilogue God rebukes the friends for not speaking rightly about him, \"as my servant Job has,\" and restores Job's fortunes. The book refuses simple formulas about suffering while affirming that honest protest addressed to God is a form of faithfulness.",
+  "textSays": "Job is blameless, upright, God-fearing and turning from evil (Job 1:1). The satan is permitted to test him twice (Job 1:12, Job 2:6). Job does not sin or charge God with wrong in the prologue (Job 1:22, Job 2:10). He laments and protests at length (Job 3, Job 6-7, Job 9-10, Job 13-14, Job 16-17, Job 19, Job 21, Job 23-24, Job 26-31), affirming that his redeemer lives (Job 19:25-27). God speaks from the whirlwind (Job 38:1, Job 40:6). Job repents or relents (Job 42:6), God says Job has spoken rightly (Job 42:7-8), and his fortunes are restored (Job 42:10-17). Ezekiel names Job with Noah and Daniel as exemplary righteous men (Ezek 14:14), and James cites his endurance and the Lord's compassion (Jas 5:11).",
+  "interpretations": [
+   {
+    "tradition": "Jewish",
+    "view": "The Talmud records debate over whether Job was a historical person; one opinion holds he \"never existed but was a parable\" (b. Bava Batra 15a), while others place him in the days of Moses, the patriarchs, or the return from exile. Some rabbis praise Job's piety; others fault his complaints. Maimonides read the book as a philosophical inquiry into providence (*Guide of the Perplexed* 3.22-23)."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Job is venerated as a saint (Orthodox commemoration on May 6) and as a type of Christ the innocent sufferer. Gregory the Great's *Moralia in Job* read the book on literal, allegorical and moral levels, and Job 19:25-27 is used in funeral liturgy as an affirmation of resurrection."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Reformers like Calvin preached extensively on Job as a lesson in submitting to God's hidden providence; many evangelicals read Job 19:25 as anticipating Christ the redeemer, while others note that the Hebrew go'el most naturally means a vindicating kinsman or advocate and leave its referent more open."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Most scholars see a prose frame story (Job 1-2, Job 42:7-17), possibly older, around a poetic core, with Elihu's speeches (Job 32-37) and the wisdom poem (Job 28) often regarded as later additions. The book is commonly dated between the 6th and 4th centuries BC, though earlier dates are defended. It engages a broader ancient wisdom tradition, including the Babylonian *Ludlul bel nemeqi* and the *Babylonian Theodicy*."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Integrity that refuses false confession",
+    "Reverent submission in the prologue",
+    "Honest, persistent address to God in lament",
+    "Intercession for the friends who wronged him"
+   ],
+   "failures": [
+    "In anguish speaks words \"without knowledge\" that he later retracts (Job 38:2, Job 42:3)",
+    "Approaches charging God with injustice (Job 40:8)"
+   ],
+   "turningPoints": [
+    "The double catastrophe of the prologue",
+    "The oath of innocence",
+    "God's speech from the whirlwind",
+    "Prayer for his friends and restoration"
+   ]
+  },
+  "context": "The setting is outside Israel: Uz is associated with Edom (Lam 4:21) or with Aram, and Job's friends come from Teman, Shuah and Naamah, regions linked with Edom and Arabia. Job acts as his own family priest, his wealth is measured in livestock, and he lives an extraordinarily long life, features that resemble the patriarchal age. The Hebrew is unusually difficult, with many rare words and some Aramaic influence. The heavenly figure called \"the satan\" (with the article) functions as an accuser in God's court, which many scholars distinguish from the later developed figure of Satan.",
+  "legacy": "Job has given language its proverbial \"patience of Job\" and \"Job's comforters.\" The book is one of the most influential treatments of innocent suffering in world literature, shaping works from Gregory's *Moralia* to William Blake's engravings, Archibald MacLeish's *J.B.*, and Elie Wiesel's post-Holocaust reflections. In Islam, Ayyub is honored as a prophet known for patience.",
+  "traditions": [
+   {
+    "text": "The *Testament of Job* expands the story, presenting Job as a king who destroyed an idol's temple and was therefore attacked by Satan, and giving his daughters heavenly sashes that enable them to speak in angelic tongues.",
+    "source": "Testament of Job (Jewish pseudepigraphon, c. 1st century BC to 1st century AD)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The Septuagint adds an epilogue identifying Job with Jobab, king of Edom (Gen 36:33), and stating that he will rise again with those the Lord raises.",
+    "source": "Septuagint, Job 42:17 (Greek addition)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Eloquent, passionate and poetic, swinging between bitter protest and reverent awe; speaks with the gravity of an elder who refuses easy answers and insists on honesty before God.",
+  "refs": [
+   "Job 1",
+   "Job 2",
+   "Job 3",
+   "Job 19:23-27",
+   "Job 23:1-17",
+   "Job 29",
+   "Job 30",
+   "Job 31",
+   "Job 38:1-41:34",
+   "Job 42",
+   "Ezek 14:14",
+   "Ezek 14:20",
+   "Jas 5:11"
+  ],
+  "books": [
+   "Job",
+   "Ezek",
+   "Jas"
+  ]
+ }
+]

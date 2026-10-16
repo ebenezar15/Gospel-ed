@@ -1,0 +1,5576 @@
+[
+  {
+    "id": "creation",
+    "title": "Creation",
+    "date": {
+      "year": -4004,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Ussher, Masoretic genealogies",
+          "year": -4004,
+          "source": "Archbishop James Ussher, Annales Veteris Testamenti (1650)"
+        },
+        {
+          "label": "Septuagint genealogies (longer ages)",
+          "year": -5500
+        },
+        {
+          "label": "Old-earth readings: no datable year (cosmos c. 13.8 billion years)",
+          "year": -4000
+        }
+      ]
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [
+      "eden"
+    ],
+    "personIds": [
+      "adam",
+      "eve"
+    ],
+    "refs": [
+      "Gen 1:1-2:3",
+      "Gen 2:4-25"
+    ],
+    "summary": "God creates the heavens and the earth, and forms the man and woman in his image and places them in Eden. Genesis gives no calendar date; the year shown follows the Masoretic genealogies as summed by Ussher and is a placeholder only. Many interpreters do not read Genesis 1 as giving a datable chronology at all."
+  },
+  {
+    "id": "the-fall",
+    "title": "The fall",
+    "date": {
+      "year": -4000,
+      "confidence": "speculative",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [
+      "eden"
+    ],
+    "personIds": [
+      "adam",
+      "eve"
+    ],
+    "refs": [
+      "Gen 3:1-24"
+    ],
+    "summary": "Adam and Eve eat from the forbidden tree, are judged, and are sent out of Eden; God promises that the woman's offspring will strike the serpent's head. No date is recoverable from the text."
+  },
+  {
+    "id": "cain-and-abel",
+    "title": "Cain murders Abel",
+    "date": {
+      "year": -3900,
+      "confidence": "speculative",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [],
+    "personIds": [
+      "cain",
+      "abel",
+      "seth"
+    ],
+    "refs": [
+      "Gen 4:1-16",
+      "Gen 4:25-26"
+    ],
+    "summary": "Cain kills his brother Abel and is driven out as a wanderer; Seth is born in Abel's place and people begin to call on the name of the LORD."
+  },
+  {
+    "id": "enoch-taken",
+    "title": "Enoch walks with God",
+    "date": {
+      "year": -3017,
+      "confidence": "speculative",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [],
+    "personIds": [
+      "enoch",
+      "methuselah"
+    ],
+    "refs": [
+      "Gen 5:21-24",
+      "Heb 11:5",
+      "Jude 1:14-15"
+    ],
+    "summary": "Enoch \"walked with God, and he was not, for God took him.\" Hebrews reads this as being taken without seeing death. The year follows the Masoretic genealogy and is not secure."
+  },
+  {
+    "id": "the-flood",
+    "title": "The flood",
+    "date": {
+      "year": -2348,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Ussher, Masoretic genealogies",
+          "year": -2348,
+          "source": "Archbishop James Ussher, Annales Veteris Testamenti (1650)"
+        },
+        {
+          "label": "Septuagint genealogies",
+          "year": -3300
+        },
+        {
+          "label": "Regional-flood readings: undatable, sometimes linked to Mesopotamian floods c. 2900 BC",
+          "year": -2900
+        }
+      ]
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [
+      "ararat"
+    ],
+    "personIds": [
+      "noah",
+      "shem",
+      "ham",
+      "japheth"
+    ],
+    "refs": [
+      "Gen 6:9-8:19",
+      "Gen 9:8-17"
+    ],
+    "summary": "God judges a violent world by flood, preserves Noah's family and the animals in the ark, and makes a covenant never again to destroy the earth by flood. The ark comes to rest on the mountains of Ararat. Readers differ on date and on whether the flood was global or regional."
+  },
+  {
+    "id": "tower-of-babel",
+    "title": "Tower of Babel",
+    "date": {
+      "year": -2200,
+      "confidence": "speculative",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "primeval",
+    "placeIds": [
+      "babel"
+    ],
+    "personIds": [],
+    "refs": [
+      "Gen 11:1-9",
+      "Gen 10:8-12"
+    ],
+    "summary": "Humanity gathers in the plain of Shinar to build a city and tower; God confuses their language and scatters them. The setting recalls Mesopotamian ziggurats. No date is given."
+  },
+  {
+    "id": "call-of-abraham",
+    "title": "Call of Abram",
+    "date": {
+      "year": -2091,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early (Masoretic, 1 Kgs 6:1 + Exod 12:40 = 430 years in Egypt)",
+          "year": -2091
+        },
+        {
+          "label": "Shorter sojourn (215 years in Egypt per LXX Exod 12:40)",
+          "year": -1876
+        },
+        {
+          "label": "Middle Bronze II setting favoured by many archaeologists",
+          "year": -1900
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "ur",
+      "haran",
+      "shechem"
+    ],
+    "personIds": [
+      "abraham",
+      "sarah",
+      "lot",
+      "terah"
+    ],
+    "refs": [
+      "Gen 11:31-32",
+      "Gen 12:1-9",
+      "Acts 7:2-4"
+    ],
+    "summary": "God calls Abram out of Haran (having first left Ur with Terah) and promises land, offspring and blessing for all families of the earth. At Shechem God promises the land to his offspring and Abram builds an altar."
+  },
+  {
+    "id": "abraham-in-egypt",
+    "title": "Abram goes down to Egypt",
+    "date": {
+      "year": -2085,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2085
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1895
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "egypt",
+      "negev"
+    ],
+    "personIds": [
+      "abraham",
+      "sarah"
+    ],
+    "refs": [
+      "Gen 12:10-13:4"
+    ],
+    "summary": "Famine drives Abram to Egypt, where he passes Sarai off as his sister; Pharaoh is struck with plagues and sends them away. They return through the Negev to Bethel."
+  },
+  {
+    "id": "melchizedek-blesses-abram",
+    "title": "Melchizedek blesses Abram",
+    "date": {
+      "year": -2080,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2080
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1890
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "salem"
+    ],
+    "personIds": [
+      "abraham",
+      "melchizedek",
+      "lot"
+    ],
+    "refs": [
+      "Gen 14:1-24",
+      "Ps 110:4",
+      "Heb 7:1-10"
+    ],
+    "summary": "After Abram rescues Lot from four eastern kings, Melchizedek, king of Salem and priest of God Most High, brings bread and wine and blesses him; Abram gives him a tenth."
+  },
+  {
+    "id": "covenant-between-pieces",
+    "title": "Covenant between the pieces",
+    "date": {
+      "year": -2080,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2080
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1890
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "hebron"
+    ],
+    "personIds": [
+      "abraham"
+    ],
+    "refs": [
+      "Gen 15:1-21",
+      "Rom 4:3"
+    ],
+    "summary": "Abram believes the LORD and it is counted to him as righteousness. God passes between the halves of the animals and swears to give the land, foretelling four hundred years of affliction for Abram's offspring."
+  },
+  {
+    "id": "birth-of-ishmael",
+    "title": "Birth of Ishmael",
+    "date": {
+      "year": -2080,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2080
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1890
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "hebron"
+    ],
+    "personIds": [
+      "hagar",
+      "ishmael",
+      "abraham",
+      "sarah"
+    ],
+    "refs": [
+      "Gen 16:1-16"
+    ],
+    "summary": "At Sarai's urging Abram has a son by Hagar the Egyptian. Hagar flees and meets the angel of the LORD, whom she names \"the God who sees me.\" Abram is 86."
+  },
+  {
+    "id": "sodom-destroyed",
+    "title": "Sodom and Gomorrah destroyed",
+    "date": {
+      "year": -2067,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2067
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1877
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "sodom",
+      "mamre"
+    ],
+    "personIds": [
+      "abraham",
+      "lot"
+    ],
+    "refs": [
+      "Gen 18:16-33",
+      "Gen 19:1-29"
+    ],
+    "summary": "Abraham intercedes for Sodom; the cities of the plain are destroyed, Lot is rescued and his wife looks back."
+  },
+  {
+    "id": "birth-of-isaac",
+    "title": "Birth of Isaac",
+    "date": {
+      "year": -2066,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2066
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1876
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "beersheba",
+      "gerar"
+    ],
+    "personIds": [
+      "isaac",
+      "abraham",
+      "sarah"
+    ],
+    "refs": [
+      "Gen 21:1-7"
+    ],
+    "summary": "Sarah bears Isaac when Abraham is a hundred years old, as God had promised."
+  },
+  {
+    "id": "binding-of-isaac",
+    "title": "The binding of Isaac",
+    "date": {
+      "year": -2050,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -2050
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1860
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "moriah",
+      "beersheba"
+    ],
+    "personIds": [
+      "abraham",
+      "isaac"
+    ],
+    "refs": [
+      "Gen 22:1-19",
+      "Heb 11:17-19",
+      "2 Chr 3:1"
+    ],
+    "summary": "God tests Abraham by commanding him to offer Isaac on a mountain in the land of Moriah, then stops him and provides a ram. Chronicles places the later temple on Mount Moriah."
+  },
+  {
+    "id": "jacob-at-bethel",
+    "title": "Jacob's dream at Bethel",
+    "date": {
+      "year": -1929,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1929
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1760
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "bethel",
+      "beersheba",
+      "haran"
+    ],
+    "personIds": [
+      "jacob",
+      "esau",
+      "isaac",
+      "rebekah"
+    ],
+    "refs": [
+      "Gen 27:1-45",
+      "Gen 28:10-22"
+    ],
+    "summary": "After taking Esau's blessing by deception, Jacob flees toward Haran; at Bethel he dreams of a stairway to heaven and God renews the Abrahamic promise to him."
+  },
+  {
+    "id": "jacob-wrestles",
+    "title": "Jacob wrestles at Peniel",
+    "date": {
+      "year": -1909,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1909
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1740
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "peniel",
+      "paddan-aram"
+    ],
+    "personIds": [
+      "jacob",
+      "laban",
+      "leah",
+      "rachel"
+    ],
+    "refs": [
+      "Gen 31:17-21",
+      "Gen 32:22-32"
+    ],
+    "summary": "Returning from Paddan-aram with his family, Jacob wrestles through the night with a man at the Jabbok, is renamed Israel, and limps away blessed."
+  },
+  {
+    "id": "joseph-sold",
+    "title": "Joseph sold into slavery",
+    "date": {
+      "year": -1898,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1898
+        },
+        {
+          "label": "Middle Bronze setting",
+          "year": -1730
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "dothan",
+      "shechem",
+      "egypt"
+    ],
+    "personIds": [
+      "joseph-patriarch",
+      "reuben",
+      "judah",
+      "jacob"
+    ],
+    "refs": [
+      "Gen 37:12-36"
+    ],
+    "summary": "Joseph's brothers throw him into a pit at Dothan and sell him to traders bound for Egypt, where he is sold to Potiphar."
+  },
+  {
+    "id": "joseph-rules-egypt",
+    "title": "Joseph made ruler over Egypt",
+    "date": {
+      "year": -1885,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1885
+        },
+        {
+          "label": "Middle Bronze / Hyksos-era setting",
+          "year": -1700
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "egypt"
+    ],
+    "personIds": [
+      "joseph-patriarch"
+    ],
+    "refs": [
+      "Gen 41:37-57"
+    ],
+    "summary": "After interpreting Pharaoh's dreams of plenty and famine, Joseph at thirty is set over the land of Egypt and stores grain."
+  },
+  {
+    "id": "jacob-to-egypt",
+    "title": "Jacob's family settles in Goshen",
+    "date": {
+      "year": -1876,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology (430 years before a 1446 exodus)",
+          "year": -1876
+        },
+        {
+          "label": "Late chronology (430 years before a 1260 exodus)",
+          "year": -1690
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "patriarchs",
+    "placeIds": [
+      "beersheba",
+      "egypt",
+      "goshen"
+    ],
+    "personIds": [
+      "jacob",
+      "joseph-patriarch",
+      "benjamin",
+      "judah"
+    ],
+    "refs": [
+      "Gen 46:1-7",
+      "Gen 47:1-12"
+    ],
+    "summary": "Jacob, at 130, brings seventy persons of his household to Egypt, is reunited with Joseph, and settles in Goshen."
+  },
+  {
+    "id": "hammurabi",
+    "title": "Hammurabi rules Babylon",
+    "date": {
+      "year": -1792,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Hammurabi of Babylon (reigned c. 1792–1750 BC, middle chronology) unifies much of Mesopotamia and issues his law code, a frequent comparison point for the covenant laws of Exodus."
+  },
+  {
+    "id": "new-kingdom-egypt",
+    "title": "Hyksos expelled; New Kingdom begins",
+    "date": {
+      "year": -1550,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "egypt"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Ahmose I drives the Hyksos out of the Delta and founds the Eighteenth Dynasty, opening Egypt's imperial New Kingdom. Some link a \"new king who did not know Joseph\" (Exod 1:8) to this shift."
+  },
+  {
+    "id": "oppression-in-egypt",
+    "title": "Israel enslaved in Egypt",
+    "date": {
+      "year": -1530,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early-exodus chronology",
+          "year": -1530
+        },
+        {
+          "label": "Late-exodus chronology (Seti I / Ramesses II)",
+          "year": -1300
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "egypt",
+      "goshen",
+      "rameses"
+    ],
+    "personIds": [
+      "pharaoh-of-the-exodus"
+    ],
+    "refs": [
+      "Exod 1:8-22"
+    ],
+    "summary": "A new Pharaoh fears Israel's growth, sets taskmasters over them to build store cities Pithom and Raamses, and orders the Hebrew baby boys killed."
+  },
+  {
+    "id": "birth-of-moses",
+    "title": "Birth of Moses",
+    "date": {
+      "year": -1526,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (80 years before 1446)",
+          "year": -1526
+        },
+        {
+          "label": "Late exodus",
+          "year": -1340
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "egypt"
+    ],
+    "personIds": [
+      "moses",
+      "amram",
+      "jochebed",
+      "miriam"
+    ],
+    "refs": [
+      "Exod 2:1-10",
+      "Acts 7:20-22"
+    ],
+    "summary": "Jochebed hides her son in a basket among the reeds of the Nile; Pharaoh's daughter adopts him and names him Moses."
+  },
+  {
+    "id": "burning-bush",
+    "title": "The burning bush",
+    "date": {
+      "year": -1446,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus",
+          "year": -1447
+        },
+        {
+          "label": "Late exodus",
+          "year": -1261
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "horeb",
+      "midian"
+    ],
+    "personIds": [
+      "moses",
+      "jethro",
+      "zipporah"
+    ],
+    "refs": [
+      "Exod 3:1-4:17"
+    ],
+    "summary": "Tending Jethro's flock at Horeb, Moses meets God in a bush that burns without being consumed, learns the divine name \"I AM WHO I AM,\" and is sent to Pharaoh."
+  },
+  {
+    "id": "the-exodus",
+    "title": "The exodus from Egypt",
+    "date": {
+      "year": -1446,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (1 Kgs 6:1: 480 years before 966 BC)",
+          "year": -1446,
+          "source": "1 Kgs 6:1"
+        },
+        {
+          "label": "Late exodus (city Rameses, Ramesside setting)",
+          "year": -1260,
+          "source": "Exod 1:11"
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "rameses",
+      "succoth",
+      "egypt"
+    ],
+    "personIds": [
+      "moses",
+      "aaron",
+      "miriam",
+      "pharaoh-of-the-exodus"
+    ],
+    "refs": [
+      "Exod 12:29-42",
+      "1 Kgs 6:1",
+      "Exod 1:11"
+    ],
+    "summary": "After ten plagues and the first Passover, Israel leaves Rameses for Succoth. The date is one of the most debated in biblical chronology: 1 Kings 6:1 points to c. 1446 BC, while the city name Rameses and the archaeology of Canaan lead many to c. 1260 BC under Ramesses II. A minority deny a historical mass exodus."
+  },
+  {
+    "id": "red-sea-crossing",
+    "title": "Crossing the sea",
+    "date": {
+      "year": -1446,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (1 Kgs 6:1: 480 years before 966 BC)",
+          "year": -1446,
+          "source": "1 Kgs 6:1"
+        },
+        {
+          "label": "Late exodus (city Rameses, Ramesside setting)",
+          "year": -1260,
+          "source": "Exod 1:11"
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "red-sea"
+    ],
+    "personIds": [
+      "moses",
+      "miriam"
+    ],
+    "refs": [
+      "Exod 14:1-31",
+      "Exod 15:1-21"
+    ],
+    "summary": "The LORD divides the sea (Hebrew yam suph, \"Sea of Reeds\") and Israel crosses on dry ground; Pharaoh's chariots are drowned. Moses and Miriam sing. The location is disputed (Gulf of Suez, Bitter Lakes, Gulf of Aqaba, or a northern lagoon)."
+  },
+  {
+    "id": "sinai-covenant",
+    "title": "Covenant at Sinai",
+    "date": {
+      "year": -1446,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (1 Kgs 6:1: 480 years before 966 BC)",
+          "year": -1446,
+          "source": "1 Kgs 6:1"
+        },
+        {
+          "label": "Late exodus (city Rameses, Ramesside setting)",
+          "year": -1260,
+          "source": "Exod 1:11"
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "mount-sinai"
+    ],
+    "personIds": [
+      "moses",
+      "aaron"
+    ],
+    "refs": [
+      "Exod 19:1-20:21",
+      "Exod 24:1-11"
+    ],
+    "summary": "In the third month Israel camps before Sinai; God speaks the Ten Commandments and the covenant is ratified with blood."
+  },
+  {
+    "id": "golden-calf",
+    "title": "The golden calf",
+    "date": {
+      "year": -1446,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (1 Kgs 6:1: 480 years before 966 BC)",
+          "year": -1446,
+          "source": "1 Kgs 6:1"
+        },
+        {
+          "label": "Late exodus (city Rameses, Ramesside setting)",
+          "year": -1260,
+          "source": "Exod 1:11"
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "mount-sinai"
+    ],
+    "personIds": [
+      "moses",
+      "aaron"
+    ],
+    "refs": [
+      "Exod 32:1-35",
+      "Exod 34:1-10"
+    ],
+    "summary": "While Moses is on the mountain, Aaron makes a golden calf. Moses breaks the tablets, intercedes, and the covenant is renewed with God revealing himself as merciful and gracious."
+  },
+  {
+    "id": "tabernacle-erected",
+    "title": "Tabernacle set up",
+    "date": {
+      "year": -1445,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus",
+          "year": -1445
+        },
+        {
+          "label": "Late exodus",
+          "year": -1259
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "mount-sinai"
+    ],
+    "personIds": [
+      "moses",
+      "aaron"
+    ],
+    "refs": [
+      "Exod 40:17-38",
+      "Lev 8:1-36"
+    ],
+    "summary": "On the first day of the second year the tabernacle is raised and the glory of the LORD fills it; Aaron and his sons are ordained."
+  },
+  {
+    "id": "kadesh-rebellion",
+    "title": "Rebellion at Kadesh",
+    "date": {
+      "year": -1444,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus",
+          "year": -1444
+        },
+        {
+          "label": "Late exodus",
+          "year": -1258
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "kadesh-barnea"
+    ],
+    "personIds": [
+      "moses",
+      "joshua",
+      "caleb"
+    ],
+    "refs": [
+      "Num 13:1-33",
+      "Num 14:1-38"
+    ],
+    "summary": "Ten of twelve spies discourage the people; only Joshua and Caleb urge trust. The generation is sentenced to forty years in the wilderness."
+  },
+  {
+    "id": "death-of-moses",
+    "title": "Death of Moses",
+    "date": {
+      "year": -1406,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus (+40 years)",
+          "year": -1406
+        },
+        {
+          "label": "Late exodus (+40 years)",
+          "year": -1220
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "egypt-exodus",
+    "placeIds": [
+      "mount-nebo",
+      "moab"
+    ],
+    "personIds": [
+      "moses",
+      "joshua"
+    ],
+    "refs": [
+      "Deut 34:1-12"
+    ],
+    "summary": "From Mount Nebo Moses sees the promised land, dies in Moab at 120, and is buried by God; Joshua succeeds him."
+  },
+  {
+    "id": "jordan-and-jericho",
+    "title": "Jordan crossed; Jericho falls",
+    "date": {
+      "year": -1406,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early exodus chronology",
+          "year": -1406
+        },
+        {
+          "label": "Late exodus chronology",
+          "year": -1220
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "jordan-river",
+      "gilgal",
+      "jericho"
+    ],
+    "personIds": [
+      "joshua",
+      "rahab"
+    ],
+    "refs": [
+      "Josh 3:14-17",
+      "Josh 6:1-27",
+      "Heb 11:30-31"
+    ],
+    "summary": "The Jordan stops while the priests carry the ark across; Israel camps at Gilgal. Jericho's walls fall after seven days of marching and Rahab's household is spared. Archaeologists dispute whether Jericho was occupied in either proposed period."
+  },
+  {
+    "id": "covenant-at-shechem",
+    "title": "Covenant renewal at Shechem",
+    "date": {
+      "year": -1380,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1380
+        },
+        {
+          "label": "Late chronology",
+          "year": -1200
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "shechem"
+    ],
+    "personIds": [
+      "joshua"
+    ],
+    "refs": [
+      "Josh 8:30-35",
+      "Josh 24:1-28"
+    ],
+    "summary": "Joshua gathers the tribes at Shechem and calls them to choose whom they will serve: \"as for me and my house, we will serve the LORD.\""
+  },
+  {
+    "id": "othniel-judge",
+    "title": "Othniel, first judge",
+    "date": {
+      "year": -1370,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1370
+        },
+        {
+          "label": "Late chronology",
+          "year": -1190
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [],
+    "personIds": [
+      "othniel",
+      "caleb"
+    ],
+    "refs": [
+      "Judg 2:11-19",
+      "Judg 3:7-11"
+    ],
+    "summary": "Israel serves the Baals and is oppressed; the LORD raises up Othniel, Caleb's nephew, and the land has rest forty years. This begins the cycle of the judges."
+  },
+  {
+    "id": "amarna-letters",
+    "title": "Amarna letters",
+    "date": {
+      "year": -1350,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "egypt"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Clay-tablet correspondence between Pharaoh and Canaanite city-kings (including Jerusalem's Abdi-Heba) complains of the troublesome Habiru. Some link Habiru with Hebrews; most scholars see a broader social term."
+  },
+  {
+    "id": "battle-of-kadesh",
+    "title": "Battle of Kadesh (Egypt vs Hittites)",
+    "date": {
+      "year": -1274,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "conquest-judges",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "Ramesses II fights the Hittite king Muwatalli II at Kadesh on the Orontes, the best-documented chariot battle of antiquity; a peace treaty follows c. 1259 BC."
+  },
+  {
+    "id": "deborah-and-barak",
+    "title": "Deborah and Barak defeat Sisera",
+    "date": {
+      "year": -1230,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1230
+        },
+        {
+          "label": "Late chronology",
+          "year": -1125
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "hazor",
+      "mount-tabor",
+      "megiddo"
+    ],
+    "personIds": [
+      "deborah",
+      "barak",
+      "jael"
+    ],
+    "refs": [
+      "Judg 4:1-24",
+      "Judg 5:1-31"
+    ],
+    "summary": "Deborah the prophetess summons Barak; from Mount Tabor Israel routs Jabin's general Sisera by the Kishon, and Jael kills Sisera. The Song of Deborah is among the oldest Hebrew poems."
+  },
+  {
+    "id": "merneptah-stele",
+    "title": "Merneptah Stele names \"Israel\"",
+    "date": {
+      "year": -1208,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "egypt"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Pharaoh Merneptah's victory inscription lists \"Israel\" as a people in Canaan, the earliest extra-biblical mention of Israel."
+  },
+  {
+    "id": "sea-peoples",
+    "title": "Sea Peoples and the Bronze Age collapse",
+    "date": {
+      "year": -1177,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "ashdod",
+      "gaza",
+      "ashkelon",
+      "ekron",
+      "gath"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Across the eastern Mediterranean palace civilizations collapse; Ramesses III repels the Sea Peoples, among them the Peleset, who settle the coastal plain as the Philistine pentapolis."
+  },
+  {
+    "id": "gideon",
+    "title": "Gideon routs Midian",
+    "date": {
+      "year": -1170,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1170
+        },
+        {
+          "label": "Late chronology",
+          "year": -1100
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "midian",
+      "jezreel"
+    ],
+    "personIds": [
+      "gideon"
+    ],
+    "refs": [
+      "Judg 6:11-24",
+      "Judg 7:1-25"
+    ],
+    "summary": "Gideon, reluctant and testing God with a fleece, defeats the Midianites with three hundred men bearing trumpets and torches."
+  },
+  {
+    "id": "jephthah",
+    "title": "Jephthah's vow",
+    "date": {
+      "year": -1100,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1100
+        },
+        {
+          "label": "Late chronology",
+          "year": -1080
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "ammon",
+      "mizpah"
+    ],
+    "personIds": [
+      "jephthah"
+    ],
+    "refs": [
+      "Judg 11:1-40"
+    ],
+    "summary": "The outcast Jephthah defeats Ammon but is bound by a rash vow concerning his daughter; interpreters still debate what he did."
+  },
+  {
+    "id": "ruth-and-boaz",
+    "title": "Ruth and Boaz",
+    "date": {
+      "year": -1100,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Three generations before David (c. 1100)",
+          "year": -1100
+        },
+        {
+          "label": "Early judges period",
+          "year": -1300
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "moab",
+      "bethlehem"
+    ],
+    "personIds": [
+      "ruth",
+      "naomi",
+      "boaz",
+      "obed"
+    ],
+    "refs": [
+      "Ruth 1:1-22",
+      "Ruth 4:13-22"
+    ],
+    "summary": "In the days of the judges, Ruth the Moabite clings to Naomi, marries Boaz of Bethlehem, and becomes great-grandmother of David."
+  },
+  {
+    "id": "samuel-called",
+    "title": "Samuel called at Shiloh",
+    "date": {
+      "year": -1080,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "shiloh"
+    ],
+    "personIds": [
+      "samuel",
+      "eli",
+      "hannah"
+    ],
+    "refs": [
+      "1 Sam 1:20-28",
+      "1 Sam 3:1-21"
+    ],
+    "summary": "Hannah dedicates her son to the LORD; the boy Samuel hears God's voice at night in the Shiloh sanctuary and becomes a recognized prophet."
+  },
+  {
+    "id": "samson",
+    "title": "Samson against the Philistines",
+    "date": {
+      "year": -1075,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Early chronology",
+          "year": -1075
+        },
+        {
+          "label": "Late chronology",
+          "year": -1060
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "zorah",
+      "timnah",
+      "gaza"
+    ],
+    "personIds": [
+      "samson",
+      "delilah"
+    ],
+    "refs": [
+      "Judg 13:1-25",
+      "Judg 16:4-31"
+    ],
+    "summary": "Samson the Nazirite fights the Philistines, is betrayed by Delilah, and dies pulling down the temple of Dagon at Gaza."
+  },
+  {
+    "id": "ark-captured",
+    "title": "Ark captured at Aphek; Eli dies",
+    "date": {
+      "year": -1070,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "conquest-judges",
+    "placeIds": [
+      "shiloh",
+      "ashdod"
+    ],
+    "personIds": [
+      "eli"
+    ],
+    "refs": [
+      "1 Sam 4:1-22",
+      "1 Sam 5:1-12"
+    ],
+    "summary": "The Philistines defeat Israel and capture the ark; Eli's sons die and Eli falls dead at the news. The ark brings plague on the Philistine cities and is returned."
+  },
+  {
+    "id": "saul-anointed",
+    "title": "Saul anointed king",
+    "date": {
+      "year": -1050,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "ramah",
+      "mizpah",
+      "gibeah"
+    ],
+    "personIds": [
+      "saul-king",
+      "samuel"
+    ],
+    "refs": [
+      "1 Sam 8:4-22",
+      "1 Sam 10:1",
+      "1 Sam 10:17-27"
+    ],
+    "summary": "Israel asks for a king \"like all the nations.\" Samuel anoints Saul of Benjamin, who is publicly chosen by lot at Mizpah. The regnal figure in 1 Sam 13:1 is textually damaged, so his dates are approximate."
+  },
+  {
+    "id": "david-anointed",
+    "title": "David anointed at Bethlehem",
+    "date": {
+      "year": -1025,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "bethlehem"
+    ],
+    "personIds": [
+      "david",
+      "samuel",
+      "jesse"
+    ],
+    "refs": [
+      "1 Sam 16:1-13"
+    ],
+    "summary": "After rejecting Saul, the LORD sends Samuel to Jesse's house, where the youngest son, David, is anointed and the Spirit rushes upon him."
+  },
+  {
+    "id": "david-and-goliath",
+    "title": "David defeats Goliath",
+    "date": {
+      "year": -1020,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "gath"
+    ],
+    "personIds": [
+      "david",
+      "saul-king",
+      "jonathan"
+    ],
+    "refs": [
+      "1 Sam 17:1-58"
+    ],
+    "summary": "In the Valley of Elah the shepherd David kills the Philistine champion Goliath of Gath with a sling stone, declaring the battle is the LORD's."
+  },
+  {
+    "id": "death-of-saul",
+    "title": "Saul dies on Mount Gilboa",
+    "date": {
+      "year": -1010,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "mount-gilboa"
+    ],
+    "personIds": [
+      "saul-king",
+      "jonathan",
+      "david"
+    ],
+    "refs": [
+      "1 Sam 31:1-13",
+      "2 Sam 1:17-27"
+    ],
+    "summary": "The Philistines defeat Israel at Gilboa; Saul and Jonathan die. David laments them in the Song of the Bow."
+  },
+  {
+    "id": "david-king-hebron",
+    "title": "David king at Hebron",
+    "date": {
+      "year": -1010,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "hebron"
+    ],
+    "personIds": [
+      "david"
+    ],
+    "refs": [
+      "2 Sam 2:1-4",
+      "2 Sam 5:1-5"
+    ],
+    "summary": "Judah anoints David king at Hebron, where he reigns seven and a half years before all Israel makes him king."
+  },
+  {
+    "id": "jerusalem-captured",
+    "title": "David takes Jerusalem",
+    "date": {
+      "year": -1003,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "david",
+      "joab"
+    ],
+    "refs": [
+      "2 Sam 5:6-10",
+      "2 Sam 6:12-19"
+    ],
+    "summary": "David captures the Jebusite stronghold of Zion, makes it his capital, and brings the ark up with dancing. The Tel Dan inscription (9th c. BC) later refers to the \"House of David.\""
+  },
+  {
+    "id": "davidic-covenant",
+    "title": "God's covenant with David",
+    "date": {
+      "year": -1000,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "david",
+      "nathan"
+    ],
+    "refs": [
+      "2 Sam 7:1-29",
+      "Ps 89:3-4"
+    ],
+    "summary": "Through Nathan, God promises to build David a \"house\" and establish his offspring's throne forever, a promise later read messianically."
+  },
+  {
+    "id": "david-and-bathsheba",
+    "title": "David and Bathsheba",
+    "date": {
+      "year": -993,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "david",
+      "bathsheba",
+      "uriah",
+      "nathan"
+    ],
+    "refs": [
+      "2 Sam 11:1-27",
+      "2 Sam 12:1-15",
+      "Ps 51"
+    ],
+    "summary": "David takes Bathsheba and arranges Uriah's death; Nathan confronts him with a parable and David repents."
+  },
+  {
+    "id": "absalom-revolt",
+    "title": "Absalom's revolt",
+    "date": {
+      "year": -980,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem",
+      "hebron",
+      "mount-of-olives"
+    ],
+    "personIds": [
+      "absalom",
+      "david",
+      "joab"
+    ],
+    "refs": [
+      "2 Sam 15:1-37",
+      "2 Sam 18:1-33"
+    ],
+    "summary": "Absalom proclaims himself king at Hebron; David flees over the Mount of Olives. Absalom is killed by Joab and David mourns him."
+  },
+  {
+    "id": "solomon-king",
+    "title": "Solomon becomes king",
+    "date": {
+      "year": -970,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "solomon",
+      "david",
+      "bathsheba",
+      "nathan"
+    ],
+    "refs": [
+      "1 Kgs 1:28-40",
+      "1 Kgs 3:3-15"
+    ],
+    "summary": "Solomon is anointed at Gihon to forestall Adonijah; at Gibeon he asks God for wisdom."
+  },
+  {
+    "id": "temple-begun",
+    "title": "Solomon begins the temple",
+    "date": {
+      "year": -966,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem",
+      "moriah"
+    ],
+    "personIds": [
+      "solomon"
+    ],
+    "refs": [
+      "1 Kgs 6:1",
+      "2 Chr 3:1"
+    ],
+    "summary": "In Solomon's fourth year, \"the 480th year after Israel came out of Egypt,\" work begins on the temple on Mount Moriah. This verse is the anchor for the early exodus date."
+  },
+  {
+    "id": "temple-dedicated",
+    "title": "Temple dedicated",
+    "date": {
+      "year": -959,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "solomon"
+    ],
+    "refs": [
+      "1 Kgs 8:1-66",
+      "2 Chr 7:1-3"
+    ],
+    "summary": "The ark is brought into the Most Holy Place, the cloud of glory fills the house, and Solomon prays for Israel and the foreigner."
+  },
+  {
+    "id": "queen-of-sheba-visit",
+    "title": "Queen of Sheba visits Solomon",
+    "date": {
+      "year": -950,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "united-monarchy",
+    "placeIds": [
+      "sheba",
+      "jerusalem"
+    ],
+    "personIds": [
+      "queen-of-sheba",
+      "solomon"
+    ],
+    "refs": [
+      "1 Kgs 10:1-13",
+      "Matt 12:42"
+    ],
+    "summary": "The queen of Sheba (probably southern Arabia) tests Solomon with hard questions and praises his God."
+  },
+  {
+    "id": "kingdom-divided",
+    "title": "The kingdom divides",
+    "date": {
+      "year": -930,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "shechem",
+      "jerusalem"
+    ],
+    "personIds": [
+      "rehoboam",
+      "jeroboam-i"
+    ],
+    "refs": [
+      "1 Kgs 12:1-20",
+      "1 Kgs 11:29-39"
+    ],
+    "summary": "At Shechem Rehoboam refuses to lighten Solomon's yoke; the ten northern tribes make Jeroboam king. Judah and Benjamin remain with the house of David."
+  },
+  {
+    "id": "jeroboam-calves",
+    "title": "Jeroboam's golden calves",
+    "date": {
+      "year": -930,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "bethel",
+      "dan"
+    ],
+    "personIds": [
+      "jeroboam-i"
+    ],
+    "refs": [
+      "1 Kgs 12:25-33",
+      "1 Kgs 13:1-5"
+    ],
+    "summary": "To keep his people from going to Jerusalem, Jeroboam sets up golden calves at Bethel and Dan and appoints his own priests and feasts, \"the sin of Jeroboam\" that Kings condemns in every northern reign."
+  },
+  {
+    "id": "shishak-invasion",
+    "title": "Shishak (Shoshenq I) invades",
+    "date": {
+      "year": -925,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "megiddo",
+      "egypt"
+    ],
+    "personIds": [
+      "rehoboam"
+    ],
+    "refs": [
+      "1 Kgs 14:25-28",
+      "2 Chr 12:1-12"
+    ],
+    "summary": "In Rehoboam's fifth year Pharaoh Shishak takes the treasures of the temple. Shoshenq I's relief at Karnak lists towns he campaigned against; a fragment of his stele was found at Megiddo."
+  },
+  {
+    "id": "omri-founds-samaria",
+    "title": "Omri founds Samaria",
+    "date": {
+      "year": -880,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "samaria",
+      "tirzah"
+    ],
+    "personIds": [],
+    "refs": [
+      "1 Kgs 16:23-28"
+    ],
+    "summary": "Omri moves the northern capital from Tirzah to the hill of Samaria. Assyrian records continue to call Israel \"the house of Omri\" long after his dynasty fell; the Mesha Stele names him too."
+  },
+  {
+    "id": "jehoshaphat-reform",
+    "title": "Jehoshaphat's reforms",
+    "date": {
+      "year": -870,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "jehoshaphat"
+    ],
+    "refs": [
+      "2 Chr 17:1-9",
+      "2 Chr 19:4-11"
+    ],
+    "summary": "Jehoshaphat of Judah sends Levites to teach the Book of the Law in the cities and appoints judges, while allying with Ahab by marriage."
+  },
+  {
+    "id": "elijah-carmel",
+    "title": "Elijah on Mount Carmel",
+    "date": {
+      "year": -860,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "mount-carmel",
+      "jezreel",
+      "zarephath"
+    ],
+    "personIds": [
+      "elijah",
+      "ahab",
+      "jezebel"
+    ],
+    "refs": [
+      "1 Kgs 17:1-24",
+      "1 Kgs 18:17-46"
+    ],
+    "summary": "After a three-year drought, Elijah challenges the prophets of Baal on Carmel; fire falls on the LORD's altar and the people cry, \"The LORD, he is God.\""
+  },
+  {
+    "id": "elijah-horeb",
+    "title": "Elijah at Horeb",
+    "date": {
+      "year": -860,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "beersheba",
+      "horeb"
+    ],
+    "personIds": [
+      "elijah",
+      "elisha"
+    ],
+    "refs": [
+      "1 Kgs 19:1-21"
+    ],
+    "summary": "Fleeing Jezebel, Elijah travels forty days to Horeb, hears the LORD not in wind, earthquake or fire but in \"a low whisper,\" and is sent to anoint Hazael, Jehu and Elisha."
+  },
+  {
+    "id": "battle-of-qarqar",
+    "title": "Battle of Qarqar",
+    "date": {
+      "year": -853,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "assyria",
+      "damascus"
+    ],
+    "personIds": [
+      "ahab"
+    ],
+    "refs": [],
+    "summary": "Shalmaneser III of Assyria fights a coalition of western kings at Qarqar on the Orontes. His Kurkh Monolith credits \"Ahab the Israelite\" with 2,000 chariots, the first extra-biblical mention of an Israelite king by name. The Bible does not mention the battle."
+  },
+  {
+    "id": "naboth-and-micaiah",
+    "title": "Micaiah's warning; Ahab dies at Ramoth-gilead",
+    "date": {
+      "year": -853,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "samaria"
+    ],
+    "personIds": [
+      "micaiah",
+      "ahab",
+      "jehoshaphat"
+    ],
+    "refs": [
+      "1 Kgs 21:1-29",
+      "1 Kgs 22:1-40"
+    ],
+    "summary": "After Ahab seizes Naboth's vineyard, the lone prophet Micaiah foretells his death; Ahab is killed by a random arrow at Ramoth-gilead."
+  },
+  {
+    "id": "elijah-taken-up",
+    "title": "Elijah taken up; Elisha succeeds",
+    "date": {
+      "year": -848,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jordan-river",
+      "jericho",
+      "bethel"
+    ],
+    "personIds": [
+      "elijah",
+      "elisha"
+    ],
+    "refs": [
+      "2 Kgs 2:1-15"
+    ],
+    "summary": "Elijah is taken to heaven in a whirlwind with chariots of fire; Elisha picks up his cloak and receives a double portion of his spirit."
+  },
+  {
+    "id": "naaman-healed",
+    "title": "Naaman healed",
+    "date": {
+      "year": -845,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jordan-river",
+      "damascus",
+      "samaria"
+    ],
+    "personIds": [
+      "elisha",
+      "naaman"
+    ],
+    "refs": [
+      "2 Kgs 5:1-27",
+      "Luke 4:27"
+    ],
+    "summary": "The Aramean commander Naaman washes seven times in the Jordan at Elisha's word and is cleansed of leprosy."
+  },
+  {
+    "id": "jehu-revolt",
+    "title": "Jehu's coup",
+    "date": {
+      "year": -841,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jezreel",
+      "samaria"
+    ],
+    "personIds": [
+      "jehu",
+      "jezebel",
+      "elisha"
+    ],
+    "refs": [
+      "2 Kgs 9:1-37",
+      "2 Kgs 10:18-31"
+    ],
+    "summary": "Anointed at Elisha's command, Jehu kills Joram of Israel, Ahaziah of Judah and Jezebel, and purges Baal worship. Shalmaneser III's Black Obelisk shows \"Jehu son of Omri\" bowing with tribute."
+  },
+  {
+    "id": "mesha-stele",
+    "title": "Mesha Stele",
+    "date": {
+      "year": -840,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "moab"
+    ],
+    "personIds": [],
+    "refs": [
+      "2 Kgs 3:4-27"
+    ],
+    "summary": "King Mesha of Moab records his revolt against Israel and names Omri and the God of Israel (YHWH); it parallels the Moabite rebellion in 2 Kings 3."
+  },
+  {
+    "id": "athaliah-joash",
+    "title": "Athaliah usurps; Joash crowned",
+    "date": {
+      "year": -835,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "athaliah",
+      "joash-judah"
+    ],
+    "refs": [
+      "2 Kgs 11:1-21"
+    ],
+    "summary": "Athaliah, Ahab's daughter, murders the royal heirs of Judah, but the infant Joash is hidden in the temple; after six years the priest Jehoiada crowns him."
+  },
+  {
+    "id": "jonah-nineveh",
+    "title": "Jonah preaches in Nineveh",
+    "date": {
+      "year": -760,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Historical setting under Jeroboam II",
+          "year": -760
+        },
+        {
+          "label": "Post-exilic composition (critical view)",
+          "year": -450
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "joppa",
+      "nineveh"
+    ],
+    "personIds": [
+      "jonah"
+    ],
+    "refs": [
+      "2 Kgs 14:25",
+      "Jonah 1:1-3",
+      "Jonah 3:1-10"
+    ],
+    "summary": "Jonah son of Amittai, a prophet under Jeroboam II, flees from his call, is swallowed by a great fish, and preaches to Nineveh, which repents. Readers differ on whether the book is historical narrative or a parable-like story."
+  },
+  {
+    "id": "amos-ministry",
+    "title": "Amos prophesies at Bethel",
+    "date": {
+      "year": -760,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "tekoa",
+      "bethel"
+    ],
+    "personIds": [
+      "amos"
+    ],
+    "refs": [
+      "Amos 1:1",
+      "Amos 5:21-24",
+      "Amos 7:10-17"
+    ],
+    "summary": "Amos, a herdsman of Tekoa, denounces Israel's injustice \"two years before the earthquake\" in the prosperous days of Jeroboam II."
+  },
+  {
+    "id": "hosea-ministry",
+    "title": "Hosea's marriage and message",
+    "date": {
+      "year": -750,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "samaria"
+    ],
+    "personIds": [
+      "hosea"
+    ],
+    "refs": [
+      "Hos 1:1-11",
+      "Hos 11:1-9"
+    ],
+    "summary": "Hosea is told to marry Gomer, whose unfaithfulness pictures Israel's; he proclaims God's jealous, persistent love."
+  },
+  {
+    "id": "tiglath-pileser",
+    "title": "Tiglath-pileser III revives Assyria",
+    "date": {
+      "year": -745,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "assyria"
+    ],
+    "personIds": [],
+    "refs": [
+      "2 Kgs 15:19-20",
+      "2 Kgs 15:29"
+    ],
+    "summary": "Tiglath-pileser III (called Pul) reorganizes Assyria into a standing empire and deports conquered peoples; Menahem pays him tribute and he later annexes Galilee."
+  },
+  {
+    "id": "isaiah-call",
+    "title": "Isaiah's temple vision",
+    "date": {
+      "year": -740,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "isaiah",
+      "uzziah"
+    ],
+    "refs": [
+      "Isa 6:1-13"
+    ],
+    "summary": "In the year King Uzziah died, Isaiah sees the LORD high and lifted up and hears the seraphim cry \"Holy, holy, holy.\""
+  },
+  {
+    "id": "syro-ephraimite-war",
+    "title": "Syro-Ephraimite war; the Immanuel sign",
+    "date": {
+      "year": -734,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "damascus",
+      "samaria"
+    ],
+    "personIds": [
+      "isaiah"
+    ],
+    "refs": [
+      "Isa 7:1-17",
+      "2 Kgs 16:5-9"
+    ],
+    "summary": "Aram and Israel attack Judah to force it into an anti-Assyrian alliance. Isaiah offers Ahaz the sign of Immanuel; Ahaz instead buys Assyrian help, and Damascus falls in 732 BC."
+  },
+  {
+    "id": "micah-ministry",
+    "title": "Micah of Moresheth",
+    "date": {
+      "year": -725,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "samaria"
+    ],
+    "personIds": [
+      "micah"
+    ],
+    "refs": [
+      "Mic 1:1",
+      "Mic 5:2",
+      "Mic 6:8",
+      "Jer 26:18"
+    ],
+    "summary": "Micah warns that Zion will be plowed like a field and foretells a ruler from Bethlehem; a century later Jeremiah's defenders cite him."
+  },
+  {
+    "id": "fall-of-samaria",
+    "title": "Fall of Samaria",
+    "date": {
+      "year": -722,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "israel",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "samaria",
+      "assyria"
+    ],
+    "personIds": [],
+    "refs": [
+      "2 Kgs 17:1-23",
+      "2 Kgs 18:9-12"
+    ],
+    "summary": "After a three-year siege Samaria falls to Assyria (Shalmaneser V, with Sargon II claiming the deportation of 27,290 people). The northern kingdom ends; Kings explains it as the fruit of covenant unfaithfulness."
+  },
+  {
+    "id": "hezekiah-reform",
+    "title": "Hezekiah's reform",
+    "date": {
+      "year": -715,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Accession 715 BC (Thiele)",
+          "year": -715
+        },
+        {
+          "label": "Accession 727/726 BC (2 Kgs 18:1, 9-10 synchronisms)",
+          "year": -727
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "hezekiah"
+    ],
+    "refs": [
+      "2 Kgs 18:1-8",
+      "2 Chr 29:1-36",
+      "2 Chr 30:1-27"
+    ],
+    "summary": "Hezekiah removes the high places, breaks the bronze serpent, cleanses the temple and holds a great Passover inviting northerners too."
+  },
+  {
+    "id": "sennacherib-siege",
+    "title": "Sennacherib besieges Jerusalem",
+    "date": {
+      "year": -701,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "lachish",
+      "assyria"
+    ],
+    "personIds": [
+      "sennacherib",
+      "hezekiah",
+      "isaiah"
+    ],
+    "refs": [
+      "2 Kgs 18:13-19:37",
+      "Isa 36:1-37:38"
+    ],
+    "summary": "Sennacherib devastates Judah and takes Lachish (shown on his palace reliefs at Nineveh). His annals boast he shut Hezekiah up \"like a bird in a cage\" but do not claim Jerusalem's capture; the Bible records the Assyrian army struck down and Sennacherib's withdrawal."
+  },
+  {
+    "id": "hezekiah-tunnel",
+    "title": "Hezekiah's tunnel",
+    "date": {
+      "year": -701,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "hezekiah"
+    ],
+    "refs": [
+      "2 Kgs 20:20",
+      "2 Chr 32:30"
+    ],
+    "summary": "Hezekiah channels the Gihon spring into the city; the Siloam Inscription describes the two crews of tunnelers meeting."
+  },
+  {
+    "id": "manasseh-reign",
+    "title": "Manasseh's long reign",
+    "date": {
+      "year": -697,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "babylon"
+    ],
+    "personIds": [
+      "manasseh-king"
+    ],
+    "refs": [
+      "2 Kgs 21:1-18",
+      "2 Chr 33:10-17"
+    ],
+    "summary": "Manasseh rebuilds the high places and sheds much innocent blood; Chronicles adds his captivity and repentance. Kings names him the decisive cause of the exile."
+  },
+  {
+    "id": "jeremiah-call",
+    "title": "Jeremiah called",
+    "date": {
+      "year": -627,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "anathoth"
+    ],
+    "personIds": [
+      "jeremiah"
+    ],
+    "refs": [
+      "Jer 1:1-19"
+    ],
+    "summary": "In Josiah's thirteenth year the young priest's son from Anathoth is appointed \"a prophet to the nations.\""
+  },
+  {
+    "id": "josiah-reform",
+    "title": "Book of the Law found; Josiah's reform",
+    "date": {
+      "year": -622,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "bethel"
+    ],
+    "personIds": [
+      "josiah",
+      "huldah"
+    ],
+    "refs": [
+      "2 Kgs 22:3-20",
+      "2 Kgs 23:1-25"
+    ],
+    "summary": "Repairs to the temple uncover the Book of the Law; the prophetess Huldah confirms its warnings, and Josiah purges idolatry as far as Bethel and keeps a great Passover."
+  },
+  {
+    "id": "fall-of-nineveh",
+    "title": "Fall of Nineveh",
+    "date": {
+      "year": -612,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "nineveh",
+      "babylon"
+    ],
+    "personIds": [
+      "nahum"
+    ],
+    "refs": [
+      "Nah 3:1-19",
+      "Zeph 2:13-15"
+    ],
+    "summary": "Babylonians and Medes sack Nineveh, as Nahum and Zephaniah had announced; the Assyrian remnant retreats to Haran."
+  },
+  {
+    "id": "josiah-dies",
+    "title": "Josiah killed at Megiddo",
+    "date": {
+      "year": -609,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "megiddo"
+    ],
+    "personIds": [
+      "josiah"
+    ],
+    "refs": [
+      "2 Kgs 23:29-30",
+      "2 Chr 35:20-25"
+    ],
+    "summary": "Josiah confronts Pharaoh Necho II, marching north to aid Assyria, and is killed at Megiddo. Jeremiah laments him."
+  },
+  {
+    "id": "battle-of-carchemish",
+    "title": "Battle of Carchemish",
+    "date": {
+      "year": -605,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "babylon",
+      "egypt"
+    ],
+    "personIds": [
+      "nebuchadnezzar",
+      "jeremiah"
+    ],
+    "refs": [
+      "Jer 46:2",
+      "2 Kgs 24:7"
+    ],
+    "summary": "Crown prince Nebuchadnezzar crushes Necho's Egyptian army at Carchemish on the Euphrates, making Babylon master of the Levant. The Babylonian Chronicle confirms the date."
+  },
+  {
+    "id": "daniel-taken",
+    "title": "Daniel taken to Babylon",
+    "date": {
+      "year": -605,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Traditional: events as narrated, 605 BC",
+          "year": -605
+        },
+        {
+          "label": "Critical: stories composed later; book finalized c. 165 BC",
+          "year": -165
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "babylon"
+    ],
+    "personIds": [
+      "daniel",
+      "shadrach",
+      "meshach",
+      "abednego",
+      "nebuchadnezzar"
+    ],
+    "refs": [
+      "Dan 1:1-21"
+    ],
+    "summary": "Nebuchadnezzar takes young nobles, including Daniel and his three friends, to be trained in Babylon. Dan 1:1 dates this to Jehoiakim's third year."
+  },
+  {
+    "id": "nebuchadnezzar-dream",
+    "title": "Nebuchadnezzar's dream of the statue",
+    "date": {
+      "year": -603,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Traditional dating",
+          "year": -603
+        },
+        {
+          "label": "Critical: composed c. 165 BC",
+          "year": -165
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [
+      "daniel",
+      "nebuchadnezzar"
+    ],
+    "refs": [
+      "Dan 2:1-49"
+    ],
+    "summary": "Daniel interprets the king's dream of a statue of four metals struck by a stone that becomes a mountain filling the earth."
+  },
+  {
+    "id": "deportation-597",
+    "title": "Jehoiachin and Ezekiel deported",
+    "date": {
+      "year": -597,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "babylon"
+    ],
+    "personIds": [
+      "nebuchadnezzar",
+      "ezekiel"
+    ],
+    "refs": [
+      "2 Kgs 24:10-17",
+      "Ezek 1:1-3"
+    ],
+    "summary": "Nebuchadnezzar takes Jerusalem on 16 March 597 BC (Babylonian Chronicle), exiles King Jehoiachin with ten thousand leading citizens, and sets Zedekiah on the throne."
+  },
+  {
+    "id": "ezekiel-call",
+    "title": "Ezekiel's inaugural vision",
+    "date": {
+      "year": -593,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "chebar-canal",
+      "babylon"
+    ],
+    "personIds": [
+      "ezekiel"
+    ],
+    "refs": [
+      "Ezek 1:1-28",
+      "Ezek 3:15"
+    ],
+    "summary": "By the Chebar canal the priest Ezekiel sees the glory of God on a chariot-throne and is sent as a watchman to the exiles."
+  },
+  {
+    "id": "fiery-furnace",
+    "title": "The fiery furnace",
+    "date": {
+      "year": -590,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Traditional dating",
+          "year": -590
+        },
+        {
+          "label": "Critical: composed c. 165 BC",
+          "year": -165
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [
+      "shadrach",
+      "meshach",
+      "abednego",
+      "nebuchadnezzar"
+    ],
+    "refs": [
+      "Dan 3:1-30"
+    ],
+    "summary": "Shadrach, Meshach and Abednego refuse to worship the golden image and are delivered from the furnace with a fourth figure among them."
+  },
+  {
+    "id": "fall-of-jerusalem",
+    "title": "Fall of Jerusalem; temple burned",
+    "date": {
+      "year": -586,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "586 BC",
+          "year": -586
+        },
+        {
+          "label": "587 BC",
+          "year": -587
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "divided-kingdom",
+    "placeIds": [
+      "jerusalem",
+      "babylon",
+      "lachish"
+    ],
+    "personIds": [
+      "zedekiah",
+      "nebuchadnezzar",
+      "jeremiah"
+    ],
+    "refs": [
+      "2 Kgs 25:1-21",
+      "Jer 39:1-10",
+      "Lam 1:1-6"
+    ],
+    "summary": "After an eighteen-month siege Babylon breaches the walls; Zedekiah is blinded, the temple is burned and many are deported. The Lachish ostraca record the last days of Judah's defense. Some date the fall to 587 BC."
+  },
+  {
+    "id": "gedaliah-murdered",
+    "title": "Gedaliah murdered; flight to Egypt",
+    "date": {
+      "year": -582,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Same year as fall, 586 BC",
+          "year": -586
+        },
+        {
+          "label": "Later, linked to 582 deportation (Jer 52:30)",
+          "year": -582
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "exile",
+    "placeIds": [
+      "mizpah",
+      "egypt"
+    ],
+    "personIds": [
+      "jeremiah",
+      "baruch"
+    ],
+    "refs": [
+      "Jer 41:1-3",
+      "Jer 43:4-7"
+    ],
+    "summary": "The Babylonian-appointed governor Gedaliah is assassinated at Mizpah; fearing reprisal, the remnant flees to Egypt, taking Jeremiah and Baruch."
+  },
+  {
+    "id": "jehoiachin-released",
+    "title": "Jehoiachin released",
+    "date": {
+      "year": -562,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "exile",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [],
+    "refs": [
+      "2 Kgs 25:27-30",
+      "Jer 52:31-34"
+    ],
+    "summary": "Evil-merodach releases Jehoiachin from prison and gives him a place at the king's table. Babylonian ration tablets list \"Ya'ukin, king of Judah.\""
+  },
+  {
+    "id": "daniel-visions",
+    "title": "Daniel's visions of the four beasts",
+    "date": {
+      "year": -553,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Traditional: sixth-century Daniel",
+          "year": -553
+        },
+        {
+          "label": "Critical: composed during Antiochus IV's persecution",
+          "year": -165
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "exile",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [
+      "daniel"
+    ],
+    "refs": [
+      "Dan 7:1-28",
+      "Dan 9:20-27"
+    ],
+    "summary": "In Belshazzar's first year Daniel sees four beasts and \"one like a son of man\" receiving an everlasting kingdom. The date of the book is debated: traditionally Daniel wrote in the sixth century; many critical scholars date its final form to the Maccabean crisis c. 165 BC."
+  },
+  {
+    "id": "fall-of-babylon",
+    "title": "Babylon falls to Cyrus; Belshazzar's feast",
+    "date": {
+      "year": -539,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "exile",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [
+      "daniel",
+      "cyrus"
+    ],
+    "refs": [
+      "Dan 5:1-31",
+      "Isa 45:1-7"
+    ],
+    "summary": "Persian forces take Babylon in October 539 BC. Daniel reads the writing on the wall at Belshazzar's feast. The Nabonidus Chronicle and Cyrus Cylinder describe the city's fall; Belshazzar is known as Nabonidus's co-regent son."
+  },
+  {
+    "id": "lions-den",
+    "title": "Daniel in the lions' den",
+    "date": {
+      "year": -538,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Traditional dating",
+          "year": -538
+        },
+        {
+          "label": "Critical: composed c. 165 BC",
+          "year": -165
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "exile",
+    "placeIds": [
+      "babylon"
+    ],
+    "personIds": [
+      "daniel"
+    ],
+    "refs": [
+      "Dan 6:1-28"
+    ],
+    "summary": "Under \"Darius the Mede,\" Daniel keeps praying toward Jerusalem and is delivered from the lions. The identity of Darius the Mede is itself debated (Gubaru, Cyrus under another title, or a literary figure)."
+  },
+  {
+    "id": "cyrus-decree",
+    "title": "Decree of Cyrus",
+    "date": {
+      "year": -538,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "return",
+    "placeIds": [
+      "babylon",
+      "jerusalem"
+    ],
+    "personIds": [
+      "cyrus",
+      "zerubbabel",
+      "joshua-high-priest"
+    ],
+    "refs": [
+      "Ezra 1:1-4",
+      "2 Chr 36:22-23",
+      "Isa 44:28"
+    ],
+    "summary": "In his first year Cyrus permits the exiles to return and rebuild the house of God. The Cyrus Cylinder records his general policy of restoring peoples and their gods."
+  },
+  {
+    "id": "temple-foundation",
+    "title": "Second temple foundation laid",
+    "date": {
+      "year": -536,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "return",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "zerubbabel",
+      "joshua-high-priest"
+    ],
+    "refs": [
+      "Ezra 3:8-13"
+    ],
+    "summary": "Returnees lay the foundation; the young shout for joy while the old who remembered Solomon's temple weep. Opposition halts the work."
+  },
+  {
+    "id": "haggai-zechariah",
+    "title": "Haggai and Zechariah stir the rebuilding",
+    "date": {
+      "year": -520,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "prophets",
+    "eraId": "return",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "haggai",
+      "zechariah-prophet",
+      "zerubbabel",
+      "joshua-high-priest"
+    ],
+    "refs": [
+      "Hag 1:1-15",
+      "Zech 1:1-6",
+      "Ezra 5:1-2"
+    ],
+    "summary": "In Darius I's second year, the prophets rebuke the people for paneled houses while God's house lies in ruins; work resumes."
+  },
+  {
+    "id": "temple-completed",
+    "title": "Second temple completed",
+    "date": {
+      "year": -516,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "516 BC",
+          "year": -516
+        },
+        {
+          "label": "515 BC",
+          "year": -515
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "return",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "zerubbabel"
+    ],
+    "refs": [
+      "Ezra 6:13-22"
+    ],
+    "summary": "The temple is finished in Darius's sixth year (515 BC by some reckonings) and dedicated with Passover."
+  },
+  {
+    "id": "roman-republic",
+    "title": "Roman Republic founded",
+    "date": {
+      "year": -509,
+      "confidence": "tradition",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "return",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "By Roman tradition the last king is expelled and the Republic founded; Rome will dominate the Mediterranean within four centuries."
+  },
+  {
+    "id": "marathon",
+    "title": "Battle of Marathon",
+    "date": {
+      "year": -490,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "return",
+    "placeIds": [
+      "athens"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Athens repels Darius I's invasion at Marathon; ten years later Xerxes' invasion fails at Salamis (480 BC)."
+  },
+  {
+    "id": "esther-queen",
+    "title": "Esther becomes queen; Purim",
+    "date": {
+      "year": -479,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "return",
+    "placeIds": [
+      "susa"
+    ],
+    "personIds": [
+      "esther",
+      "mordecai"
+    ],
+    "refs": [
+      "Esth 2:16-17",
+      "Esth 9:20-32"
+    ],
+    "summary": "In Xerxes' (Ahasuerus') seventh year Esther becomes queen; she later risks her life to avert Haman's plot, and the Jews keep Purim."
+  },
+  {
+    "id": "ezra-arrives",
+    "title": "Ezra arrives in Jerusalem",
+    "date": {
+      "year": -458,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Artaxerxes I (traditional)",
+          "year": -458
+        },
+        {
+          "label": "Artaxerxes II (Ezra after Nehemiah)",
+          "year": -398
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "return",
+    "placeIds": [
+      "babylon",
+      "jerusalem"
+    ],
+    "personIds": [
+      "ezra"
+    ],
+    "refs": [
+      "Ezra 7:1-10",
+      "Neh 8:1-12"
+    ],
+    "summary": "Ezra the scribe comes \"in the seventh year of Artaxerxes\" to teach the Law; he later reads it publicly while Levites explain the sense. Whether this was Artaxerxes I or II is debated."
+  },
+  {
+    "id": "nehemiah-walls",
+    "title": "Nehemiah rebuilds the walls",
+    "date": {
+      "year": -445,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "return",
+    "placeIds": [
+      "susa",
+      "jerusalem"
+    ],
+    "personIds": [
+      "nehemiah"
+    ],
+    "refs": [
+      "Neh 2:1-8",
+      "Neh 6:15-16"
+    ],
+    "summary": "The king's cupbearer receives permission in Artaxerxes I's twentieth year; the walls are finished in fifty-two days despite Sanballat and Tobiah."
+  },
+  {
+    "id": "malachi",
+    "title": "Malachi, last of the prophets",
+    "date": {
+      "year": -430,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "prophets",
+    "eraId": "return",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "malachi"
+    ],
+    "refs": [
+      "Mal 1:6-14",
+      "Mal 3:1",
+      "Mal 4:5-6"
+    ],
+    "summary": "Malachi confronts careless priests and broken marriages and promises a messenger and the return of Elijah. Jewish tradition sees prophecy ceasing after him."
+  },
+  {
+    "id": "alexander-conquest",
+    "title": "Alexander conquers the Levant",
+    "date": {
+      "year": -332,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "second-temple",
+    "placeIds": [
+      "tyre",
+      "gaza",
+      "egypt",
+      "alexandria"
+    ],
+    "personIds": [],
+    "refs": [
+      "Dan 8:5-8"
+    ],
+    "summary": "Alexander the Great besieges Tyre and Gaza, takes Egypt and founds Alexandria. Many read Daniel's swift he-goat as Greece. Greek language and culture spread across the east."
+  },
+  {
+    "id": "ptolemies-seleucids",
+    "title": "Ptolemies and Seleucids divide the east",
+    "date": {
+      "year": -301,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "second-temple",
+    "placeIds": [
+      "alexandria",
+      "antioch-syria",
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [
+      "Dan 11:5-6"
+    ],
+    "summary": "After the battle of Ipsus Alexander's generals carve up his empire; Judea passes under the Ptolemies of Egypt until 198 BC, then the Seleucids of Syria. Daniel 11 traces \"kings of the south and north.\""
+  },
+  {
+    "id": "septuagint",
+    "title": "Septuagint translated",
+    "date": {
+      "year": -250,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "second-temple",
+    "placeIds": [
+      "alexandria"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Torah is translated into Greek in Alexandria (the Letter of Aristeas tells of seventy-two translators); the rest of the scriptures follow over the next century. The Septuagint becomes the Bible of the early church."
+  },
+  {
+    "id": "antiochus-desecration",
+    "title": "Antiochus IV desecrates the temple",
+    "date": {
+      "year": -167,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [
+      "Dan 11:31",
+      "Dan 8:9-14"
+    ],
+    "summary": "Antiochus IV Epiphanes bans circumcision and Sabbath and sets up an altar to Zeus in the temple, the \"abomination that makes desolate\" of Daniel."
+  },
+  {
+    "id": "maccabean-revolt",
+    "title": "Maccabean revolt",
+    "date": {
+      "year": -167,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "judah",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The priest Mattathias and his sons, led by Judas Maccabeus, revolt against Seleucid rule (1 Maccabees 2–4, in the Apocrypha)."
+  },
+  {
+    "id": "temple-rededicated",
+    "title": "Temple rededicated (Hanukkah)",
+    "date": {
+      "year": -164,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "judah",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [
+      "John 10:22-23"
+    ],
+    "summary": "Judas Maccabeus cleanses the temple and rededicates the altar, the origin of the Feast of Dedication that Jesus attended in Jerusalem."
+  },
+  {
+    "id": "qumran-community",
+    "title": "Qumran community and the sects",
+    "date": {
+      "year": -150,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "second-temple",
+    "placeIds": [
+      "dead-sea"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Pharisees, Sadducees and Essenes emerge; a community at Qumran by the Dead Sea copies scriptures and sectarian texts later found as the Dead Sea Scrolls."
+  },
+  {
+    "id": "hasmonean-independence",
+    "title": "Hasmonean independence",
+    "date": {
+      "year": -142,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "judah",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Under Simon the Seleucids recognize Judean independence; the Hasmoneans rule as high priests and later kings, expanding into Idumea, Samaria and Galilee."
+  },
+  {
+    "id": "pompey-jerusalem",
+    "title": "Pompey takes Jerusalem",
+    "date": {
+      "year": -63,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem",
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Called in to settle a Hasmonean civil war, Pompey captures Jerusalem and enters the Holy of Holies; Judea becomes a Roman client."
+  },
+  {
+    "id": "herod-king",
+    "title": "Herod the Great king of Judea",
+    "date": {
+      "year": -37,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "herod-the-great"
+    ],
+    "refs": [
+      "Matt 2:1"
+    ],
+    "summary": "Appointed \"king of the Jews\" by the Roman Senate (40 BC), Herod takes Jerusalem in 37 BC and rules as a client king."
+  },
+  {
+    "id": "augustus-emperor",
+    "title": "Augustus becomes emperor",
+    "date": {
+      "year": -27,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "second-temple",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "Luke 2:1"
+    ],
+    "summary": "Octavian receives the title Augustus; the Pax Romana opens roads and sea lanes later used by the apostles."
+  },
+  {
+    "id": "herod-temple",
+    "title": "Herod begins rebuilding the temple",
+    "date": {
+      "year": -20,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Josephus, Antiquities 15.380 (18th year)",
+          "year": -20
+        },
+        {
+          "label": "Josephus, War 1.401 (15th year)",
+          "year": -23
+        }
+      ]
+    },
+    "track": "judah",
+    "eraId": "second-temple",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "herod-the-great"
+    ],
+    "refs": [
+      "John 2:20",
+      "Mark 13:1-2"
+    ],
+    "summary": "Herod starts a vast reconstruction of the temple and its platform; work continues into the 60s AD."
+  },
+  {
+    "id": "birth-of-jesus",
+    "title": "Birth of Jesus",
+    "date": {
+      "year": -5,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "6–5 BC (before Herod's death in 4 BC)",
+          "year": -6
+        },
+        {
+          "label": "4 BC",
+          "year": -4
+        },
+        {
+          "label": "3/2 BC (Herod died 1 BC)",
+          "year": -2
+        },
+        {
+          "label": "Census of Quirinius AD 6 (if Luke means the known census)",
+          "year": 6
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "bethlehem",
+      "nazareth"
+    ],
+    "personIds": [
+      "jesus",
+      "mary-mother-of-jesus",
+      "joseph-of-nazareth"
+    ],
+    "refs": [
+      "Luke 2:1-20",
+      "Matt 1:18-2:1",
+      "Mic 5:2"
+    ],
+    "summary": "Jesus is born in Bethlehem in the days of Herod the Great. Because Herod died c. 4 BC (or, on a minority view, 1 BC) and Luke links the birth to a census under Quirinius, the year is debated; the traditional AD 1 rests on a sixth-century miscalculation by Dionysius Exiguus."
+  },
+  {
+    "id": "flight-to-egypt",
+    "title": "Magi visit; flight to Egypt",
+    "date": {
+      "year": -4,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Before Herod's death in 4 BC",
+          "year": -4
+        },
+        {
+          "label": "Herod died 1 BC",
+          "year": -2
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "bethlehem",
+      "egypt",
+      "nazareth"
+    ],
+    "personIds": [
+      "jesus",
+      "mary-mother-of-jesus",
+      "joseph-of-nazareth",
+      "herod-the-great"
+    ],
+    "refs": [
+      "Matt 2:1-23"
+    ],
+    "summary": "Magi from the east worship the child; warned in a dream, Joseph takes the family to Egypt until Herod dies, then settles in Nazareth."
+  },
+  {
+    "id": "herod-dies",
+    "title": "Death of Herod the Great",
+    "date": {
+      "year": -4,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "4 BC (majority)",
+          "year": -4
+        },
+        {
+          "label": "1 BC (minority)",
+          "year": -1
+        }
+      ]
+    },
+    "track": "empires",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "herod-the-great",
+      "herod-antipas"
+    ],
+    "refs": [
+      "Matt 2:19-22"
+    ],
+    "summary": "Herod dies after a lunar eclipse and before Passover (Josephus). His kingdom is split among Archelaus, Antipas and Philip."
+  },
+  {
+    "id": "boy-jesus-temple",
+    "title": "Jesus at twelve in the temple",
+    "date": {
+      "year": 8,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Birth c. 5 BC",
+          "year": 8
+        },
+        {
+          "label": "Birth c. 2 BC",
+          "year": 10
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "jerusalem",
+      "nazareth"
+    ],
+    "personIds": [
+      "jesus",
+      "mary-mother-of-jesus",
+      "joseph-of-nazareth"
+    ],
+    "refs": [
+      "Luke 2:41-52"
+    ],
+    "summary": "At Passover the boy Jesus stays behind, listening and asking questions among the teachers: \"I must be in my Father's house.\""
+  },
+  {
+    "id": "tiberius-emperor",
+    "title": "Tiberius becomes emperor",
+    "date": {
+      "year": 14,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "Luke 3:1"
+    ],
+    "summary": "Tiberius succeeds Augustus. Luke dates John the Baptist's ministry to the fifteenth year of his reign."
+  },
+  {
+    "id": "pilate-prefect",
+    "title": "Pontius Pilate prefect of Judea",
+    "date": {
+      "year": 26,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "caesarea-maritima",
+      "jerusalem"
+    ],
+    "personIds": [
+      "pontius-pilate"
+    ],
+    "refs": [
+      "Luke 3:1",
+      "Luke 13:1"
+    ],
+    "summary": "Pilate governs Judea (26–36). A dedicatory stone found at Caesarea Maritima in 1961 names him \"prefect of Judea.\""
+  },
+  {
+    "id": "john-baptist-ministry",
+    "title": "John the Baptist begins preaching",
+    "date": {
+      "year": 28,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Counting from Tiberius's sole rule (AD 14)",
+          "year": 28
+        },
+        {
+          "label": "Counting from a co-regency (AD 12)",
+          "year": 26
+        }
+      ]
+    },
+    "track": "prophets",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "jordan-river"
+    ],
+    "personIds": [
+      "john-the-baptist"
+    ],
+    "refs": [
+      "Luke 3:1-18",
+      "Mark 1:2-8"
+    ],
+    "summary": "In Tiberius's fifteenth year (AD 28/29) John calls Israel to a baptism of repentance in the Jordan."
+  },
+  {
+    "id": "baptism-of-jesus",
+    "title": "Baptism and temptation of Jesus",
+    "date": {
+      "year": 28,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 28/29 (with AD 30 crucifixion)",
+          "year": 28
+        },
+        {
+          "label": "AD 29 (with AD 33 crucifixion)",
+          "year": 29
+        },
+        {
+          "label": "AD 26/27 (early chronology)",
+          "year": 26
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "jordan-river"
+    ],
+    "personIds": [
+      "jesus",
+      "john-the-baptist"
+    ],
+    "refs": [
+      "Matt 3:13-17",
+      "Matt 4:1-11",
+      "Luke 3:23"
+    ],
+    "summary": "Jesus, about thirty, is baptized by John; the Spirit descends and the Father speaks. He is then tested forty days in the wilderness."
+  },
+  {
+    "id": "wedding-at-cana",
+    "title": "Water into wine at Cana",
+    "date": {
+      "year": 28,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 28",
+          "year": 28
+        },
+        {
+          "label": "AD 29/30",
+          "year": 30
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "cana"
+    ],
+    "personIds": [
+      "jesus",
+      "mary-mother-of-jesus"
+    ],
+    "refs": [
+      "John 2:1-11"
+    ],
+    "summary": "At a wedding in Cana Jesus turns water into wine, \"the first of his signs,\" and his disciples believe."
+  },
+  {
+    "id": "sermon-on-the-mount",
+    "title": "Sermon on the Mount",
+    "date": {
+      "year": 29,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Shorter chronology",
+          "year": 29
+        },
+        {
+          "label": "Longer chronology",
+          "year": 31
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "capernaum",
+      "sea-of-galilee"
+    ],
+    "personIds": [
+      "jesus",
+      "peter",
+      "andrew"
+    ],
+    "refs": [
+      "Matt 5:1-7:29",
+      "Luke 6:17-49"
+    ],
+    "summary": "On a hill near the Sea of Galilee Jesus teaches the beatitudes, the Lord's Prayer, and the call to a righteousness exceeding that of the scribes."
+  },
+  {
+    "id": "peters-confession",
+    "title": "Peter's confession",
+    "date": {
+      "year": 29,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Before AD 30 Passover",
+          "year": 29
+        },
+        {
+          "label": "Before AD 33 Passover",
+          "year": 32
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "caesarea-philippi"
+    ],
+    "personIds": [
+      "jesus",
+      "peter"
+    ],
+    "refs": [
+      "Matt 16:13-23",
+      "Mark 8:27-33"
+    ],
+    "summary": "At Caesarea Philippi Peter confesses Jesus as the Christ; Jesus begins to teach that he must suffer, die and rise."
+  },
+  {
+    "id": "transfiguration",
+    "title": "The transfiguration",
+    "date": {
+      "year": 29,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Before AD 30 Passover",
+          "year": 29
+        },
+        {
+          "label": "Before AD 33 Passover",
+          "year": 32
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "mount-tabor"
+    ],
+    "personIds": [
+      "jesus",
+      "peter",
+      "james-son-of-zebedee",
+      "john-the-apostle"
+    ],
+    "refs": [
+      "Matt 17:1-8",
+      "Luke 9:28-36",
+      "2 Pet 1:16-18"
+    ],
+    "summary": "On a high mountain (traditionally Tabor, possibly Hermon) Jesus is transfigured and speaks with Moses and Elijah about his departure."
+  },
+  {
+    "id": "raising-of-lazarus",
+    "title": "Raising of Lazarus",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 30",
+          "year": 30
+        },
+        {
+          "label": "AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "bethany"
+    ],
+    "personIds": [
+      "jesus",
+      "lazarus",
+      "martha",
+      "mary-of-bethany",
+      "caiaphas"
+    ],
+    "refs": [
+      "John 11:1-53"
+    ],
+    "summary": "Jesus raises Lazarus four days dead; the Sanhedrin, led by Caiaphas, resolves that one man should die for the people."
+  },
+  {
+    "id": "triumphal-entry",
+    "title": "Triumphal entry",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 30",
+          "year": 30
+        },
+        {
+          "label": "AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "mount-of-olives",
+      "jerusalem",
+      "bethany"
+    ],
+    "personIds": [
+      "jesus"
+    ],
+    "refs": [
+      "Mark 11:1-11",
+      "Zech 9:9",
+      "John 12:12-19"
+    ],
+    "summary": "Jesus rides a colt into Jerusalem amid shouts of \"Hosanna,\" then clears the temple of traders."
+  },
+  {
+    "id": "crucifixion",
+    "title": "Crucifixion of Jesus",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "7 April AD 30",
+          "year": 30
+        },
+        {
+          "label": "3 April AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "gethsemane",
+      "golgotha",
+      "jerusalem"
+    ],
+    "personIds": [
+      "jesus",
+      "pontius-pilate",
+      "caiaphas",
+      "annas",
+      "judas-iscariot",
+      "mary-mother-of-jesus",
+      "john-the-apostle",
+      "mary-magdalene",
+      "joseph-of-arimathea"
+    ],
+    "refs": [
+      "Mark 14:32-15:47",
+      "John 19:16-42"
+    ],
+    "summary": "Betrayed in Gethsemane, tried before the high priest and Pilate, Jesus is crucified at Golgotha on a Friday at Passover and buried in Joseph of Arimathea's tomb. Astronomical calendars allow Nisan 14 on a Friday in AD 30 or AD 33; both have strong defenders."
+  },
+  {
+    "id": "resurrection",
+    "title": "Resurrection of Jesus",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 30",
+          "year": 30
+        },
+        {
+          "label": "AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "israel",
+    "eraId": "life-of-jesus",
+    "placeIds": [
+      "jerusalem",
+      "emmaus",
+      "sea-of-galilee"
+    ],
+    "personIds": [
+      "jesus",
+      "mary-magdalene",
+      "peter",
+      "thomas"
+    ],
+    "refs": [
+      "Matt 28:1-10",
+      "Luke 24:13-35",
+      "John 20:1-29",
+      "1 Cor 15:3-8"
+    ],
+    "summary": "On the third day the tomb is found empty; the risen Jesus appears to Mary Magdalene, the women, Peter, the Emmaus travelers, the Eleven and more than five hundred."
+  },
+  {
+    "id": "ascension",
+    "title": "Ascension",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 30",
+          "year": 30
+        },
+        {
+          "label": "AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "mount-of-olives",
+      "bethany"
+    ],
+    "personIds": [
+      "jesus"
+    ],
+    "refs": [
+      "Acts 1:6-11",
+      "Luke 24:50-53"
+    ],
+    "summary": "After forty days of appearances Jesus commissions the disciples to be witnesses to the end of the earth and is taken up from the Mount of Olives."
+  },
+  {
+    "id": "pentecost",
+    "title": "Pentecost",
+    "date": {
+      "year": 30,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 30",
+          "year": 30
+        },
+        {
+          "label": "AD 33",
+          "year": 33
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "peter",
+      "matthias"
+    ],
+    "refs": [
+      "Acts 2:1-41",
+      "Joel 2:28-32"
+    ],
+    "summary": "The Spirit comes on the disciples with wind and tongues of fire; Peter preaches and about three thousand are baptized. Christians date the church's public beginning here."
+  },
+  {
+    "id": "stephen-martyred",
+    "title": "Stephen martyred",
+    "date": {
+      "year": 34,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 31 (AD 30 crucifixion)",
+          "year": 31
+        },
+        {
+          "label": "AD 34–35 (AD 33 crucifixion)",
+          "year": 34
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "stephen",
+      "paul"
+    ],
+    "refs": [
+      "Acts 6:8-15",
+      "Acts 7:54-8:3"
+    ],
+    "summary": "Stephen, one of the Seven, is stoned after his speech to the council; Saul approves, and persecution scatters the church."
+  },
+  {
+    "id": "philip-samaria",
+    "title": "Philip in Samaria; the Ethiopian official",
+    "date": {
+      "year": 34,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "samaria",
+      "gaza"
+    ],
+    "personIds": [
+      "philip-the-evangelist",
+      "ethiopian-eunuch",
+      "peter",
+      "john-the-apostle"
+    ],
+    "refs": [
+      "Acts 8:4-40"
+    ],
+    "summary": "Philip proclaims Christ in Samaria and on the Gaza road baptizes a court official of the Ethiopian queen."
+  },
+  {
+    "id": "paul-conversion",
+    "title": "Conversion of Saul",
+    "date": {
+      "year": 34,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 31–33",
+          "year": 32
+        },
+        {
+          "label": "AD 34–36",
+          "year": 35
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "damascus",
+      "jerusalem"
+    ],
+    "personIds": [
+      "paul"
+    ],
+    "refs": [
+      "Acts 9:1-19",
+      "Gal 1:13-17",
+      "1 Cor 15:8"
+    ],
+    "summary": "On the road to Damascus the risen Jesus appears to Saul the persecutor; he is baptized by Ananias and begins proclaiming Jesus as Son of God."
+  },
+  {
+    "id": "cornelius",
+    "title": "Cornelius receives the Spirit",
+    "date": {
+      "year": 38,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "joppa",
+      "caesarea-maritima"
+    ],
+    "personIds": [
+      "peter",
+      "cornelius"
+    ],
+    "refs": [
+      "Acts 10:1-48",
+      "Acts 11:1-18"
+    ],
+    "summary": "After a vision at Joppa, Peter preaches to the Roman centurion Cornelius; the Spirit falls on Gentiles and they are baptized."
+  },
+  {
+    "id": "antioch-church",
+    "title": "Church at Antioch; \"Christians\"",
+    "date": {
+      "year": 42,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "antioch-syria",
+      "tarsus"
+    ],
+    "personIds": [
+      "barnabas",
+      "paul"
+    ],
+    "refs": [
+      "Acts 11:19-26"
+    ],
+    "summary": "Scattered believers preach to Greeks in Antioch; Barnabas fetches Saul from Tarsus, and the disciples are first called Christians."
+  },
+  {
+    "id": "james-executed",
+    "title": "James son of Zebedee executed",
+    "date": {
+      "year": 44,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem",
+      "caesarea-maritima"
+    ],
+    "personIds": [
+      "james-son-of-zebedee",
+      "herod-agrippa-i",
+      "peter"
+    ],
+    "refs": [
+      "Acts 12:1-24"
+    ],
+    "summary": "Herod Agrippa I beheads James and imprisons Peter, who is freed by an angel; Agrippa dies at Caesarea in AD 44 (confirmed by Josephus)."
+  },
+  {
+    "id": "first-missionary-journey",
+    "title": "Paul's first missionary journey",
+    "date": {
+      "year": 46,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 46–48",
+          "year": 46
+        },
+        {
+          "label": "AD 47–48",
+          "year": 47
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "cyprus",
+      "antioch-pisidia",
+      "lystra",
+      "derbe"
+    ],
+    "personIds": [
+      "paul",
+      "barnabas",
+      "john-mark"
+    ],
+    "refs": [
+      "Acts 13:1-14:28"
+    ],
+    "summary": "Sent out from Antioch, Barnabas and Saul cross Cyprus and plant churches in southern Galatia."
+  },
+  {
+    "id": "galatians-written",
+    "title": "Letter to the Galatians",
+    "date": {
+      "year": 48,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "South Galatian, before the council",
+          "year": 48
+        },
+        {
+          "label": "North Galatian",
+          "year": 55
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "galatia",
+      "antioch-syria"
+    ],
+    "personIds": [
+      "paul"
+    ],
+    "refs": [
+      "Gal 1:6-9",
+      "Gal 2:11-16"
+    ],
+    "summary": "Paul defends justification by faith apart from works of the law. On the South Galatian view it is his earliest letter (before the council); on the North Galatian view it dates to the mid-50s."
+  },
+  {
+    "id": "jerusalem-council",
+    "title": "Council of Jerusalem",
+    "date": {
+      "year": 49,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem",
+      "antioch-syria"
+    ],
+    "personIds": [
+      "peter",
+      "james-brother-of-jesus",
+      "paul",
+      "barnabas",
+      "silas"
+    ],
+    "refs": [
+      "Acts 15:1-35",
+      "Gal 2:1-10"
+    ],
+    "summary": "Apostles and elders decide Gentile believers need not be circumcised, asking them to avoid a few practices offensive to Jewish believers."
+  },
+  {
+    "id": "claudius-expulsion",
+    "title": "Claudius expels Jews from Rome",
+    "date": {
+      "year": 49,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "rome",
+      "corinth"
+    ],
+    "personIds": [
+      "priscilla",
+      "aquila"
+    ],
+    "refs": [
+      "Acts 18:1-3"
+    ],
+    "summary": "Claudius expels Jews from Rome; Suetonius mentions disturbances \"at the instigation of Chrestus,\" often taken as a garbled reference to Christ. Priscilla and Aquila move to Corinth."
+  },
+  {
+    "id": "second-missionary-journey",
+    "title": "Paul's second journey; gospel to Europe",
+    "date": {
+      "year": 50,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "troas",
+      "philippi",
+      "thessalonica",
+      "athens",
+      "corinth"
+    ],
+    "personIds": [
+      "paul",
+      "silas",
+      "timothy",
+      "luke",
+      "lydia"
+    ],
+    "refs": [
+      "Acts 15:36-18:22",
+      "1 Thess 1:1-10"
+    ],
+    "summary": "Paul's Macedonian vision brings the gospel into Europe: Philippi, Thessalonica, Berea, Athens and eighteen months in Corinth."
+  },
+  {
+    "id": "gallio-inscription",
+    "title": "Paul before Gallio",
+    "date": {
+      "year": 51,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "corinth"
+    ],
+    "personIds": [
+      "paul"
+    ],
+    "refs": [
+      "Acts 18:12-17"
+    ],
+    "summary": "Gallio, proconsul of Achaia, dismisses charges against Paul. The Delphi inscription dates Gallio's term to AD 51–52, the firmest anchor in Pauline chronology."
+  },
+  {
+    "id": "paul-ephesus",
+    "title": "Paul's ministry in Ephesus",
+    "date": {
+      "year": 53,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "ephesus"
+    ],
+    "personIds": [
+      "paul",
+      "apollos",
+      "priscilla",
+      "aquila"
+    ],
+    "refs": [
+      "Acts 19:1-41",
+      "1 Cor 16:8-9"
+    ],
+    "summary": "Paul teaches for over two years in the hall of Tyrannus; the riot of the silversmiths follows. He writes 1 Corinthians here."
+  },
+  {
+    "id": "romans-written",
+    "title": "Letter to the Romans",
+    "date": {
+      "year": 57,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "corinth",
+      "cenchreae",
+      "rome"
+    ],
+    "personIds": [
+      "paul",
+      "phoebe"
+    ],
+    "refs": [
+      "Rom 1:16-17",
+      "Rom 16:1-2"
+    ],
+    "summary": "From Corinth Paul writes his fullest exposition of the gospel to the church at Rome, carried by Phoebe of Cenchreae."
+  },
+  {
+    "id": "paul-arrested",
+    "title": "Paul arrested in Jerusalem",
+    "date": {
+      "year": 57,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem",
+      "caesarea-maritima"
+    ],
+    "personIds": [
+      "paul",
+      "felix",
+      "festus",
+      "herod-agrippa-ii"
+    ],
+    "refs": [
+      "Acts 21:27-36",
+      "Acts 24:27",
+      "Acts 25:10-12"
+    ],
+    "summary": "A temple riot leads to Paul's arrest; he is held two years at Caesarea under Felix, then appeals to Caesar before Festus."
+  },
+  {
+    "id": "paul-in-rome",
+    "title": "Paul under house arrest in Rome",
+    "date": {
+      "year": 60,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [
+      "paul",
+      "luke"
+    ],
+    "refs": [
+      "Acts 28:16-31",
+      "Phil 1:12-14"
+    ],
+    "summary": "After shipwreck on Malta, Paul spends two years in Rome proclaiming the kingdom \"with all boldness and without hindrance.\""
+  },
+  {
+    "id": "james-brother-killed",
+    "title": "James the brother of Jesus killed",
+    "date": {
+      "year": 62,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [
+      "james-brother-of-jesus"
+    ],
+    "refs": [
+      "Gal 1:19",
+      "Acts 21:18"
+    ],
+    "summary": "Josephus (Antiquities 20.200) records that the high priest Ananus had \"James, the brother of Jesus who was called Christ\" stoned during an interval between governors."
+  },
+  {
+    "id": "nero-persecution",
+    "title": "Great fire; Nero's persecution",
+    "date": {
+      "year": 64,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "1 Pet 4:12-16"
+    ],
+    "summary": "After the fire of Rome Nero blames the Christians and executes many (Tacitus, Annals 15.44)."
+  },
+  {
+    "id": "peter-paul-martyred",
+    "title": "Peter and Paul martyred in Rome",
+    "date": {
+      "year": 64,
+      "confidence": "tradition",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 64 (fire persecution)",
+          "year": 64
+        },
+        {
+          "label": "AD 67/68 (Eusebius)",
+          "year": 67
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [
+      "peter",
+      "paul"
+    ],
+    "refs": [
+      "John 21:18-19",
+      "2 Tim 4:6-8"
+    ],
+    "summary": "Early tradition (1 Clement 5; later Eusebius) holds that Peter was crucified and Paul beheaded in Rome under Nero."
+  },
+  {
+    "id": "jewish-revolt",
+    "title": "First Jewish revolt",
+    "date": {
+      "year": 66,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem",
+      "caesarea-maritima"
+    ],
+    "personIds": [],
+    "refs": [
+      "Luke 21:20-21"
+    ],
+    "summary": "Judea rises against Rome; Vespasian and then Titus campaign through Galilee to Jerusalem. Eusebius reports Jerusalem's Christians fled to Pella."
+  },
+  {
+    "id": "temple-destroyed",
+    "title": "Jerusalem and the temple destroyed",
+    "date": {
+      "year": 70,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "jerusalem",
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "Matt 24:1-2",
+      "Luke 19:41-44",
+      "Luke 21:20-24"
+    ],
+    "summary": "Titus's legions burn the temple in August AD 70, ending sacrifice; the Arch of Titus in Rome shows the menorah carried in triumph. Jesus had foretold that not one stone would be left on another."
+  },
+  {
+    "id": "masada",
+    "title": "Fall of Masada",
+    "date": {
+      "year": 73,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 73",
+          "year": 73
+        },
+        {
+          "label": "AD 74",
+          "year": 74
+        }
+      ]
+    },
+    "track": "empires",
+    "eraId": "apostolic",
+    "placeIds": [
+      "dead-sea"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The last rebel stronghold above the Dead Sea falls to Rome (73 or 74)."
+  },
+  {
+    "id": "revelation-patmos",
+    "title": "John's Revelation on Patmos",
+    "date": {
+      "year": 95,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "Domitian, c. AD 95 (Irenaeus, Against Heresies 5.30)",
+          "year": 95
+        },
+        {
+          "label": "Nero, c. AD 68",
+          "year": 68
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "patmos",
+      "ephesus",
+      "smyrna",
+      "pergamum",
+      "thyatira",
+      "sardis",
+      "philadelphia",
+      "laodicea"
+    ],
+    "personIds": [
+      "john-the-apostle"
+    ],
+    "refs": [
+      "Rev 1:9-11",
+      "Rev 2:1-3:22"
+    ],
+    "summary": "Exiled on Patmos, John receives visions addressed to seven churches of Asia. Irenaeus places this late in Domitian's reign; some argue for a date under Nero before AD 70."
+  },
+  {
+    "id": "clement-letter",
+    "title": "1 Clement written from Rome",
+    "date": {
+      "year": 96,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "c. AD 96",
+          "year": 96
+        },
+        {
+          "label": "c. AD 70",
+          "year": 70
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "rome",
+      "corinth"
+    ],
+    "personIds": [],
+    "refs": [
+      "1 Cor 1:10-13"
+    ],
+    "summary": "The church at Rome writes to Corinth urging the restoration of deposed presbyters; one of the earliest Christian writings outside the New Testament."
+  },
+  {
+    "id": "john-dies",
+    "title": "Death of the apostle John",
+    "date": {
+      "year": 100,
+      "confidence": "tradition",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "apostolic",
+    "placeIds": [
+      "ephesus"
+    ],
+    "personIds": [
+      "john-the-apostle"
+    ],
+    "refs": [
+      "John 21:20-24"
+    ],
+    "summary": "Tradition (Irenaeus) says John lived in Ephesus into Trajan's reign, the last of the apostles."
+  },
+  {
+    "id": "ignatius-martyred",
+    "title": "Ignatius of Antioch martyred",
+    "date": {
+      "year": 110,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "c. AD 107–110",
+          "year": 110
+        },
+        {
+          "label": "Later, c. 140 (minority)",
+          "year": 140
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "early-church",
+    "placeIds": [
+      "antioch-syria",
+      "smyrna",
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Bishop Ignatius is taken to Rome to die in the arena, writing seven letters on the way that stress the bishop, the Eucharist and the real humanity of Christ."
+  },
+  {
+    "id": "bar-kokhba",
+    "title": "Bar Kokhba revolt",
+    "date": {
+      "year": 132,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "early-church",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Simon bar Kosiba, hailed by Rabbi Akiva as messiah, leads a second revolt (132–135). Hadrian crushes it, refounds Jerusalem as Aelia Capitolina and bars Jews from the city. Jewish Christians who refused to follow him suffered for it."
+  },
+  {
+    "id": "polycarp-martyred",
+    "title": "Polycarp martyred",
+    "date": {
+      "year": 155,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 155/156",
+          "year": 155
+        },
+        {
+          "label": "AD 167",
+          "year": 167
+        }
+      ]
+    },
+    "track": "church",
+    "eraId": "early-church",
+    "placeIds": [
+      "smyrna"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The aged bishop of Smyrna, a link to the apostle John, is burned; the Martyrdom of Polycarp is the earliest martyr account outside the New Testament."
+  },
+  {
+    "id": "justin-martyr",
+    "title": "Justin Martyr executed",
+    "date": {
+      "year": 165,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "early-church",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "Acts 17:22-31"
+    ],
+    "summary": "The philosopher-apologist Justin, who described Sunday worship and defended Christianity to the emperor, is beheaded in Rome."
+  },
+  {
+    "id": "martyrs-of-lyon",
+    "title": "Martyrs of Lyon",
+    "date": {
+      "year": 177,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "early-church",
+    "placeIds": [
+      "lyon"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Christians in Lyon and Vienne, including the slave girl Blandina, die in the arena; a letter describing them survives in Eusebius."
+  },
+  {
+    "id": "irenaeus",
+    "title": "Irenaeus writes Against Heresies",
+    "date": {
+      "year": 180,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "early-church",
+    "placeIds": [
+      "lyon"
+    ],
+    "personIds": [],
+    "refs": [
+      "John 1:14"
+    ],
+    "summary": "Bishop of Lyon and hearer of Polycarp, Irenaeus answers Gnosticism with apostolic succession, the rule of faith, the fourfold gospel and recapitulation in Christ."
+  },
+  {
+    "id": "decian-persecution",
+    "title": "Decian persecution",
+    "date": {
+      "year": 250,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "early-church",
+    "placeIds": [
+      "rome",
+      "carthage"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Decius requires everyone to sacrifice to the gods and obtain a certificate; many lapse, and controversy over their readmission divides Carthage and Rome (Cyprian, Novatian)."
+  },
+  {
+    "id": "diocletian-persecution",
+    "title": "Great Persecution under Diocletian",
+    "date": {
+      "year": 303,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "early-church",
+    "placeIds": [
+      "rome",
+      "nicaea"
+    ],
+    "personIds": [],
+    "refs": [
+      "Rev 2:10"
+    ],
+    "summary": "Edicts order churches destroyed, scriptures burned and clergy arrested; it is the most severe empire-wide persecution."
+  },
+  {
+    "id": "edict-of-milan",
+    "title": "Edict of Milan",
+    "date": {
+      "year": 313,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Constantine and Licinius grant freedom of worship to Christians and restore confiscated property, a year after Constantine's victory at the Milvian Bridge."
+  },
+  {
+    "id": "council-of-nicaea",
+    "title": "Council of Nicaea",
+    "date": {
+      "year": 325,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "nicaea",
+      "alexandria"
+    ],
+    "personIds": [],
+    "refs": [
+      "John 1:1-14",
+      "Col 1:15-20"
+    ],
+    "summary": "The first ecumenical council rejects Arius and confesses the Son \"of one substance\" (homoousios) with the Father; it also sets a common rule for dating Easter."
+  },
+  {
+    "id": "constantinople-founded",
+    "title": "Constantinople dedicated",
+    "date": {
+      "year": 330,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Constantine refounds Byzantium as his new capital, the center of Christian empire in the east for over a thousand years."
+  },
+  {
+    "id": "athanasius-canon",
+    "title": "Athanasius's Easter letter lists the NT canon",
+    "date": {
+      "year": 367,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "alexandria"
+    ],
+    "personIds": [],
+    "refs": [
+      "2 Tim 3:16-17"
+    ],
+    "summary": "Athanasius's 39th Festal Letter lists exactly the twenty-seven books of the New Testament as canonical."
+  },
+  {
+    "id": "council-of-constantinople",
+    "title": "First Council of Constantinople",
+    "date": {
+      "year": 381,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [
+      "Matt 28:19",
+      "John 15:26"
+    ],
+    "summary": "The second ecumenical council affirms the full deity of the Holy Spirit and expands the Nicene Creed into the form still recited, building on the Cappadocian Fathers."
+  },
+  {
+    "id": "augustine-converted",
+    "title": "Augustine's conversion",
+    "date": {
+      "year": 386,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "hippo",
+      "carthage",
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "Rom 13:13-14"
+    ],
+    "summary": "In a Milan garden Augustine hears \"take up and read,\" reads Romans 13 and turns to Christ; later bishop of Hippo, he shapes Western theology of grace, sin and the church."
+  },
+  {
+    "id": "vulgate",
+    "title": "Jerome completes the Vulgate",
+    "date": {
+      "year": 405,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "bethlehem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Working in Bethlehem, Jerome translates the Old Testament from Hebrew and revises the Latin gospels; the Vulgate becomes the Western church's Bible."
+  },
+  {
+    "id": "sack-of-rome",
+    "title": "Visigoths sack Rome",
+    "date": {
+      "year": 410,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "rome",
+      "hippo"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Alaric's Visigoths sack Rome; in response Augustine writes *The City of God*."
+  },
+  {
+    "id": "council-of-ephesus",
+    "title": "Council of Ephesus",
+    "date": {
+      "year": 431,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "ephesus"
+    ],
+    "personIds": [
+      "mary-mother-of-jesus"
+    ],
+    "refs": [
+      "Luke 1:43"
+    ],
+    "summary": "The third ecumenical council rejects Nestorius and affirms Mary as Theotokos (\"God-bearer\"), insisting Christ is one person."
+  },
+  {
+    "id": "council-of-chalcedon",
+    "title": "Council of Chalcedon",
+    "date": {
+      "year": 451,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [
+      "John 1:14",
+      "Phil 2:5-8",
+      "Heb 4:15"
+    ],
+    "summary": "The fourth ecumenical council defines Christ as one person \"in two natures, without confusion, change, division or separation.\" Oriental Orthodox churches reject the formula, causing a lasting division."
+  },
+  {
+    "id": "fall-of-western-rome",
+    "title": "End of the western Roman Empire",
+    "date": {
+      "year": 476,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Odoacer deposes the last western emperor, Romulus Augustulus; the eastern (Byzantine) empire continues from Constantinople."
+  },
+  {
+    "id": "second-constantinople",
+    "title": "Second Council of Constantinople",
+    "date": {
+      "year": 553,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Convened by Justinian, the fifth ecumenical council condemns the \"Three Chapters\" and reaffirms Chalcedon in a Cyril-friendly key; it is also associated with the condemnation of Origenist teachings."
+  },
+  {
+    "id": "gregory-the-great",
+    "title": "Gregory the Great becomes pope",
+    "date": {
+      "year": 590,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "imperial-church",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Gregory organizes famine relief, sends missionaries to England (596) and writes pastoral works that shape medieval ministry."
+  },
+  {
+    "id": "rise-of-islam",
+    "title": "Rise of Islam",
+    "date": {
+      "year": 622,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "medieval",
+    "placeIds": [
+      "arabia"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Muhammad's migration (hijra) from Mecca to Medina begins the Islamic calendar; within a century Arab armies conquer the Levant, Egypt, North Africa and Persia."
+  },
+  {
+    "id": "jerusalem-arab-conquest",
+    "title": "Arab conquest of Jerusalem",
+    "date": {
+      "year": 638,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 637",
+          "year": 637
+        },
+        {
+          "label": "AD 638",
+          "year": 638
+        }
+      ]
+    },
+    "track": "empires",
+    "eraId": "medieval",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Patriarch Sophronius surrenders Jerusalem to Caliph Umar; Christians become a protected minority under Islamic rule."
+  },
+  {
+    "id": "dome-of-the-rock",
+    "title": "Dome of the Rock completed",
+    "date": {
+      "year": 691,
+      "confidence": "debated",
+      "circa": true,
+      "alternatives": [
+        {
+          "label": "AD 691/692",
+          "year": 691
+        }
+      ]
+    },
+    "track": "world",
+    "eraId": "medieval",
+    "placeIds": [
+      "jerusalem",
+      "moriah"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Caliph Abd al-Malik completes the Dome of the Rock on the Temple Mount."
+  },
+  {
+    "id": "nicaea-ii",
+    "title": "Second Council of Nicaea",
+    "date": {
+      "year": 787,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [
+      "nicaea"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The seventh ecumenical council ends the first phase of iconoclasm, distinguishing veneration of icons from worship due to God alone."
+  },
+  {
+    "id": "charlemagne",
+    "title": "Charlemagne crowned emperor",
+    "date": {
+      "year": 800,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "medieval",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Pope Leo III crowns Charlemagne on Christmas Day, reviving a western empire and deepening the estrangement from Constantinople."
+  },
+  {
+    "id": "great-schism",
+    "title": "East–West Schism",
+    "date": {
+      "year": 1054,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [
+      "rome",
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [
+      "John 17:20-23"
+    ],
+    "summary": "Papal legates excommunicate Patriarch Michael Cerularius, who excommunicates them in return. Disputes over papal authority, the filioque and unleavened bread had built for centuries; the break hardened after 1204."
+  },
+  {
+    "id": "anselm-cur-deus-homo",
+    "title": "Anselm's *Cur Deus Homo*",
+    "date": {
+      "year": 1098,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Rom 3:23-26"
+    ],
+    "summary": "Anselm of Canterbury argues that sin dishonors God and only a God-man can render the satisfaction owed, a landmark in atonement theology."
+  },
+  {
+    "id": "first-crusade",
+    "title": "First Crusade takes Jerusalem",
+    "date": {
+      "year": 1099,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "medieval",
+    "placeIds": [
+      "jerusalem",
+      "antioch-syria",
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Western crusaders capture Jerusalem with great slaughter and found the Latin kingdoms; the crusades poison relations with Muslims, Jews and Eastern Christians."
+  },
+  {
+    "id": "sack-of-constantinople",
+    "title": "Fourth Crusade sacks Constantinople",
+    "date": {
+      "year": 1204,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Latin crusaders sack the Christian capital of the East, hardening the schism."
+  },
+  {
+    "id": "lateran-iv",
+    "title": "Fourth Lateran Council",
+    "date": {
+      "year": 1215,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [
+      "1 Cor 11:23-26"
+    ],
+    "summary": "Innocent III's council defines transubstantiation and requires annual confession and communion."
+  },
+  {
+    "id": "aquinas-summa",
+    "title": "Aquinas writes the *Summa Theologiae*",
+    "date": {
+      "year": 1265,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "Thomas Aquinas synthesizes Aristotelian philosophy and Christian doctrine (1265–1274), defining scholastic theology."
+  },
+  {
+    "id": "wycliffe-bible",
+    "title": "Wycliffe Bible",
+    "date": {
+      "year": 1382,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "John Wycliffe and associates translate the Vulgate into English; his followers, the Lollards, are suppressed."
+  },
+  {
+    "id": "hus-burned",
+    "title": "Jan Hus burned at Constance",
+    "date": {
+      "year": 1415,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "medieval",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Czech reformer, condemned by the Council of Constance despite a safe-conduct, is burned; the Hussite movement endures."
+  },
+  {
+    "id": "fall-of-constantinople",
+    "title": "Fall of Constantinople",
+    "date": {
+      "year": 1453,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "empires",
+    "eraId": "medieval",
+    "placeIds": [
+      "constantinople"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Ottoman Sultan Mehmed II takes the city, ending the Byzantine Empire; Hagia Sophia becomes a mosque."
+  },
+  {
+    "id": "gutenberg-bible",
+    "title": "Gutenberg Bible printed",
+    "date": {
+      "year": 1455,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "medieval",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "Movable-type printing at Mainz produces the Latin Bible, making later Reformation pamphlets and vernacular Bibles possible."
+  },
+  {
+    "id": "erasmus-nt",
+    "title": "Erasmus's Greek New Testament",
+    "date": {
+      "year": 1516,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "Erasmus publishes the first printed Greek New Testament with a fresh Latin translation; Luther and Tyndale translate from it."
+  },
+  {
+    "id": "ninety-five-theses",
+    "title": "Luther's Ninety-five Theses",
+    "date": {
+      "year": 1517,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [
+      "wittenberg"
+    ],
+    "personIds": [],
+    "refs": [
+      "Rom 1:16-17"
+    ],
+    "summary": "On 31 October Martin Luther circulates theses against the sale of indulgences in Wittenberg, sparking the Reformation."
+  },
+  {
+    "id": "diet-of-worms",
+    "title": "Luther at the Diet of Worms",
+    "date": {
+      "year": 1521,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [
+      "wittenberg"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Before Emperor Charles V Luther refuses to recant unless convinced by scripture and plain reason; he is outlawed and hidden at the Wartburg, where he translates the New Testament."
+  },
+  {
+    "id": "anabaptists",
+    "title": "First Anabaptist baptisms",
+    "date": {
+      "year": 1525,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Acts 2:38"
+    ],
+    "summary": "In Zurich, Conrad Grebel baptizes George Blaurock, rejecting infant baptism; the Swiss Brethren's Schleitheim Confession follows in 1527."
+  },
+  {
+    "id": "tyndale-nt",
+    "title": "Tyndale's English New Testament",
+    "date": {
+      "year": 1526,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "William Tyndale's New Testament, translated from Greek, is smuggled into England; he is executed in 1536, but much of his wording passes into the King James Version."
+  },
+  {
+    "id": "augsburg-confession",
+    "title": "Augsburg Confession",
+    "date": {
+      "year": 1530,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "Philip Melanchthon's statement of Lutheran faith is presented to Charles V."
+  },
+  {
+    "id": "calvin-institutes",
+    "title": "Calvin's *Institutes*",
+    "date": {
+      "year": 1536,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [
+      "geneva"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "John Calvin publishes the first edition of the *Institutes of the Christian Religion* and soon begins his work in Geneva."
+  },
+  {
+    "id": "council-of-trent",
+    "title": "Council of Trent",
+    "date": {
+      "year": 1545,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Catholic Church (1545–1563) answers the Reformers on scripture and tradition, justification and the sacraments, and launches internal reform."
+  },
+  {
+    "id": "heidelberg-catechism",
+    "title": "Heidelberg Catechism",
+    "date": {
+      "year": 1563,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "A warm Reformed catechism opening with \"What is your only comfort in life and death?\""
+  },
+  {
+    "id": "king-james-version",
+    "title": "King James Version",
+    "date": {
+      "year": 1611,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Authorized Version is published in England and becomes the dominant English Bible for three centuries."
+  },
+  {
+    "id": "synod-of-dort",
+    "title": "Synod of Dort",
+    "date": {
+      "year": 1618,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Eph 1:3-14",
+      "John 6:37-44"
+    ],
+    "summary": "The Dutch Reformed synod (1618–1619) rejects the Remonstrant (Arminian) articles and issues the Canons of Dort, later summarized as the \"five points of Calvinism.\""
+  },
+  {
+    "id": "westminster-confession",
+    "title": "Westminster Confession",
+    "date": {
+      "year": 1646,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "reformation",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Westminster Assembly completes a confession and catechisms that become standards for Presbyterians worldwide."
+  },
+  {
+    "id": "wesley-aldersgate",
+    "title": "Wesley's Aldersgate experience",
+    "date": {
+      "year": 1738,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Rom 1:16-17"
+    ],
+    "summary": "Hearing Luther's preface to Romans read in London, John Wesley feels his heart \"strangely warmed\"; Methodism's field preaching follows."
+  },
+  {
+    "id": "great-awakening",
+    "title": "First Great Awakening",
+    "date": {
+      "year": 1740,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "George Whitefield's tours and Jonathan Edwards's preaching bring revival across the American colonies."
+  },
+  {
+    "id": "william-carey",
+    "title": "William Carey sails for India",
+    "date": {
+      "year": 1793,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Matt 28:18-20"
+    ],
+    "summary": "After *An Enquiry* (1792) and the founding of the Baptist Missionary Society, Carey goes to India, opening the modern Protestant missionary era."
+  },
+  {
+    "id": "darby-dispensationalism",
+    "title": "Darby and the Brethren shape dispensationalism",
+    "date": {
+      "year": 1830,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "1 Thess 4:13-18",
+      "Dan 9:24-27"
+    ],
+    "summary": "John Nelson Darby teaches a distinct future for Israel and a pretribulational rapture of the church in the 1830s, spreading through the Plymouth Brethren and later prophecy conferences."
+  },
+  {
+    "id": "sinaiticus",
+    "title": "Codex Sinaiticus discovered",
+    "date": {
+      "year": 1844,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "modern",
+    "placeIds": [
+      "mount-sinai"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Constantin von Tischendorf finds leaves of a fourth-century Greek Bible at St. Catherine's Monastery, Sinai (more in 1859), transforming New Testament textual study."
+  },
+  {
+    "id": "azusa-street",
+    "title": "Azusa Street Revival",
+    "date": {
+      "year": 1906,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Acts 2:1-4"
+    ],
+    "summary": "William J. Seymour leads an interracial revival in Los Angeles marked by speaking in tongues; it launches global Pentecostalism."
+  },
+  {
+    "id": "scofield-bible",
+    "title": "Scofield Reference Bible",
+    "date": {
+      "year": 1909,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "C. I. Scofield's annotated KJV popularizes dispensational premillennialism among English-speaking evangelicals."
+  },
+  {
+    "id": "edinburgh-1910",
+    "title": "Edinburgh Missionary Conference",
+    "date": {
+      "year": 1910,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [],
+    "summary": "The World Missionary Conference aims at evangelizing the world and seeds the modern ecumenical movement."
+  },
+  {
+    "id": "barmen-declaration",
+    "title": "Barmen Declaration",
+    "date": {
+      "year": 1934,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "John 14:6"
+    ],
+    "summary": "The Confessing Church, with Karl Barth as main drafter, rejects Nazi claims over the church: Jesus Christ is the one Word of God."
+  },
+  {
+    "id": "dead-sea-scrolls",
+    "title": "Dead Sea Scrolls found",
+    "date": {
+      "year": 1947,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "world",
+    "eraId": "modern",
+    "placeIds": [
+      "dead-sea"
+    ],
+    "personIds": [],
+    "refs": [
+      "Isa 53:1-12"
+    ],
+    "summary": "Bedouin find scrolls in caves near Qumran, including a complete Isaiah scroll a thousand years older than previously known Hebrew manuscripts."
+  },
+  {
+    "id": "state-of-israel",
+    "title": "State of Israel founded",
+    "date": {
+      "year": 1948,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "modern",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "Israel declares independence; the event becomes central in dispensational and Christian Zionist readings of prophecy and is contested by other interpreters."
+  },
+  {
+    "id": "vatican-ii",
+    "title": "Second Vatican Council",
+    "date": {
+      "year": 1962,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [
+      "rome"
+    ],
+    "personIds": [],
+    "refs": [],
+    "summary": "The Catholic Church (1962–1965) renews liturgy in vernacular languages, encourages Bible reading and opens dialogue with other Christians."
+  },
+  {
+    "id": "lausanne-1974",
+    "title": "Lausanne Congress on World Evangelization",
+    "date": {
+      "year": 1974,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Matt 28:19-20"
+    ],
+    "summary": "Billy Graham and John Stott convene evangelicals from 150 nations; the Lausanne Covenant joins evangelism and social responsibility."
+  },
+  {
+    "id": "global-south",
+    "title": "Christianity's center shifts south",
+    "date": {
+      "year": 2000,
+      "confidence": "scholarly-consensus",
+      "circa": true
+    },
+    "track": "church",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Rev 7:9-10"
+    ],
+    "summary": "By about 2000 most Christians live in Africa, Latin America and Asia, with Pentecostal and charismatic forms growing fastest."
+  },
+  {
+    "id": "today",
+    "title": "Today",
+    "date": {
+      "year": 2026,
+      "confidence": "scholarly-consensus"
+    },
+    "track": "world",
+    "eraId": "modern",
+    "placeIds": [],
+    "personIds": [],
+    "refs": [
+      "Matt 24:14"
+    ],
+    "summary": "The present: the church spans every continent, and Christians await the return of Christ while differing on the order of last things."
+  }
+]

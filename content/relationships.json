@@ -1,0 +1,3247 @@
+[
+ {
+  "from": "adam",
+  "to": "eve",
+  "type": "spouse",
+  "refs": [
+   "Gen 2:21-24",
+   "Gen 3:20"
+  ],
+  "note": "The first couple; Eve is formed from Adam and named by him \"mother of all living\"."
+ },
+ {
+  "from": "adam",
+  "to": "cain",
+  "type": "family",
+  "refs": [
+   "Gen 4:1"
+  ],
+  "note": "Firstborn son of Adam and Eve."
+ },
+ {
+  "from": "eve",
+  "to": "cain",
+  "type": "family",
+  "refs": [
+   "Gen 4:1"
+  ],
+  "note": "Eve names Cain, saying she has gotten a man with the LORD."
+ },
+ {
+  "from": "adam",
+  "to": "abel",
+  "type": "family",
+  "refs": [
+   "Gen 4:2"
+  ],
+  "note": "Second son of Adam and Eve, a keeper of sheep."
+ },
+ {
+  "from": "eve",
+  "to": "abel",
+  "type": "family",
+  "refs": [
+   "Gen 4:2"
+  ],
+  "note": "Second son of Eve."
+ },
+ {
+  "from": "adam",
+  "to": "seth",
+  "type": "family",
+  "refs": [
+   "Gen 4:25",
+   "Gen 5:3"
+  ],
+  "note": "Born in Adam's likeness after Abel's death; the line of promise continues through him."
+ },
+ {
+  "from": "eve",
+  "to": "seth",
+  "type": "family",
+  "refs": [
+   "Gen 4:25"
+  ],
+  "note": "Eve names him Seth, \"appointed\", in place of Abel."
+ },
+ {
+  "from": "cain",
+  "to": "abel",
+  "type": "enemy",
+  "refs": [
+   "Gen 4:8",
+   "1 John 3:12"
+  ],
+  "note": "Cain murders his brother out of jealousy over God's regard for Abel's offering."
+ },
+ {
+  "from": "seth",
+  "to": "enoch",
+  "type": "family",
+  "refs": [
+   "Gen 5:6-18"
+  ],
+  "note": "descendant (generations omitted): Enos, Cainan, Mahalaleel and Jared stand between them; Enoch is \"the seventh from Adam\" (Jude 1:14)."
+ },
+ {
+  "from": "enoch",
+  "to": "methuselah",
+  "type": "family",
+  "refs": [
+   "Gen 5:21"
+  ],
+  "note": "Enoch begets Methuselah at sixty-five, after which he \"walked with God\"."
+ },
+ {
+  "from": "methuselah",
+  "to": "noah",
+  "type": "family",
+  "refs": [
+   "Gen 5:25-29"
+  ],
+  "note": "descendant (generations omitted): Methuselah is Noah's grandfather through Lamech."
+ },
+ {
+  "from": "noah",
+  "to": "shem",
+  "type": "family",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:26"
+  ],
+  "note": "Son of Noah; blessed by his father, and ancestor of Abraham."
+ },
+ {
+  "from": "noah",
+  "to": "ham",
+  "type": "family",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:22-25"
+  ],
+  "note": "Son of Noah; his act of seeing his father's nakedness leads to the curse on Canaan."
+ },
+ {
+  "from": "noah",
+  "to": "japheth",
+  "type": "family",
+  "refs": [
+   "Gen 5:32",
+   "Gen 9:27"
+  ],
+  "note": "Son of Noah; blessed with enlargement."
+ },
+ {
+  "from": "shem",
+  "to": "terah",
+  "type": "family",
+  "refs": [
+   "Gen 11:10-26"
+  ],
+  "note": "descendant (generations omitted): the Shem genealogy runs nine generations to Terah."
+ },
+ {
+  "from": "terah",
+  "to": "abraham",
+  "type": "family",
+  "refs": [
+   "Gen 11:26-27"
+  ],
+  "note": "Terah is the father of Abram, Nahor and Haran."
+ },
+ {
+  "from": "terah",
+  "to": "sarah",
+  "type": "family",
+  "refs": [
+   "Gen 20:12"
+  ],
+  "note": "Abraham says Sarah is his father's daughter but not his mother's, making Terah her father."
+ },
+ {
+  "from": "terah",
+  "to": "lot",
+  "type": "family",
+  "refs": [
+   "Gen 11:27",
+   "Gen 11:31"
+  ],
+  "note": "descendant (generations omitted): Lot is Terah's grandson through Haran."
+ },
+ {
+  "from": "abraham",
+  "to": "sarah",
+  "type": "spouse",
+  "refs": [
+   "Gen 11:29",
+   "Gen 17:15-16"
+  ],
+  "note": "Abram marries Sarai, his half-sister; God renames her Sarah and promises her a son."
+ },
+ {
+  "from": "abraham",
+  "to": "hagar",
+  "type": "spouse",
+  "refs": [
+   "Gen 16:3"
+  ],
+  "note": "Sarai gives her Egyptian servant Hagar to Abram \"to be his wife\" as a surrogate."
+ },
+ {
+  "from": "abraham",
+  "to": "ishmael",
+  "type": "family",
+  "refs": [
+   "Gen 16:15",
+   "Gen 17:20"
+  ],
+  "note": "Abram's firstborn son, by Hagar; God promises to make him a great nation."
+ },
+ {
+  "from": "hagar",
+  "to": "ishmael",
+  "type": "family",
+  "refs": [
+   "Gen 16:11-15"
+  ],
+  "note": "The angel of the LORD tells Hagar to name her son Ishmael, \"God hears\"."
+ },
+ {
+  "from": "abraham",
+  "to": "isaac",
+  "type": "family",
+  "refs": [
+   "Gen 21:1-3"
+  ],
+  "note": "The son of promise, born when Abraham was a hundred years old."
+ },
+ {
+  "from": "sarah",
+  "to": "isaac",
+  "type": "family",
+  "refs": [
+   "Gen 21:1-7"
+  ],
+  "note": "Sarah bears Isaac in old age and names him for her laughter."
+ },
+ {
+  "from": "sarah",
+  "to": "hagar",
+  "type": "enemy",
+  "refs": [
+   "Gen 16:4-6",
+   "Gen 21:9-10"
+  ],
+  "note": "Rivalry between mistress and servant leads to Hagar's flight and later expulsion."
+ },
+ {
+  "from": "abraham",
+  "to": "lot",
+  "type": "ally",
+  "refs": [
+   "Gen 13:8-11",
+   "Gen 14:12-16"
+  ],
+  "note": "Uncle and nephew; they part to avoid strife, and Abram later rescues Lot from captivity."
+ },
+ {
+  "from": "melchizedek",
+  "to": "abraham",
+  "type": "ally",
+  "refs": [
+   "Gen 14:18-20",
+   "Heb 7:1-4"
+  ],
+  "note": "The priest-king of Salem blesses Abram, who gives him a tenth of the spoil."
+ },
+ {
+  "from": "isaac",
+  "to": "ishmael",
+  "type": "ally",
+  "refs": [
+   "Gen 25:9"
+  ],
+  "note": "The two half-brothers together bury Abraham at Machpelah."
+ },
+ {
+  "from": "isaac",
+  "to": "rebekah",
+  "type": "spouse",
+  "refs": [
+   "Gen 24:67"
+  ],
+  "note": "Isaac takes Rebekah into Sarah's tent and loves her."
+ },
+ {
+  "from": "isaac",
+  "to": "esau",
+  "type": "family",
+  "refs": [
+   "Gen 25:24-26"
+  ],
+  "note": "Elder twin son of Isaac, favoured by his father."
+ },
+ {
+  "from": "isaac",
+  "to": "jacob",
+  "type": "family",
+  "refs": [
+   "Gen 25:24-26"
+  ],
+  "note": "Younger twin son of Isaac, who receives the blessing."
+ },
+ {
+  "from": "rebekah",
+  "to": "esau",
+  "type": "family",
+  "refs": [
+   "Gen 25:24-25"
+  ],
+  "note": "Elder twin, born red and hairy."
+ },
+ {
+  "from": "rebekah",
+  "to": "jacob",
+  "type": "family",
+  "refs": [
+   "Gen 25:26",
+   "Gen 25:28"
+  ],
+  "note": "Younger twin, loved by Rebekah, who helps him obtain the blessing."
+ },
+ {
+  "from": "laban",
+  "to": "rebekah",
+  "type": "ally",
+  "refs": [
+   "Gen 24:29-31",
+   "Gen 24:50-51"
+  ],
+  "note": "Laban is Rebekah's brother and helps arrange her marriage to Isaac."
+ },
+ {
+  "from": "jacob",
+  "to": "esau",
+  "type": "enemy",
+  "refs": [
+   "Gen 27:41",
+   "Gen 33:4"
+  ],
+  "note": "Jacob takes Esau's birthright and blessing; Esau plans to kill him, but they are reconciled years later."
+ },
+ {
+  "from": "laban",
+  "to": "leah",
+  "type": "family",
+  "refs": [
+   "Gen 29:16"
+  ],
+  "note": "Laban's elder daughter."
+ },
+ {
+  "from": "laban",
+  "to": "rachel",
+  "type": "family",
+  "refs": [
+   "Gen 29:16"
+  ],
+  "note": "Laban's younger daughter."
+ },
+ {
+  "from": "jacob",
+  "to": "laban",
+  "type": "enemy",
+  "refs": [
+   "Gen 31:7",
+   "Gen 31:44-53"
+  ],
+  "note": "Uncle and father-in-law who deceives Jacob over his wages and wives; they part under a boundary covenant."
+ },
+ {
+  "from": "jacob",
+  "to": "leah",
+  "type": "spouse",
+  "refs": [
+   "Gen 29:23-25"
+  ],
+  "note": "Laban substitutes Leah for Rachel on the wedding night."
+ },
+ {
+  "from": "jacob",
+  "to": "rachel",
+  "type": "spouse",
+  "refs": [
+   "Gen 29:28-30"
+  ],
+  "note": "Jacob serves fourteen years for Rachel, whom he loves more than Leah."
+ },
+ {
+  "from": "leah",
+  "to": "rachel",
+  "type": "enemy",
+  "refs": [
+   "Gen 30:1",
+   "Gen 30:14-15"
+  ],
+  "note": "Sisters and co-wives in rivalry over Jacob's love and over children."
+ },
+ {
+  "from": "jacob",
+  "to": "reuben",
+  "type": "family",
+  "refs": [
+   "Gen 29:32"
+  ],
+  "note": "Jacob's firstborn, by Leah."
+ },
+ {
+  "from": "leah",
+  "to": "reuben",
+  "type": "family",
+  "refs": [
+   "Gen 29:32"
+  ],
+  "note": "Leah names him Reuben, \"see, a son\"."
+ },
+ {
+  "from": "jacob",
+  "to": "levi",
+  "type": "family",
+  "refs": [
+   "Gen 29:34"
+  ],
+  "note": "Third son of Jacob by Leah; ancestor of the priestly tribe."
+ },
+ {
+  "from": "leah",
+  "to": "levi",
+  "type": "family",
+  "refs": [
+   "Gen 29:34"
+  ],
+  "note": "Leah hopes her husband will now be \"joined\" to her."
+ },
+ {
+  "from": "jacob",
+  "to": "judah",
+  "type": "family",
+  "refs": [
+   "Gen 29:35",
+   "Gen 49:10"
+  ],
+  "note": "Fourth son of Jacob; receives the blessing of the sceptre."
+ },
+ {
+  "from": "leah",
+  "to": "judah",
+  "type": "family",
+  "refs": [
+   "Gen 29:35"
+  ],
+  "note": "Leah says, \"Now will I praise the LORD\"."
+ },
+ {
+  "from": "jacob",
+  "to": "joseph-patriarch",
+  "type": "family",
+  "refs": [
+   "Gen 30:22-24",
+   "Gen 37:3"
+  ],
+  "note": "Rachel's firstborn, loved by Jacob more than his other sons."
+ },
+ {
+  "from": "rachel",
+  "to": "joseph-patriarch",
+  "type": "family",
+  "refs": [
+   "Gen 30:22-24"
+  ],
+  "note": "Born after long barrenness; Rachel asks for another son."
+ },
+ {
+  "from": "jacob",
+  "to": "benjamin",
+  "type": "family",
+  "refs": [
+   "Gen 35:16-18"
+  ],
+  "note": "Youngest son of Jacob; Jacob renames him from Ben-oni to Benjamin."
+ },
+ {
+  "from": "rachel",
+  "to": "benjamin",
+  "type": "family",
+  "refs": [
+   "Gen 35:16-19"
+  ],
+  "note": "Rachel dies giving birth to him near Bethlehem."
+ },
+ {
+  "from": "reuben",
+  "to": "joseph-patriarch",
+  "type": "ally",
+  "refs": [
+   "Gen 37:21-22",
+   "Gen 42:22"
+  ],
+  "note": "Reuben tries to save Joseph from his brothers, meaning to return him to their father."
+ },
+ {
+  "from": "judah",
+  "to": "joseph-patriarch",
+  "type": "enemy",
+  "refs": [
+   "Gen 37:26-27",
+   "Gen 44:18-34"
+  ],
+  "note": "Judah proposes selling Joseph; years later he offers himself in Benjamin's place, leading to reconciliation."
+ },
+ {
+  "from": "joseph-patriarch",
+  "to": "benjamin",
+  "type": "ally",
+  "refs": [
+   "Gen 43:29-30",
+   "Gen 45:14"
+  ],
+  "note": "Full brothers through Rachel; Joseph weeps over Benjamin on revealing himself."
+ },
+ {
+  "from": "judah",
+  "to": "tamar",
+  "type": "family",
+  "refs": [
+   "Gen 38:6",
+   "Gen 38:26"
+  ],
+  "note": "Tamar is Judah's daughter-in-law; deceived by her, he admits \"she hath been more righteous than I\" and she bears him twins."
+ },
+ {
+  "from": "judah",
+  "to": "boaz",
+  "type": "family",
+  "refs": [
+   "Ruth 4:18-21",
+   "Matt 1:3-5"
+  ],
+  "note": "descendant (generations omitted): through Perez, Hezron, Ram, Amminadab, Nahshon and Salmon."
+ },
+ {
+  "from": "tamar",
+  "to": "boaz",
+  "type": "family",
+  "refs": [
+   "Ruth 4:12",
+   "Matt 1:3"
+  ],
+  "note": "descendant (generations omitted): Tamar is mother of Perez, ancestor of Boaz."
+ },
+ {
+  "from": "benjamin",
+  "to": "saul-king",
+  "type": "family",
+  "refs": [
+   "1 Sam 9:1-2",
+   "1 Sam 9:21"
+  ],
+  "note": "descendant (generations omitted): Saul is from the tribe of Benjamin."
+ },
+ {
+  "from": "benjamin",
+  "to": "paul",
+  "type": "family",
+  "refs": [
+   "Phil 3:5",
+   "Rom 11:1"
+  ],
+  "note": "descendant (generations omitted): Paul calls himself \"of the tribe of Benjamin\"."
+ },
+ {
+  "from": "benjamin",
+  "to": "mordecai",
+  "type": "family",
+  "refs": [
+   "Esth 2:5"
+  ],
+  "note": "descendant (generations omitted): Mordecai is \"a Benjamite\"."
+ },
+ {
+  "from": "levi",
+  "to": "amram",
+  "type": "family",
+  "refs": [
+   "Exod 6:16-18"
+  ],
+  "note": "descendant (generations omitted): Amram is Levi's grandson through Kohath."
+ },
+ {
+  "from": "amram",
+  "to": "jochebed",
+  "type": "spouse",
+  "refs": [
+   "Exod 6:20"
+  ],
+  "note": "Amram marries Jochebed, his father's sister."
+ },
+ {
+  "from": "amram",
+  "to": "moses",
+  "type": "family",
+  "refs": [
+   "Exod 6:20",
+   "Num 26:59"
+  ],
+  "note": "Father of Moses."
+ },
+ {
+  "from": "amram",
+  "to": "aaron",
+  "type": "family",
+  "refs": [
+   "Exod 6:20",
+   "Num 26:59"
+  ],
+  "note": "Father of Aaron."
+ },
+ {
+  "from": "amram",
+  "to": "miriam",
+  "type": "family",
+  "refs": [
+   "Num 26:59"
+  ],
+  "note": "Father of Miriam."
+ },
+ {
+  "from": "jochebed",
+  "to": "moses",
+  "type": "family",
+  "refs": [
+   "Exod 2:1-10",
+   "Num 26:59"
+  ],
+  "note": "She hides the infant Moses and is hired to nurse him for Pharaoh's daughter."
+ },
+ {
+  "from": "jochebed",
+  "to": "aaron",
+  "type": "family",
+  "refs": [
+   "Num 26:59"
+  ],
+  "note": "Mother of Aaron."
+ },
+ {
+  "from": "jochebed",
+  "to": "miriam",
+  "type": "family",
+  "refs": [
+   "Num 26:59"
+  ],
+  "note": "Mother of Miriam."
+ },
+ {
+  "from": "jethro",
+  "to": "zipporah",
+  "type": "family",
+  "refs": [
+   "Exod 2:16-21"
+  ],
+  "note": "Zipporah is one of the seven daughters of the priest of Midian."
+ },
+ {
+  "from": "moses",
+  "to": "zipporah",
+  "type": "spouse",
+  "refs": [
+   "Exod 2:21",
+   "Exod 4:24-26"
+  ],
+  "note": "Moses marries Zipporah in Midian; she circumcises their son on the road to Egypt."
+ },
+ {
+  "from": "jethro",
+  "to": "moses",
+  "type": "mentor",
+  "refs": [
+   "Exod 18:13-24"
+  ],
+  "note": "Moses' father-in-law advises him to appoint judges to share the burden."
+ },
+ {
+  "from": "moses",
+  "to": "aaron",
+  "type": "co-worker",
+  "refs": [
+   "Exod 4:14-16",
+   "Exod 7:1-2"
+  ],
+  "note": "Aaron acts as spokesman for his brother before Pharaoh."
+ },
+ {
+  "from": "miriam",
+  "to": "moses",
+  "type": "co-worker",
+  "refs": [
+   "Exod 15:20-21",
+   "Mic 6:4"
+  ],
+  "note": "Micah names Moses, Aaron and Miriam as the leaders God sent before Israel."
+ },
+ {
+  "from": "miriam",
+  "to": "aaron",
+  "type": "ally",
+  "refs": [
+   "Num 12:1-2",
+   "Mic 6:4"
+  ],
+  "note": "Miriam and Aaron together challenge Moses' unique authority and Miriam is struck with leprosy."
+ },
+ {
+  "from": "moses",
+  "to": "pharaoh-of-the-exodus",
+  "type": "confrontation",
+  "refs": [
+   "Exod 5:1-2",
+   "Exod 10:28-29"
+  ],
+  "note": "Moses repeatedly demands that Pharaoh let Israel go; Pharaoh refuses until the final plague."
+ },
+ {
+  "from": "aaron",
+  "to": "pharaoh-of-the-exodus",
+  "type": "confrontation",
+  "refs": [
+   "Exod 7:8-13"
+  ],
+  "note": "Aaron's rod becomes a serpent before Pharaoh and swallows the magicians' rods."
+ },
+ {
+  "from": "moses",
+  "to": "joshua",
+  "type": "mentor",
+  "refs": [
+   "Exod 24:13",
+   "Exod 33:11",
+   "Num 11:28"
+  ],
+  "note": "Joshua serves as Moses' minister from his youth."
+ },
+ {
+  "from": "moses",
+  "to": "joshua",
+  "type": "successor",
+  "refs": [
+   "Num 27:18-23",
+   "Deut 34:9",
+   "Josh 1:1-2"
+  ],
+  "note": "Moses lays hands on Joshua, who leads Israel into Canaan."
+ },
+ {
+  "from": "aaron",
+  "to": "eleazar-priest",
+  "type": "family",
+  "refs": [
+   "Exod 6:23"
+  ],
+  "note": "Third son of Aaron and Elisheba."
+ },
+ {
+  "from": "aaron",
+  "to": "eleazar-priest",
+  "type": "successor",
+  "refs": [
+   "Num 20:25-28"
+  ],
+  "note": "Aaron's garments are put on Eleazar on Mount Hor before Aaron dies."
+ },
+ {
+  "from": "eleazar-priest",
+  "to": "phinehas",
+  "type": "family",
+  "refs": [
+   "Exod 6:25"
+  ],
+  "note": "Phinehas is Eleazar's son."
+ },
+ {
+  "from": "eleazar-priest",
+  "to": "phinehas",
+  "type": "successor",
+  "refs": [
+   "Judg 20:28",
+   "1 Chr 6:4"
+  ],
+  "note": "Phinehas succeeds his father as priest in the line of high priests."
+ },
+ {
+  "from": "eleazar-priest",
+  "to": "joshua",
+  "type": "co-worker",
+  "refs": [
+   "Num 27:19-22",
+   "Josh 14:1"
+  ],
+  "note": "Priest and leader together distribute the land of Canaan."
+ },
+ {
+  "from": "korah",
+  "to": "moses",
+  "type": "enemy",
+  "refs": [
+   "Num 16:1-3",
+   "Num 16:31-33"
+  ],
+  "note": "Korah leads a revolt against Moses and Aaron and is swallowed by the earth."
+ },
+ {
+  "from": "korah",
+  "to": "aaron",
+  "type": "enemy",
+  "refs": [
+   "Num 16:8-11",
+   "Jude 1:11"
+  ],
+  "note": "Korah, a Levite, seeks the priesthood reserved for Aaron."
+ },
+ {
+  "from": "phinehas",
+  "to": "balaam",
+  "type": "enemy",
+  "refs": [
+   "Num 31:6-8",
+   "Num 31:16"
+  ],
+  "note": "Phinehas goes with the army against Midian, in which campaign Balaam is killed for his counsel that led Israel astray."
+ },
+ {
+  "from": "caleb",
+  "to": "joshua",
+  "type": "ally",
+  "refs": [
+   "Num 14:6-9",
+   "Josh 14:6-13"
+  ],
+  "note": "The two faithful spies urge Israel to trust God; both later enter the land."
+ },
+ {
+  "from": "caleb",
+  "to": "moses",
+  "type": "ally",
+  "refs": [
+   "Num 13:30",
+   "Josh 14:7-9"
+  ],
+  "note": "Caleb quiets the people before Moses and is promised Hebron."
+ },
+ {
+  "from": "caleb",
+  "to": "othniel",
+  "type": "ally",
+  "refs": [
+   "Josh 15:16-17",
+   "Judg 1:13"
+  ],
+  "note": "Othniel, son of Caleb's younger brother Kenaz, captures Debir and marries Caleb's daughter Achsah."
+ },
+ {
+  "from": "rahab",
+  "to": "joshua",
+  "type": "ally",
+  "refs": [
+   "Josh 2:1-21",
+   "Josh 6:22-25"
+  ],
+  "note": "Rahab hides Joshua's spies; Joshua spares her and her family at Jericho."
+ },
+ {
+  "from": "rahab",
+  "to": "boaz",
+  "type": "family",
+  "refs": [
+   "Matt 1:5"
+  ],
+  "note": "Matthew's genealogy names Rahab as the mother of Boaz by Salmon; many read this as a remote ancestor, since the span from the conquest to Boaz seems longer than one generation."
+ },
+ {
+  "from": "joshua",
+  "to": "othniel",
+  "type": "successor",
+  "refs": [
+   "Judg 2:8-10",
+   "Judg 3:9-11"
+  ],
+  "note": "After the death of Joshua's generation, Othniel is the first judge raised up."
+ },
+ {
+  "from": "othniel",
+  "to": "ehud",
+  "type": "successor",
+  "refs": [
+   "Judg 3:11-15"
+  ],
+  "note": "Next judge in the narrative after Othniel."
+ },
+ {
+  "from": "ehud",
+  "to": "deborah",
+  "type": "successor",
+  "refs": [
+   "Judg 4:1-4"
+  ],
+  "note": "After Ehud's death (and Shamgar's brief deliverance), Deborah judges Israel."
+ },
+ {
+  "from": "deborah",
+  "to": "gideon",
+  "type": "successor",
+  "refs": [
+   "Judg 5:31",
+   "Judg 6:1"
+  ],
+  "note": "The next judge after Deborah's forty years of rest."
+ },
+ {
+  "from": "gideon",
+  "to": "jephthah",
+  "type": "successor",
+  "refs": [
+   "Judg 10:1-5",
+   "Judg 11:1"
+  ],
+  "note": "Later judge in the narrative; Abimelech, Tola and Jair intervene."
+ },
+ {
+  "from": "jephthah",
+  "to": "samson",
+  "type": "successor",
+  "refs": [
+   "Judg 12:8-15",
+   "Judg 13:1"
+  ],
+  "note": "Later judge; Ibzan, Elon and Abdon intervene."
+ },
+ {
+  "from": "deborah",
+  "to": "barak",
+  "type": "co-worker",
+  "refs": [
+   "Judg 4:6-9",
+   "Judg 5:1"
+  ],
+  "note": "Deborah summons Barak to fight Sisera and goes with him; they sing the victory song together."
+ },
+ {
+  "from": "jael",
+  "to": "barak",
+  "type": "ally",
+  "refs": [
+   "Judg 4:17-22"
+  ],
+  "note": "Jael kills Sisera and shows his body to the pursuing Barak."
+ },
+ {
+  "from": "deborah",
+  "to": "jael",
+  "type": "ally",
+  "refs": [
+   "Judg 4:9",
+   "Judg 5:24-27"
+  ],
+  "note": "Deborah foretells that a woman will defeat Sisera and praises Jael in her song."
+ },
+ {
+  "from": "delilah",
+  "to": "samson",
+  "type": "enemy",
+  "refs": [
+   "Judg 16:4-21"
+  ],
+  "note": "Samson loves Delilah; bribed by the Philistine lords, she discovers the secret of his strength."
+ },
+ {
+  "from": "naomi",
+  "to": "ruth",
+  "type": "ally",
+  "refs": [
+   "Ruth 1:16-17",
+   "Ruth 3:1-5"
+  ],
+  "note": "Mother-in-law and daughter-in-law; Ruth vows to stay with Naomi, who later guides her toward Boaz."
+ },
+ {
+  "from": "naomi",
+  "to": "boaz",
+  "type": "ally",
+  "refs": [
+   "Ruth 2:1",
+   "Ruth 4:9-10"
+  ],
+  "note": "Boaz is a kinsman of Naomi's husband Elimelech and redeems the family land."
+ },
+ {
+  "from": "boaz",
+  "to": "ruth",
+  "type": "spouse",
+  "refs": [
+   "Ruth 4:13"
+  ],
+  "note": "Boaz acts as kinsman-redeemer and marries Ruth the Moabite."
+ },
+ {
+  "from": "boaz",
+  "to": "obed",
+  "type": "family",
+  "refs": [
+   "Ruth 4:13",
+   "Ruth 4:21"
+  ],
+  "note": "Son of Boaz and Ruth."
+ },
+ {
+  "from": "ruth",
+  "to": "obed",
+  "type": "family",
+  "refs": [
+   "Ruth 4:13",
+   "Ruth 4:17"
+  ],
+  "note": "The LORD gives Ruth conception and she bears Obed."
+ },
+ {
+  "from": "naomi",
+  "to": "obed",
+  "type": "ally",
+  "refs": [
+   "Ruth 4:16-17"
+  ],
+  "note": "Naomi becomes Obed's nurse; the women say \"there is a son born to Naomi\"."
+ },
+ {
+  "from": "obed",
+  "to": "jesse",
+  "type": "family",
+  "refs": [
+   "Ruth 4:17",
+   "Ruth 4:22"
+  ],
+  "note": "Obed is the father of Jesse."
+ },
+ {
+  "from": "jesse",
+  "to": "david",
+  "type": "family",
+  "refs": [
+   "1 Sam 16:1",
+   "1 Sam 16:10-13",
+   "Ruth 4:22"
+  ],
+  "note": "David is the youngest of Jesse's sons, chosen and anointed by Samuel."
+ },
+ {
+  "from": "hannah",
+  "to": "samuel",
+  "type": "family",
+  "refs": [
+   "1 Sam 1:20",
+   "1 Sam 1:27-28"
+  ],
+  "note": "Hannah prays for a son and dedicates him to the LORD."
+ },
+ {
+  "from": "hannah",
+  "to": "eli",
+  "type": "ally",
+  "refs": [
+   "1 Sam 1:12-18"
+  ],
+  "note": "Eli first mistakes Hannah's prayer for drunkenness, then blesses her."
+ },
+ {
+  "from": "eli",
+  "to": "samuel",
+  "type": "mentor",
+  "refs": [
+   "1 Sam 2:11",
+   "1 Sam 3:1-10"
+  ],
+  "note": "Samuel ministers before the LORD under Eli, who teaches him to answer God's call."
+ },
+ {
+  "from": "eli",
+  "to": "samuel",
+  "type": "successor",
+  "refs": [
+   "1 Sam 4:18",
+   "1 Sam 7:15"
+  ],
+  "note": "Eli judged Israel forty years; Samuel judges Israel all his life after him."
+ },
+ {
+  "from": "aaron",
+  "to": "eli",
+  "type": "family",
+  "refs": [
+   "1 Sam 2:27-28"
+  ],
+  "note": "descendant (generations omitted): the man of God addresses Eli as belonging to the house God chose from all the tribes for priesthood, i.e. Aaron's line."
+ },
+ {
+  "from": "samuel",
+  "to": "saul-king",
+  "type": "ally",
+  "refs": [
+   "1 Sam 9:15-17",
+   "1 Sam 10:1"
+  ],
+  "note": "Samuel anoints Saul as the first king."
+ },
+ {
+  "from": "samuel",
+  "to": "saul-king",
+  "type": "confrontation",
+  "refs": [
+   "1 Sam 13:13-14",
+   "1 Sam 15:22-28"
+  ],
+  "note": "Samuel rebukes Saul for unauthorized sacrifice and for sparing Agag, announcing the kingdom will be taken from him."
+ },
+ {
+  "from": "samuel",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "1 Sam 16:13",
+   "1 Sam 19:18"
+  ],
+  "note": "Samuel anoints David and shelters him at Ramah when he flees Saul."
+ },
+ {
+  "from": "saul-king",
+  "to": "jonathan",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:49"
+  ],
+  "note": "Jonathan is Saul's son."
+ },
+ {
+  "from": "saul-king",
+  "to": "michal",
+  "type": "family",
+  "refs": [
+   "1 Sam 14:49"
+  ],
+  "note": "Michal is Saul's younger daughter."
+ },
+ {
+  "from": "saul-king",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "1 Sam 18:10-11",
+   "1 Sam 19:1",
+   "1 Sam 24:1-7"
+  ],
+  "note": "Saul's jealousy drives him to hunt David, who twice spares his life."
+ },
+ {
+  "from": "saul-king",
+  "to": "david",
+  "type": "successor",
+  "refs": [
+   "2 Sam 2:4",
+   "2 Sam 5:3"
+  ],
+  "note": "After Saul's death David is anointed king, first over Judah, then over all Israel."
+ },
+ {
+  "from": "jonathan",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "1 Sam 18:1-4",
+   "1 Sam 20:42"
+  ],
+  "note": "Jonathan loves David as his own soul and makes a covenant with him."
+ },
+ {
+  "from": "david",
+  "to": "michal",
+  "type": "spouse",
+  "refs": [
+   "1 Sam 18:27",
+   "2 Sam 6:20-23"
+  ],
+  "note": "Michal loves David and saves his life; later she despises him for dancing before the ark."
+ },
+ {
+  "from": "david",
+  "to": "abigail",
+  "type": "spouse",
+  "refs": [
+   "1 Sam 25:39-42"
+  ],
+  "note": "Abigail, widow of Nabal, becomes David's wife after her wise intervention."
+ },
+ {
+  "from": "david",
+  "to": "bathsheba",
+  "type": "spouse",
+  "refs": [
+   "2 Sam 11:27",
+   "2 Sam 12:24"
+  ],
+  "note": "David takes Bathsheba after arranging Uriah's death; she bears Solomon."
+ },
+ {
+  "from": "uriah",
+  "to": "bathsheba",
+  "type": "spouse",
+  "refs": [
+   "2 Sam 11:3"
+  ],
+  "note": "Bathsheba is the wife of Uriah the Hittite."
+ },
+ {
+  "from": "david",
+  "to": "uriah",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 11:14-17"
+  ],
+  "note": "David has Uriah, one of his loyal soldiers, placed where he will be killed."
+ },
+ {
+  "from": "david",
+  "to": "absalom",
+  "type": "family",
+  "refs": [
+   "2 Sam 3:3"
+  ],
+  "note": "Third son of David, by Maacah."
+ },
+ {
+  "from": "absalom",
+  "to": "david",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 15:10-14",
+   "2 Sam 18:33"
+  ],
+  "note": "Absalom revolts and drives his father from Jerusalem; David mourns his death."
+ },
+ {
+  "from": "joab",
+  "to": "absalom",
+  "type": "enemy",
+  "refs": [
+   "2 Sam 14:21-23",
+   "2 Sam 18:14-15"
+  ],
+  "note": "Joab first brings Absalom home, then kills him against David's order."
+ },
+ {
+  "from": "david",
+  "to": "joab",
+  "type": "co-worker",
+  "refs": [
+   "2 Sam 8:16",
+   "2 Sam 11:14-16"
+  ],
+  "note": "Joab is commander of David's army and carries out his orders, including the death of Uriah."
+ },
+ {
+  "from": "solomon",
+  "to": "joab",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 2:5-6",
+   "1 Kgs 2:28-34"
+  ],
+  "note": "On David's charge Solomon has Joab executed for past bloodshed and his support of Adonijah."
+ },
+ {
+  "from": "nathan",
+  "to": "david",
+  "type": "confrontation",
+  "refs": [
+   "2 Sam 12:1-14"
+  ],
+  "note": "Nathan's parable of the ewe lamb exposes David's sin: \"Thou art the man.\""
+ },
+ {
+  "from": "nathan",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "2 Sam 7:1-17"
+  ],
+  "note": "Nathan delivers the oracle of the everlasting Davidic dynasty."
+ },
+ {
+  "from": "gad-prophet",
+  "to": "david",
+  "type": "ally",
+  "refs": [
+   "1 Sam 22:5",
+   "1 Chr 29:29"
+  ],
+  "note": "Gad advises David while in the wilderness and is later remembered as a recorder of his acts."
+ },
+ {
+  "from": "gad-prophet",
+  "to": "david",
+  "type": "confrontation",
+  "refs": [
+   "2 Sam 24:11-14",
+   "2 Sam 24:18-19"
+  ],
+  "note": "After David's census Gad brings God's choice of three punishments and tells him to build an altar on Araunah's threshing floor."
+ },
+ {
+  "from": "nathan",
+  "to": "bathsheba",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 1:11-14"
+  ],
+  "note": "Nathan and Bathsheba together secure Solomon's succession against Adonijah."
+ },
+ {
+  "from": "nathan",
+  "to": "solomon",
+  "type": "ally",
+  "refs": [
+   "2 Sam 12:24-25",
+   "1 Kgs 1:34"
+  ],
+  "note": "Nathan names the infant Solomon Jedidiah and later anoints him king."
+ },
+ {
+  "from": "david",
+  "to": "solomon",
+  "type": "family",
+  "refs": [
+   "2 Sam 12:24"
+  ],
+  "note": "Son of David and Bathsheba."
+ },
+ {
+  "from": "bathsheba",
+  "to": "solomon",
+  "type": "family",
+  "refs": [
+   "2 Sam 12:24",
+   "1 Kgs 2:19"
+  ],
+  "note": "Bathsheba bears Solomon; as queen mother she sits at his right hand."
+ },
+ {
+  "from": "david",
+  "to": "solomon",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 1:39",
+   "1 Kgs 2:12"
+  ],
+  "note": "Solomon is anointed and sits on the throne of David his father."
+ },
+ {
+  "from": "solomon",
+  "to": "queen-of-sheba",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 10:1-13",
+   "Matt 12:42"
+  ],
+  "note": "The queen tests Solomon with hard questions and exchanges lavish gifts with him."
+ },
+ {
+  "from": "solomon",
+  "to": "rehoboam",
+  "type": "family",
+  "refs": [
+   "1 Kgs 11:43",
+   "1 Kgs 14:21"
+  ],
+  "note": "Son of Solomon by Naamah the Ammonitess."
+ },
+ {
+  "from": "solomon",
+  "to": "rehoboam",
+  "type": "successor",
+  "refs": [
+   "1 Kgs 11:43"
+  ],
+  "note": "Rehoboam reigns in Solomon's place."
+ },
+ {
+  "from": "solomon",
+  "to": "jeroboam-i",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 11:26-28",
+   "1 Kgs 11:40"
+  ],
+  "note": "Solomon's labour officer rebels; Solomon seeks to kill him and he flees to Egypt."
+ },
+ {
+  "from": "jeroboam-i",
+  "to": "rehoboam",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 12:16-20",
+   "1 Kgs 14:30"
+  ],
+  "note": "The kingdom divides; there is war between Rehoboam and Jeroboam continually."
+ },
+ {
+  "from": "ahab",
+  "to": "jezebel",
+  "type": "spouse",
+  "refs": [
+   "1 Kgs 16:31",
+   "1 Kgs 21:25"
+  ],
+  "note": "Ahab marries the Sidonian princess Jezebel, who stirs him up to evil."
+ },
+ {
+  "from": "elijah",
+  "to": "ahab",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 18:17-18",
+   "1 Kgs 21:17-24"
+  ],
+  "note": "Elijah calls Ahab the troubler of Israel and condemns him over Naboth's vineyard."
+ },
+ {
+  "from": "elijah",
+  "to": "jezebel",
+  "type": "enemy",
+  "refs": [
+   "1 Kgs 19:1-3",
+   "1 Kgs 21:23"
+  ],
+  "note": "Jezebel vows to kill Elijah after Carmel; Elijah prophesies her death at Jezreel."
+ },
+ {
+  "from": "elijah",
+  "to": "elisha",
+  "type": "mentor",
+  "refs": [
+   "1 Kgs 19:19-21"
+  ],
+  "note": "Elijah casts his mantle on Elisha, who leaves his oxen to serve him."
+ },
+ {
+  "from": "elijah",
+  "to": "elisha",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 2:9-15"
+  ],
+  "note": "Elisha receives a double portion of Elijah's spirit and his mantle."
+ },
+ {
+  "from": "elijah",
+  "to": "jehu",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 19:16"
+  ],
+  "note": "Elijah is commissioned to anoint Jehu king over Israel."
+ },
+ {
+  "from": "elisha",
+  "to": "jehu",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 9:1-10"
+  ],
+  "note": "Elisha sends a son of the prophets to anoint Jehu and charge him to destroy Ahab's house."
+ },
+ {
+  "from": "elisha",
+  "to": "naaman",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 5:1-15",
+   "Luke 4:27"
+  ],
+  "note": "Elisha tells the Syrian commander to wash seven times in the Jordan, and he is healed."
+ },
+ {
+  "from": "micaiah",
+  "to": "ahab",
+  "type": "confrontation",
+  "refs": [
+   "1 Kgs 22:8",
+   "1 Kgs 22:17-28"
+  ],
+  "note": "Micaiah alone foretells Ahab's defeat and is imprisoned for it."
+ },
+ {
+  "from": "micaiah",
+  "to": "jehoshaphat",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 22:7-8"
+  ],
+  "note": "Jehoshaphat insists on hearing a prophet of the LORD, and Micaiah is summoned."
+ },
+ {
+  "from": "ahab",
+  "to": "jehoshaphat",
+  "type": "ally",
+  "refs": [
+   "1 Kgs 22:2-4",
+   "2 Chr 18:1-3"
+  ],
+  "note": "Judah and Israel ally by marriage and fight together at Ramoth-gilead."
+ },
+ {
+  "from": "ahab",
+  "to": "athaliah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:18",
+   "2 Kgs 8:26"
+  ],
+  "note": "Athaliah is \"the daughter of Ahab\" and granddaughter of Omri; whether Jezebel was her mother is not stated."
+ },
+ {
+  "from": "jehu",
+  "to": "jezebel",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 9:30-37"
+  ],
+  "note": "Jehu has Jezebel thrown from a window at Jezreel."
+ },
+ {
+  "from": "jehu",
+  "to": "ahab",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 10:1-11",
+   "2 Kgs 10:17"
+  ],
+  "note": "Jehu wipes out the house of Ahab as Elijah foretold."
+ },
+ {
+  "from": "athaliah",
+  "to": "joash-judah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:26",
+   "2 Kgs 11:2"
+  ],
+  "note": "descendant (generations omitted): Joash is Athaliah's grandson through Ahaziah."
+ },
+ {
+  "from": "athaliah",
+  "to": "joash-judah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 11:1-3",
+   "2 Kgs 11:20"
+  ],
+  "note": "Athaliah tries to destroy the royal seed; the infant Joash is hidden and later crowned, and she is killed."
+ },
+ {
+  "from": "rehoboam",
+  "to": "jehoshaphat",
+  "type": "family",
+  "refs": [
+   "1 Kgs 15:8",
+   "1 Kgs 15:24"
+  ],
+  "note": "descendant (generations omitted): through Abijam and Asa."
+ },
+ {
+  "from": "jehoshaphat",
+  "to": "joash-judah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 8:16",
+   "2 Kgs 8:25",
+   "2 Kgs 11:2"
+  ],
+  "note": "descendant (generations omitted): through Jehoram and Ahaziah."
+ },
+ {
+  "from": "joash-judah",
+  "to": "uzziah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 14:1",
+   "2 Kgs 14:21"
+  ],
+  "note": "descendant (generations omitted): through Amaziah; Uzziah is also called Azariah."
+ },
+ {
+  "from": "uzziah",
+  "to": "hezekiah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 15:7",
+   "2 Kgs 15:38",
+   "2 Kgs 16:20"
+  ],
+  "note": "descendant (generations omitted): through Jotham and Ahaz."
+ },
+ {
+  "from": "hezekiah",
+  "to": "manasseh-king",
+  "type": "family",
+  "refs": [
+   "2 Kgs 20:21",
+   "2 Kgs 21:1"
+  ],
+  "note": "Manasseh is Hezekiah's son."
+ },
+ {
+  "from": "hezekiah",
+  "to": "manasseh-king",
+  "type": "successor",
+  "refs": [
+   "2 Kgs 20:21"
+  ],
+  "note": "Manasseh reigns in his father's place at age twelve."
+ },
+ {
+  "from": "manasseh-king",
+  "to": "josiah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 21:18",
+   "2 Kgs 21:24"
+  ],
+  "note": "descendant (generations omitted): through Amon."
+ },
+ {
+  "from": "josiah",
+  "to": "zedekiah",
+  "type": "family",
+  "refs": [
+   "2 Kgs 24:17",
+   "1 Chr 3:15",
+   "Jer 37:1"
+  ],
+  "note": "Zedekiah (Mattaniah) is a son of Josiah, set on the throne by Nebuchadnezzar."
+ },
+ {
+  "from": "josiah",
+  "to": "zerubbabel",
+  "type": "family",
+  "refs": [
+   "1 Chr 3:15-19",
+   "Matt 1:11-12"
+  ],
+  "note": "descendant (generations omitted): through Jeconiah and Shealtiel (or Pedaiah, per 1 Chr 3:19)."
+ },
+ {
+  "from": "hezekiah",
+  "to": "zephaniah",
+  "type": "family",
+  "refs": [
+   "Zeph 1:1"
+  ],
+  "note": "descendant (generations omitted): Zephaniah traces his line to \"Hizkiah\", commonly but not certainly identified with King Hezekiah."
+ },
+ {
+  "from": "isaiah",
+  "to": "hezekiah",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 19:5-7",
+   "2 Kgs 19:20-34"
+  ],
+  "note": "Isaiah assures Hezekiah that Jerusalem will be delivered from Assyria."
+ },
+ {
+  "from": "isaiah",
+  "to": "hezekiah",
+  "type": "confrontation",
+  "refs": [
+   "2 Kgs 20:1",
+   "2 Kgs 20:14-18"
+  ],
+  "note": "Isaiah announces Hezekiah's death (later reversed) and rebukes his display of treasures to Babylon."
+ },
+ {
+  "from": "micah",
+  "to": "hezekiah",
+  "type": "confrontation",
+  "refs": [
+   "Jer 26:18-19",
+   "Mic 3:12"
+  ],
+  "note": "Micah prophesies Zion's ploughing; Hezekiah fears the LORD and the disaster is averted."
+ },
+ {
+  "from": "isaiah",
+  "to": "sennacherib",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 19:20-28",
+   "Isa 37:21-29"
+  ],
+  "note": "Isaiah delivers God's taunt against the Assyrian king's pride."
+ },
+ {
+  "from": "hezekiah",
+  "to": "sennacherib",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 18:13-17",
+   "2 Kgs 19:35-37"
+  ],
+  "note": "Sennacherib invades Judah and besieges Jerusalem; his army is struck down."
+ },
+ {
+  "from": "isaiah",
+  "to": "manasseh-king",
+  "type": "enemy",
+  "refs": [
+   "Heb 11:37",
+   "2 Kgs 21:16"
+  ],
+  "note": "Tradition (e.g. *Ascension of Isaiah*) says Manasseh had Isaiah sawn in two; Scripture says only that Manasseh shed much innocent blood and Hebrews mentions martyrs \"sawn asunder\"."
+ },
+ {
+  "from": "huldah",
+  "to": "josiah",
+  "type": "ally",
+  "refs": [
+   "2 Kgs 22:14-20"
+  ],
+  "note": "The prophetess confirms the warnings of the rediscovered law book and promises Josiah peace in his lifetime."
+ },
+ {
+  "from": "zephaniah",
+  "to": "josiah",
+  "type": "ally",
+  "refs": [
+   "Zeph 1:1"
+  ],
+  "note": "Zephaniah prophesies in the days of Josiah, during the period of his reform."
+ },
+ {
+  "from": "jeremiah",
+  "to": "josiah",
+  "type": "ally",
+  "refs": [
+   "Jer 1:2",
+   "2 Chr 35:25",
+   "Jer 22:15-16"
+  ],
+  "note": "Jeremiah's ministry begins under Josiah; he laments the king's death and holds him up as just."
+ },
+ {
+  "from": "jeremiah",
+  "to": "zedekiah",
+  "type": "confrontation",
+  "refs": [
+   "Jer 37:17",
+   "Jer 38:14-23"
+  ],
+  "note": "Jeremiah tells Zedekiah privately to surrender to Babylon; the king is too afraid to obey."
+ },
+ {
+  "from": "jeremiah",
+  "to": "baruch",
+  "type": "co-worker",
+  "refs": [
+   "Jer 36:4",
+   "Jer 45:1-5"
+  ],
+  "note": "Baruch writes Jeremiah's words from his dictation and reads them publicly."
+ },
+ {
+  "from": "nebuchadnezzar",
+  "to": "jeremiah",
+  "type": "ally",
+  "refs": [
+   "Jer 39:11-14"
+  ],
+  "note": "Nebuchadnezzar orders that Jeremiah be well treated after Jerusalem falls."
+ },
+ {
+  "from": "nebuchadnezzar",
+  "to": "zedekiah",
+  "type": "enemy",
+  "refs": [
+   "2 Kgs 24:17",
+   "2 Kgs 25:6-7"
+  ],
+  "note": "Nebuchadnezzar installs Zedekiah, then blinds him and takes him to Babylon after his rebellion."
+ },
+ {
+  "from": "daniel",
+  "to": "nebuchadnezzar",
+  "type": "confrontation",
+  "refs": [
+   "Dan 2:36-45",
+   "Dan 4:24-27"
+  ],
+  "note": "Daniel interprets the king's dreams and urges him to break off his sins by righteousness."
+ },
+ {
+  "from": "daniel",
+  "to": "shadrach",
+  "type": "co-worker",
+  "refs": [
+   "Dan 1:6-7",
+   "Dan 2:17-18",
+   "Dan 2:49"
+  ],
+  "note": "Fellow Judean exiles trained in Babylon; Daniel asks them to pray with him and secures their appointment."
+ },
+ {
+  "from": "daniel",
+  "to": "meshach",
+  "type": "co-worker",
+  "refs": [
+   "Dan 1:6-7",
+   "Dan 2:17-18"
+  ],
+  "note": "Fellow exiles and companions in prayer."
+ },
+ {
+  "from": "daniel",
+  "to": "abednego",
+  "type": "co-worker",
+  "refs": [
+   "Dan 1:6-7",
+   "Dan 2:17-18"
+  ],
+  "note": "Fellow exiles and companions in prayer."
+ },
+ {
+  "from": "shadrach",
+  "to": "meshach",
+  "type": "co-worker",
+  "refs": [
+   "Dan 3:12-27"
+  ],
+  "note": "They refuse together to worship the golden image and are delivered from the furnace."
+ },
+ {
+  "from": "meshach",
+  "to": "abednego",
+  "type": "co-worker",
+  "refs": [
+   "Dan 3:12-27"
+  ],
+  "note": "Companions in the furnace."
+ },
+ {
+  "from": "shadrach",
+  "to": "abednego",
+  "type": "co-worker",
+  "refs": [
+   "Dan 3:16-18"
+  ],
+  "note": "Their shared answer to the king."
+ },
+ {
+  "from": "nebuchadnezzar",
+  "to": "shadrach",
+  "type": "enemy",
+  "refs": [
+   "Dan 3:13-20",
+   "Dan 3:28-30"
+  ],
+  "note": "The king throws the three into the furnace, then blesses their God and promotes them."
+ },
+ {
+  "from": "cyrus",
+  "to": "daniel",
+  "type": "ally",
+  "refs": [
+   "Dan 1:21",
+   "Dan 6:28",
+   "Dan 10:1"
+  ],
+  "note": "Daniel continues and prospers into the reign of Cyrus the Persian."
+ },
+ {
+  "from": "cyrus",
+  "to": "zerubbabel",
+  "type": "ally",
+  "refs": [
+   "Ezra 1:1-4",
+   "Ezra 3:7-8"
+  ],
+  "note": "Cyrus' decree permits the return under which Zerubbabel leads the rebuilding."
+ },
+ {
+  "from": "mordecai",
+  "to": "esther",
+  "type": "mentor",
+  "refs": [
+   "Esth 2:7",
+   "Esth 2:20",
+   "Esth 4:13-14"
+  ],
+  "note": "Mordecai raises his orphaned cousin Esther and urges her to act \"for such a time as this\"."
+ },
+ {
+  "from": "zerubbabel",
+  "to": "joshua-high-priest",
+  "type": "co-worker",
+  "refs": [
+   "Ezra 3:2",
+   "Hag 1:12-14"
+  ],
+  "note": "Governor and high priest lead the rebuilding of the altar and temple together."
+ },
+ {
+  "from": "haggai",
+  "to": "zerubbabel",
+  "type": "ally",
+  "refs": [
+   "Hag 1:1",
+   "Hag 2:4",
+   "Hag 2:20-23"
+  ],
+  "note": "Haggai urges Zerubbabel to build and calls him God's signet ring."
+ },
+ {
+  "from": "haggai",
+  "to": "joshua-high-priest",
+  "type": "ally",
+  "refs": [
+   "Hag 1:1",
+   "Hag 2:4"
+  ],
+  "note": "Haggai's oracles are addressed to Joshua as well as Zerubbabel."
+ },
+ {
+  "from": "zechariah-prophet",
+  "to": "joshua-high-priest",
+  "type": "ally",
+  "refs": [
+   "Zech 3:1-10",
+   "Zech 6:11-13"
+  ],
+  "note": "Zechariah sees Joshua cleansed and crowned as a sign of the coming Branch."
+ },
+ {
+  "from": "zechariah-prophet",
+  "to": "zerubbabel",
+  "type": "ally",
+  "refs": [
+   "Zech 4:6-10"
+  ],
+  "note": "\"Not by might, nor by power, but by my spirit\" is spoken to Zerubbabel."
+ },
+ {
+  "from": "haggai",
+  "to": "zechariah-prophet",
+  "type": "co-worker",
+  "refs": [
+   "Ezra 5:1-2",
+   "Ezra 6:14"
+  ],
+  "note": "The two prophets together stir up the rebuilding of the temple."
+ },
+ {
+  "from": "ezra",
+  "to": "nehemiah",
+  "type": "co-worker",
+  "refs": [
+   "Neh 8:9",
+   "Neh 12:36"
+  ],
+  "note": "Ezra reads the law while Nehemiah is governor; both lead the wall dedication."
+ },
+ {
+  "from": "aaron",
+  "to": "ezra",
+  "type": "family",
+  "refs": [
+   "Ezra 7:1-5"
+  ],
+  "note": "descendant (generations omitted): Ezra's priestly genealogy runs back to \"Aaron the chief priest\"."
+ },
+ {
+  "from": "phinehas",
+  "to": "ezra",
+  "type": "family",
+  "refs": [
+   "Ezra 7:5"
+  ],
+  "note": "descendant (generations omitted): Ezra descends from Phinehas son of Eleazar."
+ },
+ {
+  "from": "aaron",
+  "to": "joshua-high-priest",
+  "type": "family",
+  "refs": [
+   "1 Chr 6:3-15",
+   "Hag 1:1"
+  ],
+  "note": "descendant (generations omitted): Joshua is the son of Josedech (Jehozadak), the last in the Aaronic high-priestly line carried into exile."
+ },
+ {
+  "from": "zerubbabel",
+  "to": "joseph-of-nazareth",
+  "type": "family",
+  "refs": [
+   "Matt 1:12-16"
+  ],
+  "note": "descendant (generations omitted): Matthew's line runs from Zerubbabel through Abiud to Jacob, father of Joseph."
+ },
+ {
+  "from": "elijah",
+  "to": "john-the-baptist",
+  "type": "successor",
+  "refs": [
+   "Mal 4:5",
+   "Matt 11:13-14",
+   "Luke 1:17"
+  ],
+  "note": "John comes \"in the spirit and power of Elias\"; Jesus identifies him as the Elijah who was to come."
+ },
+ {
+  "from": "joseph-of-nazareth",
+  "to": "mary-mother-of-jesus",
+  "type": "spouse",
+  "refs": [
+   "Matt 1:18-25",
+   "Luke 2:4-5"
+  ],
+  "note": "Joseph is betrothed to Mary and, after the angel's message, takes her as his wife."
+ },
+ {
+  "from": "joseph-of-nazareth",
+  "to": "jesus",
+  "type": "family",
+  "refs": [
+   "Matt 1:16",
+   "Luke 3:23"
+  ],
+  "note": "Legal father of Jesus; Luke notes Jesus was \"as was supposed\" the son of Joseph."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "jesus",
+  "type": "family",
+  "refs": [
+   "Luke 1:31",
+   "Luke 2:7",
+   "Matt 1:16"
+  ],
+  "note": "Mary conceives by the Holy Spirit and bears Jesus at Bethlehem."
+ },
+ {
+  "from": "david",
+  "to": "jesus",
+  "type": "family",
+  "refs": [
+   "Matt 1:1",
+   "Luke 1:32",
+   "Rom 1:3"
+  ],
+  "note": "Descendant: Jesus is called the son of David, heir to his throne."
+ },
+ {
+  "from": "abraham",
+  "to": "jesus",
+  "type": "family",
+  "refs": [
+   "Matt 1:1-2",
+   "Gal 3:16"
+  ],
+  "note": "Descendant: Matthew opens with Jesus as son of Abraham; Paul calls Christ the promised \"seed\"."
+ },
+ {
+  "from": "adam",
+  "to": "jesus",
+  "type": "family",
+  "refs": [
+   "Luke 3:23-38"
+  ],
+  "note": "Descendant: Luke traces Jesus' genealogy back to Adam, \"the son of God\"."
+ },
+ {
+  "from": "zechariah-priest",
+  "to": "elizabeth",
+  "type": "spouse",
+  "refs": [
+   "Luke 1:5-7"
+  ],
+  "note": "A righteous, childless priestly couple in old age."
+ },
+ {
+  "from": "zechariah-priest",
+  "to": "john-the-baptist",
+  "type": "family",
+  "refs": [
+   "Luke 1:13",
+   "Luke 1:59-64"
+  ],
+  "note": "Gabriel announces John's birth; Zechariah confirms the name in writing."
+ },
+ {
+  "from": "elizabeth",
+  "to": "john-the-baptist",
+  "type": "family",
+  "refs": [
+   "Luke 1:24",
+   "Luke 1:57-60"
+  ],
+  "note": "Elizabeth conceives in old age and insists the child be named John."
+ },
+ {
+  "from": "aaron",
+  "to": "elizabeth",
+  "type": "family",
+  "refs": [
+   "Luke 1:5"
+  ],
+  "note": "descendant (generations omitted): Elizabeth is \"of the daughters of Aaron\"."
+ },
+ {
+  "from": "aaron",
+  "to": "zechariah-priest",
+  "type": "family",
+  "refs": [
+   "Luke 1:5",
+   "1 Chr 24:10"
+  ],
+  "note": "descendant (generations omitted): Zechariah serves in the priestly course of Abijah."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "elizabeth",
+  "type": "ally",
+  "refs": [
+   "Luke 1:36",
+   "Luke 1:39-45"
+  ],
+  "note": "Relatives (KJV \"cousin\"); Mary visits Elizabeth, whose child leaps at her greeting."
+ },
+ {
+  "from": "simeon",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Luke 2:25-35"
+  ],
+  "note": "Simeon takes the infant Jesus in his arms and blesses God for seeing his salvation."
+ },
+ {
+  "from": "simeon",
+  "to": "mary-mother-of-jesus",
+  "type": "ally",
+  "refs": [
+   "Luke 2:34-35"
+  ],
+  "note": "Simeon tells Mary that a sword will pierce her own soul."
+ },
+ {
+  "from": "anna",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Luke 2:36-38"
+  ],
+  "note": "The aged prophetess gives thanks and speaks of the child to all who looked for redemption."
+ },
+ {
+  "from": "herod-the-great",
+  "to": "jesus",
+  "type": "enemy",
+  "refs": [
+   "Matt 2:3-16"
+  ],
+  "note": "Herod tries to kill the newborn king and slaughters the children of Bethlehem."
+ },
+ {
+  "from": "herod-the-great",
+  "to": "herod-antipas",
+  "type": "family",
+  "refs": [
+   "Matt 2:22",
+   "Luke 3:1"
+  ],
+  "note": "Antipas is a son of Herod the Great (stated by Josephus; the Gospels call him \"Herod the tetrarch\")."
+ },
+ {
+  "from": "herod-the-great",
+  "to": "herod-antipas",
+  "type": "successor",
+  "refs": [
+   "Luke 3:1",
+   "Matt 14:1"
+  ],
+  "note": "On Herod's death his kingdom is divided; Antipas becomes tetrarch of Galilee and Perea."
+ },
+ {
+  "from": "herod-the-great",
+  "to": "herod-agrippa-i",
+  "type": "family",
+  "refs": [
+   "Acts 12:1"
+  ],
+  "note": "descendant (generations omitted): Agrippa I is Herod the Great's grandson through Aristobulus (Josephus)."
+ },
+ {
+  "from": "herod-agrippa-i",
+  "to": "herod-agrippa-ii",
+  "type": "family",
+  "refs": [
+   "Acts 12:23",
+   "Acts 25:13"
+  ],
+  "note": "Agrippa II is the son of Agrippa I (Josephus); Bernice is his sister."
+ },
+ {
+  "from": "john-the-baptist",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Matt 3:13-17",
+   "John 1:29-34"
+  ],
+  "note": "John baptizes Jesus and points to him as the Lamb of God; they are kinsmen through their mothers."
+ },
+ {
+  "from": "john-the-baptist",
+  "to": "andrew",
+  "type": "mentor",
+  "refs": [
+   "John 1:35-40"
+  ],
+  "note": "Andrew is a disciple of John before following Jesus."
+ },
+ {
+  "from": "john-the-baptist",
+  "to": "herod-antipas",
+  "type": "confrontation",
+  "refs": [
+   "Mark 6:17-18",
+   "Luke 3:19-20"
+  ],
+  "note": "John rebukes Herod for taking his brother's wife Herodias and is imprisoned."
+ },
+ {
+  "from": "herod-antipas",
+  "to": "john-the-baptist",
+  "type": "enemy",
+  "refs": [
+   "Mark 6:20-28"
+  ],
+  "note": "Herod respects John yet beheads him at Herodias' daughter's request."
+ },
+ {
+  "from": "jesus",
+  "to": "herod-antipas",
+  "type": "confrontation",
+  "refs": [
+   "Luke 13:31-32",
+   "Luke 23:8-11"
+  ],
+  "note": "Jesus calls Herod \"that fox\" and later stays silent before him."
+ },
+ {
+  "from": "herod-antipas",
+  "to": "pontius-pilate",
+  "type": "ally",
+  "refs": [
+   "Luke 23:6-12"
+  ],
+  "note": "Previously at enmity, Pilate and Herod become friends the day of Jesus' trial."
+ },
+ {
+  "from": "jesus",
+  "to": "peter",
+  "type": "mentor",
+  "refs": [
+   "Matt 4:18-20",
+   "Matt 16:17-19",
+   "John 21:15-19"
+  ],
+  "note": "Jesus calls Simon, renames him Peter, and after the resurrection commissions him to feed his sheep."
+ },
+ {
+  "from": "jesus",
+  "to": "andrew",
+  "type": "mentor",
+  "refs": [
+   "Matt 4:18-20",
+   "John 1:40"
+  ],
+  "note": "Called with his brother as fishers of men."
+ },
+ {
+  "from": "jesus",
+  "to": "james-son-of-zebedee",
+  "type": "mentor",
+  "refs": [
+   "Matt 4:21-22",
+   "Mark 3:17"
+  ],
+  "note": "Called from the boats; part of the inner circle, nicknamed a son of thunder."
+ },
+ {
+  "from": "jesus",
+  "to": "john-the-apostle",
+  "type": "mentor",
+  "refs": [
+   "Mark 1:19-20",
+   "John 13:23"
+  ],
+  "note": "Called with his brother James; traditionally identified as the disciple whom Jesus loved."
+ },
+ {
+  "from": "jesus",
+  "to": "philip-apostle",
+  "type": "mentor",
+  "refs": [
+   "John 1:43",
+   "John 14:8-9"
+  ],
+  "note": "Jesus finds Philip and tells him \"Follow me\"."
+ },
+ {
+  "from": "jesus",
+  "to": "bartholomew",
+  "type": "mentor",
+  "refs": [
+   "Matt 10:3",
+   "John 1:47-49"
+  ],
+  "note": "One of the Twelve; if he is Nathanael, Jesus calls him an Israelite without guile."
+ },
+ {
+  "from": "jesus",
+  "to": "thomas",
+  "type": "mentor",
+  "refs": [
+   "John 11:16",
+   "John 20:24-29"
+  ],
+  "note": "Thomas doubts the resurrection and then confesses \"My Lord and my God\"."
+ },
+ {
+  "from": "jesus",
+  "to": "matthew",
+  "type": "mentor",
+  "refs": [
+   "Matt 9:9"
+  ],
+  "note": "Jesus calls the tax collector from the receipt of custom."
+ },
+ {
+  "from": "jesus",
+  "to": "james-son-of-alphaeus",
+  "type": "mentor",
+  "refs": [
+   "Matt 10:3",
+   "Mark 3:18"
+  ],
+  "note": "Named among the Twelve."
+ },
+ {
+  "from": "jesus",
+  "to": "thaddaeus",
+  "type": "mentor",
+  "refs": [
+   "Mark 3:18",
+   "John 14:22"
+  ],
+  "note": "Named among the Twelve; probably the \"Judas not Iscariot\" who questions Jesus at the supper."
+ },
+ {
+  "from": "jesus",
+  "to": "simon-the-zealot",
+  "type": "mentor",
+  "refs": [
+   "Luke 6:15",
+   "Acts 1:13"
+  ],
+  "note": "Named among the Twelve."
+ },
+ {
+  "from": "jesus",
+  "to": "judas-iscariot",
+  "type": "mentor",
+  "refs": [
+   "Mark 3:19",
+   "John 6:70-71"
+  ],
+  "note": "Chosen as one of the Twelve and keeper of the common purse."
+ },
+ {
+  "from": "judas-iscariot",
+  "to": "jesus",
+  "type": "enemy",
+  "refs": [
+   "Matt 26:14-16",
+   "Matt 26:47-50"
+  ],
+  "note": "Judas betrays Jesus for thirty pieces of silver."
+ },
+ {
+  "from": "judas-iscariot",
+  "to": "caiaphas",
+  "type": "ally",
+  "refs": [
+   "Matt 26:3-4",
+   "Matt 26:14-15"
+  ],
+  "note": "Judas bargains with the chief priests gathered at Caiaphas' palace."
+ },
+ {
+  "from": "judas-iscariot",
+  "to": "matthias",
+  "type": "successor",
+  "refs": [
+   "Acts 1:20-26"
+  ],
+  "note": "Matthias is chosen by lot to take Judas' place among the Twelve."
+ },
+ {
+  "from": "andrew",
+  "to": "peter",
+  "type": "ally",
+  "refs": [
+   "John 1:40-42"
+  ],
+  "note": "Brothers; Andrew brings Simon to Jesus."
+ },
+ {
+  "from": "james-son-of-zebedee",
+  "to": "john-the-apostle",
+  "type": "ally",
+  "refs": [
+   "Matt 4:21",
+   "Mark 10:35-37"
+  ],
+  "note": "Brothers, sons of Zebedee; together they ask for the seats of honour."
+ },
+ {
+  "from": "peter",
+  "to": "john-the-apostle",
+  "type": "co-worker",
+  "refs": [
+   "John 20:3-8",
+   "Acts 3:1-11",
+   "Acts 8:14"
+  ],
+  "note": "Partners at the tomb, at the healing at the temple gate, and on the mission to Samaria."
+ },
+ {
+  "from": "philip-apostle",
+  "to": "andrew",
+  "type": "co-worker",
+  "refs": [
+   "John 6:5-9",
+   "John 12:21-22"
+  ],
+  "note": "Both from Bethsaida; together they bring the Greeks' request to Jesus."
+ },
+ {
+  "from": "philip-apostle",
+  "to": "bartholomew",
+  "type": "ally",
+  "refs": [
+   "John 1:45-46"
+  ],
+  "note": "Philip brings Nathanael to Jesus; Nathanael is traditionally identified with Bartholomew, who is paired with Philip in the lists."
+ },
+ {
+  "from": "mary-magdalene",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Luke 8:1-3",
+   "John 20:11-18"
+  ],
+  "note": "Delivered from seven devils, she supports Jesus' ministry and is the first to see the risen Lord."
+ },
+ {
+  "from": "mary-magdalene",
+  "to": "peter",
+  "type": "ally",
+  "refs": [
+   "John 20:1-2",
+   "Luke 24:10"
+  ],
+  "note": "She reports the empty tomb to Peter and the beloved disciple."
+ },
+ {
+  "from": "jesus",
+  "to": "mary-of-bethany",
+  "type": "mentor",
+  "refs": [
+   "Luke 10:38-42",
+   "John 12:3"
+  ],
+  "note": "Mary sits at Jesus' feet to hear his word and later anoints him."
+ },
+ {
+  "from": "jesus",
+  "to": "martha",
+  "type": "ally",
+  "refs": [
+   "Luke 10:38-41",
+   "John 11:20-27"
+  ],
+  "note": "Martha hosts Jesus and confesses him as the Christ."
+ },
+ {
+  "from": "jesus",
+  "to": "lazarus",
+  "type": "ally",
+  "refs": [
+   "John 11:5",
+   "John 11:43-44"
+  ],
+  "note": "Jesus loves Lazarus and raises him from the dead."
+ },
+ {
+  "from": "martha",
+  "to": "mary-of-bethany",
+  "type": "ally",
+  "refs": [
+   "Luke 10:39-40",
+   "John 11:1"
+  ],
+  "note": "Sisters of Bethany."
+ },
+ {
+  "from": "martha",
+  "to": "lazarus",
+  "type": "ally",
+  "refs": [
+   "John 11:1-3",
+   "John 11:39"
+  ],
+  "note": "Martha and Mary are Lazarus' sisters."
+ },
+ {
+  "from": "mary-of-bethany",
+  "to": "lazarus",
+  "type": "ally",
+  "refs": [
+   "John 11:1-2",
+   "John 12:1-3"
+  ],
+  "note": "Brother and sister of Bethany."
+ },
+ {
+  "from": "jesus",
+  "to": "nicodemus",
+  "type": "mentor",
+  "refs": [
+   "John 3:1-10",
+   "John 7:50-51"
+  ],
+  "note": "The Pharisee comes by night to learn and later defends Jesus' right to a hearing."
+ },
+ {
+  "from": "nicodemus",
+  "to": "joseph-of-arimathea",
+  "type": "co-worker",
+  "refs": [
+   "John 19:38-40"
+  ],
+  "note": "Together they bury Jesus' body with spices."
+ },
+ {
+  "from": "joseph-of-arimathea",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Matt 27:57-60",
+   "Mark 15:43"
+  ],
+  "note": "A secret disciple and council member who asks Pilate for the body and lays it in his own tomb."
+ },
+ {
+  "from": "joseph-of-arimathea",
+  "to": "pontius-pilate",
+  "type": "ally",
+  "refs": [
+   "Mark 15:43-45"
+  ],
+  "note": "Pilate grants Joseph the body of Jesus."
+ },
+ {
+  "from": "zacchaeus",
+  "to": "jesus",
+  "type": "ally",
+  "refs": [
+   "Luke 19:1-10"
+  ],
+  "note": "The chief tax collector receives Jesus joyfully and repays fourfold."
+ },
+ {
+  "from": "pontius-pilate",
+  "to": "jesus",
+  "type": "enemy",
+  "refs": [
+   "John 18:38",
+   "John 19:12-16",
+   "Matt 27:24-26"
+  ],
+  "note": "Pilate finds no fault in Jesus yet hands him over to be crucified."
+ },
+ {
+  "from": "caiaphas",
+  "to": "jesus",
+  "type": "enemy",
+  "refs": [
+   "John 11:49-53",
+   "Matt 26:57-66"
+  ],
+  "note": "Caiaphas counsels that one man should die for the people and presides at Jesus' hearing."
+ },
+ {
+  "from": "annas",
+  "to": "caiaphas",
+  "type": "family",
+  "refs": [
+   "John 18:13"
+  ],
+  "note": "Annas is the father-in-law of Caiaphas."
+ },
+ {
+  "from": "annas",
+  "to": "jesus",
+  "type": "enemy",
+  "refs": [
+   "John 18:13",
+   "John 18:19-24"
+  ],
+  "note": "Jesus is first taken to Annas for questioning."
+ },
+ {
+  "from": "caiaphas",
+  "to": "peter",
+  "type": "enemy",
+  "refs": [
+   "Acts 4:5-21"
+  ],
+  "note": "The high-priestly family threatens Peter and John and forbids them to preach."
+ },
+ {
+  "from": "annas",
+  "to": "john-the-apostle",
+  "type": "enemy",
+  "refs": [
+   "Acts 4:6-13"
+  ],
+  "note": "Annas sits in the council that questions Peter and John."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "john-the-apostle",
+  "type": "ally",
+  "refs": [
+   "John 19:26-27"
+  ],
+  "note": "From the cross Jesus entrusts his mother to the beloved disciple."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "james-brother-of-jesus",
+  "type": "family",
+  "refs": [
+   "Mark 6:3",
+   "Matt 13:55"
+  ],
+  "note": "Named among Jesus' brothers. Protestants usually read this as Mary's son; Orthodox tradition as a son of Joseph by an earlier marriage; Catholic tradition as a cousin."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "jude-brother-of-jesus",
+  "type": "family",
+  "refs": [
+   "Mark 6:3",
+   "Matt 13:55"
+  ],
+  "note": "Named among Jesus' brothers (Juda/Judas); the same debate over \"brothers\" applies."
+ },
+ {
+  "from": "james-brother-of-jesus",
+  "to": "jude-brother-of-jesus",
+  "type": "ally",
+  "refs": [
+   "Jude 1:1",
+   "Mark 6:3"
+  ],
+  "note": "Jude calls himself \"brother of James\"."
+ },
+ {
+  "from": "jesus",
+  "to": "james-brother-of-jesus",
+  "type": "ally",
+  "refs": [
+   "John 7:5",
+   "1 Cor 15:7"
+  ],
+  "note": "At first unbelieving, James sees the risen Jesus and becomes a leader of the church."
+ },
+ {
+  "from": "mary-mother-of-jesus",
+  "to": "peter",
+  "type": "ally",
+  "refs": [
+   "Acts 1:13-14"
+  ],
+  "note": "Mary prays with the apostles in the upper room before Pentecost."
+ },
+ {
+  "from": "jesus",
+  "to": "paul",
+  "type": "mentor",
+  "refs": [
+   "Acts 9:3-6",
+   "Gal 1:11-12"
+  ],
+  "note": "The risen Christ appears to Saul and Paul says he received his gospel by revelation of Jesus Christ."
+ },
+ {
+  "from": "peter",
+  "to": "paul",
+  "type": "co-worker",
+  "refs": [
+   "Gal 1:18",
+   "Gal 2:7-9",
+   "2 Pet 3:15-16"
+  ],
+  "note": "Paul visits Peter in Jerusalem; they agree on missions to circumcised and uncircumcised. Paul later opposes Peter at Antioch (Gal 2:11-14), and 2 Peter calls Paul \"our beloved brother\"."
+ },
+ {
+  "from": "peter",
+  "to": "cornelius",
+  "type": "ally",
+  "refs": [
+   "Acts 10:24-48"
+  ],
+  "note": "Peter preaches in Cornelius' house and the Spirit falls on the Gentiles."
+ },
+ {
+  "from": "peter",
+  "to": "dorcas",
+  "type": "ally",
+  "refs": [
+   "Acts 9:36-41"
+  ],
+  "note": "Peter raises Dorcas (Tabitha) at Joppa."
+ },
+ {
+  "from": "peter",
+  "to": "john-mark",
+  "type": "mentor",
+  "refs": [
+   "Acts 12:12",
+   "1 Pet 5:13"
+  ],
+  "note": "Peter goes to Mark's mother's house and calls him \"Marcus my son\"; tradition makes Mark Peter's interpreter."
+ },
+ {
+  "from": "peter",
+  "to": "silas",
+  "type": "co-worker",
+  "refs": [
+   "1 Pet 5:12"
+  ],
+  "note": "Peter writes \"by Silvanus, a faithful brother\", usually identified with Silas."
+ },
+ {
+  "from": "peter",
+  "to": "james-brother-of-jesus",
+  "type": "co-worker",
+  "refs": [
+   "Acts 12:17",
+   "Acts 15:7-21",
+   "Gal 2:9"
+  ],
+  "note": "Both are pillars of the Jerusalem church and speak at the council."
+ },
+ {
+  "from": "peter",
+  "to": "philip-the-evangelist",
+  "type": "co-worker",
+  "refs": [
+   "Acts 8:5",
+   "Acts 8:14-17"
+  ],
+  "note": "Peter and John follow up Philip's mission in Samaria."
+ },
+ {
+  "from": "james-brother-of-jesus",
+  "to": "paul",
+  "type": "co-worker",
+  "refs": [
+   "Gal 1:19",
+   "Gal 2:9",
+   "Acts 21:18-25"
+  ],
+  "note": "James extends the right hand of fellowship and advises Paul in Jerusalem."
+ },
+ {
+  "from": "herod-agrippa-i",
+  "to": "james-son-of-zebedee",
+  "type": "enemy",
+  "refs": [
+   "Acts 12:1-2"
+  ],
+  "note": "Herod kills James the brother of John with the sword."
+ },
+ {
+  "from": "herod-agrippa-i",
+  "to": "peter",
+  "type": "enemy",
+  "refs": [
+   "Acts 12:3-11"
+  ],
+  "note": "Herod imprisons Peter, who is freed by an angel."
+ },
+ {
+  "from": "stephen",
+  "to": "paul",
+  "type": "enemy",
+  "refs": [
+   "Acts 7:58",
+   "Acts 8:1",
+   "Acts 22:20"
+  ],
+  "note": "Saul guards the clothes of those stoning Stephen and consents to his death."
+ },
+ {
+  "from": "stephen",
+  "to": "philip-the-evangelist",
+  "type": "co-worker",
+  "refs": [
+   "Acts 6:3-6"
+  ],
+  "note": "Both are among the seven chosen to serve tables."
+ },
+ {
+  "from": "peter",
+  "to": "stephen",
+  "type": "co-worker",
+  "refs": [
+   "Acts 6:2-6"
+  ],
+  "note": "The apostles appoint the seven, including Stephen, and lay hands on them."
+ },
+ {
+  "from": "gamaliel",
+  "to": "paul",
+  "type": "mentor",
+  "refs": [
+   "Acts 22:3"
+  ],
+  "note": "Paul was \"brought up at the feet of Gamaliel\"."
+ },
+ {
+  "from": "gamaliel",
+  "to": "peter",
+  "type": "ally",
+  "refs": [
+   "Acts 5:34-40"
+  ],
+  "note": "Gamaliel counsels the council to leave the apostles alone lest they fight against God."
+ },
+ {
+  "from": "philip-the-evangelist",
+  "to": "ethiopian-eunuch",
+  "type": "mentor",
+  "refs": [
+   "Acts 8:26-39"
+  ],
+  "note": "Philip explains Isaiah 53 and baptizes the Ethiopian official."
+ },
+ {
+  "from": "philip-the-evangelist",
+  "to": "paul",
+  "type": "ally",
+  "refs": [
+   "Acts 21:8-9"
+  ],
+  "note": "Paul stays in Philip's house at Caesarea."
+ },
+ {
+  "from": "agabus",
+  "to": "paul",
+  "type": "ally",
+  "refs": [
+   "Acts 21:10-11"
+  ],
+  "note": "Agabus binds himself with Paul's girdle to foretell his arrest in Jerusalem."
+ },
+ {
+  "from": "agabus",
+  "to": "barnabas",
+  "type": "ally",
+  "refs": [
+   "Acts 11:27-30"
+  ],
+  "note": "Agabus predicts a famine; Barnabas and Saul carry the relief to Judea."
+ },
+ {
+  "from": "barnabas",
+  "to": "paul",
+  "type": "mentor",
+  "refs": [
+   "Acts 9:26-27",
+   "Acts 11:25-26"
+  ],
+  "note": "Barnabas vouches for the new convert and later brings him to Antioch."
+ },
+ {
+  "from": "barnabas",
+  "to": "paul",
+  "type": "co-worker",
+  "refs": [
+   "Acts 13:2-3",
+   "Acts 14:14",
+   "Acts 15:39"
+  ],
+  "note": "Partners on the first missionary journey; they part after a sharp disagreement over Mark."
+ },
+ {
+  "from": "barnabas",
+  "to": "john-mark",
+  "type": "mentor",
+  "refs": [
+   "Acts 15:37-39"
+  ],
+  "note": "Barnabas insists on taking Mark again and sails with him to Cyprus."
+ },
+ {
+  "from": "barnabas",
+  "to": "john-mark",
+  "type": "ally",
+  "refs": [
+   "Col 4:10"
+  ],
+  "note": "Mark is \"sister's son to Barnabas\" (KJV); modern versions say cousin."
+ },
+ {
+  "from": "paul",
+  "to": "john-mark",
+  "type": "co-worker",
+  "refs": [
+   "Acts 13:13",
+   "Col 4:10",
+   "2 Tim 4:11"
+  ],
+  "note": "Mark leaves the first journey, but later Paul calls him \"profitable to me for the ministry\"."
+ },
+ {
+  "from": "barnabas",
+  "to": "silas",
+  "type": "co-worker",
+  "refs": [
+   "Acts 15:22-27"
+  ],
+  "note": "Silas is sent with Paul and Barnabas to carry the council's letter."
+ },
+ {
+  "from": "paul",
+  "to": "silas",
+  "type": "co-worker",
+  "refs": [
+   "Acts 15:40",
+   "Acts 16:25",
+   "2 Cor 1:19"
+  ],
+  "note": "Paul's companion on the second journey; imprisoned with him at Philippi."
+ },
+ {
+  "from": "paul",
+  "to": "timothy",
+  "type": "mentor",
+  "refs": [
+   "Acts 16:1-3",
+   "1 Tim 1:2",
+   "2 Tim 2:1-2"
+  ],
+  "note": "Paul takes Timothy on mission and calls him his own son in the faith."
+ },
+ {
+  "from": "silas",
+  "to": "timothy",
+  "type": "co-worker",
+  "refs": [
+   "Acts 17:14-15",
+   "Acts 18:5",
+   "2 Cor 1:19"
+  ],
+  "note": "Silas and Timothy work together in Macedonia and Corinth."
+ },
+ {
+  "from": "paul",
+  "to": "titus",
+  "type": "mentor",
+  "refs": [
+   "Gal 2:1-3",
+   "Titus 1:4-5"
+  ],
+  "note": "An uncircumcised Greek convert whom Paul calls his own son and leaves in Crete."
+ },
+ {
+  "from": "timothy",
+  "to": "titus",
+  "type": "co-worker",
+  "refs": [
+   "2 Cor 7:6",
+   "2 Cor 8:23"
+  ],
+  "note": "Both serve as Paul's envoys to Corinth; Paul calls Titus \"my partner and fellowhelper\"."
+ },
+ {
+  "from": "paul",
+  "to": "luke",
+  "type": "co-worker",
+  "refs": [
+   "Col 4:14",
+   "2 Tim 4:11",
+   "Phlm 1:24"
+  ],
+  "note": "The beloved physician, a fellow labourer who stays with Paul to the end; the \"we\" passages of Acts are traditionally his."
+ },
+ {
+  "from": "luke",
+  "to": "john-mark",
+  "type": "co-worker",
+  "refs": [
+   "Col 4:10-14",
+   "Phlm 1:24"
+  ],
+  "note": "Both send greetings with Paul as fellow workers."
+ },
+ {
+  "from": "paul",
+  "to": "lydia",
+  "type": "ally",
+  "refs": [
+   "Acts 16:14-15",
+   "Acts 16:40"
+  ],
+  "note": "The seller of purple opens her heart and home to Paul at Philippi."
+ },
+ {
+  "from": "lydia",
+  "to": "silas",
+  "type": "ally",
+  "refs": [
+   "Acts 16:40"
+  ],
+  "note": "Paul and Silas visit Lydia's house after their release."
+ },
+ {
+  "from": "priscilla",
+  "to": "aquila",
+  "type": "spouse",
+  "refs": [
+   "Acts 18:2",
+   "Rom 16:3"
+  ],
+  "note": "A Jewish couple, tentmakers expelled from Rome under Claudius."
+ },
+ {
+  "from": "paul",
+  "to": "priscilla",
+  "type": "co-worker",
+  "refs": [
+   "Acts 18:2-3",
+   "Rom 16:3-4"
+  ],
+  "note": "Paul works and lodges with them at Corinth; they risked their necks for him."
+ },
+ {
+  "from": "paul",
+  "to": "aquila",
+  "type": "co-worker",
+  "refs": [
+   "Acts 18:2-3",
+   "Acts 18:18"
+  ],
+  "note": "Fellow tentmaker who sails with Paul to Ephesus."
+ },
+ {
+  "from": "priscilla",
+  "to": "apollos",
+  "type": "mentor",
+  "refs": [
+   "Acts 18:24-26"
+  ],
+  "note": "Priscilla and Aquila expound the way of God more perfectly to Apollos."
+ },
+ {
+  "from": "aquila",
+  "to": "apollos",
+  "type": "mentor",
+  "refs": [
+   "Acts 18:26"
+  ],
+  "note": "With Priscilla he instructs Apollos."
+ },
+ {
+  "from": "apollos",
+  "to": "paul",
+  "type": "co-worker",
+  "refs": [
+   "1 Cor 3:4-9",
+   "1 Cor 16:12"
+  ],
+  "note": "Paul planted, Apollos watered; Paul urges him to visit Corinth."
+ },
+ {
+  "from": "paul",
+  "to": "phoebe",
+  "type": "ally",
+  "refs": [
+   "Rom 16:1-2"
+  ],
+  "note": "Paul commends Phoebe, a servant (deacon) of the church at Cenchreae and his patron."
+ },
+ {
+  "from": "paul",
+  "to": "andronicus",
+  "type": "co-worker",
+  "refs": [
+   "Rom 16:7"
+  ],
+  "note": "Paul's kinsman and fellow prisoner, \"of note among the apostles\", in Christ before Paul."
+ },
+ {
+  "from": "paul",
+  "to": "junia",
+  "type": "co-worker",
+  "refs": [
+   "Rom 16:7"
+  ],
+  "note": "Paul's kinswoman and fellow prisoner, \"of note among the apostles\" (sense debated)."
+ },
+ {
+  "from": "andronicus",
+  "to": "junia",
+  "type": "co-worker",
+  "refs": [
+   "Rom 16:7"
+  ],
+  "note": "Greeted together; often taken as a married missionary couple, though the text does not say so."
+ },
+ {
+  "from": "paul",
+  "to": "onesimus",
+  "type": "mentor",
+  "refs": [
+   "Phlm 1:10-16",
+   "Col 4:9"
+  ],
+  "note": "Paul calls Onesimus his son begotten in his bonds and sends him back as a brother."
+ },
+ {
+  "from": "paul",
+  "to": "philemon",
+  "type": "co-worker",
+  "refs": [
+   "Phlm 1:1-7"
+  ],
+  "note": "Paul addresses Philemon as \"dearly beloved, and fellowlabourer\"."
+ },
+ {
+  "from": "philemon",
+  "to": "onesimus",
+  "type": "ally",
+  "refs": [
+   "Phlm 1:15-17"
+  ],
+  "note": "Onesimus is Philemon's slave; Paul asks him to receive Onesimus as a beloved brother."
+ },
+ {
+  "from": "paul",
+  "to": "felix",
+  "type": "confrontation",
+  "refs": [
+   "Acts 24:24-26"
+  ],
+  "note": "Paul reasons with Felix of righteousness, temperance and judgment to come; Felix trembles but hopes for a bribe."
+ },
+ {
+  "from": "paul",
+  "to": "festus",
+  "type": "confrontation",
+  "refs": [
+   "Acts 25:8-12",
+   "Acts 26:24-25"
+  ],
+  "note": "Paul appeals to Caesar before Festus and answers his charge of madness."
+ },
+ {
+  "from": "paul",
+  "to": "herod-agrippa-ii",
+  "type": "confrontation",
+  "refs": [
+   "Acts 26:1-29"
+  ],
+  "note": "Paul makes his defence before Agrippa, who says \"almost thou persuadest me\"."
+ },
+ {
+  "from": "felix",
+  "to": "festus",
+  "type": "successor",
+  "refs": [
+   "Acts 24:27"
+  ],
+  "note": "Porcius Festus succeeds Felix as procurator of Judea."
+ },
+ {
+  "from": "festus",
+  "to": "herod-agrippa-ii",
+  "type": "ally",
+  "refs": [
+   "Acts 25:13-22"
+  ],
+  "note": "Festus consults Agrippa about Paul's case."
+ },
+ {
+  "from": "paul",
+  "to": "timothy",
+  "type": "co-worker",
+  "refs": [
+   "Phil 1:1",
+   "1 Thess 1:1",
+   "Rom 16:21"
+  ],
+  "note": "Timothy is named as co-sender of several letters."
+ },
+ {
+  "from": "peter",
+  "to": "barnabas",
+  "type": "ally",
+  "refs": [
+   "Gal 2:13",
+   "Acts 15:12"
+  ],
+  "note": "Both speak at the Jerusalem council; at Antioch Barnabas follows Peter's withdrawal from Gentile tables."
+ },
+ {
+  "from": "apollos",
+  "to": "peter",
+  "type": "ally",
+  "refs": [
+   "1 Cor 1:12",
+   "1 Cor 3:22"
+  ],
+  "note": "Corinthian factions claim Paul, Apollos and Cephas; Paul says all are servants belonging to the church."
+ }
+]

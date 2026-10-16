@@ -1,0 +1,573 @@
+[
+  {
+    "id": "shepherd",
+    "name": "Shepherd",
+    "kind": "trade",
+    "summary": "Shepherds kept flocks of sheep and goats, leading them to pasture and water, guarding them from predators and thieves, and folding them at night. Israel's ancestors were semi-nomadic herders, and the Bible's leaders are repeatedly drawn from the sheepfold: Abel, Jacob, Rachel, Moses and David all kept flocks.\n\nThe work was demanding and often solitary. Jacob describes heat by day, frost by night and personal liability for lost animals, and David speaks of fighting a lion and a bear to rescue a lamb.",
+    "status": "Honourable in the patriarchal period, when flocks were the main measure of wealth. Egyptians are said to have regarded herdsmen as detestable. Some later rabbinic sources treat herdsmen with suspicion, though how far that shaped first-century attitudes is debated.",
+    "tools": ["Rod (club for defence)", "Staff (crook for guiding)", "Sling", "Shepherd's bag (scrip)", "Sheepfold of stone or thorn", "Reed pipe"],
+    "personIds": ["abel", "jacob", "rachel", "moses", "david", "amos"],
+    "teaching": [
+      { "text": "God is pictured as Israel's shepherd who leads, provides and protects, the basis of Psalm 23.", "refs": ["Ps 23", "Ps 80:1", "Isa 40:11"] },
+      { "text": "Ezekiel condemns Israel's leaders as shepherds who fed themselves instead of the flock and promises that God himself, through a Davidic shepherd, will tend his sheep.", "refs": ["Ezek 34:1-24"] },
+      { "text": "Jesus calls himself the good shepherd who knows his sheep and lays down his life for them.", "refs": ["John 10:1-18"] },
+      { "text": "The parable of the lost sheep shows God's joy over one sinner who repents.", "refs": ["Luke 15:3-7", "Matt 18:12-14"] },
+      { "text": "Shepherds keeping watch at night are the first to hear the announcement of the Messiah's birth.", "refs": ["Luke 2:8-20"] }
+    ],
+    "refs": ["Gen 4:2", "Gen 29:9", "Gen 31:38-40", "Gen 46:34", "Exod 3:1", "1 Sam 16:11", "1 Sam 17:34-40", "Amos 1:1"]
+  },
+  {
+    "id": "farmer",
+    "name": "Farmer",
+    "kind": "trade",
+    "summary": "Most Israelites were subsistence farmers growing wheat, barley, olives, grapes and figs on family plots held as an inheritance from God. The agricultural year ran from ploughing and sowing with the early rains in autumn, through the barley harvest around Passover and the wheat harvest around Pentecost, to the grape and olive harvests at the Feast of Booths.\n\nThe law built care for the poor into farming: field corners and gleanings were left for the poor, the foreigner, the widow and the orphan, as Ruth's gleaning in Boaz's field shows.",
+    "status": "The backbone of society; land was held as an inheritance and was not meant to be permanently sold. Small farmers were vulnerable to drought, debt and land-grabbing, a frequent target of prophetic protest.",
+    "tools": ["Wooden plough with iron tip", "Ox goad", "Yoke", "Sickle", "Threshing floor and threshing sledge", "Winnowing fork", "Millstones"],
+    "personIds": ["cain", "noah", "gideon", "boaz", "ruth", "elisha", "uzziah"],
+    "teaching": [
+      { "text": "The parable of the sower explains different responses to God's word through different kinds of soil.", "refs": ["Matt 13:3-23", "Mark 4:3-20"] },
+      { "text": "The seed growing secretly and the mustard seed picture the kingdom's hidden, God-given growth.", "refs": ["Mark 4:26-32"] },
+      { "text": "Putting a hand to the plough and looking back illustrates divided discipleship.", "refs": ["Luke 9:62"] },
+      { "text": "John the Baptist describes the coming judge winnowing wheat from chaff.", "refs": ["Matt 3:12"] },
+      { "text": "Paul says one planted, another watered, but God gives the growth, and that a person reaps what they sow.", "refs": ["1 Cor 3:6-9", "Gal 6:7-9"] },
+      { "text": "A grain of wheat must fall into the ground and die to bear much fruit, an image of Jesus' death.", "refs": ["John 12:24"] }
+    ],
+    "refs": ["Gen 4:2", "Gen 9:20", "Lev 19:9-10", "Lev 25:23", "Judg 6:11", "Ruth 2:2-3", "1 Kgs 19:19", "2 Chr 26:10", "1 Kgs 21:1-16"]
+  },
+  {
+    "id": "vinedresser",
+    "name": "Vinedresser",
+    "kind": "trade",
+    "summary": "Vinedressers planted, pruned and protected vineyards, clearing stones, building a hedge or wall and a watchtower, and cutting a winepress into the rock. Vineyards took years to become productive, so planting one was an act of long-term hope; the law even exempted a man who had planted a vineyard but not yet enjoyed it from war.\n\nWhen Babylon deported Judah's elite, the poorest of the land were left behind to be vinedressers and farmers.",
+    "status": "Often hired or tenant labour working another's vineyard; the owner might live elsewhere and collect a share of the produce, the situation assumed in the parable of the tenants.",
+    "tools": ["Pruning hook", "Hedge or stone wall", "Watchtower", "Rock-cut winepress and vat", "Wineskins and jars"],
+    "personIds": ["noah"],
+    "teaching": [
+      { "text": "Isaiah's song of the vineyard pictures Israel as a carefully tended vine that produced only wild grapes.", "refs": ["Isa 5:1-7", "Ps 80:8-16"] },
+      { "text": "Jesus is the true vine, his Father the vinedresser who prunes fruitful branches.", "refs": ["John 15:1-8"] },
+      { "text": "The parable of the wicked tenants recalls Isaiah's vineyard and indicts Israel's leaders.", "refs": ["Matt 21:33-41", "Mark 12:1-12"] },
+      { "text": "In the parable of the labourers in the vineyard, the owner pays latecomers the same wage, showing grace rather than merit.", "refs": ["Matt 20:1-16"] },
+      { "text": "A vinedresser pleads for one more year for a barren fig tree, a picture of patient but limited mercy.", "refs": ["Luke 13:6-9"] },
+      { "text": "Beating swords into pruning hooks is the prophetic image of universal peace.", "refs": ["Isa 2:4", "Mic 4:3"] }
+    ],
+    "refs": ["Gen 9:20", "Deut 20:6", "2 Kgs 25:12", "Isa 5:2", "Matt 20:1-2"]
+  },
+  {
+    "id": "fisherman",
+    "name": "Fisherman",
+    "kind": "trade",
+    "summary": "Fishing on the Sea of Galilee was a significant industry. Fishermen worked at night with casting nets, dragnets and trammel nets, sorted the catch on shore, and mended and washed their nets. Fish were salted and dried for trade; Magdala was a known fish-processing town.\n\nAt least four of Jesus' first disciples were fishermen: the brothers Peter and Andrew, and the brothers James and John, whose father Zebedee had hired servants, suggesting a modest family business. Peter and Andrew appear to have worked in partnership with them.",
+    "status": "Ordinary working people, neither destitute nor elite. Fishing was taxed and licensed under Herod Antipas. The Sanhedrin regarded Peter and John as untrained laymen.",
+    "tools": ["Casting net", "Dragnet (seine)", "Wooden boat with oars and sail", "Hook and line", "Baskets for sorting"],
+    "personIds": ["peter", "andrew", "james-son-of-zebedee", "john-the-apostle"],
+    "teaching": [
+      { "text": "Jesus calls fishermen to become fishers of people.", "refs": ["Mark 1:16-20", "Luke 5:1-11"] },
+      { "text": "The parable of the dragnet pictures final judgment sorting good from bad.", "refs": ["Matt 13:47-50"] },
+      { "text": "Jeremiah uses fishers and hunters as an image of God gathering his people, and Ezekiel pictures fishermen on the restored river from the temple.", "refs": ["Jer 16:16", "Ezek 47:9-10"] },
+      { "text": "The risen Jesus repeats the miraculous catch and restores Peter beside a charcoal fire.", "refs": ["John 21:1-17"] },
+      { "text": "Peter pays the temple tax with a coin from the mouth of a fish caught by hook.", "refs": ["Matt 17:24-27"] }
+    ],
+    "refs": ["Mark 1:16-20", "Luke 5:1-11", "John 21:1-11", "Acts 4:13"]
+  },
+  {
+    "id": "tentmaker",
+    "name": "Tentmaker",
+    "kind": "trade",
+    "summary": "Luke says Paul, Aquila and Priscilla were tentmakers (Greek *skēnopoioi*). Whether this meant working leather, goat-hair cloth from Paul's native Cilicia, or linen for awnings is debated; most scholars think leatherwork is likely. The trade was portable, so a craftsman could set up shop in any city's market.\n\nPaul worked with his own hands so as not to burden his churches, though he insisted that preachers had a right to support. The modern phrase \"tentmaking ministry\" for self-supporting mission comes from his example.",
+    "status": "Manual artisans were looked down on by the Greco-Roman elite, but Jewish teachers were commonly expected to learn a trade. Workshops doubled as places of conversation and teaching.",
+    "tools": ["Awls and needles", "Knives", "Leather or goat-hair cloth", "Thread and cord", "Workbench in a shop"],
+    "personIds": ["paul", "priscilla", "aquila"],
+    "teaching": [
+      { "text": "Paul worked night and day to avoid being a burden and to give an example of diligence.", "refs": ["1 Thess 2:9", "2 Thess 3:7-10", "Acts 20:33-35"] },
+      { "text": "Paul defends his right to support but chooses not to use it for the gospel's sake.", "refs": ["1 Cor 9:6-18"] },
+      { "text": "The body is pictured as an earthly tent to be exchanged for a building from God.", "refs": ["2 Cor 5:1-4", "2 Pet 1:13-14"] },
+      { "text": "John says the Word became flesh and pitched his tent (dwelt) among us, echoing the tabernacle.", "refs": ["John 1:14"] }
+    ],
+    "refs": ["Acts 18:1-3", "Acts 20:34", "1 Cor 4:12"]
+  },
+  {
+    "id": "tax-collector",
+    "name": "Tax collector",
+    "kind": "trade",
+    "summary": "In first-century Judea and Galilee, tolls and customs were farmed out to contractors who bid for the right to collect them and kept what they gathered above the contracted sum. Matthew (Levi) sat at a toll booth in Capernaum; Zacchaeus was a chief tax collector in Jericho, a major customs point on the trade route.\n\nThe system invited extortion. John the Baptist told tax collectors to collect no more than authorised, and Zacchaeus promised fourfold restitution to anyone he had defrauded.",
+    "status": "Widely despised as extortioners and as collaborators with Herodian or Roman power. The Gospels group them with sinners and prostitutes, yet Jesus ate with them and called one to be an apostle.",
+    "tools": ["Toll booth", "Ledgers and receipts", "Scales and coin", "Armed assistants"],
+    "personIds": ["matthew", "zacchaeus"],
+    "teaching": [
+      { "text": "In the parable of the Pharisee and the tax collector, the one who beats his breast and asks for mercy goes home justified.", "refs": ["Luke 18:9-14"] },
+      { "text": "Jesus eats with tax collectors, saying he came to call sinners, not the righteous.", "refs": ["Matt 9:9-13", "Luke 15:1-2"] },
+      { "text": "Tax collectors and prostitutes enter the kingdom ahead of the religious leaders because they believed John.", "refs": ["Matt 21:31-32"] },
+      { "text": "Zacchaeus' restitution shows salvation reaching a house, for the Son of Man came to seek and save the lost.", "refs": ["Luke 19:1-10"] }
+    ],
+    "refs": ["Mark 2:14", "Matt 9:9", "Luke 3:12-13", "Luke 19:2", "Matt 18:17"]
+  },
+  {
+    "id": "scribe",
+    "name": "Scribe",
+    "kind": "trade",
+    "summary": "Scribes were trained writers who drafted letters, contracts and royal records, copied sacred texts and, increasingly, interpreted them. In the monarchy, royal scribes such as Shaphan were senior officials. Baruch wrote down Jeremiah's oracles, and Ezra is called a scribe skilled in the law of Moses.\n\nBy the time of Jesus, \"scribes\" (grammateis) were experts in the law, many associated with the Pharisees, and some sat on the Sanhedrin. The Gospels show them both opposing Jesus and, in one case, being \"not far from the kingdom of God.\"",
+    "status": "Respected and influential, since literacy was limited. Royal scribes served at court; legal experts held religious authority and were addressed with honorific titles.",
+    "tools": ["Reed pen", "Ink and inkhorn (writing case)", "Penknife", "Papyrus and parchment scrolls", "Wax tablets"],
+    "personIds": ["baruch", "ezra"],
+    "teaching": [
+      { "text": "A scribe trained for the kingdom brings out of his treasure things new and old.", "refs": ["Matt 13:52"] },
+      { "text": "Jesus warns against scribes who love honour and devour widows' houses.", "refs": ["Mark 12:38-40", "Matt 23:1-7"] },
+      { "text": "A scribe who grasps that love of God and neighbour outweighs sacrifices is told he is not far from the kingdom.", "refs": ["Mark 12:28-34"] },
+      { "text": "God promises to write his law on hearts, and Paul calls the church a letter written by the Spirit.", "refs": ["Jer 31:33", "2 Cor 3:3"] }
+    ],
+    "refs": ["2 Kgs 22:8-10", "Jer 36:4", "Jer 36:18", "Jer 36:23", "Ezra 7:6", "Ezek 9:2", "3 John 1:13"]
+  },
+  {
+    "id": "potter",
+    "name": "Potter",
+    "kind": "trade",
+    "summary": "Potters shaped clay on a wheel turned by hand or foot, then fired the vessels in a kiln. Pottery was cheap, everywhere and easily broken, which is why archaeologists date sites by their potsherds. Jars, lamps, cooking pots and storage vessels were all ceramic.\n\nJeremiah watched a potter rework a spoiled vessel and was told that God can do the same with a nation; he later smashed a clay flask to signify Jerusalem's irreparable judgment.",
+    "status": "Ordinary craftsmen, often working in family or guild groups near clay sources; Chronicles mentions potters who worked for the king.",
+    "tools": ["Potter's wheel (paired stone wheels)", "Clay and water", "Kiln", "Shaping tools", "Glazes and slip"],
+    "personIds": ["jeremiah"],
+    "teaching": [
+      { "text": "God as potter has the right to reshape the clay; repentance or rebellion changes what he does.", "refs": ["Jer 18:1-11"] },
+      { "text": "The clay may not question the potter, an image of creaturely humility.", "refs": ["Isa 29:16", "Isa 45:9", "Isa 64:8", "Rom 9:20-21"] },
+      { "text": "The gospel treasure is held in fragile clay jars to show the power belongs to God.", "refs": ["2 Cor 4:7"] },
+      { "text": "Judas' thirty pieces of silver bought the potter's field, linked by Matthew to prophecy.", "refs": ["Matt 27:3-10", "Zech 11:12-13"] }
+    ],
+    "refs": ["Jer 18:1-6", "Jer 19:1-11", "1 Chr 4:23", "Lam 4:2"]
+  },
+  {
+    "id": "tekton",
+    "name": "Tekton (carpenter / builder)",
+    "kind": "trade",
+    "summary": "Joseph is called a *tektōn* and so is Jesus himself. The Greek word means a craftsman or builder, usually in wood but sometimes in stone or metal; \"carpenter\" is the traditional English rendering, but \"builder\" or \"craftsman\" may be closer. A village tektōn might make doors, ploughs, yokes and furniture and help build houses.\n\nJustin Martyr in the second century says Jesus made ploughs and yokes. Some scholars suggest Joseph and Jesus could have found work at nearby Sepphoris, rebuilt by Herod Antipas, but the Gospels say nothing of it.",
+    "status": "Respectable skilled manual labour, but not elite. The townspeople of Nazareth used Jesus' trade to question how a local craftsman could teach with such authority.",
+    "tools": ["Adze", "Saw", "Axe", "Bow drill", "Hammer and chisel", "Plumb line and measuring line"],
+    "personIds": ["joseph-of-nazareth", "jesus"],
+    "teaching": [
+      { "text": "The wise man builds his house on rock, the foolish on sand.", "refs": ["Matt 7:24-27"] },
+      { "text": "Count the cost before building a tower, as one must before following Jesus.", "refs": ["Luke 14:28-30"] },
+      { "text": "Jesus offers an easy yoke and light burden, perhaps drawing on a craftsman's knowledge of well-fitted yokes.", "refs": ["Matt 11:28-30"] },
+      { "text": "The rejected stone becomes the cornerstone, and the church is built on the foundation of apostles and prophets.", "refs": ["Ps 118:22", "Matt 21:42", "Eph 2:19-22"] },
+      { "text": "Paul as a skilled master builder laid the foundation, which is Jesus Christ; each worker's building will be tested.", "refs": ["1 Cor 3:10-15"] },
+      { "text": "Amos' plumb line tests whether Israel is upright.", "refs": ["Amos 7:7-8"] }
+    ],
+    "refs": ["Matt 13:55", "Mark 6:3", "2 Sam 5:11", "Isa 44:13"]
+  },
+  {
+    "id": "merchant",
+    "name": "Merchant",
+    "kind": "trade",
+    "summary": "Merchants moved goods by caravan and ship: grain, oil, wine, metals, spices, textiles and luxury items. Canaan sat on routes linking Egypt, Arabia and Mesopotamia, and Phoenician Tyre ran a Mediterranean trading network that Ezekiel describes in detail. Solomon profited from horse and chariot trade and from Red Sea voyages.\n\nIn the New Testament Lydia trades in purple cloth, and Revelation's lament over Babylon is voiced partly by merchants who grew rich from her.",
+    "status": "Could be very wealthy, but the prophets associated trade with dishonest weights and exploitation. The law demanded honest scales.",
+    "tools": ["Balance scales", "Stone weights", "Pack animals and caravans", "Ships", "Seals and bills"],
+    "personIds": ["solomon", "lydia", "queen-of-sheba"],
+    "teaching": [
+      { "text": "A merchant sells everything for one pearl of great value, as the kingdom is worth everything.", "refs": ["Matt 13:45-46"] },
+      { "text": "The parable of the talents commends faithful investment of what the master entrusts.", "refs": ["Matt 25:14-30", "Luke 19:11-27"] },
+      { "text": "False balances are an abomination, and the prophets attack merchants who cheat the poor.", "refs": ["Prov 11:1", "Deut 25:13-16", "Amos 8:4-6"] },
+      { "text": "James warns traders who plan profits without saying \"if the Lord wills.\"", "refs": ["Jas 4:13-15"] },
+      { "text": "Merchants weep over Babylon's fall, whose cargo list ends with human souls.", "refs": ["Rev 18:11-17", "Ezek 27:1-36"] }
+    ],
+    "refs": ["Gen 37:25-28", "1 Kgs 10:14-15", "1 Kgs 10:28-29", "Prov 31:24", "Acts 16:14"]
+  },
+  {
+    "id": "soldier",
+    "name": "Soldier",
+    "kind": "trade",
+    "summary": "Early Israel fought with tribal militias summoned in crisis. Saul began, and David expanded, a standing professional force, with commanders such as Joab and elite warriors called the Mighty Men, among them foreign mercenaries such as Uriah the Hittite.\n\nIn the New Testament, Roman soldiers and centurions (officers over roughly eighty to a hundred men) appear frequently. Several are portrayed positively: the centurion at Capernaum, the centurion at the cross, and Cornelius at Caesarea.",
+    "status": "Varied. Israelite warriors could gain honour and land. Roman soldiers were agents of an occupying power, often resented, though centurions were respected officers.",
+    "tools": ["Sword", "Spear and javelin", "Shield", "Bow and arrows", "Sling", "Helmet and armour"],
+    "personIds": ["joab", "uriah", "david", "jonathan", "cornelius"],
+    "teaching": [
+      { "text": "John the Baptist tells soldiers not to extort and to be content with their wages.", "refs": ["Luke 3:14"] },
+      { "text": "A centurion's faith in Jesus' authority is praised above any found in Israel.", "refs": ["Matt 8:5-13"] },
+      { "text": "Paul describes the armour of God for spiritual conflict.", "refs": ["Eph 6:10-17", "1 Thess 5:8"] },
+      { "text": "Timothy is to share suffering as a good soldier of Christ Jesus, not entangled in civilian affairs.", "refs": ["2 Tim 2:3-4"] },
+      { "text": "The centurion at the cross confesses Jesus as Son of God.", "refs": ["Mark 15:39"] }
+    ],
+    "refs": ["1 Sam 14:52", "2 Sam 23:8-39", "Acts 10:1-2", "Acts 27:1-3"]
+  },
+  {
+    "id": "physician",
+    "name": "Physician",
+    "kind": "trade",
+    "summary": "Ancient physicians used herbal remedies, oils, wine, poultices and bandages, set bones and dressed wounds. Egypt had renowned physicians, who embalmed Jacob. Israel's priests did not practise medicine as such, but they inspected skin diseases and declared people clean.\n\nPaul calls Luke \"the beloved physician.\" Older scholars argued that Luke's vocabulary is distinctively medical; that argument is now generally thought weak, since educated Greek writers used similar terms, but the identification of Luke as a physician rests on Colossians, not on vocabulary.",
+    "status": "Skilled and could be well paid, but often criticised for ineffectiveness and cost; a woman in Mark had spent everything on physicians and only grew worse.",
+    "tools": ["Oil and wine", "Balm (as of Gilead)", "Bandages", "Poultices (such as figs)", "Herbal remedies"],
+    "personIds": ["luke"],
+    "teaching": [
+      { "text": "Jesus says the healthy do not need a physician but the sick, explaining his mission to sinners.", "refs": ["Mark 2:17"] },
+      { "text": "\"Physician, heal yourself\" is the proverb Jesus anticipates at Nazareth.", "refs": ["Luke 4:23"] },
+      { "text": "Jeremiah asks whether there is no balm in Gilead, lamenting a people who will not be healed.", "refs": ["Jer 8:22"] },
+      { "text": "The Good Samaritan treats wounds with oil and wine.", "refs": ["Luke 10:34"] },
+      { "text": "The LORD presents himself as Israel's healer.", "refs": ["Exod 15:26"] }
+    ],
+    "refs": ["Gen 50:2", "2 Chr 16:12", "Isa 38:21", "Mark 5:25-26", "Col 4:14", "1 Tim 5:23"]
+  },
+  {
+    "id": "metalworker",
+    "name": "Metalworker (smith)",
+    "kind": "trade",
+    "summary": "Smiths worked bronze, iron, silver and gold, smelting ore, refining in a crucible and hammering or casting tools, weapons and ornaments. Genesis names Tubal-cain as the forger of bronze and iron tools. Under Saul the Philistines held a monopoly on ironworking and Israelites had to go to them to sharpen tools.\n\nHiram of Tyre cast the bronze pillars and vessels for Solomon's temple. In Acts, Demetrius the silversmith stirs a riot in Ephesus because Paul's preaching threatened the trade in silver shrines of Artemis.",
+    "status": "Skilled and valuable, sometimes itinerant; controlling smiths was a form of military control, as the Philistine monopoly and Babylon's deportation of craftsmen show.",
+    "tools": ["Furnace and bellows", "Crucible", "Anvil and hammer", "Tongs", "Moulds for casting"],
+    "personIds": [],
+    "teaching": [
+      { "text": "God is like a refiner's fire and a fuller's soap, purifying his people like silver.", "refs": ["Mal 3:2-3", "Zech 13:9"] },
+      { "text": "The crucible is for silver and the furnace for gold, but the LORD tests hearts.", "refs": ["Prov 17:3"] },
+      { "text": "Faith tested by trials is more precious than gold refined by fire.", "refs": ["1 Pet 1:6-7"] },
+      { "text": "Isaiah mocks the smith who forges an idol and grows tired.", "refs": ["Isa 44:12"] },
+      { "text": "Swords will be beaten into ploughshares in the age of peace.", "refs": ["Isa 2:4"] }
+    ],
+    "refs": ["Gen 4:22", "1 Sam 13:19-21", "1 Kgs 7:13-14", "2 Kgs 24:14", "Acts 19:24-27", "2 Tim 4:14"]
+  },
+  {
+    "id": "musician",
+    "name": "Musician",
+    "kind": "trade",
+    "summary": "Genesis names Jubal as the ancestor of lyre and pipe players. Miriam led the women with tambourines after the Red Sea crossing, and David was known as a skilled lyre player whose music eased Saul's torment.\n\nChronicles describes David organising Levitical families, under Asaph, Heman and Jeduthun, as temple singers and instrumentalists, some said to \"prophesy\" with lyres, harps and cymbals. Many psalms carry headings naming these guilds.",
+    "status": "Temple musicians were a respected Levitical order; court and festival musicians also served kings. Professional mourners and flute players were hired for funerals.",
+    "tools": ["Lyre (kinnor)", "Harp (nevel)", "Tambourine (timbrel)", "Cymbals", "Shofar (ram's horn)", "Silver trumpets", "Pipe or flute"],
+    "personIds": ["david", "miriam", "deborah"],
+    "teaching": [
+      { "text": "Believers are to speak to one another in psalms, hymns and spiritual songs.", "refs": ["Eph 5:18-20", "Col 3:16"] },
+      { "text": "Without love, even inspired speech is a noisy gong or clanging cymbal.", "refs": ["1 Cor 13:1"] },
+      { "text": "Paul compares unintelligible tongues to an indistinct trumpet call.", "refs": ["1 Cor 14:7-8"] },
+      { "text": "Jesus compares his generation to children who will neither dance to the flute nor mourn to a dirge.", "refs": ["Matt 11:16-17"] },
+      { "text": "Heaven's worship includes harps and a new song to the Lamb.", "refs": ["Rev 5:8-10", "Ps 150"] }
+    ],
+    "refs": ["Gen 4:21", "Exod 15:20-21", "1 Sam 16:23", "1 Chr 15:16-19", "1 Chr 25:1-7", "2 Kgs 3:15", "Matt 9:23"]
+  },
+  {
+    "id": "weaver-and-dyer",
+    "name": "Weaver and dyer",
+    "kind": "trade",
+    "summary": "Spinning and weaving were household work in Israel, done largely by women with a spindle, distaff and upright loom; skilled weavers and embroiderers made the tabernacle hangings. Dyeing produced blue, purple and scarlet. True purple from murex shellfish was very expensive and associated with royalty; cheaper plant-based purples also existed.\n\nLydia of Thyatira, \"a seller of purple\" in Philippi, was likely a merchant of dyed cloth; inscriptions attest dyers' guilds at Thyatira. Dorcas in Joppa made tunics and garments for widows.",
+    "status": "Household weaving was ordinary domestic labour; dealers in luxury purple could be wealthy. Lydia headed a household able to host Paul's team.",
+    "tools": ["Spindle and distaff", "Upright or ground loom", "Shuttle", "Dye vats", "Murex shell or plant dyes (madder, indigo)"],
+    "personIds": ["lydia", "dorcas"],
+    "teaching": [
+      { "text": "The capable wife works wool and flax, holds the distaff and clothes her household in scarlet.", "refs": ["Prov 31:13", "Prov 31:19-22"] },
+      { "text": "Job says his days are swifter than a weaver's shuttle; Hezekiah says his life is rolled up like a weaver's cloth.", "refs": ["Job 7:6", "Isa 38:12"] },
+      { "text": "Sins as scarlet will be made white as snow, a dyer's image of cleansing.", "refs": ["Isa 1:18"] },
+      { "text": "The psalmist says God knit him together in his mother's womb.", "refs": ["Ps 139:13-15"] },
+      { "text": "Jesus' seamless tunic, woven in one piece, was gambled for at the cross.", "refs": ["John 19:23-24"] }
+    ],
+    "refs": ["Exod 35:25-26", "Exod 35:35", "Acts 16:14-15", "Acts 9:36-39"]
+  },
+  {
+    "id": "tanner",
+    "name": "Tanner",
+    "kind": "trade",
+    "summary": "Tanners turned animal hides into leather by scraping, soaking in lime and tanning with bark or other agents. The process was foul-smelling and used animal carcasses and dung, so tanneries were usually set at the edge of towns and, where possible, near water.\n\nPeter stayed \"many days\" with Simon, a tanner whose house was by the sea in Joppa, and it was on Simon's roof that he saw the vision of clean and unclean animals before going to Cornelius. Many interpreters see significance in Peter lodging with a man whose work involved constant contact with dead animals.",
+    "status": "Low; contact with carcasses raised purity concerns under the law, and later rabbinic sources treat tanning as a repugnant trade.",
+    "tools": ["Scraping knives", "Lime and tanning agents", "Soaking vats", "Stretching frames"],
+    "personIds": ["peter"],
+    "teaching": [
+      { "text": "The vision of the sheet with unclean animals, received at a tanner's house, prepares Peter to welcome Gentiles.", "refs": ["Acts 10:9-16", "Acts 10:28"] },
+      { "text": "New wine needs new wineskins, a leather image for the newness of Jesus' ministry.", "refs": ["Matt 9:17"] },
+      { "text": "Elijah and John the Baptist both wore leather belts, marking prophetic austerity.", "refs": ["2 Kgs 1:8", "Matt 3:4"] }
+    ],
+    "refs": ["Acts 9:43", "Acts 10:5-6", "Acts 10:32", "Lev 11:39-40"]
+  },
+  {
+    "id": "innkeeper",
+    "name": "Innkeeper",
+    "kind": "trade",
+    "summary": "In the Good Samaritan parable, the wounded man is taken to an inn (*pandocheion*) and the Samaritan pays the innkeeper to care for him. Such roadside lodgings offered shelter for travellers and animals but had a poor reputation.\n\nThe word in Luke 2:7, traditionally \"inn,\" is *katalyma*, the same word used for the \"guest room\" of the Last Supper; many scholars now read it as a family guest room rather than a commercial inn, though the traditional reading still has defenders. Some Jewish tradition and the historian Josephus describe Rahab as an innkeeper rather than a prostitute, though the Hebrew word normally means prostitute.",
+    "status": "Low, associated with dishonesty and immorality in Greco-Roman sources. Hospitality in private homes was the ideal and was expected toward strangers.",
+    "tools": ["Courtyard for animals", "Sleeping rooms or mats", "Food and fodder", "Lamps"],
+    "personIds": ["rahab"],
+    "teaching": [
+      { "text": "The Samaritan entrusts the injured man to an innkeeper and promises to repay any extra cost, showing costly neighbour-love.", "refs": ["Luke 10:33-35"] },
+      { "text": "There was no room in the katalyma, so the newborn was laid in a manger.", "refs": ["Luke 2:7", "Luke 22:11"] },
+      { "text": "Believers are urged to show hospitality to strangers, as some have entertained angels unaware.", "refs": ["Heb 13:2", "Gen 18:1-8", "1 Pet 4:9"] }
+    ],
+    "refs": ["Luke 10:34-35", "Luke 2:7", "Josh 2:1"]
+  },
+  {
+    "id": "servant-steward",
+    "name": "Servant and steward",
+    "kind": "trade",
+    "summary": "Large households were run by servants and slaves, and a steward (Greek *oikonomos*) managed the master's property, accounts and staff. Joseph became overseer of Potiphar's house and later of all Egypt; Abraham's chief servant ran his household. In the Roman world many stewards were themselves slaves.\n\nSlavery in the ancient world differed from race-based chattel slavery but was still ownership of persons. Paul's letter to Philemon concerns Onesimus, a slave who had become a believer.",
+    "status": "Wide range: from household slaves with no rights to powerful managers trusted with a master's fortune. Faithfulness was the steward's defining virtue.",
+    "tools": ["Keys of the house", "Account records", "Signet authority", "Storerooms"],
+    "personIds": ["joseph-patriarch", "daniel", "onesimus", "philemon"],
+    "teaching": [
+      { "text": "The faithful and wise steward is set over the household; the one who abuses his position is judged.", "refs": ["Luke 12:42-48"] },
+      { "text": "The shrewd steward is commended for foresight, not dishonesty, as a lesson in using wealth for eternal ends.", "refs": ["Luke 16:1-13"] },
+      { "text": "Apostles are servants of Christ and stewards of God's mysteries, required above all to be faithful.", "refs": ["1 Cor 4:1-2"] },
+      { "text": "Each believer is a steward of God's varied grace.", "refs": ["1 Pet 4:10"] },
+      { "text": "Jesus came not to be served but to serve and give his life as a ransom.", "refs": ["Mark 10:42-45", "Phil 2:7"] }
+    ],
+    "refs": ["Gen 24:2", "Gen 39:2-6", "Gen 41:39-41", "Dan 6:1-3", "Phlm 1:10-16"]
+  },
+  {
+    "id": "perfumer",
+    "name": "Perfumer",
+    "kind": "trade",
+    "summary": "Perfumers (Hebrew *raqqach*) blended spices, resins and oils into ointments and incense. The law specified the holy anointing oil and incense \"after the art of the perfumer,\" and Nehemiah lists a perfumer among those who rebuilt the wall.\n\nCostly ointments such as nard were stored in alabaster flasks. Mary of Bethany anointed Jesus with a pound of pure nard, and Nicodemus and Joseph of Arimathea used about a hundred pounds of myrrh and aloes in his burial.",
+    "status": "Skilled craft, often associated with royal and temple service; Samuel warned that a king would take daughters to be perfumers.",
+    "tools": ["Mortar and pestle", "Olive oil base", "Spices and resins (myrrh, frankincense, nard, cinnamon)", "Alabaster flasks", "Censers"],
+    "personIds": ["mary-of-bethany", "nicodemus", "joseph-of-arimathea"],
+    "teaching": [
+      { "text": "The anointing at Bethany is praised as preparing Jesus' body for burial.", "refs": ["Mark 14:3-9", "John 12:1-8"] },
+      { "text": "Believers are the aroma of Christ, a fragrance of life to some and death to others.", "refs": ["2 Cor 2:14-16"] },
+      { "text": "Christ's self-offering is a fragrant sacrifice to God.", "refs": ["Eph 5:2", "Phil 4:18"] },
+      { "text": "Dead flies make the perfumer's ointment stink, as a little folly outweighs wisdom.", "refs": ["Eccl 10:1"] }
+    ],
+    "refs": ["Exod 30:22-25", "Exod 30:34-35", "1 Sam 8:13", "Neh 3:8", "John 19:39-40", "Luke 23:56"]
+  },
+  {
+    "id": "hunter",
+    "name": "Hunter",
+    "kind": "trade",
+    "summary": "Hunting supplemented diet and protected flocks. Genesis calls Nimrod a mighty hunter and describes Esau as a skilful hunter, a man of the field, in contrast to Jacob who stayed among the tents. Isaac loved Esau's game, which set up the stolen blessing.\n\nFowlers caught birds with nets, snares and traps, and the image of the snare is common in psalms and wisdom literature.",
+    "status": "Not a major profession in settled Israel; more a skill of rural men. The law required poured-out blood of hunted animals to be covered.",
+    "tools": ["Bow and quiver", "Snare and trap", "Net", "Pit", "Sling"],
+    "personIds": ["esau"],
+    "teaching": [
+      { "text": "God delivers from the snare of the fowler.", "refs": ["Ps 91:3", "Ps 124:7"] },
+      { "text": "A person caught by a rash pledge should free himself like a gazelle from the hunter.", "refs": ["Prov 6:1-5"] },
+      { "text": "Amos asks whether a bird falls into a trap with no bait, arguing that disaster has a cause.", "refs": ["Amos 3:5"] },
+      { "text": "Jeremiah pictures God sending fishers and hunters to search out his people.", "refs": ["Jer 16:16"] }
+    ],
+    "refs": ["Gen 10:9", "Gen 25:27-28", "Gen 27:3-4", "Lev 17:13"]
+  },
+  {
+    "id": "sailor",
+    "name": "Sailor",
+    "kind": "trade",
+    "summary": "Israel was not a seafaring nation; its coast had few natural harbours, and the sea often symbolised chaos. Solomon and Jehoshaphat used Phoenician expertise for Red Sea voyages. Jonah sailed from Joppa on a ship whose crew feared the storm, prayed to their gods and finally to the LORD.\n\nActs 27 gives one of the most detailed ancient accounts of a voyage and shipwreck, including sounding the depth, dropping anchors from the stern and lightening the ship.",
+    "status": "Working mariners were common labourers; ship owners and pilots held more authority. Sailing was seasonal and dangerous after early autumn.",
+    "tools": ["Sounding lead", "Anchors", "Steering oars (rudders)", "Sails and rigging", "Ship's boat"],
+    "personIds": ["jonah", "paul", "luke"],
+    "teaching": [
+      { "text": "Those who go down to the sea in ships see God's wonders and cry out to him in the storm.", "refs": ["Ps 107:23-30"] },
+      { "text": "A small rudder steers a great ship, as the tongue directs a life.", "refs": ["Jas 3:4-5"] },
+      { "text": "Hope is an anchor for the soul.", "refs": ["Heb 6:19"] },
+      { "text": "Some have made shipwreck of their faith.", "refs": ["1 Tim 1:19"] },
+      { "text": "Jesus calms the storm on the Sea of Galilee, displaying authority over the sea.", "refs": ["Mark 4:35-41"] }
+    ],
+    "refs": ["1 Kgs 9:26-28", "1 Kgs 22:48", "Jonah 1:3-16", "Ezek 27:8-9", "Acts 27:13-44"]
+  },
+  {
+    "id": "cupbearer",
+    "name": "Cupbearer",
+    "kind": "trade",
+    "summary": "A cupbearer served wine to the king and was responsible for making sure it was safe, so the post required complete trust. Pharaoh's chief cupbearer was imprisoned with Joseph and later remembered him. The Queen of Sheba was impressed by Solomon's cupbearers.\n\nNehemiah was cupbearer to the Persian king Artaxerxes I. His access to the king allowed him to request leave, letters and timber to rebuild Jerusalem's walls.",
+    "status": "High and intimate with the king; in Persia and Assyria the office could carry real political influence. Ancient sources show cupbearers as trusted courtiers.",
+    "tools": ["Royal cup", "Wine stores", "Court attire"],
+    "personIds": ["nehemiah", "joseph-patriarch"],
+    "teaching": [
+      { "text": "The cup can symbolise God's wrath or his salvation.", "refs": ["Jer 25:15-16", "Ps 116:13"] },
+      { "text": "Jesus prays for the cup to pass from him, yet submits to the Father's will.", "refs": ["Matt 26:39"] },
+      { "text": "The cup of the Lord's Supper is the new covenant in Jesus' blood.", "refs": ["1 Cor 11:25", "Luke 22:20"] },
+      { "text": "Nehemiah prays silently before answering the king, a model of courage in a position of service.", "refs": ["Neh 2:1-8"] }
+    ],
+    "refs": ["Gen 40:1-23", "1 Kgs 10:4-5", "Neh 1:11", "Neh 2:1"]
+  },
+  {
+    "id": "priest",
+    "name": "Priest",
+    "kind": "ministry",
+    "summary": "Israel's priests were descendants of Aaron within the tribe of Levi. They offered sacrifices, burned incense, kept the lamps, blessed the people, judged matters of ritual purity and taught the law. The high priest alone entered the Most Holy Place on the Day of Atonement.\n\nBefore Sinai, Melchizedek and Jethro appear as priests outside Israel. Several prophets were from priestly families, including Jeremiah and Ezekiel. In the New Testament era the high priesthood was politically appointed, and Annas and Caiaphas presided over Jesus' hearings.\n\nThe New Testament presents Jesus as the great high priest after the order of Melchizedek and calls the church a royal priesthood. Traditions differ on whether Christian ministers are priests in a sacramental sense (Catholic, Orthodox) or whether priesthood belongs to all believers with no distinct sacerdotal order (most Protestants).",
+    "status": "Hereditary and highly honoured; supported by tithes and portions of sacrifices rather than land.",
+    "tools": ["Ephod and breastpiece", "Urim and Thummim", "Altar of burnt offering", "Incense altar and censer", "Bronze laver", "Linen garments"],
+    "personIds": ["melchizedek", "jethro", "aaron", "eleazar-priest", "phinehas", "eli", "ezekiel", "jeremiah", "ezra", "joshua-high-priest", "zechariah-priest", "annas", "caiaphas"],
+    "teaching": [
+      { "text": "Israel as a whole was to be a kingdom of priests, and the church is called a royal priesthood.", "refs": ["Exod 19:5-6", "1 Pet 2:9", "Rev 1:5-6"] },
+      { "text": "Jesus is the high priest who sympathises with weakness and offered himself once for all.", "refs": ["Heb 4:14-16", "Heb 7:23-28", "Heb 9:11-14"] },
+      { "text": "The lips of a priest should guard knowledge, for he is the LORD's messenger.", "refs": ["Mal 2:7"] },
+      { "text": "In the Good Samaritan parable a priest passes by on the other side.", "refs": ["Luke 10:31"] },
+      { "text": "Paul describes his gospel work as priestly service offering the Gentiles to God.", "refs": ["Rom 15:16"] }
+    ],
+    "refs": ["Gen 14:18", "Exod 28:1-4", "Exod 28:30", "Lev 10:10-11", "Lev 16:1-34", "Num 6:22-27", "Deut 33:10"]
+  },
+  {
+    "id": "levite",
+    "name": "Levite",
+    "kind": "ministry",
+    "summary": "The tribe of Levi was set apart for sacred service after its zeal at the golden calf. Levites who were not descendants of Aaron assisted the priests: carrying and guarding the tabernacle, later serving as temple gatekeepers, singers, treasurers and teachers of the law.\n\nLevites received no tribal territory. Instead they lived in forty-eight towns scattered across Israel and were supported by tithes, so that the LORD was their inheritance. Moses, Aaron and Miriam were Levites, as was Barnabas in the New Testament.",
+    "status": "Religious servants with honoured functions but dependent on the people's tithes; Deuteronomy repeatedly tells Israel not to neglect the Levite in their towns.",
+    "tools": ["Carrying poles for the ark and furnishings", "Gatekeeping keys", "Musical instruments", "Scrolls of the law"],
+    "personIds": ["levi", "amram", "jochebed", "moses", "aaron", "miriam", "korah", "barnabas"],
+    "teaching": [
+      { "text": "The LORD himself is the Levites' inheritance, a model for finding one's portion in God rather than property.", "refs": ["Deut 10:8-9", "Num 18:20-24", "Ps 16:5-6"] },
+      { "text": "Levites helped the people understand the law when Ezra read it.", "refs": ["Neh 8:7-8"] },
+      { "text": "In the Good Samaritan parable a Levite also passes by.", "refs": ["Luke 10:32"] }
+    ],
+    "refs": ["Exod 32:26-29", "Num 3:5-10", "Num 8:5-26", "Num 35:1-8", "1 Chr 23:3-5", "Deut 14:27-29", "Acts 4:36"]
+  },
+  {
+    "id": "prophet",
+    "name": "Prophet",
+    "kind": "ministry",
+    "summary": "A prophet was called by God to speak his word, often beginning with \"Thus says the LORD.\" Prophets confronted kings, called Israel back to covenant faithfulness, announced judgment and promised restoration. They were called individually, not by heredity; Amos insisted he was a herdsman, not a professional prophet.\n\nDeuteronomy gives tests for prophets and promises a prophet like Moses, a promise the New Testament applies to Jesus. Women prophets include Miriam, Deborah, Huldah, Anna and Philip's daughters. In the church, prophecy is listed among spiritual gifts; whether it continues today is debated between continuationists and cessationists.",
+    "status": "Varied enormously: some were court advisers, some were persecuted outsiders. Jesus noted that Jerusalem killed the prophets.",
+    "tools": ["Spoken oracle", "Scroll", "Mantle", "Sign-acts (symbolic actions)", "Visions and dreams"],
+    "personIds": ["moses", "miriam", "deborah", "samuel", "nathan", "gad-prophet", "elijah", "elisha", "micaiah", "isaiah", "jeremiah", "ezekiel", "daniel", "huldah", "hosea", "amos", "jonah", "micah", "habakkuk", "haggai", "zechariah-prophet", "malachi", "john-the-baptist", "anna", "agabus"],
+    "teaching": [
+      { "text": "God will raise up a prophet like Moses; Peter applies this to Jesus.", "refs": ["Deut 18:15-22", "Acts 3:22-23"] },
+      { "text": "God spoke through the prophets in many ways, but finally through his Son.", "refs": ["Heb 1:1-2"] },
+      { "text": "Prophets spoke as they were carried along by the Holy Spirit.", "refs": ["2 Pet 1:20-21"] },
+      { "text": "A prophet is not without honour except in his hometown.", "refs": ["Mark 6:4"] },
+      { "text": "Church prophecy is to be weighed by others and done in order.", "refs": ["1 Cor 14:29-33", "1 Thess 5:19-21"] }
+    ],
+    "refs": ["Amos 7:14-15", "Jer 1:4-10", "Isa 6:1-8", "1 Sam 3:19-20", "1 Kgs 19:19", "Acts 21:9-11"]
+  },
+  {
+    "id": "judge",
+    "name": "Judge (shofet)",
+    "kind": "ministry",
+    "summary": "In the book of Judges, a *shofet* was less a courtroom official than a God-raised deliverer and leader who rescued tribes from oppression and then governed. Some, like Deborah, also settled disputes. The book follows a repeating cycle of sin, oppression, crying out and deliverance, and the judges themselves grow morally weaker as it goes on.\n\nMore broadly, the law required judges to be appointed in every town to judge impartially and refuse bribes. Eli and Samuel judged Israel before the monarchy.",
+    "status": "Charismatic, temporary leadership rather than hereditary office; Gideon explicitly refused kingship.",
+    "tools": ["Seat at the city gate or under a palm", "Trumpet to muster tribes", "Law of Moses"],
+    "personIds": ["othniel", "ehud", "deborah", "barak", "gideon", "jephthah", "samson", "eli", "samuel"],
+    "teaching": [
+      { "text": "The parable of the unjust judge contrasts a reluctant judge with a God who answers prayer.", "refs": ["Luke 18:1-8"] },
+      { "text": "There is one lawgiver and judge; believers must not judge one another hypocritically.", "refs": ["Jas 4:11-12", "Rom 2:1-3", "Matt 7:1-5"] },
+      { "text": "The Father has given all judgment to the Son, appointed judge of the living and the dead.", "refs": ["John 5:22-27", "Acts 10:42"] }
+    ],
+    "refs": ["Judg 2:16-19", "Judg 4:4-5", "Judg 8:22-23", "Exod 18:13-26", "Deut 16:18-20", "1 Sam 7:15-17"]
+  },
+  {
+    "id": "king",
+    "name": "King",
+    "kind": "ministry",
+    "summary": "Israel asked for a king \"like all the nations,\" which Samuel saw as rejecting God's kingship. Deuteronomy's law of the king forbids multiplying horses, wives and silver and requires the king to copy and read the law. Kings were anointed with oil, making them \"the LORD's anointed.\"\n\nGod's covenant with David promised an enduring dynasty, the root of messianic hope. The books of Kings evaluate each ruler by covenant faithfulness, especially in worship. The Gospels present Jesus as the Son of David and King of the Jews, whose kingdom is not from this world.",
+    "status": "Supreme political and military authority, though in Israel the king was meant to be under God's law and could be rebuked by prophets.",
+    "tools": ["Crown", "Sceptre", "Throne", "Anointing oil", "Signet ring", "A copy of the law"],
+    "personIds": ["saul-king", "david", "solomon", "rehoboam", "jeroboam-i", "ahab", "jehoshaphat", "jehu", "uzziah", "hezekiah", "manasseh-king", "josiah", "zedekiah", "nebuchadnezzar", "cyrus", "herod-the-great"],
+    "teaching": [
+      { "text": "The LORD's anointed king will rule the nations, a psalm the New Testament applies to Jesus.", "refs": ["Ps 2", "Acts 13:33"] },
+      { "text": "The ideal king defends the poor and needy.", "refs": ["Ps 72:1-4", "Prov 31:8-9"] },
+      { "text": "Jesus tells Pilate his kingdom is not from this world.", "refs": ["John 18:33-37"] },
+      { "text": "Christ is King of kings and Lord of lords.", "refs": ["Rev 19:16", "1 Tim 6:15"] },
+      { "text": "Parables of a king's wedding feast and a king settling accounts picture God's reign.", "refs": ["Matt 22:1-14", "Matt 18:23-35"] }
+    ],
+    "refs": ["Deut 17:14-20", "1 Sam 8:4-22", "1 Sam 10:1", "1 Sam 16:13", "2 Sam 7:12-16", "Matt 2:2"]
+  },
+  {
+    "id": "apostle",
+    "name": "Apostle",
+    "kind": "ministry",
+    "summary": "An apostle (Greek *apostolos*, \"one sent\") was a commissioned messenger. Jesus chose twelve to be with him and to be sent out, a number echoing Israel's twelve tribes. After Judas' death, Matthias was chosen, the criterion being a witness of Jesus' ministry and resurrection.\n\nPaul claimed apostleship by a direct commission from the risen Christ. The word also applies more broadly to others such as Barnabas, and possibly to Andronicus and Junia (the reading of Romans 16:7 is debated). Traditions disagree about whether apostolic authority continues: Catholic and Orthodox churches teach apostolic succession through bishops; most Protestants hold that the foundational apostolic office ended with the first generation.",
+    "status": "Foundational authority in the early church, yet often experienced as weakness and suffering; Paul calls apostles a spectacle to the world.",
+    "tools": ["Proclamation", "Letters", "Laying on of hands", "Travel by road and sea"],
+    "personIds": ["peter", "andrew", "james-son-of-zebedee", "john-the-apostle", "philip-apostle", "bartholomew", "thomas", "matthew", "james-son-of-alphaeus", "thaddaeus", "simon-the-zealot", "judas-iscariot", "matthias", "paul", "barnabas", "james-brother-of-jesus", "andronicus", "junia"],
+    "teaching": [
+      { "text": "The church is built on the foundation of the apostles and prophets, with Christ as cornerstone.", "refs": ["Eph 2:20", "Rev 21:14"] },
+      { "text": "Jesus himself is called the apostle and high priest of our confession.", "refs": ["Heb 3:1"] },
+      { "text": "Paul lists appearances of the risen Jesus, last of all to him as one untimely born.", "refs": ["1 Cor 15:5-9"] },
+      { "text": "Apostles are presented as servants who suffer, not as celebrities.", "refs": ["1 Cor 4:9-13", "2 Cor 11:23-29"] }
+    ],
+    "refs": ["Mark 3:13-19", "Luke 6:12-16", "Acts 1:21-26", "Acts 14:14", "Gal 1:1", "Gal 1:19", "Rom 16:7", "2 Cor 12:12"]
+  },
+  {
+    "id": "evangelist",
+    "name": "Evangelist",
+    "kind": "ministry",
+    "summary": "An evangelist (*euangelistēs*) is one who announces good news. The word occurs only three times in the New Testament: of Philip, one of the Seven, who preached in Samaria and to the Ethiopian official; in Ephesians' list of ministries Christ gives the church; and in Paul's charge to Timothy to \"do the work of an evangelist.\"\n\nIn later usage \"the Evangelists\" also means the four Gospel writers.",
+    "status": "Itinerant or local preachers of the gospel; not a separately defined office in the New Testament, but a recognised gift and function.",
+    "tools": ["Proclamation", "The Scriptures", "Baptism of converts", "Travel"],
+    "personIds": ["philip-the-evangelist", "timothy"],
+    "teaching": [
+      { "text": "How beautiful are the feet of those who bring good news.", "refs": ["Isa 52:7", "Rom 10:14-15"] },
+      { "text": "Philip explains Isaiah 53 to the Ethiopian, beginning from that scripture to tell him the good news of Jesus.", "refs": ["Acts 8:26-40"] },
+      { "text": "Scattered believers preached the word wherever they went.", "refs": ["Acts 8:4-8"] }
+    ],
+    "refs": ["Acts 21:8", "Eph 4:11", "2 Tim 4:5"]
+  },
+  {
+    "id": "pastor-shepherd",
+    "name": "Pastor (shepherd)",
+    "kind": "ministry",
+    "summary": "\"Pastor\" comes from the Latin for shepherd and translates the Greek *poimēn* in Ephesians 4:11, the only place the noun is used for a church role. The verb \"to shepherd\" is used of elders, who are told to shepherd God's flock willingly and by example under Christ, the chief Shepherd.\n\nWhether pastors, elders and overseers are one office described by different terms, and whether \"pastors and teachers\" in Ephesians names one role or two, is debated.",
+    "status": "Leadership defined by care and example rather than domination; Peter forbids lording it over the flock.",
+    "tools": ["Teaching and preaching", "Prayer", "Visitation", "Example"],
+    "personIds": ["peter", "timothy", "titus"],
+    "teaching": [
+      { "text": "Jesus commissions Peter to feed and tend his sheep.", "refs": ["John 21:15-17"] },
+      { "text": "Paul tells the Ephesian elders to shepherd the church of God, bought with his own blood, and to watch for wolves.", "refs": ["Acts 20:28-31"] },
+      { "text": "God promises shepherds after his own heart and condemns those who scatter the flock.", "refs": ["Jer 3:15", "Jer 23:1-4"] },
+      { "text": "Christ is the great Shepherd of the sheep and the chief Shepherd.", "refs": ["Heb 13:20", "1 Pet 5:4"] }
+    ],
+    "refs": ["Eph 4:11-12", "1 Pet 5:1-4", "Heb 13:17"]
+  },
+  {
+    "id": "teacher",
+    "name": "Teacher",
+    "kind": "ministry",
+    "summary": "Teaching God's law was a duty of parents, priests and Levites, and Ezra set his heart to study, do and teach it. In Jesus' day teachers of the law were addressed as \"rabbi\"; Jesus himself was called Rabbi and Teacher, and Gamaliel was a respected teacher under whom Paul trained.\n\nIn the church, teachers are listed among Christ's gifts. Priscilla and Aquila explained the way of God more accurately to Apollos, and teachers served alongside prophets at Antioch. James warns that teachers will be judged more strictly.",
+    "status": "Respected; teachers could expect support from those they taught.",
+    "tools": ["The Scriptures", "Questions and dialogue", "Memorisation", "Parables and illustrations"],
+    "personIds": ["ezra", "jesus", "gamaliel", "nicodemus", "paul", "barnabas", "apollos", "priscilla", "aquila"],
+    "teaching": [
+      { "text": "Parents are to teach God's words diligently to their children.", "refs": ["Deut 6:6-7"] },
+      { "text": "The Great Commission includes teaching disciples to obey all Jesus commanded.", "refs": ["Matt 28:19-20"] },
+      { "text": "Not many should become teachers, since teachers face stricter judgment.", "refs": ["Jas 3:1"] },
+      { "text": "Timothy is to entrust teaching to faithful people who can teach others.", "refs": ["2 Tim 2:2"] },
+      { "text": "Jesus warns against seeking the title rabbi, for one is the Teacher.", "refs": ["Matt 23:8-10"] }
+    ],
+    "refs": ["Ezra 7:10", "Neh 8:8", "John 3:2", "John 3:10", "Acts 5:34", "Acts 13:1", "Acts 18:24-26", "Eph 4:11", "Gal 6:6"]
+  },
+  {
+    "id": "elder",
+    "name": "Elder",
+    "kind": "ministry",
+    "summary": "In Israel, elders were senior heads of families and clans who represented the people, sat at the city gate to decide cases and witnessed transactions. Moses appointed seventy elders to share his burden.\n\nThe early churches were led by groups of elders (*presbyteroi*). In Acts 20 and Titus 1 the same people are called elders and overseers (*episkopoi*), so many conclude the terms were interchangeable at first. Qualifications focus on character, family life and ability to teach. By the early second century, Ignatius of Antioch describes a single bishop over elders and deacons; Catholic, Orthodox and Anglican churches see this as legitimate development, while Presbyterian and many free churches favour plural elder leadership.",
+    "status": "Mature, respected leaders; honoured and, when labouring in preaching and teaching, deserving support.",
+    "tools": ["Seat at the city gate", "Teaching and oversight", "Prayer and anointing of the sick"],
+    "personIds": ["peter", "john-the-apostle", "james-brother-of-jesus", "titus", "timothy"],
+    "teaching": [
+      { "text": "Elders are to shepherd willingly, not for gain, as examples to the flock.", "refs": ["1 Pet 5:1-4"] },
+      { "text": "The sick may call the elders to pray over them and anoint them with oil.", "refs": ["Jas 5:14-15"] },
+      { "text": "The twenty-four elders around the throne lead heavenly worship.", "refs": ["Rev 4:4", "Rev 4:10-11"] }
+    ],
+    "refs": ["Exod 3:16", "Num 11:16-17", "Ruth 4:1-2", "Acts 14:23", "Acts 15:6", "Acts 20:17", "Acts 20:28", "1 Tim 3:1-7", "1 Tim 5:17", "Titus 1:5-9", "2 John 1:1"]
+  },
+  {
+    "id": "deacon",
+    "name": "Deacon",
+    "kind": "ministry",
+    "summary": "*Diakonos* means servant or minister and is used broadly of anyone who serves, including Christ, Paul and even civil rulers. It also became a title for a recognised church role: Paul greets \"overseers and deacons\" at Philippi, and 1 Timothy lists deacons' qualifications.\n\nMany trace the role to the Seven chosen in Acts 6 to oversee the daily food distribution so the apostles could devote themselves to prayer and the word. Acts does not call them deacons, though it uses the related noun and verb for their service, so the link is a common reading rather than explicit. Two of the Seven, Stephen and Philip, are later seen preaching.",
+    "status": "Recognised servants of the church, usually focused on practical and mercy ministries; in some traditions an ordained order on the way to priesthood.",
+    "tools": ["Common fund and distribution", "Hospitality", "Care for widows and the poor"],
+    "personIds": ["stephen", "philip-the-evangelist", "phoebe"],
+    "teaching": [
+      { "text": "Whoever would be great must be servant (diakonos) of all, as the Son of Man came to serve.", "refs": ["Mark 10:43-45"] },
+      { "text": "Deacons must be dignified, not greedy, holding the faith with a clear conscience, and first tested.", "refs": ["1 Tim 3:8-13"] },
+      { "text": "Paul and Apollos are only servants through whom the Corinthians believed.", "refs": ["1 Cor 3:5"] }
+    ],
+    "refs": ["Acts 6:1-6", "Phil 1:1", "1 Tim 3:8-13", "Rom 13:4"]
+  },
+  {
+    "id": "deaconess-question",
+    "name": "Deaconess? (the Phoebe question)",
+    "kind": "ministry",
+    "summary": "Paul commends Phoebe as a *diakonos* of the church at Cenchreae and a *prostatis* (patron or benefactor) of many, including himself; she probably carried the letter to Rome. Whether *diakonos* here names an office (\"deacon\" or \"deaconess\") or means \"servant\" in a general sense is debated, as is whether \"the women\" in 1 Timothy 3:11 are deacons' wives or women deacons.\n\nOutside scripture, Pliny the Younger (about AD 112) reports interrogating two slave women called *ministrae*, likely a Latin rendering of deacons. Later church orders and councils describe an order of deaconesses who assisted at the baptism of women and ministered to women; the order faded in the West in the Middle Ages. Views today range from recognising women deacons as an ordained office, to seeing a non-ordained women's ministry, to reading Phoebe simply as a faithful servant.",
+    "status": "Debated. Phoebe was clearly a trusted and honoured woman with means and a recognised role; the precise nature of that role is the question.",
+    "tools": ["Patronage and hospitality", "Letter-carrying", "Assisting at baptism (later practice)"],
+    "personIds": ["phoebe"],
+    "teaching": [
+      { "text": "Paul asks the Romans to welcome Phoebe in the Lord and help her in whatever she needs.", "refs": ["Rom 16:1-2"] },
+      { "text": "\"Women likewise\" in the deacons' qualifications is read either as wives of deacons or as women deacons.", "refs": ["1 Tim 3:11"] },
+      { "text": "Enrolled widows of good works may represent another recognised women's ministry.", "refs": ["1 Tim 5:9-10"] }
+    ],
+    "refs": ["Rom 16:1-2", "1 Tim 3:8-13", "1 Tim 5:9-10"]
+  },
+  {
+    "id": "nazirite",
+    "name": "Nazirite",
+    "kind": "ministry",
+    "summary": "A Nazirite (from Hebrew *nazir*, \"consecrated\" or \"separated\") took a vow of special dedication to God for a set period. The law required three things: no wine, grapes or anything from the vine; no razor on the head; and no contact with a corpse, even of a close relative. At the end, the hair was shaved and offered with sacrifices. Anyone, man or woman, could take the vow.\n\nSamson was a Nazirite from birth by divine command, and Hannah vowed that no razor would touch Samuel's head. Luke says John the Baptist would drink no wine, which many read as Nazirite-like. Paul cut his hair at Cenchreae because of a vow, and in Jerusalem paid the expenses of men completing a vow. \"Nazarene\" (from Nazareth) is a different word.",
+    "status": "A voluntary, usually temporary consecration open to lay people, not a hereditary office; Amos condemns those who made Nazirites drink wine.",
+    "tools": ["Uncut hair", "Abstinence from the vine", "Offerings at the vow's completion"],
+    "personIds": ["samson", "samuel", "john-the-baptist", "paul"],
+    "teaching": [
+      { "text": "Samson's broken consecration and recovered strength show that his power lay in God, not his hair as such.", "refs": ["Judg 13:5", "Judg 16:17-22", "Judg 16:28-30"] },
+      { "text": "God raised up Nazirites and prophets, and Israel corrupted both.", "refs": ["Amos 2:11-12"] },
+      { "text": "Jesus, unlike John, came eating and drinking, so the Nazirite pattern was not his.", "refs": ["Matt 11:18-19"] }
+    ],
+    "refs": ["Num 6:1-21", "Judg 13:4-5", "1 Sam 1:11", "Luke 1:15", "Acts 18:18", "Acts 21:23-26"]
+  }
+]

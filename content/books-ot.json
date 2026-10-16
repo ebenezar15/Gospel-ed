@@ -1,0 +1,4509 @@
+[
+  {
+    "id": "genesis",
+    "abbr": "Gen",
+    "name": "Genesis",
+    "testament": "OT",
+    "genre": "Narrative (primeval history and patriarchal family narratives)",
+    "authorship": {
+      "traditional": "Moses, as the first book of the Torah. Jewish and Christian tradition alike treated the Pentateuch as Mosaic, and the New Testament speaks of the Law as the writing of Moses (Luke 24:27; John 5:46). Conservative scholars often hold to Mosaic substance with later editorial updating, such as the note that kings reigned in Edom 'before any king reigned over the children of Israel' (Gen 36:31).",
+      "scholarly": "Most critical scholars see Genesis as built from earlier sources and traditions. The classic Documentary Hypothesis (Graf and Wellhausen, 19th c.) identified interwoven sources: J (Yahwist), E (Elohist) and P (Priestly). Since the 1970s many scholars have favoured a Supplementary model, in which a core narrative was expanded in stages, or a two-layer model of Priestly and non-Priestly material. The final shaping is commonly placed in the exilic or Persian period (6th–5th c. BC), while older traditions behind it may be much earlier."
+    },
+    "date": {
+      "year": -1446,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Mosaic authorship on a late (13th c.) exodus chronology",
+          "year": -1260
+        },
+        {
+          "label": "J source in classic Documentary dating (early monarchy)",
+          "year": -950
+        },
+        {
+          "label": "Final Priestly/Persian-period compilation",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Israel as a covenant people, whether the generation leaving Egypt (traditional view) or Israel in exile and restoration asking who they are and whether God's promises still stand (critical view).",
+    "setting": "From creation to the death of Joseph in Egypt. The patriarchal stories move through Mesopotamia (Ur, Haran), Canaan (Shechem, Bethel, Hebron, Beersheba) and Egypt.",
+    "purpose": "To tell where the world, humanity, sin and the nations came from, and how God chose Abraham's family to carry a promised blessing to all nations. It explains Israel's origin, its claim to the land and the covenant that defines it.",
+    "themes": [
+      "God as sole Creator of an ordered, good world",
+      "Human rebellion and the spread of sin and death",
+      "Covenant and promise: land, seed and blessing",
+      "Election of an unlikely line (younger sons, barren wives)",
+      "Providence working through human evil and family conflict"
+    ],
+    "outline": [
+      {
+        "title": "Primeval history",
+        "refs": [
+          "Gen 1-11"
+        ],
+        "children": [
+          {
+            "title": "Creation",
+            "refs": [
+              "Gen 1-2"
+            ]
+          },
+          {
+            "title": "Fall, Cain and Abel, the line of Seth",
+            "refs": [
+              "Gen 3-5"
+            ]
+          },
+          {
+            "title": "Flood and covenant with Noah",
+            "refs": [
+              "Gen 6-9"
+            ]
+          },
+          {
+            "title": "Table of nations and Babel",
+            "refs": [
+              "Gen 10-11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Abraham",
+        "refs": [
+          "Gen 11:27-25:18"
+        ],
+        "children": [
+          {
+            "title": "Call and promise",
+            "refs": [
+              "Gen 12:1-9"
+            ]
+          },
+          {
+            "title": "Covenant ceremony and circumcision",
+            "refs": [
+              "Gen 15-17"
+            ]
+          },
+          {
+            "title": "Sodom and Gomorrah",
+            "refs": [
+              "Gen 18-19"
+            ]
+          },
+          {
+            "title": "Birth of Isaac and the binding of Isaac",
+            "refs": [
+              "Gen 21-22"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Isaac and Jacob",
+        "refs": [
+          "Gen 25:19-36:43"
+        ],
+        "children": [
+          {
+            "title": "Jacob takes the birthright and blessing",
+            "refs": [
+              "Gen 25:19-28:22"
+            ]
+          },
+          {
+            "title": "Jacob in Haran",
+            "refs": [
+              "Gen 29-31"
+            ]
+          },
+          {
+            "title": "Wrestling at Peniel and reunion with Esau",
+            "refs": [
+              "Gen 32-33"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Joseph and his brothers",
+        "refs": [
+          "Gen 37-50"
+        ],
+        "children": [
+          {
+            "title": "Sold into Egypt",
+            "refs": [
+              "Gen 37"
+            ]
+          },
+          {
+            "title": "Rise from prison to power",
+            "refs": [
+              "Gen 39-41"
+            ]
+          },
+          {
+            "title": "Reconciliation and descent to Egypt",
+            "refs": [
+              "Gen 42-47"
+            ]
+          },
+          {
+            "title": "Jacob's blessings and death of Joseph",
+            "refs": [
+              "Gen 48-50"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Gen 1:1",
+      "Gen 1:26-28",
+      "Gen 3:15",
+      "Gen 12:1-3",
+      "Gen 15:6",
+      "Gen 22:1-19",
+      "Gen 50:20"
+    ],
+    "bigStory": "Genesis sets the stage for the whole Bible: a good creation, a human rebellion that fractures it, and a promise that through Abraham's family all nations will be blessed. Every later covenant, from Sinai to David to the new covenant, builds on the promises made here, and the New Testament presents Jesus as Abraham's seed and the one who reverses Adam's fall.",
+    "canonNote": "The first book of the Torah (Pentateuch) in every canon. Its Hebrew name, *Bereshit* ('In the beginning'), comes from its first word; 'Genesis' comes from the Greek Septuagint. The Samaritan Pentateuch preserves a variant text, notably in the ages of the patriarchs in Gen 5 and Gen 11."
+  },
+  {
+    "id": "exodus",
+    "abbr": "Exod",
+    "name": "Exodus",
+    "testament": "OT",
+    "genre": "Narrative with law and cultic instruction",
+    "authorship": {
+      "traditional": "Moses. The book itself says Moses wrote down certain laws and events (Exod 17:14; Exod 24:4; Exod 34:27), and later Jewish and Christian tradition extended this to the whole book.",
+      "scholarly": "Critical scholars see a composite work. The Documentary Hypothesis assigns material to J, E and P, with the tabernacle instructions (Exod 25-31; Exod 35-40) usually seen as Priestly. The Covenant Code (Exod 20:22-23:33) is often regarded as one of Israel's oldest law collections. Supplementary and two-layer models now compete with the classic four-source view, and final compilation is commonly dated to the exile or Persian period."
+    },
+    "date": {
+      "year": -1446,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Mosaic composition on a late (13th c.) exodus",
+          "year": -1260
+        },
+        {
+          "label": "Early monarchic J/E traditions",
+          "year": -900
+        },
+        {
+          "label": "Final Priestly/Persian-period compilation",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Israel as the people God redeemed from slavery and bound to himself at Sinai, taught how to live and worship with God in their midst.",
+    "setting": "Egypt (Goshen and the eastern Delta), the crossing of the sea, and the wilderness journey to Mount Sinai, where the people camp for most of the book. The date of the exodus is itself debated: an early date around 1446 BC (based on 1 Kgs 6:1) or a 13th-century date under Rameses II.",
+    "purpose": "To show the LORD as the God who hears the oppressed, defeats Pharaoh's gods, redeems his people and makes covenant with them, and to establish the law and the tabernacle so that the holy God can dwell among a sinful people.",
+    "themes": [
+      "Redemption from slavery",
+      "The revealed name and character of God",
+      "Covenant at Sinai and the Ten Commandments",
+      "God's presence dwelling among his people",
+      "Rebellion, intercession and forgiveness"
+    ],
+    "outline": [
+      {
+        "title": "Deliverance from Egypt",
+        "refs": [
+          "Exod 1:1-15:21"
+        ],
+        "children": [
+          {
+            "title": "Oppression and the birth of Moses",
+            "refs": [
+              "Exod 1-2"
+            ]
+          },
+          {
+            "title": "The burning bush and Moses' call",
+            "refs": [
+              "Exod 3-4"
+            ]
+          },
+          {
+            "title": "The plagues",
+            "refs": [
+              "Exod 7-11"
+            ]
+          },
+          {
+            "title": "Passover and the crossing of the sea",
+            "refs": [
+              "Exod 12-14"
+            ]
+          },
+          {
+            "title": "Song of Moses and Miriam",
+            "refs": [
+              "Exod 15:1-21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Journey to Sinai",
+        "refs": [
+          "Exod 15:22-18:27"
+        ],
+        "children": [
+          {
+            "title": "Bitter water, manna and quail",
+            "refs": [
+              "Exod 15:22-16:36"
+            ]
+          },
+          {
+            "title": "Water from the rock and victory over Amalek",
+            "refs": [
+              "Exod 17"
+            ]
+          },
+          {
+            "title": "Jethro's counsel",
+            "refs": [
+              "Exod 18"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Covenant at Sinai",
+        "refs": [
+          "Exod 19-24"
+        ],
+        "children": [
+          {
+            "title": "Theophany on the mountain",
+            "refs": [
+              "Exod 19"
+            ]
+          },
+          {
+            "title": "Ten Commandments",
+            "refs": [
+              "Exod 20:1-17"
+            ]
+          },
+          {
+            "title": "Book of the Covenant",
+            "refs": [
+              "Exod 20:22-23:33"
+            ]
+          },
+          {
+            "title": "Covenant sealed in blood",
+            "refs": [
+              "Exod 24"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Tabernacle, rebellion and renewal",
+        "refs": [
+          "Exod 25-40"
+        ],
+        "children": [
+          {
+            "title": "Instructions for tabernacle and priesthood",
+            "refs": [
+              "Exod 25-31"
+            ]
+          },
+          {
+            "title": "Golden calf and covenant renewal",
+            "refs": [
+              "Exod 32-34"
+            ]
+          },
+          {
+            "title": "Building the tabernacle; the glory fills it",
+            "refs": [
+              "Exod 35-40"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Exod 3:14",
+      "Exod 12:13",
+      "Exod 14:13-14",
+      "Exod 19:5-6",
+      "Exod 20:1-17",
+      "Exod 34:6-7",
+      "Exod 40:34-38"
+    ],
+    "bigStory": "The exodus becomes the Bible's defining picture of salvation: God rescues slaves, makes them his people and comes to live among them. The prophets describe the return from exile as a new exodus, and the New Testament presents Jesus' death at Passover as the decisive redemption, with Jesus himself as the true dwelling of God among humans.",
+    "canonNote": "Second book of the Torah. The Hebrew title *Shemot* ('Names') comes from its opening words; 'Exodus' ('going out') is from the Septuagint. The Septuagint's arrangement of the tabernacle-building chapters (Exod 35-40) differs noticeably from the Hebrew."
+  },
+  {
+    "id": "leviticus",
+    "abbr": "Lev",
+    "name": "Leviticus",
+    "testament": "OT",
+    "genre": "Law and ritual instruction (priestly manual with brief narrative)",
+    "authorship": {
+      "traditional": "Moses, receiving the instructions from the LORD at the tent of meeting; the book repeatedly opens sections with 'the LORD spoke unto Moses' (Lev 1:1).",
+      "scholarly": "Almost entirely assigned to the Priestly source (P). Lev 17-26 is widely recognised as a distinct 'Holiness Code' (H). Scholars such as Israel Knohl and Jacob Milgrom argued that H is later than P and edited it; others reverse the order. Dates range from the late monarchy (some Jewish scholars, e.g. Milgrom, argued for pre-exilic P) to the exile or Persian period."
+    },
+    "date": {
+      "year": -1445,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Mosaic, late exodus chronology",
+          "year": -1260
+        },
+        {
+          "label": "Pre-exilic priestly composition (Milgrom and others)",
+          "year": -700
+        },
+        {
+          "label": "Exilic/Persian-period Priestly writing",
+          "year": -500
+        }
+      ]
+    },
+    "audience": "The priests and the people of Israel, who must learn how a holy God can live among them and how they are to live as his holy people.",
+    "setting": "At Mount Sinai, during the month after the tabernacle was set up (compare Exod 40:17 and Num 1:1).",
+    "purpose": "To regulate sacrifice, priesthood, purity and the festivals so that Israel can approach God and remain in his presence, and to call the whole nation to holiness in daily, social and moral life.",
+    "themes": [
+      "Holiness of God and of his people",
+      "Sacrifice and atonement",
+      "Clean and unclean; purity and impurity",
+      "Priesthood and mediation",
+      "Love of neighbour and justice in community",
+      "Sacred time: Sabbath, festivals and Jubilee"
+    ],
+    "outline": [
+      {
+        "title": "Laws of the offerings",
+        "refs": [
+          "Lev 1-7"
+        ]
+      },
+      {
+        "title": "Ordination of the priests",
+        "refs": [
+          "Lev 8-10"
+        ],
+        "children": [
+          {
+            "title": "Aaron and his sons ordained",
+            "refs": [
+              "Lev 8-9"
+            ]
+          },
+          {
+            "title": "Nadab and Abihu's strange fire",
+            "refs": [
+              "Lev 10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Clean and unclean",
+        "refs": [
+          "Lev 11-15"
+        ]
+      },
+      {
+        "title": "Day of Atonement",
+        "refs": [
+          "Lev 16"
+        ]
+      },
+      {
+        "title": "Holiness Code",
+        "refs": [
+          "Lev 17-26"
+        ],
+        "children": [
+          {
+            "title": "Blood, sexual ethics and neighbour-love",
+            "refs": [
+              "Lev 17-20"
+            ]
+          },
+          {
+            "title": "Priestly holiness",
+            "refs": [
+              "Lev 21-22"
+            ]
+          },
+          {
+            "title": "Festivals",
+            "refs": [
+              "Lev 23"
+            ]
+          },
+          {
+            "title": "Sabbath year and Jubilee",
+            "refs": [
+              "Lev 25"
+            ]
+          },
+          {
+            "title": "Blessings and curses",
+            "refs": [
+              "Lev 26"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vows and dedications",
+        "refs": [
+          "Lev 27"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Lev 11:44-45",
+      "Lev 16:29-34",
+      "Lev 17:11",
+      "Lev 19:2",
+      "Lev 19:18",
+      "Lev 25:10",
+      "Lev 26:11-12"
+    ],
+    "bigStory": "Leviticus answers the question raised at the end of Exodus: how can a holy God dwell among sinful people? Its sacrifices, priesthood and Day of Atonement form the vocabulary the New Testament uses for Christ's death (especially Hebrews), and its command to love one's neighbour is quoted by Jesus as the second great commandment.",
+    "canonNote": "Third book of the Torah. Its Hebrew title *Vayikra* ('And he called') is its first word. In traditional Jewish education children often began Torah study with Leviticus."
+  },
+  {
+    "id": "numbers",
+    "abbr": "Num",
+    "name": "Numbers",
+    "testament": "OT",
+    "genre": "Narrative with law, census lists and itineraries",
+    "authorship": {
+      "traditional": "Moses, who is said to have recorded the stages of Israel's journey (Num 33:2).",
+      "scholarly": "A composite of Priestly material (census lists, camp arrangement, ritual law) and non-Priestly narratives (spies, Balaam, rebellions). The Balaam oracles (Num 23-24) are often considered among the older poetry in the Pentateuch, and an inscription from Deir Alla (8th c. BC) mentions a seer named Balaam son of Beor. Final compilation is commonly dated to the exile or Persian period."
+    },
+    "date": {
+      "year": -1406,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Mosaic, late exodus chronology",
+          "year": -1220
+        },
+        {
+          "label": "Exilic/Persian-period compilation",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Israel on the edge of the promised land, warned by the failure of the exodus generation and encouraged by God's faithfulness to the next one.",
+    "setting": "Nearly forty years of wilderness wandering, from Sinai to Kadesh-barnea and finally the plains of Moab across the Jordan from Jericho.",
+    "purpose": "To show how unbelief kept a whole generation out of the land, while God kept his promise to bring their children in, and to prepare the new generation with fresh census, laws and leadership.",
+    "themes": [
+      "Ordered camp around God's presence",
+      "Grumbling, unbelief and judgment",
+      "God's faithfulness despite Israel's failure",
+      "Holiness and the role of priests and Levites",
+      "Blessing that cannot be cursed"
+    ],
+    "outline": [
+      {
+        "title": "Preparing to leave Sinai",
+        "refs": [
+          "Num 1:1-10:10"
+        ],
+        "children": [
+          {
+            "title": "First census and camp arrangement",
+            "refs": [
+              "Num 1-4"
+            ]
+          },
+          {
+            "title": "Purity, Nazirite vow and priestly blessing",
+            "refs": [
+              "Num 5-6"
+            ]
+          },
+          {
+            "title": "Dedication, Passover and the cloud",
+            "refs": [
+              "Num 7:1-10:10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Wilderness rebellion",
+        "refs": [
+          "Num 10:11-21:35"
+        ],
+        "children": [
+          {
+            "title": "Complaints and Miriam and Aaron's challenge",
+            "refs": [
+              "Num 11-12"
+            ]
+          },
+          {
+            "title": "The spies and the refusal at Kadesh",
+            "refs": [
+              "Num 13-14"
+            ]
+          },
+          {
+            "title": "Korah's rebellion and Aaron's rod",
+            "refs": [
+              "Num 16-17"
+            ]
+          },
+          {
+            "title": "Water from the rock; Moses barred from the land",
+            "refs": [
+              "Num 20"
+            ]
+          },
+          {
+            "title": "The bronze serpent and early victories",
+            "refs": [
+              "Num 21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "On the plains of Moab",
+        "refs": [
+          "Num 22:1-36:13"
+        ],
+        "children": [
+          {
+            "title": "Balaam's oracles",
+            "refs": [
+              "Num 22-24"
+            ]
+          },
+          {
+            "title": "Apostasy at Peor",
+            "refs": [
+              "Num 25"
+            ]
+          },
+          {
+            "title": "Second census and Joshua commissioned",
+            "refs": [
+              "Num 26-27"
+            ]
+          },
+          {
+            "title": "Offerings, vows, Midian, Transjordan tribes",
+            "refs": [
+              "Num 28-32"
+            ]
+          },
+          {
+            "title": "Itinerary and land arrangements",
+            "refs": [
+              "Num 33-36"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Num 6:24-26",
+      "Num 14:20-24",
+      "Num 20:10-12",
+      "Num 21:4-9",
+      "Num 23:19",
+      "Num 24:17"
+    ],
+    "bigStory": "Numbers is the story of a redeemed people who still fail to trust God, and of a God who disciplines but does not abandon them. Its wilderness episodes become warnings for later believers (1 Cor 10:1-11; Heb 3:7-19), and Jesus uses the bronze serpent as a picture of his own lifting up (John 3:14-15).",
+    "canonNote": "Fourth book of the Torah. The Hebrew title *Bemidbar* ('In the wilderness') better describes its contents than the Greek-derived 'Numbers', which refers to the two censuses."
+  },
+  {
+    "id": "deuteronomy",
+    "abbr": "Deut",
+    "name": "Deuteronomy",
+    "testament": "OT",
+    "genre": "Covenant sermons and law (farewell addresses of Moses)",
+    "authorship": {
+      "traditional": "Moses, who is said to have written 'this law' and given it to the priests (Deut 31:9; Deut 31:24). The account of his death (Deut 34) is usually credited to Joshua or a later editor, a view found already in the Talmud.",
+      "scholarly": "Since W. M. L. de Wette (1805) most critical scholars have connected Deuteronomy with the 'book of the law' found in the temple under Josiah in 622 BC (2 Kgs 22:8), seeing a core (roughly Deut 12-26) composed in the 7th century and framed later. Its structure resembles ancient Near Eastern treaties; scholars debate whether its closest parallels are 2nd-millennium Hittite vassal treaties (favouring an early date) or 7th-century Neo-Assyrian loyalty oaths such as Esarhaddon's (favouring a later date). Deuteronomy also supplies the theological lens of the 'Deuteronomistic History' (Joshua–Kings)."
+    },
+    "date": {
+      "year": -1406,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Mosaic, late exodus chronology",
+          "year": -1220
+        },
+        {
+          "label": "Core edition linked to Josiah's reform",
+          "year": -622
+        },
+        {
+          "label": "Exilic framing and final edition",
+          "year": -560
+        }
+      ]
+    },
+    "audience": "The new generation of Israel about to enter Canaan, and by extension every later generation called to choose covenant faithfulness ('not with our fathers... but with us', Deut 5:3).",
+    "setting": "The plains of Moab, east of the Jordan, in the final weeks of Moses' life.",
+    "purpose": "To renew the Sinai covenant with a new generation, urging wholehearted love for the one God, loyalty to a single place of worship, justice for the vulnerable, and obedience as the path of life in the land.",
+    "themes": [
+      "The one God and wholehearted love for him (the Shema)",
+      "Covenant blessing and curse",
+      "Remembering God's acts and teaching the next generation",
+      "One central sanctuary and rejection of idolatry",
+      "Care for the poor, widow, orphan and stranger",
+      "Choosing life"
+    ],
+    "outline": [
+      {
+        "title": "First address: looking back on the journey",
+        "refs": [
+          "Deut 1:1-4:43"
+        ]
+      },
+      {
+        "title": "Second address: the covenant law",
+        "refs": [
+          "Deut 4:44-28:68"
+        ],
+        "children": [
+          {
+            "title": "Ten Commandments and the Shema",
+            "refs": [
+              "Deut 5-6"
+            ]
+          },
+          {
+            "title": "Exhortations to love and remember",
+            "refs": [
+              "Deut 7-11"
+            ]
+          },
+          {
+            "title": "Statutes and judgments",
+            "refs": [
+              "Deut 12-26"
+            ]
+          },
+          {
+            "title": "Ceremony at Shechem; blessings and curses",
+            "refs": [
+              "Deut 27-28"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Third address: covenant in Moab",
+        "refs": [
+          "Deut 29-30"
+        ]
+      },
+      {
+        "title": "Moses' last days",
+        "refs": [
+          "Deut 31-34"
+        ],
+        "children": [
+          {
+            "title": "Joshua commissioned; the law deposited",
+            "refs": [
+              "Deut 31"
+            ]
+          },
+          {
+            "title": "Song of Moses",
+            "refs": [
+              "Deut 32"
+            ]
+          },
+          {
+            "title": "Blessing of the tribes",
+            "refs": [
+              "Deut 33"
+            ]
+          },
+          {
+            "title": "Death of Moses on Nebo",
+            "refs": [
+              "Deut 34"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Deut 6:4-9",
+      "Deut 7:6-8",
+      "Deut 8:3",
+      "Deut 10:12-13",
+      "Deut 18:15",
+      "Deut 30:19-20",
+      "Deut 34:10-12"
+    ],
+    "bigStory": "Deuteronomy is the covenant charter by which the rest of Israel's history is judged: Joshua through Kings measure kings and people by its standards, and the prophets call Israel back to it. Jesus answers each of Satan's temptations with words from Deuteronomy and names its Shema as the greatest commandment, while its promise of a prophet like Moses is applied to Jesus in Acts 3:22-23.",
+    "canonNote": "Fifth and last book of the Torah. Its Hebrew name *Devarim* ('Words') comes from its opening; 'Deuteronomy' ('second law') arose from the Septuagint's rendering of Deut 17:18 ('a copy of this law'). Fragments of some thirty Deuteronomy manuscripts were found among the Dead Sea Scrolls, making it one of the best-attested books there."
+  },
+  {
+    "id": "joshua",
+    "abbr": "Josh",
+    "name": "Joshua",
+    "testament": "OT",
+    "genre": "Historical narrative with land-allotment lists",
+    "authorship": {
+      "traditional": "Joshua, according to the Talmud (Baba Bathra 15a), with the account of his death added by Eleazar and Phinehas. The book notes that Joshua wrote covenant words in 'the book of the law of God' (Josh 24:26).",
+      "scholarly": "Most critical scholars treat Joshua as part of the Deuteronomistic History (Martin Noth, 1943), a work shaped by Deuteronomy's theology and compiled in the late monarchy and/or exile, using older traditions, boundary lists and local stories. Scholars debate the book's relation to archaeology: some propose a sweeping conquest, others a gradual infiltration of pastoralists, or an emergence of Israel largely from within Canaanite society; conservative scholars argue the text itself describes partial conquest followed by long settlement (Josh 13:1)."
+    },
+    "date": {
+      "year": -1370,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Shortly after the events on a late exodus chronology",
+          "year": -1180
+        },
+        {
+          "label": "Josianic edition of the Deuteronomistic History",
+          "year": -620
+        },
+        {
+          "label": "Exilic edition",
+          "year": -560
+        }
+      ]
+    },
+    "audience": "Israel, reminded that the land was God's gift and that keeping it depended on covenant loyalty; for an exilic audience, an explanation of what was lost and why.",
+    "setting": "Canaan after the death of Moses: the Jordan crossing at Gilgal, campaigns at Jericho, Ai, Gibeon and in the south and north (Hazor), and the tribal allotments administered from Shiloh.",
+    "purpose": "To show God fulfilling his promise of land to Abraham's descendants, to present Joshua as Moses' faithful successor, and to call Israel to choose to serve the LORD alone.",
+    "themes": [
+      "God fulfils his promises",
+      "The land as gift and inheritance",
+      "Courage grounded in obedience to the law",
+      "Holy war and the ban (herem)",
+      "Outsiders who join Israel by faith (Rahab) and insiders who are cut off (Achan)",
+      "Covenant choice"
+    ],
+    "outline": [
+      {
+        "title": "Entering the land",
+        "refs": [
+          "Josh 1-5"
+        ],
+        "children": [
+          {
+            "title": "Joshua commissioned",
+            "refs": [
+              "Josh 1"
+            ]
+          },
+          {
+            "title": "Rahab and the spies",
+            "refs": [
+              "Josh 2"
+            ]
+          },
+          {
+            "title": "Crossing the Jordan; memorial stones",
+            "refs": [
+              "Josh 3-4"
+            ]
+          },
+          {
+            "title": "Circumcision and Passover at Gilgal",
+            "refs": [
+              "Josh 5"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Taking the land",
+        "refs": [
+          "Josh 6-12"
+        ],
+        "children": [
+          {
+            "title": "Jericho",
+            "refs": [
+              "Josh 6"
+            ]
+          },
+          {
+            "title": "Achan's sin and Ai",
+            "refs": [
+              "Josh 7-8"
+            ]
+          },
+          {
+            "title": "Gibeonite treaty and the southern campaign",
+            "refs": [
+              "Josh 9-10"
+            ]
+          },
+          {
+            "title": "Northern campaign and list of kings",
+            "refs": [
+              "Josh 11-12"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Dividing the land",
+        "refs": [
+          "Josh 13-21"
+        ]
+      },
+      {
+        "title": "Farewell and covenant renewal",
+        "refs": [
+          "Josh 22-24"
+        ],
+        "children": [
+          {
+            "title": "Altar of the eastern tribes",
+            "refs": [
+              "Josh 22"
+            ]
+          },
+          {
+            "title": "Joshua's farewell speech",
+            "refs": [
+              "Josh 23"
+            ]
+          },
+          {
+            "title": "Covenant at Shechem",
+            "refs": [
+              "Josh 24"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Josh 1:8-9",
+      "Josh 2:11",
+      "Josh 3:17",
+      "Josh 6:20",
+      "Josh 21:43-45",
+      "Josh 24:14-15"
+    ],
+    "bigStory": "Joshua shows the promise to Abraham reaching a first fulfilment as Israel enters the land, yet Hebrews notes that Joshua did not give the people final 'rest' (Heb 4:8-9). His Hebrew name is the same as Jesus' (Yeshua, 'the LORD saves'), and Rahab, a Canaanite, appears in Jesus' genealogy (Matt 1:5).",
+    "canonNote": "In the Hebrew Bible Joshua opens the 'Former Prophets' (Joshua, Judges, Samuel, Kings), so it is read as prophetic history. The Septuagint text differs from the Hebrew in places, and a Joshua scroll from Qumran (4QJosh-a) places the altar-building of Josh 8:30-35 at a different point in the story."
+  },
+  {
+    "id": "judges",
+    "abbr": "Judg",
+    "name": "Judges",
+    "testament": "OT",
+    "genre": "Historical narrative (cyclical hero stories with prologue and epilogue)",
+    "authorship": {
+      "traditional": "Samuel, according to the Talmud (Baba Bathra 14b). The repeated refrain 'in those days there was no king in Israel' (Judg 17:6; Judg 21:25) suggests a writer living under the monarchy.",
+      "scholarly": "Widely regarded as part of the Deuteronomistic History, combining old hero stories (including the Song of Deborah, Judg 5, often considered among the oldest Hebrew poetry) within a Deuteronomistic framework of sin, oppression, crying out and deliverance. Some scholars detect a pro-Judah, pro-Davidic editing in the epilogue, which casts Benjamin (Saul's tribe) in a poor light."
+    },
+    "date": {
+      "year": -1000,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Josianic edition of the Deuteronomistic History",
+          "year": -620
+        },
+        {
+          "label": "Exilic edition",
+          "year": -560
+        }
+      ]
+    },
+    "audience": "Israel under (or longing for) a king, shown what happens when the people forget the LORD and everyone does what is right in his own eyes.",
+    "setting": "Canaan between Joshua's death and the rise of Samuel, a period of local tribal leaders, foreign oppressors (Moabites, Canaanites, Midianites, Ammonites, Philistines) and weak central authority, roughly the 14th–11th centuries BC on the early chronology or 12th–11th on the late one.",
+    "purpose": "To explain Israel's downward spiral after the conquest, to show God's patience in raising deliverers again and again, and to point to the need for faithful leadership, ultimately a king after God's heart.",
+    "themes": [
+      "The cycle of apostasy, oppression, repentance and deliverance",
+      "God's mercy in raising flawed deliverers",
+      "Moral and social decline",
+      "The Spirit of the LORD empowering leaders",
+      "The need for righteous kingship"
+    ],
+    "outline": [
+      {
+        "title": "Incomplete conquest and the pattern explained",
+        "refs": [
+          "Judg 1:1-3:6"
+        ]
+      },
+      {
+        "title": "The judges",
+        "refs": [
+          "Judg 3:7-16:31"
+        ],
+        "children": [
+          {
+            "title": "Othniel, Ehud and Shamgar",
+            "refs": [
+              "Judg 3:7-31"
+            ]
+          },
+          {
+            "title": "Deborah, Barak and Jael",
+            "refs": [
+              "Judg 4-5"
+            ]
+          },
+          {
+            "title": "Gideon and Abimelech",
+            "refs": [
+              "Judg 6-9"
+            ]
+          },
+          {
+            "title": "Jephthah and minor judges",
+            "refs": [
+              "Judg 10-12"
+            ]
+          },
+          {
+            "title": "Samson",
+            "refs": [
+              "Judg 13-16"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Epilogue: no king in Israel",
+        "refs": [
+          "Judg 17-21"
+        ],
+        "children": [
+          {
+            "title": "Micah's idol and the Danite migration",
+            "refs": [
+              "Judg 17-18"
+            ]
+          },
+          {
+            "title": "The Levite's concubine and civil war against Benjamin",
+            "refs": [
+              "Judg 19-21"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Judg 2:11-19",
+      "Judg 4:4-5",
+      "Judg 6:12",
+      "Judg 16:28-30",
+      "Judg 17:6",
+      "Judg 21:25"
+    ],
+    "bigStory": "Judges shows that even after receiving the land, Israel cannot keep the covenant on its own, and that each deliverer is only a temporary rescue. The book's cry for a true king opens the way to Samuel and David, and Hebrews lists Gideon, Barak, Samson and Jephthah among those who acted by faith (Heb 11:32).",
+    "canonNote": "Second book of the Former Prophets in the Hebrew Bible. The Septuagint survives in two notably different Greek forms for Judges, often printed side by side in modern editions."
+  },
+  {
+    "id": "ruth",
+    "abbr": "Ruth",
+    "name": "Ruth",
+    "testament": "OT",
+    "genre": "Narrative short story",
+    "authorship": {
+      "traditional": "Samuel, according to the Talmud (Baba Bathra 14b).",
+      "scholarly": "Anonymous. The genealogy ending with David (Ruth 4:17-22) places composition at least in David's time. Some scholars date it to the monarchy on grounds of its classical Hebrew style; others place it after the exile, reading it as a gentle protest against the hard line on foreign marriages in Ezra and Nehemiah. A few have suggested a woman's perspective, given its focus on women's initiative, though this cannot be proved."
+    },
+    "date": {
+      "year": -950,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Late monarchy",
+          "year": -700
+        },
+        {
+          "label": "Post-exilic (Persian period)",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Israelites who need to see God's quiet providence in ordinary life and to remember that David's line includes a Moabite woman who chose Israel's God.",
+    "setting": "Moab and Bethlehem 'in the days when the judges ruled' (Ruth 1:1), during a famine and the barley and wheat harvests that followed.",
+    "purpose": "To show how God's covenant kindness (Hebrew *hesed*) works through the loyal love of ordinary people, to model the kinsman-redeemer, and to trace the ancestry of David.",
+    "themes": [
+      "Loyal covenant love (hesed)",
+      "Redemption by a kinsman-redeemer",
+      "God's hidden providence",
+      "Inclusion of a foreigner in God's people",
+      "From emptiness to fullness"
+    ],
+    "outline": [
+      {
+        "title": "Loss in Moab and Ruth's pledge",
+        "refs": [
+          "Ruth 1"
+        ]
+      },
+      {
+        "title": "Ruth gleans in Boaz's field",
+        "refs": [
+          "Ruth 2"
+        ]
+      },
+      {
+        "title": "At the threshing floor",
+        "refs": [
+          "Ruth 3"
+        ]
+      },
+      {
+        "title": "Boaz redeems at the gate",
+        "refs": [
+          "Ruth 4:1-12"
+        ]
+      },
+      {
+        "title": "Birth of Obed and the line of David",
+        "refs": [
+          "Ruth 4:13-22"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Ruth 1:16-17",
+      "Ruth 2:12",
+      "Ruth 3:9",
+      "Ruth 4:13-17",
+      "Ruth 4:18-22"
+    ],
+    "bigStory": "Ruth links the chaos of Judges to the kingship of David, showing God preparing Israel's royal line through faithful love in a small town. Matthew includes Ruth in the genealogy of Jesus (Matt 1:5), and Christian interpreters have long seen Boaz the redeemer as a picture of Christ.",
+    "canonNote": "In Christian Bibles (following the Septuagint) Ruth comes after Judges. In the Hebrew Bible it belongs to the Writings among the five Megillot ('scrolls') and is read at the festival of Shavuot (Weeks); in some Jewish orderings it stands before Psalms, as a prologue to David."
+  },
+  {
+    "id": "1-samuel",
+    "abbr": "1 Sam",
+    "name": "1 Samuel",
+    "testament": "OT",
+    "genre": "Historical narrative",
+    "authorship": {
+      "traditional": "Samuel for the material up to his death, completed by the prophets Nathan and Gad, according to the Talmud (Baba Bathra 15a), drawing on 1 Chr 29:29.",
+      "scholarly": "Part of the Deuteronomistic History, incorporating earlier blocks that scholars have named the Ark Narrative (roughly 1 Sam 4-6 with 2 Sam 6), the History of David's Rise (roughly 1 Sam 16 to 2 Sam 5) and the Succession Narrative (2 Sam 9-20 with 1 Kgs 1-2). Many see a pro-Davidic apology defending David's claim against Saul's house; others stress that the text is unusually frank about David's faults."
+    },
+    "date": {
+      "year": -930,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Josianic edition of the Deuteronomistic History",
+          "year": -620
+        },
+        {
+          "label": "Exilic edition",
+          "year": -560
+        }
+      ]
+    },
+    "audience": "Israel reflecting on the origins of its monarchy: why kingship came, why Saul's dynasty failed and why David's was chosen.",
+    "setting": "The transition from the judges to the monarchy, roughly 1100–1010 BC, centred on Shiloh, Ramah, Gibeah, the Philistine frontier and David's wilderness hideouts.",
+    "purpose": "To show God raising up Samuel as prophet, granting Israel a king while warning of the costs, rejecting Saul for disobedience and choosing David, a man after his own heart.",
+    "themes": [
+      "God reverses fortunes: humbles the proud, lifts the lowly",
+      "Prophet and king: the word of God over royal power",
+      "Obedience better than sacrifice",
+      "God looks on the heart",
+      "The LORD's anointed and the refusal to seize power"
+    ],
+    "outline": [
+      {
+        "title": "Samuel: the last judge",
+        "refs": [
+          "1 Sam 1-7"
+        ],
+        "children": [
+          {
+            "title": "Hannah's prayer and Samuel's birth",
+            "refs": [
+              "1 Sam 1-2"
+            ]
+          },
+          {
+            "title": "Samuel's call; judgment on Eli's house",
+            "refs": [
+              "1 Sam 3"
+            ]
+          },
+          {
+            "title": "The ark captured and returned",
+            "refs": [
+              "1 Sam 4-6"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Saul: the first king",
+        "refs": [
+          "1 Sam 8-15"
+        ],
+        "children": [
+          {
+            "title": "Israel asks for a king",
+            "refs": [
+              "1 Sam 8"
+            ]
+          },
+          {
+            "title": "Saul anointed and confirmed",
+            "refs": [
+              "1 Sam 9-12"
+            ]
+          },
+          {
+            "title": "Saul's disobedience and rejection",
+            "refs": [
+              "1 Sam 13-15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "David and Saul",
+        "refs": [
+          "1 Sam 16-31"
+        ],
+        "children": [
+          {
+            "title": "David anointed; Goliath",
+            "refs": [
+              "1 Sam 16-17"
+            ]
+          },
+          {
+            "title": "Saul's jealousy; Jonathan's friendship",
+            "refs": [
+              "1 Sam 18-20"
+            ]
+          },
+          {
+            "title": "David the fugitive spares Saul",
+            "refs": [
+              "1 Sam 21-26"
+            ]
+          },
+          {
+            "title": "David among the Philistines; Saul at Endor and Gilboa",
+            "refs": [
+              "1 Sam 27-31"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Sam 2:1-10",
+      "1 Sam 3:10",
+      "1 Sam 8:7",
+      "1 Sam 15:22-23",
+      "1 Sam 16:7",
+      "1 Sam 17:45-47",
+      "1 Sam 24:6"
+    ],
+    "bigStory": "1 Samuel moves Israel from tribal confederation to kingship and introduces David, the king through whom God will make an everlasting covenant. Hannah's song of reversal is echoed in Mary's Magnificat (Luke 1:46-55), and the theme of God choosing the overlooked shepherd boy anticipates the Messiah, 'son of David'.",
+    "canonNote": "1 and 2 Samuel are one book in the Hebrew Bible, belonging to the Former Prophets. The Septuagint divided it and called Samuel and Kings '1–4 Kingdoms' (Latin '1–4 Kings'). The Septuagint's account of David and Goliath (1 Sam 17-18) is considerably shorter than the Hebrew, and the Qumran Samuel scroll 4QSam-a preserves readings closer to the Greek in many places."
+  },
+  {
+    "id": "2-samuel",
+    "abbr": "2 Sam",
+    "name": "2 Samuel",
+    "testament": "OT",
+    "genre": "Historical narrative (court history) with poetry",
+    "authorship": {
+      "traditional": "Completed by the prophets Nathan and Gad after Samuel's death, according to the Talmud (Baba Bathra 15a), drawing on 1 Chr 29:29.",
+      "scholarly": "Part of the Deuteronomistic History. Leonhard Rost (1926) identified a 'Succession Narrative' (2 Sam 9-20 with 1 Kgs 1-2), often praised as a masterpiece of early Hebrew prose; scholars debate whether it is an eyewitness-era court history, a later critique of the monarchy, or pro-Solomonic propaganda. 2 Sam 21-24 is widely seen as an appendix of miscellaneous material."
+    },
+    "date": {
+      "year": -930,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Josianic edition of the Deuteronomistic History",
+          "year": -620
+        },
+        {
+          "label": "Exilic edition",
+          "year": -560
+        }
+      ]
+    },
+    "audience": "Israel looking back on its greatest king and on the divine promise that his dynasty would endure.",
+    "setting": "David's reign, roughly 1010–970 BC: first at Hebron over Judah, then from Jerusalem over all Israel, with wars against Philistines, Ammonites and Arameans and revolts led by Absalom and Sheba.",
+    "purpose": "To record God's covenant with David, to show how the kingdom was established in Jerusalem, and to reveal honestly the consequences of David's sin within his own family.",
+    "themes": [
+      "The Davidic covenant: an everlasting house and throne",
+      "Jerusalem as the city of God and king",
+      "Sin, confession and lasting consequences",
+      "God's sovereignty in political turmoil",
+      "Grief and mercy in leadership"
+    ],
+    "outline": [
+      {
+        "title": "David king over Judah",
+        "refs": [
+          "2 Sam 1-4"
+        ]
+      },
+      {
+        "title": "David's kingdom established",
+        "refs": [
+          "2 Sam 5-10"
+        ],
+        "children": [
+          {
+            "title": "King over Israel; Jerusalem captured",
+            "refs": [
+              "2 Sam 5"
+            ]
+          },
+          {
+            "title": "Ark brought to Jerusalem",
+            "refs": [
+              "2 Sam 6"
+            ]
+          },
+          {
+            "title": "God's covenant with David",
+            "refs": [
+              "2 Sam 7"
+            ]
+          },
+          {
+            "title": "Victories and kindness to Mephibosheth",
+            "refs": [
+              "2 Sam 8-10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "David, Bathsheba and Nathan",
+        "refs": [
+          "2 Sam 11-12"
+        ]
+      },
+      {
+        "title": "Turmoil in David's house",
+        "refs": [
+          "2 Sam 13-20"
+        ],
+        "children": [
+          {
+            "title": "Amnon, Tamar and Absalom",
+            "refs": [
+              "2 Sam 13-14"
+            ]
+          },
+          {
+            "title": "Absalom's revolt and death",
+            "refs": [
+              "2 Sam 15-19"
+            ]
+          },
+          {
+            "title": "Sheba's revolt",
+            "refs": [
+              "2 Sam 20"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Appendix: famine, songs, heroes, census",
+        "refs": [
+          "2 Sam 21-24"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Sam 5:3-5",
+      "2 Sam 6:14-15",
+      "2 Sam 7:12-16",
+      "2 Sam 11:27",
+      "2 Sam 12:7",
+      "2 Sam 12:13",
+      "2 Sam 18:33",
+      "2 Sam 22:2-3"
+    ],
+    "bigStory": "The promise of 2 Sam 7, that David's son would reign forever, becomes the backbone of Israel's messianic hope through the prophets and Psalms. The New Testament opens by calling Jesus 'the son of David' (Matt 1:1), and Gabriel promises Mary that her son will receive 'the throne of his father David' (Luke 1:32-33).",
+    "canonNote": "Second half of the single Hebrew book of Samuel (Former Prophets); '2 Kingdoms' in the Septuagint. Much of 2 Samuel is paralleled, with omissions and changes, in 1 Chronicles. 2 Sam 22 is nearly identical to Ps 18."
+  },
+  {
+    "id": "1-kings",
+    "abbr": "1 Kgs",
+    "name": "1 Kings",
+    "testament": "OT",
+    "genre": "Historical narrative (royal annals with prophetic stories)",
+    "authorship": {
+      "traditional": "Jeremiah, according to the Talmud (Baba Bathra 15a). The book cites earlier written sources: the Book of the Acts of Solomon (1 Kgs 11:41) and the chronicles of the kings of Israel and of Judah.",
+      "scholarly": "The central part of the Deuteronomistic History. Major models include Noth's single exilic author, Frank Moore Cross's two editions (a Josianic edition celebrating Josiah, updated in exile), and the Göttingen school's several exilic layers (historical, prophetic and nomistic). Most agree it drew on royal annals and prophetic story collections."
+    },
+    "date": {
+      "year": -560,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "First (Josianic) edition, on Cross's model",
+          "year": -620
+        },
+        {
+          "label": "Traditional view: compiled by Jeremiah in exile",
+          "year": -570
+        }
+      ]
+    },
+    "audience": "Israelites in or after the exile asking why the kingdom divided and fell, read in light of the covenant demands of Deuteronomy.",
+    "setting": "From David's death and Solomon's accession (c. 970 BC) through the divided kingdoms to the death of Ahab of Israel and the reign of Jehoshaphat of Judah (mid 9th century BC).",
+    "purpose": "To evaluate each king by loyalty to the LORD and to worship at the Jerusalem temple, to show prophets as God's covenant enforcers, and to explain how idolatry led to division and decline.",
+    "themes": [
+      "Wisdom and the temple",
+      "Covenant faithfulness of the king",
+      "Division of the kingdom as judgment",
+      "The prophetic word fulfilled in history",
+      "The LORD versus Baal"
+    ],
+    "outline": [
+      {
+        "title": "Solomon's reign",
+        "refs": [
+          "1 Kgs 1-11"
+        ],
+        "children": [
+          {
+            "title": "Succession struggle",
+            "refs": [
+              "1 Kgs 1-2"
+            ]
+          },
+          {
+            "title": "Solomon's wisdom",
+            "refs": [
+              "1 Kgs 3-4"
+            ]
+          },
+          {
+            "title": "Building and dedicating the temple",
+            "refs": [
+              "1 Kgs 5-8"
+            ]
+          },
+          {
+            "title": "Splendour and decline",
+            "refs": [
+              "1 Kgs 9-11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The kingdom divided",
+        "refs": [
+          "1 Kgs 12-16"
+        ],
+        "children": [
+          {
+            "title": "Rehoboam and Jeroboam; golden calves",
+            "refs": [
+              "1 Kgs 12-14"
+            ]
+          },
+          {
+            "title": "Kings of Judah and Israel to Ahab",
+            "refs": [
+              "1 Kgs 15-16"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Elijah and Ahab",
+        "refs": [
+          "1 Kgs 17-22"
+        ],
+        "children": [
+          {
+            "title": "Drought and the widow of Zarephath",
+            "refs": [
+              "1 Kgs 17"
+            ]
+          },
+          {
+            "title": "Contest on Mount Carmel",
+            "refs": [
+              "1 Kgs 18"
+            ]
+          },
+          {
+            "title": "Elijah at Horeb",
+            "refs": [
+              "1 Kgs 19"
+            ]
+          },
+          {
+            "title": "Naboth's vineyard; Micaiah and Ahab's death",
+            "refs": [
+              "1 Kgs 20-22"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Kgs 3:9",
+      "1 Kgs 8:27",
+      "1 Kgs 9:4-5",
+      "1 Kgs 11:11",
+      "1 Kgs 12:16",
+      "1 Kgs 18:21",
+      "1 Kgs 19:11-12"
+    ],
+    "bigStory": "1 Kings shows the high point of Israel's monarchy in Solomon's temple and its swift unravelling through idolatry, setting up the long road to exile. Jesus points to himself as 'greater than Solomon' (Matt 12:42) and the true temple, and Elijah reappears in the expectation of a returning prophet fulfilled, in the Gospels' view, in John the Baptist.",
+    "canonNote": "1 and 2 Kings form one book in the Hebrew Bible and close the Former Prophets. The Septuagint calls them 3 and 4 Kingdoms and has significant differences of order and content in the Solomon and Jeroboam chapters."
+  },
+  {
+    "id": "2-kings",
+    "abbr": "2 Kgs",
+    "name": "2 Kings",
+    "testament": "OT",
+    "genre": "Historical narrative (royal annals with prophetic stories)",
+    "authorship": {
+      "traditional": "Jeremiah, according to the Talmud (Baba Bathra 15a), with the final chapter possibly added by a later hand; 2 Kgs 24:18-25:30 closely matches Jer 52.",
+      "scholarly": "The conclusion of the Deuteronomistic History. On Cross's double-redaction model, a first edition climaxed with Josiah's reform (2 Kgs 22-23) and an exilic editor added the fall of Jerusalem; Noth argued for a single exilic author; the Göttingen school sees multiple exilic layers. The last event recorded, the release of Jehoiachin by Evil-merodach (c. 561 BC), sets the earliest date for the final form."
+    },
+    "date": {
+      "year": -560,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "First (Josianic) edition, on Cross's model",
+          "year": -620
+        }
+      ]
+    },
+    "audience": "Judeans in Babylonian exile, needing to understand why Israel and Judah fell and whether any hope remained for David's line.",
+    "setting": "From the mid 9th century (Ahaziah of Israel, Elisha's ministry) through the fall of Samaria to Assyria (722 BC) to the fall of Jerusalem to Babylon (586 BC) and the exile.",
+    "purpose": "To justify God's judgment by showing persistent covenant unfaithfulness despite repeated prophetic warnings, to honour reforming kings like Hezekiah and Josiah, and to leave a flicker of hope in the release of David's heir.",
+    "themes": [
+      "The power of the prophetic word (Elijah and Elisha)",
+      "Covenant unfaithfulness leading to exile",
+      "Reform and its limits",
+      "God's patience and final judgment",
+      "Hope for David's line"
+    ],
+    "outline": [
+      {
+        "title": "Elisha's ministry",
+        "refs": [
+          "2 Kgs 1-8"
+        ],
+        "children": [
+          {
+            "title": "Elijah taken up; Elisha succeeds",
+            "refs": [
+              "2 Kgs 2"
+            ]
+          },
+          {
+            "title": "Miracles of Elisha",
+            "refs": [
+              "2 Kgs 4"
+            ]
+          },
+          {
+            "title": "Naaman healed",
+            "refs": [
+              "2 Kgs 5"
+            ]
+          },
+          {
+            "title": "Wars with Aram",
+            "refs": [
+              "2 Kgs 6-8"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Israel and Judah to the fall of Samaria",
+        "refs": [
+          "2 Kgs 9-17"
+        ],
+        "children": [
+          {
+            "title": "Jehu's revolt",
+            "refs": [
+              "2 Kgs 9-10"
+            ]
+          },
+          {
+            "title": "Athaliah and Joash",
+            "refs": [
+              "2 Kgs 11-12"
+            ]
+          },
+          {
+            "title": "Later kings of Israel and Judah",
+            "refs": [
+              "2 Kgs 13-16"
+            ]
+          },
+          {
+            "title": "Fall of Samaria and its explanation",
+            "refs": [
+              "2 Kgs 17"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Judah alone to the exile",
+        "refs": [
+          "2 Kgs 18-25"
+        ],
+        "children": [
+          {
+            "title": "Hezekiah and Sennacherib's siege",
+            "refs": [
+              "2 Kgs 18-20"
+            ]
+          },
+          {
+            "title": "Manasseh and Amon",
+            "refs": [
+              "2 Kgs 21"
+            ]
+          },
+          {
+            "title": "Josiah's reform",
+            "refs": [
+              "2 Kgs 22-23"
+            ]
+          },
+          {
+            "title": "Fall of Jerusalem; Jehoiachin released",
+            "refs": [
+              "2 Kgs 24-25"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Kgs 2:11",
+      "2 Kgs 5:14",
+      "2 Kgs 17:7-8",
+      "2 Kgs 19:15-19",
+      "2 Kgs 22:8",
+      "2 Kgs 23:25",
+      "2 Kgs 25:27-30"
+    ],
+    "bigStory": "2 Kings ends the story of the monarchy in ruins, with temple burned and people exiled, raising the question the prophets answer: will God keep his promise to David? Jesus cites Elisha's healing of the foreigner Naaman (Luke 4:27), and the hope left open by Jehoiachin's release is carried forward in the genealogy that runs through him to Jesus (Matt 1:11-12).",
+    "canonNote": "Second half of the single Hebrew book of Kings (Former Prophets); '4 Kingdoms' in the Septuagint. Parallel accounts appear in 2 Chronicles, Isa 36-39 and Jer 52."
+  },
+  {
+    "id": "1-chronicles",
+    "abbr": "1 Chr",
+    "name": "1 Chronicles",
+    "testament": "OT",
+    "genre": "Historical narrative with genealogies (theological retelling of Israel's history)",
+    "authorship": {
+      "traditional": "Ezra, according to the Talmud (Baba Bathra 15a). The overlap between the end of 2 Chronicles and the start of Ezra (2 Chr 36:22-23; Ezra 1:1-3) was long taken as evidence of one author.",
+      "scholarly": "An anonymous writer usually called 'the Chronicler', probably a Levite or someone close to temple circles in Persian-period Jerusalem. Older scholarship assumed common authorship with Ezra–Nehemiah; since the work of Sara Japhet and H. G. M. Williamson (1960s–70s) many scholars treat them as separate works because of differences in language and outlook. The Chronicler used Samuel–Kings as a main source, plus other sources it names."
+    },
+    "date": {
+      "year": -400,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Earlier Persian period, soon after the temple's rebuilding",
+          "year": -500
+        },
+        {
+          "label": "Traditional: Ezra",
+          "year": -440
+        },
+        {
+          "label": "Early Hellenistic period",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "The restored community in Judah after the exile, small and under Persian rule, needing to know that they were still 'all Israel', heirs of David's promise and the temple's worship.",
+    "setting": "Written in Persian-period Judah; the narrative runs from Adam (in genealogy) to the death of David, focusing on David's reign and preparations for the temple.",
+    "purpose": "To retell Israel's story for the post-exilic community, stressing continuity with the past, the centrality of temple worship and Levitical service, and the Davidic promise as grounds for hope.",
+    "themes": [
+      "All Israel as one people",
+      "David as founder of temple worship",
+      "Levites, priests and music in worship",
+      "Seeking the LORD and immediate retribution or blessing",
+      "Continuity from Adam to the restored community"
+    ],
+    "outline": [
+      {
+        "title": "Genealogies from Adam to the returned exiles",
+        "refs": [
+          "1 Chr 1-9"
+        ],
+        "children": [
+          {
+            "title": "Adam to Israel",
+            "refs": [
+              "1 Chr 1"
+            ]
+          },
+          {
+            "title": "The tribes, with Judah and Levi prominent",
+            "refs": [
+              "1 Chr 2-8"
+            ]
+          },
+          {
+            "title": "Inhabitants of Jerusalem after the exile",
+            "refs": [
+              "1 Chr 9"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Death of Saul",
+        "refs": [
+          "1 Chr 10"
+        ]
+      },
+      {
+        "title": "David's reign",
+        "refs": [
+          "1 Chr 11-29"
+        ],
+        "children": [
+          {
+            "title": "David made king; his mighty men",
+            "refs": [
+              "1 Chr 11-12"
+            ]
+          },
+          {
+            "title": "The ark brought to Jerusalem; thanksgiving psalm",
+            "refs": [
+              "1 Chr 13-16"
+            ]
+          },
+          {
+            "title": "God's covenant with David",
+            "refs": [
+              "1 Chr 17"
+            ]
+          },
+          {
+            "title": "Wars and the census",
+            "refs": [
+              "1 Chr 18-21"
+            ]
+          },
+          {
+            "title": "Preparations and organisation for the temple",
+            "refs": [
+              "1 Chr 22-27"
+            ]
+          },
+          {
+            "title": "Charge to Solomon; David's prayer and death",
+            "refs": [
+              "1 Chr 28-29"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Chr 9:1",
+      "1 Chr 16:8-36",
+      "1 Chr 17:11-14",
+      "1 Chr 21:1",
+      "1 Chr 28:9",
+      "1 Chr 29:10-13"
+    ],
+    "bigStory": "Chronicles retells the whole Old Testament story in compressed form for people living after the exile, insisting that God's promise to David and his presence in worship still define Israel. Matthew's genealogy, beginning with 'the son of David, the son of Abraham' (Matt 1:1), echoes the Chronicler's way of telling history through family lines.",
+    "canonNote": "1 and 2 Chronicles are one book in the Hebrew Bible, usually the last book of the Writings, so the Hebrew Bible closes with Cyrus' call to go up to Jerusalem. The Septuagint called it *Paralipomena* ('things left out'), as if a supplement to Samuel–Kings; Jerome suggested the title 'chronicle' of the whole sacred history."
+  },
+  {
+    "id": "2-chronicles",
+    "abbr": "2 Chr",
+    "name": "2 Chronicles",
+    "testament": "OT",
+    "genre": "Historical narrative (theological retelling of the history of Judah)",
+    "authorship": {
+      "traditional": "Ezra, according to the Talmud (Baba Bathra 15a).",
+      "scholarly": "The same anonymous Chronicler as 1 Chronicles, probably a Levite in Persian-period Jerusalem. The writer reworks Kings, omitting most material about the northern kingdom, and cites other prophetic and royal records. Scholars debate how much the non-Kings material reflects lost sources and how much is the Chronicler's theological shaping."
+    },
+    "date": {
+      "year": -400,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Earlier Persian period",
+          "year": -500
+        },
+        {
+          "label": "Early Hellenistic period",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "The post-exilic community in Judah, encouraged to seek the LORD, honour the temple and trust that repentance brings restoration.",
+    "setting": "From Solomon's accession (c. 970 BC) to the fall of Jerusalem (586 BC), ending with Cyrus' decree permitting return (538 BC).",
+    "purpose": "To show that Judah's fortunes rose and fell with its faithfulness to the LORD and the temple, to model repentance and reform, and to end with the open door of return under Cyrus.",
+    "themes": [
+      "The temple as the centre of national life",
+      "Seeking the LORD and humbling oneself",
+      "Immediate consequences of faithfulness and unfaithfulness",
+      "Reform under good kings (Asa, Jehoshaphat, Hezekiah, Josiah)",
+      "Repentance and restoration even for the worst (Manasseh)"
+    ],
+    "outline": [
+      {
+        "title": "Solomon's reign",
+        "refs": [
+          "2 Chr 1-9"
+        ],
+        "children": [
+          {
+            "title": "Wisdom and wealth",
+            "refs": [
+              "2 Chr 1"
+            ]
+          },
+          {
+            "title": "Building the temple",
+            "refs": [
+              "2 Chr 2-4"
+            ]
+          },
+          {
+            "title": "Dedication and the glory cloud",
+            "refs": [
+              "2 Chr 5-7"
+            ]
+          },
+          {
+            "title": "Solomon's achievements; queen of Sheba",
+            "refs": [
+              "2 Chr 8-9"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Kings of Judah from Rehoboam to Ahaz",
+        "refs": [
+          "2 Chr 10-28"
+        ],
+        "children": [
+          {
+            "title": "Division of the kingdom",
+            "refs": [
+              "2 Chr 10-12"
+            ]
+          },
+          {
+            "title": "Asa and Jehoshaphat",
+            "refs": [
+              "2 Chr 14-20"
+            ]
+          },
+          {
+            "title": "Athaliah, Joash and later kings",
+            "refs": [
+              "2 Chr 21-28"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "From Hezekiah to the exile and return",
+        "refs": [
+          "2 Chr 29-36"
+        ],
+        "children": [
+          {
+            "title": "Hezekiah's reform and Passover",
+            "refs": [
+              "2 Chr 29-32"
+            ]
+          },
+          {
+            "title": "Manasseh's repentance and Amon",
+            "refs": [
+              "2 Chr 33"
+            ]
+          },
+          {
+            "title": "Josiah's reform",
+            "refs": [
+              "2 Chr 34-35"
+            ]
+          },
+          {
+            "title": "Fall of Jerusalem and Cyrus' decree",
+            "refs": [
+              "2 Chr 36"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Chr 5:13-14",
+      "2 Chr 7:14",
+      "2 Chr 16:9",
+      "2 Chr 20:15",
+      "2 Chr 33:12-13",
+      "2 Chr 36:22-23"
+    ],
+    "bigStory": "2 Chronicles closes the Hebrew Bible with exile and an invitation to return, leaving Israel waiting for full restoration under a son of David. Its focus on the temple as the place where God's glory dwells prepares for the New Testament claim that this presence is found in Jesus and his people.",
+    "canonNote": "The *Prayer of Manasseh*, a short penitential prayer based on 2 Chr 33:12-13 and 2 Chr 33:18-19, is canonical in Eastern Orthodox Bibles (among the Odes), appears in an appendix to the Latin Vulgate, and was included among the Apocrypha in Protestant Bibles such as the 1611 King James Version. It is not part of the Catholic deuterocanon."
+  },
+  {
+    "id": "ezra",
+    "abbr": "Ezra",
+    "name": "Ezra",
+    "testament": "OT",
+    "genre": "Historical narrative with lists, official documents and first-person memoir",
+    "authorship": {
+      "traditional": "Ezra the priest and scribe, according to the Talmud (Baba Bathra 15a), who is also credited there with Chronicles. Parts of the book are written in the first person by Ezra (Ezra 7:27-9:15).",
+      "scholarly": "An anonymous editor compiled Ezra–Nehemiah from sources: an Ezra memoir, lists of returnees, and Aramaic documents from the Persian court (Ezra 4:8-6:18; Ezra 7:12-26). Scholars debate the authenticity of these documents (many accept that they reflect genuine Persian administrative style) and the order of Ezra and Nehemiah: the text places Ezra first (458 BC, the seventh year of Artaxerxes I), but some argue for Artaxerxes II (398 BC), which would place Ezra after Nehemiah."
+    },
+    "date": {
+      "year": -440,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Compilation of Ezra–Nehemiah c. 400 BC",
+          "year": -400
+        },
+        {
+          "label": "Ezra's arrival dated to Artaxerxes II",
+          "year": -398
+        },
+        {
+          "label": "Hellenistic-period compilation",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "Jews in Judah and in the diaspora after the exile, learning what it means to be God's people without a king, gathered around temple and Torah.",
+    "setting": "Persian-period Jerusalem and Judah, from Cyrus' decree (538 BC) and the rebuilding of the temple (completed 516/515 BC) to Ezra's mission in the reign of Artaxerxes.",
+    "purpose": "To show God fulfilling the promise of return by moving the hearts of Persian kings, to record the rebuilding of the temple against opposition, and to describe Ezra's reforms re-establishing the community on the law.",
+    "themes": [
+      "God's sovereignty over foreign kings",
+      "Rebuilding the temple and worship",
+      "The law of Moses as the community's charter",
+      "Holiness and separation, including the problem of intermarriage",
+      "Confession and covenant renewal"
+    ],
+    "outline": [
+      {
+        "title": "Cyrus' decree and the first return",
+        "refs": [
+          "Ezra 1-2"
+        ]
+      },
+      {
+        "title": "Rebuilding the temple",
+        "refs": [
+          "Ezra 3-6"
+        ],
+        "children": [
+          {
+            "title": "Altar rebuilt and foundation laid",
+            "refs": [
+              "Ezra 3"
+            ]
+          },
+          {
+            "title": "Opposition",
+            "refs": [
+              "Ezra 4"
+            ]
+          },
+          {
+            "title": "Haggai, Zechariah and completion of the temple",
+            "refs": [
+              "Ezra 5-6"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ezra's commission and journey",
+        "refs": [
+          "Ezra 7-8"
+        ]
+      },
+      {
+        "title": "Confession and reform",
+        "refs": [
+          "Ezra 9-10"
+        ],
+        "children": [
+          {
+            "title": "Ezra's prayer of confession",
+            "refs": [
+              "Ezra 9"
+            ]
+          },
+          {
+            "title": "Dealing with mixed marriages",
+            "refs": [
+              "Ezra 10"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Ezra 1:1-4",
+      "Ezra 3:11",
+      "Ezra 6:14-16",
+      "Ezra 7:10",
+      "Ezra 9:6",
+      "Ezra 10:11"
+    ],
+    "bigStory": "Ezra shows the first return from exile and the rebuilding of the temple, a real but partial fulfilment of the prophets' promises of restoration. The modest second temple and the community's struggles leave readers looking for a greater restoration, which the Gospels announce in Jesus.",
+    "canonNote": "Ezra and Nehemiah were one book in the Hebrew Bible and in early Christian lists; Origen and Jerome attest the division. Naming is confusing: the Vulgate calls Ezra '1 Esdras' and Nehemiah '2 Esdras'. A separate Greek book, *1 Esdras* (Vulgate '3 Esdras'), retells material from 2 Chr 35-36, Ezra and Neh 8 with an added story of three guardsmen; it is canonical in the Eastern Orthodox Church and appears in the Vulgate appendix and the Protestant Apocrypha. *2 Esdras* (also called 4 Ezra), a Jewish-Christian apocalypse, is in the Vulgate appendix, the Protestant Apocrypha and some Eastern canons (e.g. Ethiopian); it is not in the Catholic deuterocanon."
+  },
+  {
+    "id": "nehemiah",
+    "abbr": "Neh",
+    "name": "Nehemiah",
+    "testament": "OT",
+    "genre": "Historical narrative and first-person memoir",
+    "authorship": {
+      "traditional": "Nehemiah wrote the first-person memoir; the Talmud credits Ezra with the book as a whole, with Nehemiah completing it (Baba Bathra 15a).",
+      "scholarly": "Widely accepted that a genuine 'Nehemiah Memoir' (roughly Neh 1-7 and parts of Neh 12-13) underlies the book, with lists and the Ezra material of Neh 8-10 added by the compiler of Ezra–Nehemiah. The Elephantine papyri (late 5th c. BC) mention Sanballat as governor of Samaria and Johanan as high priest in Jerusalem, providing external corroboration of figures and setting."
+    },
+    "date": {
+      "year": -430,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Final compilation of Ezra–Nehemiah",
+          "year": -400
+        },
+        {
+          "label": "Hellenistic-period compilation",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "The struggling community in Jerusalem and Judah after the exile, and diaspora Jews concerned for the holy city.",
+    "setting": "Susa and Jerusalem during the reign of Artaxerxes I; Nehemiah arrives as governor in his twentieth year (445 BC) and returns for a second term about twelve years later.",
+    "purpose": "To record how God used Nehemiah to rebuild Jerusalem's walls against opposition, to show the people recommitting to the law under Ezra, and to warn against slipping back into the sins that caused the exile.",
+    "themes": [
+      "Prayer joined to practical action",
+      "Courageous leadership under opposition",
+      "Public reading and understanding of Scripture",
+      "Covenant renewal and confession",
+      "Sabbath, temple support and purity"
+    ],
+    "outline": [
+      {
+        "title": "Rebuilding the walls",
+        "refs": [
+          "Neh 1-7"
+        ],
+        "children": [
+          {
+            "title": "Nehemiah's prayer and commission",
+            "refs": [
+              "Neh 1-2"
+            ]
+          },
+          {
+            "title": "Builders and opposition",
+            "refs": [
+              "Neh 3-4"
+            ]
+          },
+          {
+            "title": "Social justice and Nehemiah's integrity",
+            "refs": [
+              "Neh 5"
+            ]
+          },
+          {
+            "title": "Wall completed; list of returnees",
+            "refs": [
+              "Neh 6-7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Covenant renewal",
+        "refs": [
+          "Neh 8-10"
+        ],
+        "children": [
+          {
+            "title": "Ezra reads the law; Tabernacles",
+            "refs": [
+              "Neh 8"
+            ]
+          },
+          {
+            "title": "Great prayer of confession",
+            "refs": [
+              "Neh 9"
+            ]
+          },
+          {
+            "title": "Sealed covenant",
+            "refs": [
+              "Neh 10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Repopulation and dedication of the walls",
+        "refs": [
+          "Neh 11-12"
+        ]
+      },
+      {
+        "title": "Nehemiah's final reforms",
+        "refs": [
+          "Neh 13"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Neh 1:5-11",
+      "Neh 2:17-18",
+      "Neh 4:14",
+      "Neh 6:15-16",
+      "Neh 8:8",
+      "Neh 8:10",
+      "Neh 9:6",
+      "Neh 13:14"
+    ],
+    "bigStory": "Nehemiah is the last narrative of Israel's history in the Hebrew Bible's timeline: the walls are rebuilt, yet the book ends with the people already falling back into old sins. That unresolved ending points to the need for a deeper renewal of hearts, which the prophets promised and the New Testament proclaims.",
+    "canonNote": "Originally one book with Ezra in the Hebrew Bible; called '2 Esdras' in the Vulgate. In the Catholic and Orthodox Old Testaments the deuterocanonical books of *Tobit* and *Judith* follow Nehemiah (see the note on Esther)."
+  },
+  {
+    "id": "esther",
+    "abbr": "Esth",
+    "name": "Esther",
+    "testament": "OT",
+    "genre": "Narrative (court story; historical narrative or historical novella, debated)",
+    "authorship": {
+      "traditional": "The Talmud credits the 'Men of the Great Assembly' with writing Esther (Baba Bathra 15a); some Jewish and Christian interpreters (e.g. Ibn Ezra) suggested Mordecai, citing Esth 9:20.",
+      "scholarly": "Anonymous, by a Jewish writer familiar with Persian court life. Scholars debate genre and historicity: some read it as history set in the reign of Xerxes I (Ahasuerus, 486–465 BC), noting accurate details of Persian administration and the palace at Susa; others read it as a historical novella or festival legend explaining Purim, pointing to the absence of Esther and Vashti in Greek sources (Herodotus names Xerxes' queen as Amestris) and to its literary symmetry."
+    },
+    "date": {
+      "year": -400,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Soon after the events, late Persian period",
+          "year": -460
+        },
+        {
+          "label": "Early Hellenistic period",
+          "year": -300
+        },
+        {
+          "label": "Greek additions (later)",
+          "year": -100
+        }
+      ]
+    },
+    "audience": "Jews living in the diaspora under foreign rule, explaining the origin of Purim and assuring them of deliverance even when God seems absent.",
+    "setting": "The Persian capital Susa during the reign of Ahasuerus (usually identified with Xerxes I), about 483–473 BC.",
+    "purpose": "To tell how the Jews were saved from Haman's genocidal plot through Esther and Mordecai, to establish the annual feast of Purim, and to show hidden providence at work through human courage and remarkable reversals.",
+    "themes": [
+      "Hidden providence (God is never named)",
+      "Courage and identity in exile",
+      "Reversal of fortunes",
+      "Survival of the Jewish people",
+      "Feasting and remembrance (Purim)"
+    ],
+    "outline": [
+      {
+        "title": "Vashti deposed; Esther made queen",
+        "refs": [
+          "Esth 1-2"
+        ]
+      },
+      {
+        "title": "Haman's plot and Esther's resolve",
+        "refs": [
+          "Esth 3-4"
+        ],
+        "children": [
+          {
+            "title": "Edict to destroy the Jews",
+            "refs": [
+              "Esth 3"
+            ]
+          },
+          {
+            "title": "'For such a time as this'",
+            "refs": [
+              "Esth 4"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The great reversal",
+        "refs": [
+          "Esth 5-7"
+        ],
+        "children": [
+          {
+            "title": "Esther's first banquet; Haman's gallows",
+            "refs": [
+              "Esth 5"
+            ]
+          },
+          {
+            "title": "The sleepless king honours Mordecai",
+            "refs": [
+              "Esth 6"
+            ]
+          },
+          {
+            "title": "Haman exposed and hanged",
+            "refs": [
+              "Esth 7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Deliverance and the feast of Purim",
+        "refs": [
+          "Esth 8-9"
+        ]
+      },
+      {
+        "title": "Mordecai's greatness",
+        "refs": [
+          "Esth 10"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Esth 2:17",
+      "Esth 3:6",
+      "Esth 4:14",
+      "Esth 4:16",
+      "Esth 7:3",
+      "Esth 9:20-22"
+    ],
+    "bigStory": "Esther shows God preserving his people in exile, keeping alive the line through which his promises would be fulfilled, even when he works behind the scenes. Its story of a mediator who risks her life to intercede for a condemned people has often been read by Christians as foreshadowing Christ.",
+    "canonNote": "In the Hebrew Bible Esther belongs to the Writings among the five Megillot and is read at Purim. It never names God and is the only Hebrew Bible book not found among the Dead Sea Scrolls; its canonicity was questioned by some rabbis and early Christians. The Greek version adds six passages (Additions A–F, about 107 verses), including Mordecai's dream, the prayers of Mordecai and Esther, and the texts of the royal edicts, which make God explicit; these are canonical in Catholic (deuterocanonical) and Orthodox Bibles, and Jerome gathered them at the end as Esth 10:4-16:24 in the Vulgate. Catholic and Orthodox Bibles also place the deuterocanonical *Tobit* (a pious exile's family story set in Nineveh) and *Judith* (a widow who delivers Israel from Holofernes) next to Esther; Protestant Bibles that print them place them among the Apocrypha."
+  },
+  {
+    "id": "job",
+    "abbr": "Job",
+    "name": "Job",
+    "testament": "OT",
+    "genre": "Wisdom literature (poetic dialogue within a prose frame)",
+    "authorship": {
+      "traditional": "Moses, according to one view in the Talmud (Baba Bathra 14b-15a); other ancient suggestions include Job himself, Elihu or Solomon. Its patriarchal setting led many to see it as very ancient.",
+      "scholarly": "An anonymous Israelite poet of great skill, writing in Hebrew rich with rare vocabulary. Many scholars date the poetry between the 7th and 4th centuries BC, often around the exile, and compare it with Mesopotamian works on innocent suffering such as *Ludlul bel nemeqi* and the *Babylonian Theodicy*. Some regard the prose frame as an older folk tale and the Elihu speeches (Job 32-37) and wisdom poem (Job 28) as later additions; others defend the book's unity as a deliberate design."
+    },
+    "date": {
+      "year": -550,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Solomonic era",
+          "year": -950
+        },
+        {
+          "label": "Late monarchy",
+          "year": -700
+        },
+        {
+          "label": "Persian period",
+          "year": -400
+        }
+      ]
+    },
+    "audience": "The faithful wrestling with suffering that seems undeserved, and wisdom teachers tempted to explain all suffering as punishment.",
+    "setting": "The land of Uz (perhaps in Edom or northern Arabia) in a patriarchal-style world, with Job as a wealthy non-Israelite who fears God.",
+    "purpose": "To explore whether anyone serves God for nothing, to challenge a mechanical view that suffering always reflects sin, and to bring Job, and the reader, before the wisdom and freedom of God the Creator.",
+    "themes": [
+      "Innocent suffering",
+      "The limits of human wisdom and retributive theology",
+      "Honest lament and protest before God",
+      "God's sovereignty displayed in creation",
+      "Integrity and disinterested faith"
+    ],
+    "outline": [
+      {
+        "title": "Prologue in heaven and on earth",
+        "refs": [
+          "Job 1-2"
+        ]
+      },
+      {
+        "title": "Job and his three friends",
+        "refs": [
+          "Job 3-31"
+        ],
+        "children": [
+          {
+            "title": "Job curses his birth",
+            "refs": [
+              "Job 3"
+            ]
+          },
+          {
+            "title": "Three cycles of speeches",
+            "refs": [
+              "Job 4-27"
+            ]
+          },
+          {
+            "title": "Where is wisdom found?",
+            "refs": [
+              "Job 28"
+            ]
+          },
+          {
+            "title": "Job's final defence and oath of innocence",
+            "refs": [
+              "Job 29-31"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Elihu's speeches",
+        "refs": [
+          "Job 32-37"
+        ]
+      },
+      {
+        "title": "The LORD answers from the whirlwind; Job responds",
+        "refs": [
+          "Job 38:1-42:6"
+        ]
+      },
+      {
+        "title": "Epilogue: Job restored",
+        "refs": [
+          "Job 42:7-17"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Job 1:21",
+      "Job 2:10",
+      "Job 19:25-27",
+      "Job 28:28",
+      "Job 38:4",
+      "Job 42:5-6"
+    ],
+    "bigStory": "Job wrestles with the question raised by the fall and by Israel's suffering: how can a good and powerful God allow the righteous to suffer? Its picture of a blameless sufferer and its longing for a redeemer and mediator (Job 9:33; Job 19:25) are taken up in Christian reflection on Christ, and James points to Job as a model of endurance (Jas 5:11).",
+    "canonNote": "In the Hebrew Bible Job belongs to the Writings, alongside Psalms and Proverbs as one of the three 'poetic books' with a special accent system. The Old Greek translation is roughly one-sixth shorter than the Hebrew; Origen filled the gaps from Theodotion's version. The Greek also adds a closing note identifying Job with Jobab king of Edom (compare Gen 36:33)."
+  },
+  {
+    "id": "psalms",
+    "abbr": "Ps",
+    "name": "Psalms",
+    "testament": "OT",
+    "genre": "Poetry (hymns, laments, thanksgivings, royal and wisdom psalms)",
+    "authorship": {
+      "traditional": "David as the principal author: 73 psalms carry the Hebrew heading 'of David', and the New Testament cites several as David's words (e.g. Acts 2:25-31 on Ps 16). Other headings name Asaph, the sons of Korah, Solomon (Ps 72; Ps 127), Moses (Ps 90), Heman and Ethan; about fifty psalms have no named author.",
+      "scholarly": "Most critical scholars treat the psalm headings as later additions and note that Hebrew *ledavid* can mean 'of', 'for' or 'belonging to' David. Hermann Gunkel's form criticism classified psalms by type and setting in worship; more recent 'canonical' study (e.g. Gerald Wilson) examines the shaping of the five-book collection. Individual psalms range from the monarchy (or earlier) to the post-exilic period (Ps 137 reflects the exile), with the collection reaching its final form in the Persian or early Hellenistic era."
+    },
+    "date": {
+      "year": -400,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Earliest Davidic psalms",
+          "year": -1000
+        },
+        {
+          "label": "Exilic psalms (e.g. Ps 137)",
+          "year": -560
+        },
+        {
+          "label": "Final stabilisation of the collection",
+          "year": -200
+        }
+      ]
+    },
+    "audience": "Israel at worship, both in the temple and in private prayer; later the synagogue and the church, which adopted the Psalms as their primary prayer book.",
+    "setting": "Composed across many centuries, from David's court and the Jerusalem temple to the Babylonian exile and the second temple.",
+    "purpose": "To give God's people words for praise, lament, confession, thanksgiving and trust, to celebrate the LORD's kingship and his anointed king, and to train them in meditation on God's instruction.",
+    "themes": [
+      "The LORD reigns as king",
+      "Lament turning to trust",
+      "Praise and thanksgiving",
+      "The anointed king and Zion",
+      "Delight in God's law",
+      "Confession and forgiveness"
+    ],
+    "outline": [
+      {
+        "title": "Book I",
+        "refs": [
+          "Ps 1-41"
+        ],
+        "children": [
+          {
+            "title": "Introduction: the two ways and the LORD's anointed",
+            "refs": [
+              "Ps 1-2"
+            ]
+          },
+          {
+            "title": "Mostly Davidic laments and trust",
+            "refs": [
+              "Ps 3-41"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Book II: Korah and David psalms",
+        "refs": [
+          "Ps 42-72"
+        ]
+      },
+      {
+        "title": "Book III: Asaph psalms; crisis of the Davidic covenant",
+        "refs": [
+          "Ps 73-89"
+        ]
+      },
+      {
+        "title": "Book IV: Moses' prayer and the LORD reigns",
+        "refs": [
+          "Ps 90-106"
+        ]
+      },
+      {
+        "title": "Book V",
+        "refs": [
+          "Ps 107-150"
+        ],
+        "children": [
+          {
+            "title": "Torah psalm",
+            "refs": [
+              "Ps 119"
+            ]
+          },
+          {
+            "title": "Songs of Ascents",
+            "refs": [
+              "Ps 120-134"
+            ]
+          },
+          {
+            "title": "Closing Hallelujah psalms",
+            "refs": [
+              "Ps 146-150"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Ps 1",
+      "Ps 2:7",
+      "Ps 22:1",
+      "Ps 23",
+      "Ps 51:10",
+      "Ps 110:1",
+      "Ps 119:105",
+      "Ps 150:6"
+    ],
+    "bigStory": "The Psalms are Israel's response to the whole story of God's acts: creation, exodus, kingship, exile and hope of restoration. They are the Old Testament book most quoted in the New Testament; Jesus prays Ps 22 and Ps 31 on the cross and identifies himself with the Lord of Ps 110, and the church has sung them ever since.",
+    "canonNote": "The Psalms open the Writings in most Hebrew Bible orderings. The Septuagint and Vulgate number most psalms one lower than the Hebrew because they join Ps 9-10 and Ps 114-115 and split Ps 116 and Ps 147; older Catholic and Orthodox liturgical books follow this Greek numbering. The Septuagint adds *Psalm 151*, about David's victory over Goliath, which is canonical in Orthodox Bibles; a Hebrew form of it was found in the Great Psalms Scroll from Qumran (11QPs-a), whose order and contents differ from the Masoretic book in its final third."
+  },
+  {
+    "id": "proverbs",
+    "abbr": "Prov",
+    "name": "Proverbs",
+    "testament": "OT",
+    "genre": "Wisdom literature (instructions and collections of sayings)",
+    "authorship": {
+      "traditional": "Solomon as principal author (Prov 1:1; Prov 10:1; compare 1 Kgs 4:32), with other sections attributed to 'the wise', to Hezekiah's scribes who copied Solomonic proverbs (Prov 25:1), to Agur (Prov 30) and to King Lemuel (Prov 31). The Talmud credits Hezekiah and his company with writing it down (Baba Bathra 15a).",
+      "scholarly": "An anthology of several collections assembled over centuries. Many accept that some sayings go back to the royal court of the monarchy, and Prov 22:17-24:22 closely parallels the Egyptian *Instruction of Amenemope*, showing Israel's engagement with international wisdom. Prov 1-9 is often thought to be the latest section, composed as an introduction in the Persian period, though some argue for earlier dates based on ancient Near Eastern instruction forms."
+    },
+    "date": {
+      "year": -700,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Solomonic core",
+          "year": -950
+        },
+        {
+          "label": "Final edition with Prov 1-9 as introduction",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Young people being trained for responsible life ('my son'), and by extension anyone seeking skill in living under God.",
+    "setting": "Royal court, scribal schools and family instruction in Israel and Judah, drawing also on wider ancient Near Eastern wisdom.",
+    "purpose": "To teach wisdom, discipline and right conduct grounded in the fear of the LORD, contrasting the way of wisdom with the way of folly in speech, work, wealth, family and justice.",
+    "themes": [
+      "The fear of the LORD as the beginning of wisdom",
+      "Wisdom personified as a woman calling in the streets",
+      "Two ways: wisdom and folly",
+      "Speech, work and wealth",
+      "Justice and care for the poor"
+    ],
+    "outline": [
+      {
+        "title": "Prologue and a father's instructions; Lady Wisdom and Folly",
+        "refs": [
+          "Prov 1-9"
+        ]
+      },
+      {
+        "title": "First collection of Solomon's proverbs",
+        "refs": [
+          "Prov 10:1-22:16"
+        ]
+      },
+      {
+        "title": "Words of the wise",
+        "refs": [
+          "Prov 22:17-24:34"
+        ]
+      },
+      {
+        "title": "Solomonic proverbs copied by Hezekiah's men",
+        "refs": [
+          "Prov 25-29"
+        ]
+      },
+      {
+        "title": "Words of Agur",
+        "refs": [
+          "Prov 30"
+        ]
+      },
+      {
+        "title": "Words of Lemuel",
+        "refs": [
+          "Prov 31"
+        ],
+        "children": [
+          {
+            "title": "A mother's advice to a king",
+            "refs": [
+              "Prov 31:1-9"
+            ]
+          },
+          {
+            "title": "The woman of strength (acrostic poem)",
+            "refs": [
+              "Prov 31:10-31"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Prov 1:7",
+      "Prov 3:5-6",
+      "Prov 8:22-31",
+      "Prov 9:10",
+      "Prov 16:9",
+      "Prov 22:6",
+      "Prov 31:10-31"
+    ],
+    "bigStory": "Proverbs shows what covenant faithfulness looks like in everyday life, rooting practical skill in reverence for God the Creator. Its portrait of Wisdom present with God at creation (Prov 8) shaped New Testament language about Christ as the wisdom of God (1 Cor 1:24; Col 2:3) and the Word in John 1.",
+    "canonNote": "Part of the Writings in the Hebrew Bible. The Septuagint arranges the later collections in a different order and has many additional lines. The deuterocanonical *Wisdom of Ben Sira* (Sirach, or Ecclesiasticus), written in Hebrew around 180 BC and translated into Greek by the author's grandson, continues the tradition of Proverbs; it is canonical in Catholic and Orthodox Bibles and among the Apocrypha in Protestant ones."
+  },
+  {
+    "id": "ecclesiastes",
+    "abbr": "Eccl",
+    "name": "Ecclesiastes",
+    "testament": "OT",
+    "genre": "Wisdom literature (reflective monologue framed by an editor)",
+    "authorship": {
+      "traditional": "Solomon, identified with 'the Preacher (Qohelet), the son of David, king in Jerusalem' (Eccl 1:1; Eccl 1:12). The Talmud says Hezekiah and his company wrote it down (Baba Bathra 15a).",
+      "scholarly": "Most scholars, including many conservatives (Franz Delitzsch in the 19th century famously among them), regard the Solomonic persona as a literary device. The Hebrew is late, with features close to Mishnaic Hebrew, Aramaic influence and probable Persian loanwords such as *pardes* ('park', Eccl 2:5) and *pitgam* ('sentence', Eccl 8:11). A frame narrator speaks of Qohelet in the third person (Eccl 1:2; Eccl 12:9-14). Dates usually proposed range from the Persian period to the 3rd century BC."
+    },
+    "date": {
+      "year": -300,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Solomonic",
+          "year": -940
+        },
+        {
+          "label": "Persian period",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Thoughtful people confronted with injustice, death and the apparent meaninglessness of human striving, especially the educated and comfortable.",
+    "setting": "Jerusalem, in the voice of a king who has tested every source of meaning 'under the sun'.",
+    "purpose": "To expose the vanity (Hebrew *hevel*, 'vapour, breath') of seeking lasting gain from wisdom, pleasure, work or wealth, and to commend receiving life as God's gift with joy and reverence, fearing God and keeping his commandments.",
+    "themes": [
+      "Everything is vapour (hevel)",
+      "The limits of wisdom and the certainty of death",
+      "Joy in ordinary life as God's gift",
+      "God's inscrutable timing",
+      "Fear God and keep his commandments"
+    ],
+    "outline": [
+      {
+        "title": "Prologue: all is vapour",
+        "refs": [
+          "Eccl 1:1-11"
+        ]
+      },
+      {
+        "title": "The king's experiment with wisdom, pleasure and toil",
+        "refs": [
+          "Eccl 1:12-2:26"
+        ]
+      },
+      {
+        "title": "A time for everything; injustice and the limits of human life",
+        "refs": [
+          "Eccl 3:1-6:12"
+        ]
+      },
+      {
+        "title": "Counsels for living wisely in an uncertain world",
+        "refs": [
+          "Eccl 7:1-12:7"
+        ]
+      },
+      {
+        "title": "Epilogue: the end of the matter",
+        "refs": [
+          "Eccl 12:8-14"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Eccl 1:2",
+      "Eccl 3:1-8",
+      "Eccl 3:11",
+      "Eccl 5:2",
+      "Eccl 9:7-10",
+      "Eccl 12:1",
+      "Eccl 12:13-14"
+    ],
+    "bigStory": "Ecclesiastes faces honestly the world under the curse of Gen 3, where toil is frustrating and death levels everyone. Paul's statement that creation was 'subjected to futility' in hope of liberation (Rom 8:20-21) uses the same Greek word the Septuagint uses for Ecclesiastes' 'vanity', and Christians have read the book as clearing the ground for the hope of resurrection.",
+    "canonNote": "Hebrew title *Qohelet*; in the Writings among the five Megillot and read at Sukkot (Tabernacles). The Mishnah (Yadayim 3:5) records rabbinic debate over whether it 'defiles the hands', that is, whether it is sacred Scripture; the view that it does prevailed."
+  },
+  {
+    "id": "song-of-songs",
+    "abbr": "Song",
+    "name": "Song of Songs",
+    "testament": "OT",
+    "genre": "Love poetry",
+    "authorship": {
+      "traditional": "Solomon, from the title 'The song of songs, which is Solomon's' (Song 1:1); the Talmud credits Hezekiah and his company with writing it down (Baba Bathra 15a).",
+      "scholarly": "Many scholars read the Hebrew *lishlomoh* as 'for' or 'concerning' Solomon rather than 'by' him, and see the Song as an anthology or unified cycle of love poems by an unknown poet. Its language includes possible Persian and Greek loanwords (e.g. *pardes*, Song 4:13; *appiryon*, 'palanquin', Song 3:9), suggesting a post-exilic date, though some argue older poetry was later updated. It has clear parallels with Egyptian love songs of the New Kingdom period."
+    },
+    "date": {
+      "year": -950,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Late monarchy",
+          "year": -700
+        },
+        {
+          "label": "Persian period",
+          "year": -450
+        },
+        {
+          "label": "Early Hellenistic period",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "Read at face value, young lovers and the community celebrating marriage; read allegorically, Israel or the church in relationship with God.",
+    "setting": "Rural and royal scenes in Israel: vineyards, gardens, Lebanon, Jerusalem and Solomon's court.",
+    "purpose": "Interpretations differ. Literal readings see a celebration of exclusive, faithful, sensual love between a man and a woman as a good gift of the Creator. Allegorical readings (the Targum and much rabbinic tradition: God and Israel; Origen, Bernard of Clairvaux and much Christian tradition: Christ and the church or the soul) see the love of God for his people. Some read it as a drama with two main characters, others with three (the 'shepherd hypothesis', in which the woman resists Solomon for her shepherd lover).",
+    "themes": [
+      "The goodness of human love and desire",
+      "Mutual delight and exclusive commitment",
+      "Love as strong as death",
+      "Do not awaken love before its time",
+      "Divine love (on allegorical readings)"
+    ],
+    "outline": [
+      {
+        "title": "Title",
+        "refs": [
+          "Song 1:1"
+        ]
+      },
+      {
+        "title": "Longing and first meeting",
+        "refs": [
+          "Song 1:2-2:7"
+        ]
+      },
+      {
+        "title": "Seeking and finding",
+        "refs": [
+          "Song 2:8-3:5"
+        ]
+      },
+      {
+        "title": "Wedding procession and union in the garden",
+        "refs": [
+          "Song 3:6-5:1"
+        ]
+      },
+      {
+        "title": "Separation, search and reunion",
+        "refs": [
+          "Song 5:2-8:4"
+        ]
+      },
+      {
+        "title": "Love's strength and closing words",
+        "refs": [
+          "Song 8:5-14"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Song 1:2",
+      "Song 2:4",
+      "Song 2:7",
+      "Song 2:16",
+      "Song 4:7",
+      "Song 8:6-7"
+    ],
+    "bigStory": "The Song restores a picture of love like that of Eden before shame (Gen 2:25), affirming bodily love within God's good creation. Because Scripture often pictures God's covenant as a marriage (Hos 2; Eph 5:31-32; Rev 19:7), Jewish and Christian readers have also heard in it the love that God has for his people.",
+    "canonNote": "Part of the Five Megillot in the Hebrew Bible and read at Passover. The Mishnah (Yadayim 3:5) records Rabbi Akiva defending it as the 'holy of holies' among the Writings. In Catholic and Orthodox Bibles it is followed by the deuterocanonical *Wisdom of Solomon*, a Greek work probably from Alexandria (1st c. BC), written in Solomon's voice, on wisdom, immortality and God's judgment; Protestant Bibles that print it place it among the Apocrypha. (Sirach is noted under Proverbs.)"
+  },
+  {
+    "id": "isaiah",
+    "abbr": "Isa",
+    "name": "Isaiah",
+    "testament": "OT",
+    "genre": "Prophecy (oracles, narrative and poetry)",
+    "authorship": {
+      "traditional": "Isaiah son of Amoz, who prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah (Isa 1:1), roughly 740–681 BC, writing the whole book including the predictions of Cyrus by name (Isa 44:28; Isa 45:1). Defenders of unity note shared vocabulary across the book (e.g. 'the Holy One of Israel'), the single Great Isaiah Scroll from Qumran, and New Testament citations from both halves under Isaiah's name (John 12:38-41).",
+      "scholarly": "Most critical scholars distinguish First Isaiah (Isa 1-39, largely 8th century, with later additions such as Isa 24-27 and Isa 34-35), Second or Deutero-Isaiah (Isa 40-55, an anonymous prophet in Babylonian exile c. 550–539 BC, who addresses Cyrus as a contemporary), and Third or Trito-Isaiah (Isa 56-66, from the restored community in Judah after 539 BC). This three-part view goes back to Bernhard Duhm (1892), building on earlier work. Recent scholarship emphasises the book's deliberate unity as a whole, often speaking of an 'Isaianic school' that preserved and extended the prophet's message."
+    },
+    "date": {
+      "year": -700,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Isa 40-55 (Second Isaiah), late exile",
+          "year": -540
+        },
+        {
+          "label": "Isa 56-66 (Third Isaiah), early restoration",
+          "year": -515
+        }
+      ]
+    },
+    "audience": "Judah and Jerusalem facing the Assyrian threat (Isa 1-39); exiles in Babylon awaiting release (Isa 40-55); and the returned community struggling to rebuild (Isa 56-66).",
+    "setting": "Jerusalem in the age of Assyrian expansion (the Syro-Ephraimite crisis of 734 BC, the fall of Samaria in 722 BC and Sennacherib's siege in 701 BC), then the horizon of Babylonian exile and the rise of Cyrus of Persia.",
+    "purpose": "To call Judah to trust the Holy One of Israel rather than foreign alliances, to announce judgment and a purified remnant, and to proclaim comfort, a new exodus, the redemptive work of the Servant of the LORD, and a renewed creation in which the nations stream to Zion.",
+    "themes": [
+      "The Holy One of Israel",
+      "Judgment and a faithful remnant",
+      "The coming royal son of David",
+      "The Servant of the LORD who suffers for many",
+      "Comfort and a new exodus",
+      "New heavens and new earth; the nations come to Zion"
+    ],
+    "outline": [
+      {
+        "title": "Judgment and hope for Judah",
+        "refs": [
+          "Isa 1-12"
+        ],
+        "children": [
+          {
+            "title": "Indictment and invitation",
+            "refs": [
+              "Isa 1"
+            ]
+          },
+          {
+            "title": "Isaiah's vision and call",
+            "refs": [
+              "Isa 6"
+            ]
+          },
+          {
+            "title": "Immanuel and the child-king",
+            "refs": [
+              "Isa 7-9"
+            ]
+          },
+          {
+            "title": "The shoot from Jesse",
+            "refs": [
+              "Isa 11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oracles against the nations",
+        "refs": [
+          "Isa 13-23"
+        ]
+      },
+      {
+        "title": "The 'Isaiah Apocalypse': world judgment and feast",
+        "refs": [
+          "Isa 24-27"
+        ]
+      },
+      {
+        "title": "Woes, trust and the coming restoration",
+        "refs": [
+          "Isa 28-35"
+        ]
+      },
+      {
+        "title": "Hezekiah narratives",
+        "refs": [
+          "Isa 36-39"
+        ]
+      },
+      {
+        "title": "Comfort for the exiles",
+        "refs": [
+          "Isa 40-55"
+        ],
+        "children": [
+          {
+            "title": "Comfort my people",
+            "refs": [
+              "Isa 40"
+            ]
+          },
+          {
+            "title": "The LORD versus idols; Cyrus his anointed",
+            "refs": [
+              "Isa 44-45"
+            ]
+          },
+          {
+            "title": "The suffering Servant",
+            "refs": [
+              "Isa 52:13-53:12"
+            ]
+          },
+          {
+            "title": "Invitation to the thirsty",
+            "refs": [
+              "Isa 55"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The restored community and the new creation",
+        "refs": [
+          "Isa 56-66"
+        ],
+        "children": [
+          {
+            "title": "True fasting and justice",
+            "refs": [
+              "Isa 58"
+            ]
+          },
+          {
+            "title": "The Spirit-anointed herald",
+            "refs": [
+              "Isa 61"
+            ]
+          },
+          {
+            "title": "New heavens and new earth",
+            "refs": [
+              "Isa 65-66"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Isa 6:1-8",
+      "Isa 7:14",
+      "Isa 9:6-7",
+      "Isa 40:1-11",
+      "Isa 45:1",
+      "Isa 52:13-53:12",
+      "Isa 61:1-2",
+      "Isa 65:17"
+    ],
+    "bigStory": "Isaiah spans the whole arc of Israel's story from sin and judgment to exile and a new creation, which is why it is sometimes called 'the fifth gospel'. Jesus begins his ministry by reading Isa 61 (Luke 4:16-21), and the New Testament repeatedly identifies him as the Immanuel child, the Davidic shoot and the Servant who bore the sins of many (Acts 8:32-35).",
+    "canonNote": "First of the Latter Prophets in the Hebrew Bible (though the Talmud, Baba Bathra 14b, lists Jeremiah and Ezekiel before it). The Great Isaiah Scroll (1QIsa-a) from Qumran, copied around the 2nd century BC, is the oldest complete manuscript of any biblical book and agrees substantially with the later Masoretic text."
+  },
+  {
+    "id": "jeremiah",
+    "abbr": "Jer",
+    "name": "Jeremiah",
+    "testament": "OT",
+    "genre": "Prophecy (poetic oracles, prose sermons and biographical narrative)",
+    "authorship": {
+      "traditional": "Jeremiah son of Hilkiah, a priest from Anathoth, who dictated his oracles to his scribe Baruch (Jer 36:4; Jer 36:32). The Talmud credits Jeremiah with his own book, Kings and Lamentations (Baba Bathra 15a).",
+      "scholarly": "Scholars since Bernhard Duhm and Sigmund Mowinckel have distinguished poetic oracles (often attributed to Jeremiah himself), biographical prose about him (often linked to Baruch), and prose sermons in Deuteronomistic style (attributed by many to later editors). Views range from substantial Jeremianic authorship with Baruch's help to extensive exilic and post-exilic editing. The existence of a shorter Greek edition shows the book grew in stages."
+    },
+    "date": {
+      "year": -580,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Start of Jeremiah's ministry (13th year of Josiah)",
+          "year": -627
+        },
+        {
+          "label": "Final Hebrew (Masoretic) edition",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Judah and Jerusalem in their last decades before the Babylonian conquest, and the exiles in Babylon and refugees in Egypt afterward.",
+    "setting": "From the 13th year of Josiah (627 BC) through the reigns of Jehoiakim and Zedekiah to the fall of Jerusalem (586 BC) and the flight to Egypt.",
+    "purpose": "To call Judah to repent, to announce that judgment through Babylon was certain because of covenant breaking, to expose false prophets and false trust in the temple, and to promise restoration after seventy years and a new covenant written on the heart.",
+    "themes": [
+      "Covenant broken and judgment certain",
+      "False security in the temple and false prophets",
+      "The prophet's suffering and laments",
+      "Submission to Babylon as God's will for the time",
+      "The new covenant and restoration"
+    ],
+    "outline": [
+      {
+        "title": "Jeremiah's call",
+        "refs": [
+          "Jer 1"
+        ]
+      },
+      {
+        "title": "Oracles against Judah and Jerusalem",
+        "refs": [
+          "Jer 2-25"
+        ],
+        "children": [
+          {
+            "title": "Israel's unfaithfulness",
+            "refs": [
+              "Jer 2-6"
+            ]
+          },
+          {
+            "title": "Temple sermon",
+            "refs": [
+              "Jer 7"
+            ]
+          },
+          {
+            "title": "Jeremiah's confessions and sign-acts",
+            "refs": [
+              "Jer 11-20"
+            ]
+          },
+          {
+            "title": "Kings, false prophets and seventy years",
+            "refs": [
+              "Jer 21-25"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Conflicts with priests, prophets and kings; letter to exiles",
+        "refs": [
+          "Jer 26-29"
+        ]
+      },
+      {
+        "title": "Book of Consolation: the new covenant",
+        "refs": [
+          "Jer 30-33"
+        ]
+      },
+      {
+        "title": "The final years and the fall",
+        "refs": [
+          "Jer 34-45"
+        ],
+        "children": [
+          {
+            "title": "The scroll burned by Jehoiakim",
+            "refs": [
+              "Jer 36"
+            ]
+          },
+          {
+            "title": "Imprisonment and the fall of Jerusalem",
+            "refs": [
+              "Jer 37-39"
+            ]
+          },
+          {
+            "title": "Aftermath and flight to Egypt",
+            "refs": [
+              "Jer 40-44"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oracles against the nations",
+        "refs": [
+          "Jer 46-51"
+        ]
+      },
+      {
+        "title": "Historical appendix: the fall of Jerusalem",
+        "refs": [
+          "Jer 52"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Jer 1:4-10",
+      "Jer 7:1-11",
+      "Jer 17:9",
+      "Jer 20:9",
+      "Jer 29:7",
+      "Jer 29:11",
+      "Jer 31:31-34"
+    ],
+    "bigStory": "Jeremiah witnesses the end of the old order of king, temple and land, but promises a new covenant in which God will forgive sin and write his law on hearts. Jesus speaks of 'the new covenant in my blood' at the Last Supper (Luke 22:20), and Hebrews quotes Jer 31:31-34 at length as fulfilled in Christ (Heb 8:8-12).",
+    "canonNote": "One of the Latter Prophets in the Hebrew Bible. The Septuagint is about one-eighth shorter than the Hebrew and places the oracles against the nations after Jer 25:13 in a different order; Hebrew fragments from Qumran (e.g. 4QJer-b) support the shorter form, so both may represent ancient editions. On Baruch and the Letter of Jeremiah, see the note on Lamentations."
+  },
+  {
+    "id": "lamentations",
+    "abbr": "Lam",
+    "name": "Lamentations",
+    "testament": "OT",
+    "genre": "Poetry (communal and individual laments, mostly acrostic)",
+    "authorship": {
+      "traditional": "Jeremiah. The Septuagint opens with a note that Jeremiah sat weeping and lamented over Jerusalem, and 2 Chr 35:25 records that he composed laments (for Josiah). The Talmud also credits Jeremiah (Baba Bathra 15a).",
+      "scholarly": "The book is anonymous in Hebrew. Many scholars think it was written by one or more poets who remained in Judah after 586 BC, noting differences in outlook from Jeremiah (e.g. Lam 4:17-20 appears to put hope in Egypt and in the king, which Jeremiah opposed). Others find the traditional link plausible. The five poems may come from different hands."
+    },
+    "date": {
+      "year": -580,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Later exilic compilation",
+          "year": -540
+        }
+      ]
+    },
+    "audience": "Survivors of Jerusalem's destruction, in Judah and in exile, who needed language for grief, confession and faint hope.",
+    "setting": "Jerusalem in ruins after the Babylonian siege and the burning of the temple in 586 BC.",
+    "purpose": "To grieve the destruction of Jerusalem honestly, to confess that it was the LORD's just judgment, and to cling to his steadfast love and faithfulness in the darkness.",
+    "themes": [
+      "Grief over the fallen city",
+      "Sin acknowledged and judgment accepted",
+      "God's steadfast love and new mercies",
+      "Honest protest and questions",
+      "Waiting and praying for restoration"
+    ],
+    "outline": [
+      {
+        "title": "The city as a desolate widow",
+        "refs": [
+          "Lam 1"
+        ]
+      },
+      {
+        "title": "The Lord's anger against Zion",
+        "refs": [
+          "Lam 2"
+        ]
+      },
+      {
+        "title": "The man who has seen affliction",
+        "refs": [
+          "Lam 3"
+        ],
+        "children": [
+          {
+            "title": "Personal lament",
+            "refs": [
+              "Lam 3:1-20"
+            ]
+          },
+          {
+            "title": "Hope in the LORD's mercies",
+            "refs": [
+              "Lam 3:21-39"
+            ]
+          },
+          {
+            "title": "Confession and plea",
+            "refs": [
+              "Lam 3:40-66"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The horrors of the siege",
+        "refs": [
+          "Lam 4"
+        ]
+      },
+      {
+        "title": "Communal prayer for restoration",
+        "refs": [
+          "Lam 5"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Lam 1:1",
+      "Lam 2:17",
+      "Lam 3:22-24",
+      "Lam 3:31-33",
+      "Lam 4:22",
+      "Lam 5:21-22"
+    ],
+    "bigStory": "Lamentations stands at the lowest point of Israel's story, after the covenant curses of Deut 28 have fallen, and shows how faith can still pray in the ruins. Jesus' own weeping over Jerusalem (Luke 19:41-44) and the New Testament hope of a renewed city draw on the same grief and hope.",
+    "canonNote": "Its Hebrew title *Eikhah* ('How!') is its first word. In the Hebrew Bible it is among the five Megillot in the Writings and is read on Tisha B'Av, the fast commemorating the temple's destruction; Christian Bibles, following the Septuagint, place it after Jeremiah. In Catholic and Orthodox Bibles it is followed by the deuterocanonical *Baruch*, attributed to Jeremiah's scribe, which includes a confession, a wisdom poem and words of comfort to Jerusalem. The *Letter of Jeremiah*, a polemic against idols, is printed as Baruch 6 in Catholic Bibles and as a separate book in Orthodox Bibles. Protestant Bibles that print them place them among the Apocrypha."
+  },
+  {
+    "id": "ezekiel",
+    "abbr": "Ezek",
+    "name": "Ezekiel",
+    "testament": "OT",
+    "genre": "Prophecy (visions, sign-acts, allegories and oracles)",
+    "authorship": {
+      "traditional": "Ezekiel son of Buzi, a priest taken to Babylon with King Jehoiachin in 597 BC, who received his visions by the Chebar canal (Ezek 1:1-3). The book is mostly written in the first person and is precisely dated. The Talmud says the 'Men of the Great Assembly' wrote it down (Baba Bathra 15a).",
+      "scholarly": "Most scholars accept that the bulk of the book goes back to Ezekiel, with expansion and arrangement by his disciples (Walther Zimmerli's 'school of Ezekiel'). Earlier critics such as Gustav Hölscher (1924) attributed only a small portion of poetry to the prophet; Moshe Greenberg's 'holistic' reading defended the book's coherence. The temple vision (Ezek 40-48) is often seen as containing later priestly elaboration."
+    },
+    "date": {
+      "year": -571,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "First vision",
+          "year": -593
+        },
+        {
+          "label": "Later editorial completion",
+          "year": -520
+        }
+      ]
+    },
+    "audience": "Judean exiles in Babylon who thought Jerusalem could not fall, and later, after it fell, who thought they had no future.",
+    "setting": "Tel-abib by the Chebar canal in Babylonia, between the first deportation (597 BC) and the 27th year of Jehoiachin's exile (571 BC, Ezek 29:17).",
+    "purpose": "To vindicate God's holiness by showing that Jerusalem's fall was just, as the glory of the LORD departed from a defiled temple, and then to promise a new heart, a new spirit, a Davidic shepherd, national resurrection and a renewed temple where 'the LORD is there'.",
+    "themes": [
+      "The glory and holiness of God",
+      "'They shall know that I am the LORD'",
+      "Individual responsibility",
+      "The watchman and the shepherd",
+      "New heart and new spirit",
+      "Restored temple and land"
+    ],
+    "outline": [
+      {
+        "title": "Vision of God's glory and Ezekiel's call",
+        "refs": [
+          "Ezek 1-3"
+        ]
+      },
+      {
+        "title": "Judgment on Jerusalem",
+        "refs": [
+          "Ezek 4-24"
+        ],
+        "children": [
+          {
+            "title": "Sign-acts of the siege",
+            "refs": [
+              "Ezek 4-5"
+            ]
+          },
+          {
+            "title": "Temple abominations; the glory departs",
+            "refs": [
+              "Ezek 8-11"
+            ]
+          },
+          {
+            "title": "Allegories of unfaithfulness",
+            "refs": [
+              "Ezek 16"
+            ]
+          },
+          {
+            "title": "Individual responsibility",
+            "refs": [
+              "Ezek 18"
+            ]
+          },
+          {
+            "title": "Death of Ezekiel's wife; siege begins",
+            "refs": [
+              "Ezek 24"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oracles against the nations",
+        "refs": [
+          "Ezek 25-32"
+        ]
+      },
+      {
+        "title": "Restoration",
+        "refs": [
+          "Ezek 33-39"
+        ],
+        "children": [
+          {
+            "title": "The watchman; news of Jerusalem's fall",
+            "refs": [
+              "Ezek 33"
+            ]
+          },
+          {
+            "title": "The good shepherd",
+            "refs": [
+              "Ezek 34"
+            ]
+          },
+          {
+            "title": "New heart and new spirit",
+            "refs": [
+              "Ezek 36"
+            ]
+          },
+          {
+            "title": "Valley of dry bones; two sticks joined",
+            "refs": [
+              "Ezek 37"
+            ]
+          },
+          {
+            "title": "Gog of Magog",
+            "refs": [
+              "Ezek 38-39"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vision of the new temple and land",
+        "refs": [
+          "Ezek 40-48"
+        ],
+        "children": [
+          {
+            "title": "Temple measured; the glory returns",
+            "refs": [
+              "Ezek 40-43"
+            ]
+          },
+          {
+            "title": "Worship and priesthood",
+            "refs": [
+              "Ezek 44-46"
+            ]
+          },
+          {
+            "title": "River of life and the land divided",
+            "refs": [
+              "Ezek 47-48"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Ezek 1:28",
+      "Ezek 10:18-19",
+      "Ezek 18:31-32",
+      "Ezek 34:23-24",
+      "Ezek 36:26-27",
+      "Ezek 37:1-14",
+      "Ezek 48:35"
+    ],
+    "bigStory": "Ezekiel explains the exile as the departure of God's glory and promises its return in a renewed people and temple. Jesus presents himself as the good shepherd of Ezek 34 (John 10:11), the gift of the Spirit fulfils the promise of a new heart, and Revelation's river of life and holy city draw directly on Ezek 47-48 (Rev 22:1-2).",
+    "canonNote": "One of the Latter Prophets in the Hebrew Bible. The Talmud (Shabbat 13b) records that its acceptance was questioned because some of its temple regulations seemed to conflict with the Torah, until Hananiah ben Hezekiah worked out a reconciliation; rabbinic tradition also restricted public reading of its opening chariot vision."
+  },
+  {
+    "id": "daniel",
+    "abbr": "Dan",
+    "name": "Daniel",
+    "testament": "OT",
+    "genre": "Court narratives and apocalyptic visions",
+    "authorship": {
+      "traditional": "Daniel, a Judean exile taken to Babylon in 605 BC who served under Babylonian and Persian kings until at least the third year of Cyrus (Dan 1:21; Dan 10:1); the visions are written in the first person (Dan 7:2; Dan 8:1). Jesus refers to 'Daniel the prophet' (Matt 24:15). Defenders of a 6th-century date point to the book's place among the Qumran scrolls (with copies dating from the late 2nd century BC), its knowledge of Babylonian figures such as Belshazzar (once doubted, later confirmed by cuneiform texts), and to predictive prophecy as a real possibility.",
+      "scholarly": "Most critical scholars date the final book to 167–164 BC, during the persecution of Jews by the Seleucid king Antiochus IV Epiphanes, an argument first made by the Neoplatonist Porphyry (3rd c. AD). They note that the vision of Dan 11 describes Hellenistic history in increasing detail up to Antiochus' desecration of the temple (Dan 11:31) but does not match the circumstances of his death (Dan 11:40-45), suggesting composition just before 164 BC. Many hold that the court stories of Dan 1-6 are older traditions from the Persian or early Hellenistic period, joined to the visions of Dan 7-12 to encourage the persecuted."
+    },
+    "date": {
+      "year": -535,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Maccabean-era composition (final form)",
+          "year": -165
+        },
+        {
+          "label": "Court tales of Dan 1-6 (Persian/early Hellenistic)",
+          "year": -300
+        }
+      ]
+    },
+    "audience": "Jews living under pagan empires, whether exiles in Babylon (traditional view) or faithful Jews persecuted under Antiochus IV (critical view), called to remain faithful and trust God's coming kingdom.",
+    "setting": "The Babylonian court of Nebuchadnezzar and Belshazzar and the Persian court of Darius the Mede and Cyrus, from 605 BC to about 536 BC; the visions look forward through Persian and Greek empires to the end.",
+    "purpose": "To show that the God of Israel rules over the kingdoms of the world, gives them to whom he wills and will finally establish an everlasting kingdom; and to encourage faithful conduct and endurance under pressure, with hope of resurrection.",
+    "themes": [
+      "God's sovereignty over world empires",
+      "Faithfulness in a hostile culture",
+      "The kingdom of God and the Son of Man",
+      "Persecution and endurance",
+      "Resurrection and final judgment"
+    ],
+    "outline": [
+      {
+        "title": "Prologue: faithful exiles at the king's table (Hebrew)",
+        "refs": [
+          "Dan 1"
+        ]
+      },
+      {
+        "title": "God rules the kingdoms of men (Aramaic section)",
+        "refs": [
+          "Dan 2-7"
+        ],
+        "children": [
+          {
+            "title": "Nebuchadnezzar's dream of four kingdoms",
+            "refs": [
+              "Dan 2"
+            ]
+          },
+          {
+            "title": "The fiery furnace",
+            "refs": [
+              "Dan 3"
+            ]
+          },
+          {
+            "title": "Nebuchadnezzar humbled",
+            "refs": [
+              "Dan 4"
+            ]
+          },
+          {
+            "title": "The writing on the wall",
+            "refs": [
+              "Dan 5"
+            ]
+          },
+          {
+            "title": "Daniel in the lions' den",
+            "refs": [
+              "Dan 6"
+            ]
+          },
+          {
+            "title": "Four beasts and the Son of Man",
+            "refs": [
+              "Dan 7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Visions of the end (Hebrew)",
+        "refs": [
+          "Dan 8-12"
+        ],
+        "children": [
+          {
+            "title": "The ram and the goat",
+            "refs": [
+              "Dan 8"
+            ]
+          },
+          {
+            "title": "Daniel's prayer and the seventy weeks",
+            "refs": [
+              "Dan 9"
+            ]
+          },
+          {
+            "title": "Final vision: kings of north and south; resurrection",
+            "refs": [
+              "Dan 10-12"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Dan 1:8",
+      "Dan 2:44",
+      "Dan 3:17-18",
+      "Dan 6:10",
+      "Dan 7:13-14",
+      "Dan 9:24-27",
+      "Dan 12:2-3"
+    ],
+    "bigStory": "Daniel widens the biblical story to the scale of world empires and announces that God's kingdom will replace them all. Jesus' favourite self-designation, 'the Son of Man', and his claim to come 'with the clouds of heaven' (Mark 14:62) draw on Dan 7, and Revelation reuses Daniel's imagery extensively.",
+    "canonNote": "The book is bilingual: Dan 1:1-2:4 and Dan 8-12 are in Hebrew, Dan 2:4-7:28 in Aramaic. In the Hebrew Bible Daniel is placed among the Writings rather than the Prophets; Christian Bibles, following the Septuagint, place it with the major prophets. Greek Daniel contains additions that are canonical in Catholic (deuterocanonical) and Orthodox Bibles: the *Prayer of Azariah* and the *Song of the Three Young Men* (inserted in Dan 3 after Dan 3:23), *Susanna* (Daniel rescues a falsely accused woman; chapter 13 in Catholic Bibles) and *Bel and the Dragon* (Daniel exposes idol worship; chapter 14). Protestant Bibles that print them place them among the Apocrypha. The church adopted the Greek version attributed to Theodotion in place of the Old Greek translation."
+  },
+  {
+    "id": "hosea",
+    "abbr": "Hos",
+    "name": "Hosea",
+    "testament": "OT",
+    "genre": "Prophecy (symbolic marriage narrative and poetic oracles)",
+    "authorship": {
+      "traditional": "Hosea son of Beeri, a prophet to the northern kingdom of Israel in the reigns of Jeroboam II of Israel and Uzziah through Hezekiah of Judah (Hos 1:1).",
+      "scholarly": "Most scholars accept that the oracles largely go back to Hosea in the northern kingdom, preserved after Samaria's fall by refugees in Judah, who added Judean references and some hopeful passages. The extent of this Judean editing is debated. The Hebrew text is notoriously difficult, possibly reflecting a northern dialect."
+    },
+    "date": {
+      "year": -730,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Start of ministry under Jeroboam II",
+          "year": -755
+        },
+        {
+          "label": "Judean edition after the fall of Samaria",
+          "year": -700
+        }
+      ]
+    },
+    "audience": "The northern kingdom of Israel (often called Ephraim) in its final prosperous and then chaotic decades before Assyria destroyed it.",
+    "setting": "Israel from the late reign of Jeroboam II (died c. 753 BC) through a series of coups and assassinations to the eve of the fall of Samaria in 722 BC.",
+    "purpose": "To expose Israel's spiritual adultery in Baal worship, political alliances and empty ritual, to announce judgment, and to reveal God's unrelenting covenant love that will woo his people back.",
+    "themes": [
+      "Covenant as marriage; idolatry as adultery",
+      "Lack of knowledge of God",
+      "Steadfast love over sacrifice",
+      "God's anguished, faithful love",
+      "Judgment leading to restoration"
+    ],
+    "outline": [
+      {
+        "title": "Hosea's marriage as a sign",
+        "refs": [
+          "Hos 1-3"
+        ],
+        "children": [
+          {
+            "title": "Gomer and the children's names",
+            "refs": [
+              "Hos 1"
+            ]
+          },
+          {
+            "title": "Unfaithful wife, faithful husband",
+            "refs": [
+              "Hos 2"
+            ]
+          },
+          {
+            "title": "Hosea buys back his wife",
+            "refs": [
+              "Hos 3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Charges against Israel: no knowledge of God",
+        "refs": [
+          "Hos 4-10"
+        ]
+      },
+      {
+        "title": "God's love for Israel his son; judgment and grief",
+        "refs": [
+          "Hos 11-13"
+        ]
+      },
+      {
+        "title": "Call to return and promise of healing",
+        "refs": [
+          "Hos 14"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Hos 1:2",
+      "Hos 2:19-20",
+      "Hos 3:1",
+      "Hos 6:6",
+      "Hos 11:1",
+      "Hos 11:8-9",
+      "Hos 14:4"
+    ],
+    "bigStory": "Hosea pictures the whole covenant story as a marriage betrayed and restored, a theme that runs through Scripture to the marriage of the Lamb in Revelation. Jesus quotes Hos 6:6 ('I desired mercy, and not sacrifice') twice (Matt 9:13; Matt 12:7), Matthew applies 'out of Egypt have I called my son' to Jesus (Matt 2:15), and Paul uses Hosea's renamed children for the inclusion of Gentiles (Rom 9:25-26).",
+    "canonNote": "Hosea opens the Book of the Twelve (the Minor Prophets), counted as a single book in the Hebrew Bible and already known as 'the twelve prophets' by Ben Sira (c. 180 BC). The Septuagint orders the first six differently: Hosea, Amos, Micah, Joel, Obadiah, Jonah. The Hebrew text is divided into chapters slightly differently (English Hos 1:10-2:1 and Hos 11:12 fall in neighbouring chapters)."
+  },
+  {
+    "id": "joel",
+    "abbr": "Joel",
+    "name": "Joel",
+    "testament": "OT",
+    "genre": "Prophecy (lament and eschatological oracles)",
+    "authorship": {
+      "traditional": "Joel son of Pethuel (Joel 1:1), about whom nothing else is known. Some traditional scholars place him early, in the minority of King Joash (c. 835 BC), since the book names no king and mentions enemies such as Philistines and Edom.",
+      "scholarly": "Many scholars date the book to the Persian period (c. 400 BC), noting the absence of a king, the prominence of priests and elders, the mention of Greeks as slave traders (Joel 3:6), a standing city wall (Joel 2:9) and frequent quotation of other prophets. Others propose a late pre-exilic date. Some scholars argue that the book's second half was added to an original locust lament, while others defend its unity."
+    },
+    "date": {
+      "year": -400,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Early date under Joash",
+          "year": -835
+        },
+        {
+          "label": "Late pre-exilic",
+          "year": -600
+        },
+        {
+          "label": "Early Persian period",
+          "year": -500
+        }
+      ]
+    },
+    "audience": "The people of Judah and Jerusalem, especially priests and elders, in a time of devastating locust plague and drought.",
+    "setting": "Judah and Jerusalem with an active temple, after or during a catastrophic locust invasion.",
+    "purpose": "To interpret the locust plague as a warning of the coming Day of the LORD, to call the people to wholehearted repentance, and to promise restoration of the land, the outpouring of God's Spirit on all people and judgment on the nations.",
+    "themes": [
+      "The Day of the LORD",
+      "Return to God with all the heart",
+      "God's compassion and restoration",
+      "The Spirit poured out on all flesh",
+      "Judgment of the nations and security for Zion"
+    ],
+    "outline": [
+      {
+        "title": "Locust plague and call to lament",
+        "refs": [
+          "Joel 1:1-2:17"
+        ]
+      },
+      {
+        "title": "The LORD's answer: restoration and the Spirit",
+        "refs": [
+          "Joel 2:18-32"
+        ],
+        "children": [
+          {
+            "title": "Restoration of the land",
+            "refs": [
+              "Joel 2:18-27"
+            ]
+          },
+          {
+            "title": "The Spirit poured out on all flesh",
+            "refs": [
+              "Joel 2:28-32"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Judgment of the nations and blessing for Judah",
+        "refs": [
+          "Joel 3"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Joel 1:4",
+      "Joel 2:12-13",
+      "Joel 2:25",
+      "Joel 2:28-32",
+      "Joel 3:14",
+      "Joel 3:18"
+    ],
+    "bigStory": "Joel looks beyond judgment to a day when God's Spirit will rest not only on prophets and kings but on all his people. Peter's sermon at Pentecost declares that this promise is fulfilled (Acts 2:16-21), and Paul cites Joel's 'whosoever shall call on the name of the LORD shall be delivered' as including Jew and Gentile alike (Rom 10:13).",
+    "canonNote": "Second book of the Twelve in the Hebrew order. Hebrew Bibles divide Joel into four chapters: English Joel 2:28-32 is Hebrew 3:1-5, and English Joel 3 is Hebrew 4."
+  },
+  {
+    "id": "amos",
+    "abbr": "Amos",
+    "name": "Amos",
+    "testament": "OT",
+    "genre": "Prophecy (oracles, visions and a short narrative)",
+    "authorship": {
+      "traditional": "Amos, a herdsman and dresser of sycamore figs from Tekoa in Judah, called to prophesy against the northern kingdom (Amos 1:1; Amos 7:14-15). He is often called the first of the 'writing prophets'.",
+      "scholarly": "Most scholars attribute the core oracles to Amos in the mid 8th century BC. Several passages are widely debated as later additions, especially the oracle against Judah (Amos 2:4-5), the hymn fragments (e.g. Amos 4:13; Amos 5:8-9) and the hopeful ending (Amos 9:11-15), which many date to the exile; others argue they fit Amos' own message, since judgment and hope are paired in many prophets."
+    },
+    "date": {
+      "year": -760,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Exilic edition including Amos 9:11-15",
+          "year": -550
+        }
+      ]
+    },
+    "audience": "The prosperous northern kingdom of Israel, especially its wealthy elite and the royal sanctuary at Bethel.",
+    "setting": "The reign of Jeroboam II of Israel and Uzziah of Judah, 'two years before the earthquake' (Amos 1:1), a period of expansion, wealth and complacency.",
+    "purpose": "To confront Israel's social injustice, exploitation of the poor and hollow worship, to announce that the Day of the LORD will be darkness for them, and to call for justice to roll down like waters.",
+    "themes": [
+      "Social justice and care for the poor",
+      "God's sovereignty over all nations",
+      "Privilege brings responsibility",
+      "Empty worship rejected",
+      "The Day of the LORD as judgment",
+      "Restoration of David's fallen tent"
+    ],
+    "outline": [
+      {
+        "title": "Oracles against the nations, climaxing with Israel",
+        "refs": [
+          "Amos 1-2"
+        ]
+      },
+      {
+        "title": "Words against Israel",
+        "refs": [
+          "Amos 3-6"
+        ],
+        "children": [
+          {
+            "title": "Chosen and therefore judged",
+            "refs": [
+              "Amos 3"
+            ]
+          },
+          {
+            "title": "Cows of Bashan; 'yet you did not return'",
+            "refs": [
+              "Amos 4"
+            ]
+          },
+          {
+            "title": "Seek the LORD and live; let justice roll down",
+            "refs": [
+              "Amos 5"
+            ]
+          },
+          {
+            "title": "Woe to those at ease in Zion",
+            "refs": [
+              "Amos 6"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Five visions",
+        "refs": [
+          "Amos 7:1-9:10"
+        ],
+        "children": [
+          {
+            "title": "Locusts, fire and plumb line",
+            "refs": [
+              "Amos 7:1-9"
+            ]
+          },
+          {
+            "title": "Confrontation with Amaziah at Bethel",
+            "refs": [
+              "Amos 7:10-17"
+            ]
+          },
+          {
+            "title": "Basket of summer fruit; famine of the word",
+            "refs": [
+              "Amos 8"
+            ]
+          },
+          {
+            "title": "The LORD at the altar",
+            "refs": [
+              "Amos 9:1-10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Restoration of David's fallen tent",
+        "refs": [
+          "Amos 9:11-15"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Amos 1:1-2",
+      "Amos 3:2",
+      "Amos 4:1",
+      "Amos 5:21-24",
+      "Amos 7:14-15",
+      "Amos 8:11",
+      "Amos 9:11-12"
+    ],
+    "bigStory": "Amos insists that God's covenant people are held to his standard of justice and that religious privilege offers no protection from judgment. At the Jerusalem council James cites Amos 9:11-12 to show that the inclusion of Gentiles fulfils the promised rebuilding of David's tent (Acts 15:15-17).",
+    "canonNote": "Third book of the Twelve in the Hebrew order; second in the Septuagint. The Septuagint of Amos 9:11-12 differs from the Hebrew ('the rest of men may seek the Lord' rather than 'possess the remnant of Edom'); Acts 15 follows the Greek."
+  },
+  {
+    "id": "obadiah",
+    "abbr": "Obad",
+    "name": "Obadiah",
+    "testament": "OT",
+    "genre": "Prophecy (oracle against a nation)",
+    "authorship": {
+      "traditional": "Obadiah ('servant of the LORD'), otherwise unknown. Some Jewish tradition identified him with Ahab's steward Obadiah (1 Kgs 18:3), though most traditional scholars do not accept this.",
+      "scholarly": "Anonymous beyond the name. Because it closely parallels Jer 49:7-22 and seems to describe Edom's gloating at Jerusalem's fall (compare Ps 137:7), most scholars date it shortly after 586 BC. A minority of conservative scholars link it to an earlier Edomite revolt and raid in the reign of Jehoram (2 Kgs 8:20-22), c. 845 BC."
+    },
+    "date": {
+      "year": -580,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Early date under Jehoram of Judah",
+          "year": -845
+        }
+      ]
+    },
+    "audience": "Judah, grieving the destruction of Jerusalem and the betrayal of Edom, their 'brother' nation descended from Esau.",
+    "setting": "The aftermath of an attack on Jerusalem in which Edom looted the city and handed over refugees, most likely the Babylonian conquest of 586 BC.",
+    "purpose": "To announce God's judgment on Edom's pride and violence against Judah, and to promise that on the Day of the LORD Zion will be restored and 'the kingdom shall be the LORD's'.",
+    "themes": [
+      "Pride goes before a fall",
+      "Betrayal of a brother",
+      "As you have done, it will be done to you",
+      "The Day of the LORD for all nations",
+      "The kingdom belongs to the LORD"
+    ],
+    "outline": [
+      {
+        "title": "Edom's pride brought low",
+        "refs": [
+          "Obad 1:1-9"
+        ]
+      },
+      {
+        "title": "Edom's violence against his brother Jacob",
+        "refs": [
+          "Obad 1:10-14"
+        ]
+      },
+      {
+        "title": "The Day of the LORD and Zion's restoration",
+        "refs": [
+          "Obad 1:15-21"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Obad 1:3-4",
+      "Obad 1:10-11",
+      "Obad 1:15",
+      "Obad 1:17",
+      "Obad 1:21"
+    ],
+    "bigStory": "Obadiah continues the long story of Jacob and Esau that began in Genesis, showing that hostility to God's people will not have the last word. Its closing note that 'the kingdom shall be the LORD's' points toward the universal reign of God proclaimed in the Gospels and Revelation (Rev 11:15).",
+    "canonNote": "Fourth book of the Twelve in the Hebrew order and the shortest book of the Old Testament (21 verses). Its relation to Jer 49:7-22 suggests either borrowing in one direction or a shared earlier oracle."
+  },
+  {
+    "id": "jonah",
+    "abbr": "Jonah",
+    "name": "Jonah",
+    "testament": "OT",
+    "genre": "Narrative about a prophet (historical narrative or didactic story, debated) with a psalm",
+    "authorship": {
+      "traditional": "Jonah son of Amittai, a prophet from Gath-hepher in the reign of Jeroboam II (2 Kgs 14:25), or someone writing soon after about him. Jesus speaks of Jonah's sign and of Nineveh's repentance alongside historical figures such as the queen of the south (Matt 12:39-42), which many take as treating the story as historical.",
+      "scholarly": "The book is written about Jonah in the third person, by an anonymous author. Many critical scholars date it to the Persian period, citing late linguistic features and its theme of God's mercy to foreigners, and read it as a didactic story, parable or satire rather than history; others hold that it reflects a real prophet's experience. Some regard the psalm in Jonah 2 as an earlier composition inserted into the narrative."
+    },
+    "date": {
+      "year": -760,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Late monarchy",
+          "year": -650
+        },
+        {
+          "label": "Persian period",
+          "year": -450
+        }
+      ]
+    },
+    "audience": "Israelites who resented God's mercy to their enemies and assumed his favour belonged to them alone.",
+    "setting": "Joppa, the Mediterranean Sea and the great Assyrian city of Nineveh in the 8th century BC, before Assyria destroyed Israel.",
+    "purpose": "To show the sovereign mercy of God toward all peoples, even Israel's worst enemies, to expose the prophet's (and readers') narrow resentment, and to end with God's open question about compassion.",
+    "themes": [
+      "God's compassion for the nations",
+      "Running from God's call",
+      "Repentance and divine relenting",
+      "God's sovereignty over creation",
+      "Anger at grace"
+    ],
+    "outline": [
+      {
+        "title": "Jonah flees; storm and the great fish",
+        "refs": [
+          "Jonah 1"
+        ]
+      },
+      {
+        "title": "Jonah's prayer from the fish",
+        "refs": [
+          "Jonah 2"
+        ]
+      },
+      {
+        "title": "Nineveh repents; God relents",
+        "refs": [
+          "Jonah 3"
+        ]
+      },
+      {
+        "title": "Jonah's anger and God's question",
+        "refs": [
+          "Jonah 4"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Jonah 1:3",
+      "Jonah 1:17",
+      "Jonah 2:9",
+      "Jonah 3:4-5",
+      "Jonah 4:2",
+      "Jonah 4:10-11"
+    ],
+    "bigStory": "Jonah reminds Israel that the God who chose Abraham meant to bless all nations, a purpose fulfilled when the gospel goes to the Gentiles. Jesus calls his own death and resurrection 'the sign of the prophet Jonah' (Matt 12:39-41).",
+    "canonNote": "Fifth book of the Twelve in the Hebrew order; sixth in the Septuagint. It is read in the synagogue on the afternoon of Yom Kippur as a lesson in repentance. Hebrew Bibles number English Jonah 1:17 as 2:1, so Jonah 2 has eleven verses in Hebrew."
+  },
+  {
+    "id": "micah",
+    "abbr": "Mic",
+    "name": "Micah",
+    "testament": "OT",
+    "genre": "Prophecy (judgment and salvation oracles)",
+    "authorship": {
+      "traditional": "Micah of Moresheth, a town in the Judean lowlands, who prophesied in the reigns of Jotham, Ahaz and Hezekiah (Mic 1:1). A century later the elders of Judah quoted his warning against Jerusalem (Jer 26:18).",
+      "scholarly": "There is broad agreement that most of Mic 1-3 comes from Micah in the late 8th century BC. The hopeful oracles in Mic 4-5 and the material in Mic 6-7 are debated: many scholars regard parts as exilic or post-exilic additions, others as Micah's own words or from his circle. Mic 4:1-3 is nearly identical to Isa 2:2-4, and scholars debate which is the source or whether both draw on a common oracle."
+    },
+    "date": {
+      "year": -715,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Final edition with exilic and post-exilic additions",
+          "year": -500
+        }
+      ]
+    },
+    "audience": "Judah and Jerusalem, and also Samaria, in the late 8th century, especially corrupt rulers, priests and prophets who exploited the poor.",
+    "setting": "The era of Assyrian expansion: the fall of Samaria (722 BC) and Sennacherib's invasion of Judah (701 BC), which devastated Micah's own lowland region.",
+    "purpose": "To announce judgment on both Samaria and Jerusalem for injustice and false religion, to promise a remnant and a ruler from Bethlehem who will shepherd God's people, and to summarise what the LORD requires.",
+    "themes": [
+      "Justice for the poor and judgment on corrupt leaders",
+      "False prophets for hire",
+      "The ruler from Bethlehem",
+      "Nations streaming to Zion in peace",
+      "Do justly, love mercy, walk humbly",
+      "God who pardons and delights in mercy"
+    ],
+    "outline": [
+      {
+        "title": "Judgment on Samaria and Jerusalem",
+        "refs": [
+          "Mic 1-3"
+        ],
+        "children": [
+          {
+            "title": "The LORD comes against Samaria and Judah",
+            "refs": [
+              "Mic 1"
+            ]
+          },
+          {
+            "title": "Woe to those who seize fields",
+            "refs": [
+              "Mic 2"
+            ]
+          },
+          {
+            "title": "Corrupt rulers and prophets; Zion ploughed",
+            "refs": [
+              "Mic 3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hope for Zion",
+        "refs": [
+          "Mic 4-5"
+        ],
+        "children": [
+          {
+            "title": "Swords into ploughshares",
+            "refs": [
+              "Mic 4"
+            ]
+          },
+          {
+            "title": "The ruler from Bethlehem",
+            "refs": [
+              "Mic 5"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Covenant lawsuit and final hope",
+        "refs": [
+          "Mic 6-7"
+        ],
+        "children": [
+          {
+            "title": "What the LORD requires",
+            "refs": [
+              "Mic 6"
+            ]
+          },
+          {
+            "title": "Lament and confident hope",
+            "refs": [
+              "Mic 7"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Mic 1:1",
+      "Mic 3:12",
+      "Mic 4:1-4",
+      "Mic 5:2",
+      "Mic 6:8",
+      "Mic 7:18-20"
+    ],
+    "bigStory": "Micah holds together God's judgment on injustice and his promise of a Davidic shepherd who will bring peace to the ends of the earth. The chief priests and scribes cite Mic 5:2 to tell Herod where the Messiah would be born (Matt 2:5-6), and Mic 7:20 recalls God's oath to Abraham and Jacob.",
+    "canonNote": "Sixth book of the Twelve in the Hebrew order; third in the Septuagint. Hebrew Bibles number English Mic 5:1 as 4:14, so English Mic 5:2 is Hebrew 5:1."
+  },
+  {
+    "id": "nahum",
+    "abbr": "Nah",
+    "name": "Nahum",
+    "testament": "OT",
+    "genre": "Prophecy (oracle against a nation, vivid poetry)",
+    "authorship": {
+      "traditional": "Nahum the Elkoshite (Nah 1:1); the location of Elkosh is unknown.",
+      "scholarly": "Generally accepted as the work of a 7th-century Judean prophet. Nah 1 contains a partial alphabetic acrostic hymn, which some regard as an independent psalm adapted as an introduction. The reference to the fall of Thebes (No-Amon) to Assyria in 663 BC (Nah 3:8) and the anticipation of Nineveh's fall in 612 BC set the window of composition."
+    },
+    "date": {
+      "year": -630,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Shortly after the fall of Thebes",
+          "year": -660
+        },
+        {
+          "label": "Just before Nineveh's fall",
+          "year": -615
+        }
+      ]
+    },
+    "audience": "Judah, long oppressed by Assyria, assured that the cruel empire would fall.",
+    "setting": "Judah under Assyrian domination, between 663 and 612 BC, when Nineveh was destroyed by the Babylonians and Medes.",
+    "purpose": "To proclaim that the LORD, though slow to anger, will not leave the guilty unpunished, and that Nineveh's violent empire will be destroyed, bringing good news of peace to Judah.",
+    "themes": [
+      "God's justice against oppressive power",
+      "The LORD is slow to anger yet great in power",
+      "Refuge for those who trust him",
+      "The end of the bloody city",
+      "Good news of peace"
+    ],
+    "outline": [
+      {
+        "title": "The LORD's character: avenger and refuge",
+        "refs": [
+          "Nah 1"
+        ]
+      },
+      {
+        "title": "The fall of Nineveh described",
+        "refs": [
+          "Nah 2"
+        ]
+      },
+      {
+        "title": "Woe to the bloody city",
+        "refs": [
+          "Nah 3"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Nah 1:2-3",
+      "Nah 1:7",
+      "Nah 1:15",
+      "Nah 2:13",
+      "Nah 3:1",
+      "Nah 3:19"
+    ],
+    "bigStory": "Nahum is a sequel to Jonah: the same Nineveh that once repented has returned to violence, and God's patience gives way to judgment. Its announcement of the herald 'that bringeth good tidings, that publisheth peace' (Nah 1:15) parallels Isa 52:7, which Paul applies to gospel preachers (Rom 10:15).",
+    "canonNote": "Seventh book of the Twelve. Hebrew Bibles number English Nah 1:15 as 2:1."
+  },
+  {
+    "id": "habakkuk",
+    "abbr": "Hab",
+    "name": "Habakkuk",
+    "testament": "OT",
+    "genre": "Prophecy (dialogue with God, woe oracles and a psalm)",
+    "authorship": {
+      "traditional": "Habakkuk the prophet (Hab 1:1; Hab 3:1), about whom the book says nothing more. A later legend in the Greek additions to Daniel (Bel and the Dragon) has him carry food to Daniel in the lions' den.",
+      "scholarly": "Generally attributed to a Judean prophet of the late 7th century BC. Some scholars think the psalm in Hab 3, with its musical notations, circulated separately; the Qumran commentary (Pesher Habakkuk, 1QpHab) covers only Hab 1-2, though this may reflect the commentator's purpose rather than a shorter book."
+    },
+    "date": {
+      "year": -605,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Before the Babylonian rise (predictive)",
+          "year": -625
+        },
+        {
+          "label": "After the first Babylonian invasion",
+          "year": -597
+        }
+      ]
+    },
+    "audience": "Faithful Judeans troubled by injustice at home and by God's use of the brutal Babylonians to punish it.",
+    "setting": "Judah in the reign of Jehoiakim, as the Chaldeans (Babylonians) rose to dominance after the battle of Carchemish (605 BC).",
+    "purpose": "To wrestle honestly with God over evil and injustice, to receive the answer that the righteous shall live by faith(fulness) while the proud oppressor will fall, and to model trust and joy in God even amid loss.",
+    "themes": [
+      "Honest questions to God",
+      "The righteous shall live by faith",
+      "God's justice against the proud",
+      "The earth filled with the knowledge of God's glory",
+      "Joy in God when everything fails"
+    ],
+    "outline": [
+      {
+        "title": "First complaint and God's answer: the Chaldeans",
+        "refs": [
+          "Hab 1:1-11"
+        ]
+      },
+      {
+        "title": "Second complaint: how can the holy God use the wicked?",
+        "refs": [
+          "Hab 1:12-2:1"
+        ]
+      },
+      {
+        "title": "God's answer: the vision and five woes",
+        "refs": [
+          "Hab 2:2-20"
+        ],
+        "children": [
+          {
+            "title": "The just shall live by faith",
+            "refs": [
+              "Hab 2:2-5"
+            ]
+          },
+          {
+            "title": "Five woes against the oppressor",
+            "refs": [
+              "Hab 2:6-20"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Habakkuk's prayer and song of trust",
+        "refs": [
+          "Hab 3"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Hab 1:2-4",
+      "Hab 1:13",
+      "Hab 2:4",
+      "Hab 2:14",
+      "Hab 2:20",
+      "Hab 3:17-19"
+    ],
+    "bigStory": "Habakkuk shows faith learning to wait for God's justice through the coming catastrophe of exile. Its statement that 'the just shall live by his faith' (Hab 2:4) is quoted three times in the New Testament (Rom 1:17; Gal 3:11; Heb 10:38) and became central to Paul's teaching and to the Reformation.",
+    "canonNote": "Eighth book of the Twelve. The Septuagint of Hab 2:4 reads 'the righteous shall live by my faith(fulness)', and Heb 10:37-38 follows a form of the Greek."
+  },
+  {
+    "id": "zephaniah",
+    "abbr": "Zeph",
+    "name": "Zephaniah",
+    "testament": "OT",
+    "genre": "Prophecy (Day of the LORD oracles)",
+    "authorship": {
+      "traditional": "Zephaniah, whose genealogy is traced back four generations to a Hezekiah (Zeph 1:1), often taken to be King Hezekiah, which would make the prophet a member of the royal family.",
+      "scholarly": "Most scholars accept a core from Zephaniah in Josiah's reign, probably before the reform of 622 BC since idolatrous practices are still openly condemned. The hopeful passages in Zeph 3:9-20 are attributed by some to exilic or post-exilic editors and defended by others as integral."
+    },
+    "date": {
+      "year": -630,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Later in Josiah's reign",
+          "year": -615
+        },
+        {
+          "label": "Exilic additions to Zeph 3",
+          "year": -540
+        }
+      ]
+    },
+    "audience": "Judah and Jerusalem under King Josiah, including officials, priests and those mixing worship of the LORD with Baal and astral gods.",
+    "setting": "Jerusalem during the reign of Josiah (640–609 BC), as Assyrian power declined.",
+    "purpose": "To warn of the great and terrible Day of the LORD against Judah and the nations, to urge the humble to seek the LORD, and to promise a purified remnant over whom God will rejoice with singing.",
+    "themes": [
+      "The Day of the LORD",
+      "Seek righteousness and humility",
+      "Judgment on complacency",
+      "A humble remnant",
+      "God rejoicing over his people"
+    ],
+    "outline": [
+      {
+        "title": "The Day of the LORD against Judah",
+        "refs": [
+          "Zeph 1:1-2:3"
+        ]
+      },
+      {
+        "title": "Judgment on the nations",
+        "refs": [
+          "Zeph 2:4-15"
+        ]
+      },
+      {
+        "title": "Jerusalem's sin and restoration",
+        "refs": [
+          "Zeph 3"
+        ],
+        "children": [
+          {
+            "title": "Woe to the rebellious city",
+            "refs": [
+              "Zeph 3:1-8"
+            ]
+          },
+          {
+            "title": "Purified lips and a humble remnant",
+            "refs": [
+              "Zeph 3:9-13"
+            ]
+          },
+          {
+            "title": "Song of joy: the LORD in your midst",
+            "refs": [
+              "Zeph 3:14-20"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Zeph 1:1",
+      "Zeph 1:14-16",
+      "Zeph 2:3",
+      "Zeph 3:9",
+      "Zeph 3:17",
+      "Zeph 3:20"
+    ],
+    "bigStory": "Zephaniah gathers the prophetic theme of the Day of the LORD into a single sweeping vision of judgment followed by a joyful restored people. Its description of that day as a 'day of wrath' (Zeph 1:15) inspired the medieval hymn *Dies Irae*, and its picture of the LORD as king in Zion's midst anticipates the gospel's announcement of God dwelling with his people.",
+    "canonNote": "Ninth book of the Twelve and the last of the pre-exilic prophets in its order; Haggai, Zechariah and Malachi follow from the post-exilic period."
+  },
+  {
+    "id": "haggai",
+    "abbr": "Hag",
+    "name": "Haggai",
+    "testament": "OT",
+    "genre": "Prophecy (dated prophetic sermons with brief narrative)",
+    "authorship": {
+      "traditional": "Haggai the prophet, active with Zechariah in encouraging the rebuilding of the temple (Ezra 5:1; Ezra 6:14).",
+      "scholarly": "The messages are widely accepted as Haggai's, but they are reported in the third person, so many scholars think a close associate or editor arranged them soon afterward, perhaps together with Zech 1-8 as a combined work on the temple's rebuilding."
+    },
+    "date": {
+      "year": -520,
+      "confidence": "scholarly-consensus"
+    },
+    "audience": "Zerubbabel the governor, Joshua the high priest and the returned exiles in Jerusalem, who had let the temple lie in ruins while building their own houses.",
+    "setting": "Jerusalem in the second year of Darius I of Persia, between August and December 520 BC, about eighteen years after the first return.",
+    "purpose": "To rouse the community to rebuild the temple, to explain their economic hardship as the result of misplaced priorities, and to promise that God's glory would fill the house and that Zerubbabel would be his chosen signet ring.",
+    "themes": [
+      "Consider your ways: priorities and God's house",
+      "God's presence with his people",
+      "The latter glory greater than the former",
+      "Holiness and defilement",
+      "The Davidic hope in Zerubbabel"
+    ],
+    "outline": [
+      {
+        "title": "Call to rebuild and the people's response",
+        "refs": [
+          "Hag 1:1-15"
+        ]
+      },
+      {
+        "title": "The glory of the latter house",
+        "refs": [
+          "Hag 2:1-9"
+        ]
+      },
+      {
+        "title": "From this day I will bless you",
+        "refs": [
+          "Hag 2:10-19"
+        ]
+      },
+      {
+        "title": "Zerubbabel the signet ring",
+        "refs": [
+          "Hag 2:20-23"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Hag 1:4",
+      "Hag 1:8",
+      "Hag 2:4-5",
+      "Hag 2:6-9",
+      "Hag 2:23"
+    ],
+    "bigStory": "Haggai marks the rebuilding of the second temple and keeps alive the hope attached to David's line through Zerubbabel, who appears in Jesus' genealogy (Matt 1:12-13). Hebrews quotes Hag 2:6 about God shaking heaven and earth to point to an unshakable kingdom (Heb 12:26-28).",
+    "canonNote": "Tenth book of the Twelve; along with Zechariah and Malachi it belongs to the post-exilic prophets."
+  },
+  {
+    "id": "zechariah",
+    "abbr": "Zech",
+    "name": "Zechariah",
+    "testament": "OT",
+    "genre": "Prophecy (night visions, sermons and apocalyptic-style oracles)",
+    "authorship": {
+      "traditional": "Zechariah son of Berechiah, son of Iddo (Zech 1:1), a priest-prophet who returned from exile and worked alongside Haggai (Ezra 5:1). Defenders of unity point to shared themes across the book, such as the cleansing of Jerusalem, the shepherd and the coming king.",
+      "scholarly": "Most scholars distinguish Zech 1-8 (dated to 520–518 BC, from Zechariah himself) from Zech 9-14 (often called Deutero-Zechariah, with no dates, a different style and a looser historical setting), which many place in the 5th century or later, perhaps the early Greek period given the mention of Greece (Zech 9:13). Some further divide Zech 9-11 and Zech 12-14, each introduced by 'the burden of the word of the LORD'."
+    },
+    "date": {
+      "year": -518,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Zech 9-14, Persian period",
+          "year": -450
+        },
+        {
+          "label": "Zech 9-14, early Greek period",
+          "year": -320
+        }
+      ]
+    },
+    "audience": "The returned exiles in Jerusalem and their leaders Zerubbabel and Joshua, discouraged by small beginnings and foreign domination.",
+    "setting": "Jerusalem during the rebuilding of the temple under Darius I (from 520 BC), with later oracles looking toward future conflicts and the final day of the LORD.",
+    "purpose": "To call the people to return to the LORD, to encourage temple rebuilding through visions of God's renewed care for Jerusalem, and to announce a coming humble king, a rejected shepherd and the final day when the LORD will be king over all the earth.",
+    "themes": [
+      "Return to me and I will return to you",
+      "Not by might, but by my Spirit",
+      "Cleansing of the priesthood and the land",
+      "The humble coming king",
+      "The pierced one and the struck shepherd",
+      "The LORD king over all the earth"
+    ],
+    "outline": [
+      {
+        "title": "Call to return",
+        "refs": [
+          "Zech 1:1-6"
+        ]
+      },
+      {
+        "title": "Eight night visions",
+        "refs": [
+          "Zech 1:7-6:15"
+        ],
+        "children": [
+          {
+            "title": "Horsemen, horns and measuring line",
+            "refs": [
+              "Zech 1:7-2:13"
+            ]
+          },
+          {
+            "title": "Joshua the high priest cleansed",
+            "refs": [
+              "Zech 3"
+            ]
+          },
+          {
+            "title": "Lampstand and two olive trees",
+            "refs": [
+              "Zech 4"
+            ]
+          },
+          {
+            "title": "Flying scroll, woman in a basket, four chariots",
+            "refs": [
+              "Zech 5:1-6:8"
+            ]
+          },
+          {
+            "title": "Crowning of Joshua, the Branch",
+            "refs": [
+              "Zech 6:9-15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Questions about fasting; promises to Zion",
+        "refs": [
+          "Zech 7-8"
+        ]
+      },
+      {
+        "title": "First burden: the coming king and the shepherds",
+        "refs": [
+          "Zech 9-11"
+        ],
+        "children": [
+          {
+            "title": "Your king comes on a donkey",
+            "refs": [
+              "Zech 9"
+            ]
+          },
+          {
+            "title": "The rejected shepherd and thirty pieces of silver",
+            "refs": [
+              "Zech 11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Second burden: the day of the LORD",
+        "refs": [
+          "Zech 12-14"
+        ],
+        "children": [
+          {
+            "title": "Mourning for the pierced one",
+            "refs": [
+              "Zech 12"
+            ]
+          },
+          {
+            "title": "A fountain for cleansing; the shepherd struck",
+            "refs": [
+              "Zech 13"
+            ]
+          },
+          {
+            "title": "The LORD king over all the earth",
+            "refs": [
+              "Zech 14"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Zech 1:3",
+      "Zech 4:6",
+      "Zech 8:23",
+      "Zech 9:9",
+      "Zech 11:12-13",
+      "Zech 12:10",
+      "Zech 13:7",
+      "Zech 14:9"
+    ],
+    "bigStory": "Zechariah keeps the hope of a coming king and a cleansed people alive in the modest days after the exile. The Gospels draw on it heavily in the passion story: Jesus enters Jerusalem on a donkey (Matt 21:4-5), is betrayed for thirty pieces of silver (Matt 27:9-10), is the struck shepherd whose sheep scatter (Matt 26:31) and the pierced one on whom people look (John 19:37).",
+    "canonNote": "Eleventh book of the Twelve and the longest of them. Matt 27:9-10 attributes a passage drawing on Zech 11:12-13 to Jeremiah, probably because it combines Zechariah with themes from Jeremiah (e.g. Jer 32:6-9)."
+  },
+  {
+    "id": "malachi",
+    "abbr": "Mal",
+    "name": "Malachi",
+    "testament": "OT",
+    "genre": "Prophecy (disputation speeches)",
+    "authorship": {
+      "traditional": "A prophet named Malachi (Mal 1:1). Some ancient Jewish tradition (the Targum and the Talmud, Megillah 15a, in one opinion) identified him with Ezra, since 'Malachi' means 'my messenger'.",
+      "scholarly": "Because *mal'akhi* means 'my messenger' and echoes Mal 3:1, many scholars think it is a title rather than a personal name, making the book anonymous; the heading 'the burden of the word of the LORD' matches Zech 9:1 and Zech 12:1, suggesting the three were once collected together. The content is generally dated to the mid 5th century BC, after the second temple was rebuilt and before or around the reforms of Ezra and Nehemiah."
+    },
+    "date": {
+      "year": -460,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Around Nehemiah's second term",
+          "year": -430
+        },
+        {
+          "label": "Earlier, soon after the temple's completion",
+          "year": -500
+        }
+      ]
+    },
+    "audience": "The post-exilic community in Judah, especially priests offering blemished sacrifices and people grown cynical about God's love and justice.",
+    "setting": "Jerusalem under Persian rule, with a functioning temple and a governor (Mal 1:8), but with lax worship, broken marriages and neglected tithes.",
+    "purpose": "To answer the people's cynical questions, to rebuke careless priests and covenant-breaking, to call for wholehearted worship, and to promise the coming of the LORD's messenger and of Elijah before the great day of the LORD.",
+    "themes": [
+      "God's covenant love questioned and affirmed",
+      "Honour due to God in worship",
+      "Faithfulness in marriage",
+      "The messenger who prepares the way",
+      "The day of the LORD and the sun of righteousness",
+      "Remember the law of Moses; Elijah will come"
+    ],
+    "outline": [
+      {
+        "title": "'I have loved you'",
+        "refs": [
+          "Mal 1:1-5"
+        ]
+      },
+      {
+        "title": "Priests who despise God's name",
+        "refs": [
+          "Mal 1:6-2:9"
+        ]
+      },
+      {
+        "title": "Faithlessness and divorce",
+        "refs": [
+          "Mal 2:10-16"
+        ]
+      },
+      {
+        "title": "The messenger of the covenant and refining judgment",
+        "refs": [
+          "Mal 2:17-3:5"
+        ]
+      },
+      {
+        "title": "Return to me: robbing God in tithes",
+        "refs": [
+          "Mal 3:6-12"
+        ]
+      },
+      {
+        "title": "The book of remembrance and the coming day",
+        "refs": [
+          "Mal 3:13-4:3"
+        ]
+      },
+      {
+        "title": "Remember Moses; Elijah will come",
+        "refs": [
+          "Mal 4:4-6"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Mal 1:2-3",
+      "Mal 1:11",
+      "Mal 2:16",
+      "Mal 3:1",
+      "Mal 3:6",
+      "Mal 3:10",
+      "Mal 4:5-6"
+    ],
+    "bigStory": "In Christian Bibles Malachi closes the Old Testament with a promise of the messenger and of Elijah, and the Gospels open by announcing that John the Baptist is that forerunner (Mark 1:2; Matt 11:10-14; Luke 1:17). Its call to remember Moses and wait for Elijah ties Law and Prophets together, as they appear again with Jesus at the transfiguration (Matt 17:3).",
+    "canonNote": "Last of the Twelve and the last book of the Protestant Old Testament; the Hebrew Bible instead ends with Chronicles, and Hebrew Bibles number English Mal 4:1-6 as Mal 3:19-24. The Latin Vulgate and older Catholic Bibles such as the Douay-Rheims place the deuterocanonical *1 and 2 Maccabees* after Malachi, at the end of the Old Testament (modern Catholic Bibles such as the NAB place them after Esther). They recount the Jewish revolt against Antiochus IV Epiphanes (167–164 BC) and the rededication of the temple remembered at Hanukkah. Orthodox Bibles also include *3 Maccabees*, with *4 Maccabees* in an appendix; Protestant Bibles that print 1–2 Maccabees place them among the Apocrypha."
+  }
+]

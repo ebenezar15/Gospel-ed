@@ -1,0 +1,18 @@
+[
+  {"id":"primeval","name":"Primeval History","start":-4000,"end":-2100,"summary":"Creation, the fall, the flood and Babel (Gen 1–11). Dates here are not recoverable from the text and are shown only as a span.","color":"#7a6a9e"},
+  {"id":"patriarchs","name":"The Patriarchs","start":-2100,"end":-1800,"summary":"Abraham, Isaac, Jacob and Joseph: the family of promise moves from Ur to Canaan to Egypt (Gen 12–50).","color":"#b07a3c"},
+  {"id":"egypt-exodus","name":"Egypt & Exodus","start":-1800,"end":-1400,"summary":"Israel grows in Egypt, is enslaved, and is brought out under Moses; covenant at Sinai and forty years in the wilderness. The exodus date is debated (c. 1446 vs c. 1260 BC).","color":"#c4553a"},
+  {"id":"conquest-judges","name":"Conquest & Judges","start":-1400,"end":-1050,"summary":"Joshua leads Israel into Canaan; a cycle of apostasy, oppression and deliverance follows under the judges.","color":"#8a8f3a"},
+  {"id":"united-monarchy","name":"United Monarchy","start":-1050,"end":-930,"summary":"Saul, David and Solomon rule a united Israel; Jerusalem becomes capital and the temple is built.","color":"#b8902b"},
+  {"id":"divided-kingdom","name":"Divided Kingdom","start":-930,"end":-586,"summary":"Israel (north) and Judah (south) split; prophets confront kings. Samaria falls to Assyria in 722 BC; Jerusalem to Babylon in 586 BC.","color":"#4f7a8c"},
+  {"id":"exile","name":"Exile","start":-586,"end":-538,"summary":"Judah in Babylon. Daniel and Ezekiel minister among the exiles.","color":"#5b5470"},
+  {"id":"return","name":"Return & Restoration","start":-538,"end":-400,"summary":"Under Persian rule exiles return, rebuild the temple and walls, and renew the covenant (Ezra, Nehemiah, Haggai, Zechariah, Malachi).","color":"#3f8a6e"},
+  {"id":"second-temple","name":"Second Temple Period","start":-400,"end":-5,"summary":"Greek and then Roman rule; Maccabean revolt (167 BC); rise of Pharisees, Sadducees and Essenes.","color":"#6d6a5f"},
+  {"id":"life-of-jesus","name":"Life of Jesus","start":-5,"end":30,"summary":"Birth, ministry, death and resurrection of Jesus of Nazareth (c. 5 BC – AD 30/33).","color":"#a8323e"},
+  {"id":"apostolic","name":"Apostolic Age","start":30,"end":100,"summary":"Pentecost, the spread of the church from Jerusalem to Rome, the letters of the New Testament, and the fall of the temple (AD 70).","color":"#c2702d"},
+  {"id":"early-church","name":"Early Church","start":100,"end":313,"summary":"Apostolic Fathers, apologists and martyrs; the church grows under intermittent persecution.","color":"#8c5a3c"},
+  {"id":"imperial-church","name":"Imperial Church","start":313,"end":600,"summary":"From Constantine to Gregory the Great: councils, creeds, Augustine and the Cappadocians.","color":"#6a4d8f"},
+  {"id":"medieval","name":"Medieval Church","start":600,"end":1500,"summary":"Monasticism, the East–West schism (1054), scholasticism, penance and purgatory.","color":"#45627d"},
+  {"id":"reformation","name":"Reformation","start":1500,"end":1700,"summary":"Luther, Zwingli, Calvin, the Anabaptists, the Catholic Reformation, Arminius and Dort.","color":"#2f6f5a"},
+  {"id":"modern","name":"Modern Era","start":1700,"end":2026,"summary":"Awakenings, missions, dispensationalism, Pentecostalism and global Christianity.","color":"#3d6aa8"}
+]

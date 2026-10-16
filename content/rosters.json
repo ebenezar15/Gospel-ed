@@ -1,0 +1,3640 @@
+[
+ {
+  "id": "prophets",
+  "title": "Prophets of the Bible",
+  "intro": "A prophet in Scripture is one who speaks for God (Exod 7:1 makes Aaron Moses' \"prophet\"; Deut 18:18 puts God's words in the prophet's mouth). The \"major\" and \"minor\" labels refer to length, not importance: the Twelve minor prophets formed a single scroll in the Hebrew canon. Many prophets wrote nothing that survives, and Scripture also names false prophets, tested by fulfilment and faithfulness (Deut 13:1-5; Deut 18:20-22). Dates are approximate ministry spans, BC as negative.",
+  "entries": [
+   {
+    "personId": "isaiah",
+    "name": "Isaiah",
+    "note": "Son of Amoz; prophesied in Jerusalem under Uzziah, Jotham, Ahaz and Hezekiah. Critical scholarship assigns chapters 40-66 to later exilic and post-exilic prophets.",
+    "refs": [
+     "Isa 1:1",
+     "Isa 6:1-8",
+     "2 Kgs 19:2"
+    ],
+    "start": -740,
+    "end": -700,
+    "group": "Writing prophets (major)"
+   },
+   {
+    "personId": "jeremiah",
+    "name": "Jeremiah",
+    "note": "Priest from Anathoth; ministry from Josiah's thirteenth year to after the fall of Jerusalem; traditionally also linked to Lamentations.",
+    "refs": [
+     "Jer 1:1-3",
+     "Jer 1:4-10"
+    ],
+    "start": -627,
+    "end": -580,
+    "group": "Writing prophets (major)"
+   },
+   {
+    "personId": "ezekiel",
+    "name": "Ezekiel",
+    "note": "Priest exiled to Babylon in 597 BC; called by the Chebar canal in the fifth year of Jehoiachin's captivity.",
+    "refs": [
+     "Ezek 1:1-3",
+     "Ezek 2:1-5"
+    ],
+    "start": -593,
+    "end": -571,
+    "group": "Writing prophets (major)"
+   },
+   {
+    "personId": "daniel",
+    "name": "Daniel",
+    "note": "Exile in the Babylonian and Persian courts. Christian Bibles place his book with the prophets; the Hebrew Bible places it among the Writings. Jesus calls him \"Daniel the prophet\".",
+    "refs": [
+     "Dan 1:6",
+     "Dan 9:2",
+     "Matt 24:15"
+    ],
+    "start": -605,
+    "end": -536,
+    "group": "Writing prophets (major)"
+   },
+   {
+    "personId": "hosea",
+    "name": "Hosea",
+    "note": "Prophet to the northern kingdom whose marriage to Gomer enacts God's faithfulness to unfaithful Israel.",
+    "refs": [
+     "Hos 1:1-3"
+    ],
+    "start": -755,
+    "end": -715,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "joel-prophet",
+    "name": "Joel",
+    "note": "Son of Pethuel; the book carries no date and estimates range from the 9th to the 4th century BC. Peter cites his outpouring prophecy at Pentecost.",
+    "refs": [
+     "Joel 1:1",
+     "Joel 2:28-32",
+     "Acts 2:16-21"
+    ],
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "amos",
+    "name": "Amos",
+    "note": "Herdsman from Tekoa in Judah sent to prophesy at Bethel under Jeroboam II.",
+    "refs": [
+     "Amos 1:1",
+     "Amos 7:10-15"
+    ],
+    "start": -760,
+    "end": -750,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "obadiah-prophet",
+    "name": "Obadiah",
+    "note": "Oracle against Edom, most often dated after Jerusalem's fall in 586 BC; earlier dates are also argued.",
+    "refs": [
+     "Obad 1:1",
+     "Obad 1:10-14"
+    ],
+    "start": -585,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "jonah",
+    "name": "Jonah",
+    "note": "Son of Amittai from Gath-hepher, who prophesied Israel's expansion under Jeroboam II; the book narrates his mission to Nineveh.",
+    "refs": [
+     "Jonah 1:1-3",
+     "2 Kgs 14:25"
+    ],
+    "start": -780,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "micah",
+    "name": "Micah",
+    "note": "From Moresheth; prophesied under Jotham, Ahaz and Hezekiah; remembered a century later for sparing Jeremiah.",
+    "refs": [
+     "Mic 1:1",
+     "Jer 26:18"
+    ],
+    "start": -735,
+    "end": -700,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "nahum",
+    "name": "Nahum",
+    "note": "The Elkoshite; foretells Nineveh's fall (612 BC) after the fall of Thebes (663 BC) mentioned in Nah 3:8.",
+    "refs": [
+     "Nah 1:1",
+     "Nah 3:8"
+    ],
+    "start": -650,
+    "end": -612,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "habakkuk",
+    "name": "Habakkuk",
+    "note": "Questions God about injustice and the rise of the Chaldeans; usually dated near 605 BC.",
+    "refs": [
+     "Hab 1:1-6",
+     "Hab 2:4"
+    ],
+    "start": -605,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "zephaniah",
+    "name": "Zephaniah",
+    "note": "Prophesied in the days of Josiah; descended from \"Hizkiah\".",
+    "refs": [
+     "Zeph 1:1"
+    ],
+    "start": -630,
+    "end": -620,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "haggai",
+    "name": "Haggai",
+    "note": "Dated precisely to 520 BC, urging the returned exiles to rebuild the temple.",
+    "refs": [
+     "Hag 1:1",
+     "Ezra 5:1"
+    ],
+    "start": -520,
+    "end": -520,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "zechariah-prophet",
+    "name": "Zechariah",
+    "note": "Son of Berechiah, grandson of Iddo; began two months after Haggai. Many scholars treat chapters 9-14 as a later collection.",
+    "refs": [
+     "Zech 1:1",
+     "Ezra 6:14"
+    ],
+    "start": -520,
+    "end": -518,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "malachi",
+    "name": "Malachi",
+    "note": "Last of the Twelve, usually dated about the time of Nehemiah. The name means \"my messenger\" and some take it as a title rather than a personal name.",
+    "refs": [
+     "Mal 1:1",
+     "Mal 3:1",
+     "Mal 4:5-6"
+    ],
+    "start": -450,
+    "group": "Writing prophets (minor / the Twelve)"
+   },
+   {
+    "personId": "enoch",
+    "name": "Enoch",
+    "note": "Jude cites Enoch, \"the seventh from Adam\", as prophesying the Lord's coming with his saints (the wording matches *1 Enoch* 1:9).",
+    "refs": [
+     "Jude 1:14-15",
+     "Gen 5:21-24"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "abraham",
+    "name": "Abraham",
+    "note": "God tells Abimelech that Abraham \"is a prophet\" who will pray for him.",
+    "refs": [
+     "Gen 20:7"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "moses",
+    "name": "Moses",
+    "note": "The paradigm prophet, with whom God spoke face to face; promised a prophet like himself.",
+    "refs": [
+     "Deut 18:15-18",
+     "Deut 34:10-12",
+     "Num 12:6-8"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "aaron",
+    "name": "Aaron",
+    "note": "Made Moses' \"prophet\" before Pharaoh.",
+    "refs": [
+     "Exod 7:1"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "miriam",
+    "name": "Miriam",
+    "note": "Called \"the prophetess\"; leads the women in song after the sea crossing.",
+    "refs": [
+     "Exod 15:20-21",
+     "Num 12:2"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Eldad and Medad",
+    "note": "Two elders who prophesied in the camp; Moses wishes all the LORD's people were prophets.",
+    "refs": [
+     "Num 11:26-29"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "deborah",
+    "name": "Deborah",
+    "note": "Prophetess and judge who summons Barak against Sisera.",
+    "refs": [
+     "Judg 4:4-7"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "samuel",
+    "name": "Samuel",
+    "note": "Recognised from Dan to Beersheba as a prophet of the LORD; also called \"the seer\".",
+    "refs": [
+     "1 Sam 3:19-21",
+     "1 Sam 9:9"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "gad-prophet",
+    "name": "Gad",
+    "note": "David's seer, who advised him in the wilderness and confronted him after the census.",
+    "refs": [
+     "1 Sam 22:5",
+     "2 Sam 24:11-14"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "nathan",
+    "name": "Nathan",
+    "note": "Court prophet who delivers the Davidic covenant and rebukes David over Bathsheba.",
+    "refs": [
+     "2 Sam 7:2-17",
+     "2 Sam 12:1-14"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Ahijah the Shilonite",
+    "note": "Tears his garment into twelve pieces to announce Jeroboam's ten tribes; later foretells the fall of his house.",
+    "refs": [
+     "1 Kgs 11:29-39",
+     "1 Kgs 14:1-16"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Shemaiah",
+    "note": "Man of God who forbids Rehoboam to fight the northern tribes.",
+    "refs": [
+     "1 Kgs 12:22-24",
+     "2 Chr 12:5-7"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "The man of God from Judah",
+    "note": "Prophesies against Jeroboam's altar at Bethel, naming Josiah; dies for disobeying God's command.",
+    "refs": [
+     "1 Kgs 13:1-5",
+     "1 Kgs 13:20-24"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Jehu son of Hanani",
+    "note": "Prophesies against Baasha and rebukes Jehoshaphat for helping Ahab.",
+    "refs": [
+     "1 Kgs 16:1-4",
+     "2 Chr 19:2"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Hanani the seer",
+    "note": "Rebukes Asa for relying on Syria and is imprisoned.",
+    "refs": [
+     "2 Chr 16:7-10"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Azariah son of Oded",
+    "note": "Encourages Asa to reform: \"the LORD is with you, while ye be with him\".",
+    "refs": [
+     "2 Chr 15:1-8"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Oded",
+    "note": "Prophet in Samaria who persuades Israel's army to release captives from Judah.",
+    "refs": [
+     "2 Chr 28:9-15"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "elijah",
+    "name": "Elijah",
+    "note": "The Tishbite; confronts Ahab and the prophets of Baal on Carmel and is taken up in a whirlwind.",
+    "refs": [
+     "1 Kgs 17:1",
+     "1 Kgs 18:36-39",
+     "2 Kgs 2:11"
+    ],
+    "start": -870,
+    "end": -850,
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "elisha",
+    "name": "Elisha",
+    "note": "Elijah's successor, with a double portion of his spirit; many miracles.",
+    "refs": [
+     "1 Kgs 19:16-21",
+     "2 Kgs 2:9-15"
+    ],
+    "start": -850,
+    "end": -795,
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "micaiah",
+    "name": "Micaiah son of Imlah",
+    "note": "Speaks only what the LORD says and foretells Ahab's death against four hundred prophets.",
+    "refs": [
+     "1 Kgs 22:8-28"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Jahaziel",
+    "note": "A Levite on whom the Spirit comes, assuring Jehoshaphat \"the battle is not yours, but God's\".",
+    "refs": [
+     "2 Chr 20:14-17"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Zechariah son of Jehoiada",
+    "note": "Priest stoned in the temple court for rebuking Judah under Joash; probably the Zacharias Jesus mentions.",
+    "refs": [
+     "2 Chr 24:20-22",
+     "Luke 11:51"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "huldah",
+    "name": "Huldah",
+    "note": "Prophetess consulted by Josiah's officials about the rediscovered book of the law.",
+    "refs": [
+     "2 Kgs 22:14-20"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Uriah son of Shemaiah",
+    "note": "Prophesied like Jeremiah; fled to Egypt but was extradited and killed by Jehoiakim.",
+    "refs": [
+     "Jer 26:20-23"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Isaiah's wife",
+    "note": "Called \"the prophetess\"; mother of Maher-shalal-hash-baz.",
+    "refs": [
+     "Isa 8:3"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "name": "Asaph, Heman and Jeduthun",
+    "note": "Levitical musicians who \"prophesy\" with harps, psalteries and cymbals.",
+    "refs": [
+     "1 Chr 25:1-3"
+    ],
+    "group": "Non-writing OT prophets"
+   },
+   {
+    "personId": "jesus",
+    "name": "Jesus",
+    "note": "Recognised as \"a prophet mighty in deed and word\" and identified with the prophet like Moses.",
+    "refs": [
+     "Luke 24:19",
+     "Acts 3:22-23",
+     "Matt 13:57"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "zechariah-priest",
+    "name": "Zechariah the priest",
+    "note": "Filled with the Holy Spirit, he prophesies the Benedictus at John's birth.",
+    "refs": [
+     "Luke 1:67-79"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "simeon",
+    "name": "Simeon",
+    "note": "Not called a prophet, but the Holy Spirit is upon him and he speaks prophetically over the infant Jesus.",
+    "refs": [
+     "Luke 2:25-35"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "anna",
+    "name": "Anna",
+    "note": "Prophetess of the tribe of Asher who serves in the temple with fasting and prayer.",
+    "refs": [
+     "Luke 2:36-38"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "john-the-baptist",
+    "name": "John the Baptist",
+    "note": "Jesus calls him a prophet and \"much more than a prophet\".",
+    "refs": [
+     "Luke 1:76",
+     "Matt 11:9-14",
+     "Luke 7:26-28"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "name": "Prophets and teachers at Antioch",
+    "note": "Barnabas, Simeon called Niger, Lucius of Cyrene, Manaen and Saul.",
+    "refs": [
+     "Acts 13:1-3"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "agabus",
+    "name": "Agabus",
+    "note": "Foretells a famine under Claudius and Paul's binding in Jerusalem.",
+    "refs": [
+     "Acts 11:27-28",
+     "Acts 21:10-11"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "silas",
+    "name": "Judas Barsabbas and Silas",
+    "note": "Being prophets, they exhort and strengthen the believers at Antioch.",
+    "refs": [
+     "Acts 15:22",
+     "Acts 15:32"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "name": "Philip's four daughters",
+    "note": "Virgins who prophesied, living in Caesarea.",
+    "refs": [
+     "Acts 21:8-9"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "John of Patmos",
+    "note": "Calls Revelation \"this prophecy\"; the angel calls him a fellow servant \"of thy brethren the prophets\".",
+    "refs": [
+     "Rev 1:3",
+     "Rev 22:9"
+    ],
+    "group": "NT prophets"
+   },
+   {
+    "personId": "balaam",
+    "name": "Balaam",
+    "note": "A diviner from Pethor hired to curse Israel who is made to bless it; the NT treats him as a model of greed and of leading Israel into sin.",
+    "refs": [
+     "Num 22:5-6",
+     "Num 24:1-9",
+     "2 Pet 2:15-16",
+     "Rev 2:14"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "The prophets of Baal and Asherah",
+    "note": "Four hundred and fifty prophets of Baal (and four hundred of Asherah) who eat at Jezebel's table; defeated on Carmel.",
+    "refs": [
+     "1 Kgs 18:19",
+     "1 Kgs 18:25-29",
+     "1 Kgs 18:40"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "The old prophet of Bethel",
+    "note": "Lies to the man of God from Judah, claiming an angelic message.",
+    "refs": [
+     "1 Kgs 13:11-19"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Zedekiah son of Chenaanah",
+    "note": "Makes iron horns and promises Ahab victory; strikes Micaiah.",
+    "refs": [
+     "1 Kgs 22:11-12",
+     "1 Kgs 22:24-25"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Hananiah son of Azur",
+    "note": "Breaks Jeremiah's yoke and predicts return within two years; dies that year as Jeremiah foretold.",
+    "refs": [
+     "Jer 28:1-17"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Ahab son of Kolaiah and Zedekiah son of Maaseiah",
+    "note": "Prophesy lies in Babylon in the LORD's name; Jeremiah foretells their execution by Nebuchadnezzar.",
+    "refs": [
+     "Jer 29:21-23"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Shemaiah the Nehelamite",
+    "note": "Writes from Babylon against Jeremiah; condemned for teaching rebellion.",
+    "refs": [
+     "Jer 29:24-32"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Noadiah and Shemaiah son of Delaiah",
+    "note": "Hired to frighten Nehemiah and stop the wall-building.",
+    "refs": [
+     "Neh 6:10-14"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "Bar-Jesus (Elymas)",
+    "note": "A Jewish sorcerer and false prophet on Cyprus, struck blind when he opposes Paul.",
+    "refs": [
+     "Acts 13:6-11"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "\"Jezebel\" of Thyatira",
+    "note": "A woman \"which calleth herself a prophetess\" and teaches compromise with idolatry; the name is probably symbolic.",
+    "refs": [
+     "Rev 2:20-23"
+    ],
+    "group": "False prophets named in Scripture"
+   },
+   {
+    "name": "The false prophet of Revelation",
+    "note": "The beast from the earth who works signs for the first beast; cast into the lake of fire.",
+    "refs": [
+     "Rev 13:11-14",
+     "Rev 19:20"
+    ],
+    "group": "False prophets named in Scripture"
+   }
+  ]
+ },
+ {
+  "id": "apostles",
+  "title": "Apostles",
+  "intro": "\"Apostle\" (Greek *apostolos*) means one sent with authority. The New Testament uses it narrowly for the Twelve and Paul, who saw the risen Lord and were commissioned by him (Acts 1:21-22; 1 Cor 9:1), and more broadly for others sent out by churches (2 Cor 8:23; Phil 2:25). The four lists of the Twelve agree on Peter first and Judas Iscariot last but vary in names and order.\n\nTraditions read the office differently. Catholic and Orthodox churches hold that the apostles' oversight continues through bishops in apostolic succession. Most Protestant traditions treat the apostles as a unique, foundational and unrepeatable office (Eph 2:20), with apostolicity located in apostolic teaching. Many Pentecostal and charismatic churches recognise an ongoing apostolic ministry of church-planting and oversight (Eph 4:11).",
+  "entries": [
+   {
+    "personId": "peter",
+    "name": "Simon Peter",
+    "note": "Listed first in every list. Also called Cephas (Aramaic, \"rock\"), Simon son of Jonas, and Simeon (Acts 15:14).",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "John 1:42"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "andrew",
+    "name": "Andrew",
+    "note": "Peter's brother; second in Matthew and Luke, fourth in Mark and Acts.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "james-son-of-zebedee",
+    "name": "James son of Zebedee",
+    "note": "With his brother named \"Boanerges, sons of thunder\" (Mark 3:17); first of the Twelve to be martyred.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "Acts 12:2"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "John son of Zebedee",
+    "note": "Brother of James; traditionally the beloved disciple and author of the Gospel, letters and Revelation.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "philip-apostle",
+    "name": "Philip",
+    "note": "From Bethsaida; fifth in every list.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "John 1:43-44"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "bartholomew",
+    "name": "Bartholomew",
+    "note": "Appears only in the lists, always paired with Philip; since the 9th century often identified with Nathanael of John's Gospel (tradition).",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "John 1:45-49"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "thomas",
+    "name": "Thomas",
+    "note": "Called Didymus, \"the twin\"; doubts and then confesses the risen Jesus.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "John 11:16",
+     "John 20:24-29"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "matthew",
+    "name": "Matthew",
+    "note": "The tax collector (\"the publican\" in Matthew's own list); called Levi son of Alphaeus in Mark and Luke.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "Matt 9:9",
+     "Mark 2:14",
+     "Luke 5:27"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "james-son-of-alphaeus",
+    "name": "James son of Alphaeus",
+    "note": "Ninth in every list; often identified with \"James the less\" (Mark 15:40), though this is uncertain.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "thaddaeus",
+    "name": "Thaddaeus / Judas of James",
+    "note": "Matthew (KJV) has \"Lebbaeus, whose surname was Thaddaeus\" and Mark \"Thaddaeus\"; Luke and Acts have \"Judas [son or brother] of James\", the \"Judas not Iscariot\" of John 14:22. Most harmonise these as one man.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13",
+     "John 14:22"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "simon-the-zealot",
+    "name": "Simon the Zealot",
+    "note": "Called \"the Canaanite\" in Matthew and Mark (from Aramaic *qan'an*, zealous) and \"Zelotes\" in Luke and Acts.",
+    "refs": [
+     "Matt 10:2-4",
+     "Mark 3:16-19",
+     "Luke 6:14-16",
+     "Acts 1:13"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "judas-iscariot",
+    "name": "Judas Iscariot",
+    "note": "Always last and marked as the betrayer; absent from Acts 1:13, his death and replacement follow.",
+    "refs": [
+     "Matt 10:4",
+     "Mark 3:19",
+     "Luke 6:16",
+     "Acts 1:16-20"
+    ],
+    "group": "The Twelve"
+   },
+   {
+    "personId": "matthias",
+    "name": "Matthias",
+    "note": "Chosen by lot to replace Judas from those who had accompanied Jesus from John's baptism to the ascension.",
+    "refs": [
+     "Acts 1:21-26"
+    ],
+    "group": "Replacement"
+   },
+   {
+    "personId": "paul",
+    "name": "Paul",
+    "note": "Apostle to the Gentiles \"born out of due time\", commissioned by the risen Christ, not by men.",
+    "refs": [
+     "Rom 1:1",
+     "Rom 11:13",
+     "1 Cor 9:1",
+     "1 Cor 15:8-9",
+     "Gal 1:1"
+    ],
+    "group": "Apostle to the Gentiles"
+   },
+   {
+    "personId": "barnabas",
+    "name": "Barnabas",
+    "note": "Called an apostle alongside Paul at Lystra.",
+    "refs": [
+     "Acts 14:4",
+     "Acts 14:14"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "james-brother-of-jesus",
+    "name": "James the Lord's brother",
+    "note": "Paul says he saw none of the other apostles \"save James the Lord's brother\"; whether this includes James among the apostles is debated.",
+    "refs": [
+     "Gal 1:19",
+     "1 Cor 15:7"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "andronicus",
+    "name": "Andronicus",
+    "note": "\"Of note among the apostles\": most read this as an apostle in the broader sense; others read \"well known to the apostles\".",
+    "refs": [
+     "Rom 16:7"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "junia",
+    "name": "Junia",
+    "note": "Greeted with Andronicus. Early interpreters such as Chrysostom read Junia as a woman apostle; some later readers took the name as masculine \"Junias\", and the phrase itself is debated as above.",
+    "refs": [
+     "Rom 16:7"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "silas",
+    "name": "Silas (Silvanus) and Timothy",
+    "note": "Co-senders of 1 Thessalonians, which says \"we might have been burdensome, as the apostles of Christ\"; whether the plural includes them is debated.",
+    "refs": [
+     "1 Thess 1:1",
+     "1 Thess 2:6"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "apollos",
+    "name": "Apollos (possibly)",
+    "note": "Paul applies the example of himself and Apollos and then speaks of \"us the apostles\"; some include Apollos, others limit it to Paul.",
+    "refs": [
+     "1 Cor 4:6-9"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "name": "Epaphroditus",
+    "note": "Called the Philippians' \"messenger\" (Greek *apostolos*), an envoy of a church rather than an apostle of Christ.",
+    "refs": [
+     "Phil 2:25"
+    ],
+    "group": "Others called apostles"
+   },
+   {
+    "personId": "jesus",
+    "name": "Jesus",
+    "note": "Hebrews calls Jesus \"the Apostle and High Priest of our profession\", the one sent by the Father.",
+    "refs": [
+     "Heb 3:1",
+     "John 20:21"
+    ],
+    "group": "Others called apostles"
+   }
+  ]
+ },
+ {
+  "id": "judges",
+  "title": "Judges of Israel",
+  "intro": "Between Joshua and Saul, God raised up \"judges\" (Hebrew *shophetim*), deliverers and leaders rather than primarily courtroom officials (Judg 2:16-19). Judges presents six \"major\" judges with full stories and six \"minor\" judges in short notices; Eli and Samuel close the period in 1 Samuel. The book's year-numbers total over 400 if added in sequence, so most chronologies assume overlapping regional judgeships. Verdicts summarise how the narrative presents each figure.",
+  "entries": [
+   {
+    "personId": "othniel",
+    "name": "Othniel",
+    "note": "Caleb's nephew; the Spirit comes on him and he defeats Cushan-rishathaim. The land rests forty years.",
+    "refs": [
+     "Judg 3:7-11"
+    ],
+    "verdict": "good",
+    "group": "Major judges"
+   },
+   {
+    "personId": "ehud",
+    "name": "Ehud",
+    "note": "Left-handed Benjamite who assassinates Eglon of Moab; eighty years of rest.",
+    "refs": [
+     "Judg 3:12-30"
+    ],
+    "verdict": "good",
+    "group": "Major judges"
+   },
+   {
+    "name": "Shamgar",
+    "note": "Son of Anath; kills six hundred Philistines with an ox goad.",
+    "refs": [
+     "Judg 3:31",
+     "Judg 5:6"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "personId": "deborah",
+    "name": "Deborah",
+    "note": "Prophetess judging under her palm tree; with Barak defeats Sisera. Forty years of rest.",
+    "refs": [
+     "Judg 4:4-5:31"
+    ],
+    "verdict": "good",
+    "group": "Major judges"
+   },
+   {
+    "personId": "barak",
+    "name": "Barak",
+    "note": "Commander who leads the battle at Deborah's summons; listed among the faithful in Hebrews.",
+    "refs": [
+     "Judg 4:6-16",
+     "Heb 11:32"
+    ],
+    "verdict": "good",
+    "group": "Major judges"
+   },
+   {
+    "personId": "gideon",
+    "name": "Gideon (Jerubbaal)",
+    "note": "Defeats Midian with three hundred men; refuses kingship but makes an ephod that becomes a snare. Forty years of rest.",
+    "refs": [
+     "Judg 6:11-8:35"
+    ],
+    "verdict": "mixed",
+    "group": "Major judges"
+   },
+   {
+    "name": "Abimelech",
+    "note": "Gideon's son who murders seventy brothers and rules Shechem three years as king; not called a judge, but part of the cycle.",
+    "refs": [
+     "Judg 9:1-57"
+    ],
+    "verdict": "evil",
+    "group": "Usurper"
+   },
+   {
+    "name": "Tola",
+    "note": "Of Issachar; judged twenty-three years.",
+    "refs": [
+     "Judg 10:1-2"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "name": "Jair",
+    "note": "Gileadite with thirty sons riding thirty donkeys; judged twenty-two years.",
+    "refs": [
+     "Judg 10:3-5"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "personId": "jephthah",
+    "name": "Jephthah",
+    "note": "Gileadite outcast who defeats Ammon; his rash vow costs his daughter. Judged six years.",
+    "refs": [
+     "Judg 11:1-12:7",
+     "Heb 11:32"
+    ],
+    "verdict": "mixed",
+    "group": "Major judges"
+   },
+   {
+    "name": "Ibzan",
+    "note": "Of Bethlehem; thirty sons and thirty daughters; judged seven years.",
+    "refs": [
+     "Judg 12:8-10"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "name": "Elon",
+    "note": "Zebulunite; judged ten years.",
+    "refs": [
+     "Judg 12:11-12"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "name": "Abdon",
+    "note": "Pirathonite with forty sons and thirty grandsons; judged eight years.",
+    "refs": [
+     "Judg 12:13-15"
+    ],
+    "verdict": "n/a",
+    "group": "Minor judges"
+   },
+   {
+    "personId": "samson",
+    "name": "Samson",
+    "note": "Nazirite from birth; begins to deliver Israel from the Philistines, undone by Delilah, dies destroying the temple of Dagon. Judged twenty years.",
+    "refs": [
+     "Judg 13:1-16:31",
+     "Heb 11:32"
+    ],
+    "verdict": "mixed",
+    "group": "Major judges"
+   },
+   {
+    "personId": "eli",
+    "name": "Eli",
+    "note": "Priest at Shiloh who judged Israel forty years; failed to restrain his sons.",
+    "refs": [
+     "1 Sam 2:22-25",
+     "1 Sam 3:13",
+     "1 Sam 4:18"
+    ],
+    "verdict": "mixed",
+    "group": "Transitional judges"
+   },
+   {
+    "personId": "samuel",
+    "name": "Samuel",
+    "note": "Last judge and first of the prophets after Moses (Acts 13:20); judges Israel on an annual circuit and anoints the first two kings.",
+    "refs": [
+     "1 Sam 7:15-17",
+     "Acts 13:20"
+    ],
+    "verdict": "good",
+    "group": "Transitional judges"
+   },
+   {
+    "name": "Joel and Abijah",
+    "note": "Samuel's sons, made judges at Beersheba; they take bribes, prompting Israel to ask for a king.",
+    "refs": [
+     "1 Sam 8:1-5"
+    ],
+    "verdict": "evil",
+    "group": "Transitional judges"
+   }
+  ]
+ },
+ {
+  "id": "kings-united",
+  "title": "Kings of the United Monarchy",
+  "intro": "Israel asked Samuel for a king \"like all the nations\" (1 Sam 8:5). Saul, David and Solomon ruled all twelve tribes; Ish-bosheth briefly held the north against David. Dates are conventional approximations (Saul's reign length is uncertain in the Hebrew text of 1 Sam 13:1; Acts 13:21 gives forty years). The division follows Solomon's death, c. 931/930 BC.",
+  "entries": [
+   {
+    "personId": "saul-king",
+    "name": "Saul",
+    "note": "Benjamite anointed by Samuel; rejected for disobedience and dies on Mount Gilboa. Chronicles says he died for his unfaithfulness.",
+    "refs": [
+     "1 Sam 10:1",
+     "1 Sam 15:22-23",
+     "1 Sam 31:4-6",
+     "1 Chr 10:13-14"
+    ],
+    "start": -1050,
+    "end": -1010,
+    "verdict": "mixed"
+   },
+   {
+    "name": "Ish-bosheth",
+    "note": "Saul's son, made king over the northern tribes by Abner for two years; murdered by his own captains.",
+    "refs": [
+     "2 Sam 2:8-10",
+     "2 Sam 4:5-8"
+    ],
+    "start": -1010,
+    "end": -1008,
+    "verdict": "n/a"
+   },
+   {
+    "personId": "david",
+    "name": "David",
+    "note": "Reigned seven and a half years in Hebron and thirty-three in Jerusalem; the text's measure of a good king, \"save only in the matter of Uriah\".",
+    "refs": [
+     "2 Sam 5:4-5",
+     "1 Kgs 15:5"
+    ],
+    "start": -1010,
+    "end": -970,
+    "verdict": "good"
+   },
+   {
+    "personId": "solomon",
+    "name": "Solomon",
+    "note": "Builds the temple and is renowned for wisdom; in old age his foreign wives turn his heart to other gods and he \"did evil in the sight of the LORD\".",
+    "refs": [
+     "1 Kgs 3:3",
+     "1 Kgs 11:4-6",
+     "1 Kgs 11:42"
+    ],
+    "start": -970,
+    "end": -931,
+    "verdict": "mixed"
+   }
+  ]
+ },
+ {
+  "id": "kings-israel",
+  "title": "Kings of Israel (Northern Kingdom)",
+  "intro": "The northern kingdom lasted about two centuries, from Jeroboam I (c. 931/930 BC) to the fall of Samaria to Assyria (722 BC), through nine dynasties and several coups. Dates follow Edwin Thiele's chronology (*The Mysterious Numbers of the Hebrew Kings*), with coregencies and overlapping claims; other systems differ by a few years. Kings records a verdict for nearly every king, usually \"did evil in the sight of the LORD\" and walked in the sins of Jeroboam.",
+  "entries": [
+   {
+    "personId": "jeroboam-i",
+    "name": "Jeroboam I",
+    "note": "Sets up golden calves at Bethel and Dan, \"the sin of Jeroboam\" by which later kings are measured.",
+    "refs": [
+     "1 Kgs 12:20",
+     "1 Kgs 12:28-30",
+     "1 Kgs 14:7-10"
+    ],
+    "start": -931,
+    "end": -910,
+    "verdict": "evil"
+   },
+   {
+    "name": "Nadab",
+    "note": "Son of Jeroboam; assassinated by Baasha after two years.",
+    "refs": [
+     "1 Kgs 15:25-28"
+    ],
+    "start": -910,
+    "end": -909,
+    "verdict": "evil"
+   },
+   {
+    "name": "Baasha",
+    "note": "Wipes out Jeroboam's house yet walks in his ways.",
+    "refs": [
+     "1 Kgs 15:33-34",
+     "1 Kgs 16:1-4"
+    ],
+    "start": -909,
+    "end": -886,
+    "verdict": "evil"
+   },
+   {
+    "name": "Elah",
+    "note": "Killed while drunk by Zimri; condemned with Baasha for their sins.",
+    "refs": [
+     "1 Kgs 16:8-13"
+    ],
+    "start": -886,
+    "end": -885,
+    "verdict": "evil"
+   },
+   {
+    "name": "Zimri",
+    "note": "Reigns seven days and burns the palace over himself at Tirzah.",
+    "refs": [
+     "1 Kgs 16:15-19"
+    ],
+    "start": -885,
+    "end": -885,
+    "verdict": "evil"
+   },
+   {
+    "name": "Tibni",
+    "note": "Rival claimant supported by half the people against Omri; no verdict given.",
+    "refs": [
+     "1 Kgs 16:21-22"
+    ],
+    "start": -885,
+    "end": -880,
+    "verdict": "n/a"
+   },
+   {
+    "name": "Omri",
+    "note": "Builds Samaria as capital; \"did worse than all that were before him\". Assyrian records call Israel \"the house of Omri\".",
+    "refs": [
+     "1 Kgs 16:23-26"
+    ],
+    "start": -885,
+    "end": -874,
+    "verdict": "evil"
+   },
+   {
+    "personId": "ahab",
+    "name": "Ahab",
+    "note": "Marries Jezebel and promotes Baal worship; \"did more to provoke the LORD\" than all before him.",
+    "refs": [
+     "1 Kgs 16:29-33",
+     "1 Kgs 21:25-26"
+    ],
+    "start": -874,
+    "end": -853,
+    "verdict": "evil"
+   },
+   {
+    "name": "Ahaziah",
+    "note": "Son of Ahab; consults Baal-zebub after a fall.",
+    "refs": [
+     "1 Kgs 22:51-53",
+     "2 Kgs 1:2-4"
+    ],
+    "start": -853,
+    "end": -852,
+    "verdict": "evil"
+   },
+   {
+    "name": "Joram (Jehoram)",
+    "note": "Did evil \"but not like his father\", removing Baal's pillar; killed by Jehu.",
+    "refs": [
+     "2 Kgs 3:1-3",
+     "2 Kgs 9:24"
+    ],
+    "start": -852,
+    "end": -841,
+    "verdict": "evil"
+   },
+   {
+    "personId": "jehu",
+    "name": "Jehu",
+    "note": "Destroys Ahab's house and Baal worship and is commended, but keeps Jeroboam's calves.",
+    "refs": [
+     "2 Kgs 10:28-31"
+    ],
+    "start": -841,
+    "end": -814,
+    "verdict": "mixed"
+   },
+   {
+    "name": "Jehoahaz",
+    "note": "Oppressed by Syria; seeks the LORD, who gives Israel a saviour.",
+    "refs": [
+     "2 Kgs 13:1-5"
+    ],
+    "start": -814,
+    "end": -798,
+    "verdict": "evil"
+   },
+   {
+    "name": "Jehoash (Joash)",
+    "note": "Weeps over the dying Elisha; defeats Amaziah of Judah.",
+    "refs": [
+     "2 Kgs 13:10-11",
+     "2 Kgs 13:14-19"
+    ],
+    "start": -798,
+    "end": -782,
+    "verdict": "evil"
+   },
+   {
+    "name": "Jeroboam II",
+    "note": "Restores Israel's borders as Jonah foretold; the era of Amos and Hosea.",
+    "refs": [
+     "2 Kgs 14:23-27"
+    ],
+    "start": -793,
+    "end": -753,
+    "verdict": "evil"
+   },
+   {
+    "name": "Zechariah",
+    "note": "Reigns six months; the end of Jehu's dynasty as foretold.",
+    "refs": [
+     "2 Kgs 15:8-12"
+    ],
+    "start": -753,
+    "end": -753,
+    "verdict": "evil"
+   },
+   {
+    "name": "Shallum",
+    "note": "Assassinates Zechariah and reigns one month; no verdict given.",
+    "refs": [
+     "2 Kgs 15:13-15"
+    ],
+    "start": -752,
+    "end": -752,
+    "verdict": "n/a"
+   },
+   {
+    "name": "Menahem",
+    "note": "Pays tribute to Pul (Tiglath-pileser III) of Assyria.",
+    "refs": [
+     "2 Kgs 15:17-20"
+    ],
+    "start": -752,
+    "end": -742,
+    "verdict": "evil"
+   },
+   {
+    "name": "Pekahiah",
+    "note": "Son of Menahem; assassinated by Pekah.",
+    "refs": [
+     "2 Kgs 15:23-25"
+    ],
+    "start": -742,
+    "end": -740,
+    "verdict": "evil"
+   },
+   {
+    "name": "Pekah",
+    "note": "Thiele dates his reign from a rival claim in Gilead in 752; allies with Syria against Judah and loses territory to Assyria.",
+    "refs": [
+     "2 Kgs 15:27-29",
+     "Isa 7:1"
+    ],
+    "start": -752,
+    "end": -732,
+    "verdict": "evil"
+   },
+   {
+    "name": "Hoshea",
+    "note": "Did evil \"but not as the kings of Israel that were before him\"; rebels against Assyria, and Samaria falls.",
+    "refs": [
+     "2 Kgs 17:1-6"
+    ],
+    "start": -732,
+    "end": -722,
+    "verdict": "evil"
+   }
+  ]
+ },
+ {
+  "id": "kings-judah",
+  "title": "Kings of Judah (Southern Kingdom)",
+  "intro": "Judah kept the Davidic line in Jerusalem from Rehoboam (c. 931/930 BC) to the Babylonian destruction (586 BC), interrupted only by Athaliah's usurpation. Dates follow Thiele's chronology, including coregencies (so reigns overlap). The verdict reflects the narrator's formula: \"did that which was right in the sight of the LORD\" (good) or \"did evil\" (evil); qualifications are noted.",
+  "entries": [
+   {
+    "personId": "rehoboam",
+    "name": "Rehoboam",
+    "note": "His harsh answer splits the kingdom; Kings says Judah did evil in his reign and Chronicles that \"he did evil\".",
+    "refs": [
+     "1 Kgs 12:13-16",
+     "1 Kgs 14:21-22",
+     "2 Chr 12:14"
+    ],
+    "start": -931,
+    "end": -913,
+    "verdict": "evil"
+   },
+   {
+    "name": "Abijah (Abijam)",
+    "note": "Walked in all the sins of his father; Chronicles records his speech against Jeroboam.",
+    "refs": [
+     "1 Kgs 15:1-3",
+     "2 Chr 13:4-12"
+    ],
+    "start": -913,
+    "end": -911,
+    "verdict": "evil"
+   },
+   {
+    "name": "Asa",
+    "note": "Did right as David did and removed idols, though the high places remained; later relied on Syria and physicians.",
+    "refs": [
+     "1 Kgs 15:9-14",
+     "2 Chr 16:7-12"
+    ],
+    "start": -911,
+    "end": -870,
+    "verdict": "good"
+   },
+   {
+    "personId": "jehoshaphat",
+    "name": "Jehoshaphat",
+    "note": "Did right, sending teachers of the law, but allied with Ahab's house.",
+    "refs": [
+     "1 Kgs 22:41-44",
+     "2 Chr 17:7-9",
+     "2 Chr 19:2"
+    ],
+    "start": -872,
+    "end": -848,
+    "verdict": "good"
+   },
+   {
+    "name": "Jehoram",
+    "note": "Married Ahab's daughter and walked in the way of the kings of Israel.",
+    "refs": [
+     "2 Kgs 8:16-19"
+    ],
+    "start": -853,
+    "end": -841,
+    "verdict": "evil"
+   },
+   {
+    "name": "Ahaziah",
+    "note": "Son of Athaliah; killed by Jehu while visiting Joram.",
+    "refs": [
+     "2 Kgs 8:25-27",
+     "2 Kgs 9:27"
+    ],
+    "start": -841,
+    "end": -841,
+    "verdict": "evil"
+   },
+   {
+    "personId": "athaliah",
+    "name": "Athaliah",
+    "note": "The only queen to rule Judah in her own right; no regnal formula is given, but Chronicles calls her \"that wicked woman\".",
+    "refs": [
+     "2 Kgs 11:1-3",
+     "2 Kgs 11:13-16",
+     "2 Chr 24:7"
+    ],
+    "start": -841,
+    "end": -835,
+    "verdict": "evil"
+   },
+   {
+    "personId": "joash-judah",
+    "name": "Joash (Jehoash)",
+    "note": "Did right \"all his days wherein Jehoiada the priest instructed him\"; Chronicles reports his later apostasy and the stoning of Zechariah.",
+    "refs": [
+     "2 Kgs 12:2",
+     "2 Chr 24:17-22"
+    ],
+    "start": -835,
+    "end": -796,
+    "verdict": "good"
+   },
+   {
+    "name": "Amaziah",
+    "note": "Did right, \"yet not like David\"; brought Edomite gods home and was defeated by Jehoash of Israel.",
+    "refs": [
+     "2 Kgs 14:1-4",
+     "2 Chr 25:14"
+    ],
+    "start": -796,
+    "end": -767,
+    "verdict": "good"
+   },
+   {
+    "personId": "uzziah",
+    "name": "Uzziah (Azariah)",
+    "note": "Did right and prospered; struck with leprosy after burning incense in the temple.",
+    "refs": [
+     "2 Kgs 15:1-5",
+     "2 Chr 26:16-21"
+    ],
+    "start": -792,
+    "end": -740,
+    "verdict": "good"
+   },
+   {
+    "name": "Jotham",
+    "note": "Did right, though the people still sacrificed at high places.",
+    "refs": [
+     "2 Kgs 15:32-35"
+    ],
+    "start": -750,
+    "end": -732,
+    "verdict": "good"
+   },
+   {
+    "name": "Ahaz",
+    "note": "Made his son pass through the fire and appealed to Assyria; the king of Isaiah 7.",
+    "refs": [
+     "2 Kgs 16:1-4",
+     "2 Kgs 16:7-9",
+     "Isa 7:10-12"
+    ],
+    "start": -735,
+    "end": -715,
+    "verdict": "evil"
+   },
+   {
+    "personId": "hezekiah",
+    "name": "Hezekiah",
+    "note": "Did right according to all that David did; trusted the LORD so that none was like him.",
+    "refs": [
+     "2 Kgs 18:3-7"
+    ],
+    "start": -715,
+    "end": -686,
+    "verdict": "good"
+   },
+   {
+    "personId": "manasseh-king",
+    "name": "Manasseh",
+    "note": "The longest and worst reign by the narrator's account; Chronicles adds his captivity and repentance.",
+    "refs": [
+     "2 Kgs 21:1-9",
+     "2 Chr 33:10-16"
+    ],
+    "start": -697,
+    "end": -642,
+    "verdict": "evil"
+   },
+   {
+    "name": "Amon",
+    "note": "Did evil as his father; assassinated by his servants.",
+    "refs": [
+     "2 Kgs 21:19-23"
+    ],
+    "start": -642,
+    "end": -640,
+    "verdict": "evil"
+   },
+   {
+    "personId": "josiah",
+    "name": "Josiah",
+    "note": "Did right and turned to the LORD with all his heart; reforms after the law book is found; killed at Megiddo.",
+    "refs": [
+     "2 Kgs 22:1-2",
+     "2 Kgs 23:25",
+     "2 Kgs 23:29"
+    ],
+    "start": -640,
+    "end": -609,
+    "verdict": "good"
+   },
+   {
+    "name": "Jehoahaz (Shallum)",
+    "note": "Reigned three months before Pharaoh Necho deposed him.",
+    "refs": [
+     "2 Kgs 23:31-34"
+    ],
+    "start": -609,
+    "end": -609,
+    "verdict": "evil"
+   },
+   {
+    "name": "Jehoiakim (Eliakim)",
+    "note": "Necho's appointee; burned Jeremiah's scroll.",
+    "refs": [
+     "2 Kgs 23:36-37",
+     "Jer 36:22-23"
+    ],
+    "start": -609,
+    "end": -598,
+    "verdict": "evil"
+   },
+   {
+    "name": "Jehoiachin (Jeconiah)",
+    "note": "Reigned three months, then exiled to Babylon; later released by Evil-merodach.",
+    "refs": [
+     "2 Kgs 24:8-15",
+     "2 Kgs 25:27-30"
+    ],
+    "start": -598,
+    "end": -597,
+    "verdict": "evil"
+   },
+   {
+    "personId": "zedekiah",
+    "name": "Zedekiah (Mattaniah)",
+    "note": "Did evil and would not heed Jeremiah; rebelled against Babylon and was blinded as Jerusalem fell.",
+    "refs": [
+     "2 Kgs 24:17-20",
+     "2 Kgs 25:1-7",
+     "Jer 37:1-2"
+    ],
+    "start": -597,
+    "end": -586,
+    "verdict": "evil"
+   }
+  ]
+ },
+ {
+  "id": "high-priests",
+  "title": "High Priests",
+  "intro": "The high priesthood began with Aaron and passed through his sons Eleazar and Ithamar. Under Solomon it settled in the line of Zadok, which returned from exile with Joshua (Jeshua). In the Hasmonean and Roman periods appointment became political: Herod and the Roman governors installed and removed high priests at will, and the house of Annas dominated in Jesus' day. Hebrews presents Jesus as the great high priest after the order of Melchizedek. Only priests named in Scripture are listed; dates are approximate.",
+  "entries": [
+   {
+    "personId": "melchizedek",
+    "name": "Melchizedek",
+    "note": "King of Salem and \"priest of the most high God\" who blesses Abram; Hebrews makes him a type of Christ's priesthood.",
+    "refs": [
+     "Gen 14:18-20",
+     "Ps 110:4",
+     "Heb 7:1-3"
+    ],
+    "group": "Before Aaron"
+   },
+   {
+    "personId": "aaron",
+    "name": "Aaron",
+    "note": "Consecrated with his sons as the first high priest; wears the ephod and breastplate.",
+    "refs": [
+     "Exod 28:1-4",
+     "Lev 8:6-12"
+    ],
+    "group": "Wilderness and conquest"
+   },
+   {
+    "personId": "eleazar-priest",
+    "name": "Eleazar",
+    "note": "Succeeds Aaron on Mount Hor; assists Joshua in dividing the land.",
+    "refs": [
+     "Num 20:25-28",
+     "Josh 14:1"
+    ],
+    "group": "Wilderness and conquest"
+   },
+   {
+    "personId": "phinehas",
+    "name": "Phinehas",
+    "note": "Zealous for God at Baal-peor and given a covenant of perpetual priesthood; ministers before the ark in the days of the judges.",
+    "refs": [
+     "Num 25:10-13",
+     "Judg 20:27-28"
+    ],
+    "group": "Wilderness and conquest"
+   },
+   {
+    "personId": "eli",
+    "name": "Eli",
+    "note": "Priest at Shiloh, of the line of Ithamar (inferred from 1 Chr 24:3 and 1 Kgs 2:27); his house is judged.",
+    "refs": [
+     "1 Sam 1:9",
+     "1 Sam 2:27-36",
+     "1 Sam 4:18"
+    ],
+    "group": "Judges and united monarchy"
+   },
+   {
+    "name": "Ahimelech",
+    "note": "Priest at Nob who gives David the showbread and Goliath's sword; killed with the priests by Doeg on Saul's order.",
+    "refs": [
+     "1 Sam 21:1-9",
+     "1 Sam 22:11-19"
+    ],
+    "group": "Judges and united monarchy"
+   },
+   {
+    "name": "Abiathar",
+    "note": "Sole survivor of Nob, David's priest; deposed by Solomon for backing Adonijah, fulfilling the word against Eli's house. Jesus names him in Mark 2:26.",
+    "refs": [
+     "1 Sam 22:20-23",
+     "1 Kgs 2:26-27",
+     "Mark 2:26"
+    ],
+    "group": "Judges and united monarchy"
+   },
+   {
+    "name": "Zadok",
+    "note": "Priest alongside Abiathar under David; anoints Solomon and becomes sole chief priest, founding the Zadokite line.",
+    "refs": [
+     "2 Sam 8:17",
+     "1 Kgs 1:39",
+     "1 Kgs 2:35",
+     "Ezek 44:15"
+    ],
+    "group": "Judges and united monarchy"
+   },
+   {
+    "name": "Jehoiada",
+    "note": "Hides the young Joash from Athaliah, crowns him and leads a covenant renewal; buried among the kings.",
+    "refs": [
+     "2 Kgs 11:4-17",
+     "2 Chr 24:15-16"
+    ],
+    "group": "Divided kingdom"
+   },
+   {
+    "name": "Azariah",
+    "note": "Withstands King Uzziah when he tries to burn incense in the temple.",
+    "refs": [
+     "2 Chr 26:16-20"
+    ],
+    "group": "Divided kingdom"
+   },
+   {
+    "name": "Urijah",
+    "note": "Builds a copy of the Damascus altar at King Ahaz's command; also a witness for Isaiah.",
+    "refs": [
+     "2 Kgs 16:10-16",
+     "Isa 8:2"
+    ],
+    "group": "Divided kingdom"
+   },
+   {
+    "name": "Hilkiah",
+    "note": "Finds the book of the law in the temple during Josiah's repairs.",
+    "refs": [
+     "2 Kgs 22:4-8",
+     "2 Chr 34:14-15"
+    ],
+    "group": "Divided kingdom"
+   },
+   {
+    "name": "Seraiah",
+    "note": "Chief priest when Jerusalem fell; executed by Nebuchadnezzar at Riblah.",
+    "refs": [
+     "2 Kgs 25:18-21",
+     "1 Chr 6:14"
+    ],
+    "group": "Exile"
+   },
+   {
+    "name": "Jehozadak (Josedech)",
+    "note": "Son of Seraiah, carried into exile.",
+    "refs": [
+     "1 Chr 6:15",
+     "Hag 1:1"
+    ],
+    "group": "Exile"
+   },
+   {
+    "personId": "joshua-high-priest",
+    "name": "Joshua (Jeshua)",
+    "note": "First high priest after the return; rebuilds the altar with Zerubbabel and is crowned symbolically in Zechariah's vision.",
+    "refs": [
+     "Ezra 3:2",
+     "Hag 1:1",
+     "Zech 3:1-5",
+     "Zech 6:11-13"
+    ],
+    "start": -538,
+    "end": -510,
+    "group": "Return"
+   },
+   {
+    "name": "Eliashib",
+    "note": "High priest in Nehemiah's day; builds the sheep gate but later gives Tobiah a temple chamber.",
+    "refs": [
+     "Neh 3:1",
+     "Neh 13:4-7"
+    ],
+    "start": -445,
+    "end": -430,
+    "group": "Return"
+   },
+   {
+    "personId": "annas",
+    "name": "Annas",
+    "note": "Appointed by Quirinius in AD 6 and deposed in AD 15 (Josephus), yet still called high priest in the Gospels and Acts; Jesus is first brought to him.",
+    "refs": [
+     "Luke 3:2",
+     "John 18:13",
+     "John 18:24",
+     "Acts 4:6"
+    ],
+    "start": 6,
+    "end": 15,
+    "group": "Roman period"
+   },
+   {
+    "personId": "caiaphas",
+    "name": "Caiaphas",
+    "note": "Annas' son-in-law and high priest AD 18-36; presides at Jesus' hearing before the council.",
+    "refs": [
+     "Matt 26:3-4",
+     "Matt 26:57-66",
+     "John 11:49-52"
+    ],
+    "start": 18,
+    "end": 36,
+    "group": "Roman period"
+   },
+   {
+    "name": "Ananias son of Nedebaeus",
+    "note": "Orders Paul struck at his hearing and later prosecutes him before Felix; high priest c. AD 47-59 (Josephus).",
+    "refs": [
+     "Acts 23:2-5",
+     "Acts 24:1"
+    ],
+    "start": 47,
+    "end": 59,
+    "group": "Roman period"
+   },
+   {
+    "personId": "jesus",
+    "name": "Jesus",
+    "note": "Hebrews presents Jesus as the great high priest, after the order of Melchizedek, who offered himself once for all.",
+    "refs": [
+     "Heb 4:14-16",
+     "Heb 7:23-27",
+     "Heb 9:11-12"
+    ],
+    "group": "Fulfilment (Hebrews)"
+   }
+  ]
+ },
+ {
+  "id": "herodian-rulers",
+  "title": "Herodian Rulers",
+  "intro": "The Herodian dynasty ruled Judea and its neighbours as Roman client kings and tetrarchs from 37 BC to the late first century AD. The New Testament often calls several of them simply \"Herod\", so identifying each depends on context and on the Jewish historian Josephus. Family links below beyond what the text states come from Josephus.",
+  "entries": [
+   {
+    "personId": "herod-the-great",
+    "name": "Herod the Great",
+    "note": "King of Judea, rebuilder of the temple; orders the massacre at Bethlehem. Died 4 BC (most common dating).",
+    "refs": [
+     "Matt 2:1-18",
+     "Luke 1:5"
+    ],
+    "start": -37,
+    "end": -4,
+    "group": "King"
+   },
+   {
+    "name": "Archelaus",
+    "note": "Son of Herod; ethnarch of Judea, Samaria and Idumea until deposed by Augustus; Joseph avoids Judea because of him.",
+    "refs": [
+     "Matt 2:22"
+    ],
+    "start": -4,
+    "end": 6,
+    "group": "Ethnarch"
+   },
+   {
+    "personId": "herod-antipas",
+    "name": "Herod Antipas",
+    "note": "Tetrarch of Galilee and Perea; beheads John the Baptist and sees Jesus at his trial. Exiled AD 39.",
+    "refs": [
+     "Luke 3:1",
+     "Mark 6:14-29",
+     "Luke 23:7-12"
+    ],
+    "start": -4,
+    "end": 39,
+    "group": "Tetrarch"
+   },
+   {
+    "name": "Philip the tetrarch",
+    "note": "Tetrarch of Ituraea and Trachonitis; rebuilt Caesarea Philippi.",
+    "refs": [
+     "Luke 3:1",
+     "Matt 16:13"
+    ],
+    "start": -4,
+    "end": 34,
+    "group": "Tetrarch"
+   },
+   {
+    "name": "Philip, first husband of Herodias",
+    "note": "Called \"his brother Philip\" in Mark; Josephus calls Herodias' first husband Herod (son of Mariamne II), so many think he is a different man from the tetrarch.",
+    "refs": [
+     "Mark 6:17",
+     "Matt 14:3"
+    ],
+    "group": "Family"
+   },
+   {
+    "name": "Herodias",
+    "note": "Granddaughter of Herod the Great; leaves her husband for Antipas and engineers John's death.",
+    "refs": [
+     "Mark 6:17-24",
+     "Luke 3:19"
+    ],
+    "group": "Family"
+   },
+   {
+    "name": "Daughter of Herodias",
+    "note": "Dances before Antipas and asks for John's head; Josephus names Herodias' daughter Salome.",
+    "refs": [
+     "Mark 6:22-28",
+     "Matt 14:6-11"
+    ],
+    "group": "Family"
+   },
+   {
+    "personId": "herod-agrippa-i",
+    "name": "Herod Agrippa I",
+    "note": "Grandson of Herod; king over Judea AD 41-44. Kills James, imprisons Peter, and dies struck by an angel at Caesarea.",
+    "refs": [
+     "Acts 12:1-4",
+     "Acts 12:20-23"
+    ],
+    "start": 37,
+    "end": 44,
+    "group": "King"
+   },
+   {
+    "personId": "herod-agrippa-ii",
+    "name": "Herod Agrippa II",
+    "note": "Son of Agrippa I; hears Paul's defence with Bernice at Caesarea.",
+    "refs": [
+     "Acts 25:13",
+     "Acts 26:1-32"
+    ],
+    "start": 50,
+    "end": 93,
+    "group": "King"
+   },
+   {
+    "name": "Bernice",
+    "note": "Sister of Agrippa II, present at Paul's hearing.",
+    "refs": [
+     "Acts 25:13",
+     "Acts 25:23",
+     "Acts 26:30"
+    ],
+    "group": "Family"
+   },
+   {
+    "name": "Drusilla",
+    "note": "Jewish wife of the governor Felix, daughter of Agrippa I (Josephus); hears Paul with Felix.",
+    "refs": [
+     "Acts 24:24"
+    ],
+    "group": "Family"
+   }
+  ]
+ },
+ {
+  "id": "roman-officials",
+  "title": "Roman Emperors and Officials",
+  "intro": "Rome is the backdrop of the whole New Testament. Emperors set censuses and expelled populations; governors (prefects and procurators) held capital jurisdiction in Judea; proconsuls governed senatorial provinces such as Cyprus and Achaia. Many of these figures are independently attested in inscriptions, coins and in Josephus, Tacitus and Suetonius.",
+  "entries": [
+   {
+    "name": "Augustus",
+    "note": "First emperor; his decree of enrolment brings Joseph and Mary to Bethlehem.",
+    "refs": [
+     "Luke 2:1"
+    ],
+    "start": -27,
+    "end": 14,
+    "group": "Emperors"
+   },
+   {
+    "name": "Tiberius",
+    "note": "His fifteenth year dates John the Baptist's ministry; the Caesar on the tribute coin.",
+    "refs": [
+     "Luke 3:1",
+     "Luke 20:22-25"
+    ],
+    "start": 14,
+    "end": 37,
+    "group": "Emperors"
+   },
+   {
+    "name": "Claudius",
+    "note": "A famine occurs in his reign; he expels the Jews from Rome (c. AD 49), bringing Aquila and Priscilla to Corinth.",
+    "refs": [
+     "Acts 11:28",
+     "Acts 18:2"
+    ],
+    "start": 41,
+    "end": 54,
+    "group": "Emperors"
+   },
+   {
+    "name": "Nero",
+    "note": "Not named, but the \"Caesar\" to whom Paul appeals; tradition places the deaths of Peter and Paul under him.",
+    "refs": [
+     "Acts 25:10-12",
+     "Phil 4:22"
+    ],
+    "start": 54,
+    "end": 68,
+    "group": "Emperors"
+   },
+   {
+    "name": "Quirinius",
+    "note": "Governor of Syria at the time of \"the first enrolment\". Josephus dates his census to AD 6; how it fits Jesus' birth under Herod is debated (an earlier census, an earlier office, or a different reading of \"first\").",
+    "refs": [
+     "Luke 2:2",
+     "Acts 5:37"
+    ],
+    "start": 6,
+    "group": "Governors"
+   },
+   {
+    "personId": "pontius-pilate",
+    "name": "Pontius Pilate",
+    "note": "Prefect of Judea who sentences Jesus; attested by the Caesarea \"Pilate Stone\".",
+    "refs": [
+     "Luke 3:1",
+     "Matt 27:2",
+     "John 19:12-16"
+    ],
+    "start": 26,
+    "end": 36,
+    "group": "Governors"
+   },
+   {
+    "personId": "felix",
+    "name": "Antonius Felix",
+    "note": "Procurator of Judea who keeps Paul in custody two years hoping for a bribe.",
+    "refs": [
+     "Acts 23:24-26",
+     "Acts 24:22-27"
+    ],
+    "start": 52,
+    "end": 59,
+    "group": "Governors"
+   },
+   {
+    "personId": "festus",
+    "name": "Porcius Festus",
+    "note": "Succeeds Felix; hears Paul's appeal to Caesar and consults Agrippa II. Died in office c. AD 62.",
+    "refs": [
+     "Acts 24:27",
+     "Acts 25:1-12"
+    ],
+    "start": 59,
+    "end": 62,
+    "group": "Governors"
+   },
+   {
+    "name": "Sergius Paulus",
+    "note": "Proconsul of Cyprus, \"a prudent man\", who believes after Elymas is blinded.",
+    "refs": [
+     "Acts 13:7-12"
+    ],
+    "group": "Proconsuls"
+   },
+   {
+    "name": "Gallio",
+    "note": "Proconsul of Achaia who dismisses the Jewish case against Paul; the Delphi inscription dates his term to c. AD 51-52, a key anchor for Pauline chronology.",
+    "refs": [
+     "Acts 18:12-17"
+    ],
+    "start": 51,
+    "end": 52,
+    "group": "Proconsuls"
+   },
+   {
+    "name": "Claudius Lysias",
+    "note": "Tribune in Jerusalem who rescues Paul from the mob and sends him to Felix.",
+    "refs": [
+     "Acts 21:31-33",
+     "Acts 23:26-30"
+    ],
+    "group": "Military"
+   },
+   {
+    "name": "Centurion of Capernaum",
+    "note": "His faith amazes Jesus, who heals his servant.",
+    "refs": [
+     "Matt 8:5-13",
+     "Luke 7:1-10"
+    ],
+    "group": "Military"
+   },
+   {
+    "name": "Centurion at the cross",
+    "note": "Confesses \"Truly this man was the Son of God\".",
+    "refs": [
+     "Mark 15:39",
+     "Luke 23:47"
+    ],
+    "group": "Military"
+   },
+   {
+    "personId": "cornelius",
+    "name": "Cornelius",
+    "note": "Centurion of the Italian band at Caesarea, the first named Gentile convert in Acts.",
+    "refs": [
+     "Acts 10:1-2",
+     "Acts 10:44-48"
+    ],
+    "group": "Military"
+   },
+   {
+    "name": "Julius",
+    "note": "Centurion of Augustus' band who escorts Paul to Rome and spares the prisoners in the shipwreck.",
+    "refs": [
+     "Acts 27:1-3",
+     "Acts 27:42-43"
+    ],
+    "group": "Military"
+   },
+   {
+    "name": "Publius",
+    "note": "Chief man of Malta who hosts Paul; Paul heals his father.",
+    "refs": [
+     "Acts 28:7-8"
+    ],
+    "group": "Local officials"
+   },
+   {
+    "name": "Magistrates of Philippi",
+    "note": "Beat and jail Paul and Silas, then apologise on learning they are Roman citizens.",
+    "refs": [
+     "Acts 16:20-24",
+     "Acts 16:35-39"
+    ],
+    "group": "Local officials"
+   },
+   {
+    "name": "Town clerk of Ephesus",
+    "note": "Quiets the riot in the theatre.",
+    "refs": [
+     "Acts 19:35-41"
+    ],
+    "group": "Local officials"
+   },
+   {
+    "name": "Erastus",
+    "note": "City treasurer (chamberlain) of Corinth who sends greetings; a Corinthian inscription names an aedile Erastus, perhaps the same man.",
+    "refs": [
+     "Rom 16:23",
+     "2 Tim 4:20"
+    ],
+    "group": "Local officials"
+   }
+  ]
+ },
+ {
+  "id": "women-of-the-bible",
+  "title": "Women of the Bible",
+  "intro": "Scripture names some 170 women and includes many unnamed women whose actions shape the story. This roster gathers about sixty: matriarchs, prophetesses, judges, queens, disciples, patrons and church leaders. Notes describe what the text says; how traditions have read figures such as Mary Magdalene or Junia is noted where it matters.",
+  "entries": [
+   {
+    "personId": "eve",
+    "name": "Eve",
+    "note": "The first woman, \"mother of all living\"; deceived by the serpent.",
+    "refs": [
+     "Gen 2:21-23",
+     "Gen 3:1-6",
+     "Gen 3:20"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "sarah",
+    "name": "Sarah",
+    "note": "Wife of Abraham; bears Isaac at ninety; held up as an example of faith and hope.",
+    "refs": [
+     "Gen 17:15-19",
+     "Gen 21:1-7",
+     "Heb 11:11"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "hagar",
+    "name": "Hagar",
+    "note": "Egyptian servant who bears Ishmael and names God \"Thou God seest me\".",
+    "refs": [
+     "Gen 16:1-13",
+     "Gen 21:14-19"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "name": "Lot's wife",
+    "note": "Looks back toward Sodom and becomes a pillar of salt; Jesus says \"Remember Lot's wife\".",
+    "refs": [
+     "Gen 19:26",
+     "Luke 17:32"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "rebekah",
+    "name": "Rebekah",
+    "note": "Chosen for Isaac at the well; helps Jacob gain the blessing.",
+    "refs": [
+     "Gen 24:15-27",
+     "Gen 27:5-17"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "leah",
+    "name": "Leah",
+    "note": "Jacob's first wife, mother of Levi and Judah.",
+    "refs": [
+     "Gen 29:23-35"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "rachel",
+    "name": "Rachel",
+    "note": "Jacob's beloved wife, mother of Joseph and Benjamin; Jeremiah pictures her weeping for her children.",
+    "refs": [
+     "Gen 29:9-20",
+     "Gen 35:16-20",
+     "Jer 31:15"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "name": "Dinah",
+    "note": "Jacob's daughter, violated at Shechem; her brothers take revenge.",
+    "refs": [
+     "Gen 34:1-31"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "personId": "tamar",
+    "name": "Tamar (Judah's daughter-in-law)",
+    "note": "Secures her right to an heir by disguise; ancestor of David and Jesus.",
+    "refs": [
+     "Gen 38:6-30",
+     "Matt 1:3"
+    ],
+    "group": "Primeval & patriarchs"
+   },
+   {
+    "name": "Shiphrah and Puah",
+    "note": "Hebrew midwives who fear God and defy Pharaoh's order to kill newborn boys.",
+    "refs": [
+     "Exod 1:15-21"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "jochebed",
+    "name": "Jochebed",
+    "note": "Mother of Moses, Aaron and Miriam; hides the infant Moses.",
+    "refs": [
+     "Exod 2:1-10",
+     "Num 26:59"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Pharaoh's daughter",
+    "note": "Rescues and adopts Moses.",
+    "refs": [
+     "Exod 2:5-10",
+     "Heb 11:24"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "miriam",
+    "name": "Miriam",
+    "note": "Prophetess who leads Israel's women in song at the sea.",
+    "refs": [
+     "Exod 15:20-21",
+     "Num 12:1-15",
+     "Mic 6:4"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "zipporah",
+    "name": "Zipporah",
+    "note": "Midianite wife of Moses who circumcises their son.",
+    "refs": [
+     "Exod 2:21",
+     "Exod 4:24-26"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Daughters of Zelophehad",
+    "note": "Mahlah, Noah, Hoglah, Milcah and Tirzah petition Moses and win the right to inherit.",
+    "refs": [
+     "Num 27:1-11",
+     "Josh 17:3-4"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "rahab",
+    "name": "Rahab",
+    "note": "Canaanite of Jericho who hides the spies; commended for faith and works.",
+    "refs": [
+     "Josh 2:1-21",
+     "Heb 11:31",
+     "Jas 2:25"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Achsah",
+    "note": "Caleb's daughter who asks her father for springs of water.",
+    "refs": [
+     "Josh 15:16-19"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "deborah",
+    "name": "Deborah",
+    "note": "Prophetess and judge; leads Israel against Sisera.",
+    "refs": [
+     "Judg 4:4-10",
+     "Judg 5:1-31"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "jael",
+    "name": "Jael",
+    "note": "Kills Sisera with a tent peg; \"blessed above women\".",
+    "refs": [
+     "Judg 4:17-22",
+     "Judg 5:24-27"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Jephthah's daughter",
+    "note": "Meets her father with timbrels and becomes the victim of his vow; mourned yearly.",
+    "refs": [
+     "Judg 11:34-40"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Samson's mother",
+    "note": "Wife of Manoah, visited by the angel and told to keep the Nazirite rule.",
+    "refs": [
+     "Judg 13:2-24"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "delilah",
+    "name": "Delilah",
+    "note": "Betrays Samson to the Philistines for silver.",
+    "refs": [
+     "Judg 16:4-21"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "naomi",
+    "name": "Naomi",
+    "note": "Bereaved widow who returns from Moab and guides Ruth.",
+    "refs": [
+     "Ruth 1:1-22",
+     "Ruth 4:14-17"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "ruth",
+    "name": "Ruth",
+    "note": "Moabite who pledges loyalty to Naomi and Naomi's God; great-grandmother of David.",
+    "refs": [
+     "Ruth 1:16-17",
+     "Ruth 4:13-17",
+     "Matt 1:5"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "name": "Orpah",
+    "note": "Ruth's sister-in-law who returns to her people.",
+    "refs": [
+     "Ruth 1:4-14"
+    ],
+    "group": "Exodus to judges"
+   },
+   {
+    "personId": "hannah",
+    "name": "Hannah",
+    "note": "Prays for a son, dedicates Samuel and sings a song of reversal.",
+    "refs": [
+     "1 Sam 1:9-28",
+     "1 Sam 2:1-10"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "michal",
+    "name": "Michal",
+    "note": "Saul's daughter and David's wife; saves his life and later despises him.",
+    "refs": [
+     "1 Sam 18:20-28",
+     "1 Sam 19:11-17",
+     "2 Sam 6:16-23"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "abigail",
+    "name": "Abigail",
+    "note": "Wise wife of Nabal who averts David's vengeance; later David's wife.",
+    "refs": [
+     "1 Sam 25:2-42"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "The medium of Endor",
+    "note": "Consulted by Saul to bring up Samuel.",
+    "refs": [
+     "1 Sam 28:7-25"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "bathsheba",
+    "name": "Bathsheba",
+    "note": "Taken by David; mother of Solomon and queen mother.",
+    "refs": [
+     "2 Sam 11:2-5",
+     "1 Kgs 1:11-31",
+     "1 Kgs 2:19"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Tamar (David's daughter)",
+    "note": "Raped by her half-brother Amnon; avenged by Absalom.",
+    "refs": [
+     "2 Sam 13:1-22"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "The wise woman of Tekoa",
+    "note": "Recruited by Joab to persuade David to bring Absalom home.",
+    "refs": [
+     "2 Sam 14:1-20"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Rizpah",
+    "note": "Saul's concubine who guards her sons' bodies from the birds.",
+    "refs": [
+     "2 Sam 21:8-14"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "queen-of-sheba",
+    "name": "The queen of Sheba",
+    "note": "Tests Solomon's wisdom; Jesus says she will rise in the judgment.",
+    "refs": [
+     "1 Kgs 10:1-13",
+     "Matt 12:42"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "jezebel",
+    "name": "Jezebel",
+    "note": "Sidonian queen of Ahab who promotes Baal and arranges Naboth's murder.",
+    "refs": [
+     "1 Kgs 16:31",
+     "1 Kgs 21:5-16",
+     "2 Kgs 9:30-37"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "The widow of Zarephath",
+    "note": "Feeds Elijah in famine; her son is raised.",
+    "refs": [
+     "1 Kgs 17:8-24",
+     "Luke 4:25-26"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "The Shunammite woman",
+    "note": "Hosts Elisha; her son is promised, dies and is raised.",
+    "refs": [
+     "2 Kgs 4:8-37",
+     "2 Kgs 8:1-6"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Naaman's servant girl",
+    "note": "Captive Israelite girl who points her master to the prophet in Samaria.",
+    "refs": [
+     "2 Kgs 5:2-4"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "athaliah",
+    "name": "Athaliah",
+    "note": "Queen mother who seizes Judah's throne for six years.",
+    "refs": [
+     "2 Kgs 11:1-16"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Jehosheba",
+    "note": "King Jehoram's daughter who hides the infant Joash.",
+    "refs": [
+     "2 Kgs 11:2-3"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "personId": "huldah",
+    "name": "Huldah",
+    "note": "Prophetess consulted on the book of the law.",
+    "refs": [
+     "2 Kgs 22:14-20"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Gomer",
+    "note": "Hosea's wife, whose unfaithfulness becomes a prophetic sign.",
+    "refs": [
+     "Hos 1:2-3",
+     "Hos 3:1-3"
+    ],
+    "group": "Monarchy & prophets"
+   },
+   {
+    "name": "Vashti",
+    "note": "Persian queen deposed for refusing to appear at the king's feast.",
+    "refs": [
+     "Esth 1:9-19"
+    ],
+    "group": "Exile & return"
+   },
+   {
+    "personId": "esther",
+    "name": "Esther",
+    "note": "Jewish queen of Persia who risks her life to save her people.",
+    "refs": [
+     "Esth 2:7",
+     "Esth 4:13-16",
+     "Esth 7:1-6"
+    ],
+    "group": "Exile & return"
+   },
+   {
+    "personId": "mary-mother-of-jesus",
+    "name": "Mary, mother of Jesus",
+    "note": "Virgin of Nazareth who conceives by the Holy Spirit; present at the cross and in the upper room.",
+    "refs": [
+     "Luke 1:26-38",
+     "John 19:25-27",
+     "Acts 1:14"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "personId": "elizabeth",
+    "name": "Elizabeth",
+    "note": "Mother of John the Baptist; filled with the Spirit, she blesses Mary.",
+    "refs": [
+     "Luke 1:5-7",
+     "Luke 1:39-45"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "personId": "anna",
+    "name": "Anna",
+    "note": "Aged prophetess in the temple who speaks of the child Jesus.",
+    "refs": [
+     "Luke 2:36-38"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "personId": "mary-magdalene",
+    "name": "Mary Magdalene",
+    "note": "Healed disciple and patron; first witness of the resurrection. Western tradition from Gregory the Great conflated her with the sinful woman of Luke 7; the text does not.",
+    "refs": [
+     "Luke 8:1-3",
+     "Mark 15:40",
+     "John 20:11-18"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Joanna",
+    "note": "Wife of Herod's steward Chuza; supports Jesus and witnesses the empty tomb.",
+    "refs": [
+     "Luke 8:3",
+     "Luke 24:10"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Susanna",
+    "note": "One of the women who provide for Jesus from their means.",
+    "refs": [
+     "Luke 8:3"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Salome",
+    "note": "Watches the crucifixion and brings spices to the tomb; often identified with the mother of Zebedee's sons.",
+    "refs": [
+     "Mark 15:40",
+     "Mark 16:1",
+     "Matt 27:56"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Mary wife of Clopas",
+    "note": "Stands by the cross with Jesus' mother.",
+    "refs": [
+     "John 19:25"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "personId": "martha",
+    "name": "Martha",
+    "note": "Hosts Jesus at Bethany and confesses him as the Christ.",
+    "refs": [
+     "Luke 10:38-42",
+     "John 11:20-27"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "personId": "mary-of-bethany",
+    "name": "Mary of Bethany",
+    "note": "Sits at Jesus' feet and anoints him for burial.",
+    "refs": [
+     "Luke 10:39",
+     "John 12:1-8"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "The Samaritan woman",
+    "note": "Converses with Jesus at Jacob's well and brings her town to him.",
+    "refs": [
+     "John 4:7-42"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "The woman with the issue of blood",
+    "note": "Healed after twelve years by touching Jesus' garment.",
+    "refs": [
+     "Mark 5:25-34"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "The Syrophoenician woman",
+    "note": "A Gentile whose persistent answer wins healing for her daughter.",
+    "refs": [
+     "Mark 7:24-30",
+     "Matt 15:21-28"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "The poor widow",
+    "note": "Gives two mites, \"all her living\".",
+    "refs": [
+     "Mark 12:41-44"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "The woman who anointed Jesus in Galilee",
+    "note": "A \"sinner\" who washes Jesus' feet with tears in a Pharisee's house.",
+    "refs": [
+     "Luke 7:36-50"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Herodias",
+    "note": "Wife of Antipas who demands John the Baptist's head.",
+    "refs": [
+     "Mark 6:17-28"
+    ],
+    "group": "Gospels"
+   },
+   {
+    "name": "Sapphira",
+    "note": "Lies with Ananias about the price of their land and dies.",
+    "refs": [
+     "Acts 5:1-10"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "personId": "dorcas",
+    "name": "Dorcas (Tabitha)",
+    "note": "Disciple at Joppa full of good works; raised by Peter.",
+    "refs": [
+     "Acts 9:36-41"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Mary mother of John Mark",
+    "note": "Her Jerusalem house is a place of prayer for the church.",
+    "refs": [
+     "Acts 12:12"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Rhoda",
+    "note": "Servant girl who is so glad to hear Peter that she forgets to open the door.",
+    "refs": [
+     "Acts 12:13-16"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "personId": "lydia",
+    "name": "Lydia",
+    "note": "Seller of purple from Thyatira; first convert at Philippi and host of the church.",
+    "refs": [
+     "Acts 16:14-15",
+     "Acts 16:40"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Damaris",
+    "note": "Believes after Paul's speech at the Areopagus.",
+    "refs": [
+     "Acts 17:34"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "personId": "priscilla",
+    "name": "Priscilla (Prisca)",
+    "note": "Tentmaker and teacher who with Aquila instructs Apollos; often named before her husband.",
+    "refs": [
+     "Acts 18:2",
+     "Acts 18:26",
+     "Rom 16:3-5"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Philip's daughters",
+    "note": "Four unmarried daughters who prophesied.",
+    "refs": [
+     "Acts 21:9"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "personId": "phoebe",
+    "name": "Phoebe",
+    "note": "Servant (deacon) of the church at Cenchreae and patron of Paul, likely the bearer of Romans.",
+    "refs": [
+     "Rom 16:1-2"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "personId": "junia",
+    "name": "Junia",
+    "note": "Paul's kinswoman and fellow prisoner, \"of note among the apostles\" (sense debated).",
+    "refs": [
+     "Rom 16:7"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Euodia and Syntyche",
+    "note": "Women who laboured with Paul in the gospel, urged to agree in the Lord.",
+    "refs": [
+     "Phil 4:2-3"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Lois and Eunice",
+    "note": "Timothy's grandmother and mother, whose unfeigned faith he shares.",
+    "refs": [
+     "2 Tim 1:5",
+     "Acts 16:1"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Chloe",
+    "note": "Her household reports the Corinthian divisions to Paul.",
+    "refs": [
+     "1 Cor 1:11"
+    ],
+    "group": "Acts & letters"
+   },
+   {
+    "name": "Nympha",
+    "note": "Hosts a church in her house near Laodicea.",
+    "refs": [
+     "Col 4:15"
+    ],
+    "group": "Acts & letters"
+   }
+  ]
+ },
+ {
+  "id": "authors",
+  "title": "Authors of the Bible",
+  "intro": "For each book: the traditional attribution (from the text itself, Jewish tradition such as the Talmud's *Baba Bathra* 14b-15a, or early church writers) and the main lines of modern critical scholarship. Many books are anonymous; \"traditional\" and \"scholarly\" here are descriptions of views, not verdicts. Conservative scholars defend many traditional attributions with arguments of their own.",
+  "entries": [
+   {
+    "personId": "moses",
+    "name": "Genesis",
+    "note": "Traditional: Moses. Scholarly: a composite of sources or layers (the Documentary Hypothesis's J, E, P, or newer supplementary and fragmentary models), reaching final form in the exilic or Persian period.",
+    "refs": [
+     "Gen 1:1",
+     "Luke 24:27"
+    ],
+    "group": "Torah"
+   },
+   {
+    "personId": "moses",
+    "name": "Exodus",
+    "note": "Traditional: Moses, who is said to write down God's words. Scholarly: composite, as for Genesis.",
+    "refs": [
+     "Exod 17:14",
+     "Exod 24:4",
+     "Mark 12:26"
+    ],
+    "group": "Torah"
+   },
+   {
+    "personId": "moses",
+    "name": "Leviticus",
+    "note": "Traditional: Moses. Scholarly: largely the Priestly source and Holiness Code, often dated exilic or post-exilic, though some argue for older material.",
+    "refs": [
+     "Lev 1:1",
+     "Lev 27:34"
+    ],
+    "group": "Torah"
+   },
+   {
+    "personId": "moses",
+    "name": "Numbers",
+    "note": "Traditional: Moses, who records the stages of the journey. Scholarly: composite with priestly and non-priestly strands.",
+    "refs": [
+     "Num 33:2"
+    ],
+    "group": "Torah"
+   },
+   {
+    "personId": "moses",
+    "name": "Deuteronomy",
+    "note": "Traditional: Moses (with the account of his death by Joshua or a later hand). Scholarly: core law code linked to Josiah's reform (7th century BC), framed later.",
+    "refs": [
+     "Deut 31:9",
+     "Deut 31:24",
+     "Deut 34:5-12",
+     "2 Kgs 22:8"
+    ],
+    "group": "Torah"
+   },
+   {
+    "personId": "joshua",
+    "name": "Joshua",
+    "note": "Traditional: Joshua (Talmud), who \"wrote these words in the book of the law of God\". Scholarly: part of the Deuteronomistic History, compiled in the late monarchy and exile.",
+    "refs": [
+     "Josh 24:26"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "samuel",
+    "name": "Judges",
+    "note": "Traditional: Samuel (Talmud). Scholarly: Deuteronomistic History, using older hero stories and the Song of Deborah, one of the oldest poems in the Bible.",
+    "refs": [
+     "Judg 21:25",
+     "Judg 5:1"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "samuel",
+    "name": "Ruth",
+    "note": "Traditional: Samuel (Talmud). Scholarly: anonymous; dated to the monarchy by some and to the post-exilic period by others.",
+    "refs": [
+     "Ruth 1:1",
+     "Ruth 4:17-22"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "samuel",
+    "name": "1 Samuel",
+    "note": "Traditional: Samuel, with Nathan and Gad completing it (based on 1 Chr 29:29). Scholarly: Deuteronomistic History drawing on earlier narratives such as the ark story and David's rise.",
+    "refs": [
+     "1 Chr 29:29",
+     "1 Sam 10:25"
+    ],
+    "group": "History"
+   },
+   {
+    "name": "2 Samuel",
+    "note": "Traditional: Nathan and Gad. Scholarly: Deuteronomistic History incorporating the so-called Succession Narrative (2 Sam 9-20; 1 Kgs 1-2).",
+    "refs": [
+     "1 Chr 29:29"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "jeremiah",
+    "name": "1 Kings",
+    "note": "Traditional: Jeremiah (Talmud). Scholarly: Deuteronomistic History, citing sources such as the acts of Solomon and the chronicles of the kings.",
+    "refs": [
+     "1 Kgs 11:41",
+     "1 Kgs 14:19"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "jeremiah",
+    "name": "2 Kings",
+    "note": "Traditional: Jeremiah. Scholarly: Deuteronomistic History, finished after 561 BC since it records Jehoiachin's release.",
+    "refs": [
+     "2 Kgs 25:27-30"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "ezra",
+    "name": "1 Chronicles",
+    "note": "Traditional: Ezra (Talmud). Scholarly: \"the Chronicler\", a Levitical author of the late Persian period (c. 400-350 BC), probably distinct from Ezra-Nehemiah.",
+    "refs": [
+     "1 Chr 29:29",
+     "2 Chr 36:22-23"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "ezra",
+    "name": "2 Chronicles",
+    "note": "Traditional: Ezra. Scholarly: the Chronicler, as above.",
+    "refs": [
+     "2 Chr 36:22-23"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "ezra",
+    "name": "Ezra",
+    "note": "Traditional: Ezra, with first-person memoirs. Scholarly: Ezra-Nehemiah (one book in the Hebrew Bible) compiled from Ezra and Nehemiah memoirs and Persian documents.",
+    "refs": [
+     "Ezra 7:27-28",
+     "Ezra 7:1-6"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "nehemiah",
+    "name": "Nehemiah",
+    "note": "Traditional: Nehemiah (\"the words of Nehemiah\"). Scholarly: Nehemiah memoir embedded in Ezra-Nehemiah.",
+    "refs": [
+     "Neh 1:1"
+    ],
+    "group": "History"
+   },
+   {
+    "personId": "mordecai",
+    "name": "Esther",
+    "note": "Traditional: Mordecai or the Men of the Great Assembly. Scholarly: anonymous, late Persian or early Hellenistic period.",
+    "refs": [
+     "Esth 9:20",
+     "Esth 9:32"
+    ],
+    "group": "History"
+   },
+   {
+    "name": "Job",
+    "note": "Traditional: the Talmud names Moses; others suggest Job himself or Solomon. Scholarly: anonymous, usually dated 6th-4th century BC, with debate over the unity of the speeches of Elihu.",
+    "refs": [
+     "Job 1:1"
+    ],
+    "group": "Poetry & wisdom"
+   },
+   {
+    "personId": "david",
+    "name": "Psalms",
+    "note": "Traditional: David and others named in superscriptions (Asaph, the sons of Korah, Solomon, Moses, Heman, Ethan). Scholarly: a collection formed over centuries; the superscriptions are generally seen as later editorial notes.",
+    "refs": [
+     "Ps 72:20",
+     "Ps 90:1",
+     "Acts 4:25"
+    ],
+    "group": "Poetry & wisdom"
+   },
+   {
+    "personId": "solomon",
+    "name": "Proverbs",
+    "note": "Traditional: Solomon, with sections by \"the wise\", Agur and Lemuel, and proverbs copied by Hezekiah's men. Scholarly: a collection of collections, some possibly monarchic, finalised after the exile.",
+    "refs": [
+     "Prov 1:1",
+     "Prov 25:1",
+     "Prov 30:1",
+     "Prov 31:1"
+    ],
+    "group": "Poetry & wisdom"
+   },
+   {
+    "personId": "solomon",
+    "name": "Ecclesiastes",
+    "note": "Traditional: Solomon, \"the Preacher, the son of David\". Scholarly: a later sage writing in Solomon's persona, often dated 3rd century BC on linguistic grounds.",
+    "refs": [
+     "Eccl 1:1",
+     "Eccl 1:12"
+    ],
+    "group": "Poetry & wisdom"
+   },
+   {
+    "personId": "solomon",
+    "name": "Song of Solomon",
+    "note": "Traditional: Solomon. Scholarly: anonymous love poetry, possibly an anthology; the superscription may mean \"for\" or \"about\" Solomon.",
+    "refs": [
+     "Song 1:1"
+    ],
+    "group": "Poetry & wisdom"
+   },
+   {
+    "personId": "isaiah",
+    "name": "Isaiah",
+    "note": "Traditional: Isaiah son of Amoz; the NT quotes both halves under his name. Scholarly: First Isaiah (1-39, 8th century), Second Isaiah (40-55, exilic) and Third Isaiah (56-66, post-exilic).",
+    "refs": [
+     "Isa 1:1",
+     "John 12:38-41"
+    ],
+    "group": "Major prophets"
+   },
+   {
+    "personId": "jeremiah",
+    "name": "Jeremiah",
+    "note": "Traditional: Jeremiah, dictating to Baruch. Scholarly: Jeremiah's oracles with Baruch's narratives and Deuteronomistic prose; the Greek text is about one-eighth shorter.",
+    "refs": [
+     "Jer 1:1",
+     "Jer 36:4",
+     "Jer 36:32"
+    ],
+    "group": "Major prophets"
+   },
+   {
+    "personId": "jeremiah",
+    "name": "Lamentations",
+    "note": "Traditional: Jeremiah (Greek preface and Talmud). Scholarly: anonymous poems composed soon after 586 BC, perhaps by several authors.",
+    "refs": [
+     "Lam 1:1",
+     "2 Chr 35:25"
+    ],
+    "group": "Major prophets"
+   },
+   {
+    "personId": "ezekiel",
+    "name": "Ezekiel",
+    "note": "Traditional: Ezekiel the priest. Scholarly: broadly accepted as substantially from Ezekiel, with some editorial expansion by his circle.",
+    "refs": [
+     "Ezek 1:1-3"
+    ],
+    "group": "Major prophets"
+   },
+   {
+    "personId": "daniel",
+    "name": "Daniel",
+    "note": "Traditional: Daniel in the 6th century BC; Jesus refers to \"Daniel the prophet\". Scholarly: court tales (1-6) earlier, with the visions (7-12) completed c. 167-164 BC during the Maccabean crisis; conservatives defend a 6th-century date.",
+    "refs": [
+     "Dan 7:1",
+     "Dan 12:4",
+     "Matt 24:15"
+    ],
+    "group": "Major prophets"
+   },
+   {
+    "personId": "hosea",
+    "name": "Hosea",
+    "note": "Traditional: Hosea son of Beeri. Scholarly: mainly Hosea, with Judean editing after Samaria's fall.",
+    "refs": [
+     "Hos 1:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "joel-prophet",
+    "name": "Joel",
+    "note": "Traditional: Joel son of Pethuel. Scholarly: authorship accepted; date disputed from pre-exilic to Persian period.",
+    "refs": [
+     "Joel 1:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "amos",
+    "name": "Amos",
+    "note": "Traditional: Amos of Tekoa. Scholarly: mainly Amos; the hopeful ending (9:11-15) is often attributed to a later hand.",
+    "refs": [
+     "Amos 1:1",
+     "Amos 9:11-15"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "obadiah-prophet",
+    "name": "Obadiah",
+    "note": "Traditional: Obadiah, sometimes identified (Talmud) with Ahab's steward. Scholarly: anonymous prophet after 586 BC.",
+    "refs": [
+     "Obad 1:1",
+     "1 Kgs 18:3"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "jonah",
+    "name": "Jonah",
+    "note": "Traditional: Jonah son of Amittai. Scholarly: anonymous third-person narrative about the 8th-century prophet, usually dated post-exilic.",
+    "refs": [
+     "Jonah 1:1",
+     "2 Kgs 14:25"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "micah",
+    "name": "Micah",
+    "note": "Traditional: Micah of Moresheth. Scholarly: chapters 1-3 widely accepted; parts of 4-7 often dated later.",
+    "refs": [
+     "Mic 1:1",
+     "Jer 26:18"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "nahum",
+    "name": "Nahum",
+    "note": "Traditional: Nahum the Elkoshite. Scholarly: accepted; written between 663 and 612 BC.",
+    "refs": [
+     "Nah 1:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "habakkuk",
+    "name": "Habakkuk",
+    "note": "Traditional: Habakkuk the prophet. Scholarly: accepted; late 7th century BC; the psalm of chapter 3 may have circulated separately.",
+    "refs": [
+     "Hab 1:1",
+     "Hab 3:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "zephaniah",
+    "name": "Zephaniah",
+    "note": "Traditional: Zephaniah. Scholarly: accepted, with some later additions in the closing promises.",
+    "refs": [
+     "Zeph 1:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "haggai",
+    "name": "Haggai",
+    "note": "Traditional: Haggai. Scholarly: Haggai's oracles in a third-person editorial frame, 520 BC.",
+    "refs": [
+     "Hag 1:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "zechariah-prophet",
+    "name": "Zechariah",
+    "note": "Traditional: Zechariah son of Berechiah. Scholarly: chapters 1-8 from Zechariah (520-518 BC); chapters 9-14 (\"Deutero-Zechariah\") from later hands.",
+    "refs": [
+     "Zech 1:1",
+     "Zech 9:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "malachi",
+    "name": "Malachi",
+    "note": "Traditional: Malachi. Scholarly: possibly anonymous (\"my messenger\" as a title), mid-5th century BC.",
+    "refs": [
+     "Mal 1:1",
+     "Mal 3:1"
+    ],
+    "group": "Minor prophets"
+   },
+   {
+    "personId": "matthew",
+    "name": "Matthew",
+    "note": "Traditional: the apostle Matthew (Papias, Irenaeus). Scholarly: anonymous Jewish-Christian author c. AD 80-90 who used Mark; minority defend Matthean authorship.",
+    "refs": [
+     "Matt 9:9",
+     "Matt 10:3"
+    ],
+    "group": "Gospels & Acts"
+   },
+   {
+    "personId": "john-mark",
+    "name": "Mark",
+    "note": "Traditional: John Mark, recording Peter's preaching (Papias). Scholarly: generally the earliest Gospel, c. AD 65-70; the link to Peter is debated but the name Mark is widely accepted.",
+    "refs": [
+     "Mark 1:1",
+     "1 Pet 5:13",
+     "Acts 12:12"
+    ],
+    "group": "Gospels & Acts"
+   },
+   {
+    "personId": "luke",
+    "name": "Luke",
+    "note": "Traditional: Luke the physician, Paul's companion. Scholarly: same author as Acts; Lukan authorship debated but widely held possible; c. AD 80-90 (some date earlier).",
+    "refs": [
+     "Luke 1:1-4",
+     "Col 4:14"
+    ],
+    "group": "Gospels & Acts"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "John",
+    "note": "Traditional: John son of Zebedee, the beloved disciple. Scholarly: the beloved disciple tradition shaped by a Johannine community, c. AD 90-100; identity of the beloved disciple debated.",
+    "refs": [
+     "John 21:20-24",
+     "John 19:35"
+    ],
+    "group": "Gospels & Acts"
+   },
+   {
+    "personId": "luke",
+    "name": "Acts",
+    "note": "Traditional: Luke; the \"we\" passages suggest an eyewitness companion of Paul. Scholarly: same author as Luke; whether the \"we\" sections reflect the author's presence is debated.",
+    "refs": [
+     "Acts 1:1",
+     "Acts 16:10-17"
+    ],
+    "group": "Gospels & Acts"
+   },
+   {
+    "personId": "paul",
+    "name": "Romans",
+    "note": "Paul (undisputed), written down by Tertius from Corinth c. AD 57.",
+    "refs": [
+     "Rom 1:1",
+     "Rom 16:22"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "1 Corinthians",
+    "note": "Paul (undisputed), with Sosthenes, from Ephesus c. AD 54-55.",
+    "refs": [
+     "1 Cor 1:1",
+     "1 Cor 16:8"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "2 Corinthians",
+    "note": "Paul (undisputed), with Timothy; many scholars see a compilation of several letters.",
+    "refs": [
+     "2 Cor 1:1"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Galatians",
+    "note": "Paul (undisputed); date and destination (north vs south Galatia) debated.",
+    "refs": [
+     "Gal 1:1",
+     "Gal 6:11"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Ephesians",
+    "note": "Traditional: Paul from prison. Scholarly: widely regarded as deutero-Pauline (style, theology, dependence on Colossians); defended as Pauline by many conservatives.",
+    "refs": [
+     "Eph 1:1",
+     "Eph 3:1"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Philippians",
+    "note": "Paul (undisputed), with Timothy, from prison (Rome, Ephesus or Caesarea).",
+    "refs": [
+     "Phil 1:1",
+     "Phil 1:13"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Colossians",
+    "note": "Traditional: Paul with Timothy. Scholarly: disputed; roughly evenly divided between Pauline and deutero-Pauline.",
+    "refs": [
+     "Col 1:1",
+     "Col 4:18"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "1 Thessalonians",
+    "note": "Paul (undisputed) with Silvanus and Timothy, c. AD 50; probably the earliest NT writing.",
+    "refs": [
+     "1 Thess 1:1"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "2 Thessalonians",
+    "note": "Traditional: Paul. Scholarly: disputed because of its eschatology and close literary dependence on 1 Thessalonians.",
+    "refs": [
+     "2 Thess 1:1",
+     "2 Thess 3:17"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "1 Timothy",
+    "note": "Traditional: Paul. Scholarly: the Pastoral Epistles are widely judged pseudonymous (c. AD 100) on grounds of vocabulary and church order; defended as Pauline, perhaps via a secretary, by others.",
+    "refs": [
+     "1 Tim 1:1-2"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "2 Timothy",
+    "note": "Traditional: Paul's last letter from Roman imprisonment. Scholarly: Pastoral, as above; some see genuine Pauline fragments.",
+    "refs": [
+     "2 Tim 1:1",
+     "2 Tim 4:6-13"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Titus",
+    "note": "Traditional: Paul. Scholarly: Pastoral, as above.",
+    "refs": [
+     "Titus 1:1-5"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "personId": "paul",
+    "name": "Philemon",
+    "note": "Paul (undisputed), with Timothy, from prison.",
+    "refs": [
+     "Phlm 1:1",
+     "Phlm 1:19"
+    ],
+    "group": "Pauline letters"
+   },
+   {
+    "name": "Hebrews",
+    "note": "Anonymous. Eastern tradition credited Paul (Clement of Alexandria and Origen with reservations; Origen said only God knows); Tertullian named Barnabas, Luther suggested Apollos, Harnack proposed Priscilla. Modern scholarship regards it as non-Pauline.",
+    "refs": [
+     "Heb 13:22-24",
+     "Heb 2:3"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "james-brother-of-jesus",
+    "name": "James",
+    "note": "Traditional: James the Lord's brother. Scholarly: debated; some see a pseudonymous work in polished Greek, others defend James (perhaps with help), c. AD 45-62.",
+    "refs": [
+     "Jas 1:1"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "peter",
+    "name": "1 Peter",
+    "note": "Traditional: Peter, \"by Silvanus\". Scholarly: debated; many judge it pseudonymous (c. AD 80-90) because of its Greek and setting; others accept Peter with Silvanus as secretary.",
+    "refs": [
+     "1 Pet 1:1",
+     "1 Pet 5:12-13"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "peter",
+    "name": "2 Peter",
+    "note": "Traditional: Peter, claiming to be an eyewitness of the transfiguration. Scholarly: widely regarded as pseudonymous (early 2nd century), using Jude; it was among the disputed books in the early church.",
+    "refs": [
+     "2 Pet 1:1",
+     "2 Pet 1:16-18",
+     "2 Pet 3:1"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "1 John",
+    "note": "Traditional: John the apostle. Scholarly: anonymous; same circle as the Fourth Gospel.",
+    "refs": [
+     "1 John 1:1-3"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "2 John",
+    "note": "Traditional: John the apostle. Scholarly: \"the elder\", perhaps the John the Elder mentioned by Papias.",
+    "refs": [
+     "2 John 1:1"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "3 John",
+    "note": "Traditional: John the apostle. Scholarly: \"the elder\", as for 2 John.",
+    "refs": [
+     "3 John 1:1"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "jude-brother-of-jesus",
+    "name": "Jude",
+    "note": "Traditional: Jude, brother of James (and of Jesus). Scholarly: debated; some see a pseudonymous work, others accept the brother of Jesus.",
+    "refs": [
+     "Jude 1:1",
+     "Mark 6:3"
+    ],
+    "group": "General letters"
+   },
+   {
+    "personId": "john-the-apostle",
+    "name": "Revelation",
+    "note": "Traditional: John the apostle (Justin Martyr, Irenaeus). Scholarly: a prophet named John on Patmos; Dionysius of Alexandria already argued on stylistic grounds that he was not the evangelist. Usually dated c. AD 95 under Domitian.",
+    "refs": [
+     "Rev 1:1",
+     "Rev 1:9",
+     "Rev 22:8"
+    ],
+    "group": "Apocalypse"
+   }
+  ]
+ },
+ {
+  "id": "angels",
+  "title": "Angels and Heavenly Beings",
+  "intro": "Scripture names only two angels: Michael and Gabriel. Other heavenly beings appear as categories (seraphim, cherubim, living creatures) or by function (the angel of the LORD, destroying angel, watchers). Fallen beings are included for completeness. Raphael and Uriel belong to deuterocanonical and later Jewish literature, not the Protestant canon.",
+  "entries": [
+   {
+    "name": "Michael",
+    "note": "Called \"one of the chief princes\" and \"the archangel\"; protector of Israel who disputes with the devil over Moses' body and wars against the dragon.",
+    "refs": [
+     "Dan 10:13",
+     "Dan 12:1",
+     "Jude 1:9",
+     "Rev 12:7-9"
+    ],
+    "group": "Named angels"
+   },
+   {
+    "name": "Gabriel",
+    "note": "Explains Daniel's visions and announces the births of John and Jesus; \"that stand in the presence of God\".",
+    "refs": [
+     "Dan 8:16",
+     "Dan 9:21-27",
+     "Luke 1:19",
+     "Luke 1:26-38"
+    ],
+    "group": "Named angels"
+   },
+   {
+    "name": "Raphael",
+    "note": "Appears only in Tobit (deuterocanonical: canonical for Catholic and Orthodox churches, apocryphal for Protestants), where he calls himself one of seven holy angels before God. Revelation's \"seven angels which stood before God\" are often compared.",
+    "refs": [
+     "Rev 8:2"
+    ],
+    "group": "Named angels (deuterocanonical)"
+   },
+   {
+    "name": "Seraphim",
+    "note": "Six-winged beings above the throne crying \"Holy, holy, holy\"; one touches Isaiah's lips with a coal. The name likely relates to \"burning\".",
+    "refs": [
+     "Isa 6:1-7"
+    ],
+    "group": "Categories"
+   },
+   {
+    "name": "Cherubim",
+    "note": "Guard Eden's way, are depicted in gold on the mercy seat, and bear the throne-chariot in Ezekiel.",
+    "refs": [
+     "Gen 3:24",
+     "Exod 25:18-22",
+     "Ezek 10:1-22",
+     "Ps 80:1"
+    ],
+    "group": "Categories"
+   },
+   {
+    "name": "Living creatures",
+    "note": "Four creatures with faces of man, lion, ox and eagle in Ezekiel, identified by him as cherubim; Revelation's four creatures worship before the throne.",
+    "refs": [
+     "Ezek 1:5-14",
+     "Ezek 10:20",
+     "Rev 4:6-8"
+    ],
+    "group": "Categories"
+   },
+   {
+    "name": "Archangels",
+    "note": "The title appears twice: of Michael and of the archangel's voice at Christ's return. Later tradition lists seven.",
+    "refs": [
+     "1 Thess 4:16",
+     "Jude 1:9"
+    ],
+    "group": "Categories"
+   },
+   {
+    "name": "Watchers",
+    "note": "\"A watcher and an holy one\" decrees Nebuchadnezzar's humbling; the term was developed in *1 Enoch*.",
+    "refs": [
+     "Dan 4:13-17"
+    ],
+    "group": "Categories"
+   },
+   {
+    "name": "The angel of the LORD",
+    "note": "Speaks as God and is addressed as God (Hagar, Moses at the bush, Gideon). Many church fathers and Reformed interpreters see a pre-incarnate appearance of the Son; others see a created angel bearing God's name, as in much Jewish interpretation.",
+    "refs": [
+     "Gen 16:7-13",
+     "Exod 3:2-6",
+     "Judg 6:11-22",
+     "Judg 13:17-22"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Captain of the LORD's host",
+    "note": "Appears to Joshua near Jericho and tells him to remove his shoes, for the place is holy.",
+    "refs": [
+     "Josh 5:13-15"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "The destroying angel",
+    "note": "Strikes Israel after David's census and the Assyrian camp in Hezekiah's day.",
+    "refs": [
+     "2 Sam 24:15-17",
+     "2 Kgs 19:35"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Guardian angels",
+    "note": "Jesus says the little ones' angels always behold the Father's face; Hebrews calls angels ministering spirits for the heirs of salvation.",
+    "refs": [
+     "Matt 18:10",
+     "Heb 1:14",
+     "Ps 91:11"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Angels at the tomb",
+    "note": "One or two angels announce the resurrection to the women.",
+    "refs": [
+     "Matt 28:2-7",
+     "Luke 24:4-7",
+     "John 20:12"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Angel who strengthened Jesus",
+    "note": "Appears to Jesus in Gethsemane (the verse is absent from some early manuscripts).",
+    "refs": [
+     "Luke 22:43"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Angels of the seven churches",
+    "note": "Each letter in Revelation is addressed to \"the angel\" of a church; interpreted as guardian angels, as the churches' messengers or leaders, or as personifications of each church.",
+    "refs": [
+     "Rev 1:20",
+     "Rev 2:1"
+    ],
+    "group": "By function"
+   },
+   {
+    "name": "Satan (the accuser)",
+    "note": "The adversary in the heavenly court of Job and Zechariah; in the NT the devil, deceiver and tempter.",
+    "refs": [
+     "Job 1:6-12",
+     "Zech 3:1-2",
+     "Matt 4:1-11",
+     "Rev 12:9"
+    ],
+    "group": "Fallen"
+   },
+   {
+    "name": "Abaddon / Apollyon",
+    "note": "\"Destroyer\", the angel of the bottomless pit and king over the locusts.",
+    "refs": [
+     "Rev 9:11"
+    ],
+    "group": "Fallen"
+   },
+   {
+    "name": "Beelzebub",
+    "note": "Called \"the prince of the devils\" by Jesus' opponents; Jesus links him with Satan.",
+    "refs": [
+     "Matt 12:24-26",
+     "2 Kgs 1:2"
+    ],
+    "group": "Fallen"
+   },
+   {
+    "name": "\"Lucifer\"",
+    "note": "The KJV renders \"day star\" in a taunt against the king of Babylon as Lucifer. Many church fathers applied it to Satan's fall; most modern commentators read it primarily of the human king.",
+    "refs": [
+     "Isa 14:4",
+     "Isa 14:12-15"
+    ],
+    "group": "Fallen"
+   },
+   {
+    "name": "Sons of God (Genesis 6)",
+    "note": "Their union with \"the daughters of men\" is read as fallen angels (early Jewish and patristic view, cf. 1 Pet 3:19-20; Jude 1:6), as the line of Seth, or as royal tyrants.",
+    "refs": [
+     "Gen 6:1-4",
+     "Jude 1:6"
+    ],
+    "group": "Fallen (debated)"
+   }
+  ]
+ }
+]

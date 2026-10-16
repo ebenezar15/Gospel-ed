@@ -1,0 +1,4885 @@
+[
+ {
+  "id": "eden",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Eden"
+   },
+   {
+    "era": "primeval",
+    "name": "Garden of Eden"
+   }
+  ],
+  "coords": [
+   47,
+   31
+  ],
+  "coordConfidence": "debated",
+  "type": "region",
+  "refs": [
+   "Gen 2:8-17",
+   "Gen 3:22-24",
+   "Ezek 28:13",
+   "Isa 51:3"
+  ],
+  "summary": "The garden God planted \"eastward in Eden\", watered by a river that parted into the Pishon, Gihon, Tigris and Euphrates. The most common proposal places it in southern Mesopotamia near where the Tigris and Euphrates meet; alternatives include the Armenian highlands at the rivers' sources, the head of the Persian Gulf (now submerged), or a purely theological geography not meant to be mapped."
+ },
+ {
+  "id": "ararat",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Mountains of Ararat"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Urartu"
+   },
+   {
+    "era": "modern",
+    "name": "Agri Dagi (Mount Ararat)"
+   }
+  ],
+  "coords": [
+   44.298,
+   39.702
+  ],
+  "coordConfidence": "debated",
+  "type": "mountain",
+  "refs": [
+   "Gen 8:4",
+   "2 Kgs 19:37",
+   "Jer 51:27"
+  ],
+  "summary": "The ark came to rest on \"the mountains of Ararat\", the biblical name for the kingdom of Urartu in the highlands of eastern Turkey and Armenia. The text names a region rather than a single peak; the point shown is the modern Mount Ararat, while older Syriac and Islamic traditions favoured Cudi Dagi (Mount Judi) farther south.",
+  "archaeology": "Urartu is well attested in Assyrian inscriptions from the 9th to 7th centuries BC. Repeated claims of ark remains on Mount Ararat have not been substantiated by peer-reviewed work."
+ },
+ {
+  "id": "babel",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Babel"
+   },
+   {
+    "era": "primeval",
+    "name": "Land of Shinar"
+   }
+  ],
+  "coords": [
+   44.4209,
+   32.5364
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 10:10",
+   "Gen 11:1-9"
+  ],
+  "summary": "The city and tower in the land of Shinar where human speech was confused and the peoples scattered. Babel is the Hebrew name of Babylon, and the tower is most often linked with a Mesopotamian ziggurat such as Etemenanki at Babylon; some scholars point instead to Eridu, an older city with a famous ziggurat.",
+  "archaeology": "Foundations of Etemenanki, the great ziggurat of Marduk at Babylon, survive; ancient sources describe it as about 90 m square. Ziggurats were stepped temple-towers described as linking heaven and earth."
+ },
+ {
+  "id": "ur",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Ur of the Chaldeans"
+   },
+   {
+    "era": "modern",
+    "name": "Tell el-Muqayyar"
+   }
+  ],
+  "coords": [
+   46.1031,
+   30.9626
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 11:28",
+   "Gen 11:31",
+   "Gen 15:7",
+   "Neh 9:7",
+   "Acts 7:2-4"
+  ],
+  "summary": "Abraham's starting point, a major Sumerian city on the lower Euphrates. Most identify it with Tell el-Muqayyar in southern Iraq; a minority argue for a northern Ur near Haran (for example near Urfa), noting the family's later ties to upper Mesopotamia.",
+  "archaeology": "Leonard Woolley's excavations (1922-1934) uncovered the Royal Cemetery with its rich burials and the ziggurat of Ur-Nammu (c. 2100 BC), partly restored in modern times. The epithet \"of the Chaldeans\" reflects a later name for the region."
+ },
+ {
+  "id": "haran",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Haran"
+   },
+   {
+    "era": "modern",
+    "name": "Harran"
+   }
+  ],
+  "coords": [
+   39.0306,
+   36.8636
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 11:31-32",
+   "Gen 12:4-5",
+   "Gen 27:43",
+   "Gen 29:4",
+   "2 Kgs 19:12",
+   "Acts 7:4"
+  ],
+  "summary": "A caravan city on the Balikh river in upper Mesopotamia where Terah's family settled and Terah died, and from which Abraham set out for Canaan. Jacob later fled to his uncle Laban here.",
+  "archaeology": "Harran was a centre of the moon-god Sin; the Babylonian king Nabonidus restored its temple, and it was the last refuge of the Assyrian state after Nineveh fell (c. 610 BC). Ruins at Harran in southeastern Turkey include an early Islamic mosque and citadel."
+ },
+ {
+  "id": "shechem",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Shechem"
+   },
+   {
+    "era": "second-temple",
+    "name": "Shechem (near Sychar)"
+   },
+   {
+    "era": "modern",
+    "name": "Tell Balata, Nablus"
+   }
+  ],
+  "coords": [
+   35.2815,
+   32.2135
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 12:6-7",
+   "Gen 33:18-20",
+   "Gen 34:1-31",
+   "Josh 24:1-28",
+   "Judg 9:1-6",
+   "1 Kgs 12:1"
+  ],
+  "summary": "A city in the pass between Mounts Ebal and Gerizim where Abraham built his first altar in Canaan, Joshua renewed the covenant, and Israel rejected Rehoboam. Joseph's bones were buried here.",
+  "archaeology": "Tell Balata, on the east side of modern Nablus, has Middle Bronze fortifications and a massive fortress-temple often linked with the temple of El-berith in Judg 9:46."
+ },
+ {
+  "id": "bethel",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Luz"
+   },
+   {
+    "era": "patriarchs",
+    "name": "Bethel"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Beth-aven (Hosea's taunt)"
+   },
+   {
+    "era": "modern",
+    "name": "Beitin"
+   }
+  ],
+  "coords": [
+   35.2385,
+   31.9285
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 12:8",
+   "Gen 28:10-22",
+   "Gen 35:1-15",
+   "Judg 20:18",
+   "1 Kgs 12:28-33",
+   "Amos 7:10-13",
+   "Hos 4:15"
+  ],
+  "summary": "Formerly Luz, renamed \"house of God\" by Jacob after his dream of the ladder. Jeroboam I later set up a golden calf here, making it a royal sanctuary of the northern kingdom condemned by Amos and Hosea. Most identify it with Beitin, north of Jerusalem; a minority favour el-Bireh.",
+  "archaeology": "Excavations at Beitin (Albright and Kelso) found occupation through the Bronze and Iron Ages, though the sanctuary itself has not been located."
+ },
+ {
+  "id": "ai",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Ai"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Ai (\"the ruin\")"
+   },
+   {
+    "era": "modern",
+    "name": "et-Tell"
+   }
+  ],
+  "coords": [
+   35.2618,
+   31.9165
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 12:8",
+   "Josh 7:2-5",
+   "Josh 8:1-29"
+  ],
+  "summary": "A town east of Bethel where Israel was first defeated because of Achan's sin and then took the city by ambush. The usual identification is et-Tell; because et-Tell was unoccupied in the Late Bronze Age, others propose Khirbet el-Maqatir or Khirbet Nisya nearby.",
+  "archaeology": "et-Tell was a large Early Bronze city abandoned around 2400 BC, with only a small Iron I village later. Khirbet el-Maqatir, excavated by the Associates for Biblical Research, has a small Late Bronze fortress argued by its excavators to be Joshua's Ai."
+ },
+ {
+  "id": "hebron",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Kiriath-arba"
+   },
+   {
+    "era": "patriarchs",
+    "name": "Hebron"
+   },
+   {
+    "era": "modern",
+    "name": "al-Khalil"
+   }
+  ],
+  "coords": [
+   35.0998,
+   31.5326
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 13:18",
+   "Gen 23:2",
+   "Gen 23:17-20",
+   "Num 13:22",
+   "Josh 14:13-15",
+   "2 Sam 2:1-4",
+   "2 Sam 5:1-5"
+  ],
+  "summary": "An ancient hill city of Judah, earlier called Kiriath-arba, where Abraham bought the cave of Machpelah as a family tomb. Caleb received it as his inheritance, and David reigned here seven and a half years before moving to Jerusalem.",
+  "archaeology": "The old city mound is Tel Rumeida, with Middle Bronze walls and an LMLK-era presence. The traditional Tomb of the Patriarchs is enclosed by a monumental Herodian wall that still stands."
+ },
+ {
+  "id": "mamre",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Oaks of Mamre"
+   },
+   {
+    "era": "modern",
+    "name": "Ramat el-Khalil"
+   }
+  ],
+  "coords": [
+   35.106,
+   31.555
+  ],
+  "coordConfidence": "tradition",
+  "type": "site",
+  "refs": [
+   "Gen 13:18",
+   "Gen 14:13",
+   "Gen 18:1-15",
+   "Gen 23:17-19"
+  ],
+  "summary": "The grove near Hebron where Abraham camped, built an altar and received the three visitors who promised Isaac. The traditional site is Ramat el-Khalil north of Hebron.",
+  "archaeology": "Ramat el-Khalil has a Herodian enclosure wall and the remains of a basilica built by Constantine after his mother-in-law reported pagan worship at the site."
+ },
+ {
+  "id": "beersheba",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Beersheba"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Be'er Sheva"
+   }
+  ],
+  "coords": [
+   34.8405,
+   31.245
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 21:22-33",
+   "Gen 26:23-33",
+   "Gen 46:1-5",
+   "Judg 20:1",
+   "1 Kgs 19:3-4"
+  ],
+  "summary": "The \"well of the oath\" in the northern Negev where Abraham and Isaac made treaties over wells, and the traditional southern limit of Israel in the phrase \"from Dan to Beersheba\". Elijah fled through it on his way to Horeb.",
+  "archaeology": "Tel Be'er Sheva, east of the modern city, preserves a planned Iron Age town with a deep well near the gate. Stones of a dismantled horned altar reused in a later wall are often linked with Hezekiah's reform."
+ },
+ {
+  "id": "gerar",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Gerar"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Haror (Tell Abu Hureira)"
+   }
+  ],
+  "coords": [
+   34.6047,
+   31.3836
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 20:1-18",
+   "Gen 26:1-22",
+   "2 Chr 14:13-14"
+  ],
+  "summary": "A town in the western Negev ruled by Abimelech, where both Abraham and Isaac passed off their wives as sisters and quarrelled over wells. Most identify it with Tel Haror on the Nahal Gerar; Tel Sera' is a less favoured alternative."
+ },
+ {
+  "id": "sodom",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Sodom"
+   }
+  ],
+  "coords": [
+   35.535,
+   31.2535
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 13:10-13",
+   "Gen 18:16-33",
+   "Gen 19:1-29",
+   "Isa 1:9-10",
+   "Luke 17:28-32",
+   "Jude 1:7"
+  ],
+  "summary": "One of the \"cities of the plain\" chosen by Lot and destroyed by fire and brimstone. The common proposal is the southeastern Dead Sea, linked with Early Bronze sites such as Bab edh-Dhra; a rival view identifies it with Tall el-Hammam north of the Dead Sea, and some think the site lies beneath the sea's southern basin.",
+  "archaeology": "Bab edh-Dhra and Numeira show Early Bronze towns with large cemeteries that ended in destruction around 2350 BC. A 2021 paper proposing an airburst destruction at Tall el-Hammam drew strong criticism and corrections."
+ },
+ {
+  "id": "salem",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Salem"
+   }
+  ],
+  "coords": [
+   35.2345,
+   31.7767
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 14:18-20",
+   "Ps 76:2",
+   "Heb 7:1-2"
+  ],
+  "summary": "The city of the priest-king Melchizedek, who blessed Abraham. Psalm 76 pairs Salem with Zion, and most Jewish and Christian interpreters identify it with Jerusalem; a minority link it to a Salem near Shechem."
+ },
+ {
+  "id": "moriah",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Land of Moriah"
+   },
+   {
+    "era": "united-monarchy",
+    "name": "Mount Moriah"
+   },
+   {
+    "era": "modern",
+    "name": "Temple Mount / Haram al-Sharif"
+   }
+  ],
+  "coords": [
+   35.2354,
+   31.7781
+  ],
+  "coordConfidence": "tradition",
+  "type": "mountain",
+  "refs": [
+   "Gen 22:1-19",
+   "2 Chr 3:1"
+  ],
+  "summary": "The \"land of Moriah\" where Abraham was told to offer Isaac. 2 Chronicles places Solomon's temple on Mount Moriah, so Jewish and Christian tradition identifies the site with the Temple Mount; Samaritan tradition places it on Mount Gerizim.",
+  "archaeology": "The Temple Mount platform as seen today is largely Herod's expansion (from c. 20 BC); excavation on the platform itself is not permitted, but sifting of removed soil has recovered First and Second Temple period finds."
+ },
+ {
+  "id": "negev",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Negev (the South)"
+   },
+   {
+    "era": "modern",
+    "name": "Negev"
+   }
+  ],
+  "coords": [
+   34.85,
+   30.85
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 12:9",
+   "Gen 20:1",
+   "Num 13:17",
+   "Josh 15:21-32",
+   "Ps 126:4"
+  ],
+  "summary": "The dry southern country of Judah, whose name means \"dry\" and came to mean \"south\". Abraham and Isaac grazed flocks here, and its seasonal streams gave the image of restoration in Psalm 126.",
+  "archaeology": "Iron Age forts such as Arad and Tel Be'er Sheva and dozens of small fortresses dot the Negev highlands, alongside later Nabataean caravan towns."
+ },
+ {
+  "id": "egypt",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Mizraim"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Egypt"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Land of Ham"
+   }
+  ],
+  "coords": [
+   31,
+   28
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 12:10-20",
+   "Gen 46:1-7",
+   "Exod 1:1-14",
+   "Exod 12:40-42",
+   "Ps 105:23",
+   "Hos 11:1",
+   "Matt 2:13-15"
+  ],
+  "summary": "The Nile kingdom that repeatedly served as refuge and house of bondage: Abraham, Jacob's family and the infant Jesus all went down to Egypt, while Israel's exodus from it became the defining act of redemption in the Old Testament.",
+  "archaeology": "Egyptian records mention \"Israel\" first on the Merneptah Stele (c. 1208 BC). The Beni Hasan tomb painting (c. 1890 BC) shows Asiatic travellers entering Egypt, illustrating the kind of migration described in Genesis."
+ },
+ {
+  "id": "goshen",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Land of Goshen"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Land of Rameses"
+   }
+  ],
+  "coords": [
+   31.85,
+   30.55
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 45:10",
+   "Gen 46:28-34",
+   "Gen 47:27",
+   "Exod 8:22",
+   "Exod 9:26"
+  ],
+  "summary": "The pastureland in the eastern Nile Delta where Jacob's family settled and which was spared some of the plagues. It is usually located in the Wadi Tumilat and the surrounding eastern Delta.",
+  "archaeology": "Tell el-Dab'a (ancient Avaris) in the eastern Delta shows a large population of West Semitic origin in the Middle Bronze Age, including Asiatic-style houses and burials."
+ },
+ {
+  "id": "rameses",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Raamses / Rameses"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Pi-Ramesses"
+   },
+   {
+    "era": "modern",
+    "name": "Qantir"
+   }
+  ],
+  "coords": [
+   31.835,
+   30.8
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 47:11",
+   "Exod 1:11",
+   "Exod 12:37",
+   "Num 33:3-5"
+  ],
+  "summary": "A store city built by Israelite forced labour and the starting point of the exodus. It is usually identified with Pi-Ramesses, the Delta capital of Ramesses II at Qantir; supporters of an early exodus date see the name as an update of an older place name.",
+  "archaeology": "Magnetometry at Qantir has mapped a vast city of the 13th century BC adjoining the older site of Avaris (Tell el-Dab'a). Much of its stone was later carried to Tanis."
+ },
+ {
+  "id": "succoth",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Succoth"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Tjeku"
+   },
+   {
+    "era": "modern",
+    "name": "Tell el-Maskhuta"
+   }
+  ],
+  "coords": [
+   32.1,
+   30.553
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "Exod 12:37",
+   "Exod 13:20",
+   "Num 33:5-6"
+  ],
+  "summary": "The first stopping place of the exodus after leaving Rameses, in the Wadi Tumilat; the name is usually linked with Egyptian Tjeku. Not to be confused with Succoth east of the Jordan where Jacob built booths."
+ },
+ {
+  "id": "red-sea",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Yam Suph (Sea of Reeds)"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Red Sea"
+   }
+  ],
+  "coords": [
+   32.4,
+   30.35
+  ],
+  "coordConfidence": "debated",
+  "type": "water",
+  "refs": [
+   "Exod 13:17-18",
+   "Exod 14:21-31",
+   "Exod 15:4",
+   "Num 33:8",
+   "1 Kgs 9:26",
+   "Heb 11:29"
+  ],
+  "summary": "The sea Israel crossed on dry ground while Pharaoh's army drowned. The Hebrew Yam Suph can mean \"Sea of Reeds\"; the point shown is the Bitter Lakes region on the isthmus of Suez, a common proposal, while others favour Lake Timsah, Lake Ballah, the Gulf of Suez, or the Gulf of Aqaba (where 1 Kgs 9:26 also uses Yam Suph).",
+  "archaeology": "No archaeological remains of the crossing have been verified; claims of chariot wheels in the Gulf of Aqaba are not supported by scholarly study."
+ },
+ {
+  "id": "marah",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Marah (\"bitter\")"
+   }
+  ],
+  "coords": [
+   32.95,
+   29.38
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Exod 15:22-26",
+   "Num 33:8-9"
+  ],
+  "summary": "The spring of bitter water, three days into the wilderness of Shur, that Moses made sweet by throwing in a piece of wood. The traditional identification is Ain Hawarah on the western Sinai coast; its location depends on the route and the crossing point assumed."
+ },
+ {
+  "id": "elim",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Elim"
+   }
+  ],
+  "coords": [
+   33.03,
+   29.3
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Exod 15:27",
+   "Exod 16:1",
+   "Num 33:9-10"
+  ],
+  "summary": "An oasis with twelve springs and seventy palm trees where Israel camped after Marah. It is commonly placed at Wadi Gharandel in western Sinai, following the traditional southern route."
+ },
+ {
+  "id": "wilderness-of-sin",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Wilderness of Sin"
+   }
+  ],
+  "coords": [
+   33.3,
+   28.95
+  ],
+  "coordConfidence": "debated",
+  "type": "wilderness",
+  "refs": [
+   "Exod 16:1-36",
+   "Num 33:11-12"
+  ],
+  "summary": "The desert between Elim and Sinai where Israel grumbled for food and first received manna and quail. On the traditional route it is the coastal plain of el-Markha or the Debbet er-Ramleh in southwestern Sinai."
+ },
+ {
+  "id": "rephidim",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Rephidim"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Massah and Meribah"
+   }
+  ],
+  "coords": [
+   33.7,
+   28.72
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Exod 17:1-16",
+   "Exod 19:2",
+   "Num 33:14-15"
+  ],
+  "summary": "The last camp before Sinai, where water came from the rock at Massah and Meribah and Israel defeated Amalek while Moses' hands were held up. It is traditionally located in Wadi Feiran or Wadi Refayid near Jebel Musa."
+ },
+ {
+  "id": "mount-sinai",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Mount Sinai"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Horeb"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Mountain of God"
+   },
+   {
+    "era": "modern",
+    "name": "Jebel Musa"
+   }
+  ],
+  "coords": [
+   33.9755,
+   28.5395
+  ],
+  "coordConfidence": "debated",
+  "type": "mountain",
+  "refs": [
+   "Exod 3:1-12",
+   "Exod 19:1-25",
+   "Exod 24:12-18",
+   "Exod 31:18",
+   "Neh 9:13",
+   "Gal 4:24-25"
+  ],
+  "summary": "The mountain where God gave the law and made covenant with Israel. Christian tradition since at least the 4th century identifies it with Jebel Musa in southern Sinai; alternatives include Jebel Serbal, Har Karkom in the Negev, Jebel Sin Bishar in western Sinai, and Jebel al-Lawz in northwest Arabia (in Midian, cf. Gal 4:25).",
+  "archaeology": "St Catherine's Monastery at the foot of Jebel Musa was built under Justinian in the 6th century and holds one of the oldest continuously used libraries. No Late Bronze encampment has been identified at any proposed Sinai."
+ },
+ {
+  "id": "kadesh-barnea",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Kadesh-barnea"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Kadesh"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "En-mishpat"
+   }
+  ],
+  "coords": [
+   34.422,
+   30.651
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Gen 14:7",
+   "Num 13:26",
+   "Num 20:1-13",
+   "Num 32:8",
+   "Deut 1:46",
+   "Josh 14:6-7"
+  ],
+  "summary": "The oasis in the wilderness of Zin from which the spies were sent and where Israel spent much of the wilderness period; Miriam died here and Moses struck the rock. It is usually identified with Ein el-Qudeirat, the richest spring in northeastern Sinai; Ein Qadis nearby preserves the name and is the main alternative.",
+  "archaeology": "Tell el-Qudeirat has a sequence of Iron Age fortresses (10th to 6th centuries BC) but no Late Bronze remains, a key point in debates over the wilderness traditions."
+ },
+ {
+  "id": "mount-nebo",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Mount Nebo"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Pisgah"
+   },
+   {
+    "era": "modern",
+    "name": "Siyagha"
+   }
+  ],
+  "coords": [
+   35.7255,
+   31.768
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "Num 21:20",
+   "Deut 3:27",
+   "Deut 32:48-52",
+   "Deut 34:1-8"
+  ],
+  "summary": "The summit in Moab from which Moses saw the promised land before he died; Deuteronomy says God buried him in a valley nearby and no one knows the grave. The traditional summit is Ras Siyagha, overlooking the Jordan valley and Jericho.",
+  "archaeology": "Siyagha has a Byzantine monastery and church (4th to 6th centuries) with fine floor mosaics, visited by the pilgrim Egeria in the 380s."
+ },
+ {
+  "id": "moab",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Moab"
+   },
+   {
+    "era": "egypt-exodus",
+    "name": "Plains of Moab"
+   }
+  ],
+  "coords": [
+   35.75,
+   31.4
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 19:30-38",
+   "Num 22:1-6",
+   "Deut 34:5-6",
+   "Judg 3:12-30",
+   "Ruth 1:1-6",
+   "2 Kgs 3:4-27",
+   "Isa 15:1-9"
+  ],
+  "summary": "The plateau east of the Dead Sea between the Arnon and Zered gorges, home of Lot's descendants. Israel camped on the plains of Moab before entering Canaan, Ruth came from here, and its king Mesha rebelled against Israel.",
+  "archaeology": "The Mesha Stele (found at Dhiban in 1868) records Mesha's revolt against the house of Omri, names Israel's God YHWH, and probably mentions the \"house of David\"."
+ },
+ {
+  "id": "edom",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Edom"
+   },
+   {
+    "era": "patriarchs",
+    "name": "Seir"
+   },
+   {
+    "era": "second-temple",
+    "name": "Idumea"
+   }
+  ],
+  "coords": [
+   35.55,
+   30.5
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 25:30",
+   "Gen 36:1-43",
+   "Num 20:14-21",
+   "2 Sam 8:13-14",
+   "Obad 1:1-21",
+   "Mal 1:2-4"
+  ],
+  "summary": "The rugged land south of the Dead Sea, east of the Arabah, settled by Esau's descendants. Edom refused Israel passage, was subdued by David, and is denounced by Obadiah for gloating over Jerusalem's fall; later Edomites moved into southern Judah, which became Idumea, the homeland of Herod's family.",
+  "archaeology": "Copper mining at Faynan and Timna peaked in the 10th century BC, showing a complex society earlier than once thought. Bozrah, Edom's capital, is Buseirah in southern Jordan."
+ },
+ {
+  "id": "ammon",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Ammon (Bene Ammon)"
+   },
+   {
+    "era": "second-temple",
+    "name": "Philadelphia"
+   },
+   {
+    "era": "modern",
+    "name": "Amman"
+   }
+  ],
+  "coords": [
+   35.934,
+   31.954
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 19:38",
+   "Deut 2:19",
+   "Judg 11:4-33",
+   "2 Sam 12:26-31",
+   "Jer 49:1-6",
+   "Amos 1:13-15"
+  ],
+  "summary": "The kingdom of Lot's descendants on the upper Jabbok, with its capital at Rabbah (modern Amman). Its wars with Israel run from Jephthah to David's siege of Rabbah, during which Uriah was killed.",
+  "archaeology": "The Amman Citadel inscription (9th century BC) is one of the few Ammonite texts. The Hellenistic and Roman city was called Philadelphia and belonged to the Decapolis."
+ },
+ {
+  "id": "midian",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Midian"
+   }
+  ],
+  "coords": [
+   35.6,
+   28.3
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 25:1-2",
+   "Exod 2:15-22",
+   "Exod 3:1",
+   "Num 31:1-12",
+   "Judg 6:1-6",
+   "Judg 7:1-25"
+  ],
+  "summary": "The homeland of the Midianites, usually placed in northwest Arabia east of the Gulf of Aqaba, though the people ranged widely as nomads. Moses fled here, married Zipporah and kept Jethro's flocks; later Midianite raiders were routed by Gideon.",
+  "archaeology": "Qurayyah in northwest Saudi Arabia has a fortified settlement and distinctive painted pottery (late 2nd millennium BC), often called Midianite ware, also found at Timna."
+ },
+ {
+  "id": "paddan-aram",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Paddan-aram"
+   },
+   {
+    "era": "patriarchs",
+    "name": "Aram-naharaim"
+   }
+  ],
+  "coords": [
+   39.3,
+   36.7
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 24:10",
+   "Gen 25:20",
+   "Gen 28:2-7",
+   "Gen 31:18",
+   "Gen 35:9"
+  ],
+  "summary": "\"The field of Aram\", the region around Haran in upper Mesopotamia where Abraham's relatives stayed. Isaac's wife Rebekah came from here, and Jacob served Laban here for twenty years."
+ },
+ {
+  "id": "peniel",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Peniel / Penuel (\"face of God\")"
+   }
+  ],
+  "coords": [
+   35.674,
+   32.181
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Gen 32:22-32",
+   "Judg 8:8-17",
+   "1 Kgs 12:25"
+  ],
+  "summary": "The place by the Jabbok where Jacob wrestled through the night and was renamed Israel. Gideon later destroyed its tower, and Jeroboam I fortified it. It is often placed at Tell edh-Dhahab esh-Sharqiyeh on the Jabbok, though this is not certain."
+ },
+ {
+  "id": "dothan",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Dothan"
+   },
+   {
+    "era": "modern",
+    "name": "Tell Dothan"
+   }
+  ],
+  "coords": [
+   35.238,
+   32.414
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 37:17-28",
+   "2 Kgs 6:13-23"
+  ],
+  "summary": "A town on the trade route through northern Samaria where Joseph's brothers sold him to traders bound for Egypt. Centuries later the Arameans besieged Elisha here and his servant saw the hills full of fiery chariots.",
+  "archaeology": "Tell Dothan, excavated by Joseph Free (1953-1964), was occupied in the Bronze and Iron Ages, with a large Late Bronze tomb complex."
+ },
+ {
+  "id": "gilgal",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gilgal"
+   }
+  ],
+  "coords": [
+   35.49,
+   31.85
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Josh 4:19-24",
+   "Josh 5:2-12",
+   "1 Sam 11:14-15",
+   "1 Sam 15:12-33",
+   "Hos 9:15",
+   "Amos 4:4"
+  ],
+  "summary": "Israel's first camp west of the Jordan, where twelve stones were set up, the people were circumcised and the manna ceased. Saul was confirmed as king here, and later prophets condemned its worship. Its exact site east of Jericho is unknown; Khirbet el-Mafjar and several smaller sites have been proposed."
+ },
+ {
+  "id": "jericho",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Jericho"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "City of Palms"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Herodian Jericho (Tulul Abu el-Alayiq)"
+   },
+   {
+    "era": "modern",
+    "name": "Tell es-Sultan"
+   }
+  ],
+  "coords": [
+   35.444,
+   31.871
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Deut 34:3",
+   "Josh 2:1-24",
+   "Josh 6:1-27",
+   "1 Kgs 16:34",
+   "2 Kgs 2:4-22",
+   "Mark 10:46-52",
+   "Luke 10:30",
+   "Luke 19:1-10"
+  ],
+  "summary": "An oasis city near the Jordan, the first city Israel took in Canaan when its walls fell. Elisha healed its spring, and in the Gospels Jesus healed Bartimaeus and called Zacchaeus there; the Good Samaritan's road ran from Jerusalem down to Jericho.",
+  "archaeology": "Tell es-Sultan is among the oldest walled towns known, with a Neolithic stone tower (c. 8000 BC). Garstang dated a fallen wall to c. 1400 BC; Kenyon redated the city's destruction to c. 1550 BC; Bryant Wood argued for c. 1400 BC from pottery, and the dating remains debated. Herod's winter palaces lie about 2 km south at Tulul Abu el-Alayiq."
+ },
+ {
+  "id": "shiloh",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Shiloh"
+   },
+   {
+    "era": "modern",
+    "name": "Khirbet Seilun"
+   }
+  ],
+  "coords": [
+   35.2895,
+   32.0555
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 18:1-10",
+   "Judg 21:19-21",
+   "1 Sam 1:3",
+   "1 Sam 4:1-11",
+   "Ps 78:60",
+   "Jer 7:12-14"
+  ],
+  "summary": "Israel's central sanctuary in the time of the judges, where the tabernacle stood, Hannah prayed and Samuel grew up under Eli. After the ark was captured by the Philistines, Shiloh became a byword for a sanctuary God abandoned.",
+  "archaeology": "Danish excavations (1920s-30s), Israel Finkelstein (1980s) and later teams found Iron I storage buildings and a destruction around the 11th century BC, consistent with the fall described in 1 Samuel and Jeremiah."
+ },
+ {
+  "id": "bethlehem",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Ephrath"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Bethlehem-judah"
+   },
+   {
+    "era": "united-monarchy",
+    "name": "City of David"
+   },
+   {
+    "era": "modern",
+    "name": "Bayt Lahm"
+   }
+  ],
+  "coords": [
+   35.2024,
+   31.7049
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 35:19",
+   "Ruth 1:19-22",
+   "1 Sam 16:1-13",
+   "Mic 5:2",
+   "Matt 2:1-12",
+   "Luke 2:4-20"
+  ],
+  "summary": "A village in the hills south of Jerusalem, home of Ruth and Boaz and the birthplace of David. Micah foretold a ruler from Bethlehem Ephrathah, and Matthew and Luke place Jesus' birth here.",
+  "archaeology": "The Church of the Nativity was first built by Constantine (dedicated c. 339) over a cave venerated as the birthplace and rebuilt under Justinian. A clay bulla reading \"Bethlehem\" (7th century BC) was found in the City of David in 2012."
+ },
+ {
+  "id": "gibeah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gibeah of Benjamin"
+   },
+   {
+    "era": "united-monarchy",
+    "name": "Gibeah of Saul"
+   },
+   {
+    "era": "modern",
+    "name": "Tell el-Ful"
+   }
+  ],
+  "coords": [
+   35.231,
+   31.823
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Judg 19:12-30",
+   "Judg 20:1-48",
+   "1 Sam 10:26",
+   "1 Sam 15:34",
+   "Hos 9:9"
+  ],
+  "summary": "A Benjaminite town notorious for the outrage against the Levite's concubine that sparked civil war, and later the home and capital of Saul. It is commonly identified with Tell el-Ful just north of Jerusalem; some argue for Jaba (Geba).",
+  "archaeology": "Albright's excavations at Tell el-Ful found a small Iron Age fortress he called Saul's citadel; later re-examination has questioned that dating."
+ },
+ {
+  "id": "ramah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Ramah of Benjamin"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Ramathaim-zophim"
+   },
+   {
+    "era": "modern",
+    "name": "er-Ram"
+   }
+  ],
+  "coords": [
+   35.233,
+   31.852
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "1 Sam 1:1",
+   "1 Sam 1:19",
+   "1 Sam 7:15-17",
+   "1 Sam 25:1",
+   "Jer 31:15",
+   "Matt 2:18"
+  ],
+  "summary": "Samuel's home, where he judged Israel and was buried. The Ramah of Benjamin is identified with er-Ram north of Jerusalem; whether Samuel's Ramathaim is the same place or lies farther northwest (for example at Rentis) is debated. Jeremiah's image of Rachel weeping in Ramah is cited by Matthew."
+ },
+ {
+  "id": "mizpah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Mizpah of Benjamin"
+   },
+   {
+    "era": "modern",
+    "name": "Tell en-Nasbeh"
+   }
+  ],
+  "coords": [
+   35.216,
+   31.886
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Judg 20:1",
+   "1 Sam 7:5-12",
+   "1 Sam 10:17-24",
+   "1 Kgs 15:22",
+   "2 Kgs 25:22-25",
+   "Jer 40:6-12"
+  ],
+  "summary": "A gathering place of the tribes where Samuel led national repentance and Saul was chosen king by lot. After Jerusalem fell in 586 BC, Gedaliah governed Judah from Mizpah until he was assassinated. Distinct from the Mizpah of Gilead in Gen 31:49.",
+  "archaeology": "Tell en-Nasbeh shows a strong Iron Age wall and continued occupation in the 6th century BC, fitting its role as administrative centre after Jerusalem's destruction."
+ },
+ {
+  "id": "gath",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gath"
+   },
+   {
+    "era": "modern",
+    "name": "Tell es-Safi"
+   }
+  ],
+  "coords": [
+   34.846,
+   31.7
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 11:22",
+   "1 Sam 17:4",
+   "1 Sam 21:10-15",
+   "1 Sam 27:1-7",
+   "2 Kgs 12:17",
+   "Amos 6:2"
+  ],
+  "summary": "One of the five Philistine cities and the home of Goliath. David feigned madness before its king Achish and later served him as a vassal at Ziklag. Hazael of Aram captured it in the late 9th century BC.",
+  "archaeology": "Aren Maeir's excavations at Tell es-Safi found a large Iron Age city, an ostracon (2005) with names etymologically similar to Goliath, and a siege trench and destruction layer attributed to Hazael."
+ },
+ {
+  "id": "ashdod",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Ashdod"
+   },
+   {
+    "era": "apostolic",
+    "name": "Azotus"
+   }
+  ],
+  "coords": [
+   34.655,
+   31.754
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "1 Sam 5:1-7",
+   "Isa 20:1",
+   "Neh 13:23-24",
+   "Amos 1:8",
+   "Acts 8:40"
+  ],
+  "summary": "A Philistine city where the captured ark was placed in Dagon's temple and the idol fell before it. Sargon II took Ashdod in 711 BC; in Acts Philip preached through Azotus after baptising the Ethiopian.",
+  "archaeology": "Tel Ashdod (Dothan and Freedman) produced Philistine pottery and fragments of a Sargon II victory stele."
+ },
+ {
+  "id": "gaza",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gaza"
+   }
+  ],
+  "coords": [
+   34.466,
+   31.504
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 10:19",
+   "Judg 16:1-3",
+   "Judg 16:21-30",
+   "Amos 1:6-7",
+   "Acts 8:26"
+  ],
+  "summary": "The southernmost Philistine city on the coastal highway to Egypt. Samson carried off its gates and later died pulling down the temple of Dagon there; the road \"down to Gaza\" is where Philip met the Ethiopian official."
+ },
+ {
+  "id": "ekron",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Ekron"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Miqne"
+   }
+  ],
+  "coords": [
+   34.85,
+   31.779
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "1 Sam 5:10-12",
+   "1 Sam 6:16-17",
+   "2 Kgs 1:2-16"
+  ],
+  "summary": "A Philistine city that sent the ark back to Israel after plagues broke out. King Ahaziah of Israel later sent to enquire of Baal-zebub, the god of Ekron.",
+  "archaeology": "A royal dedicatory inscription found at Tel Miqne in 1996 names Achish (Ikausu) son of Padi, kings of Ekron, confirming the site's identity; Padi is also named in Sennacherib's annals. The 7th-century city was a major olive-oil production centre."
+ },
+ {
+  "id": "ashkelon",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Ashkelon"
+   }
+  ],
+  "coords": [
+   34.551,
+   31.663
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Judg 1:18",
+   "Judg 14:19",
+   "2 Sam 1:20",
+   "Jer 47:5-7",
+   "Zeph 2:4-7"
+  ],
+  "summary": "A Philistine seaport where Samson struck down thirty men. David's lament for Saul asks that the news not be told in its streets, and the prophets announced its ruin; Nebuchadnezzar destroyed it in 604 BC.",
+  "archaeology": "The Leon Levy Expedition uncovered a Middle Bronze arched gate, a small silver-plated calf figurine, a Philistine cemetery (2016) and the 604 BC destruction layer. Ancient DNA from the site points to a southern European component in the early Philistine population."
+ },
+ {
+  "id": "timnah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Timnah"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Batash"
+   }
+  ],
+  "coords": [
+   34.908,
+   31.786
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 15:10",
+   "Judg 14:1-20",
+   "Judg 15:6",
+   "2 Chr 28:18"
+  ],
+  "summary": "A border town in the Sorek valley where Samson married a Philistine woman and posed his riddle at the wedding feast. Tel Batash is the accepted identification; the Timnah of Judah in Gen 38 may be a different place in the hill country."
+ },
+ {
+  "id": "zorah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Zorah"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Tzora"
+   }
+  ],
+  "coords": [
+   34.985,
+   31.77
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 15:33",
+   "Judg 13:2",
+   "Judg 13:24-25",
+   "Judg 16:31",
+   "Judg 18:2"
+  ],
+  "summary": "A Danite town on a ridge above the Sorek valley, the home of Manoah and birthplace of Samson, who was buried between Zorah and Eshtaol. The Danites later sent scouts from here to find new land in the north."
+ },
+ {
+  "id": "mount-gilboa",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Mount Gilboa"
+   }
+  ],
+  "coords": [
+   35.41,
+   32.48
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "1 Sam 28:4",
+   "1 Sam 31:1-8",
+   "2 Sam 1:6",
+   "2 Sam 1:21"
+  ],
+  "summary": "A ridge at the southeastern edge of the Jezreel valley where Saul and his sons, including Jonathan, fell in battle against the Philistines. David's lament curses its slopes for the fallen."
+ },
+ {
+  "id": "en-gedi",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "En-gedi"
+   },
+   {
+    "era": "patriarchs",
+    "name": "Hazazon-tamar"
+   }
+  ],
+  "coords": [
+   35.388,
+   31.461
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "1 Sam 23:29",
+   "1 Sam 24:1-22",
+   "2 Chr 20:2",
+   "Song 1:14",
+   "Ezek 47:10"
+  ],
+  "summary": "A freshwater oasis on the western shore of the Dead Sea, with caves in the surrounding cliffs. David hid here from Saul and spared his life in a cave, cutting off only the corner of his robe.",
+  "archaeology": "Finds include a Chalcolithic temple above the spring and a Byzantine-era synagogue whose mosaic inscription warns against revealing \"the secret of the town\", probably its balsam industry."
+ },
+ {
+  "id": "adullam",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Cave of Adullam"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Adullam"
+   }
+  ],
+  "coords": [
+   34.963,
+   31.651
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 38:1",
+   "Josh 12:15",
+   "1 Sam 22:1-2",
+   "2 Sam 23:13-17",
+   "Mic 1:15"
+  ],
+  "summary": "A town in the Shephelah near whose caves David gathered about four hundred men in distress, in debt or discontented. Three of his mighty men broke through Philistine lines from here to bring him water from Bethlehem."
+ },
+ {
+  "id": "ziklag",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Ziklag"
+   }
+  ],
+  "coords": [
+   34.975,
+   31.547
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "1 Sam 27:6",
+   "1 Sam 30:1-31",
+   "2 Sam 1:1",
+   "1 Chr 12:1-22"
+  ],
+  "summary": "The town Achish of Gath gave David as a base while he hid from Saul; Amalekites burned it and David recovered the captives. The point shown is Khirbet al-Ra'i, proposed by Garfinkel and Ganor in 2019; older proposals include Tel Sera' and Tel Halif."
+ },
+ {
+  "id": "jerusalem",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Salem"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Jebus"
+   },
+   {
+    "era": "united-monarchy",
+    "name": "City of David / Zion"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Jerusalem"
+   },
+   {
+    "era": "early-church",
+    "name": "Aelia Capitolina"
+   },
+   {
+    "era": "medieval",
+    "name": "al-Quds"
+   }
+  ],
+  "coords": [
+   35.2345,
+   31.7767
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 15:63",
+   "2 Sam 5:6-10",
+   "1 Kgs 8:1-11",
+   "2 Kgs 25:8-10",
+   "Neh 2:11-18",
+   "Ps 122",
+   "Luke 19:41-44",
+   "Acts 2:1-41",
+   "Rev 21:2"
+  ],
+  "summary": "The Jebusite stronghold David captured and made his capital, where Solomon built the temple. Destroyed by Babylon in 586 BC and rebuilt after the exile, it was the scene of Jesus' death and resurrection and the birthplace of the church; the Romans destroyed it again in AD 70 and refounded it as Aelia Capitolina after 135.",
+  "archaeology": "Hezekiah's tunnel carries the Gihon spring to the Pool of Siloam; its Hebrew inscription (found 1880) describes the two crews meeting. Other finds include the Broad Wall, the Stepped Stone Structure, bullae naming officials from Jeremiah, the Ketef Hinnom silver amulets with the priestly blessing, the Herodian Western Wall, and the Second Temple Pool of Siloam (uncovered 2004)."
+ },
+ {
+  "id": "mount-of-olives",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Ascent of the Olives"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Mount of Olives (Olivet)"
+   }
+  ],
+  "coords": [
+   35.244,
+   31.7785
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "2 Sam 15:30",
+   "Zech 14:4",
+   "Matt 24:3",
+   "Luke 19:29-44",
+   "Luke 22:39",
+   "Acts 1:9-12"
+  ],
+  "summary": "The ridge east of Jerusalem across the Kidron. David climbed it weeping as he fled Absalom; Zechariah saw the Lord's feet standing on it; Jesus taught his disciples about the end from it, wept over the city on its slope, and ascended from it according to Acts.",
+  "archaeology": "Its western slope has been a Jewish cemetery for millennia. Churches mark traditional sites, including the Eleona church built by Constantine and the Dominus Flevit chapel."
+ },
+ {
+  "id": "hazor",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Hazor"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Hazor"
+   }
+  ],
+  "coords": [
+   35.568,
+   33.017
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 11:1-13",
+   "Judg 4:2",
+   "1 Kgs 9:15",
+   "2 Kgs 15:29"
+  ],
+  "summary": "The largest Canaanite city in the land, \"head of all those kingdoms\", which Joshua burned. Later Jabin of Hazor oppressed Israel in Deborah's day; Solomon fortified it and Tiglath-pileser III captured it in 732 BC.",
+  "archaeology": "Yigael Yadin and Amnon Ben-Tor uncovered a massive Late Bronze city ended by fierce fire in the 13th century BC, a six-chambered gate attributed to Solomon (dating debated), and Akkadian cuneiform tablets."
+ },
+ {
+  "id": "megiddo",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Megiddo"
+   },
+   {
+    "era": "apostolic",
+    "name": "Armageddon (Har-Megiddo)"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Megiddo"
+   }
+  ],
+  "coords": [
+   35.184,
+   32.585
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 12:21",
+   "Judg 5:19",
+   "1 Kgs 9:15",
+   "2 Kgs 9:27",
+   "2 Kgs 23:29-30",
+   "Zech 12:11",
+   "Rev 16:16"
+  ],
+  "summary": "A fortress guarding the pass where the coastal highway enters the Jezreel valley, site of many battles. Solomon fortified it, Ahaziah died there, and King Josiah was killed there by Pharaoh Necho; Revelation's Armageddon is usually read as \"mountain of Megiddo\".",
+  "archaeology": "Some 20 occupation layers include Canaanite temples, gates, water systems and pillared buildings debated as stables or storehouses. Thutmose III's account of his siege (c. 1457 BC) survives at Karnak. A seal reading \"Shema servant of Jeroboam\" came from here, and nearby at Kefar Othnay a 3rd-century prayer hall mosaic mentions \"God Jesus Christ\"."
+ },
+ {
+  "id": "jezreel",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Jezreel"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Jezreel"
+   }
+  ],
+  "coords": [
+   35.326,
+   32.558
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 19:18",
+   "1 Kgs 18:45-46",
+   "1 Kgs 21:1-16",
+   "2 Kgs 9:30-37",
+   "Hos 1:4-5"
+  ],
+  "summary": "A royal city of the Omride kings overlooking the valley that bears its name. Naboth's vineyard lay here, and Jehu killed Joram and had Jezebel thrown from a window here; Hosea named his son Jezreel as a sign of judgement on Jehu's bloodshed.",
+  "archaeology": "Excavations revealed a large rectangular 9th-century enclosure with corner towers and a moat, typically linked with Ahab's dynasty, and a nearby winery."
+ },
+ {
+  "id": "samaria",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Samaria (Shomron)"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Sebaste"
+   },
+   {
+    "era": "modern",
+    "name": "Sebastia"
+   }
+  ],
+  "coords": [
+   35.195,
+   32.276
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "1 Kgs 16:24",
+   "1 Kgs 16:29-33",
+   "2 Kgs 6:24-7:20",
+   "2 Kgs 17:5-6",
+   "Amos 4:1",
+   "Acts 8:5-25"
+  ],
+  "summary": "The hilltop capital Omri bought and built for the northern kingdom, where Ahab built a temple to Baal. It fell to Assyria in 722 BC; Herod rebuilt it as Sebaste. The name also came to mean the region between Judea and Galilee where Philip preached in Acts.",
+  "archaeology": "Harvard and later excavations found the Omride royal acropolis, carved ivories (cf. Amos 6:4 and 1 Kgs 22:39), and the Samaria ostraca recording deliveries of oil and wine in the 8th century BC."
+ },
+ {
+  "id": "mount-carmel",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Mount Carmel"
+   },
+   {
+    "era": "modern",
+    "name": "el-Muhraqa (traditional contest site)"
+   }
+  ],
+  "coords": [
+   35.089,
+   32.672
+  ],
+  "coordConfidence": "tradition",
+  "type": "mountain",
+  "refs": [
+   "1 Kgs 18:19-40",
+   "2 Kgs 2:25",
+   "2 Kgs 4:25",
+   "Isa 35:2",
+   "Song 7:5"
+  ],
+  "summary": "The wooded ridge running to the Mediterranean at Haifa, a byword for fertility. Elijah's contest with the prophets of Baal took place on it; the traditional spot is el-Muhraqa (\"the burning\") at the southeastern end overlooking the Kishon.",
+  "archaeology": "Carmel's caves (Nahal Me'arot) preserve some of the longest records of prehistoric human occupation, now a UNESCO site."
+ },
+ {
+  "id": "dan",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Laish / Leshem"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Dan"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Dan"
+   }
+  ],
+  "coords": [
+   35.652,
+   33.249
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 14:14",
+   "Josh 19:47",
+   "Judg 18:27-31",
+   "1 Sam 3:20",
+   "1 Kgs 12:28-30",
+   "Amos 8:14"
+  ],
+  "summary": "The northernmost city of Israel at a source of the Jordan, captured by the tribe of Dan. Jeroboam I set up one of his golden calves here, and \"from Dan to Beersheba\" described the whole land.",
+  "archaeology": "Avraham Biran's excavations found the Tel Dan Stele (1993-1994), an Aramaic victory inscription naming a king of Israel and the \"house of David\", the earliest extra-biblical reference to David's dynasty. Also preserved are a Middle Bronze mudbrick arched gate and a large Iron Age cultic platform."
+ },
+ {
+  "id": "tirzah",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Tirzah"
+   },
+   {
+    "era": "modern",
+    "name": "Tell el-Far'ah (North)"
+   }
+  ],
+  "coords": [
+   35.337,
+   32.287
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 12:24",
+   "1 Kgs 14:17",
+   "1 Kgs 15:33",
+   "1 Kgs 16:8-23",
+   "Song 6:4"
+  ],
+  "summary": "An early capital of the northern kingdom from Jeroboam's or Baasha's time until Omri moved the court to Samaria. Zimri burned the palace over himself here after a reign of seven days.",
+  "archaeology": "Roland de Vaux's excavations at Tell el-Far'ah found an Iron Age town with an unfinished building phase that some connect with Omri's move to Samaria."
+ },
+ {
+  "id": "zarephath",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Zarephath"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Sarepta"
+   },
+   {
+    "era": "modern",
+    "name": "Sarafand"
+   }
+  ],
+  "coords": [
+   35.293,
+   33.457
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "1 Kgs 17:8-24",
+   "Obad 1:20",
+   "Luke 4:25-26"
+  ],
+  "summary": "A Phoenician coastal town between Tyre and Sidon where a widow fed Elijah during the drought and he raised her son. Jesus cited her as a foreigner to whom the prophet was sent.",
+  "archaeology": "James Pritchard's excavations (1969-1974) uncovered potters' kilns, a shrine with an inscription to Tanit-Ashtart, and industrial quarters of the Phoenician town."
+ },
+ {
+  "id": "horeb",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Horeb, the mountain of God"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Horeb"
+   }
+  ],
+  "coords": [
+   33.9755,
+   28.5395
+  ],
+  "coordConfidence": "debated",
+  "type": "mountain",
+  "refs": [
+   "Exod 3:1",
+   "Exod 17:6",
+   "Deut 5:2",
+   "1 Kgs 19:8-18",
+   "Mal 4:4"
+  ],
+  "summary": "The name Deuteronomy and the prophets use for the mountain of the covenant, generally taken as another name for Sinai. Moses met God in the burning bush here, and Elijah fled here and heard the still small voice. Its location is debated along with Sinai's; the point shown is Jebel Musa."
+ },
+ {
+  "id": "damascus",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Damascus"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Damascus, capital of Aram"
+   },
+   {
+    "era": "modern",
+    "name": "Dimashq"
+   }
+  ],
+  "coords": [
+   36.306,
+   33.511
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 14:15",
+   "2 Sam 8:5-6",
+   "1 Kgs 20:34",
+   "2 Kgs 5:12",
+   "2 Kgs 16:9",
+   "Isa 17:1",
+   "Acts 9:1-25",
+   "2 Cor 11:32-33",
+   "Gal 1:17"
+  ],
+  "summary": "An oasis city at the foot of the Anti-Lebanon and capital of the Aramean kingdom that fought Israel for a century. Naaman preferred its rivers to the Jordan. Saul was converted on the road to Damascus and later escaped the city in a basket.",
+  "archaeology": "Continuous occupation limits excavation, but the Street Called Straight (Via Recta) still runs east-west through the old city, and the Umayyad Mosque stands over a Roman temple of Jupiter and a church of John the Baptist."
+ },
+ {
+  "id": "tyre",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Tyre (Tsor)"
+   },
+   {
+    "era": "modern",
+    "name": "Sur"
+   }
+  ],
+  "coords": [
+   35.196,
+   33.271
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "2 Sam 5:11",
+   "1 Kgs 5:1-12",
+   "Isa 23:1-18",
+   "Ezek 26:1-21",
+   "Ezek 27:1-36",
+   "Matt 15:21-28",
+   "Acts 21:3-7"
+  ],
+  "summary": "The leading Phoenician port, built partly on an island. King Hiram supplied cedar and craftsmen for David and Solomon; Ezekiel prophesied its ruin; Jesus visited its region, and Paul found disciples there.",
+  "archaeology": "Alexander the Great took the island city in 332 BC by building a causeway, which silted into the present isthmus. Visible remains include a Roman hippodrome, colonnaded road and necropolis."
+ },
+ {
+  "id": "sidon",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Sidon"
+   },
+   {
+    "era": "modern",
+    "name": "Saida"
+   }
+  ],
+  "coords": [
+   35.371,
+   33.563
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 10:15",
+   "Judg 10:12",
+   "1 Kgs 16:31",
+   "Matt 11:21-22",
+   "Mark 7:24-31",
+   "Acts 27:3"
+  ],
+  "summary": "An ancient Phoenician port whose name often stands for all Phoenicians. Jezebel was the daughter of a Sidonian king. Jesus said Tyre and Sidon would have repented at his works, and Paul visited friends here on his voyage to Rome.",
+  "archaeology": "Finds include the temple of Eshmun nearby and royal sarcophagi such as the Alexander Sarcophagus and the inscribed sarcophagus of King Eshmunazar II."
+ },
+ {
+  "id": "nineveh",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Nineveh"
+   },
+   {
+    "era": "modern",
+    "name": "Kuyunjik and Nebi Yunus, Mosul"
+   }
+  ],
+  "coords": [
+   43.152,
+   36.359
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 10:11-12",
+   "2 Kgs 19:36",
+   "Jonah 1:2",
+   "Jonah 3:1-10",
+   "Nah 1:1",
+   "Zeph 2:13-15",
+   "Matt 12:41"
+  ],
+  "summary": "The great Assyrian capital on the Tigris under Sennacherib and Ashurbanipal. Jonah was sent to preach there and the city repented; Nahum celebrated its fall to the Babylonians and Medes in 612 BC.",
+  "archaeology": "Layard's excavations uncovered Sennacherib's \"palace without rival\" with the Lachish reliefs, and Ashurbanipal's library of clay tablets including the Gilgamesh flood story. Sennacherib's prism describes shutting up Hezekiah in Jerusalem \"like a bird in a cage\"."
+ },
+ {
+  "id": "assyria",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Asshur"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Assyria"
+   }
+  ],
+  "coords": [
+   43.3,
+   36
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 2:14",
+   "2 Kgs 15:19-20",
+   "2 Kgs 15:29",
+   "2 Kgs 17:3-6",
+   "2 Kgs 18:13-19:37",
+   "Isa 10:5-19"
+  ],
+  "summary": "The empire centred on the upper Tigris (Assur, Nimrud, Nineveh) that dominated the Near East in the 9th to 7th centuries BC. It made Israel and Judah vassals, destroyed Samaria in 722 BC and deported its people, and besieged Jerusalem under Sennacherib in 701 BC.",
+  "archaeology": "The Black Obelisk of Shalmaneser III (Nimrud, 841 BC) shows Jehu or his envoy bowing; royal annals name Ahab, Menahem, Hoshea and Hezekiah."
+ },
+ {
+  "id": "babylon",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Babel"
+   },
+   {
+    "era": "exile",
+    "name": "Babylon"
+   },
+   {
+    "era": "apostolic",
+    "name": "Babylon (symbol of Rome)"
+   }
+  ],
+  "coords": [
+   44.4209,
+   32.5364
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Gen 10:10",
+   "2 Kgs 20:12-18",
+   "2 Kgs 24:10-16",
+   "2 Kgs 25:1-21",
+   "Ps 137",
+   "Jer 29:1-14",
+   "Dan 5:1-31",
+   "1 Pet 5:13",
+   "Rev 18:1-24"
+  ],
+  "summary": "Capital of Nebuchadnezzar's empire on the Euphrates, which destroyed Jerusalem and took Judah into exile. Cyrus of Persia took it in 539 BC. In the New Testament \"Babylon\" becomes a cipher for Rome and the world's opposition to God.",
+  "archaeology": "Koldewey's excavations (1899-1917) uncovered the Ishtar Gate and Processional Way (now in Berlin). Ration tablets list Jehoiachin, king of Judah, as a captive, and the Cyrus Cylinder describes Cyrus restoring deported peoples and their gods."
+ },
+ {
+  "id": "susa",
+  "names": [
+   {
+    "era": "exile",
+    "name": "Shushan (Susa)"
+   },
+   {
+    "era": "modern",
+    "name": "Shush"
+   }
+  ],
+  "coords": [
+   48.257,
+   32.19
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Neh 1:1",
+   "Esth 1:2",
+   "Esth 9:11-15",
+   "Dan 8:2"
+  ],
+  "summary": "The old Elamite capital that became a winter royal residence of the Persian kings. The book of Esther is set in its citadel, Nehemiah served Artaxerxes here, and Daniel saw a vision by the Ulai canal near Susa.",
+  "archaeology": "French excavations uncovered the palace and great audience hall (apadana) of Darius I with glazed-brick friezes of archers. The stele bearing Hammurabi's law code was found at Susa in 1901, carried there as plunder."
+ },
+ {
+  "id": "persepolis",
+  "names": [
+   {
+    "era": "return",
+    "name": "Parsa"
+   },
+   {
+    "era": "return",
+    "name": "Persepolis"
+   }
+  ],
+  "coords": [
+   52.891,
+   29.935
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Ezra 4:5-7",
+   "Esth 1:1"
+  ],
+  "summary": "The ceremonial capital founded by Darius I and expanded by Xerxes (Ahasuerus), the Persian kings who appear in Ezra and Esther. It is not named in the Bible but shows the court world behind the return from exile.",
+  "archaeology": "The Apadana reliefs show delegations from across the empire bringing tribute. Thousands of administrative tablets record rations and workers. Alexander burned the palaces in 330 BC."
+ },
+ {
+  "id": "tarshish",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Tarshish"
+   }
+  ],
+  "coords": [
+   -6.3,
+   37.2
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "1 Kgs 10:22",
+   "Ps 72:10",
+   "Isa 23:1",
+   "Ezek 27:12",
+   "Jonah 1:3"
+  ],
+  "summary": "A distant western source of silver, iron, tin and lead, reached by \"ships of Tarshish\"; Jonah tried to flee there. The most common identification is Tartessos in southwestern Spain; alternatives include Sardinia, Carthage and Tarsus, and some read \"ships of Tarshish\" simply as a class of large seagoing ships."
+ },
+ {
+  "id": "joppa",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Joppa"
+   },
+   {
+    "era": "modern",
+    "name": "Jaffa (Yafo)"
+   }
+  ],
+  "coords": [
+   34.752,
+   32.054
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "2 Chr 2:16",
+   "Ezra 3:7",
+   "Jonah 1:3",
+   "Acts 9:36-43",
+   "Acts 10:5-23"
+  ],
+  "summary": "The ancient port of the central coast where cedar for the temple was landed and where Jonah took ship for Tarshish. Peter raised Tabitha here and, on the roof of Simon the tanner's house, received the vision preparing him to visit Cornelius.",
+  "archaeology": "Excavations have uncovered a Ramesside Egyptian gate (13th century BC) and successive Iron Age, Hellenistic and Roman levels."
+ },
+ {
+  "id": "anathoth",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Anathoth"
+   }
+  ],
+  "coords": [
+   35.261,
+   31.813
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 21:18",
+   "1 Kgs 2:26",
+   "Jer 1:1",
+   "Jer 11:21-23",
+   "Jer 32:6-15"
+  ],
+  "summary": "A Levitical town of Benjamin a few kilometres northeast of Jerusalem, where Solomon banished the priest Abiathar. It was Jeremiah's home; its men plotted against him, and during the siege he bought a field there as a sign that land would again be bought in Judah. Usually placed at Ras el-Kharrubeh near the village of Anata."
+ },
+ {
+  "id": "tekoa",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Tekoa"
+   },
+   {
+    "era": "modern",
+    "name": "Khirbet Tequ'"
+   }
+  ],
+  "coords": [
+   35.214,
+   31.636
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "2 Sam 14:2",
+   "2 Chr 11:5-6",
+   "2 Chr 20:20",
+   "Jer 6:1",
+   "Amos 1:1"
+  ],
+  "summary": "A town on the edge of the Judean wilderness south of Bethlehem. Joab brought a wise woman from Tekoa to persuade David, and the prophet Amos was a herdsman from Tekoa."
+ },
+ {
+  "id": "chebar-canal",
+  "names": [
+   {
+    "era": "exile",
+    "name": "River Chebar"
+   },
+   {
+    "era": "exile",
+    "name": "Nar Kabari"
+   }
+  ],
+  "coords": [
+   45.23,
+   32.13
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "water",
+  "refs": [
+   "Ezek 1:1-3",
+   "Ezek 3:15",
+   "Ezek 10:15",
+   "Ezek 43:3"
+  ],
+  "summary": "An irrigation canal near Nippur in Babylonia beside which Judean exiles, including Ezekiel at Tel-abib, were settled. Ezekiel saw his vision of God's throne-chariot there.",
+  "archaeology": "Business documents of the Murashu family from Nippur (5th century BC) mention the naru kabari (\"great canal\") and many Judean names. The Al-Yahudu tablets show a \"town of Judah\" of exiles in the same region."
+ },
+ {
+  "id": "lachish",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Lachish"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Lachish (Tell ed-Duweir)"
+   }
+  ],
+  "coords": [
+   34.849,
+   31.565
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 10:31-32",
+   "2 Kgs 14:19",
+   "2 Kgs 18:14-17",
+   "2 Chr 32:9",
+   "Jer 34:7",
+   "Mic 1:13"
+  ],
+  "summary": "Judah's second city, guarding the Shephelah. Sennacherib besieged and took it in 701 BC while threatening Jerusalem, and in Jeremiah's time it was one of the last cities to hold out against Babylon.",
+  "archaeology": "Sennacherib's palace reliefs from Nineveh (British Museum) depict the siege in detail; the Assyrian siege ramp and Judean counter-ramp survive. The Lachish Letters (ostraca found 1935) record an officer's messages as Babylon closed in, mentioning that the signal fires of Azekah could no longer be seen."
+ },
+ {
+  "id": "tishbe",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Tishbe"
+   }
+  ],
+  "coords": [
+   35.685,
+   32.37
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "1 Kgs 17:1",
+   "1 Kgs 21:17",
+   "2 Kgs 1:3-8"
+  ],
+  "summary": "The hometown implied by Elijah's title \"the Tishbite\", in Gilead east of the Jordan. It is usually placed at el-Istib (Listib) in northern Jordan, near a Byzantine church of Mar Elias, but some read the Hebrew as \"of the settlers of Gilead\" rather than a town name."
+ },
+ {
+  "id": "abel-meholah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Abel-meholah"
+   }
+  ],
+  "coords": [
+   35.559,
+   32.402
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Judg 7:22",
+   "1 Kgs 4:12",
+   "1 Kgs 19:16-21"
+  ],
+  "summary": "Elisha's hometown in the Jordan valley, where Elijah found him ploughing with twelve yoke of oxen. Proposed sites include Tel Abu Sus west of the Jordan (shown) and Tell el-Maqlub or other sites east of the river."
+ },
+ {
+  "id": "sheba",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Sheba (Saba)"
+   }
+  ],
+  "coords": [
+   45.324,
+   15.42
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "1 Kgs 10:1-13",
+   "2 Chr 9:1-12",
+   "Ps 72:10-15",
+   "Isa 60:6",
+   "Matt 12:42"
+  ],
+  "summary": "The incense-trading kingdom of the Sabaeans in southwest Arabia (Yemen), with its capital at Marib. Its queen visited Solomon to test his wisdom. Ethiopian tradition, set out in the Kebra Nagast, instead places her realm in Ethiopia.",
+  "archaeology": "Marib has a great dam (from the 8th century BC or earlier) and the temple of Almaqah (Mahram Bilqis). Sabaean inscriptions document a kingdom of trade in frankincense and myrrh."
+ },
+ {
+  "id": "jordan-river",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Jordan"
+   },
+   {
+    "era": "modern",
+    "name": "Jordan River"
+   }
+  ],
+  "coords": [
+   35.555,
+   32.3
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "water",
+  "refs": [
+   "Gen 13:10-11",
+   "Josh 3:14-17",
+   "2 Kgs 2:6-14",
+   "2 Kgs 5:10-14",
+   "Matt 3:13-17",
+   "John 1:28"
+  ],
+  "summary": "The river running from the slopes of Hermon through the Sea of Galilee down to the Dead Sea, the eastern border of the promised land. Israel crossed it on dry ground under Joshua, Elijah and Elisha parted it, Naaman was healed in it, and John baptised Jesus in it."
+ },
+ {
+  "id": "dead-sea",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Salt Sea"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Sea of the Arabah"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Eastern Sea"
+   },
+   {
+    "era": "modern",
+    "name": "Dead Sea"
+   }
+  ],
+  "coords": [
+   35.48,
+   31.5
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "water",
+  "refs": [
+   "Gen 14:3",
+   "Num 34:3",
+   "Josh 3:16",
+   "Ezek 47:8-10",
+   "Zech 14:8"
+  ],
+  "summary": "The salt lake at the lowest point on earth's land surface, fed by the Jordan and without outlet. Ezekiel saw a river flowing from the temple to make its waters fresh and full of fish.",
+  "archaeology": "The Dead Sea Scrolls were found from 1947 in caves near Qumran on its northwest shore, including the Great Isaiah Scroll, a millennium older than previously known Hebrew manuscripts."
+ },
+ {
+  "id": "sea-of-galilee",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Sea of Chinnereth"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Lake of Gennesaret"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Sea of Galilee"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Sea of Tiberias"
+   }
+  ],
+  "coords": [
+   35.59,
+   32.82
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "water",
+  "refs": [
+   "Num 34:11",
+   "Josh 12:3",
+   "Matt 4:18-22",
+   "Mark 4:35-41",
+   "Matt 14:22-33",
+   "Luke 5:1-11",
+   "John 21:1-14"
+  ],
+  "summary": "A freshwater lake about 21 km long, the centre of Jesus' Galilean ministry. Fishermen including Peter, Andrew, James and John were called from its shore; Jesus calmed a storm and walked on its water, and the risen Jesus met disciples beside it.",
+  "archaeology": "A 1st-century fishing boat (the Galilee Boat) was recovered from the mud near Ginosar in 1986. Harbours have been traced around the shore at Capernaum, Magdala and elsewhere."
+ },
+ {
+  "id": "nazareth",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Nazareth"
+   },
+   {
+    "era": "modern",
+    "name": "an-Nasira / Natzrat"
+   }
+  ],
+  "coords": [
+   35.3035,
+   32.702
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Matt 2:23",
+   "Mark 6:1-6",
+   "Luke 1:26-38",
+   "Luke 2:39-40",
+   "Luke 4:16-30",
+   "John 1:46"
+  ],
+  "summary": "A small Galilean village in the hills above the Jezreel valley, home of Mary and Joseph, where Jesus grew up. Its synagogue rejected him after he read from Isaiah, and Nathanael asked whether anything good could come from it.",
+  "archaeology": "Excavations under the Church of the Annunciation and the nearby Sisters of Nazareth convent show a modest early Roman village with houses cut partly into rock and kokhim tombs. The \"Nazareth Inscription\", a Roman edict against tomb violation, is of uncertain provenance."
+ },
+ {
+  "id": "capernaum",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Capernaum (Kfar Nahum)"
+   },
+   {
+    "era": "modern",
+    "name": "Kfar Nahum / Tell Hum"
+   }
+  ],
+  "coords": [
+   35.575,
+   32.881
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Matt 4:13-17",
+   "Mark 1:21-34",
+   "Mark 2:1-12",
+   "Luke 7:1-10",
+   "John 6:24-59",
+   "Matt 11:23-24"
+  ],
+  "summary": "A fishing town on the northwest shore of the Sea of Galilee that became Jesus' base, \"his own city\". He taught in its synagogue, healed Peter's mother-in-law and a paralysed man lowered through a roof, yet rebuked the town for unbelief.",
+  "archaeology": "The white limestone synagogue (4th to 5th century) stands on basalt foundations that may belong to the 1st-century synagogue. Nearby, a house venerated from the 1st century was enlarged into a house-church and later an octagonal church, identified by excavators as Peter's house."
+ },
+ {
+  "id": "bethsaida",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Bethsaida (\"house of fishing\")"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Julias"
+   }
+  ],
+  "coords": [
+   35.63,
+   32.91
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Matt 11:21",
+   "Mark 6:45",
+   "Mark 8:22-26",
+   "Luke 9:10-17",
+   "John 1:44",
+   "John 12:21"
+  ],
+  "summary": "The hometown of Philip, Andrew and Peter, near where the five thousand were fed and a blind man was healed in stages. Philip the tetrarch raised it to a city named Julias. Two sites compete: et-Tell (shown), excavated since 1987, and el-Araj nearer the lakeshore.",
+  "archaeology": "et-Tell has a substantial Iron Age city (probably Geshurite) but thin Roman remains. Excavations at el-Araj since 2016 found early Roman occupation and a Byzantine church that its excavators propose is the Church of the Apostles described by pilgrims."
+ },
+ {
+  "id": "chorazin",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Chorazin"
+   },
+   {
+    "era": "modern",
+    "name": "Korazim"
+   }
+  ],
+  "coords": [
+   35.564,
+   32.911
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Matt 11:21",
+   "Luke 10:13"
+  ],
+  "summary": "A town in the hills above Capernaum, condemned by Jesus with Bethsaida because it did not repent despite his mighty works.",
+  "archaeology": "The ruins include a 3rd to 4th-century basalt synagogue with carved decoration and a stone chair inscribed in Aramaic, often compared to the \"seat of Moses\" in Matt 23:2."
+ },
+ {
+  "id": "cana",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Cana of Galilee"
+   }
+  ],
+  "coords": [
+   35.351,
+   32.748
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "John 2:1-11",
+   "John 4:46-54",
+   "John 21:2"
+  ],
+  "summary": "The village where Jesus turned water into wine at a wedding, his first sign in John, and the hometown of Nathanael. Many scholars favour Khirbet Qana (shown) on the north edge of the Beit Netofa valley; the traditional pilgrim site is Kafr Kanna near Nazareth.",
+  "archaeology": "Excavations at Khirbet Qana found a 1st-century Jewish village and a cave complex venerated by Christians in the Byzantine and Crusader periods, consistent with medieval pilgrim descriptions."
+ },
+ {
+  "id": "nain",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Nain"
+   },
+   {
+    "era": "modern",
+    "name": "Nein"
+   }
+  ],
+  "coords": [
+   35.348,
+   32.631
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Luke 7:11-17"
+  ],
+  "summary": "A village on the northern slope of the Hill of Moreh where Jesus met a funeral procession and raised the only son of a widow. The Arab village of Nein preserves the name."
+ },
+ {
+  "id": "magdala",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Magdala (Migdal Nunya)"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Taricheae"
+   },
+   {
+    "era": "modern",
+    "name": "Migdal"
+   }
+  ],
+  "coords": [
+   35.516,
+   32.825
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Matt 15:39",
+   "Mark 16:9",
+   "Luke 8:1-3",
+   "John 20:1-18"
+  ],
+  "summary": "A prosperous fish-processing town on the western shore of the Sea of Galilee, probably the hometown of Mary Magdalene. Greek sources call it Taricheae (\"place of salting fish\").",
+  "archaeology": "Excavations since 2009 uncovered a 1st-century synagogue with the Magdala Stone, carved with a seven-branched menorah, along with a harbour, markets and ritual baths."
+ },
+ {
+  "id": "caesarea-philippi",
+  "names": [
+   {
+    "era": "second-temple",
+    "name": "Paneas"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Caesarea Philippi"
+   },
+   {
+    "era": "modern",
+    "name": "Banias"
+   }
+  ],
+  "coords": [
+   35.694,
+   33.248
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Matt 16:13-20",
+   "Mark 8:27-30"
+  ],
+  "summary": "A city at a spring of the Jordan beneath Mount Hermon, rebuilt by Philip the tetrarch and named for Caesar. In its region Peter confessed Jesus as the Christ and Jesus spoke of building his church.",
+  "archaeology": "Beside the spring cave are niches and shrines to the god Pan and a temple to Augustus built by Herod the Great, as well as a later palace complex."
+ },
+ {
+  "id": "mount-tabor",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Mount Tabor"
+   },
+   {
+    "era": "modern",
+    "name": "Har Tavor / Jebel et-Tur"
+   }
+  ],
+  "coords": [
+   35.391,
+   32.687
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "Judg 4:6-14",
+   "Ps 89:12",
+   "Jer 46:18",
+   "Matt 17:1-9"
+  ],
+  "summary": "A dome-shaped mountain rising from the Jezreel plain where Barak gathered his army against Sisera. Christian tradition from at least the 4th century identifies it as the mountain of the Transfiguration; many modern scholars prefer Mount Hermon, nearer Caesarea Philippi where the preceding episode is set.",
+  "archaeology": "The summit holds Byzantine and Crusader church remains under the modern Franciscan Basilica of the Transfiguration (1924) and a Greek Orthodox monastery."
+ },
+ {
+  "id": "sychar",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Sychar"
+   },
+   {
+    "era": "modern",
+    "name": "Askar (Jacob's Well nearby)"
+   }
+  ],
+  "coords": [
+   35.285,
+   32.2095
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 33:18-20",
+   "John 4:5-42"
+  ],
+  "summary": "The Samaritan town near Jacob's well and Joseph's tomb where Jesus spoke with the Samaritan woman about living water and true worship. It is commonly identified with the village of Askar, though some equate it with Shechem itself; the point shown is Jacob's Well.",
+  "archaeology": "Jacob's Well (Bir Ya'qub), now within a Greek Orthodox church, has been venerated since at least the 4th century, when the Bordeaux Pilgrim described it."
+ },
+ {
+  "id": "bethany",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Bethany"
+   },
+   {
+    "era": "modern",
+    "name": "al-Eizariya (\"place of Lazarus\")"
+   }
+  ],
+  "coords": [
+   35.261,
+   31.771
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Mark 11:1",
+   "Mark 14:3-9",
+   "Luke 10:38-42",
+   "John 11:1-44",
+   "John 12:1-8",
+   "Luke 24:50-51"
+  ],
+  "summary": "A village on the eastern slope of the Mount of Olives, home of Mary, Martha and Lazarus, where Jesus raised Lazarus and was anointed before his death. Distinct from \"Bethany beyond the Jordan\" where John baptised.",
+  "archaeology": "A rock-cut tomb has been venerated as Lazarus' tomb since the 4th century; churches were built there from the Byzantine period onward."
+ },
+ {
+  "id": "emmaus",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Emmaus"
+   },
+   {
+    "era": "early-church",
+    "name": "Nicopolis"
+   },
+   {
+    "era": "modern",
+    "name": "Imwas (Canada Park)"
+   }
+  ],
+  "coords": [
+   34.99,
+   31.839
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Luke 24:13-35"
+  ],
+  "summary": "The village to which two disciples were walking when the risen Jesus joined them and was recognised in the breaking of bread. The site shown is Emmaus Nicopolis (Imwas), favoured by Eusebius and Jerome, though it lies about 160 stadia from Jerusalem, matching a minority manuscript reading rather than the usual 60; alternatives include el-Qubeibeh, Abu Ghosh and Motza (Roman Colonia), the last at roughly the right distance.",
+  "archaeology": "Imwas has remains of a Byzantine basilica and baptistery. At Motza a Second Temple Jewish settlement has been excavated."
+ },
+ {
+  "id": "gethsemane",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Gethsemane (\"oil press\")"
+   }
+  ],
+  "coords": [
+   35.2398,
+   31.7795
+  ],
+  "coordConfidence": "tradition",
+  "type": "site",
+  "refs": [
+   "Matt 26:36-56",
+   "Mark 14:32-50",
+   "Luke 22:39-53",
+   "John 18:1-12"
+  ],
+  "summary": "A garden or olive grove at the foot of the Mount of Olives across the Kidron, where Jesus prayed in anguish and was arrested after Judas' kiss. The traditional site has been marked by churches since the 4th century.",
+  "archaeology": "The Church of All Nations (1924) stands over remains of a 4th-century church and a Crusader church. A 2012 study dated the oldest olive trees in the garden to around the 12th century, and a ritual bath found in 2020 suggests 1st-century activity nearby."
+ },
+ {
+  "id": "golgotha",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Golgotha"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Calvary (Latin calvaria, \"skull\")"
+   }
+  ],
+  "coords": [
+   35.2296,
+   31.7784
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "Matt 27:33-56",
+   "Mark 15:22-41",
+   "Luke 23:33-49",
+   "John 19:17-42",
+   "Heb 13:12"
+  ],
+  "summary": "\"The place of the skull\", just outside Jerusalem's walls, where Jesus was crucified, with a garden tomb nearby. Most archaeologists accept the traditional site in the Church of the Holy Sepulchre (shown); the Garden Tomb north of the Damascus Gate, proposed in the 19th century, remains popular with Protestant visitors but its tomb is generally dated to the Iron Age.",
+  "archaeology": "The Holy Sepulchre site was a former quarry outside the city wall in Jesus' day, with 1st-century tombs nearby; Constantine's church was dedicated in 335. Restoration in 2016 exposed the original limestone burial bench. The heel bone of a crucified man named Jehohanan, with a nail still in it, was found in a Jerusalem tomb in 1968."
+ },
+ {
+  "id": "decapolis",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Decapolis (\"ten cities\")"
+   }
+  ],
+  "coords": [
+   35.85,
+   32.55
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Matt 4:25",
+   "Mark 5:1-20",
+   "Mark 7:31-37"
+  ],
+  "summary": "A league of Greek-style cities, mostly east of the Jordan, including Scythopolis, Gadara, Hippos, Pella, Gerasa and Philadelphia. The healed demoniac proclaimed Jesus there, and Jesus later passed through it healing a deaf man.",
+  "archaeology": "Well-preserved Roman cities such as Jerash (Gerasa), Umm Qais (Gadara), Hippos (Sussita) and Beth-shean (Scythopolis) show the region's colonnaded streets, theatres and temples."
+ },
+ {
+  "id": "tiberias",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Tiberias"
+   },
+   {
+    "era": "modern",
+    "name": "Tverya"
+   }
+  ],
+  "coords": [
+   35.531,
+   32.794
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "John 6:1",
+   "John 6:23",
+   "John 21:1"
+  ],
+  "summary": "The city Herod Antipas founded around AD 20 on the western shore of the Sea of Galilee and named for the emperor Tiberius; it became his capital. The Gospels do not record Jesus entering it. Later it became a leading centre of rabbinic learning where the Mishnah and Jerusalem Talmud were finalised.",
+  "archaeology": "Remains include a Roman theatre, a monumental gate, and the Hammat Tiberias synagogue with its zodiac mosaic (4th century)."
+ },
+ {
+  "id": "caesarea-maritima",
+  "names": [
+   {
+    "era": "second-temple",
+    "name": "Strato's Tower"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Caesarea"
+   },
+   {
+    "era": "modern",
+    "name": "Qesarya"
+   }
+  ],
+  "coords": [
+   34.892,
+   32.5
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 8:40",
+   "Acts 10:1-48",
+   "Acts 12:19-23",
+   "Acts 21:8",
+   "Acts 23:23-35",
+   "Acts 25:1-12"
+  ],
+  "summary": "Herod the Great's harbour city and the seat of Roman governors of Judea. Peter baptised the centurion Cornelius here, Herod Agrippa I died here, and Paul was held for two years before appealing to Caesar.",
+  "archaeology": "The Pilate Stone (found 1961) names Pontius Pilate as prefect of Judea. Herod's artificial harbour Sebastos, built with hydraulic concrete, a theatre, hippodrome and seaside palace survive."
+ },
+ {
+  "id": "lydda",
+  "names": [
+   {
+    "era": "return",
+    "name": "Lod"
+   },
+   {
+    "era": "apostolic",
+    "name": "Lydda"
+   },
+   {
+    "era": "early-church",
+    "name": "Diospolis"
+   }
+  ],
+  "coords": [
+   34.895,
+   31.951
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "1 Chr 8:12",
+   "Ezra 2:33",
+   "Acts 9:32-35",
+   "Acts 9:38"
+  ],
+  "summary": "A town on the coastal plain near Joppa where Peter healed the paralysed Aeneas. Renamed Diospolis, it hosted the synod of 415 at which Pelagius was acquitted.",
+  "archaeology": "A large Roman floor mosaic of animals and ships was uncovered in Lod in 1996."
+ },
+ {
+  "id": "antioch-syria",
+  "names": [
+   {
+    "era": "second-temple",
+    "name": "Antioch on the Orontes"
+   },
+   {
+    "era": "modern",
+    "name": "Antakya"
+   }
+  ],
+  "coords": [
+   36.161,
+   36.202
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 11:19-26",
+   "Acts 13:1-3",
+   "Acts 14:26-28",
+   "Acts 15:22-35",
+   "Gal 2:11-14"
+  ],
+  "summary": "Capital of Roman Syria and one of the empire's largest cities. Believers were first called Christians here; its church sent out Paul and Barnabas, and Paul confronted Peter here over table fellowship with Gentiles. Ignatius was later its bishop.",
+  "archaeology": "Excavations (1932-1939) recovered many fine Roman mosaics now in the Hatay museum. The cave church of St Peter on Mount Staurin is traditional. The 2023 earthquake severely damaged the old city."
+ },
+ {
+  "id": "tarsus",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Tarsus"
+   }
+  ],
+  "coords": [
+   34.895,
+   36.918
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 9:11",
+   "Acts 9:30",
+   "Acts 11:25",
+   "Acts 21:39",
+   "Acts 22:3"
+  ],
+  "summary": "The chief city of Cilicia on the Cydnus river, noted for its schools, and the birthplace of Paul, who called it \"no mean city\". Paul returned here after his conversion until Barnabas fetched him to Antioch.",
+  "archaeology": "A section of Roman street with basalt paving has been uncovered; the much-visited \"St Paul's Well\" is traditional only."
+ },
+ {
+  "id": "cyprus",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Kittim"
+   },
+   {
+    "era": "apostolic",
+    "name": "Cyprus"
+   }
+  ],
+  "coords": [
+   33.2,
+   35.05
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Isa 23:1",
+   "Acts 4:36",
+   "Acts 11:19-20",
+   "Acts 13:4-12",
+   "Acts 15:39",
+   "Acts 27:4"
+  ],
+  "summary": "The large island off the Syrian coast, Barnabas' homeland and the first stop of his and Paul's mission, where the proconsul Sergius Paulus believed. Barnabas later returned there with John Mark."
+ },
+ {
+  "id": "salamis",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Salamis"
+   }
+  ],
+  "coords": [
+   33.902,
+   35.185
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:5"
+  ],
+  "summary": "The main port on the east coast of Cyprus, where Barnabas and Saul first preached in the Jewish synagogues on their first journey. Later tradition holds that Barnabas was martyred and buried near here.",
+  "archaeology": "Ruins include a Roman gymnasium, theatre and baths, and the large 4th-century basilica of Epiphanius, bishop of Salamis."
+ },
+ {
+  "id": "paphos",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Paphos (Nea Paphos)"
+   }
+  ],
+  "coords": [
+   32.406,
+   34.756
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:6-12"
+  ],
+  "summary": "The Roman capital of Cyprus on the west coast, where Paul blinded the sorcerer Bar-Jesus (Elymas) and the proconsul Sergius Paulus believed. From here Acts begins calling Saul by the name Paul.",
+  "archaeology": "Nea Paphos has extensive Roman villas with mosaics, now a UNESCO site. Inscriptions mentioning a Sergius Paulus exist, though their link to Acts' proconsul is debated."
+ },
+ {
+  "id": "perga",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Perga in Pamphylia"
+   }
+  ],
+  "coords": [
+   30.854,
+   36.96
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:13-14",
+   "Acts 14:25"
+  ],
+  "summary": "A city of Pamphylia where John Mark left Paul and Barnabas to return to Jerusalem. On the way back the missionaries preached there before sailing from Attalia.",
+  "archaeology": "Perga's ruins include Hellenistic gate towers, a colonnaded street with a water channel, a theatre and a large stadium."
+ },
+ {
+  "id": "antioch-pisidia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Pisidian Antioch"
+   },
+   {
+    "era": "apostolic",
+    "name": "Colonia Caesarea Antiochia"
+   }
+  ],
+  "coords": [
+   31.189,
+   38.306
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:14-52",
+   "Acts 14:19-21",
+   "2 Tim 3:11"
+  ],
+  "summary": "A Roman colony near modern Yalvac where Paul preached his longest recorded synagogue sermon and then announced a turn to the Gentiles after opposition. Paul and Barnabas returned through it to strengthen the disciples.",
+  "archaeology": "Remains include an imperial temple to Augustus, an aqueduct and a 4th-century church. Fragments of Augustus' Res Gestae were found here."
+ },
+ {
+  "id": "iconium",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Iconium"
+   },
+   {
+    "era": "modern",
+    "name": "Konya"
+   }
+  ],
+  "coords": [
+   32.493,
+   37.871
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:51",
+   "Acts 14:1-6",
+   "Acts 14:21",
+   "Acts 16:2",
+   "2 Tim 3:11"
+  ],
+  "summary": "A city of Lycaonia where Paul and Barnabas preached with signs until a plot to stone them forced them to flee. The 2nd-century *Acts of Paul and Thecla* sets Thecla's story here."
+ },
+ {
+  "id": "lystra",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Lystra"
+   }
+  ],
+  "coords": [
+   32.34,
+   37.58
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 14:6-20",
+   "Acts 16:1-2",
+   "2 Tim 3:11"
+  ],
+  "summary": "A Roman colony in Lycaonia where Paul healed a lame man, the crowds hailed him and Barnabas as Hermes and Zeus, and Paul was then stoned and left for dead. It was Timothy's home.",
+  "archaeology": "An inscription naming the colony was found at Zoldera (Klistra), near Hatunsaray, by J. R. S. Sterrett in 1885, establishing the location; the mound is largely unexcavated."
+ },
+ {
+  "id": "derbe",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Derbe"
+   }
+  ],
+  "coords": [
+   33.364,
+   37.355
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 14:6",
+   "Acts 14:20-21",
+   "Acts 16:1",
+   "Acts 20:4"
+  ],
+  "summary": "The easternmost city reached on Paul's first journey, where many became disciples; Gaius of Derbe later travelled with Paul. It is usually identified with Kerti Huyuk; Devri Sehri nearby is a less favoured alternative.",
+  "archaeology": "Inscriptions found in 1956 and 1962 naming Derbe (including a bishop of Derbe) led to the Kerti Huyuk identification."
+ },
+ {
+  "id": "troas",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Alexandria Troas"
+   }
+  ],
+  "coords": [
+   26.156,
+   39.752
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 16:8-11",
+   "Acts 20:5-12",
+   "2 Cor 2:12-13",
+   "2 Tim 4:13"
+  ],
+  "summary": "A Roman colony and port on the Aegean near ancient Troy. Paul saw the vision of the man of Macedonia here, and on a later visit Eutychus fell from a window during Paul's long talk and was restored. Paul left his cloak and parchments here."
+ },
+ {
+  "id": "philippi",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Philippi (Colonia Iulia Augusta Philippensis)"
+   }
+  ],
+  "coords": [
+   24.286,
+   41.013
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 16:12-40",
+   "Phil 1:1-11",
+   "Phil 4:15-16",
+   "1 Thess 2:2"
+  ],
+  "summary": "A Roman colony on the Via Egnatia, the first city in Europe where Paul founded a church. Lydia was baptised by the river, Paul and Silas were beaten and jailed and the jailer believed, and the church later supported Paul and received his letter to the Philippians.",
+  "archaeology": "The UNESCO-listed site has the Roman forum, a theatre, several early Christian basilicas, and a crypt traditionally called Paul's prison."
+ },
+ {
+  "id": "thessalonica",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Thessalonica"
+   },
+   {
+    "era": "modern",
+    "name": "Thessaloniki"
+   }
+  ],
+  "coords": [
+   22.944,
+   40.64
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 17:1-9",
+   "Phil 4:16",
+   "1 Thess 1:1-10",
+   "2 Thess 1:1"
+  ],
+  "summary": "Capital of the province of Macedonia on the Via Egnatia. Paul's preaching won converts but provoked a riot, and he left after a short stay, later writing two letters to the young church.",
+  "archaeology": "An inscription from the Vardar Gate uses the title \"politarchs\" for city officials, the same uncommon term Luke uses in Acts 17:6. The Roman forum and Galerius' palace complex survive."
+ },
+ {
+  "id": "berea",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Berea (Beroea)"
+   },
+   {
+    "era": "modern",
+    "name": "Veria"
+   }
+  ],
+  "coords": [
+   22.204,
+   40.524
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 17:10-14",
+   "Acts 20:4"
+  ],
+  "summary": "A Macedonian town where the Jews were \"more noble\" than those in Thessalonica because they examined the scriptures daily to test Paul's message. Sopater of Berea later travelled with Paul."
+ },
+ {
+  "id": "athens",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Athens"
+   }
+  ],
+  "coords": [
+   23.726,
+   37.972
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 17:15-34",
+   "1 Thess 3:1"
+  ],
+  "summary": "The intellectual centre of the Greek world, where Paul reasoned in the synagogue and marketplace and addressed the Areopagus about the \"unknown god\". A few believed, including Dionysius the Areopagite and a woman named Damaris.",
+  "archaeology": "The Agora, the Areopagus hill below the Acropolis, and numerous altars and temples illustrate Luke's description of a city \"full of idols\"."
+ },
+ {
+  "id": "corinth",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Corinth (Colonia Laus Iulia Corinthiensis)"
+   }
+  ],
+  "coords": [
+   22.88,
+   37.906
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 18:1-18",
+   "Rom 16:23",
+   "1 Cor 1:2",
+   "2 Cor 1:1"
+  ],
+  "summary": "A wealthy Roman colony on the isthmus between mainland Greece and the Peloponnese and capital of Achaia. Paul stayed eighteen months working with Priscilla and Aquila; the church he founded received at least two of his letters.",
+  "archaeology": "The Gallio inscription at Delphi dates Gallio's proconsulship to about AD 51-52, anchoring Paul's chronology. Corinth has the judgement platform (bema), the temple of Apollo and a pavement inscription naming an Erastus as aedile, possibly the city official of Rom 16:23."
+ },
+ {
+  "id": "cenchreae",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Cenchreae"
+   },
+   {
+    "era": "modern",
+    "name": "Kechries"
+   }
+  ],
+  "coords": [
+   22.992,
+   37.884
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 18:18",
+   "Rom 16:1-2"
+  ],
+  "summary": "Corinth's eastern port on the Saronic Gulf, where Paul cut his hair because of a vow. Phoebe, the deacon who probably carried Paul's letter to Rome, served the church here.",
+  "archaeology": "Underwater and shoreline remains include harbour moles, warehouses and an early Christian basilica."
+ },
+ {
+  "id": "ephesus",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Ephesus"
+   },
+   {
+    "era": "modern",
+    "name": "Efes, near Selcuk"
+   }
+  ],
+  "coords": [
+   27.341,
+   37.941
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 18:19-21",
+   "Acts 19:1-41",
+   "Acts 20:17-38",
+   "Eph 1:1",
+   "1 Tim 1:3",
+   "Rev 2:1-7"
+  ],
+  "summary": "Capital of the province of Asia and home of the great temple of Artemis. Paul spent over two years here, the silversmiths rioted in the theatre, and it is the first of the seven churches in Revelation. Tradition links the apostle John with Ephesus, and the Council of Ephesus met here in 431.",
+  "archaeology": "Excavations reveal the theatre (seating about 24,000), the Library of Celsus, terrace houses, and the foundations of the Artemision, one of the seven wonders. The Basilica of St John stands at Selcuk."
+ },
+ {
+  "id": "miletus",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Miletus"
+   }
+  ],
+  "coords": [
+   27.278,
+   37.53
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 20:15-38",
+   "2 Tim 4:20"
+  ],
+  "summary": "An Ionian port south of Ephesus where Paul summoned the Ephesian elders and gave his farewell address. Paul later left Trophimus sick here.",
+  "archaeology": "The well-preserved theatre has a seat inscription often read as reserving places for Jews and God-fearers. The Market Gate of Miletus is reconstructed in Berlin."
+ },
+ {
+  "id": "rome",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Rome"
+   },
+   {
+    "era": "apostolic",
+    "name": "Babylon (cipher)"
+   }
+  ],
+  "coords": [
+   12.4964,
+   41.9028
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 2:10",
+   "Acts 18:2",
+   "Acts 28:14-31",
+   "Rom 1:7-15",
+   "Phil 4:22",
+   "2 Tim 1:16-17",
+   "1 Pet 5:13"
+  ],
+  "summary": "Capital of the empire. A church existed here before Paul arrived, as his letter to the Romans shows; Acts ends with Paul under house arrest in Rome preaching openly. Early tradition holds that Peter and Paul were martyred here under Nero.",
+  "archaeology": "The catacombs (from the 2nd century) contain early Christian art and inscriptions. Excavations beneath St Peter's found a 2nd-century monument (the \"trophy of Gaius\") at a site venerated as Peter's grave."
+ },
+ {
+  "id": "malta",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Melita"
+   }
+  ],
+  "coords": [
+   14.4,
+   35.92
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Acts 28:1-10"
+  ],
+  "summary": "The island where Paul's ship was wrecked on the way to Rome. Paul survived a viper's bite and healed the father of Publius, the island's chief man, and the party wintered there three months. Malta is the usual identification; Cephalonia and Mljet have been suggested as alternatives.",
+  "archaeology": "St Paul's Bay is the traditional landing; Roman anchors recovered nearby have been linked to the wreck in popular accounts but not demonstrated."
+ },
+ {
+  "id": "crete",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Caphtor"
+   },
+   {
+    "era": "apostolic",
+    "name": "Crete"
+   }
+  ],
+  "coords": [
+   24.9,
+   35.25
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Deut 2:23",
+   "Amos 9:7",
+   "Acts 2:11",
+   "Acts 27:7-21",
+   "Titus 1:5-13"
+  ],
+  "summary": "The large island south of the Aegean, probably the biblical Caphtor from which the Philistines came. Paul's ship sheltered on its south coast before the storm, and Paul left Titus there to appoint elders.",
+  "archaeology": "Minoan palaces such as Knossos testify to Crete's Bronze Age civilisation; Roman Gortyn was the provincial capital in Paul's time."
+ },
+ {
+  "id": "patmos",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Patmos"
+   }
+  ],
+  "coords": [
+   26.547,
+   37.31
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Rev 1:9-11"
+  ],
+  "summary": "A small Aegean island where John was exiled \"on account of the word of God\" and received the visions of Revelation.",
+  "archaeology": "The Cave of the Apocalypse and the Monastery of St John the Theologian (founded 1088) are a UNESCO World Heritage site."
+ },
+ {
+  "id": "galatia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Galatia"
+   }
+  ],
+  "coords": [
+   32.5,
+   39.2
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Acts 16:6",
+   "Acts 18:23",
+   "1 Cor 16:1",
+   "Gal 1:2",
+   "1 Pet 1:1"
+  ],
+  "summary": "A region of central Anatolia settled by Celtic Gauls, and also a larger Roman province that included Lycaonia and Pisidia. Whether Paul's letter to the Galatians addressed ethnic Galatians in the north (Ancyra, Pessinus) or the southern cities of his first journey is a long-running debate."
+ },
+ {
+  "id": "colossae",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Colossae"
+   }
+  ],
+  "coords": [
+   29.25,
+   37.788
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Col 1:2",
+   "Col 4:12-17",
+   "Phlm 1:1-2"
+  ],
+  "summary": "A town in the Lycus valley, near Laodicea and Hierapolis, whose church was founded by Epaphras. Paul's letter to the Colossians and his letter to Philemon were sent here, with the returning slave Onesimus.",
+  "archaeology": "The mound was largely unexcavated until Turkish excavations began in 2021; the city was damaged by an earthquake around AD 60 that also struck Laodicea."
+ },
+ {
+  "id": "laodicea",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Laodicea on the Lycus"
+   }
+  ],
+  "coords": [
+   29.108,
+   37.836
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Col 2:1",
+   "Col 4:13-16",
+   "Rev 1:11",
+   "Rev 3:14-22"
+  ],
+  "summary": "A wealthy banking, textile and medical centre of the Lycus valley. Paul mentions a letter to the Laodiceans, and Revelation rebukes the church as lukewarm, rich in its own eyes but poor and blind.",
+  "archaeology": "Excavations since 2003 have uncovered colonnaded streets, theatres, a stadium, and an early church (c. 4th century). Water reached the city through stone pipes heavy with calcium deposits, often linked with the \"lukewarm\" image."
+ },
+ {
+  "id": "smyrna",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Smyrna"
+   },
+   {
+    "era": "modern",
+    "name": "Izmir"
+   }
+  ],
+  "coords": [
+   27.143,
+   38.419
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Rev 1:11",
+   "Rev 2:8-11"
+  ],
+  "summary": "A prosperous port north of Ephesus. The risen Christ tells its suffering church to be faithful unto death; its bishop Polycarp was martyred here around AD 155.",
+  "archaeology": "The Roman agora of Smyrna, rebuilt after an earthquake in 178, has been excavated in central Izmir."
+ },
+ {
+  "id": "pergamum",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Pergamum"
+   },
+   {
+    "era": "modern",
+    "name": "Bergama"
+   }
+  ],
+  "coords": [
+   27.184,
+   39.131
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Rev 1:11",
+   "Rev 2:12-17"
+  ],
+  "summary": "The former Attalid capital, a centre of the imperial cult and of healing at the Asclepieion. Revelation calls it the place \"where Satan's throne is\" and names the martyr Antipas.",
+  "archaeology": "The acropolis held a famous library, a steep theatre and the Great Altar of Zeus, now reconstructed in Berlin. The site is a UNESCO World Heritage site."
+ },
+ {
+  "id": "thyatira",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Thyatira"
+   },
+   {
+    "era": "modern",
+    "name": "Akhisar"
+   }
+  ],
+  "coords": [
+   27.839,
+   38.918
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 16:14",
+   "Rev 1:11",
+   "Rev 2:18-29"
+  ],
+  "summary": "A trade city known for its guilds, including dyers; Lydia, the seller of purple cloth whom Paul met at Philippi, came from here. Revelation warns the church against a prophetess it calls Jezebel.",
+  "archaeology": "Inscriptions mention numerous trade guilds, including dyers, bronze-smiths and leather workers."
+ },
+ {
+  "id": "sardis",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Sardis"
+   },
+   {
+    "era": "modern",
+    "name": "Sart"
+   }
+  ],
+  "coords": [
+   28.04,
+   38.488
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Obad 1:20",
+   "Rev 1:11",
+   "Rev 3:1-6"
+  ],
+  "summary": "The old capital of Lydia, once ruled by Croesus. Revelation tells its church it has a name for being alive but is dead, and urges it to wake up. Obadiah's \"Sepharad\" may refer to Sardis.",
+  "archaeology": "Harvard-Cornell excavations uncovered a huge synagogue (3rd to 4th century) within the bath-gymnasium complex and the temple of Artemis."
+ },
+ {
+  "id": "philadelphia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Philadelphia"
+   },
+   {
+    "era": "modern",
+    "name": "Alasehir"
+   }
+  ],
+  "coords": [
+   28.521,
+   38.35
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Rev 1:11",
+   "Rev 3:7-13"
+  ],
+  "summary": "A city on the road to the interior, rebuilt after the earthquake of AD 17. Revelation praises its small church for keeping Christ's word and sets before it an open door."
+ },
+ {
+  "id": "alexandria",
+  "names": [
+   {
+    "era": "second-temple",
+    "name": "Alexandria"
+   }
+  ],
+  "coords": [
+   29.9187,
+   31.2001
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 6:9",
+   "Acts 18:24-28",
+   "Acts 27:6",
+   "Acts 28:11"
+  ],
+  "summary": "Alexander's city on the Mediterranean coast of Egypt, home of a vast Jewish community where the Septuagint was produced. Apollos came from here, and Paul sailed on Alexandrian grain ships. Later it was the see of Athanasius and home of the catechetical school of Clement and Origen.",
+  "archaeology": "Much of the ancient city lies under the modern one or the harbour; underwater surveys have mapped parts of the royal quarter and remains of the Pharos lighthouse."
+ },
+ {
+  "id": "puteoli",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Puteoli"
+   },
+   {
+    "era": "modern",
+    "name": "Pozzuoli"
+   }
+  ],
+  "coords": [
+   14.121,
+   40.823
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 28:13-14"
+  ],
+  "summary": "The main port for Rome's grain fleet on the Bay of Naples, where Paul landed and stayed a week with believers before travelling to Rome."
+ },
+ {
+  "id": "ethiopia",
+  "names": [
+   {
+    "era": "primeval",
+    "name": "Cush"
+   },
+   {
+    "era": "apostolic",
+    "name": "Ethiopia (Kingdom of Meroe)"
+   }
+  ],
+  "coords": [
+   33.75,
+   16.94
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Gen 2:13",
+   "Ps 68:31",
+   "Isa 18:1-7",
+   "Jer 38:7-13",
+   "Acts 8:26-39"
+  ],
+  "summary": "Biblical Cush and Greek \"Ethiopia\" usually meant the Nile kingdom south of Egypt in modern Sudan rather than modern Ethiopia. The official baptised by Philip served the Candace, the title of Meroe's queens; the point shown is Meroe.",
+  "archaeology": "Meroe has royal pyramids and temples of the Kushite kingdom. Ebed-melech, who rescued Jeremiah, was also a Cushite."
+ },
+ {
+  "id": "arabia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Arabia (Nabataean kingdom)"
+   }
+  ],
+  "coords": [
+   35.8,
+   30
+  ],
+  "coordConfidence": "debated",
+  "type": "region",
+  "refs": [
+   "2 Chr 9:14",
+   "Acts 2:11",
+   "Gal 1:17",
+   "Gal 4:25",
+   "2 Cor 11:32"
+  ],
+  "summary": "In Paul's day \"Arabia\" usually meant the Nabataean kingdom east and south of Judea, whose king Aretas controlled Damascus for a time. Paul went into Arabia after his conversion, and he places Mount Sinai in Arabia; whether that means the Sinai peninsula, the Negev or northwest Arabia is debated.",
+  "archaeology": "Petra, the Nabataean capital, with its rock-cut tombs and temples, is the best-known remains of the kingdom."
+ },
+ {
+  "id": "macedonia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Macedonia"
+   }
+  ],
+  "coords": [
+   22.5,
+   40.8
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Acts 16:9-12",
+   "Acts 19:21",
+   "Acts 20:1-3",
+   "Rom 15:26",
+   "2 Cor 8:1-5",
+   "Phil 4:15"
+  ],
+  "summary": "The Roman province of northern Greece with Thessalonica as capital. A vision of a Macedonian man drew Paul into Europe, and its churches at Philippi, Thessalonica and Berea gave generously to the collection for Jerusalem despite poverty."
+ },
+ {
+  "id": "achaia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Achaia"
+   }
+  ],
+  "coords": [
+   22.5,
+   37.8
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "region",
+  "refs": [
+   "Acts 18:12",
+   "Acts 19:21",
+   "Rom 15:26",
+   "1 Cor 16:15",
+   "2 Cor 1:1",
+   "1 Thess 1:7-8"
+  ],
+  "summary": "The Roman province of southern Greece, governed from Corinth, where Gallio was proconsul when Paul was brought before him. Stephanas' household were its first converts."
+ },
+ {
+  "id": "assos",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Assos"
+   },
+   {
+    "era": "modern",
+    "name": "Behramkale"
+   }
+  ],
+  "coords": [
+   26.337,
+   39.488
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 20:13-14"
+  ],
+  "summary": "A port on the Gulf of Adramyttium where Paul, who had walked overland from Troas, rejoined his companions' ship.",
+  "archaeology": "The hilltop temple of Athena (6th century BC) overlooks the ancient harbour."
+ },
+ {
+  "id": "mitylene",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Mitylene"
+   }
+  ],
+  "coords": [
+   26.555,
+   39.108
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 20:14"
+  ],
+  "summary": "The chief city of the island of Lesbos, where Paul's ship called on the way from Assos to Miletus."
+ },
+ {
+  "id": "rhodes",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Rhodes"
+   }
+  ],
+  "coords": [
+   28.227,
+   36.451
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 21:1"
+  ],
+  "summary": "The island port where Paul's ship called on his voyage to Jerusalem. Its great bronze Colossus had fallen in an earthquake around 226 BC."
+ },
+ {
+  "id": "patara",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Patara"
+   }
+  ],
+  "coords": [
+   29.317,
+   36.262
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 21:1-2"
+  ],
+  "summary": "A port of Lycia where Paul changed to a ship bound for Phoenicia on his way to Jerusalem.",
+  "archaeology": "Excavations uncovered a Roman lighthouse and the Stadiasmus Patarensis, a monument listing the road distances of Roman Lycia."
+ },
+ {
+  "id": "fair-havens",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Fair Havens"
+   },
+   {
+    "era": "modern",
+    "name": "Kaloi Limenes"
+   }
+  ],
+  "coords": [
+   24.803,
+   34.933
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "Acts 27:8-13"
+  ],
+  "summary": "A small anchorage on the south coast of Crete near Lasea where Paul's ship sheltered. Against Paul's warning, the crew sailed on toward Phoenix to winter and were caught by the northeaster."
+ },
+ {
+  "id": "syracuse",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Syracuse"
+   }
+  ],
+  "coords": [
+   15.287,
+   37.064
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 28:12"
+  ],
+  "summary": "The leading city of Sicily, where Paul's ship stayed three days after leaving Malta.",
+  "archaeology": "Syracuse has a Greek theatre, a temple of Athena built into the cathedral, and extensive early Christian catacombs."
+ },
+ {
+  "id": "rhegium",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Rhegium"
+   },
+   {
+    "era": "modern",
+    "name": "Reggio Calabria"
+   }
+  ],
+  "coords": [
+   15.65,
+   38.11
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 28:13"
+  ],
+  "summary": "A port on the toe of Italy across the Strait of Messina, where Paul's ship waited a day for a south wind before sailing to Puteoli."
+ },
+ {
+  "id": "three-taverns",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Three Taverns (Tres Tabernae)"
+   }
+  ],
+  "coords": [
+   12.83,
+   41.59
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "Acts 28:15"
+  ],
+  "summary": "A stopping place on the Appian Way about 50 km from Rome where believers from Rome came out to meet Paul, and he thanked God and took courage."
+ },
+ {
+  "id": "nicaea",
+  "names": [
+   {
+    "era": "imperial-church",
+    "name": "Nicaea"
+   },
+   {
+    "era": "modern",
+    "name": "Iznik"
+   }
+  ],
+  "coords": [
+   29.721,
+   40.429
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "John 1:1-3",
+   "Col 1:15-17"
+  ],
+  "summary": "A city in Bithynia where Constantine convened the first ecumenical council in 325, which affirmed that the Son is of one substance with the Father against Arius. The second Council of Nicaea (787) ruled on icons. It is not mentioned in the Bible; the refs are texts central to the Nicene debate.",
+  "archaeology": "In 2014 the remains of a submerged basilica (4th century or later) were found in Lake Iznik, possibly connected with the martyr Neophytos. The Hagia Sophia church in the town hosted the 787 council."
+ },
+ {
+  "id": "constantinople",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Byzantium"
+   },
+   {
+    "era": "imperial-church",
+    "name": "Constantinople (New Rome)"
+   },
+   {
+    "era": "modern",
+    "name": "Istanbul"
+   }
+  ],
+  "coords": [
+   28.9784,
+   41.0082
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [],
+  "summary": "The Greek city of Byzantium refounded by Constantine in 330 as the empire's new capital. It hosted the councils of 381, 553 and 680-681 and was the heart of Eastern Christianity until it fell to the Ottomans in 1453.",
+  "archaeology": "Justinian's Hagia Sophia (537), the Theodosian land walls, the Hippodrome and the Basilica Cistern survive."
+ },
+ {
+  "id": "hippo",
+  "names": [
+   {
+    "era": "early-church",
+    "name": "Hippo Regius"
+   },
+   {
+    "era": "modern",
+    "name": "Annaba"
+   }
+  ],
+  "coords": [
+   7.755,
+   36.885
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [],
+  "summary": "A port in Roman North Africa where Augustine served as bishop from about 395 until his death in 430, as the Vandals besieged the city. Most of his sermons and letters were written here.",
+  "archaeology": "The excavated Roman city includes a forum, baths, villas with mosaics and a large Christian basilica often linked with Augustine."
+ },
+ {
+  "id": "lyon",
+  "names": [
+   {
+    "era": "early-church",
+    "name": "Lugdunum"
+   },
+   {
+    "era": "modern",
+    "name": "Lyon"
+   }
+  ],
+  "coords": [
+   4.8357,
+   45.764
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [],
+  "summary": "The capital of Roman Gaul at the meeting of the Rhone and Saone. A persecution in 177 killed many Christians there, including Blandina, and Irenaeus became its bishop and wrote *Against Heresies* against the Gnostics.",
+  "archaeology": "Roman theatres and the Amphitheatre of the Three Gauls, the traditional scene of the 177 martyrdoms, survive on the slopes of Fourviere."
+ },
+ {
+  "id": "carthage",
+  "names": [
+   {
+    "era": "early-church",
+    "name": "Carthage"
+   }
+  ],
+  "coords": [
+   10.323,
+   36.853
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [],
+  "summary": "The great city of Roman Africa, home of Tertullian and the bishop-martyr Cyprian, and the place where Perpetua and Felicity were martyred around 203. Councils at Carthage, including those of 397 and 419, ratified the New Testament canon for the African church.",
+  "archaeology": "Remains include the Antonine Baths, Punic ports, an amphitheatre and several large basilicas."
+ },
+ {
+  "id": "wittenberg",
+  "names": [
+   {
+    "era": "reformation",
+    "name": "Wittenberg"
+   },
+   {
+    "era": "modern",
+    "name": "Lutherstadt Wittenberg"
+   }
+  ],
+  "coords": [
+   12.649,
+   51.866
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Rom 1:16-17"
+  ],
+  "summary": "A Saxon university town where Martin Luther taught and issued his Ninety-five Theses in 1517, the usual starting date of the Reformation. Luther's reading of Romans 1:17 on the righteousness of God was central to his theology.",
+  "archaeology": "Luther's house, the Castle Church (where Luther and Melanchthon are buried) and the Town Church are a UNESCO World Heritage site."
+ },
+ {
+  "id": "geneva",
+  "names": [
+   {
+    "era": "reformation",
+    "name": "Geneva"
+   }
+  ],
+  "coords": [
+   6.1432,
+   46.2044
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [],
+  "summary": "A city on Lake Geneva that adopted the Reformation in 1536 and where John Calvin ministered (1536-1538 and 1541-1564). His Academy (1559) trained pastors for France, Scotland and beyond, and English exiles produced the Geneva Bible (1560) here."
+ },
+ {
+  "id": "gibeon",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gibeon"
+   },
+   {
+    "era": "modern",
+    "name": "el-Jib"
+   }
+  ],
+  "coords": [
+   35.184,
+   31.847
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 9:3-27",
+   "Josh 10:1-14",
+   "2 Sam 2:12-17",
+   "1 Kgs 3:4-15",
+   "Jer 41:12"
+  ],
+  "summary": "A Hivite city whose people tricked Joshua into a treaty, leading to the battle where the sun stood still. The men of David and Ish-bosheth fought at its pool, and Solomon received his dream of wisdom at its high place.",
+  "archaeology": "James Pritchard (1956-1962) found jar handles stamped with the name \"Gibeon\", confirming the site, and a great rock-cut pool with a spiral staircase, plausibly the \"pool of Gibeon\"."
+ },
+ {
+  "id": "beth-shemesh",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Beth-shemesh"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Beit Shemesh"
+   }
+  ],
+  "coords": [
+   34.975,
+   31.751
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 15:10",
+   "1 Sam 6:9-21",
+   "2 Kgs 14:11-13"
+  ],
+  "summary": "A town of Judah in the Sorek valley on the Philistine border, where the cows pulling the returned ark arrived and men were struck for looking into it. Jehoash of Israel defeated Amaziah of Judah here.",
+  "archaeology": "Excavations show an Iron Age town with a large underground water reservoir and a strong Judahite presence facing Philistia."
+ },
+ {
+  "id": "kiriath-jearim",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Kiriath-jearim"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Baalah"
+   },
+   {
+    "era": "modern",
+    "name": "Deir el-Azar, Abu Ghosh"
+   }
+  ],
+  "coords": [
+   35.101,
+   31.807
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 9:17",
+   "1 Sam 6:21-7:2",
+   "2 Sam 6:2",
+   "1 Chr 13:5-6"
+  ],
+  "summary": "A Gibeonite town on the border of Judah and Benjamin where the ark rested for twenty years in the house of Abinadab until David brought it to Jerusalem.",
+  "archaeology": "Excavations from 2017 found a large Iron Age podium on the hilltop, which the excavators date to the 8th century BC and link to Israelite royal activity."
+ },
+ {
+  "id": "ophrah",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Ophrah of the Abiezrites"
+   }
+  ],
+  "coords": [
+   35.291,
+   32.608
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Judg 6:11-24",
+   "Judg 8:27",
+   "Judg 9:5"
+  ],
+  "summary": "Gideon's hometown in Manasseh, where the angel appeared to him under the oak and where he later set up an ephod that became a snare. The site is uncertain; Afula in the Jezreel valley (shown) and et-Taiyibeh are among the proposals."
+ },
+ {
+  "id": "mahanaim",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Mahanaim (\"two camps\")"
+   }
+  ],
+  "coords": [
+   35.668,
+   32.183
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 32:1-2",
+   "2 Sam 2:8-9",
+   "2 Sam 17:24-29",
+   "1 Kgs 4:14"
+  ],
+  "summary": "A town in Gilead near the Jabbok, named by Jacob when angels met him. Ish-bosheth reigned from it, and David took refuge there during Absalom's revolt. Tell edh-Dhahab el-Gharbiyeh (shown) is the leading proposal."
+ },
+ {
+  "id": "ramoth-gilead",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Ramoth-gilead"
+   }
+  ],
+  "coords": [
+   35.99,
+   32.44
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Deut 4:43",
+   "1 Kgs 22:1-40",
+   "2 Kgs 8:28-29",
+   "2 Kgs 9:1-14"
+  ],
+  "summary": "A city of refuge in Gilead and a frontier fortress fought over by Israel and Aram. Ahab died attempting to retake it despite Micaiah's warning, and Jehu was anointed king in its camp. Tell er-Rumeith (shown) is the usual identification."
+ },
+ {
+  "id": "nob",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Nob, city of priests"
+   }
+  ],
+  "coords": [
+   35.24,
+   31.795
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "1 Sam 21:1-9",
+   "1 Sam 22:9-19",
+   "Isa 10:32",
+   "Neh 11:32"
+  ],
+  "summary": "A priestly town within sight of Jerusalem where Ahimelech gave David the consecrated bread and Goliath's sword; Saul had its priests massacred in revenge. It is usually placed on the ridge near Mount Scopus or el-Isawiya."
+ },
+ {
+  "id": "keilah",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Keilah"
+   },
+   {
+    "era": "modern",
+    "name": "Khirbet Qila"
+   }
+  ],
+  "coords": [
+   35.001,
+   31.613
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 15:44",
+   "1 Sam 23:1-13",
+   "Neh 3:17-18"
+  ],
+  "summary": "A walled town of the Shephelah that David rescued from the Philistines; when God warned him its people would hand him over to Saul, he left."
+ },
+ {
+  "id": "carchemish",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Carchemish"
+   }
+  ],
+  "coords": [
+   38.013,
+   36.83
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "2 Chr 35:20",
+   "Isa 10:9",
+   "Jer 46:2"
+  ],
+  "summary": "A major crossing of the Euphrates on today's Turkey-Syria border. Here Nebuchadnezzar defeated Pharaoh Necho in 605 BC, ending Egyptian power in Syria and opening Judah to Babylon.",
+  "archaeology": "Excavations by Woolley and T. E. Lawrence (1911-1914) and later Turkish-Italian work uncovered Neo-Hittite sculpture and destruction debris from 605 BC."
+ },
+ {
+  "id": "beth-shean",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Beth-shean"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Scythopolis"
+   },
+   {
+    "era": "modern",
+    "name": "Beit She'an"
+   }
+  ],
+  "coords": [
+   35.503,
+   32.504
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 17:11-16",
+   "1 Sam 31:8-13",
+   "1 Kgs 4:12"
+  ],
+  "summary": "A fortress city where the Jezreel valley meets the Jordan valley. The Philistines hung the bodies of Saul and his sons on its wall. In Roman times, as Scythopolis, it was the leading city of the Decapolis.",
+  "archaeology": "Tel Beth-shean held an Egyptian garrison of the New Kingdom with stelae of Seti I and Ramesses II. Below it lie extensive Roman-Byzantine streets, a theatre and baths, ruined by the earthquake of 749."
+ },
+ {
+  "id": "gezer",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Gezer"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Gezer"
+   }
+  ],
+  "coords": [
+   34.921,
+   31.859
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 10:33",
+   "Judg 1:29",
+   "1 Kgs 9:15-17"
+  ],
+  "summary": "A Canaanite city guarding the route from the coast to Jerusalem. Pharaoh captured it and gave it as a dowry to his daughter, Solomon's wife, and Solomon rebuilt it with Hazor and Megiddo.",
+  "archaeology": "Finds include the Gezer Calendar (found 1908), one of the earliest Hebrew inscriptions, a row of standing stones, a six-chambered gate debated as Solomonic, and boundary inscriptions naming the city."
+ },
+ {
+  "id": "arad",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Arad"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Arad"
+   }
+  ],
+  "coords": [
+   35.126,
+   31.28
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Num 21:1-3",
+   "Judg 1:16"
+  ],
+  "summary": "A town of the eastern Negev whose king attacked Israel in the wilderness. The Iron Age fortress guarded Judah's southern frontier.",
+  "archaeology": "The fortress had a shrine with an altar and two incense altars and standing stones, later dismantled. Over 100 ostraca include the Eliashib archive and a reference to the \"house of YHWH\"."
+ },
+ {
+  "id": "aphek",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Aphek"
+   },
+   {
+    "era": "apostolic",
+    "name": "Antipatris"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Afek"
+   }
+  ],
+  "coords": [
+   34.93,
+   32.105
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 12:18",
+   "1 Sam 4:1-11",
+   "1 Sam 29:1",
+   "Acts 23:31-32"
+  ],
+  "summary": "A city at the springs of the Yarkon where the Philistines gathered before capturing the ark and before the battle of Gilboa. Herod rebuilt it as Antipatris, where Roman soldiers brought Paul overnight on the way to Caesarea.",
+  "archaeology": "Tel Afek has an Egyptian governor's residence (13th century BC) with cuneiform tablets and the Ottoman fortress of Binar Bashi."
+ },
+ {
+  "id": "mount-gerizim",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Mount Gerizim"
+   }
+  ],
+  "coords": [
+   35.273,
+   32.201
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "Deut 11:29",
+   "Deut 27:12",
+   "Josh 8:33-35",
+   "Judg 9:7",
+   "John 4:20-21"
+  ],
+  "summary": "The mountain of blessing above Shechem, opposite Ebal. The Samaritans regard it as the place God chose and built a temple there; the Samaritan woman asked Jesus whether worship belonged on this mountain or in Jerusalem.",
+  "archaeology": "Yitzhak Magen's excavations uncovered the Samaritan sacred precinct (from the 5th century BC), destroyed by John Hyrcanus about 110 BC, and a Byzantine church of Mary Theotokos. Samaritans still celebrate Passover on the mountain."
+ },
+ {
+  "id": "mount-ebal",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Mount Ebal"
+   }
+  ],
+  "coords": [
+   35.273,
+   32.231
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "Deut 11:29",
+   "Deut 27:4-13",
+   "Josh 8:30-35"
+  ],
+  "summary": "The mountain of curses north of Shechem, where Moses commanded an altar and stones inscribed with the law, and Joshua carried this out.",
+  "archaeology": "Adam Zertal excavated a stone structure (1980s) he interpreted as Joshua's altar; others read it as a watchtower or farmhouse. A small lead tablet from his spoil, claimed in 2022 to bear an early curse inscription, is widely disputed."
+ },
+ {
+  "id": "mount-hermon",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "Mount Hermon"
+   },
+   {
+    "era": "conquest-judges",
+    "name": "Sirion / Senir"
+   }
+  ],
+  "coords": [
+   35.857,
+   33.416
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "mountain",
+  "refs": [
+   "Deut 3:8-9",
+   "Josh 12:1",
+   "Ps 89:12",
+   "Ps 133:3",
+   "Song 4:8"
+  ],
+  "summary": "The snow-capped peak (about 2,814 m) at the northern edge of Israel whose melt feeds the Jordan. Psalm 133 uses its dew as an image of unity. Many modern scholars prefer it over Tabor as the mountain of the Transfiguration."
+ },
+ {
+  "id": "endor",
+  "names": [
+   {
+    "era": "conquest-judges",
+    "name": "En-dor"
+   }
+  ],
+  "coords": [
+   35.393,
+   32.639
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Josh 17:11",
+   "1 Sam 28:3-25",
+   "Ps 83:9-10"
+  ],
+  "summary": "A village near the Hill of Moreh where Saul, the night before Gilboa, consulted a medium who brought up Samuel. Its exact site near modern Ein Dor is uncertain."
+ },
+ {
+  "id": "gath-hepher",
+  "names": [
+   {
+    "era": "divided-kingdom",
+    "name": "Gath-hepher"
+   },
+   {
+    "era": "modern",
+    "name": "Tel Gat Hefer (near Mashhad)"
+   }
+  ],
+  "coords": [
+   35.326,
+   32.739
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Josh 19:13",
+   "2 Kgs 14:25"
+  ],
+  "summary": "A town of Zebulun north of Nazareth, home of the prophet Jonah son of Amittai, who prophesied the restoration of Israel's borders under Jeroboam II."
+ },
+ {
+  "id": "ecbatana",
+  "names": [
+   {
+    "era": "return",
+    "name": "Achmetha (Ecbatana)"
+   },
+   {
+    "era": "modern",
+    "name": "Hamadan"
+   }
+  ],
+  "coords": [
+   48.515,
+   34.798
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Ezra 6:1-5"
+  ],
+  "summary": "The old Median capital and a summer residence of the Persian kings. Darius' officials found Cyrus' decree authorising the rebuilding of the Jerusalem temple in its archive."
+ },
+ {
+  "id": "qumran",
+  "names": [
+   {
+    "era": "second-temple",
+    "name": "Qumran"
+   },
+   {
+    "era": "modern",
+    "name": "Khirbet Qumran"
+   }
+  ],
+  "coords": [
+   35.459,
+   31.741
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "Isa 40:3"
+  ],
+  "summary": "A settlement on the northwest shore of the Dead Sea near the caves where the Dead Sea Scrolls were found from 1947. Many scholars link it with an Essene-like community that applied Isaiah 40:3 to its life in the wilderness; others see it as a fortress or villa unrelated to the scrolls.",
+  "archaeology": "Roland de Vaux excavated ritual baths, a scriptorium-like room and a cemetery. The caves yielded about 900 manuscripts, including copies of every Old Testament book except Esther."
+ },
+ {
+  "id": "bethany-beyond-jordan",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Bethany beyond the Jordan"
+   },
+   {
+    "era": "life-of-jesus",
+    "name": "Bethabara (variant reading)"
+   },
+   {
+    "era": "modern",
+    "name": "Al-Maghtas"
+   }
+  ],
+  "coords": [
+   35.553,
+   31.837
+  ],
+  "coordConfidence": "debated",
+  "type": "site",
+  "refs": [
+   "John 1:28",
+   "John 10:40-42"
+  ],
+  "summary": "The place east of the Jordan where John was baptising and where Jesus later withdrew. The site shown is Al-Maghtas (Wadi Kharrar) in Jordan, opposite Jericho; some scholars instead locate it in Batanea in the far north.",
+  "archaeology": "Al-Maghtas has Roman and Byzantine churches, pools and monastic remains and was inscribed by UNESCO in 2015. The Madaba mosaic map marks a baptism site near here."
+ },
+ {
+  "id": "gadara",
+  "names": [
+   {
+    "era": "life-of-jesus",
+    "name": "Gadara"
+   },
+   {
+    "era": "modern",
+    "name": "Umm Qais"
+   }
+  ],
+  "coords": [
+   35.679,
+   32.655
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Matt 8:28-34",
+   "Mark 5:1-20",
+   "Luke 8:26-39"
+  ],
+  "summary": "A Decapolis city above the Yarmuk gorge. Manuscripts of the Gospels vary between \"Gadarenes\", \"Gerasenes\" and \"Gergesenes\" for the region where Jesus freed the demoniac and the pigs rushed into the lake; many favour Kursi on the eastern shore as the actual scene.",
+  "archaeology": "Umm Qais preserves basalt theatres, a colonnaded street and a Byzantine church. Kursi has a large 5th-century monastery and church commemorating the miracle."
+ },
+ {
+  "id": "succoth-jordan",
+  "names": [
+   {
+    "era": "patriarchs",
+    "name": "Succoth (Transjordan)"
+   },
+   {
+    "era": "modern",
+    "name": "Tell Deir Alla"
+   }
+  ],
+  "coords": [
+   35.62,
+   32.196
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Gen 33:17",
+   "Judg 8:4-16",
+   "1 Kgs 7:46"
+  ],
+  "summary": "The town east of the Jordan where Jacob built booths after meeting Esau. Its officials refused bread to Gideon's men and were punished, and Solomon's bronze was cast in the clay nearby. Tell Deir Alla is the common identification.",
+  "archaeology": "Plaster inscriptions found at Deir Alla in 1967 (c. 800 BC) tell of a vision of \"Balaam son of Beor\", the same seer named in Numbers 22-24."
+ },
+ {
+  "id": "seleucia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Seleucia Pieria"
+   }
+  ],
+  "coords": [
+   35.93,
+   36.122
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 13:4"
+  ],
+  "summary": "The port of Syrian Antioch, from which Barnabas and Saul sailed to Cyprus on their first journey.",
+  "archaeology": "Remains include the Titus tunnel, a large rock-cut channel built in the 1st century AD to divert floodwater from the harbour."
+ },
+ {
+  "id": "attalia",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Attalia"
+   },
+   {
+    "era": "modern",
+    "name": "Antalya"
+   }
+  ],
+  "coords": [
+   30.705,
+   36.885
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 14:25-26"
+  ],
+  "summary": "The port of Pamphylia from which Paul and Barnabas sailed home to Antioch at the end of their first journey.",
+  "archaeology": "Hadrian's Gate (AD 130) and the old harbour survive in Antalya's old town."
+ },
+ {
+  "id": "neapolis",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Neapolis"
+   },
+   {
+    "era": "modern",
+    "name": "Kavala"
+   }
+  ],
+  "coords": [
+   24.412,
+   40.936
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 16:11"
+  ],
+  "summary": "The port of Philippi, where Paul first set foot in Europe after sailing from Troas by way of Samothrace."
+ },
+ {
+  "id": "myra",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Myra"
+   },
+   {
+    "era": "modern",
+    "name": "Demre"
+   }
+  ],
+  "coords": [
+   29.985,
+   36.259
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "city",
+  "refs": [
+   "Acts 27:5-6"
+  ],
+  "summary": "A city of Lycia whose port served the Egyptian grain fleet; here the centurion transferred Paul to an Alexandrian ship bound for Italy. It was later the see of Bishop Nicholas.",
+  "archaeology": "Lycian rock-cut tombs, a Roman theatre and the church of St Nicholas survive."
+ },
+ {
+  "id": "forum-of-appius",
+  "names": [
+   {
+    "era": "apostolic",
+    "name": "Forum of Appius (Appii Forum)"
+   }
+  ],
+  "coords": [
+   13.07,
+   41.47
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "Acts 28:15"
+  ],
+  "summary": "A market town on the Appian Way about 65 km from Rome, where believers from Rome came out to meet Paul along with others at Three Taverns."
+ },
+ {
+  "id": "ezion-geber",
+  "names": [
+   {
+    "era": "egypt-exodus",
+    "name": "Ezion-geber"
+   }
+  ],
+  "coords": [
+   34.979,
+   29.547
+  ],
+  "coordConfidence": "debated",
+  "type": "city",
+  "refs": [
+   "Num 33:35-36",
+   "Deut 2:8",
+   "1 Kgs 9:26-28",
+   "1 Kgs 22:48"
+  ],
+  "summary": "A camp on Israel's wilderness route and later Solomon's port on the Gulf of Aqaba, from which ships sailed to Ophir; Jehoshaphat's fleet was wrecked there. Tell el-Kheleifeh (shown) was long the favoured site; Jezirat Faraun island is an alternative."
+ },
+ {
+  "id": "valley-of-elah",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Valley of Elah"
+   }
+  ],
+  "coords": [
+   34.96,
+   31.695
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "1 Sam 17:1-3",
+   "1 Sam 17:19",
+   "1 Sam 17:40-54",
+   "1 Sam 21:9"
+  ],
+  "summary": "A broad valley in the Shephelah between Socoh and Azekah where Israel and the Philistines faced each other and David killed Goliath.",
+  "archaeology": "Khirbet Qeiyafa, a fortified hilltop town above the valley excavated 2007-2013, dates to around 1000 BC and has two gates and an early Hebrew or Canaanite ostracon; its ethnic identity is debated."
+ },
+ {
+  "id": "kidron-valley",
+  "names": [
+   {
+    "era": "united-monarchy",
+    "name": "Brook Kidron"
+   },
+   {
+    "era": "divided-kingdom",
+    "name": "Valley of Jehoshaphat (tradition)"
+   }
+  ],
+  "coords": [
+   35.238,
+   31.774
+  ],
+  "coordConfidence": "scholarly-consensus",
+  "type": "site",
+  "refs": [
+   "2 Sam 15:23",
+   "1 Kgs 15:13",
+   "2 Kgs 23:4-6",
+   "Jer 31:40",
+   "John 18:1"
+  ],
+  "summary": "The ravine separating Jerusalem's temple hill from the Mount of Olives. David crossed it fleeing Absalom, reforming kings burned idols there, and Jesus crossed it with his disciples to the garden on the night of his arrest.",
+  "archaeology": "Its slopes hold monumental tombs such as Absalom's Pillar and the Bene Hezir tomb (2nd to 1st century BC), and Iron Age tombs at Silwan including the Royal Steward inscription."
+ },
+ {
+  "id": "india",
+  "names": [
+   {
+    "era": "modern",
+    "name": "India"
+   }
+  ],
+  "coords": [
+   76.3,
+   10.0
+  ],
+  "coordConfidence": "tradition",
+  "type": "region",
+  "refs": [],
+  "summary": "Tradition (the Acts of Thomas and the Saint Thomas Christians of Kerala) holds that the apostle Thomas preached in India and died near Mylapore (Chennai). The pin marks the Malabar coast, where tradition places his landing c. AD 52."
+ }
+]

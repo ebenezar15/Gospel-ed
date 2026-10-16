@@ -1,0 +1,5718 @@
+[
+ {
+  "id": "matthias",
+  "names": {
+   "primary": "Matthias",
+   "original": "Matthias (Greek), likely from Hebrew Mattityahu",
+   "meaning": "Gift of the LORD",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 30,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "nation": "Judean",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "apostle",
+   "replacement for Judas among the Twelve"
+  ],
+  "occupations": [
+   "apostle"
+  ],
+  "skills": [],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Chosen by lot to replace Judas",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:15-26"
+    ],
+    "summary": "After Peter argues from the Psalms that Judas's office must be filled, two men who had followed Jesus from John's baptism to the ascension are put forward, Joseph Barsabbas and Matthias. The group prays and casts lots; the lot falls on Matthias, who is counted with the eleven."
+   }
+  ],
+  "summary": "Matthias was chosen by lot to restore the Twelve after the death of Judas Iscariot. He had accompanied Jesus throughout his public ministry and was a witness of the resurrection. He is never mentioned again in the New Testament.",
+  "textSays": "Acts says only that he had been with the disciples from the baptism of John until the ascension, that he was one of two candidates, and that the lot fell on him so that he was numbered with the eleven apostles.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honored as a full apostle and saint; the choice is read as showing that the apostolic office continues by succession. Feast on 14 May (Roman) and 9 August (Eastern)."
+   },
+   {
+    "tradition": "Some Protestant readers",
+    "view": "A minority (notably G. Campbell Morgan) suggested the apostles acted prematurely and that Paul was God's real choice; most Protestant commentators reject this, since Luke presents the choice without criticism and the Twelve function as a group afterwards (Acts 6:2)."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Eusebius reports that Matthias was one of the seventy disciples sent out by Jesus.",
+    "source": "Eusebius, Ecclesiastical History 1.12.3",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Accounts of his later mission and death conflict: some place his preaching in Cappadocia or by the Caspian Sea (Colchis), others say he was stoned in Jerusalem. His relics are claimed by the Abbey of St. Matthias in Trier, said to have been brought by Empress Helena.",
+    "source": "Later hagiography (Greek and Latin martyrologies); locators need verification",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Quiet and steady, a witness rather than a preacher; speaks of what he saw with Jesus from the Jordan to the Mount of Olives without claiming more.",
+  "refs": [
+   "Acts 1:15-26",
+   "Acts 6:2"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "stephen",
+  "names": {
+   "primary": "Stephen",
+   "original": "Stephanos (Greek)",
+   "meaning": "Crown, wreath",
+   "aliases": [
+    "Protomartyr",
+    "the first martyr"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "died": {
+   "year": 34,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Early date, soon after Pentecost",
+     "year": 31
+    },
+    {
+     "label": "Late date, just before Paul's conversion on later chronologies",
+     "year": 36
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 32,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": 34,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Hellenistic (Greek-speaking) Jew",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "one of the Seven",
+   "evangelist",
+   "first Christian martyr"
+  ],
+  "occupations": [
+   "deacon"
+  ],
+  "skills": [
+   {
+    "name": "Debate and scriptural argument",
+    "refs": [
+     "Acts 6:9-10",
+     "Acts 7:2-53"
+    ]
+   },
+   {
+    "name": "Command of Israel's history",
+    "refs": [
+     "Acts 7:2-50"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Full of the Spirit and wisdom",
+    "refs": [
+     "Acts 6:3",
+     "Acts 6:5",
+     "Acts 6:10"
+    ]
+   },
+   {
+    "name": "Wonders and signs",
+    "refs": [
+     "Acts 6:8"
+    ]
+   },
+   {
+    "name": "Vision",
+    "refs": [
+     "Acts 7:55-56"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Chosen as one of the Seven",
+    "year": 33,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 6:1-6"
+    ],
+    "summary": "When Greek-speaking widows were being overlooked in the daily food distribution, the apostles asked the community to choose seven men full of the Spirit and wisdom. Stephen is named first and described as full of faith and the Holy Spirit; the apostles pray and lay hands on the seven."
+   },
+   {
+    "title": "Works wonders and signs",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 6:8"
+    ],
+    "summary": "Luke says Stephen, full of grace and power, did great wonders and signs among the people. His role quickly goes beyond serving tables."
+   },
+   {
+    "title": "Dispute with the Synagogue of the Freedmen",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 6:9-10"
+    ],
+    "summary": "Members of a synagogue of Freedmen, with Jews from Cyrene, Alexandria, Cilicia and Asia, argue with Stephen but cannot withstand the wisdom and Spirit with which he speaks. Cilicia was Saul's home province."
+   },
+   {
+    "title": "Arrested on charges of speaking against temple and law",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 6:11-15"
+    ],
+    "summary": "Opponents stir up the people and produce witnesses who say Stephen claimed Jesus would destroy the temple and change the customs of Moses. Luke calls the witnesses false; the council sees his face like the face of an angel."
+   },
+   {
+    "title": "Speech before the council",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 7:2-53"
+    ],
+    "summary": "The longest speech in Acts retells Israel's story from Abraham through Joseph, Moses, the tabernacle and Solomon's temple. Its themes: God met his people outside the land; Israel repeatedly rejected the deliverers God sent; the Most High does not dwell in houses made with hands. It ends by accusing his hearers of resisting the Spirit and betraying the Righteous One."
+   },
+   {
+    "title": "Vision of the Son of Man standing",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 7:55-56"
+    ],
+    "summary": "Gazing into heaven, Stephen sees the glory of God and Jesus standing at God's right hand, and says so aloud. It is the only place outside the Gospels where someone other than Jesus uses the title Son of Man."
+   },
+   {
+    "title": "Stoned outside the city",
+    "year": 34,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 7:57-60"
+    ],
+    "summary": "The crowd drags him out and stones him. The witnesses lay their garments at the feet of a young man named Saul. Stephen commits his spirit to the Lord Jesus and prays that this sin not be held against them, echoing Jesus's words on the cross."
+   },
+   {
+    "title": "Burial and the scattering",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 8:1-4",
+     "Acts 11:19-21"
+    ],
+    "summary": "Devout men bury and mourn him. A great persecution follows, the believers scatter through Judea and Samaria, and some go as far as Phoenicia, Cyprus and Antioch, where Greeks first hear the gospel."
+   },
+   {
+    "title": "Remembered by Paul",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 22:19-20"
+    ],
+    "summary": "Recounting his conversion, Paul recalls that he stood by approving and guarding the garments when the blood of Stephen, Christ's witness, was shed."
+   }
+  ],
+  "summary": "Stephen was one of seven men appointed to oversee the daily distribution of food in the Jerusalem church, but Acts portrays him above all as a Spirit-filled preacher and worker of signs. A Greek-speaking Jew, he provoked opposition among Hellenistic synagogues in Jerusalem, was charged with speaking against the temple and the law, and delivered a long speech before the Sanhedrin that retold Israel's history as a story of God's presence beyond the temple and the people's resistance to his messengers.\n\nHe was stoned to death, praying for his killers and committing his spirit to Jesus in words that mirror Luke's account of the crucifixion. His death is a hinge in Acts: it introduces Saul of Tarsus, triggers the persecution that scatters the church beyond Jerusalem, and sets in motion the mission to Samaria and the Gentiles.\n\nThe church has honored him since antiquity as the protomartyr, the first to die for Christ, and his speech remains one of the most studied texts in Acts for what it says about the temple, the law and early Christian readings of Israel's scriptures.",
+  "textSays": "Acts names Stephen first among the Seven and says he was full of faith, the Spirit, grace and power, performed wonders and signs, and out-argued opponents from several diaspora synagogues. False witnesses accused him of saying Jesus would destroy the temple and change Mosaic customs. He gave a long speech (Acts 7), saw Jesus standing at God's right hand, and was stoned while Saul watched approvingly. The text does not call him a deacon; the noun is not used of the Seven, though the related verb (to serve tables) is.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated as the protomartyr and archdeacon, the model for the diaconate as an ordained order. Feast on 26 December (West) and 27 December (East). His prayer for his persecutors is often linked to Paul's later conversion."
+   },
+   {
+    "tradition": "Protestant (Reformed and evangelical)",
+    "view": "Stephen is read as a model of faithful witness and as a preacher who grasped early that the coming of Christ relativized the temple. Many see the Seven as prototypes of deacons while noting the text does not use the title."
+   },
+   {
+    "tradition": "Historical-critical scholarship",
+    "view": "Many scholars see in the Hebrews and Hellenists of Acts 6 a real division in the Jerusalem church, with Stephen's circle holding a more critical stance toward the temple, which explains why they, not the apostles, were driven out (Acts 8:1). Whether the speech preserves Stephen's own views or Luke's composition is debated; Luke does label the anti-temple charges false, which complicates the reading of Stephen as anti-temple."
+   },
+   {
+    "tradition": "Jewish-Christian relations",
+    "view": "The speech's charge that Israel always resisted the Spirit has been used polemically in later Christian history. Many modern interpreters, Jewish and Christian, stress that it stands within the prophetic tradition of internal critique (compare Neh 9:26) spoken by a Jew to Jews, not as a condemnation of a whole people."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Courage before the council",
+    "Deep knowledge of Scripture",
+    "Forgiveness toward his killers",
+    "Combined practical service with preaching"
+   ],
+   "failures": [
+    "The text records none; some read his closing accusation as deliberately provocative"
+   ],
+   "turningPoints": [
+    "Appointment among the Seven",
+    "Arrest and trial",
+    "Vision of the standing Son of Man",
+    "Death, which sets the church's mission moving outward"
+   ]
+  },
+  "context": "Jerusalem had many synagogues for Jews returned from the diaspora, including freed slaves and their descendants. Greek-speaking Jewish believers (Hellenists) and Aramaic-speaking believers (Hebrews) formed distinct groups in the earliest church. Under Roman rule the Sanhedrin normally lacked authority to carry out executions (compare John 18:31), so Stephen's death may have been a mob action or may reflect a period of weak Roman oversight; this is debated.",
+  "legacy": "Stephen became the archetype of the Christian martyr, and his feast follows Christmas in most calendars. Augustine's *City of God* 22.8 describes healings associated with relics of Stephen after their reported discovery near Jerusalem in 415. His speech shaped Christian reflection on the temple, and his death is the backdrop for Paul's conversion.",
+  "traditions": [
+   {
+    "text": "In 415 a priest named Lucian reported finding Stephen's remains at Caphar Gamala near Jerusalem after a dream; the relics were distributed widely and miracles were reported in North Africa.",
+    "source": "Augustine, City of God 22.8; Lucian's letter on the discovery (locator needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Tradition places his stoning outside the northern gate of Jerusalem, later called St. Stephen's Gate (the name has also attached to the eastern Lions' Gate).",
+    "source": "Byzantine pilgrim tradition; Empress Eudocia built a basilica north of the city in the 5th century",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Fluent, learned and urgent, a Greek-speaking Jew who argues from the whole sweep of Israel's history; calm under threat and willing to say hard things to the powerful.",
+  "refs": [
+   "Acts 6:1-15",
+   "Acts 7:1-60",
+   "Acts 8:1-4",
+   "Acts 11:19-21",
+   "Acts 22:19-20"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "philip-the-evangelist",
+  "names": {
+   "primary": "Philip the Evangelist",
+   "original": "Philippos (Greek)",
+   "meaning": "Lover of horses",
+   "aliases": [
+    "Philip the Deacon",
+    "one of the Seven"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Hellenistic Jew",
+  "placeIds": [
+   "jerusalem",
+   "samaria",
+   "gaza",
+   "ashdod",
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "one of the Seven",
+   "evangelist"
+  ],
+  "occupations": [
+   "evangelist"
+  ],
+  "skills": [
+   {
+    "name": "Explaining Scripture",
+    "refs": [
+     "Acts 8:30-35"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Evangelist",
+    "refs": [
+     "Acts 21:8"
+    ]
+   },
+   {
+    "name": "Signs, healings and exorcisms",
+    "refs": [
+     "Acts 8:6-7",
+     "Acts 8:13"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Chosen as one of the Seven",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 6:5"
+    ],
+    "summary": "Named second after Stephen among the seven appointed to oversee the food distribution."
+   },
+   {
+    "title": "Preaches Christ in Samaria",
+    "placeId": "samaria",
+    "refs": [
+     "Acts 8:4-13"
+    ],
+    "summary": "Scattered by the persecution, Philip preaches in a city of Samaria; crowds respond to his signs, many are baptized, including Simon the magician."
+   },
+   {
+    "title": "Baptizes the Ethiopian official",
+    "placeId": "gaza",
+    "refs": [
+     "Acts 8:26-39"
+    ],
+    "summary": "Sent by an angel to the desert road to Gaza, Philip hears an Ethiopian court official reading Isaiah 53, explains the passage as being about Jesus, and baptizes him."
+   },
+   {
+    "title": "Preaches along the coast to Caesarea",
+    "placeId": "ashdod",
+    "refs": [
+     "Acts 8:40"
+    ],
+    "summary": "Philip appears at Azotus (Ashdod) and evangelizes the coastal towns until he reaches Caesarea."
+   },
+   {
+    "title": "Hosts Paul at Caesarea",
+    "year": 57,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 21:8-9"
+    ],
+    "summary": "About twenty years later Paul's party stays at Philip's house in Caesarea. Luke notes that Philip had four unmarried daughters who prophesied."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "jerusalem",
+    "order": 1,
+    "note": "Appointed among the Seven",
+    "refs": [
+     "Acts 6:5"
+    ]
+   },
+   {
+    "placeId": "samaria",
+    "order": 2,
+    "note": "Preaches and baptizes in a Samaritan city",
+    "refs": [
+     "Acts 8:5-13"
+    ]
+   },
+   {
+    "placeId": "gaza",
+    "order": 3,
+    "note": "On the desert road toward Gaza meets the Ethiopian",
+    "refs": [
+     "Acts 8:26-39"
+    ]
+   },
+   {
+    "placeId": "ashdod",
+    "order": 4,
+    "note": "Found at Azotus",
+    "refs": [
+     "Acts 8:40"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 5,
+    "note": "Settles in Caesarea; later hosts Paul",
+    "refs": [
+     "Acts 8:40",
+     "Acts 21:8"
+    ]
+   }
+  ],
+  "summary": "Philip was one of the Seven chosen in Jerusalem and became the church's first named cross-cultural evangelist. After Stephen's death he took the gospel to Samaria, then baptized an Ethiopian official on the road to Gaza, and worked his way up the coast to Caesarea, where he was still living when Paul visited two decades later. Acts calls him the evangelist to distinguish him from Philip the apostle, with whom later tradition often confused him.",
+  "textSays": "He was one of the Seven; he preached and worked signs in Samaria; he was directed by an angel and the Spirit to the Ethiopian; he was snatched away by the Spirit and found at Azotus; he lived in Caesarea and had four virgin daughters who prophesied.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated as a deacon and evangelist (in the East also as bishop of Tralles); feast 6 June (West) and 11 October (East)."
+   },
+   {
+    "tradition": "Protestant missions tradition",
+    "view": "Held up as the model lay evangelist who crosses ethnic and religious boundaries (Samaritans, a eunuch from Africa) in fulfillment of Acts 1:8."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Polycrates of Ephesus and Papias place a Philip and his prophesying daughters at Hierapolis in Asia; Eusebius appears to merge Philip the apostle and Philip the evangelist in reporting this.",
+    "source": "Eusebius, Ecclesiastical History 3.31 and 3.39.9",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Warm, mobile and practical; asks simple questions (Do you understand what you are reading?) and goes wherever he is sent.",
+  "refs": [
+   "Acts 6:5",
+   "Acts 8:4-40",
+   "Acts 21:8-9"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "paul",
+  "names": {
+   "primary": "Paul",
+   "original": "Paulos (Greek), Paulus (Latin); Hebrew name Sha'ul (Saul)",
+   "meaning": "Paulus: small; Saul: asked for",
+   "aliases": [
+    "Saul of Tarsus",
+    "the Apostle to the Gentiles"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "born": {
+   "year": 5,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Earlier estimate (he is a young man at Stephen's death and calls himself aged in Phlm 1:9)",
+     "year": -5
+    },
+    {
+     "label": "Later estimate",
+     "year": 10
+    }
+   ]
+  },
+  "died": {
+   "year": 64,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "Executed at the end of the two-year house arrest of Acts 28",
+     "year": 62
+    },
+    {
+     "label": "Later in Nero's reign after release and a second imprisonment (Eusebius/Jerome tradition)",
+     "year": 67,
+     "source": "Eusebius, Ecclesiastical History 2.22; Jerome, Lives of Illustrious Men 5"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "tradition"
+   }
+  ],
+  "tribe": "Benjamin",
+  "nation": "Diaspora Jew; Roman citizen; citizen of Tarsus",
+  "placeIds": [
+   "tarsus",
+   "jerusalem",
+   "damascus",
+   "arabia",
+   "antioch-syria",
+   "cyprus",
+   "galatia",
+   "macedonia",
+   "philippi",
+   "thessalonica",
+   "athens",
+   "corinth",
+   "ephesus",
+   "caesarea-maritima",
+   "crete",
+   "malta",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Pharisee",
+   "persecutor of the church",
+   "apostle to the Gentiles",
+   "missionary",
+   "letter-writer",
+   "prisoner"
+  ],
+  "occupations": [
+   "tentmaker",
+   "apostle"
+  ],
+  "skills": [
+   {
+    "name": "Tentmaking (leatherwork)",
+    "refs": [
+     "Acts 18:3",
+     "Acts 20:34",
+     "1 Thess 2:9",
+     "1 Cor 4:12"
+    ]
+   },
+   {
+    "name": "Pharisaic training in the law under Gamaliel",
+    "refs": [
+     "Acts 22:3",
+     "Phil 3:5-6",
+     "Gal 1:14"
+    ]
+   },
+   {
+    "name": "Bilingual: Greek and Hebrew/Aramaic",
+    "refs": [
+     "Acts 21:37-40",
+     "Acts 22:2"
+    ]
+   },
+   {
+    "name": "Argument and letter-writing",
+    "refs": [
+     "2 Cor 10:10",
+     "Acts 17:2-3",
+     "Acts 19:8-10"
+    ]
+   },
+   {
+    "name": "Use of Roman citizenship and legal process",
+    "refs": [
+     "Acts 16:37-39",
+     "Acts 22:25-29",
+     "Acts 25:10-12"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Apostleship",
+    "refs": [
+     "Gal 1:1",
+     "1 Cor 9:1-2",
+     "1 Cor 15:8-10"
+    ]
+   },
+   {
+    "name": "Speaking in tongues",
+    "refs": [
+     "1 Cor 14:18"
+    ]
+   },
+   {
+    "name": "Visions and revelations",
+    "refs": [
+     "2 Cor 12:1-7",
+     "Acts 16:9-10",
+     "Acts 18:9-10"
+    ]
+   },
+   {
+    "name": "Healing and miracles",
+    "refs": [
+     "Acts 14:8-10",
+     "Acts 19:11-12",
+     "Acts 28:8-9",
+     "2 Cor 12:12"
+    ]
+   },
+   {
+    "name": "Teaching",
+    "refs": [
+     "Acts 11:26",
+     "Acts 13:1"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Approves of Stephen's death and persecutes the church",
+    "year": 34,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 7:58",
+     "Acts 8:1-3",
+     "Gal 1:13",
+     "Phil 3:6"
+    ],
+    "summary": "Introduced as a young man guarding the garments of those stoning Stephen, Saul then goes house to house dragging believers to prison. Paul later describes himself as having violently persecuted the church of God out of zeal."
+   },
+   {
+    "title": "Encounter with the risen Jesus near Damascus",
+    "year": 34,
+    "placeId": "damascus",
+    "refs": [
+     "Acts 9:1-19",
+     "Acts 22:6-16",
+     "Acts 26:12-18",
+     "Gal 1:15-16",
+     "1 Cor 15:8"
+    ],
+    "summary": "Travelling with letters from the high priest, Saul is struck by a light, hears Jesus ask why he is persecuting him, is blinded, and is baptized by Ananias three days later. Acts tells the story three times; Paul's letters describe it as God revealing his Son in him and calling him to the Gentiles."
+   },
+   {
+    "title": "Arabia, Damascus and escape over the wall",
+    "year": 36,
+    "placeId": "arabia",
+    "refs": [
+     "Gal 1:17",
+     "Acts 9:19-25",
+     "2 Cor 11:32-33"
+    ],
+    "summary": "Paul goes to Arabia (the Nabatean kingdom) and returns to Damascus, where he preaches in the synagogues. When the governor under King Aretas guards the city, he is let down through a window in the wall in a basket."
+   },
+   {
+    "title": "First visit to Jerusalem; sent home to Tarsus",
+    "year": 37,
+    "placeId": "jerusalem",
+    "refs": [
+     "Gal 1:18-24",
+     "Acts 9:26-30"
+    ],
+    "summary": "Three years after his conversion he spends fifteen days with Cephas and meets James. Barnabas vouches for him; when Hellenist Jews try to kill him, believers send him via Caesarea to Tarsus, where he spends several years in Syria and Cilicia."
+   },
+   {
+    "title": "Teacher at Antioch and famine relief",
+    "year": 45,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 11:25-30",
+     "Acts 12:25"
+    ],
+    "summary": "Barnabas fetches Saul to Antioch, where they teach for a year and the disciples are first called Christians. They carry famine relief to the elders in Judea."
+   },
+   {
+    "title": "First missionary journey",
+    "year": 47,
+    "placeId": "galatia",
+    "refs": [
+     "Acts 13:1-14:28"
+    ],
+    "summary": "Sent out by the Antioch church with Barnabas, Paul preaches in Cyprus (where he is first called Paul), Pisidian Antioch, Iconium, Lystra and Derbe. He is stoned at Lystra and left for dead, then returns through the same towns appointing elders."
+   },
+   {
+    "title": "Council in Jerusalem",
+    "year": 49,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 15:1-35",
+     "Gal 2:1-10"
+    ],
+    "summary": "Paul and Barnabas argue that Gentile believers need not be circumcised. The apostles and elders, with James giving the decision, agree, asking Gentiles to avoid a few practices offensive to Jews. Galatians 2 records a private meeting where the pillars extend the right hand of fellowship; whether it is the same meeting as Acts 15 or the famine visit is debated."
+   },
+   {
+    "title": "Confronts Peter at Antioch",
+    "placeId": "antioch-syria",
+    "refs": [
+     "Gal 2:11-14"
+    ],
+    "summary": "When Peter withdraws from eating with Gentiles under pressure from men from James, Paul opposes him to his face for not walking in step with the truth of the gospel."
+   },
+   {
+    "title": "Second missionary journey into Europe",
+    "year": 50,
+    "placeId": "philippi",
+    "refs": [
+     "Acts 15:36-18:22"
+    ],
+    "summary": "After parting from Barnabas over John Mark, Paul takes Silas, adds Timothy, and after a vision of a man of Macedonia crosses to Europe. He founds churches at Philippi (where he and Silas are beaten and jailed), Thessalonica and Berea, speaks at the Areopagus in Athens, and stays eighteen months in Corinth, where he appears before the proconsul Gallio."
+   },
+   {
+    "title": "Third journey and long ministry in Ephesus",
+    "year": 54,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:23-21:16",
+     "1 Cor 16:8-9"
+    ],
+    "summary": "Paul spends two to three years in Ephesus teaching daily in the hall of Tyrannus, until a riot of silversmiths devoted to Artemis. He revisits Macedonia and Greece, collects money for the Jerusalem poor, raises Eutychus at Troas and bids farewell to the Ephesian elders at Miletus."
+   },
+   {
+    "title": "Arrest in the temple and imprisonment at Caesarea",
+    "year": 57,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 21:27-36",
+     "Acts 23:23-35",
+     "Acts 24:27",
+     "Acts 25:10-12"
+    ],
+    "summary": "Accused of bringing a Gentile into the temple, Paul is seized by a mob and rescued by Roman soldiers. After a plot against his life he is moved to Caesarea, held two years under Felix, and, facing transfer to Jerusalem under Festus, appeals to Caesar. He defends himself before Agrippa II."
+   },
+   {
+    "title": "Shipwreck and arrival in Rome",
+    "year": 60,
+    "placeId": "rome",
+    "refs": [
+     "Acts 27:1-28:31"
+    ],
+    "summary": "Sailing late in the season, the ship is caught by a northeaster, drifts fourteen days and is wrecked on Malta. Paul reaches Rome in spring and lives two years under guard in rented quarters, preaching the kingdom of God without hindrance. Acts ends there."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "tarsus",
+    "order": 1,
+    "year": 5,
+    "note": "Born a citizen of Tarsus in Cilicia",
+    "refs": [
+     "Acts 21:39",
+     "Acts 22:3"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "note": "Brought up in Jerusalem and educated under Gamaliel; persecutes the church",
+    "refs": [
+     "Acts 22:3",
+     "Acts 8:3"
+    ]
+   },
+   {
+    "placeId": "damascus",
+    "order": 3,
+    "year": 34,
+    "note": "Converted on the road; baptized by Ananias",
+    "refs": [
+     "Acts 9:3-19"
+    ]
+   },
+   {
+    "placeId": "arabia",
+    "order": 4,
+    "note": "Goes away into Arabia (Nabatea)",
+    "refs": [
+     "Gal 1:17"
+    ]
+   },
+   {
+    "placeId": "damascus",
+    "order": 5,
+    "note": "Returns, preaches, escapes in a basket",
+    "refs": [
+     "Gal 1:17",
+     "Acts 9:20-25",
+     "2 Cor 11:32-33"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 6,
+    "year": 37,
+    "note": "Fifteen days with Peter; meets James",
+    "refs": [
+     "Gal 1:18-19",
+     "Acts 9:26-29"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 7,
+    "note": "Taken down to the port to escape a plot",
+    "refs": [
+     "Acts 9:30"
+    ]
+   },
+   {
+    "placeId": "tarsus",
+    "order": 8,
+    "note": "Years in Syria and Cilicia",
+    "refs": [
+     "Acts 9:30",
+     "Gal 1:21"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 9,
+    "note": "Brought by Barnabas; teaches a year",
+    "refs": [
+     "Acts 11:25-26"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 10,
+    "note": "Famine relief visit",
+    "refs": [
+     "Acts 11:30",
+     "Acts 12:25"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 11,
+    "year": 46,
+    "note": "First journey: set apart by the Spirit and sent off",
+    "refs": [
+     "Acts 13:1-3"
+    ]
+   },
+   {
+    "placeId": "salamis",
+    "order": 12,
+    "note": "Preaches in synagogues of Cyprus",
+    "refs": [
+     "Acts 13:4-5"
+    ]
+   },
+   {
+    "placeId": "paphos",
+    "order": 13,
+    "note": "Elymas blinded; proconsul Sergius Paulus believes",
+    "refs": [
+     "Acts 13:6-12"
+    ]
+   },
+   {
+    "placeId": "perga",
+    "order": 14,
+    "note": "John Mark leaves them",
+    "refs": [
+     "Acts 13:13"
+    ]
+   },
+   {
+    "placeId": "antioch-pisidia",
+    "order": 15,
+    "note": "Synagogue sermon; turn to the Gentiles",
+    "refs": [
+     "Acts 13:14-50"
+    ]
+   },
+   {
+    "placeId": "iconium",
+    "order": 16,
+    "note": "Many believe; plot to stone them",
+    "refs": [
+     "Acts 14:1-6"
+    ]
+   },
+   {
+    "placeId": "lystra",
+    "order": 17,
+    "note": "Lame man healed; hailed as Hermes; stoned",
+    "refs": [
+     "Acts 14:8-20"
+    ]
+   },
+   {
+    "placeId": "derbe",
+    "order": 18,
+    "note": "Many disciples made",
+    "refs": [
+     "Acts 14:20-21"
+    ]
+   },
+   {
+    "placeId": "lystra",
+    "order": 19,
+    "note": "Return trip strengthening disciples, appointing elders",
+    "refs": [
+     "Acts 14:21-23"
+    ]
+   },
+   {
+    "placeId": "perga",
+    "order": 20,
+    "note": "Preach in Perga before sailing",
+    "refs": [
+     "Acts 14:24-25"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 21,
+    "year": 48,
+    "note": "Report how God opened a door of faith to the Gentiles",
+    "refs": [
+     "Acts 14:26-28"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 22,
+    "year": 49,
+    "note": "Council on Gentile circumcision",
+    "refs": [
+     "Acts 15:2-29"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 23,
+    "note": "Second journey begins with Silas",
+    "refs": [
+     "Acts 15:30-41"
+    ]
+   },
+   {
+    "placeId": "derbe",
+    "order": 24,
+    "note": "Revisits Derbe and Lystra",
+    "refs": [
+     "Acts 16:1"
+    ]
+   },
+   {
+    "placeId": "lystra",
+    "order": 25,
+    "note": "Timothy joins",
+    "refs": [
+     "Acts 16:1-3"
+    ]
+   },
+   {
+    "placeId": "galatia",
+    "order": 26,
+    "note": "Through Phrygia and Galatia; forbidden to speak in Asia",
+    "refs": [
+     "Acts 16:6-7"
+    ]
+   },
+   {
+    "placeId": "troas",
+    "order": 27,
+    "note": "Vision of the man of Macedonia",
+    "refs": [
+     "Acts 16:8-10"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 28,
+    "year": 50,
+    "note": "Lydia baptized; beaten and jailed; jailer converted",
+    "refs": [
+     "Acts 16:12-40"
+    ]
+   },
+   {
+    "placeId": "thessalonica",
+    "order": 29,
+    "note": "Three Sabbaths in the synagogue; riot",
+    "refs": [
+     "Acts 17:1-9"
+    ]
+   },
+   {
+    "placeId": "berea",
+    "order": 30,
+    "note": "Bereans examine the Scriptures daily",
+    "refs": [
+     "Acts 17:10-14"
+    ]
+   },
+   {
+    "placeId": "athens",
+    "order": 31,
+    "note": "Speech at the Areopagus",
+    "refs": [
+     "Acts 17:15-34"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 32,
+    "year": 51,
+    "note": "Eighteen months; works with Aquila and Priscilla; before Gallio",
+    "refs": [
+     "Acts 18:1-17"
+    ]
+   },
+   {
+    "placeId": "cenchreae",
+    "order": 33,
+    "note": "Cuts his hair under a vow",
+    "refs": [
+     "Acts 18:18"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 34,
+    "note": "Brief stop; leaves Priscilla and Aquila",
+    "refs": [
+     "Acts 18:19-21"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 35,
+    "note": "Lands and goes up to greet the church",
+    "refs": [
+     "Acts 18:22"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 36,
+    "year": 52,
+    "note": "Returns to Antioch",
+    "refs": [
+     "Acts 18:22"
+    ]
+   },
+   {
+    "placeId": "galatia",
+    "order": 37,
+    "year": 53,
+    "note": "Third journey: strengthens disciples in Galatia and Phrygia",
+    "refs": [
+     "Acts 18:23"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 38,
+    "note": "Two to three years; hall of Tyrannus; riot of Demetrius",
+    "refs": [
+     "Acts 19:1-41",
+     "Acts 20:31"
+    ]
+   },
+   {
+    "placeId": "macedonia",
+    "order": 39,
+    "note": "Encourages the Macedonian churches",
+    "refs": [
+     "Acts 20:1-2",
+     "2 Cor 7:5"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 40,
+    "note": "Three months in Greece; likely writes Romans",
+    "refs": [
+     "Acts 20:2-3",
+     "Rom 16:1-2"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 41,
+    "note": "Sails after the Days of Unleavened Bread",
+    "refs": [
+     "Acts 20:6"
+    ]
+   },
+   {
+    "placeId": "troas",
+    "order": 42,
+    "note": "Eutychus raised",
+    "refs": [
+     "Acts 20:6-12"
+    ]
+   },
+   {
+    "placeId": "assos",
+    "order": 43,
+    "note": "Walks overland and rejoins the ship",
+    "refs": [
+     "Acts 20:13-14"
+    ]
+   },
+   {
+    "placeId": "mitylene",
+    "order": 44,
+    "note": "Overnight stop on Lesbos",
+    "refs": [
+     "Acts 20:14"
+    ]
+   },
+   {
+    "placeId": "miletus",
+    "order": 45,
+    "note": "Farewell to the Ephesian elders",
+    "refs": [
+     "Acts 20:15-38"
+    ]
+   },
+   {
+    "placeId": "rhodes",
+    "order": 46,
+    "note": "Passes Cos and Rhodes",
+    "refs": [
+     "Acts 21:1"
+    ]
+   },
+   {
+    "placeId": "patara",
+    "order": 47,
+    "note": "Changes ship for Phoenicia",
+    "refs": [
+     "Acts 21:1-2"
+    ]
+   },
+   {
+    "placeId": "tyre",
+    "order": 48,
+    "note": "Seven days with disciples",
+    "refs": [
+     "Acts 21:3-6"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 49,
+    "note": "At Philip's house; Agabus binds himself with Paul's belt",
+    "refs": [
+     "Acts 21:8-14"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 50,
+    "year": 57,
+    "note": "Meets James; arrested in the temple",
+    "refs": [
+     "Acts 21:17-36"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 51,
+    "note": "Two years' custody under Felix and Festus",
+    "refs": [
+     "Acts 23:31-26:32"
+    ]
+   },
+   {
+    "placeId": "sidon",
+    "order": 52,
+    "year": 59,
+    "note": "Voyage to Rome: allowed to visit friends",
+    "refs": [
+     "Acts 27:3"
+    ]
+   },
+   {
+    "placeId": "fair-havens",
+    "order": 53,
+    "note": "Paul warns against sailing on",
+    "refs": [
+     "Acts 27:8-12"
+    ]
+   },
+   {
+    "placeId": "crete",
+    "order": 54,
+    "note": "Storm drives the ship off Crete",
+    "refs": [
+     "Acts 27:13-20"
+    ]
+   },
+   {
+    "placeId": "malta",
+    "order": 55,
+    "note": "Shipwreck; viper; Publius's father healed; three months",
+    "refs": [
+     "Acts 27:39-28:11"
+    ]
+   },
+   {
+    "placeId": "syracuse",
+    "order": 56,
+    "year": 60,
+    "note": "Three days in Sicily",
+    "refs": [
+     "Acts 28:12"
+    ]
+   },
+   {
+    "placeId": "rhegium",
+    "order": 57,
+    "note": "Waits for a south wind",
+    "refs": [
+     "Acts 28:13"
+    ]
+   },
+   {
+    "placeId": "puteoli",
+    "order": 58,
+    "note": "Seven days with believers",
+    "refs": [
+     "Acts 28:13-14"
+    ]
+   },
+   {
+    "placeId": "three-taverns",
+    "order": 59,
+    "note": "Roman believers come to meet him",
+    "refs": [
+     "Acts 28:15"
+    ]
+   },
+   {
+    "placeId": "rome",
+    "order": 60,
+    "year": 60,
+    "note": "Two years in rented quarters under guard",
+    "refs": [
+     "Acts 28:16-31"
+    ]
+   }
+  ],
+  "summary": "Paul, also called Saul, was a Pharisee from Tarsus who persecuted the earliest followers of Jesus and then, after an encounter with the risen Christ near Damascus, became the most influential missionary and theologian of the first generation of the church. A Roman citizen at home in both Jewish and Greek worlds, he spent some three decades founding communities of Jews and Gentiles across Asia Minor, Macedonia and Greece, supporting himself by tentmaking and staying in touch with his churches through letters.\n\nThirteen New Testament letters bear his name. Seven are accepted by virtually all scholars (Romans, 1 and 2 Corinthians, Galatians, Philippians, 1 Thessalonians, Philemon); the authorship of the others is debated. These letters, the earliest Christian writings we have, argue that in Jesus's death and resurrection God has fulfilled his promises to Israel and opened his people to the nations, so that Gentiles belong by faith and the Spirit without becoming Jews through circumcision. Acts devotes more than half its length to him and narrates three missionary journeys, his arrest in Jerusalem, two years in custody at Caesarea and a perilous voyage to Rome.\n\nActs ends with Paul under house arrest in Rome. Early Christian tradition, beginning with 1 Clement, holds that he was executed there under Nero. His reading of the gospel has shaped every major theological movement in the West, from Augustine to Luther to the New Perspective, and remains contested between traditions.",
+  "textSays": "Paul calls himself a Hebrew of Hebrews from the tribe of Benjamin, circumcised on the eighth day, a Pharisee, blameless under the law, and a former persecutor (Phil 3:5-6). Acts adds that he was born in Tarsus, a Roman citizen from birth, raised in Jerusalem under Gamaliel, and a tentmaker. He says he saw the risen Lord and was called as apostle to the Gentiles (Gal 1:15-16; 1 Cor 15:8). He lists beatings, three shipwrecks, a stoning, hunger and danger (2 Cor 11:23-28), and a thorn in the flesh he asked to have removed (2 Cor 12:7-9). He hoped to visit Rome and go on to Spain (Rom 15:24). Acts ends with him preaching in Rome under guard; no biblical text records his death, though 2 Tim 4:6-8 presents him as expecting it.",
+  "interpretations": [
+   {
+    "tradition": "Catholic",
+    "view": "Paul is the great apostle alongside Peter; together they are the founders of the Roman church, sharing a feast on 29 June. Justification is read as God's making the sinner truly righteous through grace received in baptism and lived out in faith working through love (Gal 5:6). Paul's letters are read within the tradition and teaching office of the church."
+   },
+   {
+    "tradition": "Orthodox",
+    "view": "Paul is honored as equal of the apostles and read through the Greek Fathers, especially John Chrysostom. Emphasis falls on union with Christ, participation in his death and resurrection, and theosis, with justification one facet of salvation rather than its organizing center."
+   },
+   {
+    "tradition": "Lutheran and Reformed",
+    "view": "Paul's letters, especially Romans and Galatians, are the clearest statement of the gospel: sinners are justified by grace alone through faith alone on account of Christ's righteousness imputed to them, apart from works of the law. Luther's and Calvin's commentaries made this the hinge of the Reformation."
+   },
+   {
+    "tradition": "New Perspective on Paul (E. P. Sanders, J. D. G. Dunn, N. T. Wright)",
+    "view": "Second Temple Judaism was not a religion of earning salvation but of covenantal grace. Paul's critique of works of the law targets markers that separated Jews from Gentiles (circumcision, food laws, Sabbath); his main concern is that Jews and Gentiles form one family in Christ. Critics respond that Paul also opposes human achievement in general (Rom 4:4-5); defenders reply that they do not deny this, only that it is not the main front."
+   },
+   {
+    "tradition": "Paul within Judaism (e.g. Pamela Eisenbaum, Mark Nanos, Paula Fredriksen)",
+    "view": "Paul never left Judaism; he remained a law-observant Jew whose mission was to bring Gentiles to Israel's God without making them Jews. Critics answer that passages like Phil 3:7-8 and 1 Cor 9:20-21 show a more radical relativizing of the law; proponents read these as statements about status, not abandonment of practice."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Relentless endurance under hardship",
+    "Theological depth and pastoral warmth in letters",
+    "Ability to cross cultural boundaries",
+    "Supported himself so as not to burden churches"
+   ],
+   "failures": [
+    "Violent persecution of the church before conversion, which he never minimized (1 Cor 15:9)",
+    "Sharp break with Barnabas over John Mark",
+    "Combative tone toward opponents (Gal 5:12)"
+   ],
+   "turningPoints": [
+    "The Damascus road",
+    "Barnabas bringing him to Antioch",
+    "The Spirit's commission at Antioch",
+    "The Jerusalem council",
+    "Crossing into Macedonia",
+    "Arrest in the temple and appeal to Caesar"
+   ]
+  },
+  "context": "Tarsus was a major Hellenistic city and center of Stoic learning. Diaspora Jews like Paul's family could hold Roman citizenship, which gave legal protections (no flogging without trial, appeal to Caesar). Paul travelled Roman roads and shipping lanes and normally began in synagogues, where God-fearing Gentiles provided a bridge. The date of his ministry is anchored by the Gallio inscription at Delphi, which places Gallio's proconsulship of Achaia in about 51-52. Authorship of Ephesians, Colossians and 2 Thessalonians is debated, and most critical scholars regard 1 and 2 Timothy and Titus as written in his name after his death; traditional scholars defend Pauline authorship of all thirteen, often appealing to the use of secretaries (Rom 16:22) and to a release and second imprisonment.",
+  "legacy": "Paul's letters became the core of the New Testament epistolary canon and were already being collected and called hard to understand by the time of 2 Pet 3:15-16. Marcion in the 2nd century made Paul his sole apostle; Irenaeus and others answered by reading him with the other apostles. Augustine's reading of Romans shaped Western theology of grace; Luther's and Calvin's shaped Protestantism; Karl Barth's Romans commentary (1919) launched 20th-century neo-orthodoxy. His missionary method shaped modern missions.",
+  "traditions": [
+   {
+    "text": "Paul preached in east and west, taught righteousness to the whole world, reached the limit of the west, and bore witness before rulers before departing the world.",
+    "source": "1 Clement 5 (c. 96)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Paul was beheaded in Rome under Nero, on the same occasion as or near the time of Peter's death; Eusebius cites Gaius of Rome on the trophies (tombs) of the apostles on the Vatican hill and the Ostian Way, and Dionysius of Corinth on their martyrdom.",
+    "source": "Eusebius, Ecclesiastical History 2.25",
+    "confidence": "tradition"
+   },
+   {
+    "text": "After defending himself, Paul was released and went on preaching before a second Roman imprisonment and death.",
+    "source": "Eusebius, Ecclesiastical History 2.22",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Paul died by beheading, like John the Baptist.",
+    "source": "Tertullian, Prescription Against Heretics 36",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was a short man, bald, bow-legged, with eyebrows meeting and a somewhat hooked nose, full of grace.",
+    "source": "Acts of Paul and Thecla 3 (2nd century; locator needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His execution took place at Aquae Salviae (Tre Fontane) on the Ostian Way, and he was buried where the Basilica of St. Paul Outside the Walls now stands.",
+    "source": "Later Roman tradition (site tradition needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Intense, argumentative and affectionate by turns; thinks aloud in rapid questions and answers (What then shall we say?), quotes Scripture constantly, boasts only in weakness, and calls his converts his children.",
+  "refs": [
+   "Acts 7:58",
+   "Acts 8:1-3",
+   "Acts 9:1-30",
+   "Acts 11:25-30",
+   "Acts 13:1-28:31",
+   "Gal 1:11-2:14",
+   "Phil 3:4-11",
+   "2 Cor 11:21-12:10",
+   "1 Cor 15:8-10",
+   "Rom 15:22-29",
+   "2 Tim 4:6-8",
+   "2 Pet 3:15-16"
+  ],
+  "books": [
+   "Acts",
+   "Rom",
+   "1 Cor",
+   "2 Cor",
+   "Gal",
+   "Eph",
+   "Phil",
+   "Col",
+   "1 Thess",
+   "2 Thess",
+   "1 Tim",
+   "2 Tim",
+   "Titus",
+   "Phlm",
+   "2 Pet"
+  ]
+ },
+ {
+  "id": "barnabas",
+  "names": {
+   "primary": "Barnabas",
+   "original": "Barnabas (Greek, from Aramaic bar + a disputed second element)",
+   "meaning": "Son of encouragement (Luke's gloss, Acts 4:36)",
+   "aliases": [
+    "Joseph (Joses)",
+    "Joseph Barnabas"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "died": {
+   "year": 61,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "Latest point he is known alive (1 Cor 9:6); later date unknown",
+     "year": 54
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 30,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 54,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "tribe": "Levi",
+  "nation": "Cypriot Jew",
+  "placeIds": [
+   "cyprus",
+   "jerusalem",
+   "antioch-syria",
+   "tarsus",
+   "salamis",
+   "paphos",
+   "perga",
+   "antioch-pisidia",
+   "iconium",
+   "lystra",
+   "derbe"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "apostle",
+   "prophet and teacher at Antioch",
+   "missionary",
+   "mentor to Paul and John Mark"
+  ],
+  "occupations": [
+   "apostle",
+   "landowner"
+  ],
+  "skills": [
+   {
+    "name": "Bridge-building and advocacy",
+    "refs": [
+     "Acts 9:26-27",
+     "Acts 15:37-39"
+    ]
+   },
+   {
+    "name": "Teaching",
+    "refs": [
+     "Acts 11:26",
+     "Acts 13:1"
+    ]
+   },
+   {
+    "name": "Supported himself by work",
+    "refs": [
+     "1 Cor 9:6"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Encouragement (exhortation)",
+    "refs": [
+     "Acts 4:36",
+     "Acts 11:23"
+    ]
+   },
+   {
+    "name": "Prophet and teacher",
+    "refs": [
+     "Acts 13:1"
+    ]
+   },
+   {
+    "name": "Generosity",
+    "refs": [
+     "Acts 4:36-37"
+    ]
+   },
+   {
+    "name": "Signs and wonders",
+    "refs": [
+     "Acts 14:3",
+     "Acts 15:12"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Sells a field and gives the proceeds",
+    "year": 31,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 4:36-37"
+    ],
+    "summary": "Joseph, a Levite from Cyprus whom the apostles call Barnabas, sells land and lays the money at the apostles' feet. Luke sets him as the positive example before the story of Ananias and Sapphira."
+   },
+   {
+    "title": "Vouches for the converted Saul",
+    "year": 37,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 9:26-27"
+    ],
+    "summary": "When the Jerusalem disciples fear Saul, Barnabas takes him to the apostles and tells how he had seen the Lord and preached boldly in Damascus."
+   },
+   {
+    "title": "Sent to Antioch; fetches Saul",
+    "year": 44,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 11:22-26"
+    ],
+    "summary": "The Jerusalem church sends him to investigate the mixed church at Antioch. He rejoices at what he sees, exhorts them, then goes to Tarsus to find Saul. They teach together for a year; there the disciples are first called Christians."
+   },
+   {
+    "title": "Famine relief to Judea",
+    "year": 46,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 11:27-30",
+     "Acts 12:25"
+    ],
+    "summary": "After Agabus predicts famine, the Antioch disciples send relief to the elders in Judea by Barnabas and Saul, who return with John Mark."
+   },
+   {
+    "title": "Set apart for the first mission",
+    "year": 46,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 13:1-4"
+    ],
+    "summary": "Listed first among Antioch's prophets and teachers, Barnabas is set apart with Saul by the Holy Spirit and sent out, first to his home island of Cyprus."
+   },
+   {
+    "title": "Hailed as Zeus at Lystra",
+    "year": 47,
+    "placeId": "lystra",
+    "refs": [
+     "Acts 14:8-18"
+    ],
+    "summary": "After a lame man is healed the crowd calls Barnabas Zeus and Paul Hermes, and a priest prepares sacrifice. The two tear their clothes and insist they are human."
+   },
+   {
+    "title": "Defends Gentile freedom at the Jerusalem council",
+    "year": 49,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 15:2",
+     "Acts 15:12",
+     "Acts 15:25-26",
+     "Gal 2:9"
+    ],
+    "summary": "With Paul he reports God's signs among the Gentiles; the council's letter calls them beloved men who risked their lives. James, Cephas and John give them the right hand of fellowship."
+   },
+   {
+    "title": "Carried away at Antioch",
+    "placeId": "antioch-syria",
+    "refs": [
+     "Gal 2:13"
+    ],
+    "summary": "When Peter withdraws from table fellowship with Gentiles, Paul says that even Barnabas was carried away by the hypocrisy."
+   },
+   {
+    "title": "Sharp disagreement with Paul over Mark",
+    "year": 50,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 15:36-39",
+     "Col 4:10"
+    ],
+    "summary": "Barnabas wants to take his cousin John Mark again; Paul refuses because Mark had left them in Pamphylia. The disagreement is sharp, and Barnabas sails with Mark to Cyprus. Acts does not mention him again."
+   },
+   {
+    "title": "Still remembered as a working apostle",
+    "year": 54,
+    "refs": [
+     "1 Cor 9:6"
+    ],
+    "summary": "Writing to Corinth, Paul names Barnabas alongside himself as an apostle who works for a living rather than accepting support, suggesting continued respect."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "cyprus",
+    "order": 1,
+    "note": "Home island; a Levite of Cypriot birth",
+    "refs": [
+     "Acts 4:36"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 2,
+    "note": "Member of the earliest church",
+    "refs": [
+     "Acts 4:37",
+     "Acts 9:27"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 3,
+    "note": "Sent by Jerusalem to Antioch",
+    "refs": [
+     "Acts 11:22"
+    ]
+   },
+   {
+    "placeId": "tarsus",
+    "order": 4,
+    "note": "Goes to look for Saul",
+    "refs": [
+     "Acts 11:25"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 5,
+    "note": "Teaches a year with Saul",
+    "refs": [
+     "Acts 11:26"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 6,
+    "note": "Famine relief",
+    "refs": [
+     "Acts 11:30"
+    ]
+   },
+   {
+    "placeId": "salamis",
+    "order": 7,
+    "note": "First journey begins on Cyprus",
+    "refs": [
+     "Acts 13:4-5"
+    ]
+   },
+   {
+    "placeId": "paphos",
+    "order": 8,
+    "note": "Sergius Paulus believes",
+    "refs": [
+     "Acts 13:6-12"
+    ]
+   },
+   {
+    "placeId": "perga",
+    "order": 9,
+    "note": "Mark departs",
+    "refs": [
+     "Acts 13:13"
+    ]
+   },
+   {
+    "placeId": "antioch-pisidia",
+    "order": 10,
+    "note": "Turn to the Gentiles",
+    "refs": [
+     "Acts 13:46"
+    ]
+   },
+   {
+    "placeId": "iconium",
+    "order": 11,
+    "note": "Flee a plot",
+    "refs": [
+     "Acts 14:1-6"
+    ]
+   },
+   {
+    "placeId": "lystra",
+    "order": 12,
+    "note": "Called Zeus",
+    "refs": [
+     "Acts 14:12"
+    ]
+   },
+   {
+    "placeId": "derbe",
+    "order": 13,
+    "note": "Furthest point",
+    "refs": [
+     "Acts 14:20"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 14,
+    "note": "Return and report",
+    "refs": [
+     "Acts 14:26-28"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 15,
+    "note": "Council",
+    "refs": [
+     "Acts 15:2"
+    ]
+   },
+   {
+    "placeId": "cyprus",
+    "order": 16,
+    "note": "Sails with Mark after parting from Paul",
+    "refs": [
+     "Acts 15:39"
+    ]
+   }
+  ],
+  "summary": "Barnabas, a Levite from Cyprus named Joseph, was one of the most trusted leaders of the early Jerusalem church. The apostles nicknamed him Son of Encouragement, and Acts shows him living up to it: he gave the proceeds of a field to the community, vouched for Saul when others were afraid of him, and was sent to Antioch to examine the new Jewish-Gentile church, where he rejoiced, encouraged it and brought Saul in to teach.\n\nWith Paul he led the first mission from Antioch through Cyprus and southern Asia Minor, and with Paul he argued at the Jerusalem council that Gentile believers should not be required to be circumcised. Luke calls both men apostles (Acts 14:14). Early on Barnabas is named first, then the order shifts to Paul and Barnabas as Paul becomes the main speaker.\n\nTheir partnership ended over whether to give John Mark, Barnabas's cousin, a second chance. Barnabas took Mark to Cyprus and disappears from Acts, but Paul later speaks of him with respect and later reconciles with Mark, suggesting Barnabas's patience was vindicated.",
+  "textSays": "Acts calls him a good man, full of the Holy Spirit and faith (Acts 11:24), a Levite of Cypriot birth, a prophet and teacher, and an apostle. Paul says he was carried away by Peter's withdrawal from Gentiles at Antioch (Gal 2:13) and that he worked for his living (1 Cor 9:6). Col 4:10 identifies Mark as his cousin.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honored as an apostle (though not of the Twelve) and founder of the Church of Cyprus, whose autocephaly was confirmed in 488 after the reported discovery of his relics. Feast 11 June."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Commonly held up as a model of encouragement and mentoring: he saw potential in Saul and in Mark when others did not. The split with Paul is often read as a case where both men acted in good faith and God used the result to double the mission."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Some see in Gal 2:13 a more serious rupture between Paul and Barnabas over table fellowship than Acts's account of a personal dispute about Mark; others think Luke and Paul are describing different aspects of the same strained relationship."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Generosity",
+    "Discernment of people",
+    "Willingness to step back as Paul grew",
+    "Loyalty to Mark"
+   ],
+   "failures": [
+    "Swayed by the withdrawal from Gentile table fellowship (Gal 2:13)",
+    "Sharp quarrel with Paul"
+   ],
+   "turningPoints": [
+    "Selling his field",
+    "Vouching for Saul",
+    "Mission to Antioch",
+    "Parting from Paul"
+   ]
+  },
+  "context": "Cyprus had a substantial Jewish community. As a Levite owning land, Barnabas illustrates that the old restriction on Levitical land ownership was no longer strictly observed in the diaspora. Antioch, the third city of the Roman empire, became under his leadership the base for the Gentile mission.",
+  "legacy": "An early Christian writing, the *Epistle of Barnabas* (c. 100-130), was attributed to him by Clement of Alexandria, though modern scholars regard it as pseudonymous. Tertullian attributed the Letter to the Hebrews to him. Cyprus regards him as its founder and patron.",
+  "traditions": [
+   {
+    "text": "Barnabas was stoned to death at Salamis in Cyprus by Jews opposed to his preaching, and Mark buried him.",
+    "source": "Acts of Barnabas (5th century; locator needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His tomb was revealed near Salamis in 488 with a copy of Matthew's Gospel on his chest, strengthening Cyprus's claim to independence from Antioch.",
+    "source": "Theodore Lector, Ecclesiastical History (needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Barnabas wrote the Letter to the Hebrews.",
+    "source": "Tertullian, On Modesty 20",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was one of the seventy disciples sent out by Jesus.",
+    "source": "Clement of Alexandria, Stromata 2.20, cited in Eusebius, Ecclesiastical History 1.12.1 (locator needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Generous, steady and kind; speaks up for people others are wary of, prefers to encourage before correcting, and does not mind letting someone else do the talking.",
+  "refs": [
+   "Acts 4:36-37",
+   "Acts 9:26-27",
+   "Acts 11:19-30",
+   "Acts 12:25",
+   "Acts 13:1-14:28",
+   "Acts 15:1-39",
+   "Gal 2:1-13",
+   "1 Cor 9:6",
+   "Col 4:10"
+  ],
+  "books": [
+   "Acts",
+   "Gal",
+   "1 Cor",
+   "Col"
+  ]
+ },
+ {
+  "id": "silas",
+  "names": {
+   "primary": "Silas",
+   "original": "Silas (Greek form of an Aramaic name); Silvanus (Latin)",
+   "meaning": "Possibly from Aramaic sh'ila, asked; Silvanus: of the forest",
+   "aliases": [
+    "Silvanus"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 49,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Jewish; Roman citizen",
+  "placeIds": [
+   "jerusalem",
+   "antioch-syria",
+   "philippi",
+   "thessalonica",
+   "berea",
+   "corinth"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "leader in the Jerusalem church",
+   "prophet",
+   "Paul's missionary partner",
+   "co-sender of letters",
+   "letter carrier or secretary"
+  ],
+  "occupations": [
+   "missionary"
+  ],
+  "skills": [
+   {
+    "name": "Trusted courier of church letters",
+    "refs": [
+     "Acts 15:22-27",
+     "1 Pet 5:12"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Prophecy and exhortation",
+    "refs": [
+     "Acts 15:32"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Carries the council's letter to Antioch",
+    "year": 49,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 15:22-33"
+    ],
+    "summary": "Chosen as a leading man among the brothers, he and Judas Barsabbas deliver the Jerusalem decision and, as prophets, encourage the believers."
+   },
+   {
+    "title": "Chosen as Paul's partner",
+    "year": 50,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 15:40-41"
+    ],
+    "summary": "After the split with Barnabas, Paul takes Silas through Syria and Cilicia."
+   },
+   {
+    "title": "Beaten and jailed at Philippi",
+    "placeId": "philippi",
+    "refs": [
+     "Acts 16:19-40"
+    ],
+    "summary": "He and Paul are flogged and put in stocks; at midnight they pray and sing hymns, an earthquake opens the doors, and the jailer believes. Both are revealed to be Roman citizens."
+   },
+   {
+    "title": "Mission in Thessalonica, Berea and Corinth",
+    "placeId": "corinth",
+    "refs": [
+     "Acts 17:4",
+     "Acts 17:10-15",
+     "Acts 18:5",
+     "2 Cor 1:19"
+    ],
+    "summary": "He stays behind in Berea with Timothy, rejoins Paul in Corinth and preaches there. Paul later names him among those who proclaimed Christ to the Corinthians."
+   },
+   {
+    "title": "Named as co-sender and helper",
+    "refs": [
+     "1 Thess 1:1",
+     "2 Thess 1:1",
+     "1 Pet 5:12"
+    ],
+    "summary": "Silvanus is co-sender of both Thessalonian letters. 1 Peter says it was written through Silvanus, a faithful brother, which may mean he was the secretary or the bearer."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "jerusalem",
+    "order": 1,
+    "note": "A leader in the Jerusalem church",
+    "refs": [
+     "Acts 15:22"
+    ]
+   },
+   {
+    "placeId": "antioch-syria",
+    "order": 2,
+    "note": "Delivers the council letter",
+    "refs": [
+     "Acts 15:30-32"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 3,
+    "note": "Jailed with Paul",
+    "refs": [
+     "Acts 16:23-25"
+    ]
+   },
+   {
+    "placeId": "thessalonica",
+    "order": 4,
+    "note": "Church founded",
+    "refs": [
+     "Acts 17:1-4"
+    ]
+   },
+   {
+    "placeId": "berea",
+    "order": 5,
+    "note": "Stays behind with Timothy",
+    "refs": [
+     "Acts 17:14"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 6,
+    "note": "Rejoins Paul",
+    "refs": [
+     "Acts 18:5"
+    ]
+   }
+  ],
+  "summary": "Silas was a prophet and respected leader in the Jerusalem church who was sent to Antioch with the council's decision and then chose to travel with Paul on the second missionary journey. Like Paul a Roman citizen, he shared the beating and imprisonment at Philippi and helped found the churches of Thessalonica, Berea and Corinth. In the letters he appears under his Latin name Silvanus as co-sender of 1 and 2 Thessalonians, and 1 Peter says it was written through him, which links him to both Paul and Peter.",
+  "textSays": "Acts calls him a leading man among the brothers and a prophet; Paul and Peter call him Silvanus. Most scholars identify Silas and Silvanus as one person, since they share Paul's company in the same places at the same time.",
+  "interpretations": [
+   {
+    "tradition": "Orthodox and Catholic",
+    "view": "Counted among the seventy disciples in Eastern lists and honored as a saint; feast 13 July (West) and 30 July (East)."
+   },
+   {
+    "tradition": "Scholarship on 1 Peter",
+    "view": "Some argue that writing through Silvanus means he drafted the letter, which would explain its polished Greek; others argue the Greek phrase usually means the letter carrier (as in Ignatius's letters) and so says nothing about composition."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Later Eastern tradition makes Silas bishop of Corinth.",
+    "source": "Pseudo-Dorotheus lists of the seventy (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Steady and musical, a man who sings in prison; an authoritative Jerusalem voice who can reassure Gentile churches that the mother church stands with them.",
+  "refs": [
+   "Acts 15:22-41",
+   "Acts 16:19-40",
+   "Acts 17:1-15",
+   "Acts 18:5",
+   "2 Cor 1:19",
+   "1 Thess 1:1",
+   "2 Thess 1:1",
+   "1 Pet 5:12"
+  ],
+  "books": [
+   "Acts",
+   "2 Cor",
+   "1 Thess",
+   "2 Thess",
+   "1 Pet"
+  ]
+ },
+ {
+  "id": "timothy",
+  "names": {
+   "primary": "Timothy",
+   "original": "Timotheos (Greek)",
+   "meaning": "Honoring God",
+   "aliases": [
+    "Timotheus"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "born": {
+   "year": 25,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Younger estimate based on his youth in 1 Tim 4:12",
+     "year": 30
+    }
+   ]
+  },
+  "died": {
+   "year": 97,
+   "circa": true,
+   "confidence": "tradition",
+   "alternatives": [
+    {
+     "label": "Unknown; tradition only",
+     "year": 80
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 49,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 65,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Son of a Jewish mother and Greek father, from Lystra",
+  "placeIds": [
+   "lystra",
+   "philippi",
+   "thessalonica",
+   "berea",
+   "athens",
+   "corinth",
+   "ephesus",
+   "macedonia",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Paul's co-worker",
+   "envoy to churches",
+   "co-sender of six letters",
+   "leader of the church at Ephesus"
+  ],
+  "occupations": [
+   "missionary",
+   "pastor"
+  ],
+  "skills": [
+   {
+    "name": "Knew the Scriptures from childhood",
+    "refs": [
+     "2 Tim 3:15"
+    ]
+   },
+   {
+    "name": "Trusted envoy and troubleshooter",
+    "refs": [
+     "1 Cor 4:17",
+     "Phil 2:19-22",
+     "1 Thess 3:1-6"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "A gift given through prophecy and the laying on of hands",
+    "refs": [
+     "1 Tim 4:14",
+     "2 Tim 1:6"
+    ]
+   },
+   {
+    "name": "Evangelist",
+    "refs": [
+     "2 Tim 4:5"
+    ]
+   },
+   {
+    "name": "Pastoral care",
+    "refs": [
+     "Phil 2:20"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Joins Paul at Lystra",
+    "year": 50,
+    "placeId": "lystra",
+    "refs": [
+     "Acts 16:1-3"
+    ],
+    "summary": "A well-regarded disciple whose mother was a Jewish believer and father a Greek, Timothy is chosen by Paul, who circumcises him because of the Jews in the area who knew his father was Greek."
+   },
+   {
+    "title": "Faith learned from grandmother and mother",
+    "refs": [
+     "2 Tim 1:5",
+     "2 Tim 3:14-15"
+    ],
+    "summary": "Paul recalls the sincere faith that lived first in Timothy's grandmother Lois and mother Eunice, and that he had known the sacred writings from childhood."
+   },
+   {
+    "title": "Founding work in Macedonia and Achaia",
+    "year": 50,
+    "placeId": "berea",
+    "refs": [
+     "Acts 17:14-15",
+     "Acts 18:5"
+    ],
+    "summary": "He stays with Silas in Berea, then rejoins Paul and helps in Corinth."
+   },
+   {
+    "title": "Sent back to strengthen the Thessalonians",
+    "year": 50,
+    "placeId": "thessalonica",
+    "refs": [
+     "1 Thess 3:1-6"
+    ],
+    "summary": "Paul, unable to bear the uncertainty, sends Timothy from Athens to establish the persecuted church; he returns with good news of their faith and love."
+   },
+   {
+    "title": "Envoy to Corinth",
+    "year": 54,
+    "placeId": "corinth",
+    "refs": [
+     "1 Cor 4:17",
+     "1 Cor 16:10-11",
+     "Acts 19:22"
+    ],
+    "summary": "Paul sends his beloved and faithful child in the Lord to remind the Corinthians of his ways, and asks them to make sure he has nothing to fear among them."
+   },
+   {
+    "title": "Travels with the collection",
+    "year": 57,
+    "placeId": "macedonia",
+    "refs": [
+     "Acts 20:4",
+     "Rom 16:21"
+    ],
+    "summary": "He is among the delegates accompanying Paul toward Jerusalem and sends greetings in Romans as Paul's fellow worker."
+   },
+   {
+    "title": "With Paul in prison",
+    "placeId": "rome",
+    "refs": [
+     "Phil 1:1",
+     "Phil 2:19-22",
+     "Col 1:1",
+     "Phlm 1:1"
+    ],
+    "summary": "Co-sender of Philippians, Colossians and Philemon. Paul says he has no one else like him, who will genuinely care for the Philippians' welfare, and that he served with Paul like a son with a father."
+   },
+   {
+    "title": "Left in charge at Ephesus",
+    "placeId": "ephesus",
+    "refs": [
+     "1 Tim 1:3-4",
+     "1 Tim 4:12-16"
+    ],
+    "summary": "1 Timothy has Paul urging him to stay in Ephesus to stop certain people teaching different doctrine, and tells him not to let anyone despise his youth."
+   },
+   {
+    "title": "Summoned to Paul before his death",
+    "refs": [
+     "2 Tim 4:9-13",
+     "2 Tim 4:21"
+    ],
+    "summary": "2 Timothy asks him to come quickly before winter, bringing Mark, a cloak left at Troas, and the books and parchments."
+   },
+   {
+    "title": "Released from prison",
+    "refs": [
+     "Heb 13:23"
+    ],
+    "summary": "Hebrews reports that our brother Timothy has been set free, the only hint that he too was imprisoned."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "lystra",
+    "order": 1,
+    "note": "Home town; recruited by Paul",
+    "refs": [
+     "Acts 16:1-3"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 2,
+    "note": "With Paul's team in Macedonia",
+    "refs": [
+     "Acts 16:12",
+     "Phil 2:22"
+    ]
+   },
+   {
+    "placeId": "berea",
+    "order": 3,
+    "note": "Remains with Silas",
+    "refs": [
+     "Acts 17:14"
+    ]
+   },
+   {
+    "placeId": "athens",
+    "order": 4,
+    "note": "Sent from Athens to Thessalonica",
+    "refs": [
+     "1 Thess 3:1-2"
+    ]
+   },
+   {
+    "placeId": "thessalonica",
+    "order": 5,
+    "note": "Strengthens the persecuted church",
+    "refs": [
+     "1 Thess 3:2-6"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 6,
+    "note": "Rejoins Paul",
+    "refs": [
+     "Acts 18:5"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 7,
+    "note": "With Paul during the Ephesian ministry",
+    "refs": [
+     "Acts 19:22"
+    ]
+   },
+   {
+    "placeId": "macedonia",
+    "order": 8,
+    "note": "Sent ahead to Macedonia",
+    "refs": [
+     "Acts 19:22"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 9,
+    "note": "With Paul when Romans is written",
+    "refs": [
+     "Rom 16:21"
+    ]
+   },
+   {
+    "placeId": "troas",
+    "order": 10,
+    "note": "Goes ahead and waits at Troas",
+    "refs": [
+     "Acts 20:4-5"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 11,
+    "note": "Leads the church there",
+    "refs": [
+     "1 Tim 1:3"
+    ]
+   }
+  ],
+  "summary": "Timothy was Paul's closest and longest-serving co-worker. Raised in Lystra by a Jewish mother and grandmother who taught him the Scriptures, with a Greek father, he joined Paul on the second missionary journey and stayed with him for the rest of Paul's life. Paul called him his beloved child in the faith and said he had no one else like him.\n\nTimothy served as Paul's envoy to troubled churches, strengthening the Thessalonians under persecution, representing Paul in Corinth and being promised to the Philippians. He is co-sender of six of Paul's letters. Two letters are addressed to him, portraying him as a relatively young leader in Ephesus charged with confronting false teachers and ordering church life.\n\nHis circumcision by Paul (Acts 16:3) has long puzzled readers, since Paul refused to have Titus circumcised (Gal 2:3); most explain the difference by Timothy's Jewish mother, which made him Jewish in the eyes of local synagogues.",
+  "textSays": "Acts calls him a disciple well spoken of by the believers at Lystra and Iconium, son of a believing Jewish woman and a Greek father. The letters name his grandmother Lois and mother Eunice, describe him as Paul's child and fellow worker, speak of a gift given through prophecy and laying on of hands, urge him not to let others despise his youth, mention frequent ailments for which he should take a little wine (1 Tim 5:23), and suggest timidity (1 Cor 16:10; 2 Tim 1:7).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honored as the first bishop of Ephesus and a martyr. The Pastoral Letters addressed to him are read as foundational for the ordained ministry and the transmission of apostolic teaching. Feast 26 January (with Titus, Roman calendar) and 22 January (East)."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Timothy is a model of a second-generation leader formed by family faith and mentoring. Those who accept Pauline authorship of the Pastorals see real snapshots of Timothy's ministry; many critical Protestant scholars see the Pastorals as later writings that use Timothy as an ideal figure of the faithful successor."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Some scholars doubt the historicity of Timothy's circumcision in Acts 16:3, given Paul's own statements against circumcising Gentiles; others note that matrilineal descent may already have been the norm and that Paul's principle in 1 Cor 9:20 fits the account."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Faithfulness and reliability",
+    "Genuine care for churches",
+    "Long endurance in Paul's company"
+   ],
+   "failures": [
+    "Possibly timid or easily intimidated (1 Cor 16:10-11; 2 Tim 1:7)",
+    "Health problems"
+   ],
+   "turningPoints": [
+    "Recruitment at Lystra",
+    "Mission to Thessalonica",
+    "Charge to lead at Ephesus",
+    "Final summons to Paul"
+   ]
+  },
+  "context": "Mixed marriages between Jews and Gentiles were uncommon but known in the diaspora. Lystra was a Roman colony in Lycaonia. The Pastoral Letters' authorship and date are debated, which affects how much of Timothy's later life can be reconstructed.",
+  "legacy": "The two letters bearing his name have shaped church order, ordination and pastoral theology across traditions. Timothy has become the type of the young minister mentored by an older one.",
+  "traditions": [
+   {
+    "text": "Timothy was the first bishop appointed to the church at Ephesus.",
+    "source": "Eusebius, Ecclesiastical History 3.4.5",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He was beaten to death by a crowd at Ephesus after opposing a pagan festival procession, around the end of the 1st century.",
+    "source": "Acts of Timothy (5th century; needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His relics were moved to the Church of the Holy Apostles in Constantinople in 356.",
+    "source": "Jerome and later chroniclers (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Earnest, gentle and loyal; a little reserved and unsure of his authority, but speaks with conviction when he talks about the Scriptures his mother and grandmother taught him and about Paul.",
+  "refs": [
+   "Acts 16:1-3",
+   "Acts 17:14-15",
+   "Acts 18:5",
+   "Acts 19:22",
+   "Acts 20:4",
+   "Rom 16:21",
+   "1 Cor 4:17",
+   "1 Cor 16:10-11",
+   "2 Cor 1:1",
+   "Phil 1:1",
+   "Phil 2:19-22",
+   "Col 1:1",
+   "1 Thess 1:1",
+   "1 Thess 3:1-6",
+   "2 Thess 1:1",
+   "1 Tim 1:2-3",
+   "2 Tim 1:2-7",
+   "Phlm 1:1",
+   "Heb 13:23"
+  ],
+  "books": [
+   "Acts",
+   "Rom",
+   "1 Cor",
+   "2 Cor",
+   "Phil",
+   "Col",
+   "1 Thess",
+   "2 Thess",
+   "1 Tim",
+   "2 Tim",
+   "Phlm",
+   "Heb"
+  ]
+ },
+ {
+  "id": "titus",
+  "names": {
+   "primary": "Titus",
+   "original": "Titos (Greek, from Latin Titus)",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 48,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 65,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Greek (uncircumcised Gentile)",
+  "placeIds": [
+   "antioch-syria",
+   "jerusalem",
+   "corinth",
+   "macedonia",
+   "crete"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Paul's co-worker",
+   "envoy to Corinth",
+   "organizer of the collection",
+   "leader of churches in Crete"
+  ],
+  "occupations": [
+   "missionary",
+   "pastor"
+  ],
+  "skills": [
+   {
+    "name": "Reconciler in a tense church situation",
+    "refs": [
+     "2 Cor 7:6-15"
+    ]
+   },
+   {
+    "name": "Administration of the collection",
+    "refs": [
+     "2 Cor 8:6",
+     "2 Cor 8:16-23"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Pastoral oversight",
+    "refs": [
+     "Titus 1:5"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Test case at Jerusalem",
+    "placeId": "jerusalem",
+    "refs": [
+     "Gal 2:1-5"
+    ],
+    "summary": "Paul brings the uncircumcised Greek Titus to Jerusalem; he is not compelled to be circumcised, which Paul presents as a defense of the gospel's freedom."
+   },
+   {
+    "title": "Carries out the reconciliation with Corinth",
+    "placeId": "macedonia",
+    "refs": [
+     "2 Cor 2:12-13",
+     "2 Cor 7:5-16"
+    ],
+    "summary": "Paul, anxious when he cannot find Titus at Troas, goes to Macedonia, where Titus arrives with news that the Corinthians have repented, which comforts Paul."
+   },
+   {
+    "title": "Organizes the collection",
+    "placeId": "corinth",
+    "refs": [
+     "2 Cor 8:6",
+     "2 Cor 8:16-23",
+     "2 Cor 12:18"
+    ],
+    "summary": "Paul sends Titus back to complete the gift for Jerusalem, calling him his partner and fellow worker."
+   },
+   {
+    "title": "Left in Crete to appoint elders",
+    "placeId": "crete",
+    "refs": [
+     "Titus 1:4-5",
+     "Titus 3:12"
+    ],
+    "summary": "The letter to Titus says Paul left him in Crete to put things in order and appoint elders in every town, then to join Paul at Nicopolis."
+   },
+   {
+    "title": "Goes to Dalmatia",
+    "refs": [
+     "2 Tim 4:10"
+    ],
+    "summary": "2 Timothy notes that Titus has gone to Dalmatia."
+   }
+  ],
+  "summary": "Titus was a Gentile convert and one of Paul's most capable co-workers. Paul took him uncircumcised to Jerusalem as a living test of Gentile freedom, and later relied on him for the most delicate assignment of his ministry: restoring relations with the Corinthian church and completing the collection for Jerusalem. The letter addressed to him places him in Crete organizing churches and appointing elders. Oddly, Acts never mentions him; some have suggested he was Luke's brother, which would explain the silence, but that is speculation.",
+  "textSays": "Paul calls him a Greek, his true child in a common faith, partner and fellow worker. He brought Paul comfort in Macedonia and showed affection for the Corinthians. The letter to Titus places him in Crete; 2 Timothy places him in Dalmatia.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honored as first bishop of Crete; feast 26 January (with Timothy) in the West and 25 August in the East."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Seen as a model of a reliable Gentile leader; the letter to Titus is read as a short manual for elders and Christian conduct, with debate over its authorship as with the other Pastorals."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Titus was appointed bishop of the churches in Crete.",
+    "source": "Eusebius, Ecclesiastical History 3.4.5",
+    "confidence": "tradition"
+   },
+   {
+    "text": "He died in old age in Crete; his head was later venerated at Gortyn and is now kept at Heraklion.",
+    "source": "Cretan church tradition (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Firm, capable and diplomatic; a Greek who knows what it is to be the outsider and who can deliver hard messages without losing people's affection.",
+  "refs": [
+   "Gal 2:1-5",
+   "2 Cor 2:12-13",
+   "2 Cor 7:5-16",
+   "2 Cor 8:6",
+   "2 Cor 8:16-23",
+   "2 Cor 12:18",
+   "Titus 1:4-5",
+   "Titus 3:12",
+   "2 Tim 4:10"
+  ],
+  "books": [
+   "Gal",
+   "2 Cor",
+   "2 Tim",
+   "Titus"
+  ]
+ },
+ {
+  "id": "luke",
+  "names": {
+   "primary": "Luke",
+   "original": "Loukas (Greek, short form of Latin Lucanus or Lucius)",
+   "meaning": "Of Lucania; light-giving (popular etymology)",
+   "aliases": [
+    "Luke the physician",
+    "Luke the Evangelist"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "born": {
+   "year": 10,
+   "circa": true,
+   "confidence": "speculative"
+  },
+  "died": {
+   "year": 94,
+   "circa": true,
+   "confidence": "speculative",
+   "alternatives": [
+    {
+     "label": "Tradition gives his age at death as 84; with an earlier birth the year falls earlier",
+     "year": 85,
+     "source": "Anti-Marcionite Prologue to Luke (needs verification)"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 50,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 85,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Probably Gentile (debated); tradition: Syrian of Antioch",
+  "placeIds": [
+   "antioch-syria",
+   "troas",
+   "philippi",
+   "jerusalem",
+   "caesarea-maritima",
+   "malta",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "physician",
+   "companion of Paul",
+   "author of Luke and Acts (traditional)",
+   "historian"
+  ],
+  "occupations": [
+   "physician",
+   "author"
+  ],
+  "skills": [
+   {
+    "name": "Medicine",
+    "refs": [
+     "Col 4:14"
+    ]
+   },
+   {
+    "name": "Historical research and narrative writing",
+    "refs": [
+     "Luke 1:1-4",
+     "Acts 1:1-2"
+    ]
+   },
+   {
+    "name": "Seafaring knowledge (detailed voyage narrative)",
+    "refs": [
+     "Acts 27:1-44"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Faithful companionship",
+    "refs": [
+     "2 Tim 4:11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Writes an orderly account for Theophilus",
+    "refs": [
+     "Luke 1:1-4"
+    ],
+    "summary": "The author of the Third Gospel says many had compiled narratives from eyewitnesses and that he, having followed everything carefully from the start, decided to write an orderly account so Theophilus might know the certainty of what he had been taught."
+   },
+   {
+    "title": "We-passage begins at Troas",
+    "year": 50,
+    "placeId": "troas",
+    "refs": [
+     "Acts 16:10-17"
+    ],
+    "summary": "After Paul's vision of the Macedonian, Acts suddenly shifts to we: we sought to go into Macedonia. The narrator is present at Lydia's conversion in Philippi. Tradition reads this as Luke joining Paul."
+   },
+   {
+    "title": "Rejoins Paul from Philippi to Jerusalem",
+    "year": 57,
+    "placeId": "philippi",
+    "refs": [
+     "Acts 20:5-21:18"
+    ],
+    "summary": "The we-narrative resumes at Philippi and follows the voyage via Troas, Miletus, Tyre and Caesarea to Jerusalem, where we went in with Paul to James."
+   },
+   {
+    "title": "Voyage and shipwreck with Paul",
+    "year": 59,
+    "placeId": "malta",
+    "refs": [
+     "Acts 27:1-28:16"
+    ],
+    "summary": "The most detailed sea narrative in ancient literature, told in the first person, follows Paul from Caesarea through storm and shipwreck on Malta to Rome."
+   },
+   {
+    "title": "With Paul in Roman custody",
+    "placeId": "rome",
+    "refs": [
+     "Col 4:14",
+     "Phlm 1:24"
+    ],
+    "summary": "Paul sends greetings from Luke the beloved physician and lists Luke among his fellow workers."
+   },
+   {
+    "title": "Only Luke is with me",
+    "refs": [
+     "2 Tim 4:11"
+    ],
+    "summary": "In 2 Timothy, with others gone or deserted, Paul says only Luke is with him."
+   },
+   {
+    "title": "Writes the Acts of the Apostles",
+    "refs": [
+     "Acts 1:1-2"
+    ],
+    "summary": "The second volume, again addressed to Theophilus, picks up from the ascension and follows the church from Jerusalem to Rome."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "troas",
+    "order": 1,
+    "year": 50,
+    "note": "First we-passage",
+    "refs": [
+     "Acts 16:10-11"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 2,
+    "note": "Present at the founding of the church; we-passage stops here",
+    "refs": [
+     "Acts 16:12-17"
+    ]
+   },
+   {
+    "placeId": "philippi",
+    "order": 3,
+    "year": 57,
+    "note": "We-passage resumes",
+    "refs": [
+     "Acts 20:5-6"
+    ]
+   },
+   {
+    "placeId": "miletus",
+    "order": 4,
+    "note": "With Paul at the farewell",
+    "refs": [
+     "Acts 20:15-17"
+    ]
+   },
+   {
+    "placeId": "jerusalem",
+    "order": 5,
+    "note": "Goes in with Paul to James",
+    "refs": [
+     "Acts 21:17-18"
+    ]
+   },
+   {
+    "placeId": "caesarea-maritima",
+    "order": 6,
+    "note": "Sets sail with Paul",
+    "refs": [
+     "Acts 27:1-2"
+    ]
+   },
+   {
+    "placeId": "malta",
+    "order": 7,
+    "note": "Shipwrecked",
+    "refs": [
+     "Acts 28:1"
+    ]
+   },
+   {
+    "placeId": "rome",
+    "order": 8,
+    "year": 60,
+    "note": "And so we came to Rome",
+    "refs": [
+     "Acts 28:14-16"
+    ]
+   }
+  ],
+  "summary": "Luke is named three times in Paul's letters, as the beloved physician, a fellow worker, and the one companion who stayed with Paul at the end. From the 2nd century on, the church has unanimously identified him as the author of the Gospel of Luke and the Acts of the Apostles, which together make up more than a quarter of the New Testament, more than any other single author.\n\nThe two volumes are addressed to Theophilus and present themselves as careful research based on eyewitness tradition. The sudden switch to we in parts of Acts (the we-passages) has traditionally been read as Luke's own travel diary, placing him with Paul from Troas to Philippi, from Philippi to Jerusalem, and on the voyage to Rome. Luke's writing shows special interest in prayer, the Holy Spirit, women, the poor, Samaritans and Gentiles, and in the orderly spread of the gospel from Jerusalem to Rome.\n\nWhether the author really was Paul's companion is debated: some critical scholars point to differences between Acts and Paul's letters, while others find the we-passages and the early, uniform attribution persuasive.",
+  "textSays": "Paul calls Luke the beloved physician (Col 4:14), a fellow worker (Phlm 1:24), and says only Luke is with him (2 Tim 4:11). Neither the Gospel nor Acts names its author. In Col 4:10-14 Paul lists the only Jewish co-workers (those of the circumcision) before naming Luke, which many read as implying Luke was a Gentile.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Luke is the evangelist and author of Acts, a companion of Paul who also drew on Mary's testimony for the infancy narratives. Orthodox tradition honors him as the first icon-painter. Feast 18 October."
+   },
+   {
+    "tradition": "Conservative Protestant",
+    "view": "The unanimous early attribution, the we-passages and the medical-sounding vocabulary noted by W. K. Hobart (1882, much criticized since) are taken to confirm Luke's authorship and the high historical value of Acts."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many scholars hold that Luke-Acts was written c. 80-90 by an educated Gentile or God-fearer, possibly but not certainly Paul's companion. Differences with Paul's letters (e.g. the number of Jerusalem visits, Paul's view of the law) and the possibility that the we-style is a literary device are cited. Defenders answer that companions need not agree on everything and that a literary we would be unusual in ancient historiography without a claim to presence."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Careful research",
+    "Loyalty to Paul to the end",
+    "Skill as a storyteller and historian"
+   ],
+   "failures": [
+    "None recorded"
+   ],
+   "turningPoints": [
+    "Joining Paul at Troas",
+    "Voyage to Rome",
+    "Staying with Paul when others left"
+   ]
+  },
+  "context": "Physicians in the Roman world were often educated slaves or freedmen. Ancient historians like Thucydides and Polybius valued eyewitness inquiry, a standard Luke's preface echoes. Luke's dating is debated: an early date (c. 62) is argued from Acts ending before Paul's trial; a later date (c. 80-90) from Luke's use of Mark and apparent knowledge of Jerusalem's fall (Luke 21:20).",
+  "legacy": "Luke gave the church the Christmas story of the shepherds and the manger, the parables of the Good Samaritan and the Prodigal Son, the Magnificat, Benedictus and Nunc Dimittis, the ascension and Pentecost narratives, and the only account of the church's first generation. He is patron saint of physicians and artists.",
+  "traditions": [
+   {
+    "text": "Luke, the follower of Paul, set down in a book the gospel Paul preached.",
+    "source": "Irenaeus, Against Heresies 3.1.1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Luke was a physician whom Paul took with him, who wrote the Gospel in his own name though he had not seen the Lord in the flesh.",
+    "source": "Muratorian Fragment (late 2nd century, date debated)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Luke was by birth an Antiochene and a physician who spent much time with Paul.",
+    "source": "Eusebius, Ecclesiastical History 3.4.6",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Luke served the Lord without distraction, had neither wife nor children, and died at 84 in Boeotia, full of the Holy Spirit.",
+    "source": "Anti-Marcionite Prologue to Luke (date debated; needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Luke painted icons of the Virgin Mary.",
+    "source": "Theodore Lector, 6th century (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Measured, observant and precise, the voice of a careful researcher and physician; tells stories well, notices outsiders, and prefers to keep himself in the background.",
+  "refs": [
+   "Luke 1:1-4",
+   "Acts 1:1-2",
+   "Acts 16:10-17",
+   "Acts 20:5-21:18",
+   "Acts 27:1-28:16",
+   "Col 4:14",
+   "Phlm 1:24",
+   "2 Tim 4:11"
+  ],
+  "books": [
+   "Luke",
+   "Acts",
+   "Col",
+   "Phlm",
+   "2 Tim"
+  ]
+ },
+ {
+  "id": "john-mark",
+  "names": {
+   "primary": "John Mark",
+   "original": "Ioannes (Hebrew Yohanan) and Markos (Latin Marcus)",
+   "meaning": "John: the LORD is gracious; Marcus: Roman name",
+   "aliases": [
+    "Mark",
+    "Mark the Evangelist"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 44,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 68,
+    "circa": true,
+    "confidence": "tradition"
+   }
+  ],
+  "nation": "Jerusalem Jew",
+  "placeIds": [
+   "jerusalem",
+   "antioch-syria",
+   "cyprus",
+   "perga",
+   "rome",
+   "alexandria"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "assistant to Barnabas and Paul",
+   "companion of Peter",
+   "author of the Gospel of Mark (traditional)"
+  ],
+  "occupations": [
+   "missionary",
+   "author"
+  ],
+  "skills": [
+   {
+    "name": "Assistant (hyperetes) in mission",
+    "refs": [
+     "Acts 13:5"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Useful for ministry",
+    "refs": [
+     "2 Tim 4:11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Mother's house is a meeting place",
+    "year": 44,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:12"
+    ],
+    "summary": "When Peter is freed from prison he goes to the house of Mary, mother of John called Mark, where many are praying."
+   },
+   {
+    "title": "Joins Barnabas and Saul, then turns back",
+    "year": 47,
+    "placeId": "perga",
+    "refs": [
+     "Acts 12:25",
+     "Acts 13:5",
+     "Acts 13:13"
+    ],
+    "summary": "He goes to Antioch and serves as assistant on the first journey, but leaves at Perga and returns to Jerusalem."
+   },
+   {
+    "title": "Cause of the Paul-Barnabas split",
+    "year": 50,
+    "placeId": "cyprus",
+    "refs": [
+     "Acts 15:37-39"
+    ],
+    "summary": "Paul refuses to take him again; Barnabas, his cousin (Col 4:10), takes him to Cyprus."
+   },
+   {
+    "title": "Reconciled with Paul",
+    "placeId": "rome",
+    "refs": [
+     "Col 4:10",
+     "Phlm 1:24",
+     "2 Tim 4:11"
+    ],
+    "summary": "Later Paul lists Mark as a fellow worker and asks Timothy to bring him, because he is useful for ministry."
+   },
+   {
+    "title": "With Peter in Babylon",
+    "placeId": "rome",
+    "refs": [
+     "1 Pet 5:13"
+    ],
+    "summary": "1 Peter sends greetings from Mark my son, from the church in Babylon, commonly understood as a code name for Rome."
+   }
+  ],
+  "summary": "John Mark was a young Jerusalem believer whose mother's house was a gathering place for the church. He set out with his cousin Barnabas and Paul on the first missionary journey but turned back at Perga, which led Paul to refuse him on the next journey and caused the break between Paul and Barnabas. He later regained Paul's trust and appears with both Paul and Peter in Rome. Early tradition, beginning with Papias, identifies him as Peter's interpreter and the author of the Gospel of Mark.",
+  "textSays": "Acts names him John called Mark and son of Mary of Jerusalem; Colossians calls him Barnabas's cousin; 1 Peter calls him my son. Whether all New Testament references to Mark are the same person is assumed by most but not certain.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Mark is the Evangelist, interpreter of Peter, founder and first bishop of the church of Alexandria, and martyr. Feast 25 April."
+   },
+   {
+    "tradition": "Coptic Orthodox",
+    "view": "Revered as the founder of the Coptic Church; the Coptic pope is reckoned his successor."
+   },
+   {
+    "tradition": "Critical scholarship",
+    "view": "Many accept that a Mark wrote the Gospel, given the unlikelihood of attributing it to a minor figure without reason, but debate whether he was John Mark and how direct Peter's influence was. The young man who fled naked in Mark 14:51-52 is sometimes identified with Mark himself, a speculative but old suggestion."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Mark, having become Peter's interpreter, wrote down accurately, though not in order, what he remembered of the Lord's sayings and deeds.",
+    "source": "Papias, quoted in Eusebius, Ecclesiastical History 3.39.15",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Mark was the first sent to Egypt to preach the Gospel he had written and founded churches in Alexandria.",
+    "source": "Eusebius, Ecclesiastical History 2.16",
+    "confidence": "tradition"
+   },
+   {
+    "text": "His relics were taken from Alexandria to Venice in 828, where St. Mark's Basilica was built to house them.",
+    "source": "Venetian chronicle tradition",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Quick, vivid and direct, fond of the word immediately; a man who once quit and knows what it is to be given a second chance.",
+  "refs": [
+   "Acts 12:12",
+   "Acts 12:25",
+   "Acts 13:5",
+   "Acts 13:13",
+   "Acts 15:37-39",
+   "Col 4:10",
+   "Phlm 1:24",
+   "2 Tim 4:11",
+   "1 Pet 5:13"
+  ],
+  "books": [
+   "Acts",
+   "Col",
+   "Phlm",
+   "2 Tim",
+   "1 Pet",
+   "Mark"
+  ]
+ },
+ {
+  "id": "lydia",
+  "names": {
+   "primary": "Lydia",
+   "original": "Lydia (Greek)",
+   "meaning": "Woman of Lydia (a region of Asia Minor)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 50,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 50,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "From Thyatira; God-fearing Gentile",
+  "placeIds": [
+   "thyatira",
+   "philippi"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "first named convert in Europe",
+   "host of the Philippian church"
+  ],
+  "occupations": [
+   "seller of purple cloth"
+  ],
+  "skills": [
+   {
+    "name": "Trade in purple-dyed goods",
+    "refs": [
+     "Acts 16:14"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Hospitality",
+    "refs": [
+     "Acts 16:15",
+     "Acts 16:40"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Baptized at the riverside prayer place",
+    "year": 50,
+    "placeId": "philippi",
+    "refs": [
+     "Acts 16:13-15"
+    ],
+    "summary": "A worshipper of God from Thyatira and a dealer in purple goods, Lydia listens to Paul by the river outside Philippi; the Lord opens her heart, she and her household are baptized, and she persuades the missionaries to stay at her house."
+   },
+   {
+    "title": "Her house becomes the church's base",
+    "placeId": "philippi",
+    "refs": [
+     "Acts 16:40"
+    ],
+    "summary": "After their release from prison Paul and Silas go to Lydia's house, see the brothers and encourage them."
+   }
+  ],
+  "summary": "Lydia was a businesswoman from Thyatira trading in purple dye or cloth, and a Gentile worshipper of Israel's God. She became the first named convert in Europe when Paul preached at a riverside place of prayer in Philippi, and she opened her home as the base of the new church.",
+  "textSays": "Acts says she was a seller of purple goods from Thyatira, worshipped God, had a household that was baptized with her, and hosted Paul's team and the believers. No husband is mentioned.",
+  "interpretations": [
+   {
+    "tradition": "Catholic, Orthodox and Anglican",
+    "view": "Honored as a saint (in the East as Equal-to-the-Apostles); feast 3 August (West, varies) or 20 May (East)."
+   },
+   {
+    "tradition": "Social-historical scholarship",
+    "view": "Debate whether she was a wealthy merchant or a freedwoman in a smelly, low-status dyeing trade; either way she headed her own household, which shows women's leadership in Paul's churches. Some suggest Lydia is an ethnic nickname (the Lydian woman), which Thyatira's location in Lydia supports."
+   }
+  ],
+  "voice": "Practical, decisive and hospitable; a trader who knows her own mind and does not take no for an answer when she invites someone home.",
+  "refs": [
+   "Acts 16:13-15",
+   "Acts 16:40"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "priscilla",
+  "names": {
+   "primary": "Priscilla",
+   "original": "Priskilla (Greek diminutive of Latin Prisca)",
+   "meaning": "Little Prisca; Prisca: ancient, venerable",
+   "aliases": [
+    "Prisca"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 49,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Jewish (probably); resident of Rome",
+  "placeIds": [
+   "rome",
+   "corinth",
+   "ephesus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "aquila"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "co-worker of Paul",
+   "teacher of Apollos",
+   "host of house churches"
+  ],
+  "occupations": [
+   "tentmaker"
+  ],
+  "skills": [
+   {
+    "name": "Tentmaking (leatherwork)",
+    "refs": [
+     "Acts 18:2-3"
+    ]
+   },
+   {
+    "name": "Teaching and explaining the way of God",
+    "refs": [
+     "Acts 18:26"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Teaching",
+    "refs": [
+     "Acts 18:26"
+    ]
+   },
+   {
+    "name": "Hospitality and leadership of a house church",
+    "refs": [
+     "Rom 16:5",
+     "1 Cor 16:19"
+    ]
+   },
+   {
+    "name": "Courage",
+    "refs": [
+     "Rom 16:4"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Expelled from Rome under Claudius",
+    "year": 49,
+    "placeId": "rome",
+    "refs": [
+     "Acts 18:2"
+    ],
+    "summary": "Priscilla and her husband Aquila have recently come from Italy because Claudius ordered all Jews to leave Rome."
+   },
+   {
+    "title": "Takes Paul in at Corinth",
+    "year": 50,
+    "placeId": "corinth",
+    "refs": [
+     "Acts 18:1-3"
+    ],
+    "summary": "Paul stays and works with them because they share the trade of tentmaking."
+   },
+   {
+    "title": "Moves with Paul to Ephesus",
+    "year": 52,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:18-19"
+    ],
+    "summary": "They sail with Paul and remain in Ephesus while he travels on. Here Priscilla is named before her husband."
+   },
+   {
+    "title": "Explains the way of God to Apollos",
+    "year": 52,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:24-26"
+    ],
+    "summary": "When the eloquent Apollos, knowing only John's baptism, speaks boldly in the synagogue, Priscilla and Aquila take him aside and explain the way of God more accurately."
+   },
+   {
+    "title": "Church meets in their house at Ephesus",
+    "year": 54,
+    "placeId": "ephesus",
+    "refs": [
+     "1 Cor 16:19"
+    ],
+    "summary": "Paul sends greetings to Corinth from Aquila and Prisca together with the church in their house."
+   },
+   {
+    "title": "Risked their necks for Paul; back in Rome",
+    "year": 57,
+    "placeId": "rome",
+    "refs": [
+     "Rom 16:3-5"
+    ],
+    "summary": "Paul greets Prisca and Aquila first in Romans, calling them fellow workers who risked their necks for his life, to whom all the Gentile churches give thanks, and greets the church in their house."
+   },
+   {
+    "title": "Greeted in Paul's last letter",
+    "placeId": "ephesus",
+    "refs": [
+     "2 Tim 4:19"
+    ],
+    "summary": "2 Timothy sends greetings to Prisca and Aquila, apparently back in Ephesus."
+   }
+  ],
+  "journey": [
+   {
+    "placeId": "rome",
+    "order": 1,
+    "note": "Living in Rome until Claudius's expulsion",
+    "refs": [
+     "Acts 18:2"
+    ]
+   },
+   {
+    "placeId": "corinth",
+    "order": 2,
+    "year": 50,
+    "note": "Host and co-worker of Paul",
+    "refs": [
+     "Acts 18:2-3"
+    ]
+   },
+   {
+    "placeId": "cenchreae",
+    "order": 3,
+    "note": "Sail with Paul",
+    "refs": [
+     "Acts 18:18"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 4,
+    "year": 52,
+    "note": "Teach Apollos; house church",
+    "refs": [
+     "Acts 18:19",
+     "Acts 18:26",
+     "1 Cor 16:19"
+    ]
+   },
+   {
+    "placeId": "rome",
+    "order": 5,
+    "year": 57,
+    "note": "House church in Rome",
+    "refs": [
+     "Rom 16:3-5"
+    ]
+   },
+   {
+    "placeId": "ephesus",
+    "order": 6,
+    "note": "Greeted there in 2 Timothy",
+    "refs": [
+     "2 Tim 4:19"
+    ]
+   }
+  ],
+  "summary": "Priscilla, called Prisca by Paul, was with her husband Aquila one of the most important missionary couples of the early church. Expelled from Rome when Claudius ordered Jews out of the city, they settled in Corinth, where Paul lived and worked with them as a fellow tentmaker. They then moved to Ephesus ahead of Paul's long ministry there, and later returned to Rome. In each city a church met in their home.\n\nThe couple are mentioned six times, always together, and in four of the six Priscilla is named first, which was unusual in the ancient world and suggests she was the more prominent of the two in the church or of higher social rank. Acts records that both of them took the gifted preacher Apollos aside and explained the way of God to him more accurately, one of the few New Testament scenes of a woman teaching a man about doctrine.\n\nPaul says they risked their necks for him and that all the churches of the Gentiles were grateful to them. Their mobility, trade and household leadership make them a window into how the gospel spread through ordinary work and homes.",
+  "textSays": "Priscilla and Aquila are always mentioned together. Priscilla is named first in Acts 18:18, Acts 18:26, Rom 16:3 and 2 Tim 4:19; Aquila first in Acts 18:2 and 1 Cor 16:19. Acts says Aquila was a Jew from Pontus; Priscilla's origin is not stated. Both explained the way of God to Apollos. Paul calls them fellow workers in Christ Jesus.",
+  "interpretations": [
+   {
+    "tradition": "Egalitarian Protestant",
+    "view": "Priscilla's precedence and her role in teaching Apollos show that women taught and led in the apostolic church; this is weighed against texts such as 1 Tim 2:12 to argue those restrictions were local or situational."
+   },
+   {
+    "tradition": "Complementarian Protestant",
+    "view": "Priscilla is honored as a gifted teacher, but her instruction of Apollos was private, alongside her husband, and in their home, not an exercise of authoritative church office; this is held to be consistent with 1 Tim 2:12. Egalitarians reply that the text does not mark the setting as private versus public in a way that bears on office."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated with Aquila as saints and martyrs; feast 8 July (West) and 13 February (East). Roman tradition links her to the Catacomb of Priscilla and the church of Santa Prisca on the Aventine, though these probably refer to other women of the name."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Her name being placed first is usually explained either by higher social status (perhaps freeborn or of a noble Roman family) or by greater prominence in ministry. Adolf von Harnack (1900) proposed her as the author of Hebrews; the suggestion is speculative and has few followers, partly because Heb 11:32 uses a masculine participle of the author."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Courage in risking her life",
+    "Clear understanding of the gospel",
+    "Generosity in opening her home in three cities",
+    "Partnership in marriage and ministry"
+   ],
+   "failures": [
+    "None recorded"
+   ],
+   "turningPoints": [
+    "Expulsion from Rome",
+    "Meeting Paul in Corinth",
+    "Teaching Apollos",
+    "Return to Rome"
+   ]
+  },
+  "context": "Suetonius (*Claudius* 25.4) reports that Claudius expelled Jews from Rome because of disturbances at the instigation of Chrestus, often taken as a garbled reference to disputes over Christ; Orosius dates it to Claudius's ninth year, AD 49. Tentmakers worked with leather and cloth, and their portable trade let them move between cities. House churches were the normal form of Christian gathering for the first three centuries.",
+  "legacy": "Priscilla is one of the most frequently cited figures in modern discussions of women in ministry and a model of a couple sharing work, home and mission.",
+  "traditions": [
+   {
+    "text": "John Chrysostom, preaching on Romans, praised Priscilla and noted that Paul named her before her husband because of her greater zeal.",
+    "source": "John Chrysostom, Homilies on Romans 30 (locator needs verification)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Priscilla and Aquila were martyred together, in Rome or Asia Minor.",
+    "source": "Later martyrologies (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Confident, gracious and clear; a working woman who is used to running a household church and can correct a brilliant preacher over dinner without crushing him.",
+  "refs": [
+   "Acts 18:1-3",
+   "Acts 18:18-19",
+   "Acts 18:24-26",
+   "Rom 16:3-5",
+   "1 Cor 16:19",
+   "2 Tim 4:19"
+  ],
+  "books": [
+   "Acts",
+   "Rom",
+   "1 Cor",
+   "2 Tim"
+  ]
+ },
+ {
+  "id": "aquila",
+  "names": {
+   "primary": "Aquila",
+   "original": "Akylas (Greek form of Latin Aquila)",
+   "meaning": "Eagle",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 49,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Jew from Pontus",
+  "placeIds": [
+   "rome",
+   "corinth",
+   "ephesus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [
+    "priscilla"
+   ],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "co-worker of Paul",
+   "host of house churches"
+  ],
+  "occupations": [
+   "tentmaker"
+  ],
+  "skills": [
+   {
+    "name": "Tentmaking (leatherwork)",
+    "refs": [
+     "Acts 18:3"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Teaching",
+    "refs": [
+     "Acts 18:26"
+    ]
+   },
+   {
+    "name": "Hospitality",
+    "refs": [
+     "1 Cor 16:19"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Leaves Rome under Claudius's edict",
+    "year": 49,
+    "placeId": "rome",
+    "refs": [
+     "Acts 18:2"
+    ],
+    "summary": "A Jew born in Pontus, he arrives in Corinth with Priscilla after Claudius expelled the Jews from Rome."
+   },
+   {
+    "title": "Works with Paul in Corinth",
+    "year": 50,
+    "placeId": "corinth",
+    "refs": [
+     "Acts 18:3"
+    ],
+    "summary": "Paul lodges and works with the couple as a fellow tentmaker."
+   },
+   {
+    "title": "Instructs Apollos in Ephesus",
+    "year": 52,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:26"
+    ],
+    "summary": "With Priscilla he takes Apollos aside and explains the way of God more accurately."
+   },
+   {
+    "title": "Hosts churches in Ephesus and Rome",
+    "refs": [
+     "1 Cor 16:19",
+     "Rom 16:3-5"
+    ],
+    "summary": "Paul greets the church in their house in both cities and says they risked their necks for him."
+   }
+  ],
+  "summary": "Aquila was a Jewish tentmaker from Pontus on the Black Sea who, with his wife Priscilla, became Paul's co-worker and host. Expelled from Rome under Claudius, the couple worked alongside Paul in Corinth, moved to Ephesus, taught Apollos, and later returned to Rome, with churches meeting in their homes. He never appears without Priscilla.",
+  "textSays": "Acts calls him a Jew, a native of Pontus, and a tentmaker. He is always mentioned with Priscilla, and Paul calls them both fellow workers who risked their lives for him.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated with Priscilla; Eastern lists count him among the seventy and make him a bishop (sometimes of Heraclea)."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Seen with Priscilla as a model of bivocational, home-based ministry."
+   }
+  ],
+  "voice": "Plain-spoken and hardworking, a craftsman more at home with an awl than a lectern, who lets his wife take the lead when it comes to talking.",
+  "refs": [
+   "Acts 18:2-3",
+   "Acts 18:18-19",
+   "Acts 18:26",
+   "Rom 16:3-5",
+   "1 Cor 16:19",
+   "2 Tim 4:19"
+  ],
+  "books": [
+   "Acts",
+   "Rom",
+   "1 Cor",
+   "2 Tim"
+  ]
+ },
+ {
+  "id": "apollos",
+  "names": {
+   "primary": "Apollos",
+   "original": "Apollos (Greek, short for Apollonius)",
+   "meaning": "Belonging to Apollo",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 52,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 64,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Alexandrian Jew",
+  "placeIds": [
+   "alexandria",
+   "ephesus",
+   "achaia",
+   "corinth",
+   "crete"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "teacher and preacher",
+   "leader in the Corinthian church"
+  ],
+  "occupations": [
+   "teacher"
+  ],
+  "skills": [
+   {
+    "name": "Eloquence and command of the Scriptures",
+    "refs": [
+     "Acts 18:24"
+    ]
+   },
+   {
+    "name": "Public debate",
+    "refs": [
+     "Acts 18:28"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Fervent in spirit; teaching",
+    "refs": [
+     "Acts 18:25"
+    ]
+   },
+   {
+    "name": "Watering what Paul planted",
+    "refs": [
+     "1 Cor 3:6"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Preaches in Ephesus knowing only John's baptism",
+    "year": 52,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:24-25"
+    ],
+    "summary": "An eloquent Jew from Alexandria, mighty in the Scriptures, he teaches accurately about Jesus but knows only the baptism of John."
+   },
+   {
+    "title": "Taught by Priscilla and Aquila",
+    "year": 52,
+    "placeId": "ephesus",
+    "refs": [
+     "Acts 18:26"
+    ],
+    "summary": "The couple take him aside and explain the way of God more accurately."
+   },
+   {
+    "title": "Strengthens believers in Achaia",
+    "year": 53,
+    "placeId": "corinth",
+    "refs": [
+     "Acts 18:27-28",
+     "Acts 19:1"
+    ],
+    "summary": "With letters of recommendation he goes to Achaia, helps those who had believed through grace and powerfully refutes the Jews in public, showing from the Scriptures that the Christ is Jesus."
+   },
+   {
+    "title": "Becomes a party name in Corinth",
+    "year": 54,
+    "placeId": "corinth",
+    "refs": [
+     "1 Cor 1:12",
+     "1 Cor 3:4-9",
+     "1 Cor 4:6"
+    ],
+    "summary": "Some Corinthians say I follow Apollos against others who follow Paul. Paul answers that both are only servants: I planted, Apollos watered, but God gave the growth."
+   },
+   {
+    "title": "Declines to return to Corinth for now",
+    "placeId": "ephesus",
+    "refs": [
+     "1 Cor 16:12",
+     "Titus 3:13"
+    ],
+    "summary": "Paul strongly urged him to visit Corinth, but he was not willing at that time. Later Titus is asked to help Zenas the lawyer and Apollos on their way."
+   }
+  ],
+  "summary": "Apollos was a learned and eloquent Jew from Alexandria who preached about Jesus with great energy but knew only John's baptism until Priscilla and Aquila instructed him further. He then became a powerful teacher in Corinth, so admired that some there rallied around his name against Paul's. Paul treats him as a colleague, not a rival, and urges him to return to Corinth; his reluctance may reflect a wish not to feed the factions.",
+  "textSays": "Acts describes him as an eloquent man, competent in the Scriptures, instructed in the way of the Lord, fervent in spirit, teaching accurately about Jesus though knowing only John's baptism. Paul names him as a fellow servant in 1 Corinthians and expresses no criticism of him.",
+  "interpretations": [
+   {
+    "tradition": "Protestant",
+    "view": "Martin Luther suggested Apollos as the author of Hebrews because of his Alexandrian learning and skill with Scripture; many scholars have found the idea attractive, though there is no ancient testimony for it."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Some see behind the Corinthian factions a contrast between Apollos's rhetorical, perhaps Philonic, Alexandrian style and Paul's deliberately plain preaching (1 Cor 2:1-5); others caution that Paul blames the Corinthians, not Apollos."
+   },
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Counted among the seventy in Eastern lists and honored as a saint; traditions make him bishop of various places (Corinth, Smyrna, Caesarea)."
+   }
+  ],
+  "voice": "Eloquent, learned and fervent, quick with scriptural argument in the Alexandrian style, yet humble enough to be corrected by tentmakers.",
+  "refs": [
+   "Acts 18:24-28",
+   "Acts 19:1",
+   "1 Cor 1:12",
+   "1 Cor 3:4-9",
+   "1 Cor 3:22",
+   "1 Cor 4:6",
+   "1 Cor 16:12",
+   "Titus 3:13"
+  ],
+  "books": [
+   "Acts",
+   "1 Cor",
+   "Titus"
+  ]
+ },
+ {
+  "id": "james-brother-of-jesus",
+  "names": {
+   "primary": "James, brother of the Lord",
+   "original": "Iakobos (Greek), from Hebrew Ya'akov (Jacob)",
+   "meaning": "He grasps the heel; supplanter",
+   "aliases": [
+    "James the Just",
+    "James of Jerusalem",
+    "James the Righteous",
+    "Adelphotheos (brother of God)"
+   ]
+  },
+  "tier": "major",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 62,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "Hegesippus places his martyrdom just before Vespasian's siege of Jerusalem",
+     "year": 69,
+     "source": "Hegesippus in Eusebius, Ecclesiastical History 2.23"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 62,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Galilean Jew",
+  "placeIds": [
+   "nazareth",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "jesus",
+    "jude-brother-of-jesus"
+   ]
+  },
+  "roles": [
+   "leader of the Jerusalem church",
+   "pillar",
+   "author of the Letter of James (traditional)",
+   "martyr"
+  ],
+  "occupations": [
+   "church leader"
+  ],
+  "skills": [
+   {
+    "name": "Use of Scripture to settle disputes",
+    "refs": [
+     "Acts 15:13-21"
+    ]
+   },
+   {
+    "name": "Wisdom teaching",
+    "refs": [
+     "Jas 1:5",
+     "Jas 3:13-18"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Leadership and wise judgment",
+    "refs": [
+     "Acts 15:19",
+     "Gal 2:9"
+    ]
+   },
+   {
+    "name": "Witness of the risen Christ",
+    "refs": [
+     "1 Cor 15:7"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Named among Jesus's brothers",
+    "placeId": "nazareth",
+    "refs": [
+     "Matt 13:55-56",
+     "Mark 6:3"
+    ],
+    "summary": "The people of Nazareth list James first among Jesus's brothers, with Joses (Joseph), Judas and Simon, and mention sisters."
+   },
+   {
+    "title": "Does not believe in Jesus during his ministry",
+    "refs": [
+     "John 7:3-5",
+     "Mark 3:21",
+     "Mark 3:31-35"
+    ],
+    "summary": "John says that not even his brothers believed in him; Mark records his family trying to restrain him."
+   },
+   {
+    "title": "The risen Jesus appears to him",
+    "year": 30,
+    "refs": [
+     "1 Cor 15:7"
+    ],
+    "summary": "In the early creed Paul passes on, Christ appeared to James, then to all the apostles. Many see this as the turning point that made James a believer."
+   },
+   {
+    "title": "With the disciples before Pentecost",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:14"
+    ],
+    "summary": "Jesus's brothers are in the upper room praying with the apostles and Mary."
+   },
+   {
+    "title": "Meets Paul",
+    "year": 37,
+    "placeId": "jerusalem",
+    "refs": [
+     "Gal 1:18-19"
+    ],
+    "summary": "On Paul's first visit the only apostle besides Cephas he sees is James the Lord's brother."
+   },
+   {
+    "title": "Recognized as a pillar",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:17",
+     "Gal 2:9"
+    ],
+    "summary": "Escaping prison, Peter tells the believers to report to James. James, Cephas and John, reputed pillars, give Paul and Barnabas the right hand of fellowship."
+   },
+   {
+    "title": "Gives the decision at the Jerusalem council",
+    "year": 49,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 15:13-21"
+    ],
+    "summary": "Citing Amos on the rebuilding of David's tent so that the nations may seek the Lord, James judges that Gentile converts should not be troubled with circumcision but should abstain from things polluted by idols, sexual immorality, what is strangled and blood."
+   },
+   {
+    "title": "Men from James at Antioch",
+    "placeId": "antioch-syria",
+    "refs": [
+     "Gal 2:12"
+    ],
+    "summary": "Peter withdraws from eating with Gentiles when certain men came from James; how far James himself endorsed their stance is debated."
+   },
+   {
+    "title": "Receives Paul and the collection",
+    "year": 57,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 21:17-26"
+    ],
+    "summary": "James and the elders praise God for Paul's report but warn that thousands of law-zealous Jewish believers have heard he teaches Jews to abandon Moses, and advise him to sponsor a temple vow to show otherwise."
+   },
+   {
+    "title": "Stoned in Jerusalem",
+    "year": 62,
+    "placeId": "jerusalem",
+    "refs": [
+     "Jas 1:1"
+    ],
+    "summary": "Not narrated in Scripture. Josephus reports that in the interval between the procurators Festus and Albinus, the high priest Ananus convened the Sanhedrin and had James, the brother of Jesus called Christ, stoned; fair-minded citizens protested and Ananus was deposed."
+   }
+  ],
+  "summary": "James was the eldest-named of Jesus's brothers. The Gospels indicate that he did not believe in Jesus during his ministry, but Paul records that the risen Christ appeared to him, and within a few years he had become the leading figure in the Jerusalem church. Paul names him with Peter and John as one of the pillars, and Acts shows him giving the decisive judgment at the council that freed Gentile believers from circumcision.\n\nJames represented the Jewish-Christian wing of the church, devoted to the law and respected even by non-Christian Jews for his piety, hence his nickname the Just. He sought to hold together Jewish believers zealous for the law and Paul's Gentile mission, an uneasy task reflected in the tension of Gal 2:12 and Acts 21:20-25. The Letter of James, with its emphasis on practical righteousness and faith shown in works, is traditionally attributed to him.\n\nThe Jewish historian Josephus records that he was stoned on the orders of the high priest Ananus in AD 62, one of the few events in the New Testament church independently attested by a non-Christian source.",
+  "textSays": "The Gospels call him one of Jesus's brothers (adelphoi). John 7:5 says the brothers did not believe in him. Paul calls him the Lord's brother, says the risen Christ appeared to him, and names him as a pillar. Acts shows him leading the Jerusalem church and speaking for it. The Letter of James is from James, a servant of God and of the Lord Jesus Christ, and Jude introduces himself as the brother of James. The New Testament does not record his death.",
+  "interpretations": [
+   {
+    "tradition": "Helvidian view (most Protestants and many modern scholars)",
+    "view": "James was a son of Joseph and Mary born after Jesus, so a full younger brother (half-brother in terms of Jesus's virginal conception). Adelphos most naturally means brother, and Matt 1:25 and Luke 2:7 (firstborn) are read as consistent with later children. Critics object that adelphos can cover wider kin; supporters reply that the Gospels consistently pair the brothers with Mary."
+   },
+   {
+    "tradition": "Epiphanian view (Eastern Orthodox)",
+    "view": "James was a son of Joseph by an earlier marriage, so an older stepbrother of Jesus, preserving Mary's perpetual virginity. This is attested early in the *Protevangelium of James* (2nd century) and defended by Epiphanius. Supporters note Jesus entrusted Mary to John at the cross (John 19:26-27), which would be odd if she had other sons; critics regard the earlier marriage as unattested in Scripture."
+   },
+   {
+    "tradition": "Hieronymian view (Roman Catholic)",
+    "view": "James was a cousin of Jesus, son of another Mary (Mark 15:40) and perhaps identical with James son of Alphaeus. Jerome argued this in *Against Helvidius* (c. 383), noting that Hebrew and Aramaic had no separate word for cousin. Critics observe that the New Testament has a Greek word for cousin (anepsios, Col 4:10) and that Paul distinguishes the Lord's brother from the Twelve; supporters answer that Semitic usage shaped Gospel Greek."
+   },
+   {
+    "tradition": "Reformation and Lutheran",
+    "view": "Luther famously called the Letter of James an epistle of straw relative to the chief books (1522 preface), because it seemed to contradict Paul on justification by faith; he later softened his language. Most Protestant interpreters now read James 2 and Romans 3-4 as complementary: Paul attacks works as a basis for acceptance, James attacks a faith that produces no works."
+   }
+  ],
+  "arc": {
+   "strengths": [
+    "Deep piety and integrity",
+    "Wise mediator between Jewish and Gentile believers",
+    "Respected even by outsiders"
+   ],
+   "failures": [
+    "Unbelief during Jesus's ministry",
+    "Association with those whose pressure caused Peter's withdrawal at Antioch (Gal 2:12)"
+   ],
+   "turningPoints": [
+    "Resurrection appearance",
+    "Peter's departure from Jerusalem (Acts 12:17)",
+    "The council of Acts 15",
+    "Martyrdom"
+   ]
+  },
+  "context": "Jerusalem in the 40s-60s was tense with nationalist zeal, rising violence and conflict between the priestly aristocracy and the people. Jewish believers continued to worship at the temple. James's death in 62 came during the gap between Roman governors, when the high priest could act without Roman restraint. The James ossuary (published 2002), inscribed James son of Joseph brother of Jesus, has been the subject of a forgery trial in Israel (acquittal in 2012 for lack of proof); scholars remain divided on whether the last part of the inscription is ancient.",
+  "legacy": "James became the symbol of Jewish Christianity; later Jewish-Christian groups such as the Ebionites revered him, and the Pseudo-Clementine writings exalt him above Peter. The Letter of James shaped Christian ethics on wealth, speech and care for the poor. Eastern liturgy preserves a Divine Liturgy of St. James associated with Jerusalem.",
+  "traditions": [
+   {
+    "text": "Ananus the high priest assembled the Sanhedrin and brought before them the brother of Jesus called Christ, James by name, with some others, and had them stoned.",
+    "source": "Josephus, Antiquities 20.200 (20.9.1)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "James was holy from birth, drank no wine, did not cut his hair, prayed so much in the temple that his knees became hard like a camel's, was thrown from the temple pinnacle, stoned, and finished off with a fuller's club.",
+    "source": "Hegesippus, quoted in Eusebius, Ecclesiastical History 2.23",
+    "confidence": "tradition"
+   },
+   {
+    "text": "James was chosen by the apostles as the first bishop of Jerusalem.",
+    "source": "Eusebius, Ecclesiastical History 2.1 and 2.23 (citing Clement of Alexandria and Hegesippus)",
+    "confidence": "tradition"
+   },
+   {
+    "text": "The risen Lord appeared to James, who had vowed not to eat until he saw Jesus risen, and broke bread with him.",
+    "source": "Gospel of the Hebrews, quoted in Jerome, Lives of Illustrious Men 2",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Grave, terse and proverbial, like a wisdom teacher; speaks bluntly about the rich, the tongue and empty faith, and quotes the prophets to settle arguments.",
+  "refs": [
+   "Matt 13:55-56",
+   "Mark 6:3",
+   "John 7:3-5",
+   "1 Cor 15:7",
+   "Acts 1:14",
+   "Acts 12:17",
+   "Acts 15:13-21",
+   "Acts 21:17-26",
+   "Gal 1:19",
+   "Gal 2:9",
+   "Gal 2:12",
+   "1 Cor 9:5",
+   "Jas 1:1",
+   "Jude 1:1"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "John",
+   "Acts",
+   "1 Cor",
+   "Gal",
+   "Jas",
+   "Jude"
+  ]
+ },
+ {
+  "id": "jude-brother-of-jesus",
+  "names": {
+   "primary": "Jude, brother of the Lord",
+   "original": "Ioudas (Greek), from Hebrew Yehudah",
+   "meaning": "Praise",
+   "aliases": [
+    "Judas",
+    "Judas brother of James"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 30,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 70,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "nation": "Galilean Jew",
+  "placeIds": [
+   "nazareth",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": [
+    "jesus",
+    "james-brother-of-jesus"
+   ]
+  },
+  "roles": [
+   "brother of Jesus",
+   "travelling missionary",
+   "author of the Letter of Jude (traditional)"
+  ],
+  "occupations": [
+   "missionary"
+  ],
+  "skills": [
+   {
+    "name": "Use of Jewish scripture and tradition in exhortation",
+    "refs": [
+     "Jude 1:5-16"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Exhortation to contend for the faith",
+    "refs": [
+     "Jude 1:3"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Named among Jesus's brothers",
+    "placeId": "nazareth",
+    "refs": [
+     "Matt 13:55",
+     "Mark 6:3"
+    ],
+    "summary": "Judas is listed with James, Joses and Simon as a brother of Jesus."
+   },
+   {
+    "title": "With the believers in Jerusalem",
+    "year": 30,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 1:14"
+    ],
+    "summary": "Jesus's brothers join the apostles in prayer after the ascension."
+   },
+   {
+    "title": "The Lord's brothers travel with wives",
+    "refs": [
+     "1 Cor 9:5"
+    ],
+    "summary": "Paul refers to the brothers of the Lord taking believing wives along on mission journeys, implying Jude was a married itinerant missionary."
+   },
+   {
+    "title": "Writes to contend for the faith",
+    "refs": [
+     "Jude 1:1-25"
+    ],
+    "summary": "The short letter introduces its author as Jude, a servant of Jesus Christ and brother of James, and warns against intruders who pervert grace into license, citing Enoch and the Assumption of Moses traditions."
+   }
+  ],
+  "summary": "Jude (Judas) was one of the brothers of Jesus named in the Gospels. Like his brothers he seems not to have believed during Jesus's ministry, but he was among the believers in Jerusalem after the resurrection and, according to Paul, among the Lord's brothers who travelled as missionaries with their wives. The Letter of Jude is traditionally his; its author modestly calls himself brother of James rather than of Jesus. His relationship to Jesus is understood in the same three ways as James's (full brother, stepbrother or cousin).",
+  "textSays": "He is named as a brother of Jesus in Matt 13:55 and Mark 6:3. The letter's author calls himself brother of James. Jude 1:9 and Jude 1:14-15 draw on traditions found in the Assumption of Moses and 1 Enoch.",
+  "interpretations": [
+   {
+    "tradition": "Catholic",
+    "view": "Often identified with the apostle Jude Thaddaeus (Luke 6:16, Judas of James), venerated as patron of desperate causes; many modern Catholic scholars distinguish the two."
+   },
+   {
+    "tradition": "Protestant and critical scholarship",
+    "view": "Usually distinguished from the apostle. Scholars divide on whether the letter is authentic (it is short, Jewish in idiom and pre-dates 2 Peter, which uses it) or pseudonymous from late in the 1st century."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Grandsons of Jude, the Lord's brother according to the flesh, were brought before Emperor Domitian as descendants of David, showed him their hands calloused from farm work, and were released as harmless; they then led churches.",
+    "source": "Hegesippus, quoted in Eusebius, Ecclesiastical History 3.19-20",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Urgent and vivid, steeped in Jewish apocalyptic imagery (waterless clouds, wandering stars), but ending in warm praise to the God who keeps believers from stumbling.",
+  "refs": [
+   "Matt 13:55",
+   "Mark 6:3",
+   "Acts 1:14",
+   "1 Cor 9:5",
+   "Jude 1:1-25"
+  ],
+  "books": [
+   "Matt",
+   "Mark",
+   "Acts",
+   "1 Cor",
+   "Jude"
+  ]
+ },
+ {
+  "id": "cornelius",
+  "names": {
+   "primary": "Cornelius",
+   "original": "Cornelius (Latin)",
+   "meaning": "Roman family name (gens Cornelia)",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 38,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 40,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Roman (Gentile); God-fearer",
+  "placeIds": [
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "centurion of the Italian Cohort",
+   "first Gentile convert in Acts' main narrative"
+  ],
+  "occupations": [
+   "soldier",
+   "centurion"
+  ],
+  "skills": [
+   {
+    "name": "Military command",
+    "refs": [
+     "Acts 10:1",
+     "Acts 10:7"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Generosity to the poor and devout prayer",
+    "refs": [
+     "Acts 10:2",
+     "Acts 10:31"
+    ]
+   },
+   {
+    "name": "Received the Spirit and spoke in tongues",
+    "refs": [
+     "Acts 10:44-46"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Vision of an angel",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 10:1-8"
+    ],
+    "summary": "A devout centurion who gives alms and prays continually, Cornelius sees an angel at the ninth hour telling him to send to Joppa for Simon Peter."
+   },
+   {
+    "title": "Peter comes to his house",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 10:24-43"
+    ],
+    "summary": "Having gathered relatives and close friends, Cornelius falls at Peter's feet; Peter lifts him up, explains that God has shown him not to call anyone unclean, and preaches Jesus."
+   },
+   {
+    "title": "The Spirit falls on Gentiles",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 10:44-48",
+     "Acts 11:15-18",
+     "Acts 15:7-9"
+    ],
+    "summary": "While Peter is still speaking the Holy Spirit falls on the listeners, who speak in tongues; Peter has them baptized. Peter later cites this to the Jerusalem church and the council as proof that God accepts Gentiles."
+   }
+  ],
+  "summary": "Cornelius was a Roman centurion stationed at Caesarea, a God-fearing Gentile known for prayer and generosity to the Jewish people. In response to a vision he sent for Peter, who, prepared by his own vision of unclean animals, entered his house and preached. The Holy Spirit fell on Cornelius's household before they were baptized, a sign Peter and the Jerusalem church took as God's verdict that Gentiles could be welcomed without first becoming Jews. Acts tells the story twice and recalls it a third time, marking it as a turning point.",
+  "textSays": "Acts calls him a centurion of the Italian Cohort, devout, God-fearing with his whole household, generous to the people and constant in prayer, well spoken of by the whole Jewish nation (Acts 10:22).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated as a saint and, in tradition, the first Gentile bishop (of Caesarea or Scepsis). The account is read as Peter, the chief apostle, opening the church to the nations."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Debated whether Cornelius was already saved before Peter came (as a sincere seeker) or needed to hear the gospel to be saved (Acts 11:14). Most read him as an example of a seeker to whom God sends the gospel."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Some question whether an Italian Cohort was stationed in Caesarea before 44 under Agrippa I; an inscription attests a Cohors II Italica in Syria later in the century. Others argue for an earlier presence or a later setting."
+   }
+  ],
+  "voice": "Respectful, disciplined and direct, a soldier used to giving and obeying orders, who speaks of God with the reverence of someone long on the edge of the synagogue.",
+  "refs": [
+   "Acts 10:1-48",
+   "Acts 11:1-18",
+   "Acts 15:7-9"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "agabus",
+  "names": {
+   "primary": "Agabus",
+   "original": "Agabos (Greek), perhaps from Hebrew 'agab (to love) or hagab (locust)",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 44,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Judean",
+  "placeIds": [
+   "jerusalem",
+   "antioch-syria",
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "prophet"
+  ],
+  "occupations": [
+   "prophet"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Prophecy",
+    "refs": [
+     "Acts 11:28",
+     "Acts 21:10-11"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Predicts a great famine",
+    "year": 44,
+    "placeId": "antioch-syria",
+    "refs": [
+     "Acts 11:27-30"
+    ],
+    "summary": "Coming from Jerusalem to Antioch, Agabus foretells by the Spirit a famine over the whole world, which Luke says happened under Claudius; the disciples send relief to Judea."
+   },
+   {
+    "title": "Binds himself with Paul's belt",
+    "year": 57,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 21:10-14"
+    ],
+    "summary": "In a symbolic act like the Old Testament prophets, he ties his hands and feet with Paul's belt and says the Jews in Jerusalem will bind its owner and hand him to the Gentiles. Paul goes anyway."
+   }
+  ],
+  "summary": "Agabus was a Christian prophet from Judea who appears twice in Acts. He foretold the famine under Claudius that prompted the Antioch church's relief gift to Jerusalem, and years later in Caesarea he acted out Paul's coming arrest by binding himself with Paul's belt.",
+  "textSays": "Acts calls him a prophet who came down from Jerusalem and from Judea and who spoke by the Spirit.",
+  "interpretations": [
+   {
+    "tradition": "Cessationist and continuationist debate",
+    "view": "Agabus's second prophecy is cited on both sides. Some (e.g. Wayne Grudem) argue its details were slightly inaccurate (Romans, not Jews, bound Paul), showing New Testament prophecy can mix revelation and fallible report; others argue it was substantially fulfilled, as Paul himself later says he was handed over to the Romans (Acts 28:17)."
+   },
+   {
+    "tradition": "Orthodox",
+    "view": "Counted among the seventy disciples; commemorated on 8 April."
+   }
+  ],
+  "voice": "Dramatic and economical, speaks in acted signs and brief oracles that begin Thus says the Holy Spirit.",
+  "refs": [
+   "Acts 11:27-30",
+   "Acts 21:10-14"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "gamaliel",
+  "names": {
+   "primary": "Gamaliel",
+   "original": "Gamli'el (Hebrew)",
+   "meaning": "God is my reward",
+   "aliases": [
+    "Rabban Gamaliel the Elder",
+    "Gamaliel I"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "second-temple",
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "died": {
+   "year": 52,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Earlier estimate (rabbinic chronology is uncertain)",
+     "year": 50
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 20,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 50,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Judean",
+  "placeIds": [
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Pharisee",
+   "teacher of the law",
+   "member of the Sanhedrin",
+   "teacher of Paul"
+  ],
+  "occupations": [
+   "rabbi",
+   "teacher of the law"
+  ],
+  "skills": [
+   {
+    "name": "Teaching the law",
+    "refs": [
+     "Acts 5:34",
+     "Acts 22:3"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Counsels the Sanhedrin to leave the apostles alone",
+    "year": 32,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 5:34-40"
+    ],
+    "summary": "When the council wants to kill the apostles, Gamaliel, a Pharisee respected by all the people, cites failed movements led by Theudas and Judas the Galilean and argues that if this plan is of human origin it will fail, but if it is of God they cannot overthrow it and may find themselves fighting God."
+   },
+   {
+    "title": "Teacher of Saul",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 22:3"
+    ],
+    "summary": "Paul says he was educated at the feet of Gamaliel according to the strict manner of the ancestral law."
+   }
+  ],
+  "summary": "Gamaliel was a leading Pharisee and teacher of the law in Jerusalem, remembered in rabbinic tradition as Rabban Gamaliel the Elder, grandson (by tradition) of Hillel. In Acts he persuades the Sanhedrin to release the apostles with a famous argument that a movement from God cannot be stopped, and Paul names him as his teacher.",
+  "textSays": "Acts calls him a Pharisee, a teacher of the law held in honor by all the people, and Paul's teacher. His mention of Theudas before Judas the Galilean (Acts 5:36-37) raises a chronological question, since Josephus dates a Theudas later (c. 45); some posit an earlier Theudas, others see a Lukan error.",
+  "interpretations": [
+   {
+    "tradition": "Jewish (rabbinic)",
+    "view": "Remembered as a great sage of the house of Hillel and the first to bear the title Rabban; associated with lenient rulings for the good of society."
+   },
+   {
+    "tradition": "Christian",
+    "view": "Often read as a model of open-minded caution; later tradition claimed he became a Christian, though this has no support in Jewish sources."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "When Rabban Gamaliel the Elder died, the glory of the Torah ceased, and purity and separateness died.",
+    "source": "Mishnah, Sotah 9:15",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Gamaliel was secretly a believer and was later baptized with his son by Peter and John; his body was said to have been found with Stephen's in 415.",
+    "source": "Pseudo-Clementine Recognitions 1.65; Lucian's account of the discovery of Stephen's relics (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Cautious, learned and judicious; speaks in measured precedents and takes the long view.",
+  "refs": [
+   "Acts 5:34-40",
+   "Acts 22:3"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "phoebe",
+  "names": {
+   "primary": "Phoebe",
+   "original": "Phoibe (Greek)",
+   "meaning": "Bright, radiant (an epithet of Artemis)",
+   "aliases": [
+    "Phebe"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Gentile (name suggests)",
+  "placeIds": [
+   "cenchreae",
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "deacon (diakonos) of the church at Cenchreae",
+   "patron (prostatis) of many",
+   "probable bearer of Romans"
+  ],
+  "occupations": [
+   "deacon"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Service and patronage",
+    "refs": [
+     "Rom 16:1-2"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Commended to the Roman church",
+    "year": 57,
+    "placeId": "cenchreae",
+    "refs": [
+     "Rom 16:1-2"
+    ],
+    "summary": "Paul commends Phoebe, diakonos of the church at Cenchreae, asks the Romans to welcome her in a way worthy of the saints and help her in whatever she needs, for she has been a patron of many and of Paul himself. She very likely carried the letter to Rome."
+   }
+  ],
+  "summary": "Phoebe was a leading member of the church at Cenchreae, Corinth's eastern port, whom Paul commends at the start of his greetings in Romans. He calls her diakonos of the church and prostatis (patron or benefactor) of many, including himself. Since letter-carriers were often commended in this way, most scholars think she delivered Romans and may have been the first to read and explain it in Rome.",
+  "textSays": "Paul calls her our sister, a diakonos of the church at Cenchreae, and a prostatis of many and of himself. Diakonos is translated servant (KJV, ESV text), deacon (NRSV, NIV 2011, ESV margin) or minister; prostatis means patron, benefactor or protector (KJV succourer).",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Honored as a saint and often cited as evidence for the early order of deaconesses (compare 1 Tim 3:11), though Catholic teaching distinguishes ancient deaconesses from the ordained diaconate."
+   },
+   {
+    "tradition": "Protestant",
+    "view": "Egalitarian readers see Phoebe as an office-holding deacon and influential leader; complementarian readers often accept she was a deacon but regard the diaconate as a non-governing office of service. Some translate diakonos generically as servant."
+   }
+  ],
+  "voice": "Capable and gracious, a woman of means used to helping others and representing them; speaks with the authority of a trusted envoy.",
+  "refs": [
+   "Rom 16:1-2"
+  ],
+  "books": [
+   "Rom"
+  ]
+ },
+ {
+  "id": "junia",
+  "names": {
+   "primary": "Junia",
+   "original": "Iounia (Greek accusative Iounian in Rom 16:7), from the Latin name Junia",
+   "meaning": "Belonging to the Junian family (Latin)",
+   "aliases": [
+    "Junias (masculine reading)",
+    "Julia (variant in P46 and a few witnesses)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Jewish (Paul's kin or compatriot)",
+  "placeIds": [
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "early believer, in Christ before Paul",
+   "fellow prisoner with Paul",
+   "noted among (or by) the apostles"
+  ],
+  "occupations": [
+   "missionary"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Apostolic ministry (on the among-the-apostles reading)",
+    "refs": [
+     "Rom 16:7"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Greeted by Paul in Romans",
+    "year": 57,
+    "placeId": "rome",
+    "refs": [
+     "Rom 16:7"
+    ],
+    "summary": "Paul greets Andronicus and Junia(s), his kinsfolk (or fellow Jews) and fellow prisoners, who are notable in relation to the apostles and who were in Christ before him."
+   }
+  ],
+  "summary": "Junia is greeted with Andronicus in Rom 16:7 as Paul's kin and fellow prisoner, a believer since before Paul's conversion, and episemoi en tois apostolois, a phrase that can mean outstanding among the apostles or well known to the apostles. Two linked questions make this one verse among the most discussed in the New Testament: whether the name is the woman's name Junia or a man's name Junias, and whether the person is being called an apostle.\n\nThe name question is now largely settled. The Greek form Iounian can be accented as feminine (Junia) or masculine (Junias), but early manuscripts carried no accents; when accents were added, the feminine was standard. Junia is a common Latin female name, while no example of a masculine Junias (supposedly short for Junianus) has been found in ancient sources. Greek and Latin commentators of the early church, including John Chrysostom, read a woman. The masculine reading became common in the medieval and modern periods and appeared in many 20th-century translations (e.g. RSV 1946, NASB 1977, NIV 1984), but Junia has returned in nearly all recent ones (NRSV, ESV, NIV 2011, CSB, NASB 2020).\n\nThe phrase question remains debated. Most commentators, ancient and modern, take it as outstanding among the apostles, meaning Junia and Andronicus were apostles in the broader sense of commissioned missionaries (as Barnabas is called in Acts 14:14). Michael Burer and Daniel Wallace (*New Testament Studies* 47, 2001) argued from Greek parallels that the construction usually means well known to the apostles, and the ESV and NET adopt this; Richard Bauckham, Eldon Jay Epp and others replied that their evidence is mixed and that the inclusive reading remains more natural.",
+  "textSays": "Rom 16:7 says only that Andronicus and Junia(s) were Paul's syngeneis (relatives or fellow Jews), his fellow prisoners, episemoi en tois apostolois, and in Christ before him. Nothing else is recorded. Andronicus and Junia are commonly assumed to be a married couple, like the other pairs in Romans 16, but the text does not say so.",
+  "interpretations": [
+   {
+    "tradition": "Patristic and Orthodox",
+    "view": "Junia was a woman and an apostle. John Chrysostom marvelled at how great this woman's devotion must have been to be counted worthy of the title apostle (*Homilies on Romans* 31). Orthodox churches commemorate Andronicus and Junia on 17 May among the seventy."
+   },
+   {
+    "tradition": "Egalitarian scholarship (e.g. Eldon Jay Epp, *Junia: The First Woman Apostle*, 2005)",
+    "view": "Junia is a woman named an outstanding apostle, evidence that women held recognized missionary leadership; the shift to Junias is traced to medieval and later assumptions that a woman could not be an apostle. Critics reply that apostle here may mean an envoy rather than one of the Twelve-level authorities, which egalitarians largely grant."
+   },
+   {
+    "tradition": "Complementarian scholarship (e.g. Burer and Wallace 2001; ESV)",
+    "view": "Junia was a woman, but the phrase means well known to the apostles, so the verse does not call her an apostle; even if it did, apostle would carry its broad sense of messenger, not governing authority. Critics answer that the parallels cited are not exact and that early Greek-speaking readers like Chrysostom took the inclusive meaning."
+   },
+   {
+    "tradition": "Textual criticism",
+    "view": "The critical texts (Nestle-Aland 27 onward) print the feminine accent. P46 and some other witnesses read Julia, which is also feminine. Rufinus's Latin version of Origen's Romans commentary mostly has Junia, with a masculine form in some manuscripts. The earliest clear masculine reading is often credited to Aegidius of Rome (c. 1300), though this claim needs verification."
+   }
+  ],
+  "voice": "A veteran of the earliest days: speaks with quiet authority about having known the faith before Paul did and about prison for its sake.",
+  "refs": [
+   "Rom 16:7",
+   "Acts 14:14"
+  ],
+  "books": [
+   "Rom"
+  ]
+ },
+ {
+  "id": "andronicus",
+  "names": {
+   "primary": "Andronicus",
+   "original": "Andronikos (Greek)",
+   "meaning": "Victor over men",
+   "aliases": []
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 33,
+    "circa": true,
+    "confidence": "speculative"
+   },
+   {
+    "year": 57,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Jewish (Paul's kin or compatriot)",
+  "placeIds": [
+   "rome"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "early believer",
+   "fellow prisoner with Paul",
+   "noted among (or by) the apostles"
+  ],
+  "occupations": [
+   "missionary"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Apostolic ministry (on the among-the-apostles reading)",
+    "refs": [
+     "Rom 16:7"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Greeted by Paul with Junia",
+    "year": 57,
+    "placeId": "rome",
+    "refs": [
+     "Rom 16:7"
+    ],
+    "summary": "Paul greets Andronicus and Junia as his kin and fellow prisoners, notable among or to the apostles, and in Christ before him."
+   }
+  ],
+  "summary": "Andronicus is greeted with Junia in Rom 16:7 as one of Paul's Jewish kin, a fellow prisoner, a believer before Paul, and notable in relation to the apostles. He and Junia were probably a married missionary couple, though the text does not say so.",
+  "textSays": "Rom 16:7 is the only reference. Whether he and Junia were married, siblings or simply co-workers is not stated.",
+  "interpretations": [
+   {
+    "tradition": "Orthodox",
+    "view": "Counted among the seventy, commemorated with Junia on 17 May; tradition makes him bishop of Pannonia."
+   },
+   {
+    "tradition": "Modern scholarship",
+    "view": "Usually viewed as half of a missionary couple, comparable to Priscilla and Aquila, and possibly among the Hellenist believers of Jerusalem's earliest years."
+   }
+  ],
+  "voice": "Seasoned and steady, the voice of a believer from the earliest days in Jerusalem who has known prison for the gospel.",
+  "refs": [
+   "Rom 16:7"
+  ],
+  "books": [
+   "Rom"
+  ]
+ },
+ {
+  "id": "onesimus",
+  "names": {
+   "primary": "Onesimus",
+   "original": "Onesimos (Greek)",
+   "meaning": "Useful, profitable (a common slave name)",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 55,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 110,
+    "circa": true,
+    "confidence": "speculative"
+   }
+  ],
+  "nation": "Probably Phrygian; enslaved",
+  "placeIds": [
+   "colossae",
+   "rome",
+   "ephesus"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "enslaved member of Philemon's household",
+   "Paul's spiritual son",
+   "letter carrier",
+   "possible later bishop of Ephesus"
+  ],
+  "occupations": [
+   "household slave"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Service to Paul in prison",
+    "refs": [
+     "Phlm 1:13"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Comes to Paul and is converted",
+    "placeId": "rome",
+    "refs": [
+     "Phlm 1:10-11"
+    ],
+    "summary": "Paul writes that he became Onesimus's father in his imprisonment and puns on his name: once useless, now useful to both Philemon and Paul."
+   },
+   {
+    "title": "Sent back to Philemon",
+    "placeId": "colossae",
+    "refs": [
+     "Phlm 1:12-19"
+    ],
+    "summary": "Paul sends him back, calling him his very heart, asking Philemon to receive him no longer as a slave but more than a slave, a beloved brother, and offering to repay any debt."
+   },
+   {
+    "title": "Carries the letter to Colossae",
+    "placeId": "colossae",
+    "refs": [
+     "Col 4:7-9"
+    ],
+    "summary": "With Tychicus he brings news of Paul to Colossae; Paul calls him a faithful and beloved brother, who is one of you."
+   }
+  ],
+  "summary": "Onesimus was an enslaved man belonging to Philemon, a Christian of Colossae. Separated from his master, he came to Paul in prison, became a believer and served Paul, who then sent him back with the short letter to Philemon, appealing for him to be received as a beloved brother. Colossians names him as Tychicus's companion carrying news to the church. Whether he was a fugitive, a slave seeking Paul as an advocate in a household dispute, or one sent by Philemon is debated, as is whether Paul was quietly asking for his freedom.",
+  "textSays": "Philemon says Onesimus was formerly useless to Philemon, was separated from him for a while, may have wronged him or owed him something, became Paul's child in prison, and is now to be received as a brother in the flesh and in the Lord. Paul hints that Philemon will do even more than he asks (Phlm 1:21).",
+  "interpretations": [
+   {
+    "tradition": "Traditional (patristic and later)",
+    "view": "Onesimus was a runaway slave, perhaps a thief, whom Paul met in prison in Rome. John Chrysostom used the letter to argue that the gospel transforms slaves without overturning the household order."
+   },
+   {
+    "tradition": "Amicus domini hypothesis (Peter Lampe, 1985; Brian Rapske)",
+    "view": "Onesimus was not technically a fugitive but went to Paul, a friend of his master, as an advocate after a domestic offense, a recognized practice in Roman law. Critics note the text's language of separation fits either scenario."
+   },
+   {
+    "tradition": "Abolitionist and African American readings",
+    "view": "In the American slavery debates the letter was used by defenders of slavery as a fugitive-return precedent and by abolitionists as a charter of brotherhood that undermines slavery from within. Many Black interpreters have read Paul's request as implicitly for manumission (Phlm 1:16-21); others criticize the letter for not condemning slavery outright."
+   },
+   {
+    "tradition": "John Knox hypothesis (1935)",
+    "view": "Onesimus became bishop of Ephesus and collected Paul's letters, which explains why so short a personal letter survived. This is speculative."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Ignatius praises Onesimus, bishop of the Ephesian church, a man of inexpressible love; whether he is the same person is uncertain.",
+    "source": "Ignatius, To the Ephesians 1",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Onesimus was martyred in Rome under Domitian or Trajan.",
+    "source": "Later martyrologies (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Once defensive and wary, now grateful and earnest; speaks as someone who knows what it is to be treated as property and then called brother.",
+  "refs": [
+   "Phlm 1:10-21",
+   "Col 4:9"
+  ],
+  "books": [
+   "Phlm",
+   "Col"
+  ]
+ },
+ {
+  "id": "philemon",
+  "names": {
+   "primary": "Philemon",
+   "original": "Philemon (Greek)",
+   "meaning": "Affectionate, loving",
+   "aliases": []
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 55,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 62,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Gentile of Colossae (probable)",
+  "placeIds": [
+   "colossae"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "host of a house church",
+   "slave owner",
+   "Paul's convert and co-worker"
+  ],
+  "occupations": [
+   "householder"
+  ],
+  "skills": [],
+  "gifts": [
+   {
+    "name": "Love and generosity that refresh the saints",
+    "refs": [
+     "Phlm 1:5-7"
+    ]
+   },
+   {
+    "name": "Hospitality",
+    "refs": [
+     "Phlm 1:2",
+     "Phlm 1:22"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Hosts a church in his house",
+    "placeId": "colossae",
+    "refs": [
+     "Phlm 1:1-2"
+    ],
+    "summary": "Paul addresses Philemon, our beloved fellow worker, with Apphia, Archippus and the church in your house."
+   },
+   {
+    "title": "Asked to welcome Onesimus as a brother",
+    "placeId": "colossae",
+    "refs": [
+     "Phlm 1:8-21"
+    ],
+    "summary": "Paul, though bold enough to command, appeals on the basis of love for Philemon to receive Onesimus as he would Paul, charging any debt to Paul's account and reminding Philemon that he owes Paul his very self."
+   },
+   {
+    "title": "Asked to prepare a guest room",
+    "refs": [
+     "Phlm 1:22"
+    ],
+    "summary": "Paul hopes to be released through their prayers and asks Philemon to get a room ready for him."
+   }
+  ],
+  "summary": "Philemon was a believer, probably in Colossae, whose home hosted a church and who owed his faith to Paul. Paul's shortest surviving letter is addressed to him, asking him to welcome back his slave Onesimus no longer merely as a slave but as a beloved brother. The letter is a masterpiece of tactful persuasion, and how Philemon responded is unknown, though its preservation suggests he complied.",
+  "textSays": "Paul calls Philemon a beloved fellow worker whose love has refreshed the hearts of the saints and who owes Paul his own self. Apphia (probably his wife) and Archippus (perhaps his son) are greeted with him.",
+  "interpretations": [
+   {
+    "tradition": "Catholic and Orthodox",
+    "view": "Venerated as a saint and martyr with Apphia; tradition makes him bishop of Colossae."
+   },
+   {
+    "tradition": "Modern scholarship",
+    "view": "Debate over whether Paul asks for Onesimus's manumission, his return to Paul as a co-worker, or simply a changed relationship within the household; the letter's genre of a recommendation and appeal is widely recognized."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Philemon and Apphia were stoned at Colossae under Nero.",
+    "source": "Later Greek martyrologies (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Warm, generous and well-to-do; proud of his church and his friendship with Paul, and caught between his rights as a master and his love as a brother.",
+  "refs": [
+   "Phlm 1:1-25",
+   "Col 4:9",
+   "Col 4:17"
+  ],
+  "books": [
+   "Phlm"
+  ]
+ },
+ {
+  "id": "ethiopian-eunuch",
+  "names": {
+   "primary": "The Ethiopian eunuch",
+   "aliases": [
+    "Ethiopian official",
+    "treasurer of Candace",
+    "Bachos (Ethiopic tradition, needs verification)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 34,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 34,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Ethiopian (Kingdom of Kush, capital Meroe)",
+  "placeIds": [
+   "jerusalem",
+   "gaza",
+   "ethiopia"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "court official of the Kandake",
+   "treasurer",
+   "first named African convert"
+  ],
+  "occupations": [
+   "royal treasurer"
+  ],
+  "skills": [
+   {
+    "name": "Literate in the Greek Scriptures",
+    "refs": [
+     "Acts 8:28-32"
+    ]
+   },
+   {
+    "name": "Management of royal treasury",
+    "refs": [
+     "Acts 8:27"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Joy after baptism",
+    "refs": [
+     "Acts 8:39"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Returning from worship in Jerusalem",
+    "year": 34,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 8:27-28"
+    ],
+    "summary": "A eunuch in charge of the treasury of Candace, queen of the Ethiopians, has come to Jerusalem to worship and is reading Isaiah aloud in his chariot on the way home."
+   },
+   {
+    "title": "Asks Philip about Isaiah 53",
+    "placeId": "gaza",
+    "refs": [
+     "Acts 8:29-35",
+     "Isa 53:7-8"
+    ],
+    "summary": "Philip runs alongside and asks if he understands; the official asks whether the prophet speaks of himself or someone else, and Philip, starting with that Scripture, tells him the good news about Jesus."
+   },
+   {
+    "title": "Baptized and goes on his way rejoicing",
+    "placeId": "gaza",
+    "refs": [
+     "Acts 8:36-39"
+    ],
+    "summary": "Seeing water, he asks what prevents him from being baptized. Philip baptizes him, is carried away by the Spirit, and the eunuch goes on his way rejoicing. (Acts 8:37, a confession of faith, is absent from the earliest manuscripts.)"
+   }
+  ],
+  "summary": "An Ethiopian court official, a eunuch who managed the treasury of the Kandake (the queen mother of the kingdom of Kush, centered at Meroe in modern Sudan), was returning from worship in Jerusalem when Philip met him on the desert road toward Gaza. He was reading Isaiah 53 about the silent, suffering servant; Philip explained it as speaking of Jesus, and the official was baptized at once. As a foreigner and a eunuch, excluded from full participation in the temple under Deut 23:1, he fulfills Isaiah's promise that foreigners and eunuchs would have a place in God's house (Isa 56:3-5) and anticipates the gospel's reach to the ends of the earth.",
+  "textSays": "Acts calls him an Ethiopian man, a eunuch, a court official of Candace queen of the Ethiopians, in charge of all her treasure, who had come to Jerusalem to worship. It does not say whether he was a Jew, a proselyte or a God-fearing Gentile.",
+  "interpretations": [
+   {
+    "tradition": "Ethiopian Orthodox Tewahedo",
+    "view": "He is honored as the first evangelist of Ethiopia, though the church's institutional origin is traced to Frumentius in the 4th century in Aksum; Ethiopic tradition gives him a name and a later mission."
+   },
+   {
+    "tradition": "Catholic and Protestant",
+    "view": "The story is read as the first fruits of the mission to the nations and a fulfillment of Ps 68:31 and Isa 56:3-5; debate over whether Luke presents him as the first Gentile convert (before Cornelius) or as a diaspora Jew or proselyte."
+   },
+   {
+    "tradition": "Contemporary readings (African, queer and disability theology)",
+    "view": "Some emphasize him as an African of high rank, countering assumptions that early Christianity was a European religion; others highlight the inclusion of a sexual and gender minority excluded by the purity laws; others read his body as a theme of welcome for people with bodily difference. Critics caution against reading modern identity categories back into the text; proponents respond that Luke himself foregrounds the word eunuch five times."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "After his baptism the eunuch returned to Ethiopia and preached there.",
+    "source": "Irenaeus, Against Heresies 4.23.2 (locator needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Courteous, inquisitive and educated, a senior official comfortable with documents and authority, who asks honest questions and acts decisively on the answers.",
+  "refs": [
+   "Acts 8:26-39",
+   "Isa 53:7-8",
+   "Isa 56:3-5",
+   "Deut 23:1"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "dorcas",
+  "names": {
+   "primary": "Dorcas",
+   "original": "Tabitha (Aramaic); Dorkas (Greek)",
+   "meaning": "Gazelle",
+   "aliases": [
+    "Tabitha"
+   ]
+  },
+  "tier": "minor",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 38,
+    "circa": true,
+    "confidence": "debated"
+   },
+   {
+    "year": 38,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Judean",
+  "placeIds": [
+   "joppa"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "disciple",
+   "benefactor of widows"
+  ],
+  "occupations": [
+   "seamstress"
+  ],
+  "skills": [
+   {
+    "name": "Making garments",
+    "refs": [
+     "Acts 9:39"
+    ]
+   }
+  ],
+  "gifts": [
+   {
+    "name": "Good works and almsgiving",
+    "refs": [
+     "Acts 9:36"
+    ]
+   }
+  ],
+  "events": [
+   {
+    "title": "Raised from the dead by Peter",
+    "year": 38,
+    "placeId": "joppa",
+    "refs": [
+     "Acts 9:36-42"
+    ],
+    "summary": "When Tabitha dies, the disciples at Joppa send for Peter from Lydda. Widows show him the tunics and cloaks she had made; Peter sends everyone out, prays, says Tabitha, arise, and she sits up. Many in Joppa believe."
+   }
+  ],
+  "summary": "Tabitha, called Dorcas in Greek, was a disciple at Joppa known for good works and charity, especially making clothing for widows. When she died Peter was called from Lydda and raised her to life, and many believed. She is the only woman in the New Testament explicitly called a disciple (mathetria).",
+  "textSays": "Acts calls her a disciple full of good works and acts of charity; the widows show garments she made while she was with them.",
+  "interpretations": [
+   {
+    "tradition": "Protestant and Catholic",
+    "view": "A model of practical charity; Dorcas Societies, church sewing circles for the poor, took her name from the 19th century on."
+   }
+  ],
+  "voice": "Warm, practical and humble; talks about needle, cloth and the widows she serves more readily than about herself.",
+  "refs": [
+   "Acts 9:36-42"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "herod-agrippa-i",
+  "names": {
+   "primary": "Herod Agrippa I",
+   "original": "Marcus Julius Agrippa",
+   "aliases": [
+    "King Herod (Acts 12)",
+    "Agrippa the Great"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "life-of-jesus",
+   "apostolic"
+  ],
+  "born": {
+   "year": -11,
+   "circa": true,
+   "confidence": "scholarly-consensus",
+   "alternatives": [
+    {
+     "label": "Alternative reckoning",
+     "year": -10
+    }
+   ]
+  },
+  "died": {
+   "year": 44,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": 37,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 44,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Herodian (Idumean-Hasmonean descent); Roman client king",
+  "placeIds": [
+   "rome",
+   "jerusalem",
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [
+    "herod-agrippa-ii"
+   ],
+   "siblings": []
+  },
+  "roles": [
+   "king of Judea",
+   "persecutor of the church"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Political maneuvering at the imperial court",
+    "refs": [
+     "Acts 12:20"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Executes James and arrests Peter",
+    "year": 43,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:1-5"
+    ],
+    "summary": "Seeking popularity, King Herod kills James the brother of John with the sword and, seeing it pleased the people, arrests Peter during the Days of Unleavened Bread."
+   },
+   {
+    "title": "Peter escapes",
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 12:6-19"
+    ],
+    "summary": "An angel frees Peter from prison the night before his trial; Herod examines the guards and has them executed."
+   },
+   {
+    "title": "Struck down at Caesarea",
+    "year": 44,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 12:20-23"
+    ],
+    "summary": "Making peace with Tyre and Sidon, Herod gives an oration in royal robes; the people shout that it is the voice of a god, and because he did not give God the glory an angel of the Lord strikes him and he dies, eaten by worms."
+   }
+  ],
+  "summary": "Herod Agrippa I, grandson of Herod the Great, grew up in Rome among the imperial family and through friendship with Caligula and Claudius came to rule all the territory his grandfather had held (37-44). Popular with Jewish crowds for his observance, he executed James son of Zebedee and imprisoned Peter. Acts and Josephus independently describe his sudden death at Caesarea after he accepted acclaim as a god.",
+  "textSays": "Acts 12 calls him King Herod, says he killed James with the sword, arrested Peter to please the Jews, and died after being struck by an angel of the Lord for accepting divine honors.",
+  "interpretations": [
+   {
+    "tradition": "Christian",
+    "view": "His death is read as divine judgment on a persecutor and on human pride, contrasted with the word of God continuing to grow (Acts 12:24)."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Josephus's account closely parallels Acts: games at Caesarea in honor of Caesar, a robe of silver shining in the sun, flatterers hailing him as a god, sudden abdominal pain and death five days later. Some suggest a medical cause such as poisoning or intestinal obstruction; the agreement is often cited as evidence for Luke's accuracy."
+   },
+   {
+    "tradition": "Jewish (rabbinic)",
+    "view": "Remembered favorably in the Mishnah (Sotah 7:8), which describes him weeping while reading Deuteronomy at the festival and the people reassuring him that he was their brother."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "At Caesarea, in a garment woven of silver, he was hailed as a god; he did not rebuke them, saw an owl as an omen, was seized with violent pains, and died after five days.",
+    "source": "Josephus, Antiquities 19.343-350",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Charming, ambitious and image-conscious; a courtier raised in Rome who speaks the language of piety to the crowd and of patronage to the powerful.",
+  "refs": [
+   "Acts 12:1-23"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "herod-agrippa-ii",
+  "names": {
+   "primary": "Herod Agrippa II",
+   "original": "Marcus Julius Agrippa",
+   "aliases": [
+    "King Agrippa (Acts 25-26)"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "born": {
+   "year": 27,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "died": {
+   "year": 93,
+   "circa": true,
+   "confidence": "debated",
+   "alternatives": [
+    {
+     "label": "Third year of Trajan per Photius citing Justus of Tiberias",
+     "year": 100,
+     "source": "Photius, Bibliotheca 33"
+    }
+   ]
+  },
+  "active": [
+   {
+    "year": 50,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 93,
+    "circa": true,
+    "confidence": "debated"
+   }
+  ],
+  "nation": "Herodian; Roman client king",
+  "placeIds": [
+   "caesarea-maritima",
+   "jerusalem",
+   "rome"
+  ],
+  "family": {
+   "parents": [
+    "herod-agrippa-i"
+   ],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "client king of territories north and east of Galilee",
+   "overseer of the temple and high-priestly appointments"
+  ],
+  "occupations": [
+   "king"
+  ],
+  "skills": [
+   {
+    "name": "Expert in Jewish customs and controversies",
+    "refs": [
+     "Acts 26:2-3"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Visits Festus with Bernice",
+    "year": 59,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 25:13-22"
+    ],
+    "summary": "Agrippa and his sister Bernice come to welcome the new governor; Festus lays Paul's case before him, and Agrippa asks to hear Paul."
+   },
+   {
+    "title": "Hears Paul's defense",
+    "year": 59,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 25:23-26:29"
+    ],
+    "summary": "With great pomp Agrippa hears Paul tell of his conversion. Paul asks whether he believes the prophets; Agrippa replies, in words translated either almost you persuade me or in so short a time would you persuade me to be a Christian?"
+   },
+   {
+    "title": "Judges Paul innocent",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 26:30-32"
+    ],
+    "summary": "Agrippa tells Festus that Paul could have been released had he not appealed to Caesar."
+   }
+  ],
+  "summary": "Herod Agrippa II, son of Agrippa I, was the last ruler of the Herodian line. Too young to inherit his father's kingdom in 44, he later ruled territories in the north under Rome and held the right to appoint high priests. With his sister Bernice he heard Paul's defense at Caesarea and judged him innocent of any capital offense. During the Jewish revolt he sided with Rome and lived on as a client king into the 90s.",
+  "textSays": "Acts presents Agrippa as well versed in Jewish customs; Paul appeals to his belief in the prophets, and Agrippa responds with an ambiguous question about being persuaded to become a Christian, then declares Paul innocent.",
+  "interpretations": [
+   {
+    "tradition": "Christian preaching",
+    "view": "Agrippa's reply (KJV: Almost thou persuadest me to be a Christian) became a classic text on the danger of being nearly persuaded; most modern translations read it as skeptical or ironic."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Josephus records Agrippa's attempt to dissuade Jerusalem from revolt in 66 (War 2.345-404, a speech composed by Josephus) and his deposition of the high priest Ananus after James's execution (Antiquities 20.203)."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Rumors circulated of an incestuous relationship between Agrippa and his sister Bernice.",
+    "source": "Josephus, Antiquities 20.145; Juvenal, Satires 6.156-160 (needs verification)",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Urbane, curious and noncommittal; enjoys a good argument about Jewish law but keeps one eye on Rome.",
+  "refs": [
+   "Acts 25:13-26:32"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "felix",
+  "names": {
+   "primary": "Felix",
+   "original": "Antonius Felix (Latin; praenomen uncertain)",
+   "meaning": "Happy, fortunate",
+   "aliases": [
+    "Marcus Antonius Felix",
+    "Antonius Felix"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "active": [
+   {
+    "year": 52,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   },
+   {
+    "year": 59,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Early recall date argued by some",
+      "year": 55
+     },
+     {
+      "label": "Later recall date",
+      "year": 60
+     }
+    ]
+   }
+  ],
+  "nation": "Roman (freedman of the imperial household)",
+  "placeIds": [
+   "caesarea-maritima"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Roman governor (procurator) of Judea"
+  ],
+  "occupations": [
+   "governor"
+  ],
+  "skills": [
+   {
+    "name": "Knowledge of the Way (Christian movement)",
+    "refs": [
+     "Acts 24:22"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Receives Paul under guard",
+    "year": 57,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 23:23-35"
+    ],
+    "summary": "Claudius Lysias sends Paul to Felix with a letter; Felix holds him in Herod's praetorium pending his accusers' arrival."
+   },
+   {
+    "title": "Hears the case and postpones it",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 24:1-23"
+    ],
+    "summary": "After the orator Tertullus accuses Paul and Paul answers, Felix, having a rather accurate knowledge of the Way, adjourns the case and gives Paul some liberty."
+   },
+   {
+    "title": "Alarmed by Paul's preaching; hopes for a bribe",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 24:24-27"
+    ],
+    "summary": "With his Jewish wife Drusilla he hears Paul on righteousness, self-control and coming judgment and becomes afraid; he sends Paul away but keeps summoning him, hoping for money, and on leaving office leaves Paul in prison to please the Jews."
+   }
+  ],
+  "summary": "Antonius Felix, a former slave freed by the imperial family and brother of the powerful freedman Pallas, governed Judea from about 52 to 59. His rule saw rising violence, including the Egyptian false prophet (compare Acts 21:38) and the sicarii assassins. He kept Paul in custody at Caesarea for two years, alternately fascinated and frightened by his preaching and hoping for a bribe.",
+  "textSays": "Acts says he had accurate knowledge of the Way, was married to Drusilla who was Jewish, became frightened at Paul's message about judgment, hoped for money, and left Paul in prison for two years to please the Jews.",
+  "interpretations": [
+   {
+    "tradition": "Christian preaching",
+    "view": "His reply, Go away for the present; when I have a convenient season I will call for you (Acts 24:25), is a classic example of procrastination in response to conscience."
+   },
+   {
+    "tradition": "Historical scholarship",
+    "view": "Roman historians portray him harshly; the date of his recall is debated (c. 55 vs 59-60) and affects Pauline chronology."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Felix exercised the power of a king with the mind of a slave, indulging in every kind of cruelty and lust.",
+    "source": "Tacitus, Histories 5.9",
+    "confidence": "tradition"
+   },
+   {
+    "text": "Felix arranged the murder of the former high priest Jonathan by hired assassins.",
+    "source": "Josephus, Antiquities 20.162-164",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Smooth, calculating and evasive; speaks politely, delays decisions, and listens for what can be gained.",
+  "refs": [
+   "Acts 23:24-24:27",
+   "Acts 25:14"
+  ],
+  "books": [
+   "Acts"
+  ]
+ },
+ {
+  "id": "festus",
+  "names": {
+   "primary": "Porcius Festus",
+   "original": "Porcius Festus (Latin)",
+   "meaning": "Festive, joyful",
+   "aliases": [
+    "Festus"
+   ]
+  },
+  "tier": "secondary",
+  "testament": "NT",
+  "eraIds": [
+   "apostolic"
+  ],
+  "died": {
+   "year": 62,
+   "circa": true,
+   "confidence": "scholarly-consensus"
+  },
+  "active": [
+   {
+    "year": 59,
+    "circa": true,
+    "confidence": "debated",
+    "alternatives": [
+     {
+      "label": "Earlier accession on the early recall date for Felix",
+      "year": 55
+     }
+    ]
+   },
+   {
+    "year": 62,
+    "circa": true,
+    "confidence": "scholarly-consensus"
+   }
+  ],
+  "nation": "Roman",
+  "placeIds": [
+   "caesarea-maritima",
+   "jerusalem"
+  ],
+  "family": {
+   "parents": [],
+   "spouses": [],
+   "children": [],
+   "siblings": []
+  },
+  "roles": [
+   "Roman governor (procurator) of Judea"
+  ],
+  "occupations": [
+   "governor"
+  ],
+  "skills": [
+   {
+    "name": "Roman legal procedure",
+    "refs": [
+     "Acts 25:16"
+    ]
+   }
+  ],
+  "gifts": [],
+  "events": [
+   {
+    "title": "Succeeds Felix and receives the charges",
+    "year": 59,
+    "placeId": "jerusalem",
+    "refs": [
+     "Acts 24:27",
+     "Acts 25:1-5"
+    ],
+    "summary": "Three days after arriving he goes up to Jerusalem, where the chief priests ask him to transfer Paul there, planning an ambush; he insists they come to Caesarea."
+   },
+   {
+    "title": "Paul appeals to Caesar",
+    "year": 59,
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 25:6-12"
+    ],
+    "summary": "When Festus, wishing to do the Jews a favor, asks Paul if he will be tried in Jerusalem, Paul appeals to Caesar; after conferring with his council Festus agrees: to Caesar you shall go."
+   },
+   {
+    "title": "Consults Agrippa and hears Paul",
+    "placeId": "caesarea-maritima",
+    "refs": [
+     "Acts 25:13-26:32"
+    ],
+    "summary": "Unsure what to write to the emperor, he lays the case before Agrippa. During Paul's defense he shouts that Paul's great learning is driving him mad; Paul replies that he speaks true and rational words."
+   }
+  ],
+  "summary": "Porcius Festus succeeded Felix as governor of Judea and inherited Paul's unresolved case. Refusing to hand Paul over to a Jerusalem trial where he would face an ambush but willing to compromise, he accepted Paul's appeal to Caesar and, with Agrippa II's help, prepared the case for Rome. He died in office around 62; in the interval before his successor arrived, the high priest Ananus had James the brother of Jesus executed.",
+  "textSays": "Acts portrays him as a correct but politically cautious official who insisted on Roman procedure, wanted to please the Jewish leaders, found the dispute to be about one Jesus who had died whom Paul asserted to be alive (Acts 25:19), and thought Paul mad.",
+  "interpretations": [
+   {
+    "tradition": "Historical scholarship",
+    "view": "Josephus portrays Festus as a fairly effective governor who suppressed sicarii and a false prophet; the date of his accession is a key point in Pauline chronology and is debated (c. 59-60 is most common)."
+   }
+  ],
+  "traditions": [
+   {
+    "text": "Festus dealt firmly with brigands and sicarii and with an impostor who promised salvation in the wilderness.",
+    "source": "Josephus, Antiquities 20.185-188",
+    "confidence": "tradition"
+   },
+   {
+    "text": "After Festus died, and before Albinus arrived, Ananus convened the Sanhedrin and had James the brother of Jesus stoned.",
+    "source": "Josephus, Antiquities 20.197-200",
+    "confidence": "tradition"
+   }
+  ],
+  "voice": "Brisk, practical and impatient with theology; a Roman administrator who wants a clear charge sheet and finds talk of resurrection baffling.",
+  "refs": [
+   "Acts 24:27",
+   "Acts 25:1-26:32"
+  ],
+  "books": [
+   "Acts"
+  ]
+ }
+]

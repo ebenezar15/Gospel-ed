@@ -1,0 +1,208 @@
+[
+  {
+    "question": "What was the core message of the apostles?",
+    "answers": [
+      {
+        "view": "The resurrection-and-Lordship kerygma (C. H. Dodd and many New Testament scholars)",
+        "evidence": "The sermons in Acts consistently announce that the age of fulfilment has arrived, that the Jesus who was crucified has been raised and exalted as Lord and Messiah, that the Spirit is poured out, and that hearers should repent and be baptised for forgiveness. Paul's received tradition in 1 Corinthians 15 has the same skeleton. On this reading forgiveness is a benefit flowing from the announcement that Jesus reigns.",
+        "refs": ["Acts 2:22-36", "Acts 10:34-43", "1 Cor 15:1-8", "Rom 1:1-4"],
+        "sources": [
+          { "author": "C. H. Dodd", "title": "The Apostolic Preaching and Its Developments", "year": 1936, "confidence": "scholarly-consensus" },
+          { "author": "Martin Hengel", "title": "The Atonement", "year": 1981, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Christ died for our sins: substitutionary atonement received by faith (Reformation and much evangelical scholarship)",
+        "evidence": "First importance in 1 Corinthians 15 is given to Christ dying for our sins. Romans 3 grounds justification in the atoning death of Jesus received by faith apart from works of the law, and Galatians makes justification by faith the test of the true gospel. On this reading the resurrection vindicates the atoning death, and the plan of salvation is not a later distortion but the apostolic centre.",
+        "refs": ["1 Cor 15:3-4", "Rom 3:21-26", "Gal 2:16", "2 Cor 5:18-21"],
+        "sources": [
+          { "author": "Greg Gilbert", "title": "What Is the Gospel?", "year": 2010, "confidence": "scholarly-consensus" },
+          { "author": "John Stott", "title": "The Cross of Christ", "year": 1986, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "The story of Israel fulfilled in Jesus the king, calling for allegiance (Wright, McKnight, Bates)",
+        "evidence": "The apostles narrate Jesus as the climax of Israel's scriptures (Acts 13; 1 Cor 15 'according to the scriptures'; Rom 1:2-4). Paul's mission aims at 'the obedience of faith', and Thessalonian opponents heard the message as a rival kingship claim. These scholars argue the gospel is a royal announcement and that saving faith includes loyalty to Jesus as king.",
+        "refs": ["Acts 13:16-41", "Acts 17:6-7", "Rom 1:5", "Phil 2:9-11"],
+        "sources": [
+          { "author": "Scot McKnight", "title": "The King Jesus Gospel", "year": 2011, "confidence": "scholarly-consensus" },
+          { "author": "Matthew W. Bates", "title": "Salvation by Allegiance Alone", "year": 2017, "confidence": "scholarly-consensus" },
+          { "author": "N. T. Wright", "title": "What Saint Paul Really Said", "year": 1997, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "There was no single uniform message (diversity view)",
+        "evidence": "James Dunn and others argue that the New Testament contains several kerygmata: Jerusalem preaching to Jews about Israel's Messiah, Paul's justification language, Johannine eternal life, and Areopagus-style preaching to pagans beginning from creation. They share a common core (the risen Jesus) but vary in emphasis by audience, so any single summary is a simplification.",
+        "refs": ["Acts 14:15-17", "Acts 17:22-31", "John 20:31", "1 Cor 9:19-23"],
+        "sources": [
+          { "author": "James D. G. Dunn", "title": "Unity and Diversity in the New Testament", "year": 1977, "locator": "ch. 2", "confidence": "scholarly-consensus" }
+        ]
+      }
+    ]
+  },
+  {
+    "question": "When did heaven and hell become central to gospel preaching, as opposed to merely present in doctrine?",
+    "answers": [
+      {
+        "view": "Already in Jesus' own preaching",
+        "evidence": "Jesus warns of Gehenna, the outer darkness and the sheep and goats, and promises treasure in heaven. Some therefore argue the destiny question was central from the start and later preaching simply continued it. Others reply that in the Gospels these warnings serve the kingdom announcement and Israel's crisis rather than an individual afterlife plan.",
+        "refs": ["Mark 9:43-48", "Matt 10:28", "Matt 25:31-46", "Luke 16:19-31"],
+        "sources": [
+          { "author": "Robert A. Peterson and Christopher W. Morgan (eds.)", "title": "Hell Under Fire", "year": 2004, "confidence": "scholarly-consensus" },
+          { "author": "N. T. Wright", "title": "Surprised by Hope", "year": 2008, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "With the patristic and especially Augustinian West",
+        "evidence": "Second-century writers (2 Clement, Justin, Tertullian) already use eternal fire to motivate. After the empire became Christian, preachers like Chrysostom used hell to press moral reform on mass congregations, and Augustine defended eternal punishment against merciful views and focused Western theology on individual grace and destiny. The condemnation of Origenism (543/553) closed off the main alternative.",
+        "refs": ["Matt 25:46", "Rev 20:11-15"],
+        "sources": [
+          { "author": "Augustine", "title": "City of God", "locator": "21.17–23", "confidence": "scholarly-consensus" },
+          { "author": "Tertullian", "title": "On the Spectacles", "locator": "30", "confidence": "scholarly-consensus" },
+          { "author": "Richard Price (trans.)", "title": "The Acts of the Council of Constantinople of 553", "year": 2009, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "In the medieval economy of penance and purgatory",
+        "evidence": "From Gregory the Great's stories of purging fire through Lateran IV's annual confession (1215) and Florence's definition of purgatory (1439), the fate of the soul at death became the organising concern of pastoral practice, art and preaching, as historians such as Le Goff and Duffy describe (though they differ on how oppressive or consoling it was).",
+        "refs": ["1 Cor 3:12-15", "Heb 9:27"],
+        "sources": [
+          { "author": "Jacques Le Goff", "title": "The Birth of Purgatory", "year": 1981, "confidence": "debated" },
+          { "author": "Eamon Duffy", "title": "The Stripping of the Altars", "year": 1992, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "In Protestant revivalism and modern evangelism",
+        "evidence": "Edwards' Enfield sermon (1741), Finney's anxious seat and the twentieth-century tract tradition (Four Spiritual Laws; Evangelism Explosion's question about where one would go if one died tonight) made eternal destiny the explicit opening and closing appeal of evangelistic preaching to individuals, which earlier preaching usually framed within church, sacrament or story. Defenders argue this simply applied biblical urgency to unchurched audiences.",
+        "refs": ["Deut 32:35", "John 3:16", "Heb 9:27"],
+        "sources": [
+          { "author": "Jonathan Edwards", "title": "Sinners in the Hands of an Angry God", "year": 1741, "confidence": "scholarly-consensus" },
+          { "author": "D. James Kennedy", "title": "Evangelism Explosion", "year": 1970, "confidence": "scholarly-consensus" }
+        ]
+      }
+    ]
+  },
+  {
+    "question": "When did end-times urgency become central?",
+    "answers": [
+      {
+        "view": "It was central from the beginning, then faded",
+        "evidence": "Jesus announced the kingdom's nearness and spoke of the Son of Man's coming within a generation; Paul's early converts waited for God's Son from heaven, and the Didache closes with watchfulness. Schweitzer's 'consistent eschatology' made this the key to Jesus. On this view the church gradually adjusted to delay, and Augustine's reading of the millennium as the church age (c. 420) finalised the shift.",
+        "refs": ["Mark 9:1", "Mark 13:30-33", "1 Thess 1:9-10", "1 Cor 7:29-31"],
+        "sources": [
+          { "author": "Albert Schweitzer", "title": "The Quest of the Historical Jesus", "year": 1906, "confidence": "debated" },
+          { "author": "Augustine", "title": "City of God", "locator": "20.7–9", "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Inaugurated, not merely imminent: urgency was always balanced with present fulfilment",
+        "evidence": "Dodd, Cullmann and Ladd argued that Jesus and the apostles taught a kingdom already present in Jesus' works and the Spirit, though not yet consummated. Texts warning against date-setting and speaking of the gospel going to all nations first show that urgency served faithfulness rather than countdown.",
+        "refs": ["Matt 12:28", "Acts 1:6-8", "Matt 24:14", "2 Pet 3:8-10"],
+        "sources": [
+          { "author": "George Eldon Ladd", "title": "Jesus and the Kingdom", "year": 1964, "confidence": "scholarly-consensus" },
+          { "author": "Oscar Cullmann", "title": "Christ and Time", "year": 1946, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Episodic revivals of urgency in protest movements",
+        "evidence": "Montanism (2nd century), Joachim of Fiore's followers and preachers like Vincent Ferrer (medieval), radical reformers at Münster (1534) and the Millerites (1844) each made the imminent end central for a time, often in periods of crisis, before institutional churches moderated it.",
+        "refs": ["Rev 21:2", "Dan 8:14", "Matt 24:36"],
+        "sources": [
+          { "author": "Norman Cohn", "title": "The Pursuit of the Millennium", "year": 1957, "confidence": "scholarly-consensus" },
+          { "author": "Eusebius", "title": "Church History", "locator": "5.16–18", "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "It became a mainstream evangelistic theme with dispensational premillennialism (1830s–1970s)",
+        "evidence": "Darby's any-moment rapture, Moody's lifeboat image, the Scofield Bible (1909), Pentecostal 'latter rain' expectation at Azusa (1906) and later best-selling prophecy literature made imminent return a standard motive for conversion and missions in much of Anglo-American evangelicalism. Historians such as Sandeen, Weber and Marsden trace this; supporters see it as a recovery of the early church's hope.",
+        "refs": ["1 Thess 4:13-18", "Rev 3:10", "Joel 2:23-29"],
+        "sources": [
+          { "author": "Ernest R. Sandeen", "title": "The Roots of Fundamentalism", "year": 1970, "confidence": "scholarly-consensus" },
+          { "author": "Timothy C. Weber", "title": "Living in the Shadow of the Second Coming", "year": 1979, "confidence": "scholarly-consensus" }
+        ]
+      }
+    ]
+  },
+  {
+    "question": "When did personal holiness and sin become the centre of the appeal?",
+    "answers": [
+      {
+        "view": "Very early, through post-baptismal discipline (second century)",
+        "evidence": "Once believers were baptised, the pressing pastoral question was serious sin afterwards. The Didache's two ways, Hermas' single further repentance and Tertullian's exomologesis put moral purity and repentance at the centre of preaching to the church.",
+        "refs": ["Heb 6:4-6", "1 John 1:9", "Matt 7:13-14"],
+        "sources": [
+          { "author": "Hermas", "title": "Shepherd of Hermas", "locator": "Mandate 4.3", "confidence": "scholarly-consensus" },
+          { "author": "Anonymous", "title": "Didache", "locator": "1–6", "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "With Augustine and the medieval penitential system",
+        "evidence": "Augustine's teaching on original sin and grace, followed by Irish penitentials, Lateran IV's annual confession and confessors' manuals, made the examination of individual sins the ordinary core of lay religion. Krister Stendahl argued that this produced the 'introspective conscience of the West', which was then read back into Paul.",
+        "refs": ["Rom 7:14-25", "Rom 5:12-21", "Jas 5:16"],
+        "sources": [
+          { "author": "Krister Stendahl", "title": "The Apostle Paul and the Introspective Conscience of the West", "year": 1963, "confidence": "debated" },
+          { "author": "Fourth Lateran Council", "title": "Canons", "year": 1215, "locator": "canon 21", "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "With the Reformation law-gospel pattern and Puritan conversion",
+        "evidence": "Luther's struggle for a gracious God and the Heidelberg Catechism's guilt-grace-gratitude structure made the guilty conscience the starting point of gospel proclamation; Puritan preaching then analysed stages of conviction before conversion. Defenders argue this faithfully follows Romans 1–3.",
+        "refs": ["Rom 3:19-20", "Gal 3:24", "Rom 1:16-17"],
+        "sources": [
+          { "author": "Martin Luther", "title": "The Freedom of a Christian", "year": 1520, "confidence": "scholarly-consensus" },
+          { "author": "Zacharias Ursinus and Caspar Olevianus", "title": "Heidelberg Catechism", "year": 1563, "locator": "Q. 2", "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "With the evangelical revivals and holiness movement (1738 onward)",
+        "evidence": "Wesley's insistence on the new birth and entire sanctification, Finney's call to an immediate act of will, and the nineteenth-century holiness movement placed personal sin, conviction and the experience of being made holy at the centre of mass preaching. David Bebbington identifies conversionism and crucicentrism as defining evangelical marks from this era.",
+        "refs": ["John 3:3-7", "Heb 12:14", "1 Thess 5:23"],
+        "sources": [
+          { "author": "David W. Bebbington", "title": "Evangelicalism in Modern Britain", "year": 1989, "locator": "ch. 1 (the quadrilateral)", "confidence": "scholarly-consensus" },
+          { "author": "John Wesley", "title": "A Plain Account of Christian Perfection", "year": 1766, "confidence": "scholarly-consensus" }
+        ]
+      }
+    ]
+  },
+  {
+    "question": "How do Jesus, the apostles, the Fathers and modern preachers compare?",
+    "answers": [
+      {
+        "view": "Continuity: the same gospel in different idioms",
+        "evidence": "Advocates note that every era proclaims Jesus' death and resurrection, repentance and forgiveness, and a final judgment. Jesus' kingdom call, the apostles' 'Jesus is Lord', the Fathers' rule of faith and the modern evangelist's invitation to receive Christ are different emphases suited to different audiences, not different gospels.",
+        "refs": ["Mark 1:14-15", "Acts 2:38", "1 Cor 15:1-8", "Rom 10:9-10"],
+        "sources": [
+          { "author": "Irenaeus", "title": "Against Heresies", "locator": "1.10.1", "confidence": "scholarly-consensus" },
+          { "author": "Billy Graham", "title": "Peace with God", "year": 1953, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Narrowing: from kingdom and new creation to individual salvation",
+        "evidence": "Scholars such as Wright, McKnight and Willard argue that the gospel's frame shrank: from Jesus' kingdom and the apostles' resurrection-Lordship announcement, through the Fathers' focus on Christology and incarnation, to medieval and modern focus on the individual soul's destiny and guilt. They point to creeds silent on Jesus' ministry and tracts silent on Israel and the kingdom.",
+        "refs": ["Luke 4:16-21", "Acts 3:19-21", "Rom 8:18-23", "Rev 21:1-5"],
+        "sources": [
+          { "author": "Scot McKnight", "title": "The King Jesus Gospel", "year": 2011, "confidence": "scholarly-consensus" },
+          { "author": "Dallas Willard", "title": "The Divine Conspiracy", "year": 1998, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Faithful development: later preaching made explicit what was implicit",
+        "evidence": "Catholic, Orthodox and many Protestant theologians argue that development is legitimate: the Fathers clarified who Jesus is (Nicaea), Augustine and Anselm clarified sin and atonement, the Reformers clarified faith, and modern evangelists clarified personal response. Newman's theory of doctrinal development is one articulation; evangelicals often argue Paul's letters already supply the individual focus.",
+        "refs": ["John 16:12-15", "Jude 1:3", "Rom 3:21-26"],
+        "sources": [
+          { "author": "John Henry Newman", "title": "An Essay on the Development of Christian Doctrine", "year": 1845, "confidence": "scholarly-consensus" },
+          { "author": "Anselm of Canterbury", "title": "Cur Deus Homo", "year": 1098, "confidence": "scholarly-consensus" }
+        ]
+      },
+      {
+        "view": "Recurring cycles of loss and recovery",
+        "evidence": "Some historians see a pattern of rediscovery rather than a single line: Irenaeus recovered creation against gnosticism, the Reformers recovered grace against a penitential system, Anabaptists and later Lausanne voices recovered kingdom discipleship and justice, Pentecostals recovered the Spirit, and today's kingdom theologians recover new creation. Each recovery tends to under-emphasise something else, which the next corrects.",
+        "refs": ["Gal 1:6-9", "Rev 2:4-5", "Acts 2:1-4"],
+        "sources": [
+          { "author": "Mark A. Noll", "title": "Turning Points: Decisive Moments in the History of Christianity", "year": 1997, "confidence": "scholarly-consensus" },
+          { "author": "Andrew F. Walls", "title": "The Missionary Movement in Christian History", "year": 1996, "confidence": "scholarly-consensus" }
+        ]
+      }
+    ]
+  }
+]

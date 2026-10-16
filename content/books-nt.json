@@ -1,0 +1,3209 @@
+[
+  {
+    "id": "canon-formation",
+    "abbr": "Gen",
+    "name": "How the Canon Formed",
+    "testament": "NT",
+    "genre": "Overview",
+    "authorship": {
+      "traditional": "Not a book but a process: Christian tradition holds that the church recognised, rather than created, the books God had inspired, testing them by apostolic origin, orthodoxy, antiquity and widespread use in worship.",
+      "scholarly": "Historians describe a gradual process over roughly three centuries in which a core (four Gospels, Paul's letters, Acts, 1 Peter, 1 John) was settled by the late second century, while the edges (Hebrews, James, 2 Peter, 2-3 John, Jude, Revelation) remained disputed in some regions into the fourth century and beyond."
+    },
+    "date": {
+      "year": 367,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Core NT collection in wide use (Irenaeus)",
+          "year": 180,
+          "source": "Irenaeus, Against Heresies 3.11.8"
+        },
+        {
+          "label": "Councils of Hippo / Carthage endorse 27 books in the West",
+          "year": 397
+        },
+        {
+          "label": "Council of Trent defines the Catholic canon dogmatically",
+          "year": 1546
+        }
+      ]
+    },
+    "audience": "Readers asking why the Bible contains these books and not others, and why Protestant, Catholic and Orthodox Bibles differ in the Old Testament while agreeing on the New.",
+    "setting": "From the Second Temple period, when the Hebrew Scriptures were read in three divisions and translated into Greek, through the apostolic letters circulating among churches, second-century controversies (Marcion, Gnostic gospels), fourth-century lists and councils, and the Reformation-era debates over the Old Testament Apocrypha.",
+    "purpose": "To trace, step by step, how the books of the Bible came to be received as Scripture, separating what the biblical text itself says from later church decisions and from scholarly reconstruction.",
+    "themes": [
+      "Recognition rather than invention: the criteria of apostolicity, orthodoxy, antiquity and catholic (widespread) use",
+      "The Old Testament the apostles read: Hebrew Scriptures and the Greek Septuagint",
+      "Disputed books (antilegomena) and regional variation",
+      "Pressure from heresy (Marcion) and from persecution (which books to die for)",
+      "Fourth-century lists: Eusebius, Athanasius, the African councils",
+      "Why Protestant, Catholic and Orthodox Old Testaments differ"
+    ],
+    "outline": [
+      {
+        "title": "Hebrew Bible / Tanakh: Law, Prophets and Writings",
+        "refs": [
+          "Luke 24:44",
+          "Luke 24:27",
+          "Rom 3:2"
+        ],
+        "children": [
+          {
+            "title": "Jesus speaks of the Law of Moses, the Prophets and the Psalms",
+            "refs": [
+              "Luke 24:44"
+            ]
+          },
+          {
+            "title": "From Abel to Zechariah: first to last in the Hebrew order",
+            "refs": [
+              "Luke 11:51"
+            ]
+          },
+          {
+            "title": "The 'Council of Jamnia' (c. 90) theory is now widely doubted; the Tanakh's limits were largely settled earlier",
+            "refs": [
+              "Matt 5:17-18"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Septuagint (3rd-2nd c. BC): the Greek Old Testament of the early church",
+        "refs": [
+          "Acts 8:32-33",
+          "Heb 10:5-7"
+        ],
+        "children": [
+          {
+            "title": "Translated in Alexandria; many NT quotations follow the Greek",
+            "refs": [
+              "Heb 10:5"
+            ]
+          },
+          {
+            "title": "Its manuscripts also carry books outside the Hebrew canon (later called Apocrypha or deuterocanonical)",
+            "refs": [
+              "2 Tim 3:15"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "NT writings circulate (c. 50-100)",
+        "refs": [
+          "Col 4:16",
+          "1 Thess 5:27",
+          "2 Pet 3:15-16"
+        ],
+        "children": [
+          {
+            "title": "Paul's letters read aloud and exchanged between churches",
+            "refs": [
+              "Col 4:16"
+            ]
+          },
+          {
+            "title": "Paul's letters already set beside 'the other Scriptures'",
+            "refs": [
+              "2 Pet 3:16"
+            ]
+          },
+          {
+            "title": "Words of Jesus cited with Scripture",
+            "refs": [
+              "1 Tim 5:18",
+              "Luke 10:7"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Marcion (c. 144): a shortened canon provokes a response",
+        "refs": [
+          "Gal 1:6-9"
+        ],
+        "children": [
+          {
+            "title": "Rejects the Old Testament and its God; keeps an edited Luke and ten letters of Paul",
+            "refs": [
+              "Luke 1:1-4"
+            ]
+          },
+          {
+            "title": "The church answers by affirming the OT and a wider apostolic collection",
+            "refs": [
+              "Rom 15:4"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Muratorian fragment (late 2nd c., some argue 4th c.)",
+        "refs": [
+          "Luke 1:3",
+          "John 21:24"
+        ],
+        "children": [
+          {
+            "title": "Lists four Gospels (Luke and John named), Acts, thirteen letters of Paul, Jude, two letters of John, Revelation",
+            "refs": [
+              "Acts 1:1"
+            ]
+          },
+          {
+            "title": "Also accepts Wisdom of Solomon; mentions the Apocalypse of Peter as disputed; rejects the Shepherd of Hermas for public reading",
+            "refs": [
+              "Rev 1:3"
+            ]
+          },
+          {
+            "title": "Silent on Hebrews, James and 1-2 Peter",
+            "refs": [
+              "Heb 13:22"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Irenaeus (c. 180): the fourfold Gospel",
+        "refs": [
+          "John 20:30-31",
+          "2 Tim 1:13-14"
+        ],
+        "children": [
+          {
+            "title": "Argues there are four Gospels, no more and no fewer (Against Heresies 3.11.8)",
+            "refs": [
+              "John 20:31"
+            ]
+          },
+          {
+            "title": "Appeals to apostolic succession and the rule of faith against Gnostic writings",
+            "refs": [
+              "2 Tim 2:2"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Origen (c. 185-254): accepted and disputed books",
+        "refs": [
+          "Heb 1:1-2"
+        ],
+        "children": [
+          {
+            "title": "Uses all 27 books but notes doubts about Hebrews, James, 2 Peter, 2-3 John and Jude",
+            "refs": [
+              "2 Pet 1:1"
+            ]
+          },
+          {
+            "title": "On Hebrews: the thoughts are Paul's, but who wrote it only God knows (reported by Eusebius, Church History 6.25)",
+            "refs": [
+              "Heb 13:22-23"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Eusebius (c. 325): three categories",
+        "refs": [
+          "2 John 1:1",
+          "3 John 1:1",
+          "Jas 1:1"
+        ],
+        "children": [
+          {
+            "title": "Recognised (homologoumena): four Gospels, Acts, Paul, 1 John, 1 Peter; Revelation 'if it seem proper'",
+            "refs": [
+              "1 Pet 1:1"
+            ]
+          },
+          {
+            "title": "Disputed but known to most (antilegomena): James, Jude, 2 Peter, 2-3 John",
+            "refs": [
+              "Jude 1:1"
+            ]
+          },
+          {
+            "title": "Spurious and heretical works rejected (Church History 3.25)",
+            "refs": [
+              "1 John 4:1"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Athanasius, 39th Festal Letter (367): first list of exactly our 27 NT books",
+        "refs": [
+          "Rev 22:18-19"
+        ],
+        "children": [
+          {
+            "title": "Calls them 'springs of salvation'; nothing to be added or taken away",
+            "refs": [
+              "Rev 22:18"
+            ]
+          },
+          {
+            "title": "Commends some other books (Wisdom, Sirach, Esther, Judith, Tobit, Didache, Shepherd) for catechumens but not as canon",
+            "refs": [
+              "1 Pet 2:2"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Councils of Hippo (393) and Carthage (397): the West endorses 27 books",
+        "refs": [
+          "1 Thess 5:21",
+          "Acts 15:28"
+        ],
+        "children": [
+          {
+            "title": "Regional North African councils, influenced by Augustine; list includes the deuterocanonical OT books",
+            "refs": [
+              "Acts 15:6"
+            ]
+          },
+          {
+            "title": "Jerome's Vulgate distinguishes Hebrew canon from 'church books' but includes them",
+            "refs": [
+              "Rom 3:2"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Trent (1546): the Catholic canon defined",
+        "refs": [
+          "2 Thess 2:15"
+        ],
+        "children": [
+          {
+            "title": "Responding to the Reformers, affirms 73 books (with the deuterocanonicals) as canonical",
+            "refs": [
+              "2 Tim 3:16"
+            ]
+          },
+          {
+            "title": "Luther (1534) prints the Apocrypha in a separate section, 'useful and good to read' but not Scripture",
+            "refs": [
+              "Acts 17:11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Protestant, Catholic and Orthodox differences today",
+        "refs": [
+          "2 Tim 3:16-17",
+          "2 Pet 1:20-21"
+        ],
+        "children": [
+          {
+            "title": "All three share the same 27-book New Testament",
+            "refs": [
+              "2 Pet 3:16"
+            ]
+          },
+          {
+            "title": "Protestant OT follows the Hebrew canon (39 books); Catholic adds 7 deuterocanonical books plus additions to Esther and Daniel; Orthodox adds further books (1 Esdras, 3 Maccabees, Prayer of Manasseh, Psalm 151)",
+            "refs": [
+              "Luke 24:44"
+            ]
+          },
+          {
+            "title": "Some churches keep wider or narrower canons: Syriac Peshitta (22 NT books), Ethiopian Orthodox (81 books)",
+            "refs": [
+              "Acts 8:27-28"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Luke 24:44",
+      "2 Tim 3:16-17",
+      "2 Pet 3:15-16",
+      "2 Pet 1:20-21",
+      "Col 4:16",
+      "Rom 3:2",
+      "Rev 22:18-19"
+    ],
+    "bigStory": "Jesus and the apostles already had Scripture: the Law, Prophets and Writings, read in Hebrew and Greek. Over the next three centuries the churches gathered the apostolic writings they had been reading in worship, argued over a handful of disputed books, and by the late fourth century converged on the same 27-book New Testament that Christians still share.",
+    "canonNote": "Three main canons exist today. The Protestant Bible has 66 books: a 39-book Old Testament matching the Hebrew Bible (Tanakh, counted as 24 books in Jewish reckoning) and the 27-book New Testament. The Catholic Bible has 73 books: it adds Tobit, Judith, 1-2 Maccabees, Wisdom of Solomon, Sirach (Ecclesiasticus) and Baruch, plus Greek additions to Esther and Daniel, as defined at Trent (1546) following the Septuagint/Vulgate tradition and the African councils. Eastern Orthodox Bibles follow the Septuagint more fully and add 1 Esdras, 3 Maccabees, the Prayer of Manasseh and Psalm 151 (4 Maccabees often in an appendix); the Orthodox churches have not fixed the edges of the Old Testament by a single ecumenical decree.\n\nAll three agree on the 27-book New Testament, first listed exactly by Athanasius in 367. Smaller traditions differ at the edges: the Syriac Peshitta's 22-book New Testament omits 2 Peter, 2-3 John, Jude and Revelation, and the Ethiopian Orthodox Tewahedo canon is broader still (including 1 Enoch and Jubilees). Protestants speak of the Apocrypha, Catholics and Orthodox of deuterocanonical books (\"second canon\"), and the difference turns on whether the church's Old Testament should follow the Hebrew canon or the church's historic Greek and Latin Bibles."
+  },
+  {
+    "id": "matthew",
+    "abbr": "Matt",
+    "name": "Matthew",
+    "testament": "NT",
+    "genre": "Gospel",
+    "authorship": {
+      "traditional": "Matthew (Levi) the tax collector and apostle. Papias (c. 120s, quoted by Eusebius, Church History 3.39.16) said Matthew compiled the sayings 'in the Hebrew dialect', and early church writers uniformly attribute the Gospel to him.",
+      "scholarly": "The Gospel itself is anonymous. Most critical scholars hold that it was written in Greek by a Jewish-Christian teacher who used Mark and a sayings source (Q), which makes an eyewitness apostle seem less likely to them. Others argue the title tradition is early and unanimous, that Matthew may have been a source or patron of the work, and that Papias's remark may refer to Semitic style rather than language."
+    },
+    "date": {
+      "year": 85,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Before the fall of Jerusalem (traditional and some conservative scholars)",
+          "year": 62
+        },
+        {
+          "label": "Majority critical range (after Mark, after 70)",
+          "year": 80
+        },
+        {
+          "label": "Later end of critical range",
+          "year": 90
+        }
+      ]
+    },
+    "audience": "Jewish Christians, probably in Syria (Antioch is often suggested) or Galilee, living in tension with the synagogue after the destruction of the Temple.",
+    "setting": "A community that kept the Law and the Jewish Scriptures but now confessed Jesus as Messiah and was drawing in Gentiles, in debate with emerging rabbinic leadership.",
+    "purpose": "To show that Jesus is the Messiah, Son of David and Son of Abraham, who fulfils the Law and the Prophets, to teach the community his commands in five great discourses, and to send it to make disciples of all nations.",
+    "themes": [
+      "Fulfilment of Scripture ('this was to fulfil what was spoken')",
+      "The kingdom of heaven",
+      "Jesus as the new Moses and authoritative teacher of the Law",
+      "Righteousness that surpasses the scribes and Pharisees",
+      "The church (ekklesia) and discipleship",
+      "Mission to Israel widening to all nations"
+    ],
+    "outline": [
+      {
+        "title": "Birth and infancy of the Messiah",
+        "refs": [
+          "Matt 1-2"
+        ],
+        "children": [
+          {
+            "title": "Genealogy from Abraham through David",
+            "refs": [
+              "Matt 1:1-17"
+            ]
+          },
+          {
+            "title": "Magi, flight to Egypt, return to Nazareth",
+            "refs": [
+              "Matt 2:1-23"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Preparation and the Sermon on the Mount (discourse 1)",
+        "refs": [
+          "Matt 3-7"
+        ],
+        "children": [
+          {
+            "title": "Baptism and temptation",
+            "refs": [
+              "Matt 3:13-4:11"
+            ]
+          },
+          {
+            "title": "Beatitudes, Law fulfilled, Lord's Prayer",
+            "refs": [
+              "Matt 5:1-7:29"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Mighty works and the mission discourse (discourse 2)",
+        "refs": [
+          "Matt 8-10"
+        ]
+      },
+      {
+        "title": "Rising opposition and the kingdom parables (discourse 3)",
+        "refs": [
+          "Matt 11-13"
+        ]
+      },
+      {
+        "title": "Peter's confession and life in the community (discourse 4)",
+        "refs": [
+          "Matt 14-18"
+        ],
+        "children": [
+          {
+            "title": "You are the Christ; on this rock",
+            "refs": [
+              "Matt 16:13-20"
+            ]
+          },
+          {
+            "title": "Transfiguration",
+            "refs": [
+              "Matt 17:1-8"
+            ]
+          },
+          {
+            "title": "Humility, discipline, forgiveness",
+            "refs": [
+              "Matt 18:1-35"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Jerusalem: conflict, woes and the Olivet discourse (discourse 5)",
+        "refs": [
+          "Matt 19-25"
+        ],
+        "children": [
+          {
+            "title": "Triumphal entry and temple",
+            "refs": [
+              "Matt 21:1-17"
+            ]
+          },
+          {
+            "title": "Woes on scribes and Pharisees",
+            "refs": [
+              "Matt 23:1-39"
+            ]
+          },
+          {
+            "title": "End of the age and parables of judgment",
+            "refs": [
+              "Matt 24:1-25:46"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Passion, resurrection and Great Commission",
+        "refs": [
+          "Matt 26-28"
+        ],
+        "children": [
+          {
+            "title": "Last Supper, arrest, trials, crucifixion",
+            "refs": [
+              "Matt 26:1-27:66"
+            ]
+          },
+          {
+            "title": "Empty tomb and commission to all nations",
+            "refs": [
+              "Matt 28:1-20"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Matt 1:1",
+      "Matt 5:17-20",
+      "Matt 6:9-13",
+      "Matt 16:16-19",
+      "Matt 22:37-40",
+      "Matt 25:31-46",
+      "Matt 28:18-20"
+    ],
+    "bigStory": "Matthew opens the New Testament by tying Jesus to Abraham and David and presenting him as the one in whom Israel's story reaches its goal. He is Immanuel, God with us, at the start, and promises to be with his disciples to the end of the age as they carry his teaching to all nations.",
+    "canonNote": "Matthew was the most quoted Gospel in the early church and stands first in almost every canon list and manuscript order; its place was never disputed."
+  },
+  {
+    "id": "mark",
+    "abbr": "Mark",
+    "name": "Mark",
+    "testament": "NT",
+    "genre": "Gospel",
+    "authorship": {
+      "traditional": "John Mark, companion of Paul, Barnabas and Peter, writing down Peter's preaching. Papias (quoted by Eusebius, Church History 3.39.15) says Mark was Peter's interpreter and wrote accurately, though not in order.",
+      "scholarly": "The work is anonymous, but many scholars accept that a Mark wrote it, since attaching it to a minor figure would be an odd invention. Whether it depends directly on Peter is debated: some see Petrine eyewitness shaping (e.g. Bauckham), others see community traditions arranged by an author whose identity cannot be confirmed."
+    },
+    "date": {
+      "year": 68,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Just after the fall of Jerusalem",
+          "year": 71
+        },
+        {
+          "label": "Early dating (a minority, e.g. J. Crossley)",
+          "year": 45
+        },
+        {
+          "label": "Rome, around Nero's persecution (traditional)",
+          "year": 65
+        }
+      ]
+    },
+    "audience": "Largely Gentile Christians unfamiliar with Jewish customs (Mark explains them), traditionally in Rome; some scholars propose Syria or Galilee.",
+    "setting": "A church facing suffering and possibly persecution, around the time of the Jewish War (66-70), needing to understand a crucified Messiah.",
+    "purpose": "To proclaim the good news of Jesus the Messiah, Son of God, showing that his authority is revealed in suffering and the cross, and calling readers to follow him on the way of the cross.",
+    "themes": [
+      "Jesus as Son of God and suffering Son of Man",
+      "The messianic secret and misunderstanding disciples",
+      "Discipleship as taking up the cross",
+      "Urgency ('immediately') and action",
+      "The kingdom of God breaking in through exorcism and healing"
+    ],
+    "outline": [
+      {
+        "title": "Prologue: John the Baptist, baptism, testing",
+        "refs": [
+          "Mark 1:1-13"
+        ]
+      },
+      {
+        "title": "Ministry in Galilee: authority and controversy",
+        "refs": [
+          "Mark 1:14-3:35"
+        ],
+        "children": [
+          {
+            "title": "Calling of disciples and healings at Capernaum",
+            "refs": [
+              "Mark 1:16-45"
+            ]
+          },
+          {
+            "title": "Conflicts over forgiveness and Sabbath",
+            "refs": [
+              "Mark 2:1-3:6"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Parables and mighty works around the lake",
+        "refs": [
+          "Mark 4-8"
+        ],
+        "children": [
+          {
+            "title": "Parable of the sower",
+            "refs": [
+              "Mark 4:1-20"
+            ]
+          },
+          {
+            "title": "Storm, demoniac, Jairus's daughter",
+            "refs": [
+              "Mark 4:35-5:43"
+            ]
+          },
+          {
+            "title": "Feedings of five thousand and four thousand",
+            "refs": [
+              "Mark 6:30-8:10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "On the way: Peter's confession and three passion predictions",
+        "refs": [
+          "Mark 8:27-10:52"
+        ],
+        "children": [
+          {
+            "title": "You are the Christ; take up your cross",
+            "refs": [
+              "Mark 8:27-38"
+            ]
+          },
+          {
+            "title": "The Son of Man came to serve and give his life a ransom",
+            "refs": [
+              "Mark 10:45"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Jerusalem: temple, controversy, the coming end",
+        "refs": [
+          "Mark 11-13"
+        ]
+      },
+      {
+        "title": "Passion and empty tomb",
+        "refs": [
+          "Mark 14-16"
+        ],
+        "children": [
+          {
+            "title": "Supper, Gethsemane, trials, cross",
+            "refs": [
+              "Mark 14:1-15:47"
+            ]
+          },
+          {
+            "title": "The tomb is empty; the women flee afraid",
+            "refs": [
+              "Mark 16:1-8"
+            ]
+          },
+          {
+            "title": "Longer ending (absent from the earliest manuscripts)",
+            "refs": [
+              "Mark 16:9-20"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Mark 1:1",
+      "Mark 1:15",
+      "Mark 8:29",
+      "Mark 8:34-35",
+      "Mark 10:45",
+      "Mark 15:39",
+      "Mark 16:6"
+    ],
+    "bigStory": "Mark is the shortest and probably earliest Gospel, a fast-moving account in which Jesus' power is plain yet his identity is misunderstood until a Roman centurion at the cross calls him the Son of God. It ends abruptly at the empty tomb, leaving readers to answer the call to follow.",
+    "canonNote": "Mark was accepted everywhere, though it was less quoted than Matthew. The ending is the main textual question: Codex Sinaiticus and Vaticanus end at 16:8, and most scholars regard 16:9-20 as a later addition, though some defend it and it remains in church lectionaries."
+  },
+  {
+    "id": "luke",
+    "abbr": "Luke",
+    "name": "Luke",
+    "testament": "NT",
+    "genre": "Gospel",
+    "authorship": {
+      "traditional": "Luke the physician, a companion of Paul, who also wrote Acts. Irenaeus (Against Heresies 3.1.1) and the Muratorian fragment name him.",
+      "scholarly": "Almost all scholars agree Luke and Acts share one author. Many accept Luke the companion of Paul, pointing to the 'we' passages of Acts; others think the author was a later admirer of Paul, noting differences between Acts and Paul's letters. The author used Mark and other sources, as his preface says."
+    },
+    "date": {
+      "year": 85,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Before Acts, written while Paul was still alive (c. 62)",
+          "year": 60
+        },
+        {
+          "label": "Majority critical view",
+          "year": 85
+        },
+        {
+          "label": "Second-century dating (minority)",
+          "year": 115
+        }
+      ]
+    },
+    "audience": "Theophilus, probably a Gentile patron, and through him a wider Greek-speaking, largely Gentile church.",
+    "setting": "Churches spread across the Mediterranean needing an orderly, well-researched account linking Jesus to Israel's hopes and to the Gentile mission.",
+    "purpose": "To give Theophilus certainty about what he had been taught by setting out an orderly account of Jesus as Saviour for Israel and the nations, with special concern for the poor, women, outsiders and the work of the Spirit.",
+    "themes": [
+      "Salvation for all: Jews, Samaritans, Gentiles, the poor and outcast",
+      "The Holy Spirit and prayer",
+      "Reversal: the humble lifted, the proud brought low",
+      "Jerusalem as the goal of the journey",
+      "Joy and table fellowship"
+    ],
+    "outline": [
+      {
+        "title": "Prologue and infancy narratives",
+        "refs": [
+          "Luke 1-2"
+        ],
+        "children": [
+          {
+            "title": "Dedication to Theophilus",
+            "refs": [
+              "Luke 1:1-4"
+            ]
+          },
+          {
+            "title": "Births of John and Jesus; Magnificat, Benedictus, Nunc Dimittis",
+            "refs": [
+              "Luke 1:5-2:40"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Preparation: John, baptism, genealogy, temptation",
+        "refs": [
+          "Luke 3:1-4:13"
+        ]
+      },
+      {
+        "title": "Ministry in Galilee",
+        "refs": [
+          "Luke 4:14-9:50"
+        ],
+        "children": [
+          {
+            "title": "Nazareth manifesto: good news to the poor",
+            "refs": [
+              "Luke 4:16-30"
+            ]
+          },
+          {
+            "title": "Sermon on the Plain",
+            "refs": [
+              "Luke 6:17-49"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Journey to Jerusalem",
+        "refs": [
+          "Luke 9:51-19:27"
+        ],
+        "children": [
+          {
+            "title": "Good Samaritan",
+            "refs": [
+              "Luke 10:25-37"
+            ]
+          },
+          {
+            "title": "Lost sheep, coin and son",
+            "refs": [
+              "Luke 15:1-32"
+            ]
+          },
+          {
+            "title": "Zacchaeus",
+            "refs": [
+              "Luke 19:1-10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Jerusalem: teaching, passion and death",
+        "refs": [
+          "Luke 19:28-23:56"
+        ]
+      },
+      {
+        "title": "Resurrection, Emmaus and ascension",
+        "refs": [
+          "Luke 24"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Luke 1:1-4",
+      "Luke 2:10-11",
+      "Luke 4:18-19",
+      "Luke 15:20-24",
+      "Luke 19:10",
+      "Luke 24:44-47"
+    ],
+    "bigStory": "Luke's careful account, the first half of a two-volume work, follows Jesus from the temple in Jerusalem through Galilee and back to Jerusalem, where he dies and rises. Along the way he seeks and saves the lost, and he ends by opening the Scriptures and promising the Spirit for a mission to all nations.",
+    "canonNote": "Luke was universally accepted. Marcion (c. 144) used an edited form of Luke as his only Gospel, which pushed other churches to affirm the full fourfold Gospel."
+  },
+  {
+    "id": "john",
+    "abbr": "John",
+    "name": "John",
+    "testament": "NT",
+    "genre": "Gospel",
+    "authorship": {
+      "traditional": "John the son of Zebedee, identified with 'the disciple whom Jesus loved', writing in Ephesus in old age (Irenaeus, Against Heresies 3.1.1).",
+      "scholarly": "The Gospel claims the witness of the Beloved Disciple (John 21:24) but does not name him. Many scholars see a multi-stage composition within a 'Johannine community', with the Beloved Disciple as its founding witness; some identify him with John the Elder mentioned by Papias rather than the apostle (e.g. Bauckham), and others still defend the son of Zebedee."
+    },
+    "date": {
+      "year": 90,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Common critical range",
+          "year": 95
+        },
+        {
+          "label": "Early dating before 70 (J. A. T. Robinson and others)",
+          "year": 65
+        }
+      ]
+    },
+    "audience": "Believers, and perhaps seekers, in a mixed Jewish and Gentile setting, traditionally Ephesus, some of whom had been expelled from the synagogue.",
+    "setting": "Late first-century tension with synagogue leaders and questions about Jesus' identity, possibly alongside early docetic ideas.",
+    "purpose": "Stated explicitly: written so that readers may believe that Jesus is the Messiah, the Son of God, and by believing have life in his name.",
+    "themes": [
+      "Jesus as the eternal Word made flesh",
+      "Signs that reveal his glory",
+      "The 'I am' sayings",
+      "Belief and eternal life",
+      "Light and darkness, truth and falsehood",
+      "The Spirit-Paraclete and love among disciples"
+    ],
+    "outline": [
+      {
+        "title": "Prologue: the Word became flesh",
+        "refs": [
+          "John 1:1-18"
+        ]
+      },
+      {
+        "title": "Book of Signs",
+        "refs": [
+          "John 1:19-12:50"
+        ],
+        "children": [
+          {
+            "title": "Water to wine at Cana",
+            "refs": [
+              "John 2:1-11"
+            ]
+          },
+          {
+            "title": "Nicodemus and the Samaritan woman",
+            "refs": [
+              "John 3:1-4:42"
+            ]
+          },
+          {
+            "title": "Bread of life",
+            "refs": [
+              "John 6:1-71"
+            ]
+          },
+          {
+            "title": "Man born blind and the Good Shepherd",
+            "refs": [
+              "John 9:1-10:42"
+            ]
+          },
+          {
+            "title": "Raising of Lazarus",
+            "refs": [
+              "John 11:1-44"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Farewell discourse in the upper room",
+        "refs": [
+          "John 13-17"
+        ],
+        "children": [
+          {
+            "title": "Foot washing and the new commandment",
+            "refs": [
+              "John 13:1-35"
+            ]
+          },
+          {
+            "title": "Way, truth, life; the promised Spirit",
+            "refs": [
+              "John 14:1-31"
+            ]
+          },
+          {
+            "title": "Jesus' prayer for his disciples",
+            "refs": [
+              "John 17:1-26"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Book of Glory: passion and resurrection",
+        "refs": [
+          "John 18-20"
+        ],
+        "children": [
+          {
+            "title": "Arrest, trial before Pilate, crucifixion",
+            "refs": [
+              "John 18:1-19:42"
+            ]
+          },
+          {
+            "title": "Mary Magdalene, the disciples and Thomas",
+            "refs": [
+              "John 20:1-29"
+            ]
+          },
+          {
+            "title": "Purpose statement",
+            "refs": [
+              "John 20:30-31"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Epilogue: Galilee, Peter restored",
+        "refs": [
+          "John 21"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "John 1:1-14",
+      "John 3:16",
+      "John 8:58",
+      "John 11:25-26",
+      "John 14:6",
+      "John 20:28",
+      "John 20:30-31"
+    ],
+    "bigStory": "John begins before creation, with the Word who was with God and was God, and tells how that Word became flesh and revealed the Father's glory through signs, discourses and above all the cross. The book closes with a purpose statement inviting readers to believe and live.",
+    "canonNote": "Some second-century groups favoured John (Valentinian Gnostics) and a few critics (the so-called Alogi) rejected it, but Irenaeus defended it as one of four Gospels and its place was secure by the late second century."
+  },
+  {
+    "id": "acts",
+    "abbr": "Acts",
+    "name": "Acts",
+    "testament": "NT",
+    "genre": "History (Hellenistic historiography)",
+    "authorship": {
+      "traditional": "Luke the physician, author of the Third Gospel and companion of Paul; the 'we' passages reflect his presence.",
+      "scholarly": "Common authorship with Luke is nearly universal. Whether the author travelled with Paul is debated: supporters cite the 'we' passages and accurate local detail; critics note differences from Paul's letters (e.g. on the Jerusalem council and Paul's theology) and see a later idealising historian."
+    },
+    "date": {
+      "year": 85,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Early date: written when the narrative ends, Paul still under house arrest",
+          "year": 62
+        },
+        {
+          "label": "Majority critical view",
+          "year": 85
+        },
+        {
+          "label": "Second-century dating (minority, e.g. Pervo)",
+          "year": 115
+        }
+      ]
+    },
+    "audience": "Theophilus and the wider Gentile-majority church.",
+    "setting": "A church that has spread from Jerusalem to Rome and needs to understand how a Jewish messianic movement became a multi-ethnic body, and how it stood before Roman authorities.",
+    "purpose": "To continue the story of what Jesus 'began to do and teach', showing the risen Lord at work by his Spirit as the witness spreads from Jerusalem to Judea, Samaria and the ends of the earth.",
+    "themes": [
+      "The Holy Spirit empowering witness",
+      "Expansion from Jerusalem to Rome",
+      "Inclusion of Gentiles without circumcision",
+      "Resurrection preaching (the apostolic kerygma)",
+      "God's sovereignty through opposition and imprisonment"
+    ],
+    "outline": [
+      {
+        "title": "Jerusalem: ascension, Pentecost, early church",
+        "refs": [
+          "Acts 1-7"
+        ],
+        "children": [
+          {
+            "title": "Programme: Jerusalem, Judea, Samaria, ends of the earth",
+            "refs": [
+              "Acts 1:8"
+            ]
+          },
+          {
+            "title": "Pentecost and Peter's sermon",
+            "refs": [
+              "Acts 2:1-41"
+            ]
+          },
+          {
+            "title": "Stephen's speech and martyrdom",
+            "refs": [
+              "Acts 6:8-7:60"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Judea and Samaria: Philip, Saul, Cornelius",
+        "refs": [
+          "Acts 8-12"
+        ],
+        "children": [
+          {
+            "title": "Philip and the Ethiopian official",
+            "refs": [
+              "Acts 8:26-40"
+            ]
+          },
+          {
+            "title": "Saul's conversion",
+            "refs": [
+              "Acts 9:1-19"
+            ]
+          },
+          {
+            "title": "Peter and Cornelius",
+            "refs": [
+              "Acts 10:1-48"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Paul's first journey and the Jerusalem council",
+        "refs": [
+          "Acts 13-15"
+        ]
+      },
+      {
+        "title": "Second and third journeys: Europe and Ephesus",
+        "refs": [
+          "Acts 15:36-21:16"
+        ],
+        "children": [
+          {
+            "title": "Philippi and the Macedonian call",
+            "refs": [
+              "Acts 16:6-40"
+            ]
+          },
+          {
+            "title": "Athens and Corinth",
+            "refs": [
+              "Acts 17:16-18:17"
+            ]
+          },
+          {
+            "title": "Ephesus and farewell to the elders",
+            "refs": [
+              "Acts 19:1-20:38"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Paul's arrest, trials and voyage to Rome",
+        "refs": [
+          "Acts 21:17-28:31"
+        ],
+        "children": [
+          {
+            "title": "Defences before Felix, Festus and Agrippa",
+            "refs": [
+              "Acts 24:1-26:32"
+            ]
+          },
+          {
+            "title": "Shipwreck and arrival in Rome",
+            "refs": [
+              "Acts 27:1-28:31"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Acts 1:8",
+      "Acts 2:38-42",
+      "Acts 4:12",
+      "Acts 9:15",
+      "Acts 10:34-35",
+      "Acts 15:11",
+      "Acts 28:30-31"
+    ],
+    "bigStory": "Acts tells how a small group of Jesus' followers in Jerusalem, filled with the Spirit at Pentecost, carried the message across the Roman world. It ends with Paul in Rome under house arrest, still proclaiming the kingdom of God boldly and without hindrance.",
+    "canonNote": "Acts was accepted without serious dispute and is named in the Muratorian fragment as 'the acts of all the apostles'; Marcion rejected it. In many Greek manuscripts it is grouped with the Catholic (general) letters."
+  },
+  {
+    "id": "romans",
+    "abbr": "Rom",
+    "name": "Romans",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, dictating to Tertius (Rom 16:22).",
+      "scholarly": "Undisputed: Romans is one of the seven letters virtually all scholars accept as Paul's. Debate concerns the integrity of chapter 16 and the two-chapter textual variations, not authorship."
+    },
+    "date": {
+      "year": 57,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Range sometimes given",
+          "year": 56
+        },
+        {
+          "label": "Later end of range",
+          "year": 58
+        }
+      ]
+    },
+    "audience": "The church in Rome, a mixed congregation of Jewish and Gentile believers that Paul had not founded or yet visited.",
+    "setting": "Written from Corinth near the end of the third journey, before Paul took the collection to Jerusalem and planned to go on to Spain. Jewish believers had returned after Claudius's expulsion (c. 49), possibly creating tension with a Gentile majority.",
+    "purpose": "To set out the gospel Paul preaches, to unite Jewish and Gentile believers, to explain God's faithfulness to Israel, and to gain support for his mission to Spain.",
+    "themes": [
+      "The righteousness of God revealed in the gospel",
+      "Universal sin and justification by faith",
+      "Union with Christ and life in the Spirit",
+      "God's faithfulness to Israel",
+      "Love and mutual welcome between strong and weak"
+    ],
+    "outline": [
+      {
+        "title": "Greeting and theme: the gospel is God's power to save",
+        "refs": [
+          "Rom 1:1-17"
+        ]
+      },
+      {
+        "title": "All have sinned: Gentile and Jew under judgment",
+        "refs": [
+          "Rom 1:18-3:20"
+        ]
+      },
+      {
+        "title": "Justification by faith",
+        "refs": [
+          "Rom 3:21-5:21"
+        ],
+        "children": [
+          {
+            "title": "Righteousness through faith in Christ",
+            "refs": [
+              "Rom 3:21-26"
+            ]
+          },
+          {
+            "title": "Abraham, believed and counted righteous",
+            "refs": [
+              "Rom 4:1-25"
+            ]
+          },
+          {
+            "title": "Adam and Christ",
+            "refs": [
+              "Rom 5:12-21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "New life: freedom from sin, law and death",
+        "refs": [
+          "Rom 6-8"
+        ],
+        "children": [
+          {
+            "title": "Baptised into Christ's death",
+            "refs": [
+              "Rom 6:1-14"
+            ]
+          },
+          {
+            "title": "The struggle with the law",
+            "refs": [
+              "Rom 7:7-25"
+            ]
+          },
+          {
+            "title": "Life in the Spirit; nothing can separate us",
+            "refs": [
+              "Rom 8:1-39"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "God's faithfulness to Israel",
+        "refs": [
+          "Rom 9-11"
+        ]
+      },
+      {
+        "title": "Living sacrifices: ethics and community",
+        "refs": [
+          "Rom 12:1-15:13"
+        ],
+        "children": [
+          {
+            "title": "Transformed minds and the body of Christ",
+            "refs": [
+              "Rom 12:1-8"
+            ]
+          },
+          {
+            "title": "Strong and weak: welcome one another",
+            "refs": [
+              "Rom 14:1-15:13"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Travel plans and greetings",
+        "refs": [
+          "Rom 15:14-16:27"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Rom 1:16-17",
+      "Rom 3:23-24",
+      "Rom 5:8",
+      "Rom 6:23",
+      "Rom 8:1",
+      "Rom 8:28",
+      "Rom 12:1-2"
+    ],
+    "bigStory": "Romans is Paul's fullest explanation of his gospel: all humanity stands guilty, yet God has shown his righteousness by justifying through faith those who belong to Christ. He then shows how that gospel creates a new life in the Spirit, keeps faith with Israel and forms one worshipping people out of Jews and Gentiles.",
+    "canonNote": "Accepted from the beginning in every list. Marcion's edition is reported to have lacked chapters 15-16, and some manuscripts place the closing doxology in different positions."
+  },
+  {
+    "id": "1-corinthians",
+    "abbr": "1 Cor",
+    "name": "1 Corinthians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, with Sosthenes (1 Cor 1:1).",
+      "scholarly": "Undisputed Pauline letter. Some propose that 1 Cor 14:34-35 is a later insertion and a few see editorial combination of letters, but authorship is not in doubt."
+    },
+    "date": {
+      "year": 54,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Later end of range",
+          "year": 55
+        },
+        {
+          "label": "Earlier end of range",
+          "year": 53
+        }
+      ]
+    },
+    "audience": "The church Paul founded in Corinth, a prosperous Roman colony, made up mostly of Gentile converts of mixed social status.",
+    "setting": "Written from Ephesus during the third journey after reports from Chloe's household and a letter of questions from Corinth.",
+    "purpose": "To heal divisions, correct moral and liturgical disorders, answer the church's questions on marriage, idol food, spiritual gifts and the resurrection, and recentre the church on Christ crucified.",
+    "themes": [
+      "The wisdom of the cross versus worldly wisdom",
+      "Unity of the church as one body",
+      "Holiness and sexual ethics",
+      "Freedom limited by love for the weaker brother",
+      "Spiritual gifts and love",
+      "The bodily resurrection"
+    ],
+    "outline": [
+      {
+        "title": "Divisions and the message of the cross",
+        "refs": [
+          "1 Cor 1-4"
+        ]
+      },
+      {
+        "title": "Moral disorders: incest, lawsuits, sexual immorality",
+        "refs": [
+          "1 Cor 5-6"
+        ]
+      },
+      {
+        "title": "Answers to their letter: marriage and singleness",
+        "refs": [
+          "1 Cor 7"
+        ]
+      },
+      {
+        "title": "Food offered to idols and Christian freedom",
+        "refs": [
+          "1 Cor 8-10"
+        ]
+      },
+      {
+        "title": "Worship: head coverings, the Lord's Supper, spiritual gifts",
+        "refs": [
+          "1 Cor 11-14"
+        ],
+        "children": [
+          {
+            "title": "The Lord's Supper",
+            "refs": [
+              "1 Cor 11:17-34"
+            ]
+          },
+          {
+            "title": "One body, many members",
+            "refs": [
+              "1 Cor 12:12-31"
+            ]
+          },
+          {
+            "title": "The way of love",
+            "refs": [
+              "1 Cor 13:1-13"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The resurrection of Christ and of believers",
+        "refs": [
+          "1 Cor 15"
+        ],
+        "children": [
+          {
+            "title": "The gospel received: died, buried, raised, appeared",
+            "refs": [
+              "1 Cor 15:3-8"
+            ]
+          },
+          {
+            "title": "The resurrection body",
+            "refs": [
+              "1 Cor 15:35-58"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The collection, plans and greetings",
+        "refs": [
+          "1 Cor 16"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Cor 1:18",
+      "1 Cor 2:2",
+      "1 Cor 10:13",
+      "1 Cor 11:23-26",
+      "1 Cor 12:12-13",
+      "1 Cor 13:4-7",
+      "1 Cor 15:3-8"
+    ],
+    "bigStory": "Writing to a gifted but quarrelsome church, Paul answers practical problems one by one while bringing everything back to Christ crucified and risen. Along the way he gives the earliest written account of the Lord's Supper, the hymn to love and the oldest list of resurrection appearances.",
+    "canonNote": "Accepted universally and quoted by Clement of Rome (1 Clement 47) in the 90s, among the earliest attested uses of any NT letter."
+  },
+  {
+    "id": "2-corinthians",
+    "abbr": "2 Cor",
+    "name": "2 Corinthians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, with Timothy (2 Cor 1:1).",
+      "scholarly": "Undisputed as Paul's. Many scholars think the canonical letter combines two or more letters (often chapters 1-9 and 10-13, sometimes with 6:14-7:1 and chapters 8 and 9 separated); others defend its unity."
+    },
+    "date": {
+      "year": 56,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Earlier end of range",
+          "year": 55
+        },
+        {
+          "label": "Later end of range",
+          "year": 57
+        }
+      ]
+    },
+    "audience": "The church in Corinth and believers throughout Achaia.",
+    "setting": "Written from Macedonia after a painful visit and a 'tearful letter'. Titus brought news of partial reconciliation, but rival 'super-apostles' were challenging Paul's authority.",
+    "purpose": "To complete reconciliation, explain his ministry of weakness and suffering, encourage generous giving to the Jerusalem collection, and defend his apostleship against opponents.",
+    "themes": [
+      "Comfort in affliction",
+      "The new covenant ministry of the Spirit",
+      "Treasure in clay jars: power in weakness",
+      "Reconciliation with God and one another",
+      "Generosity"
+    ],
+    "outline": [
+      {
+        "title": "Comfort and Paul's change of plans",
+        "refs": [
+          "2 Cor 1:1-2:13"
+        ]
+      },
+      {
+        "title": "The ministry of the new covenant",
+        "refs": [
+          "2 Cor 2:14-7:16"
+        ],
+        "children": [
+          {
+            "title": "Glory of the new covenant",
+            "refs": [
+              "2 Cor 3:1-18"
+            ]
+          },
+          {
+            "title": "Treasure in jars of clay",
+            "refs": [
+              "2 Cor 4:7-18"
+            ]
+          },
+          {
+            "title": "New creation and the ministry of reconciliation",
+            "refs": [
+              "2 Cor 5:14-21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The collection for Jerusalem",
+        "refs": [
+          "2 Cor 8-9"
+        ]
+      },
+      {
+        "title": "Paul's defence against the super-apostles",
+        "refs": [
+          "2 Cor 10-13"
+        ],
+        "children": [
+          {
+            "title": "Boasting in weakness",
+            "refs": [
+              "2 Cor 11:16-33"
+            ]
+          },
+          {
+            "title": "Thorn in the flesh: my grace is sufficient",
+            "refs": [
+              "2 Cor 12:7-10"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Cor 1:3-4",
+      "2 Cor 3:18",
+      "2 Cor 4:7",
+      "2 Cor 5:17",
+      "2 Cor 5:21",
+      "2 Cor 9:7",
+      "2 Cor 12:9"
+    ],
+    "bigStory": "2 Corinthians is Paul's most personal letter. He opens his heart to a church that had doubted him and argues that true apostolic ministry looks like Christ's: marked by suffering and weakness, yet carrying God's power and the message of reconciliation.",
+    "canonNote": "Accepted universally, though it is less clearly cited than 1 Corinthians in the earliest Fathers. It is listed in Marcion's collection and the Muratorian fragment."
+  },
+  {
+    "id": "galatians",
+    "abbr": "Gal",
+    "name": "Galatians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, writing partly in his own hand (Gal 6:11).",
+      "scholarly": "Undisputed Pauline letter; it is a cornerstone for reconstructing Paul's life and thought."
+    },
+    "date": {
+      "year": 49,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "South Galatian theory, before the Jerusalem council",
+          "year": 48
+        },
+        {
+          "label": "North Galatian theory, during the Ephesian ministry",
+          "year": 55
+        }
+      ]
+    },
+    "audience": "The churches of Galatia: either the southern cities Paul visited on his first journey (Pisidian Antioch, Iconium, Lystra, Derbe) or ethnic Galatians in the north of the province.",
+    "setting": "Teachers had urged Gentile believers to be circumcised and keep the Law to belong fully to God's people.",
+    "purpose": "To defend the gospel of grace and Paul's apostolic calling, and to show that Gentiles are children of Abraham through faith in Christ, not by works of the Law, and are to live by the Spirit.",
+    "themes": [
+      "Justification by faith, not works of the Law",
+      "One gospel and Paul's independent apostleship",
+      "Children of Abraham and heirs of the promise",
+      "Freedom in Christ",
+      "Walking by the Spirit"
+    ],
+    "outline": [
+      {
+        "title": "No other gospel",
+        "refs": [
+          "Gal 1:1-10"
+        ]
+      },
+      {
+        "title": "Paul's gospel came by revelation (autobiography)",
+        "refs": [
+          "Gal 1:11-2:21"
+        ],
+        "children": [
+          {
+            "title": "Call and early years",
+            "refs": [
+              "Gal 1:11-24"
+            ]
+          },
+          {
+            "title": "Agreement in Jerusalem; confrontation at Antioch",
+            "refs": [
+              "Gal 2:1-14"
+            ]
+          },
+          {
+            "title": "Crucified with Christ",
+            "refs": [
+              "Gal 2:15-21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The argument from Scripture and experience",
+        "refs": [
+          "Gal 3-4"
+        ],
+        "children": [
+          {
+            "title": "Abraham believed God",
+            "refs": [
+              "Gal 3:6-14"
+            ]
+          },
+          {
+            "title": "All one in Christ Jesus",
+            "refs": [
+              "Gal 3:26-29"
+            ]
+          },
+          {
+            "title": "Hagar and Sarah",
+            "refs": [
+              "Gal 4:21-31"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Freedom and the life of the Spirit",
+        "refs": [
+          "Gal 5:1-6:10"
+        ],
+        "children": [
+          {
+            "title": "Works of the flesh and fruit of the Spirit",
+            "refs": [
+              "Gal 5:16-26"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Closing in Paul's own hand",
+        "refs": [
+          "Gal 6:11-18"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Gal 1:6-9",
+      "Gal 2:16",
+      "Gal 2:20",
+      "Gal 3:28",
+      "Gal 5:1",
+      "Gal 5:22-23"
+    ],
+    "bigStory": "In his sharpest letter Paul warns young churches against adding circumcision and Law-keeping to faith in Christ. Through his own story and through Abraham's, he argues that Jews and Gentiles alike are made right with God by faith and set free to live by the Spirit.",
+    "canonNote": "Accepted everywhere; it headed Marcion's collection of Paul's letters. Martin Luther valued it so highly that he called it his own epistle, 'my Katie von Bora'."
+  },
+  {
+    "id": "ephesians",
+    "abbr": "Eph",
+    "name": "Ephesians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter, possibly circular)",
+    "authorship": {
+      "traditional": "The apostle Paul, writing from prison (Eph 3:1, Eph 4:1), traditionally in Rome.",
+      "scholarly": "Disputed. Many critical scholars regard it as deutero-Pauline, written by a disciple of Paul after his death, citing its long sentences, distinctive vocabulary, developed view of the church and close literary dependence on Colossians. Others defend Pauline authorship, attributing differences to a secretary, a circular purpose and a later stage of Paul's thought; scholarly opinion is genuinely divided."
+    },
+    "date": {
+      "year": 61,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, from Roman imprisonment",
+          "year": 61
+        },
+        {
+          "label": "Post-Pauline, by a disciple",
+          "year": 85
+        }
+      ]
+    },
+    "audience": "Gentile believers in Asia Minor. 'In Ephesus' (Eph 1:1) is missing in some of the earliest manuscripts, suggesting a circular letter; Marcion knew it as the letter to the Laodiceans.",
+    "setting": "Gentile Christians needing assurance of their place in God's people and a vision of the church's unity in a pluralistic city culture.",
+    "purpose": "To praise God for the blessings of salvation in Christ, to show that Jews and Gentiles are now one new humanity, and to call believers to live worthily: in unity, holiness, household order and spiritual warfare.",
+    "themes": [
+      "Every spiritual blessing in Christ",
+      "Salvation by grace through faith",
+      "One new humanity: Jew and Gentile reconciled",
+      "The church as Christ's body and bride",
+      "Spiritual warfare and the armour of God"
+    ],
+    "outline": [
+      {
+        "title": "Praise for blessings in Christ",
+        "refs": [
+          "Eph 1:1-14"
+        ]
+      },
+      {
+        "title": "Prayer for understanding",
+        "refs": [
+          "Eph 1:15-23"
+        ]
+      },
+      {
+        "title": "Saved by grace; Jew and Gentile made one",
+        "refs": [
+          "Eph 2"
+        ],
+        "children": [
+          {
+            "title": "By grace you have been saved",
+            "refs": [
+              "Eph 2:1-10"
+            ]
+          },
+          {
+            "title": "The dividing wall broken down",
+            "refs": [
+              "Eph 2:11-22"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The mystery revealed and Paul's prayer",
+        "refs": [
+          "Eph 3"
+        ]
+      },
+      {
+        "title": "Walk worthily: unity, holiness, love",
+        "refs": [
+          "Eph 4:1-5:20"
+        ],
+        "children": [
+          {
+            "title": "One body, gifts for building up",
+            "refs": [
+              "Eph 4:1-16"
+            ]
+          },
+          {
+            "title": "Put off the old self, put on the new",
+            "refs": [
+              "Eph 4:17-32"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Household relationships",
+        "refs": [
+          "Eph 5:21-6:9"
+        ]
+      },
+      {
+        "title": "The armour of God and farewell",
+        "refs": [
+          "Eph 6:10-24"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Eph 1:3-4",
+      "Eph 2:8-10",
+      "Eph 2:14-16",
+      "Eph 4:4-6",
+      "Eph 4:11-13",
+      "Eph 5:25",
+      "Eph 6:10-11"
+    ],
+    "bigStory": "Ephesians lifts the reader's eyes to God's eternal plan to unite all things in Christ, then shows that plan taking shape in a church where former enemies, Jews and Gentiles, are made one. Its second half turns that vision into everyday conduct in community, home and spiritual conflict.",
+    "canonNote": "Accepted in all early lists (Marcion knew it as 'Laodiceans'). Authorship questions are modern; no ancient church disputed it."
+  },
+  {
+    "id": "philippians",
+    "abbr": "Phil",
+    "name": "Philippians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, with Timothy, writing from imprisonment.",
+      "scholarly": "Undisputed Pauline letter. Some scholars propose that it combines two or three letters; many defend its unity. The place of imprisonment (Rome, Ephesus or Caesarea) is debated."
+    },
+    "date": {
+      "year": 61,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Ephesian imprisonment",
+          "year": 55
+        },
+        {
+          "label": "Caesarean imprisonment",
+          "year": 58
+        },
+        {
+          "label": "Roman imprisonment",
+          "year": 61
+        }
+      ]
+    },
+    "audience": "The church at Philippi, a Roman colony in Macedonia and the first church Paul founded in Europe, which had supported him financially.",
+    "setting": "Paul is in prison and facing a possible death sentence; Epaphroditus has brought a gift and recovered from serious illness. The church faces opposition and some internal rivalry.",
+    "purpose": "To thank the Philippians for their gift, report on his situation, encourage joy and unity modelled on Christ's humility, and warn against those who urged circumcision.",
+    "themes": [
+      "Joy in every circumstance",
+      "Partnership in the gospel",
+      "The humility and exaltation of Christ",
+      "Knowing Christ above all things",
+      "Contentment and peace"
+    ],
+    "outline": [
+      {
+        "title": "Thanksgiving and Paul's imprisonment advancing the gospel",
+        "refs": [
+          "Phil 1:1-26"
+        ]
+      },
+      {
+        "title": "Unity and humility: the Christ hymn",
+        "refs": [
+          "Phil 1:27-2:18"
+        ],
+        "children": [
+          {
+            "title": "Have the mind of Christ",
+            "refs": [
+              "Phil 2:5-11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Timothy and Epaphroditus",
+        "refs": [
+          "Phil 2:19-30"
+        ]
+      },
+      {
+        "title": "Warning and Paul's example: knowing Christ",
+        "refs": [
+          "Phil 3"
+        ],
+        "children": [
+          {
+            "title": "Loss for the sake of Christ",
+            "refs": [
+              "Phil 3:7-11"
+            ]
+          },
+          {
+            "title": "Pressing on toward the goal",
+            "refs": [
+              "Phil 3:12-21"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Exhortations, thanks for the gift and greetings",
+        "refs": [
+          "Phil 4"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Phil 1:6",
+      "Phil 1:21",
+      "Phil 2:5-11",
+      "Phil 3:8",
+      "Phil 4:4",
+      "Phil 4:6-7",
+      "Phil 4:13"
+    ],
+    "bigStory": "Writing in chains, Paul thanks his most loyal church and calls them to rejoice and to adopt the mind of Christ, who emptied himself and was exalted. His own ambition is simply to know Christ and the power of his resurrection.",
+    "canonNote": "Accepted universally; Polycarp wrote his own letter to the Philippians (c. 110-135) and mentions Paul's letters to them."
+  },
+  {
+    "id": "colossians",
+    "abbr": "Col",
+    "name": "Colossians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, with Timothy, from prison, sent with Tychicus and Onesimus.",
+      "scholarly": "Disputed. A sizeable group of scholars sees it as deutero-Pauline because of its style, its cosmic Christology and its realised view of resurrection with Christ. Many others accept it as Paul's, often noting that Timothy is named as co-sender and that its personal greetings overlap closely with the undisputed Philemon."
+    },
+    "date": {
+      "year": 61,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, Ephesian imprisonment",
+          "year": 55
+        },
+        {
+          "label": "Pauline, Roman imprisonment",
+          "year": 61
+        },
+        {
+          "label": "Post-Pauline",
+          "year": 75
+        }
+      ]
+    },
+    "audience": "The church in Colossae in the Lycus valley, founded by Epaphras rather than Paul, with instructions to share the letter with Laodicea.",
+    "setting": "A teaching (the 'Colossian philosophy') was pressing ascetic rules, festivals and the worship of angels, implying that Christ was not sufficient.",
+    "purpose": "To show the supremacy and sufficiency of Christ over all powers, to warn against the philosophy, and to describe the new life of those raised with Christ.",
+    "themes": [
+      "Supremacy of Christ in creation and redemption",
+      "Fullness in Christ",
+      "Warning against human tradition and asceticism",
+      "Raised with Christ: setting minds on things above",
+      "Christian household and community life"
+    ],
+    "outline": [
+      {
+        "title": "Thanksgiving and prayer",
+        "refs": [
+          "Col 1:1-14"
+        ]
+      },
+      {
+        "title": "Hymn to the supreme Christ",
+        "refs": [
+          "Col 1:15-23"
+        ]
+      },
+      {
+        "title": "Paul's labour for the church",
+        "refs": [
+          "Col 1:24-2:5"
+        ]
+      },
+      {
+        "title": "Fullness in Christ versus the philosophy",
+        "refs": [
+          "Col 2:6-23"
+        ]
+      },
+      {
+        "title": "New life: put off, put on",
+        "refs": [
+          "Col 3:1-17"
+        ]
+      },
+      {
+        "title": "Household rules",
+        "refs": [
+          "Col 3:18-4:1"
+        ]
+      },
+      {
+        "title": "Final instructions and greetings",
+        "refs": [
+          "Col 4:2-18"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Col 1:15-20",
+      "Col 2:9-10",
+      "Col 2:13-15",
+      "Col 3:1-3",
+      "Col 3:12-14",
+      "Col 3:17"
+    ],
+    "bigStory": "Colossians answers a teaching that sought spiritual fullness through rules and mystical experience by pointing to Christ, in whom all the fullness of God dwells bodily. Believers already have everything in him and are called to live out their new life.",
+    "canonNote": "Accepted in all early lists, including Marcion's. Col 4:16 mentions a letter 'from Laodicea'; a later Latin 'Epistle to the Laodiceans' circulated but was rejected as non-canonical."
+  },
+  {
+    "id": "1-thessalonians",
+    "abbr": "1 Thess",
+    "name": "1 Thessalonians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "Paul, with Silvanus (Silas) and Timothy.",
+      "scholarly": "Undisputed; widely regarded as Paul's earliest surviving letter and possibly the earliest NT document. A minority considers 1 Thess 2:14-16 an interpolation."
+    },
+    "date": {
+      "year": 50,
+      "circa": true,
+      "confidence": "scholarly-consensus",
+      "alternatives": [
+        {
+          "label": "Range sometimes given",
+          "year": 51
+        }
+      ]
+    },
+    "audience": "A young, mostly Gentile church in Thessalonica, capital of Macedonia, which Paul had to leave abruptly.",
+    "setting": "Written from Corinth on the second journey after Timothy returned with good news of the church's faith amid persecution.",
+    "purpose": "To encourage the church in suffering, defend Paul's conduct, urge holiness, and comfort believers about members who had died before Christ's return.",
+    "themes": [
+      "Faith, love and hope",
+      "Turning from idols to serve the living God",
+      "Holiness and sexual purity",
+      "The return (parousia) of the Lord and the resurrection of the dead",
+      "Readiness for the day of the Lord"
+    ],
+    "outline": [
+      {
+        "title": "Thanksgiving for their reception of the gospel",
+        "refs": [
+          "1 Thess 1"
+        ]
+      },
+      {
+        "title": "Paul's ministry among them and his longing to return",
+        "refs": [
+          "1 Thess 2:1-3:13"
+        ]
+      },
+      {
+        "title": "Living to please God",
+        "refs": [
+          "1 Thess 4:1-12"
+        ]
+      },
+      {
+        "title": "The coming of the Lord",
+        "refs": [
+          "1 Thess 4:13-5:11"
+        ],
+        "children": [
+          {
+            "title": "The dead in Christ will rise",
+            "refs": [
+              "1 Thess 4:13-18"
+            ]
+          },
+          {
+            "title": "Like a thief in the night",
+            "refs": [
+              "1 Thess 5:1-11"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Final exhortations",
+        "refs": [
+          "1 Thess 5:12-28"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Thess 1:9-10",
+      "1 Thess 2:13",
+      "1 Thess 4:3",
+      "1 Thess 4:16-17",
+      "1 Thess 5:16-18",
+      "1 Thess 5:23"
+    ],
+    "bigStory": "In what may be the oldest Christian writing we have, Paul encourages new believers who had turned from idols and were suffering for it. He assures them that those who die in Christ will rise when the Lord returns and calls them to live holy, hopeful lives.",
+    "canonNote": "Accepted universally and listed by Marcion and the Muratorian fragment."
+  },
+  {
+    "id": "2-thessalonians",
+    "abbr": "2 Thess",
+    "name": "2 Thessalonians",
+    "testament": "NT",
+    "genre": "Epistle (Pauline letter)",
+    "authorship": {
+      "traditional": "Paul, with Silvanus and Timothy, shortly after 1 Thessalonians.",
+      "scholarly": "Disputed. Many critical scholars think a later writer imitated 1 Thessalonians, pointing to close verbal parallels combined with a different eschatological outlook (signs before the end rather than suddenness). Defenders reply that the differences fit a follow-up letter correcting a misunderstanding, and note the explicit warning against forged letters (2 Thess 2:2)."
+    },
+    "date": {
+      "year": 51,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, months after 1 Thessalonians",
+          "year": 51
+        },
+        {
+          "label": "Post-Pauline",
+          "year": 90
+        }
+      ]
+    },
+    "audience": "The church in Thessalonica.",
+    "setting": "Persecution continued and some were claiming that the day of the Lord had already come; some members had stopped working.",
+    "purpose": "To encourage the persecuted, correct the claim that the day of the Lord had arrived by describing events that must come first, and rebuke idleness.",
+    "themes": [
+      "God's just judgment and vindication of sufferers",
+      "The man of lawlessness and the restrainer",
+      "Standing firm in the traditions",
+      "Work and responsibility"
+    ],
+    "outline": [
+      {
+        "title": "Encouragement in persecution",
+        "refs": [
+          "2 Thess 1"
+        ]
+      },
+      {
+        "title": "The day of the Lord has not yet come",
+        "refs": [
+          "2 Thess 2:1-12"
+        ]
+      },
+      {
+        "title": "Stand firm in the traditions",
+        "refs": [
+          "2 Thess 2:13-17"
+        ]
+      },
+      {
+        "title": "Request for prayer and warning against idleness",
+        "refs": [
+          "2 Thess 3"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Thess 1:6-8",
+      "2 Thess 2:1-4",
+      "2 Thess 2:15",
+      "2 Thess 3:3",
+      "2 Thess 3:10"
+    ],
+    "bigStory": "This short letter steadies a suffering church unsettled by claims that the day of the Lord had already come. It points ahead to the revealing of the lawless one and Christ's final victory, and tells believers to stand firm and keep working.",
+    "canonNote": "Accepted in all early lists; Polycarp appears to echo it. Authorship debate is modern."
+  },
+  {
+    "id": "1-timothy",
+    "abbr": "1 Tim",
+    "name": "1 Timothy",
+    "testament": "NT",
+    "genre": "Epistle (Pastoral letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, writing to his delegate Timothy in Ephesus after a release from his first Roman imprisonment.",
+      "scholarly": "The Pastorals (1-2 Timothy, Titus) are the most widely doubted Pauline letters: a majority of critical scholars regard them as pseudonymous works from c. 90-120, citing vocabulary and style, a more developed church order, and difficulty fitting them into Acts. A substantial minority defends Pauline authorship, appealing to the use of a secretary (Luke is sometimes suggested), a post-Acts release and the personal details; some propose genuine fragments incorporated by a later editor."
+    },
+    "date": {
+      "year": 63,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, after release from Roman house arrest",
+          "year": 63
+        },
+        {
+          "label": "Pseudonymous, late first or early second century",
+          "year": 100
+        }
+      ]
+    },
+    "audience": "Timothy, left in Ephesus to oversee the church, and through him the congregation.",
+    "setting": "False teachers in Ephesus were promoting myths, genealogies, asceticism and speculative uses of the Law; the church needed sound leadership and order.",
+    "purpose": "To instruct Timothy to silence false teaching, order worship, appoint qualified overseers and deacons, care for widows, and model godliness.",
+    "themes": [
+      "Sound doctrine versus false teaching",
+      "Qualifications for church leaders",
+      "Godliness (eusebeia)",
+      "Order in the household of God",
+      "Contentment and the danger of wealth"
+    ],
+    "outline": [
+      {
+        "title": "Charge to oppose false teachers; Paul's testimony",
+        "refs": [
+          "1 Tim 1"
+        ]
+      },
+      {
+        "title": "Prayer and conduct in worship",
+        "refs": [
+          "1 Tim 2"
+        ]
+      },
+      {
+        "title": "Overseers and deacons; the mystery of godliness",
+        "refs": [
+          "1 Tim 3"
+        ]
+      },
+      {
+        "title": "Timothy as a good minister",
+        "refs": [
+          "1 Tim 4"
+        ]
+      },
+      {
+        "title": "Widows, elders and slaves",
+        "refs": [
+          "1 Tim 5:1-6:2"
+        ]
+      },
+      {
+        "title": "False teachers, wealth and final charge",
+        "refs": [
+          "1 Tim 6:3-21"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Tim 1:15",
+      "1 Tim 2:5",
+      "1 Tim 3:1-7",
+      "1 Tim 3:16",
+      "1 Tim 4:12",
+      "1 Tim 6:6-10"
+    ],
+    "bigStory": "1 Timothy is a manual for a young leader in a troubled church: guard the truth, order worship, choose trustworthy leaders and care for the vulnerable. At its heart is the conviction that Christ Jesus came into the world to save sinners.",
+    "canonNote": "Accepted by Irenaeus and in the Muratorian fragment (which lists letters to individuals as honoured for church order). Marcion's collection lacked the Pastorals, and they are absent from the early papyrus P46, though that manuscript is incomplete."
+  },
+  {
+    "id": "2-timothy",
+    "abbr": "2 Tim",
+    "name": "2 Timothy",
+    "testament": "NT",
+    "genre": "Epistle (Pastoral letter; farewell testament)",
+    "authorship": {
+      "traditional": "The apostle Paul, in a final Roman imprisonment shortly before his execution.",
+      "scholarly": "Grouped with the Pastorals and judged pseudonymous by many critical scholars. It is the most personal of the three, and some who doubt 1 Timothy and Titus think 2 Timothy may be authentic or contain genuine Pauline material; conservative scholars accept it fully."
+    },
+    "date": {
+      "year": 67,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, shortly before martyrdom under Nero",
+          "year": 66
+        },
+        {
+          "label": "Pseudonymous",
+          "year": 100
+        }
+      ]
+    },
+    "audience": "Timothy, apparently still in Ephesus.",
+    "setting": "Paul is chained in Rome, deserted by many, expecting death, and asks Timothy to come quickly.",
+    "purpose": "To pass the torch: urging Timothy to guard the gospel, endure suffering, entrust the teaching to faithful others, and preach the word.",
+    "themes": [
+      "Faithful endurance in suffering",
+      "Guarding the deposit of faith",
+      "Inspiration and usefulness of Scripture",
+      "Passing on the ministry",
+      "Finishing the race"
+    ],
+    "outline": [
+      {
+        "title": "Do not be ashamed; guard the deposit",
+        "refs": [
+          "2 Tim 1"
+        ]
+      },
+      {
+        "title": "Be strong: soldier, athlete, farmer",
+        "refs": [
+          "2 Tim 2"
+        ]
+      },
+      {
+        "title": "Godlessness in the last days; continue in Scripture",
+        "refs": [
+          "2 Tim 3"
+        ]
+      },
+      {
+        "title": "Preach the word; Paul's farewell",
+        "refs": [
+          "2 Tim 4"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Tim 1:7",
+      "2 Tim 2:2",
+      "2 Tim 2:15",
+      "2 Tim 3:16-17",
+      "2 Tim 4:2",
+      "2 Tim 4:7-8"
+    ],
+    "bigStory": "Presented as Paul's last letter, 2 Timothy is a farewell from a prisoner who knows his death is near. He tells his spiritual son to hold fast to the gospel and to Scripture, to share in suffering, and to hand the faith on.",
+    "canonNote": "Accepted with the other Pastorals in Irenaeus and the Muratorian fragment; not in Marcion's collection."
+  },
+  {
+    "id": "titus",
+    "abbr": "Titus",
+    "name": "Titus",
+    "testament": "NT",
+    "genre": "Epistle (Pastoral letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, to his co-worker Titus, left in Crete.",
+      "scholarly": "Part of the Pastorals and regarded as pseudonymous by a majority of critical scholars for the same reasons as 1 Timothy; defended as Pauline by others, who place it after a release from Rome."
+    },
+    "date": {
+      "year": 63,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Pauline, between imprisonments",
+          "year": 63
+        },
+        {
+          "label": "Pseudonymous",
+          "year": 100
+        }
+      ]
+    },
+    "audience": "Titus, overseeing young churches on Crete.",
+    "setting": "New congregations lacked elders, and 'those of the circumcision' and others were spreading myths and disrupting households.",
+    "purpose": "To instruct Titus to appoint elders, silence false teachers, and teach the various groups in the church to live in a way that adorns the gospel.",
+    "themes": [
+      "Qualified elders",
+      "Sound doctrine producing good works",
+      "The grace of God that trains us",
+      "Salvation by mercy and renewal by the Spirit"
+    ],
+    "outline": [
+      {
+        "title": "Greeting; appoint elders in every town",
+        "refs": [
+          "Titus 1:1-9"
+        ]
+      },
+      {
+        "title": "Rebuke false teachers",
+        "refs": [
+          "Titus 1:10-16"
+        ]
+      },
+      {
+        "title": "Teach what accords with sound doctrine",
+        "refs": [
+          "Titus 2"
+        ],
+        "children": [
+          {
+            "title": "The grace of God has appeared",
+            "refs": [
+              "Titus 2:11-14"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Good works in society; saved by mercy",
+        "refs": [
+          "Titus 3"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Titus 1:5",
+      "Titus 2:11-14",
+      "Titus 3:4-7",
+      "Titus 3:8"
+    ],
+    "bigStory": "Titus is a short letter about putting churches in order on Crete. It joins practical instructions about leaders and households to some of the New Testament's richest summaries of grace: God saved us not by our works but by his mercy, through the renewing of the Holy Spirit.",
+    "canonNote": "Accepted with the Pastorals in Irenaeus and the Muratorian fragment. Clement of Alexandria and others attest it; Tatian is reported to have accepted Titus while rejecting other Pauline letters."
+  },
+  {
+    "id": "philemon",
+    "abbr": "Phlm",
+    "name": "Philemon",
+    "testament": "NT",
+    "genre": "Epistle (personal letter)",
+    "authorship": {
+      "traditional": "The apostle Paul, a prisoner, with Timothy.",
+      "scholarly": "Undisputed Pauline letter."
+    },
+    "date": {
+      "year": 61,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Ephesian imprisonment",
+          "year": 55
+        },
+        {
+          "label": "Roman imprisonment",
+          "year": 61
+        }
+      ]
+    },
+    "audience": "Philemon, a believer in Colossae, along with Apphia, Archippus and the church meeting in his house.",
+    "setting": "Onesimus, Philemon's slave, had left his master (perhaps fleeing, perhaps seeking Paul as a mediator), met Paul in prison and become a believer.",
+    "purpose": "To send Onesimus back and appeal to Philemon to receive him no longer merely as a slave but as a beloved brother, offering to cover any debt.",
+    "themes": [
+      "Reconciliation",
+      "Brotherhood in Christ across social status",
+      "Appeal on the basis of love",
+      "Partnership (koinonia)"
+    ],
+    "outline": [
+      {
+        "title": "Greeting and thanksgiving for Philemon's love",
+        "refs": [
+          "Phlm 1:1-7"
+        ]
+      },
+      {
+        "title": "Appeal for Onesimus",
+        "refs": [
+          "Phlm 1:8-21"
+        ]
+      },
+      {
+        "title": "Request for lodging and greetings",
+        "refs": [
+          "Phlm 1:22-25"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Phlm 1:6",
+      "Phlm 1:10-11",
+      "Phlm 1:15-16",
+      "Phlm 1:18-19"
+    ],
+    "bigStory": "In a single page, Paul asks a slave owner to welcome back his runaway or estranged slave as a brother in Christ. The letter shows the gospel reshaping relationships inside a household church, and readers have long debated how far it challenges the institution of slavery itself.",
+    "canonNote": "Accepted in Marcion's collection and the Muratorian fragment. Some in the fourth century questioned whether so personal a letter belonged in Scripture, and Jerome defended it."
+  },
+  {
+    "id": "hebrews",
+    "abbr": "Heb",
+    "name": "Hebrews",
+    "testament": "NT",
+    "genre": "Sermon in letter form ('word of exhortation', Heb 13:22)",
+    "authorship": {
+      "traditional": "The Eastern church, from Alexandria onward, attributed it to Paul (P46 places it among Paul's letters), and the King James Version titles it 'the Epistle of Paul the Apostle to the Hebrews'. Tertullian proposed Barnabas.",
+      "scholarly": "The work is anonymous and nearly all modern scholars, Protestant and Catholic, conclude Paul did not write it: its polished Greek, rhetorical style and the author's statement that he received the message from those who heard the Lord (Heb 2:3) differ from Paul. Suggestions include Apollos (Luther), Barnabas, Priscilla (Harnack), Luke and Silas; many simply echo Origen's verdict that only God knows who wrote it."
+    },
+    "date": {
+      "year": 65,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Before 70, temple sacrifices apparently still continuing (Heb 10:1-2)",
+          "year": 65
+        },
+        {
+          "label": "After 70, before 1 Clement quotes it",
+          "year": 85
+        }
+      ]
+    },
+    "audience": "A congregation of believers, probably largely Jewish Christians, who had endured earlier persecution but were now tempted to drift back or give up; Rome is often proposed because 'those from Italy' send greetings (Heb 13:24).",
+    "setting": "Weariness, social pressure and the pull of the old covenant's visible worship were threatening the community's perseverance.",
+    "purpose": "To warn against falling away and to encourage endurance by showing that Jesus is superior to angels, Moses and the Levitical priesthood, and that his once-for-all sacrifice fulfils the old covenant.",
+    "themes": [
+      "The supremacy of the Son",
+      "Jesus as great high priest after the order of Melchizedek",
+      "The new covenant and the once-for-all sacrifice",
+      "Warnings against apostasy",
+      "Faith and endurance"
+    ],
+    "outline": [
+      {
+        "title": "The Son superior to the angels",
+        "refs": [
+          "Heb 1:1-2:18"
+        ],
+        "children": [
+          {
+            "title": "God has spoken by his Son",
+            "refs": [
+              "Heb 1:1-4"
+            ]
+          },
+          {
+            "title": "Warning: do not drift away",
+            "refs": [
+              "Heb 2:1-4"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Jesus superior to Moses; entering God's rest",
+        "refs": [
+          "Heb 3:1-4:13"
+        ]
+      },
+      {
+        "title": "Jesus the great high priest",
+        "refs": [
+          "Heb 4:14-7:28"
+        ],
+        "children": [
+          {
+            "title": "Warning against falling away",
+            "refs": [
+              "Heb 6:4-8"
+            ]
+          },
+          {
+            "title": "After the order of Melchizedek",
+            "refs": [
+              "Heb 7:1-28"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "A better covenant, sanctuary and sacrifice",
+        "refs": [
+          "Heb 8:1-10:18"
+        ]
+      },
+      {
+        "title": "Hold fast: faith and endurance",
+        "refs": [
+          "Heb 10:19-12:29"
+        ],
+        "children": [
+          {
+            "title": "The hall of faith",
+            "refs": [
+              "Heb 11:1-40"
+            ]
+          },
+          {
+            "title": "Run with endurance, looking to Jesus",
+            "refs": [
+              "Heb 12:1-3"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Closing exhortations and greetings",
+        "refs": [
+          "Heb 13"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Heb 1:1-3",
+      "Heb 4:12",
+      "Heb 4:14-16",
+      "Heb 8:6",
+      "Heb 9:11-12",
+      "Heb 11:1",
+      "Heb 12:1-2"
+    ],
+    "bigStory": "Hebrews is a sermon to weary believers that argues from Israel's Scriptures that Jesus is God's final word and the true high priest whose single sacrifice opens the way to God. Its repeated warnings and its roll call of faithful witnesses call the hearers to hold on.",
+    "canonNote": "One of the antilegomena. The East accepted it early as Pauline (it sits among Paul's letters in P46, c. 200), and 1 Clement quotes it in the 90s. The West hesitated: it is absent from the Muratorian fragment, and Tertullian attributed it to Barnabas. Origen judged that only God knows who wrote it (Eusebius, Church History 6.25). Its canonical status was secured in the West in the late fourth century through Athanasius, Jerome, Augustine and the councils of Hippo and Carthage, which listed it as Paul's. Luther moved it, with James, Jude and Revelation, to the end of his 1522 New Testament."
+  },
+  {
+    "id": "james",
+    "abbr": "Jas",
+    "name": "James",
+    "testament": "NT",
+    "genre": "Epistle (general letter; wisdom paraenesis)",
+    "authorship": {
+      "traditional": "James, the brother of the Lord and leader of the Jerusalem church, martyred in 62 (Josephus, Antiquities 20.200).",
+      "scholarly": "Divided. Many critical scholars think the good Greek, the apparent interaction with Pauline slogans and the late attestation point to a pseudonymous work from a later Jewish-Christian circle. Others argue for James himself, citing its early Jewish-Christian character, closeness to Jesus' teaching in the Sermon on the Mount, absence of developed Christology or church order, and the possibility of a skilled secretary."
+    },
+    "date": {
+      "year": 48,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Very early, before the Jerusalem council",
+          "year": 47
+        },
+        {
+          "label": "Shortly before James's death",
+          "year": 60
+        },
+        {
+          "label": "Pseudonymous",
+          "year": 90
+        }
+      ]
+    },
+    "audience": "'The twelve tribes in the dispersion' (Jas 1:1): Jewish-Christian believers outside the land of Israel.",
+    "setting": "Scattered congregations facing trials, social inequality, favouritism toward the rich and quarrels.",
+    "purpose": "To call believers to a mature, consistent faith that shows itself in endurance, care for the poor, controlled speech, humility and prayer.",
+    "themes": [
+      "Faith shown by works",
+      "Trials producing maturity",
+      "Wealth, poverty and partiality",
+      "The power of the tongue",
+      "Wisdom from above",
+      "Prayer and healing"
+    ],
+    "outline": [
+      {
+        "title": "Trials, wisdom and temptation",
+        "refs": [
+          "Jas 1:1-18"
+        ]
+      },
+      {
+        "title": "Doers of the word, not hearers only",
+        "refs": [
+          "Jas 1:19-27"
+        ]
+      },
+      {
+        "title": "No partiality; faith without works is dead",
+        "refs": [
+          "Jas 2"
+        ]
+      },
+      {
+        "title": "Taming the tongue; two kinds of wisdom",
+        "refs": [
+          "Jas 3"
+        ]
+      },
+      {
+        "title": "Humility, warnings to the rich",
+        "refs": [
+          "Jas 4:1-5:6"
+        ]
+      },
+      {
+        "title": "Patience, prayer and restoring the wanderer",
+        "refs": [
+          "Jas 5:7-20"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Jas 1:2-4",
+      "Jas 1:22",
+      "Jas 1:27",
+      "Jas 2:17",
+      "Jas 2:24",
+      "Jas 3:17",
+      "Jas 5:16"
+    ],
+    "bigStory": "James reads like wisdom literature for the church: short, vivid commands about trials, speech, money and prayer. Its insistence that a faith with no deeds is dead has made it a test case for how Christians read Paul on justification.",
+    "canonNote": "One of the antilegomena: Eusebius lists it among the disputed books (Church History 2.23, 3.25), and it is not in the Muratorian fragment. It was used by Origen, included in the Syriac Peshitta, and affirmed by Athanasius (367) and the African councils. Luther, in his 1522 preface, called it 'an epistle of straw' compared with the chief books (John, Romans, Galatians, 1 Peter) because he saw it as lacking the gospel of Christ; he moved it toward the end of his Bible but did not remove it, and later Lutherans did not follow his low view. Reformed and Catholic interpreters generally read James and Paul as addressing different questions."
+  },
+  {
+    "id": "1-peter",
+    "abbr": "1 Pet",
+    "name": "1 Peter",
+    "testament": "NT",
+    "genre": "Epistle (general letter; circular)",
+    "authorship": {
+      "traditional": "The apostle Peter, writing from 'Babylon' (Rome) with the help of Silvanus (1 Pet 5:12-13).",
+      "scholarly": "Debated. Many critical scholars consider it pseudonymous, pointing to its fine Greek, Pauline-sounding theology and a setting of widespread persecution they place after Peter's death. Others accept Petrine authorship, often with Silvanus as secretary or drafter, noting its early and wide acceptance."
+    },
+    "date": {
+      "year": 63,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Petrine, shortly before Nero's persecution",
+          "year": 63
+        },
+        {
+          "label": "Pseudonymous",
+          "year": 85
+        }
+      ]
+    },
+    "audience": "'Exiles of the dispersion' in Pontus, Galatia, Cappadocia, Asia and Bithynia, largely Gentile converts in northern Asia Minor.",
+    "setting": "Believers experiencing social hostility, slander and suffering because they no longer took part in pagan life.",
+    "purpose": "To encourage suffering Christians with their living hope, identity as God's people, and Christ's example, so that they stand firm and do good.",
+    "themes": [
+      "Living hope through the resurrection",
+      "Suffering for doing good, following Christ's example",
+      "Identity as elect exiles and a royal priesthood",
+      "Holy conduct among unbelievers",
+      "Humble leadership"
+    ],
+    "outline": [
+      {
+        "title": "Born again to a living hope",
+        "refs": [
+          "1 Pet 1:1-12"
+        ]
+      },
+      {
+        "title": "Called to holiness as God's people",
+        "refs": [
+          "1 Pet 1:13-2:10"
+        ],
+        "children": [
+          {
+            "title": "A chosen race, a royal priesthood",
+            "refs": [
+              "1 Pet 2:9-10"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Honourable conduct in society and household",
+        "refs": [
+          "1 Pet 2:11-3:12"
+        ]
+      },
+      {
+        "title": "Suffering for righteousness after Christ's example",
+        "refs": [
+          "1 Pet 3:13-4:19"
+        ],
+        "children": [
+          {
+            "title": "Christ suffered once for sins",
+            "refs": [
+              "1 Pet 3:18-22"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Shepherd the flock; resist the devil",
+        "refs": [
+          "1 Pet 5"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 Pet 1:3",
+      "1 Pet 1:15-16",
+      "1 Pet 2:9",
+      "1 Pet 2:24",
+      "1 Pet 3:15",
+      "1 Pet 5:7"
+    ],
+    "bigStory": "1 Peter tells scattered, harassed believers that they are God's chosen people, strangers in the world but heirs of an unfading inheritance. Christ's suffering and vindication form the pattern for their own, so they can endure with hope and do good.",
+    "canonNote": "Counted among the recognised books (homologoumena) by Eusebius and quoted by Polycarp. Oddly, the surviving Muratorian fragment does not mention it, perhaps because of the text's damaged state."
+  },
+  {
+    "id": "2-peter",
+    "abbr": "2 Pet",
+    "name": "2 Peter",
+    "testament": "NT",
+    "genre": "Epistle (general letter; farewell testament)",
+    "authorship": {
+      "traditional": "The apostle Peter near the end of his life (2 Pet 1:14), claiming to be an eyewitness of the transfiguration (2 Pet 1:16-18).",
+      "scholarly": "2 Peter is the NT book most widely judged pseudonymous, by a large majority of critical scholars. Reasons: Greek style very different from 1 Peter, apparent use of Jude, reference to Paul's letters as a known collection alongside 'the other Scriptures', and the problem of the delayed return as a generational issue. Defenders (e.g. Michael Green, Michael Kruger) argue for a different secretary, Peter's own late-life use of Jude, and the testamentary genre, and note that the early church did reject other Petrine works."
+    },
+    "date": {
+      "year": 66,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Petrine, shortly before his martyrdom",
+          "year": 66
+        },
+        {
+          "label": "Pseudonymous, late first century",
+          "year": 100
+        },
+        {
+          "label": "Pseudonymous, early second century",
+          "year": 125
+        }
+      ]
+    },
+    "audience": "Believers who had received 'a faith of equal standing' (2 Pet 1:1), apparently the same readers as an earlier letter (2 Pet 3:1).",
+    "setting": "False teachers were denying the Lord's return, mocking its delay and promoting moral licence.",
+    "purpose": "To remind readers to grow in godliness, ground their hope in apostolic eyewitness and prophetic Scripture, expose false teachers, and explain the apparent delay of the Lord's coming.",
+    "themes": [
+      "Growth in godliness and knowledge of Christ",
+      "Reliability of apostolic testimony and prophecy",
+      "Judgment on false teachers",
+      "The day of the Lord and God's patience",
+      "New heavens and new earth"
+    ],
+    "outline": [
+      {
+        "title": "Growing in grace: add to your faith",
+        "refs": [
+          "2 Pet 1:1-15"
+        ]
+      },
+      {
+        "title": "Eyewitness testimony and prophetic Scripture",
+        "refs": [
+          "2 Pet 1:16-21"
+        ]
+      },
+      {
+        "title": "False teachers and their judgment",
+        "refs": [
+          "2 Pet 2"
+        ]
+      },
+      {
+        "title": "The promise of the Lord's coming",
+        "refs": [
+          "2 Pet 3:1-13"
+        ],
+        "children": [
+          {
+            "title": "With the Lord a day is as a thousand years",
+            "refs": [
+              "2 Pet 3:8-9"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Closing: Paul's letters and growth in grace",
+        "refs": [
+          "2 Pet 3:14-18"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 Pet 1:3-4",
+      "2 Pet 1:16-18",
+      "2 Pet 1:20-21",
+      "2 Pet 3:8-9",
+      "2 Pet 3:13",
+      "2 Pet 3:15-16"
+    ],
+    "bigStory": "Framed as Peter's last testament, this letter urges believers to keep growing and to hold to the apostolic witness against teachers who scoff at the promise of Christ's return. God's delay is patience, not failure, and the day of the Lord will bring new heavens and a new earth.",
+    "canonNote": "The most weakly attested NT book in the early centuries. Origen notes doubts about it; Eusebius lists it among the antilegomena and says it was not received as canonical by many, though useful (Church History 3.3, 3.25). Jerome reports that many doubted it because its style differs from 1 Peter. It is absent from the Muratorian fragment and the Syriac Peshitta, but it appears in P72 (third/fourth century), was accepted by Athanasius (367) and the African councils, and has been in every major canon since."
+  },
+  {
+    "id": "1-john",
+    "abbr": "1 John",
+    "name": "1 John",
+    "testament": "NT",
+    "genre": "Epistle (homily or tract)",
+    "authorship": {
+      "traditional": "The apostle John, author of the Fourth Gospel, writing as an elderly eyewitness in Ephesus.",
+      "scholarly": "Anonymous in the text. Most scholars attribute it to the same circle (and often the same author) as the Gospel of John, with debate over whether the writer was the apostle, John the Elder or another leader of the Johannine community. It claims eyewitness contact with the 'word of life' (1 John 1:1-3)."
+    },
+    "date": {
+      "year": 95,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Shortly after the Gospel of John",
+          "year": 95
+        },
+        {
+          "label": "Earlier (before 70) on early dating of John",
+          "year": 68
+        }
+      ]
+    },
+    "audience": "Johannine churches, likely in and around Ephesus, shaken by a schism.",
+    "setting": "A group had left the community (1 John 2:19), apparently denying that Jesus Christ had come in the flesh and claiming sinlessness while neglecting love.",
+    "purpose": "To give assurance of eternal life to those who believe, and to supply tests of true faith: right belief about Jesus, obedience and love.",
+    "themes": [
+      "God is light and God is love",
+      "Assurance of eternal life",
+      "Jesus Christ come in the flesh",
+      "Love for one another",
+      "Walking in the light and confessing sin"
+    ],
+    "outline": [
+      {
+        "title": "Prologue: the word of life we have seen and touched",
+        "refs": [
+          "1 John 1:1-4"
+        ]
+      },
+      {
+        "title": "Walking in the light: sin, confession, obedience",
+        "refs": [
+          "1 John 1:5-2:17"
+        ]
+      },
+      {
+        "title": "Antichrists and abiding in the truth",
+        "refs": [
+          "1 John 2:18-27"
+        ]
+      },
+      {
+        "title": "Children of God: righteousness and love",
+        "refs": [
+          "1 John 2:28-3:24"
+        ]
+      },
+      {
+        "title": "Test the spirits; God is love",
+        "refs": [
+          "1 John 4"
+        ]
+      },
+      {
+        "title": "Faith that overcomes; assurance of life",
+        "refs": [
+          "1 John 5"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "1 John 1:1-3",
+      "1 John 1:9",
+      "1 John 2:1-2",
+      "1 John 3:1",
+      "1 John 4:8-10",
+      "1 John 5:13"
+    ],
+    "bigStory": "Written to a church wounded by people leaving, 1 John tells those who stayed how they can know they have eternal life: they confess that Jesus Christ has come in the flesh, they keep his commands, and they love one another, because God is love.",
+    "canonNote": "Among the recognised books (homologoumena) from the second century; used by Polycarp and Papias according to Eusebius. The 'Johannine Comma' (the Trinitarian addition in 1 John 5:7-8 in the KJV) is absent from early Greek manuscripts and is regarded as a later Latin addition by most scholars."
+  },
+  {
+    "id": "2-john",
+    "abbr": "2 John",
+    "name": "2 John",
+    "testament": "NT",
+    "genre": "Epistle (short personal/community letter)",
+    "authorship": {
+      "traditional": "The apostle John, styling himself 'the elder'.",
+      "scholarly": "Written by 'the elder' (2 John 1:1), whom many scholars distinguish from the apostle, sometimes identifying him with John the Elder mentioned by Papias; others hold the elder is the apostle. Same author as 3 John and closely related to 1 John."
+    },
+    "date": {
+      "year": 95,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Earlier view",
+          "year": 70
+        }
+      ]
+    },
+    "audience": "'The elect lady and her children', most likely a personified local church.",
+    "setting": "Travelling teachers denying that Jesus Christ came in the flesh were seeking hospitality from congregations.",
+    "purpose": "To urge love and obedience and to warn the church not to welcome or support deceivers who deny the incarnation.",
+    "themes": [
+      "Walking in truth and love",
+      "The incarnation as a test of truth",
+      "Discernment in hospitality"
+    ],
+    "outline": [
+      {
+        "title": "Greeting in truth and love",
+        "refs": [
+          "2 John 1:1-3"
+        ]
+      },
+      {
+        "title": "Walk in love and obedience",
+        "refs": [
+          "2 John 1:4-6"
+        ]
+      },
+      {
+        "title": "Beware of deceivers; do not receive them",
+        "refs": [
+          "2 John 1:7-11"
+        ]
+      },
+      {
+        "title": "Hope to visit; greetings",
+        "refs": [
+          "2 John 1:12-13"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "2 John 1:5-6",
+      "2 John 1:7",
+      "2 John 1:9",
+      "2 John 1:10-11"
+    ],
+    "bigStory": "In the shortest book of the New Testament the elder reminds a church of the old command to love one another, and warns it not to give a platform to teachers who deny that Jesus Christ came in the flesh.",
+    "canonNote": "Antilegomena. Irenaeus quotes it, and the Muratorian fragment mentions two letters of John, which may be 1 and 2 John. Eusebius lists 2-3 John among the disputed books, and Origen notes that not all accepted them. Both are absent from the Syriac Peshitta, but they were received by Athanasius and the African councils."
+  },
+  {
+    "id": "3-john",
+    "abbr": "3 John",
+    "name": "3 John",
+    "testament": "NT",
+    "genre": "Epistle (personal letter)",
+    "authorship": {
+      "traditional": "The apostle John as 'the elder'.",
+      "scholarly": "The same 'elder' as 2 John; identity debated as for 2 John (the apostle or John the Elder)."
+    },
+    "date": {
+      "year": 95,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Earlier view",
+          "year": 70
+        }
+      ]
+    },
+    "audience": "Gaius, a faithful believer known for hospitality.",
+    "setting": "Diotrephes, who loved to be first, was refusing to receive the elder's messengers and expelling those who did.",
+    "purpose": "To commend Gaius for supporting travelling missionaries, rebuke Diotrephes, and recommend Demetrius.",
+    "themes": [
+      "Hospitality to gospel workers",
+      "Walking in the truth",
+      "Humble versus domineering leadership"
+    ],
+    "outline": [
+      {
+        "title": "Gaius commended for walking in truth",
+        "refs": [
+          "3 John 1:1-8"
+        ]
+      },
+      {
+        "title": "Diotrephes rebuked",
+        "refs": [
+          "3 John 1:9-10"
+        ]
+      },
+      {
+        "title": "Demetrius commended; farewell",
+        "refs": [
+          "3 John 1:11-14"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "3 John 1:4",
+      "3 John 1:8",
+      "3 John 1:9-10",
+      "3 John 1:11"
+    ],
+    "bigStory": "This brief note shows early church life at ground level: travelling teachers depending on hospitality, a generous host, and a local leader who shuts the door on them. The elder urges Gaius to imitate what is good.",
+    "canonNote": "Antilegomena, with the weakest early attestation of the Johannine letters; Eusebius lists it as disputed and it is absent from the Syriac Peshitta. It was received by Athanasius (367) and the councils of Hippo and Carthage."
+  },
+  {
+    "id": "jude",
+    "abbr": "Jude",
+    "name": "Jude",
+    "testament": "NT",
+    "genre": "Epistle (general letter; polemical sermon)",
+    "authorship": {
+      "traditional": "Jude (Judas), brother of James and so a brother of Jesus (Jude 1:1).",
+      "scholarly": "Divided. Some scholars see it as pseudonymous, citing its competent Greek and references to 'the faith once delivered' as signs of a later period. Others think a brother of Jesus is a plausible author, noting that a forger would more likely choose a more prominent name, and that its Jewish apocalyptic world fits early Palestinian Christianity."
+    },
+    "date": {
+      "year": 65,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Early, by Jesus' brother",
+          "year": 55
+        },
+        {
+          "label": "Later first century",
+          "year": 90
+        }
+      ]
+    },
+    "audience": "An unnamed community, probably of Jewish Christians familiar with Jewish traditions such as 1 Enoch.",
+    "setting": "Intruders had slipped into the church, turning grace into licence and rejecting authority.",
+    "purpose": "To urge readers to contend for the faith, to expose the intruders through Old Testament and Jewish examples of judgment, and to keep believers in God's love.",
+    "themes": [
+      "Contending for the faith",
+      "Judgment on the ungodly",
+      "Keeping oneself in God's love",
+      "God's power to keep from stumbling"
+    ],
+    "outline": [
+      {
+        "title": "Greeting and reason for writing",
+        "refs": [
+          "Jude 1:1-4"
+        ]
+      },
+      {
+        "title": "Examples of judgment: Israel, angels, Sodom",
+        "refs": [
+          "Jude 1:5-7"
+        ]
+      },
+      {
+        "title": "The intruders described; Michael, Cain, Balaam, Korah, Enoch",
+        "refs": [
+          "Jude 1:8-16"
+        ]
+      },
+      {
+        "title": "Exhortations to the faithful",
+        "refs": [
+          "Jude 1:17-23"
+        ]
+      },
+      {
+        "title": "Doxology",
+        "refs": [
+          "Jude 1:24-25"
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Jude 1:3",
+      "Jude 1:14-15",
+      "Jude 1:20-21",
+      "Jude 1:24-25"
+    ],
+    "bigStory": "Jude meant to write about salvation but instead had to sound an alarm about people corrupting grace. He piles up examples of judgment from Israel's history and tradition, then closes with one of Scripture's best-loved doxologies to the God who keeps his people from falling.",
+    "canonNote": "Antilegomena. It is listed in the Muratorian fragment and used by Tertullian and Clement of Alexandria, but Jerome reports that many rejected it because it cites 1 Enoch (Jude 1:14-15) and alludes to the Assumption of Moses (Jude 1:9). Eusebius lists it as disputed and it is absent from the Syriac Peshitta. It was received by Athanasius and the African councils."
+  },
+  {
+    "id": "revelation",
+    "abbr": "Rev",
+    "name": "Revelation",
+    "testament": "NT",
+    "genre": "Apocalypse (with prophetic and epistolary features)",
+    "authorship": {
+      "traditional": "John the apostle, exiled on Patmos (Rev 1:9); Justin Martyr (Dialogue with Trypho 81) and Irenaeus name the apostle.",
+      "scholarly": "The author calls himself John, a servant and prophet, but not an apostle. Dionysius of Alexandria (third century, quoted in Eusebius, Church History 7.25) already argued from its very different Greek style that it was not by the author of the Gospel. Most modern scholars think it was written by a Christian prophet named John, distinct from the apostle; a minority still defends apostolic authorship."
+    },
+    "date": {
+      "year": 95,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Domitianic dating, following Irenaeus (Against Heresies 5.30.3); majority view",
+          "year": 95
+        },
+        {
+          "label": "Neronian dating, before the fall of Jerusalem (preterist and some critical scholars)",
+          "year": 68
+        }
+      ]
+    },
+    "audience": "Seven churches in the Roman province of Asia: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia and Laodicea.",
+    "setting": "Churches under pressure from emperor worship and civic religion, local hostility and the temptations of compromise and wealth, whether under Nero or Domitian.",
+    "purpose": "To reveal the true state of things behind the visible world: Christ reigns, evil will be judged, and the faithful will share in his victory. It calls the churches to repent, endure and refuse compromise with idolatrous power.",
+    "themes": [
+      "Christ the slain Lamb who reigns",
+      "God's sovereignty over history",
+      "Faithful witness and endurance through suffering",
+      "Judgment on Babylon and the beast",
+      "Worship in heaven",
+      "New heaven, new earth and new Jerusalem"
+    ],
+    "outline": [
+      {
+        "title": "Vision of the risen Christ",
+        "refs": [
+          "Rev 1"
+        ]
+      },
+      {
+        "title": "Letters to the seven churches",
+        "refs": [
+          "Rev 2-3"
+        ]
+      },
+      {
+        "title": "Heavenly throne room and the Lamb with the scroll",
+        "refs": [
+          "Rev 4-5"
+        ]
+      },
+      {
+        "title": "Seven seals and seven trumpets",
+        "refs": [
+          "Rev 6:1-11:19"
+        ],
+        "children": [
+          {
+            "title": "The seals opened",
+            "refs": [
+              "Rev 6:1-8:5"
+            ]
+          },
+          {
+            "title": "The trumpets sound",
+            "refs": [
+              "Rev 8:6-11:19"
+            ]
+          }
+        ]
+      },
+      {
+        "title": "The dragon, the beasts and the Lamb's followers",
+        "refs": [
+          "Rev 12-14"
+        ]
+      },
+      {
+        "title": "Seven bowls and the fall of Babylon",
+        "refs": [
+          "Rev 15-18"
+        ]
+      },
+      {
+        "title": "Final victory and new creation",
+        "refs": [
+          "Rev 19-22"
+        ],
+        "children": [
+          {
+            "title": "Rider on the white horse",
+            "refs": [
+              "Rev 19:11-21"
+            ]
+          },
+          {
+            "title": "The thousand years and final judgment",
+            "refs": [
+              "Rev 20:1-15"
+            ]
+          },
+          {
+            "title": "New heaven, new earth, new Jerusalem",
+            "refs": [
+              "Rev 21:1-22:5"
+            ]
+          },
+          {
+            "title": "Come, Lord Jesus",
+            "refs": [
+              "Rev 22:6-21"
+            ]
+          }
+        ]
+      }
+    ],
+    "keyRefs": [
+      "Rev 1:8",
+      "Rev 1:17-18",
+      "Rev 3:20",
+      "Rev 5:9-10",
+      "Rev 7:9-10",
+      "Rev 20:11-12",
+      "Rev 21:3-4",
+      "Rev 22:20"
+    ],
+    "bigStory": "Revelation pulls back the curtain on a world where Rome looked all-powerful, showing a throne in heaven and a slain Lamb who holds history's scroll. Through vivid symbolic visions it calls the churches to faithful witness, and it ends where Genesis began, with God dwelling among his people in a renewed creation.",
+    "canonNote": "The canonical history of Revelation runs opposite to that of Hebrews. It was accepted early in the West (Justin, Irenaeus, the Muratorian fragment) but became doubted in the East after Dionysius of Alexandria questioned its apostolic authorship. Eusebius wavered, placing it among the recognised books 'if it seem proper' and also among the spurious. It is missing from the list attributed to the Synod of Laodicea (canon 60, authenticity debated), from Cyril of Jerusalem's list, and from the Syriac Peshitta. Athanasius included it in 367, and the West never doubted it; it is still not read in the Eastern Orthodox lectionary. Luther (1522) said he could not detect the Holy Spirit in it, and Zwingli did not regard it as a book of the Bible, yet both left it in their Bibles."
+  }
+]

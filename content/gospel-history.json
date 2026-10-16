@@ -1,0 +1,2540 @@
+[
+  {
+    "id": "jesus-kingdom",
+    "title": "Jesus announces the kingdom of God",
+    "year": 28,
+    "endYear": 30,
+    "place": "Galilee (Capernaum and Nazareth)",
+    "coords": [
+      35.5751,
+      32.8803
+    ],
+    "people": [
+      "Jesus of Nazareth",
+      "John the Baptist"
+    ],
+    "kind": "preaching",
+    "message": "Mark summarises Jesus' preaching as the announcement that the appointed time has arrived and God's kingdom has drawn near, with a call to repent and believe the good news. In the Nazareth synagogue Luke has him read Isaiah 61 and claim its fulfilment: good news for the poor, release for captives, sight for the blind. Healings, exorcisms and table fellowship with sinners are presented as signs that God's reign is breaking in, and Jesus also warns of judgment and Gehenna.",
+    "refs": [
+      "Mark 1:14-15",
+      "Matt 4:23",
+      "Luke 4:16-21",
+      "Luke 4:43",
+      "Isa 61:1-2",
+      "Luke 7:22",
+      "Mark 9:43-48"
+    ],
+    "sources": [
+      {
+        "author": "Albert Schweitzer",
+        "title": "The Quest of the Historical Jesus",
+        "year": 1906,
+        "locator": "ch. 19 (consistent eschatology)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "C. H. Dodd",
+        "title": "The Parables of the Kingdom",
+        "year": 1935,
+        "locator": "ch. 2 (realized eschatology)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "E. P. Sanders",
+        "title": "Jesus and Judaism",
+        "year": 1985,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "kingdom-parables"
+    ]
+  },
+  {
+    "id": "kingdom-parables",
+    "title": "The kingdom parables",
+    "year": 29,
+    "endYear": 30,
+    "place": "Galilee (Sea of Galilee shore)",
+    "coords": [
+      35.59,
+      32.83
+    ],
+    "people": [
+      "Jesus of Nazareth"
+    ],
+    "kind": "preaching",
+    "message": "Jesus teaches about the kingdom mostly in parables: seed growing secretly, the mustard seed, hidden treasure, the pearl, the wheat and weeds, the lost sheep, coin and son. The parables picture God's reign as small and hidden now but certain to grow, as a gift of searching grace to the lost, and as ending in a final sorting and judgment. How much of the kingdom is present versus future in these parables is one of the central debates in Gospels scholarship.",
+    "refs": [
+      "Mark 4:26-32",
+      "Matt 13:24-30",
+      "Matt 13:44-46",
+      "Luke 15:1-32",
+      "Matt 25:31-46"
+    ],
+    "sources": [
+      {
+        "author": "Joachim Jeremias",
+        "title": "The Parables of Jesus",
+        "year": 1947,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "C. H. Dodd",
+        "title": "The Parables of the Kingdom",
+        "year": 1935,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Klyne Snodgrass",
+        "title": "Stories with Intent",
+        "year": 2008,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "peter-pentecost"
+    ]
+  },
+  {
+    "id": "peter-pentecost",
+    "title": "Peter's Pentecost sermon",
+    "year": 30,
+    "place": "Jerusalem",
+    "coords": [
+      35.2345,
+      31.7767
+    ],
+    "people": [
+      "Peter",
+      "the Eleven"
+    ],
+    "kind": "preaching",
+    "message": "Peter reads the outpouring of the Spirit as Joel's last-days promise fulfilled. His sermon centres on Jesus' resurrection and exaltation: the one Israel crucified God has raised and made both Lord and Messiah. He calls hearers to repent and be baptised in Jesus' name for forgiveness of sins and promises the gift of the Spirit. Heaven and hell as individual destinations are not mentioned; the frame is Israel's story reaching its climax.",
+    "refs": [
+      "Acts 2:14-41",
+      "Joel 2:28-32",
+      "Ps 16:8-11",
+      "Ps 110:1"
+    ],
+    "sources": [
+      {
+        "author": "C. H. Dodd",
+        "title": "The Apostolic Preaching and Its Developments",
+        "year": 1936,
+        "locator": "lecture 1",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Martin Dibelius",
+        "title": "Studies in the Acts of the Apostles",
+        "year": 1951,
+        "locator": "on the speeches as Lukan compositions",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "peter-temple"
+    ]
+  },
+  {
+    "id": "peter-temple",
+    "title": "Peter in Solomon's Portico: times of refreshing",
+    "year": 30,
+    "place": "Jerusalem (temple courts)",
+    "coords": [
+      35.2354,
+      31.7781
+    ],
+    "people": [
+      "Peter",
+      "John the apostle"
+    ],
+    "kind": "preaching",
+    "message": "After a healing at the temple gate Peter again proclaims the crucified and raised Jesus as the servant of the God of Abraham. He calls for repentance so that sins may be wiped out and times of refreshing may come, and says heaven must hold Jesus until the time for restoring all things spoken by the prophets (Acts 3:21). This is the clearest Acts text joining personal repentance to a cosmic restoration hope and the return of Christ.",
+    "refs": [
+      "Acts 3:12-26",
+      "Acts 3:19-21",
+      "Deut 18:15-19"
+    ],
+    "sources": [
+      {
+        "author": "C. K. Barrett",
+        "title": "The Acts of the Apostles (ICC)",
+        "year": 1994,
+        "locator": "on Acts 3:19-21",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Origen",
+        "title": "On First Principles",
+        "locator": "1.6 (later uses of apokatastasis vocabulary)",
+        "confidence": "debated"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "stephen"
+    ]
+  },
+  {
+    "id": "stephen",
+    "title": "Stephen's speech and death",
+    "year": 34,
+    "place": "Jerusalem",
+    "coords": [
+      35.2345,
+      31.7767
+    ],
+    "people": [
+      "Stephen",
+      "Saul of Tarsus"
+    ],
+    "kind": "turning-point",
+    "message": "Stephen retells Israel's history from Abraham to Solomon, stressing that God was never confined to the land or the temple and that Israel repeatedly resisted God's messengers. He sees the Son of Man standing at God's right hand. His death triggers persecution that scatters believers beyond Jerusalem.",
+    "shift": "The message moves outward from the temple and Judea; the scattering leads to preaching in Samaria and Antioch, and the witness Saul later becomes the apostle to the Gentiles.",
+    "refs": [
+      "Acts 7:2-60",
+      "Acts 8:1-8",
+      "Acts 11:19-21",
+      "Dan 7:13-14"
+    ],
+    "sources": [
+      {
+        "author": "Martin Hengel",
+        "title": "Between Jesus and Paul",
+        "year": 1983,
+        "locator": "on the Hellenists",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "paul-antioch-pisidia"
+    ]
+  },
+  {
+    "id": "paul-antioch-pisidia",
+    "title": "Paul in the synagogue at Pisidian Antioch",
+    "year": 47,
+    "place": "Antioch of Pisidia",
+    "coords": [
+      31.189,
+      38.3061
+    ],
+    "people": [
+      "Paul",
+      "Barnabas"
+    ],
+    "kind": "preaching",
+    "message": "Paul's longest synagogue sermon in Acts runs Israel's story from the exodus to David and presents Jesus as David's promised descendant, raised from the dead. Through him forgiveness of sins is proclaimed, and everyone who believes is set free from everything the law of Moses could not free them from. When many Jews reject this, Paul and Barnabas turn to the Gentiles.",
+    "refs": [
+      "Acts 13:16-41",
+      "Acts 13:38-39",
+      "Acts 13:46-48",
+      "Ps 2:7"
+    ],
+    "sources": [
+      {
+        "author": "C. H. Dodd",
+        "title": "The Apostolic Preaching and Its Developments",
+        "year": 1936,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "paul-thessalonica",
+      "paul-athens"
+    ]
+  },
+  {
+    "id": "paul-thessalonica",
+    "title": "Thessalonica: turning to God and waiting for his Son",
+    "year": 50,
+    "place": "Thessalonica",
+    "coords": [
+      22.9444,
+      40.6401
+    ],
+    "people": [
+      "Paul",
+      "Silas",
+      "Timothy"
+    ],
+    "kind": "preaching",
+    "message": "Paul's earliest surviving letter recalls what his preaching produced: Gentiles turning from idols to serve the living God and to wait for his Son from heaven, who rescues from the coming wrath. Acts says he argued from the scriptures that the Messiah had to suffer and rise, and opponents accused the missionaries of proclaiming another king, Jesus. Expectation of an imminent return is strong here.",
+    "refs": [
+      "Acts 17:1-9",
+      "1 Thess 1:9-10",
+      "1 Thess 4:13-18",
+      "2 Thess 2:1-3"
+    ],
+    "sources": [
+      {
+        "author": "Abraham J. Malherbe",
+        "title": "The Letters to the Thessalonians (Anchor Bible)",
+        "year": 2000,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "paul-1-cor-15"
+    ]
+  },
+  {
+    "id": "paul-athens",
+    "title": "Paul at the Areopagus",
+    "year": 50,
+    "place": "Athens",
+    "coords": [
+      23.7275,
+      37.9838
+    ],
+    "people": [
+      "Paul"
+    ],
+    "kind": "preaching",
+    "message": "To a Gentile, philosophically trained audience Paul begins with creation rather than Israel's scriptures: the one God made the world, does not live in shrines, and is near to all. He calls for repentance because God has fixed a day to judge the world through a man he appointed, and has given proof by raising him from the dead. Mention of resurrection divides the hearers.",
+    "refs": [
+      "Acts 17:16-34",
+      "Acts 17:30-31"
+    ],
+    "sources": [
+      {
+        "author": "Bertil Gärtner",
+        "title": "The Areopagus Speech and Natural Revelation",
+        "year": 1955,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "C. Kavin Rowe",
+        "title": "World Upside Down",
+        "year": 2009,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "paul-1-cor-15"
+    ]
+  },
+  {
+    "id": "paul-1-cor-15",
+    "title": "The gospel Paul received: 1 Corinthians 15",
+    "year": 54,
+    "place": "Ephesus (writing to Corinth)",
+    "coords": [
+      27.3417,
+      37.9411
+    ],
+    "people": [
+      "Paul"
+    ],
+    "kind": "preaching",
+    "message": "Paul reminds the Corinthians of the gospel he passed on as of first importance: Christ died for our sins according to the scriptures, was buried, was raised on the third day, and appeared to many witnesses. Most scholars regard this as a pre-Pauline formula dating within a few years of the crucifixion. He then expands it into the reign of Christ until every enemy, death last of all, is defeated and God is all in all.",
+    "refs": [
+      "1 Cor 15:1-8",
+      "1 Cor 15:20-28",
+      "1 Cor 16:8",
+      "Rom 1:1-4",
+      "2 Tim 2:8"
+    ],
+    "sources": [
+      {
+        "author": "Gordon D. Fee",
+        "title": "The First Epistle to the Corinthians (NICNT)",
+        "year": 1987,
+        "locator": "on 15:3-5",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Scot McKnight",
+        "title": "The King Jesus Gospel",
+        "year": 2011,
+        "locator": "ch. 4",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "paul-romans",
+      "dodd-kerygma"
+    ]
+  },
+  {
+    "id": "paul-romans",
+    "title": "Romans: righteousness revealed, faith and Lordship",
+    "year": 57,
+    "place": "Corinth (writing to Rome)",
+    "coords": [
+      22.88,
+      37.9056
+    ],
+    "people": [
+      "Paul",
+      "Phoebe"
+    ],
+    "kind": "preaching",
+    "message": "Romans opens by defining the gospel as concerning God's Son, descended from David and declared Son of God in power by resurrection, aimed at the obedience of faith among the nations. It then argues that all, Jew and Gentile, are under sin, and that God's righteousness is revealed through the faithfulness of or faith in Jesus, apart from works of the law. Confessing Jesus as Lord and believing God raised him leads to salvation, and the whole creation waits for liberation.",
+    "refs": [
+      "Rom 1:1-5",
+      "Rom 1:16-17",
+      "Rom 3:21-26",
+      "Rom 10:9-13",
+      "Rom 8:18-23"
+    ],
+    "sources": [
+      {
+        "author": "E. P. Sanders",
+        "title": "Paul and Palestinian Judaism",
+        "year": 1977,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Douglas J. Moo",
+        "title": "The Epistle to the Romans (NICNT)",
+        "year": 1996,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "N. T. Wright",
+        "title": "Paul and the Faithfulness of God",
+        "year": 2013,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "biblical",
+    "leadsTo": [
+      "didache",
+      "clement-rome",
+      "luther"
+    ]
+  },
+  {
+    "id": "didache",
+    "title": "The Didache: the two ways and watchfulness",
+    "year": 90,
+    "endYear": 120,
+    "place": "Syria or Palestine (uncertain)",
+    "coords": [
+      36.1626,
+      36.2021
+    ],
+    "people": [
+      "Anonymous compilers"
+    ],
+    "kind": "father",
+    "message": "This church manual opens with the way of life and the way of death, a moral catechesis drawing on the Sermon on the Mount, before baptism. Its eucharistic prayers give thanks for life, knowledge and immortality made known through Jesus and pray for the scattered church to be gathered into God's kingdom. It closes with a call to watch, because the Lord will come and the world-deceiver will appear first.",
+    "refs": [
+      "Matt 5:38-48",
+      "Matt 7:13-14",
+      "Matt 24:42-44"
+    ],
+    "sources": [
+      {
+        "author": "Anonymous",
+        "title": "Didache",
+        "locator": "1–6 (two ways); 9–10 (eucharist and kingdom); 16 (watchfulness)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Kurt Niederwimmer",
+        "title": "The Didache: A Commentary",
+        "year": 1998,
+        "locator": "introduction on dating",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": [
+      "shepherd-hermas",
+      "montanism"
+    ]
+  },
+  {
+    "id": "clement-rome",
+    "title": "1 Clement: repentance, resurrection and justification by faith",
+    "year": 96,
+    "place": "Rome",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "people": [
+      "Clement of Rome"
+    ],
+    "kind": "father",
+    "message": "Writing to settle a dispute at Corinth, the Roman church holds up Peter and Paul as noble examples who suffered unto death. It urges repentance, which God has offered in every generation, and argues for a future resurrection from nature's cycles and the phoenix. It states that believers are justified not through their own wisdom or piety but through faith, while also urging humble good works and order.",
+    "refs": [
+      "Heb 11:1-40",
+      "1 Cor 1:10-17"
+    ],
+    "sources": [
+      {
+        "author": "Clement of Rome",
+        "title": "1 Clement",
+        "locator": "5 (Peter and Paul); 7 (repentance); 24–26 (resurrection); 32 (justified through faith)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Michael W. Holmes",
+        "title": "The Apostolic Fathers: Greek Texts and English Translations",
+        "year": 2007,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "ignatius"
+    ]
+  },
+  {
+    "id": "ignatius",
+    "title": "Ignatius of Antioch: the real flesh of Christ",
+    "year": 110,
+    "place": "Smyrna and Troas (letters on the road to Rome)",
+    "coords": [
+      27.1428,
+      38.4237
+    ],
+    "people": [
+      "Ignatius of Antioch"
+    ],
+    "kind": "father",
+    "message": "Under guard on the way to martyrdom, Ignatius insists against docetists that Jesus was truly born, truly suffered and truly rose in the flesh. Salvation is union with this Christ through the eucharist, which he calls the medicine of immortality, and unity with the bishop. The gospel is cast as life and incorruption overcoming death rather than primarily as legal acquittal.",
+    "refs": [
+      "John 6:53-58",
+      "1 John 4:2-3"
+    ],
+    "sources": [
+      {
+        "author": "Ignatius of Antioch",
+        "title": "To the Smyrnaeans",
+        "locator": "1–3 (true birth, passion, resurrection in the flesh); 7 (eucharist)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Ignatius of Antioch",
+        "title": "To the Ephesians",
+        "locator": "20 (medicine of immortality)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "William R. Schoedel",
+        "title": "Ignatius of Antioch (Hermeneia)",
+        "year": 1985,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "polycarp",
+      "justin-martyr",
+      "irenaeus"
+    ]
+  },
+  {
+    "id": "polycarp",
+    "title": "Polycarp of Smyrna: grace, resurrection, judgment",
+    "year": 115,
+    "endYear": 155,
+    "place": "Smyrna",
+    "coords": [
+      27.1428,
+      38.4237
+    ],
+    "people": [
+      "Polycarp"
+    ],
+    "kind": "father",
+    "message": "Polycarp's letter to the Philippians echoes Ephesians: believers are saved by grace, not by works, through the will of God in Jesus Christ. It joins this to the resurrection, the coming judgment of the living and the dead, and a call to righteous living. The later account of his martyrdom presents faithful confession of Christ as King over against swearing by Caesar's fortune.",
+    "refs": [
+      "Eph 2:8-9",
+      "Acts 10:42",
+      "1 Pet 1:8"
+    ],
+    "sources": [
+      {
+        "author": "Polycarp",
+        "title": "To the Philippians",
+        "locator": "1.3 (saved by grace not works); 2.1–2 (resurrection and judgment)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Anonymous",
+        "title": "Martyrdom of Polycarp",
+        "locator": "9–10",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "irenaeus"
+    ]
+  },
+  {
+    "id": "shepherd-hermas",
+    "title": "The Shepherd of Hermas: a second repentance",
+    "year": 140,
+    "place": "Rome",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "people": [
+      "Hermas"
+    ],
+    "kind": "turning-point",
+    "message": "This visionary book was widely read and sometimes treated as scripture. Its central message is a call to repentance addressed to baptised Christians who have sinned, offering one further opportunity for repentance before the building of the church (the tower) is finished. Moral purity, simplicity and care for the poor dominate its preaching.",
+    "shift": "The question of what happens when the baptised sin seriously moves to the centre of pastoral preaching. Many historians see Hermas as an early step toward a formal system of post-baptismal penance; others stress that its offer is pastoral and eschatological rather than institutional.",
+    "refs": [
+      "Heb 6:4-6",
+      "1 John 1:9",
+      "Jas 5:16"
+    ],
+    "sources": [
+      {
+        "author": "Hermas",
+        "title": "Shepherd of Hermas",
+        "locator": "Mandate 4.3 (one repentance after baptism); Vision 3 (the tower)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Carolyn Osiek",
+        "title": "Shepherd of Hermas (Hermeneia)",
+        "year": 1999,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "tertullian"
+    ]
+  },
+  {
+    "id": "justin-martyr",
+    "title": "Justin Martyr: the Logos, baptism and the coming kingdom",
+    "year": 155,
+    "place": "Rome",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "people": [
+      "Justin Martyr"
+    ],
+    "kind": "father",
+    "message": "Justin presents Christianity to the emperor as the true philosophy: the divine Logos, partially sown in all people, became fully incarnate in Jesus. He describes baptism as illumination and rebirth, and the Sunday gathering of readings, prayer, eucharist and collection for the poor. He warns of eternal punishment by fire and, in his Dialogue, expects a thousand-year reign in a rebuilt Jerusalem, while noting that some orthodox Christians thought otherwise.",
+    "refs": [
+      "John 1:1-14",
+      "John 3:3-5",
+      "Rev 20:4-6"
+    ],
+    "sources": [
+      {
+        "author": "Justin Martyr",
+        "title": "First Apology",
+        "locator": "46 (Logos); 61 (baptism); 65–67 (eucharist and Sunday worship)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Justin Martyr",
+        "title": "First Apology",
+        "locator": "8 (eternal punishment)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Justin Martyr",
+        "title": "Dialogue with Trypho",
+        "locator": "80–81 (millennium)",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "irenaeus",
+      "clement-alexandria"
+    ]
+  },
+  {
+    "id": "montanism",
+    "title": "The New Prophecy (Montanism)",
+    "year": 170,
+    "place": "Phrygia (Pepuza)",
+    "coords": [
+      29.6,
+      38.5
+    ],
+    "people": [
+      "Montanus",
+      "Priscilla",
+      "Maximilla"
+    ],
+    "kind": "movement",
+    "message": "A prophetic movement claimed fresh revelation from the Paraclete, called for stricter discipline (fasting, restrictions on remarriage, no flight from persecution) and expected the heavenly Jerusalem to descend in Phrygia. It combined Spirit, urgency and rigour, and later won Tertullian's sympathy.",
+    "shift": "The wider church's rejection of the movement strengthened episcopal authority and caution about new prophecy and date-setting. Historians debate how far the movement's reputation reflects hostile sources.",
+    "refs": [
+      "John 14:16-17",
+      "Rev 21:2",
+      "Joel 2:28-29"
+    ],
+    "sources": [
+      {
+        "author": "Eusebius",
+        "title": "Church History",
+        "locator": "5.16–18",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Christine Trevett",
+        "title": "Montanism: Gender, Authority and the New Prophecy",
+        "year": 1996,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": [
+      "tertullian"
+    ]
+  },
+  {
+    "id": "irenaeus",
+    "title": "Irenaeus: recapitulation and the restored creation",
+    "year": 180,
+    "place": "Lyon",
+    "coords": [
+      4.8357,
+      45.764
+    ],
+    "people": [
+      "Irenaeus of Lyon"
+    ],
+    "kind": "father",
+    "message": "Against gnostic teachers who despised matter, Irenaeus summarised the apostolic rule of faith: one God the Creator, one Christ incarnate, crucified, raised and coming again, and the Spirit who spoke through the prophets. Christ recapitulates humanity, retracing Adam's path obediently and so undoing disobedience and death. Salvation includes the bodily resurrection and a renewed earth, with a literal earthly kingdom for the righteous before the final new creation.",
+    "refs": [
+      "Eph 1:10",
+      "Rom 5:12-21",
+      "Rom 8:19-21",
+      "Isa 65:17-25"
+    ],
+    "sources": [
+      {
+        "author": "Irenaeus",
+        "title": "Against Heresies",
+        "locator": "1.10.1 (rule of faith); 3.18.1 (recapitulation); 4.20.7 (the glory of God is a living human being)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Irenaeus",
+        "title": "Against Heresies",
+        "locator": "5.32–36 (restored creation and earthly kingdom)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Irenaeus",
+        "title": "Demonstration of the Apostolic Preaching",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "tertullian",
+      "athanasius"
+    ]
+  },
+  {
+    "id": "tertullian",
+    "title": "Tertullian: rule of faith, penance, satisfaction",
+    "year": 200,
+    "endYear": 220,
+    "place": "Carthage",
+    "coords": [
+      10.3233,
+      36.8528
+    ],
+    "people": [
+      "Tertullian"
+    ],
+    "kind": "father",
+    "message": "Tertullian defends the rule of faith against heretics and coins Latin vocabulary (trinitas, persona) for later theology. On repentance he describes exomologesis, a public discipline of confession, fasting and humiliation for serious sins after baptism, and uses the language of making satisfaction to God. He also writes vividly of the coming judgment and the punishment of persecutors, and in later life embraced the New Prophecy's rigour.",
+    "shift": "Western preaching acquires a legal and penitential vocabulary (merit, satisfaction, debt) that later medieval penance and, in a different way, Anselm would develop. Whether this was a distortion or a natural Latin idiom is disputed.",
+    "refs": [
+      "Luke 15:11-32",
+      "Rev 20:11-15"
+    ],
+    "sources": [
+      {
+        "author": "Tertullian",
+        "title": "Prescription against Heretics",
+        "locator": "13 (rule of faith)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Tertullian",
+        "title": "On Repentance",
+        "locator": "7–9 (second repentance and exomologesis)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Tertullian",
+        "title": "On the Spectacles",
+        "locator": "30 (spectacle of the last judgment)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Tertullian",
+        "title": "Against Praxeas",
+        "locator": "2–3",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "edict-milan",
+      "augustine"
+    ]
+  },
+  {
+    "id": "clement-alexandria",
+    "title": "Clement of Alexandria: the Logos as teacher and new song",
+    "year": 200,
+    "place": "Alexandria",
+    "coords": [
+      29.9187,
+      31.2001
+    ],
+    "people": [
+      "Clement of Alexandria"
+    ],
+    "kind": "father",
+    "message": "Clement's *Exhortation to the Greeks* invites pagans to leave the myths and mysteries for the Logos, the new song who tunes humanity to God. Salvation is pictured as education and ascent: the Word became human so that humans might learn how to become godlike. Punishment after death is treated as largely corrective, and the true gnostic is the mature Christian who grows in love and knowledge.",
+    "refs": [
+      "John 1:9",
+      "Titus 2:11-12",
+      "2 Pet 1:4"
+    ],
+    "sources": [
+      {
+        "author": "Clement of Alexandria",
+        "title": "Exhortation to the Greeks (Protrepticus)",
+        "locator": "1 (the new song); 1.8.4 (learning to become god)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Clement of Alexandria",
+        "title": "Stromata",
+        "locator": "7 (the true gnostic)",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "origen"
+    ]
+  },
+  {
+    "id": "origen",
+    "title": "Origen: rule of faith, ascent and restoration",
+    "year": 230,
+    "place": "Alexandria, later Caesarea",
+    "coords": [
+      29.9187,
+      31.2001
+    ],
+    "people": [
+      "Origen"
+    ],
+    "kind": "father",
+    "message": "Origen opens *On First Principles* by listing what the apostles plainly taught (one God, Christ, the Spirit, free will, resurrection, judgment) and then explores open questions. He speculates that God's discipline aims at healing and that the end will be like the beginning, with God all in all, possibly including the restoration of all rational beings. He was also a prolific preacher whose homilies centre on spiritual progress and moral transformation through the scriptures.",
+    "refs": [
+      "1 Cor 15:24-28",
+      "Acts 3:21",
+      "1 Tim 2:4"
+    ],
+    "sources": [
+      {
+        "author": "Origen",
+        "title": "On First Principles",
+        "locator": "Preface 4–10 (apostolic teaching); 1.6.1–3 (the end and restoration); 2.10.4 (fire of conscience)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Ilaria Ramelli",
+        "title": "The Christian Doctrine of Apokatastasis",
+        "year": 2013,
+        "confidence": "debated"
+      },
+      {
+        "author": "Mark S. M. Scott",
+        "title": "Journey Back to God: Origen on the Problem of Evil",
+        "year": 2012,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": [
+      "athanasius",
+      "cappadocians",
+      "condemnation-origenism"
+    ]
+  },
+  {
+    "id": "edict-milan",
+    "title": "Constantine and the Edict of Milan",
+    "year": 313,
+    "place": "Milan",
+    "coords": [
+      9.19,
+      45.4642
+    ],
+    "people": [
+      "Constantine",
+      "Licinius"
+    ],
+    "kind": "turning-point",
+    "message": "Constantine and Licinius agreed to grant Christians and all others freedom of worship and to restore confiscated church property. Constantine, who attributed his victory at the Milvian Bridge (312) to the Christian God, began to patronise the church with buildings, privileges and imperial attention to its disputes.",
+    "shift": "The church moved from persecuted minority to favoured institution. Preaching now addressed mass audiences, many only partly committed; catechesis lengthened and baptism was often delayed. Some historians see a loss of the kingdom's countercultural edge ('Constantinianism', a critique associated with Anabaptist and later writers such as John Howard Yoder); others, such as Peter Leithart, argue this is overstated.",
+    "refs": [
+      "Rom 13:1-7",
+      "1 Tim 2:1-4"
+    ],
+    "sources": [
+      {
+        "author": "Lactantius",
+        "title": "On the Deaths of the Persecutors",
+        "locator": "48",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Eusebius",
+        "title": "Church History",
+        "locator": "10.5",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Peter J. Leithart",
+        "title": "Defending Constantine",
+        "year": 2010,
+        "confidence": "debated"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "athanasius",
+      "nicaea"
+    ]
+  },
+  {
+    "id": "athanasius",
+    "title": "Athanasius: On the Incarnation",
+    "year": 320,
+    "place": "Alexandria",
+    "coords": [
+      29.9187,
+      31.2001
+    ],
+    "people": [
+      "Athanasius of Alexandria"
+    ],
+    "kind": "father",
+    "message": "Athanasius explains why the Word became flesh: humanity, made in God's image, was sliding back into corruption and death, and only the Creator Word could renew it. By taking a mortal body and offering it in death on behalf of all, he paid the debt of death and destroyed its power, and by rising he gave incorruption. The famous summary is that he became human so that we might be made divine. The work is dated c. 318 by some and c. 335–337 by others.",
+    "refs": [
+      "John 1:14",
+      "Heb 2:14-15",
+      "2 Pet 1:4",
+      "1 Cor 15:54-57"
+    ],
+    "sources": [
+      {
+        "author": "Athanasius",
+        "title": "On the Incarnation",
+        "locator": "6–10 (corruption and the debt of death); 54 (became human that we might become divine)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Khaled Anatolios",
+        "title": "Athanasius: The Coherence of His Thought",
+        "year": 1998,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "nicaea"
+    ]
+  },
+  {
+    "id": "nicaea",
+    "title": "Council of Nicaea",
+    "year": 325,
+    "place": "Nicaea",
+    "coords": [
+      29.7194,
+      40.4292
+    ],
+    "people": [
+      "Constantine",
+      "Alexander of Alexandria",
+      "Athanasius",
+      "Arius",
+      "Eusebius of Caesarea"
+    ],
+    "kind": "turning-point",
+    "message": "Bishops called by Constantine rejected Arius' view that the Son was a created being and confessed the Son as of the same essence (homoousios) as the Father. The creed says he came down for us and for our salvation, became incarnate, suffered, rose, ascended and will come to judge the living and the dead.",
+    "shift": "The gospel's identity question (who is Jesus?) is fixed in creedal, philosophical language and enforced with imperial backing. The creed later expanded at Constantinople (381) to add the Spirit, one baptism for forgiveness of sins, the resurrection of the dead and the life of the age to come. Critics argue the creeds skip from birth to death and say nothing of Jesus' kingdom preaching; defenders reply they were never meant as a full gospel summary.",
+    "refs": [
+      "John 1:1-3",
+      "Col 1:15-20",
+      "Phil 2:5-11"
+    ],
+    "sources": [
+      {
+        "author": "Council of Nicaea",
+        "title": "Creed of Nicaea",
+        "year": 325,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Lewis Ayres",
+        "title": "Nicaea and Its Legacy",
+        "year": 2004,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "R. P. C. Hanson",
+        "title": "The Search for the Christian Doctrine of God",
+        "year": 1988,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "cappadocians"
+    ]
+  },
+  {
+    "id": "cappadocians",
+    "title": "The Cappadocians: healing what is assumed",
+    "year": 380,
+    "place": "Caesarea in Cappadocia, Nazianzus, Nyssa",
+    "coords": [
+      35.4787,
+      38.7205
+    ],
+    "people": [
+      "Basil of Caesarea",
+      "Gregory of Nazianzus",
+      "Gregory of Nyssa",
+      "Macrina the Younger"
+    ],
+    "kind": "father",
+    "message": "The Cappadocians defended the full divinity of the Son and the Spirit, shaping the creed of Constantinople (381). Gregory of Nazianzus argued that what Christ did not assume he did not heal, so the incarnation must be complete. Gregory of Nyssa's *Catechetical Oration*, a handbook for teaching converts, explains the cross partly through the image of the devil deceived by the hidden divinity (like a fish taking bait) and looks toward a final healing in which even the originator of evil is cured; Nazianzen, by contrast, questioned ransom-to-the-devil language.",
+    "refs": [
+      "Mark 10:45",
+      "Heb 2:14-17",
+      "1 Cor 15:28"
+    ],
+    "sources": [
+      {
+        "author": "Gregory of Nazianzus",
+        "title": "Epistle 101 (to Cledonius)",
+        "locator": "32 (what is not assumed is not healed)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Gregory of Nazianzus",
+        "title": "Oration 45",
+        "locator": "22 (to whom was the ransom paid?)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Gregory of Nyssa",
+        "title": "Catechetical Oration",
+        "locator": "22–26 (deception of the devil; 26 the final healing)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Basil of Caesarea",
+        "title": "On the Holy Spirit",
+        "year": 375,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "chrysostom",
+      "condemnation-origenism"
+    ]
+  },
+  {
+    "id": "chrysostom",
+    "title": "John Chrysostom: the preacher of repentance and almsgiving",
+    "year": 390,
+    "endYear": 407,
+    "place": "Antioch, later Constantinople",
+    "coords": [
+      36.1626,
+      36.2021
+    ],
+    "people": [
+      "John Chrysostom"
+    ],
+    "kind": "preaching",
+    "message": "Chrysostom preached verse-by-verse through Matthew, John, Romans and other books to crowds in Antioch and Constantinople. His recurring themes are repentance, care for the poor, the dangers of wealth and theatre, and the coming judgment, often pressed with vivid warnings about hell as a spur to moral reform. He also celebrates Christ's victory over death; the widely used Paschal Homily is traditionally attributed to him.",
+    "refs": [
+      "Matt 25:31-46",
+      "Luke 16:19-31",
+      "1 Cor 15:55-57"
+    ],
+    "sources": [
+      {
+        "author": "John Chrysostom",
+        "title": "Homilies on Matthew",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Chrysostom",
+        "title": "Homilies on Repentance (De paenitentia)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Chrysostom (attributed)",
+        "title": "Paschal Homily",
+        "confidence": "tradition"
+      },
+      {
+        "author": "J. N. D. Kelly",
+        "title": "Golden Mouth",
+        "year": 1995,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "augustine"
+    ]
+  },
+  {
+    "id": "augustine",
+    "title": "Augustine: grace, the two cities and eternal punishment",
+    "year": 413,
+    "endYear": 426,
+    "place": "Hippo Regius",
+    "coords": [
+      7.7667,
+      36.8833
+    ],
+    "people": [
+      "Augustine of Hippo",
+      "Pelagius"
+    ],
+    "kind": "turning-point",
+    "message": "Augustine's preaching and writing stress humanity's bondage in original sin, the priority of God's grace, and the pilgrim City of God living among the earthly city. In *City of God* he reads the thousand years of Revelation 20 as the present age of the church, and defends eternal punishment against those who hoped for a merciful end to hell. His handbook on catechising beginners tells the gospel as the whole biblical story from creation to the church.",
+    "shift": "Western theology turns decisively toward questions of sin, grace and individual destiny. Augustine's non-literal reading of the millennium sidelines earthly-kingdom hopes for centuries, and his tentative openness to purifying fire after death becomes one root of purgatory. Eastern churches received his influence much less.",
+    "refs": [
+      "Rom 5:12-21",
+      "Rev 20:1-6",
+      "Matt 25:46",
+      "1 Cor 3:12-15"
+    ],
+    "sources": [
+      {
+        "author": "Augustine",
+        "title": "City of God",
+        "locator": "20.7–9 (millennium as the church age); 21.17–23 (against the merciful); 22.30 (eternal sabbath)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Augustine",
+        "title": "Enchiridion",
+        "locator": "69 (possible purifying fire)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Augustine",
+        "title": "On Catechising the Uninstructed",
+        "locator": "3.5–6 (narrating the whole story)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Peter Brown",
+        "title": "Augustine of Hippo: A Biography",
+        "year": 1967,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "gregory-great",
+      "luther",
+      "condemnation-origenism"
+    ]
+  },
+  {
+    "id": "condemnation-origenism",
+    "title": "Condemnation of Origenism (543/553)",
+    "year": 553,
+    "place": "Constantinople",
+    "coords": [
+      28.9784,
+      41.0082
+    ],
+    "people": [
+      "Justinian I",
+      "Origen (posthumously)",
+      "Evagrius (posthumously)"
+    ],
+    "kind": "turning-point",
+    "message": "Emperor Justinian issued an edict against Origen's teachings (543), and fifteen anathemas against Origenist doctrines, including pre-existence of souls and a restoration of all things, are associated with the Second Council of Constantinople (553).",
+    "shift": "The scope is debated. Many scholars, following the acts as edited and translated by Richard Price, think the fifteen anathemas were approved by bishops before the council formally opened and are not in its official acts; canon 11 of the council does name Origen among heretics, though some argue that name is an interpolation. Others hold that the council effectively ratified the condemnation. Either way, universal restoration became a marginal position in both East and West, and eternal punishment became the settled public teaching.",
+    "refs": [
+      "Matt 25:46",
+      "Acts 3:21",
+      "1 Cor 15:28"
+    ],
+    "sources": [
+      {
+        "author": "Richard Price (trans.)",
+        "title": "The Acts of the Council of Constantinople of 553",
+        "year": 2009,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Justinian I",
+        "title": "Letter to Menas (Edict against Origen)",
+        "year": 543,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Ilaria Ramelli",
+        "title": "The Christian Doctrine of Apokatastasis",
+        "year": 2013,
+        "confidence": "debated"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": [
+      "gregory-great"
+    ]
+  },
+  {
+    "id": "gregory-great",
+    "title": "Gregory the Great: preaching the end and purgatorial fire",
+    "year": 593,
+    "place": "Rome",
+    "coords": [
+      12.4964,
+      41.9028
+    ],
+    "people": [
+      "Gregory the Great"
+    ],
+    "kind": "father",
+    "message": "Pope Gregory, convinced that the world was near its end amid plague and war, preached urgent repentance and pastoral care. His *Dialogues* include stories of souls purged after death and affirm a purifying fire for lesser faults before judgment, along with the help offered by masses for the dead. He also sent missionaries to the English (597).",
+    "refs": [
+      "1 Cor 3:12-15",
+      "Matt 12:32",
+      "Luke 21:25-28"
+    ],
+    "sources": [
+      {
+        "author": "Gregory the Great",
+        "title": "Dialogues",
+        "locator": "4.41 (purging fire; numbering varies by edition, sometimes 4.39)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Gregory the Great",
+        "title": "Pastoral Rule",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Carole Straw",
+        "title": "Gregory the Great: Perfection in Imperfection",
+        "year": 1988,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "private-penance"
+    ]
+  },
+  {
+    "id": "private-penance",
+    "title": "Irish penitentials and private, repeatable penance",
+    "year": 600,
+    "endYear": 800,
+    "place": "Ireland and Irish missions on the Continent",
+    "coords": [
+      -5.6688,
+      54.66
+    ],
+    "people": [
+      "Finnian",
+      "Columbanus"
+    ],
+    "kind": "movement",
+    "message": "Irish monks spread a form of penance that was private, repeatable and governed by handbooks (penitentials) assigning specific penances to specific sins. Confession to a priest and performing the assigned satisfaction became the ordinary path for Christians to deal with sin after baptism.",
+    "shift": "The once-only public penance of the early church gives way to regular private confession. Pastoral attention increasingly centres on cataloguing sins and their remedies, a shift later formalised at Lateran IV.",
+    "refs": [
+      "Jas 5:16",
+      "John 20:23",
+      "Matt 16:19"
+    ],
+    "sources": [
+      {
+        "author": "John T. McNeill and Helena M. Gamer",
+        "title": "Medieval Handbooks of Penance",
+        "year": 1938,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Columbanus",
+        "title": "Penitential",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "anselm",
+      "lateran-iv"
+    ]
+  },
+  {
+    "id": "anselm",
+    "title": "Anselm: Cur Deus Homo",
+    "year": 1098,
+    "place": "Canterbury and Capua",
+    "coords": [
+      1.0789,
+      51.2802
+    ],
+    "people": [
+      "Anselm of Canterbury"
+    ],
+    "kind": "turning-point",
+    "message": "Anselm argues that sin is failing to render God the honour due to him, that justice requires satisfaction which humanity owes but cannot pay, and that only one who is both God and human can pay it. Christ freely offers his life, which outweighs all sin, and its merit flows to those he saves.",
+    "shift": "The atonement explanation moves from victory over the devil and the restoration of creation toward satisfaction of God's honour or justice. Abelard soon stressed Christ's love awakening ours, Aquinas integrated multiple models, and the Reformers later reworked satisfaction into penal substitution. Scholars disagree on how novel Anselm was and whether feudal honour language shaped him decisively.",
+    "refs": [
+      "Rom 3:23-26",
+      "Heb 10:10-14",
+      "Mark 10:45"
+    ],
+    "sources": [
+      {
+        "author": "Anselm of Canterbury",
+        "title": "Cur Deus Homo",
+        "year": 1098,
+        "locator": "1.11–13 (sin and honour); 2.6 (only the God-man can satisfy)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Gustaf Aulén",
+        "title": "Christus Victor",
+        "year": 1931,
+        "confidence": "debated"
+      },
+      {
+        "author": "Thomas Aquinas",
+        "title": "Summa Theologiae",
+        "locator": "III q.46–49",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "lateran-iv",
+      "luther"
+    ]
+  },
+  {
+    "id": "lateran-iv",
+    "title": "Fourth Lateran Council: annual confession",
+    "year": 1215,
+    "place": "Rome (Lateran)",
+    "coords": [
+      12.5057,
+      41.8859
+    ],
+    "people": [
+      "Innocent III"
+    ],
+    "kind": "turning-point",
+    "message": "The council required every Christian who had reached the age of discretion to confess all sins to their own priest at least once a year and to receive communion at least at Easter (canon 21). It also defined the eucharistic change as transubstantiation (canon 1).",
+    "shift": "Sacramental penance becomes a universal, regulated duty. Preaching manuals and confessors' handbooks multiply, and the moral examination of individual sins becomes central to lay piety. Together with the developing doctrine of purgatory, this shapes the late-medieval economy of penance and indulgences.",
+    "refs": [
+      "Jas 5:16",
+      "1 Cor 11:27-29"
+    ],
+    "sources": [
+      {
+        "author": "Fourth Lateran Council",
+        "title": "Canons",
+        "year": 1215,
+        "locator": "canon 1; canon 21 (Omnis utriusque sexus)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Jacques Le Goff",
+        "title": "The Birth of Purgatory",
+        "year": 1981,
+        "confidence": "debated"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "friars-preaching"
+    ]
+  },
+  {
+    "id": "friars-preaching",
+    "title": "The friars and popular penitential preaching",
+    "year": 1220,
+    "endYear": 1450,
+    "place": "Assisi, Bologna and the towns of Europe",
+    "coords": [
+      12.6176,
+      43.0707
+    ],
+    "people": [
+      "Francis of Assisi",
+      "Dominic",
+      "Bernardino of Siena",
+      "Vincent Ferrer"
+    ],
+    "kind": "movement",
+    "message": "Franciscans and Dominicans took preaching into towns, calling crowds to penance, confession and imitation of Christ's poverty and passion. Late-medieval preachers, art (Last Judgment portals, Dooms) and hymns such as *Dies irae* made death, judgment, heaven, hell and purgatory vivid. Some, such as Vincent Ferrer, preached that the end was imminent.",
+    "refs": [
+      "Matt 10:7-10",
+      "Matt 25:31-46",
+      "Rev 14:6-7"
+    ],
+    "sources": [
+      {
+        "author": "Francis of Assisi",
+        "title": "Earlier Rule (Regula non bullata)",
+        "year": 1221,
+        "locator": "21 (exhortation to praise and penance)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "D. L. d'Avray",
+        "title": "The Preaching of the Friars",
+        "year": 1985,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Eamon Duffy",
+        "title": "The Stripping of the Altars",
+        "year": 1992,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "council-florence"
+    ]
+  },
+  {
+    "id": "council-florence",
+    "title": "Council of Florence: purgatory defined",
+    "year": 1439,
+    "place": "Florence",
+    "coords": [
+      11.2558,
+      43.7696
+    ],
+    "people": [
+      "Eugene IV",
+      "Greek and Latin bishops"
+    ],
+    "kind": "turning-point",
+    "message": "In the short-lived union decree with the Greeks (*Laetentur caeli*), the council taught that the truly penitent who die before making full satisfaction are purified after death and helped by the suffrages of the living, while those in mortal sin go immediately to hell and the purified to heaven. A later decree (*Cantate Domino*, 1442) stated strongly that those outside the Catholic Church cannot be saved.",
+    "shift": "Purgatory and the destiny of the individual soul at death are now conciliar teaching (building on Lyon II, 1274, and *Benedictus Deus*, 1336). The Greeks largely rejected the union, and their objections to a fire of purgatory persisted. This framework of satisfaction, purgatory and indulgences is what Luther attacked.",
+    "refs": [
+      "1 Cor 3:12-15",
+      "Matt 12:32",
+      "Heb 9:27"
+    ],
+    "sources": [
+      {
+        "author": "Council of Florence",
+        "title": "Laetentur caeli (Decree of Union with the Greeks)",
+        "year": 1439,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Council of Florence",
+        "title": "Cantate Domino (Decree for the Copts)",
+        "year": 1442,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Joseph Gill",
+        "title": "The Council of Florence",
+        "year": 1959,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "luther"
+    ]
+  },
+  {
+    "id": "luther",
+    "title": "Luther: the gospel as promise of forgiveness",
+    "year": 1517,
+    "endYear": 1520,
+    "place": "Wittenberg",
+    "coords": [
+      12.6484,
+      51.8664
+    ],
+    "people": [
+      "Martin Luther",
+      "Philip Melanchthon"
+    ],
+    "kind": "turning-point",
+    "message": "Luther's Ninety-Five Theses begin by saying that Christ willed the whole life of believers to be repentance, and argue that the church's true treasure is the gospel of God's glory and grace. In the 1520 treatises he presents the gospel as God's promise of forgiveness received by faith alone, freeing the conscience from the penitential system. His Small Catechism nevertheless frames redemption as being purchased to belong to Christ and live under him in his kingdom.",
+    "shift": "Justification by faith becomes the hinge of preaching; the law-gospel pattern (terrify the conscience with the law, comfort it with the promise) shapes Protestant homiletics. Purgatory, indulgences and the sacrifice of the mass are rejected. Critics, then and now, ask whether the kingdom and new-creation horizons narrowed into individual justification; defenders say Luther's theology of the cross and two kingdoms keep a wider scope.",
+    "refs": [
+      "Rom 1:16-17",
+      "Rom 3:21-28",
+      "Gal 2:16",
+      "Hab 2:4"
+    ],
+    "sources": [
+      {
+        "author": "Martin Luther",
+        "title": "Ninety-Five Theses",
+        "year": 1517,
+        "locator": "theses 1 and 62",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Martin Luther",
+        "title": "The Freedom of a Christian",
+        "year": 1520,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Martin Luther",
+        "title": "The Babylonian Captivity of the Church",
+        "year": 1520,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Martin Luther",
+        "title": "Small Catechism",
+        "year": 1529,
+        "locator": "Creed, second article",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "anabaptists",
+      "calvin-geneva",
+      "trent"
+    ]
+  },
+  {
+    "id": "anabaptists",
+    "title": "Anabaptists: discipleship and the kingdom community",
+    "year": 1527,
+    "place": "Schleitheim and Zurich",
+    "coords": [
+      8.4847,
+      47.7472
+    ],
+    "people": [
+      "Michael Sattler",
+      "Conrad Grebel",
+      "Hans Denck",
+      "Menno Simons"
+    ],
+    "kind": "movement",
+    "message": "Radical reformers preached faith that issues in costly following of Christ, believers' baptism, a disciplined community separate from the sword, and non-resistance. The Schleitheim Confession set out these articles. Faith was understood as yielding to Christ's lordship in ordinary life, not only trust in forgiveness.",
+    "shift": "A minority strand insists that the gospel creates a visible kingdom people now. Persecuted by Catholics and Protestants alike, it later influences Mennonite, Baptist and modern kingdom-ethics movements. Some early radicals (Münster, 1534–35) took apocalyptic expectation into violence, which most Anabaptists repudiated.",
+    "refs": [
+      "Matt 5:38-48",
+      "Matt 28:18-20",
+      "Luke 9:23"
+    ],
+    "sources": [
+      {
+        "author": "Michael Sattler et al.",
+        "title": "Schleitheim Confession",
+        "year": 1527,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Menno Simons",
+        "title": "Foundation of Christian Doctrine",
+        "year": 1539,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "C. Arnold Snyder",
+        "title": "Anabaptist History and Theology",
+        "year": 1995,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "wesley"
+    ]
+  },
+  {
+    "id": "calvin-geneva",
+    "title": "Calvin and the Reformed: justification and union with Christ",
+    "year": 1536,
+    "endYear": 1563,
+    "place": "Geneva (and Heidelberg)",
+    "coords": [
+      6.1432,
+      46.2044
+    ],
+    "people": [
+      "John Calvin",
+      "Zacharias Ursinus"
+    ],
+    "kind": "father",
+    "message": "Calvin calls justification the main hinge of religion but places it within union with Christ, which also yields sanctification. He presents Christ in the threefold office of prophet, priest and king and gives sustained attention to the final resurrection. The Heidelberg Catechism (1563) frames the faith as guilt, grace and gratitude, opening with the comfort of belonging to Christ in life and death.",
+    "refs": [
+      "Rom 6:1-11",
+      "Gal 2:20",
+      "1 Cor 15:20-26"
+    ],
+    "sources": [
+      {
+        "author": "John Calvin",
+        "title": "Institutes of the Christian Religion",
+        "year": 1559,
+        "locator": "2.15 (threefold office); 3.11.1 (justification as main hinge); 3.25 (resurrection)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Zacharias Ursinus and Caspar Olevianus",
+        "title": "Heidelberg Catechism",
+        "year": 1563,
+        "locator": "Q. 1–2",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "edwards-enfield",
+      "darby"
+    ]
+  },
+  {
+    "id": "trent",
+    "title": "Council of Trent: justification and penance reaffirmed",
+    "year": 1547,
+    "endYear": 1563,
+    "place": "Trent",
+    "coords": [
+      11.1217,
+      46.0748
+    ],
+    "people": [
+      "Council fathers",
+      "Paul III"
+    ],
+    "kind": "turning-point",
+    "message": "Trent's decree on justification taught that justification begins with God's prevenient grace, that faith is the beginning of salvation, and that justification is both forgiveness and inner renewal, with grace increasing through good works. It reaffirmed sacramental penance, purgatory and the veneration of saints while ordering reform of indulgence abuses and of preaching.",
+    "shift": "Catholic and Protestant gospels harden into rival confessions. Catholic reform produces renewed preaching orders and missions (Jesuits), while Protestants read Trent as rejecting faith alone. The 1999 Joint Declaration on the Doctrine of Justification (Lutheran–Catholic) claimed a consensus on basic truths; its significance is itself debated.",
+    "refs": [
+      "Jas 2:14-26",
+      "Gal 5:6",
+      "Rom 5:1-5"
+    ],
+    "sources": [
+      {
+        "author": "Council of Trent",
+        "title": "Decree on Justification (Session 6)",
+        "year": 1547,
+        "locator": "chs. 5–8; canons 9, 11",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Council of Trent",
+        "title": "Doctrine on the Sacrament of Penance (Session 14)",
+        "year": 1551,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Lutheran World Federation and Catholic Church",
+        "title": "Joint Declaration on the Doctrine of Justification",
+        "year": 1999,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "vatican-ii"
+    ]
+  },
+  {
+    "id": "wesley",
+    "title": "John Wesley: assurance, new birth and holiness",
+    "year": 1738,
+    "endYear": 1791,
+    "place": "London (Aldersgate) and Bristol",
+    "coords": [
+      -0.097,
+      51.518
+    ],
+    "people": [
+      "John Wesley",
+      "Charles Wesley"
+    ],
+    "kind": "preaching",
+    "message": "Wesley described his heart being strangely warmed at Aldersgate in May 1738 as he received assurance that his sins were forgiven. Taking up field preaching in 1739, he proclaimed salvation by faith, the new birth, the witness of the Spirit and the call to holiness of heart and life (Christian perfection), and organised converts into societies, classes and bands.",
+    "shift": "The felt experience of conversion and assurance becomes a test of genuine faith, and holiness becomes a central aim of evangelistic preaching. Arminian Methodism and Calvinist revivalists disagree sharply about election while sharing this new experiential focus.",
+    "refs": [
+      "Rom 8:15-16",
+      "John 3:3-7",
+      "Heb 12:14",
+      "1 Thess 5:23"
+    ],
+    "sources": [
+      {
+        "author": "John Wesley",
+        "title": "Journal",
+        "locator": "24 May 1738",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Wesley",
+        "title": "Sermon 1: Salvation by Faith",
+        "year": 1738,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Wesley",
+        "title": "A Plain Account of Christian Perfection",
+        "year": 1766,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Henry D. Rack",
+        "title": "Reasonable Enthusiast",
+        "year": 1989,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "great-awakening",
+      "finney",
+      "azusa"
+    ]
+  },
+  {
+    "id": "great-awakening",
+    "title": "Whitefield and the transatlantic awakening",
+    "year": 1739,
+    "endYear": 1742,
+    "place": "Bristol, Philadelphia, Boston",
+    "coords": [
+      -75.1652,
+      39.9526
+    ],
+    "people": [
+      "George Whitefield",
+      "Gilbert Tennent"
+    ],
+    "kind": "movement",
+    "message": "Whitefield's dramatic open-air preaching drew enormous crowds in Britain and America. His central theme was the necessity of the new birth: outward religion and church membership cannot save; each person must be inwardly converted by the Spirit. Itinerants such as Gilbert Tennent warned of the danger of an unconverted ministry.",
+    "shift": "Preaching shifts toward individual conversion as a datable crisis, addressed to mass audiences across denominational lines, using print and publicity. Historians debate whether a single 'Great Awakening' existed or is partly a later construct (Jon Butler).",
+    "refs": [
+      "John 3:3-7",
+      "2 Cor 5:17"
+    ],
+    "sources": [
+      {
+        "author": "George Whitefield",
+        "title": "The Nature and Necessity of Our New Birth in Christ Jesus",
+        "year": 1737,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Harry S. Stout",
+        "title": "The Divine Dramatist",
+        "year": 1991,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Thomas S. Kidd",
+        "title": "The Great Awakening",
+        "year": 2007,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "edwards-enfield"
+    ]
+  },
+  {
+    "id": "edwards-enfield",
+    "title": "Jonathan Edwards: Sinners in the Hands of an Angry God",
+    "year": 1741,
+    "place": "Enfield, Connecticut",
+    "coords": [
+      -72.5918,
+      41.9762
+    ],
+    "people": [
+      "Jonathan Edwards"
+    ],
+    "kind": "preaching",
+    "message": "Preaching on Deuteronomy 32:35, Edwards pictured the unconverted held over the pit of hell only by God's restraining hand, and urged immediate flight to Christ while the door of mercy stood open. Hearers reportedly cried out during the sermon. Elsewhere Edwards preached at length on the beauty of God and Christ, analysed true religious affections, and in his *History of the Work of Redemption* sermons expected the gospel to spread before a glorious future age.",
+    "shift": "Heaven-or-hell destiny, pressed on the individual conscience for immediate decision, becomes a signature of revival preaching. Scholars caution that this one sermon is not typical of Edwards' corpus, whose centre is God's glory and spiritual beauty.",
+    "refs": [
+      "Deut 32:35",
+      "Matt 3:7-12",
+      "Rom 2:4-5"
+    ],
+    "sources": [
+      {
+        "author": "Jonathan Edwards",
+        "title": "Sinners in the Hands of an Angry God",
+        "year": 1741,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Jonathan Edwards",
+        "title": "A Faithful Narrative of the Surprising Work of God",
+        "year": 1737,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Jonathan Edwards",
+        "title": "A Treatise Concerning Religious Affections",
+        "year": 1746,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "George M. Marsden",
+        "title": "Jonathan Edwards: A Life",
+        "year": 2003,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "finney"
+    ]
+  },
+  {
+    "id": "finney",
+    "title": "Charles Finney and the new measures",
+    "year": 1830,
+    "endYear": 1835,
+    "place": "Rochester, New York",
+    "coords": [
+      -77.6109,
+      43.1566
+    ],
+    "people": [
+      "Charles Grandison Finney"
+    ],
+    "kind": "turning-point",
+    "message": "Finney preached that sinners are able and obligated to change their own hearts and submit to God now. He used 'new measures': protracted meetings, direct personal appeals, praying for people by name, and the anxious seat where the convicted came forward. His *Lectures on Revivals* argued that a revival is not a miracle but the result of the right use of appropriate means. Converts were also directed toward social reform, notably abolition and temperance.",
+    "shift": "Conversion becomes a public, immediate act of the will that can be invited and counted, the ancestor of the altar call and decision card. Critics (Old School Presbyterians, Nettleton, later historians) saw a shift from God's work to human technique; defenders see a recovery of human responsibility and urgency.",
+    "refs": [
+      "Ezek 18:31",
+      "Acts 17:30",
+      "Josh 24:15"
+    ],
+    "sources": [
+      {
+        "author": "Charles G. Finney",
+        "title": "Lectures on Revivals of Religion",
+        "year": 1835,
+        "locator": "Lecture 1 (revival and means); Lecture 14 (measures, anxious seat)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Charles G. Finney",
+        "title": "Sinners Bound to Change Their Own Hearts",
+        "year": 1836,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Iain H. Murray",
+        "title": "Revival and Revivalism",
+        "year": 1994,
+        "confidence": "debated"
+      },
+      {
+        "author": "Charles E. Hambrick-Stowe",
+        "title": "Charles G. Finney and the Spirit of American Evangelicalism",
+        "year": 1996,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "millerites",
+      "moody",
+      "billy-graham"
+    ]
+  },
+  {
+    "id": "darby",
+    "title": "J. N. Darby and dispensationalism",
+    "year": 1831,
+    "endYear": 1882,
+    "place": "Powerscourt (Ireland), later Britain and North America",
+    "coords": [
+      -6.1866,
+      53.1844
+    ],
+    "people": [
+      "John Nelson Darby",
+      "Lady Powerscourt",
+      "Edward Irving"
+    ],
+    "kind": "movement",
+    "message": "At prophecy conferences at Powerscourt (1831–33) and in Brethren circles, Darby developed a scheme distinguishing God's earthly purpose for Israel from his heavenly purpose for the church, with a secret rapture of the church before a future tribulation. The kingdom preached by Jesus was seen as offered to Israel, rejected and postponed. His tours in North America after 1862 spread these ideas among evangelicals.",
+    "shift": "End-times prophecy becomes a prominent evangelistic theme, and expectation of an any-moment rapture adds urgency to conversion. The origins of the pre-tribulation rapture (Darby's own reading, Irvingite prophecy, Margaret MacDonald's 1830 vision, earlier writers) are disputed.",
+    "refs": [
+      "1 Thess 4:13-18",
+      "Dan 9:24-27",
+      "Rev 3:10"
+    ],
+    "sources": [
+      {
+        "author": "John Nelson Darby",
+        "title": "Collected Writings (ed. William Kelly)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Ernest R. Sandeen",
+        "title": "The Roots of Fundamentalism",
+        "year": 1970,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Timothy C. Weber",
+        "title": "Living in the Shadow of the Second Coming",
+        "year": 1979,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "moody",
+      "scofield"
+    ]
+  },
+  {
+    "id": "millerites",
+    "title": "William Miller and the Great Disappointment",
+    "year": 1844,
+    "place": "Low Hampton, New York, and the northeastern United States",
+    "coords": [
+      -73.3,
+      43.55
+    ],
+    "people": [
+      "William Miller",
+      "Joshua V. Himes"
+    ],
+    "kind": "movement",
+    "message": "Miller, a Baptist farmer-preacher, calculated from Daniel 8:14 that Christ would return around 1843, a date later fixed by followers at 22 October 1844. Tens of thousands were urged to prepare for the imminent end through camp meetings and a vigorous press.",
+    "shift": "When Christ did not appear, the Great Disappointment discredited date-setting for many but gave rise to Adventist movements, including Seventh-day Adventism. It showed how powerfully end-times urgency could drive mass preaching in a postmillennial-leaning culture.",
+    "refs": [
+      "Dan 8:14",
+      "Matt 24:36",
+      "Rev 14:6-7"
+    ],
+    "sources": [
+      {
+        "author": "William Miller",
+        "title": "Evidence from Scripture and History of the Second Coming of Christ, About the Year 1843",
+        "year": 1836,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "David L. Rowe",
+        "title": "God's Strange Work: William Miller and the End of the World",
+        "year": 2008,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "moody"
+    ]
+  },
+  {
+    "id": "moody",
+    "title": "D. L. Moody: urban mass evangelism and the lifeboat",
+    "year": 1875,
+    "endYear": 1899,
+    "place": "Chicago, and campaigns in Britain and US cities",
+    "coords": [
+      -87.6298,
+      41.8781
+    ],
+    "people": [
+      "Dwight L. Moody",
+      "Ira Sankey",
+      "R. A. Torrey"
+    ],
+    "kind": "preaching",
+    "message": "Moody's campaigns preached the three Rs (ruin by sin, redemption by the blood, regeneration by the Spirit) and God's love, with gospel songs by Sankey and inquiry rooms for seekers. Influenced by premillennialism, he likened the world to a wrecked ship and his task to saving as many as possible in the lifeboat. He also founded schools and a Bible institute.",
+    "shift": "Premillennial urgency combines with organised urban revivalism. Social reform recedes relative to individual rescue, a change historians link to the later fundamentalist–modernist split and the 'great reversal'.",
+    "refs": [
+      "Luke 19:10",
+      "John 3:16",
+      "2 Pet 3:9"
+    ],
+    "sources": [
+      {
+        "author": "George M. Marsden",
+        "title": "Fundamentalism and American Culture",
+        "year": 1980,
+        "locator": "on Moody's premillennialism",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "D. L. Moody",
+        "title": "New Sermons, Addresses and Prayers",
+        "year": 1877,
+        "locator": "sermon on Christ's return (lifeboat image)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Bruce J. Evensen",
+        "title": "God's Man for the Gilded Age",
+        "year": 2003,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "azusa",
+      "scofield",
+      "billy-graham"
+    ]
+  },
+  {
+    "id": "azusa",
+    "title": "Azusa Street revival",
+    "year": 1906,
+    "endYear": 1909,
+    "place": "Los Angeles (312 Azusa Street)",
+    "coords": [
+      -118.2393,
+      34.0496
+    ],
+    "people": [
+      "William J. Seymour",
+      "Charles Parham",
+      "Lucy Farrow"
+    ],
+    "kind": "turning-point",
+    "message": "Under the African American preacher William Seymour, a multiracial mission proclaimed salvation, sanctification and the baptism in the Holy Spirit evidenced by speaking in tongues. Participants understood this as the latter rain before Christ's soon return, empowering missionaries to evangelise the world quickly. Building on Parham's teaching (Topeka, 1901), news spread through the mission's paper *The Apostolic Faith*.",
+    "shift": "The Holy Spirit's experienced power moves to the centre of the gospel for a movement that became global Pentecostalism and charismatic Christianity. Its interracial character drew both admiration and hostility, and later fractured along racial lines.",
+    "refs": [
+      "Acts 2:1-4",
+      "Acts 2:17-21",
+      "Joel 2:23-29",
+      "Mark 16:17-18"
+    ],
+    "sources": [
+      {
+        "author": "Apostolic Faith Mission",
+        "title": "The Apostolic Faith (Los Angeles)",
+        "year": 1906,
+        "locator": "vol. 1 no. 1 (September 1906)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Cecil M. Robeck Jr.",
+        "title": "The Azusa Street Mission and Revival",
+        "year": 2006,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Grant Wacker",
+        "title": "Heaven Below: Early Pentecostals and American Culture",
+        "year": 2001,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "lausanne"
+    ]
+  },
+  {
+    "id": "scofield",
+    "title": "The Scofield Reference Bible",
+    "year": 1909,
+    "place": "New York (Oxford University Press)",
+    "coords": [
+      -74.006,
+      40.7128
+    ],
+    "people": [
+      "C. I. Scofield"
+    ],
+    "kind": "turning-point",
+    "message": "Scofield's annotated King James Bible printed dispensational notes beside the text: seven dispensations, a distinction between Israel and the church, a pre-tribulation rapture, and a distinction between the 'gospel of the kingdom' (to Israel, and again in the tribulation) and the 'gospel of the grace of God' preached to the church now.",
+    "shift": "For millions of English-speaking evangelicals the dispensational framework became simply what the Bible says. The church-age gospel was framed mainly as forgiveness and heaven, while Jesus' kingdom preaching was often assigned to Israel. Revised editions (1917, 1967) and progressive dispensationalists since the 1980s have modified these distinctions.",
+    "refs": [
+      "Matt 24:14",
+      "Acts 20:24",
+      "Rev 14:6"
+    ],
+    "sources": [
+      {
+        "author": "C. I. Scofield",
+        "title": "The Scofield Reference Bible",
+        "year": 1909,
+        "locator": "note on Rev 14:6 (forms of the gospel)",
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "C. I. Scofield",
+        "title": "Rightly Dividing the Word of Truth",
+        "year": 1888,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Craig A. Blaising and Darrell L. Bock",
+        "title": "Progressive Dispensationalism",
+        "year": 1993,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "billy-graham",
+      "four-spiritual-laws"
+    ]
+  },
+  {
+    "id": "dodd-kerygma",
+    "title": "C. H. Dodd reconstructs the apostolic kerygma",
+    "year": 1936,
+    "place": "London (King's College lectures)",
+    "coords": [
+      -0.116,
+      51.5115
+    ],
+    "people": [
+      "C. H. Dodd"
+    ],
+    "kind": "turning-point",
+    "message": "Dodd compared the speeches in Acts with Paul's letters and argued for a common apostolic proclamation: the age of fulfilment has dawned; it has come through the ministry, death and resurrection of Jesus, descended from David; he is exalted as Lord; the Spirit is the sign of his present power; he will return; therefore repent and receive forgiveness and the Spirit.",
+    "shift": "Biblical scholarship begins to measure later preaching against a reconstructed kerygma that is centred on Jesus' resurrection and lordship more than on individual guilt and afterlife. Critics question how uniform the early preaching was and how far Luke's speeches reflect actual sermons.",
+    "refs": [
+      "Acts 2:14-41",
+      "Acts 10:34-43",
+      "1 Cor 15:1-8",
+      "Rom 1:1-4"
+    ],
+    "sources": [
+      {
+        "author": "C. H. Dodd",
+        "title": "The Apostolic Preaching and Its Developments",
+        "year": 1936,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "James D. G. Dunn",
+        "title": "Unity and Diversity in the New Testament",
+        "year": 1977,
+        "locator": "ch. 2 (kerygmata)",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "ladd",
+      "lausanne"
+    ]
+  },
+  {
+    "id": "billy-graham",
+    "title": "Billy Graham's crusades",
+    "year": 1949,
+    "endYear": 2005,
+    "place": "Los Angeles (1949), London (1954), New York (1957) and worldwide",
+    "coords": [
+      -118.2437,
+      34.0522
+    ],
+    "people": [
+      "Billy Graham",
+      "Cliff Barrows",
+      "George Beverly Shea"
+    ],
+    "kind": "preaching",
+    "message": "Graham's sermons typically diagnosed the modern person's emptiness, guilt and fear of death, presented Christ's death for sin and his resurrection, warned of judgment, and closed with an invitation to come forward and receive Christ as Saviour and Lord. Phrases like 'the Bible says' and 'make your decision' were characteristic, and follow-up teams counselled inquirers. Over time he emphasised God's love, racial integration of his meetings and cooperation with a wide range of churches.",
+    "shift": "Personal decision for Christ, assured forgiveness and eternal life became the public face of evangelical gospel preaching, carried by radio, film and television. His cooperation with mainline churches (1957) split separatist fundamentalists from the new evangelicals.",
+    "refs": [
+      "John 3:16",
+      "John 1:12",
+      "Rom 6:23",
+      "Heb 9:27"
+    ],
+    "sources": [
+      {
+        "author": "Billy Graham",
+        "title": "Peace with God",
+        "year": 1953,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Grant Wacker",
+        "title": "America's Pastor: Billy Graham and the Shaping of a Nation",
+        "year": 2014,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "William Martin",
+        "title": "A Prophet with Honor",
+        "year": 1991,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "four-spiritual-laws",
+      "lausanne"
+    ]
+  },
+  {
+    "id": "four-spiritual-laws",
+    "title": "Four Spiritual Laws and the sinner's prayer",
+    "year": 1952,
+    "endYear": 1965,
+    "place": "Los Angeles (UCLA) and Arrowhead Springs, California",
+    "coords": [
+      -117.275,
+      34.183
+    ],
+    "people": [
+      "Bill Bright",
+      "Vonette Bright"
+    ],
+    "kind": "movement",
+    "message": "Campus Crusade's founder distilled the gospel into four points: God loves you and has a plan for your life; humans are sinful and separated from God; Jesus is God's only provision for sin; we must individually receive Christ by personal invitation, usually through a suggested prayer (often with Rev 3:20). Developed in the 1950s and printed as a booklet in 1965, it was distributed in vast numbers. Similar tools followed (the Bridge illustration, the Romans Road, Evangelism Explosion's diagnostic question about where one would go if one died tonight).",
+    "shift": "The gospel becomes a portable, reproducible presentation aimed at a moment of personal reception. Supporters credit it with enabling ordinary Christians to share faith; critics argue it reduces the gospel to a transaction about sin and afterlife, separates Saviour from Lord, and leans on a prayer formula without clear New Testament precedent. The history of the sinner's prayer itself (precursors in Finney, Moody and Torrey's inquiry practices) is debated.",
+    "refs": [
+      "Rom 3:23",
+      "Rom 6:23",
+      "Rev 3:20",
+      "John 1:12",
+      "Rom 10:9-10"
+    ],
+    "sources": [
+      {
+        "author": "Bill Bright",
+        "title": "Have You Heard of the Four Spiritual Laws?",
+        "year": 1965,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John G. Turner",
+        "title": "Bill Bright and Campus Crusade for Christ",
+        "year": 2008,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "D. James Kennedy",
+        "title": "Evangelism Explosion",
+        "year": 1970,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Paul Chitwood",
+        "title": "The Sinner's Prayer: An Historical and Theological Analysis (PhD diss.)",
+        "year": 2001,
+        "confidence": "needs-verification"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "king-jesus-gospel"
+    ]
+  },
+  {
+    "id": "ladd",
+    "title": "George Eldon Ladd: the kingdom already and not yet",
+    "year": 1959,
+    "place": "Pasadena (Fuller Theological Seminary)",
+    "coords": [
+      -118.1445,
+      34.1478
+    ],
+    "people": [
+      "George Eldon Ladd",
+      "Oscar Cullmann"
+    ],
+    "kind": "turning-point",
+    "message": "Ladd argued, in popular and academic form, that the kingdom of God is God's dynamic reign, already inaugurated in Jesus' ministry, death and resurrection and not yet consummated. Drawing on European scholarship such as Cullmann's *Christ and Time*, he challenged classic dispensationalism's postponed kingdom from within evangelicalism.",
+    "shift": "Inaugurated eschatology became the dominant evangelical scholarly framework, laying groundwork for later kingdom-centred gospel presentations and for Vineyard-style 'kingdom ministry' of healing (John Wimber drew on Ladd).",
+    "refs": [
+      "Matt 12:28",
+      "Luke 17:20-21",
+      "Matt 6:10",
+      "1 Cor 15:24-28"
+    ],
+    "sources": [
+      {
+        "author": "George Eldon Ladd",
+        "title": "The Gospel of the Kingdom",
+        "year": 1959,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "George Eldon Ladd",
+        "title": "Jesus and the Kingdom",
+        "year": 1964,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Oscar Cullmann",
+        "title": "Christ and Time",
+        "year": 1946,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "lausanne",
+      "kingdom-recovery"
+    ]
+  },
+  {
+    "id": "vatican-ii",
+    "title": "Second Vatican Council and Catholic evangelisation",
+    "year": 1964,
+    "endYear": 1975,
+    "place": "Rome (Vatican)",
+    "coords": [
+      12.4534,
+      41.9029
+    ],
+    "people": [
+      "John XXIII",
+      "Paul VI"
+    ],
+    "kind": "turning-point",
+    "message": "The council described the church as the pilgrim people of God and the seed of the kingdom, affirmed that those who through no fault of their own do not know the gospel may attain salvation, and linked hope for a new earth to human work for justice. Paul VI's *Evangelii Nuntiandi* (1975) defined evangelisation as proclaiming the kingdom and salvation in Christ, including liberation from all that oppresses.",
+    "shift": "Catholic preaching shifts from a strong emphasis on outside the church no salvation and the four last things toward the kingdom, Christ-centred scripture and social dimensions. Critics debate whether this weakened missionary urgency; supporters see recovery of the biblical breadth of the gospel.",
+    "refs": [
+      "Matt 13:31-33",
+      "Rom 2:14-16",
+      "Rev 21:1-5"
+    ],
+    "sources": [
+      {
+        "author": "Second Vatican Council",
+        "title": "Lumen Gentium",
+        "year": 1964,
+        "locator": "5 (kingdom); 9 (people of God); 16 (those who do not know the gospel)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Second Vatican Council",
+        "title": "Gaudium et Spes",
+        "year": 1965,
+        "locator": "39 (new earth)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Paul VI",
+        "title": "Evangelii Nuntiandi",
+        "year": 1975,
+        "locator": "8–9",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "lausanne"
+    ]
+  },
+  {
+    "id": "lausanne",
+    "title": "Lausanne Congress on World Evangelization",
+    "year": 1974,
+    "place": "Lausanne",
+    "coords": [
+      6.6323,
+      46.5197
+    ],
+    "people": [
+      "Billy Graham",
+      "John Stott",
+      "René Padilla",
+      "Samuel Escobar"
+    ],
+    "kind": "turning-point",
+    "message": "About 2,700 evangelical leaders from some 150 nations adopted the Lausanne Covenant. It defined evangelism as proclaiming the crucified and risen Christ as Saviour and Lord and inviting repentance and faith, while affirming that evangelism and socio-political involvement are both part of Christian duty. Latin American speakers such as Padilla and Escobar pressed for an integral gospel of the kingdom against what they saw as a culturally captive North American message.",
+    "shift": "Global South voices reshape evangelical understanding of the gospel's scope ('integral mission'). The relative priority of evangelism and social action remained contested, discussed further in later Lausanne documents (Manila 1989, Cape Town 2010).",
+    "refs": [
+      "Luke 4:18-19",
+      "Mic 6:8",
+      "Matt 28:18-20",
+      "Jas 2:14-17"
+    ],
+    "sources": [
+      {
+        "author": "Lausanne Committee",
+        "title": "The Lausanne Covenant",
+        "year": 1974,
+        "locator": "paras. 4 (nature of evangelism) and 5 (Christian social responsibility)",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Stott",
+        "title": "Christian Mission in the Modern World",
+        "year": 1975,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "C. René Padilla",
+        "title": "Mission Between the Times",
+        "year": 1985,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "scholarly-consensus",
+    "leadsTo": [
+      "kingdom-recovery"
+    ]
+  },
+  {
+    "id": "kingdom-recovery",
+    "title": "Kingdom and new-creation recovery",
+    "year": 1996,
+    "endYear": 2016,
+    "place": "United Kingdom and North America (Oxford, Durham, Los Angeles)",
+    "coords": [
+      -1.5849,
+      54.7753
+    ],
+    "people": [
+      "N. T. Wright",
+      "Dallas Willard",
+      "Jürgen Moltmann",
+      "Lesslie Newbigin"
+    ],
+    "kind": "movement",
+    "message": "N. T. Wright argued that Jesus announced Israel's return from exile and God's return to Zion, and that the gospel is the royal announcement that the crucified and risen Jesus is Lord, with resurrection and new creation (not disembodied heaven) as the Christian hope. Dallas Willard criticised 'gospels of sin management' that leave discipleship optional. Precursors include Moltmann's *Theology of Hope* and Newbigin's missional theology.",
+    "shift": "Many pastors and scholars re-centre preaching on kingdom, resurrection, Lordship and new creation. Critics (e.g. John Piper on justification) argue that this can blur imputed righteousness or the urgency of personal guilt and judgment; Wright replies that he affirms both and is reframing, not denying, them.",
+    "refs": [
+      "Mark 1:14-15",
+      "Rom 8:18-23",
+      "Rev 21:1-5",
+      "1 Cor 15:58",
+      "Col 1:15-20"
+    ],
+    "sources": [
+      {
+        "author": "N. T. Wright",
+        "title": "Jesus and the Victory of God",
+        "year": 1996,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "N. T. Wright",
+        "title": "Surprised by Hope",
+        "year": 2008,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Dallas Willard",
+        "title": "The Divine Conspiracy",
+        "year": 1998,
+        "locator": "ch. 2",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "John Piper",
+        "title": "The Future of Justification: A Response to N. T. Wright",
+        "year": 2007,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": [
+      "king-jesus-gospel"
+    ]
+  },
+  {
+    "id": "king-jesus-gospel",
+    "title": "The King Jesus gospel and salvation by allegiance",
+    "year": 2011,
+    "endYear": 2019,
+    "place": "Chicago area and Illinois (Northern Seminary; Quincy University)",
+    "coords": [
+      -88.0748,
+      41.8011
+    ],
+    "people": [
+      "Scot McKnight",
+      "Matthew W. Bates",
+      "Greg Gilbert",
+      "Matt Chandler"
+    ],
+    "kind": "movement",
+    "message": "Scot McKnight argued that evangelicals had become 'soterians' who equate the gospel with a plan of salvation, while the apostolic gospel (1 Cor 15) is the story of Israel fulfilled in Jesus the Messiah and Lord, from which salvation flows. Matthew Bates proposed that pistis in the gospel context is best understood as embodied allegiance to Jesus the king, so that saving faith includes loyalty, not mere mental assent or a one-time prayer.",
+    "shift": "The debate over what 'the gospel' is moves into popular church discussion. Reformed critics such as Greg Gilbert (*What Is the Gospel?*, 2010) hold that the gospel's core remains God's holiness, human sin, Christ's substitutionary death and the response of faith, and some reviewers argue Bates risks blurring faith and works. Supporters respond that they are restoring context and scope rather than replacing atonement or grace.",
+    "refs": [
+      "1 Cor 15:1-8",
+      "Rom 1:1-5",
+      "Rom 16:25-26",
+      "Matt 28:18-20",
+      "Phil 2:9-11"
+    ],
+    "sources": [
+      {
+        "author": "Scot McKnight",
+        "title": "The King Jesus Gospel",
+        "year": 2011,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Matthew W. Bates",
+        "title": "Salvation by Allegiance Alone",
+        "year": 2017,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Greg Gilbert",
+        "title": "What Is the Gospel?",
+        "year": 2010,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "author": "Teresa Morgan",
+        "title": "Roman Faith and Christian Faith",
+        "year": 2015,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "confidence": "debated",
+    "leadsTo": []
+  }
+]
