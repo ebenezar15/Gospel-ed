@@ -1,0 +1,785 @@
+[
+  {
+    "from": "josiah",
+    "to": "jehoahaz-of-judah",
+    "type": "family",
+    "refs": [
+      "2 Kgs 23:30",
+      "1 Chr 3:15",
+      "Jer 22:11"
+    ],
+    "note": "Jehoahaz (Shallum) is Josiah's son."
+  },
+  {
+    "from": "josiah",
+    "to": "jehoiakim",
+    "type": "family",
+    "refs": [
+      "2 Kgs 23:34",
+      "1 Chr 3:15"
+    ],
+    "note": "Jehoiakim (Eliakim) is Josiah's son."
+  },
+  {
+    "from": "josiah",
+    "to": "jehoahaz-of-judah",
+    "type": "successor",
+    "refs": [
+      "2 Kgs 23:30"
+    ],
+    "note": "The people of the land make Jehoahaz king after Josiah dies at Megiddo."
+  },
+  {
+    "from": "jehoahaz-of-judah",
+    "to": "jehoiakim",
+    "type": "successor",
+    "refs": [
+      "2 Kgs 23:34"
+    ],
+    "note": "Pharaoh Neco removes Jehoahaz and puts his brother Jehoiakim on the throne."
+  },
+  {
+    "from": "jehoahaz-of-judah",
+    "to": "zedekiah",
+    "type": "family",
+    "refs": [
+      "2 Kgs 23:31",
+      "2 Kgs 24:18"
+    ],
+    "note": "Brothers: both sons of Josiah by Hamutal, so full brothers."
+  },
+  {
+    "from": "jehoiakim",
+    "to": "jehoiachin",
+    "type": "family",
+    "refs": [
+      "2 Kgs 24:6",
+      "1 Chr 3:16"
+    ],
+    "note": "Jehoiachin is Jehoiakim's son."
+  },
+  {
+    "from": "jehoiakim",
+    "to": "jehoiachin",
+    "type": "successor",
+    "refs": [
+      "2 Kgs 24:6"
+    ],
+    "note": "Jehoiachin reigns in his father's place."
+  },
+  {
+    "from": "jehoiachin",
+    "to": "zedekiah",
+    "type": "successor",
+    "refs": [
+      "2 Kgs 24:17",
+      "2 Chr 36:10"
+    ],
+    "note": "Nebuchadnezzar replaces Jehoiachin with his uncle Mattaniah, renamed Zedekiah. Chronicles calls Zedekiah his \"brother\", meaning kinsman."
+  },
+  {
+    "from": "jehoiachin",
+    "to": "zerubbabel",
+    "type": "family",
+    "refs": [
+      "1 Chr 3:17-19",
+      "Ezra 3:2",
+      "Matt 1:12"
+    ],
+    "note": "descendant (generations omitted): grandson through Shealtiel (Ezra 3:2) or Pedaiah (1 Chr 3:19)."
+  },
+  {
+    "from": "shaphan",
+    "to": "gedaliah",
+    "type": "family",
+    "refs": [
+      "2 Kgs 25:22",
+      "Jer 39:14"
+    ],
+    "note": "descendant (generations omitted): Gedaliah is son of Ahikam son of Shaphan."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "evil-merodach",
+    "type": "family",
+    "refs": [
+      "2 Kgs 25:27"
+    ],
+    "note": "Amel-Marduk is Nebuchadnezzar's son (Babylonian sources); Scripture names him as the next king."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "evil-merodach",
+    "type": "successor",
+    "refs": [
+      "2 Kgs 25:27",
+      "Jer 52:31"
+    ],
+    "note": "Evil-merodach becomes king of Babylon after Nebuchadnezzar (562 BC)."
+  },
+  {
+    "from": "tiglath-pileser-iii",
+    "to": "shalmaneser-v",
+    "type": "family",
+    "refs": [
+      "2 Kgs 17:3"
+    ],
+    "note": "Shalmaneser V is Tiglath-pileser's son and successor (Assyrian sources; scholarly-consensus)."
+  },
+  {
+    "from": "sargon-ii",
+    "to": "sennacherib",
+    "type": "family",
+    "refs": [
+      "Isa 20:1",
+      "Isa 37:37"
+    ],
+    "note": "Sennacherib is Sargon II's son and successor (Assyrian sources; scholarly-consensus)."
+  },
+  {
+    "from": "hanani",
+    "to": "jehu-son-of-hanani",
+    "type": "family",
+    "refs": [
+      "1 Kgs 16:1",
+      "2 Chr 19:2"
+    ],
+    "note": "The prophet Jehu is the son of the seer Hanani."
+  },
+  {
+    "from": "jehoiada",
+    "to": "zechariah-son-of-jehoiada",
+    "type": "family",
+    "refs": [
+      "2 Chr 24:20"
+    ],
+    "note": "Zechariah is the son of the high priest Jehoiada."
+  },
+  {
+    "from": "darius-i",
+    "to": "ahasuerus",
+    "type": "family",
+    "refs": [
+      "Ezra 4:5-6"
+    ],
+    "note": "Xerxes I (Ahasuerus) is the son of Darius I (Persian sources; scholarly-consensus). Ezra lists their reigns in order."
+  },
+  {
+    "from": "ahasuerus",
+    "to": "artaxerxes-i",
+    "type": "family",
+    "refs": [
+      "Ezra 4:6-7"
+    ],
+    "note": "Artaxerxes I is the son and successor of Xerxes I (Persian and Greek sources; scholarly-consensus)."
+  },
+  {
+    "from": "ahasuerus",
+    "to": "vashti",
+    "type": "spouse",
+    "refs": [
+      "Esth 1:9-12"
+    ],
+    "note": "Vashti is queen until she refuses the king's summons and is deposed."
+  },
+  {
+    "from": "ahasuerus",
+    "to": "esther",
+    "type": "spouse",
+    "refs": [
+      "Esth 2:16-17"
+    ],
+    "note": "The king makes Esther queen in his seventh year."
+  },
+  {
+    "from": "hilkiah",
+    "to": "josiah",
+    "type": "co-worker",
+    "refs": [
+      "2 Kgs 22:8-14",
+      "2 Kgs 23:4"
+    ],
+    "note": "The high priest finds the book of the law and carries out Josiah's temple purge."
+  },
+  {
+    "from": "shaphan",
+    "to": "josiah",
+    "type": "co-worker",
+    "refs": [
+      "2 Kgs 22:3",
+      "2 Kgs 22:10"
+    ],
+    "note": "Josiah's secretary reads the newly found book of the law to the king."
+  },
+  {
+    "from": "hilkiah",
+    "to": "shaphan",
+    "type": "co-worker",
+    "refs": [
+      "2 Kgs 22:8",
+      "2 Chr 34:15"
+    ],
+    "note": "Hilkiah hands the scroll to Shaphan."
+  },
+  {
+    "from": "hilkiah",
+    "to": "huldah",
+    "type": "ally",
+    "refs": [
+      "2 Kgs 22:14",
+      "2 Chr 34:22"
+    ],
+    "note": "Hilkiah and Shaphan consult the prophetess Huldah about the book."
+  },
+  {
+    "from": "shaphan",
+    "to": "jeremiah",
+    "type": "ally",
+    "refs": [
+      "Jer 26:24",
+      "Jer 36:10-12",
+      "Jer 29:3"
+    ],
+    "note": "Shaphan's sons Ahikam, Gemariah and Elasah protect and assist Jeremiah."
+  },
+  {
+    "from": "jeremiah",
+    "to": "hananiah-false-prophet",
+    "type": "confrontation",
+    "refs": [
+      "Jer 28:1-17"
+    ],
+    "note": "Hananiah breaks Jeremiah's yoke and promises a quick return; Jeremiah says God did not send him and predicts his death within the year."
+  },
+  {
+    "from": "pashhur",
+    "to": "jeremiah",
+    "type": "enemy",
+    "refs": [
+      "Jer 20:1-6"
+    ],
+    "note": "Pashhur beats Jeremiah and puts him in the stocks; Jeremiah renames him \"Terror on every side\"."
+  },
+  {
+    "from": "ebed-melech",
+    "to": "jeremiah",
+    "type": "ally",
+    "refs": [
+      "Jer 38:7-13",
+      "Jer 39:15-18"
+    ],
+    "note": "Ebed-melech rescues Jeremiah from the muddy cistern and receives a promise of safety."
+  },
+  {
+    "from": "ebed-melech",
+    "to": "zedekiah",
+    "type": "confrontation",
+    "refs": [
+      "Jer 38:8-10"
+    ],
+    "note": "He protests to the king that Jeremiah has been wronged and obtains permission to rescue him."
+  },
+  {
+    "from": "jehoiakim",
+    "to": "jeremiah",
+    "type": "enemy",
+    "refs": [
+      "Jer 36:20-26",
+      "Jer 22:13-19"
+    ],
+    "note": "Jehoiakim burns Jeremiah's scroll and orders his arrest; Jeremiah condemns his injustice."
+  },
+  {
+    "from": "jehoiakim",
+    "to": "baruch",
+    "type": "enemy",
+    "refs": [
+      "Jer 36:26"
+    ],
+    "note": "The king orders Baruch's arrest along with Jeremiah's, but the LORD hides them."
+  },
+  {
+    "from": "jehoiakim",
+    "to": "uriah-son-of-shemaiah",
+    "type": "enemy",
+    "refs": [
+      "Jer 26:20-23"
+    ],
+    "note": "Jehoiakim has Uriah brought back from Egypt and executed."
+  },
+  {
+    "from": "uriah-son-of-shemaiah",
+    "to": "jeremiah",
+    "type": "co-worker",
+    "refs": [
+      "Jer 26:20"
+    ],
+    "note": "Uriah prophesies \"according to all the words of Jeremiah\"."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "jehoiakim",
+    "type": "enemy",
+    "refs": [
+      "2 Kgs 24:1-2",
+      "2 Chr 36:6",
+      "Dan 1:1-2"
+    ],
+    "note": "Jehoiakim becomes Nebuchadnezzar's vassal, then rebels."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "jehoiachin",
+    "type": "enemy",
+    "refs": [
+      "2 Kgs 24:10-15"
+    ],
+    "note": "Nebuchadnezzar besieges Jerusalem and deports Jehoiachin in 597 BC."
+  },
+  {
+    "from": "evil-merodach",
+    "to": "jehoiachin",
+    "type": "ally",
+    "refs": [
+      "2 Kgs 25:27-30",
+      "Jer 52:31-34"
+    ],
+    "note": "The new king of Babylon releases Jehoiachin from prison and gives him a place at his table."
+  },
+  {
+    "from": "jeremiah",
+    "to": "jehoiachin",
+    "type": "confrontation",
+    "refs": [
+      "Jer 22:24-30"
+    ],
+    "note": "Jeremiah declares that none of Coniah's offspring will prosper on David's throne."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "nebuzaradan",
+    "type": "co-worker",
+    "refs": [
+      "2 Kgs 25:8",
+      "Jer 39:11-12"
+    ],
+    "note": "Nebuzaradan is Nebuchadnezzar's captain of the guard and carries out his orders in Jerusalem."
+  },
+  {
+    "from": "nebuzaradan",
+    "to": "jeremiah",
+    "type": "ally",
+    "refs": [
+      "Jer 40:1-6",
+      "Jer 39:11-14"
+    ],
+    "note": "He frees Jeremiah from his chains and lets him choose where to live."
+  },
+  {
+    "from": "nebuzaradan",
+    "to": "gedaliah",
+    "type": "co-worker",
+    "refs": [
+      "Jer 39:14",
+      "Jer 40:5"
+    ],
+    "note": "He entrusts Jeremiah and the remnant of Judah to Gedaliah."
+  },
+  {
+    "from": "nebuchadnezzar",
+    "to": "gedaliah",
+    "type": "co-worker",
+    "refs": [
+      "2 Kgs 25:22",
+      "Jer 40:7"
+    ],
+    "note": "Nebuchadnezzar appoints Gedaliah governor over those left in Judah."
+  },
+  {
+    "from": "gedaliah",
+    "to": "jeremiah",
+    "type": "ally",
+    "refs": [
+      "Jer 40:6"
+    ],
+    "note": "Jeremiah stays with Gedaliah at Mizpah."
+  },
+  {
+    "from": "belshazzar",
+    "to": "daniel",
+    "type": "confrontation",
+    "refs": [
+      "Dan 5:13-29"
+    ],
+    "note": "Daniel reads the writing on the wall and announces the end of Belshazzar's kingdom."
+  },
+  {
+    "from": "darius-the-mede",
+    "to": "daniel",
+    "type": "ally",
+    "refs": [
+      "Dan 6:1-3",
+      "Dan 6:14",
+      "Dan 6:19-23"
+    ],
+    "note": "Darius plans to set Daniel over the kingdom, is distressed by the lions' den decree, and rejoices at Daniel's rescue."
+  },
+  {
+    "from": "belshazzar",
+    "to": "darius-the-mede",
+    "type": "successor",
+    "refs": [
+      "Dan 5:30-31"
+    ],
+    "note": "After Belshazzar is slain, Darius the Mede receives the kingdom (identification debated)."
+  },
+  {
+    "from": "cyrus",
+    "to": "sheshbazzar",
+    "type": "co-worker",
+    "refs": [
+      "Ezra 1:7-11",
+      "Ezra 5:14-15"
+    ],
+    "note": "Cyrus entrusts the temple vessels to Sheshbazzar and makes him governor."
+  },
+  {
+    "from": "sheshbazzar",
+    "to": "zerubbabel",
+    "type": "successor",
+    "refs": [
+      "Ezra 5:14-16",
+      "Ezra 3:8"
+    ],
+    "note": "Zerubbabel leads after Sheshbazzar; some identify the two as one person (debated)."
+  },
+  {
+    "from": "darius-i",
+    "to": "zerubbabel",
+    "type": "ally",
+    "refs": [
+      "Ezra 6:6-12",
+      "Hag 1:1"
+    ],
+    "note": "Darius confirms Cyrus's decree and funds the temple's completion under Zerubbabel."
+  },
+  {
+    "from": "darius-i",
+    "to": "joshua-high-priest",
+    "type": "ally",
+    "refs": [
+      "Ezra 6:7-10"
+    ],
+    "note": "Darius supplies sacrifices and asks the priests to pray for the king."
+  },
+  {
+    "from": "artaxerxes-i",
+    "to": "nehemiah",
+    "type": "ally",
+    "refs": [
+      "Neh 1:11",
+      "Neh 2:1-8"
+    ],
+    "note": "Nehemiah is the king's cupbearer; Artaxerxes grants him leave and letters to rebuild Jerusalem."
+  },
+  {
+    "from": "artaxerxes-i",
+    "to": "ezra",
+    "type": "ally",
+    "refs": [
+      "Ezra 7:11-26"
+    ],
+    "note": "The king's letter commissions Ezra to teach and enforce God's law (date of Ezra's mission debated)."
+  },
+  {
+    "from": "ahasuerus",
+    "to": "haman",
+    "type": "ally",
+    "refs": [
+      "Esth 3:1",
+      "Esth 3:10"
+    ],
+    "note": "The king promotes Haman and gives him his signet ring."
+  },
+  {
+    "from": "ahasuerus",
+    "to": "mordecai",
+    "type": "ally",
+    "refs": [
+      "Esth 6:10-11",
+      "Esth 10:2-3"
+    ],
+    "note": "The king honours Mordecai for saving his life and makes him second in the kingdom."
+  },
+  {
+    "from": "haman",
+    "to": "mordecai",
+    "type": "enemy",
+    "refs": [
+      "Esth 3:5-6",
+      "Esth 5:13-14"
+    ],
+    "note": "Enraged that Mordecai will not bow, Haman plots to destroy him and all the Jews."
+  },
+  {
+    "from": "haman",
+    "to": "esther",
+    "type": "enemy",
+    "refs": [
+      "Esth 7:1-6"
+    ],
+    "note": "Esther exposes Haman as the adversary and enemy of her people."
+  },
+  {
+    "from": "sanballat",
+    "to": "nehemiah",
+    "type": "enemy",
+    "refs": [
+      "Neh 2:10",
+      "Neh 4:1-8",
+      "Neh 6:1-14"
+    ],
+    "note": "The governor of Samaria mocks, threatens and plots against Nehemiah's wall building."
+  },
+  {
+    "from": "tobiah",
+    "to": "nehemiah",
+    "type": "enemy",
+    "refs": [
+      "Neh 2:10",
+      "Neh 6:17-19",
+      "Neh 13:4-9"
+    ],
+    "note": "Tobiah ridicules the work, sends letters to frighten Nehemiah, and is later thrown out of the temple storeroom."
+  },
+  {
+    "from": "sanballat",
+    "to": "tobiah",
+    "type": "ally",
+    "refs": [
+      "Neh 2:19",
+      "Neh 4:7-8",
+      "Neh 6:12-14"
+    ],
+    "note": "The two act together against Nehemiah, even hiring a prophet to frighten him."
+  },
+  {
+    "from": "merodach-baladan",
+    "to": "hezekiah",
+    "type": "ally",
+    "refs": [
+      "2 Kgs 20:12-13",
+      "Isa 39:1-2"
+    ],
+    "note": "He sends envoys and a gift to Hezekiah, probably seeking an alliance against Assyria."
+  },
+  {
+    "from": "isaiah",
+    "to": "merodach-baladan",
+    "type": "confrontation",
+    "refs": [
+      "Isa 39:3-7"
+    ],
+    "note": "Isaiah warns that what Hezekiah showed the Babylonian envoys will one day be carried to Babylon."
+  },
+  {
+    "from": "tiglath-pileser-iii",
+    "to": "menahem",
+    "type": "enemy",
+    "refs": [
+      "2 Kgs 15:19-20"
+    ],
+    "note": "As Pul he comes against Israel; Menahem pays a thousand talents of tribute."
+  },
+  {
+    "from": "tiglath-pileser-iii",
+    "to": "pekah",
+    "type": "enemy",
+    "refs": [
+      "2 Kgs 15:29"
+    ],
+    "note": "He seizes Galilee and Gilead in Pekah's reign and deports their people."
+  },
+  {
+    "from": "tiglath-pileser-iii",
+    "to": "ahaz",
+    "type": "ally",
+    "refs": [
+      "2 Kgs 16:7-10",
+      "2 Chr 28:20-21"
+    ],
+    "note": "Ahaz becomes his vassal to gain help against Aram and Israel; Chronicles says it brought distress, not strength."
+  },
+  {
+    "from": "shalmaneser-v",
+    "to": "hoshea-king",
+    "type": "enemy",
+    "refs": [
+      "2 Kgs 17:3-5"
+    ],
+    "note": "Shalmaneser imprisons Hoshea for rebellion and besieges Samaria."
+  },
+  {
+    "from": "isaiah",
+    "to": "sargon-ii",
+    "type": "confrontation",
+    "refs": [
+      "Isa 20:1-6"
+    ],
+    "note": "Isaiah's barefoot sign-act during Sargon's Ashdod campaign warns against trusting Egypt and Cush."
+  },
+  {
+    "from": "eliphaz",
+    "to": "job",
+    "type": "confrontation",
+    "refs": [
+      "Job 2:11",
+      "Job 4:1-9",
+      "Job 22:4-11",
+      "Job 42:7-9"
+    ],
+    "note": "Comes to comfort Job but insists his suffering must be punishment; God rebukes him and has Job pray for him."
+  },
+  {
+    "from": "bildad",
+    "to": "job",
+    "type": "confrontation",
+    "refs": [
+      "Job 2:11",
+      "Job 8:1-6",
+      "Job 42:9"
+    ],
+    "note": "Comes to comfort Job, then argues his children died for their sin; rebuked by God."
+  },
+  {
+    "from": "zophar",
+    "to": "job",
+    "type": "confrontation",
+    "refs": [
+      "Job 2:11",
+      "Job 11:1-6",
+      "Job 42:9"
+    ],
+    "note": "Comes to comfort Job, then tells him God exacts less than his guilt deserves; rebuked by God."
+  },
+  {
+    "from": "elihu",
+    "to": "job",
+    "type": "confrontation",
+    "refs": [
+      "Job 32:1-3",
+      "Job 33:8-12"
+    ],
+    "note": "Angry that Job justifies himself rather than God, he argues that suffering can be God's warning and instruction."
+  },
+  {
+    "from": "elihu",
+    "to": "eliphaz",
+    "type": "confrontation",
+    "refs": [
+      "Job 32:3",
+      "Job 32:11-12"
+    ],
+    "note": "Elihu is angry with the three friends for condemning Job without answering him."
+  },
+  {
+    "from": "eliphaz",
+    "to": "bildad",
+    "type": "ally",
+    "refs": [
+      "Job 2:11"
+    ],
+    "note": "The three friends agree together to come and comfort Job."
+  },
+  {
+    "from": "eliphaz",
+    "to": "zophar",
+    "type": "ally",
+    "refs": [
+      "Job 2:11"
+    ],
+    "note": "The three friends agree together to come and comfort Job."
+  },
+  {
+    "from": "shemaiah",
+    "to": "rehoboam",
+    "type": "confrontation",
+    "refs": [
+      "1 Kgs 12:22-24",
+      "2 Chr 12:5-8"
+    ],
+    "note": "Shemaiah forbids war against the northern tribes and later calls Rehoboam to humble himself before Shishak's invasion."
+  },
+  {
+    "from": "shemaiah",
+    "to": "iddo",
+    "type": "co-worker",
+    "refs": [
+      "2 Chr 12:15"
+    ],
+    "note": "Rehoboam's acts are recorded in the writings of Shemaiah the prophet and Iddo the seer."
+  },
+  {
+    "from": "iddo",
+    "to": "jeroboam-i",
+    "type": "confrontation",
+    "refs": [
+      "2 Chr 9:29"
+    ],
+    "note": "Chronicles cites \"the visions of Iddo the seer concerning Jeroboam\"."
+  },
+  {
+    "from": "hanani",
+    "to": "asa",
+    "type": "confrontation",
+    "refs": [
+      "2 Chr 16:7-10"
+    ],
+    "note": "Hanani rebukes Asa for relying on Aram; Asa puts him in the stocks."
+  },
+  {
+    "from": "azariah-son-of-oded",
+    "to": "asa",
+    "type": "ally",
+    "refs": [
+      "2 Chr 15:1-8"
+    ],
+    "note": "His encouragement leads Asa to remove idols and renew the covenant."
+  },
+  {
+    "from": "jehu-son-of-hanani",
+    "to": "baasha",
+    "type": "confrontation",
+    "refs": [
+      "1 Kgs 16:1-7"
+    ],
+    "note": "Jehu announces the end of Baasha's dynasty."
+  },
+  {
+    "from": "jehu-son-of-hanani",
+    "to": "jehoshaphat",
+    "type": "confrontation",
+    "refs": [
+      "2 Chr 19:1-3"
+    ],
+    "note": "He rebukes Jehoshaphat for helping Ahab, while noting the good found in him."
+  },
+  {
+    "from": "oded",
+    "to": "pekah",
+    "type": "confrontation",
+    "refs": [
+      "2 Chr 28:6-15"
+    ],
+    "note": "Oded confronts Pekah's returning army and persuades Israel to release its Judean captives."
+  },
+  {
+    "from": "joash-judah",
+    "to": "zechariah-son-of-jehoiada",
+    "type": "enemy",
+    "refs": [
+      "2 Chr 24:20-22"
+    ],
+    "note": "Joash orders the stoning of Zechariah, the son of the priest who had raised him."
+  }
+]

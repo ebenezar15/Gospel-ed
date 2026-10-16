@@ -1,0 +1,3903 @@
+[
+  {
+    "id": "jehoahaz-of-judah",
+    "names": {
+      "primary": "Jehoahaz (king of Judah)",
+      "original": "יְהוֹאָחָז",
+      "meaning": "The LORD has taken hold",
+      "aliases": [
+        "Shallum",
+        "Joahaz"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "born": {
+      "year": -632,
+      "circa": true,
+      "confidence": "scholarly-consensus"
+    },
+    "active": [
+      {
+        "year": -609,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -609,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -600,
+      "circa": true,
+      "confidence": "speculative"
+    },
+    "tribe": "Judah",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem",
+      "egypt"
+    ],
+    "family": {
+      "parents": [
+        "josiah"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": [
+        "jehoiakim",
+        "zedekiah"
+      ]
+    },
+    "roles": [
+      "King of Judah (three months)",
+      "Captive in Egypt"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Made king by the people of the land",
+        "year": -609,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 23:30-31",
+          "2 Chr 36:1-2"
+        ],
+        "summary": "After Josiah was killed at Megiddo, \"the people of the land\" (the landowning citizens of Judah) anointed Josiah's son Jehoahaz king, passing over his older brother Eliakim. He was 23 and reigned three months."
+      },
+      {
+        "title": "Deposed by Pharaoh Neco",
+        "year": -609,
+        "placeId": "egypt",
+        "refs": [
+          "2 Kgs 23:32-34",
+          "2 Chr 36:3-4"
+        ],
+        "summary": "Neco put him in chains at Riblah in Syria, fined Judah heavily, set his brother Eliakim (renamed Jehoiakim) on the throne, and took Jehoahaz to Egypt, where he died."
+      },
+      {
+        "title": "Jeremiah's lament for Shallum",
+        "refs": [
+          "Jer 22:10-12"
+        ],
+        "summary": "Jeremiah tells the people not to weep for the dead Josiah but for the one who has gone away, Shallum, because he will never return to see his homeland."
+      }
+    ],
+    "summary": "Jehoahaz, also called Shallum, was a son of Josiah who became king of Judah in 609 BC after his father died fighting Pharaoh Neco. He lasted only three months. Neco removed him, took him as a prisoner to Egypt, and replaced him with his brother Jehoiakim, who would pay Egypt tribute. Jehoahaz never came home.",
+    "textSays": "He was 23 when he began to reign and reigned three months; his mother was Hamutal, daughter of Jeremiah of Libnah (2 Kgs 23:31). Kings says he did evil like his fathers (2 Kgs 23:32). Jeremiah calls him Shallum and says he will die where he was taken captive (Jer 22:11-12). 1 Chronicles lists Shallum among Josiah's sons (1 Chr 3:15).",
+    "interpretations": [
+      {
+        "tradition": "Historical-critical",
+        "view": "The choice of the younger son by \"the people of the land\" is often read as a vote for Josiah's anti-Egyptian policy; Neco's swift removal of him fits Egypt's attempt to control the Levant after 609 BC (debated, but widely held)."
+      },
+      {
+        "tradition": "Christian and Jewish readers",
+        "view": "Many read Ezekiel's lament over a young lion taken in hooks to Egypt as a picture of Jehoahaz (Ezek 19:1-4)."
+      }
+    ],
+    "context": "The Babylonian Chronicle records that in 609 BC Egypt marched north to help the last Assyrian forces at Harran. Josiah died trying to stop that march, and Neco then treated Judah as an Egyptian vassal (scholarly-consensus).",
+    "legacy": "He is the first king of Judah to die in exile, an early sign of the deportations that followed.",
+    "voice": "Young and uncertain, speaking with the borrowed confidence of a man pushed forward by others, then with the flat grief of a prisoner far from home.",
+    "refs": [
+      "2 Kgs 23:30-34",
+      "2 Chr 36:1-4",
+      "Jer 22:10-12",
+      "1 Chr 3:15",
+      "Ezek 19:1-4"
+    ],
+    "books": [
+      "2 Kgs",
+      "1 Chr",
+      "2 Chr",
+      "Jer",
+      "Ezek"
+    ]
+  },
+  {
+    "id": "jehoiakim",
+    "names": {
+      "primary": "Jehoiakim",
+      "original": "יְהוֹיָקִים",
+      "meaning": "The LORD raises up",
+      "aliases": [
+        "Eliakim"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom",
+      "exile"
+    ],
+    "born": {
+      "year": -634,
+      "circa": true,
+      "confidence": "scholarly-consensus"
+    },
+    "active": [
+      {
+        "year": -609,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -598,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Death early in 597 BC, depending on how the last months are counted",
+            "year": -597
+          }
+        ]
+      }
+    ],
+    "died": {
+      "year": -598,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Early 597 BC",
+          "year": -597
+        }
+      ]
+    },
+    "tribe": "Judah",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem",
+      "carchemish",
+      "babylon"
+    ],
+    "family": {
+      "parents": [
+        "josiah"
+      ],
+      "spouses": [],
+      "children": [
+        "jehoiachin"
+      ],
+      "siblings": [
+        "jehoahaz-of-judah",
+        "zedekiah"
+      ]
+    },
+    "roles": [
+      "King of Judah",
+      "Vassal of Egypt, then of Babylon"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Installed by Pharaoh Neco",
+        "year": -609,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 23:34-37",
+          "2 Chr 36:4-5"
+        ],
+        "summary": "Neco made Eliakim king in place of his brother Jehoahaz and renamed him Jehoiakim. He taxed the land to pay Egypt's tribute. He was 25 and reigned eleven years."
+      },
+      {
+        "title": "Builds a palace with unpaid labour",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 22:13-19"
+        ],
+        "summary": "Jeremiah condemns him for building a grand house with cedar panelling while not paying his workers, and contrasts him with his father Josiah, who did justice. He predicts Jehoiakim will have \"the burial of an ass\", dragged out and thrown beyond the gates."
+      },
+      {
+        "title": "Has the prophet Uriah killed",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 26:20-23"
+        ],
+        "summary": "When Uriah son of Shemaiah prophesied as Jeremiah did, the king sought to kill him, had him brought back from Egypt, and struck him down with the sword."
+      },
+      {
+        "title": "Burns Jeremiah's scroll",
+        "year": -604,
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 36:20-32"
+        ],
+        "summary": "In winter, as the scroll of Jeremiah's words was read to him, he cut off each few columns with a knife and threw them into the fire. Jeremiah dictated the scroll again to Baruch with more added."
+      },
+      {
+        "title": "Submits to Nebuchadnezzar, then rebels",
+        "year": -601,
+        "refs": [
+          "2 Kgs 24:1-7",
+          "Dan 1:1-2",
+          "2 Chr 36:6-8"
+        ],
+        "summary": "He served Nebuchadnezzar three years, then rebelled. Raiding bands from Babylon, Aram, Moab and Ammon came against Judah. Kings says he \"slept with his fathers\"; Chronicles says Nebuchadnezzar bound him to take him to Babylon."
+      }
+    ],
+    "summary": "Jehoiakim, a son of Josiah, ruled Judah from 609 to about 598 BC. Egypt put him on the throne, but after Babylon defeated Egypt at Carchemish in 605 BC he had to serve Nebuchadnezzar. He is remembered mainly as Jeremiah's great opponent: he killed the prophet Uriah, burned Jeremiah's scroll, and later rebelled against Babylon, which brought the first great siege of Jerusalem.",
+    "textSays": "He did evil in the sight of the LORD (2 Kgs 23:37; 2 Chr 36:5). His mother was Zebidah, daughter of Pedaiah of Rumah (2 Kgs 23:36). Jeremiah says none would lament him (Jer 22:18) and that none of his line would sit on David's throne (Jer 36:30). His death is described differently: Kings says he slept with his fathers (2 Kgs 24:6), Chronicles says he was bound in bronze chains to be taken to Babylon (2 Chr 36:6), and Jeremiah predicts a dishonoured corpse (Jer 22:19; Jer 36:30).",
+    "interpretations": [
+      {
+        "tradition": "Harmonising readings",
+        "view": "Some suggest he was bound for deportation but released or died before leaving, and that his body was later treated with dishonour, so all three accounts can stand together."
+      },
+      {
+        "tradition": "Historical-critical",
+        "view": "Others think the sources reflect different traditions, and that Jeremiah's oracle was a prophetic curse whose literal fulfilment is not recorded. This remains debated."
+      },
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Rabbinic tradition portrays him as one of the most wicked kings, guilty of grave sins beyond those named in Scripture."
+      }
+    ],
+    "context": "The Babylonian Chronicle confirms the main events around him: Nebuchadnezzar's victory over Egypt at Carchemish in 605 BC (cf. Jer 46:2), his campaigns in the west, and a costly battle with Egypt in 601 BC that likely encouraged Judah's rebellion (scholarly-consensus). The same chronicle records Jerusalem's capture in March 597 BC, just after Jehoiakim's death.",
+    "legacy": "His burning of the scroll became a classic picture of a ruler trying to silence God's word, and of the word surviving anyway.",
+    "voice": "Cold, proud and dismissive, a man who talks over the reading and treats a prophet's warning as so much kindling.",
+    "refs": [
+      "2 Kgs 23:34-24:7",
+      "2 Chr 36:4-8",
+      "Jer 22:13-19",
+      "Jer 26:20-23",
+      "Jer 36:1-32",
+      "Dan 1:1-2"
+    ],
+    "books": [
+      "2 Kgs",
+      "1 Chr",
+      "2 Chr",
+      "Jer",
+      "Dan"
+    ]
+  },
+  {
+    "id": "jehoiachin",
+    "names": {
+      "primary": "Jehoiachin",
+      "original": "יְהוֹיָכִין",
+      "meaning": "The LORD establishes",
+      "aliases": [
+        "Jeconiah",
+        "Coniah",
+        "Jechonias"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "both",
+    "eraIds": [
+      "divided-kingdom",
+      "exile"
+    ],
+    "born": {
+      "year": -615,
+      "circa": true,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "If he was eight at accession (2 Chr 36:9 in the Hebrew)",
+          "year": -605
+        }
+      ]
+    },
+    "active": [
+      {
+        "year": -598,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -597,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -560,
+      "circa": true,
+      "confidence": "speculative"
+    },
+    "tribe": "Judah",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem",
+      "babylon"
+    ],
+    "family": {
+      "parents": [
+        "jehoiakim"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King of Judah (three months)",
+      "Exiled king in Babylon"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Surrenders Jerusalem to Nebuchadnezzar",
+        "year": -597,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 24:8-12",
+          "2 Chr 36:9-10"
+        ],
+        "summary": "After a reign of three months he went out to the Babylonian king with his mother, servants and officials and gave himself up."
+      },
+      {
+        "title": "Deported with the first great exile",
+        "year": -597,
+        "placeId": "babylon",
+        "refs": [
+          "2 Kgs 24:13-16",
+          "Jer 24:1",
+          "Jer 29:1-2",
+          "Esth 2:6"
+        ],
+        "summary": "He was taken to Babylon with the royal family, officials, craftsmen and soldiers, among them the young priest Ezekiel. Temple treasures were carried off too."
+      },
+      {
+        "title": "Rejected by Jeremiah's oracle",
+        "refs": [
+          "Jer 22:24-30"
+        ],
+        "summary": "Jeremiah says that even if Coniah were the signet ring on God's hand, he would be pulled off, and that no descendant of his would prosper on David's throne."
+      },
+      {
+        "title": "Released from prison by Evil-merodach",
+        "year": -561,
+        "placeId": "babylon",
+        "refs": [
+          "2 Kgs 25:27-30",
+          "Jer 52:31-34"
+        ],
+        "summary": "In the 37th year of his exile the new king of Babylon freed him, spoke kindly to him, gave him a seat above the other captive kings, and provided him a daily allowance for the rest of his life."
+      }
+    ],
+    "summary": "Jehoiachin, also called Jeconiah or Coniah, was the son of Jehoiakim. He became king at about 18, reigned three months, and surrendered Jerusalem to Nebuchadnezzar in March 597 BC. He spent the rest of his life in Babylon. The books of Kings end with his release from prison about 37 years later, a small sign of hope that David's line had not ended. Matthew's genealogy of Jesus runs through him.",
+    "textSays": "He was 18 when he began to reign (2 Kgs 24:8); the Hebrew of 2 Chr 36:9 says eight, which most scholars treat as a copying slip. His mother was Nehushta daughter of Elnathan (2 Kgs 24:8). 1 Chronicles lists his sons, including Shealtiel and Pedaiah, and through them Zerubbabel (1 Chr 3:17-19). Matthew names him Jechonias in Jesus' line (Matt 1:11-12). Ezekiel dates his visions by the years of \"King Jehoiachin's exile\" (Ezek 1:2).",
+    "interpretations": [
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Some rabbinic texts hold that Jehoiachin repented in prison and that the curse of Jer 22:30 was lifted, which is why his grandson Zerubbabel could lead the return (Hag 2:23 reverses the signet-ring image)."
+      },
+      {
+        "tradition": "Christian",
+        "view": "Christian readers have long discussed how Jesus can be heir of David through Jeconiah given the curse. Common answers: the curse applied to his own lifetime or was lifted; Jesus inherits the legal right through Joseph without being a biological descendant; or Luke's different genealogy traces another line. This is debated."
+      },
+      {
+        "tradition": "Historical-critical",
+        "view": "The release at the end of Kings is read by many as a deliberately muted note of hope for the Davidic house written during the exile."
+      }
+    ],
+    "context": "Extra-biblical evidence for Jehoiachin is unusually strong. The Babylonian Chronicle says that on the 2nd of Adar in Nebuchadnezzar's 7th year (16 March 597 BC) he captured \"the city of Judah\", seized its king and appointed a king of his own choice (scholarly-consensus). Clay ration tablets found in Babylon's royal palace and published by E. F. Weidner in 1939 list oil rations for \"Ya'ukin, king of the land of Yahud\" and his five sons; one tablet is dated to Nebuchadnezzar's 13th year, about 592 BC (scholarly-consensus).",
+    "legacy": "He became the reference point for Judah's exiles. Ezekiel counted time by his captivity, and his descendants Shealtiel and Zerubbabel carried the royal line into the return.",
+    "voice": "Subdued and courteous, the manner of a young king who learned early to bow, speaking with the patience of a man who waited decades for a kind word.",
+    "refs": [
+      "2 Kgs 24:8-17",
+      "2 Kgs 25:27-30",
+      "2 Chr 36:9-10",
+      "Jer 22:24-30",
+      "Jer 52:31-34",
+      "1 Chr 3:16-19",
+      "Ezek 1:2",
+      "Matt 1:11-12"
+    ],
+    "books": [
+      "2 Kgs",
+      "1 Chr",
+      "2 Chr",
+      "Esth",
+      "Jer",
+      "Ezek",
+      "Matt"
+    ]
+  },
+  {
+    "id": "gedaliah",
+    "names": {
+      "primary": "Gedaliah",
+      "original": "גְּדַלְיָהוּ",
+      "meaning": "The LORD is great",
+      "aliases": [
+        "Gedaliah son of Ahikam"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "exile"
+    ],
+    "active": [
+      {
+        "year": -586,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Fall of Jerusalem dated 587 BC",
+            "year": -587
+          }
+        ]
+      },
+      {
+        "year": -586,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Murder some years later, possibly linked to the deportation of 582 BC (Jer 52:30)",
+            "year": -582
+          }
+        ]
+      }
+    ],
+    "died": {
+      "year": -586,
+      "confidence": "debated",
+      "alternatives": [
+        {
+          "label": "Later date, c. 582 BC",
+          "year": -582
+        }
+      ]
+    },
+    "tribe": "Judah",
+    "nation": "Judah",
+    "placeIds": [
+      "mizpah",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Governor of Judah under Babylon",
+      "Protector of Jeremiah"
+    ],
+    "occupations": [
+      "governor",
+      "royal official"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Appointed governor at Mizpah",
+        "placeId": "mizpah",
+        "refs": [
+          "2 Kgs 25:22-24",
+          "Jer 40:5-12"
+        ],
+        "summary": "After Jerusalem fell, Nebuchadnezzar set Gedaliah over the poor people left in the land. He urged the scattered Judeans to serve Babylon, settle down and gather the harvest, and many returned."
+      },
+      {
+        "title": "Jeremiah entrusted to him",
+        "placeId": "mizpah",
+        "refs": [
+          "Jer 39:14",
+          "Jer 40:6"
+        ],
+        "summary": "The Babylonians brought Jeremiah out of the guard court and committed him to Gedaliah. Jeremiah chose to stay with him at Mizpah."
+      },
+      {
+        "title": "Ignores the warning and is murdered",
+        "placeId": "mizpah",
+        "refs": [
+          "Jer 40:13-16",
+          "Jer 41:1-3",
+          "2 Kgs 25:25"
+        ],
+        "summary": "Johanan son of Kareah warned him that Ishmael son of Nethaniah, of royal descent, had been sent by the king of Ammon to kill him. Gedaliah refused to believe it. In the seventh month Ishmael killed him at a meal, along with Judeans and Babylonian soldiers."
+      }
+    ],
+    "summary": "Gedaliah came from a family of royal officials who had backed Jeremiah: his grandfather Shaphan served Josiah, and his father Ahikam protected Jeremiah from a lynch mob. After Jerusalem fell in 586 BC the Babylonians made him governor of what was left of Judah, based at Mizpah. He tried to rebuild ordinary life, but a member of the royal family murdered him. His death drove the survivors to flee to Egypt in fear of Babylon.",
+    "textSays": "He is \"Gedaliah son of Ahikam, son of Shaphan\" (2 Kgs 25:22; Jer 39:14). His father Ahikam (not a separate profile here) protected Jeremiah (Jer 26:24). He swore to the people that serving Babylon would go well with them (Jer 40:9). He was killed by Ishmael in the seventh month (Jer 41:1-2), and the survivors went to Egypt against Jeremiah's advice (Jer 41:16-43:7).",
+    "interpretations": [
+      {
+        "tradition": "Jewish",
+        "view": "The Fast of Gedaliah on the 3rd of Tishri mourns his murder as the end of Jewish self-rule after the destruction. Many link it to the \"fast of the seventh month\" in Zech 7:5 and Zech 8:19 (tradition)."
+      },
+      {
+        "tradition": "General readers",
+        "view": "He is often seen as a decent man undone by trust; his refusal to suspect Ishmael is read either as nobility or as fatal naivety."
+      }
+    ],
+    "context": "A clay seal impression from Lachish reads \"belonging to Gedaliah, who is over the house\", the title of a royal steward. Some scholars identify this with Gedaliah son of Ahikam before he became governor; others think it is another man. The identification is debated. The year of his murder is not stated: many place it in 586 BC, soon after the city fell, while others link it with a further deportation in 582 BC (Jer 52:30).",
+    "legacy": "His murder closed the last chance for a Judean community in the land under Babylon, and it is still remembered by a Jewish fast day.",
+    "voice": "Calm, practical and reassuring, a steady administrator who speaks of harvests and settling down, and who would rather trust than suspect.",
+    "refs": [
+      "2 Kgs 25:22-26",
+      "Jer 39:14",
+      "Jer 40:5-16",
+      "Jer 41:1-3"
+    ],
+    "books": [
+      "2 Kgs",
+      "Jer"
+    ],
+    "traditions": [
+      {
+        "text": "The Fast of Gedaliah (Tzom Gedaliah) is kept on the day after Rosh Hashanah to mourn his assassination.",
+        "source": "Babylonian Talmud, Rosh Hashanah 18b",
+        "confidence": "tradition"
+      }
+    ]
+  },
+  {
+    "id": "ebed-melech",
+    "names": {
+      "primary": "Ebed-melech",
+      "original": "עֶבֶד־מֶלֶךְ",
+      "meaning": "Servant of the king",
+      "aliases": [
+        "Ebed-melech the Ethiopian (Cushite)"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom",
+      "exile"
+    ],
+    "active": [
+      {
+        "year": -587,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -586,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Cush (Nubia, south of Egypt)",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Court official of Zedekiah",
+      "Rescuer of Jeremiah"
+    ],
+    "occupations": [
+      "royal official"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Pulls Jeremiah out of the cistern",
+        "year": -587,
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 38:7-13"
+        ],
+        "summary": "When officials threw Jeremiah into a muddy cistern to die, Ebed-melech went to King Zedekiah and protested. With thirty men he lowered rags and ropes, told Jeremiah to pad his armpits, and drew him up."
+      },
+      {
+        "title": "Promised his life",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 39:15-18"
+        ],
+        "summary": "God sent word through Jeremiah that when the city fell Ebed-melech would not be handed over to the men he feared, \"because you have put your trust in me\"."
+      }
+    ],
+    "summary": "Ebed-melech was a Cushite (from the region south of Egypt) serving in King Zedekiah's palace. When Jeremiah was left to die in a muddy cistern, he spoke up to the king and organised the rescue, even thinking to send rags so the ropes would not cut. God promised him safety when Jerusalem fell.",
+    "textSays": "He is called a Cushite and a saris, a word that can mean eunuch or simply court official (Jer 38:7). He was rewarded for trusting God (Jer 39:18).",
+    "interpretations": [
+      {
+        "tradition": "Christian",
+        "view": "Often set beside the Ethiopian official of Acts 8 as an African outsider who showed faith while insiders failed."
+      },
+      {
+        "tradition": "Jewish",
+        "view": "Some rabbinic and later legends identify him with other figures or say he entered paradise alive (tradition, late sources)."
+      }
+    ],
+    "voice": "Direct and brave, speaking plainly to a king in public, with a practical kindness that thinks of small details.",
+    "refs": [
+      "Jer 38:7-13",
+      "Jer 39:15-18"
+    ],
+    "books": [
+      "Jer"
+    ]
+  },
+  {
+    "id": "hananiah-false-prophet",
+    "names": {
+      "primary": "Hananiah son of Azzur",
+      "original": "חֲנַנְיָה",
+      "meaning": "The LORD has been gracious",
+      "aliases": [
+        "Hananiah the prophet of Gibeon"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -594,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Fourth year of Zedekiah reckoned as 593 BC",
+            "year": -593
+          }
+        ]
+      },
+      {
+        "year": -594,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -594,
+      "circa": true,
+      "confidence": "biblical",
+      "alternatives": [
+        {
+          "label": "If the fourth year is 593 BC",
+          "year": -593
+        }
+      ]
+    },
+    "tribe": "Benjamin (Gibeon, a Benjaminite town)",
+    "nation": "Judah",
+    "placeIds": [
+      "gibeon",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet opposed to Jeremiah"
+    ],
+    "occupations": [
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Predicts Babylon's fall within two years",
+        "year": -594,
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 28:1-4"
+        ],
+        "summary": "In the temple, before priests and people, he announced that God had broken the yoke of Babylon and that within two years the temple vessels, King Jeconiah and the exiles would return."
+      },
+      {
+        "title": "Breaks Jeremiah's yoke",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 28:5-11"
+        ],
+        "summary": "Jeremiah answered that he wished it were so, but that a prophet of peace is proved only when his word comes true. Hananiah took the wooden yoke from Jeremiah's neck and broke it as a sign."
+      },
+      {
+        "title": "Rebuked and dies",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 28:12-17"
+        ],
+        "summary": "Jeremiah returned with the word that wooden yokes would be replaced by iron ones, told Hananiah that God had not sent him and that he would die that year. He died in the seventh month."
+      }
+    ],
+    "summary": "Hananiah was a prophet from Gibeon who publicly contradicted Jeremiah in the temple. He promised that Babylon's power would be broken within two years and the exiles brought home. He broke the wooden yoke Jeremiah wore as a sign of submission to Babylon. Jeremiah said God had not sent him, and he died within months.",
+    "textSays": "He spoke in the LORD's name using the same formula as true prophets (Jer 28:2). Jeremiah accused him of making the people trust in a lie and of preaching rebellion against the LORD (Jer 28:15-16). He died the same year (Jer 28:17).",
+    "interpretations": [
+      {
+        "tradition": "Biblical theology",
+        "view": "The episode is a test case for discerning true and false prophecy: both men claim God's authority, and the outcome follows Deuteronomy's test of fulfilment (Deut 18:21-22)."
+      },
+      {
+        "tradition": "Historical readings",
+        "view": "Many see Hananiah as sincerely patriotic, drawing on older Zion traditions of God's protection of Jerusalem, rather than a cynical liar."
+      }
+    ],
+    "voice": "Confident and rousing, a crowd-pleaser who uses all the right prophetic phrases and promises good news on a short timetable.",
+    "refs": [
+      "Jer 28:1-17"
+    ],
+    "books": [
+      "Jer"
+    ]
+  },
+  {
+    "id": "pashhur",
+    "names": {
+      "primary": "Pashhur son of Immer",
+      "original": "פַּשְׁחוּר",
+      "aliases": [
+        "Magor-missabib (name given by Jeremiah)"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -605,
+        "circa": true,
+        "confidence": "speculative"
+      },
+      {
+        "year": -597,
+        "circa": true,
+        "confidence": "speculative"
+      }
+    ],
+    "tribe": "Levi (priestly family of Immer)",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem",
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Priest",
+      "Chief officer of the temple"
+    ],
+    "occupations": [
+      "priest"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Beats Jeremiah and puts him in the stocks",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 20:1-2"
+        ],
+        "summary": "Hearing Jeremiah prophesy disaster, Pashhur, chief officer in the LORD's house, struck him and put him in the stocks at the upper Benjamin Gate overnight."
+      },
+      {
+        "title": "Renamed \"Terror on every side\"",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 20:3-6"
+        ],
+        "summary": "When released, Jeremiah told him God had renamed him Magor-missabib, \"terror on every side\", and that he and his household would go captive to Babylon and die there."
+      }
+    ],
+    "summary": "Pashhur son of Immer was a priest in charge of order in the Jerusalem temple. He had Jeremiah beaten and locked in the stocks for preaching judgment. Jeremiah gave him a new name, \"Terror on every side\", and said he would die in Babylon. Another Pashhur, son of Malchiah, later urged that Jeremiah be put to death (Jer 21:1; Jer 38:1-6).",
+    "textSays": "He is a priest and chief officer of the temple (Jer 20:1) who had also prophesied falsely to his friends (Jer 20:6). Scripture names at least two Pashhurs in Jeremiah's time; this profile is the son of Immer.",
+    "context": "A clay seal impression found in Jerusalem reads \"Gedaliah son of Pashhur\", matching the name of an official in Jer 38:1. Whether that Pashhur is this man, Pashhur son of Malchiah, or someone else is not known (speculative).",
+    "voice": "Officious and authoritarian, a temple manager who treats a troublesome prophet as a matter for discipline.",
+    "refs": [
+      "Jer 20:1-6",
+      "Jer 21:1",
+      "Jer 38:1-6"
+    ],
+    "books": [
+      "Jer"
+    ]
+  },
+  {
+    "id": "shaphan",
+    "names": {
+      "primary": "Shaphan",
+      "original": "שָׁפָן",
+      "meaning": "Rock badger (hyrax)",
+      "aliases": [
+        "Shaphan the scribe"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -622,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -622,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "tribe": "Judah",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Royal secretary (scribe) to Josiah",
+      "Head of a family of officials"
+    ],
+    "occupations": [
+      "scribe",
+      "royal official"
+    ],
+    "skills": [
+      {
+        "name": "Reading and administration",
+        "refs": [
+          "2 Kgs 22:8-10"
+        ]
+      }
+    ],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Sent to the temple to pay the workers",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 22:3-7",
+          "2 Chr 34:8-13"
+        ],
+        "summary": "In Josiah's 18th year the king sent Shaphan to the high priest Hilkiah to release the collected money to the workmen repairing the temple."
+      },
+      {
+        "title": "Reads the book of the law to the king",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 22:8-11",
+          "2 Chr 34:14-19"
+        ],
+        "summary": "Hilkiah handed him the book of the law found in the temple. Shaphan read it and then read it aloud to Josiah, who tore his clothes."
+      },
+      {
+        "title": "Sent to the prophetess Huldah",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 22:12-14",
+          "2 Chr 34:20-22"
+        ],
+        "summary": "With Hilkiah, his son Ahikam and others, he went to ask Huldah what God was saying through the book."
+      }
+    ],
+    "summary": "Shaphan was the royal secretary of King Josiah. He brought the book of the law found in the temple to the king and read it aloud, which set off Josiah's great reform. His family remained influential for a generation. His son Ahikam saved Jeremiah's life, another son Gemariah let Baruch read Jeremiah's scroll from his room, and his grandson Gedaliah became governor of Judah after Jerusalem fell.",
+    "textSays": "His sons named in Scripture include Ahikam (2 Kgs 22:12; Jer 26:24), Gemariah (Jer 36:10-12) and Elasah, who carried Jeremiah's letter to the exiles (Jer 29:3). A Jaazaniah son of Shaphan appears in Ezekiel's vision of idol worship (Ezek 8:11), probably a different Shaphan. Gedaliah is his grandson through Ahikam (2 Kgs 25:22).",
+    "interpretations": [
+      {
+        "tradition": "Historical-critical",
+        "view": "Many scholars think Shaphan's family were a key circle of scribes behind the Deuteronomic reform and perhaps behind the preserving of Jeremiah's words (debated)."
+      }
+    ],
+    "context": "A clay seal impression found in the City of David in 1982 reads \"belonging to Gemaryahu son of Shaphan\". Many identify him with Gemariah son of Shaphan of Jer 36, though the name pair could belong to another man (debated).",
+    "legacy": "Shaphan's household shows how faithful officials could shelter God's messengers inside a hostile court for decades.",
+    "voice": "Careful and businesslike, a civil servant who reports facts first, then quietly reads the document that changes everything.",
+    "refs": [
+      "2 Kgs 22:3-14",
+      "2 Chr 34:8-21",
+      "Jer 26:24",
+      "Jer 36:10-12",
+      "Jer 29:3",
+      "2 Kgs 25:22"
+    ],
+    "books": [
+      "2 Kgs",
+      "2 Chr",
+      "Jer",
+      "Ezek"
+    ]
+  },
+  {
+    "id": "hilkiah",
+    "names": {
+      "primary": "Hilkiah",
+      "original": "חִלְקִיָּהוּ",
+      "meaning": "My portion is the LORD",
+      "aliases": [
+        "Hilkiah the high priest"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -622,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -621,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "tribe": "Levi (descendant of Aaron)",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "High priest under Josiah",
+      "Finder of the book of the law"
+    ],
+    "occupations": [
+      "priest"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Finds the book of the law",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 22:8",
+          "2 Chr 34:14-15"
+        ],
+        "summary": "During temple repairs Hilkiah found \"the book of the law\" (Chronicles: \"given by Moses\") and gave it to Shaphan the secretary."
+      },
+      {
+        "title": "Consults Huldah for the king",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 22:12-20"
+        ],
+        "summary": "Josiah sent Hilkiah and others to ask God about the book; they went to the prophetess Huldah, who confirmed judgment but promised Josiah peace."
+      },
+      {
+        "title": "Purges the temple of idols",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 23:4"
+        ],
+        "summary": "At Josiah's command he and the priests removed the objects made for Baal, Asherah and the stars, and burned them outside Jerusalem."
+      },
+      {
+        "title": "Leads the great Passover",
+        "year": -622,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 35:8"
+        ],
+        "summary": "As a chief officer of God's house he gave thousands of animals to the priests for Josiah's Passover."
+      }
+    ],
+    "summary": "Hilkiah was high priest in the reign of Josiah. While the temple was being repaired in 622 BC he found a scroll called \"the book of the law\". Its warnings shook the king and led to the most thorough religious reform in Judah's history, including the removal of idols from the temple and a national Passover.",
+    "textSays": "He is listed in the high-priestly line as father of Azariah (1 Chr 6:13) and is an ancestor of Ezra (Ezra 7:1). Jeremiah's father was also a priest named Hilkiah, from Anathoth (Jer 1:1); most scholars think he was a different man, since the high priest served in Jerusalem and Anathoth's priests were linked to the line of Abiathar (debated).",
+    "interpretations": [
+      {
+        "tradition": "Historical-critical",
+        "view": "Since W. M. L. de Wette (1805) many scholars identify the book with an early form of Deuteronomy, because Josiah's reforms (one central sanctuary, a Passover in Jerusalem) match Deuteronomy's laws (scholarly-consensus on the link to Deuteronomy; debated on whether it was newly written or rediscovered)."
+      },
+      {
+        "tradition": "Traditional Jewish and Christian",
+        "view": "The scroll was a genuine Mosaic book (perhaps the whole Torah or Deuteronomy) that had been neglected or hidden during Manasseh's reign and was truly rediscovered."
+      }
+    ],
+    "voice": "Measured and reverent, a senior priest who reports the find matter-of-factly and lets the scroll's words do the shaking.",
+    "refs": [
+      "2 Kgs 22:4-14",
+      "2 Kgs 23:4",
+      "2 Chr 34:9-22",
+      "2 Chr 35:8",
+      "1 Chr 6:13"
+    ],
+    "books": [
+      "2 Kgs",
+      "1 Chr",
+      "2 Chr",
+      "Ezra"
+    ]
+  },
+  {
+    "id": "uriah-son-of-shemaiah",
+    "names": {
+      "primary": "Uriah son of Shemaiah",
+      "original": "אוּרִיָּהוּ",
+      "meaning": "The LORD is my light",
+      "aliases": [
+        "Urijah"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -608,
+        "circa": true,
+        "confidence": "speculative"
+      },
+      {
+        "year": -605,
+        "circa": true,
+        "confidence": "speculative"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "kiriath-jearim",
+      "egypt",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet",
+      "Martyr"
+    ],
+    "occupations": [
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Prophesies like Jeremiah, flees, and is killed",
+        "placeId": "jerusalem",
+        "refs": [
+          "Jer 26:20-23"
+        ],
+        "summary": "Uriah of Kiriath-jearim prophesied against Jerusalem in words like Jeremiah's. When King Jehoiakim sought his life he fled to Egypt, but Elnathan son of Achbor brought him back, and the king killed him with the sword and threw his body into the common burial ground."
+      }
+    ],
+    "summary": "Uriah was a prophet from Kiriath-jearim who preached the same warnings as Jeremiah during Jehoiakim's reign. He fled to Egypt but was brought back and executed. His story is told to show how close Jeremiah came to the same fate; Ahikam son of Shaphan protected Jeremiah (Jer 26:24).",
+    "textSays": "The account appears in the middle of Jeremiah's trial, as a contrast with the elders who cited Micah's precedent to spare Jeremiah (Jer 26:17-24).",
+    "context": "Lachish Letter 3, an ostracon from the last years of Judah, mentions a commander Coniah son of Elnathan going down to Egypt and a letter passed on by \"the prophet\". Some have connected it with Uriah's story, but the link is speculative.",
+    "voice": "Earnest and frightened, a faithful messenger who speaks the hard word and then runs for his life.",
+    "refs": [
+      "Jer 26:20-24"
+    ],
+    "books": [
+      "Jer"
+    ]
+  },
+  {
+    "id": "nebuzaradan",
+    "names": {
+      "primary": "Nebuzaradan",
+      "original": "נְבוּזַרְאֲדָן",
+      "meaning": "Akkadian Nabû-zēr-iddin, \"Nabu has given offspring\"",
+      "aliases": [
+        "Captain of the guard"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "exile"
+    ],
+    "active": [
+      {
+        "year": -586,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Fall of Jerusalem dated 587 BC",
+            "year": -587
+          }
+        ]
+      },
+      {
+        "year": -582,
+        "circa": true,
+        "confidence": "biblical"
+      }
+    ],
+    "nation": "Babylon",
+    "placeIds": [
+      "jerusalem",
+      "mizpah",
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Babylonian commander",
+      "Captain of the guard"
+    ],
+    "occupations": [
+      "soldier",
+      "royal official"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Burns Jerusalem and the temple",
+        "year": -586,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 25:8-12",
+          "Jer 52:12-16"
+        ],
+        "summary": "A month after the walls were breached he arrived, burned the temple, the palace and the great houses, tore down the walls, and deported most of the remaining population, leaving the poorest to farm."
+      },
+      {
+        "title": "Removes the temple bronze and executes leaders",
+        "year": -586,
+        "refs": [
+          "2 Kgs 25:13-21",
+          "Jer 52:17-27"
+        ],
+        "summary": "He carried off the bronze pillars and vessels, and brought the chief priest Seraiah and other leaders to Nebuchadnezzar at Riblah, where they were executed."
+      },
+      {
+        "title": "Frees Jeremiah",
+        "placeId": "mizpah",
+        "refs": [
+          "Jer 39:11-14",
+          "Jer 40:1-6"
+        ],
+        "summary": "Following Nebuchadnezzar's orders he released Jeremiah from his chains at Ramah, acknowledged that Judah's disaster was God's judgment, and let Jeremiah choose where to go, giving him food and a gift."
+      },
+      {
+        "title": "Leads a third deportation",
+        "year": -582,
+        "refs": [
+          "Jer 52:30"
+        ],
+        "summary": "In Nebuchadnezzar's 23rd year he took another 745 Judeans into exile."
+      }
+    ],
+    "summary": "Nebuzaradan was Nebuchadnezzar's \"captain of the guard\", the officer who carried out the destruction of Jerusalem in 586 BC. He burned the temple and city, organised the deportations, and sent Judah's leaders to execution. He also released Jeremiah and treated him with respect, and he is credited with a further deportation in 582 BC.",
+    "textSays": "His Hebrew title rab-tabbahim literally means \"chief of the cooks\" or \"chief of the slaughterers\", used for a high court officer (2 Kgs 25:8). He speaks to Jeremiah in the language of the prophet's own message: \"the LORD your God pronounced this evil\" (Jer 40:2-3).",
+    "interpretations": [
+      {
+        "tradition": "Literary readings",
+        "view": "Many readers find it striking that a foreign officer voices the theology of judgment that Judah's own leaders refused to accept."
+      },
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Talmudic legend has him overwhelmed by the blood of the murdered prophet Zechariah and turning to Judaism (tradition, Babylonian Talmud Gittin 57b)."
+      }
+    ],
+    "context": "A clay prism from Nebuchadnezzar's reign listing his court officials (often called the \"court calendar\", now in Istanbul) names a Nabû-zēr-iddin as chief cook, the Akkadian equivalent of the Hebrew title. Most scholars accept this as the same man (scholarly-consensus).",
+    "voice": "Brisk and official, a soldier carrying out orders who can still speak with a gruff fairness to a prisoner.",
+    "refs": [
+      "2 Kgs 25:8-21",
+      "Jer 39:9-14",
+      "Jer 40:1-6",
+      "Jer 52:12-30"
+    ],
+    "books": [
+      "2 Kgs",
+      "Jer"
+    ],
+    "traditions": [
+      {
+        "text": "A Talmudic legend says he saw the blood of the slain prophet Zechariah still seething in the temple, was struck with remorse, and became a convert.",
+        "source": "Babylonian Talmud, Gittin 57b",
+        "confidence": "tradition"
+      }
+    ]
+  },
+  {
+    "id": "evil-merodach",
+    "names": {
+      "primary": "Evil-merodach",
+      "original": "אֱוִיל מְרֹדַךְ",
+      "meaning": "Akkadian Amēl-Marduk, \"man of Marduk\"",
+      "aliases": [
+        "Amel-Marduk",
+        "Awil-Marduk"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "exile"
+    ],
+    "active": [
+      {
+        "year": -562,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -560,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -560,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Babylon",
+    "placeIds": [
+      "babylon"
+    ],
+    "family": {
+      "parents": [
+        "nebuchadnezzar"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King of Babylon"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Releases Jehoiachin",
+        "year": -561,
+        "placeId": "babylon",
+        "refs": [
+          "2 Kgs 25:27-30",
+          "Jer 52:31-34"
+        ],
+        "summary": "In the year he became king he released Jehoiachin from prison, gave him a seat above the other captive kings, let him eat at the king's table, and granted him a regular allowance."
+      }
+    ],
+    "summary": "Evil-merodach (Amel-Marduk) was Nebuchadnezzar's son and successor, who reigned only about two years (562-560 BC). The Bible remembers him for one act of kindness: freeing the exiled King Jehoiachin of Judah. Babylonian sources show he was overthrown and killed by his brother-in-law Neriglissar.",
+    "textSays": "The Hebrew form of his name, Evil-merodach, sounds like \"fool of Merodach\" in Hebrew, which may be a deliberate pun. Scripture records only the release of Jehoiachin.",
+    "context": "His reign is confirmed by Babylonian business documents dated to his years. The Babylonian priest Berossus, quoted by Josephus (*Against Apion* 1.20), says he ruled lawlessly and was killed in a plot led by Neriglissar (scholarly-consensus on the coup; the character judgment is Berossus's).",
+    "voice": "Expansive and magnanimous, a new king eager to show his own style of mercy.",
+    "refs": [
+      "2 Kgs 25:27-30",
+      "Jer 52:31-34"
+    ],
+    "books": [
+      "2 Kgs",
+      "Jer"
+    ]
+  },
+  {
+    "id": "belshazzar",
+    "names": {
+      "primary": "Belshazzar",
+      "original": "בֵּלְשַׁאצַּר",
+      "meaning": "Akkadian Bēl-šarra-uṣur, \"Bel, protect the king\"",
+      "aliases": [
+        "Bel-shar-usur",
+        "Baltasar"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "exile"
+    ],
+    "active": [
+      {
+        "year": -553,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Start of co-regency c. 550 BC",
+            "year": -550
+          }
+        ]
+      },
+      {
+        "year": -539,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -539,
+      "confidence": "debated"
+    },
+    "nation": "Babylon",
+    "placeIds": [
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Crown prince and acting ruler of Babylon"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Feast with the temple vessels",
+        "year": -539,
+        "placeId": "babylon",
+        "refs": [
+          "Dan 5:1-4"
+        ],
+        "summary": "He held a great feast for a thousand nobles and ordered the gold and silver vessels taken from Jerusalem's temple to be used for drinking while they praised gods of gold, silver, bronze, iron, wood and stone."
+      },
+      {
+        "title": "The writing on the wall",
+        "year": -539,
+        "placeId": "babylon",
+        "refs": [
+          "Dan 5:5-12"
+        ],
+        "summary": "Fingers of a human hand appeared and wrote on the plaster. The king turned pale and his knees knocked. None of his wise men could read it, until the queen remembered Daniel."
+      },
+      {
+        "title": "Daniel reads the verdict",
+        "year": -539,
+        "placeId": "babylon",
+        "refs": [
+          "Dan 5:13-29"
+        ],
+        "summary": "Daniel refused rewards, reminded him of how God had humbled Nebuchadnezzar, and read MENE, MENE, TEKEL, UPHARSIN: numbered, weighed, divided. The kingdom would go to the Medes and Persians. Belshazzar still made Daniel third ruler in the kingdom."
+      },
+      {
+        "title": "Killed that night",
+        "year": -539,
+        "placeId": "babylon",
+        "refs": [
+          "Dan 5:30-31"
+        ],
+        "summary": "That night Belshazzar the Chaldean king was slain, and Darius the Mede received the kingdom."
+      }
+    ],
+    "summary": "Belshazzar was the eldest son of Nabonidus, the last king of Babylon. For about ten years he ruled in Babylon while his father lived at the desert oasis of Tayma. Daniel 5 tells of his drunken feast with the temple vessels, the mysterious writing on the wall, and his death on the night Babylon fell in 539 BC. For a long time critics doubted he existed, until cuneiform texts named him.",
+    "textSays": "Daniel calls him king and calls Nebuchadnezzar his \"father\" (Dan 5:2; Dan 5:11; Dan 5:18). He offers Daniel the rank of \"third ruler\" (Dan 5:16; Dan 5:29). Daniel's visions in Dan 7 and Dan 8 are dated to his first and third years (Dan 7:1; Dan 8:1).",
+    "interpretations": [
+      {
+        "tradition": "Conservative scholarship",
+        "view": "\"Father\" can mean ancestor or royal predecessor in Semitic usage, and some suggest his mother descended from Nebuchadnezzar (speculative). The offer of \"third ruler\" fits a court where Nabonidus was first and Belshazzar second, which conservative scholars see as an accurate detail."
+      },
+      {
+        "tradition": "Critical scholarship",
+        "view": "Most critical scholars see Daniel 5 as a later story (usually dated with the book's final form in the 160s BC) that preserves a genuine memory of Belshazzar but simplifies history by making him Nebuchadnezzar's son and a full king. The details are debated."
+      },
+      {
+        "tradition": "Jewish and Christian preaching",
+        "view": "\"Weighed in the balances and found wanting\" (Dan 5:27) became a proverb for judgment on pride and sacrilege."
+      }
+    ],
+    "context": "Several cuneiform texts confirm him (scholarly-consensus). A cylinder of Nabonidus from Ur includes a prayer for \"Bel-shar-usur, my firstborn son\". The \"Verse Account of Nabonidus\" says Nabonidus entrusted the kingship to his eldest son when he left for Tayma. The Nabonidus Chronicle notes that for several years \"the king's son\" was in Babylonia while the king stayed in Tayma. Babylonian texts never give him the formal title \"king of Babylon\", and none record his death. The Nabonidus Chronicle says Babylon fell to Cyrus's forces in October 539 BC without a battle; the Greek writers Herodotus (*Histories* 1.191) and Xenophon (*Cyropaedia* 7.5) say the city was taken during a festival. Whether he died that night is stated in Daniel but not in other sources (debated).",
+    "legacy": "\"The writing on the wall\" has become an everyday phrase for an unmistakable sign of coming downfall.",
+    "voice": "Loud, boastful and showy at the banquet, then shaky and pleading once the hand appears; a man used to commanding who has no answer for what he cannot control.",
+    "refs": [
+      "Dan 5:1-31",
+      "Dan 7:1",
+      "Dan 8:1"
+    ],
+    "books": [
+      "Dan"
+    ]
+  },
+  {
+    "id": "darius-the-mede",
+    "names": {
+      "primary": "Darius the Mede",
+      "original": "דָּרְיָוֶשׁ מָדָיָא",
+      "aliases": [
+        "Darius son of Ahasuerus"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "exile",
+      "return"
+    ],
+    "born": {
+      "year": -601,
+      "circa": true,
+      "confidence": "biblical"
+    },
+    "active": [
+      {
+        "year": -539,
+        "confidence": "debated"
+      },
+      {
+        "year": -538,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Media (under Persian rule)",
+    "placeIds": [
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Ruler over Babylon after its fall"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Receives the kingdom",
+        "year": -539,
+        "placeId": "babylon",
+        "refs": [
+          "Dan 5:31",
+          "Dan 9:1"
+        ],
+        "summary": "After Belshazzar's death Darius the Mede received the kingdom at about 62 years old. Daniel 9 says he was son of Ahasuerus, of Median descent, and was \"made king over the realm of the Chaldeans\"."
+      },
+      {
+        "title": "Appoints 120 satraps and promotes Daniel",
+        "placeId": "babylon",
+        "refs": [
+          "Dan 6:1-3"
+        ],
+        "summary": "He set 120 satraps (provincial governors) over the kingdom with three officials over them, including Daniel, whom he planned to set over the whole realm."
+      },
+      {
+        "title": "Tricked into the lions' den decree",
+        "placeId": "babylon",
+        "refs": [
+          "Dan 6:4-18"
+        ],
+        "summary": "Jealous officials persuaded him to forbid prayer to anyone but the king for thirty days. When Daniel kept praying, Darius was distressed but bound by his own law and had Daniel thrown to the lions, hoping Daniel's God would save him."
+      },
+      {
+        "title": "Rescues Daniel and praises his God",
+        "placeId": "babylon",
+        "refs": [
+          "Dan 6:19-28"
+        ],
+        "summary": "At dawn he found Daniel alive, had his accusers thrown in instead, and issued a decree that all should fear the living God of Daniel."
+      }
+    ],
+    "summary": "Darius the Mede is the ruler who takes over Babylon after Belshazzar's death in Daniel 5 and 6, and who reluctantly throws Daniel into the lions' den. He is a puzzle for historians: no ruler of that name between Nabonidus and Cyrus is known from Babylonian or Persian records, which show Cyrus ruling Babylon from 539 BC. Scholars disagree on whether he is another name for a known figure, or a literary figure. The main options are set out below.",
+    "textSays": "He is a Mede, son of Ahasuerus, aged about 62 when he received the kingdom (Dan 5:31; Dan 9:1). He organised the realm under 120 satraps (Dan 6:1). Daniel says he prospered \"in the reign of Darius and in the reign of Cyrus the Persian\" (Dan 6:28). The angel speaks of standing beside him in his first year (Dan 11:1).",
+    "interpretations": [
+      {
+        "tradition": "Gubaru (Gobryas) identification",
+        "view": "J. C. Whitcomb (1959) and others identify him with Gubaru, whom the Nabonidus Chronicle says Cyrus appointed to name officials in Babylon, and who is attested as governor of Babylon and Beyond the River for years afterward. Support: a real high official under Cyrus who could be called \"made king\". Difficulty: no source calls Gubaru a Mede, Darius, or king."
+      },
+      {
+        "tradition": "Ugbaru identification",
+        "view": "Some identify him with Ugbaru, governor of Gutium, who led the army that took Babylon and, on one reading of the Nabonidus Chronicle, died within weeks. This would explain his short role. Difficulty: no source gives him the name Darius or royal rank, and the chronicle's Ugbaru and Gubaru may be confused."
+      },
+      {
+        "tradition": "Cyrus himself",
+        "view": "D. J. Wiseman (1965) proposed that Dan 6:28 be read \"in the reign of Darius, that is, the reign of Cyrus the Persian\", making Darius a throne name of Cyrus. Support: Cyrus's mother is said to be Median and he was about 62 in 539 BC. Difficulty: Cyrus's father was Cambyses, not Ahasuerus, and Daniel calls Darius a Mede and Cyrus a Persian."
+      },
+      {
+        "tradition": "Cyaxares II",
+        "view": "Following the Greek writer Xenophon (*Cyropaedia*) and Josephus (*Antiquities* 10.248), some identify him with a Median king Cyaxares, uncle of Cyrus. Difficulty: Herodotus and Babylonian sources do not know such a king, and many historians doubt Xenophon's account here."
+      },
+      {
+        "tradition": "Critical scholarship",
+        "view": "Most critical scholars see Darius the Mede as a literary figure. Daniel's scheme of four kingdoms runs Babylon, Media, Persia, Greece, so a Median ruler was needed between Babylon and Persia. Features of Darius I (the 120 satraps recall his reorganisation of the empire; his father was not Ahasuerus, but Xerxes/Ahasuerus was his son) may have been blended in. On this view the narrative is theological, not a historical record."
+      }
+    ],
+    "context": "The identification is debated. Babylonian business documents are dated by Cyrus's reign from late 539 BC, leaving no gap for another king. Defenders of historicity answer that Darius may have been a sub-ruler or used a different name in Babylonian records; critics answer that the text calls him king and dates events by his years.",
+    "voice": "Grave and conscientious, a ruler who respects law so much that he is trapped by it, and who speaks to Daniel with real anxiety and hope.",
+    "refs": [
+      "Dan 5:31",
+      "Dan 6:1-28",
+      "Dan 9:1",
+      "Dan 11:1"
+    ],
+    "books": [
+      "Dan"
+    ]
+  },
+  {
+    "id": "merodach-baladan",
+    "names": {
+      "primary": "Merodach-baladan",
+      "original": "מְרֹדַךְ בַּלְאֲדָן",
+      "meaning": "Akkadian Marduk-apla-iddina, \"Marduk has given an heir\"",
+      "aliases": [
+        "Berodach-baladan",
+        "Marduk-apla-iddina II"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -721,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -703,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Chaldean (southern Babylonia)",
+    "placeIds": [
+      "babylon",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King of Babylon",
+      "Leader of resistance to Assyria"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Sends envoys to Hezekiah",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 20:12-13",
+          "Isa 39:1-2",
+          "2 Chr 32:31"
+        ],
+        "summary": "Hearing that Hezekiah had recovered from illness, he sent letters and a gift. Hezekiah showed the envoys his whole treasury and armoury."
+      },
+      {
+        "title": "Isaiah's warning",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Kgs 20:14-19",
+          "Isa 39:3-8"
+        ],
+        "summary": "Isaiah told Hezekiah that everything he had shown would one day be carried to Babylon, and some of his descendants would serve in the king of Babylon's palace."
+      }
+    ],
+    "summary": "Merodach-baladan was a Chaldean chieftain who twice seized the throne of Babylon in defiance of Assyria, from 721 to 710 BC and again briefly in 703 BC. He looked for allies in the west, which is the likely reason he sent envoys to King Hezekiah of Judah. Hezekiah's eager welcome drew Isaiah's warning that Judah's treasures would one day go to Babylon.",
+    "textSays": "He is called son of Baladan, king of Babylon (Isa 39:1). Some manuscripts of 2 Kings spell the name Berodach-baladan (2 Kgs 20:12). Chronicles says God left Hezekiah to test him in the matter of the envoys (2 Chr 32:31).",
+    "interpretations": [
+      {
+        "tradition": "Historians",
+        "view": "Most think the embassy was diplomatic, seeking Judah's support for an anti-Assyrian alliance, with Hezekiah's recovery as the polite reason (scholarly-consensus)."
+      }
+    ],
+    "context": "He is well attested in Assyrian records (scholarly-consensus). Sargon II's annals describe driving him out of Babylon around 710 BC, and Sennacherib's annals describe defeating him in 703 BC. A carved boundary stone (kudurru) of Marduk-apla-iddina survives in Berlin. The date of the embassy to Hezekiah is debated: many place it around 703 BC just before Sennacherib's invasion; others prefer about 712 BC, during his first reign.",
+    "voice": "Smooth and flattering, a political survivor who wraps a request for allies in congratulations on good health.",
+    "refs": [
+      "2 Kgs 20:12-19",
+      "Isa 39:1-8",
+      "2 Chr 32:31"
+    ],
+    "books": [
+      "2 Kgs",
+      "2 Chr",
+      "Isa"
+    ]
+  },
+  {
+    "id": "darius-i",
+    "names": {
+      "primary": "Darius I (the Great)",
+      "original": "דָּרְיָוֶשׁ",
+      "meaning": "Old Persian Dārayavauš, \"he who holds firm the good\"",
+      "aliases": [
+        "Darius the Great",
+        "Darius son of Hystaspes"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "born": {
+      "year": -550,
+      "circa": true,
+      "confidence": "scholarly-consensus"
+    },
+    "active": [
+      {
+        "year": -522,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -486,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -486,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Persia",
+    "placeIds": [
+      "babylon",
+      "susa",
+      "persepolis",
+      "ecbatana",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [
+        "ahasuerus"
+      ],
+      "siblings": []
+    },
+    "roles": [
+      "King of Persia",
+      "Patron of the second temple's completion"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Haggai and Zechariah date their prophecies by his reign",
+        "year": -520,
+        "placeId": "jerusalem",
+        "refs": [
+          "Hag 1:1",
+          "Zech 1:1",
+          "Ezra 4:24",
+          "Ezra 5:1-2"
+        ],
+        "summary": "In his second year (520 BC) the prophets Haggai and Zechariah urged Zerubbabel and Joshua to restart the stalled temple building."
+      },
+      {
+        "title": "Tattenai's inquiry",
+        "placeId": "jerusalem",
+        "refs": [
+          "Ezra 5:3-17"
+        ],
+        "summary": "Tattenai, governor of the province Beyond the River, asked who had authorised the building and wrote to Darius asking him to search the archives for Cyrus's decree."
+      },
+      {
+        "title": "Finds Cyrus's decree and confirms it",
+        "placeId": "ecbatana",
+        "refs": [
+          "Ezra 6:1-12"
+        ],
+        "summary": "The scroll was found at Ecbatana (Achmetha). Darius ordered the work to proceed, paid from royal taxes, supplied sacrifices, and threatened anyone who interfered."
+      },
+      {
+        "title": "The temple finished",
+        "year": -515,
+        "placeId": "jerusalem",
+        "refs": [
+          "Ezra 6:13-18"
+        ],
+        "summary": "The temple was completed on the 3rd of Adar in his sixth year (515 BC) and dedicated with joy."
+      }
+    ],
+    "summary": "Darius I took the Persian throne in 522 BC after a period of revolt and ruled until 486 BC. He organised the empire into provinces called satrapies, built Persepolis, and fought the Greeks at Marathon. In the Bible he is the king under whom the Jerusalem temple was finally completed in 515 BC, after he confirmed Cyrus's earlier permission.",
+    "textSays": "Ezra, Haggai and Zechariah date events by his years (Hag 1:1; Hag 2:10; Zech 1:7; Zech 7:1). His decree asks the Jews to pray for the life of the king and his sons (Ezra 6:10). A \"Darius the Persian\" in Neh 12:22 is probably a later king, Darius II (debated).",
+    "interpretations": [
+      {
+        "tradition": "Historians",
+        "view": "His support for local temples fits wider Persian policy: they backed local cults that kept order and paid taxes, as also seen in Egypt (scholarly-consensus)."
+      },
+      {
+        "tradition": "Jewish and Christian readers",
+        "view": "Read as an example of God moving foreign rulers to fulfil promises to his people, alongside Cyrus."
+      }
+    ],
+    "context": "Darius I is very well documented (scholarly-consensus). His Behistun inscription, carved on a cliff in western Iran in three languages, tells how he took power. Thousands of administrative tablets from Persepolis show the empire's bureaucracy. A Babylonian document dated 502 BC names Tattenai (Tattanu) as governor of Beyond the River, matching Ezra 5:3 (scholarly-consensus).",
+    "voice": "Orderly and legal-minded, a king who wants to see the paperwork, then backs it with the full weight of royal authority.",
+    "refs": [
+      "Ezra 4:24",
+      "Ezra 5:1-6:22",
+      "Hag 1:1",
+      "Hag 2:10",
+      "Zech 1:1",
+      "Zech 7:1"
+    ],
+    "books": [
+      "Ezra",
+      "Neh",
+      "Hag",
+      "Zech"
+    ]
+  },
+  {
+    "id": "artaxerxes-i",
+    "names": {
+      "primary": "Artaxerxes I",
+      "original": "אַרְתַּחְשַׁסְתְּא",
+      "meaning": "Old Persian Artaxšaça, \"whose rule is through truth\"",
+      "aliases": [
+        "Artaxerxes Longimanus",
+        "Artaxerxes Long-hand"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -465,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -424,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -424,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Persia",
+    "placeIds": [
+      "susa",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [
+        "ahasuerus"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King of Persia",
+      "Sponsor of Ezra and Nehemiah"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Halts the rebuilding of Jerusalem's walls",
+        "placeId": "jerusalem",
+        "refs": [
+          "Ezra 4:7-23"
+        ],
+        "summary": "Officials in Samaria wrote warning that Jerusalem had a history of rebellion. Artaxerxes had the records checked and ordered the work stopped until he gave further orders."
+      },
+      {
+        "title": "Commissions Ezra",
+        "year": -458,
+        "placeId": "jerusalem",
+        "refs": [
+          "Ezra 7:1-28"
+        ],
+        "summary": "In his seventh year he issued a letter sending Ezra the scribe to Jerusalem with funds and authority to teach and enforce the law of God."
+      },
+      {
+        "title": "Sends Nehemiah to rebuild the walls",
+        "year": -445,
+        "placeId": "susa",
+        "refs": [
+          "Neh 2:1-8"
+        ],
+        "summary": "In his twentieth year he noticed his cupbearer Nehemiah's sad face, asked what he wanted, and granted him leave, letters and timber to rebuild Jerusalem."
+      },
+      {
+        "title": "Nehemiah returns to court",
+        "year": -433,
+        "placeId": "susa",
+        "refs": [
+          "Neh 5:14",
+          "Neh 13:6"
+        ],
+        "summary": "Nehemiah served as governor from the 20th to the 32nd year of Artaxerxes, then returned to the king before coming back to Jerusalem."
+      }
+    ],
+    "summary": "Artaxerxes I, son of Xerxes, ruled Persia from 465 to 424 BC. He first ordered work on Jerusalem's walls to stop, but later sent Nehemiah, his own cupbearer, to rebuild them in 445 BC. Most scholars also place Ezra's mission in his seventh year, 458 BC, though some date Ezra to Artaxerxes II.",
+    "textSays": "The king's letter to Ezra calls Ezra \"scribe of the law of the God of heaven\" and exempts temple staff from tax (Ezra 7:12; Ezra 7:24). Nehemiah prayed before answering the king (Neh 2:4) and noted the queen sitting beside him (Neh 2:6).",
+    "interpretations": [
+      {
+        "tradition": "Traditional dating",
+        "view": "Ezra came in 458 BC (seventh year of Artaxerxes I) and Nehemiah in 445 BC, so their ministries overlapped as the text presents (Neh 8:9)."
+      },
+      {
+        "tradition": "Alternative dating",
+        "view": "Some scholars, following A. Van Hoonacker, place Ezra in the seventh year of Artaxerxes II (398 BC), after Nehemiah; others emend the year to the 37th of Artaxerxes I (428 BC). This is debated."
+      }
+    ],
+    "context": "The Elephantine papyri, letters from a Jewish garrison in Egypt dated 407 BC, mention Johanan the high priest in Jerusalem (cf. Neh 12:22) and the sons of Sanballat, governor of Samaria. This fits Nehemiah's work under Artaxerxes I a generation earlier rather than under Artaxerxes II (scholarly-consensus).",
+    "voice": "Reserved and watchful, a ruler who notices a servant's face, asks a direct question, and expects a precise answer with a timetable.",
+    "refs": [
+      "Ezra 4:7-23",
+      "Ezra 7:1-28",
+      "Neh 2:1-8",
+      "Neh 5:14",
+      "Neh 13:6"
+    ],
+    "books": [
+      "Ezra",
+      "Neh"
+    ]
+  },
+  {
+    "id": "ahasuerus",
+    "names": {
+      "primary": "Ahasuerus (Xerxes I)",
+      "original": "אֲחַשְׁוֵרוֹשׁ",
+      "meaning": "Hebrew form of Old Persian Xšayāršā, \"ruler over heroes\"",
+      "aliases": [
+        "Xerxes I",
+        "Artaxerxes (in the Greek Esther)"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "born": {
+      "year": -518,
+      "circa": true,
+      "confidence": "scholarly-consensus"
+    },
+    "active": [
+      {
+        "year": -486,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -465,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -465,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Persia",
+    "placeIds": [
+      "susa",
+      "persepolis",
+      "india",
+      "ethiopia"
+    ],
+    "family": {
+      "parents": [
+        "darius-i"
+      ],
+      "spouses": [
+        "vashti",
+        "esther"
+      ],
+      "children": [
+        "artaxerxes-i"
+      ],
+      "siblings": []
+    },
+    "roles": [
+      "King of Persia",
+      "Husband of Esther"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "The great banquet and Vashti's refusal",
+        "year": -483,
+        "placeId": "susa",
+        "refs": [
+          "Esth 1:1-22"
+        ],
+        "summary": "In his third year he displayed his wealth for 180 days and held a seven-day feast at Susa. When Queen Vashti refused to appear at his command, he deposed her on his advisers' counsel."
+      },
+      {
+        "title": "Makes Esther queen",
+        "year": -479,
+        "placeId": "susa",
+        "refs": [
+          "Esth 2:1-18"
+        ],
+        "summary": "After a search for young women, he chose Esther in his seventh year and set the royal crown on her head."
+      },
+      {
+        "title": "Approves Haman's decree",
+        "year": -474,
+        "placeId": "susa",
+        "refs": [
+          "Esth 3:8-15"
+        ],
+        "summary": "In his twelfth year he gave Haman his signet ring and allowed a decree to destroy the Jews across the empire."
+      },
+      {
+        "title": "Honours Mordecai and executes Haman",
+        "placeId": "susa",
+        "refs": [
+          "Esth 6:1-11",
+          "Esth 7:1-10"
+        ],
+        "summary": "Unable to sleep, he heard how Mordecai had saved his life and had Haman honour him. At Esther's second banquet he learned of Haman's plot and had him hanged on the gallows built for Mordecai."
+      },
+      {
+        "title": "Allows the Jews to defend themselves",
+        "placeId": "susa",
+        "refs": [
+          "Esth 8:7-14",
+          "Esth 10:1-3"
+        ],
+        "summary": "Since a Persian decree could not be revoked, he authorised a second decree letting the Jews defend themselves, and raised Mordecai to second in the kingdom."
+      }
+    ],
+    "summary": "Ahasuerus is the Persian king of the book of Esther, who ruled an empire \"from India to Cush\". Most scholars identify him with Xerxes I (486-465 BC), son of Darius I, known from Greek history for invading Greece in 480 BC. In Esther he is powerful but easily steered: he deposes Vashti, makes Esther queen, approves Haman's plan to destroy the Jews, then reverses course when Esther reveals the plot.",
+    "textSays": "He ruled 127 provinces from Susa (Esth 1:1-2). Ezra mentions an accusation against Judah at the start of his reign (Ezra 4:6). A different Ahasuerus is named as the father of Darius the Mede (Dan 9:1).",
+    "interpretations": [
+      {
+        "tradition": "Historical identification",
+        "view": "The Hebrew name corresponds to the Persian Xšayāršā (Greek Xerxes), so the identification with Xerxes I is scholarly-consensus. The Greek translation of Esther calls him Artaxerxes."
+      },
+      {
+        "tradition": "Historicity of Esther",
+        "view": "Some scholars read Esther as broadly historical: its picture of Susa's palace, the postal system and court customs fits Persian evidence, and the gap between the third and seventh years fits Xerxes' Greek campaign (Herodotus 7.8; 9.108). Others read it as a historical novella: Herodotus names Xerxes' queen as Amestris, not Vashti or Esther, and no Persian source mentions the events. This is debated; some identify Vashti with Amestris."
+      },
+      {
+        "tradition": "Jewish",
+        "view": "In rabbinic tradition he is a foolish and fickle king; the Talmud debates whether he was clever or foolish (Babylonian Talmud, Megillah 12a)."
+      }
+    ],
+    "context": "Xerxes I is well documented in Persian inscriptions at Persepolis and in Herodotus's *Histories* (scholarly-consensus). A Babylonian tablet from his reign mentions an official named Marduka at Susa; some suggest this is Mordecai, but the name was common (speculative).",
+    "voice": "Grand, impulsive and easily flattered, quick to anger and quick to reward; he speaks in decrees and expects them to settle everything.",
+    "refs": [
+      "Esth 1:1-10:3",
+      "Ezra 4:6"
+    ],
+    "books": [
+      "Esth",
+      "Ezra"
+    ]
+  },
+  {
+    "id": "haman",
+    "names": {
+      "primary": "Haman",
+      "original": "הָמָן",
+      "aliases": [
+        "Haman the Agagite",
+        "Haman son of Hammedatha"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -474,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -473,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "died": {
+      "year": -474,
+      "circa": true,
+      "confidence": "debated"
+    },
+    "nation": "Persia (described as an Agagite)",
+    "placeIds": [
+      "susa"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Chief minister of Ahasuerus",
+      "Enemy of the Jews"
+    ],
+    "occupations": [
+      "royal official"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Promoted, but Mordecai will not bow",
+        "placeId": "susa",
+        "refs": [
+          "Esth 3:1-6"
+        ],
+        "summary": "The king raised Haman above all officials and commanded everyone to bow to him. Mordecai refused, and Haman, enraged, resolved to destroy all of Mordecai's people."
+      },
+      {
+        "title": "Casts lots and wins the decree",
+        "placeId": "susa",
+        "refs": [
+          "Esth 3:7-15"
+        ],
+        "summary": "He cast pur (lots) to choose the day, offered the king 10,000 talents of silver, and sent out a decree to kill all Jews on the 13th of Adar."
+      },
+      {
+        "title": "Builds a gallows; forced to honour Mordecai",
+        "placeId": "susa",
+        "refs": [
+          "Esth 5:9-14",
+          "Esth 6:1-13"
+        ],
+        "summary": "On his wife Zeresh's advice he built a tall gallows for Mordecai. Next morning the king made him lead Mordecai through the city in royal honour."
+      },
+      {
+        "title": "Exposed and hanged",
+        "placeId": "susa",
+        "refs": [
+          "Esth 7:1-10"
+        ],
+        "summary": "At Esther's banquet she named him as the enemy. He was hanged on the gallows he had prepared. His ten sons were later killed (Esth 9:7-14)."
+      }
+    ],
+    "summary": "Haman was the chief minister of King Ahasuerus. Insulted when the Jew Mordecai refused to bow to him, he plotted to kill every Jew in the Persian Empire on a day chosen by lot. Queen Esther exposed his plan, and he was executed on the gallows he had built for Mordecai. The Jewish festival of Purim, named after the lots he cast, celebrates the reversal.",
+    "textSays": "He is called \"the Agagite\" and \"the enemy of the Jews\" (Esth 3:1; Esth 3:10). His wife was Zeresh (Esth 5:10). The festival name Purim comes from pur, the lot he cast (Esth 9:24-26).",
+    "interpretations": [
+      {
+        "tradition": "Jewish",
+        "view": "\"Agagite\" is read as descent from Agag, the Amalekite king Saul spared (1 Sam 15:8-9), while Mordecai is a Benjaminite like Saul (Esth 2:5). The story then replays the old conflict with Amalek. At Purim readings, congregations drown out Haman's name with noise (tradition)."
+      },
+      {
+        "tradition": "Historical-critical",
+        "view": "Many scholars think \"Agagite\" is a literary signal of that ancient enmity rather than a precise genealogy; some suggest a Persian place or family name. This is debated."
+      },
+      {
+        "tradition": "Christian",
+        "view": "Haman is often read as a type of pride and of hatred toward God's people, destroyed by his own scheme (cf. Ps 7:15-16)."
+      }
+    ],
+    "voice": "Vain and self-pitying, a man who lists his honours and then says none of it satisfies him while one man refuses to bow.",
+    "refs": [
+      "Esth 3:1-15",
+      "Esth 5:9-14",
+      "Esth 6:1-14",
+      "Esth 7:1-10",
+      "Esth 9:24-26"
+    ],
+    "books": [
+      "Esth"
+    ],
+    "traditions": [
+      {
+        "text": "During the public reading of the scroll of Esther at Purim, listeners make noise with rattles (groggers) at each mention of Haman's name to blot it out.",
+        "source": "Jewish liturgical custom, recorded in medieval sources and later codes",
+        "confidence": "tradition"
+      }
+    ]
+  },
+  {
+    "id": "vashti",
+    "names": {
+      "primary": "Vashti",
+      "original": "וַשְׁתִּי",
+      "meaning": "Possibly from Persian, \"the best\" or \"the beloved\" (uncertain)",
+      "aliases": [
+        "Queen Vashti"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -483,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -483,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Persia",
+    "placeIds": [
+      "susa"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [
+        "ahasuerus"
+      ],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Queen of Persia"
+    ],
+    "occupations": [
+      "queen"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Refuses the king's summons",
+        "year": -483,
+        "placeId": "susa",
+        "refs": [
+          "Esth 1:9-12"
+        ],
+        "summary": "While hosting her own banquet for women, she refused the drunken king's command to appear in her crown to show the guests her beauty."
+      },
+      {
+        "title": "Deposed by decree",
+        "year": -483,
+        "placeId": "susa",
+        "refs": [
+          "Esth 1:13-22",
+          "Esth 2:1-4"
+        ],
+        "summary": "The king's advisers warned her example would lead wives everywhere to despise their husbands, so a decree removed her as queen, opening the way for Esther."
+      }
+    ],
+    "summary": "Vashti was the queen of Ahasuerus at the opening of the book of Esther. When the king, merry with wine, ordered her to appear before his guests, she refused. She was deposed, and the search for a new queen brought Esther into the palace.",
+    "textSays": "The text gives no reason for her refusal and no judgment on it; it reports the advisers' fear that other wives would follow her lead (Esth 1:17-18).",
+    "interpretations": [
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Some midrash portrays her negatively, as a granddaughter of Nebuchadnezzar who mistreated Jewish women, and suggests she was asked to appear wearing only her crown (tradition, Babylonian Talmud Megillah 12b)."
+      },
+      {
+        "tradition": "Modern and feminist readings",
+        "view": "Many readers see her as a woman of dignity who refused to be displayed as property, and contrast her open refusal with Esther's quieter strategy."
+      },
+      {
+        "tradition": "Historical",
+        "view": "Herodotus names Xerxes' queen as Amestris; some identify her with Vashti, others think Vashti is a figure of the story only (debated)."
+      }
+    ],
+    "voice": "Composed and unbending, a queen who answers a public humiliation with a short, firm no.",
+    "refs": [
+      "Esth 1:9-22",
+      "Esth 2:1-4",
+      "Esth 2:17"
+    ],
+    "books": [
+      "Esth"
+    ]
+  },
+  {
+    "id": "sanballat",
+    "names": {
+      "primary": "Sanballat the Horonite",
+      "original": "סַנְבַלַּט",
+      "meaning": "Akkadian Sin-uballit, \"Sin (the moon god) has given life\"",
+      "aliases": [
+        "Sanballat I"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -445,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -432,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Samaria (Persian province)",
+    "placeIds": [
+      "samaria",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Governor of Samaria",
+      "Opponent of Nehemiah"
+    ],
+    "occupations": [
+      "governor"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Displeased at Nehemiah's arrival",
+        "year": -445,
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 2:10",
+          "Neh 2:19"
+        ],
+        "summary": "He was deeply displeased that someone had come to seek the welfare of Israel, and with Tobiah and Geshem mocked the builders and accused them of rebellion."
+      },
+      {
+        "title": "Ridicules the wall and plots attack",
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 4:1-8"
+        ],
+        "summary": "Before the army of Samaria he scoffed at \"these feeble Jews\". When the wall rose, he and allies plotted to attack, and Nehemiah posted armed guards."
+      },
+      {
+        "title": "Tries to lure and discredit Nehemiah",
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 6:1-14"
+        ],
+        "summary": "He invited Nehemiah four times to a meeting in the plain of Ono, sent an open letter alleging he wanted to be king, and with Tobiah hired a prophet to frighten him into hiding in the temple."
+      },
+      {
+        "title": "His son-in-law expelled",
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 13:28"
+        ],
+        "summary": "A grandson of the high priest Eliashib had married Sanballat's daughter; Nehemiah drove him away."
+      }
+    ],
+    "summary": "Sanballat was the Persian-appointed governor of Samaria, the province north of Judah, and Nehemiah's chief opponent. He mocked the rebuilding of Jerusalem's walls, threatened attack, spread rumours that Nehemiah planned rebellion, and tried to lure him into a trap. A fortified Jerusalem threatened his influence in the region.",
+    "textSays": "He is called the Horonite (Neh 2:10), perhaps from Beth-horon near Jerusalem or Horonaim in Moab (debated). His family was tied by marriage to the high priest's family (Neh 13:28).",
+    "interpretations": [
+      {
+        "tradition": "Historians",
+        "view": "Most see the conflict as political: Samaria's governor had influence in Judah before Nehemiah came and lost it as Judah became a stronger province (scholarly-consensus on the broad picture)."
+      },
+      {
+        "tradition": "Devotional",
+        "view": "His tactics of mockery, threats, distraction and slander are often used as a study in the kinds of opposition faced by anyone doing a good work."
+      }
+    ],
+    "context": "A papyrus from the Jewish community at Elephantine in Egypt, dated 407 BC, refers to \"Delaiah and Shelemiah, the sons of Sanballat governor of Samaria\" (scholarly-consensus). Papyri from Wadi Daliyeh near Jericho show that later governors of Samaria in the 300s BC also bore the name Sanballat.",
+    "voice": "Sneering and theatrical in public, smooth and conspiratorial in private, always framing his opposition as loyalty to the king.",
+    "refs": [
+      "Neh 2:10",
+      "Neh 2:19",
+      "Neh 4:1-8",
+      "Neh 6:1-14",
+      "Neh 13:28"
+    ],
+    "books": [
+      "Neh"
+    ]
+  },
+  {
+    "id": "tobiah",
+    "names": {
+      "primary": "Tobiah the Ammonite",
+      "original": "טוֹבִיָּה",
+      "meaning": "The LORD is good",
+      "aliases": [
+        "Tobiah the servant (official)"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -445,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -432,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Ammon (Persian district east of the Jordan)",
+    "placeIds": [
+      "ammon",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Official in Ammon",
+      "Opponent of Nehemiah"
+    ],
+    "occupations": [
+      "royal official"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Mocks the wall",
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 2:10",
+          "Neh 4:3"
+        ],
+        "summary": "Standing beside Sanballat he jeered that if even a fox climbed on the wall it would break it down."
+      },
+      {
+        "title": "Uses family ties to pressure Nehemiah",
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 6:17-19"
+        ],
+        "summary": "Many nobles of Judah were bound to him by oath because of marriages, and they reported his good deeds to Nehemiah while he sent letters to frighten him."
+      },
+      {
+        "title": "Thrown out of the temple storeroom",
+        "year": -432,
+        "placeId": "jerusalem",
+        "refs": [
+          "Neh 13:4-9"
+        ],
+        "summary": "While Nehemiah was away, the priest Eliashib gave Tobiah a large room in the temple courts. On returning, Nehemiah threw his furniture out and had the rooms purified."
+      }
+    ],
+    "summary": "Tobiah, called \"the Ammonite\" and \"the servant\", was an official, probably in charge of the Ammonite region, who joined Sanballat in opposing Nehemiah. He had a Yahwistic name, meaning \"the LORD is good\", and close marriage ties with Jerusalem's leading families, which made him an insider-outsider. Nehemiah eventually evicted him from a room in the temple itself.",
+    "textSays": "His son Jehohanan married the daughter of Meshullam, one of the wall builders, and Tobiah himself married into the family of Shecaniah (Neh 6:18). He was related to the priest Eliashib (Neh 13:4).",
+    "interpretations": [
+      {
+        "tradition": "Historians",
+        "view": "\"Servant\" (Hebrew ʿebed) may be an official title, \"servant of the king\", rather than an insult. Many link him to the later Tobiad family, powerful in the Ammonite region in the 200s BC according to the Zenon papyri and the remains at Iraq al-Amir in Jordan; the family link is plausible but debated."
+      }
+    ],
+    "voice": "Witty and cutting, with the easy confidence of a well-connected man who knows whom to write to and whom to flatter.",
+    "refs": [
+      "Neh 2:10",
+      "Neh 2:19",
+      "Neh 4:3",
+      "Neh 6:17-19",
+      "Neh 13:4-9"
+    ],
+    "books": [
+      "Neh"
+    ]
+  },
+  {
+    "id": "sheshbazzar",
+    "names": {
+      "primary": "Sheshbazzar",
+      "original": "שֵׁשְׁבַּצַּר",
+      "meaning": "Probably Babylonian, perhaps \"Sin (or Shamash) protect the father\" (uncertain)",
+      "aliases": [
+        "Prince of Judah"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "return"
+    ],
+    "active": [
+      {
+        "year": -538,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -537,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "babylon",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prince of Judah",
+      "First governor of the returned exiles"
+    ],
+    "occupations": [
+      "governor"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Receives the temple vessels",
+        "year": -538,
+        "placeId": "babylon",
+        "refs": [
+          "Ezra 1:7-11"
+        ],
+        "summary": "Cyrus had his treasurer count out the temple vessels Nebuchadnezzar had taken, 5,400 items of gold and silver, and give them to Sheshbazzar, prince of Judah, to bring to Jerusalem."
+      },
+      {
+        "title": "Lays the temple foundation",
+        "placeId": "jerusalem",
+        "refs": [
+          "Ezra 5:14-16"
+        ],
+        "summary": "Years later the elders told the Persian governor that Cyrus had made Sheshbazzar governor and that he had laid the foundation of the house of God."
+      }
+    ],
+    "summary": "Sheshbazzar was the \"prince of Judah\" whom Cyrus made governor and entrusted with the temple treasures for the first return from Babylon in 538 BC. He is said to have laid the temple's foundations. He then drops out of the story, and Zerubbabel leads the community. Who he was exactly is debated.",
+    "textSays": "Ezra 3 credits Zerubbabel and Joshua with laying the foundation (Ezra 3:8-10), while Ezra 5 credits Sheshbazzar (Ezra 5:16).",
+    "interpretations": [
+      {
+        "tradition": "Same person as Zerubbabel",
+        "view": "Older commentators often held that Sheshbazzar was Zerubbabel's Babylonian name, which would explain why both are credited with the foundation. Critics note the Aramaic letter seems to speak of him as a figure of the past."
+      },
+      {
+        "tradition": "Shenazzar son of Jeconiah",
+        "view": "Many scholars identify him with Shenazzar, son of King Jehoiachin (1 Chr 3:18), making him Zerubbabel's uncle. The names may be two spellings of one Babylonian name. This is debated."
+      },
+      {
+        "tradition": "Separate official",
+        "view": "Others see him as a distinct Judean leader who began the work, with Zerubbabel later completing it under Darius."
+      }
+    ],
+    "voice": "Dignified and careful, a steward who counts every bowl and knife twice before the long road home.",
+    "refs": [
+      "Ezra 1:8-11",
+      "Ezra 5:14-16"
+    ],
+    "books": [
+      "Ezra"
+    ]
+  },
+  {
+    "id": "tiglath-pileser-iii",
+    "names": {
+      "primary": "Tiglath-pileser III",
+      "original": "תִּגְלַת פִּלְאֶסֶר",
+      "meaning": "Akkadian Tukultī-apil-Ešarra, \"my trust is in the son of Esharra\"",
+      "aliases": [
+        "Pul",
+        "Tilgath-pilneser",
+        "Pulu"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -745,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -727,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -727,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Assyria",
+    "placeIds": [
+      "assyria",
+      "nineveh",
+      "damascus",
+      "samaria",
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [
+        "shalmaneser-v"
+      ],
+      "siblings": []
+    },
+    "roles": [
+      "King of Assyria",
+      "Founder of the Assyrian empire's western expansion"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Takes tribute from Menahem",
+        "year": -738,
+        "placeId": "samaria",
+        "refs": [
+          "2 Kgs 15:19-20"
+        ],
+        "summary": "As \"Pul\" he came against Israel; Menahem paid him a thousand talents of silver, raised by a levy on wealthy men, to secure his own throne."
+      },
+      {
+        "title": "Answers Ahaz's appeal for help",
+        "year": -734,
+        "refs": [
+          "2 Kgs 16:7-9",
+          "2 Chr 28:16-21"
+        ],
+        "summary": "Attacked by Aram and Israel, Ahaz of Judah sent temple silver and gold, calling himself the Assyrian king's \"servant and son\". Chronicles adds that the alliance brought Judah trouble rather than strength."
+      },
+      {
+        "title": "Conquers Galilee and deports Israelites",
+        "year": -733,
+        "refs": [
+          "2 Kgs 15:29",
+          "1 Chr 5:26"
+        ],
+        "summary": "In the days of Pekah he captured towns of northern Israel, Gilead, Galilee and Naphtali, and deported their people to Assyria, along with Reuben, Gad and half of Manasseh."
+      },
+      {
+        "title": "Captures Damascus",
+        "year": -732,
+        "placeId": "damascus",
+        "refs": [
+          "2 Kgs 16:9-10"
+        ],
+        "summary": "He took Damascus, deported its people and killed King Rezin. Ahaz went to meet him there and copied the design of an altar he saw."
+      }
+    ],
+    "summary": "Tiglath-pileser III, also called Pul, made Assyria a true empire. From 745 to 727 BC he turned conquered lands into provinces and moved whole populations to break resistance. He took tribute from Israel's king Menahem, answered Judah's King Ahaz's plea for help, captured Damascus, and stripped Israel of Galilee and Gilead. His campaigns began the end of the northern kingdom.",
+    "textSays": "Kings uses both names, Pul (2 Kgs 15:19) and Tiglath-pileser (2 Kgs 15:29). Chronicles lists \"Pul king of Assyria\" and \"Tilgath-pilneser king of Assyria\" side by side (1 Chr 5:26), which most read as one person described twice. Isaiah's Immanuel prophecy belongs to the crisis that led Ahaz to call on him (Isa 7:1-17).",
+    "interpretations": [
+      {
+        "tradition": "Prophetic reading",
+        "view": "Isaiah presents Assyria as \"the rod of my anger\", a tool God uses to judge his people and then holds to account for its own arrogance (Isa 10:5-15)."
+      }
+    ],
+    "context": "His royal annals and summary inscriptions from Nimrud (Calah) name Menahem of Samaria and Jehoahaz (that is, Ahaz) of Judah among tribute payers, and say that the Israelites overthrew Pekah and that he installed Hoshea as king (scholarly-consensus). A Babylonian king list records his rule in Babylon under the name Pulu, confirming that Pul and Tiglath-pileser are the same king (scholarly-consensus).",
+    "voice": "Clipped and imperious, a conqueror who counts kingdoms in talents and deportees and speaks of kings as servants.",
+    "refs": [
+      "2 Kgs 15:19-20",
+      "2 Kgs 15:29",
+      "2 Kgs 16:7-10",
+      "1 Chr 5:6",
+      "1 Chr 5:26",
+      "2 Chr 28:16-21"
+    ],
+    "books": [
+      "2 Kgs",
+      "1 Chr",
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "shalmaneser-v",
+    "names": {
+      "primary": "Shalmaneser V",
+      "original": "שַׁלְמַנְאֶסֶר",
+      "meaning": "Akkadian Šulmānu-ašarēd, \"Shulmanu is foremost\"",
+      "aliases": [
+        "Ululayu (throne name in Babylon)"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -727,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -722,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -722,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Assyria",
+    "placeIds": [
+      "assyria",
+      "samaria"
+    ],
+    "family": {
+      "parents": [
+        "tiglath-pileser-iii"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King of Assyria",
+      "Besieger of Samaria"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Imprisons Hoshea and besieges Samaria",
+        "year": -725,
+        "placeId": "samaria",
+        "refs": [
+          "2 Kgs 17:3-6",
+          "2 Kgs 18:9-11"
+        ],
+        "summary": "Hoshea of Israel paid tribute, then stopped and sought help from Egypt. Shalmaneser imprisoned him, besieged Samaria for three years, and the city fell in Hoshea's ninth year."
+      }
+    ],
+    "summary": "Shalmaneser V, son of Tiglath-pileser III, ruled Assyria from 727 to 722 BC. When King Hoshea of Israel rebelled, he imprisoned him and laid siege to Samaria for three years. Samaria fell in 722 BC, ending the northern kingdom, though historians debate whether he or his successor Sargon II completed the conquest.",
+    "textSays": "Kings says \"the king of Assyria\" took Samaria and deported Israel (2 Kgs 17:6); it names Shalmaneser as the besieger (2 Kgs 18:9) and leaves the conqueror's name ambiguous.",
+    "interpretations": [
+      {
+        "tradition": "Who captured Samaria",
+        "view": "One view: Shalmaneser took the city in 722 BC, as the Babylonian Chronicle's note that he \"ravaged Samaria\" suggests, and died soon after. Another: Sargon II, who claims the conquest in his inscriptions, captured or recaptured it about 720 BC after a revolt. Many historians combine the two. This is debated."
+      }
+    ],
+    "context": "Few inscriptions survive from his short reign. The Babylonian Chronicle records that he ravaged the city of Šamara'in, usually identified with Samaria (scholarly-consensus on the reading, some debate on the identification). Josephus (*Antiquities* 9.283-287) preserves a tradition of his campaign against Tyre.",
+    "voice": "Stern and methodical, the voice of a siege commander prepared to wait three years.",
+    "refs": [
+      "2 Kgs 17:3-6",
+      "2 Kgs 18:9-11"
+    ],
+    "books": [
+      "2 Kgs"
+    ]
+  },
+  {
+    "id": "sargon-ii",
+    "names": {
+      "primary": "Sargon II",
+      "original": "סַרְגוֹן",
+      "meaning": "Akkadian Šarru-kēn, \"the king is legitimate\"",
+      "aliases": [
+        "Sargon"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -722,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -705,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "died": {
+      "year": -705,
+      "confidence": "scholarly-consensus"
+    },
+    "nation": "Assyria",
+    "placeIds": [
+      "assyria",
+      "samaria",
+      "ashdod",
+      "babylon"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [
+        "sennacherib"
+      ],
+      "siblings": []
+    },
+    "roles": [
+      "King of Assyria"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "His general takes Ashdod; Isaiah walks barefoot",
+        "year": -711,
+        "placeId": "ashdod",
+        "refs": [
+          "Isa 20:1-6"
+        ],
+        "summary": "When Sargon's commander (the tartan) captured Ashdod, Isaiah walked stripped and barefoot for three years as a sign that Egypt and Cush, whom Judah hoped would help, would be led away captive by Assyria."
+      }
+    ],
+    "summary": "Sargon II ruled Assyria from 722 to 705 BC and was the father of Sennacherib. He claims to have conquered Samaria and deported over 27,000 Israelites, and he crushed revolts in Philistia, including at Ashdod in 711 BC. The Bible names him only once, in Isaiah 20. For centuries he was known only from that verse, until his palace was found in the 1840s.",
+    "textSays": "Isaiah 20:1 is the only place Scripture names him, dating Isaiah's sign-act to the year Sargon's commander took Ashdod.",
+    "interpretations": [
+      {
+        "tradition": "Historians",
+        "view": "Many believe the unnamed \"king of Assyria\" who resettled foreigners in Samaria (2 Kgs 17:24) was Sargon, since his inscriptions describe bringing in other peoples (scholarly-consensus that Sargon did so; whether 2 Kgs 17:24 refers only to him is debated)."
+      }
+    ],
+    "context": "In 1843 the French consul Paul-Émile Botta excavated Sargon's capital, Dur-Sharrukin (modern Khorsabad), confirming a king known before only from Isaiah. His inscriptions claim the capture of Samaria and the deportation of 27,290 people (some copies 27,280), and describe the Ashdod campaign (scholarly-consensus on what the texts say; whether he or Shalmaneser V first took Samaria is debated).",
+    "voice": "Boastful and precise, reciting numbers of captives and conquered cities like entries in a ledger.",
+    "refs": [
+      "Isa 20:1-6"
+    ],
+    "books": [
+      "Isa"
+    ]
+  },
+  {
+    "id": "iddo",
+    "names": {
+      "primary": "Iddo the seer",
+      "original": "עִדּוֹ",
+      "meaning": "Possibly \"timely\" or \"his witness\" (uncertain)",
+      "aliases": [
+        "Iddo the prophet",
+        "Jedo"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "united-monarchy",
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -931,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -910,
+        "circa": true,
+        "confidence": "speculative"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Seer",
+      "Court chronicler"
+    ],
+    "occupations": [
+      "prophet",
+      "scribe"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Records the reigns of Solomon, Rehoboam and Abijah",
+        "refs": [
+          "2 Chr 9:29",
+          "2 Chr 12:15",
+          "2 Chr 13:22"
+        ],
+        "summary": "Chronicles cites \"the visions of Iddo the seer concerning Jeroboam\", the records of Shemaiah the prophet and Iddo the seer for Rehoboam, and \"the midrash (story) of the prophet Iddo\" for Abijah."
+      }
+    ],
+    "summary": "Iddo was a seer at the court of Judah in the time of Solomon, Rehoboam and Abijah. Chronicles cites his writings as sources three times, but none of them has survived. He shows that prophets also served as recorders of royal history. He is not the same person as Iddo the grandfather of the prophet Zechariah (Zech 1:1; Ezra 5:1).",
+    "textSays": "He is known only as an author whose works the Chronicler consulted (2 Chr 9:29; 2 Chr 12:15; 2 Chr 13:22).",
+    "interpretations": [
+      {
+        "tradition": "Jewish",
+        "view": "Some rabbinic and later sources identify him with the unnamed \"man of God from Judah\" who rebuked Jeroboam at Bethel (1 Kgs 13:1-10), linking him to Jeroboam through Josephus's name Jadon (tradition, uncertain)."
+      }
+    ],
+    "voice": "Observant and deliberate, a court historian who speaks like a man writing everything down.",
+    "refs": [
+      "2 Chr 9:29",
+      "2 Chr 12:15",
+      "2 Chr 13:22"
+    ],
+    "books": [
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "oded",
+    "names": {
+      "primary": "Oded the prophet",
+      "original": "עֹדֵד",
+      "meaning": "Possibly \"restorer\" (uncertain)",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -734,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -734,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Israel (northern kingdom)",
+    "placeIds": [
+      "samaria",
+      "jericho"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet in Samaria"
+    ],
+    "occupations": [
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Persuades Israel to free Judean captives",
+        "year": -734,
+        "placeId": "samaria",
+        "refs": [
+          "2 Chr 28:5-15"
+        ],
+        "summary": "When Pekah's army returned with 200,000 captives from Judah, Oded met them at Samaria and warned that God was angry at their excess and that they too were guilty. Leaders of Ephraim agreed; the captives were clothed, fed, anointed, and returned to Jericho."
+      }
+    ],
+    "summary": "Oded was a prophet in Samaria during the war of Israel and Aram against King Ahaz of Judah, around 734 BC. When Israel's army brought home a huge number of Judean captives, Oded confronted them: they had gone beyond judgment into cruelty. Remarkably, they listened, and the captives were cared for and sent home. Many see the scene behind Jesus' parable of the Good Samaritan.",
+    "textSays": "His speech calls the captives \"your brethren\" (2 Chr 28:11). The released captives were brought to Jericho, the city of palm trees (2 Chr 28:15). He is different from Oded the father of the prophet Azariah (2 Chr 15:1), although the Hebrew of 2 Chr 15:8 confusingly calls that prophecy \"of Oded the prophet\".",
+    "interpretations": [
+      {
+        "tradition": "Christian",
+        "view": "Many commentators note the parallels with the Good Samaritan: Samaritans, wounded people clothed, anointed, carried on donkeys toward Jericho (Luke 10:30-35). Whether Jesus intended the echo is debated."
+      }
+    ],
+    "voice": "Bold but appealing to conscience, a prophet who speaks to a victorious army as fellow sinners.",
+    "refs": [
+      "2 Chr 28:9-15"
+    ],
+    "books": [
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "hanani",
+    "names": {
+      "primary": "Hanani the seer",
+      "original": "חֲנָנִי",
+      "meaning": "Gracious (short form of Hananiah)",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -895,
+        "circa": true,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Later dating of Asa's 36th year",
+            "year": -875
+          }
+        ]
+      },
+      {
+        "year": -895,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [
+        "jehu-son-of-hanani"
+      ],
+      "siblings": []
+    },
+    "roles": [
+      "Seer",
+      "Prophet to King Asa"
+    ],
+    "occupations": [
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Rebukes Asa for relying on Aram",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 16:7-9"
+        ],
+        "summary": "When Asa paid Ben-hadad of Aram to attack Israel, Hanani told him he had relied on the king of Aram rather than the LORD, and reminded him that \"the eyes of the LORD run to and fro throughout the whole earth\" to support those whose hearts are true. From then on Asa would have wars."
+      },
+      {
+        "title": "Imprisoned",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 16:10"
+        ],
+        "summary": "Asa was enraged and put Hanani in the stocks, and oppressed some of the people at the same time."
+      }
+    ],
+    "summary": "Hanani was a seer who rebuked King Asa of Judah for trusting a foreign alliance instead of God. Asa had him locked in the stocks, making Hanani one of the first prophets imprisoned for his message. His son Jehu also became a prophet. He is not the Hanani who was Nehemiah's brother (Neh 1:2).",
+    "textSays": "He is called \"the seer\" (2 Chr 16:7) and is the father of the prophet Jehu (1 Kgs 16:1; 2 Chr 19:2).",
+    "context": "The date of Asa's 36th year (2 Chr 16:1) is a known chronological problem, since Baasha of Israel died earlier on the usual dating. Some count the years from the division of the kingdom, putting the events around 895 BC (debated).",
+    "voice": "Unflinching and plain, speaking the hard truth to a king who had once been faithful.",
+    "refs": [
+      "2 Chr 16:7-10",
+      "1 Kgs 16:1",
+      "2 Chr 19:2"
+    ],
+    "books": [
+      "1 Kgs",
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "jehu-son-of-hanani",
+    "names": {
+      "primary": "Jehu son of Hanani",
+      "original": "יֵהוּא",
+      "meaning": "The LORD is he",
+      "aliases": [
+        "Jehu the prophet",
+        "Jehu the seer"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -890,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -853,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Judah (prophesied in both kingdoms)",
+    "placeIds": [
+      "tirzah",
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [
+        "hanani"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet",
+      "Chronicler"
+    ],
+    "occupations": [
+      "prophet",
+      "scribe"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Pronounces judgment on Baasha",
+        "placeId": "tirzah",
+        "refs": [
+          "1 Kgs 16:1-7",
+          "1 Kgs 16:12"
+        ],
+        "summary": "He told Baasha king of Israel that because he walked in the ways of Jeroboam, his house would be swept away like Jeroboam's. It happened under Baasha's son Elah."
+      },
+      {
+        "title": "Rebukes Jehoshaphat",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 19:1-3"
+        ],
+        "summary": "When Jehoshaphat returned from fighting alongside Ahab, Jehu asked him, \"Should you help the wicked and love those who hate the LORD?\" but also commended the good in him."
+      },
+      {
+        "title": "Writes Jehoshaphat's history",
+        "refs": [
+          "2 Chr 20:34"
+        ],
+        "summary": "The acts of Jehoshaphat were written in \"the book of Jehu son of Hanani\", included in the book of the kings of Israel."
+      }
+    ],
+    "summary": "Jehu son of Hanani was a prophet whose ministry spanned decades and both kingdoms. He announced the downfall of Baasha's dynasty in Israel and later challenged King Jehoshaphat of Judah for allying with Ahab. He also wrote a history of Jehoshaphat's reign. He should not be confused with Jehu the king of Israel.",
+    "textSays": "He is the son of the seer Hanani (1 Kgs 16:1). His long career, from Baasha to Jehoshaphat, covers roughly forty years.",
+    "voice": "Grave and balanced, rebuking firmly while acknowledging what is good.",
+    "refs": [
+      "1 Kgs 16:1-7",
+      "1 Kgs 16:12",
+      "2 Chr 19:1-3",
+      "2 Chr 20:34"
+    ],
+    "books": [
+      "1 Kgs",
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "azariah-son-of-oded",
+    "names": {
+      "primary": "Azariah son of Oded",
+      "original": "עֲזַרְיָהוּ",
+      "meaning": "The LORD has helped",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -896,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -896,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet to King Asa"
+    ],
+    "occupations": [
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [
+      {
+        "name": "Prophecy by the Spirit of God",
+        "refs": [
+          "2 Chr 15:1"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Encourages Asa after victory",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 15:1-7"
+        ],
+        "summary": "The Spirit of God came on him and he met Asa returning from battle: \"The LORD is with you while you are with him. If you seek him, he will be found by you.\" He urged the king to be strong because his work would be rewarded."
+      },
+      {
+        "title": "Sparks Asa's reform and covenant",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 15:8-15"
+        ],
+        "summary": "Taking courage, Asa removed idols from Judah and Benjamin, repaired the altar, and gathered the people, including many from the north, to renew the covenant to seek the LORD."
+      }
+    ],
+    "summary": "Azariah son of Oded was a prophet who met King Asa after a military victory and called him to keep seeking God. His message, \"if you seek him, he will be found by you\", led Asa to remove idols and lead the nation in renewing its covenant with God.",
+    "textSays": "He is the only person in Scripture to whom this exact prophecy is credited (2 Chr 15:1). The Hebrew of 2 Chr 15:8 reads \"the prophecy of Oded the prophet\", which many translations correct to \"Azariah son of Oded\" following ancient versions (debated textual point).",
+    "voice": "Warm and urgent, the voice of someone pressing a good king to keep going while the moment lasts.",
+    "refs": [
+      "2 Chr 15:1-15"
+    ],
+    "books": [
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "shemaiah",
+    "names": {
+      "primary": "Shemaiah the man of God",
+      "original": "שְׁמַעְיָה",
+      "meaning": "The LORD has heard",
+      "aliases": [
+        "Shemaiah the prophet"
+      ]
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -931,
+        "circa": true,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Alternative date for the division of the kingdom",
+            "year": -922
+          }
+        ]
+      },
+      {
+        "year": -926,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Prophet to King Rehoboam",
+      "Chronicler"
+    ],
+    "occupations": [
+      "prophet",
+      "scribe"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Stops a civil war",
+        "year": -931,
+        "placeId": "jerusalem",
+        "refs": [
+          "1 Kgs 12:21-24",
+          "2 Chr 11:1-4"
+        ],
+        "summary": "Rehoboam gathered 180,000 men to fight the northern tribes, but Shemaiah brought God's word: \"You shall not fight against your brothers... this thing is from me.\" They obeyed and went home."
+      },
+      {
+        "title": "Calls Rehoboam to repent during Shishak's invasion",
+        "year": -926,
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 12:5-8"
+        ],
+        "summary": "When Pharaoh Shishak invaded, Shemaiah told Rehoboam and his princes they had abandoned God. They humbled themselves, and God granted partial deliverance, though Judah became subject to Egypt."
+      },
+      {
+        "title": "Records Rehoboam's acts",
+        "refs": [
+          "2 Chr 12:15"
+        ],
+        "summary": "Rehoboam's history was written in the records of Shemaiah the prophet and Iddo the seer."
+      }
+    ],
+    "summary": "Shemaiah was a prophet in the reign of Rehoboam, Solomon's son. When the kingdom split, he stopped Rehoboam from going to war against the northern tribes, saying the division was God's doing. Later, when Egypt invaded, he called the king and leaders to humble themselves. He also kept a record of Rehoboam's reign. Several other men named Shemaiah appear in the Bible, including a false prophet in exile (Jer 29:24-32) and a hired prophet who tried to scare Nehemiah (Neh 6:10-13).",
+    "textSays": "He is called \"the man of God\" (1 Kgs 12:22). Egypt's invasion is dated to Rehoboam's fifth year (2 Chr 12:2).",
+    "context": "Shishak is usually identified with Pharaoh Sheshonq I, whose relief at Karnak in Egypt lists towns he conquered in the region (scholarly-consensus on the identification; the precise list and route are debated).",
+    "voice": "Short and authoritative, delivering God's word in a sentence and expecting it to settle the matter.",
+    "refs": [
+      "1 Kgs 12:21-24",
+      "2 Chr 11:2-4",
+      "2 Chr 12:5-8",
+      "2 Chr 12:15"
+    ],
+    "books": [
+      "1 Kgs",
+      "2 Chr"
+    ]
+  },
+  {
+    "id": "zechariah-son-of-jehoiada",
+    "names": {
+      "primary": "Zechariah son of Jehoiada",
+      "original": "זְכַרְיָה",
+      "meaning": "The LORD remembers",
+      "aliases": [
+        "Zechariah the priest"
+      ]
+    },
+    "tier": "minor",
+    "testament": "both",
+    "eraIds": [
+      "divided-kingdom"
+    ],
+    "active": [
+      {
+        "year": -800,
+        "circa": true,
+        "confidence": "debated"
+      },
+      {
+        "year": -797,
+        "circa": true,
+        "confidence": "debated"
+      }
+    ],
+    "died": {
+      "year": -797,
+      "circa": true,
+      "confidence": "debated"
+    },
+    "tribe": "Levi (priestly family)",
+    "nation": "Judah",
+    "placeIds": [
+      "jerusalem"
+    ],
+    "family": {
+      "parents": [
+        "jehoiada"
+      ],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Priest",
+      "Prophet",
+      "Martyr"
+    ],
+    "occupations": [
+      "priest",
+      "prophet"
+    ],
+    "skills": [],
+    "gifts": [
+      {
+        "name": "Prophecy by the Spirit of God",
+        "refs": [
+          "2 Chr 24:20"
+        ]
+      }
+    ],
+    "events": [
+      {
+        "title": "Stoned in the temple court",
+        "placeId": "jerusalem",
+        "refs": [
+          "2 Chr 24:17-22"
+        ],
+        "summary": "After his father Jehoiada died, King Joash and the officials turned to idols. The Spirit of God came on Zechariah and he warned them: \"Because you have forsaken the LORD, he has forsaken you.\" At the king's command they stoned him in the temple court. Dying, he said, \"May the LORD see and avenge.\""
+      },
+      {
+        "title": "Remembered by Jesus",
+        "refs": [
+          "Matt 23:35",
+          "Luke 11:51"
+        ],
+        "summary": "Jesus speaks of the blood of all the righteous \"from the blood of Abel to the blood of Zechariah\", killed between the altar and the sanctuary."
+      }
+    ],
+    "summary": "Zechariah was a priest, the son of the high priest Jehoiada who had saved and raised young King Joash. After Jehoiada died, Joash drifted into idolatry. When Zechariah warned him, the king had him stoned to death in the temple courtyard, forgetting all Jehoiada had done for him. Jesus probably refers to him as the last martyr in the Hebrew Bible's order of books.",
+    "textSays": "Joash \"did not remember the kindness\" of Jehoiada (2 Chr 24:22). Within a year Aramean forces struck Judah, and Joash was killed by his own servants \"for the blood of the sons of Jehoiada the priest\" (2 Chr 24:23-25).",
+    "interpretations": [
+      {
+        "tradition": "Most scholars",
+        "view": "Jesus refers to this Zechariah. Abel is the first murder in Genesis and Zechariah the last in Chronicles, which closes the Hebrew Bible, so \"from Abel to Zechariah\" means \"from first to last\". Matthew's \"son of Barachiah\" may be a blending with the prophet Zechariah son of Berechiah (Zech 1:1), or a copyist's addition (Luke lacks it). The details are debated."
+      },
+      {
+        "tradition": "Alternative identifications",
+        "view": "Some identify Jesus' Zechariah with the post-exilic prophet Zechariah son of Berechiah, for whose martyrdom there is no biblical record; a few have suggested Zechariah son of Baris, killed in the temple in AD 68 according to Josephus (*Jewish War* 4.335-344), which would make Jesus' words a prophecy (speculative)."
+      },
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Talmudic legend says his blood kept seething in the temple until the Babylonian conquest (tradition, Babylonian Talmud Gittin 57b)."
+      }
+    ],
+    "voice": "Fearless and grieved, a priest who speaks as one betrayed by a family friend, ending not with a curse of his own but a plea for God to see.",
+    "refs": [
+      "2 Chr 24:17-22",
+      "Matt 23:35",
+      "Luke 11:51"
+    ],
+    "books": [
+      "2 Chr",
+      "Matt",
+      "Luke"
+    ]
+  },
+  {
+    "id": "eliphaz",
+    "names": {
+      "primary": "Eliphaz the Temanite",
+      "original": "אֱלִיפַז",
+      "meaning": "My God is fine gold (uncertain)",
+      "aliases": []
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "patriarchs"
+    ],
+    "nation": "Edom (Teman)",
+    "placeIds": [
+      "edom"
+    ],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Friend of Job",
+      "Wisdom teacher"
+    ],
+    "occupations": [
+      "sage"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Comes to comfort Job",
+        "refs": [
+          "Job 2:11-13"
+        ],
+        "summary": "With Bildad and Zophar he came to mourn with Job. They sat in silence with him seven days and nights, seeing how great his suffering was."
+      },
+      {
+        "title": "First speech: the innocent do not perish",
+        "refs": [
+          "Job 4:1-5:27"
+        ],
+        "summary": "He gently reminds Job that he has counselled others, asks who innocent ever perished, describes a night vision teaching that no mortal is pure before God, and urges Job to accept God's discipline."
+      },
+      {
+        "title": "Later speeches harden",
+        "refs": [
+          "Job 15:1-35",
+          "Job 22:1-30"
+        ],
+        "summary": "He accuses Job of undermining religion with his words, and finally lists sins Job must have committed, such as stripping the poor and refusing water to the thirsty, before urging him to return to God."
+      },
+      {
+        "title": "Rebuked by God",
+        "refs": [
+          "Job 42:7-9"
+        ],
+        "summary": "God tells Eliphaz that his anger burns against him and his two friends because they have not spoken of God what is right, as Job has. They must offer sacrifices and Job will pray for them."
+      }
+    ],
+    "summary": "Eliphaz from Teman in Edom is the first and apparently the eldest of Job's three friends. He begins kindly but holds firmly to the belief that suffering is God's response to sin, and as Job protests his innocence, Eliphaz grows harsher until he accuses Job of crimes without evidence. At the end God says he and his friends did not speak rightly about God.",
+    "textSays": "Teman was known for wisdom (Jer 49:7). An Eliphaz is also Esau's son, whose son was Teman (Gen 36:10-11), which may hint at the Edomite setting. His words are sometimes true in themselves; Paul quotes one line, \"He catches the wise in their own craftiness\" (Job 5:13; 1 Cor 3:19).",
+    "interpretations": [
+      {
+        "tradition": "Common reading",
+        "view": "Eliphaz represents traditional retribution theology: the righteous prosper and the wicked suffer. The book shows that this is not a full account of how God works."
+      },
+      {
+        "tradition": "Nuanced readings",
+        "view": "Some note that many of his statements echo Proverbs and the Psalms. His fault lies in applying general truths to Job's case without knowing the facts, which turns comfort into accusation."
+      }
+    ],
+    "voice": "Polished, fatherly and sure of himself, speaking in proverbs and visions, gradually losing patience with a friend who will not accept his diagnosis.",
+    "refs": [
+      "Job 2:11-13",
+      "Job 4:1-5:27",
+      "Job 15:1-35",
+      "Job 22:1-30",
+      "Job 42:7-9"
+    ],
+    "books": [
+      "Job"
+    ]
+  },
+  {
+    "id": "bildad",
+    "names": {
+      "primary": "Bildad the Shuhite",
+      "original": "בִּלְדַּד",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "patriarchs"
+    ],
+    "nation": "Shuah (perhaps a people descended from Abraham and Keturah)",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Friend of Job"
+    ],
+    "occupations": [
+      "sage"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Your children sinned",
+        "refs": [
+          "Job 8:1-22"
+        ],
+        "summary": "He insists God does not pervert justice, suggests Job's children died for their own sin, and urges Job to appeal to the wisdom of past generations."
+      },
+      {
+        "title": "The fate of the wicked; no man is clean",
+        "refs": [
+          "Job 18:1-21",
+          "Job 25:1-6"
+        ],
+        "summary": "He paints the terrors that pursue the wicked, then in a very short last speech says that if even the moon and stars are not pure before God, a mortal \"maggot\" cannot be."
+      }
+    ],
+    "summary": "Bildad is the second of Job's three friends. He defends God's justice by appealing to tradition and the wisdom of the fathers, and bluntly suggests that Job's children died because they sinned. His speeches grow shorter as the debate goes on; his last is only six verses long.",
+    "textSays": "Shuah is the name of a son of Abraham and Keturah (Gen 25:2), so \"Shuhite\" may point to an Arabian or Aramean tribe (speculative). God's rebuke includes him (Job 42:9).",
+    "voice": "Blunt and conservative, quoting the ancestors and short on sympathy.",
+    "refs": [
+      "Job 2:11",
+      "Job 8:1-22",
+      "Job 18:1-21",
+      "Job 25:1-6",
+      "Job 42:9"
+    ],
+    "books": [
+      "Job"
+    ]
+  },
+  {
+    "id": "zophar",
+    "names": {
+      "primary": "Zophar the Naamathite",
+      "original": "צוֹפַר",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "patriarchs"
+    ],
+    "nation": "Naamah (location uncertain)",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Friend of Job"
+    ],
+    "occupations": [
+      "sage"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "God exacts less than you deserve",
+        "refs": [
+          "Job 11:1-20"
+        ],
+        "summary": "He tells Job that if God spoke, Job would learn that God is punishing him less than his guilt deserves, and that God's wisdom is beyond searching out."
+      },
+      {
+        "title": "The triumph of the wicked is short",
+        "refs": [
+          "Job 20:1-29"
+        ],
+        "summary": "Feeling insulted, he describes how the wicked man's prosperity vanishes like a dream and how God's anger rains down on him."
+      }
+    ],
+    "summary": "Zophar is the third and most abrasive of Job's friends. He tells Job outright that he deserves worse than he is getting, and he describes the swift ruin of the wicked. He speaks only twice; in the third round of speeches he is silent, or his speech may have been displaced (debated).",
+    "textSays": "His home, Naamah, is unknown; a town of that name in Judah (Josh 15:41) is probably not meant. God's rebuke includes him (Job 42:9).",
+    "interpretations": [
+      {
+        "tradition": "Scholars",
+        "view": "Many scholars think the third cycle of speeches (Job 24-27) has been disturbed in transmission and that parts of Job 27 originally belonged to Zophar; others read his silence as deliberate, showing the friends have run out of arguments. This is debated."
+      }
+    ],
+    "voice": "Hot-tempered and dogmatic, impatient with talk and quick to assume the worst.",
+    "refs": [
+      "Job 2:11",
+      "Job 11:1-20",
+      "Job 20:1-29",
+      "Job 42:9"
+    ],
+    "books": [
+      "Job"
+    ]
+  },
+  {
+    "id": "elihu",
+    "names": {
+      "primary": "Elihu son of Barachel",
+      "original": "אֱלִיהוּא",
+      "meaning": "He is my God",
+      "aliases": [
+        "Elihu the Buzite"
+      ]
+    },
+    "tier": "secondary",
+    "testament": "OT",
+    "eraIds": [
+      "patriarchs"
+    ],
+    "nation": "Buz (perhaps an Aramean or Arabian people)",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Young speaker in the book of Job"
+    ],
+    "occupations": [
+      "sage"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "Breaks in, angry at everyone",
+        "refs": [
+          "Job 32:1-22"
+        ],
+        "summary": "A younger man who had waited out of respect, he grew angry at Job for justifying himself rather than God, and at the friends for condemning Job without an answer. He says it is the Spirit in a person, not age, that gives understanding."
+      },
+      {
+        "title": "Suffering as God's warning and teaching",
+        "refs": [
+          "Job 33:1-33",
+          "Job 36:1-21"
+        ],
+        "summary": "He argues that God speaks through dreams and through pain to turn people from pride and to save their lives, and that God delivers the afflicted by their affliction."
+      },
+      {
+        "title": "Points to God in the storm",
+        "refs": [
+          "Job 37:1-24"
+        ],
+        "summary": "He ends by describing God's majesty in thunder, snow and lightning, preparing the way for God's own speech from the whirlwind."
+      }
+    ],
+    "summary": "Elihu is a young man who suddenly speaks for six chapters after Job and his three friends fall silent. He rejects both Job's self-defence and the friends' accusations, and argues that God uses suffering to teach and warn, not only to punish. God neither praises nor rebukes him at the end, which has left readers divided over whether he is wise, presumptuous, or both.",
+    "textSays": "He is the son of Barachel the Buzite, of the family of Ram (Job 32:2). Buz is named as a nephew of Abraham (Gen 22:21). He is not introduced in the prologue or mentioned in the epilogue.",
+    "interpretations": [
+      {
+        "tradition": "Critical scholarship",
+        "view": "Many scholars think the Elihu speeches were added to the book later, because he is absent from the frame story, his style differs, and he partly anticipates God's speeches (debated)."
+      },
+      {
+        "tradition": "Positive readings",
+        "view": "Some Christian interpreters, and Jewish commentators such as Maimonides in part, see Elihu as closer to the truth than the friends: suffering can refine and instruct, and he prepares for God's appearance. God's silence about him is read as approval."
+      },
+      {
+        "tradition": "Critical-of-Elihu readings",
+        "view": "Others see a long-winded young man who claims to bring something new but largely repeats the friends; his wordiness may be gently mocked by the text."
+      }
+    ],
+    "voice": "Earnest, eager and wordy, apologising for speaking up and then speaking at great length, with flashes of real insight about God in the storm.",
+    "refs": [
+      "Job 32:1-37:24"
+    ],
+    "books": [
+      "Job"
+    ]
+  },
+  {
+    "id": "agur",
+    "names": {
+      "primary": "Agur son of Jakeh",
+      "original": "אָגוּר",
+      "meaning": "Gatherer (uncertain)",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "united-monarchy",
+      "divided-kingdom"
+    ],
+    "nation": "Possibly Massa, an Arabian people (debated)",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Wisdom writer"
+    ],
+    "occupations": [
+      "sage"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "The words of Agur",
+        "refs": [
+          "Prov 30:1-33"
+        ],
+        "summary": "He confesses he has not learned wisdom or the knowledge of the Holy One, asks who has gone up to heaven and come down, affirms that every word of God is tested, prays for neither poverty nor riches, and gathers numerical sayings (\"three things... yes, four\")."
+      }
+    ],
+    "summary": "Agur son of Jakeh is the author of Proverbs 30, known only from that chapter. His sayings begin with a humble confession of ignorance before God, include a famous prayer for \"neither poverty nor riches\", and collect observations about nature and human behaviour in numbered lists.",
+    "textSays": "His words are called a massa, which can mean \"oracle\" or refer to Massa, a tribe descended from Ishmael (Gen 25:14). The questions \"what is his name, and what is his son's name?\" (Prov 30:4) are often discussed.",
+    "interpretations": [
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Some rabbinic tradition reads \"Agur son of Jakeh\" as a symbolic name for Solomon (tradition)."
+      },
+      {
+        "tradition": "Modern scholarship",
+        "view": "Most scholars treat Agur as a non-Israelite sage, perhaps from Massa, whose wisdom was included in Israel's collection (scholarly-consensus that he is distinct from Solomon; his origin is debated)."
+      },
+      {
+        "tradition": "Christian",
+        "view": "Many Christian readers hear in Prov 30:4 a hint of a divine Son, while others take it as a rhetorical question stressing that no human can know God fully."
+      }
+    ],
+    "voice": "Humble, wry and searching, a sage who begins by admitting how little he knows and then notices everything.",
+    "refs": [
+      "Prov 30:1-33"
+    ],
+    "books": [
+      "Prov"
+    ]
+  },
+  {
+    "id": "lemuel",
+    "names": {
+      "primary": "King Lemuel",
+      "original": "לְמוּאֵל",
+      "meaning": "Belonging to God",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "united-monarchy",
+      "divided-kingdom"
+    ],
+    "nation": "Possibly Massa, an Arabian people (debated)",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "King",
+      "Recorder of his mother's teaching"
+    ],
+    "occupations": [
+      "king"
+    ],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "His mother's advice",
+        "refs": [
+          "Prov 31:1-9"
+        ],
+        "summary": "His mother warned him not to give his strength to women or kings' ruin to wine, and charged him to \"open your mouth for the mute\" and defend the rights of the poor and needy."
+      }
+    ],
+    "summary": "Lemuel is an unknown king whose mother's advice is recorded in Proverbs 31:1-9. She warns him against sexual excess and drink, and calls him to speak up for those who cannot speak for themselves. The poem on the capable wife that follows (Prov 31:10-31) may or may not be part of her teaching.",
+    "textSays": "The words are \"the oracle (or: of Massa) which his mother taught him\" (Prov 31:1). It is the only teaching in Proverbs explicitly credited to a woman.",
+    "interpretations": [
+      {
+        "tradition": "Jewish (rabbinic) and older Christian",
+        "view": "Lemuel is often taken as a name for Solomon, and the teacher as Bathsheba (tradition)."
+      },
+      {
+        "tradition": "Modern scholarship",
+        "view": "Most scholars see Lemuel as a non-Israelite king, perhaps of Massa, like Agur (debated). Whether the acrostic poem on the woman of strength belongs to his mother's words is also debated."
+      }
+    ],
+    "voice": "Respectful and attentive, a king who repeats his mother's words as she spoke them, with a ruler's concern for justice.",
+    "refs": [
+      "Prov 31:1-9"
+    ],
+    "books": [
+      "Prov"
+    ]
+  },
+  {
+    "id": "jabez",
+    "names": {
+      "primary": "Jabez",
+      "original": "יַעְבֵּץ",
+      "meaning": "Sounds like the Hebrew for \"pain\" (a wordplay explained in the text)",
+      "aliases": []
+    },
+    "tier": "minor",
+    "testament": "OT",
+    "eraIds": [
+      "conquest-judges"
+    ],
+    "tribe": "Judah",
+    "nation": "Israel",
+    "placeIds": [],
+    "family": {
+      "parents": [],
+      "spouses": [],
+      "children": [],
+      "siblings": []
+    },
+    "roles": [
+      "Honoured man of Judah"
+    ],
+    "occupations": [],
+    "skills": [],
+    "gifts": [],
+    "events": [
+      {
+        "title": "The prayer of Jabez",
+        "refs": [
+          "1 Chr 4:9-10"
+        ],
+        "summary": "His mother named him because she bore him in pain. He called on the God of Israel to bless him, enlarge his territory, keep God's hand with him, and keep him from harm so that it would not pain him. God granted his request."
+      }
+    ],
+    "summary": "Jabez appears in just two verses in the genealogy of Judah. He was \"more honourable than his brothers\", and his name, which sounds like \"pain\", recalled his difficult birth. He prayed that God would bless him, widen his land and keep him from harm, and God answered. His era is not stated; the setting suggests the time of the settlement in Canaan (speculative).",
+    "textSays": "The Chronicler pauses a list of names to tell this short story (1 Chr 4:9-10). A town called Jabez, home to scribal families, is mentioned earlier (1 Chr 2:55); the link is uncertain.",
+    "interpretations": [
+      {
+        "tradition": "Popular devotional",
+        "view": "Bruce Wilkinson's *The Prayer of Jabez* (2000) encouraged believers to pray this prayer daily for expanded blessing and influence; it sold millions of copies."
+      },
+      {
+        "tradition": "Critics of the devotional use",
+        "view": "Many scholars and pastors caution that the passage describes one man's prayer and God's answer, not a formula, and that it should be read alongside Scripture's wider teaching on suffering and contentment."
+      },
+      {
+        "tradition": "Jewish (rabbinic)",
+        "view": "Rabbinic tradition identifies Jabez with Othniel the judge and reads his prayer as a request for Torah learning (tradition, Babylonian Talmud Temurah 16a)."
+      }
+    ],
+    "voice": "Earnest and direct, the voice of someone who has carried a hard name all his life and asks God plainly for a better story.",
+    "refs": [
+      "1 Chr 4:9-10"
+    ],
+    "books": [
+      "1 Chr"
+    ]
+  }
+]
