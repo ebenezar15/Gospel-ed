@@ -1,0 +1,2838 @@
+[
+  {
+    "id": "how-the-message-changed",
+    "title": "How the gospel message changed over 2,000 years",
+    "category": "How the message changed",
+    "question": "How, where, when and by whom did the way Christians preach the gospel change from the apostles to today, and was that change a corruption or a development?",
+    "plainAnswer": "The basic claims stayed remarkably steady: Jesus is Lord and Messiah, he died for sins, God raised him, and people should repent, believe and be baptised. What changed was the emphasis and the frame around those claims. As the message moved from Jerusalem to Antioch, Rome and Alexandria, then into a Christian empire, a medieval church system, the Reformation, and modern revivalism, different questions came to the front: who exactly Jesus is, how guilt is removed, what happens at death, when the end comes, and how a person can know they are saved. Historians largely agree that these shifts happened. Whether they count as a corruption, a healthy development, or a mixture depends on prior commitments about scripture, tradition and the church, and serious Christians hold all three views.",
+    "keyTakeaways": [
+      "The core apostolic claims (Jesus' death, resurrection and lordship; repentance; forgiveness; the Spirit) appear in almost every era. The frame and the emphasis are what moved.",
+      "Big turning points were geographical and political as well as theological: Antioch's Gentile mission, Constantine's patronage, Augustine's Latin West, the medieval penance system, Wittenberg and Geneva, Anglo-American revivalism and 1830s dispensationalism.",
+      "Greek-speaking Eastern churches and Latin-speaking Western churches developed different centres of gravity (healing and union with God in the East; guilt, grace and judgment in the West), though the contrast is often overdrawn.",
+      "Many features modern evangelicals assume are ancient are fairly recent: the altar call (early 1800s), the pre-tribulation rapture as a system (1830s), and the sinner's prayer and tract-style gospel outlines (mostly 20th century).",
+      "Calling the changes a 'corruption' is a judgement, not a neutral description. Restorationists, many Anabaptists and Harnack see decline; Newman, the Orthodox and Catholic churches see legitimate development; many historians and Protestants see a mixture.",
+      "Each era was answering real questions of its own time. Understanding the question usually makes the change more intelligible, whether or not one approves of it."
+    ],
+    "sections": [
+      {
+        "heading": "What the first preachers said",
+        "body": "The earliest summaries of the message are short and story-shaped. Paul passes on a tradition he says he received: Christ died for our sins according to the scriptures, was buried, was raised on the third day, and appeared to many witnesses. The sermons in Acts follow a similar pattern: God's promises to Israel have been fulfilled; Jesus was crucified but God raised him and made him Lord and Messiah; so repent, be baptised in his name, and receive forgiveness and the Holy Spirit.\n\nJesus himself announced the kingdom (reign) of God: God was acting to put the world right, and people should turn and trust this news. The apostles preached the same kingdom, now centred on Jesus as the risen king. C. H. Dodd called this shared outline the kerygma (Greek for 'proclamation').\n\nTwo things are worth noticing for what follows. The Acts sermons centre on resurrection and lordship more than on the afterlife, and they include coming judgment as a real part of the message. Later eras often kept all the pieces but rearranged which ones stood in the middle.",
+        "refs": [
+          "1 Cor 15:3-8",
+          "Mark 1:14-15",
+          "Acts 2:22-41",
+          "Acts 3:12-26",
+          "Acts 10:34-43",
+          "Acts 17:30-31",
+          "Rom 1:1-4"
+        ],
+        "sources": [
+          {
+            "author": "C. H. Dodd",
+            "title": "The Apostolic Preaching and Its Developments",
+            "year": 1936,
+            "locator": "lecture 1",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Scot McKnight",
+            "title": "The King Jesus Gospel",
+            "year": 2011,
+            "locator": "ch. 4",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Martin Dibelius",
+            "title": "Studies in the Acts of the Apostles",
+            "locator": "on the speeches as Lukan compositions",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The apostles only preached God's love, never judgment.' Correction: judgment is part of the earliest preaching. Peter says Jesus is appointed judge of the living and the dead, Paul tells the Athenians God has fixed a day to judge the world, and he spoke to Felix about the judgment to come. What is distinctive is that judgment sits inside a message about the risen Lord rather than being the opening hook."
+        }
+      },
+      {
+        "heading": "Jerusalem to Antioch to Rome and Alexandria",
+        "body": "The first change was a change of audience. In Jerusalem the message was preached to Jews as the fulfilment of Israel's story. After Stephen's death, believers scattered, and at Antioch in Syria some began telling Greeks about the Lord Jesus. Antioch became the base for Paul and Barnabas, and the place where the disciples were first called Christians.\n\nPreaching to Gentiles raised new questions. Did converts need circumcision and the law of Moses? The Jerusalem meeting said no, and Paul's letters argue the point hard. To pagans who did not know Israel's scriptures, preachers began with the one Creator God and the folly of idols before getting to Jesus.\n\nBy the second century two more centres mattered. Rome, the imperial capital, became a hub of teaching, martyrdom and church order (Justin taught there). Alexandria in Egypt, a city of libraries and philosophy, produced Clement and Origen, who explained the faith in the language of Greek learning and read scripture with layers of spiritual meaning. These places did not invent new gospels, but they gave the message new vocabularies: Roman legal and moral language in the West, philosophical and mystical language in the East.",
+        "refs": [
+          "Acts 8:1-4",
+          "Acts 11:19-26",
+          "Acts 13:1-3",
+          "Acts 15:1-29",
+          "Gal 2:11-16",
+          "Acts 14:15-17",
+          "Acts 17:22-31",
+          "Acts 28:30-31"
+        ],
+        "sources": [
+          {
+            "author": "Martin Hengel",
+            "title": "Between Jesus and Paul",
+            "year": 1983,
+            "locator": "on the Hellenists",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Justin Martyr",
+            "title": "First Apology",
+            "locator": "61; 65–67",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Origen",
+            "title": "On First Principles",
+            "locator": "Preface 4–10; 4.2 (senses of scripture)",
+            "confidence": "scholarly-consensus"
+          }
+        ]
+      },
+      {
+        "heading": "Constantine and the imperial church (313 onward)",
+        "body": "In 313 the emperors Constantine and Licinius agreed at Milan to tolerate Christianity and return confiscated property. Constantine then favoured the church with money, buildings and legal privileges, and in 325 he called the Council of Nicaea to settle the dispute over whether the Son is fully God. In 380 Theodosius I declared Nicene Christianity the faith the empire's subjects should hold.\n\nThis changed the setting of preaching more than its words. Congregations grew huge and mixed, many people joined for social reasons, and baptism was often delayed until late in life. Bishops became public figures. Heresy could now bring civil penalties. The church's hope for the kingdom of God was increasingly linked, by some writers such as Eusebius, to the Christian empire itself.\n\nWhether this was a disaster or a blessing is one of the sharpest questions in church history. Critics in the Anabaptist and peace-church traditions speak of 'Constantinianism': the church trading the way of the cross for power. Defenders reply that Christians could hardly refuse an end to persecution, that Constantine did not control doctrine as much as is claimed, and that the gospel has always aimed to transform rulers too.",
+        "refs": [
+          "Rom 13:1-7",
+          "John 18:36",
+          "Matt 20:25-28",
+          "1 Tim 2:1-4",
+          "Rev 13:1-10"
+        ],
+        "sources": [
+          {
+            "author": "Lactantius",
+            "title": "On the Deaths of the Persecutors",
+            "locator": "48",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Eusebius",
+            "title": "Church History",
+            "locator": "10.5",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Howard Yoder",
+            "title": "The Priestly Kingdom",
+            "year": 1984,
+            "locator": "essay 'The Constantinian Sources of Western Social Ethics'",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Peter J. Leithart",
+            "title": "Defending Constantine",
+            "year": 2010,
+            "confidence": "debated"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'Constantine chose which books went into the Bible at Nicaea.' Correction: Nicaea dealt with the divinity of Christ and the date of Easter, not the canon. The core New Testament books were already widely used, and lists continued to be discussed for decades afterwards."
+        }
+      },
+      {
+        "heading": "Augustine and the Latin West vs the Greek East",
+        "body": "Augustine, bishop of Hippo in North Africa (died 430), shaped Western preaching more than anyone after Paul. Against Pelagius, he taught that all humans inherit Adam's sin and guilt (original sin), cannot turn to God without grace, and are saved because God chose them (predestination). In *City of God* he read the thousand years of Revelation 20 as the present church age rather than a future earthly kingdom (a view later called amillennialism), and he defended eternal punishment against Christians who hoped for mercy at the end. Western preaching after him tended to ask: how is my guilt removed, and where will I go?\n\nGreek-speaking writers kept a different centre. Irenaeus had described Christ 'recapitulating' (re-running and repairing) the human story; Athanasius said the Word became human so that we might become divine, an idea called theosis (sharing God's life). Salvation in the East was pictured more as healing from death and corruption and union with God, less as a courtroom verdict.\n\nThe contrast is real but easy to exaggerate. Augustine also spoke of deification; Eastern fathers such as Chrysostom preached hell and repentance hard; and earlier Latin writers like Tertullian and Cyprian already used legal and penitential language. Still, East and West drifted toward different questions, and the Western set of questions is the one most modern Protestants inherited.",
+        "refs": [
+          "Rom 5:12-21",
+          "Rom 8:28-30",
+          "Eph 1:3-11",
+          "Rev 20:1-6",
+          "Matt 25:46",
+          "2 Pet 1:3-4",
+          "Eph 1:10"
+        ],
+        "sources": [
+          {
+            "author": "Augustine",
+            "title": "City of God",
+            "locator": "20.7–9 (millennium as church age); 21.17–23 (eternal punishment)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Augustine",
+            "title": "On the Predestination of the Saints",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Irenaeus",
+            "title": "Against Heresies",
+            "locator": "3.18.1 (recapitulation); 5 preface",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Athanasius",
+            "title": "On the Incarnation",
+            "locator": "54",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Norman Russell",
+            "title": "The Doctrine of Deification in the Greek Patristic Tradition",
+            "year": 2004,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Peter Brown",
+            "title": "Augustine of Hippo: A Biography",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "debate",
+          "text": "Did Augustine distort Paul or read him rightly? Reformed and Lutheran theologians generally see him as recovering Paul's teaching on grace; Orthodox writers often think he over-stressed inherited guilt; some modern Pauline scholars think both he and the Reformers read later questions back into Paul. In 553 the Council of Constantinople, under Justinian, condemned teachings associated with Origen. Whether that condemnation covered the hope of universal restoration as such, or only speculative ideas about pre-existing souls, is debated."
+        }
+      },
+      {
+        "heading": "The medieval system: penance, purgatory and indulgences",
+        "body": "In the early church, serious sin after baptism was dealt with by public penance, often allowed only once. From about the sixth century Irish and British monks spread private, repeatable confession, with handbooks (penitentials) listing sins and their penances. In 1215 the Fourth Lateran Council required every Western Christian to confess to their own priest at least once a year.\n\nAlongside this grew the doctrine of purgatory: a state after death where those who die in grace but are not fully cleansed are purified. It was defined at the Councils of Lyon (1274) and Florence (1439), building on Augustine's and Gregory the Great's tentative remarks. Indulgences, first widely offered to crusaders in 1095, were grants by the church remitting temporal punishment (the remaining penalty, not the guilt) for sin, drawing on a 'treasury of merits' defined in 1343. From 1476 they could be applied to souls in purgatory.\n\nThe effect on preaching was large. The pressing question for ordinary believers became: how can I make satisfaction for my sins and shorten purgatory? Friars preached repentance powerfully and many people found deep comfort in the sacraments. But the system could also be commercialised, as in the indulgence campaign that provoked Luther. In 1098 Anselm's *Why God Became Man* had already re-explained the cross as satisfaction for the honour owed to God, a frame that fitted this penitential world.",
+        "refs": [
+          "Matt 16:19",
+          "John 20:21-23",
+          "Jas 5:16",
+          "1 Cor 3:10-15",
+          "Heb 10:10-14",
+          "1 John 1:8-9"
+        ],
+        "sources": [
+          {
+            "author": "John T. McNeill and Helena M. Gamer",
+            "title": "Medieval Handbooks of Penance",
+            "year": 1938,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Fourth Lateran Council",
+            "title": "Canons",
+            "year": 1215,
+            "locator": "canon 21 (Omnis utriusque sexus)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Council of Florence",
+            "title": "Laetentur caeli (Decree of Union with the Greeks)",
+            "year": 1439,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Clement VI",
+            "title": "Unigenitus Dei Filius (bull on the treasury of merits)",
+            "year": 1343,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Anselm of Canterbury",
+            "title": "Cur Deus Homo",
+            "year": 1098,
+            "locator": "1.11–13; 2.6",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Jacques Le Goff",
+            "title": "The Birth of Purgatory",
+            "year": 1981,
+            "confidence": "debated"
+          },
+          {
+            "author": "Eamon Duffy",
+            "title": "The Stripping of the Altars",
+            "year": 1992,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The medieval church sold forgiveness of sins.' Correction: official teaching was that indulgences remitted temporal punishment for sins already forgiven through repentance and absolution, not guilt itself. But popular preaching sometimes blurred that line badly, which is why Luther protested and why the Council of Trent itself (1563) ordered abuses and money-making around indulgences to be removed."
+        }
+      },
+      {
+        "heading": "The Reformation: justification at the centre",
+        "body": "In 1517 Martin Luther, a monk and professor at Wittenberg, challenged the indulgence campaign. His deeper claim was that sinners are justified (declared right with God) by grace through faith in Christ alone, not by any works or satisfactions. For Luther this was the article on which the church stands or falls. In Geneva, John Calvin built a full theology around God's sovereignty, union with Christ and justification; Reformed catechisms structured the gospel as guilt, grace and gratitude.\n\nPreaching changed accordingly. The sermon, in the people's language, became the centre of worship. Purgatory, indulgences and the sacrifice of the mass were rejected. The law-gospel pattern (first show people their sin through God's law, then comfort them with the promise) became standard Protestant preaching. Anabaptists went further, insisting on adult baptism, a church separate from the state, and the Sermon on the Mount as a way of life.\n\nThe Catholic Council of Trent (1545–63) answered by affirming justification by grace but rejecting 'faith alone' as Protestants defined it, and reaffirming purgatory and penance. The rival confessions hardened for centuries, although a 1999 Lutheran-Catholic joint declaration found substantial agreement on the basic truths of justification.",
+        "refs": [
+          "Rom 1:16-17",
+          "Rom 3:21-28",
+          "Gal 2:16",
+          "Eph 2:8-10",
+          "Jas 2:14-26",
+          "Matt 5:1-12"
+        ],
+        "sources": [
+          {
+            "author": "Martin Luther",
+            "title": "Ninety-Five Theses",
+            "year": 1517,
+            "locator": "theses 1 and 62",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Calvin",
+            "title": "Institutes of the Christian Religion",
+            "locator": "3.11.1",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Zacharias Ursinus and Caspar Olevianus",
+            "title": "Heidelberg Catechism",
+            "year": 1563,
+            "locator": "Q. 1–2",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Council of Trent",
+            "title": "Decree on Justification (Session 6)",
+            "year": 1547,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Lutheran World Federation and Catholic Church",
+            "title": "Joint Declaration on the Doctrine of Justification",
+            "year": 1999,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'Nobody preached grace between Paul and Luther.' Correction: the Reformers themselves quoted Augustine, Bernard of Clairvaux and other earlier writers; 1 Clement (about 96) says believers are justified through faith, not their own wisdom or works. The Reformation argued over how grace works and what faith means, not over whether grace existed."
+        }
+      },
+      {
+        "heading": "Puritans and revivalism: the conversion experience",
+        "body": "English and New England Puritans (late 1500s–1700s) preached for deep, searching conversion. Writers such as William Perkins mapped stages: conviction of sin, humiliation, hope, faith and assurance. Diaries recorded the state of the soul.\n\nIn the 1730s–40s the Great Awakening and the Methodist revival made conversion a dramatic, datable event preached to crowds in fields and town squares. Jonathan Edwards in Northampton and Enfield, George Whitefield across Britain and America, and John Wesley, whose heart was 'strangely warmed' at Aldersgate in 1738, all stressed the new birth. Historian David Bebbington names four marks of the evangelicalism that emerged: conversion, the Bible, the cross, and active mission.\n\nCharles Finney (1830s) took a further step. He argued that revival is not a miracle but the right use of means, and introduced 'new measures': protracted meetings, the 'anxious bench' at the front for those under conviction, and calls for immediate public decision. This is the ancestor of the altar call. Supporters saw a democratic, energetic gospel; critics, including Old School Presbyterians then and Iain Murray later, saw a shift from God's work to human technique.",
+        "refs": [
+          "John 3:3-8",
+          "2 Cor 5:17",
+          "Acts 16:30-34",
+          "Rom 10:9-14",
+          "2 Cor 6:2"
+        ],
+        "sources": [
+          {
+            "author": "David W. Bebbington",
+            "title": "Evangelicalism in Modern Britain",
+            "year": 1989,
+            "locator": "ch. 1 (the quadrilateral)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Edmund S. Morgan",
+            "title": "Visible Saints: The History of a Puritan Idea",
+            "year": 1963,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Wesley",
+            "title": "Journal",
+            "locator": "24 May 1738",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Charles G. Finney",
+            "title": "Lectures on Revivals of Religion",
+            "year": 1835,
+            "locator": "Lecture 1; Lecture 14 (measures)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Iain H. Murray",
+            "title": "Revival and Revivalism",
+            "year": 1994,
+            "confidence": "debated"
+          },
+          {
+            "author": "Nathan O. Hatch",
+            "title": "The Democratization of American Christianity",
+            "year": 1989,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The altar call goes back to the apostles.' Correction: people in Acts responded publicly by being baptised. Walking forward to a bench or front to signal a decision grew out of Methodist camp meetings and was popularised by Finney in the early 1800s."
+        }
+      },
+      {
+        "heading": "Darby, Scofield and the end-times frame (1830s–1970s)",
+        "body": "In the 1830s John Nelson Darby, an Anglican clergyman turned Plymouth Brethren leader, taught that history is divided into dispensations (eras of God's dealing), that God has separate plans for Israel and the church, and that Christ will secretly 'rapture' the church before a future tribulation. Through Bible conferences, D. L. Moody's circle and above all the *Scofield Reference Bible* (1909), this system became the default reading of the Bible for millions of English-speaking evangelicals.\n\nIts effect on gospel preaching was to make the any-moment return of Christ a strong motive for conversion, and to frame the church-age gospel mainly as forgiveness of sins and going to heaven. Jesus' kingdom announcement was often assigned to Israel and a future millennium.\n\nLater dispensationalists, especially 'progressive dispensationalists' from the 1990s, softened the Israel-church split and recovered the present kingdom. Critics, from covenant theologians to N. T. Wright, argue the system is novel and distorts the gospel's scope. Defenders reply that a futurist premillennialism is ancient and that novelty in systematising does not make the reading wrong.",
+        "refs": [
+          "1 Thess 4:13-18",
+          "Rom 11:25-29",
+          "Dan 9:24-27",
+          "Rev 20:1-6",
+          "Matt 24:36-44"
+        ],
+        "sources": [
+          {
+            "author": "Ernest R. Sandeen",
+            "title": "The Roots of Fundamentalism",
+            "year": 1970,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "C. I. Scofield",
+            "title": "The Scofield Reference Bible",
+            "year": 1909,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Craig A. Blaising and Darrell L. Bock",
+            "title": "Progressive Dispensationalism",
+            "year": 1993,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Timothy C. Weber",
+            "title": "Living in the Shadow of the Second Coming",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "The twentieth century: portable gospels, Pentecost and the kingdom recovery",
+        "body": "Twentieth-century evangelism made the gospel portable. Billy Graham's crusades (from 1949) invited listeners to come forward and receive Christ. Bill Bright's *Four Spiritual Laws* (written 1952, printed as a booklet in the 1960s) began with God's love and plan, moved through sin and Christ's provision, and ended with a short prayer to receive him. D. James Kennedy's Evangelism Explosion (from 1962) opened with questions about where you would go if you died. The 'sinner's prayer' became for many evangelicals the moment of salvation. Its roots in older revival practice are real but its standard form is modern, and historians still debate its exact origins.\n\nAt the same time Pentecostalism (Topeka 1901, Azusa Street in Los Angeles 1906) put the Holy Spirit's experienced power, including speaking in tongues and healing, at the centre. It became one of the largest Christian movements in the world, especially in Africa, Latin America and Asia, often preaching a gospel of deliverance and power as much as forgiveness.\n\nSupporters say these methods let ordinary believers share their faith clearly and reached millions. Critics, including some evangelicals, say they can reduce the gospel to a transaction and produce false assurance without discipleship. Since the 1950s a counter-movement has also grown.\n\nFrom Dodd (1936) through Oscar Cullmann and George Eldon Ladd (1959), scholars argued that the kingdom of God was 'already' present in Jesus but 'not yet' complete. The Lausanne Covenant (1974), shaped by Latin American voices like René Padilla, joined evangelism and social responsibility. Since the 1990s N. T. Wright, Dallas Willard, Scot McKnight and Matthew Bates have argued that the gospel is first the announcement that Jesus is Lord and that God will renew creation, calling for allegiance to the king, not only a way to escape to heaven.\n\nReformed critics such as John Piper and Greg Gilbert welcome the wider frame but warn that it can blur the centre: a holy God, human sin and substitutionary atonement received by faith. The debate is now less about whether the kingdom matters than about what sits at the heart.",
+        "refs": [
+          "Rom 10:9-13",
+          "John 1:12",
+          "Rev 3:20",
+          "Acts 2:1-21",
+          "Acts 2:38-39",
+          "Matt 28:18-20",
+          "Mark 1:14-15",
+          "Luke 4:16-21",
+          "Rom 8:18-25",
+          "1 Cor 15:20-28",
+          "Rev 21:1-5",
+          "Col 1:15-20"
+        ],
+        "sources": [
+          {
+            "author": "Bill Bright",
+            "title": "Have You Heard of the Four Spiritual Laws?",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John G. Turner",
+            "title": "Bill Bright and Campus Crusade for Christ",
+            "year": 2008,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "D. James Kennedy",
+            "title": "Evangelism Explosion",
+            "year": 1970,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Paul Chitwood",
+            "title": "The Sinner's Prayer: An Historical and Theological Analysis (PhD diss.)",
+            "year": 2001,
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Allan Anderson",
+            "title": "An Introduction to Pentecostalism",
+            "year": 2004,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Grant Wacker",
+            "title": "America's Pastor: Billy Graham and the Shaping of a Nation",
+            "year": 2014,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "George Eldon Ladd",
+            "title": "The Gospel of the Kingdom",
+            "year": 1959,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Lausanne Committee",
+            "title": "The Lausanne Covenant",
+            "year": 1974,
+            "locator": "paras. 4–5",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "N. T. Wright",
+            "title": "Surprised by Hope",
+            "year": 2008,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Matthew W. Bates",
+            "title": "Salvation by Allegiance Alone",
+            "year": 2017,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Greg Gilbert",
+            "title": "What Is the Gospel?",
+            "year": 2010,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Piper",
+            "title": "The Future of Justification: A Response to N. T. Wright",
+            "year": 2007,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated"
+      },
+      {
+        "heading": "Corruption, development or both?",
+        "body": "Historians across traditions mostly agree on the facts above. They disagree on how to judge them, and the word 'corruption' already contains a verdict. Three broad readings exist.\n\nDecline or corruption. The church fell away from the apostolic pattern and needs restoring. Nineteenth-century Restorationists such as Alexander Campbell and Barton Stone aimed to restore New Testament Christianity; Latter-day Saints, very differently, speak of a 'Great Apostasy'. Many Anabaptists saw the fall in the church's union with state power. Adolf von Harnack argued that the simple message of Jesus was overlaid by Greek philosophy ('Hellenisation'). Today John Howard Yoder, Stanley Hauerwas, Greg Boyd and Brian Zahnd press the critique of Constantinian Christianity.\n\nLegitimate development. The Spirit leads the church into fuller understanding over time, as a seed grows into a tree. John Henry Newman's *Essay on the Development of Christian Doctrine* (1845) gave tests for telling true growth from corruption. Catholic teaching (Vatican II's *Dei Verbum* 8) and Orthodox theologians such as Georges Florovsky and Kallistos Ware see the councils and liturgy as faithful unfolding. Many Reformed and Lutheran theologians accept the early creeds in the same way.\n\nMixed. Most Protestant historians, and many Catholic and Orthodox ones, hold that some changes were faithful and some were losses. Confessional Protestants themselves sit here: they embrace Nicaea and Augustine but reject purgatory and indulgences. Scholars such as Mark Noll and Jaroslav Pelikan describe each era as a mix of insight and blind spot. Each reader should notice which criteria they are using: scripture alone, scripture read in the church's tradition, or closeness to Jesus' own kingdom preaching.",
+        "refs": [
+          "Jude 1:3",
+          "Gal 1:6-9",
+          "John 16:12-15",
+          "Matt 13:31-33",
+          "2 Tim 1:13-14",
+          "Acts 20:29-31"
+        ],
+        "sources": [
+          {
+            "author": "John Henry Newman",
+            "title": "An Essay on the Development of Christian Doctrine",
+            "year": 1845,
+            "locator": "1878 ed., ch. 5 (notes of genuine development)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Adolf von Harnack",
+            "title": "What Is Christianity?",
+            "year": 1900,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Adolf von Harnack",
+            "title": "History of Dogma",
+            "locator": "vol. 1, prolegomena",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Alexander Campbell",
+            "title": "The Christian System",
+            "year": 1835,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Brian Zahnd",
+            "title": "A Farewell to Mars",
+            "year": 2014,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Gregory A. Boyd",
+            "title": "The Myth of a Christian Nation",
+            "year": 2005,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Second Vatican Council",
+            "title": "Dei Verbum",
+            "year": 1965,
+            "locator": "8",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Robert Louis Wilken",
+            "title": "The Spirit of Early Christian Thought",
+            "year": 2003,
+            "locator": "introduction (Christianisation of Hellenism)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Mark A. Noll",
+            "title": "Turning Points: Decisive Moments in the History of Christianity",
+            "year": 1997,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Jaroslav Pelikan",
+            "title": "The Christian Tradition, vol. 1",
+            "year": 1971,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "debate",
+          "text": "Harnack's 'Hellenisation' thesis is now widely qualified. Robert Wilken and others argue that the Fathers used Greek concepts to defend biblical claims against philosophy (a 'Christianisation of Hellenism'), and that ideas like the bodily resurrection and the incarnation were deeply offensive to Greek thought. Supporters of a milder version still hold that Greek ideas about God's impassibility and the soul shaped doctrine more than scripture alone warrants."
+        }
+      }
+    ],
+    "table": {
+      "caption": "Major shifts in gospel preaching and how they are judged",
+      "columns": [
+        "Change",
+        "When",
+        "Where",
+        "Key people",
+        "What shifted",
+        "How supporters see it",
+        "How critics see it"
+      ],
+      "rows": [
+        [
+          "Gentile mission",
+          "c. 40–50",
+          "Antioch, Jerusalem",
+          "Paul, Barnabas, Peter, James",
+          "Gospel offered to non-Jews without circumcision",
+          "The promise to Abraham fulfilled; one people in Christ",
+          "Almost no Christian critics; some see early loss of Jewish roots"
+        ],
+        [
+          "Greek philosophical idiom",
+          "c. 150–250",
+          "Rome, Alexandria",
+          "Justin, Clement, Origen",
+          "Faith explained with Logos and philosophy; allegorical reading",
+          "Faith speaking the culture's language",
+          "Harnack: Hellenisation overlaid Jesus' simple message"
+        ],
+        [
+          "Imperial church",
+          "313–380",
+          "Milan, Nicaea, Constantinople",
+          "Constantine, Eusebius, Theodosius",
+          "From persecuted minority to favoured, then official, religion",
+          "Persecution ended; society opened to the gospel",
+          "Constantinianism: power replaced the cross (Yoder, Zahnd, Boyd)"
+        ],
+        [
+          "Augustinian synthesis",
+          "c. 396–430",
+          "Hippo, North Africa",
+          "Augustine",
+          "Original sin, grace, predestination, amillennialism, eternal punishment",
+          "Recovers Paul on grace (Reformed, Lutheran)",
+          "Over-stresses inherited guilt and fear (many Orthodox, some modern scholars)"
+        ],
+        [
+          "Condemnation of Origenism",
+          "553",
+          "Constantinople",
+          "Justinian I",
+          "Speculative ideas linked to Origen anathematised",
+          "Guarded the faith against Platonising error",
+          "Scope debated; some say it silenced the hope of restoration"
+        ],
+        [
+          "Private penance",
+          "c. 600–1215",
+          "Ireland, Britain, then all of Western Europe",
+          "Columbanus, Lateran IV",
+          "Repeatable confession; annual duty from 1215",
+          "Pastoral care for ordinary sinners",
+          "Gospel turned into managing a list of sins"
+        ],
+        [
+          "Satisfaction atonement",
+          "1098",
+          "Canterbury, Italy",
+          "Anselm",
+          "Cross explained as satisfying God's honour",
+          "Clear rational account of why the God-man died",
+          "Feudal frame; sidelined victory and new creation (Aulén)"
+        ],
+        [
+          "Purgatory and indulgences",
+          "1095–1517",
+          "Rome, Lyon, Florence",
+          "Urban II, Clement VI, Tetzel",
+          "Temporal punishment remitted by the church; aid for the dead",
+          "Communion of saints and prayer for the dead",
+          "Commercialised grace; no clear scriptural base (Protestants)"
+        ],
+        [
+          "Justification by faith",
+          "1517–1563",
+          "Wittenberg, Geneva, Trent",
+          "Luther, Calvin, Melanchthon",
+          "Righteousness received by faith alone; sermon central",
+          "Recovery of Paul's gospel",
+          "Catholics: undercuts transformation; New Perspective: misreads Paul's context"
+        ],
+        [
+          "Revival conversion",
+          "1730s–1840s",
+          "Northampton, Bristol, Cane Ridge, Rochester",
+          "Edwards, Whitefield, Wesley, Finney",
+          "Datable new birth; mass preaching; altar call",
+          "Spirit-filled awakening reaching millions",
+          "Emotionalism and technique (Murray); individualism"
+        ],
+        [
+          "Dispensationalism",
+          "1830s–1970s",
+          "Ireland, Britain, USA",
+          "Darby, Moody, Scofield",
+          "Pre-tribulation rapture; Israel-church distinction",
+          "Takes prophecy literally; spurred missions",
+          "Novel; shrinks gospel to escape (covenant and kingdom theologians)"
+        ],
+        [
+          "Pentecostalism",
+          "1901–present",
+          "Topeka, Los Angeles, then global South",
+          "Parham, Seymour",
+          "Spirit baptism, tongues, healing central",
+          "Return of apostolic power",
+          "Experience over doctrine; prosperity offshoots"
+        ],
+        [
+          "Tract and sinner's-prayer evangelism",
+          "1950s–1970s",
+          "USA",
+          "Graham, Bright, Kennedy",
+          "Short outline ending in a prayer of decision",
+          "Clear and reproducible",
+          "Transactional; false assurance; thin discipleship"
+        ],
+        [
+          "Kingdom and new-creation recovery",
+          "1959–present",
+          "USA, UK, Lausanne",
+          "Ladd, Padilla, Wright, McKnight",
+          "Jesus as Lord; renewal of creation; allegiance",
+          "Closer to Jesus and Acts",
+          "Can blur sin, atonement and justification (Piper, Gilbert)"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "year": 30,
+        "title": "Pentecost preaching in Jerusalem",
+        "note": "Peter announces the risen Jesus as Lord and Messiah and calls for repentance and baptism.",
+        "confidence": "biblical"
+      },
+      {
+        "year": 40,
+        "title": "Greeks hear the gospel at Antioch",
+        "note": "Believers called Christians; Antioch becomes a mission base.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 49,
+        "title": "Jerusalem meeting on Gentile converts",
+        "note": "Gentiles need not be circumcised.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 57,
+        "title": "Paul writes to Rome",
+        "note": "Romans sets out righteousness by faith for Jew and Gentile.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 155,
+        "title": "Justin Martyr teaching in Rome",
+        "note": "Christ presented as the divine Logos to educated pagans.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 230,
+        "title": "Origen in Alexandria and Caesarea",
+        "note": "Philosophical theology and spiritual exegesis.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 313,
+        "title": "Agreement of Milan",
+        "note": "Toleration and restitution for Christians.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 325,
+        "title": "Council of Nicaea",
+        "note": "The Son confessed as of one substance with the Father.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 380,
+        "title": "Edict of Thessalonica",
+        "note": "Theodosius makes Nicene Christianity the expected faith of the empire.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 418,
+        "title": "Council of Carthage against Pelagianism",
+        "note": "Augustinian teaching on sin and grace endorsed in the West.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 426,
+        "title": "Augustine completes City of God",
+        "note": "Amillennial reading and defence of eternal punishment.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 553,
+        "title": "Second Council of Constantinople",
+        "note": "Origenist teachings condemned; exact scope debated.",
+        "confidence": "debated"
+      },
+      {
+        "year": 600,
+        "title": "Private penance spreads",
+        "note": "Irish penitentials carried to the continent.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1054,
+        "title": "East-West schism",
+        "note": "Mutual excommunications deepen the Latin-Greek divide.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1095,
+        "title": "Crusade indulgence at Clermont",
+        "note": "Urban II offers remission of penance to crusaders.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1098,
+        "title": "Anselm's Cur Deus Homo",
+        "note": "Satisfaction theory of the atonement.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1215,
+        "title": "Fourth Lateran Council",
+        "note": "Annual confession required.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1343,
+        "title": "Treasury of merits defined",
+        "note": "Clement VI's bull Unigenitus.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1439,
+        "title": "Council of Florence",
+        "note": "Purgatory defined in the decree of union with the Greeks.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1517,
+        "title": "Luther's Ninety-Five Theses",
+        "note": "Protest against indulgence preaching.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1525,
+        "title": "First Anabaptist baptisms in Zurich",
+        "note": "Believers' church separate from the state.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1547,
+        "title": "Trent's decree on justification",
+        "note": "Catholic response to Protestant teaching.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1738,
+        "title": "Wesley at Aldersgate",
+        "note": "Assurance and new birth become central for Methodism.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1741,
+        "title": "Edwards preaches at Enfield",
+        "note": "Sinners in the Hands of an Angry God.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1831,
+        "title": "Powerscourt prophecy conferences",
+        "note": "Darby's dispensational ideas spread.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1835,
+        "title": "Finney's Lectures on Revivals",
+        "note": "New measures and the anxious bench defended.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1845,
+        "title": "Newman's Essay on Development",
+        "note": "Classic case for legitimate doctrinal development.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1900,
+        "title": "Harnack's What Is Christianity?",
+        "note": "Liberal case for a simple gospel overlaid by dogma.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1906,
+        "title": "Azusa Street revival",
+        "note": "Global Pentecostalism begins to spread.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1909,
+        "title": "Scofield Reference Bible",
+        "note": "Dispensational notes reach millions.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1952,
+        "title": "Four Spiritual Laws written",
+        "note": "Gospel as a short reproducible outline.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1974,
+        "title": "Lausanne Covenant",
+        "note": "Evangelism and social responsibility affirmed together.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2011,
+        "title": "The King Jesus Gospel",
+        "note": "Popular debate over what the gospel is.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "keyVerses": [
+      "1 Cor 15:3-8",
+      "Mark 1:14-15",
+      "Acts 2:36-38",
+      "Jude 1:3",
+      "Gal 1:6-9",
+      "John 16:12-15"
+    ],
+    "views": [
+      {
+        "name": "Decline or corruption",
+        "summary": "The apostolic gospel was progressively obscured by imperial power, Greek philosophy, sacramental systems or later revivalist techniques, and needs restoring. Held in different forms by Restorationists (Campbell, Stone), many Anabaptists, Harnack, and modern critics of Constantinianism such as Yoder, Hauerwas, Boyd and Zahnd."
+      },
+      {
+        "name": "Legitimate development",
+        "summary": "Under the Spirit's guidance the church grew in understanding, as an acorn becomes an oak, while keeping the same identity. Held by Newman and Catholic teaching, by Orthodox theologians such as Florovsky and Ware, and, for the early creeds, by many Reformed and Lutheran theologians."
+      },
+      {
+        "name": "Mixed",
+        "summary": "Some changes were faithful growth and some were distortions, and every era had blind spots, including our own. Held by most Protestant historians (e.g. Mark Noll), by confessional Protestants who accept Nicaea but reject purgatory, and by many scholars across traditions."
+      }
+    ],
+    "related": [
+      "/gospel-history",
+      "/guides/when-heaven-and-hell-became-central",
+      "/guides/when-end-times-became-central",
+      "/guides/holiness-and-sin-in-preaching",
+      "/debates/scripture-and-tradition",
+      "/debates/soteriology",
+      "/debates/atonement",
+      "/debates/millennium",
+      "/people/paul",
+      "/people/peter"
+    ],
+    "furtherQuestions": [
+      "What test would you use to tell a faithful development from a distortion: scripture alone, the agreement of the church, or closeness to Jesus' own preaching?",
+      "Which emphases of your own church tradition can you trace to a particular century and place?",
+      "Was the end of persecution under Constantine more of a gift or a temptation for the church?",
+      "If Eastern and Western Christians asked different central questions, what might each learn from the other?",
+      "Which modern evangelistic habits would the apostles in Acts recognise, and which would surprise them?"
+    ]
+  },
+  {
+    "id": "when-heaven-and-hell-became-central",
+    "title": "When heaven and hell became the centre of the appeal",
+    "category": "How the message changed",
+    "question": "Heaven and hell have always been part of Christian teaching, but when did they move from the background of doctrine into the centre of evangelistic preaching?",
+    "plainAnswer": "Jesus did warn about Gehenna (usually translated 'hell'), and the apostles preached a coming judgment, so the idea is not a later invention. But in the New Testament these warnings mostly come from Jesus to his own disciples and to religious leaders, and the sermons in Acts appeal to the resurrection and lordship of Jesus rather than to the fear of hell. Vivid pictures of torment grew in second-century writings like the *Apocalypse of Peter*, were systematised by Augustine, and dominated medieval art and imagination through works like Dante's. In Protestant revivalism and especially in twentieth-century evangelism, the question 'where will you go when you die?' became the opening and closing appeal. So the content is ancient; making it the main hook is largely a development of the medieval West and of modern evangelism.",
+    "keyTakeaways": [
+      "Of the twelve New Testament uses of Gehenna, eleven are on Jesus' lips, mostly addressed to disciples or to scribes and Pharisees, not to outsiders being evangelised.",
+      "Acts records no sermon that mentions hell as a destiny for listeners, yet the apostles do warn of judgment; the early church did not preach a judgment-free gospel.",
+      "Second-century texts (the Apocalypse of Peter, 2 Clement, Justin, Tertullian) begin using vivid punishment as moral motivation.",
+      "Augustine defended eternal punishment against 'merciful' Christians, and medieval art, Dante and the purgatory system made the soul's fate at death a constant preoccupation.",
+      "Edwards' Enfield sermon (1741) was atypical of his preaching but became the emblem of hellfire revivalism; Moody and Graham leaned more on God's love while keeping eternal destiny central.",
+      "Evangelism Explosion (1962–70) and similar methods built the whole presentation around the question of where one would go after death."
+    ],
+    "sections": [
+      {
+        "heading": "What 'hell' words mean in the Bible",
+        "body": "English Bibles use 'hell' for several different words. Sheol (Hebrew) and Hades (Greek) usually mean the grave or the realm of the dead in general. Tartarus appears once, for imprisoned angels. Gehenna is the Valley of Hinnom outside Jerusalem, a place linked with child sacrifice and later with judgment, which Jesus uses as an image of final ruin.\n\nGehenna appears twelve times in the New Testament: eleven times from Jesus and once in James. Jesus uses it in the Sermon on the Mount, in instructions to the Twelve, in warnings to disciples about causing others to stumble, and in his woes on scribes and Pharisees. In other words, his sharpest hell warnings are aimed at insiders: people who thought they were safe.\n\nThat does not make the warnings mild. Jesus also speaks of outer darkness, the furnace of fire, and the sheep and goats. But the pattern matters for preaching: in the Gospels, hell language mostly unsettles the religious, not frightens outsiders into belief.",
+        "refs": [
+          "Matt 5:22",
+          "Matt 5:29-30",
+          "Matt 10:28",
+          "Matt 18:8-9",
+          "Matt 23:15",
+          "Matt 23:33",
+          "Mark 9:43-48",
+          "Luke 12:4-5",
+          "Jas 3:6",
+          "2 Pet 2:4",
+          "Matt 25:31-46",
+          "Jer 7:30-34"
+        ],
+        "sources": [
+          {
+            "author": "Kim Papaioannou",
+            "title": "The Geography of Hell in the Teaching of Jesus",
+            "year": 2013,
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Robert A. Peterson and Christopher W. Morgan (eds.)",
+            "title": "Hell Under Fire",
+            "year": 2004,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Edward William Fudge",
+            "title": "The Fire That Consumes",
+            "year": 1982,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "note",
+          "text": "Counting depends on the Greek text used, but the overall pattern (Gehenna almost entirely in Jesus' teaching, never in Paul or Acts) is not disputed."
+        }
+      },
+      {
+        "heading": "The apostles: judgment yes, hell as hook no",
+        "body": "None of the sermons in Acts uses Gehenna, and Hades appears only in Peter's quotation of Psalm 16, to say that Jesus was not abandoned to the grave. Paul's letters never use Gehenna either; he speaks instead of wrath, destruction, perishing and the day of judgment.\n\nYet judgment is clearly present. Peter tells Cornelius that Jesus is appointed judge of the living and dead. Paul tells Athenian philosophers that God has fixed a day to judge the world by the man he raised. He reasons with Felix about justice, self-control and the coming judgment, and Felix is frightened. The Thessalonians turned from idols to wait for Jesus who rescues from the coming wrath.\n\nSo the honest summary is: the apostles' appeal was 'Jesus is risen and Lord, so repent', with judgment as one reason why this matters. Afterlife destinations were not the organising centre. Those who say the apostles preached exactly as modern 'turn or burn' evangelists overstate the case; those who say they never mentioned judgment are simply wrong.",
+        "refs": [
+          "Acts 2:27-31",
+          "Acts 10:42",
+          "Acts 17:30-31",
+          "Acts 24:24-25",
+          "1 Thess 1:9-10",
+          "Rom 2:5-8",
+          "2 Thess 1:6-10",
+          "1 Cor 1:18"
+        ],
+        "sources": [
+          {
+            "author": "C. H. Dodd",
+            "title": "The Apostolic Preaching and Its Developments",
+            "year": 1936,
+            "locator": "lecture 1",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "N. T. Wright",
+            "title": "Surprised by Hope",
+            "year": 2008,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The early church never preached judgment.' Correction: Acts 10:42, 17:31 and 24:25 all put coming judgment into evangelistic speech, and Paul's earliest letter speaks of rescue from the coming wrath. What is missing is not judgment but detailed descriptions of hell used as the main motive."
+        }
+      },
+      {
+        "heading": "The second century: tours of torment",
+        "body": "Within a few generations Christian writers were describing punishments in detail. The *Apocalypse of Peter* (probably early to mid second century) is a guided tour of hell in which specific sins receive matching punishments: blasphemers hung by their tongues, and so on. It was popular enough that the Muratorian fragment lists it as accepted by some though others would not have it read in church.\n\nSermons and apologies began to use eternal fire as moral motivation. The homily called 2 Clement warns of unquenchable fire for those who deny Christ. Justin Martyr told the emperor that Christians behave well because they expect eternal punishment for evil. Tertullian, around 200, ends *On the Spectacles* by imagining the last judgment as a greater show than the arena, with persecutors burning.\n\nHistorians such as Richard Bauckham and Alan Bernstein trace these images partly to Jewish apocalyptic writings like 1 Enoch and partly to Greek underworld traditions. This is the seedbed of later Christian hell imagery, though at this stage it served mainly to encourage believers under persecution and to defend Christian morality.",
+        "refs": [
+          "Rev 14:9-11",
+          "Rev 20:11-15",
+          "Jude 1:7",
+          "Luke 16:19-31"
+        ],
+        "sources": [
+          {
+            "author": "Anonymous",
+            "title": "Apocalypse of Peter",
+            "locator": "Ethiopic text, chs. 7–12 (punishments)",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Anonymous",
+            "title": "Muratorian Fragment",
+            "locator": "lines on the Apocalypse of Peter (c. lines 71–73)",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Anonymous",
+            "title": "2 Clement",
+            "locator": "17",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Justin Martyr",
+            "title": "First Apology",
+            "locator": "8",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Tertullian",
+            "title": "On the Spectacles",
+            "locator": "30",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Richard Bauckham",
+            "title": "The Fate of the Dead: Studies on the Jewish and Christian Apocalypses",
+            "year": 1998,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Alan E. Bernstein",
+            "title": "The Formation of Hell",
+            "year": 1993,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Augustine and the settled Western doctrine",
+        "body": "In the fourth and fifth centuries several Christians, following Origen or Gregory of Nyssa, hoped that punishment would be remedial and that all might eventually be restored. Augustine, writing *City of God* book 21, argued at length against these 'merciful' believers: if the eternal life of the saints lasts for ever, the punishment of the wicked must too, since Jesus uses the same word for both.\n\nAugustine also left room for a purifying fire for some believers between death and judgment, which later writers built into purgatory. With the condemnation of Origenist teachings in 553 (whose exact scope is debated), eternal conscious punishment became the settled view in both East and West, though the Eastern church never developed purgatory.\n\nPreachers such as John Chrysostom used the reality of hell to press moral reform on large, nominal congregations. The doctrine was now firmly in place. Its move into the centre of popular religion came through the medieval system that followed.",
+        "refs": [
+          "Matt 25:46",
+          "1 Cor 3:12-15",
+          "Mark 9:48",
+          "Rev 20:10"
+        ],
+        "sources": [
+          {
+            "author": "Augustine",
+            "title": "City of God",
+            "locator": "21.17–23",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Augustine",
+            "title": "Enchiridion",
+            "locator": "69",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Richard Price (trans.)",
+            "title": "The Acts of the Council of Constantinople of 553",
+            "year": 2009,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Ilaria Ramelli",
+            "title": "The Christian Doctrine of Apokatastasis",
+            "year": 2013,
+            "confidence": "debated"
+          },
+          {
+            "author": "Michael J. McClymond",
+            "title": "The Devil's Redemption: A New History and Interpretation of Christian Universalism",
+            "year": 2018,
+            "confidence": "debated"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "debate",
+          "text": "How many early Christians hoped for universal restoration is contested. Ilaria Ramelli argues it was widespread and respectable; critics such as Michael McClymond argue she overstates it and that eternal punishment was the majority view from the start."
+        }
+      },
+      {
+        "heading": "Medieval art, purgatory and Dante",
+        "body": "For most medieval Christians, who could not read, theology came through pictures, plays and sermons. Over church doors, carved Last Judgment scenes (for example at Conques and Autun in France, early twelfth century) showed Christ enthroned, souls weighed, the saved led up and the damned dragged into a monster's mouth. 'Doom' paintings over the chancel arch did the same in parish churches. Giotto's Arena Chapel in Padua (about 1305) and later Michelangelo's *Last Judgment* in the Sistine Chapel (1536–41) are famous examples.\n\nDante's *Divine Comedy* (written about 1308–21) gave the West its most detailed map of the afterlife: nine circles of hell, the mountain of purgatory and the spheres of paradise. Above the gate of hell he places a sign telling all who enter to abandon hope.\n\nCombined with annual confession (from 1215) and teaching on purgatory, these images made the fate of the soul at death the organising concern of popular religion. Preaching friars urged repentance before it was too late; deathbed rites and prayers for the dead were central. Historians such as Eamon Duffy stress that this world also offered great comfort through the sacraments and the saints, not only fear.",
+        "refs": [
+          "Matt 13:40-43",
+          "Rev 21:1-4",
+          "Luke 23:43",
+          "2 Cor 5:10"
+        ],
+        "sources": [
+          {
+            "author": "Dante Alighieri",
+            "title": "Divine Comedy: Inferno",
+            "locator": "canto 3 (gate of hell)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Gregory the Great",
+            "title": "Dialogues",
+            "locator": "book 4 (visions of the afterlife)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Jacques Le Goff",
+            "title": "The Birth of Purgatory",
+            "year": 1981,
+            "confidence": "debated"
+          },
+          {
+            "author": "Eamon Duffy",
+            "title": "The Stripping of the Altars",
+            "year": 1992,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Colleen McDannell and Bernhard Lang",
+            "title": "Heaven: A History",
+            "year": 1988,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The Bible's picture of hell comes from Dante.' Correction: Dante drew on scripture, but his circles, specific punishments and geography are poetic invention shaped by medieval theology and classical sources such as Virgil. Many popular images of hell (a ruler Satan, pitchfork-wielding demons) owe more to art and poetry than to the biblical text, where Satan is himself punished."
+        }
+      },
+      {
+        "heading": "Protestants and the revivals: Edwards to Moody",
+        "body": "The Reformers abolished purgatory, which made the choice starker: heaven or hell, decided in this life. Puritan writers such as Thomas Boston preached the misery of the unconverted state in detail. In the Great Awakening, preaching aimed to awaken sleeping consciences to their danger.\n\nOn 8 July 1741 Jonathan Edwards preached *Sinners in the Hands of an Angry God* at Enfield, Connecticut, picturing sinners held over the pit by God's hand alone. Listeners cried out. The sermon became the symbol of hellfire revivalism, though historians note that most of Edwards' preaching dwelt on God's beauty and the delights of heaven, and that his *Religious Affections* warned against judging conversion by emotional outbursts.\n\nIn the nineteenth century D. L. Moody, influenced by the preacher Henry Moorhouse, became known for stressing God's love more than terror, though he still pressed eternal destiny and premillennial urgency. Stanley Gundry's study of Moody describes his theology as 'love them in'. Heaven also grew in Victorian preaching as a home of reunion with loved ones, a theme McDannell and Lang trace.",
+        "refs": [
+          "Deut 32:35",
+          "John 3:16",
+          "John 3:36",
+          "Heb 9:27",
+          "John 14:1-3"
+        ],
+        "sources": [
+          {
+            "author": "Jonathan Edwards",
+            "title": "Sinners in the Hands of an Angry God",
+            "year": 1741,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Jonathan Edwards",
+            "title": "A Treatise Concerning Religious Affections",
+            "year": 1746,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "George M. Marsden",
+            "title": "Jonathan Edwards: A Life",
+            "year": 2003,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Thomas Boston",
+            "title": "Human Nature in Its Fourfold State",
+            "year": 1720,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Stanley N. Gundry",
+            "title": "Love Them In: The Proclamation Theology of D. L. Moody",
+            "year": 1976,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Billy Graham and 'if you died tonight'",
+        "body": "In the mid-twentieth century the evangelistic appeal was standardised. Billy Graham's crusades from 1949 and his book *Peace with God* (1953) offered forgiveness, peace and eternal life, with judgment and hell named plainly but not dwelt on in lurid detail. The decision to come forward was the climax.\n\nD. James Kennedy's Evangelism Explosion, developed at his Fort Lauderdale church from 1962 and published in 1970, trained church members to open conversations with two diagnostic questions: whether the person knew for sure they would go to heaven if they died today, and what they would say if God asked why he should let them into heaven. The rest of the presentation answered those questions. Many similar tracts followed.\n\nThis was the point at which eternal destination, rather than Jesus' lordship or the resurrection, explicitly framed the whole gospel for a large part of evangelicalism. Supporters say it addresses the most important question anyone faces and gives clear assurance. Critics, including some evangelical scholars, say it turns the gospel into fire insurance and leaves out the kingdom, discipleship and the renewal of creation.",
+        "refs": [
+          "1 John 5:11-13",
+          "Rom 6:23",
+          "Eph 2:8-9",
+          "Luke 23:39-43",
+          "Heb 2:14-15"
+        ],
+        "sources": [
+          {
+            "author": "Billy Graham",
+            "title": "Peace with God",
+            "year": 1953,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "D. James Kennedy",
+            "title": "Evangelism Explosion",
+            "year": 1970,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "William Martin",
+            "title": "A Prophet with Honor: The Billy Graham Story",
+            "year": 1991,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Dallas Willard",
+            "title": "The Divine Conspiracy",
+            "year": 1998,
+            "locator": "ch. 2 (the gospel of sin management)",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated"
+      },
+      {
+        "heading": "Today: re-examining the centre",
+        "body": "Since the 1980s evangelicals have argued openly about hell itself. John Stott tentatively favoured conditional immortality (the wicked are finally destroyed rather than tormented for ever), following Edward Fudge. Rob Bell's *Love Wins* (2011) popularised hope for universal reconciliation; Francis Chan and Preston Sprinkle's *Erasing Hell* (2011) answered it. Catholic and Orthodox teaching continue to affirm hell as real while stressing it is self-chosen separation from God.\n\nAt the same time the kingdom and new-creation movement has moved 'going to heaven when you die' from the centre. N. T. Wright argues that the Bible's final hope is resurrection and a renewed earth, with heaven as an intermediate rest. Defenders of traditional evangelism reply that the coming judgment is exactly why the good news is urgent, and that Jesus spoke of hell more than anyone.\n\nBoth sides agree on a historical point: in the New Testament, hope and warning sit inside a message about Jesus as risen Lord. Where they disagree is how much weight eternal destiny should carry in the first conversation.",
+        "refs": [
+          "Rev 21:1-5",
+          "1 Cor 15:51-57",
+          "Phil 1:21-23",
+          "Matt 10:28",
+          "2 Pet 3:9-13"
+        ],
+        "sources": [
+          {
+            "author": "David L. Edwards and John Stott",
+            "title": "Essentials: A Liberal-Evangelical Dialogue",
+            "year": 1988,
+            "locator": "Stott's response on hell",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Rob Bell",
+            "title": "Love Wins",
+            "year": 2011,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Francis Chan and Preston Sprinkle",
+            "title": "Erasing Hell",
+            "year": 2011,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Catechism of the Catholic Church",
+            "title": "Catechism of the Catholic Church",
+            "locator": "1033–1037",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "table": {
+      "caption": "How heaven and hell featured in preaching across the eras",
+      "columns": [
+        "Era",
+        "How heaven/hell featured in preaching",
+        "Example"
+      ],
+      "rows": [
+        [
+          "Jesus (c. 28–30)",
+          "Gehenna warnings mostly to disciples and religious leaders; kingdom and eternal life offered",
+          "Matt 23:33; Mark 9:43-48"
+        ],
+        [
+          "Apostles in Acts (30–60s)",
+          "Coming judgment named; no hell imagery; appeal centred on resurrection and lordship",
+          "Acts 17:30-31; Acts 24:25"
+        ],
+        [
+          "Second century",
+          "Vivid punishments used for moral motivation and comfort under persecution",
+          "Apocalypse of Peter; Tertullian, On the Spectacles 30"
+        ],
+        [
+          "Nicene era (300s–400s)",
+          "Eternal punishment defended; hell used to reform nominal crowds",
+          "Augustine, City of God 21; Chrysostom's homilies"
+        ],
+        [
+          "Early medieval (600–1100)",
+          "Visions of the afterlife and purging fire in popular stories",
+          "Gregory the Great, Dialogues 4"
+        ],
+        [
+          "High medieval (1100–1500)",
+          "Last Judgment portals, doom paintings, purgatory and confession make the soul's fate central",
+          "Conques and Autun portals; Dante's Divine Comedy"
+        ],
+        [
+          "Reformation (1500s)",
+          "Purgatory removed; heaven or hell settled by faith in this life",
+          "Luther's Ninety-Five Theses; Heidelberg Catechism"
+        ],
+        [
+          "Puritan and revival (1600s–1700s)",
+          "Awakening sinners to their danger as preparation for grace",
+          "Edwards, Sinners in the Hands of an Angry God (1741)"
+        ],
+        [
+          "Nineteenth century",
+          "Mass revivals; Moody stresses God's love; heaven as family reunion",
+          "Moody's campaigns; Victorian hymns"
+        ],
+        [
+          "Mid-twentieth century",
+          "Eternal destiny frames the whole presentation",
+          "Graham's Peace with God; Evangelism Explosion"
+        ],
+        [
+          "Today",
+          "Debate over hell's nature; kingdom and new creation re-centre the message",
+          "Stott on conditionalism; Love Wins and Erasing Hell; Wright's Surprised by Hope"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "year": 30,
+        "title": "Jesus' Gehenna warnings",
+        "note": "Mostly addressed to disciples and to scribes and Pharisees.",
+        "confidence": "biblical"
+      },
+      {
+        "year": 50,
+        "title": "Paul at Athens",
+        "note": "God has fixed a day of judgment, proved by the resurrection.",
+        "confidence": "biblical"
+      },
+      {
+        "year": 135,
+        "title": "Apocalypse of Peter",
+        "note": "Early Christian tour of hell; date approximate.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 200,
+        "title": "Tertullian, On the Spectacles",
+        "note": "Last judgment imagined as the greatest spectacle.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 426,
+        "title": "Augustine completes City of God",
+        "note": "Book 21 defends eternal punishment.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 553,
+        "title": "Origenist teachings condemned",
+        "note": "Scope regarding universal restoration debated.",
+        "confidence": "debated"
+      },
+      {
+        "year": 593,
+        "title": "Gregory the Great's Dialogues",
+        "note": "Popular afterlife visions and purging fire.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1130,
+        "title": "Last Judgment portal at Autun",
+        "note": "Romanesque sculpture of judgment; date approximate.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1215,
+        "title": "Annual confession required",
+        "note": "Fourth Lateran Council.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1308,
+        "title": "Dante begins the Divine Comedy",
+        "note": "Completed about 1321.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1439,
+        "title": "Purgatory defined at Florence",
+        "note": "Fate of the soul at death formalised in the West.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1536,
+        "title": "Michelangelo begins the Last Judgment",
+        "note": "Sistine Chapel, finished 1541.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1741,
+        "title": "Edwards at Enfield",
+        "note": "Emblem of hellfire revival preaching.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1875,
+        "title": "Moody's British and American campaigns",
+        "note": "Love of God stressed; eternal destiny kept central.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1953,
+        "title": "Peace with God",
+        "note": "Billy Graham's standard presentation.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1962,
+        "title": "Evangelism Explosion begins",
+        "note": "Diagnostic questions about dying tonight; book 1970.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1988,
+        "title": "Stott on conditional immortality",
+        "note": "Evangelical debate on hell's nature goes public.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2011,
+        "title": "Love Wins and Erasing Hell",
+        "note": "Popular debate over universal hope.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "keyVerses": [
+      "Matt 10:28",
+      "Mark 9:43-48",
+      "Acts 17:30-31",
+      "1 Thess 1:9-10",
+      "Matt 25:46",
+      "Rev 21:1-5"
+    ],
+    "views": [
+      {
+        "name": "Always central",
+        "summary": "Jesus spoke of hell more than anyone and the apostles warned of wrath; later preachers who centred eternal destiny were faithfully continuing the biblical emphasis. Common among traditional evangelicals and in Hell Under Fire."
+      },
+      {
+        "name": "Present but not central",
+        "summary": "Judgment is real and biblical, but in the New Testament it serves the announcement of Jesus as Lord; making 'where will you go when you die?' the organising question was a later, mainly Western and modern shift. Held by Dodd, Wright, McKnight and many kingdom-focused evangelicals."
+      },
+      {
+        "name": "Later intensification distorted the doctrine",
+        "summary": "Vivid imagery and fear-based appeals grew from apocalyptic and Greek sources and medieval art, obscuring a more restorative or conditional biblical teaching. Held in different forms by conditionalists (Fudge, Stott tentatively) and Christian universalists (Ramelli, Bell, David Bentley Hart)."
+      }
+    ],
+    "related": [
+      "/afterlife",
+      "/debates/hell",
+      "/debates/heaven-new-creation",
+      "/guides/how-the-message-changed",
+      "/guides/when-end-times-became-central",
+      "/gospel-history"
+    ],
+    "furtherQuestions": [
+      "Why might Jesus have aimed his sharpest warnings at religious insiders rather than outsiders?",
+      "What changes in a gospel presentation that begins with the resurrection rather than with the question of dying tonight?",
+      "Did medieval art help people understand scripture, or replace it with images of its own?",
+      "Is fear a legitimate motive for turning to God? What do Jesus and Paul suggest?",
+      "How would you summarise the gospel to someone without mentioning heaven or hell, and what would be lost?"
+    ]
+  },
+  {
+    "id": "when-end-times-became-central",
+    "title": "When the end times became central",
+    "category": "How the message changed",
+    "question": "The first Christians expected Jesus to return, but when did detailed end-times prophecy, and especially the rapture, become a central part of gospel preaching?",
+    "plainAnswer": "The earliest Christians lived with a strong sense that Jesus' return could be near, and many second-century leaders expected a literal thousand-year reign on earth. But Jesus also said no one knows the day, and the apostles kept hope tied to his resurrection rather than to charts. Over the centuries end-times urgency flared up in waves, usually in times of crisis: Montanism, Joachim of Fiore's followers, Reformation battles over the Antichrist, and the Millerites in 1844. The modern form, with a secret rapture before a seven-year tribulation, came from John Nelson Darby in the 1830s and spread through the Scofield Bible (1909), Hal Lindsey (1970) and *Left Behind* (1995). Preterists and amillennialists, who make up much of historic Christianity, object that this system misreads the prophecies.",
+    "keyTakeaways": [
+      "Imminent hope is biblical, but so are warnings against date-setting; the New Testament holds both together.",
+      "Chiliasm (belief in a literal thousand-year earthly kingdom) was common in the second century (Papias, Justin, Irenaeus) before Origen and Augustine led most of the church away from it.",
+      "Waves of end-times urgency usually arose among protest or renewal movements in times of crisis, and institutional churches usually moderated them.",
+      "The pre-tribulation rapture as a system dates from the 1830s; earlier claimed precursors are few and debated.",
+      "From Darby to Left Behind, prophecy became an evangelistic tool: 'be ready, or be left behind'.",
+      "Preterists (much prophecy fulfilled in AD 70) and amillennialists (the thousand years is the church age) offer serious alternative readings, not fringe ones."
+    ],
+    "sections": [
+      {
+        "heading": "Imminence in Jesus and the apostles",
+        "body": "Jesus announced that the kingdom of God had come near and spoke of the Son of Man coming in glory. In the Olivet discourse he says 'this generation' will not pass away before 'all these things' happen, yet also that no one knows the day or hour, not even the Son. Paul told the Thessalonians that living believers would be caught up to meet the Lord, while also correcting those who thought the day had already come or who stopped working.\n\nScholars read this in different ways. Albert Schweitzer argued that Jesus expected the end within his own generation and was mistaken. C. H. Dodd stressed that the kingdom had already arrived in Jesus ('realised eschatology'). Many today, following Oscar Cullmann and George Ladd, speak of 'already and not yet': the kingdom began with Jesus and will be completed at his return.\n\nWhat is clear is that urgency in the New Testament serves faithful living: stay awake, love one another, keep working, do not be shaken. It is not a timetable.",
+        "refs": [
+          "Mark 1:14-15",
+          "Mark 13:24-37",
+          "Matt 24:34-36",
+          "1 Thess 4:13-18",
+          "1 Thess 5:1-11",
+          "2 Thess 2:1-3",
+          "2 Thess 3:6-12",
+          "Acts 1:6-8",
+          "2 Pet 3:8-13"
+        ],
+        "sources": [
+          {
+            "author": "Albert Schweitzer",
+            "title": "The Quest of the Historical Jesus",
+            "locator": "ch. 19 (consistent eschatology)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "C. H. Dodd",
+            "title": "The Parables of the Kingdom",
+            "year": 1935,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "George Eldon Ladd",
+            "title": "Jesus and the Kingdom",
+            "year": 1964,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Dale C. Allison Jr.",
+            "title": "Jesus of Nazareth: Millenarian Prophet",
+            "year": 1998,
+            "confidence": "debated"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The early church was obsessed with predicting the date of the end.' Correction: the New Testament explicitly forbids date-setting (Matt 24:36; Acts 1:7) and corrects end-times excitement (2 Thess 2:1-3). Urgency was strong, but it was moral and missional, not calendrical."
+        }
+      },
+      {
+        "heading": "Chiliasm in the second century",
+        "body": "Chiliasm, from the Greek for 'thousand', is the belief that Christ will reign on earth for a literal thousand years before the final state (what is now called premillennialism). It was widespread in the second century. Papias of Hierapolis, according to Irenaeus, passed on a saying about the earth's fantastic fruitfulness in the coming kingdom. Justin Martyr said he and other orthodox Christians expected a thousand years in a rebuilt Jerusalem, while admitting some true Christians disagreed. Irenaeus devoted the end of *Against Heresies* to a restored earthly creation.\n\nThis hope was earthy, not escapist: the righteous would enjoy the renewed creation in their resurrected bodies. It was also bound up with resistance to Gnostics who despised the material world.\n\nLater writers grew uneasy. Eusebius thought Papias was a man of limited understanding who took apostolic sayings too literally. Origen spiritualised the promises. Chiliasm survived in the West through writers like Lactantius before Augustine turned decisively against it.",
+        "refs": [
+          "Rev 20:1-6",
+          "Isa 65:17-25",
+          "Isa 11:6-9",
+          "Matt 19:28",
+          "Rom 8:19-21"
+        ],
+        "sources": [
+          {
+            "author": "Irenaeus",
+            "title": "Against Heresies",
+            "locator": "5.32–36; 5.33.3–4 (Papias tradition)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Justin Martyr",
+            "title": "Dialogue with Trypho",
+            "locator": "80–81",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Eusebius",
+            "title": "Church History",
+            "locator": "3.39.11–13",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Charles E. Hill",
+            "title": "Regnum Caelorum: Patterns of Millennial Thought in Early Christianity",
+            "year": 2001,
+            "confidence": "debated"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "debate",
+          "text": "How dominant chiliasm was is debated. Older histories treated it as the near-universal early view; Charles Hill argues that a non-chiliastic view, with the righteous dead going straight to heaven, was also widespread and orthodox from early on."
+        }
+      },
+      {
+        "heading": "Montanism and the turn away from urgency",
+        "body": "Around 170 in Phrygia (modern Turkey), Montanus and two prophetesses, Priscilla and Maximilla, announced a 'New Prophecy': strict fasting, no remarriage, readiness for martyrdom, and the coming of the heavenly Jerusalem near the village of Pepuza. Tertullian later joined a form of the movement.\n\nThe wider church rejected it, mainly over claims to new revelation and the authority of its prophets. One effect was suspicion of new prophecy and of feverish end-times claims. Our knowledge comes mainly from opponents, so historians handle the details carefully.\n\nBy the third century, Origen in Alexandria read the prophecies spiritually: the kingdom is the soul's growth into God. In the West, Tyconius and then Augustine read Revelation 20 as describing the present church age: Satan bound by the gospel, Christ reigning now with the saints. This 'amillennial' reading (no future earthly millennium) became the dominant view in Catholic, Orthodox and later most Protestant churches.",
+        "refs": [
+          "Rev 20:1-6",
+          "Matt 12:28-29",
+          "Col 1:13",
+          "Eph 2:4-7",
+          "1 John 4:1-3"
+        ],
+        "sources": [
+          {
+            "author": "Eusebius",
+            "title": "Church History",
+            "locator": "5.16–18",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Epiphanius",
+            "title": "Panarion",
+            "locator": "48–49",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Christine Trevett",
+            "title": "Montanism: Gender, Authority and the New Prophecy",
+            "year": 1996,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Augustine",
+            "title": "City of God",
+            "locator": "20.7–9",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Joachim of Fiore and medieval waves",
+        "body": "Medieval Christians generally expected judgment and taught the 'four last things' (death, judgment, heaven, hell), but they did not usually preach a near end. Waves came nonetheless. Joachim of Fiore (about 1135–1202), a Calabrian abbot, divided history into three ages: of the Father (law), the Son (grace) and a coming age of the Spirit, of contemplative freedom. His followers, especially radical 'Spiritual' Franciscans, expected the new age around 1260 and saw themselves as its forerunners.\n\nThe church condemned parts of this: a Franciscan's *Introduction to the Eternal Gospel* (1254) was condemned in 1255. Yet Joachim's pattern shaped later apocalyptic thought for centuries. Other waves accompanied plague, schism and crusade: flagellant processions, Vincent Ferrer's preaching of the Antichrist's coming (around 1400), and Savonarola's warnings in Florence (1490s).\n\nNorman Cohn's classic study linked these movements to social upheaval. Later historians qualify his thesis but agree that apocalyptic urgency tends to surge in crisis and among those on the margins.",
+        "refs": [
+          "Dan 7:13-27",
+          "Rev 14:6-7",
+          "Joel 2:28-32",
+          "Mark 13:5-8"
+        ],
+        "sources": [
+          {
+            "author": "Marjorie Reeves",
+            "title": "The Influence of Prophecy in the Later Middle Ages: A Study in Joachimism",
+            "year": 1969,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Bernard McGinn",
+            "title": "The Calabrian Abbot: Joachim of Fiore in the History of Western Thought",
+            "year": 1985,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Norman Cohn",
+            "title": "The Pursuit of the Millennium",
+            "year": 1957,
+            "confidence": "debated"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "The Reformation and the Antichrist",
+        "body": "The Reformers did not, on the whole, preach a coming earthly millennium; they were mostly amillennial like Augustine. But they did believe they lived near the end and that the Antichrist had appeared. Luther, in the Smalcald Articles (1537), identified the papacy as the Antichrist; the Westminster Confession (1646) said the same. Catholic polemicists returned the charge.\n\nCatholic Jesuit scholars developed alternative readings partly in response. Francisco Ribera pushed most of Revelation into the future (futurism), and Luis de Alcázar placed most of it in the early church's struggles with Judaism and Rome (preterism). Ironically, Protestant futurists later adopted Ribera's approach.\n\nRadicals went further. At Münster in 1534–35 militant Anabaptists set up a 'New Jerusalem' that ended in a bloody siege. In 1650s England, the Fifth Monarchy Men expected Christ's rule to replace earthly kings. These episodes made mainstream Protestants wary of millennial enthusiasm for a long time.",
+        "refs": [
+          "2 Thess 2:3-12",
+          "1 John 2:18-22",
+          "Rev 13:1-18",
+          "Rev 17:1-6",
+          "Dan 7:23-27"
+        ],
+        "sources": [
+          {
+            "author": "Martin Luther",
+            "title": "Smalcald Articles",
+            "year": 1537,
+            "locator": "Part II, Article 4",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Westminster Assembly",
+            "title": "Westminster Confession of Faith",
+            "year": 1646,
+            "locator": "25.6",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Francisco Ribera",
+            "title": "Commentary on the Apocalypse",
+            "locator": "published c. 1590",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Luis de Alcázar",
+            "title": "Vestigatio arcani sensus in Apocalypsi",
+            "year": 1614,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Calvin",
+            "title": "Institutes of the Christian Religion",
+            "locator": "3.25.5 (on the chiliasts)",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'The Reformers were premillennialists who expected a rapture.' Correction: Luther and Calvin were broadly Augustinian (amillennial) and rejected an earthly thousand-year reign; Calvin dismissed chiliasm as childish. Their end-times urgency centred on the Antichrist and the last judgment, not a rapture."
+        }
+      },
+      {
+        "heading": "The Millerites and the Great Disappointment (1844)",
+        "body": "Jonathan Edwards and many eighteenth- and nineteenth-century evangelicals were postmillennial: they believed the gospel's spread would bring a golden age before Christ's return, which fuelled missions and social reform.\n\nWilliam Miller, a New York farmer and Baptist preacher, took the opposite line. Calculating from Daniel's 2,300 'days' as years, he concluded that Christ would return around 1843. When that passed, followers fixed 22 October 1844. Tens of thousands prepared; some left crops unharvested. When nothing happened, the 'Great Disappointment' followed.\n\nMany abandoned prophecy altogether, while others reinterpreted the date and founded movements including Seventh-day Adventism. The episode shows how powerful end-times urgency can be as an evangelistic motive, and how damaging date-setting is when it fails. Later date-setters, from Edgar Whisenant's 1988 booklet to Harold Camping's 2011 predictions, repeated the pattern.",
+        "refs": [
+          "Dan 8:14",
+          "Dan 9:24-27",
+          "Matt 24:36-44",
+          "Acts 1:7",
+          "Hab 2:3"
+        ],
+        "sources": [
+          {
+            "author": "William Miller",
+            "title": "Evidence from Scripture and History of the Second Coming of Christ, About the Year 1843",
+            "year": 1842,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "David L. Rowe",
+            "title": "God's Strange Work: William Miller and the End of the World",
+            "year": 2008,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Jonathan Edwards",
+            "title": "An Humble Attempt",
+            "year": 1747,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Darby, the rapture and the Scofield Bible",
+        "body": "In the late 1820s and 1830s John Nelson Darby developed a system in which God's plans for Israel and the church run on separate tracks. The church will be secretly 'caught up' (raptured) before a seven-year tribulation, after which God resumes his dealings with Israel and Christ returns visibly to reign a thousand years. The rapture could happen at any moment, with no sign needing to come first.\n\nThe view spread through Brethren circles, the Niagara Bible Conferences (1878–1897), D. L. Moody's network and above all the *Scofield Reference Bible* (1909), whose notes made the system feel like plain Bible reading. Moody captured its evangelistic force by picturing the world as a sinking ship and his task as getting people into the lifeboat.\n\nWhere Darby got the idea is disputed. Some trace it to his own study; critics have pointed to Edward Irving's circle or a Scottish girl, Margaret MacDonald, whose 1830 vision some claim influenced it, though defenders deny any link. Claimed earlier precursors (a passage in Pseudo-Ephraem, Morgan Edwards in 1788) are debated. Most historians agree that it became a developed, widely held system only from the 1830s.",
+        "refs": [
+          "1 Thess 4:16-17",
+          "1 Thess 5:9",
+          "Rev 3:10",
+          "Dan 9:27",
+          "Matt 24:40-41",
+          "John 14:2-3"
+        ],
+        "sources": [
+          {
+            "author": "John Nelson Darby",
+            "title": "Collected Writings (ed. William Kelly)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Ernest R. Sandeen",
+            "title": "The Roots of Fundamentalism: British and American Millenarianism, 1800–1930",
+            "year": 1970,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "C. I. Scofield",
+            "title": "The Scofield Reference Bible",
+            "year": 1909,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Timothy C. Weber",
+            "title": "Living in the Shadow of the Second Coming",
+            "year": 1979,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Thomas Ice and Timothy Demy (eds.)",
+            "title": "When the Trumpet Sounds",
+            "year": 1995,
+            "locator": "essays on pre-Darby precursors",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "D. L. Moody",
+            "title": "New Sermons, Addresses and Prayers",
+            "locator": "sermon on Christ's return (lifeboat image)",
+            "confidence": "needs-verification"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "debate",
+          "text": "Defenders of the pre-tribulation rapture argue that a doctrine can be biblical even if it was systematised late, just as justification by faith was clarified in the 1500s. Critics reply that a teaching unknown to the church for eighteen centuries needs unusually strong textual support, which they think 1 Thess 4 does not give."
+        }
+      },
+      {
+        "heading": "Hal Lindsey and Left Behind: prophecy as evangelism",
+        "body": "After the founding of the State of Israel (1948) and the capture of Jerusalem's Old City (1967), prophecy teaching gained new energy. Hal Lindsey's *The Late Great Planet Earth* (1970) linked biblical prophecy to the Cold War, the Middle East and the European Common Market, and is often described as one of the best-selling nonfiction books of the 1970s. Films such as *A Thief in the Night* (1972) dramatised being left behind.\n\nTim LaHaye and Jerry B. Jenkins' *Left Behind* novels (from 1995) turned the scenario into a blockbuster series selling tens of millions of copies. For many readers, the gospel was framed as the way to avoid being left behind at the rapture.\n\nHistorian Paul Boyer showed how deeply this outlook shaped American popular religion and even politics, including attitudes to Israel and the environment. Supporters credit it with leading many to faith and keeping hope alive; critics fault failed predictions (Lindsey hinted at events within a generation of 1948) and a fear-driven, escapist gospel.",
+        "refs": [
+          "Matt 24:32-35",
+          "Luke 21:25-28",
+          "Ezek 38:1-23",
+          "Rev 16:16",
+          "1 Pet 4:7"
+        ],
+        "sources": [
+          {
+            "author": "Hal Lindsey with C. C. Carlson",
+            "title": "The Late Great Planet Earth",
+            "year": 1970,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Tim LaHaye and Jerry B. Jenkins",
+            "title": "Left Behind",
+            "year": 1995,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Paul Boyer",
+            "title": "When Time Shall Be No More: Prophecy Belief in Modern American Culture",
+            "year": 1992,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Crawford Gribben",
+            "title": "Writing the Rapture: Prophecy Fiction in Evangelical America",
+            "year": 2009,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Preterist and amillennial objections",
+        "body": "Preterists (from Latin for 'past') argue that much New Testament prophecy, especially the Olivet discourse, was fulfilled in the Roman destruction of Jerusalem in AD 70. Jesus said 'this generation' would see it, and Luke speaks of Jerusalem surrounded by armies. Partial preterists, such as R. C. Sproul and Kenneth Gentry, still expect Christ's future bodily return and the resurrection; full preterism, which says all prophecy is fulfilled, is rejected by almost all churches.\n\nAmillennialists, following Augustine and represented today by writers like Anthony Hoekema and Kim Riddlebarger, read Revelation's thousand years as the present reign of Christ and the saints. They see one return of Christ, one resurrection of righteous and wicked, one judgment, and then the new creation. They hold that the New Testament knows no secret rapture separate from the visible return.\n\nPremillennialists respond that Revelation 20 most naturally describes a future reign after Christ's return, and that the earliest chiliasts read it so. Pre-tribulation dispensationalists add that Israel's promises require a future fulfilment. Each side has learned from the others: many dispensationalists now stress the present kingdom, and many amillennialists stress the coming renewal of the earth.",
+        "refs": [
+          "Matt 24:34",
+          "Luke 21:20-24",
+          "Matt 16:27-28",
+          "John 5:28-29",
+          "Rev 20:1-6",
+          "2 Pet 3:10-13",
+          "Matt 25:31-46"
+        ],
+        "sources": [
+          {
+            "author": "R. C. Sproul",
+            "title": "The Last Days According to Jesus",
+            "year": 1998,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Kenneth L. Gentry Jr.",
+            "title": "Before Jerusalem Fell: Dating the Book of Revelation",
+            "year": 1989,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Anthony A. Hoekema",
+            "title": "The Bible and the Future",
+            "year": 1979,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Kim Riddlebarger",
+            "title": "A Case for Amillennialism",
+            "year": 2003,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Barbara R. Rossing",
+            "title": "The Rapture Exposed",
+            "year": 2004,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "N. T. Wright",
+            "title": "Jesus and the Victory of God",
+            "year": 1996,
+            "locator": "ch. 8 (the Olivet discourse)",
+            "confidence": "needs-verification"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "note",
+          "text": "Almost all Christian traditions agree on the essentials: Christ will return, the dead will be raised, there will be judgment, and God will renew all things. The disputes are over sequence and details, not the hope itself."
+        }
+      }
+    ],
+    "table": {
+      "caption": "Waves of end-times urgency",
+      "columns": [
+        "Era",
+        "Movement or teacher",
+        "What was expected",
+        "How preaching used it",
+        "What followed"
+      ],
+      "rows": [
+        [
+          "30–100",
+          "Jesus and the apostles",
+          "Return of the Son of Man; resurrection; judgment",
+          "Stay awake, live holy lives, keep working",
+          "Delay discussed (2 Pet 3); hope kept"
+        ],
+        [
+          "c. 100–200",
+          "Papias, Justin, Irenaeus",
+          "Thousand-year earthly kingdom after Christ's return",
+          "Hope for renewed creation; anti-Gnostic",
+          "Gradually displaced by Origen and Augustine"
+        ],
+        [
+          "c. 170",
+          "Montanism",
+          "Heavenly Jerusalem at Pepuza",
+          "Strict discipline and new prophecy",
+          "Rejected by wider church"
+        ],
+        [
+          "c. 1200–1260",
+          "Joachim of Fiore and Spiritual Franciscans",
+          "Age of the Spirit around 1260",
+          "Calls to radical poverty and renewal",
+          "Partly condemned; long influence"
+        ],
+        [
+          "1517–1650",
+          "Reformers; Münster; Fifth Monarchists",
+          "Antichrist revealed; last judgment near",
+          "Polemic against Rome; radical kingdoms",
+          "Mainstream wariness of millennialism"
+        ],
+        [
+          "1700s–1800s",
+          "Edwards and postmillennialists",
+          "Gospel-led golden age before Christ returns",
+          "Missions and reform",
+          "Declined after the Civil War and world wars"
+        ],
+        [
+          "1844",
+          "William Miller",
+          "Return on 22 October 1844",
+          "Urgent mass warnings",
+          "Great Disappointment; Adventism"
+        ],
+        [
+          "1830s–1909",
+          "Darby, Moody, Scofield",
+          "Any-moment rapture; tribulation; millennium",
+          "Lifeboat evangelism",
+          "Dispensationalism dominant in US evangelicalism"
+        ],
+        [
+          "1970–2007",
+          "Hal Lindsey, Left Behind",
+          "Rapture and tribulation tied to current events",
+          "Prophecy as an evangelistic hook",
+          "Huge sales; growing critique"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "year": 30,
+        "title": "Olivet discourse",
+        "note": "Jesus speaks of the temple's fall and his coming; no one knows the day.",
+        "confidence": "biblical"
+      },
+      {
+        "year": 50,
+        "title": "1 Thessalonians",
+        "note": "Living believers will be caught up to meet the Lord.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 70,
+        "title": "Fall of Jerusalem",
+        "note": "Preterists see much prophecy fulfilled here.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 155,
+        "title": "Justin's Dialogue with Trypho",
+        "note": "Expects a thousand years in a rebuilt Jerusalem.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 170,
+        "title": "Montanist New Prophecy",
+        "note": "Phrygian movement expects the heavenly Jerusalem.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 180,
+        "title": "Irenaeus, Against Heresies book 5",
+        "note": "Earthly restored kingdom defended.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 426,
+        "title": "Augustine's City of God",
+        "note": "Millennium read as the church age.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1202,
+        "title": "Death of Joachim of Fiore",
+        "note": "His three-age scheme inspires later movements.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1255,
+        "title": "Eternal Gospel condemned",
+        "note": "Joachimite speculation curbed.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1534,
+        "title": "Münster kingdom",
+        "note": "Radical apocalyptic regime, crushed 1535.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1537,
+        "title": "Smalcald Articles",
+        "note": "Luther identifies the papacy with Antichrist.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1614,
+        "title": "Alcázar's preterist commentary",
+        "note": "Revelation read as fulfilled in early church history.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1747,
+        "title": "Edwards' Humble Attempt",
+        "note": "Postmillennial prayer for worldwide revival.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1831,
+        "title": "Powerscourt conferences",
+        "note": "Darby's views spread.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1844,
+        "title": "Great Disappointment",
+        "note": "Millerite date of 22 October passes.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1878,
+        "title": "Niagara Bible Conference begins",
+        "note": "Premillennial network grows.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1909,
+        "title": "Scofield Reference Bible",
+        "note": "Dispensational notes reach millions.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1948,
+        "title": "State of Israel founded",
+        "note": "Seen by many as prophetic fulfilment.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1970,
+        "title": "The Late Great Planet Earth",
+        "note": "Prophecy tied to current events.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1995,
+        "title": "Left Behind published",
+        "note": "Rapture fiction becomes a mass phenomenon.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "keyVerses": [
+      "Matt 24:36",
+      "Acts 1:6-8",
+      "1 Thess 4:16-17",
+      "Rev 20:1-6",
+      "2 Pet 3:8-13",
+      "Mark 13:32-37"
+    ],
+    "views": [
+      {
+        "name": "Imminence was central from the start",
+        "summary": "The first Christians expected Jesus very soon and later churches gradually muted this. Schweitzer and others think Jesus himself expected the end in his generation; many premillennialists believe recovering imminence restores apostolic urgency."
+      },
+      {
+        "name": "Inaugurated hope, not countdown",
+        "summary": "The kingdom began in Jesus and will be completed at his return; urgency served holiness and mission, not date-setting. Held by Ladd, Cullmann, Wright and most amillennial and historic premillennial scholars."
+      },
+      {
+        "name": "Fulfilled in the first century",
+        "summary": "Much of what Jesus predicted happened in AD 70, so modern prophecy-speculation misreads the texts. Held by partial preterists such as Sproul and Gentry, who still expect a final return."
+      },
+      {
+        "name": "Dispensational premillennialism",
+        "summary": "Scripture teaches a pre-tribulation rapture, a future tribulation and a literal millennium for Israel; this was clarified in the 1830s but is taught in the text. Held by Darby, Scofield, Ryrie, Walvoord and many evangelical churches."
+      }
+    ],
+    "related": [
+      "/debates/millennium",
+      "/debates/rapture",
+      "/debates/israel-and-church",
+      "/guides/how-the-message-changed",
+      "/guides/when-heaven-and-hell-became-central",
+      "/gospel-history"
+    ],
+    "furtherQuestions": [
+      "How can a church preach Christ's return with urgency while obeying the warning that no one knows the day?",
+      "Why do end-times movements tend to flare up in times of crisis?",
+      "What did Jesus mean by 'this generation', and how do your answers fit Luke 21:20-24?",
+      "Did hope for a renewed earth (Irenaeus) or escape from it (popular rapture teaching) shape how Christians treated the world?",
+      "What should a preacher say after a widely publicised prediction fails?"
+    ]
+  },
+  {
+    "id": "holiness-and-sin-in-preaching",
+    "title": "How sin, guilt and holiness were preached",
+    "category": "How the message changed",
+    "question": "How has Christian preaching about sin, guilt and holiness changed, from Jesus' call to repent to modern debates about grace?",
+    "plainAnswer": "Jesus and the apostles called people to repent, which means to turn around and return to God, and to live a new life by the Spirit. In the early church, the hard question was what to do when baptised Christians sinned seriously, and some leaders were very strict. Augustine taught that human desire itself is disordered by inherited sin, and the medieval church built a system of regular confession around that insight. Luther's terrified conscience, the Puritans' careful self-examination, Wesley's call to holiness and later behaviour codes all made the individual's inner state and conduct central. Today 'grace' movements stress that believers are already forgiven, while critics warn that grace can be made cheap. Krister Stendahl argued in 1963 that the West's anxious, introspective conscience was read back into Paul, a thesis that remains influential but disputed.",
+    "keyTakeaways": [
+      "Repentance in the Bible is mainly turning (to God, from idols, toward a new way of life), not only feeling sorry.",
+      "Early Christians were often strict about sin after baptism: the Shepherd of Hermas allowed one further repentance; Tertullian and the Novatianists were stricter still.",
+      "Augustine's teaching on concupiscence (disordered desire) and original sin shaped Western ideas of the self; the East spoke more of sin as sickness and death.",
+      "Annual confession (1215), Luther's anguish, Puritan diaries and Wesleyan holiness each moved the individual conscience further into the centre.",
+      "Holiness movements (Wesleyan, Keswick) and fundamentalist codes defined holy living in different ways, from inner perfection in love to avoiding drinking, dancing and cinema.",
+      "Krister Stendahl argued that Paul had a 'robust' not an anxious conscience; critics say Romans 1–3 and 7 still address universal guilt."
+    ],
+    "sections": [
+      {
+        "heading": "Jesus and the apostles: turn to God",
+        "body": "Jesus began his preaching with the call to repent and believe the good news, because God's kingdom had come near. The Greek word for repent, metanoia, means a change of mind, and it carries the Hebrew sense of turning (shuv): returning to God like the prodigal son coming home. Jesus ate with tax collectors and sinners, which scandalised the religious, and he also demanded a righteousness deeper than the scribes', reaching to anger and lust in the heart.\n\nThe apostles called both Jews and Gentiles to repent. For Gentiles, this meant turning from idols to the living God. Paul's letters assume that believers have died to sin with Christ and must now live by the Spirit, with clear lists of behaviour to put off and on. Sin is serious, but the emphasis is on new life and belonging to a new community.\n\nNotably, the New Testament gives little attention to anxious examination of one's inner guilt. Paul could say that as to righteousness under the law he was blameless, and he seems more troubled by having persecuted the church than by a tormented conscience.",
+        "refs": [
+          "Mark 1:14-15",
+          "Luke 15:11-32",
+          "Mark 2:15-17",
+          "Matt 5:20-30",
+          "Acts 2:38",
+          "Acts 26:19-20",
+          "1 Thess 1:9-10",
+          "Rom 6:1-14",
+          "Gal 5:16-25",
+          "Col 3:1-17",
+          "Phil 3:4-6",
+          "1 Cor 15:9"
+        ],
+        "sources": [
+          {
+            "author": "C. H. Dodd",
+            "title": "The Apostolic Preaching and Its Developments",
+            "year": 1936,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "E. P. Sanders",
+            "title": "Jesus and Judaism",
+            "year": 1985,
+            "locator": "on Jesus and 'sinners'",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'Jesus never talked about sin; he only accepted people.' Correction: Jesus welcomed sinners and also called them to repent, intensified the commandments (Matt 5:21-30) and told the woman caught in adultery to sin no more. Acceptance and transformation came together."
+        }
+      },
+      {
+        "heading": "Early rigorism: one repentance after baptism?",
+        "body": "Baptism was understood as a decisive washing away of sins. So what if a baptised Christian then committed adultery, murder or denied Christ under persecution? Hebrews seemed to say renewal was impossible for those who fall away. Different leaders answered differently.\n\nThe Shepherd of Hermas (Rome, second century) taught that there is one further repentance available after baptism, but only one. Tertullian, in *On Repentance* (about 203), described a public, humiliating 'second repentance' (exomologesis) with sackcloth and fasting. Later, as a Montanist, he attacked a bishop who forgave adultery after penance, in *On Modesty*.\n\nAfter the Decian persecution (250) the question became urgent: many had lapsed. Cyprian of Carthage allowed the lapsed back after penance; Novatian at Rome refused and formed a stricter rival church. The mainstream church chose the path of disciplined mercy. Public penance, usually allowed once in a lifetime, became the norm, which is one reason many delayed baptism.",
+        "refs": [
+          "Heb 6:4-6",
+          "Heb 10:26-27",
+          "1 Cor 5:1-5",
+          "2 Cor 2:5-8",
+          "1 John 1:8-9",
+          "1 John 5:16-17",
+          "Matt 18:21-22"
+        ],
+        "sources": [
+          {
+            "author": "Hermas",
+            "title": "Shepherd of Hermas",
+            "locator": "Mandate 4.3",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Tertullian",
+            "title": "On Repentance",
+            "locator": "7–12",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Tertullian",
+            "title": "On Modesty",
+            "locator": "1 (the 'peremptory edict')",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Cyprian of Carthage",
+            "title": "On the Lapsed",
+            "year": 251,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Eusebius",
+            "title": "Church History",
+            "locator": "6.43 (Novatian)",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "debate",
+          "text": "Whose edict Tertullian attacked in On Modesty is disputed: older scholars said Callistus of Rome, many now think a bishop of Carthage, possibly Agrippinus. The underlying dispute, whether the church may forgive grave sins after baptism, is clear."
+        }
+      },
+      {
+        "heading": "Augustine: restless hearts and disordered desire",
+        "body": "Augustine's *Confessions* (about 397–400) is the first great Christian autobiography of an inner life. He traces his sins back to infancy, describes a will divided against itself, and tells of his conversion in a Milan garden on reading Paul's call to put on Christ rather than gratify the flesh.\n\nIn his controversy with Pelagius (from 411), Augustine argued that all humans inherit Adam's guilt and a disordered desire he called concupiscence, a craving that pulls the will toward lesser goods, especially visible in sexual desire. Without God's grace no one can even begin to love God rightly. Pelagius, a British monk, held that God commands only what we can do and called Christians to strenuous moral effort. The church sided with Augustine at Carthage in 418.\n\nThe Greek East did not adopt Augustine's view of inherited guilt. It tended to describe the human problem as mortality and passions, a sickness that Christ heals. In the West, Augustine's picture of the divided self shaped preaching on sin for over a thousand years.",
+        "refs": [
+          "Rom 5:12-21",
+          "Rom 7:14-25",
+          "Rom 13:13-14",
+          "Ps 51:5",
+          "Eph 2:1-5",
+          "Gal 5:17"
+        ],
+        "sources": [
+          {
+            "author": "Augustine",
+            "title": "Confessions",
+            "locator": "1.7.11 (infancy); 8.12.29 (garden conversion)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Augustine",
+            "title": "On Marriage and Concupiscence",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Pelagius",
+            "title": "Letter to Demetrias",
+            "year": 413,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Peter Brown",
+            "title": "Augustine of Hippo: A Biography",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus",
+        "callout": {
+          "kind": "myth",
+          "text": "Myth: 'Augustine invented original sin.' Correction: earlier writers including Tertullian, Cyprian and Ambrose spoke of humanity's inherited fallenness and baptised infants for the remission of sin. Augustine sharpened and systematised the idea, especially the notion of inherited guilt."
+        }
+      },
+      {
+        "heading": "Medieval confession: cataloguing sins",
+        "body": "From the sixth century Irish monks spread private, repeatable confession. Penitentials listed sins with matching penances, for example so many days of fasting for a particular fault. The seven deadly sins (pride, envy, anger, sloth, greed, gluttony, lust), developed from Evagrius and Cassian and fixed by Gregory the Great, gave preachers and confessors a framework.\n\nIn 1215 the Fourth Lateran Council required all Christians to confess at least once a year to their own priest. Confessors' manuals multiplied, teaching priests how to question penitents about every area of life. Preaching friars urged hearers to examine themselves, feel contrition and make satisfaction. Mystics such as Bernard of Clairvaux and later Thomas a Kempis's *Imitation of Christ* called for inward holiness and love.\n\nHistorians differ on the result. Some, like Thomas Tentler, see a 'social control' that bred anxiety; others, like Eamon Duffy, stress the comfort and community of sacramental life. Both agree that sin had become something to be examined, named and dealt with regularly by each individual.",
+        "refs": [
+          "Jas 5:16",
+          "John 20:22-23",
+          "Prov 28:13",
+          "Gal 5:19-21",
+          "1 Cor 11:28-32"
+        ],
+        "sources": [
+          {
+            "author": "John T. McNeill and Helena M. Gamer",
+            "title": "Medieval Handbooks of Penance",
+            "year": 1938,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Fourth Lateran Council",
+            "title": "Canons",
+            "year": 1215,
+            "locator": "canon 21",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Gregory the Great",
+            "title": "Moralia in Job",
+            "locator": "31.45 (the principal vices)",
+            "confidence": "needs-verification"
+          },
+          {
+            "author": "Thomas N. Tentler",
+            "title": "Sin and Confession on the Eve of the Reformation",
+            "year": 1977,
+            "confidence": "debated"
+          },
+          {
+            "author": "Eamon Duffy",
+            "title": "The Stripping of the Altars",
+            "year": 1992,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Luther's terrified conscience",
+        "body": "Martin Luther, as an Augustinian friar, confessed for hours and still felt no peace: he could never be sure he had confessed everything or felt enough sorrow. He later described hating the phrase 'the righteousness of God' because he heard it as God's punishing justice, until he came to see it in Romans 1:17 as the righteousness God gives to faith. The date of this breakthrough is debated (between about 1514 and 1519).\n\nLuther's experience shaped Protestant preaching. The law's job is to terrify the conscience and show the sinner's helplessness; the gospel's job is to comfort with God's free promise in Christ. The believer is at the same time righteous (in Christ) and a sinner (in themselves). Holiness follows as fruit of faith, not as a condition of acceptance.\n\nCatholics replied at Trent that justification includes real inner renewal and that Luther's view risked neglecting holiness. Lutherans and Reformed Christians replied that good works flow from faith and that only a gift can bring peace to a conscience.",
+        "refs": [
+          "Rom 1:16-17",
+          "Rom 3:19-24",
+          "Gal 3:10-14",
+          "Rom 7:24-25",
+          "Gal 2:20",
+          "Eph 2:8-10"
+        ],
+        "sources": [
+          {
+            "author": "Martin Luther",
+            "title": "Preface to the Complete Edition of Luther's Latin Writings",
+            "year": 1545,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Martin Luther",
+            "title": "The Freedom of a Christian",
+            "year": 1520,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Heiko A. Oberman",
+            "title": "Luther: Man between God and the Devil",
+            "year": 1982,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Roland H. Bainton",
+            "title": "Here I Stand: A Life of Martin Luther",
+            "year": 1950,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Council of Trent",
+            "title": "Decree on Justification (Session 6)",
+            "year": 1547,
+            "locator": "ch. 7",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Puritan introspection and Wesleyan holiness",
+        "body": "English Puritans wanted a church and a heart fully reformed. William Perkins and others wrote 'cases of conscience' and mapped the steps of conversion. Because Reformed theology taught that the elect would show signs of grace, believers searched their lives for evidence: diaries, self-examination before communion, and pastoral counsel on assurance. This produced deep spiritual literature, and for some sensitive souls, deep anxiety.\n\nJohn Wesley added a different note. After his Aldersgate experience (1738) he preached that believers could receive assurance from the Spirit and could be made perfect in love: not sinless in every sense, but freed from wilful sin so that love for God and neighbour fills the heart. Methodist societies held members to account in small 'class meetings' and General Rules that forbade, for example, drunkenness and fighting.\n\nCalvinists criticised Christian perfection as unrealistic; Wesleyans replied that Scripture commands holiness and God's grace is strong enough. Both put personal holiness at the centre of the evangelical life.",
+        "refs": [
+          "2 Pet 1:10",
+          "2 Cor 13:5",
+          "Rom 8:15-16",
+          "Matt 5:48",
+          "1 John 3:6-9",
+          "1 Thess 5:23",
+          "Heb 12:14"
+        ],
+        "sources": [
+          {
+            "author": "William Perkins",
+            "title": "A Golden Chain",
+            "year": 1591,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Charles E. Hambrick-Stowe",
+            "title": "The Practice of Piety: Puritan Devotional Disciplines in Seventeenth-Century New England",
+            "year": 1982,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Wesley",
+            "title": "A Plain Account of Christian Perfection",
+            "year": 1766,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John Wesley",
+            "title": "The Nature, Design, and General Rules of the United Societies",
+            "year": 1743,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "heading": "Keswick and the holiness movement",
+        "body": "In nineteenth-century America, Phoebe Palmer taught a 'shorter way' to holiness: lay everything on the altar in consecration, believe God's promise, and receive entire sanctification as a distinct experience. The holiness movement that followed produced new denominations and fed directly into Pentecostalism.\n\nIn Britain the Keswick Convention (from 1875) offered a gentler 'higher life': not sinless perfection, but victory over known sin through surrender and faith, letting Christ live his life in the believer. Hannah Whitall Smith's *The Christian's Secret of a Happy Life* (1875) popularised it. Phrases like 'let go and let God' became associated with the movement.\n\nCritics such as B. B. Warfield and later J. I. Packer argued that Keswick teaching created two classes of Christians and encouraged passivity, whereas Scripture calls for active, lifelong struggle. Defenders reply that it gave weary Christians real freedom and rightly stressed dependence on God.",
+        "refs": [
+          "Rom 6:11-13",
+          "Rom 12:1-2",
+          "Gal 2:20",
+          "Phil 2:12-13",
+          "Col 3:5-10",
+          "John 15:4-5"
+        ],
+        "sources": [
+          {
+            "author": "Phoebe Palmer",
+            "title": "The Way of Holiness",
+            "year": 1843,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Hannah Whitall Smith",
+            "title": "The Christian's Secret of a Happy Life",
+            "year": 1875,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Melvin E. Dieter",
+            "title": "The Holiness Revival of the Nineteenth Century",
+            "year": 1980,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "B. B. Warfield",
+            "title": "Perfectionism",
+            "year": 1931,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "J. I. Packer",
+            "title": "Keep in Step with the Spirit",
+            "year": 1984,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Andrew David Naselli",
+            "title": "Let Go and Let God? A Survey and Analysis of Keswick Theology",
+            "year": 2010,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated"
+      },
+      {
+        "heading": "Fundamentalist codes and modern grace movements",
+        "body": "In the early twentieth century, holiness often became defined by separation from 'worldly amusements'. Many fundamentalist and holiness churches forbade drinking, smoking, dancing, card-playing and cinema, and some regulated dress. Historians such as George Marsden and Joel Carpenter note that these codes marked the boundary between the church and a culture seen as drifting from God. They also gave communities clear identity and protected many families from real harms, though critics saw legalism and a focus on outward behaviour.\n\nFrom the late twentieth century, reaction set in. The 'Lordship salvation' controversy (1988–89) pitted John MacArthur, who insisted saving faith includes submission to Christ, against Zane Hodges, who held that faith alone saves even without visible fruit. More recently 'grace' preachers such as Joseph Prince stress that believers are already wholly forgiven and should not dwell on sin. Critics, including Michael Brown, call this 'hyper-grace' and warn it neglects repentance.\n\nEarlier voices frame this whole debate. Dietrich Bonhoeffer warned against 'cheap grace', forgiveness without discipleship. Dallas Willard criticised a 'gospel of sin management' that deals with guilt but leaves life unchanged.",
+        "refs": [
+          "Rom 6:1-2",
+          "Titus 2:11-14",
+          "Jas 2:14-26",
+          "Gal 5:1",
+          "Gal 5:13",
+          "Col 2:20-23",
+          "Jude 1:4",
+          "Luke 9:23"
+        ],
+        "sources": [
+          {
+            "author": "George M. Marsden",
+            "title": "Fundamentalism and American Culture",
+            "year": 1980,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Joel A. Carpenter",
+            "title": "Revive Us Again: The Reawakening of American Fundamentalism",
+            "year": 1997,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "John F. MacArthur",
+            "title": "The Gospel According to Jesus",
+            "year": 1988,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Zane C. Hodges",
+            "title": "Absolutely Free!",
+            "year": 1989,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Joseph Prince",
+            "title": "Destined to Reign",
+            "year": 2007,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Michael L. Brown",
+            "title": "Hyper-Grace: Exposing the Dangers of the Modern Grace Message",
+            "year": 2014,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Dietrich Bonhoeffer",
+            "title": "The Cost of Discipleship",
+            "year": 1937,
+            "locator": "ch. 1 (costly grace)",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Dallas Willard",
+            "title": "The Divine Conspiracy",
+            "year": 1998,
+            "locator": "ch. 2",
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated"
+      },
+      {
+        "heading": "Stendahl and the 'introspective conscience of the West'",
+        "body": "In a famous 1963 essay, Swedish New Testament scholar Krister Stendahl argued that the West had read Paul through Augustine and Luther. Their agonised question, how can I find a gracious God, was not Paul's. Paul had a 'robust conscience': he called himself blameless under the law and showed little guilt. His real concern in Romans and Galatians was how Gentiles could belong to God's people without becoming Jews. Romans 7, Stendahl argued, is about the law, not a portrait of Paul's anguished soul.\n\nThe essay helped launch what James Dunn in 1982 named the 'New Perspective on Paul', alongside E. P. Sanders' argument that first-century Judaism was not a religion of earning salvation. It encouraged preachers to stress community, Jew-Gentile unity and God's covenant faithfulness.\n\nCritics, such as Stephen Westerholm and Frank Thielman, reply that Paul does describe universal guilt (Romans 1–3), that justification addresses individuals before God, and that Luther's reading captures something real even if his experience differed from Paul's. Some point out that Augustine's *Confessions* shows the introspective conscience long before Luther, which fits Stendahl's point about the West but not his dating of the problem to the Reformation alone.",
+        "refs": [
+          "Phil 3:4-6",
+          "Rom 7:7-25",
+          "Rom 3:9-26",
+          "Gal 2:11-16",
+          "Rom 9:1-5",
+          "Eph 2:11-22",
+          "1 Cor 4:4"
+        ],
+        "sources": [
+          {
+            "author": "Krister Stendahl",
+            "title": "The Apostle Paul and the Introspective Conscience of the West",
+            "year": 1963,
+            "locator": "Harvard Theological Review 56 (1963): 199–215",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "E. P. Sanders",
+            "title": "Paul and Palestinian Judaism",
+            "year": 1977,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "James D. G. Dunn",
+            "title": "The New Perspective on Paul",
+            "year": 1983,
+            "locator": "Bulletin of the John Rylands Library 65 (1983): 95–122",
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Stephen Westerholm",
+            "title": "Perspectives Old and New on Paul",
+            "year": 2004,
+            "confidence": "scholarly-consensus"
+          },
+          {
+            "author": "Frank Thielman",
+            "title": "From Plight to Solution",
+            "year": 1989,
+            "confidence": "scholarly-consensus"
+          }
+        ],
+        "confidence": "debated",
+        "callout": {
+          "kind": "debate",
+          "text": "Does Romans 7:14-25 describe Paul's experience as a Christian (Augustine's later view, Luther, Calvin), Paul before conversion (many early Greek fathers, and many modern scholars), or Israel's or Adam's experience under the law in the first person (Stendahl, Moo in part, Wright)? The answer shapes how preachers talk about the struggle with sin."
+        }
+      }
+    ],
+    "table": {
+      "caption": "How sin and holiness were preached across the eras",
+      "columns": [
+        "Era",
+        "Main framing of sin",
+        "Main path to holiness",
+        "Example"
+      ],
+      "rows": [
+        [
+          "Jesus and apostles",
+          "Turning away from God; idolatry; hardness of heart",
+          "Repentance, faith, baptism, life in the Spirit",
+          "Mark 1:15; Gal 5:16-25"
+        ],
+        [
+          "Second and third centuries",
+          "Post-baptismal sin as a crisis",
+          "Strict discipline; one public penance",
+          "Hermas; Tertullian; Cyprian"
+        ],
+        [
+          "Augustine (c. 400)",
+          "Inherited guilt and disordered desire",
+          "Grace that reorders love",
+          "Confessions; anti-Pelagian writings"
+        ],
+        [
+          "Medieval West",
+          "Specific sins catalogued; seven deadly sins",
+          "Regular confession, contrition, satisfaction",
+          "Lateran IV canon 21"
+        ],
+        [
+          "Reformation",
+          "Guilty conscience before God's law",
+          "Justification by faith; good works as fruit",
+          "Luther; Heidelberg Catechism"
+        ],
+        [
+          "Puritans",
+          "Corruption of the heart; uncertainty of election",
+          "Self-examination and assurance",
+          "Perkins; Puritan diaries"
+        ],
+        [
+          "Methodism",
+          "Inbred sin that grace can overcome",
+          "Assurance and perfection in love",
+          "Wesley's Plain Account"
+        ],
+        [
+          "Holiness and Keswick",
+          "Defeat by known sin",
+          "Consecration and surrender; second blessing or higher life",
+          "Palmer; Hannah Whitall Smith"
+        ],
+        [
+          "Fundamentalism",
+          "Worldliness",
+          "Separation from worldly amusements",
+          "Behaviour codes in churches and colleges"
+        ],
+        [
+          "Today",
+          "Shame, brokenness, sin management",
+          "Grace and identity in Christ vs costly discipleship",
+          "Prince; Brown; Willard"
+        ]
+      ]
+    },
+    "timeline": [
+      {
+        "year": 28,
+        "title": "Jesus calls Israel to repent",
+        "note": "The kingdom has come near.",
+        "confidence": "biblical"
+      },
+      {
+        "year": 140,
+        "title": "Shepherd of Hermas",
+        "note": "One repentance after baptism.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 203,
+        "title": "Tertullian, On Repentance",
+        "note": "Public second repentance described.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 251,
+        "title": "Cyprian, On the Lapsed; Novatian schism",
+        "note": "Dispute over restoring those who denied Christ.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 397,
+        "title": "Augustine's Confessions begun",
+        "note": "The inner life of sin and grace.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 418,
+        "title": "Council of Carthage",
+        "note": "Pelagianism condemned.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 590,
+        "title": "Columbanus brings penitentials to the continent",
+        "note": "Private confession spreads.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1215,
+        "title": "Lateran IV",
+        "note": "Annual confession required.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1517,
+        "title": "Luther's protest",
+        "note": "Law and gospel; justification by faith.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1591,
+        "title": "Perkins' Golden Chain in English",
+        "note": "Puritan order of salvation.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1738,
+        "title": "Wesley's Aldersgate experience",
+        "note": "Assurance and holiness.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1843,
+        "title": "Palmer's The Way of Holiness",
+        "note": "Altar theology and entire sanctification.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1875,
+        "title": "First Keswick Convention",
+        "note": "Higher life teaching.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1937,
+        "title": "Bonhoeffer on cheap grace",
+        "note": "The Cost of Discipleship.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1963,
+        "title": "Stendahl's essay",
+        "note": "Introspective conscience thesis published.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1988,
+        "title": "Lordship salvation debate",
+        "note": "MacArthur's The Gospel According to Jesus.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2014,
+        "title": "Hyper-grace debate",
+        "note": "Michael Brown's critique of modern grace preaching.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "keyVerses": [
+      "Mark 1:15",
+      "Acts 3:19",
+      "Rom 6:1-4",
+      "Rom 7:24-25",
+      "Phil 3:4-6",
+      "Heb 12:14",
+      "Titus 2:11-14"
+    ],
+    "views": [
+      {
+        "name": "Guilt-and-grace centre",
+        "summary": "Every person's deepest problem is guilt before a holy God; preaching should expose sin through God's law and offer free justification. Held by confessional Lutherans and Reformed, and by many evangelicals following Luther and the Heidelberg Catechism."
+      },
+      {
+        "name": "Holiness centre",
+        "summary": "God saves people in order to make them holy; preaching should call believers to full consecration and expect real victory over sin. Held by Wesleyan, holiness and many Pentecostal churches."
+      },
+      {
+        "name": "Healing and participation",
+        "summary": "Sin is above all a sickness and slavery leading to death; Christ heals and unites us to God through the church's life. Held by Eastern Orthodox and many patristic-minded Christians."
+      },
+      {
+        "name": "New Perspective correction",
+        "summary": "Western introspection was read into Paul; his gospel concerns God's covenant faithfulness and a new Jew-Gentile people, though personal sin remains real. Associated with Stendahl, Sanders, Dunn and Wright."
+      }
+    ],
+    "related": [
+      "/debates/sanctification",
+      "/debates/soteriology",
+      "/debates/eternal-security",
+      "/guides/how-the-message-changed",
+      "/gospel-history",
+      "/people/paul"
+    ],
+    "furtherQuestions": [
+      "Is repentance more about feeling sorry, changing behaviour, or changing allegiance?",
+      "Why do you think the early church was so strict about sin after baptism, and what did it gain or lose by softening?",
+      "Does Romans 7 describe your experience, and does that matter for how it should be interpreted?",
+      "How can churches call people to holiness without falling into legalism, or offer grace without making it cheap?",
+      "Does Stendahl's thesis change how you would preach Romans to a modern audience?"
+    ]
+  }
+]
