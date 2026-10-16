@@ -98,7 +98,7 @@ export default function Home() {
         <div>
           <div className="eyebrow mb-3">An atlas of Scripture, its people and its arguments</div>
           <h1 className="text-5xl md:text-7xl leading-[.95]">
-            Every name<br />in the story<br /><span className="rubric italic">has a road.</span>
+            Every name<br />in the story<br /><span className="font-serif italic font-semibold text-accent tracking-normal">has a road.</span>
           </h1>
           <p className="mt-5 font-serif text-lg text-muted max-w-[52ch] leading-relaxed">
             Follow {people.length || 'the'} lives across {places.length || 'hundreds of'} places, walk {journeys.length} journeys on an animated map, read {books.length} books as flowcharts,

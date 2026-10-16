@@ -94,7 +94,7 @@ function ThemeMenu() {
   return (
     <div className="relative">
       <button className="btn w-full justify-between" onClick={() => setOpen((o) => !o)} aria-expanded={open}>
-        <span>Appearance</span><span className="text-muted">{SCHEMES.find((s) => s.id === scheme)?.name}</span>
+        <span>Appearance</span><span className="text-muted">{SCHEMES.find((s) => s.id === scheme)?.name ?? 'Parchment'}</span>
       </button>
       {open && (
         <div className="absolute bottom-full mb-2 left-0 w-72 card shadow-xl p-3 z-50 space-y-3">
@@ -103,7 +103,7 @@ function ThemeMenu() {
             <div className="grid grid-cols-2 gap-1.5">
               {SCHEMES.map((s) => (
                 <button key={s.id} data-scheme-preview={s.id} onClick={() => set({ scheme: s.id })} className={`text-left p-2 rounded border ${scheme === s.id ? 'border-accent' : 'border-line'}`}>
-                  <div className="text-sm font-medium">{s.name}</div><div className="text-[.68rem] text-muted leading-tight">{s.note}</div>
+                  <div className="flex gap-1 mb-1">{s.swatch.map((c) => <span key={c} className="w-3 h-3 rounded-full border border-line" style={{ background: c }} />)}</div><div className="text-sm font-medium">{s.name}</div><div className="text-[.68rem] text-muted leading-tight">{s.note}</div>
                 </button>
               ))}
             </div>
@@ -157,8 +157,8 @@ export default function Layout({ children }: { children: ReactNode }) {
           <ul className="space-y-0.5">
             {g.items.map((i) => (
               <li key={i.to}>
-                <NavLink to={i.to} end={i.to === '/'} className={({ isActive }) => `flex items-center gap-2.5 px-2 py-1.5 rounded text-[.92rem] ${isActive ? 'bg-sunk text-ink font-semibold' : 'text-muted hover:text-ink'}`}>
-                  <span aria-hidden className="w-4 text-center rubric font-serif">{i.glyph}</span>{i.label}
+                <NavLink to={i.to} end={i.to === '/'} className={({ isActive }) => `flex items-center gap-2.5 px-2.5 py-1.5 rounded-full text-[.9rem] font-medium ${isActive ? 'bg-accent/10 text-accent font-semibold' : 'text-ink/75 hover:text-ink hover:bg-sunk'}`}>
+                  <span aria-hidden className="w-4 text-center text-gold">{i.glyph}</span>{i.label}
                 </NavLink>
               </li>
             ))}
@@ -169,14 +169,14 @@ export default function Layout({ children }: { children: ReactNode }) {
   );
   const brand = (
     <NavLink to="/" className="flex items-center gap-2.5">
-      <svg width="30" height="30" viewBox="0 0 32 32" aria-hidden><circle cx="16" cy="16" r="14.5" fill="none" stroke="rgb(var(--accent-2))" strokeWidth="1.5" /><path d="M16 4v24M6 12h20" stroke="rgb(var(--accent))" strokeWidth="2" /><circle cx="16" cy="12" r="3" fill="rgb(var(--accent-2))" /></svg>
-      <span className="display text-2xl leading-none">Logos Atlas</span>
+      <svg width="34" height="34" viewBox="0 0 32 32" aria-hidden><circle cx="16" cy="16" r="15" fill="rgb(var(--accent))" /><circle cx="16" cy="16" r="12.5" fill="none" stroke="rgb(var(--accent-ink))" strokeOpacity=".5" strokeWidth="1" /><path d="M16 6v20M9 13h14" stroke="rgb(var(--accent-ink))" strokeWidth="2.2" strokeLinecap="round" /></svg>
+      <span className="leading-none"><span className="display text-[1.35rem] font-semibold tracking-tight block">Logos Atlas</span><span className="text-[.6rem] tracking-[.12em] uppercase text-muted whitespace-nowrap">Bible · People · Doctrine</span></span>
     </NavLink>
   );
 
   return (
-    <div className="min-h-full lg:grid lg:grid-cols-[250px_minmax(0,1fr)]">
-      <aside className="hidden lg:flex flex-col gap-5 sticky top-0 h-screen overflow-y-auto border-r border-line bg-surface px-3 py-5">
+    <div className="min-h-full md:grid md:grid-cols-[236px_minmax(0,1fr)] lg:grid-cols-[256px_minmax(0,1fr)] paper-grain">
+      <aside className="hidden md:flex flex-col gap-5 sticky top-0 h-screen overflow-y-auto border-r border-line bg-surface/80 backdrop-blur px-3 py-5" style={{ paddingLeft: 'max(12px, env(safe-area-inset-left, 0px))' }}>
         <div className="px-2">{brand}</div>
         <button className="btn justify-between text-muted" onClick={() => setPalette(true)}><span>Search…</span><kbd className="text-xs">Ctrl K</kbd></button>
         <EraFilter />
@@ -184,24 +184,24 @@ export default function Layout({ children }: { children: ReactNode }) {
         <ThemeMenu />
         <p className="text-[.68rem] text-muted px-1 leading-snug">Scripture text: King James Version (public domain). Summaries are original; confidence labels mark what is text, consensus, debate or tradition.</p>
       </aside>
-      <header className="lg:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
-        {brand}
-        <div className="flex gap-2">
-          <button className="btn" onClick={() => setPalette(true)} aria-label="Search">⌕</button>
-          <button className="btn" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
+      <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2.5">
+          <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
+          {brand}
         </div>
+        <button className="btn" onClick={() => setPalette(true)} aria-label="Search">Search</button>
       </header>
       <AnimatePresence>
         {drawer && (
-          <motion.div className="lg:hidden fixed inset-0 z-50 bg-black/40" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setDrawer(false)}>
-            <motion.aside className="absolute right-0 top-0 bottom-0 w-[min(300px,85vw)] bg-surface p-4 overflow-y-auto space-y-4" style={{ paddingTop: 'calc(1rem + env(safe-area-inset-top,0px))', paddingRight: 'max(16px, env(safe-area-inset-right,0px))' }}
-              initial={{ x: 40 }} animate={{ x: 0 }} exit={{ x: 40 }} onClick={(e) => e.stopPropagation()}>
-              <EraFilter />{navList}<ThemeMenu />
+          <motion.div className="md:hidden fixed inset-0 z-50 bg-black/40" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setDrawer(false)}>
+            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,85vw)] bg-surface border-r border-line p-4 overflow-y-auto space-y-4" style={{ paddingTop: 'calc(1rem + env(safe-area-inset-top,0px))', paddingLeft: 'max(16px, env(safe-area-inset-left,0px))' }}
+              initial={{ x: -300 }} animate={{ x: 0 }} exit={{ x: -300 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
+              <div className="px-1">{brand}</div><EraFilter />{navList}<ThemeMenu />
             </motion.aside>
           </motion.div>
         )}
       </AnimatePresence>
-      <main id="main" className="min-w-0 gutter py-6 lg:py-10 lg:px-10">
+      <main id="main" className="min-w-0 gutter py-6 md:py-9 md:!px-8 lg:!px-12">
         <AnimatePresence mode="wait">
           <motion.div key={loc.pathname} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.18 }} className="max-w-[1180px] mx-auto">
             {children}

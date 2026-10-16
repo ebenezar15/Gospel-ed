@@ -2,12 +2,14 @@ import { create } from 'zustand';
 import { persist, createJSONStorage } from 'zustand/middleware';
 
 export const SCHEMES = [
-  { id: 'parchment', name: 'Parchment', note: 'Vellum, iron-gall ink and lapis' },
-  { id: 'midnight', name: 'Midnight Scroll', note: 'Gold on night blue (always dark)' },
-  { id: 'byzantine', name: 'Byzantine', note: 'Mosaic gold and deep blue' },
-  { id: 'desert', name: 'Desert Sand', note: 'Ochre, clay and oasis teal' },
-  { id: 'stained', name: 'Stained Glass', note: 'Ruby and cobalt' },
-  { id: 'contrast', name: 'High Contrast', note: 'Maximum legibility' },
+  { id: 'parchment', swatch: ['#9a6b12', '#7d2a1d', '#0c1424'], name: 'Parchment', note: 'Gold and oxblood; night blue in dark mode' },
+  { id: 'byzantine', swatch: ['#6a2a8a', '#a0700a', '#f3eef6'], name: 'Byzantine', note: 'Imperial purple and gold' },
+  { id: 'iona', swatch: ['#2c6e45', '#8a4a1c', '#edf2ea'], name: 'Iona', note: 'Celtic green and peat' },
+  { id: 'lapis', swatch: ['#1d4ea6', '#a37b16', '#edf1f8'], name: 'Lapis', note: 'Ultramarine and gilt' },
+  { id: 'rose', swatch: ['#9f1f2e', '#1f5f8a', '#faf0ee'], name: 'Rose Window', note: 'Ruby and sky' },
+  { id: 'desert', swatch: ['#a84b22', '#2e6b6b', '#f7ede2'], name: 'Desert', note: 'Terracotta and oasis teal' },
+  { id: 'monastic', swatch: ['#5d4b2c', '#3a5a6b', '#f1f0ec'], name: 'Monastic', note: 'Undyed wool and slate' },
+  { id: 'contrast', swatch: ['#000000', '#ffd600', '#ffffff'], name: 'High Contrast', note: 'Maximum legibility' },
 ] as const;
 export type Scheme = (typeof SCHEMES)[number]['id'];
 export type Mode = 'system' | 'light' | 'dark';
@@ -37,7 +39,7 @@ export const useUI = create<UI>()(persist((set) => ({
 /** Mirror theme state onto <html> so CSS tokens switch. */
 export function applyTheme(scheme: Scheme, mode: Mode, reduced: boolean) {
   const r = document.documentElement;
-  r.dataset.scheme = scheme;
+  r.dataset.scheme = SCHEMES.some((s) => s.id === scheme) ? scheme : 'parchment';
   if (mode === 'system') delete r.dataset.mode; else r.dataset.mode = mode;
   if (reduced) r.dataset.motion = 'reduced'; else delete r.dataset.motion;
 }

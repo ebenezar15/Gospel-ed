@@ -8,11 +8,12 @@
     <meta name="description" content="Logos Atlas — an interactive, animated atlas of Bible people, journeys, books, gospel history and theological debate." />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Instrument+Sans:wght@400;500;600;700&family=Spectral:ital,wght@0,400;0,500;0,600;1,400&family=Noto+Serif+Hebrew:wght@400;600&family=Noto+Serif:wght@400&display=swap">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Nunito+Sans:opsz,wght@6..12,400;6..12,500;6..12,600;6..12,700;6..12,800&family=Cormorant+Garamond:ital,wght@0,500;0,600;0,700;1,500;1,600&family=Noto+Serif+Hebrew:wght@400;600&family=Noto+Serif:wght@400&display=swap">
     <script>
       try {
         var s = JSON.parse(localStorage.getItem('logos-ui') || '{}').state || {};
-        if (s.scheme) document.documentElement.dataset.scheme = s.scheme;
+        var ok = ['parchment','byzantine','iona','lapis','rose','desert','monastic','contrast'];
+        if (s.scheme && ok.indexOf(s.scheme) >= 0) document.documentElement.dataset.scheme = s.scheme;
         if (s.mode && s.mode !== 'system') document.documentElement.dataset.mode = s.mode;
       } catch (e) {}
     </script>

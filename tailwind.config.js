@@ -5,14 +5,14 @@ export default {
   theme: {
     extend: {
       colors: {
-        bg: v('bg'), surface: v('surface'), sunk: v('sunk'), ink: v('text'), muted: v('muted'),
+        bg: v('bg'), gold: v('gold'), accentInk: v('accent-ink'), surface: v('surface'), sunk: v('sunk'), ink: v('text'), muted: v('muted'),
         accent: v('accent'), accent2: v('accent-2'), line: v('border'), ot: v('ot'), nt: v('nt'),
         good: v('good'), warn: v('warn'), bad: v('bad'),
       },
       fontFamily: {
-        display: ['"IM Fell English"', 'Georgia', 'serif'],
-        serif: ['Spectral', 'Georgia', 'serif'],
-        sans: ['"Instrument Sans"', 'system-ui', 'sans-serif'],
+        display: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        serif: ['"Cormorant Garamond"', '"EB Garamond"', 'Georgia', 'serif'],
         orig: ['"Noto Serif Hebrew"', '"Noto Serif"', 'serif'],
       },
     },

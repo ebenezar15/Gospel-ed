@@ -54,7 +54,7 @@ export default function Connections() {
       return { id, position: { x, y }, data: { label: p.names.primary }, style: {
         background: hot ? 'rgb(var(--accent-2))' : 'rgb(var(--surface))', color: hot ? 'rgb(var(--bg))' : 'rgb(var(--text))',
         border: `1.5px solid ${p.testament === 'NT' ? 'rgb(var(--nt))' : 'rgb(var(--ot))'}`, borderRadius: 999, fontSize: 13, padding: '4px 12px', width: 'auto',
-        fontFamily: '"IM Fell English", Georgia, serif', boxShadow: p.tier === 'major' ? '0 0 0 3px rgb(var(--accent) / .15)' : undefined } };
+        fontFamily: '"Avenir Next", Avenir, "Nunito Sans", sans-serif', fontWeight: 600, boxShadow: p.tier === 'major' ? '0 0 0 3px rgb(var(--accent) / .15)' : undefined } };
     });
     const flowEdges: FlowEdge[] = es.map((e, i) => ({ id: `${e.from}-${e.to}-${i}`, source: e.from, target: e.to, animated: !!path || e.type === 'mentor',
       style: { stroke: COLOR[e.type], strokeWidth: path ? 3 : 1.4, strokeDasharray: e.type === 'enemy' || e.type === 'confrontation' ? '5 4' : undefined },
