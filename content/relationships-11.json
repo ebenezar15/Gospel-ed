@@ -1,0 +1,597 @@
+[
+  {
+    "from": "lois",
+    "to": "eunice",
+    "type": "family",
+    "refs": [
+      "2 Tim 1:5"
+    ],
+    "note": "Mother to daughter: Lois was Eunice's mother and Timothy's grandmother."
+  },
+  {
+    "from": "eunice",
+    "to": "timothy",
+    "type": "family",
+    "refs": [
+      "Acts 16:1",
+      "2 Tim 1:5"
+    ],
+    "note": "Mother to son. Timothy's father was a Greek."
+  },
+  {
+    "from": "lois",
+    "to": "timothy",
+    "type": "family",
+    "refs": [
+      "2 Tim 1:5"
+    ],
+    "note": "Grandmother to grandson: descendant (generations omitted)."
+  },
+  {
+    "from": "eunice",
+    "to": "timothy",
+    "type": "mentor",
+    "refs": [
+      "2 Tim 1:5",
+      "2 Tim 3:14-15"
+    ],
+    "note": "Timothy learned the holy scriptures from childhood, most likely from his mother and grandmother."
+  },
+  {
+    "from": "ananias-of-jerusalem",
+    "to": "sapphira",
+    "type": "spouse",
+    "refs": [
+      "Acts 5:1-2"
+    ],
+    "note": "Husband and wife who together held back part of the price of their land."
+  },
+  {
+    "from": "herod-agrippa-i",
+    "to": "bernice",
+    "type": "family",
+    "refs": [
+      "Acts 25:13"
+    ],
+    "note": "Father to daughter. Acts names Bernice with her brother Agrippa II; her parentage comes from Josephus (Antiquities 19.9.1)."
+  },
+  {
+    "from": "herod-agrippa-i",
+    "to": "drusilla",
+    "type": "family",
+    "refs": [
+      "Acts 24:24"
+    ],
+    "note": "Father to daughter. Acts calls her Jewish; that she was Agrippa I's daughter comes from Josephus (Antiquities 19.9.1)."
+  },
+  {
+    "from": "felix",
+    "to": "drusilla",
+    "type": "spouse",
+    "refs": [
+      "Acts 24:24"
+    ],
+    "note": "Drusilla left her first husband, the king of Emesa, to marry Felix (Josephus, Antiquities 20.7.2)."
+  },
+  {
+    "from": "herod-agrippa-ii",
+    "to": "bernice",
+    "type": "ally",
+    "refs": [
+      "Acts 25:13",
+      "Acts 25:23",
+      "Acts 26:30"
+    ],
+    "note": "Brother and sister who appeared together in public; Bernice acted as a royal partner at her brother's court."
+  },
+  {
+    "from": "peter",
+    "to": "simon-magus",
+    "type": "confrontation",
+    "refs": [
+      "Acts 8:18-24"
+    ],
+    "note": "Peter rebuked Simon for trying to buy the power to give the Holy Spirit and urged him to repent."
+  },
+  {
+    "from": "peter",
+    "to": "ananias-of-jerusalem",
+    "type": "confrontation",
+    "refs": [
+      "Acts 5:3-5"
+    ],
+    "note": "Peter exposed Ananias' lie to the Holy Spirit."
+  },
+  {
+    "from": "peter",
+    "to": "sapphira",
+    "type": "confrontation",
+    "refs": [
+      "Acts 5:8-10"
+    ],
+    "note": "Peter questioned Sapphira about the price of the land and announced the judgement."
+  },
+  {
+    "from": "philip-the-evangelist",
+    "to": "simon-magus",
+    "type": "ally",
+    "refs": [
+      "Acts 8:12-13"
+    ],
+    "note": "Simon believed through Philip's preaching, was baptized and stayed close to him."
+  },
+  {
+    "from": "rhoda",
+    "to": "peter",
+    "type": "ally",
+    "refs": [
+      "Acts 12:13-16"
+    ],
+    "note": "Rhoda recognised Peter's voice at the gate after his escape from prison."
+  },
+  {
+    "from": "paul",
+    "to": "elymas",
+    "type": "confrontation",
+    "refs": [
+      "Acts 13:8-11"
+    ],
+    "note": "Paul denounced the magician for opposing the gospel and declared he would be blind for a time."
+  },
+  {
+    "from": "paul",
+    "to": "sergius-paulus",
+    "type": "ally",
+    "refs": [
+      "Acts 13:7",
+      "Acts 13:12"
+    ],
+    "note": "The proconsul of Cyprus sent for Barnabas and Saul and believed."
+  },
+  {
+    "from": "barnabas",
+    "to": "sergius-paulus",
+    "type": "ally",
+    "refs": [
+      "Acts 13:7"
+    ],
+    "note": "Barnabas and Saul were summoned together by the proconsul."
+  },
+  {
+    "from": "ananias-of-damascus",
+    "to": "paul",
+    "type": "mentor",
+    "refs": [
+      "Acts 9:17-19",
+      "Acts 22:12-16"
+    ],
+    "note": "Ananias restored Saul's sight, baptized him and told him of his calling."
+  },
+  {
+    "from": "paul",
+    "to": "ananias-high-priest",
+    "type": "confrontation",
+    "refs": [
+      "Acts 23:2-5"
+    ],
+    "note": "Ananias ordered Paul struck; Paul called him a whitewashed wall, then apologised for speaking against a ruler."
+  },
+  {
+    "from": "ananias-high-priest",
+    "to": "paul",
+    "type": "enemy",
+    "refs": [
+      "Acts 24:1"
+    ],
+    "note": "Ananias travelled to Caesarea to prosecute Paul before Felix."
+  },
+  {
+    "from": "tertullus",
+    "to": "paul",
+    "type": "enemy",
+    "refs": [
+      "Acts 24:1-8"
+    ],
+    "note": "Tertullus was the hired advocate who accused Paul before Felix."
+  },
+  {
+    "from": "ananias-high-priest",
+    "to": "tertullus",
+    "type": "ally",
+    "refs": [
+      "Acts 24:1"
+    ],
+    "note": "The high priest brought Tertullus to argue the case."
+  },
+  {
+    "from": "demetrius-silversmith",
+    "to": "paul",
+    "type": "enemy",
+    "refs": [
+      "Acts 19:24-27"
+    ],
+    "note": "Demetrius stirred up the Ephesian craftsmen against Paul's preaching."
+  },
+  {
+    "from": "gallio",
+    "to": "paul",
+    "type": "confrontation",
+    "refs": [
+      "Acts 18:12-16"
+    ],
+    "note": "A legal hearing rather than a personal clash: Gallio refused to try Paul and dismissed the charges."
+  },
+  {
+    "from": "gallio",
+    "to": "sosthenes",
+    "type": "confrontation",
+    "refs": [
+      "Acts 18:17"
+    ],
+    "note": "Gallio ignored the beating of Sosthenes in front of his tribunal."
+  },
+  {
+    "from": "paul",
+    "to": "crispus",
+    "type": "mentor",
+    "refs": [
+      "Acts 18:8",
+      "1 Cor 1:14"
+    ],
+    "note": "Crispus believed through Paul's preaching and was baptized by Paul himself."
+  },
+  {
+    "from": "paul",
+    "to": "sosthenes",
+    "type": "co-worker",
+    "refs": [
+      "1 Cor 1:1"
+    ],
+    "note": "Named as co-sender of 1 Corinthians; whether he is the synagogue ruler of Acts 18:17 is debated."
+  },
+  {
+    "from": "paul",
+    "to": "erastus",
+    "type": "co-worker",
+    "refs": [
+      "Acts 19:22",
+      "Rom 16:23",
+      "2 Tim 4:20"
+    ],
+    "note": "Paul's helper sent to Macedonia; probably, though not certainly, the same as the Corinthian city treasurer."
+  },
+  {
+    "from": "paul",
+    "to": "tychicus",
+    "type": "co-worker",
+    "refs": [
+      "Col 4:7-8",
+      "Eph 6:21-22",
+      "2 Tim 4:12"
+    ],
+    "note": "Trusted messenger and letter-carrier; Paul's 'beloved brother and faithful minister'."
+  },
+  {
+    "from": "paul",
+    "to": "trophimus",
+    "type": "co-worker",
+    "refs": [
+      "Acts 20:4",
+      "Acts 21:29",
+      "2 Tim 4:20"
+    ],
+    "note": "Travelling companion; his presence with Paul led to the false temple charge."
+  },
+  {
+    "from": "paul",
+    "to": "aristarchus",
+    "type": "co-worker",
+    "refs": [
+      "Acts 20:4",
+      "Acts 27:2",
+      "Col 4:10",
+      "Phlm 1:24"
+    ],
+    "note": "Companion through riot, shipwreck and imprisonment; 'my fellow prisoner'."
+  },
+  {
+    "from": "paul",
+    "to": "epaphras",
+    "type": "co-worker",
+    "refs": [
+      "Col 1:7",
+      "Col 4:12",
+      "Phlm 1:23"
+    ],
+    "note": "Founder of the Colossian church and Paul's fellow prisoner."
+  },
+  {
+    "from": "paul",
+    "to": "epaphroditus",
+    "type": "co-worker",
+    "refs": [
+      "Phil 2:25-30"
+    ],
+    "note": "'My brother, fellow worker and fellow soldier', sent by the Philippians."
+  },
+  {
+    "from": "paul",
+    "to": "demas",
+    "type": "co-worker",
+    "refs": [
+      "Col 4:14",
+      "Phlm 1:24",
+      "2 Tim 4:10"
+    ],
+    "note": "Fellow worker who later deserted Paul, 'in love with this present world'."
+  },
+  {
+    "from": "paul",
+    "to": "archippus",
+    "type": "co-worker",
+    "refs": [
+      "Phlm 1:2",
+      "Col 4:17"
+    ],
+    "note": "Called 'our fellow soldier' and charged to fulfil his ministry."
+  },
+  {
+    "from": "paul",
+    "to": "gaius",
+    "type": "ally",
+    "refs": [
+      "Rom 16:23",
+      "1 Cor 1:14",
+      "Acts 20:4"
+    ],
+    "note": "Gaius of Corinth hosted Paul and the church; other men named Gaius travelled with him."
+  },
+  {
+    "from": "paul",
+    "to": "stephanas",
+    "type": "co-worker",
+    "refs": [
+      "1 Cor 1:16",
+      "1 Cor 16:15-18"
+    ],
+    "note": "Paul baptized his household and commended his service."
+  },
+  {
+    "from": "paul",
+    "to": "euodia",
+    "type": "co-worker",
+    "refs": [
+      "Phil 4:2-3"
+    ],
+    "note": "A woman who laboured beside Paul in the gospel."
+  },
+  {
+    "from": "paul",
+    "to": "syntyche",
+    "type": "co-worker",
+    "refs": [
+      "Phil 4:2-3"
+    ],
+    "note": "A woman who laboured beside Paul in the gospel."
+  },
+  {
+    "from": "euodia",
+    "to": "syntyche",
+    "type": "confrontation",
+    "refs": [
+      "Phil 4:2"
+    ],
+    "note": "A disagreement Paul urged them to resolve 'in the Lord'; its cause is not stated."
+  },
+  {
+    "from": "paul",
+    "to": "clement-of-philippi",
+    "type": "co-worker",
+    "refs": [
+      "Phil 4:3"
+    ],
+    "note": "Named among Paul's fellow workers at Philippi."
+  },
+  {
+    "from": "paul",
+    "to": "onesiphorus",
+    "type": "ally",
+    "refs": [
+      "2 Tim 1:16-18"
+    ],
+    "note": "Sought Paul out in Rome and was not ashamed of his chains."
+  },
+  {
+    "from": "mnason",
+    "to": "paul",
+    "type": "ally",
+    "refs": [
+      "Acts 21:16"
+    ],
+    "note": "Hosted Paul and his companions on the way to Jerusalem."
+  },
+  {
+    "from": "paul",
+    "to": "philippian-jailer",
+    "type": "mentor",
+    "refs": [
+      "Acts 16:29-34"
+    ],
+    "note": "Paul and Silas led the jailer and his household to faith."
+  },
+  {
+    "from": "silas",
+    "to": "philippian-jailer",
+    "type": "mentor",
+    "refs": [
+      "Acts 16:29-34"
+    ],
+    "note": "Silas shared in the jailer's conversion with Paul."
+  },
+  {
+    "from": "paul",
+    "to": "eutychus",
+    "type": "ally",
+    "refs": [
+      "Acts 20:9-12"
+    ],
+    "note": "Paul embraced the fallen young man and he was restored."
+  },
+  {
+    "from": "julius-centurion",
+    "to": "paul",
+    "type": "ally",
+    "refs": [
+      "Acts 27:3",
+      "Acts 27:43"
+    ],
+    "note": "His guard on the voyage, who treated him kindly and saved his life."
+  },
+  {
+    "from": "publius",
+    "to": "paul",
+    "type": "ally",
+    "refs": [
+      "Acts 28:7-8"
+    ],
+    "note": "Hosted the shipwrecked party; Paul healed his father."
+  },
+  {
+    "from": "alexander-the-coppersmith",
+    "to": "paul",
+    "type": "enemy",
+    "refs": [
+      "2 Tim 4:14-15"
+    ],
+    "note": "'Did me great harm' and strongly opposed Paul's message."
+  },
+  {
+    "from": "hymenaeus",
+    "to": "paul",
+    "type": "enemy",
+    "refs": [
+      "1 Tim 1:19-20",
+      "2 Tim 2:17-18"
+    ],
+    "note": "False teacher Paul disciplined; 'enemy' here means opponent of Paul's teaching."
+  },
+  {
+    "from": "hymenaeus",
+    "to": "alexander-the-coppersmith",
+    "type": "ally",
+    "refs": [
+      "1 Tim 1:20"
+    ],
+    "note": "Named together as disciplined; only if the Alexander of 1 Timothy is the coppersmith, which is debated."
+  },
+  {
+    "from": "paul",
+    "to": "drusilla",
+    "type": "confrontation",
+    "refs": [
+      "Acts 24:24-25"
+    ],
+    "note": "Paul spoke to Felix and Drusilla about justice, self-control and coming judgement."
+  },
+  {
+    "from": "paul",
+    "to": "bernice",
+    "type": "confrontation",
+    "refs": [
+      "Acts 25:23",
+      "Acts 26:30-31"
+    ],
+    "note": "She sat in judgement at Paul's hearing and agreed he was innocent."
+  },
+  {
+    "from": "paul",
+    "to": "nero",
+    "type": "confrontation",
+    "refs": [
+      "Acts 25:11-12"
+    ],
+    "note": "Paul appealed to Caesar, the reigning emperor Nero."
+  },
+  {
+    "from": "claudius",
+    "to": "nero",
+    "type": "successor",
+    "refs": [
+      "Acts 25:11"
+    ],
+    "note": "Nero succeeded his adoptive father Claudius as emperor in AD 54 (Roman sources; not stated in scripture)."
+  },
+  {
+    "from": "claudius",
+    "to": "gallio",
+    "type": "ally",
+    "refs": [
+      "Acts 18:12"
+    ],
+    "note": "Claudius calls Gallio 'my friend and proconsul' in the Delphi inscription."
+  },
+  {
+    "from": "diotrephes",
+    "to": "john-the-apostle",
+    "type": "confrontation",
+    "refs": [
+      "3 John 1:9-10"
+    ],
+    "note": "Diotrephes rejected 'the elder'. Tradition identifies the elder with John the apostle; many scholars think he was another John, so the link is debated."
+  },
+  {
+    "from": "john-the-apostle",
+    "to": "gaius",
+    "type": "ally",
+    "refs": [
+      "3 John 1:1-6"
+    ],
+    "note": "The elder's 'beloved Gaius'; identification of the elder with John the apostle is debated."
+  },
+  {
+    "from": "john-the-apostle",
+    "to": "demetrius-of-3-john",
+    "type": "ally",
+    "refs": [
+      "3 John 1:12"
+    ],
+    "note": "The elder commends Demetrius; identification of the elder with John the apostle is debated."
+  },
+  {
+    "from": "epaphras",
+    "to": "archippus",
+    "type": "co-worker",
+    "refs": [
+      "Col 4:12-17"
+    ],
+    "note": "Both served the church at Colossae."
+  },
+  {
+    "from": "tychicus",
+    "to": "onesimus",
+    "type": "co-worker",
+    "refs": [
+      "Col 4:7-9"
+    ],
+    "note": "Travelled together to Colossae with Paul's letters."
+  },
+  {
+    "from": "aristarchus",
+    "to": "luke",
+    "type": "co-worker",
+    "refs": [
+      "Acts 27:2",
+      "Phlm 1:24"
+    ],
+    "note": "Fellow travellers on the voyage to Rome and fellow workers with Paul."
+  },
+  {
+    "from": "timothy",
+    "to": "erastus",
+    "type": "co-worker",
+    "refs": [
+      "Acts 19:22"
+    ],
+    "note": "Sent together from Ephesus into Macedonia."
+  }
+]
