@@ -4063,5 +4063,1312 @@
         ]
       }
     ]
+  },
+  {
+    "id": "divine-healing",
+    "title": "Divine healing: from the early church to Bethel",
+    "category": "movement",
+    "question": "Should Christians expect God to heal the sick miraculously today, is healing guaranteed to faith, and how should claims of healing be evaluated?",
+    "intro": "Prayer for the sick is as old as the church. James instructs elders to anoint and pray for the sick, and early Christian writers such as Irenaeus and Augustine reported healings in their own day. In the modern period a distinct divine-healing movement took shape. It began with Johann Christoph Blumhardt in Germany and the nineteenth-century 'faith-cure' movement (Charles Cullis, A. J. Gordon, A. B. Simpson). It continued through Pentecostal healers such as Smith Wigglesworth and John G. Lake, the post-war healing revivals and Kathryn Kuhlman, then John Wimber's 'power evangelism' and today's Bethel Church in Redding, California.\n\nThe debate has three main positions. Healing-movement teachers hold that healing is provided in the atonement and that God's will is to heal. Mediating 'kingdom' continuationists, shaped by George Ladd's 'already and not yet', pray expectantly but deny that healing is guaranteed. Critics include cessationists such as B. B. Warfield, medical sceptics, apologists such as Hank Hanegraaff, and writers on suffering such as Joni Eareckson Tada. They question the claims, the theology, or both.\n\nSince 2010 the debate has also become empirical. Craig Keener's two-volume *Miracles* (2011) gathered thousands of modern claims, and Candy Gunther Brown's *Testing Prayer* (2012) reported field studies of healing prayer. Randomised trials of distant intercessory prayer have found no effect, and documented frauds and child deaths in faith-healing sects give critics evidence of their own.",
+    "keyRefs": [
+      "Jas 5:14-16",
+      "Isa 53:4-5",
+      "Matt 8:16-17",
+      "Mark 16:17-18",
+      "1 Cor 12:9",
+      "2 Cor 12:7-10",
+      "Rom 8:23",
+      "Acts 10:38"
+    ],
+    "positions": [
+      {
+        "id": "healing-movement",
+        "name": "Healing movement: healing in the atonement",
+        "color": "#9a6b55",
+        "summary": "The healing movement holds that Christ's atoning death purchased healing for the body as well as forgiveness for the soul. On this view, as Jesus healed all who came to him, God's will is to heal today, and the church has been commissioned to heal the sick as part of preaching the kingdom.\n\nSickness is treated as part of the devil's oppression and the curse that Christ came to undo. Faith, both the sick person's and the minister's, is the ordinary channel through which healing comes, and unbelief can hinder it. Different teachers have held this view with different emphases: Blumhardt's pastoral 'Jesus is Victor', Simpson's holiness-shaped 'Christ our Healer', Wigglesworth's bold faith and Bethel's 'Jesus is perfect theology', which holds that the Father's will is seen in Jesus, who never refused to heal anyone.",
+        "figures": [
+          {
+            "name": "Johann Christoph Blumhardt",
+            "lived": "1805-1880",
+            "profession": "Lutheran pastor in Möttlingen and later at Bad Boll, Württemberg",
+            "bio": "Between 1842 and 1843 Blumhardt engaged in a long pastoral struggle for Gottliebin Dittus, a young woman in his parish he believed was demonically afflicted. It ended, by his account, with the cry 'Jesus is Victor'. A local awakening with confessions and healings followed. He later ran a retreat centre at Bad Boll. His reports, written for church authorities, deeply influenced European and later American healing ministry, and his son Christoph Friedrich and Karl Barth both drew on his legacy.",
+            "works": [
+              {
+                "author": "Johann Christoph Blumhardt",
+                "title": "Report on Gottliebin Dittus's illness (Krankheitsgeschichte der Gottliebin Dittus)",
+                "year": 1844,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "A. B. Simpson",
+            "lived": "1843-1919",
+            "profession": "Presbyterian minister, founder of the Christian and Missionary Alliance",
+            "bio": "Albert Benjamin Simpson suffered from heart trouble and nervous exhaustion. He reported being healed in 1881 after accepting Christ as his healer. He left Presbyterian ministry to found what became the Christian and Missionary Alliance, whose 'fourfold gospel' presents Christ as Saviour, Sanctifier, Healer and Coming King. He taught healing in the atonement and operated healing homes.",
+            "works": [
+              {
+                "author": "A. B. Simpson",
+                "title": "The Gospel of Healing",
+                "year": 1885,
+                "confidence": "needs-verification"
+              },
+              {
+                "author": "A. B. Simpson",
+                "title": "The Fourfold Gospel",
+                "year": 1890,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Smith Wigglesworth",
+            "lived": "1859-1947",
+            "profession": "Plumber turned Pentecostal evangelist, Bradford, England",
+            "bio": "Wigglesworth was barely literate and worked as a plumber before entering itinerant healing ministry after his Pentecostal experience in 1907. He became famous worldwide for bold faith, blunt speech and dramatic healing methods. Reports of healings and even raisings from the dead circulated widely, mostly through admirers' accounts that are hard to verify.",
+            "works": [
+              {
+                "author": "Smith Wigglesworth",
+                "title": "Ever Increasing Faith",
+                "year": 1924
+              },
+              {
+                "author": "Smith Wigglesworth",
+                "title": "Faith That Prevails",
+                "year": 1938,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "John G. Lake",
+            "lived": "1870-1935",
+            "profession": "Pentecostal missionary and healing minister",
+            "bio": "After ministry in South Africa (1908-1913), where he helped found the Apostolic Faith Mission, Lake set up 'healing rooms' in Spokane, Washington, from 1915. Very large numbers of healings were claimed there. Historians note that these figures came from his own reports and that his biography includes embellished claims, but his healing-rooms model was revived in Spokane in 1999 and later spread internationally.",
+            "works": [
+              {
+                "author": "John G. Lake (sermons, ed. Gordon Lindsay)",
+                "title": "John G. Lake: Apostle to Africa",
+                "year": 1972,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Bill Johnson",
+            "lived": "born 1951",
+            "profession": "Senior leader of Bethel Church, Redding, California",
+            "bio": "Under Johnson, Bethel became a global centre for healing and miracle ministry through its School of Supernatural Ministry, music and conferences. He teaches that Jesus is 'perfect theology': since Jesus healed all who came, believers should not build a theology around unanswered prayer. He has also acknowledged publicly that many people they pray for are not healed, including people close to him.",
+            "works": [
+              {
+                "author": "Bill Johnson",
+                "title": "When Heaven Invades Earth",
+                "year": 2003
+              },
+              {
+                "author": "Bill Johnson",
+                "title": "God Is Good: He's Better Than You Think",
+                "year": 2016
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "The modern movement began in the 1840s-1880s. Pietist awakening in Germany (Blumhardt), Swiss healing homes (Dorothea Trudel), and American holiness and Higher Life piety came together in the faith-cure movement. Its leaders read healing as part of 'full salvation'. Many faith-cure leaders discouraged or relativised medicine, which in that era was often ineffective or harmful.\n\nPentecostalism after 1906 made healing central to evangelism. The 1947-1958 healing revivals (William Branham, Oral Roberts, A. A. Allen and others) brought tent crusades and radio. Kathryn Kuhlman's meetings, the charismatic renewal and Wimber's Vineyard brought healing prayer into mainline and evangelical churches. Today healing is one of the main reasons people give for converting to Pentecostal Christianity in Africa, Latin America and Asia, and Bethel's model spreads globally through music and training schools.",
+        "claims": [
+          "Christ's atonement provides healing for the body as well as forgiveness of sins.",
+          "God's will is revealed in Jesus, who healed all who came to him, so God's will is to heal.",
+          "Sickness is part of the devil's oppression and the curse that Christ came to destroy.",
+          "Christ commissioned his followers to heal the sick, and that commission continues.",
+          "Faith is the normal channel of healing, and unbelief can hinder it.",
+          "Healing confirms the gospel and draws people to Christ.",
+          "Believers should not let unanswered prayers lower their expectation of what God has promised."
+        ],
+        "scriptures": [
+          {
+            "ref": "Isa 53:4-5",
+            "reading": "The servant bore our griefs (literally 'sicknesses') and carried our sorrows ('pains'). By his stripes we are healed. Physical healing is in the atonement."
+          },
+          {
+            "ref": "Matt 8:16-17",
+            "reading": "Jesus healed all the sick 'that it might be fulfilled' which Isaiah spoke. Matthew himself applies Isaiah 53 to bodily healing."
+          },
+          {
+            "ref": "Acts 10:38",
+            "reading": "Jesus healed all who were oppressed of the devil. Sickness is linked to satanic oppression."
+          },
+          {
+            "ref": "Matt 10:7-8",
+            "reading": "The disciples were sent to preach the kingdom and heal the sick, a commission that continues with the church."
+          },
+          {
+            "ref": "Jas 5:14-15",
+            "reading": "The prayer of faith shall save the sick, and the Lord shall raise him up. It is a standing promise to the church."
+          },
+          {
+            "ref": "Mark 16:17-18",
+            "reading": "Believers will lay hands on the sick and they will recover."
+          },
+          {
+            "ref": "Exod 15:26",
+            "reading": "'I am the Lord that healeth thee.' Healing is part of God's covenant name and character."
+          },
+          {
+            "ref": "Ps 103:2-3",
+            "reading": "The Lord forgives all iniquities and heals all diseases. Forgiveness and healing go together."
+          },
+          {
+            "ref": "Mark 6:5-6",
+            "reading": "Jesus could do few mighty works in Nazareth because of unbelief. Faith matters for healing."
+          },
+          {
+            "ref": "John 14:12",
+            "reading": "Those who believe will do the works Jesus did, and greater works."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Matthew 8:17 is decisive. The evangelist applies Isaiah 53:4 to Jesus' healing of physical illness, so the servant's work includes bodily healing.",
+            "refs": [
+              "Matt 8:16-17",
+              "Isa 53:4"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "James gives a standing church practice, with elders, oil and the prayer of faith, and attaches a promise to it. Nothing in the text limits it to the apostolic era.",
+            "refs": [
+              "Jas 5:14-15"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "Jesus is the exact representation of the Father. In the Gospels he never told a sick person that sickness was God's will for them, so believers should not assume it is.",
+            "refs": [
+              "Heb 1:3",
+              "John 14:9"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Early Christian writers reported healings well after the apostles. Irenaeus, for example, describes Christians healing the sick by laying on hands. Augustine catalogues healings in North Africa and retracted his earlier view that such miracles had ceased."
+          },
+          {
+            "kind": "historical",
+            "text": "Modern revivals from Möttlingen onward have consistently included reports of healing. In global surveys, healing is among the most commonly cited reasons for conversion to Pentecostalism, which is evidence of real effects in many lives."
+          },
+          {
+            "kind": "logical",
+            "text": "Lowering expectation to match experience makes experience the norm instead of Scripture. Unanswered prayers should drive believers to press in, not to rewrite God's promises."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "B. B. Warfield, *Counterfeit Miracles* (1918)",
+            "text": "Miraculous gifts were credentials of the apostles and accompanied new revelation. They ceased with the apostolic age, and modern faith-cure claims, Protestant or Catholic, rest on misread texts and unreliable testimony.",
+            "refs": [
+              "2 Cor 12:12",
+              "Heb 2:3-4"
+            ]
+          },
+          {
+            "from": "Medical investigators (William Nolen, 1974) and sceptics (James Randi)",
+            "text": "Nolen followed up people reported healed at a Kathryn Kuhlman meeting and found no case of verified cure of organic disease. Randi showed in 1986 that Peter Popoff received information through a hidden earpiece. Claims are often psychosomatic, temporary or fraudulent."
+          },
+          {
+            "from": "Hank Hanegraaff and evangelical critics",
+            "text": "Teaching that healing is guaranteed in the atonement leads inevitably to blaming the sick for weak faith and encourages some to refuse medicine."
+          },
+          {
+            "from": "Joni Eareckson Tada and theologians of suffering",
+            "text": "God sometimes sovereignly withholds physical healing to accomplish deeper purposes. Treating disability or illness as defeat misreads Scripture and isolates suffering believers.",
+            "refs": [
+              "2 Cor 4:16-18",
+              "Rom 5:3-5"
+            ]
+          },
+          {
+            "from": "Paediatric researchers (Asser and Swan, 1998)",
+            "text": "A study of 172 child deaths in faith-healing families in the United States (1975-1995) concluded that most of the children would probably have survived with medical care. Overclaiming has real, measurable costs."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Defenders reply that 1 Corinthians 12 presents healing as a gift distributed across the church, not just an apostolic sign. They note that Warfield's cessationism depended partly on Enlightenment criteria for testimony that historians such as Keener now challenge.",
+            "refs": [
+              "1 Cor 12:9",
+              "1 Cor 12:28"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Frauds are acknowledged and condemned, but counterfeit currency implies a genuine one. Many healing ministries now encourage medical verification, and Keener and others have collected medically documented cases."
+          },
+          {
+            "toCritique": 2,
+            "text": "Responsible teachers deny that every unhealed person lacks faith. Bethel and others say plainly that they do not know why some are not healed and that blaming the sick is wrong, while still affirming that God's will revealed in Jesus is to heal."
+          },
+          {
+            "toCritique": 3,
+            "text": "Healing-movement leaders affirm God's grace in suffering but distinguish persecution, which Christians are promised, from sickness, which Jesus consistently treated as an enemy."
+          },
+          {
+            "toCritique": 4,
+            "text": "Most healing-movement churches today are not medicine-refusing sects and explicitly endorse medical treatment. The deaths documented came largely from specific isolationist groups."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Healing teachers claim everyone they pray for is healed.",
+            "correction": "Leaders from Simpson to Bill Johnson have acknowledged that many are not healed. They differ from critics on how to interpret this, not on whether it happens."
+          },
+          {
+            "strawMan": "Believing in divine healing means rejecting doctors.",
+            "correction": "Some early faith-cure leaders and some sects discouraged medicine. Most Pentecostal and charismatic churches today combine prayer with medical care."
+          },
+          {
+            "strawMan": "The healing movement is a twentieth-century American invention.",
+            "correction": "Its modern form has nineteenth-century German, Swiss and British as well as American roots, and its practice of prayer and anointing draws on James 5 and early church testimony."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Restored prayer for the sick as a normal congregational practice in many churches.",
+            "Brought hope and reported healing to very large numbers, especially in places with little medical care.",
+            "Drove the growth of Pentecostal and charismatic Christianity worldwide."
+          ],
+          "negative": [
+            "Guilt and spiritual trauma among people who were not healed and were told their faith was lacking.",
+            "Exploitation by fraudulent healers.",
+            "Preventable deaths where medical care was refused, especially of children in isolationist groups.",
+            "Credibility damaged by unverified and exaggerated claims."
+          ]
+        },
+        "adherents": [
+          "Christian and Missionary Alliance (historically, in its 'Christ our Healer' teaching)",
+          "Classical Pentecostal denominations, such as the Assemblies of God, which list divine healing as a fundamental truth",
+          "Bethel Church and its global network of schools and churches",
+          "Healing Rooms ministries and many independent charismatic churches"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "A. B. Simpson",
+              "title": "The Gospel of Healing",
+              "year": 1885,
+              "confidence": "needs-verification"
+            },
+            {
+              "author": "Smith Wigglesworth",
+              "title": "Ever Increasing Faith",
+              "year": 1924
+            },
+            {
+              "author": "Bill Johnson",
+              "title": "When Heaven Invades Earth",
+              "year": 2003
+            },
+            {
+              "author": "F. F. Bosworth",
+              "title": "Christ the Healer",
+              "year": 1924
+            }
+          ],
+          "critic": [
+            {
+              "author": "B. B. Warfield",
+              "title": "Counterfeit Miracles",
+              "year": 1918,
+              "publicDomain": true
+            },
+            {
+              "author": "William A. Nolen",
+              "title": "Healing: A Doctor in Search of a Miracle",
+              "year": 1974
+            },
+            {
+              "author": "Hank Hanegraaff",
+              "title": "Christianity in Crisis",
+              "year": 1993
+            },
+            {
+              "author": "Joni Eareckson Tada",
+              "title": "A Place of Healing",
+              "year": 2010
+            }
+          ]
+        },
+        "originYear": 1842
+      },
+      {
+        "id": "kingdom-healing",
+        "name": "Kingdom continuationists: expectant prayer without guarantee",
+        "color": "#6f8a7b",
+        "summary": "This mediating view follows George Eldon Ladd's theology of the kingdom. The kingdom of God has broken into history in Jesus ('already') but is not yet consummated ('not yet'). Healings are real signs of the kingdom's presence, so the church should pray for the sick boldly and regularly, and all believers, not just celebrity healers, may do so.\n\nComplete bodily redemption awaits the resurrection, so healing is not guaranteed in this life, and its absence is not necessarily a sign of weak faith. John Wimber, who taught 'power healing' and himself suffered from cancer and heart disease before he died in 1997, is the defining figure. Kathryn Kuhlman emphasised the sovereign work of the Holy Spirit and refused to explain why some were not healed. The Catholic charismatic Francis MacNutt approached healing as compassionate pastoral prayer. Craig Keener's scholarship argues that miracle claims deserve serious historical investigation.",
+        "figures": [
+          {
+            "name": "George Eldon Ladd",
+            "lived": "1911-1982",
+            "profession": "New Testament scholar, Fuller Theological Seminary",
+            "bio": "Ladd's work on the kingdom of God as 'already and not yet' became the standard evangelical framework for inaugurated eschatology. Ladd himself was not a healing practitioner, but Wimber built his theology of healing on Ladd's framework.",
+            "works": [
+              {
+                "author": "George Eldon Ladd",
+                "title": "The Presence of the Future",
+                "year": 1974
+              },
+              {
+                "author": "George Eldon Ladd",
+                "title": "The Gospel of the Kingdom",
+                "year": 1959
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "John Wimber",
+            "lived": "1934-1997",
+            "profession": "Founding leader of the Association of Vineyard Churches",
+            "bio": "Wimber was a former rock musician and Quaker-influenced evangelical. While teaching at Fuller Seminary he co-led a famous course on 'Signs, Wonders and Church Growth' (MC510, from 1982). He taught that every believer can pray for the sick in a calm, non-hyped 'naturally supernatural' way. He was candid about the many who were not healed and about his own illnesses.",
+            "works": [
+              {
+                "author": "John Wimber with Kevin Springer",
+                "title": "Power Healing",
+                "year": 1987
+              },
+              {
+                "author": "John Wimber with Kevin Springer",
+                "title": "Power Evangelism",
+                "year": 1986
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Kathryn Kuhlman",
+            "lived": "1907-1976",
+            "profession": "Evangelist, healing minister based in Pittsburgh",
+            "bio": "From her Pittsburgh meetings beginning in 1948, and through television, Kuhlman drew huge crowds and reported many healings, often announced from the platform as happening in the audience. She insisted she was not a healer and that she did not know why some were healed and others not, attributing everything to the Holy Spirit's sovereignty. Her meetings were also the subject of William Nolen's sceptical investigation.",
+            "works": [
+              {
+                "author": "Kathryn Kuhlman",
+                "title": "I Believe in Miracles",
+                "year": 1962
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Francis MacNutt",
+            "lived": "1925-2020",
+            "profession": "Catholic priest (later laicised), co-founder of Christian Healing Ministries",
+            "bio": "MacNutt was a leading figure in the Catholic charismatic renewal. His book *Healing* (1974) presented healing prayer as an ordinary expression of Christ's compassion. It emphasised 'soaking prayer', inner healing and healing that is often gradual and partial, and it rejected the idea that the unhealed lack faith.",
+            "works": [
+              {
+                "author": "Francis MacNutt",
+                "title": "Healing",
+                "year": 1974
+              },
+              {
+                "author": "Francis MacNutt",
+                "title": "The Power to Heal",
+                "year": 1977
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "Craig S. Keener",
+            "lived": "born 1960",
+            "profession": "New Testament scholar, Asbury Theological Seminary",
+            "bio": "Keener's two-volume *Miracles* (2011) argued against David Hume's dismissal of miracle testimony and collected hundreds of modern miracle claims from many countries. Some include medical documentation, among them cases from his own wife's family in Congo. He presents the evidence to show that eyewitness miracle claims are common and cannot be dismissed a priori, not to prove that any particular healing was miraculous.",
+            "works": [
+              {
+                "author": "Craig S. Keener",
+                "title": "Miracles: The Credibility of the New Testament Accounts",
+                "year": 2011
+              },
+              {
+                "author": "Craig S. Keener",
+                "title": "Miracles Today: The Supernatural Work of God in the Modern World",
+                "year": 2021
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "The 'kingdom' approach emerged when charismatic renewal reached evangelical and Catholic churches in the 1960s-1980s. Many there wanted healing prayer without the Word of Faith framework or the showmanship of the tent revivals. Wimber's Fuller course and Vineyard conferences, including in the UK, spread a low-key model of 'doing the stuff' in which ordinary members pray for the sick.\n\nSince 2010 a scholarly wing has added empirical and historical study. Keener's *Miracles* (2011) and Candy Gunther Brown's *Testing Prayer* (2012) are central. Brown, a religious-studies scholar, led a study of 'proximal intercessory prayer' in rural Mozambique, published in 2010, which reported measurable improvements in hearing and vision after prayer. She reported her findings cautiously as calling for further research, and they remain debated.",
+        "claims": [
+          "The kingdom of God has broken into the present age, and healings are genuine signs of its presence.",
+          "All believers, not only specially gifted healers, may pray for the sick, and they should do so regularly and expectantly.",
+          "Full bodily redemption awaits the resurrection, so healing is not guaranteed in this life.",
+          "When healing does not come, the sick person should not be blamed. God is sovereign, and the reasons are often hidden.",
+          "Medical care is a good gift of God and fully compatible with prayer.",
+          "Miracle claims can and should be investigated. Some are well documented and cannot be dismissed a priori."
+        ],
+        "scriptures": [
+          {
+            "ref": "Matt 12:28",
+            "reading": "If Jesus casts out demons by the Spirit, the kingdom has come. Healings and deliverance show the kingdom is present now."
+          },
+          {
+            "ref": "Rom 8:23",
+            "reading": "Believers who have the Spirit's firstfruits still groan, waiting for the redemption of the body. Full healing is future."
+          },
+          {
+            "ref": "2 Cor 4:16",
+            "reading": "The outward man perishes while the inward man is renewed. Bodies still decline in this age."
+          },
+          {
+            "ref": "Jas 5:14-16",
+            "reading": "Elders and believers pray for one another so that they may be healed. Healing prayer is an ordinary practice of the church."
+          },
+          {
+            "ref": "1 Cor 12:9",
+            "reading": "'Gifts of healings' (plural in Greek) are distributed by the Spirit as he wills, not on demand."
+          },
+          {
+            "ref": "Phil 2:25-27",
+            "reading": "Epaphroditus was sick nearly to death and God had mercy on him. Healing came as mercy, not as an apostolic guarantee."
+          },
+          {
+            "ref": "2 Tim 4:20",
+            "reading": "Paul left Trophimus sick at Miletus. Healing was not automatic even in the apostolic circle."
+          },
+          {
+            "ref": "Luke 4:18-19",
+            "reading": "Jesus' mission included recovering of sight to the blind, which is part of the kingdom's good news now."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "The New Testament holds together real present healings and continuing sickness among faithful believers, such as Epaphroditus, Trophimus and Timothy. Only an 'already and not yet' framework accounts for both.",
+            "refs": [
+              "Phil 2:25-27",
+              "2 Tim 4:20",
+              "1 Tim 5:23"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Romans 8:23 places the body's redemption in the future. Healings now are foretastes, not the full inheritance.",
+            "refs": [
+              "Rom 8:23"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Keener documents miracle claims across cultures and centuries, many from credible eyewitnesses and some with medical records. Hume's argument that testimony can never establish a miracle assumes what it sets out to prove."
+          },
+          {
+            "kind": "historical",
+            "text": "The 2010 Mozambique study led by Candy Gunther Brown reported statistically significant improvements in hearing and vision immediately after hands-on prayer. Brown notes that such effects call for further investigation and do not prove supernatural causation."
+          },
+          {
+            "kind": "logical",
+            "text": "If healing were guaranteed, Wimber's own cancer and death, and the deaths of every faithful healer, would be inexplicable. The mediating view fits both Scripture and experience."
+          },
+          {
+            "kind": "historical",
+            "text": "Augustine first said miracles were no longer granted, then in *City of God* 22.8 recorded many healings he had witnessed or investigated, while never claiming they were automatic. This is an early model of expectant but sober belief."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Healing-movement teachers (e.g. Bill Johnson)",
+            "text": "'Already and not yet' can become a theology of disappointment, lowering faith and expectation to match the church's poor experience instead of Jesus' example.",
+            "refs": [
+              "John 14:12"
+            ]
+          },
+          {
+            "from": "Cessationist critics",
+            "text": "The mediating view still relies largely on anecdote. Keener's cases are mostly unverified testimonies, and if healing is unpredictable and often absent, it is unclear how it differs from ordinary providence."
+          },
+          {
+            "from": "Medical and scientific researchers",
+            "text": "Large randomised trials such as the 2006 STEP study found no benefit from distant intercessory prayer. Patients who knew they were being prayed for had slightly more complications. Small uncontrolled field studies like Brown's are vulnerable to suggestion, expectancy and measurement bias."
+          },
+          {
+            "from": "Disability theologians and some evangelical critics",
+            "text": "Even gentle expectant prayer in public can objectify disabled people as 'targets' for healing and imply that their bodies are problems to fix."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Wimber and others answer that honesty about unanswered prayer protects people from guilt and keeps them praying long-term. They argue that 'not yet' is part of apostolic teaching, not an invention of disappointed charismatics.",
+            "refs": [
+              "Rom 8:23-25"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Keener replies that testimony is how historians know most of the past, and that his collection includes medically documented cases. A miracle can be both providential and extraordinary."
+          },
+          {
+            "toCritique": 2,
+            "text": "Defenders reply that distant prayer by strangers in a hospital trial is not the practice the New Testament describes, which is hands-on, relational prayer. Brown's studies measured that practice, and she called for larger replications."
+          },
+          {
+            "toCritique": 3,
+            "text": "Vineyard and other practitioners have increasingly taught consent, dignity and listening before praying. They emphasise that healing prayer is offered, not imposed, and that disabled believers are full members of Christ's body."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "The mediating view does not really expect God to heal.",
+            "correction": "Its practitioners pray for the sick constantly and report many healings. They deny only that healing is guaranteed and that the unhealed are at fault."
+          },
+          {
+            "strawMan": "Keener claims to have proved miracles scientifically.",
+            "correction": "Keener argues something more modest: that miracle claims are widespread and credible enough that they cannot be dismissed in principle, and that supernatural explanations deserve consideration."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Normalised healing prayer in evangelical, Anglican and Catholic churches without the excesses of faith formulas.",
+            "Encouraged pastoral honesty about suffering and unanswered prayer.",
+            "Stimulated serious historical and empirical study of healing claims."
+          ],
+          "negative": [
+            "Wimber-era conferences also produced hype and unverified claims of their own.",
+            "Critics on both sides see the view as unstable: either too cautious or still too credulous."
+          ]
+        },
+        "adherents": [
+          "Vineyard churches worldwide",
+          "Catholic Charismatic Renewal and Christian Healing Ministries",
+          "Many charismatic Anglican and evangelical congregations",
+          "Continuationist biblical scholars and historians"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "John Wimber with Kevin Springer",
+              "title": "Power Healing",
+              "year": 1987
+            },
+            {
+              "author": "Francis MacNutt",
+              "title": "Healing",
+              "year": 1974
+            },
+            {
+              "author": "Craig S. Keener",
+              "title": "Miracles: The Credibility of the New Testament Accounts",
+              "year": 2011
+            },
+            {
+              "author": "Candy Gunther Brown",
+              "title": "Testing Prayer: Science and Healing",
+              "year": 2012
+            }
+          ],
+          "critic": [
+            {
+              "author": "Herbert Benson et al.",
+              "title": "Study of the Therapeutic Effects of Intercessory Prayer (STEP) in cardiac bypass patients",
+              "year": 2006,
+              "locator": "American Heart Journal 151.4"
+            },
+            {
+              "author": "John MacArthur",
+              "title": "Strange Fire",
+              "year": 2013
+            },
+            {
+              "author": "Bill Johnson",
+              "title": "God Is Good",
+              "year": 2016
+            }
+          ]
+        },
+        "originYear": 1982
+      },
+      {
+        "id": "healing-critics",
+        "name": "Critics: cessationist, empirical and theology-of-suffering objections",
+        "color": "#6a6f86",
+        "summary": "The critics raise three distinct kinds of objection. Cessationists, following B. B. Warfield, hold that the miraculous gift of healing belonged to the apostolic age and authenticated new revelation. God still heals in answer to prayer, they say, but through providence, not through healers with a gift.\n\nEmpirical critics, both Christian and secular, insist that claims be verified. They point to investigations that found no verified cures, to exposed frauds, and to randomised trials that found no effect. Theologians of suffering such as Joni Eareckson Tada, who has lived with quadriplegia since 1967, argue that guaranteed-healing theology misreads Scripture and wounds the sick, and that God often works his deepest purposes through weakness.\n\nMost Christian critics affirm that God can and does heal. Their objections are to the claim that healing is guaranteed, to the claim that gifted healers exist today, or to unverified claims.",
+        "figures": [
+          {
+            "name": "B. B. Warfield",
+            "lived": "1851-1921",
+            "profession": "Reformed theologian, Princeton Theological Seminary",
+            "bio": "Warfield's lectures, published as *Counterfeit Miracles* (1918), argued that the charismata were confined to the apostles and those on whom they laid hands, as credentials of revelation. He critiqued patristic, medieval Catholic, Irvingite, faith-cure and Christian Science miracle claims. His work remains the classic statement of Protestant cessationism.",
+            "works": [
+              {
+                "author": "B. B. Warfield",
+                "title": "Counterfeit Miracles",
+                "year": 1918,
+                "publicDomain": true
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "William A. Nolen",
+            "lived": "1928-1986",
+            "profession": "Surgeon and author, Minnesota",
+            "bio": "Nolen attended a Kathryn Kuhlman service and followed up on people who had claimed healing there. In his book he reported that he found no case of cure of organic disease. He found psychosomatic relief, and some tragic outcomes, including a woman with spinal cancer who discarded her brace and suffered collapse of a vertebra. He also investigated Filipino 'psychic surgeons'.",
+            "works": [
+              {
+                "author": "William A. Nolen",
+                "title": "Healing: A Doctor in Search of a Miracle",
+                "year": 1974
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Joni Eareckson Tada",
+            "lived": "born 1949",
+            "profession": "Author, artist, founder of Joni and Friends",
+            "bio": "Tada became quadriplegic in a 1967 diving accident and later lived with chronic pain and cancer. She sought healing early on, including at healing services, and over decades she has written about God's sovereign purposes in suffering. She affirms that God can heal, rejects guaranteed-healing teaching, and has built a global disability ministry.",
+            "works": [
+              {
+                "author": "Joni Eareckson Tada",
+                "title": "A Place of Healing",
+                "year": 2010
+              },
+              {
+                "author": "Joni Eareckson Tada and Steve Estes",
+                "title": "When God Weeps",
+                "year": 1997
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "Hank Hanegraaff",
+            "lived": "living",
+            "profession": "Christian apologist, radio host",
+            "bio": "Hanegraaff's books criticised Word of Faith healing teaching and the 1990s 'laughing revival' phenomena. He argued that faith formulas blame the sick and that many reported healings are unverified or psychosomatic.",
+            "works": [
+              {
+                "author": "Hank Hanegraaff",
+                "title": "Christianity in Crisis",
+                "year": 1993
+              },
+              {
+                "author": "Hank Hanegraaff",
+                "title": "Counterfeit Revival",
+                "year": 1997
+              }
+            ],
+            "role": "popularizer"
+          },
+          {
+            "name": "James Randi",
+            "lived": "1928-2020",
+            "profession": "Stage magician and sceptical investigator",
+            "bio": "Randi, a secular sceptic, investigated several televangelist healers. In 1986 he publicly exposed Peter Popoff's use of a hidden earpiece through which his wife fed him details about audience members, which Popoff presented as divine revelation. Randi's work is often cited by Christian critics of fraudulent healing ministries.",
+            "works": [
+              {
+                "author": "James Randi",
+                "title": "The Faith Healers",
+                "year": 1987
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "Protestant scepticism toward post-apostolic miracles goes back to the Reformation polemic against Catholic relics and shrines. It was systematised by Warfield in response to the faith-cure movement and Christian Science. In the twentieth century it was joined by medical scepticism, which grew as scientific medicine became more effective, and by the exposure of fraud in televangelism during the 1980s.\n\nIn the late twentieth century evangelical reflection on suffering, by Tada, C. S. Lewis and D. A. Carson among others, offered a pastoral rather than polemical critique. Empirical research also matured. Asser and Swan's 1998 paediatrics study documented preventable child deaths in faith-healing families, and the 2006 STEP trial tested distant intercessory prayer.",
+        "claims": [
+          "God can and does heal in answer to prayer, but healing is not guaranteed in this life.",
+          "Cessationists hold that the gift of healing, as practised by the apostles, authenticated revelation and ceased. Healing today comes through providence and prayer, not gifted healers.",
+          "The atonement secures bodily healing finally at the resurrection, not on demand now.",
+          "Suffering, including illness and disability, can be the setting of God's deepest work, and the sick must never be blamed for lack of faith.",
+          "Healing claims should be medically verified, and the record includes many unverified, temporary, psychosomatic and fraudulent claims.",
+          "Overclaiming causes real harm: guilt, financial exploitation and avoidable deaths."
+        ],
+        "scriptures": [
+          {
+            "ref": "2 Cor 12:7-10",
+            "reading": "Paul prayed three times for removal of his thorn and was refused. God's strength is perfected in weakness."
+          },
+          {
+            "ref": "2 Cor 12:12",
+            "reading": "Signs, wonders and mighty deeds were 'the signs of an apostle', marks of a unique office."
+          },
+          {
+            "ref": "Heb 2:3-4",
+            "reading": "God bore witness to the apostolic message with signs and wonders. Miracles confirmed the first preaching of the gospel."
+          },
+          {
+            "ref": "1 Tim 5:23",
+            "reading": "Paul recommends wine for Timothy's stomach and frequent illnesses. This is ordinary remedy, not a healing gift."
+          },
+          {
+            "ref": "2 Cor 4:16-18",
+            "reading": "Our light affliction works a far more exceeding weight of glory. Suffering serves eternal purposes."
+          },
+          {
+            "ref": "Rom 8:18-23",
+            "reading": "Present sufferings are not worth comparing to future glory. Creation and believers groan until the body's redemption."
+          },
+          {
+            "ref": "John 9:1-3",
+            "reading": "The man's blindness was not due to his sin or his parents'. Illness is not a verdict on faith."
+          },
+          {
+            "ref": "Matt 24:24",
+            "reading": "False christs and false prophets will show great signs and wonders. Miracles do not validate themselves."
+          },
+          {
+            "ref": "Rev 21:4",
+            "reading": "God will wipe away every tear, and there will be no more pain. Final healing belongs to the new creation."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Paul himself, who healed others, could not heal Trophimus or remove his own thorn, and recommended remedies for Timothy. Healing was never at the disposal of faith even in the apostolic circle.",
+            "refs": [
+              "2 Tim 4:20",
+              "2 Cor 12:7-10",
+              "1 Tim 5:23"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Hebrews describes miracles as God's confirmation of the apostolic message in the past tense, consistent with their role as credentials of revelation.",
+            "refs": [
+              "Heb 2:3-4"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Investigations have repeatedly found no verified cures of organic disease where healings were loudly claimed. Examples include Nolen's follow-up of Kuhlman cases and the exposure of Popoff's earpiece in 1986."
+          },
+          {
+            "kind": "historical",
+            "text": "Asser and Swan's 1998 study in *Pediatrics* examined 172 child deaths in faith-healing families and judged that most children would likely have survived with medical treatment."
+          },
+          {
+            "kind": "historical",
+            "text": "The 2006 STEP trial, involving about 1,800 cardiac bypass patients, found that distant intercessory prayer had no effect on recovery. Those who knew they were prayed for had somewhat more complications."
+          },
+          {
+            "kind": "logical",
+            "text": "If healing is guaranteed to faith, the unhealed must lack faith. Since faithful saints in Scripture and history died of illness, the premise must be false."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Continuationist scholars (Craig Keener, Jon Ruthven)",
+            "text": "Warfield's cessationism depends on Enlightenment assumptions about testimony and on a reading of 'signs of an apostle' that Scripture does not require. Healing gifts in 1 Corinthians 12 are given to ordinary believers.",
+            "refs": [
+              "1 Cor 12:7-11"
+            ]
+          },
+          {
+            "from": "Healing-movement teachers",
+            "text": "Critics build a theology around unanswered prayer and treat sickness as God's tool. Jesus treated sickness as an enemy, never as a blessing in disguise.",
+            "refs": [
+              "Acts 10:38",
+              "Luke 13:16"
+            ]
+          },
+          {
+            "from": "Candy Gunther Brown and other researchers",
+            "text": "Distant-prayer trials like STEP do not test the hands-on, relational prayer practised in healing ministries. Field studies of that practice have produced different results that deserve replication."
+          },
+          {
+            "from": "Historians of global Christianity",
+            "text": "Western sceptics underweight testimony from the Global South, where healing claims are pervasive and sometimes medically documented."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Cessationists answer that the gifts in 1 Corinthians 12 belonged to the apostolic churches. They argue that ecclesiastical history after the apostles shows a marked decline in such gifts, as even some Fathers acknowledged."
+          },
+          {
+            "toCritique": 1,
+            "text": "Tada and others affirm that sickness is an enemy and a consequence of the fall, but hold that God, who is sovereign over enemies, can use even them for good, as he used the cross.",
+            "refs": [
+              "Gen 50:20",
+              "Rom 8:28"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Critics accept that STEP tested a different practice. They note that the Mozambique study was small and uncontrolled, which leaves suggestion and expectancy as possible explanations."
+          },
+          {
+            "toCritique": 3,
+            "text": "Many critics agree that testimony matters and should be heard. Their point is that all claims, from anywhere, should be documented and evaluated by the same standards."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "Critics of the healing movement do not believe God heals.",
+            "correction": "Most Christian critics, including Warfield and Tada, affirm that God heals in answer to prayer. They dispute the means, the guarantees or the specific claims."
+          },
+          {
+            "strawMan": "Theologians of suffering think sickness is good.",
+            "correction": "Tada and others call sickness an evil and a result of the fall. They argue that God redeems suffering, not that he delights in it."
+          },
+          {
+            "strawMan": "Cessationists say Christians should not pray for the sick.",
+            "correction": "Cessationists encourage prayer for the sick, as James 5 directs. They deny that individuals today possess a miraculous gift of healing."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Protected vulnerable people from fraud and from abandoning medical care.",
+            "Gave suffering believers a theology that dignifies them instead of blaming them.",
+            "Encouraged honesty and verification in healing claims."
+          ],
+          "negative": [
+            "Cessationist polemic has at times dismissed genuine Christian experience wholesale.",
+            "A theology of suffering, wrongly applied, can drift into passivity toward illness or reluctance to pray boldly."
+          ]
+        },
+        "adherents": [
+          "Reformed and many Baptist cessationists",
+          "Evangelical apologetics ministries",
+          "Disability ministries and theologians of suffering",
+          "Medical researchers and sceptical investigators (including non-Christians)"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "B. B. Warfield",
+              "title": "Counterfeit Miracles",
+              "year": 1918,
+              "publicDomain": true
+            },
+            {
+              "author": "Joni Eareckson Tada and Steve Estes",
+              "title": "When God Weeps",
+              "year": 1997
+            },
+            {
+              "author": "William A. Nolen",
+              "title": "Healing: A Doctor in Search of a Miracle",
+              "year": 1974
+            },
+            {
+              "author": "Seth M. Asser and Rita Swan",
+              "title": "Child Fatalities from Religion-motivated Medical Neglect",
+              "year": 1998,
+              "locator": "Pediatrics 101.4"
+            }
+          ],
+          "critic": [
+            {
+              "author": "Craig S. Keener",
+              "title": "Miracles",
+              "year": 2011
+            },
+            {
+              "author": "Jon Mark Ruthven",
+              "title": "On the Cessation of the Charismata",
+              "year": 1993
+            },
+            {
+              "author": "Candy Gunther Brown",
+              "title": "Testing Prayer: Science and Healing",
+              "year": 2012
+            }
+          ]
+        },
+        "originYear": 1918
+      }
+    ],
+    "battleground": [
+      {
+        "ref": "Isa 53:4-5",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "Physical healing is purchased in the atonement and available now to faith."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "The atonement is the ground of all healing, partly tasted now and fully received at the resurrection."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "Primarily healing from sin (compare 1 Pet 2:24-25). Bodily healing is secured finally, not guaranteed now."
+          }
+        ]
+      },
+      {
+        "ref": "Matt 8:16-17",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "Matthew applies Isaiah 53 to physical healing, which proves that healing is in the atonement."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "Jesus' healings fulfil Isaiah as signs that the kingdom has arrived, a pattern the church continues in part."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "Matthew sees Isaiah fulfilled in Jesus' earthly ministry. That does not make healing a present guarantee for every believer."
+          }
+        ]
+      },
+      {
+        "ref": "Jas 5:14-16",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "A standing promise: the prayer of faith will heal the sick."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "A normal church practice of expectant prayer, set within God's sovereign will."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "A call to pray in dependence on God's providence. Many read 'save' and 'raise up' as including spiritual restoration, and 'oil' may be medicinal."
+          }
+        ]
+      },
+      {
+        "ref": "Mark 16:17-18",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "Believers will lay hands on the sick and they will recover, a promise to all believers."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "Consistent with the New Testament pattern, though most scholars treat the longer ending of Mark as a later addition, so it is not used as the main foundation."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "Absent from the earliest manuscripts, and in any case the signs are tied to confirming the apostles' preaching (v. 20)."
+          }
+        ]
+      },
+      {
+        "ref": "1 Cor 12:9",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "Gifts of healing are active in the church today through Spirit-filled believers."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "'Gifts of healings' are distributed as the Spirit wills, so they are real but not on demand."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "Cessationists: a gift of the foundational apostolic church. Others: real, but rarely and sovereignly given."
+          }
+        ]
+      },
+      {
+        "ref": "2 Cor 12:7-10",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "The thorn was persecution from a 'messenger of Satan', not sickness."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "Possibly physical. Either way it shows that God sometimes answers prayer with sustaining grace instead of removal."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "A clear case of God refusing to remove an affliction for a greater purpose: power perfected in weakness."
+          }
+        ]
+      },
+      {
+        "ref": "Rom 8:23",
+        "readings": [
+          {
+            "positionId": "healing-movement",
+            "reading": "Speaks of the final resurrection body. It does not cancel present healing promises."
+          },
+          {
+            "positionId": "kingdom-healing",
+            "reading": "The key 'not yet': full bodily redemption is future, so present healing is a foretaste."
+          },
+          {
+            "positionId": "healing-critics",
+            "reading": "Believers groan in mortal bodies until the resurrection, so healing is not guaranteed now."
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "year": 180,
+        "title": "Irenaeus on healings",
+        "note": "In *Against Heresies* (2.32.4) Irenaeus says Christians in his day healed the sick by laying on hands.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 426,
+        "title": "Augustine, City of God 22.8",
+        "note": "Augustine records numerous healings in North Africa, revising his earlier view that such miracles had ceased.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1842,
+        "title": "Blumhardt at Möttlingen",
+        "note": "Blumhardt's struggle for Gottliebin Dittus (1842-43) leads to a local awakening with reported healings.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1881,
+        "title": "Simpson's healing",
+        "note": "A. B. Simpson reports his own healing and soon founds what becomes the Christian and Missionary Alliance.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 1908,
+        "title": "Lake in South Africa",
+        "note": "John G. Lake begins missionary work in South Africa. He later founds healing rooms in Spokane (1915).",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1918,
+        "title": "Counterfeit Miracles",
+        "note": "B. B. Warfield publishes the classic cessationist critique of post-apostolic and faith-cure miracles.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1948,
+        "title": "Kuhlman in Pittsburgh",
+        "note": "Kathryn Kuhlman's Pittsburgh meetings begin and become a centre of reported healings.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1974,
+        "title": "Nolen's investigation",
+        "note": "Surgeon William Nolen publishes his follow-up of Kuhlman healing claims, finding no verified organic cures.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1986,
+        "title": "Popoff exposed",
+        "note": "James Randi reveals Peter Popoff's hidden earpiece on national television.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1987,
+        "title": "Power Healing",
+        "note": "John Wimber sets out the Vineyard's 'kingdom' approach to healing prayer.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1998,
+        "title": "Asser and Swan study",
+        "note": "A *Pediatrics* study documents 172 child deaths in faith-healing families from 1975 to 1995.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2003,
+        "title": "When Heaven Invades Earth",
+        "note": "Bill Johnson's book becomes a manifesto of Bethel's healing culture.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2006,
+        "title": "STEP trial",
+        "note": "A large randomised trial finds no benefit from distant intercessory prayer for cardiac bypass patients.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2010,
+        "title": "Mozambique prayer study",
+        "note": "Candy Gunther Brown and colleagues report improved hearing and vision after proximal prayer, in the *Southern Medical Journal*.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2011,
+        "title": "Keener's Miracles",
+        "note": "Craig Keener publishes a two-volume historical and cross-cultural study of miracle claims.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "influence": [
+      {
+        "from": "Johann Christoph Blumhardt",
+        "to": "healing-movement",
+        "note": "European roots of modern divine healing."
+      },
+      {
+        "from": "Faith-cure movement",
+        "to": "healing-movement",
+        "note": "Healing in the atonement (Cullis, Gordon, Simpson)."
+      },
+      {
+        "from": "George Eldon Ladd",
+        "to": "kingdom-healing",
+        "note": "'Already and not yet' kingdom theology."
+      },
+      {
+        "from": "healing-movement",
+        "to": "healing-critics",
+        "note": "Faith-cure claims provoked Warfield's critique."
+      },
+      {
+        "from": "healing-movement",
+        "to": "kingdom-healing",
+        "note": "Wimber inherited Pentecostal practice but reframed its theology."
+      },
+      {
+        "from": "kingdom-healing",
+        "to": "healing-movement",
+        "note": "Vineyard practice influenced Bethel's early development."
+      },
+      {
+        "from": "David Hume",
+        "to": "healing-critics",
+        "note": "The Enlightenment critique of miracle testimony, later challenged by Keener."
+      }
+    ],
+    "argumentMap": [
+      {
+        "id": "dh1",
+        "kind": "claim",
+        "text": "Healing is provided in the atonement and is God's will for believers now.",
+        "positionId": "healing-movement"
+      },
+      {
+        "id": "dh2",
+        "kind": "support",
+        "text": "Matthew applies Isaiah 53 to Jesus' physical healings.",
+        "parent": "dh1",
+        "positionId": "healing-movement",
+        "refs": [
+          "Matt 8:16-17"
+        ]
+      },
+      {
+        "id": "dh3",
+        "kind": "support",
+        "text": "Jesus, the image of the Father, healed all who came to him.",
+        "parent": "dh1",
+        "positionId": "healing-movement",
+        "refs": [
+          "Acts 10:38"
+        ]
+      },
+      {
+        "id": "dh4",
+        "kind": "objection",
+        "text": "Paul could not heal Trophimus or remove his own thorn.",
+        "parent": "dh1",
+        "positionId": "healing-critics",
+        "refs": [
+          "2 Tim 4:20",
+          "2 Cor 12:7-10"
+        ]
+      },
+      {
+        "id": "dh5",
+        "kind": "reply",
+        "text": "The thorn was persecution, and isolated cases do not overturn the promise.",
+        "parent": "dh4",
+        "positionId": "healing-movement"
+      },
+      {
+        "id": "dh6",
+        "kind": "reply",
+        "text": "These cases show the 'not yet': healing is real now but not guaranteed until the resurrection.",
+        "parent": "dh4",
+        "positionId": "kingdom-healing",
+        "refs": [
+          "Rom 8:23"
+        ]
+      },
+      {
+        "id": "dh7",
+        "kind": "claim",
+        "text": "The church should pray for the sick expectantly, without guarantees or blame.",
+        "positionId": "kingdom-healing"
+      },
+      {
+        "id": "dh8",
+        "kind": "support",
+        "text": "Many modern miracle claims, some medically documented, are credible.",
+        "parent": "dh7",
+        "positionId": "kingdom-healing"
+      },
+      {
+        "id": "dh9",
+        "kind": "objection",
+        "text": "Randomised trials of intercessory prayer show no effect.",
+        "parent": "dh8",
+        "positionId": "healing-critics"
+      },
+      {
+        "id": "dh10",
+        "kind": "reply",
+        "text": "Distant prayer by strangers is not the hands-on practice Scripture describes.",
+        "parent": "dh9",
+        "positionId": "kingdom-healing",
+        "refs": [
+          "Jas 5:14"
+        ]
+      },
+      {
+        "id": "dh11",
+        "kind": "objection",
+        "text": "'Not yet' becomes a theology of disappointment that lowers faith.",
+        "parent": "dh7",
+        "positionId": "healing-movement"
+      },
+      {
+        "id": "dh12",
+        "kind": "claim",
+        "text": "Healing gifts authenticated the apostles, and modern claims are largely unverified or harmful.",
+        "positionId": "healing-critics",
+        "refs": [
+          "2 Cor 12:12",
+          "Heb 2:3-4"
+        ]
+      },
+      {
+        "id": "dh13",
+        "kind": "support",
+        "text": "Investigations and fraud exposures (Nolen, Randi) and child-death studies show the cost of overclaiming.",
+        "parent": "dh12",
+        "positionId": "healing-critics"
+      },
+      {
+        "id": "dh14",
+        "kind": "objection",
+        "text": "Healing gifts are distributed to ordinary believers, not only apostles.",
+        "parent": "dh12",
+        "positionId": "kingdom-healing",
+        "refs": [
+          "1 Cor 12:9"
+        ]
+      },
+      {
+        "id": "dh15",
+        "kind": "objection",
+        "text": "Fraud proves there is a genuine article, and early church testimony shows healing continued.",
+        "parent": "dh13",
+        "positionId": "healing-movement"
+      },
+      {
+        "id": "dh16",
+        "kind": "reply",
+        "text": "All claims should be evaluated by the same evidential standards.",
+        "parent": "dh15",
+        "positionId": "healing-critics"
+      }
+    ]
   }
 ]

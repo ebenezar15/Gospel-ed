@@ -1,0 +1,1977 @@
+[
+  {
+    "id": "q-001",
+    "topic": "people",
+    "q": "Who was Moses' father-in-law, described as the priest of Midian?",
+    "options": [
+      "Laban",
+      "Jethro",
+      "Eli",
+      "Melchizedek"
+    ],
+    "answer": 1,
+    "explain": "Jethro (also called Reuel) was priest of Midian; he later advised Moses to appoint judges to share the work.",
+    "refs": [
+      "Exod 3:1",
+      "Exod 18:1",
+      "Exod 18:13-24"
+    ]
+  },
+  {
+    "id": "q-002",
+    "topic": "people",
+    "q": "Which woman was judging Israel while sitting under a palm tree between Ramah and Bethel?",
+    "options": [
+      "Huldah",
+      "Miriam",
+      "Jael",
+      "Deborah"
+    ],
+    "answer": 3,
+    "explain": "Deborah, a prophet, judged Israel and summoned Barak against Sisera. Jael killed Sisera, but she was not a judge.",
+    "refs": [
+      "Judg 4:4-5"
+    ]
+  },
+  {
+    "id": "q-003",
+    "topic": "people",
+    "q": "Who was the mother of the prophet Samuel?",
+    "options": [
+      "Peninnah",
+      "Hannah",
+      "Naomi",
+      "Elizabeth"
+    ],
+    "answer": 1,
+    "explain": "Hannah prayed for a son at Shiloh and dedicated Samuel to the LORD. Peninnah was her husband's other wife.",
+    "refs": [
+      "1 Sam 1:1-20"
+    ]
+  },
+  {
+    "id": "q-004",
+    "topic": "people",
+    "q": "Ruth the Moabite was the great-grandmother of which king?",
+    "options": [
+      "David",
+      "Solomon",
+      "Saul",
+      "Hezekiah"
+    ],
+    "answer": 0,
+    "explain": "Ruth and Boaz had Obed, Obed was the father of Jesse, and Jesse was the father of David.",
+    "refs": [
+      "Ruth 4:13-17"
+    ]
+  },
+  {
+    "id": "q-005",
+    "topic": "people",
+    "q": "Who resolved to approach the king uninvited, saying \"if I perish, I perish\"?",
+    "options": [
+      "Abigail",
+      "Esther",
+      "Ruth",
+      "Bathsheba"
+    ],
+    "answer": 1,
+    "explain": "Esther agreed to go to King Ahasuerus without being summoned, which could mean death, after asking the Jews of Susa to fast for her.",
+    "refs": [
+      "Esth 4:15-16"
+    ]
+  },
+  {
+    "id": "q-006",
+    "topic": "people",
+    "q": "Which prisoner did Pilate release at the crowd's demand instead of Jesus?",
+    "options": [
+      "Simon of Cyrene",
+      "Malchus",
+      "Lazarus",
+      "Barabbas"
+    ],
+    "answer": 3,
+    "explain": "Pilate customarily released a prisoner at the feast; the crowd chose Barabbas. Simon of Cyrene carried Jesus' cross; Malchus was the high priest's servant whose ear was cut off.",
+    "refs": [
+      "Mark 15:6-15"
+    ]
+  },
+  {
+    "id": "q-007",
+    "topic": "people",
+    "q": "Which chief tax collector climbed a sycamore tree to see Jesus?",
+    "options": [
+      "Zacchaeus",
+      "Matthew",
+      "Bartimaeus",
+      "Nicodemus"
+    ],
+    "answer": 0,
+    "explain": "Zacchaeus of Jericho was short, so he climbed a sycamore; Jesus invited himself to his house.",
+    "refs": [
+      "Luke 19:1-10"
+    ]
+  },
+  {
+    "id": "q-008",
+    "topic": "people",
+    "q": "Who is the first follower of Jesus whose martyrdom Acts records?",
+    "options": [
+      "Stephen",
+      "James son of Zebedee",
+      "Philip the evangelist",
+      "Ananias"
+    ],
+    "answer": 0,
+    "explain": "Stephen was stoned after his speech to the council (Acts 7). James son of Zebedee was killed later by Herod Agrippa I (Acts 12).",
+    "refs": [
+      "Acts 7:54-60",
+      "Acts 12:1-2"
+    ]
+  },
+  {
+    "id": "q-009",
+    "topic": "people",
+    "q": "Peter raised which disciple, known for good works and charity, from the dead in Joppa?",
+    "options": [
+      "Tabitha (Dorcas)",
+      "Lydia",
+      "Aeneas",
+      "Eutychus"
+    ],
+    "answer": 0,
+    "explain": "Tabitha, called Dorcas in Greek, was raised in Joppa. Aeneas was a paralysed man Peter healed in Lydda; Eutychus was revived by Paul in Troas.",
+    "refs": [
+      "Acts 9:32-41"
+    ]
+  },
+  {
+    "id": "q-010",
+    "topic": "people",
+    "q": "Which young man fell asleep and fell from a third-storey window during Paul's long talk at Troas?",
+    "options": [
+      "Eutychus",
+      "Tychicus",
+      "Trophimus",
+      "Demas"
+    ],
+    "answer": 0,
+    "explain": "Eutychus fell and was taken up dead, but Paul embraced him and said his life was in him.",
+    "refs": [
+      "Acts 20:7-12"
+    ]
+  },
+  {
+    "id": "q-011",
+    "topic": "people",
+    "q": "Who was Jacob's firstborn son?",
+    "options": [
+      "Reuben",
+      "Judah",
+      "Levi",
+      "Joseph"
+    ],
+    "answer": 0,
+    "explain": "Leah bore Reuben first. He later lost the privileges of the firstborn because he slept with Bilhah, his father's concubine.",
+    "refs": [
+      "Gen 29:32",
+      "Gen 35:22",
+      "Gen 49:3-4"
+    ]
+  },
+  {
+    "id": "q-012",
+    "topic": "people",
+    "q": "Which of Abraham's relatives chose the Jordan plain and settled near Sodom?",
+    "options": [
+      "Laban, his great-nephew",
+      "Nahor, his brother",
+      "Terah, his father",
+      "Lot, his nephew"
+    ],
+    "answer": 3,
+    "explain": "When their herds became too large, Lot chose the well-watered Jordan valley and moved his tent as far as Sodom.",
+    "refs": [
+      "Gen 13:8-12"
+    ]
+  },
+  {
+    "id": "q-013",
+    "topic": "people",
+    "q": "Which disciple of Jesus is also called Didymus, meaning \"Twin\"?",
+    "options": [
+      "Thaddaeus",
+      "Thomas",
+      "Bartholomew",
+      "Matthias"
+    ],
+    "answer": 1,
+    "explain": "John's Gospel three times calls Thomas \"Didymus.\"",
+    "refs": [
+      "John 11:16",
+      "John 20:24"
+    ]
+  },
+  {
+    "id": "q-014",
+    "topic": "people",
+    "q": "Who was the king of Salem and priest of God Most High who blessed Abram?",
+    "options": [
+      "Abimelech",
+      "Melchizedek",
+      "Jethro",
+      "Zadok"
+    ],
+    "answer": 1,
+    "explain": "Melchizedek brought bread and wine and blessed Abram, who gave him a tenth. Hebrews links Jesus' priesthood to his.",
+    "refs": [
+      "Gen 14:18-20",
+      "Heb 7:1-3"
+    ]
+  },
+  {
+    "id": "q-015",
+    "topic": "people",
+    "q": "Who took Apollos aside in Ephesus and explained the way of God to him more accurately?",
+    "options": [
+      "Paul and Silas",
+      "Barnabas and Mark",
+      "Timothy and Titus",
+      "Priscilla and Aquila"
+    ],
+    "answer": 3,
+    "explain": "Apollos knew only the baptism of John; Priscilla and Aquila taught him more fully.",
+    "refs": [
+      "Acts 18:24-26"
+    ]
+  },
+  {
+    "id": "q-016",
+    "topic": "places",
+    "q": "In which village did Jesus perform his first sign, turning water into wine?",
+    "options": [
+      "Nain",
+      "Bethany",
+      "Capernaum",
+      "Cana"
+    ],
+    "answer": 3,
+    "explain": "John calls the wedding miracle at Cana in Galilee the first of Jesus' signs.",
+    "refs": [
+      "John 2:1-11"
+    ]
+  },
+  {
+    "id": "q-017",
+    "topic": "places",
+    "q": "Where did Elijah challenge the prophets of Baal to a contest of sacrifice?",
+    "options": [
+      "Mount Carmel",
+      "Mount Sinai",
+      "Mount Tabor",
+      "Mount Gilboa"
+    ],
+    "answer": 0,
+    "explain": "The contest took place on Mount Carmel; fire fell on Elijah's sacrifice.",
+    "refs": [
+      "1 Kgs 18:19-40"
+    ]
+  },
+  {
+    "id": "q-018",
+    "topic": "places",
+    "q": "Where did King Saul and his son Jonathan die in battle with the Philistines?",
+    "options": [
+      "Mount Carmel",
+      "Gibeah",
+      "Mount Gilboa",
+      "Megiddo"
+    ],
+    "answer": 2,
+    "explain": "Saul's sons were killed and Saul fell on his own sword on Mount Gilboa.",
+    "refs": [
+      "1 Sam 31:1-6"
+    ]
+  },
+  {
+    "id": "q-019",
+    "topic": "places",
+    "q": "In which city were the disciples first called \"Christians\"?",
+    "options": [
+      "Jerusalem",
+      "Antioch in Syria",
+      "Ephesus",
+      "Rome"
+    ],
+    "answer": 1,
+    "explain": "Barnabas and Saul taught at Antioch for a year, and there the disciples were first called Christians.",
+    "refs": [
+      "Acts 11:25-26"
+    ]
+  },
+  {
+    "id": "q-020",
+    "topic": "places",
+    "q": "In which city did Paul speak at the Areopagus about an altar \"to an unknown god\"?",
+    "options": [
+      "Corinth",
+      "Philippi",
+      "Athens",
+      "Thessalonica"
+    ],
+    "answer": 2,
+    "explain": "Paul addressed the Areopagus in Athens, starting from an altar inscription.",
+    "refs": [
+      "Acts 17:22-23"
+    ]
+  },
+  {
+    "id": "q-021",
+    "topic": "places",
+    "q": "Near which city did Jesus ask \"Who do you say that I am?\" and Peter confess him as the Christ (in Matthew and Mark)?",
+    "options": [
+      "Capernaum",
+      "Caesarea Philippi",
+      "Bethsaida",
+      "Tiberias"
+    ],
+    "answer": 1,
+    "explain": "Matthew and Mark place the confession in the district of Caesarea Philippi, near the sources of the Jordan.",
+    "refs": [
+      "Matt 16:13-18",
+      "Mark 8:27-29"
+    ]
+  },
+  {
+    "id": "q-022",
+    "topic": "places",
+    "q": "On which island was John when he received the visions of Revelation?",
+    "options": [
+      "Patmos",
+      "Crete",
+      "Cyprus",
+      "Malta"
+    ],
+    "answer": 0,
+    "explain": "John says he was on the island called Patmos on account of the word of God and the testimony of Jesus.",
+    "refs": [
+      "Rev 1:9"
+    ]
+  },
+  {
+    "id": "q-023",
+    "topic": "places",
+    "q": "On which island was Paul shipwrecked on his way to Rome?",
+    "options": [
+      "Crete",
+      "Cyprus",
+      "Malta",
+      "Rhodes"
+    ],
+    "answer": 2,
+    "explain": "After two weeks adrift the ship ran aground on Malta, where Paul survived a viper bite and healed Publius' father.",
+    "refs": [
+      "Acts 27:39-44",
+      "Acts 28:1-8"
+    ]
+  },
+  {
+    "id": "q-024",
+    "topic": "places",
+    "q": "Abram's family set out for Canaan from which city of the Chaldeans?",
+    "options": [
+      "Nineveh",
+      "Babylon",
+      "Ur",
+      "Damascus"
+    ],
+    "answer": 2,
+    "explain": "Terah took Abram, Sarai and Lot from Ur of the Chaldeans and settled in Haran on the way to Canaan.",
+    "refs": [
+      "Gen 11:31"
+    ]
+  },
+  {
+    "id": "q-025",
+    "topic": "places",
+    "q": "Jonah boarded a ship at Joppa to flee to which destination?",
+    "options": [
+      "Tarshish",
+      "Nineveh",
+      "Tyre",
+      "Egypt"
+    ],
+    "answer": 0,
+    "explain": "Jonah went the opposite way from Nineveh, heading for Tarshish, usually located in the far west Mediterranean.",
+    "refs": [
+      "Jonah 1:1-3"
+    ]
+  },
+  {
+    "id": "q-026",
+    "topic": "places",
+    "q": "Where did Jacob dream of a stairway reaching to heaven?",
+    "options": [
+      "Peniel",
+      "Shechem",
+      "Bethel (formerly Luz)",
+      "Beersheba"
+    ],
+    "answer": 2,
+    "explain": "Jacob named the place Bethel, \"house of God.\" Peniel is where he later wrestled with God.",
+    "refs": [
+      "Gen 28:10-19",
+      "Gen 32:30"
+    ]
+  },
+  {
+    "id": "q-027",
+    "topic": "places",
+    "q": "In which town did Jesus raise a widow's only son during his funeral procession?",
+    "options": [
+      "Nain",
+      "Cana",
+      "Bethany",
+      "Sychar"
+    ],
+    "answer": 0,
+    "explain": "Only Luke records the raising of the widow's son at the gate of Nain. Lazarus was raised at Bethany.",
+    "refs": [
+      "Luke 7:11-17"
+    ]
+  },
+  {
+    "id": "q-028",
+    "topic": "books",
+    "q": "Which Old Testament book never explicitly names God in its Hebrew text?",
+    "options": [
+      "Ruth",
+      "Jonah",
+      "Esther",
+      "Nehemiah"
+    ],
+    "answer": 2,
+    "explain": "Esther never names God, though many see his providence in its events, as in Mordecai's \"relief and deliverance will rise from another place.\"",
+    "refs": [
+      "Esth 4:14"
+    ]
+  },
+  {
+    "id": "q-029",
+    "topic": "books",
+    "q": "Which is the longest psalm, an extended acrostic meditation on God's word?",
+    "options": [
+      "Psalm 23",
+      "Psalm 90",
+      "Psalm 119",
+      "Psalm 150"
+    ],
+    "answer": 2,
+    "explain": "Psalm 119 has 176 verses: 22 stanzas of 8 lines, one for each letter of the Hebrew alphabet.",
+    "refs": [
+      "Ps 119:1-176"
+    ]
+  },
+  {
+    "id": "q-030",
+    "topic": "books",
+    "q": "Which New Testament letter is addressed to a believer about his slave Onesimus?",
+    "options": [
+      "Philemon",
+      "Titus",
+      "Jude",
+      "3 John"
+    ],
+    "answer": 0,
+    "explain": "Paul appeals to Philemon to receive Onesimus \"no longer as a slave but more than a slave, as a beloved brother.\"",
+    "refs": [
+      "Phlm 1:10-16"
+    ]
+  },
+  {
+    "id": "q-031",
+    "topic": "books",
+    "q": "Which Gospel opens with \"In the beginning was the Word\"?",
+    "options": [
+      "Mark",
+      "John",
+      "Luke",
+      "Matthew"
+    ],
+    "answer": 1,
+    "explain": "John's prologue echoes Genesis 1:1 and identifies the Word who became flesh.",
+    "refs": [
+      "John 1:1-14"
+    ]
+  },
+  {
+    "id": "q-032",
+    "topic": "books",
+    "q": "Which New Testament books are both addressed to Theophilus?",
+    "options": [
+      "Matthew and Hebrews",
+      "Mark and Romans",
+      "Luke and Acts",
+      "John and Revelation"
+    ],
+    "answer": 2,
+    "explain": "Both open by addressing Theophilus, and Acts refers back to \"the first book.\"",
+    "refs": [
+      "Luke 1:1-4",
+      "Acts 1:1-2"
+    ]
+  },
+  {
+    "id": "q-033",
+    "topic": "books",
+    "q": "Which book is a series of mostly acrostic poems mourning the destruction of Jerusalem?",
+    "options": [
+      "Lamentations",
+      "Habakkuk",
+      "Nahum",
+      "Obadiah"
+    ],
+    "answer": 0,
+    "explain": "Chapters 1-4 of Lamentations are alphabetic acrostics; chapter 5 has 22 lines but is not an acrostic.",
+    "refs": [
+      "Lam 1:1-22"
+    ]
+  },
+  {
+    "id": "q-034",
+    "topic": "books",
+    "q": "Which is the shortest book of the Old Testament by number of verses?",
+    "options": [
+      "Haggai",
+      "Jonah",
+      "Nahum",
+      "Obadiah"
+    ],
+    "answer": 3,
+    "explain": "Obadiah has 21 verses in one chapter.",
+    "refs": [
+      "Obad 1:1-21"
+    ]
+  },
+  {
+    "id": "q-035",
+    "topic": "books",
+    "q": "Which book contains the chapter often called the \"hall of faith,\" listing Abel, Enoch, Noah, Abraham and others?",
+    "options": [
+      "Romans",
+      "Hebrews",
+      "James",
+      "Galatians"
+    ],
+    "answer": 1,
+    "explain": "Hebrews 11 recounts what the faithful did \"by faith.\"",
+    "refs": [
+      "Heb 11:1-40"
+    ]
+  },
+  {
+    "id": "q-036",
+    "topic": "books",
+    "q": "Which prophetic book contains the vision of a valley of dry bones coming to life?",
+    "options": [
+      "Ezekiel",
+      "Daniel",
+      "Zechariah",
+      "Isaiah"
+    ],
+    "answer": 0,
+    "explain": "Ezekiel 37 pictures Israel's national restoration as bones receiving flesh and breath.",
+    "refs": [
+      "Ezek 37:1-14"
+    ]
+  },
+  {
+    "id": "q-037",
+    "topic": "books",
+    "q": "Which chapter of 1 Corinthians is the famous description of love that is patient and kind?",
+    "options": [
+      "1 Corinthians 15",
+      "1 Corinthians 13",
+      "1 Corinthians 12",
+      "1 Corinthians 7"
+    ],
+    "answer": 1,
+    "explain": "Chapter 13 sits between Paul's discussions of spiritual gifts in chapters 12 and 14.",
+    "refs": [
+      "1 Cor 13:1-13"
+    ]
+  },
+  {
+    "id": "q-038",
+    "topic": "books",
+    "q": "Which letter argues that \"faith apart from works is dead\"?",
+    "options": [
+      "Romans",
+      "Galatians",
+      "Hebrews",
+      "James"
+    ],
+    "answer": 3,
+    "explain": "James insists genuine faith shows itself in action, using Abraham and Rahab as examples.",
+    "refs": [
+      "Jas 2:14-26"
+    ]
+  },
+  {
+    "id": "q-039",
+    "topic": "books",
+    "q": "In the traditional order of the Hebrew Bible (Tanakh), which book comes last?",
+    "options": [
+      "Malachi",
+      "Daniel",
+      "Nehemiah",
+      "2 Chronicles (Chronicles)"
+    ],
+    "answer": 3,
+    "explain": "The Tanakh ends with Chronicles, closing on Cyrus' decree to rebuild the temple. Christian Old Testaments, following the Greek order, end with Malachi.",
+    "refs": [
+      "2 Chr 36:22-23"
+    ]
+  },
+  {
+    "id": "q-040",
+    "topic": "timeline",
+    "q": "Around when did the northern kingdom of Israel fall to Assyria?",
+    "options": [
+      "About 586 BC",
+      "About 931 BC",
+      "About 722 BC",
+      "About 539 BC"
+    ],
+    "answer": 2,
+    "explain": "Samaria fell after a three-year siege, conventionally dated 722 (or 721) BC.",
+    "refs": [
+      "2 Kgs 17:5-6"
+    ]
+  },
+  {
+    "id": "q-041",
+    "topic": "timeline",
+    "q": "Around when did Babylon destroy Jerusalem and Solomon's temple?",
+    "options": [
+      "About 722 BC",
+      "About 516 BC",
+      "About 586 BC",
+      "AD 70"
+    ],
+    "answer": 2,
+    "explain": "Most date the fall to 586 BC, though some argue for 587 BC.",
+    "refs": [
+      "2 Kgs 25:8-10"
+    ]
+  },
+  {
+    "id": "q-042",
+    "topic": "timeline",
+    "q": "Around when did the united kingdom split into Israel and Judah after Solomon?",
+    "options": [
+      "About 1010 BC",
+      "About 722 BC",
+      "About 1446 BC",
+      "About 931/930 BC"
+    ],
+    "answer": 3,
+    "explain": "The division followed Solomon's death and Rehoboam's harsh answer to the northern tribes; common chronologies place it about 931/930 BC.",
+    "refs": [
+      "1 Kgs 12:16-20"
+    ]
+  },
+  {
+    "id": "q-043",
+    "topic": "timeline",
+    "q": "In what year did Cyrus of Persia capture Babylon, opening the way for exiles to return?",
+    "options": [
+      "539 BC",
+      "586 BC",
+      "605 BC",
+      "445 BC"
+    ],
+    "answer": 0,
+    "explain": "Babylon fell to the Persians in 539 BC; Cyrus' decree followed in his first year over Babylon.",
+    "refs": [
+      "Dan 5:30-31",
+      "Ezra 1:1-4"
+    ]
+  },
+  {
+    "id": "q-044",
+    "topic": "timeline",
+    "q": "When was the second temple completed?",
+    "options": [
+      "About 538 BC, under Cyrus",
+      "About 516/515 BC, in the sixth year of Darius",
+      "About 445 BC, under Nehemiah",
+      "About 20 BC, under Herod"
+    ],
+    "answer": 1,
+    "explain": "Ezra says it was finished in the sixth year of Darius I. Herod later expanded it massively from about 20 BC.",
+    "refs": [
+      "Ezra 6:14-15"
+    ]
+  },
+  {
+    "id": "q-045",
+    "topic": "timeline",
+    "q": "Which of these happened first?",
+    "options": [
+      "David's reign in Jerusalem",
+      "The Babylonian exile",
+      "Ezra's return to Jerusalem",
+      "The exodus from Egypt"
+    ],
+    "answer": 3,
+    "explain": "Whether dated early (about 1446 BC) or late (about 1260 BC), the exodus precedes the monarchy, the exile and the return.",
+    "refs": [
+      "Exod 12:40-41",
+      "1 Kgs 6:1"
+    ]
+  },
+  {
+    "id": "q-046",
+    "topic": "timeline",
+    "q": "In what year did the Romans destroy the Jerusalem temple, as Jesus had foretold?",
+    "options": [
+      "AD 33",
+      "AD 70",
+      "AD 135",
+      "AD 49"
+    ],
+    "answer": 1,
+    "explain": "Roman forces under Titus destroyed the temple in AD 70. Jesus had said not one stone would be left on another.",
+    "refs": [
+      "Mark 13:1-2",
+      "Luke 21:5-6"
+    ]
+  },
+  {
+    "id": "q-047",
+    "topic": "timeline",
+    "q": "Herod the Great is usually thought to have died about 4 BC. What does that imply about Jesus' birth?",
+    "options": [
+      "It probably happened a few years before AD 1",
+      "It happened exactly in AD 1",
+      "It came several years after Herod's death",
+      "It must have been after AD 6"
+    ],
+    "answer": 0,
+    "explain": "Matthew places Jesus' birth during Herod's reign. The AD system was calculated centuries later and is slightly off; a minority dates Herod's death to 1 BC.",
+    "refs": [
+      "Matt 2:1",
+      "Matt 2:19-20"
+    ]
+  },
+  {
+    "id": "q-048",
+    "topic": "timeline",
+    "q": "Nehemiah came to Jerusalem in the twentieth year of Artaxerxes I. About when was that?",
+    "options": [
+      "About 445/444 BC",
+      "About 538 BC",
+      "About 586 BC",
+      "About 332 BC"
+    ],
+    "answer": 0,
+    "explain": "The twentieth year of Artaxerxes I falls around 445/444 BC.",
+    "refs": [
+      "Neh 2:1"
+    ]
+  },
+  {
+    "id": "q-049",
+    "topic": "timeline",
+    "q": "Which of these prophets ministered earliest?",
+    "options": [
+      "Elijah",
+      "Isaiah",
+      "Jeremiah",
+      "Malachi"
+    ],
+    "answer": 0,
+    "explain": "Elijah was active in the 9th century BC under Ahab; Isaiah in the 8th, Jeremiah in the 7th-6th, Malachi in the 5th.",
+    "refs": [
+      "1 Kgs 17:1",
+      "Isa 1:1",
+      "Jer 1:1-3"
+    ]
+  },
+  {
+    "id": "q-050",
+    "topic": "prophets",
+    "q": "Which prophet was among the herdsmen of Tekoa?",
+    "options": [
+      "Micah",
+      "Amos",
+      "Hosea",
+      "Joel"
+    ],
+    "answer": 1,
+    "explain": "Amos, from Tekoa in Judah, was sent to prophesy to the northern kingdom.",
+    "refs": [
+      "Amos 1:1",
+      "Amos 7:14-15"
+    ]
+  },
+  {
+    "id": "q-051",
+    "topic": "prophets",
+    "q": "Which prophet was told to marry Gomer as a sign of Israel's unfaithfulness?",
+    "options": [
+      "Hosea",
+      "Amos",
+      "Jeremiah",
+      "Ezekiel"
+    ],
+    "answer": 0,
+    "explain": "Hosea's marriage to Gomer pictured God's relationship with unfaithful Israel.",
+    "refs": [
+      "Hos 1:2-3",
+      "Hos 3:1"
+    ]
+  },
+  {
+    "id": "q-052",
+    "topic": "prophets",
+    "q": "Who saw the Lord high and lifted up \"in the year that King Uzziah died\"?",
+    "options": [
+      "Ezekiel",
+      "Isaiah",
+      "Jeremiah",
+      "Daniel"
+    ],
+    "answer": 1,
+    "explain": "Isaiah's temple vision includes the seraphim crying \"Holy, holy, holy\" and his commission.",
+    "refs": [
+      "Isa 6:1-8"
+    ]
+  },
+  {
+    "id": "q-053",
+    "topic": "prophets",
+    "q": "Which prophet was commanded not to take a wife or have children, as a sign of coming disaster?",
+    "options": [
+      "Jeremiah",
+      "Hosea",
+      "Ezekiel",
+      "Elisha"
+    ],
+    "answer": 0,
+    "explain": "Jeremiah's celibacy signalled that families in Judah would perish.",
+    "refs": [
+      "Jer 16:1-4"
+    ]
+  },
+  {
+    "id": "q-054",
+    "topic": "prophets",
+    "q": "Which prophet was told not to mourn openly when his wife died, as a sign to the exiles?",
+    "options": [
+      "Ezekiel",
+      "Hosea",
+      "Jeremiah",
+      "Isaiah"
+    ],
+    "answer": 0,
+    "explain": "God called Ezekiel's wife \"the delight of your eyes\"; his restrained grief prefigured the people's reaction to the temple's fall.",
+    "refs": [
+      "Ezek 24:15-24"
+    ]
+  },
+  {
+    "id": "q-055",
+    "topic": "prophets",
+    "q": "Who asked for a double portion of Elijah's spirit?",
+    "options": [
+      "Gehazi",
+      "Micaiah",
+      "Obadiah",
+      "Elisha"
+    ],
+    "answer": 3,
+    "explain": "Elisha asked for the firstborn's share of Elijah's spirit and took up his mantle.",
+    "refs": [
+      "2 Kgs 2:9-15"
+    ]
+  },
+  {
+    "id": "q-056",
+    "topic": "prophets",
+    "q": "Which prophetic book is entirely an oracle against Edom?",
+    "options": [
+      "Nahum",
+      "Habakkuk",
+      "Joel",
+      "Obadiah"
+    ],
+    "answer": 3,
+    "explain": "Obadiah condemns Edom for gloating over Jerusalem's fall. Nahum is directed against Nineveh.",
+    "refs": [
+      "Obad 1:1-14"
+    ]
+  },
+  {
+    "id": "q-057",
+    "topic": "prophets",
+    "q": "Which prophet foretold that a ruler would come from Bethlehem Ephrathah?",
+    "options": [
+      "Zechariah",
+      "Micah",
+      "Malachi",
+      "Habakkuk"
+    ],
+    "answer": 1,
+    "explain": "The chief priests cite Micah to Herod when the magi ask where the Messiah is to be born.",
+    "refs": [
+      "Mic 5:2",
+      "Matt 2:4-6"
+    ]
+  },
+  {
+    "id": "q-058",
+    "topic": "prophets",
+    "q": "Which prophet's promise of the Spirit poured out on all flesh does Peter quote at Pentecost?",
+    "options": [
+      "Isaiah",
+      "Amos",
+      "Ezekiel",
+      "Joel"
+    ],
+    "answer": 3,
+    "explain": "Peter says the Pentecost events are \"what was uttered through the prophet Joel.\"",
+    "refs": [
+      "Joel 2:28-32",
+      "Acts 2:16-21"
+    ]
+  },
+  {
+    "id": "q-059",
+    "topic": "prophets",
+    "q": "Which prophetess did King Josiah's officials consult about the newly found Book of the Law?",
+    "options": [
+      "Deborah",
+      "Huldah",
+      "Anna",
+      "Noadiah"
+    ],
+    "answer": 1,
+    "explain": "Huldah confirmed the book's warnings but promised Josiah would die before the disaster. Noadiah opposed Nehemiah; Anna appears in Luke.",
+    "refs": [
+      "2 Kgs 22:14-20"
+    ]
+  },
+  {
+    "id": "q-060",
+    "topic": "kings",
+    "q": "Who was the first king of Israel?",
+    "options": [
+      "Saul",
+      "David",
+      "Samuel",
+      "Ish-bosheth"
+    ],
+    "answer": 0,
+    "explain": "Samuel anointed Saul of the tribe of Benjamin as the first king.",
+    "refs": [
+      "1 Sam 10:1",
+      "1 Sam 10:20-24"
+    ]
+  },
+  {
+    "id": "q-061",
+    "topic": "kings",
+    "q": "Which queen seized the throne of Judah and tried to destroy the royal family?",
+    "options": [
+      "Jezebel",
+      "Athaliah",
+      "Maacah",
+      "Bathsheba"
+    ],
+    "answer": 1,
+    "explain": "Athaliah, daughter of Ahab, ruled about six years until the hidden boy Joash was crowned.",
+    "refs": [
+      "2 Kgs 11:1-3",
+      "2 Kgs 11:12-16"
+    ]
+  },
+  {
+    "id": "q-062",
+    "topic": "kings",
+    "q": "Which king led a sweeping reform after the Book of the Law was found in the temple?",
+    "options": [
+      "Hezekiah",
+      "Asa",
+      "Josiah",
+      "Jehoshaphat"
+    ],
+    "answer": 2,
+    "explain": "Josiah tore his clothes on hearing the book read and renewed the covenant.",
+    "refs": [
+      "2 Kgs 22:8-13",
+      "2 Kgs 23:1-3"
+    ]
+  },
+  {
+    "id": "q-063",
+    "topic": "kings",
+    "q": "Which king set up golden calves at Bethel and Dan?",
+    "options": [
+      "Ahab",
+      "Jeroboam I",
+      "Rehoboam",
+      "Omri"
+    ],
+    "answer": 1,
+    "explain": "Jeroboam feared his people would return to Jerusalem to worship, so he built rival shrines.",
+    "refs": [
+      "1 Kgs 12:26-30"
+    ]
+  },
+  {
+    "id": "q-064",
+    "topic": "kings",
+    "q": "Which king of Judah was struck with a skin disease for burning incense in the temple?",
+    "options": [
+      "Hezekiah",
+      "Ahaz",
+      "Uzziah",
+      "Manasseh"
+    ],
+    "answer": 2,
+    "explain": "Uzziah grew proud and usurped a priestly duty; he lived in isolation until he died.",
+    "refs": [
+      "2 Chr 26:16-21"
+    ]
+  },
+  {
+    "id": "q-065",
+    "topic": "kings",
+    "q": "Which king spread Sennacherib's threatening letter before the LORD and saw Jerusalem delivered?",
+    "options": [
+      "Hezekiah",
+      "Josiah",
+      "Ahaz",
+      "Jehoiakim"
+    ],
+    "answer": 0,
+    "explain": "Hezekiah prayed in the temple; Isaiah brought God's answer, and the Assyrian army was struck down.",
+    "refs": [
+      "2 Kgs 19:14-36"
+    ]
+  },
+  {
+    "id": "q-066",
+    "topic": "kings",
+    "q": "Which king of Judah reigned 55 years and, according to Chronicles, repented in captivity?",
+    "options": [
+      "Uzziah",
+      "Josiah",
+      "Manasseh",
+      "Jehoshaphat"
+    ],
+    "answer": 2,
+    "explain": "Kings records Manasseh's long and wicked reign; Chronicles adds his humbling in Babylon and restoration.",
+    "refs": [
+      "2 Kgs 21:1-9",
+      "2 Chr 33:10-13"
+    ]
+  },
+  {
+    "id": "q-067",
+    "topic": "kings",
+    "q": "Which army commander was anointed king of Israel at Elisha's instruction and destroyed Ahab's dynasty?",
+    "options": [
+      "Jehoram",
+      "Omri",
+      "Joash",
+      "Jehu"
+    ],
+    "answer": 3,
+    "explain": "A young prophet sent by Elisha anointed Jehu at Ramoth-gilead.",
+    "refs": [
+      "2 Kgs 9:1-10"
+    ]
+  },
+  {
+    "id": "q-068",
+    "topic": "kings",
+    "q": "Which foreign king does Isaiah call the LORD's \"anointed\"?",
+    "options": [
+      "Nebuchadnezzar",
+      "Darius",
+      "Cyrus",
+      "Artaxerxes"
+    ],
+    "answer": 2,
+    "explain": "Isaiah names Cyrus as the one God would use to rebuild Jerusalem and free the exiles.",
+    "refs": [
+      "Isa 44:28-45:1"
+    ]
+  },
+  {
+    "id": "q-069",
+    "topic": "kings",
+    "q": "What was the result of Rehoboam's harsh reply to the northern tribes?",
+    "options": [
+      "Egypt immediately annexed Judah",
+      "Samuel anointed a rival king",
+      "The northern tribes rejected him and made Jeroboam king",
+      "The temple was destroyed"
+    ],
+    "answer": 2,
+    "explain": "Following younger advisers, Rehoboam threatened heavier burdens; ten tribes broke away.",
+    "refs": [
+      "1 Kgs 12:12-20"
+    ]
+  },
+  {
+    "id": "q-070",
+    "topic": "apostles",
+    "q": "Who was chosen by lot to replace Judas among the Twelve?",
+    "options": [
+      "Joseph Barsabbas (Justus)",
+      "Barnabas",
+      "Silas",
+      "Matthias"
+    ],
+    "answer": 3,
+    "explain": "Two candidates were put forward; the lot fell on Matthias.",
+    "refs": [
+      "Acts 1:21-26"
+    ]
+  },
+  {
+    "id": "q-071",
+    "topic": "apostles",
+    "q": "Which of the Twelve is the first whose death Acts records?",
+    "options": [
+      "Peter",
+      "James son of Zebedee",
+      "Andrew",
+      "Thomas"
+    ],
+    "answer": 1,
+    "explain": "Herod Agrippa I killed James with the sword. Stephen died earlier but was not one of the Twelve.",
+    "refs": [
+      "Acts 12:1-2"
+    ]
+  },
+  {
+    "id": "q-072",
+    "topic": "apostles",
+    "q": "Which brothers did Jesus nickname \"Boanerges,\" sons of thunder?",
+    "options": [
+      "Peter and Andrew",
+      "Philip and Bartholomew",
+      "James and John",
+      "Thomas and Matthew"
+    ],
+    "answer": 2,
+    "explain": "Mark records the nickname in the list of the Twelve.",
+    "refs": [
+      "Mark 3:17"
+    ]
+  },
+  {
+    "id": "q-073",
+    "topic": "apostles",
+    "q": "In John's Gospel, who first brought his brother Simon to Jesus?",
+    "options": [
+      "Philip",
+      "John",
+      "James",
+      "Andrew"
+    ],
+    "answer": 3,
+    "explain": "Andrew told Simon, \"We have found the Messiah,\" and brought him to Jesus.",
+    "refs": [
+      "John 1:40-42"
+    ]
+  },
+  {
+    "id": "q-074",
+    "topic": "apostles",
+    "q": "Who told Nathanael about Jesus and answered his doubts with \"Come and see\"?",
+    "options": [
+      "Andrew",
+      "Peter",
+      "Thomas",
+      "Philip"
+    ],
+    "answer": 3,
+    "explain": "Nathanael asked whether anything good could come from Nazareth; Philip replied, \"Come and see.\"",
+    "refs": [
+      "John 1:43-46"
+    ]
+  },
+  {
+    "id": "q-075",
+    "topic": "apostles",
+    "q": "In Galatians, Paul says Peter was entrusted with the gospel to the circumcised and he with the gospel to whom?",
+    "options": [
+      "The Samaritans",
+      "Diaspora Jews only",
+      "The Roman authorities",
+      "The uncircumcised (Gentiles)"
+    ],
+    "answer": 3,
+    "explain": "James, Cephas and John gave Paul and Barnabas the right hand of fellowship for the Gentile mission.",
+    "refs": [
+      "Gal 2:7-9"
+    ]
+  },
+  {
+    "id": "q-076",
+    "topic": "apostles",
+    "q": "Which of the Twelve was a tax collector when Jesus called him?",
+    "options": [
+      "Thaddaeus",
+      "Simon the Zealot",
+      "Matthew",
+      "Bartholomew"
+    ],
+    "answer": 2,
+    "explain": "Matthew's Gospel calls him \"Matthew the tax collector\"; Mark and Luke call him Levi.",
+    "refs": [
+      "Matt 9:9",
+      "Matt 10:3",
+      "Mark 2:14"
+    ]
+  },
+  {
+    "id": "q-077",
+    "topic": "apostles",
+    "q": "Who does Paul greet with Andronicus as \"of note among the apostles,\" a phrase whose meaning is debated?",
+    "options": [
+      "Phoebe",
+      "Priscilla",
+      "Junia",
+      "Tryphena"
+    ],
+    "answer": 2,
+    "explain": "Interpreters debate whether the phrase means prominent as apostles or well known to the apostles, and earlier some read the name as a male \"Junias.\"",
+    "refs": [
+      "Rom 16:7"
+    ]
+  },
+  {
+    "id": "q-078",
+    "topic": "apostles",
+    "q": "Church tradition most commonly identifies the anonymous \"disciple whom Jesus loved\" as which apostle?",
+    "options": [
+      "Peter",
+      "Andrew",
+      "Thomas",
+      "John son of Zebedee"
+    ],
+    "answer": 3,
+    "explain": "The Gospel never names him. Second-century tradition identifies him with John; some modern scholars propose other candidates.",
+    "refs": [
+      "John 13:23",
+      "John 21:20-24"
+    ]
+  },
+  {
+    "id": "q-079",
+    "topic": "apostles",
+    "q": "Who was the man the apostles called Barnabas, \"son of encouragement\"?",
+    "options": [
+      "Simon, a tanner of Joppa",
+      "John Mark of Jerusalem",
+      "Joseph, a Levite from Cyprus",
+      "Lucius of Cyrene"
+    ],
+    "answer": 2,
+    "explain": "Barnabas sold a field and gave the money to the apostles. John Mark was his cousin.",
+    "refs": [
+      "Acts 4:36-37",
+      "Col 4:10"
+    ]
+  },
+  {
+    "id": "q-080",
+    "topic": "gospel-history",
+    "q": "The Council of Nicaea (AD 325) was called chiefly to address which controversy?",
+    "options": [
+      "Pelagianism, about grace and free will",
+      "Arianism, whether the Son is fully divine",
+      "Iconoclasm, about images",
+      "The Donatist schism"
+    ],
+    "answer": 1,
+    "explain": "Nicaea affirmed that the Son is \"of one substance\" (homoousios) with the Father against Arius. It also dealt with the date of Easter and other matters.",
+    "refs": [
+      "John 1:1-3",
+      "Col 1:15-17"
+    ]
+  },
+  {
+    "id": "q-081",
+    "topic": "gospel-history",
+    "q": "Which emperor, together with Licinius, agreed in 313 to grant Christians legal toleration (the \"Edict of Milan\")?",
+    "options": [
+      "Constantine",
+      "Diocletian",
+      "Nero",
+      "Theodosius I"
+    ],
+    "answer": 0,
+    "explain": "Constantine and Licinius agreed on religious toleration in 313. Diocletian had led the Great Persecution; Theodosius later made Nicene Christianity the state religion.",
+    "refs": [
+      "1 Tim 2:1-2"
+    ]
+  },
+  {
+    "id": "q-082",
+    "topic": "gospel-history",
+    "q": "In which town did Martin Luther publish his Ninety-five Theses in 1517?",
+    "options": [
+      "Geneva",
+      "Worms",
+      "Zurich",
+      "Wittenberg"
+    ],
+    "answer": 3,
+    "explain": "Luther was a professor at Wittenberg. Geneva was Calvin's city, Zurich Zwingli's, and Worms the site of the 1521 diet.",
+    "refs": [
+      "Rom 1:17"
+    ]
+  },
+  {
+    "id": "q-083",
+    "topic": "gospel-history",
+    "q": "Augustine served as bishop of which North African city?",
+    "options": [
+      "Carthage",
+      "Alexandria",
+      "Hippo",
+      "Milan"
+    ],
+    "answer": 2,
+    "explain": "Augustine was converted in Milan, influenced by Ambrose, and became bishop of Hippo Regius. His *Confessions* describes reading Romans 13 at his conversion.",
+    "refs": [
+      "Rom 13:13-14"
+    ]
+  },
+  {
+    "id": "q-084",
+    "topic": "gospel-history",
+    "q": "Irenaeus of Lyon wrote *Against Heresies* chiefly to refute which teaching?",
+    "options": [
+      "Arianism",
+      "Gnosticism",
+      "Pelagianism",
+      "Donatism"
+    ],
+    "answer": 1,
+    "explain": "Irenaeus (late 2nd century) opposed Gnostic systems such as Valentinianism, appealing to apostolic tradition and the goodness of creation. The other movements arose later.",
+    "refs": [
+      "1 John 4:2-3"
+    ]
+  },
+  {
+    "id": "q-085",
+    "topic": "gospel-history",
+    "q": "What did the Council of Chalcedon (AD 451) define about Christ?",
+    "options": [
+      "One person in two natures, without confusion, change, division or separation",
+      "One nature, the divine absorbing the human",
+      "Two persons joined by moral union",
+      "A man adopted as Son at his baptism"
+    ],
+    "answer": 0,
+    "explain": "Chalcedon's definition became the standard for Catholic, Orthodox and most Protestant churches; the Oriental Orthodox churches did not accept it.",
+    "refs": [
+      "John 1:14",
+      "Phil 2:6-8"
+    ]
+  },
+  {
+    "id": "q-086",
+    "topic": "gospel-history",
+    "q": "What is the central claim of Peter's Pentecost sermon?",
+    "options": [
+      "The temple must be rebuilt for the Messiah",
+      "Jesus was a prophet who will return as Elijah",
+      "Gentiles must be circumcised to be saved",
+      "God raised the crucified Jesus and made him Lord and Christ"
+    ],
+    "answer": 3,
+    "explain": "Peter argues from Joel and the Psalms that the risen and exalted Jesus has poured out the Spirit.",
+    "refs": [
+      "Acts 2:22-36"
+    ]
+  },
+  {
+    "id": "q-087",
+    "topic": "gospel-history",
+    "q": "Who produced the Latin translation of the Bible later known as the Vulgate?",
+    "options": [
+      "Augustine",
+      "Jerome",
+      "Ambrose",
+      "Origen"
+    ],
+    "answer": 1,
+    "explain": "Jerome worked in the late 4th and early 5th centuries, translating much of the Old Testament directly from Hebrew.",
+    "refs": [
+      "2 Tim 3:16-17"
+    ]
+  },
+  {
+    "id": "q-088",
+    "topic": "gospel-history",
+    "q": "The split between Eastern and Western churches is conventionally dated to which year?",
+    "options": [
+      "1054",
+      "325",
+      "1517",
+      "451"
+    ],
+    "answer": 0,
+    "explain": "Mutual excommunications in 1054 symbolise a separation that developed over centuries.",
+    "refs": [
+      "John 17:20-21"
+    ]
+  },
+  {
+    "id": "q-089",
+    "topic": "gospel-history",
+    "q": "Who produced the first printed English New Testament translated from the Greek?",
+    "options": [
+      "John Wycliffe",
+      "Thomas Cranmer",
+      "William Tyndale",
+      "King James I"
+    ],
+    "answer": 2,
+    "explain": "Tyndale's New Testament was printed in 1526; he was executed in 1536. Wycliffite Bibles were earlier but handwritten and translated from Latin.",
+    "refs": [
+      "Ps 119:105"
+    ]
+  },
+  {
+    "id": "q-090",
+    "topic": "debates",
+    "q": "What does amillennialism hold about the thousand years of Revelation 20?",
+    "options": [
+      "They symbolise Christ's present reign between his first and second comings",
+      "Christ returns before a future thousand-year reign on earth",
+      "Christ returns after the gospel brings an extended era of flourishing",
+      "The thousand years were fulfilled entirely in AD 70"
+    ],
+    "answer": 0,
+    "explain": "Amillennialists read Revelation 20 as describing the current age, with Satan bound so the gospel can go to the nations.",
+    "refs": [
+      "Rev 20:1-6"
+    ]
+  },
+  {
+    "id": "q-091",
+    "topic": "debates",
+    "q": "What does premillennialism hold?",
+    "options": [
+      "Christ will return before a future reign on earth, the millennium",
+      "The millennium is the present church age",
+      "Christ returns after a golden age of gospel success",
+      "There will be no future resurrection of the body"
+    ],
+    "answer": 0,
+    "explain": "Premillennialists, historic and dispensational, read Revelation 20 as following Christ's return in Revelation 19.",
+    "refs": [
+      "Rev 19:11-16",
+      "Rev 20:4-6"
+    ]
+  },
+  {
+    "id": "q-092",
+    "topic": "debates",
+    "q": "What does postmillennialism hold?",
+    "options": [
+      "Christ returns after an extended era in which the gospel transforms much of the world",
+      "Christ returns before a literal thousand-year reign",
+      "The millennium is purely heavenly",
+      "The world will steadily worsen until a secret rapture"
+    ],
+    "answer": 0,
+    "explain": "Postmillennialists draw on the growth parables and the Great Commission to expect widespread gospel success before Christ comes.",
+    "refs": [
+      "Matt 13:31-33",
+      "Matt 28:18-20"
+    ]
+  },
+  {
+    "id": "q-093",
+    "topic": "debates",
+    "q": "What does the penal substitution view of the atonement hold?",
+    "options": [
+      "Christ's death chiefly defeats the powers of sin, death and the devil",
+      "Christ's death chiefly reveals God's love to move us to repentance",
+      "Christ bore the penalty of sin in the place of sinners",
+      "Christ's death restored God's offended honour by satisfaction"
+    ],
+    "answer": 2,
+    "explain": "Defenders appeal to texts on the servant bearing iniquity and Christ made sin for us. The distractors summarise Christus Victor, moral influence and Anselm's satisfaction view.",
+    "refs": [
+      "Isa 53:4-6",
+      "2 Cor 5:21"
+    ]
+  },
+  {
+    "id": "q-094",
+    "topic": "debates",
+    "q": "What does the Christus Victor view of the atonement emphasise?",
+    "options": [
+      "Christ's death and resurrection defeat sin, death and the devil",
+      "Christ pays a legal penalty owed to divine justice",
+      "Christ's example inspires moral change",
+      "Christ restores God's honour as a feudal lord"
+    ],
+    "answer": 0,
+    "explain": "Associated with early church writers and revived by Gustaf Aulen, it highlights Christ triumphing over the powers.",
+    "refs": [
+      "Col 2:13-15",
+      "Heb 2:14-15"
+    ]
+  },
+  {
+    "id": "q-095",
+    "topic": "debates",
+    "q": "What does conditional immortality (annihilationism) hold about the final state of the lost?",
+    "options": [
+      "They suffer conscious punishment forever",
+      "All will eventually be reconciled to God",
+      "They are ultimately destroyed and cease to exist",
+      "They are reincarnated for another chance"
+    ],
+    "answer": 2,
+    "explain": "Proponents argue immortality is God's gift to the redeemed and read \"destroy\" and \"perish\" literally.",
+    "refs": [
+      "Matt 10:28",
+      "Rom 6:23",
+      "2 Thess 1:9"
+    ]
+  },
+  {
+    "id": "q-096",
+    "topic": "debates",
+    "q": "What does the credobaptist view hold?",
+    "options": [
+      "The infant children of believers should be baptised",
+      "Baptism is for those who personally profess faith in Christ",
+      "Baptism is unnecessary because it is purely inward",
+      "Only those baptised by an apostle are truly baptised"
+    ],
+    "answer": 1,
+    "explain": "Credobaptists point to the pattern of belief then baptism in Acts.",
+    "refs": [
+      "Acts 2:38-41",
+      "Acts 8:12"
+    ]
+  },
+  {
+    "id": "q-097",
+    "topic": "debates",
+    "q": "What does the paedobaptist view hold?",
+    "options": [
+      "Only adults who profess faith may be baptised",
+      "Children of believers should be baptised as members of the covenant community",
+      "Baptism should be delayed until death",
+      "Baptism replaces the Lord's Supper"
+    ],
+    "answer": 1,
+    "explain": "Paedobaptists point to household baptisms and the link between circumcision and baptism, though traditions differ on what baptism effects.",
+    "refs": [
+      "Acts 2:39",
+      "Acts 16:31-33",
+      "Col 2:11-12"
+    ]
+  },
+  {
+    "id": "q-098",
+    "topic": "debates",
+    "q": "What does complementarianism hold about men and women?",
+    "options": [
+      "They are equal in dignity but have some distinct roles, with certain church and home leadership reserved for men",
+      "All roles in church and home are open to both on the basis of gifting",
+      "Women are less in the image of God than men",
+      "Women may not take any part in church ministry"
+    ],
+    "answer": 0,
+    "explain": "Complementarians affirm equal worth (Gen 1:27) and cite passages on elders and household order. The last two options are straw men that complementarians reject.",
+    "refs": [
+      "Gen 1:27",
+      "1 Tim 2:11-13",
+      "Eph 5:22-33"
+    ]
+  },
+  {
+    "id": "q-099",
+    "topic": "debates",
+    "q": "What does egalitarianism hold about men and women in ministry?",
+    "options": [
+      "Certain leadership roles are reserved for qualified men",
+      "Men and women are identical with no differences",
+      "All ministries and leadership roles are open to women and men on the basis of gifting and calling",
+      "Leadership belongs only to unmarried believers"
+    ],
+    "answer": 2,
+    "explain": "Egalitarians point to women prophets, co-workers and mutual submission. The claim that they deny all differences between the sexes is a straw man.",
+    "refs": [
+      "Gal 3:28",
+      "Eph 5:21",
+      "Acts 2:17-18"
+    ]
+  },
+  {
+    "id": "q-100",
+    "topic": "debates",
+    "q": "What does cessationism hold about spiritual gifts?",
+    "options": [
+      "All gifts continue unchanged until Christ returns",
+      "Certain miraculous and revelatory gifts ceased after the apostolic era",
+      "No spiritual gifts were ever miraculous",
+      "Gifts are given only to ordained clergy"
+    ],
+    "answer": 1,
+    "explain": "Cessationists argue sign gifts authenticated the apostles and the foundational revelation. Continuationists read \"when the perfect comes\" as Christ's return.",
+    "refs": [
+      "1 Cor 13:8-10",
+      "Heb 2:3-4",
+      "Eph 2:20"
+    ]
+  },
+  {
+    "id": "q-101",
+    "topic": "context",
+    "q": "Why was the Samaritan woman surprised that Jesus asked her for a drink?",
+    "options": [
+      "Wells were reserved for priests",
+      "It was a fast day",
+      "Jews and Samaritans generally avoided dealings with each other",
+      "Jesus was a Roman citizen"
+    ],
+    "answer": 2,
+    "explain": "John explains that Jews have no dealings with Samaritans; the hostility had roots in rival temples and histories.",
+    "refs": [
+      "John 4:7-9"
+    ]
+  },
+  {
+    "id": "q-102",
+    "topic": "context",
+    "q": "In Jesus' parable of the vineyard labourers, a denarius represents what?",
+    "options": [
+      "A year's wages",
+      "The temple tax",
+      "A widow's whole living",
+      "A typical day's wage for a labourer"
+    ],
+    "answer": 3,
+    "explain": "The owner agrees with workers for a denarius a day.",
+    "refs": [
+      "Matt 20:1-2"
+    ]
+  },
+  {
+    "id": "q-103",
+    "topic": "context",
+    "q": "What did the feast of Passover commemorate?",
+    "options": [
+      "The giving of the law at Sinai",
+      "God's deliverance of Israel from Egypt",
+      "The rebuilding of the temple",
+      "The victory over Haman"
+    ],
+    "answer": 1,
+    "explain": "Passover remembers the night the LORD passed over Israel's houses and struck Egypt's firstborn. Purim celebrates the victory over Haman.",
+    "refs": [
+      "Exod 12:12-14",
+      "Exod 12:26-27"
+    ]
+  },
+  {
+    "id": "q-104",
+    "topic": "context",
+    "q": "Why did Israelites live in temporary shelters during the Feast of Booths (Tabernacles)?",
+    "options": [
+      "To mourn the destruction of the temple",
+      "To prepare for the barley harvest",
+      "To remember that God made Israel live in booths after the exodus",
+      "To honour the patriarchs' tents in Canaan"
+    ],
+    "answer": 2,
+    "explain": "Leviticus explains the booths as a reminder of the wilderness journey.",
+    "refs": [
+      "Lev 23:39-43"
+    ]
+  },
+  {
+    "id": "q-105",
+    "topic": "context",
+    "q": "Which group denied the resurrection of the dead?",
+    "options": [
+      "The Pharisees",
+      "The Sadducees",
+      "The Essenes",
+      "The scribes"
+    ],
+    "answer": 1,
+    "explain": "Acts says the Sadducees say there is no resurrection, angel or spirit, while the Pharisees acknowledge them.",
+    "refs": [
+      "Mark 12:18",
+      "Acts 23:6-8"
+    ]
+  },
+  {
+    "id": "q-106",
+    "topic": "context",
+    "q": "What was the Sanhedrin?",
+    "options": [
+      "A synagogue school for children",
+      "The Roman governor's bodyguard",
+      "The Herodian royal court",
+      "The chief Jewish council in Jerusalem, presided over by the high priest"
+    ],
+    "answer": 3,
+    "explain": "Jesus, Peter and John, Stephen and Paul all appeared before the council.",
+    "refs": [
+      "Mark 14:55",
+      "Acts 5:27-28"
+    ]
+  },
+  {
+    "id": "q-107",
+    "topic": "context",
+    "q": "The Jewish feast of Pentecost, when the Spirit came in Acts 2, is also known as what?",
+    "options": [
+      "The Feast of Weeks, fifty days after the Passover-season offering",
+      "The Day of Atonement",
+      "The Feast of Trumpets",
+      "The Feast of Dedication"
+    ],
+    "answer": 0,
+    "explain": "The feast was counted as seven weeks plus one day, giving the Greek name \"fiftieth.\"",
+    "refs": [
+      "Lev 23:15-16",
+      "Acts 2:1"
+    ]
+  },
+  {
+    "id": "q-108",
+    "topic": "context",
+    "q": "On the Day of Atonement, what did the high priest alone do?",
+    "options": [
+      "Read the whole law to the people",
+      "Light the first Hanukkah lamp",
+      "Enter the Most Holy Place with blood once a year",
+      "Offer the first sheaf of barley"
+    ],
+    "answer": 2,
+    "explain": "Leviticus 16 prescribes the ritual; Hebrews contrasts it with Christ entering once for all.",
+    "refs": [
+      "Lev 16:29-34",
+      "Heb 9:7"
+    ]
+  },
+  {
+    "id": "q-109",
+    "topic": "context",
+    "q": "In what languages was the notice \"Jesus of Nazareth, the King of the Jews\" written on the cross, according to John?",
+    "options": [
+      "Hebrew only",
+      "Latin and Coptic",
+      "Greek and Syriac",
+      "Aramaic (Hebrew), Latin and Greek"
+    ],
+    "answer": 3,
+    "explain": "John says it was written in Hebrew (likely Aramaic), Latin and Greek, so passers-by could read it.",
+    "refs": [
+      "John 19:19-20"
+    ]
+  },
+  {
+    "id": "q-110",
+    "topic": "context",
+    "q": "What was the purpose of levirate marriage in Israel?",
+    "options": [
+      "To unite two tribes politically",
+      "To provide a second wife for a priest",
+      "For a brother to marry his dead brother's childless widow and raise up a name for him",
+      "To free a slave woman"
+    ],
+    "answer": 2,
+    "explain": "Deuteronomy describes the custom; Boaz acts in a related role as kinsman-redeemer for Ruth.",
+    "refs": [
+      "Deut 25:5-6",
+      "Ruth 4:5-10"
+    ]
+  },
+  {
+    "id": "q-111",
+    "topic": "occupations",
+    "q": "What trade did Paul share with Aquila and Priscilla?",
+    "options": [
+      "Fishing",
+      "Tanning",
+      "Tentmaking",
+      "Weaving purple cloth"
+    ],
+    "answer": 2,
+    "explain": "Paul stayed and worked with them in Corinth because they were tentmakers by trade.",
+    "refs": [
+      "Acts 18:1-3"
+    ]
+  },
+  {
+    "id": "q-112",
+    "topic": "occupations",
+    "q": "Mark calls Jesus a *tektōn*. What does the Greek word most likely mean?",
+    "options": [
+      "A craftsman or builder working mainly in wood or stone",
+      "A scribe trained in the law",
+      "A fisherman owning his own boat",
+      "A seller of purple cloth"
+    ],
+    "answer": 0,
+    "explain": "Traditionally translated \"carpenter,\" the word covers builders and craftsmen more broadly.",
+    "refs": [
+      "Mark 6:3",
+      "Matt 13:55"
+    ]
+  },
+  {
+    "id": "q-113",
+    "topic": "occupations",
+    "q": "What did Lydia of Thyatira trade in?",
+    "options": [
+      "Purple cloth",
+      "Spices",
+      "Pottery",
+      "Tents"
+    ],
+    "answer": 0,
+    "explain": "Luke calls her a seller of purple goods; Thyatira was known for dyeing.",
+    "refs": [
+      "Acts 16:14"
+    ]
+  },
+  {
+    "id": "q-114",
+    "topic": "occupations",
+    "q": "Peter stayed in Joppa with a man named Simon who practised which trade?",
+    "options": [
+      "Potter",
+      "Fisherman",
+      "Carpenter",
+      "Tanner"
+    ],
+    "answer": 3,
+    "explain": "Peter lodged with Simon the tanner, whose house was by the sea, and had his rooftop vision there.",
+    "refs": [
+      "Acts 9:43",
+      "Acts 10:5-6"
+    ]
+  },
+  {
+    "id": "q-115",
+    "topic": "occupations",
+    "q": "What position did Nehemiah hold at the Persian court?",
+    "options": [
+      "Cupbearer to the king",
+      "Royal scribe",
+      "Commander of the guard",
+      "Treasurer of the province"
+    ],
+    "answer": 0,
+    "explain": "Nehemiah's closeness to Artaxerxes let him request leave to rebuild Jerusalem.",
+    "refs": [
+      "Neh 1:11",
+      "Neh 2:1-6"
+    ]
+  },
+  {
+    "id": "q-116",
+    "topic": "occupations",
+    "q": "How does Paul describe Luke in Colossians?",
+    "options": [
+      "The faithful scribe",
+      "The tentmaker of Tarsus",
+      "The beloved physician",
+      "The evangelist of Caesarea"
+    ],
+    "answer": 2,
+    "explain": "Paul sends greetings from \"Luke the beloved physician.\"",
+    "refs": [
+      "Col 4:14"
+    ]
+  },
+  {
+    "id": "q-117",
+    "topic": "occupations",
+    "q": "How did Amos describe his work before God called him?",
+    "options": [
+      "A herdsman and a dresser of sycamore figs",
+      "A priest at Bethel",
+      "A trained son of the prophets",
+      "A royal counsellor"
+    ],
+    "answer": 0,
+    "explain": "Amos denies being a professional prophet; the LORD took him from following the flock.",
+    "refs": [
+      "Amos 7:14-15"
+    ]
+  },
+  {
+    "id": "q-118",
+    "topic": "occupations",
+    "q": "Which son of Isaac was \"a skilful hunter, a man of the field\"?",
+    "options": [
+      "Jacob",
+      "Ishmael",
+      "Reuben",
+      "Esau"
+    ],
+    "answer": 3,
+    "explain": "Esau hunted while Jacob was a quiet man who stayed among the tents; Isaac loved Esau's game.",
+    "refs": [
+      "Gen 25:27-28"
+    ]
+  },
+  {
+    "id": "q-119",
+    "topic": "occupations",
+    "q": "Jeremiah went down to the house of which craftsman to receive a message about God's sovereignty over nations?",
+    "options": [
+      "A smith",
+      "A weaver",
+      "A potter",
+      "A carpenter"
+    ],
+    "answer": 2,
+    "explain": "Watching a potter rework a spoiled vessel, Jeremiah heard that God could do the same with Israel.",
+    "refs": [
+      "Jer 18:1-6"
+    ]
+  },
+  {
+    "id": "q-120",
+    "topic": "occupations",
+    "q": "What were Simon Peter and Andrew doing when Jesus called them to follow him in Mark?",
+    "options": [
+      "Mending tents in Capernaum",
+      "Casting a net into the Sea of Galilee",
+      "Collecting tolls at the lakeside",
+      "Pressing grapes in a vineyard"
+    ],
+    "answer": 1,
+    "explain": "They were fishermen; Jesus said he would make them fishers of people.",
+    "refs": [
+      "Mark 1:16-18"
+    ]
+  }
+]

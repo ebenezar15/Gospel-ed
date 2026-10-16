@@ -11,7 +11,7 @@ import type { TimelineEventT } from '../schemas';
 const TRACKS: { id: TimelineEventT['track']; label: string }[] = [
   { id: 'world', label: 'World' }, { id: 'empires', label: 'Empires' }, { id: 'israel', label: 'Israel' }, { id: 'judah', label: 'Judah' }, { id: 'prophets', label: 'Prophets' }, { id: 'church', label: 'Church' },
 ];
-const W = 1200, TOP = 46, ROW = 58;
+const W = 1200, TOP = 52, ROW = 58;
 
 export default function Timeline() {
   const [sp, setSp] = useSearchParams();
@@ -73,7 +73,7 @@ export default function Timeline() {
           {eras.map((e) => {
             const a = x(e.start), b = x(e.end); if (b < 0 || a > W) return null;
             return <g key={e.id}><rect x={a} y={0} width={Math.max(0, b - a)} height={H} fill={e.color} opacity={0.09} />
-              {b - a > 60 && <text x={Math.max(a, 0) + 6} y={16} fontSize={12} fill={e.color} className="display" style={{ letterSpacing: '.04em' }}>{e.name}</text>}</g>;
+              {b - a > e.name.length * 6.2 + 10 && <text x={Math.max(a, 0) + 6} y={eras.indexOf(e) % 2 ? 30 : 16} fontSize={12} fill={e.color} className="display" style={{ letterSpacing: '.04em' }}>{e.name}</text>}</g>;
           })}
           {ticks.map((t) => <g key={t}><line x1={x(t)} x2={x(t)} y1={22} y2={H - 22} stroke="rgb(var(--border))" strokeDasharray="2 4" /><text x={x(t)} y={H - 8} fontSize={11} textAnchor="middle" fill="rgb(var(--muted))" className="tabular">{fmtYear(t)}</text></g>)}
           {tracks.map((t, i) => (

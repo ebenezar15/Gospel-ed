@@ -48,7 +48,7 @@ export default function Connections() {
     const nodes: Node[] = [...ids].map((id) => {
       const p = personById.get(id)!;
       let x: number, y: number;
-      if (path) { const i = pathOrder.indexOf(id); x = i * 220; y = (i % 2) * 90; }
+      if (path) { const i = pathOrder.indexOf(id); x = i * 240; y = (i % 2) * 110; }
       else { x = sc.x(midYear(id)); const b = Math.round(x / 150); const lane = lanes.get(b) ?? 0; lanes.set(b, lane + 1); y = lane * 64 * (lane % 2 ? 1 : -1); }
       const hot = id === focus || id === from || id === to;
       return { id, position: { x, y }, data: { label: p.names.primary }, style: {
@@ -59,7 +59,7 @@ export default function Connections() {
     const flowEdges: FlowEdge[] = es.map((e, i) => ({ id: `${e.from}-${e.to}-${i}`, source: e.from, target: e.to, animated: !!path || e.type === 'mentor',
       style: { stroke: COLOR[e.type], strokeWidth: path ? 3 : 1.4, strokeDasharray: e.type === 'enemy' || e.type === 'confrontation' ? '5 4' : undefined },
       markerEnd: e.type === 'mentor' || e.type === 'confrontation' || e.type === 'successor' ? { type: MarkerType.ArrowClosed, color: COLOR[e.type] } : undefined,
-      label: path ? (LABEL[e.type] + (e.note ? `: ${e.note}` : '')) : undefined, labelStyle: { fill: 'rgb(var(--text))', fontSize: 11 }, labelBgStyle: { fill: 'rgb(var(--surface))' } }));
+      label: path ? LABEL[e.type] : undefined, labelStyle: { fill: 'rgb(var(--text))', fontSize: 11 }, labelBgStyle: { fill: 'rgb(var(--surface))' } }));
     return { nodes, flowEdges, shown: es };
   }, [types, path, focus, eraFilter, from]);
 

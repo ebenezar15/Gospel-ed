@@ -45,11 +45,11 @@ export default function GospelHistory() {
   const sel = gospelNodes.find((n) => n.id === sp.get('node')) ?? null;
   const pick = (id: string) => setSp({ node: id }, { replace: true });
   const { nodes, edges } = useMemo(() => {
-    const byYearLane = new Map<string, number>();
+    const lastY = new Map<number, number>();
     const nodes: Node[] = gospelNodes.map((n) => {
-      const k = KIND[n.kind]; const key = `${k.lane}-${Math.round(ty(n.year) / 70)}`; const off = byYearLane.get(key) ?? 0; byYearLane.set(key, off + 1);
-      return { id: n.id, position: { x: k.lane * 270 + off * 30, y: ty(n.year) + off * 40 }, data: { label: <div className="text-left"><div className="text-[10px] tabular opacity-70">{fmtYear(n.year)} · {n.place}</div><div className="text-[12.5px] leading-tight font-semibold">{n.title}</div></div> },
-        style: { width: 230, background: sel?.id === n.id ? k.c : 'rgb(var(--surface))', color: sel?.id === n.id ? 'rgb(var(--bg))' : 'rgb(var(--text))', border: `1.5px solid ${k.c}`, borderRadius: 6, padding: 8 } };
+      const k = KIND[n.kind]; const y = Math.max(ty(n.year), (lastY.get(k.lane) ?? -Infinity) + 78); lastY.set(k.lane, y);
+      return { id: n.id, position: { x: k.lane * 280, y }, data: { label: <div className="text-left"><div className="text-[10px] tabular opacity-70">{fmtYear(n.year)} · {n.place}</div><div className="text-[12.5px] leading-tight font-semibold">{n.title}</div></div> },
+        style: { width: 240, background: sel?.id === n.id ? k.c : 'rgb(var(--surface))', color: sel?.id === n.id ? 'rgb(var(--bg))' : 'rgb(var(--text))', border: `1.5px solid ${k.c}`, borderRadius: 6, padding: 8 } };
     });
     const ids = new Set(gospelNodes.map((n) => n.id));
     const edges: Edge[] = gospelNodes.flatMap((n) => n.leadsTo.filter((t) => ids.has(t)).map((t) => ({ id: `${n.id}>${t}`, source: n.id, target: t, animated: sel?.id === n.id || sel?.id === t, markerEnd: { type: MarkerType.ArrowClosed }, style: { stroke: sel && (sel.id === n.id || sel.id === t) ? 'rgb(var(--accent-2))' : 'rgb(var(--border))', strokeWidth: sel && (sel.id === n.id || sel.id === t) ? 2.5 : 1.2 } })));

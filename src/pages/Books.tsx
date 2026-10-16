@@ -88,7 +88,7 @@ export function BookPage() {
         <div className="card p-4"><div className="eyebrow mb-1">Audience & setting</div><p className="font-serif">{b.audience}. {b.setting}</p></div>
       </div>
       <Section title="Outline"><Outline nodes={b.outline} root={b.name} /></Section>
-      <Section title="Themes"><div className="flex flex-wrap gap-2">{b.themes.map((t) => <span key={t} className="chip !text-sm !py-1">{t}</span>)}</div></Section>
+      <Section title="Themes"><div className="flex flex-wrap gap-2">{b.themes.map((t) => <span key={t} className="chip !text-sm !py-1 !whitespace-normal">{t}</span>)}</div></Section>
       <Section title="Key verses"><Refs refs={b.keyRefs} /></Section>
       <Section title="Place in the whole story"><Paras text={b.bigStory} /></Section>
       {b.canonNote && <Section title="Canon note"><Paras text={b.canonNote} /></Section>}

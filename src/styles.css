@@ -25,6 +25,7 @@ h1, h2, h3, .display { font-family: 'IM Fell English', Georgia, serif; text-wrap
 :focus-visible { outline: 2px solid rgb(var(--accent)); outline-offset: 2px; border-radius: 3px; }
 .input { background: rgb(var(--surface)); border: 1px solid rgb(var(--border)); border-radius: 5px; padding: .5em .7em; color: rgb(var(--text)); font-size: .9rem; width: 100%; }
 .tabular { font-variant-numeric: tabular-nums; }
+.grid > * { min-width: 0; }
 .gutter { padding-left: max(16px, env(safe-area-inset-left, 0px)); padding-right: max(16px, env(safe-area-inset-right, 0px)); }
 .scroll-x { overflow-x: auto; -webkit-overflow-scrolling: touch; }
 .skeleton { background: linear-gradient(90deg, rgb(var(--sunk)) 0%, rgb(var(--surface)) 50%, rgb(var(--sunk)) 100%); background-size: 200% 100%; animation: shimmer 1.4s infinite linear; border-radius: 4px; }

@@ -31,6 +31,7 @@ export default function Family() {
   const [line, setLine] = useState<keyof typeof LINES | ''>('messianic');
   const [collapsed, setCollapsed] = useState<Set<string>>(new Set());
   const [t, setT] = useState<ZoomTransform>(zoomIdentity);
+  const zRef = useRef<ReturnType<typeof d3zoom<SVGSVGElement, unknown>> | null>(null);
   const svg = useRef<SVGSVGElement>(null);
   const data = useMemo(() => (root ? build(root, collapsed) : null), [root, collapsed]);
   const layout = useMemo(() => {
@@ -43,13 +44,17 @@ export default function Family() {
   const minX = Math.min(0, ...nodes.map((n) => n.x)), maxX = Math.max(0, ...nodes.map((n) => n.x));
   const maxY = Math.max(0, ...nodes.map((n) => n.y));
   const W = maxY + 260, H = maxX - minX + 80;
+  const VW = 1100, VH = 560;
+  // Start fitted to the tree, but never so small that names become unreadable; the reader can pan from there.
+  const fit = () => { const k = Math.max(0.55, Math.min(1, VW / W, VH / H)); return zoomIdentity.translate(10, Math.max(0, (VH - H * k) / 2)).scale(k); };
   const hl = line ? new Set(LINES[line].ids) : new Set<string>();
   useEffect(() => {
     if (!svg.current) return;
     const z = d3zoom<SVGSVGElement, unknown>().scaleExtent([0.2, 3]).on('zoom', (e) => setT(e.transform));
-    select(svg.current).call(z).call(z.transform, zoomIdentity);
+    zRef.current = z;
+    select(svg.current).call(z).call(z.transform, fit());
     return () => { select(svg.current!).on('.zoom', null); };
-  }, [root]);
+  }, [root, W, H]);
   const toggle = (id: string) => setCollapsed((c) => { const n = new Set(c); n.has(id) ? n.delete(id) : n.add(id); return n; });
   const P = (n: HierarchyPointNode<N>) => ({ x: n.y + 30, y: n.x - minX + 40 });
 
@@ -61,7 +66,7 @@ export default function Family() {
   return (
     <div>
       <PageHeader eyebrow="Genealogy explorer" title="Family Trees">
-        Built from every parent–child link in the atlas. Click a name’s dot to fold or unfold its branch; click the name to open the profile. Generations the text skips are joined directly.
+        Built from every parent–child link in the atlas. Drag to pan and scroll to zoom. Click a dot to fold or unfold its branch; click a name to open the profile. Generations the text skips are joined directly.
       </PageHeader>
       <div className="flex flex-wrap gap-2 items-center mb-4">
         <label className="eyebrow" htmlFor="fam-root">Start from</label>
@@ -70,12 +75,12 @@ export default function Family() {
         </select>
         <span className="eyebrow ml-2">Highlight</span>
         {(Object.keys(LINES) as (keyof typeof LINES)[]).map((k) => <button key={k} className={`btn !py-1 ${line === k ? 'btn-primary' : ''}`} onClick={() => setLine(line === k ? '' : k)}>{LINES[k].label}</button>)}
-        <button className="btn !py-1" onClick={() => svg.current && select(svg.current).call(d3zoom<SVGSVGElement, unknown>().on('zoom', (e) => setT(e.transform)).transform, zoomIdentity)}>Reset view</button>
+        <button className="btn !py-1" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.transform, fit())}>Reset view</button>
       </div>
       {data && (
         <>
           <div className="card overflow-hidden hidden md:block">
-            <svg ref={svg} viewBox={`0 0 ${Math.max(900, Math.min(W, 1400))} ${Math.min(Math.max(H, 380), 760)}`} className="w-full h-auto block touch-none cursor-grab" role="img" aria-label="Family tree; a nested list follows for screen readers">
+            <svg ref={svg} viewBox={`0 0 ${VW} ${VH}`} className="w-full h-auto block touch-none cursor-grab" role="img" aria-label="Family tree; a nested list follows for screen readers">
               <g transform={t.toString()}>
                 {links.map((l, i) => {
                   const a = P(l.source), b = P(l.target); const on = hl.has(l.source.data.id) && hl.has(l.target.data.id);

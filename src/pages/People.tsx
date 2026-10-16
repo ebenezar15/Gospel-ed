@@ -58,7 +58,7 @@ export default function People() {
                   </div>
                   <div className="text-xs text-muted">{[p.roles.slice(0, 3).join(' · '), l ? `${fmtYear(l[0])} – ${fmtYear(l[1])}` : null].filter(Boolean).join('  ·  ')}</div>
                   <p className="text-sm font-serif leading-snug line-clamp-3">{p.summary.split('\n')[0]}</p>
-                  <div className="mt-auto pt-1 flex gap-1.5"><span className="chip !text-[.65rem]">{p.tier}</span>{p.names.meaning && <span className="chip !text-[.65rem] truncate max-w-[70%]">“{p.names.meaning}”</span>}</div>
+                  <div className="mt-auto pt-1 flex gap-1.5"><span className="chip !text-[.65rem]">{p.tier}</span>{p.names.meaning && <span className="chip !text-[.65rem] !block truncate min-w-0">“{p.names.meaning}”</span>}</div>
                 </Link>
               </motion.div>
             );
