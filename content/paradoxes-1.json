@@ -1,0 +1,1929 @@
+[
+  {
+    "id": "one-and-three",
+    "title": "One God, three persons",
+    "category": "God",
+    "plain": "The Bible insists there is only one God, yet it speaks of the Father, the Son and the Holy Spirit each as God. Christians summed this up as the Trinity: one God in three persons. It is not three gods, and it is not one person wearing three masks.",
+    "takeaway": "God is one in being and three in persons; the doctrine is a boundary around a mystery, not a maths problem.",
+    "poleA": {
+      "label": "God is one",
+      "statement": "Israel's core confession is that the LORD is one, and there is no other God besides him. The New Testament keeps this confession rather than abandoning it.",
+      "refs": [
+        "Deut 6:4",
+        "Isa 45:5",
+        "Isa 44:6",
+        "1 Cor 8:4-6",
+        "Jas 2:19",
+        "Mark 12:29"
+      ]
+    },
+    "poleB": {
+      "label": "Father, Son and Spirit are each God",
+      "statement": "The Father is called God, the Word who became flesh is called God, and lying to the Holy Spirit is lying to God. The three are named together as one 'name' in baptism and blessing, and they speak to and about one another.",
+      "refs": [
+        "John 1:1",
+        "John 1:14",
+        "John 20:28",
+        "Acts 5:3-4",
+        "Matt 28:19",
+        "2 Cor 13:14",
+        "Matt 3:16-17",
+        "John 14:16-17"
+      ]
+    },
+    "tension": "If there is only one God, how can three distinct persons, who pray to, send and glorify one another, each be fully God? Counting seems to give either one person (and the distinctions collapse) or three gods (and monotheism collapses).",
+    "resolutions": [
+      {
+        "name": "Classical Trinitarianism (Nicene)",
+        "heldBy": "Catholic, Orthodox and most Protestant churches; Athanasius, the Cappadocian Fathers (Basil, Gregory of Nazianzus, Gregory of Nyssa), Augustine; the Nicene Creed (325, 381) and the Athanasian Creed",
+        "explanation": "'One' and 'three' answer different questions. Asked 'what is God?', the answer is one divine being or nature (Greek ousia). Asked 'who is God?', the answer is Father, Son and Spirit, three persons (hypostases) distinguished only by their relations: the Father begets, the Son is begotten, the Spirit proceeds. So there is no contradiction, because God is not one and three in the same respect.",
+        "refs": [
+          "Deut 6:4",
+          "Matt 28:19",
+          "John 1:1-2",
+          "John 15:26",
+          "John 10:30"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Social Trinitarianism",
+        "heldBy": "Some modern theologians, e.g. Jürgen Moltmann, Richard Swinburne, Cornelius Plantinga Jr.; drawing on Eastern emphasis on the persons",
+        "explanation": "Starts from the three persons as distinct centres of love and will, united in such perfect mutual indwelling (perichoresis) that they are one God. The unity is like a perfect family or community, only far deeper. Critics, including many classical theologians, warn this drifts toward three gods; defenders reply that the indwelling is stronger than any human union.",
+        "refs": [
+          "John 17:21-23",
+          "John 14:10-11",
+          "John 17:5",
+          "Gen 1:26"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Latin or 'psychological' emphasis",
+        "heldBy": "Augustine (*On the Trinity*), Thomas Aquinas; much of the Western tradition",
+        "explanation": "Starts from the one God and uses analogies from a single mind: the mind, its self-knowledge and its self-love are one mind yet genuinely distinct. The Son is like God's perfect Word or self-knowledge and the Spirit like God's love. Critics say this risks making the persons mere aspects; defenders insist the analogy is only a pointer and that the persons are real.",
+        "refs": [
+          "John 1:1",
+          "Rom 5:5",
+          "1 John 4:8",
+          "Heb 1:3"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Non-Trinitarian answers (Oneness and Unitarian)",
+        "heldBy": "Oneness Pentecostals (one God revealed in three modes, a form of modalism); Unitarians and Jehovah's Witnesses (only the Father is fully God)",
+        "explanation": "These traditions remove the tension by giving up one pole. Oneness teaching keeps full deity but denies three distinct persons, reading Father, Son and Spirit as titles or manifestations of the one Jesus. Unitarian views keep the distinct persons but deny that the Son and Spirit are fully God. Trinitarians answer that Jesus prays to the Father and the Father speaks from heaven at the baptism (against modalism), and that worship and divine titles given to Jesus (against Unitarianism) require both poles.",
+        "refs": [
+          "Acts 2:38",
+          "Col 2:9",
+          "John 17:3",
+          "1 Cor 8:6"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "One cannot equal three. The doctrine is a self-contradiction that the church invented in the fourth century to paper over conflicting texts.",
+      "reply": "A contradiction requires saying God is one and three in the same sense at the same time. The creeds say one in being and three in persons, which is not formally contradictory, even if it is beyond full understanding. Historically, the creeds did not invent the raw data: earliest Christian worship already prayed to Jesus and baptized in the threefold name. What the fourth century did was choose words to guard both sets of texts at once."
+    },
+    "practical": "Christians pray to the Father, through the Son, in the Spirit, so the doctrine shapes ordinary prayer. Many also see in it that love and relationship are not add-ons to God but part of who God is, which grounds the claim that 'God is love' even before creation existed.",
+    "related": [
+      "/people/jesus",
+      "/debates/christocentric-hermeneutic",
+      "/debates/scripture-and-tradition"
+    ]
+  },
+  {
+    "id": "unchanging-yet-relents",
+    "title": "God does not change, yet God relents",
+    "category": "God",
+    "plain": "Some verses say God never changes and does not repent like a human. Others say the LORD relented, or regretted, or changed course after people prayed or repented. Both sets of texts sit side by side, sometimes in the same chapter.",
+    "takeaway": "Scripture holds that God's character and purposes are fixed, while his dealings with people genuinely respond to them.",
+    "poleA": {
+      "label": "God does not change his mind",
+      "statement": "God is not a man that he should lie or repent. The LORD does not change, and the Glory of Israel will not lie or relent.",
+      "refs": [
+        "Mal 3:6",
+        "Num 23:19",
+        "1 Sam 15:29",
+        "Jas 1:17",
+        "Heb 13:8",
+        "Ps 102:25-27"
+      ]
+    },
+    "poleB": {
+      "label": "God relents and regrets",
+      "statement": "After Moses intercedes, the LORD relents of the disaster he had threatened. God regrets making Saul king. He relents over Nineveh when it repents, and describes himself as one who turns from threatened judgement.",
+      "refs": [
+        "Exod 32:14",
+        "1 Sam 15:11",
+        "1 Sam 15:35",
+        "Jonah 3:10",
+        "Jer 18:7-10",
+        "Joel 2:13",
+        "Gen 6:6"
+      ]
+    },
+    "tension": "1 Samuel 15 says in verse 11 that God regretted making Saul king and in verse 29 that God does not regret. If God truly changes course, is he unchanging? If he never changes, are the 'relenting' passages misleading?",
+    "resolutions": [
+      {
+        "name": "Fixed character, conditional threats",
+        "heldBy": "A broad consensus of commentators across Jewish and Christian traditions; reflected in Jeremiah 18 itself",
+        "explanation": "Jeremiah 18 gives the rule: when God announces disaster on a nation and it turns, he relents; when he promises good and it turns to evil, he withholds it. The threats were conditional all along. What never changes is God's character, always against evil and always merciful to the repentant. Because God is unchanging in that sense, his response to people changes when they change.",
+        "refs": [
+          "Jer 18:7-10",
+          "Jonah 3:10",
+          "Jonah 4:2",
+          "Ezek 18:21-23"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Accommodation (anthropopathism)",
+        "heldBy": "Many Church Fathers, Thomas Aquinas, John Calvin, classical theism generally",
+        "explanation": "God's being and will do not change in time. Scripture describes him 'as if' he repents because that is how his action looks from our side, much as we say the sun rises. The language is real communication pitched to human understanding, but it describes the effect on us rather than an emotional shift in God. 1 Samuel 15:29 is the plain teaching that controls how verse 11 is read.",
+        "refs": [
+          "Num 23:19",
+          "1 Sam 15:29",
+          "Mal 3:6",
+          "Isa 55:8-9"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Relational or open theism",
+        "heldBy": "Open theists such as Clark Pinnock, John Sanders, Gregory Boyd; some relational and process-leaning theologians",
+        "explanation": "God's character is unchanging, but he genuinely interacts in time, genuinely responds to prayer and sometimes genuinely changes his plans. The 'does not repent' texts mean God does not lie or break his word, not that he never responds. Critics say this makes God dependent on creatures and undercuts his foreknowledge; defenders say it takes the narrative texts at face value.",
+        "refs": [
+          "Exod 32:9-14",
+          "Gen 6:6",
+          "2 Kgs 20:1-6",
+          "Jer 26:3"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Narrative and covenant reading",
+        "heldBy": "Many Old Testament scholars (e.g. Terence Fretheim, Walter Brueggemann) and some Jewish interpreters",
+        "explanation": "The point of 1 Samuel 15 is that God really grieved over Saul, but, unlike a fickle human, he will not be talked out of the judgement now decided. The same God who invites intercession, as with Moses, also has moments where the decision is final. Both kinds of texts are true descriptions of a personal God in covenant relationship.",
+        "refs": [
+          "1 Sam 15:11",
+          "1 Sam 15:29",
+          "Exod 32:11-14",
+          "Amos 7:1-6"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "The same chapter says God regretted and that God never regrets. That is a flat contradiction left in by careless editors.",
+      "reply": "The two statements are a few verses apart in one carefully told story, so the narrator surely saw them. The most natural reading is that they mean different things: verse 11 describes grief over what Saul became, verse 29 says God will not reverse the verdict now spoken. Readers may weigh the explanations differently, but the text itself signals that it is making a deliberate point."
+    },
+    "practical": "This paradox is why intercessory prayer makes sense in scripture. Moses, Amos and the people of Nineveh act as if their response matters to God, and the texts say it did, while believers can also rest in a God whose goodness and promises do not wobble.",
+    "related": [
+      "/people/moses",
+      "/people/saul-king",
+      "/people/samuel",
+      "/people/jonah",
+      "/debates/justice-of-god"
+    ]
+  },
+  {
+    "id": "sovereignty-and-free-will",
+    "title": "God's sovereignty and human freedom",
+    "category": "God",
+    "plain": "The Bible says God works all things according to his will and directs even kings' hearts. It also calls people to choose, holds them responsible and pleads with them to turn. Christians have argued for centuries about how both can be true.",
+    "takeaway": "Scripture affirms both God's rule over everything and real human choice and responsibility; traditions differ on how they fit together.",
+    "poleA": {
+      "label": "God rules all things",
+      "statement": "God works all things according to the counsel of his will. He turns the king's heart, directs our steps, does what he pleases among the inhabitants of earth, and even the crucifixion happened by his set plan.",
+      "refs": [
+        "Eph 1:11",
+        "Prov 21:1",
+        "Prov 16:9",
+        "Dan 4:35",
+        "Acts 2:23",
+        "Acts 4:27-28",
+        "Rom 9:16"
+      ]
+    },
+    "poleB": {
+      "label": "People choose and are responsible",
+      "statement": "God sets life and death before Israel and says 'choose life'. Joshua says 'choose this day'. Jesus laments that Jerusalem was not willing. The same men who acted by God's plan are called lawless and guilty.",
+      "refs": [
+        "Deut 30:19",
+        "Josh 24:15",
+        "Matt 23:37",
+        "Acts 2:23",
+        "Isa 10:5-12",
+        "Rom 2:6-8"
+      ]
+    },
+    "tension": "If God determines everything, how are human choices free and blameworthy? If humans can thwart what God wants, in what sense is God sovereign?",
+    "resolutions": [
+      {
+        "name": "Compatibilism (Augustinian and Reformed)",
+        "heldBy": "Augustine (later works), John Calvin, Jonathan Edwards, Reformed and many Baptist theologians",
+        "explanation": "Freedom means acting according to your own desires without outside compulsion, and that is compatible with God ordaining all things. Joseph's brothers meant evil and God meant it for good in the same act. People are responsible because they do what they want; God is sovereign because he ordains what happens without being the author of sin.",
+        "refs": [
+          "Gen 50:20",
+          "Acts 4:27-28",
+          "Phil 2:12-13",
+          "Isa 10:5-7"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Libertarian freedom with foreknowledge (Arminian and Wesleyan)",
+        "heldBy": "Jacob Arminius, John Wesley, Methodists, many Pentecostals and free-church evangelicals; most Eastern Orthodox in their own terms",
+        "explanation": "God sovereignly chose to create beings with real power to choose otherwise, and gives prevenient grace that enables everyone to respond. He foreknows all choices and weaves them into his purposes, but does not cause them. Sovereignty is God's freely chosen way of ruling, not micro-determination.",
+        "refs": [
+          "Deut 30:19",
+          "Matt 23:37",
+          "1 Pet 1:1-2",
+          "Rom 8:29",
+          "Titus 2:11"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Middle knowledge (Molinism)",
+        "heldBy": "Luis de Molina; modern defenders such as William Lane Craig and Alvin Plantinga",
+        "explanation": "God knows not only what will happen but what any free creature would freely do in any circumstance. By choosing which world to create, he secures his purposes exactly while creatures choose freely. Critics ask what grounds such knowledge; defenders point to texts where God knows what would have happened.",
+        "refs": [
+          "1 Sam 23:10-13",
+          "Matt 11:21-23",
+          "Acts 2:23"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Mystery and synergy",
+        "heldBy": "Eastern Orthodox theology (synergy), many Catholic theologians, and pastors across traditions (e.g. J. I. Packer's 'antinomy')",
+        "explanation": "Scripture teaches both truths without explaining how they meet, and we should preach both fully rather than shave either down. Orthodoxy speaks of synergy: grace and human will cooperate, with grace always first. The aim is to hold both poles practically rather than solve the puzzle speculatively.",
+        "refs": [
+          "Phil 2:12-13",
+          "Deut 29:29",
+          "Rom 11:33-36",
+          "1 Cor 15:10"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "Either God controls everything, in which case punishing people is unjust, or he does not, in which case he is not all-powerful. Christians want it both ways.",
+      "reply": "Each major tradition offers a defined account that avoids formal contradiction: compatibilists redefine freedom, libertarians redefine the scope of control, Molinists add middle knowledge. One may find one or all of them unpersuasive, but the question is which account is true, not whether any coherent account exists. Philosophers outside the church debate the same problem about causation and free will."
+    },
+    "practical": "Believers pray as if everything depends on God and act as if their choices matter, because scripture models both. Pastorally, the sovereignty pole comforts in suffering, while the responsibility pole guards against fatalism and passivity.",
+    "related": [
+      "/debates/soteriology",
+      "/guides/calvinism-in-depth",
+      "/debates/justice-of-god",
+      "/people/joseph-patriarch"
+    ]
+  },
+  {
+    "id": "god-hardens-yet-holds-responsible",
+    "title": "God hardens hearts, yet holds people responsible",
+    "category": "God",
+    "plain": "In the Exodus story the text says both that Pharaoh hardened his own heart and that God hardened Pharaoh's heart. Paul later uses this to say God has mercy on whom he wills and hardens whom he wills. Yet Pharaoh is still judged for his stubbornness.",
+    "takeaway": "Hardening in scripture is both something people do to themselves and something God does, often as a judgement that confirms a path already chosen.",
+    "poleA": {
+      "label": "God hardens",
+      "statement": "God tells Moses in advance he will harden Pharaoh's heart, and later the text says the LORD hardened Pharaoh's heart. Paul draws the conclusion that God hardens whom he wills.",
+      "refs": [
+        "Exod 4:21",
+        "Exod 7:3",
+        "Exod 9:12",
+        "Exod 10:20",
+        "Exod 14:4",
+        "Rom 9:17-18",
+        "John 12:40"
+      ]
+    },
+    "poleB": {
+      "label": "Pharaoh hardens himself",
+      "statement": "When the frog plague lifted, Pharaoh hardened his heart. After hail, he sinned yet more and hardened his heart. Scripture warns, 'do not harden your hearts'.",
+      "refs": [
+        "Exod 8:15",
+        "Exod 8:32",
+        "Exod 9:34",
+        "1 Sam 6:6",
+        "Heb 3:8",
+        "Heb 3:15",
+        "Ps 95:8"
+      ]
+    },
+    "tension": "If God hardened Pharaoh, how can Pharaoh be blamed? If Pharaoh hardened himself, what does it mean that God did it?",
+    "resolutions": [
+      {
+        "name": "Judicial hardening: God gives people over",
+        "heldBy": "Many Fathers (e.g. Origen, John Chrysostom), Arminian and Wesleyan commentators, and many moderate Reformed scholars",
+        "explanation": "Notice the sequence: in the first five plagues the text says Pharaoh hardened his heart or that his heart was hard; from the sixth plague on, God hardens it. God confirms and strengthens a choice Pharaoh already made, as a judgement, much as Romans 1 says God gave people over to what they wanted. Responsibility rests on Pharaoh's prior choices.",
+        "refs": [
+          "Exod 8:15",
+          "Exod 9:12",
+          "Rom 1:24",
+          "Rom 1:28",
+          "2 Thess 2:10-12"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Sovereign hardening (Reformed)",
+        "heldBy": "Augustine (later works), John Calvin, many Reformed exegetes (e.g. Thomas Schreiner, John Piper)",
+        "explanation": "God announced the hardening before the plagues began, and Paul uses it to show God's freedom in mercy and hardening. God hardens not by putting evil into a neutral heart but by withholding softening grace from a heart already sinful. Pharaoh remains responsible because he does exactly what he wants; God remains just because no one deserves mercy.",
+        "refs": [
+          "Exod 4:21",
+          "Rom 9:17-23",
+          "Rom 3:10-12"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Corporate and historical reading of Romans 9",
+        "heldBy": "Many New Perspective and Arminian scholars, e.g. N. T. Wright, and some Jewish-Christian readings",
+        "explanation": "Paul is not talking about individual eternal destinies but about God's freedom to use nations and people, including a hardened Pharaoh and a partially hardened Israel, in his saving plan. The hardening of Israel is partial and temporary, aimed at the inclusion of the nations and Israel's eventual restoration.",
+        "refs": [
+          "Rom 9:17",
+          "Rom 11:7-11",
+          "Rom 11:25-26",
+          "Rom 11:32"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Hebrew idiom of ultimate causation",
+        "heldBy": "Many Old Testament scholars and Jewish commentators",
+        "explanation": "Ancient Hebrew writers often attribute results to God as the one ultimately behind everything without denying human agency. Saying both 'God hardened' and 'Pharaoh hardened' is a way of seeing one event from two levels: the human decision and God's overarching judgement in history.",
+        "refs": [
+          "Isa 45:7",
+          "Amos 3:6",
+          "2 Sam 24:1",
+          "1 Chr 21:1"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "God forced Pharaoh to refuse and then punished Egypt for refusing. That is a rigged game.",
+      "reply": "The text does not present Pharaoh as a willing man overridden; it shows a ruler already enslaving and killing Hebrew children who repeatedly breaks his word. On most readings God's hardening confirms or uses that character rather than creating it. Whether that fully answers the moral question depends on one's view of judgement, but the story is not of an innocent being forced into evil."
+    },
+    "practical": "The warning 'today, if you hear his voice, do not harden your hearts' is the main application the New Testament draws. Each refusal of what one knows to be right makes the next refusal easier.",
+    "related": [
+      "/people/pharaoh-of-the-exodus",
+      "/people/moses",
+      "/debates/soteriology",
+      "/guides/calvinism-in-depth",
+      "/debates/justice-of-god"
+    ]
+  },
+  {
+    "id": "love-and-consuming-fire",
+    "title": "God is love, and God is a consuming fire",
+    "category": "God",
+    "plain": "John writes that God is love. Hebrews and Deuteronomy say God is a consuming fire. People often feel these pull in opposite directions: is God tender or terrifying?",
+    "takeaway": "Scripture presents God's love and holiness as one reality, not two moods in conflict.",
+    "poleA": {
+      "label": "God is love",
+      "statement": "God is love, and he showed it by sending his Son. He is compassionate and gracious, slow to anger, rejoicing over his people with singing.",
+      "refs": [
+        "1 John 4:8",
+        "1 John 4:16",
+        "John 3:16",
+        "Exod 34:6",
+        "Zeph 3:17",
+        "Hos 11:8-9"
+      ]
+    },
+    "poleB": {
+      "label": "God is a consuming fire",
+      "statement": "The LORD is a consuming fire and a jealous God. Who can stand when he appears? Our God is a consuming fire, so serve him with reverence and awe.",
+      "refs": [
+        "Heb 12:29",
+        "Deut 4:24",
+        "Isa 33:14",
+        "Mal 3:2-3",
+        "Exod 34:7",
+        "Rom 11:22"
+      ]
+    },
+    "tension": "If God is love, why the language of fire, wrath and judgement? If God is fire, how can his love be safe to trust?",
+    "resolutions": [
+      {
+        "name": "Holy love: wrath as love's opposition to evil",
+        "heldBy": "Most mainstream Protestant and Catholic theologians, e.g. P. T. Forsyth, John Stott",
+        "explanation": "God's wrath is not a mood swing but his settled opposition to what destroys what he loves. A parent who did not burn with anger at what harms their child would love less, not more. Kindness and severity are two sides of one character, as Romans 11 puts it.",
+        "refs": [
+          "Rom 11:22",
+          "Exod 34:6-7",
+          "Rom 1:18",
+          "Heb 12:6"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Refining fire: the fire is love itself",
+        "heldBy": "Eastern Orthodox theology (e.g. Isaac the Syrian, as often summarized), George MacDonald, many Christian universalists",
+        "explanation": "The same fire of God's presence is experienced as warmth by those who love him and as torment by those who resist him. The fire refines like a smelter's fire. On this view the fire is not opposite to love but is what love feels like to resistance.",
+        "refs": [
+          "Mal 3:2-3",
+          "1 Cor 3:13-15",
+          "Song 8:6",
+          "Isa 6:6-7",
+          "Zech 13:9"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Love and justice as co-equal attributes",
+        "heldBy": "Classical Reformed theology (e.g. Francis Turretin, Louis Berkhof)",
+        "explanation": "God's justice is not a function of his love but an equally essential attribute. Love explains why he saves; justice explains why sin must be punished. The cross is where both are satisfied, so neither must be shaved down.",
+        "refs": [
+          "Rom 3:25-26",
+          "Ps 89:14",
+          "Rev 15:3-4",
+          "Nah 1:2-3"
+        ],
+        "leans": "B"
+      }
+    ],
+    "skeptic": {
+      "objection": "A loving being does not threaten fire. The Bible shows an angry tribal god in the Old Testament and a nicer god in the New.",
+      "reply": "Both images appear in both Testaments: 'consuming fire' is quoted in Hebrews, and the self-description 'compassionate and gracious' comes from Exodus. Whatever one concludes, the biblical writers did not see two gods; they saw one God whose love is serious enough to oppose evil. The real question is whether that combination is morally coherent, and most human ethics accepts that love can include anger at harm."
+    },
+    "practical": "Believers can approach God with confidence and with reverence at once. The paradox guards against a sentimental God who does not care about evil, and against a harsh God who cannot be loved.",
+    "related": [
+      "/debates/hell",
+      "/debates/justice-of-god",
+      "/guides/retributive-vs-restorative-justice",
+      "/guides/heaven-and-hell-explained"
+    ]
+  },
+  {
+    "id": "no-one-can-see-god-yet-they-saw-him",
+    "title": "No one can see God, yet some saw him",
+    "category": "God",
+    "plain": "God tells Moses that no one can see his face and live, and John says no one has ever seen God. Yet Moses, Aaron and the elders 'saw the God of Israel' and ate a meal, Jacob says he saw God face to face, and Isaiah saw the Lord on a throne.",
+    "takeaway": "God's full essence is invisible to human eyes, yet God really makes himself seen in forms people can bear, above all in Jesus.",
+    "poleA": {
+      "label": "No one can see God",
+      "statement": "No one can see God's face and live. No one has ever seen God. He dwells in unapproachable light.",
+      "refs": [
+        "Exod 33:20",
+        "John 1:18",
+        "1 Tim 6:16",
+        "1 John 4:12",
+        "Col 1:15"
+      ]
+    },
+    "poleB": {
+      "label": "People saw God",
+      "statement": "Moses, Aaron, Nadab, Abihu and seventy elders saw the God of Israel and ate and drank. Jacob saw God face to face. Isaiah saw the Lord. The LORD spoke with Moses face to face.",
+      "refs": [
+        "Exod 24:10-11",
+        "Gen 32:30",
+        "Isa 6:1-5",
+        "Exod 33:11",
+        "Num 12:8",
+        "Judg 13:22"
+      ]
+    },
+    "tension": "If seeing God means death and no one has seen him, what did Moses, the elders, Jacob and Isaiah see?",
+    "resolutions": [
+      {
+        "name": "Theophanies: God in a bearable form",
+        "heldBy": "Most Jewish and Christian interpreters; Exodus itself, which reports only what was under God's feet",
+        "explanation": "What people saw were real but mediated appearances: a form, a glory, the 'back' of God, the pavement under his feet. Exodus 24 describes only what was beneath him, and Exodus 33 lets Moses see God's back but not his face. They truly saw God, but not God's unveiled essence.",
+        "refs": [
+          "Exod 24:10",
+          "Exod 33:18-23",
+          "Ezek 1:28",
+          "Num 12:8"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "The Son as the visible God",
+        "heldBy": "Justin Martyr, Irenaeus, Tertullian and many later Christian writers",
+        "explanation": "John 1:18 says no one has seen God, but the only Son has made him known. Many early Christians held that Old Testament appearances, such as the Angel of the LORD, were the pre-incarnate Son. The invisible Father is seen in the Son, so Jesus can say, 'whoever has seen me has seen the Father'.",
+        "refs": [
+          "John 1:18",
+          "John 14:9",
+          "Col 1:15",
+          "Heb 1:3",
+          "Gen 18:1-2"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Essence and energies",
+        "heldBy": "Eastern Orthodox theology, especially Gregory Palamas",
+        "explanation": "God's essence, what God is in himself, can never be seen or known by any creature. God's energies, his real presence and activity, can be truly experienced, including as uncreated light as at the Transfiguration. The visions are real encounters with God's energies, not his essence.",
+        "refs": [
+          "1 Tim 6:16",
+          "Matt 17:1-2",
+          "2 Pet 1:4",
+          "2 Cor 3:18"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Now and not yet: the beatific vision",
+        "heldBy": "Augustine, Thomas Aquinas, Catholic and many Protestant theologians",
+        "explanation": "In this life people see God only in veiled ways; the face-to-face vision is a future promise to the pure in heart. Exodus 33 states what is true now, and Revelation 22 states what will be true then.",
+        "refs": [
+          "Matt 5:8",
+          "1 John 3:2",
+          "1 Cor 13:12",
+          "Rev 22:4"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "The Bible flatly says no one has seen God and also that people saw God. One of them must be wrong.",
+      "reply": "Exodus itself holds both: in chapter 33 Moses speaks with God 'face to face' in verse 11 and is told he cannot see God's face in verse 20. That suggests the writer uses 'see' at different levels, a familiar relationship versus seeing God's unveiled being. The tension is deliberate, not an oversight."
+    },
+    "practical": "Christians look to Jesus as the clearest view of what God is like, while keeping humility about how much any human grasps. It also frames worship as both intimate and awed.",
+    "related": [
+      "/people/moses",
+      "/people/jacob",
+      "/people/isaiah",
+      "/people/jesus",
+      "/guides/jesus-perfect-theology-vs-literal"
+    ]
+  },
+  {
+    "id": "god-tempts-no-one-yet-tested-abraham",
+    "title": "God tempts no one, yet God tested Abraham",
+    "category": "God",
+    "plain": "James says God tempts no one. Genesis 22 says God tested Abraham, and the King James Version even says God 'did tempt' him. The Greek and Hebrew words can mean both 'test' and 'tempt', which is part of the puzzle.",
+    "takeaway": "God tests people to prove and strengthen faith; he never entices anyone to sin.",
+    "poleA": {
+      "label": "God tempts no one",
+      "statement": "Let no one say when tempted that God is tempting him; God cannot be tempted by evil and himself tempts no one. Each is tempted by his own desire.",
+      "refs": [
+        "Jas 1:13-14",
+        "1 Cor 10:13",
+        "1 John 1:5"
+      ]
+    },
+    "poleB": {
+      "label": "God tested Abraham",
+      "statement": "God tested Abraham by telling him to offer Isaac. God led Israel through the wilderness to test them. The Spirit led Jesus into the wilderness to be tempted. Believers pray 'lead us not into temptation'.",
+      "refs": [
+        "Gen 22:1",
+        "Deut 8:2",
+        "Exod 20:20",
+        "Matt 4:1",
+        "Matt 6:13",
+        "2 Chr 32:31"
+      ]
+    },
+    "tension": "If God tests people, including with heavy demands, how can James say he tempts no one?",
+    "resolutions": [
+      {
+        "name": "Test versus temptation: different aims",
+        "heldBy": "Most commentators across traditions",
+        "explanation": "The same word (Hebrew nasah, Greek peirazo) covers both. A test aims to prove and strengthen, as gold is tested in fire; a temptation aims to make you fall. God tests for good; the devil and our own desires tempt toward evil. James even uses the same word for 'trials' that produce endurance in verse 2 and for 'temptation' toward sin in verse 13.",
+        "refs": [
+          "Jas 1:2-3",
+          "Jas 1:12-14",
+          "1 Pet 1:6-7",
+          "Deut 8:2",
+          "Deut 8:16"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "God permits, Satan tempts",
+        "heldBy": "Many patristic and Protestant writers; suggested by the parallel accounts in Samuel and Chronicles",
+        "explanation": "Where scripture attributes a testing to God, another agent often carries it out: Satan with Job, Satan in Chronicles where Samuel says God moved David. God allows the trial within limits for his good purposes, but the enticement to evil comes from elsewhere.",
+        "refs": [
+          "Job 1:12",
+          "2 Sam 24:1",
+          "1 Chr 21:1",
+          "1 Cor 10:13",
+          "Luke 22:31-32"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Abraham's test as revelation",
+        "heldBy": "Jewish tradition (the Akedah) and many Christian readers, e.g. Hebrews 11",
+        "explanation": "God never intended Isaac to die; he stopped Abraham and provided a ram. The test revealed and deepened Abraham's trust that God would provide, even raise the dead. Hebrews and James read it as faith proven by action, not a temptation to murder.",
+        "refs": [
+          "Gen 22:12-14",
+          "Heb 11:17-19",
+          "Jas 2:21-23"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "Asking a father to kill his son is about as strong a temptation to evil as one can imagine. Calling it a 'test' is word games.",
+      "reply": "Readers have felt this weight for millennia, and Jewish and Christian traditions do not treat it lightly. Within the story, the reader is told from the first verse that it is a test and that God stops it. In a culture that knew child sacrifice, many interpreters read the outcome as God decisively rejecting it. Whether one finds that satisfying is a fair question, but the text frames it as proving trust, not enticing to sin."
+    },
+    "practical": "When hardship comes, Christians are taught not to blame God for their sinful impulses, and also not to see trials as meaningless. The prayer 'lead us not into temptation' asks God to keep the trial from becoming a fall.",
+    "related": [
+      "/people/abraham",
+      "/people/isaac",
+      "/people/job",
+      "/debates/justice-of-god"
+    ]
+  },
+  {
+    "id": "fully-god-fully-man",
+    "title": "Fully God and fully human",
+    "category": "Christ",
+    "plain": "The New Testament calls Jesus God and shows him receiving worship, forgiving sins and sharing God's glory. It also shows him born, hungry, tired, weeping, growing in wisdom and dying. Christians confess he is both, completely, in one person.",
+    "takeaway": "Jesus is one person who is truly God and truly human, without either nature being diluted or mixed.",
+    "poleA": {
+      "label": "Fully God",
+      "statement": "The Word was God. In him the whole fullness of deity dwells bodily. Thomas calls him 'my Lord and my God'. He is 'our great God and Saviour'.",
+      "refs": [
+        "John 1:1",
+        "Col 2:9",
+        "John 20:28",
+        "Titus 2:13",
+        "Rom 9:5",
+        "Heb 1:8",
+        "Phil 2:6"
+      ]
+    },
+    "poleB": {
+      "label": "Fully human",
+      "statement": "The Word became flesh. He grew in wisdom and stature, was tired, wept, was tempted in every way as we are, and was made like his brothers in every respect.",
+      "refs": [
+        "John 1:14",
+        "Luke 2:52",
+        "John 4:6",
+        "John 11:35",
+        "Heb 2:17",
+        "Heb 4:15",
+        "1 Tim 2:5"
+      ]
+    },
+    "tension": "God is infinite, all-knowing and cannot be tempted; humans are finite, learn and can be tempted. How can one person be both without being a hybrid, a split personality, or one nature disguised as the other?",
+    "resolutions": [
+      {
+        "name": "Chalcedonian Christology: two natures, one person",
+        "heldBy": "Catholic, Eastern Orthodox and most Protestant churches; Pope Leo I's *Tome*; the Council of Chalcedon (451)",
+        "explanation": "Jesus is one person (the eternal Son) who has two complete natures, divine and human, 'without confusion, change, division or separation'. Whatever is true of either nature is true of the one person, so one can say 'God was born' or 'the man Jesus is Lord'. The infinite is not shrunk; the Son takes a full human nature into union with himself.",
+        "refs": [
+          "John 1:14",
+          "Col 2:9",
+          "Phil 2:6-8",
+          "Heb 2:14-17"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Miaphysite Christology: one united nature",
+        "heldBy": "Oriental Orthodox churches (Coptic, Ethiopian, Armenian, Syriac); following Cyril of Alexandria's formula 'one incarnate nature of God the Word'",
+        "explanation": "After the union, Christ has one nature that is fully divine and fully human, without mixture or loss. Oriental Orthodox churches rejected Chalcedon's wording but not its intent; modern dialogues (e.g. statements in 1989-1990 between Eastern and Oriental Orthodox) concluded the disagreement is largely about terminology.",
+        "refs": [
+          "John 1:14",
+          "John 10:30",
+          "Heb 1:3"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Kenotic Christology",
+        "heldBy": "Gottfried Thomasius, P. T. Forsyth, some modern evangelicals and others",
+        "explanation": "Based on Philippians 2:7 ('emptied himself'), the Son voluntarily set aside the use (or in stronger versions, the possession) of some divine attributes such as omniscience during his earthly life. This explains his growth and limitations. Critics say strong kenosis implies God stops being God; moderate versions speak only of restraint in use.",
+        "refs": [
+          "Phil 2:6-8",
+          "Luke 2:52",
+          "Mark 13:32",
+          "2 Cor 8:9"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Rejected options that drop a pole",
+        "heldBy": "Arianism (Son a created being), Docetism (only seemed human), Apollinarianism (no human mind), Nestorianism (two persons), Eutychianism (natures blended)",
+        "explanation": "These were judged heresies precisely because each removed the tension by shrinking one side. Their history helps explain why the mainstream wording is so careful. Some historians argue Nestorius himself was closer to orthodoxy than his opponents portrayed, a debated point.",
+        "refs": [
+          "1 John 4:2-3",
+          "John 1:1",
+          "Heb 4:15"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "Being omniscient and not omniscient, immortal and mortal, are contradictory properties. No one can have both.",
+      "reply": "The classical claim is that one person has them in respect of different natures: the Son is omniscient as God and learns as man. Philosophers (e.g. Thomas Morris, Oliver Crisp) have offered models such as a 'two-minds' view to show this is not formally contradictory. Whether it is true is a matter of faith and evidence; whether it is coherent has defenders in professional philosophy."
+    },
+    "practical": "Because Jesus is human, he sympathizes with weakness and temptation; because he is God, he can actually save. Many Christians draw comfort from both in prayer.",
+    "related": [
+      "/people/jesus",
+      "/people/thomas",
+      "/debates/atonement",
+      "/guides/jesus-perfect-theology-vs-literal"
+    ]
+  },
+  {
+    "id": "knows-all-yet-not-the-day",
+    "title": "Jesus knows all things, yet does not know the day",
+    "category": "Christ",
+    "plain": "Peter says to the risen Jesus, 'Lord, you know everything', and the disciples say the same earlier. Yet Jesus himself says no one knows the day or hour of the end, not even the Son, but only the Father.",
+    "takeaway": "The Gospels portray Jesus with real divine insight and real human limits, and traditions explain the limit in different ways.",
+    "poleA": {
+      "label": "He knows all things",
+      "statement": "Peter says, 'Lord, you know everything.' The disciples say, 'now we know that you know all things.' Jesus knew what was in people. In him are hidden all the treasures of wisdom and knowledge.",
+      "refs": [
+        "John 21:17",
+        "John 16:30",
+        "John 2:24-25",
+        "Col 2:3",
+        "John 1:48"
+      ]
+    },
+    "poleB": {
+      "label": "He does not know the day",
+      "statement": "Concerning that day or hour, no one knows, not the angels in heaven, nor the Son, but only the Father. He grew in wisdom. He asked who touched him.",
+      "refs": [
+        "Mark 13:32",
+        "Matt 24:36",
+        "Luke 2:52",
+        "Mark 5:30",
+        "Acts 1:7"
+      ]
+    },
+    "tension": "If Jesus is God, he knows everything, including the date of his return. If he does not know it, how is he God, and how did the disciples say he knew all things?",
+    "resolutions": [
+      {
+        "name": "Two natures: ignorant as man, omniscient as God",
+        "heldBy": "Athanasius, Gregory of Nazianzus, Leo I and most Chalcedonian theologians",
+        "explanation": "Jesus speaks here from his human mind, which genuinely learned and had limits. As the divine Son he knows all things. Mark 13:32 is about what the incarnate Son knew in his human consciousness, not about the eternal Son's knowledge.",
+        "refs": [
+          "Mark 13:32",
+          "Luke 2:52",
+          "Phil 2:7",
+          "John 21:17"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Knows but not to reveal",
+        "heldBy": "Augustine, Thomas Aquinas, and others in the Latin tradition",
+        "explanation": "The phrase means the Son does not know it in a way he was sent to make known; it was not part of his revealing mission. Critics think this strains the plain sense; defenders note similar idioms of 'knowing' and point to Acts 1:7, where the times are set by the Father's authority.",
+        "refs": [
+          "Acts 1:7",
+          "John 15:15",
+          "Mark 13:32"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Kenotic restraint",
+        "heldBy": "Kenotic theologians and many modern evangelicals",
+        "explanation": "In becoming human, the Son voluntarily did not exercise his divine omniscience, depending instead on the Spirit and the Father for what he needed to know. The disciples' 'you know all things' refers to his remarkable, Spirit-given knowledge of people and events, and after the resurrection to his glorified state.",
+        "refs": [
+          "Phil 2:6-7",
+          "John 5:19",
+          "John 5:30",
+          "Luke 4:1"
+        ],
+        "leans": "B"
+      }
+    ],
+    "skeptic": {
+      "objection": "Mark 13:32 shows the earliest Christians did not think Jesus was God; later church writers had to explain it away.",
+      "reply": "Mark's Gospel also has Jesus forgive sins in a way the scribes call blasphemy and claim to be the one who will come on the clouds. Critical scholars do often regard this saying as authentic precisely because it is awkward, and it shows that the early church preserved hard sayings. Whether it fits a high Christology depends on the two-natures framework, which has been the mainstream answer since the fourth century."
+    },
+    "practical": "Jesus' own refusal to name the date stands against all date-setting for the end. Christians are called to watch and be ready, not calculate.",
+    "related": [
+      "/people/jesus",
+      "/people/peter",
+      "/debates/rapture",
+      "/debates/millennium",
+      "/guides/when-end-times-became-central"
+    ]
+  },
+  {
+    "id": "father-greater-yet-one",
+    "title": "The Father is greater, yet the Son and Father are one",
+    "category": "Christ",
+    "plain": "Jesus says, 'I and the Father are one', and his hearers take it as a claim to deity. He also says, 'the Father is greater than I', and that he does only what he sees the Father doing. Christians have long debated how these fit.",
+    "takeaway": "The Son is equal with the Father in being, while gladly receiving and obeying the Father, at least in his earthly mission.",
+    "poleA": {
+      "label": "One with the Father",
+      "statement": "I and the Father are one. Whoever has seen me has seen the Father. He was making himself equal with God. Before the world existed he shared the Father's glory.",
+      "refs": [
+        "John 10:30",
+        "John 14:9",
+        "John 5:18",
+        "John 17:5",
+        "Phil 2:6",
+        "John 1:1"
+      ]
+    },
+    "poleB": {
+      "label": "The Father is greater",
+      "statement": "The Father is greater than I. The Son can do nothing of himself. The head of Christ is God. In the end the Son himself will be subject to the Father.",
+      "refs": [
+        "John 14:28",
+        "John 5:19",
+        "1 Cor 11:3",
+        "1 Cor 15:28",
+        "John 6:38"
+      ]
+    },
+    "tension": "If the Father is greater, is the Son less than fully God? If they are one and equal, what does 'greater' mean?",
+    "resolutions": [
+      {
+        "name": "According to his humanity",
+        "heldBy": "Athanasius, Augustine, and much of the Latin and Reformed tradition",
+        "explanation": "As God the Son is equal; as the man who took the form of a servant he is less. John 14:28 speaks from his incarnate state on the eve of the cross, which is why it is linked to his going to the Father.",
+        "refs": [
+          "Phil 2:6-8",
+          "John 14:28",
+          "Heb 2:9"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Monarchy of the Father: greater as source, not in being",
+        "heldBy": "Gregory of Nazianzus and the Eastern Orthodox tradition; also some Western writers",
+        "explanation": "The Father is 'greater' as the eternal source from whom the Son is begotten, not as superior in nature. A son is equal in humanity to his father yet comes from him. This order of origin is eternal and does not make the Son less God.",
+        "refs": [
+          "John 5:26",
+          "John 1:18",
+          "John 14:28",
+          "Heb 1:3"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Eternal functional subordination (debated)",
+        "heldBy": "Some contemporary evangelicals (e.g. Wayne Grudem, Bruce Ware); strongly opposed by others (e.g. Kevin Giles, Millard Erickson, many Reformed classical theists)",
+        "explanation": "Advocates hold that the Son is equal in being but eternally submits to the Father's authority, citing 1 Corinthians 15:28. Opponents argue that an eternal difference in authority implies a difference of will and so of nature, departing from Nicene orthodoxy. This intra-evangelical debate intensified around 2016.",
+        "refs": [
+          "1 Cor 15:28",
+          "1 Cor 11:3",
+          "John 6:38"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Subordinationism and Arianism",
+        "heldBy": "Arius; modern Unitarians and Jehovah's Witnesses",
+        "explanation": "The Father alone is true God and the Son is the highest created being. This resolves the tension by dropping full deity. Nicene Christians reply that 'I and the Father are one' and the worship of Jesus cannot be fitted to a created Son.",
+        "refs": [
+          "John 14:28",
+          "John 17:3",
+          "Col 1:15"
+        ],
+        "leans": "B"
+      }
+    ],
+    "skeptic": {
+      "objection": "Jesus plainly said the Father is greater. Trinitarians must twist that into meaning nothing.",
+      "reply": "Every serious Trinitarian reading takes the verse as meaning something real: subordination in the incarnation, or order of origin. The same Gospel also records claims that hearers treated as making himself equal to God. Any reading has to account for both, so the question is which account handles all of John best."
+    },
+    "practical": "Jesus' joyful dependence on the Father is presented as the model for Christian life: equal dignity does not rule out glad submission and love.",
+    "related": [
+      "/people/jesus",
+      "/debates/gender-roles",
+      "/debates/scripture-and-tradition"
+    ]
+  },
+  {
+    "id": "christ-died-yet-god-cannot-die",
+    "title": "Christ died, yet God cannot die",
+    "category": "Christ",
+    "plain": "Scripture says God alone has immortality, and God is from everlasting to everlasting. Yet it also says people 'crucified the Lord of glory' and that God bought the church 'with his own blood'. If Jesus is God and Jesus died, did God die?",
+    "takeaway": "The eternal Son truly died in his human nature, while the divine nature itself did not cease to exist.",
+    "poleA": {
+      "label": "God cannot die",
+      "statement": "God alone has immortality. He is from everlasting to everlasting. He is the immortal, invisible God.",
+      "refs": [
+        "1 Tim 6:16",
+        "1 Tim 1:17",
+        "Ps 90:2",
+        "Rom 1:23",
+        "Deut 32:40"
+      ]
+    },
+    "poleB": {
+      "label": "The Lord of glory died",
+      "statement": "They crucified the Lord of glory. They killed the Author of life. God obtained the church with his own blood. Christ died for our sins.",
+      "refs": [
+        "1 Cor 2:8",
+        "Acts 3:15",
+        "Acts 20:28",
+        "1 Cor 15:3",
+        "Phil 2:8",
+        "Rev 1:18"
+      ]
+    },
+    "tension": "If Jesus is God and Jesus died, God died, which contradicts his immortality. If God did not die, was it only a man who died, and was the death then less than divine?",
+    "resolutions": [
+      {
+        "name": "Communication of properties (communicatio idiomatum)",
+        "heldBy": "Cyril of Alexandria, Council of Ephesus (431), Second Council of Constantinople (553), and Catholic, Orthodox, Lutheran and Reformed theology in varying forms",
+        "explanation": "What happens to either nature is truly said of the one person. The Son of God died, in his human nature: his human soul and body separated, while his divine nature, which cannot die, remained united to both. So it is right to say 'one of the Trinity suffered in the flesh' without saying that the divine nature ceased.",
+        "refs": [
+          "Acts 20:28",
+          "1 Cor 2:8",
+          "1 Pet 3:18",
+          "1 Pet 4:1"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Death as separation, not annihilation",
+        "heldBy": "Common across the Fathers and later theologians",
+        "explanation": "In scripture, death is separation, not ceasing to exist. Jesus' body lay in the tomb and his spirit went to the Father. Death meant the Son entering fully into the human experience of death, not God going out of existence.",
+        "refs": [
+          "Luke 23:46",
+          "Eccl 12:7",
+          "1 Pet 3:18-19",
+          "John 10:17-18"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "God suffering in Christ",
+        "heldBy": "Martin Luther (in his stronger statements), Jürgen Moltmann (*The Crucified God*), many modern theologians",
+        "explanation": "The cross reveals that God himself enters suffering and death, and Christian thought should let this reshape the doctrine that God cannot suffer (impassibility). Classical theists answer that this risks making God subject to change and loss; defenders say the cross must reveal God's heart, not just a human nature's experience.",
+        "refs": [
+          "2 Cor 5:19",
+          "Phil 2:8",
+          "Heb 2:9-10",
+          "Isa 53:4-5"
+        ],
+        "leans": "B"
+      }
+    ],
+    "skeptic": {
+      "objection": "If God can't die, then the death on the cross was a mere human death. If God did die, who ran the universe for three days?",
+      "reply": "The traditional answer is that the person who died was divine, so the death was not 'mere', but the divine nature did not stop; the Son remained God throughout, upholding all things. The 'who ran the universe' question assumes God's nature ceased, which no mainstream tradition teaches."
+    },
+    "practical": "Christian worship speaks of the love of a God who went as far as death for people. The paradox also shapes how believers think about their own death: as something Christ has passed through, not an annihilation.",
+    "related": [
+      "/people/jesus",
+      "/debates/atonement",
+      "/guides/atonement-theories-explained"
+    ]
+  },
+  {
+    "id": "peace-and-sword",
+    "title": "Prince of peace, yet came to bring a sword",
+    "category": "Christ",
+    "plain": "Angels announce peace on earth at Jesus' birth, and he leaves his peace with his followers. Yet Jesus says he did not come to bring peace but a sword, setting family members against each other.",
+    "takeaway": "Jesus brings peace with God and between enemies, but loyalty to him divides people who reject him from those who follow.",
+    "poleA": {
+      "label": "Peace",
+      "statement": "Peace on earth among those with whom he is pleased. My peace I give to you. He is our peace, who broke down the dividing wall. Blessed are the peacemakers.",
+      "refs": [
+        "Luke 2:14",
+        "John 14:27",
+        "Isa 9:6",
+        "Eph 2:14",
+        "Matt 5:9",
+        "Rom 5:1"
+      ]
+    },
+    "poleB": {
+      "label": "Sword",
+      "statement": "Do not think I came to bring peace on earth; I came not to bring peace but a sword. A person's enemies will be those of his own household.",
+      "refs": [
+        "Matt 10:34-36",
+        "Luke 12:51-53",
+        "Mic 7:6",
+        "Luke 2:34-35"
+      ]
+    },
+    "tension": "Is Jesus a peacemaker or a divider? Did he come to end conflict or to cause it?",
+    "resolutions": [
+      {
+        "name": "Effect, not purpose",
+        "heldBy": "Most commentators, e.g. John Chrysostom, John Calvin, modern evangelical and Catholic scholars",
+        "explanation": "The 'sword' is the result of his coming, not its goal. People who follow Jesus are often rejected by those closest to them, as Micah 7:6 foresaw. Luke's parallel says 'division' rather than 'sword'. The peace he gives is real but does not compel everyone to accept it.",
+        "refs": [
+          "Luke 12:51",
+          "Matt 10:35-37",
+          "Luke 2:34",
+          "John 15:18-19"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Peace with God now, full peace later",
+        "heldBy": "Many Protestant and Catholic theologians",
+        "explanation": "The peace Jesus brings first is reconciliation with God and between believers. Universal peace on earth awaits the end. Until then, his kingdom provokes opposition. Luke 2:14 itself limits peace to 'those with whom he is pleased'.",
+        "refs": [
+          "Rom 5:1",
+          "Luke 2:14",
+          "Isa 2:4",
+          "Rev 21:4"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "The sword is not a weapon for disciples",
+        "heldBy": "Anabaptist and Mennonite traditions, Quakers, and many pacifist readers; also mainstream exegetes",
+        "explanation": "Whatever the sword means, Jesus forbids his followers to use it for his cause: he tells Peter to put away his sword. The 'sword' elsewhere is God's word that cuts. So Matthew 10:34 cannot justify Christian violence; it describes suffering disciples, not violent ones.",
+        "refs": [
+          "Matt 26:52",
+          "Heb 4:12",
+          "Eph 6:17",
+          "Rom 12:18-21"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "Jesus admits he came to bring a sword, and Christians have used this to justify religious violence for centuries.",
+      "reply": "The context is about family division because of loyalty to him, and in the same Gospel he blesses peacemakers and rebukes Peter's sword. Most interpreters from the Fathers to today read the sword as division suffered, not violence inflicted. Christians have indeed misused texts to justify violence, which this passage does not support when read in context."
+    },
+    "practical": "Christians are called to seek peace with everyone as far as it depends on them, while accepting that following Jesus may cost relationships. The aim is to be peacemakers, not to provoke division needlessly.",
+    "related": [
+      "/people/jesus",
+      "/guides/gospel-jesus-preached"
+    ]
+  },
+  {
+    "id": "came-not-to-judge-yet-judge-of-all",
+    "title": "Came not to judge, yet the judge of all",
+    "category": "Christ",
+    "plain": "In John's Gospel Jesus says God did not send the Son to condemn the world but to save it, and that he does not judge anyone who hears and does not keep his words. In the same Gospel he says the Father has given all judgement to the Son and that he came into the world for judgement.",
+    "takeaway": "Jesus' first coming aims at saving, yet his very presence exposes people, and he will be the final judge.",
+    "poleA": {
+      "label": "Not sent to judge",
+      "statement": "God did not send his Son into the world to condemn the world, but to save it. I do not judge him; I did not come to judge the world but to save it. I judge no one.",
+      "refs": [
+        "John 3:17",
+        "John 12:47",
+        "John 8:15",
+        "Luke 9:56",
+        "Luke 19:10"
+      ]
+    },
+    "poleB": {
+      "label": "Judge of all",
+      "statement": "The Father judges no one but has given all judgement to the Son. For judgement I came into this world. God has fixed a day to judge the world by the man he appointed.",
+      "refs": [
+        "John 5:22",
+        "John 5:27",
+        "John 9:39",
+        "Acts 17:31",
+        "2 Cor 5:10",
+        "Acts 10:42"
+      ]
+    },
+    "tension": "Did Jesus come to judge or not? John records both claims, sometimes in the same chapter.",
+    "resolutions": [
+      {
+        "name": "Purpose versus effect",
+        "heldBy": "Augustine, John Calvin, and most commentators on John",
+        "explanation": "His purpose was to save, but the light inevitably exposes. John 3:18-19 explains: the one who does not believe is condemned already, and the judgement is that light came and people loved darkness. Judgement is the shadow cast by rejected salvation.",
+        "refs": [
+          "John 3:17-19",
+          "John 9:39-41",
+          "John 12:47-48"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Two comings",
+        "heldBy": "Many evangelical and Catholic interpreters",
+        "explanation": "The first coming is for salvation; the second coming is for judgement. 'I did not come to judge' describes his earthly mission; 'all judgement is given to the Son' describes his role at the end.",
+        "refs": [
+          "Heb 9:28",
+          "John 5:28-29",
+          "Matt 25:31-32",
+          "Acts 17:31"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "His word judges; he judges as the Saviour",
+        "heldBy": "Some contemporary theologians, e.g. Karl Barth's 'Judge judged in our place', and restorative-justice readings",
+        "explanation": "John 12:48 says the word Jesus spoke will judge on the last day. The judge is the same one who was judged in our place, so judgement is in the hands of the one most committed to saving. Critics warn this can soften real condemnation; defenders say it shows what kind of judge he is.",
+        "refs": [
+          "John 12:48",
+          "John 5:22-24",
+          "Rom 8:34",
+          "2 Cor 5:21"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "John's Jesus contradicts himself on the most basic question of his mission.",
+      "reply": "John places these sayings close together, and in John 3 explains the link directly: rejection of the light is itself the judgement. Writers who include both, side by side, are making a point about the double effect of light, not overlooking a slip."
+    },
+    "practical": "Believers can approach Jesus without fear of condemnation, since he came to save. At the same time, his words are not optional; they are the standard by which life will be weighed.",
+    "related": [
+      "/people/jesus",
+      "/debates/hell",
+      "/debates/justice-of-god",
+      "/guides/retributive-vs-restorative-justice"
+    ]
+  },
+  {
+    "id": "faith-and-works",
+    "title": "Justified by faith, not by works, yet by works and not by faith alone",
+    "category": "Salvation",
+    "plain": "Paul says a person is justified by faith apart from works of the law. James says a person is justified by works and not by faith alone. Both use Abraham as their example, which makes the contrast sharper.",
+    "takeaway": "Paul and James both reject a dead faith and a self-earned salvation; they mostly use 'faith', 'works' and 'justify' in different senses.",
+    "poleA": {
+      "label": "By faith, not works",
+      "statement": "A person is justified by faith apart from works of the law. To the one who does not work but trusts God, faith is counted as righteousness. By grace you have been saved through faith, not by works.",
+      "refs": [
+        "Rom 3:28",
+        "Rom 4:5",
+        "Gal 2:16",
+        "Eph 2:8-9",
+        "Titus 3:5",
+        "Gen 15:6"
+      ]
+    },
+    "poleB": {
+      "label": "By works, not faith alone",
+      "statement": "A person is justified by works and not by faith alone. Faith without works is dead. Abraham was justified by works when he offered Isaac, and faith was completed by works.",
+      "refs": [
+        "Jas 2:24",
+        "Jas 2:17",
+        "Jas 2:21-23",
+        "Jas 2:26",
+        "Matt 7:21",
+        "Rom 2:6-7"
+      ]
+    },
+    "tension": "James 2:24 says 'not by faith alone', the very phrase the Reformation used to sum up Paul. Are the two apostles in conflict about how a person is put right with God?",
+    "resolutions": [
+      {
+        "name": "Different senses of the words (Protestant)",
+        "heldBy": "John Calvin, most Reformed, Lutheran and evangelical scholars (Luther himself was famously uneasy with James)",
+        "explanation": "Paul's 'works of the law' are deeds offered to earn standing with God; James's 'works' are the fruit of living faith. Paul's 'justify' means declared righteous before God; James's 'justify' means shown to be righteous, vindicated. Paul fights legalism; James fights empty profession. Faith alone saves, but the faith that saves is never alone.",
+        "refs": [
+          "Gal 5:6",
+          "Eph 2:10",
+          "Jas 2:18",
+          "Titus 3:8"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Faith formed by love (Catholic)",
+        "heldBy": "Roman Catholic Church (Council of Trent, Session 6, 1547); Thomas Aquinas",
+        "explanation": "Justification is God's work of making a person righteous, begun in baptism by grace, not earned. Saving faith is faith 'formed by love', so good works done in grace genuinely cooperate in growth in justification and merit reward, though always as God's gift. James 2:24 is read at face value; Paul excludes works done apart from grace, especially works of the Mosaic law.",
+        "refs": [
+          "Jas 2:24",
+          "Gal 5:6",
+          "1 Cor 13:2",
+          "Rom 2:6-7",
+          "Phil 2:12-13"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Synergy and theosis (Orthodox)",
+        "heldBy": "Eastern Orthodox theology",
+        "explanation": "Salvation is not mainly a legal verdict but union with God, a lifelong healing in which grace and human cooperation work together. Faith and works are not rival grounds of salvation but two sides of participating in God's life. The Western debate is seen as somewhat foreign to the categories of the Greek Fathers.",
+        "refs": [
+          "2 Pet 1:4-8",
+          "Phil 2:12-13",
+          "Jas 2:22"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "New Perspective on Paul",
+        "heldBy": "E. P. Sanders, James Dunn, N. T. Wright and others (with significant variations)",
+        "explanation": "Paul's 'works of the law' mainly means Jewish boundary markers such as circumcision, food laws and Sabbath that separated Jews from Gentiles. Paul argues Gentiles belong to God's people by faith without becoming Jews; he is not arguing against good deeds. On this reading Paul and James address different questions and do not collide.",
+        "refs": [
+          "Gal 2:11-16",
+          "Rom 3:29-30",
+          "Rom 4:9-12"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "James was written to refute Paul, and the two cannot both be inspired.",
+      "reply": "Some scholars do think James responds to a distorted form of Pauline teaching, but even they usually note that James's target, a faith that says 'be warm and filled' while ignoring the hungry, is something Paul also condemns. Paul himself insists on faith working through love and on judgement according to deeds. The vocabulary clashes; the underlying concerns overlap considerably."
+    },
+    "practical": "Christians across traditions agree that genuine faith shows itself in love and action, and that no one earns God's favour by good deeds. The disagreements are about the exact relationship, which affects how believers think about assurance and confession.",
+    "related": [
+      "/debates/soteriology",
+      "/debates/sanctification",
+      "/people/paul",
+      "/people/james-brother-of-jesus",
+      "/people/abraham"
+    ]
+  },
+  {
+    "id": "saved-already-and-not-yet",
+    "title": "Already saved, yet still to be saved",
+    "category": "Salvation",
+    "plain": "Paul tells the Ephesians 'by grace you have been saved'. He tells the Romans their salvation is nearer now than when they first believed, and the Philippians to work out their salvation with fear and trembling. Salvation is spoken of as past, present and future.",
+    "takeaway": "Salvation is a done deal, an ongoing process and a future hope all at once.",
+    "poleA": {
+      "label": "Already saved",
+      "statement": "By grace you have been saved. He saved us by the washing of regeneration. There is now no condemnation for those in Christ.",
+      "refs": [
+        "Eph 2:8",
+        "Eph 2:5",
+        "Titus 3:5",
+        "Rom 8:1",
+        "John 5:24",
+        "2 Tim 1:9"
+      ]
+    },
+    "poleB": {
+      "label": "Not yet saved",
+      "statement": "Salvation is nearer now than when we first believed. Work out your salvation with fear and trembling. In hope we were saved. We wait for the redemption of our bodies.",
+      "refs": [
+        "Rom 13:11",
+        "Phil 2:12",
+        "Rom 8:23-24",
+        "1 Pet 1:5",
+        "Heb 9:28",
+        "Rom 5:9-10"
+      ]
+    },
+    "tension": "If believers are already saved, what remains? If salvation is still future, how can they be sure they have it?",
+    "resolutions": [
+      {
+        "name": "Inaugurated eschatology: the already and the not yet",
+        "heldBy": "Widely held across traditions; associated with scholars such as Geerhardus Vos, Oscar Cullmann and George Eldon Ladd",
+        "explanation": "God's future has broken into the present in Jesus, but is not yet complete. Believers are already forgiven and given the Spirit as a down payment; they will be fully saved, bodies included, when Christ returns. Both statements are true at different points on the same timeline.",
+        "refs": [
+          "Eph 1:13-14",
+          "Rom 8:23",
+          "Phil 1:6",
+          "1 John 3:2"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Three tenses: justification, sanctification, glorification",
+        "heldBy": "Common in evangelical and Reformed teaching",
+        "explanation": "I have been saved from sin's penalty (justification), I am being saved from sin's power (sanctification), and I will be saved from sin's presence (glorification). Paul uses 'saved' for all three, which explains the different tenses.",
+        "refs": [
+          "Rom 5:1",
+          "1 Cor 1:18",
+          "2 Cor 3:18",
+          "Rom 8:30"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Salvation as a journey of healing",
+        "heldBy": "Eastern Orthodox, and Catholic and Wesleyan emphases on growth",
+        "explanation": "Salvation is a living relationship and lifelong process of healing, begun in baptism and faith, continued through perseverance, and completed at the resurrection. The 'already' is real, but it can be neglected; the 'not yet' requires ongoing cooperation with grace.",
+        "refs": [
+          "Phil 2:12-13",
+          "Phil 3:12-14",
+          "Matt 24:13",
+          "Heb 3:14"
+        ],
+        "leans": "B"
+      }
+    ],
+    "skeptic": {
+      "objection": "Christians can't decide whether they are saved or not, so they redefine 'saved' whenever it suits them.",
+      "reply": "The variation is in the texts themselves and follows a consistent pattern: the past tense refers to what God has done in Christ, the future to the resurrection and final judgement. Many future-oriented belief systems talk this way, as in 'we have won the war but the last battle is still to come'."
+    },
+    "practical": "Believers can live with settled security and with serious effort at the same time, without either complacency or anxiety. It also explains why Christian life still includes struggle.",
+    "related": [
+      "/debates/sanctification",
+      "/debates/eternal-security",
+      "/debates/heaven-new-creation",
+      "/guides/gospel-apostles-preached"
+    ]
+  },
+  {
+    "id": "election-and-evangelism",
+    "title": "God chooses, yet we must preach and persuade",
+    "category": "Salvation",
+    "plain": "Paul speaks of God choosing people before the foundation of the world, and Jesus says no one can come to him unless the Father draws them. Yet the same Paul pleads with people, travels thousands of miles and says people cannot believe unless someone preaches.",
+    "takeaway": "Scripture uses election as a reason for mission, not a reason to stop.",
+    "poleA": {
+      "label": "God chooses",
+      "statement": "He chose us in him before the foundation of the world. No one can come to me unless the Father draws him. As many as were appointed to eternal life believed.",
+      "refs": [
+        "Eph 1:4-5",
+        "John 6:44",
+        "John 6:37",
+        "Acts 13:48",
+        "Rom 8:29-30",
+        "2 Thess 2:13"
+      ]
+    },
+    "poleB": {
+      "label": "We must go and persuade",
+      "statement": "Go and make disciples of all nations. How will they believe without someone preaching? I have become all things to all people that by all means I might save some. We implore you, be reconciled to God.",
+      "refs": [
+        "Matt 28:19-20",
+        "Rom 10:13-15",
+        "1 Cor 9:22",
+        "2 Cor 5:20",
+        "Acts 18:4",
+        "Rom 10:1"
+      ]
+    },
+    "tension": "If God has already chosen who will be saved, why does evangelism matter? If it matters, does human effort decide who is saved?",
+    "resolutions": [
+      {
+        "name": "God ordains the means as well as the end",
+        "heldBy": "Reformed and Calvinist theology, e.g. Charles Spurgeon, William Carey, J. I. Packer (*Evangelism and the Sovereignty of God*)",
+        "explanation": "The God who chose people also chose to save them through the preaching of the gospel. Election guarantees that evangelism will bear fruit. Paul endures everything 'for the sake of the elect', and God tells him in Corinth to keep preaching because 'I have many people in this city'.",
+        "refs": [
+          "2 Tim 2:10",
+          "Acts 18:9-10",
+          "Rom 10:14-17",
+          "John 10:16"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Conditional or foreknown election",
+        "heldBy": "Arminian, Wesleyan and many Pentecostal and Baptist believers",
+        "explanation": "God elects those he foreknows will believe, or he elects Christ and all who are in him. Preaching gives each hearer a real opportunity to respond, so the outcome of evangelism is genuinely open. This makes urgency natural.",
+        "refs": [
+          "1 Pet 1:1-2",
+          "Rom 8:29",
+          "Eph 1:4",
+          "Acts 17:30"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Corporate and vocational election",
+        "heldBy": "Many biblical scholars (e.g. N. T. Wright), and Karl Barth in a different form",
+        "explanation": "In scripture election is often a calling to a people for the sake of others, as Abraham was chosen so that all nations would be blessed. Being chosen is not mainly about who goes to heaven but about being sent. Election and mission are then the same thing seen from two sides.",
+        "refs": [
+          "Gen 12:2-3",
+          "1 Pet 2:9",
+          "Isa 49:6",
+          "John 15:16"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "If the result is fixed, preaching is pointless theatre; if it is not, election means nothing.",
+      "reply": "Historically, many of the most active missionaries (William Carey, George Whitefield, Charles Spurgeon) held strong views of election and saw no contradiction, because they believed God works through means. Arminians reach the same urgency by a different route. Whatever one thinks of each system, both lead to mission in practice."
+    },
+    "practical": "Christians share their faith with confidence that results rest with God and with seriousness that their witness matters. Election, rightly held, removes both pride when people respond and despair when they do not.",
+    "related": [
+      "/debates/soteriology",
+      "/guides/calvinism-in-depth",
+      "/people/paul",
+      "/guides/gospel-apostles-preached"
+    ]
+  },
+  {
+    "id": "eternal-security-and-warnings",
+    "title": "Kept secure, yet warned against falling away",
+    "category": "Salvation",
+    "plain": "Jesus says no one will snatch his sheep from his hand, and Paul says nothing can separate believers from God's love. Yet Hebrews warns that those who have tasted the heavenly gift and fall away cannot be restored, and Paul tells believers to continue in the faith if they are to be presented holy.",
+    "takeaway": "Scripture gives believers deep assurance and serious warnings, and traditions explain how both function differently.",
+    "poleA": {
+      "label": "Secure",
+      "statement": "No one will snatch them out of my hand. Nothing can separate us from the love of God. He who began a good work will complete it. You are guarded by God's power.",
+      "refs": [
+        "John 10:28-29",
+        "Rom 8:38-39",
+        "Phil 1:6",
+        "1 Pet 1:5",
+        "Jude 1:24",
+        "John 6:39"
+      ]
+    },
+    "poleB": {
+      "label": "Warned",
+      "statement": "It is impossible to restore those who have tasted the heavenly gift and then fallen away. If we go on sinning deliberately, no sacrifice remains. You will be presented holy, if you continue in the faith.",
+      "refs": [
+        "Heb 6:4-6",
+        "Heb 10:26-27",
+        "Col 1:22-23",
+        "Heb 3:12-14",
+        "John 15:6",
+        "1 Cor 9:27"
+      ]
+    },
+    "tension": "If true believers cannot be lost, why warn them? If they can be lost, how can they be assured?",
+    "resolutions": [
+      {
+        "name": "Perseverance of the saints: warnings are means",
+        "heldBy": "Reformed theology, e.g. John Calvin, Thomas Schreiner and Ardel Caneday (*The Race Set Before Us*)",
+        "explanation": "True believers will persevere, and God uses the warnings as one of the means by which they persevere, like a sign at a cliff edge that keeps a driver on the road. Those who finally fall away show they never truly belonged.",
+        "refs": [
+          "1 John 2:19",
+          "Phil 2:12-13",
+          "Heb 6:9",
+          "John 10:28"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Conditional security",
+        "heldBy": "Arminian, Wesleyan, many Pentecostal and Holiness churches; Catholic and Orthodox in their own terms",
+        "explanation": "Believers are secure in Christ as long as they remain in him by faith. No outside power can snatch them, but they can freely walk away. The warnings describe a real danger for real believers, and assurance rests on present trust, not a past decision.",
+        "refs": [
+          "Heb 6:4-6",
+          "Col 1:23",
+          "John 15:6",
+          "Jude 1:21"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Once saved, always saved (Free Grace)",
+        "heldBy": "Some Baptists and dispensationalists, e.g. Zane Hodges, Charles Ryrie in a moderate form",
+        "explanation": "Anyone who has truly believed is eternally secure even if they later stop believing. The warnings concern loss of rewards, discipline or fruitfulness, not loss of salvation. Critics say this undercuts holiness; defenders say it alone preserves grace as unconditional.",
+        "refs": [
+          "John 5:24",
+          "1 Cor 3:15",
+          "Eph 1:13-14",
+          "2 Tim 2:13"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Hypothetical warnings",
+        "heldBy": "Some Reformed and evangelical interpreters",
+        "explanation": "Hebrews 6 describes what would happen if a believer could fall away, to show how serious apostasy is, while the writer is confident of 'better things' for his readers. Critics regard this as weakening a real warning.",
+        "refs": [
+          "Heb 6:9",
+          "Heb 6:4-6",
+          "Heb 10:39"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "Each side simply ignores the other half of the texts. The Bible doesn't have a consistent position.",
+      "reply": "Each tradition offers an account of both sets of texts, not just one. Hebrews itself combines the strongest warning with 'we are confident of better things in your case', which suggests the writer saw both as working together. Whether one tradition's account is better is a fair debate."
+    },
+    "practical": "Believers can rest in God's keeping while taking spiritual drift seriously. Pastorally, assurance is offered to the anxious and warnings to the complacent.",
+    "related": [
+      "/debates/eternal-security",
+      "/debates/soteriology",
+      "/guides/calvinism-in-depth",
+      "/debates/sanctification"
+    ]
+  },
+  {
+    "id": "grace-free-yet-costly",
+    "title": "Grace is free, yet discipleship costs everything",
+    "category": "Salvation",
+    "plain": "Isaiah invites people to come and buy without money and without price, and Revelation ends with 'take the water of life without price'. Jesus says whoever does not renounce all that he has cannot be his disciple.",
+    "takeaway": "Grace cannot be bought, but receiving it means giving one's whole life to the giver.",
+    "poleA": {
+      "label": "Free",
+      "statement": "Come, buy wine and milk without money and without price. The free gift of God is eternal life. Justified freely by his grace. Let the one who desires take the water of life without price.",
+      "refs": [
+        "Isa 55:1",
+        "Rom 6:23",
+        "Rom 3:24",
+        "Rev 22:17",
+        "Eph 2:8-9"
+      ]
+    },
+    "poleB": {
+      "label": "Costly",
+      "statement": "Any of you who does not renounce all that he has cannot be my disciple. Count the cost. Take up your cross daily. The kingdom is like a man who sells everything to buy a field.",
+      "refs": [
+        "Luke 14:33",
+        "Luke 14:26-28",
+        "Luke 9:23",
+        "Matt 13:44-46",
+        "Matt 16:24-25",
+        "Phil 3:7-8"
+      ]
+    },
+    "tension": "If grace is free, why does Jesus demand everything? If it costs everything, how is it free?",
+    "resolutions": [
+      {
+        "name": "Cheap grace versus costly grace",
+        "heldBy": "Dietrich Bonhoeffer (*The Cost of Discipleship*), and widely adopted across traditions",
+        "explanation": "Bonhoeffer called forgiveness without repentance or discipleship 'cheap grace'. Real grace is free because nothing we pay earns it, and costly because it cost God his Son and because it calls us to follow. The cost is not the price of grace but the shape of a life that has received it.",
+        "refs": [
+          "1 Cor 6:20",
+          "Luke 9:23",
+          "Rom 6:1-4",
+          "Titus 2:11-12"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "Lordship salvation",
+        "heldBy": "John MacArthur and many Reformed evangelicals",
+        "explanation": "Saving faith includes submission to Jesus as Lord. One cannot receive him as Saviour while refusing him as Lord. This is not works earning salvation, but the nature of the faith that saves.",
+        "refs": [
+          "Rom 10:9",
+          "Luke 14:33",
+          "Matt 7:21",
+          "Jas 2:17"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Free Grace: salvation free, discipleship a second step",
+        "heldBy": "Zane Hodges, Charles Ryrie and the Free Grace movement",
+        "explanation": "Eternal life is received by believing alone; the costly demands of Luke 14 describe discipleship, a further commitment open to believers. This keeps grace entirely free; critics say it splits what Jesus joins.",
+        "refs": [
+          "John 3:16",
+          "Rev 22:17",
+          "Isa 55:1",
+          "Rom 4:5"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "The treasure analogy",
+        "heldBy": "Many interpreters, from patristic to modern",
+        "explanation": "In Jesus' parable, the man sells everything 'in his joy'. The cost is not felt as a fee but as the obvious response to something far more valuable. Free and costly meet in the experience of finding something worth more than everything.",
+        "refs": [
+          "Matt 13:44",
+          "Phil 3:8",
+          "Ps 16:11"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "Calling something free and then demanding everything is a bait-and-switch.",
+      "reply": "Jesus does the opposite of hiding the cost: in Luke 14 he tells crowds to sit down and count it before following. The offer is free in that no one can pay for it, and the cost is stated openly as what following involves. Many relationships, such as marriage, work like this: love is given, not bought, but receiving it reorders a whole life."
+    },
+    "practical": "Christians are freed from trying to earn God's favour and called to hold nothing back from him. The paradox guards against both legalism and casual, cost-free religion.",
+    "related": [
+      "/debates/soteriology",
+      "/debates/sanctification",
+      "/guides/gospel-jesus-preached",
+      "/guides/holiness-and-sin-in-preaching"
+    ]
+  },
+  {
+    "id": "law-abolished-and-fulfilled",
+    "title": "The law abolished, yet not abolished but fulfilled",
+    "category": "Salvation",
+    "plain": "Ephesians says Christ abolished the law of commandments in his flesh. In the Sermon on the Mount Jesus says he did not come to abolish the law but to fulfil it, and not one dot will pass away. Christians have argued about which parts of the Old Testament law still apply ever since.",
+    "takeaway": "Christ ends the law as a dividing wall and a covenant, while fulfilling and carrying forward its deepest purpose.",
+    "poleA": {
+      "label": "Abolished",
+      "statement": "He abolished the law of commandments and ordinances. Christ is the end of the law. We are no longer under a guardian. The first covenant is obsolete.",
+      "refs": [
+        "Eph 2:15",
+        "Rom 10:4",
+        "Gal 3:24-25",
+        "Heb 8:13",
+        "Rom 7:6",
+        "Col 2:14"
+      ]
+    },
+    "poleB": {
+      "label": "Fulfilled, not abolished",
+      "statement": "I have not come to abolish the Law or the Prophets but to fulfil them. Not an iota will pass from the law until all is accomplished. Do we overthrow the law by faith? By no means; we uphold it.",
+      "refs": [
+        "Matt 5:17-18",
+        "Rom 3:31",
+        "Rom 8:4",
+        "Rom 13:8-10",
+        "Jer 31:33"
+      ]
+    },
+    "tension": "Jesus says he did not abolish the law; Ephesians says he did. Should Christians keep the Old Testament law or not?",
+    "resolutions": [
+      {
+        "name": "Threefold division of the law",
+        "heldBy": "Thomas Aquinas, John Calvin, the Westminster Confession (ch. 19), much Reformed and Catholic teaching",
+        "explanation": "The law has moral, ceremonial and civil parts. Ceremonial laws (sacrifices, purity) are fulfilled and ended in Christ; Israel's civil laws ended with Israel's national covenant; moral law (summed up in the Ten Commandments) still binds. Critics note that the Bible does not label laws this way; defenders say the categories are implied by the New Testament's own handling.",
+        "refs": [
+          "Heb 10:1-10",
+          "Mark 7:19",
+          "Rom 13:8-10",
+          "Matt 22:37-40"
+        ],
+        "leans": "both"
+      },
+      {
+        "name": "New Covenant Theology and Lutheran law-gospel",
+        "heldBy": "New Covenant Theology (e.g. Tom Schreiner, Douglas Moo), Lutheran theology, many dispensationalists",
+        "explanation": "The whole Mosaic covenant has ended as a covenant; Christians are under 'the law of Christ'. Old Testament laws apply only as they are taken up in Christ's teaching and the apostles'. 'Fulfil' means Jesus brings the law to its goal, which changes its role.",
+        "refs": [
+          "Gal 6:2",
+          "1 Cor 9:20-21",
+          "Heb 7:12",
+          "Rom 10:4"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Torah-observant readings",
+        "heldBy": "Messianic Jewish theology (in varied forms), some Hebrew Roots groups, and some scholars of the 'Paul within Judaism' school",
+        "explanation": "Jesus and the first Jewish believers kept the Torah, and Ephesians refers to the wall of hostility between Jew and Gentile, not to the commandments as such. Jewish believers may continue Torah observance as covenant faithfulness, while Gentiles are not required to (Acts 15). Critics say this divides the church; defenders say it respects Israel's calling.",
+        "refs": [
+          "Acts 15:19-20",
+          "Acts 21:20-26",
+          "Eph 2:14",
+          "Matt 5:19"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Fulfilment as completion",
+        "heldBy": "Many New Testament scholars across traditions",
+        "explanation": "Jesus fulfils the law as a destination fulfils a road: everything it pointed to, such as sacrifice, priesthood and temple, is realized in him. Once fulfilled, the pointers change role. Both Matthew and Ephesians are then speaking of one event from different angles.",
+        "refs": [
+          "Matt 5:17",
+          "Col 2:16-17",
+          "Heb 10:1",
+          "Luke 24:44"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "Christians pick and choose which laws to keep, enforcing some and ignoring others with no consistent principle.",
+      "reply": "Christians do disagree, and some applications have been inconsistent. But every major tradition has an explicit principle for which laws continue and why, drawn from the New Testament, which already sets aside food laws and circumcision for Gentile believers while affirming love of neighbour. The charge is fair as a challenge to apply one's principle consistently."
+    },
+    "practical": "Christians read the Old Testament law as God's word that reveals his character and points to Christ, without making Mosaic ritual the way to belong to God. The love commands remain the heart of it.",
+    "related": [
+      "/debates/israel-and-church",
+      "/debates/christocentric-hermeneutic",
+      "/guides/jesus-perfect-theology-vs-literal",
+      "/people/paul"
+    ]
+  },
+  {
+    "id": "all-saved-texts-and-judgment-texts",
+    "title": "Texts that sound like all will be saved, and texts of final judgement",
+    "category": "Salvation",
+    "plain": "Some verses say in Christ all will be made alive, God will reconcile all things, and every knee will bow and tongue confess. Others speak of eternal punishment, a narrow way that few find, and a second death. Readers have taken these texts in very different directions.",
+    "takeaway": "Scripture holds out a cosmic hope and a serious judgement; Christians disagree about how far that hope reaches.",
+    "poleA": {
+      "label": "All texts",
+      "statement": "As in Adam all die, so in Christ all will be made alive. Through him God reconciles all things. Every knee will bow and every tongue confess Jesus is Lord. God has consigned all to disobedience that he may have mercy on all.",
+      "refs": [
+        "1 Cor 15:22",
+        "Col 1:20",
+        "Phil 2:10-11",
+        "Rom 11:32",
+        "Rom 5:18",
+        "1 Tim 4:10",
+        "1 Cor 15:28"
+      ]
+    },
+    "poleB": {
+      "label": "Judgement texts",
+      "statement": "They will go away into eternal punishment. Narrow is the way and few find it. They will suffer the punishment of eternal destruction. Whoever was not found in the book of life was thrown into the lake of fire.",
+      "refs": [
+        "Matt 25:46",
+        "Matt 7:13-14",
+        "2 Thess 1:9",
+        "Rev 20:15",
+        "John 3:36",
+        "Dan 12:2"
+      ]
+    },
+    "tension": "If 'all' means everyone, how can some face eternal punishment? If some face eternal punishment, what do the 'all' texts mean?",
+    "resolutions": [
+      {
+        "name": "Eternal conscious punishment",
+        "heldBy": "Majority position in Catholic, Orthodox (in its own nuances) and Protestant history; Augustine, Aquinas, Calvin, Jonathan Edwards",
+        "explanation": "The 'all' texts refer to all kinds of people, all who are in Christ, or every being's acknowledgement of Christ's lordship, willing or not. Judgement texts describe a final, everlasting separation. Matthew 25:46 uses the same word 'eternal' for life and punishment.",
+        "refs": [
+          "Matt 25:46",
+          "Rev 14:11",
+          "Mark 9:43-48",
+          "Phil 2:10-11"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Conditional immortality (annihilationism)",
+        "heldBy": "John Stott (tentatively), Edward Fudge, Clark Pinnock, Seventh-day Adventists, and a growing number of evangelicals",
+        "explanation": "Immortality is God's gift to the saved. The unrepentant are finally destroyed, which is eternal in its result. Then God will be 'all in all' with no rebellion left, which also accounts for the 'all things reconciled' texts.",
+        "refs": [
+          "2 Thess 1:9",
+          "Matt 10:28",
+          "Rom 6:23",
+          "1 Cor 15:28",
+          "Mal 4:1-3"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Christian universalism (restoration of all things)",
+        "heldBy": "Origen (as commonly understood), Gregory of Nyssa, George MacDonald, and modern writers such as Thomas Talbott and David Bentley Hart",
+        "explanation": "Judgement is real and may be long and severe, but it is corrective, and in the end all will be reconciled to God. The Greek 'aionios' can mean 'of the age to come' rather than endless. 'All' means all, and God's love does not finally fail.",
+        "refs": [
+          "Col 1:20",
+          "Rom 5:18",
+          "1 Cor 15:22",
+          "Acts 3:21",
+          "1 Tim 2:4"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Hopeful universalism",
+        "heldBy": "Hans Urs von Balthasar, Karl Barth (as often read), and some contemporary theologians",
+        "explanation": "We cannot say all will be saved, but we may pray and hope that hell is finally empty. Both sets of texts are left standing without forcing a conclusion either way.",
+        "refs": [
+          "1 Tim 2:1-4",
+          "Rom 11:32-33",
+          "Matt 25:46"
+        ],
+        "leans": "both"
+      }
+    ],
+    "skeptic": {
+      "objection": "The Bible is simply inconsistent about final destiny; different authors had different beliefs.",
+      "reply": "Some scholars do read the New Testament as containing diverse eschatologies. But the strongest 'all' texts and strong judgement texts often appear in the same author: Paul writes both 1 Corinthians 15:22 and 2 Thessalonians 1:9. That suggests at least the authors themselves did not see them as contradictory, though how they fit is genuinely debated."
+    },
+    "practical": "All views take sin and judgement seriously and hope in God's justice and mercy. The disagreement affects how people preach, how urgently they evangelize, and how they grieve for those who die without faith.",
+    "related": [
+      "/debates/hell",
+      "/guides/restoration-of-all-things",
+      "/guides/heaven-and-hell-explained",
+      "/guides/early-church-afterlife",
+      "/debates/justice-of-god"
+    ]
+  },
+  {
+    "id": "god-desires-all-yet-not-all-saved",
+    "title": "God wants all to be saved, yet not all are saved",
+    "category": "Salvation",
+    "plain": "Paul says God desires all people to be saved, and Peter says God is not willing that any should perish. Ezekiel says God takes no pleasure in the death of the wicked. Yet scripture also says many walk the broad road to destruction.",
+    "takeaway": "If God wills all to be saved and not all are, then either God's will has layers or people can resist it; traditions choose different explanations.",
+    "poleA": {
+      "label": "God desires all",
+      "statement": "God desires all people to be saved. He is not willing that any should perish but that all should reach repentance. I have no pleasure in the death of the wicked. How often I would have gathered your children.",
+      "refs": [
+        "1 Tim 2:4",
+        "2 Pet 3:9",
+        "Ezek 18:23",
+        "Ezek 33:11",
+        "Matt 23:37",
+        "John 3:16"
+      ]
+    },
+    "poleB": {
+      "label": "Not all are saved",
+      "statement": "Wide is the gate that leads to destruction, and many enter it. Many are called but few are chosen. You refuse to come to me that you may have life.",
+      "refs": [
+        "Matt 7:13-14",
+        "Matt 22:14",
+        "John 5:40",
+        "Rom 9:18",
+        "Matt 25:41"
+      ]
+    },
+    "tension": "If an all-powerful God wants all to be saved, why are some lost? Either God does not really want it, or he cannot achieve what he wants.",
+    "resolutions": [
+      {
+        "name": "God honours human freedom",
+        "heldBy": "Arminian, Wesleyan, Catholic and Orthodox traditions; C. S. Lewis (*The Great Divorce*)",
+        "explanation": "God truly desires everyone's salvation but will not force love. He gives grace to all, and some refuse. The 'doors of hell are locked from the inside'. Jesus' lament over Jerusalem shows God's will being resisted by people's 'you were not willing'.",
+        "refs": [
+          "Matt 23:37",
+          "John 5:40",
+          "Acts 7:51",
+          "Titus 2:11"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Two wills in God",
+        "heldBy": "Reformed theology, e.g. John Calvin, John Piper ('Are There Two Wills in God?')",
+        "explanation": "God's revealed will (what he commands and delights in) is that all repent; his decretive will (what he ordains to happen) includes that not all are saved, for reasons of his own glory and justice. God can truly lament a thing he permits for a greater purpose, as a judge can grieve the sentence he passes.",
+        "refs": [
+          "Deut 29:29",
+          "Rom 9:18-22",
+          "Ezek 18:23",
+          "Eph 1:11"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "'All' means all kinds",
+        "heldBy": "Some Reformed interpreters (e.g. John Owen on 2 Peter 3:9)",
+        "explanation": "In 1 Timothy 2 'all people' is linked to prayer for kings and those in authority, meaning all kinds of people, not every individual. 2 Peter 3:9 may refer to 'you', the believing readers. Critics find this narrowing unconvincing in Ezekiel 18 and 33.",
+        "refs": [
+          "1 Tim 2:1-4",
+          "2 Pet 3:9",
+          "Rev 5:9"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "God's desire will finally be fulfilled",
+        "heldBy": "Christian universalists (see the related paradox), e.g. Thomas Talbott",
+        "explanation": "God's desire that all be saved will not ultimately fail; 'not all are saved' describes the present or the age to come, not the final end. Critics say this does not do justice to the finality of judgement texts.",
+        "refs": [
+          "1 Tim 2:4",
+          "1 Tim 4:10",
+          "1 Cor 15:28",
+          "Rom 11:32"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "A God who wants everyone saved but lets many be lost is either weak or insincere.",
+      "reply": "Each Christian answer meets this differently: free-will views say a world with real love requires the possibility of refusal; Reformed views say God has a purpose behind permitting what he does not delight in; universalists say God's desire will be met. The objection presses each view hard, which is why the debate continues, but each has a coherent account."
+    },
+    "practical": "Christians pray for everyone, including rulers, because God desires all to be saved. It grounds the conviction that no one is beyond God's love or prayer.",
+    "related": [
+      "/debates/soteriology",
+      "/guides/calvinism-in-depth",
+      "/debates/hell",
+      "/guides/restoration-of-all-things",
+      "/debates/justice-of-god"
+    ]
+  },
+  {
+    "id": "forgiven-yet-must-forgive",
+    "title": "Freely forgiven, yet forgiven only if we forgive",
+    "category": "Salvation",
+    "plain": "The New Testament says forgiveness is a free gift through Christ's blood. Yet Jesus says that if you do not forgive others, your Father will not forgive you. The parable of the unforgiving servant ends with a forgiven man thrown into prison for refusing to forgive.",
+    "takeaway": "God's forgiveness is not earned by forgiving others, but a heart that refuses to forgive shows it has not truly received God's forgiveness.",
+    "poleA": {
+      "label": "Freely forgiven",
+      "statement": "In him we have forgiveness according to the riches of his grace. While we were still sinners Christ died for us. If we confess, he is faithful to forgive.",
+      "refs": [
+        "Eph 1:7",
+        "Rom 5:8",
+        "1 John 1:9",
+        "Col 2:13",
+        "Ps 103:12"
+      ]
+    },
+    "poleB": {
+      "label": "Forgiven if you forgive",
+      "statement": "If you do not forgive others their trespasses, neither will your Father forgive yours. Forgive, and you will be forgiven. Judgement is without mercy to one who has shown no mercy.",
+      "refs": [
+        "Matt 6:15",
+        "Matt 6:12",
+        "Mark 11:25",
+        "Luke 6:37",
+        "Jas 2:13",
+        "Matt 18:32-35"
+      ]
+    },
+    "tension": "If forgiveness is a gift, how can it depend on our forgiving others? Doesn't that make our forgiveness a work that earns God's?",
+    "resolutions": [
+      {
+        "name": "Forgiving as evidence of being forgiven",
+        "heldBy": "Most Protestant interpreters; also Augustine",
+        "explanation": "In the parable of the unforgiving servant the master forgives first, freely. The servant's refusal to forgive shows he has not grasped or received that mercy. Forgiving others is not the price of forgiveness but its natural overflow, and its absence reveals a heart closed to grace.",
+        "refs": [
+          "Matt 18:23-35",
+          "Eph 4:32",
+          "Col 3:13",
+          "Luke 7:47"
+        ],
+        "leans": "A"
+      },
+      {
+        "name": "Ongoing relationship and forgiveness",
+        "heldBy": "Catholic and Orthodox teaching; many Wesleyan writers",
+        "explanation": "Forgiveness is not only a once-for-all verdict but an ongoing relationship. A person who hardens their heart against others closes themselves to God's continuing mercy, and can lose what they were given, as the parable shows. Hence the daily prayer 'forgive us as we forgive'.",
+        "refs": [
+          "Matt 6:12",
+          "Matt 6:14-15",
+          "Matt 18:34-35",
+          "Jas 2:13"
+        ],
+        "leans": "B"
+      },
+      {
+        "name": "Kingdom-ethics reading",
+        "heldBy": "Some dispensationalists and others",
+        "explanation": "Some read Matthew 6:15 as about fellowship and discipline among believers, not eternal salvation: an unforgiving believer forfeits close fellowship with the Father. Critics say this softens Jesus' direct warning.",
+        "refs": [
+          "Matt 6:14-15",
+          "1 John 1:6-7",
+          "Heb 12:6"
+        ],
+        "leans": "A"
+      }
+    ],
+    "skeptic": {
+      "objection": "So Christian forgiveness is conditional after all. Grace is free only until you fail to forgive someone.",
+      "reply": "The texts present a condition, but not a payment: one does not earn mercy by forgiving, any more than a person earns a gift by opening their hands. The point of the parable is that mercy received and mercy refused cannot coexist in the same heart. Different traditions disagree about whether failure here forfeits salvation or reveals its absence."
+    },
+    "practical": "Christians are taught to forgive not as a way to earn God's favour but as a response to it, and to see bitterness as spiritually dangerous. Forgiveness does not mean pretending wrong did not happen or removing every consequence.",
+    "related": [
+      "/debates/soteriology",
+      "/debates/sanctification",
+      "/guides/retributive-vs-restorative-justice",
+      "/people/peter"
+    ]
+  }
+]
