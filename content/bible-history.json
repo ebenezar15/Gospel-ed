@@ -1,0 +1,2512 @@
+{
+  "milestones": [
+    {
+      "id": "oral-tradition",
+      "year": -1800,
+      "endYear": -900,
+      "title": "Stories, songs and laws passed on by memory",
+      "kind": "oral",
+      "place": "Ancient Israel and its ancestors",
+      "summary": "Before most of the Bible was written, much of its material was carried by memory: family stories, songs, genealogies, laws and sayings, retold at festivals, in homes and at shrines.",
+      "details": "The Bible itself shows a world where speech and memory carried tradition. Parents are told to teach the commandments to their children and talk about them at home and on the road. Songs like the Song of Moses and the Song of Deborah have very old poetic forms, and many scholars think they circulated orally before being written down.\n\nThe Bible also mentions writing very early: Moses is told to write a record, and Joshua writes words in a book of the law. So the picture is not 'oral first, writing later' in a neat line, but oral and written tradition existing side by side for centuries.\n\nHow long and how exactly this material was passed on is debated. Traditional Jewish and Christian views hold that Moses wrote the Torah substantially himself; many critical scholars see a longer process of oral and written sources gathered over centuries. The dates here are only a broad frame.",
+      "refs": [
+        "Deut 6:6-9",
+        "Exod 17:14",
+        "Exod 15:1-18",
+        "Judg 5:1-31",
+        "Josh 24:26",
+        "Ps 78:1-7"
+      ],
+      "sources": [
+        {
+          "author": "Karel van der Toorn",
+          "title": "Scribal Culture and the Making of the Hebrew Bible",
+          "year": 2007
+        },
+        {
+          "author": "David M. Carr",
+          "title": "Writing on the Tablet of the Heart: Origins of Scripture and Literature",
+          "year": 2005
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "gezer-calendar",
+      "year": -925,
+      "title": "The Gezer calendar: early Hebrew-region writing",
+      "kind": "writing",
+      "place": "Gezer, Israel",
+      "summary": "A small limestone tablet listing the farming seasons, dated to the 10th century BC, shows that alphabetic writing was in use in the land around the time of the early Israelite kings.",
+      "details": "The tablet was found in 1908 by the archaeologist R. A. S. Macalister. It lists months by farm work: harvesting, sowing, cutting flax, harvesting barley and so on. It may be a schoolboy's writing exercise or a memory rhyme.\n\nScholars debate whether its language is early Hebrew or a closely related Canaanite dialect, and whether the script should be called Phoenician or Paleo-Hebrew. Either way, it shows simple alphabetic writing was practised in the region in roughly the era the Bible assigns to David and Solomon. It does not quote any biblical text.",
+      "refs": [
+        "1 Kgs 9:15-17"
+      ],
+      "sources": [
+        {
+          "author": "Christopher A. Rollston",
+          "title": "Writing and Literacy in the World of Ancient Israel",
+          "year": 2010
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "eighth-century-prophets-written",
+      "year": -750,
+      "endYear": -700,
+      "title": "Prophets' words begin to be written down",
+      "kind": "writing",
+      "place": "Israel and Judah",
+      "summary": "Prophets such as Amos, Hosea, Isaiah and Micah spoke in the 8th century BC, and their words began to be gathered in writing, sometimes on the prophet's own instruction.",
+      "details": "Isaiah is told to write on a large tablet and to 'bind up the testimony' among his disciples, showing a circle of followers keeping his words. A century later Jeremiah dictates his prophecies to the scribe Baruch; when King Jehoiakim burns the scroll, Jeremiah dictates it again with additions. That story is one of the clearest pictures in the Bible of how a book could be written, lost, rewritten and expanded.\n\nScholars agree that prophetic books were collected and edited over time; they differ on how much later material was added (for example in the debate over the later chapters of Isaiah).",
+      "refs": [
+        "Isa 8:1",
+        "Isa 8:16",
+        "Isa 30:8",
+        "Jer 36:1-32",
+        "Hab 2:2"
+      ],
+      "sources": [
+        {
+          "author": "Karel van der Toorn",
+          "title": "Scribal Culture and the Making of the Hebrew Bible",
+          "year": 2007
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "hezekiah-scribes",
+      "year": -700,
+      "title": "Hezekiah's men copy Solomon's proverbs",
+      "kind": "writing",
+      "place": "Jerusalem",
+      "summary": "The book of Proverbs says officials of King Hezekiah copied out a further collection of Solomon's proverbs, a rare biblical note about editors at work.",
+      "details": "Proverbs is openly a collection of collections: sayings of Solomon, 'words of the wise', the words of Agur, the words of King Lemuel. The heading in Proverbs 25 says Hezekiah's men 'copied' or 'transcribed' the following proverbs. Many historians think Hezekiah's reign (late 8th century BC) was a period of increased writing and literacy in Judah, partly on the evidence of inscriptions such as the Siloam tunnel inscription.",
+      "refs": [
+        "Prov 25:1",
+        "Prov 30:1",
+        "Prov 31:1",
+        "2 Kgs 20:20"
+      ],
+      "sources": [],
+      "confidence": "biblical"
+    },
+    {
+      "id": "josiah-book-of-law",
+      "year": -622,
+      "title": "Josiah's 'book of the law' found in the temple",
+      "kind": "canon",
+      "place": "Jerusalem temple",
+      "summary": "During temple repairs under King Josiah, the high priest Hilkiah found 'the book of the law'. Its reading led to sweeping religious reform.",
+      "details": "Kings and Chronicles tell how the scroll was read to Josiah, who tore his clothes in grief, consulted the prophetess Huldah, read the book to the people, renewed the covenant and kept a great Passover.\n\nWhat was the book? Since the early church (Jerome and others) many have linked it with Deuteronomy, because Josiah's reforms (one central place of worship, removal of idols, Passover in Jerusalem) match Deuteronomy's commands closely. Traditional readers see it as a lost copy of the Mosaic law rediscovered; many critical scholars think Deuteronomy, at least in its core, was composed or edited not long before and 'found' as a reform document. Both groups agree the event shows a written book carrying authority over king and people.",
+      "refs": [
+        "2 Kgs 22:8-20",
+        "2 Kgs 23:1-25",
+        "2 Chr 34:14-33",
+        "Deut 12:1-14"
+      ],
+      "sources": [
+        {
+          "author": "Jerome",
+          "title": "Commentary on Ezekiel",
+          "locator": "on Ezek 1:1",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "ketef-hinnom",
+      "year": -600,
+      "title": "Ketef Hinnom silver scrolls carry the priestly blessing",
+      "kind": "manuscript",
+      "place": "Ketef Hinnom, Jerusalem",
+      "summary": "Two tiny rolled silver amulets from a burial cave in Jerusalem contain a form of the priestly blessing from Numbers 6, the oldest known text closely matching a biblical passage.",
+      "details": "Gabriel Barkay's team found the amulets in 1979. Unrolling and reading them took years; a high-resolution re-study published in 2004 confirmed a late 7th or early 6th century BC date, around the time of Jeremiah and just before the Babylonian exile.\n\nThe text is close to 'The LORD bless you and keep you; the LORD make his face shine upon you... and give you peace', though shorter than the full Numbers form. They were worn as protective charms, which also tells us how ordinary people used sacred words. They do not prove when the book of Numbers as a whole was finished, but they show this blessing was already known and written before the exile.",
+      "refs": [
+        "Num 6:24-26"
+      ],
+      "sources": [
+        {
+          "author": "Gabriel Barkay, Andrew G. Vaughn, Marilyn J. Lundberg, Bruce Zuckerman",
+          "title": "The Amulets from Ketef Hinnom: A New Edition and Evaluation",
+          "year": 2004,
+          "locator": "Bulletin of the American Schools of Oriental Research 334"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "exile-collecting",
+      "year": -586,
+      "endYear": -539,
+      "title": "Exile: preserving Israel's writings in Babylon",
+      "kind": "writing",
+      "place": "Babylon",
+      "summary": "After Jerusalem fell in 586 BC, exiled scribes and priests in Babylon kept and edited Israel's histories, laws, psalms and prophecies.",
+      "details": "Many scholars think the exile was a key period for gathering Israel's traditions, since the temple was gone and the written word became the centre of identity. Ezekiel prophesied among the exiles, Daniel is said to have read Jeremiah's scroll, and Psalm 137 voices exile grief.\n\nHow much was written versus edited in this time is debated. Traditional views stress preservation of older texts; critical views often place major editing (for example of the books from Joshua to Kings) in or around this period.",
+      "refs": [
+        "Ezek 1:1-3",
+        "Dan 9:2",
+        "Ps 137:1-6",
+        "2 Kgs 25:27-30"
+      ],
+      "sources": [],
+      "confidence": "debated"
+    },
+    {
+      "id": "ezra-reads-law",
+      "year": -445,
+      "title": "Ezra reads the law to the people",
+      "kind": "canon",
+      "place": "Jerusalem, Water Gate square",
+      "summary": "Ezra the scribe read the book of the law of Moses aloud from morning to midday while Levites helped the people understand it, a founding scene for public Bible reading and teaching.",
+      "details": "Ezra is described as a scribe skilled in the law of Moses who set his heart to study, do and teach it. In Nehemiah 8 the law is read from a wooden platform, the people stand, and Levites 'give the sense' so the people understand, which some see as an early form of translation or explanation into Aramaic.\n\nJewish tradition later credited Ezra and the 'men of the Great Assembly' with major roles in arranging the scriptures, and some ancient writers even said Ezra restored lost books (a legend in the non-canonical book 2 Esdras 14). Historians treat these later stories with caution, but agree that by Ezra's time the Torah functioned as written, public authority. The exact date (458 or 445 BC, or later) depends on how one dates Ezra relative to Nehemiah.",
+      "refs": [
+        "Ezra 7:6",
+        "Ezra 7:10",
+        "Neh 8:1-8"
+      ],
+      "sources": [
+        {
+          "author": "Babylonian Talmud",
+          "title": "Bava Batra",
+          "locator": "14b-15a"
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "septuagint",
+      "year": -250,
+      "endYear": -100,
+      "title": "The Septuagint: the Hebrew Scriptures in Greek",
+      "kind": "translation",
+      "place": "Alexandria, Egypt",
+      "summary": "Greek-speaking Jews in Alexandria translated the Torah into Greek in the 3rd century BC; the rest of the books followed over the next two centuries. This 'Septuagint' became the Bible of most early Christians.",
+      "details": "The name means 'seventy' (shortened LXX) from a legend in the *Letter of Aristeas*: King Ptolemy II asked for the Jewish law for his library, and 72 elders from Jerusalem translated it in 72 days with perfect agreement. Later writers (Philo, then Christian authors) embellished this into separate cells producing identical translations.\n\nHistorians treat the letter as a legend written to give the translation authority. What is solid: the Torah was translated in Alexandria around the mid-3rd century BC, probably mainly for Greek-speaking Jews who no longer read Hebrew well; other books were translated by different people, in different styles, over a long period.\n\nThe Septuagint matters because the New Testament writers often quote it, because it sometimes reflects a Hebrew text different from the later standard (as the Dead Sea Scrolls confirmed), and because it includes extra books (the deuterocanon or Apocrypha) that shaped the later canon debates.",
+      "refs": [
+        "Matt 1:23",
+        "Isa 7:14",
+        "Heb 10:5-7",
+        "Ps 40:6-8"
+      ],
+      "sources": [
+        {
+          "author": "Karen H. Jobes and Moisés Silva",
+          "title": "Invitation to the Septuagint",
+          "year": 2000
+        },
+        {
+          "author": "Anonymous",
+          "title": "Letter of Aristeas",
+          "locator": "sections 301-311"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "dead-sea-scrolls-copied",
+      "year": -250,
+      "endYear": 68,
+      "title": "Dead Sea Scrolls copied",
+      "kind": "manuscript",
+      "place": "Qumran and the Judean desert",
+      "summary": "Between about 250 BC and AD 68, scribes copied the scrolls later hidden in caves near Qumran, including more than 200 manuscripts of biblical books.",
+      "details": "The Qumran collection holds roughly 900 or more manuscripts in fragments. About a quarter are copies of books in the Hebrew Bible; every book except Esther is represented at least by fragments. There are also commentaries, rules for a community, hymns and other writings.\n\nThe scrolls show that in the late Second Temple period several forms of the Hebrew text circulated side by side: some very close to the later Masoretic text, some closer to the Hebrew behind the Septuagint, some resembling the Samaritan Pentateuch. Who owned them (often linked to the Essenes) is debated, but the copying dates are widely accepted from handwriting study and radiocarbon tests. The community settlement was destroyed by the Romans around AD 68.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "James VanderKam and Peter Flint",
+          "title": "The Meaning of the Dead Sea Scrolls",
+          "year": 2002
+        },
+        {
+          "author": "Emanuel Tov",
+          "title": "Textual Criticism of the Hebrew Bible",
+          "year": 2012,
+          "locator": "3rd edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "jesus-reads-isaiah",
+      "year": 28,
+      "title": "Jesus reads from an Isaiah scroll in Nazareth",
+      "kind": "canon",
+      "place": "Nazareth synagogue",
+      "summary": "Luke describes Jesus being handed the scroll of Isaiah in the synagogue, unrolling it and reading, a glimpse of how scripture was used in his day.",
+      "details": "The scene shows scrolls kept in a village synagogue, read publicly on the Sabbath and explained. Elsewhere Jesus refers to 'the Law of Moses and the Prophets and the Psalms', a phrase many see as an early way of naming the three parts of the Hebrew scriptures, and to the blood of the prophets 'from Abel to Zechariah', which some read as spanning the Hebrew Bible from Genesis to Chronicles (its last book in Jewish order). That second reading is suggestive but debated.",
+      "refs": [
+        "Luke 4:16-21",
+        "Luke 24:44",
+        "Luke 11:51",
+        "Matt 5:17-18"
+      ],
+      "sources": [],
+      "confidence": "biblical"
+    },
+    {
+      "id": "nt-written",
+      "year": 50,
+      "endYear": 100,
+      "title": "The New Testament books are written",
+      "kind": "writing",
+      "place": "Across the Roman world",
+      "summary": "Paul's letters (from about AD 48-50 to the 60s), the Gospels (roughly AD 65-95 on most views), and the other letters and Revelation were written within about two generations of Jesus.",
+      "details": "1 Thessalonians or Galatians is usually counted the earliest surviving Christian writing (around AD 49-51). Most scholars date Mark around 65-70, Matthew and Luke around 80-90, John around 90-100, and Revelation in the mid-90s, though conservative scholars often place the Synoptic Gospels and Acts before AD 70, partly because Acts ends with Paul still alive in Rome.\n\nThe authorship of some letters (for example the Pastoral letters, 2 Peter, Ephesians) is debated among scholars; traditional views accept the named authors. The books were written in Koine (common) Greek, as letters and accounts for real churches, not at first as 'scripture' in a bound volume.",
+      "refs": [
+        "1 Thess 1:1",
+        "Luke 1:1-4",
+        "John 20:30-31",
+        "Rev 1:9-11",
+        "Acts 28:30-31"
+      ],
+      "sources": [
+        {
+          "author": "Raymond E. Brown",
+          "title": "An Introduction to the New Testament",
+          "year": 1997
+        },
+        {
+          "author": "D. A. Carson and Douglas J. Moo",
+          "title": "An Introduction to the New Testament",
+          "year": 2005,
+          "locator": "2nd edition"
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "pauls-letters-collected",
+      "year": 100,
+      "title": "Paul's letters are collected",
+      "kind": "canon",
+      "place": "Asia Minor, Greece and Rome",
+      "summary": "Churches swapped and copied Paul's letters, and by about AD 100 collections of them were circulating; 2 Peter already speaks of 'all his letters' alongside 'the other scriptures'.",
+      "details": "Paul himself asked that letters be read in other churches. Early writers such as Clement of Rome (around 96) and Ignatius and Polycarp (around 110) know several of Paul's letters. The earliest surviving manuscript collection, Papyrus 46 from about AD 200, contains ten letters including Hebrews.\n\nHow the collection formed is debated: some think a single person (perhaps Onesimus, or a Pauline circle) gathered it; others think it grew gradually as churches exchanged copies.",
+      "refs": [
+        "Col 4:16",
+        "1 Thess 5:27",
+        "2 Pet 3:15-16"
+      ],
+      "sources": [
+        {
+          "author": "Harry Y. Gamble",
+          "title": "Books and Readers in the Early Church",
+          "year": 1995
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "marcion",
+      "year": 144,
+      "title": "Marcion's shortened Bible",
+      "kind": "canon",
+      "place": "Rome",
+      "summary": "Marcion, a wealthy shipowner, rejected the Old Testament and accepted only an edited Gospel of Luke and ten letters of Paul. The church excommunicated him around 144.",
+      "details": "Marcion taught that the God of the Old Testament was a different, lesser god from the Father revealed by Jesus. So he cut out the Jewish scriptures and edited out passages he saw as Jewish additions. His list is often called the first known Christian 'canon'.\n\nScholars debate how much Marcion pushed the church to define its own list. Older studies (Harnack) gave him a big role; many now think the church was already using the Gospels and Paul widely, and that Marcion sped up and sharpened the process rather than starting it. What we know of him comes from opponents such as Irenaeus and Tertullian.",
+      "refs": [
+        "Luke 1:1-4",
+        "Gal 1:6-9"
+      ],
+      "sources": [
+        {
+          "author": "Tertullian",
+          "title": "Against Marcion",
+          "locator": "books 4-5"
+        },
+        {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "1.27.2"
+        },
+        {
+          "author": "Bruce M. Metzger",
+          "title": "The Canon of the New Testament",
+          "year": 1987
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "gospels-read-in-worship",
+      "year": 150,
+      "title": "Gospels read in Sunday worship",
+      "kind": "canon",
+      "place": "Rome",
+      "summary": "Justin Martyr describes Christians meeting on Sunday to hear 'the memoirs of the apostles' or the writings of the prophets read aloud, as long as time allows.",
+      "details": "Justin's *First Apology* (around 150-155) is one of the earliest descriptions of a Christian service. Reading the Gospels alongside the Old Testament prophets in worship was a key step toward treating them as scripture. Justin's student Tatian later combined the four Gospels into one continuous narrative, the *Diatessaron* (around 170), which was widely used in Syriac-speaking churches.",
+      "refs": [
+        "1 Tim 4:13"
+      ],
+      "sources": [
+        {
+          "author": "Justin Martyr",
+          "title": "First Apology",
+          "locator": "67"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "irenaeus-four-gospels",
+      "year": 180,
+      "title": "Irenaeus defends exactly four Gospels",
+      "kind": "canon",
+      "place": "Lyon, Gaul",
+      "summary": "Bishop Irenaeus of Lyon argued that there are four Gospels, no more and no fewer, comparing them to the four winds and four corners of the earth.",
+      "details": "Writing around 180 against various groups that used fewer Gospels or extra 'secret' ones, Irenaeus insists on Matthew, Mark, Luke and John. His argument from the four winds is symbolic rather than proof, but it shows that a fourfold Gospel was already established in major churches.\n\nIrenaeus also links the four Gospels with the four living creatures of Revelation and Ezekiel, the origin of the later artistic symbols of the Evangelists (lion, ox, man, eagle), though the matching of creature to Gospel varied among writers.",
+      "refs": [
+        "Rev 4:6-7",
+        "Ezek 1:10"
+      ],
+      "sources": [
+        {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "3.11.8"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "muratorian-fragment",
+      "year": 180,
+      "title": "The Muratorian fragment lists New Testament books",
+      "kind": "canon",
+      "place": "Rome (traditional) or the East (alternative)",
+      "summary": "A damaged Latin list of accepted books, found in an 8th-century manuscript, may be the oldest surviving New Testament canon list. Its date is debated: late 2nd century or 4th century.",
+      "details": "Ludovico Antonio Muratori found the list in the Ambrosian Library in Milan and published it in 1740. The copy is poor Latin and begins mid-sentence. It accepts four Gospels (Luke and John named; Matthew and Mark probably in the lost start), Acts, thirteen letters of Paul, Jude, two (perhaps three) letters of John, the Wisdom of Solomon, Revelation and the Apocalypse of Peter (noting some will not read it in church). It rejects forged letters of Paul and says the *Shepherd of Hermas* may be read but not in public worship, because it was written 'recently, in our times'.\n\nThat remark about Hermas is the main reason many date the list around 170-200. Albert Sundberg and Geoffrey Hahneman argued for a 4th-century Eastern origin; most scholars still favour the earlier date, but the question remains open.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Geoffrey Mark Hahneman",
+          "title": "The Muratorian Fragment and the Development of the Canon",
+          "year": 1992
+        },
+        {
+          "author": "Bruce M. Metzger",
+          "title": "The Canon of the New Testament",
+          "year": 1987
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "old-latin-and-syriac",
+      "year": 180,
+      "endYear": 250,
+      "title": "First translations: Old Latin, Syriac and Coptic",
+      "kind": "translation",
+      "place": "North Africa, Syria, Egypt",
+      "summary": "As the church spread beyond Greek speakers, believers translated the scriptures into Latin, Syriac and Coptic, usually piecemeal and by different hands.",
+      "details": "By the late 2nd century Latin versions were being read in North Africa (the martyrs of Scilli in 180 had 'books and letters of Paul'). Syriac Gospels existed both as Tatian's combined *Diatessaron* and as separate Gospels (the Old Syriac). Coptic translations in Egypt appear in the 3rd century. These versions matter for textual critics because they show what Greek text the translators had in front of them, sometimes earlier than any surviving Greek copy.",
+      "refs": [
+        "Acts 2:8-11"
+      ],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger",
+          "title": "The Early Versions of the New Testament",
+          "year": 1977
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "origen-hexapla",
+      "year": 235,
+      "endYear": 245,
+      "title": "Origen's Hexapla",
+      "kind": "textual",
+      "place": "Caesarea Maritima",
+      "summary": "The scholar Origen laid out the Old Testament in six parallel columns (Hebrew, Hebrew in Greek letters, and four Greek versions) to compare the Septuagint with the Hebrew.",
+      "details": "Origen noticed that Greek copies differed among themselves and from the Hebrew text used by Jews. In his huge *Hexapla* ('sixfold') he set side by side the Hebrew, a Greek transliteration, the Greek versions of Aquila and Symmachus, his own revised Septuagint, and Theodotion. He used critical signs (the obelus for words in Greek but not in Hebrew, the asterisk for words added from the Hebrew).\n\nThe whole work was enormous, perhaps over 6,000 pages, and was probably never copied in full. It was kept at Caesarea, used by Eusebius and Jerome, and likely lost when the city fell in the 7th century. Fragments survive. It is an early example of textual criticism, and it also mixed the Septuagint text in ways later scholars must untangle.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Eusebius",
+          "title": "Church History",
+          "locator": "6.16"
+        },
+        {
+          "author": "Karen H. Jobes and Moisés Silva",
+          "title": "Invitation to the Septuagint",
+          "year": 2000
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "diocletian-burning",
+      "year": 303,
+      "title": "Diocletian orders scriptures burned",
+      "kind": "manuscript",
+      "place": "Roman Empire (edict issued at Nicomedia)",
+      "summary": "The Great Persecution began with an edict ordering churches destroyed and Christian scriptures handed over and burned.",
+      "details": "Officials demanded the church's books. Some Christians handed them over to save their lives and were later called *traditores*, 'those who handed over', from which the word 'traitor' comes. Others hid books or gave up other texts instead, and some died rather than surrender them.\n\nThe persecution destroyed many copies, which is one reason so few manuscripts survive from before about 300. It also forced churches to decide which books were worth dying for, sharpening the question of the canon. Arguments over how to treat the *traditores* later caused the Donatist split in North Africa.",
+      "refs": [
+        "2 Tim 4:13",
+        "Rev 2:10"
+      ],
+      "sources": [
+        {
+          "author": "Eusebius",
+          "title": "Church History",
+          "locator": "8.2"
+        },
+        {
+          "author": "Lactantius",
+          "title": "On the Deaths of the Persecutors",
+          "locator": "12-13"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "eusebius-categories",
+      "year": 325,
+      "title": "Eusebius sorts the books into accepted, disputed and rejected",
+      "kind": "canon",
+      "place": "Caesarea Maritima",
+      "summary": "The church historian Eusebius reported which books were universally accepted, which were 'disputed' though widely known (James, Jude, 2 Peter, 2 and 3 John), and which were spurious or heretical.",
+      "details": "Eusebius' list is valuable because it shows the state of debate in the early 4th century. The four Gospels, Acts, Paul's letters, 1 John and 1 Peter were accepted everywhere. Revelation he placed awkwardly in both the accepted and the spurious columns, reflecting real division over it in the East. Hebrews was generally accepted in the East but doubted in the West, largely over its authorship.",
+      "refs": [
+        "Jude 1:3",
+        "Jas 1:1",
+        "2 Pet 1:1"
+      ],
+      "sources": [
+        {
+          "author": "Eusebius",
+          "title": "Church History",
+          "locator": "3.25"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "great-uncials",
+      "year": 325,
+      "endYear": 360,
+      "title": "Codex Vaticanus and Codex Sinaiticus are made",
+      "kind": "manuscript",
+      "place": "Probably Egypt or Caesarea (debated)",
+      "summary": "The two oldest nearly complete Greek Bibles were produced in the 4th century, Vaticanus around 300-325 and Sinaiticus around 330-360.",
+      "details": "These large parchment books, written in capital letters (uncials), contain both Testaments and some extra books. They are central witnesses for modern editions of the Greek New Testament and important for the Septuagint. Where they were made is debated: Alexandria and Caesarea are the two main proposals.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger and Bart D. Ehrman",
+          "title": "The Text of the New Testament",
+          "year": 2005,
+          "locator": "4th edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "constantine-fifty-bibles",
+      "year": 331,
+      "title": "Constantine orders fifty Bibles",
+      "kind": "manuscript",
+      "place": "Caesarea, for Constantinople",
+      "summary": "Emperor Constantine asked Eusebius to supply fifty finely written copies of the scriptures on parchment for the churches of his new capital.",
+      "details": "Eusebius quotes the emperor's letter in his *Life of Constantine*. It marks a turn from persecution to imperial sponsorship of Bible production. Some have suggested that Codex Sinaiticus or Vaticanus might be among the fifty, but there is no proof, and the letter does not say which books were included. A popular myth says Constantine or the Council of Nicaea 'chose the books of the Bible'; there is no evidence Nicaea discussed the canon at all.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Eusebius",
+          "title": "Life of Constantine",
+          "locator": "4.36-37"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "laodicea-and-cyril",
+      "year": 350,
+      "title": "Eastern lists: Cyril of Jerusalem and Laodicea",
+      "kind": "canon",
+      "place": "Jerusalem; Laodicea",
+      "summary": "In the mid-4th century, Eastern teachers such as Cyril of Jerusalem gave lists of the books to be read, generally leaving out Revelation.",
+      "details": "Cyril's *Catechetical Lectures* (around 350) list 26 New Testament books, without Revelation, and urge new believers not to read books outside them. A list attached to the canons of the Council of Laodicea (around 363) is similar, though scholars doubt the list was part of the original council decisions. Revelation remained doubted in parts of the East for centuries, and the Syriac Peshitta did not include it.",
+      "refs": [
+        "Rev 22:18-19"
+      ],
+      "sources": [
+        {
+          "author": "Cyril of Jerusalem",
+          "title": "Catechetical Lectures",
+          "locator": "4.36",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "ulfilas-gothic",
+      "year": 360,
+      "title": "Ulfilas invents an alphabet for the Gothic Bible",
+      "kind": "translation",
+      "place": "Lower Danube (modern Bulgaria)",
+      "summary": "The missionary bishop Ulfilas created a Gothic alphabet and translated the Bible from Greek, reportedly leaving out the books of Kings as too warlike for the Goths.",
+      "details": "The Gothic Bible is the oldest substantial literature in any Germanic language. The finest surviving copy is the 6th-century *Codex Argenteus* ('silver book'), written in silver and gold ink on purple parchment, now in Uppsala, Sweden. The report about Kings comes from the historian Philostorgius. Ulfilas was an Arian (he denied that the Son is fully equal with the Father), which affected later views of his work but not much of the translation itself.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Philostorgius",
+          "title": "Church History",
+          "locator": "2.5",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "athanasius-367",
+      "year": 367,
+      "title": "Athanasius lists the 27 New Testament books",
+      "kind": "canon",
+      "place": "Alexandria",
+      "summary": "In his 39th Festal Letter, Bishop Athanasius listed exactly the 27 books of today's New Testament, the earliest known list to match it precisely.",
+      "details": "Each Easter the bishop of Alexandria sent a letter to the churches. In 367 Athanasius used his to name the 'springs of salvation'. His Old Testament list follows the Hebrew books (with Baruch and the Letter of Jeremiah attached to Jeremiah, and without Esther), and he names other books such as Wisdom, Sirach, Esther, Judith, Tobit, the *Didache* and the *Shepherd* as useful to be read by new converts but not part of the canon.\n\nThe letter did not settle matters everywhere; it reflects and strengthens a consensus that was forming. Note that 'canon' here means a recognised list, not a book created by a decree.",
+      "refs": [
+        "2 Tim 3:16-17"
+      ],
+      "sources": [
+        {
+          "author": "Athanasius",
+          "title": "Festal Letter 39"
+        },
+        {
+          "author": "F. F. Bruce",
+          "title": "The Canon of Scripture",
+          "year": 1988
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "jerome-vulgate",
+      "year": 382,
+      "endYear": 405,
+      "title": "Jerome makes the Latin Vulgate",
+      "kind": "translation",
+      "place": "Rome, then Bethlehem",
+      "summary": "Pope Damasus asked Jerome to revise the messy Old Latin Gospels; Jerome went on to translate most of the Old Testament directly from Hebrew. His work became the 'Vulgate', the Western church's Bible for a thousand years.",
+      "details": "Jerome revised the Gospels first (around 383-384), working from Greek manuscripts. Settling in Bethlehem, he learned Hebrew with Jewish teachers and translated the Hebrew books (around 390-405), a choice criticised by Augustine and others who trusted the Septuagint. Jerome called the books outside the Hebrew canon *apocrypha* and doubted their canonical status, though he translated Tobit and Judith and they stayed in Latin Bibles.\n\nThe rest of the New Testament in the Vulgate was revised more lightly, possibly by others. 'Vulgate' (common) became the standard name only later. It shaped Western theology and vocabulary: words like 'sacrament', 'justification' and 'penance' entered through Latin.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Jerome",
+          "title": "Preface to the Books of Samuel and Kings ('Helmeted Preface')"
+        },
+        {
+          "author": "Augustine",
+          "title": "Letters",
+          "locator": "71",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "hippo-carthage",
+      "year": 393,
+      "endYear": 419,
+      "title": "African councils at Hippo and Carthage list the books",
+      "kind": "council",
+      "place": "Hippo Regius and Carthage, North Africa",
+      "summary": "Regional councils at Hippo (393) and Carthage (397, again 419) listed the books to be read in church: the 27-book New Testament and an Old Testament including books such as Tobit, Judith, Wisdom, Sirach and Maccabees.",
+      "details": "Augustine took part and gave a similar list in *On Christian Teaching*. These councils were local, not universal, and the record of Hippo survives through a later summary. Their wider Old Testament list follows the Greek/Latin church's usage and is the ancestor of the Catholic canon later defined at Trent. Protestants later followed Jerome's preference for the Hebrew canon. Both sides appeal to the early church, which in fact shows genuine variety on the Old Testament.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Augustine",
+          "title": "On Christian Teaching",
+          "locator": "2.8.13"
+        },
+        {
+          "author": "Lee Martin McDonald",
+          "title": "The Biblical Canon: Its Origin, Transmission, and Authority",
+          "year": 2007
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "peshitta-standard",
+      "year": 425,
+      "title": "The Syriac Peshitta becomes standard",
+      "kind": "translation",
+      "place": "Edessa and Syria",
+      "summary": "By the early 5th century the Peshitta ('simple' version) was the standard Bible of Syriac churches, with a 22-book New Testament lacking 2 Peter, 2 and 3 John, Jude and Revelation.",
+      "details": "The Peshitta Old Testament was probably translated from Hebrew in the 2nd century, possibly with Jewish involvement. The New Testament form was standardised around the early 5th century, replacing Tatian's *Diatessaron* in church use; Bishop Rabbula of Edessa is often credited, though this is debated. Some Syriac-speaking churches (such as the Church of the East) still use the 22-book New Testament.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger",
+          "title": "The Early Versions of the New Testament",
+          "year": 1977
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "masoretes",
+      "year": 700,
+      "endYear": 1000,
+      "title": "The Masoretes mark vowels, accents and notes",
+      "kind": "textual",
+      "place": "Tiberias, Galilee (also Babylonia)",
+      "summary": "Jewish scholars called Masoretes added vowel signs, accent marks and detailed margin notes to the consonantal Hebrew text to fix its reading and protect it from copying errors.",
+      "details": "Hebrew was written with consonants only. The Masoretes ('keepers of the tradition') recorded the traditional pronunciation with dots and dashes, and added accents for chanting and phrasing. Their margin notes (the *Masorah*) count letters, words and unusual spellings, note the middle verse of books, and flag places where the text written (*ketiv*) should be read differently (*qere*).\n\nThe ben Asher family of Tiberias became the most respected school. Their system produced the Masoretic Text, the basis of nearly all modern Hebrew Bibles. The Dead Sea Scrolls showed that the consonantal text the Masoretes preserved goes back, in its main form, to well before the time of Jesus.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Emanuel Tov",
+          "title": "Textual Criticism of the Hebrew Bible",
+          "year": 2012,
+          "locator": "3rd edition"
+        },
+        {
+          "author": "Ernst Würthwein",
+          "title": "The Text of the Old Testament",
+          "year": 1995,
+          "locator": "2nd English edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "amiatinus",
+      "year": 716,
+      "title": "Codex Amiatinus made in Northumbria",
+      "kind": "manuscript",
+      "place": "Wearmouth-Jarrow, England",
+      "summary": "Monks in northern England produced a giant single-volume Latin Bible, the oldest complete Vulgate, as a gift for the pope.",
+      "details": "Abbot Ceolfrith had three great Bibles made; one was carried toward Rome in 716, but Ceolfrith died on the way. The book later reached the monastery of Monte Amiata in Italy, hence its name, and is now in Florence. For a long time it was thought to be Italian, until a 19th-century scholar showed its dedication had been altered. It weighs about 34 kg and shows the high standard of Anglo-Saxon book-making in the age of Bede.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Bede",
+          "title": "Lives of the Abbots",
+          "locator": "15",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "cyril-methodius",
+      "year": 863,
+      "title": "Cyril and Methodius bring the Bible to the Slavs",
+      "kind": "translation",
+      "place": "Great Moravia",
+      "summary": "Two brothers from Thessalonica created the Glagolitic alphabet and translated the Gospels and liturgy into Old Church Slavonic.",
+      "details": "Sent by the Byzantine emperor at the request of the Moravian prince Rastislav, Constantine (later called Cyril) and Methodius insisted on worship in the people's language, defending this against critics who allowed only Hebrew, Greek and Latin. Their disciples later developed the Cyrillic alphabet, named in Cyril's honour. Their work underlies the Bible and liturgy of Russian, Serbian, Bulgarian and other Slavic churches.",
+      "refs": [
+        "Acts 2:6-8",
+        "1 Cor 14:9"
+      ],
+      "sources": [
+        {
+          "author": "Anonymous",
+          "title": "Life of Constantine-Cyril (Vita Constantini)",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "aleppo-codex",
+      "year": 930,
+      "title": "The Aleppo Codex",
+      "kind": "manuscript",
+      "place": "Tiberias",
+      "summary": "The finest Masoretic Bible, pointed by Aaron ben Asher around 930; Maimonides praised it as the model copy.",
+      "details": "The codex was kept for centuries in Jerusalem, Cairo and then Aleppo. In 1947 riots in Aleppo damaged the synagogue, and when the codex reached Israel (by 1958) about 40 percent was missing, including most of the Torah. How the missing pages disappeared is still unclear. It is the basis of the Hebrew University Bible Project edition.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Matti Friedman",
+          "title": "The Aleppo Codex",
+          "year": 2012
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "leningrad-codex",
+      "year": 1008,
+      "title": "The Leningrad Codex",
+      "kind": "manuscript",
+      "place": "Cairo (copied from ben Asher texts)",
+      "summary": "The oldest complete Hebrew Bible, copied in 1008, is the base text of the standard scholarly Hebrew Bible editions used for most modern translations.",
+      "details": "Copied by Samuel ben Jacob, it follows the ben Asher tradition. It is called Leningrad because it is held in the National Library of Russia in St Petersburg (formerly Leningrad). It is the base of *Biblia Hebraica Stuttgartensia* and *Biblia Hebraica Quinta*.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Emanuel Tov",
+          "title": "Textual Criticism of the Hebrew Bible",
+          "year": 2012,
+          "locator": "3rd edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "langton-chapters",
+      "year": 1205,
+      "title": "Stephen Langton's chapter divisions",
+      "kind": "division",
+      "place": "University of Paris",
+      "summary": "The chapter numbers used in Bibles today go back mainly to Stephen Langton, who devised them while teaching in Paris before becoming Archbishop of Canterbury in 1207.",
+      "details": "Earlier manuscripts had various section systems, but none was universal. Langton's chapters spread through the 'Paris Bibles' produced for students in the 13th century and became standard. Dates for the system are given anywhere from about 1203 to 1227 (the year Langton's system is sometimes associated with), because it was worked out and spread over time.\n\nChapters are useful but not inspired: some break in odd places, for example splitting Isaiah 52:13-53:12 or separating 1 Corinthians 13 from its context.",
+      "refs": [
+        "Isa 52:13-53:12",
+        "1 Cor 12:31-13:1"
+      ],
+      "sources": [
+        {
+          "author": "Christopher de Hamel",
+          "title": "The Book: A History of the Bible",
+          "year": 2001
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "wycliffe-bible",
+      "year": 1382,
+      "endYear": 1395,
+      "title": "The Wycliffe Bible: first complete English Bible",
+      "kind": "translation",
+      "place": "Oxford and Lutterworth, England",
+      "summary": "Followers of John Wycliffe produced the first complete Bible in English, translated from the Latin Vulgate and copied by hand.",
+      "details": "An early, very literal version (around 1382) was followed by a smoother later version (around 1388-1395), often linked with John Purvey. Wycliffe argued that ordinary Christians should read scripture for themselves. In 1407-1409 Archbishop Arundel's Constitutions forbade making or reading new English translations without approval, and Wycliffe's remains were later dug up and burned (1428). Even so, around 250 manuscripts survive, showing wide use.",
+      "refs": [
+        "Ps 119:105"
+      ],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "The Bible in English",
+          "year": 2003
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "gutenberg",
+      "year": 1455,
+      "title": "Gutenberg prints the Bible",
+      "kind": "printing",
+      "place": "Mainz, Germany",
+      "summary": "Johannes Gutenberg's movable-type press produced a Latin Vulgate Bible around 1454-1455, the first major book printed in Europe.",
+      "details": "About 180 copies were printed, some on paper and some on vellum; around 49 survive in whole or in part. Printing meant that identical copies could be produced quickly and far more cheaply than by hand, which made later vernacular Bibles and Reformation debates possible on a large scale. It also froze texts: errors could be multiplied as easily as truth.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Christopher de Hamel",
+          "title": "The Book: A History of the Bible",
+          "year": 2001
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "erasmus-greek-nt",
+      "year": 1516,
+      "title": "Erasmus publishes the Greek New Testament",
+      "kind": "printing",
+      "place": "Basel, Switzerland",
+      "summary": "Erasmus' Greek New Testament with a new Latin translation was the first published Greek New Testament. Its later editions became the basis of the 'Textus Receptus' behind the KJV.",
+      "details": "Rushed into print by the publisher Froben, the first edition used a handful of late medieval manuscripts available in Basel. For the last six verses of Revelation, missing in his manuscript, Erasmus translated the Latin back into Greek. (The Complutensian Polyglot was printed earlier, in 1514, but published only around 1520-1522.)\n\nErasmus revised the text through five editions. In his third edition (1522) he added the Comma Johanneum (1 John 5:7-8) after a Greek manuscript containing it was produced. Printed Greek texts by Estienne, Beza and the Elzevirs followed Erasmus closely; the Elzevir edition of 1633 called itself the text 'now received by all', giving us the name *Textus Receptus*.",
+      "refs": [
+        "Rev 22:16-21",
+        "1 John 5:7-8"
+      ],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger and Bart D. Ehrman",
+          "title": "The Text of the New Testament",
+          "year": 2005,
+          "locator": "4th edition, ch. 3"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "luther-bible",
+      "year": 1522,
+      "endYear": 1534,
+      "title": "Luther's German Bible",
+      "kind": "translation",
+      "place": "Wartburg Castle and Wittenberg",
+      "summary": "Hiding in the Wartburg, Martin Luther translated the New Testament from Erasmus' Greek in about eleven weeks (published September 1522); the full Bible followed in 1534.",
+      "details": "Luther aimed for German that ordinary people spoke, 'looking at the mouth' of the mother at home and the man in the market. His Bible shaped the modern German language. He placed Hebrews, James, Jude and Revelation at the end of his New Testament, and in early prefaces called James 'an epistle of straw' compared with the books that most clearly show Christ, though he kept them in his Bible. He gathered the books outside the Hebrew canon into a separate section called Apocrypha, 'not held equal to Holy Scripture, but useful and good to read'.",
+      "refs": [
+        "Rom 3:28",
+        "Jas 2:24"
+      ],
+      "sources": [
+        {
+          "author": "Martin Luther",
+          "title": "Preface to the New Testament",
+          "year": 1522
+        },
+        {
+          "author": "Martin Luther",
+          "title": "On Translating: An Open Letter",
+          "year": 1530
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "tyndale-nt",
+      "year": 1526,
+      "title": "Tyndale's printed English New Testament",
+      "kind": "translation",
+      "place": "Worms, Germany (smuggled to England)",
+      "summary": "William Tyndale translated the New Testament from Greek, the first English New Testament printed and the first translated from the original language. Copies were smuggled into England and burned by authorities.",
+      "details": "Tyndale reportedly told a cleric he would cause a boy who drives the plough to know more scripture than he did. A first printing at Cologne in 1525 was interrupted; the complete octavo edition came out at Worms in 1526. He went on to translate the Pentateuch (1530), Jonah and other Old Testament books from Hebrew.\n\nHis choices, such as 'congregation' for *ekklesia* instead of 'church', 'elder' instead of 'priest', and 'repent' instead of 'do penance', were attacked by Thomas More as heretical. Tyndale coined or popularised phrases like 'let there be light', 'the powers that be' and 'scapegoat'. Studies estimate that most of the KJV New Testament wording follows Tyndale.",
+      "refs": [
+        "Gen 1:3",
+        "Rom 13:1",
+        "Lev 16:8"
+      ],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "William Tyndale: A Biography",
+          "year": 1994
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "coverdale",
+      "year": 1535,
+      "title": "Coverdale: first complete printed English Bible",
+      "kind": "translation",
+      "place": "Probably Cologne or Antwerp",
+      "summary": "Miles Coverdale published the first complete printed Bible in English, using Tyndale's work where it existed and German and Latin versions for the rest.",
+      "details": "Coverdale did not know Hebrew or Greek well and said so openly. His Psalms, with their musical rhythm, were later used in the Great Bible (1539), the first English Bible authorised for reading in churches, and were kept in the Book of Common Prayer for centuries. His Bible placed the deuterocanonical books in a separate section, a pattern followed in later Protestant Bibles.",
+      "refs": [
+        "Ps 23"
+      ],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "The Bible in English",
+          "year": 2003
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "tyndale-martyrdom",
+      "year": 1536,
+      "title": "Tyndale executed",
+      "kind": "translation",
+      "place": "Vilvoorde, near Brussels",
+      "summary": "Betrayed by Henry Phillips, Tyndale was imprisoned, condemned for heresy, strangled and burned. His reported last prayer was that God would open the King of England's eyes.",
+      "details": "Within a few years, English Bibles largely built on his work (Matthew's Bible 1537, the Great Bible 1539) were licensed in England by Henry VIII, so many see his prayer as answered. The prayer is reported by John Foxe; exact wording should be treated as tradition.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "John Foxe",
+          "title": "Acts and Monuments (Book of Martyrs)",
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "trent-1546",
+      "year": 1546,
+      "title": "Council of Trent defines the Catholic canon",
+      "kind": "council",
+      "place": "Trent, Italy",
+      "summary": "On 8 April 1546 the Council of Trent declared a list of sacred books including Tobit, Judith, Wisdom, Sirach, Baruch, 1-2 Maccabees and the Greek additions to Esther and Daniel, and declared the Vulgate 'authentic' for public use.",
+      "details": "Earlier Western councils (Hippo, Carthage, Florence in 1442) had given similar lists, but Trent made the canon a binding definition with anathema, in response to Protestant reformers who followed the Hebrew canon. 'Authentic' for the Vulgate meant reliable for doctrine in public use, not that it was free from every copying error; an official revised Vulgate followed (Sixto-Clementine, 1592). The Prayer of Manasseh and 1-2 Esdras were placed in an appendix.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Council of Trent",
+          "title": "Decree Concerning the Canonical Scriptures (Session 4)",
+          "year": 1546
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "estienne-verses",
+      "year": 1551,
+      "title": "Robert Estienne numbers New Testament verses",
+      "kind": "division",
+      "place": "Geneva",
+      "summary": "The printer Robert Estienne (Stephanus) introduced the New Testament verse numbers we still use in his 1551 Greek-Latin New Testament.",
+      "details": "His son later said he worked them out on a journey from Paris to Lyon, some say on horseback, which has been blamed for odd breaks, though that is anecdote. Old Testament verses already existed as units in the Hebrew Masoretic tradition, and had been numbered in a 15th-century Hebrew concordance by Rabbi Isaac Nathan; Estienne's 1553 French Bible was the first full Bible numbered throughout with chapters and verses. Verse numbers make reference easy but can encourage reading single sentences out of context.",
+      "refs": [
+        "John 3:16",
+        "1 Pet 2:8-9"
+      ],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger and Bart D. Ehrman",
+          "title": "The Text of the New Testament",
+          "year": 2005,
+          "locator": "4th edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "geneva-bible",
+      "year": 1560,
+      "title": "The Geneva Bible",
+      "kind": "translation",
+      "place": "Geneva",
+      "summary": "English Protestant exiles in Geneva produced a readable, affordable Bible with verse numbers, maps and extensive study notes. It was the Bible of Shakespeare, the Puritans and the Pilgrims.",
+      "details": "Led by William Whittingham, the translators revised Tyndale and the Great Bible against Greek and Hebrew. It was the first complete English Bible with verse numbers throughout and roman type. Its Calvinist margin notes, some of which questioned obedience to tyrannical kings, made James I dislike it, which partly explains why he backed a new translation without such notes. It remained popular for decades after 1611.",
+      "refs": [
+        "Exod 1:19"
+      ],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "The Bible in English",
+          "year": 2003
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "douay-rheims",
+      "year": 1582,
+      "endYear": 1610,
+      "title": "Douay-Rheims: Catholic English Bible",
+      "kind": "translation",
+      "place": "Rheims and Douai, France",
+      "summary": "English Catholic scholars in exile translated the Vulgate into English: the New Testament at Rheims (1582) and the Old Testament at Douai (1609-1610).",
+      "details": "Led by Gregory Martin, the translators stayed very close to Latin, coining words like 'supersubstantial bread' and keeping technical terms. Their New Testament influenced some KJV word choices. It was revised by Bishop Richard Challoner in 1749-1752, the form most Catholics later used.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "The Bible in English",
+          "year": 2003
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "kjv-1611",
+      "year": 1611,
+      "title": "The King James Version",
+      "kind": "translation",
+      "place": "Westminster, Oxford and Cambridge",
+      "summary": "Commissioned at the Hampton Court Conference (1604), about 47 scholars in six companies revised the Bishops' Bible against Hebrew and Greek, producing the most influential English translation in history.",
+      "details": "The translators' preface says they did not aim to make a new translation, nor a bad one good, but a good one better. It drew heavily on Tyndale and Geneva. The New Testament followed the Textus Receptus tradition of Erasmus, Estienne and Beza. The original 1611 edition included the Apocrypha. The text most people read today is the 1769 Oxford revision by Benjamin Blayney, with modernised spelling and many small corrections. Despite the name, it was never formally 'authorised' by an act that survives on record.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Miles Smith",
+          "title": "The Translators to the Reader (KJV preface)",
+          "year": 1611
+        },
+        {
+          "author": "Gordon Campbell",
+          "title": "Bible: The Story of the King James Version 1611-2011",
+          "year": 2010
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "westminster-confession-canon",
+      "year": 1646,
+      "title": "Protestant confessions fix the 66-book canon",
+      "kind": "canon",
+      "place": "England",
+      "summary": "The Westminster Confession listed the 66 books and said the Apocrypha are not inspired and have no authority beyond other human writings.",
+      "details": "Earlier, the Church of England's Thirty-Nine Articles (1563/1571) had kept the Apocrypha as books read 'for example of life and instruction of manners' but not to establish doctrine. Over the 19th century, Bible societies stopped printing the Apocrypha in most Protestant Bibles, which is why many modern Protestants never see these books.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Westminster Assembly",
+          "title": "Westminster Confession of Faith",
+          "year": 1646,
+          "locator": "1.2-3"
+        },
+        {
+          "author": "Church of England",
+          "title": "Thirty-Nine Articles",
+          "locator": "Article VI"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "mill-variants",
+      "year": 1707,
+      "title": "John Mill counts about 30,000 variants",
+      "kind": "textual",
+      "place": "Oxford",
+      "summary": "John Mill's Greek New Testament gathered readings from about 100 manuscripts and noted some 30,000 differences, alarming some readers and starting modern textual criticism.",
+      "details": "Richard Bentley replied that more manuscripts mean more variants but also more ability to find the original, and that most differences are trivial. Later scholars such as Bengel (1734) and Griesbach (from 1774) developed rules for weighing readings (for example, the harder reading is often older). Today scholars estimate several hundred thousand variant readings across more than 5,800 Greek manuscripts; the large majority are spelling, word order or obvious slips, and very few affect meaning in ways that are both meaningful and plausibly original.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger and Bart D. Ehrman",
+          "title": "The Text of the New Testament",
+          "year": 2005,
+          "locator": "4th edition, ch. 4"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "tischendorf-sinaiticus",
+      "year": 1844,
+      "endYear": 1859,
+      "title": "Tischendorf and Codex Sinaiticus",
+      "kind": "discovery",
+      "place": "St Catherine's Monastery, Sinai",
+      "summary": "Constantin von Tischendorf took 43 leaves of an ancient Greek Bible from St Catherine's in 1844 and in 1859 was shown much more of it, including the complete New Testament, which he brought to the Russian tsar.",
+      "details": "Tischendorf's famous story that the leaves were in a basket about to be burned is disputed; the monks reject it, and parchment does not burn well. The 1859 transfer to Russia was presented as a loan that became a gift; whether it was fairly obtained remains a sore point for the monastery. In 1933 the Soviet government sold most of the codex to the British Museum. In 1975 more leaves were found in a sealed room at the monastery. Since 2009 the whole surviving codex has been online, reunited digitally.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "D. C. Parker",
+          "title": "Codex Sinaiticus: The Story of the World's Oldest Bible",
+          "year": 2010
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "westcott-hort",
+      "year": 1881,
+      "title": "Westcott and Hort's Greek text and the Revised Version",
+      "kind": "textual",
+      "place": "Cambridge",
+      "summary": "Two Cambridge scholars published a Greek New Testament based mainly on Vaticanus and Sinaiticus, and the English Revised Version New Testament appeared the same year.",
+      "details": "B. F. Westcott and F. J. A. Hort spent 28 years on their edition. They grouped manuscripts into text-types and argued that the 'Syrian' (Byzantine) text, the majority of later manuscripts, was a later smoothed-out form, while the 'Neutral' text of Vaticanus and Sinaiticus was closest to the original. Their method still shapes modern editions, though their idea of a 'Neutral' text has been revised.\n\nDean John Burgon attacked both the text and the Revised Version fiercely, defending the traditional text; his arguments are still used by defenders of the Majority Text and the Textus Receptus.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "B. F. Westcott and F. J. A. Hort",
+          "title": "The New Testament in the Original Greek",
+          "year": 1881
+        },
+        {
+          "author": "John William Burgon",
+          "title": "The Revision Revised",
+          "year": 1883
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "revised-version",
+      "year": 1885,
+      "title": "Revised Version complete",
+      "kind": "translation",
+      "place": "England",
+      "summary": "The Revised Version, the first officially approved revision of the KJV, was completed in 1885 (Old Testament) after its 1881 New Testament.",
+      "details": "Its New Testament sold millions on publication day, but its stiff, very literal English never displaced the KJV in popular use. It began the long line of modern English revisions.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "David Daniell",
+          "title": "The Bible in English",
+          "year": 2003
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "oxyrhynchus",
+      "year": 1897,
+      "title": "Oxyrhynchus papyri discovered",
+      "kind": "discovery",
+      "place": "Oxyrhynchus (el-Bahnasa), Egypt",
+      "summary": "Bernard Grenfell and Arthur Hunt began digging ancient rubbish mounds in Egypt and recovered hundreds of thousands of papyrus fragments, including early New Testament papyri and the *Gospel of Thomas* in Greek.",
+      "details": "The dry sand preserved documents of daily life alongside literary and Christian texts. Dozens of New Testament papyri (from the 2nd to 7th centuries) have come from Oxyrhynchus, showing that Christians in a provincial town had many books. Publication continues to this day.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Peter Parsons",
+          "title": "City of the Sharp-Nosed Fish",
+          "year": 2007
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nestle-text",
+      "year": 1898,
+      "title": "Eberhard Nestle's handy Greek New Testament",
+      "kind": "textual",
+      "place": "Stuttgart",
+      "summary": "Nestle published a pocket Greek New Testament built by comparing the leading critical editions; its descendant, the Nestle-Aland edition, is now the standard text.",
+      "details": "Kurt Aland joined the project after World War II. The 27th edition (1993) and 28th (2012) of Nestle-Aland share their main text with the United Bible Societies' *Greek New Testament* (first edition 1966, 5th 2014), which was designed for translators. Together they underlie most modern translations.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Kurt Aland and Barbara Aland",
+          "title": "The Text of the New Testament",
+          "year": 1989,
+          "locator": "2nd edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "asv-1901",
+      "year": 1901,
+      "title": "American Standard Version",
+      "kind": "translation",
+      "place": "United States",
+      "summary": "The American edition of the Revised Version, with the American committee's preferences, including 'Jehovah' for God's name.",
+      "details": "Prized for its precision, it became the base for the RSV, the NASB and (through the Living Bible's paraphrase) the NLT's ancestor.",
+      "refs": [
+        "Exod 6:3"
+      ],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nash-papyrus-found",
+      "year": 1902,
+      "title": "Nash Papyrus acquired",
+      "kind": "discovery",
+      "place": "Egypt (now Cambridge University Library)",
+      "summary": "W. L. Nash bought a small papyrus with the Ten Commandments and the Shema in Hebrew, the oldest known Hebrew biblical text until the Dead Sea Scrolls.",
+      "details": "Dated to roughly the 2nd or 1st century BC, it is probably a liturgical or teaching sheet rather than a biblical scroll. Its order of commandments matches some Septuagint manuscripts, an early hint that the Hebrew text once had more variety.",
+      "refs": [
+        "Exod 20:2-17",
+        "Deut 6:4-5"
+      ],
+      "sources": [
+        {
+          "author": "Emanuel Tov",
+          "title": "Textual Criticism of the Hebrew Bible",
+          "year": 2012,
+          "locator": "3rd edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "chester-beatty",
+      "year": 1931,
+      "title": "Chester Beatty papyri announced",
+      "kind": "discovery",
+      "place": "Egypt (bought by Alfred Chester Beatty)",
+      "summary": "A collection of 3rd-century papyrus codices containing the Gospels and Acts, Paul's letters and Revelation, plus Greek Old Testament books, was made public.",
+      "details": "These codices (P45, P46, P47 among them) pushed the evidence for large parts of the New Testament back more than a century earlier than the great 4th-century codices. Part of P46 is held by the University of Michigan.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Frederic G. Kenyon",
+          "title": "The Chester Beatty Biblical Papyri",
+          "year": 1933,
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "p52-identified",
+      "year": 1934,
+      "title": "P52 identified",
+      "kind": "discovery",
+      "place": "Manchester (John Rylands Library)",
+      "summary": "C. H. Roberts recognised a scrap bought in Egypt in 1920 as part of John 18, often called the oldest known New Testament fragment.",
+      "details": "Roberts published it in 1935, dating it to the first half of the 2nd century on handwriting. Later scholars have widened the range to roughly 125-175, and some (such as Brent Nongbri) argue a date as late as around 200 cannot be ruled out. Handwriting dating gives ranges, not exact years.",
+      "refs": [
+        "John 18:31-33",
+        "John 18:37-38"
+      ],
+      "sources": [
+        {
+          "author": "Brent Nongbri",
+          "title": "The Use and Abuse of P52",
+          "year": 2005,
+          "locator": "Harvard Theological Review 98"
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "wycliffe-translators",
+      "year": 1942,
+      "title": "Wycliffe Bible Translators and the global translation movement",
+      "kind": "translation",
+      "place": "United States, then worldwide",
+      "summary": "William Cameron Townsend founded Wycliffe Bible Translators (with the linguistics school SIL) to translate the Bible into languages without one. Translation has accelerated sharply since.",
+      "details": "Bible societies (the British and Foreign Bible Society from 1804, the American Bible Society from 1816) had already spread translations widely. Townsend's experience in Guatemala, where a man asked why, if God was so great, he did not speak his language, shaped the mission.\n\nCounts change every year. Wycliffe Global Alliance figures for 2023-2024 put the full Bible in roughly 740-760 languages, the New Testament in about 1,650-1,750 more, and some portions in over 1,200 more, out of more than 7,000 living languages. Hundreds of millions of people still lack a full Bible in their first language. Treat exact numbers as approximate and check current statistics.",
+      "refs": [
+        "Rev 7:9",
+        "Acts 2:11"
+      ],
+      "sources": [
+        {
+          "author": "Wycliffe Global Alliance",
+          "title": "Scripture Access Statistics",
+          "year": 2024,
+          "confidence": "needs-verification"
+        }
+      ],
+      "confidence": "needs-verification"
+    },
+    {
+      "id": "dss-discovery",
+      "year": 1947,
+      "title": "Dead Sea Scrolls discovered",
+      "kind": "discovery",
+      "place": "Qumran caves, near the Dead Sea",
+      "summary": "A Bedouin shepherd found clay jars holding scrolls in a cave near Qumran. Over the next decade eleven caves yielded remains of some 900 or more manuscripts.",
+      "details": "The first seven scrolls included the Great Isaiah Scroll. Before 1947, the oldest substantial Hebrew Bible manuscripts were from around AD 900-1000; the scrolls pushed the evidence back about a thousand years. They showed both remarkable stability in many books (Isaiah is very close to the medieval text) and real variety in others (Jeremiah exists in a shorter form like the Septuagint's). Full publication was slow and controversial; all were available by the early 2000s.",
+      "refs": [
+        "Isa 53:11",
+        "Jer 36:32"
+      ],
+      "sources": [
+        {
+          "author": "James VanderKam and Peter Flint",
+          "title": "The Meaning of the Dead Sea Scrolls",
+          "year": 2002
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "rsv-1952",
+      "year": 1952,
+      "title": "Revised Standard Version",
+      "kind": "translation",
+      "place": "United States",
+      "summary": "The RSV revised the American Standard Version in modern English, using the new manuscript discoveries. It was widely used and fiercely attacked.",
+      "details": "The New Testament appeared in 1946. Critics objected especially to 'young woman' instead of 'virgin' in Isaiah 7:14, and some copies were publicly burned. Defenders noted the Hebrew word *almah* means young woman, while Matthew follows the Greek *parthenos*. The RSV later had a Catholic edition (1966) and an Ecumenical edition, and was revised as the NRSV (1989). The ESV (2001) also began from it.",
+      "refs": [
+        "Isa 7:14",
+        "Matt 1:23"
+      ],
+      "sources": [
+        {
+          "author": "Peter J. Thuesen",
+          "title": "In Discordance with the Scriptures: American Protestant Battles over Translating the Bible",
+          "year": 1999
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "bodmer-papyri",
+      "year": 1956,
+      "title": "Bodmer papyri published",
+      "kind": "discovery",
+      "place": "Cologny, Geneva (Bodmer Library)",
+      "summary": "Papyri bought by collector Martin Bodmer included P66 (John, published 1956) and P75 (Luke and John, published 1961), among the earliest substantial Gospel manuscripts.",
+      "details": "P75's text is strikingly close to Codex Vaticanus, written over a century later. That finding persuaded many scholars that the Vaticanus-type text was not a 4th-century revision but a carefully preserved older text, strengthening the approach of Westcott and Hort. P75 was given to the Vatican Library in 2007.",
+      "refs": [
+        "John 1:1-14",
+        "Luke 3:1-6"
+      ],
+      "sources": [
+        {
+          "author": "Bruce M. Metzger and Bart D. Ehrman",
+          "title": "The Text of the New Testament",
+          "year": 2005,
+          "locator": "4th edition"
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nasb-1971",
+      "year": 1971,
+      "title": "New American Standard Bible",
+      "kind": "translation",
+      "place": "La Habra, California (Lockman Foundation)",
+      "summary": "A conservative, very literal update of the ASV, popular for close study.",
+      "details": "The New Testament came out in 1963 and the full Bible in 1971; it was updated in 1995 and 2020. It keeps close to Greek and Hebrew word order and uses italics for words supplied in English.",
+      "refs": [],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "niv-1978",
+      "year": 1978,
+      "title": "New International Version",
+      "kind": "translation",
+      "place": "United States (international team)",
+      "summary": "An evangelical, transdenominational team produced the NIV, aiming for a balance between accuracy and natural English. It became the best-selling modern English Bible.",
+      "details": "The New Testament appeared in 1973. The NIV was revised in 1984 and 2011; the 2011 update's gender language (for example 'brothers and sisters' where the Greek includes both) drew both praise and criticism. Its translation committee (the Committee on Bible Translation) continues to review it.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Committee on Bible Translation",
+          "title": "Preface to the NIV",
+          "year": 2011
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nkjv-1982",
+      "year": 1982,
+      "title": "New King James Version",
+      "kind": "translation",
+      "place": "Nashville (Thomas Nelson)",
+      "summary": "Updated the KJV's language while keeping its Textus Receptus base, with footnotes giving Critical Text and Majority Text readings.",
+      "details": "It is a choice for readers who prefer the traditional text but want modern pronouns and verb forms. Its notes are a simple way for non-specialists to see where the main Greek text traditions differ.",
+      "refs": [],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nrsv-1989",
+      "year": 1989,
+      "title": "New Revised Standard Version",
+      "kind": "translation",
+      "place": "United States (National Council of Churches)",
+      "summary": "An ecumenical revision of the RSV used widely in academic and mainline settings, with inclusive language for people.",
+      "details": "It used the Dead Sea Scrolls more fully (for example adding a paragraph to 1 Samuel 10 from 4QSama). An updated edition (NRSVue) appeared in 2021. It has Protestant, Catholic and Orthodox editions with differing sets of deuterocanonical books.",
+      "refs": [
+        "1 Sam 10:27"
+      ],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nlt-1996",
+      "year": 1996,
+      "title": "New Living Translation",
+      "kind": "translation",
+      "place": "Wheaton, Illinois (Tyndale House)",
+      "summary": "A team of scholars turned Kenneth Taylor's popular paraphrase, *The Living Bible* (1971), into a fresh meaning-based translation from Hebrew and Greek.",
+      "details": "Aimed at clarity for modern readers, it was revised in 2004 and later. It is often used for public reading and for new readers.",
+      "refs": [],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "esv-2001",
+      "year": 2001,
+      "title": "English Standard Version",
+      "kind": "translation",
+      "place": "Wheaton, Illinois (Crossway)",
+      "summary": "The ESV revised the 1971 RSV toward a more literal, 'essentially literal' style and conservative evangelical choices, and quickly became widely used in Reformed and evangelical churches.",
+      "details": "Changes from the RSV included 'virgin' in Isaiah 7:14 and other Christological readings of Old Testament passages. Revisions followed in 2007, 2011 and 2016 (which the publisher first called permanent, then reversed).",
+      "refs": [
+        "Isa 7:14"
+      ],
+      "sources": [
+        {
+          "author": "Crossway",
+          "title": "Preface to the English Standard Version",
+          "year": 2001
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "net-csb",
+      "year": 2005,
+      "title": "NET Bible and the HCSB/CSB",
+      "kind": "translation",
+      "place": "United States",
+      "summary": "The NET Bible (first edition 2005, with about 60,000 translators' notes, free online) and the Holman Christian Standard Bible (2004, revised as the CSB in 2017) joined the crowded field of English translations.",
+      "details": "The NET's notes openly show translation and text-critical choices, making it a teaching tool. The CSB aims for 'optimal equivalence', between formal and dynamic. The large number of English versions raises its own debate: some see helpful choice, others confusion and marketing.",
+      "refs": [],
+      "sources": [],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "na28-ubs5",
+      "year": 2012,
+      "title": "Nestle-Aland 28th edition",
+      "kind": "textual",
+      "place": "Münster and Stuttgart",
+      "summary": "NA28 (2012) and UBS5 (2014) updated the standard Greek text, incorporating the CBGM results for James to Jude.",
+      "details": "Outside the Catholic Letters the main text was unchanged from NA27. The edition's apparatus lets readers see which manuscripts support each reading, a resource now also freely online.",
+      "refs": [],
+      "sources": [
+        {
+          "author": "Institute for New Testament Textual Research",
+          "title": "Novum Testamentum Graece, 28th edition",
+          "year": 2012
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "cbgm",
+      "year": 2013,
+      "title": "The CBGM changes how editors choose readings",
+      "kind": "textual",
+      "place": "Münster, Germany (Institute for New Testament Textual Research)",
+      "summary": "The Coherence-Based Genealogical Method, developed by Gerd Mink, uses computers to compare the full texts of manuscripts and map how readings likely passed from one text to another. It led to 34 changes in the Catholic Letters in NA28.",
+      "details": "Instead of grouping manuscripts into broad text-types, the CBGM compares every manuscript's text at every place, then asks which texts are 'potential ancestors' of others. Editors still make judgements, but the method makes them more testable and consistent. It was first applied in the *Editio Critica Maior* of the Catholic Letters (second edition 2013) and then to Acts and Mark. The result has been a slightly greater respect for some Byzantine readings and more places marked as uncertain (with a diamond sign). Critics say it relies heavily on editors' initial decisions and treats texts, not physical manuscripts.",
+      "refs": [
+        "Jude 1:5"
+      ],
+      "sources": [
+        {
+          "author": "Tommy Wasserman and Peter J. Gurry",
+          "title": "A New Approach to Textual Criticism: An Introduction to the Coherence-Based Genealogical Method",
+          "year": 2017
+        }
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "manuscripts": [
+    {
+      "id": "ketef-hinnom-amulets",
+      "name": "Ketef Hinnom silver amulets",
+      "siglum": "KH1, KH2",
+      "date": {
+        "year": -600,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Some earlier proposals of a Hellenistic date, now largely abandoned",
+            "year": -200
+          }
+        ]
+      },
+      "language": "Hebrew (Paleo-Hebrew script)",
+      "material": "Rolled thin silver sheets",
+      "contents": "A shortened form of the priestly blessing and phrases describing God as one who keeps covenant and drives away evil.",
+      "location": "Israel Museum, Jerusalem",
+      "discovered": "1979, by Gabriel Barkay's excavation in a burial cave opposite Mount Zion",
+      "significance": "The oldest known artefacts carrying words closely matching a biblical text, from the time of Judah's last kings. They show the blessing in use before the exile, and how ordinary people wore sacred words as protection.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nash-papyrus",
+      "name": "Nash Papyrus",
+      "date": {
+        "year": -150,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Later palaeographic estimate",
+            "year": -50
+          }
+        ]
+      },
+      "language": "Hebrew",
+      "material": "Papyrus (single sheet)",
+      "contents": "The Ten Commandments (mixing features of Exodus 20 and Deuteronomy 5) followed by the Shema.",
+      "location": "Cambridge University Library",
+      "discovered": "Bought in Egypt by W. L. Nash, published 1903",
+      "significance": "Before 1947 the oldest known Hebrew biblical text. Its form agrees with some Septuagint readings, showing that pre-Masoretic Hebrew texts sometimes differed in small ways.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "great-isaiah-scroll",
+      "name": "Great Isaiah Scroll",
+      "siglum": "1QIsa-a",
+      "date": {
+        "year": -125,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Radiocarbon range (various tests)",
+            "year": -200
+          }
+        ]
+      },
+      "language": "Hebrew",
+      "material": "Parchment scroll, 17 sheets sewn together, about 7.3 metres long",
+      "contents": "All 66 chapters of Isaiah, complete apart from small damaged spots.",
+      "location": "Shrine of the Book, Israel Museum, Jerusalem",
+      "discovered": "1947, Qumran Cave 1, by Bedouin shepherds",
+      "significance": "About a thousand years older than the medieval Hebrew codices, yet its text is substantially the same as the Masoretic Isaiah, differing mainly in spelling and small details. A few readings (for example 'he will see light' in Isa 53:11, shared with the Septuagint) have been adopted by many modern translations. It is a showcase for both the stability and the small variety of the Hebrew text.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "4qsam-a",
+      "name": "4QSamuel-a",
+      "siglum": "4QSama",
+      "date": {
+        "year": -50,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Hebrew",
+      "material": "Parchment scroll (fragmentary)",
+      "contents": "Large parts of 1 and 2 Samuel.",
+      "location": "Israel Antiquities Authority / Rockefeller Museum, Jerusalem",
+      "discovered": "1952, Qumran Cave 4",
+      "significance": "Often agrees with the Septuagint and Chronicles against the Masoretic text of Samuel, which has many copying slips. It preserves a paragraph about Nahash the Ammonite before 1 Sam 11 that the NRSV added to its text.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "p52",
+      "name": "Papyrus 52 (Rylands Library Papyrus P457)",
+      "siglum": "P52",
+      "date": {
+        "year": 150,
+        "circa": true,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Roberts' original estimate (first half of 2nd century)",
+            "year": 125
+          },
+          {
+            "label": "Later possible date (Nongbri and others)",
+            "year": 200
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Papyrus codex fragment, about the size of a credit card",
+      "contents": "A few words from John 18:31-33 on one side and John 18:37-38 on the other.",
+      "location": "John Rylands Library, Manchester",
+      "discovered": "Bought in Egypt by Bernard Grenfell in 1920; identified by C. H. Roberts in 1934",
+      "significance": "Usually cited as the earliest New Testament fragment. If the earlier date is right, it shows John's Gospel was being copied in Egypt within decades of its writing, which helped end 19th-century theories dating John to the late 2nd century. Because it is a codex (written on both sides), it also shows early Christian use of the book form.",
+      "confidence": "debated"
+    },
+    {
+      "id": "p46",
+      "name": "Papyrus 46 (Chester Beatty II and Michigan)",
+      "siglum": "P46",
+      "date": {
+        "year": 200,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Earlier proposal (Y. K. Kim)",
+            "year": 85
+          },
+          {
+            "label": "Later range",
+            "year": 250
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Papyrus codex (single quire)",
+      "contents": "Letters of Paul: Romans (part), Hebrews, 1-2 Corinthians, Ephesians, Galatians, Philippians, Colossians, 1 Thessalonians (part). Leaves at each end are lost.",
+      "location": "Chester Beatty Library, Dublin, and University of Michigan, Ann Arbor",
+      "discovered": "Acquired in the early 1930s from Egypt",
+      "significance": "The oldest substantial collection of Paul's letters. It places Hebrews right after Romans, showing that early Egyptian Christians counted Hebrews as Pauline. It lacks 'in Ephesus' at Eph 1:1 and places the Romans doxology after chapter 15. A very early date around AD 85 was proposed by Kim but is rejected by most.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "p66",
+      "name": "Papyrus 66 (Bodmer II)",
+      "siglum": "P66",
+      "date": {
+        "year": 200,
+        "circa": true,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Later date argued by Nongbri",
+            "year": 300
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Papyrus codex",
+      "contents": "Most of John's Gospel (chapters 1-14 largely complete, fragments of the rest).",
+      "location": "Bodmer Library, Cologny (Geneva), and Chester Beatty Library",
+      "discovered": "Acquired in the 1950s from Egypt; published 1956",
+      "significance": "One of the oldest near-complete Gospel books. The scribe made many mistakes and corrected many of them, giving a rare look at copying and correcting in action. It lacks John 7:53-8:11.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "p75",
+      "name": "Papyrus 75 (Bodmer XIV-XV, Hanna Papyrus)",
+      "siglum": "P75",
+      "date": {
+        "year": 200,
+        "circa": true,
+        "confidence": "debated",
+        "alternatives": [
+          {
+            "label": "Earlier estimate",
+            "year": 175
+          },
+          {
+            "label": "4th-century date argued by Nongbri",
+            "year": 325
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Papyrus codex",
+      "contents": "Much of Luke and John 1-15.",
+      "location": "Vatican Library (since 2007)",
+      "discovered": "Acquired by Martin Bodmer in the 1950s; published 1961",
+      "significance": "Its text is extremely close to Codex Vaticanus, showing that this careful text existed long before the 4th century. It contains the earliest copy of the Lord's Prayer in Luke, and lacks Luke 22:43-44 and Luke 23:34a.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "chester-beatty-papyri",
+      "name": "Chester Beatty Biblical Papyri",
+      "siglum": "P45, P46, P47 (and Old Testament codices)",
+      "date": {
+        "year": 250,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Greek",
+      "material": "Papyrus codices",
+      "contents": "P45: the four Gospels and Acts (damaged); P46: Paul's letters; P47: Revelation 9-17. Also Greek Old Testament books (Genesis, Numbers, Deuteronomy, Isaiah, Jeremiah, Ezekiel, Daniel, Esther and others).",
+      "location": "Chester Beatty Library, Dublin (part of P46 in Michigan)",
+      "discovered": "Bought by Alfred Chester Beatty from dealers; announced 1931",
+      "significance": "P45 is among the earliest examples of the four Gospels and Acts bound in one book, evidence that the fourfold Gospel collection was being produced as a unit. Together the papyri show a range of 2nd-3rd century text forms in Egypt.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-vaticanus",
+      "name": "Codex Vaticanus",
+      "siglum": "B (03)",
+      "date": {
+        "year": 325,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Earliest estimate",
+            "year": 300
+          },
+          {
+            "label": "Latest estimate",
+            "year": 350
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Parchment codex, three columns per page",
+      "contents": "Most of the Greek Old Testament (Septuagint) and the New Testament up to Hebrews 9:14; the rest of Hebrews, the Pastoral Letters, Philemon and Revelation are lost (later replaced in a medieval hand).",
+      "location": "Vatican Library, Rome (recorded in its catalogue since 1475)",
+      "discovered": "Never 'discovered'; long held by the Vatican, but access was restricted until the 19th century",
+      "significance": "Often considered the single most important manuscript of the Greek New Testament. It ends Mark at 16:8, leaving a blank column, and lacks John 7:53-8:11. Its marginal signs (distigmai) may mark known variant points, a subject of study.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-sinaiticus",
+      "name": "Codex Sinaiticus",
+      "siglum": "Aleph (01)",
+      "date": {
+        "year": 345,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Range",
+            "year": 330
+          }
+        ]
+      },
+      "language": "Greek",
+      "material": "Parchment codex, four columns per page",
+      "contents": "Much of the Septuagint, the complete New Testament (the oldest complete one), plus the *Epistle of Barnabas* and part of the *Shepherd of Hermas*.",
+      "location": "British Library (most), with parts at Leipzig University Library, the National Library of Russia and St Catherine's Monastery",
+      "discovered": "Brought to Europe by Constantin von Tischendorf, 1844 and 1859; further leaves found at Sinai in 1975",
+      "significance": "Oldest complete New Testament. It ends Mark at 16:8 and lacks the woman taken in adultery. It was corrected by many later hands over centuries, which lets scholars watch the text being adjusted. Including Barnabas and Hermas shows that the edge of the canon was still somewhat flexible in the 4th century. Fully online since 2009.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-bezae",
+      "name": "Codex Bezae",
+      "siglum": "D (05)",
+      "date": {
+        "year": 400,
+        "circa": true,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Later estimate",
+            "year": 450
+          }
+        ]
+      },
+      "language": "Greek and Latin (facing pages)",
+      "material": "Parchment codex",
+      "contents": "The Gospels (in the 'Western' order Matthew, John, Luke, Mark), Acts, and a fragment of 3 John.",
+      "location": "Cambridge University Library",
+      "discovered": "Given to Cambridge in 1581 by the reformer Theodore Beza, who obtained it after the sack of Lyon in 1562",
+      "significance": "The chief Greek witness to the 'Western' text, which has many additions and rewordings; its Acts is nearly 10 percent longer than the usual text. It is the oldest Greek manuscript containing John 7:53-8:11 and includes a unique saying about a man working on the Sabbath after Luke 6:4.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-washingtonianus",
+      "name": "Codex Washingtonianus (Freer Gospels)",
+      "siglum": "W (032)",
+      "date": {
+        "year": 400,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Greek",
+      "material": "Parchment codex",
+      "contents": "The four Gospels in the Western order.",
+      "location": "Freer Gallery of Art, Smithsonian Institution, Washington, D.C.",
+      "discovered": "Bought by Charles Lang Freer in Egypt in 1906",
+      "significance": "Its text changes type from section to section, as if copied from several sources. In Mark 16 it contains the 'Freer Logion', a unique addition after verse 14 in which the disciples excuse their unbelief and Jesus replies, evidence of how the longer ending was itself expanded.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-alexandrinus",
+      "name": "Codex Alexandrinus",
+      "siglum": "A (02)",
+      "date": {
+        "year": 425,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Greek",
+      "material": "Parchment codex, two columns",
+      "contents": "Nearly the whole Bible (with some losses in Matthew, John and 2 Corinthians), plus *1 and 2 Clement* and, in its table of contents, the *Psalms of Solomon*.",
+      "location": "British Library, London",
+      "discovered": "Given to King Charles I in 1627 by Cyril Lucaris, Patriarch of Constantinople",
+      "significance": "The first of the great early codices available to Western scholars, arriving just too late for the KJV. Its Gospels mostly follow the Byzantine type, while its letters and Revelation follow the older Alexandrian type, and it is one of the best witnesses for Revelation.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-ephraemi",
+      "name": "Codex Ephraemi Rescriptus",
+      "siglum": "C (04)",
+      "date": {
+        "year": 450,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Greek",
+      "material": "Parchment palimpsest (scraped and rewritten)",
+      "contents": "Parts of the Old Testament and parts of every New Testament book except 2 Thessalonians and 2 John.",
+      "location": "Bibliothèque nationale de France, Paris",
+      "discovered": "In the 12th century its Bible text was scraped off and overwritten with sermons of Ephrem the Syrian; Tischendorf deciphered the underlying text in 1840-1843",
+      "significance": "A key example of a palimpsest. Its mixed text is important for the New Testament, and modern imaging continues to recover readings.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "peshitta-manuscripts",
+      "name": "Early Peshitta manuscripts",
+      "siglum": "Syr-p",
+      "date": {
+        "year": 464,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Syriac",
+      "material": "Parchment codices",
+      "contents": "Old and New Testament in Syriac; the earliest dated manuscript (British Library Add. 14,425, AD 463/464) contains parts of the Pentateuch. Codex Ambrosianus (Milan, 6th-7th century) has the whole Old Testament.",
+      "location": "British Library, Biblioteca Ambrosiana (Milan) and others",
+      "discovered": "Many reached the British Museum in the 1840s from the Monastery of the Syrians in the Egyptian desert",
+      "significance": "Among the oldest dated Bible manuscripts in any language. The Peshitta is still the Bible of Syriac churches, and it witnesses to both Hebrew and Greek texts from an early date.",
+      "confidence": "needs-verification"
+    },
+    {
+      "id": "codex-argenteus",
+      "name": "Codex Argenteus (Silver Bible)",
+      "date": {
+        "year": 520,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Gothic",
+      "material": "Purple-dyed parchment with silver and gold ink",
+      "contents": "Parts of the four Gospels in Ulfilas' Gothic translation.",
+      "location": "Uppsala University Library, Sweden",
+      "discovered": "Found at the abbey of Werden in the 16th century; taken by Swedish troops from Prague in 1648",
+      "significance": "The main surviving witness to the Gothic Bible and the oldest substantial text in a Germanic language; probably made for the Ostrogothic court in Italy.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "codex-amiatinus",
+      "name": "Codex Amiatinus",
+      "siglum": "A (Vulgate)",
+      "date": {
+        "year": 715,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Latin (Vulgate)",
+      "material": "Parchment, over 1,000 leaves; the hides of perhaps 500 calves",
+      "contents": "The complete Latin Bible in a single volume.",
+      "location": "Biblioteca Medicea Laurenziana, Florence",
+      "discovered": "Made at Wearmouth-Jarrow, England; its English origin was proved in the 1880s",
+      "significance": "The oldest surviving complete Vulgate and one of the best witnesses to Jerome's text; used for the modern critical Vulgate editions.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "aleppo-codex-ms",
+      "name": "Aleppo Codex",
+      "siglum": "A (Masoretic)",
+      "date": {
+        "year": 930,
+        "circa": true,
+        "confidence": "scholarly-consensus"
+      },
+      "language": "Hebrew (with Masoretic vowels, accents and notes)",
+      "material": "Parchment codex",
+      "contents": "Originally the whole Hebrew Bible; today about 60 percent survives (most of the Torah is missing).",
+      "location": "Israel Museum (Shrine of the Book), Jerusalem",
+      "discovered": "Kept in the Aleppo synagogue for centuries; damaged in 1947; brought to Israel by 1958",
+      "significance": "The most authoritative Masoretic manuscript, pointed by Aaron ben Asher, and praised by Maimonides. Base text of the Hebrew University Bible and the Jerusalem Crown edition.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "leningrad-codex-ms",
+      "name": "Leningrad Codex",
+      "siglum": "L (B19a)",
+      "date": {
+        "year": 1008,
+        "confidence": "scholarly-consensus",
+        "alternatives": [
+          {
+            "label": "Some read the colophon as 1009",
+            "year": 1009
+          }
+        ]
+      },
+      "language": "Hebrew (with Masoretic vowels, accents and notes)",
+      "material": "Parchment codex",
+      "contents": "The complete Hebrew Bible, with decorated 'carpet pages'.",
+      "location": "National Library of Russia, St Petersburg",
+      "discovered": "Acquired by the collector Abraham Firkovich in the 19th century; came to the imperial library in 1863",
+      "significance": "The oldest complete Hebrew Bible, and the base of *Biblia Hebraica Stuttgartensia* and *Biblia Hebraica Quinta*, so it stands behind the Old Testament of nearly every modern translation.",
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "variants": [
+    {
+      "id": "mark-longer-ending",
+      "ref": "Mark 16:9-20",
+      "title": "The ending of Mark",
+      "plain": "Did Mark's Gospel originally stop at 16:8, with frightened women fleeing the empty tomb, or did it include the twelve verses of resurrection appearances, the great commission, snake-handling and drinking poison?",
+      "evidenceFor": "The verses appear in the vast majority of Greek manuscripts (including Alexandrinus, Ephraemi, Bezae and Washingtonianus), and in most Latin, Syriac and Coptic versions. Irenaeus (around 180) quotes Mark 16:19 as part of Mark (*Against Heresies* 3.10.5), and Tatian's *Diatessaron* appears to use the ending, so it was known in the 2nd century. Some argue an ending at 'for they were afraid' is too abrupt for a book.",
+      "evidenceAgainst": "The two oldest complete manuscripts, Sinaiticus and Vaticanus, end at 16:8 (Vaticanus leaves a blank column). Eusebius and Jerome say the most accurate copies they knew ended there. Other manuscripts have a different 'shorter ending', some have both, and one (Washingtonianus) adds more. The vocabulary and style differ noticeably from Mark, and the passage reads like a summary of appearances in the other Gospels and Acts. Most scholars think it was added in the early 2nd century; they debate whether Mark meant to end at 16:8 or the original ending was lost.",
+      "modern": "Most modern translations (NIV, ESV, NRSV, CSB, NASB) print it with brackets or a note saying the earliest manuscripts lack it. The KJV and NKJV print it as normal text (the NKJV with a note). Some put the shorter ending too.",
+      "significance": "It is the longest disputed passage in the New Testament, but no core belief depends on it: the resurrection is announced in Mark 16:6, and the appearances are told in the other Gospels. Practices such as snake-handling in a few churches have rested on 16:18.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "pericope-adulterae",
+      "ref": "John 7:53-8:11",
+      "title": "The woman caught in adultery",
+      "plain": "Was the story of Jesus saying 'let him who is without sin cast the first stone' originally part of John's Gospel?",
+      "evidenceFor": "It appears in most later Greek manuscripts and in Jerome's Vulgate; Jerome says it was found in many Greek and Latin copies. Codex Bezae (around 400) contains it. A similar story is mentioned in the 3rd-century *Didascalia* and possibly by Papias (according to Eusebius). Augustine suggested some had removed it fearing it would encourage adultery. Many scholars think it is an authentic early tradition about Jesus, even if not originally in John.",
+      "evidenceAgainst": "It is missing from the earliest manuscripts (P66, P75, Sinaiticus, Vaticanus, and probably Alexandrinus and Ephraemi, judging by space), from early Syriac and Coptic versions, and no Greek church writer comments on it in John before the 12th century. In manuscripts that include it, it 'floats': after John 7:36, 7:44, 21:25, or after Luke 21:38. Its style is more like Luke's than John's, and it interrupts the flow from 7:52 to 8:12.",
+      "modern": "Most modern translations bracket it with a note that the earliest manuscripts lack it; some put it at the end of John. The KJV and NKJV print it in place.",
+      "significance": "Its message about mercy and judgement fits Jesus' teaching elsewhere, so many churches still read it. The question is whether it belongs to John's text, not whether Jesus could have acted this way.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "comma-johanneum",
+      "ref": "1 John 5:7-8",
+      "title": "The Comma Johanneum ('these three are one')",
+      "plain": "The KJV reads 'For there are three that bear record in heaven, the Father, the Word, and the Holy Ghost: and these three are one.' Is this in the original letter?",
+      "evidenceFor": "The words appear in the later Latin Vulgate tradition and were cited in Latin from around the 4th or 5th century (first clearly in the *Liber Apologeticus* attributed to Priscillian, around 380). Some argue Cyprian (around 250) alludes to it, though he may be interpreting the 'three witnesses' of verse 8 symbolically. Defenders of the Textus Receptus argue that it was dropped from Greek copies and that the grammar of verse 8 reads more smoothly with it.",
+      "evidenceAgainst": "It is absent from every Greek manuscript before about the 14th century; it appears in only about ten late Greek manuscripts, several only in the margin and some translated from Latin. No Greek writer quotes it during the Trinitarian debates of the 4th century, when it would have been very useful. It is absent from early Latin, Syriac, Coptic and other versions. Erasmus left it out of his first two editions and added it in the third (1522) after a Greek manuscript containing it (Codex Montfortianus, likely made around 1520) was produced.",
+      "modern": "Almost all modern translations omit it from the text, many with a footnote. The KJV and NKJV include it (the NKJV with a note).",
+      "significance": "It is the clearest Trinitarian statement in the KJV, but the doctrine of the Trinity was formulated in the 4th century without it and rests on many other passages. Nearly all scholars, conservative and liberal, regard it as a later addition, probably a margin comment that entered the text.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "luke-bloody-sweat",
+      "ref": "Luke 22:43-44",
+      "title": "The angel and the sweat like drops of blood",
+      "plain": "Did Luke write that an angel strengthened Jesus in Gethsemane and that his sweat became like great drops of blood?",
+      "evidenceFor": "Found in the original hand of Sinaiticus, in Bezae, and in many later manuscripts. Justin Martyr (around 155), Irenaeus and Hippolytus know the tradition of the bloody sweat, so it is very early. Some argue it was removed by scribes uncomfortable with Jesus appearing weak and needing an angel's help.",
+      "evidenceAgainst": "Absent from P75 (around 200), Vaticanus, Alexandrinus, Washingtonianus and others; some manuscripts mark it as doubtful; some place it in Matthew instead. Bart Ehrman and others think it was added to stress Jesus' real human suffering against docetists (who said he only seemed human). Others argue that the passage breaks the careful structure of Luke 22:39-46.",
+      "modern": "NA28 prints it in double brackets (likely not original but very old). The ESV, NIV and NASB print it with a note; the NRSV prints it in brackets. Scholarly opinion is genuinely split.",
+      "significance": "It shapes the picture of Jesus' agony. Even without it, Jesus' distress is clear in Mark 14:33-36 and Heb 5:7.",
+      "confidence": "debated"
+    },
+    {
+      "id": "luke-father-forgive",
+      "ref": "Luke 23:34",
+      "title": "'Father, forgive them'",
+      "plain": "Did Luke record Jesus praying from the cross, 'Father, forgive them, for they know not what they do'?",
+      "evidenceFor": "Present in the original hand of Sinaiticus, in Alexandrinus, Ephraemi, and most manuscripts; known in the 2nd century (Irenaeus, the *Diatessaron*). It matches Luke's themes of forgiveness and is echoed by Stephen's prayer in Acts. Some suggest scribes removed it after the fall of Jerusalem in 70, when it seemed God had not forgiven the Jews, or out of anti-Jewish feeling.",
+      "evidenceAgainst": "Absent from P75, Vaticanus, the first hand of Bezae, Washingtonianus and some early versions. A deliberate omission of such a beloved saying is hard to explain, which leads some to think it was a genuine tradition added from oral memory.",
+      "modern": "NA28 puts it in double brackets; most English translations print it, sometimes with a note that some early manuscripts lack it.",
+      "significance": "One of the most quoted words of Jesus. Many scholars who doubt it was originally in Luke still think it may preserve a real saying.",
+      "confidence": "debated"
+    },
+    {
+      "id": "acts-eunuch-confession",
+      "ref": "Acts 8:37",
+      "title": "The Ethiopian eunuch's confession",
+      "plain": "Before his baptism, did the Ethiopian official say, 'I believe that Jesus Christ is the Son of God'?",
+      "evidenceFor": "Irenaeus (around 180) cites the confession (*Against Heresies* 3.12.8), so it is old. It appears in Codex Laudianus (E, 6th century), many Latin manuscripts and a minority of Greek ones; Erasmus included it from the Latin tradition.",
+      "evidenceAgainst": "Absent from P45, P74, Sinaiticus, Vaticanus, Alexandrinus, Ephraemi and most Greek manuscripts including the Byzantine majority. It looks like a baptismal formula added to show that faith was confessed before baptism.",
+      "modern": "Omitted or footnoted in most modern translations (which is why verse 37 seems 'missing'); included in the KJV and NKJV.",
+      "significance": "Its absence does not change the story; it simply reflects early church baptism practice. It is often cited in debates about 'missing verses' in modern Bibles.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "lords-prayer-doxology",
+      "ref": "Matt 6:13",
+      "title": "'For thine is the kingdom, and the power, and the glory'",
+      "plain": "Did Jesus' model prayer in Matthew end with this doxology (praise formula)?",
+      "evidenceFor": "Found in most later Greek manuscripts (including Washingtonianus) and some early versions. The *Didache* (around 100) gives the prayer with a two-part ending ('for yours is the power and the glory forever'), showing that some kind of closing was used in worship very early. Jewish prayers commonly ended with praise, and 1 Chr 29:11 contains similar words.",
+      "evidenceAgainst": "Absent from Sinaiticus, Vaticanus, Bezae, early Latin versions, and the commentaries of Origen, Tertullian and Cyprian on the prayer. It appears in several different forms, a typical sign of a liturgical addition. Luke's version of the prayer has no doxology.",
+      "modern": "Most modern translations put it in a footnote; the KJV and NKJV include it. Protestant churches usually say it; the Catholic Mass says a version after a separate prayer.",
+      "significance": "A clear example of worship practice entering the text. Its words are biblical in spirit and drawn from 1 Chronicles, so the issue is placement, not doctrine.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "john-stirring-water",
+      "ref": "John 5:3-4",
+      "title": "The angel stirring the pool of Bethesda",
+      "plain": "Did John explain that sick people waited because an angel stirred the water, and the first one in was healed?",
+      "evidenceFor": "Verse 4 is in Alexandrinus and most later manuscripts; Tertullian (*On Baptism* 5) knows of the angel, so the tradition is early. The sick man's words in John 5:7 assume the water was stirred, and some argue the explanation was dropped because it sounded superstitious.",
+      "evidenceAgainst": "Absent from P66, P75, Sinaiticus, Vaticanus, the first hand of Ephraemi and others. Many manuscripts that include it mark it with asterisks or obeli (doubt signs), and its wording varies a lot, with several words not used elsewhere by John. It looks like an explanatory note of local belief.",
+      "modern": "Most modern translations omit verse 4 (and the end of verse 3) in the text with a note; the KJV and NKJV include them.",
+      "significance": "The healing story itself is unaffected; the difference is whether John endorses the angel explanation or simply reports what people believed.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "romans-16-24",
+      "ref": "Rom 16:24",
+      "title": "The repeated grace blessing in Romans 16",
+      "plain": "Is 'The grace of our Lord Jesus Christ be with you all. Amen' original at Romans 16:24, and where did Romans originally end?",
+      "evidenceFor": "Found in Bezae, the Western tradition and most later manuscripts; some place it after 16:27 instead.",
+      "evidenceAgainst": "Absent from P46, P61, Sinaiticus, Vaticanus, Alexandrinus and Ephraemi. It duplicates 16:20. More broadly, the closing doxology (16:25-27) moves around in manuscripts: after 14:23, after 15:33 (P46), after 16:23, in two places, or nowhere. This suggests shorter editions of Romans circulated, possibly one associated with Marcion ending at chapter 14.",
+      "modern": "Most modern translations omit 16:24 with a note; the KJV and NKJV include it.",
+      "significance": "Minor in content, but the wandering doxology is important evidence about how Paul's letters were collected and edited in the earliest period.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "women-silent-placement",
+      "ref": "1 Cor 14:34-35",
+      "title": "'Let your women keep silence': where does it belong?",
+      "plain": "No manuscript leaves out these two verses, but some place them after verse 40. Does this suggest they were a margin note added to the text?",
+      "evidenceFor": "That they are original: every surviving manuscript contains them, and most scholars (for example D. A. Carson, Anthony Thiselton, and many complementarian and egalitarian scholars alike) accept them as Paul's, explaining the Western placement as a scribe's rearrangement for smoother flow. Interpreters then debate what kind of speech is restricted (disruptive questions, judging prophecies, or speaking in general).",
+      "evidenceAgainst": "That they were a later insertion: Gordon Fee and Philip Payne argue that the floating position (in Bezae, other Western manuscripts and Ambrosiaster after 14:40) is the typical sign of a margin gloss; that the verses seem to clash with 1 Cor 11:5, where women pray and prophesy; and that marks in Vaticanus (distigmai) and a note in Codex Fuldensis may flag a known problem. Critics reply that the Vaticanus marks' meaning and date are disputed and that the clash can be explained.",
+      "modern": "All major translations print the verses in the usual place; some (NRSV, NET) mention the placement issue in notes. Many interpret the passage in context rather than as a later addition.",
+      "significance": "It bears directly on the debate about women's roles in church. A textual question here should not be used to settle the theological question, and both sides of that debate include scholars who accept the verses as original.",
+      "confidence": "debated"
+    },
+    {
+      "id": "mark-son-of-god",
+      "ref": "Mark 1:1",
+      "title": "'The Son of God' in Mark's opening line",
+      "plain": "Does Mark open with 'The beginning of the gospel of Jesus Christ, the Son of God', or just 'of Jesus Christ'?",
+      "evidenceFor": "'Son of God' is in Vaticanus, Bezae, Washingtonianus, a corrector of Sinaiticus and most manuscripts. It fits Mark's structure, where Jesus is called God's Son at the baptism (1:11), transfiguration (9:7) and by the centurion at the cross (15:39). Accidental omission is easy, because the titles were abbreviated (nomina sacra) and a string of similar endings could be skipped.",
+      "evidenceAgainst": "Absent from the first hand of Sinaiticus, Koridethi (Theta), a few other manuscripts, and Origen. Scribes were more likely to add a title of honour than drop one, and Ehrman argues it was added to stress Jesus' divinity.",
+      "modern": "Most translations include it, some with a note; NA28 prints it in single brackets (doubtful); the SBL Greek New Testament omits it.",
+      "significance": "Whatever is decided here, Mark clearly calls Jesus God's Son elsewhere, so the theology is unaffected; the question is about how Mark framed his opening.",
+      "confidence": "debated"
+    },
+    {
+      "id": "ephesians-in-ephesus",
+      "ref": "Eph 1:1",
+      "title": "'To the saints who are in Ephesus'",
+      "plain": "Was the letter we call Ephesians originally addressed to Ephesus?",
+      "evidenceFor": "'In Ephesus' appears in Alexandrinus, Bezae, correctors of Sinaiticus and Vaticanus, and the vast majority of manuscripts and versions. All ancient titles say 'to the Ephesians'.",
+      "evidenceAgainst": "Absent from P46, the first hands of Sinaiticus and Vaticanus, minuscule 1739 and Origen, who comments on the oddity of the wording without a place. Marcion called the letter 'to the Laodiceans' (Tertullian, *Against Marcion* 5.11 and 5.17). The letter is also strangely impersonal for a church where Paul spent about three years. Many think it was a circular letter to several churches, with a blank for the name or no name at all.",
+      "modern": "Most translations print 'in Ephesus' with a note that some early manuscripts lack it; NA28 brackets it.",
+      "significance": "Helps explain the letter's general tone and has been linked to the 'letter from Laodicea' in Col 4:16, though that link is speculative.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "deut-sons-of-god",
+      "ref": "Deut 32:8",
+      "title": "'Sons of Israel' or 'sons of God'?",
+      "plain": "When the Most High divided the nations, did he set their boundaries by the number of the 'sons of Israel' (Masoretic text) or the 'sons of God' (Dead Sea Scroll and Greek evidence)?",
+      "evidenceFor": "For 'sons of God': a Dead Sea Scroll (4QDeut-j) reads 'sons of God' (*bene elohim*), and the Septuagint reads 'angels of God' or 'sons of God'. The idea of nations allotted to heavenly beings while Israel is the LORD's own portion (verse 9) fits other passages about heavenly beings over nations (Dan 10:13, Dan 10:20, Ps 82). Scribes may have changed it to avoid any hint of other divine beings.",
+      "evidenceAgainst": "For 'sons of Israel': it is the reading of the Masoretic text and the Samaritan Pentateuch, and some argue it links the 70 nations of Genesis 10 with the 70 descendants of Jacob who went to Egypt (Gen 46:27). Defenders say the 'sons of God' reading could be an interpretive change in the other direction.",
+      "modern": "The ESV ('sons of God'), NRSV ('the gods'), NLT ('heavenly court') and NET ('heavenly assembly') follow the scroll; the KJV, NKJV, NIV and NASB keep 'sons of Israel', often with a note.",
+      "significance": "A clear case where the Dead Sea Scrolls changed modern translations, and it feeds into discussions of the 'divine council' in Old Testament theology (for example the work of Michael Heiser). Some fear it suggests polytheism; most who adopt it read the 'sons of God' as created heavenly beings under the one God.",
+      "confidence": "debated"
+    },
+    {
+      "id": "samuel-nahash-paragraph",
+      "ref": "1 Sam 10:27",
+      "title": "The missing paragraph about Nahash",
+      "plain": "A Dead Sea Scroll of Samuel has a paragraph, not in the Masoretic text, explaining that Nahash king of the Ammonites had been gouging out the right eyes of Gadites and Reubenites before he besieged Jabesh-gilead.",
+      "evidenceFor": "That it is original: 4QSama contains it, and the 1st-century historian Josephus seems to know it (*Antiquities* 6.68-71). It explains the abrupt start of 1 Sam 11 and the strange demand of 11:2. The Masoretic text of Samuel is known to have suffered many copying losses; a scribe's eye could skip a paragraph between similar phrases.",
+      "evidenceAgainst": "That it is a later addition: it is absent from the Masoretic text and the Septuagint, and some scholars see it as an expansion explaining a puzzling story, of the kind found elsewhere in Second Temple texts.",
+      "modern": "The NRSV (1989) and NRSVue print it in the text; most other major translations (KJV, NIV, ESV, NASB) do not, though some mention it in a note.",
+      "significance": "A vivid example of the Dead Sea Scrolls possibly restoring lost text. It also shows translators disagree over how far to follow a single ancient manuscript.",
+      "confidence": "debated"
+    },
+    {
+      "id": "psalm-22-pierced",
+      "ref": "Ps 22:16",
+      "title": "'They pierced my hands and my feet' or 'like a lion'?",
+      "plain": "In Psalm 22 (verse 17 in Hebrew numbering), does the sufferer say his enemies 'pierced' his hands and feet, or 'like a lion' they are at his hands and feet?",
+      "evidenceFor": "For 'pierced' (or 'dug', 'bored'): the Septuagint (before Christ) reads 'they dug', as do the Syriac and some Hebrew manuscripts; a Psalms scroll from Nahal Hever (5/6HevPs) appears to read a verb form *ka'aru* rather than *ka'ari*. 'Like a lion my hands and feet' lacks a verb and is awkward Hebrew. Christians link the verse to the crucifixion, though the New Testament never quotes this line directly.",
+      "evidenceAgainst": "For 'like a lion': it is the reading of most Masoretic manuscripts, and lions appear in the psalm (verses 13 and 21), so the image fits. The meaning of the Nahal Hever spelling is debated, and the verb 'dig' does not normally mean 'pierce'. Jewish translations (for example the NJPS) read 'like lions [they maul] my hands and feet'. Some Christian scholars also hold that the text is uncertain.",
+      "modern": "Most Christian translations read 'pierced' (KJV, NIV, ESV, NASB, NKJV); some mention the alternative in a note. The NRSV (1989) reads 'my hands and feet have shriveled', and Jewish versions follow 'like a lion'.",
+      "significance": "Highly sensitive in Jewish-Christian debate. Accusations of deliberate tampering have gone both ways; the evidence shows a genuinely difficult text with ancient witnesses on both sides, and an honest reading should present both.",
+      "confidence": "debated"
+    }
+  ],
+  "translations": [
+    {
+      "id": "septuagint",
+      "name": "Septuagint (LXX)",
+      "year": -250,
+      "translators": "Jewish scholars in Alexandria (legend: 72 elders); many hands over two centuries",
+      "language": "Greek",
+      "basis": "Hebrew (and some Aramaic) texts, sometimes different from the later Masoretic text",
+      "approach": "Varies by book: very literal (e.g. Ecclesiastes) to free (e.g. Job, Proverbs)",
+      "impact": "The Bible of Greek-speaking Jews and of the early church; quoted often in the New Testament; still the official Old Testament of the Eastern Orthodox Church; parent of many early Christian translations.",
+      "parent": []
+    },
+    {
+      "id": "targums",
+      "name": "Targums",
+      "year": -100,
+      "translators": "Jewish synagogue interpreters and scholars (Onkelos, Jonathan and others)",
+      "language": "Aramaic",
+      "basis": "Hebrew Bible",
+      "approach": "From fairly literal (Onkelos on the Torah) to expansive paraphrase with explanations",
+      "impact": "Began as oral explanations in synagogues when Aramaic replaced Hebrew as the daily language; written forms date from the late Second Temple period (fragments at Qumran) to the early medieval era. They show how Jews interpreted passages, including messianic readings.",
+      "parent": []
+    },
+    {
+      "id": "peshitta",
+      "name": "Peshitta",
+      "year": 150,
+      "translators": "Unknown; possibly Jewish or Jewish-Christian translators for the Old Testament",
+      "language": "Syriac",
+      "basis": "Hebrew for the Old Testament; Greek for the New (standardised in the early 5th century)",
+      "approach": "Generally faithful, idiomatic Syriac ('simple' version)",
+      "impact": "Standard Bible of Syriac Christianity from India to Mesopotamia; its New Testament lacks 2 Peter, 2-3 John, Jude and Revelation.",
+      "parent": []
+    },
+    {
+      "id": "old-latin",
+      "name": "Old Latin (Vetus Latina)",
+      "year": 180,
+      "translators": "Unknown, many independent translators",
+      "language": "Latin",
+      "basis": "Septuagint for the Old Testament; early Greek manuscripts for the New",
+      "approach": "Mostly very literal, in everyday Latin; many differing versions",
+      "impact": "The Bible of the Latin church before Jerome, used by Tertullian, Cyprian and Augustine; witnesses to early 'Western' Greek readings.",
+      "parent": [
+        "septuagint"
+      ]
+    },
+    {
+      "id": "coptic",
+      "name": "Coptic versions (Sahidic and Bohairic)",
+      "year": 250,
+      "translators": "Egyptian Christians, probably monks and clergy",
+      "language": "Coptic",
+      "basis": "Greek Old and New Testament",
+      "approach": "Fairly literal",
+      "impact": "Brought scripture to native Egyptians and early monasticism; the Sahidic version is an important witness to the Alexandrian Greek text, and Bohairic is still used in Coptic liturgy.",
+      "parent": [
+        "septuagint"
+      ]
+    },
+    {
+      "id": "gothic",
+      "name": "Gothic Bible",
+      "year": 360,
+      "translators": "Ulfilas (Wulfila), bishop to the Goths",
+      "language": "Gothic",
+      "basis": "Greek (Byzantine-type text and the Septuagint)",
+      "approach": "Very literal, following Greek word order",
+      "impact": "First Bible in a Germanic language; required a new alphabet; oldest major Germanic literature (Codex Argenteus).",
+      "parent": [
+        "septuagint"
+      ]
+    },
+    {
+      "id": "vulgate",
+      "name": "Vulgate",
+      "year": 405,
+      "translators": "Jerome (with others for parts of the New Testament)",
+      "language": "Latin",
+      "basis": "Hebrew for most Old Testament books; Greek for the New Testament; Old Latin revised",
+      "approach": "Balanced: faithful to meaning, sometimes literal, in good Latin",
+      "impact": "The Bible of the Western church for over a thousand years; declared 'authentic' at Trent; source of much theological vocabulary; parent of Wycliffe and Douay-Rheims.",
+      "parent": [
+        "old-latin",
+        "septuagint"
+      ]
+    },
+    {
+      "id": "slavonic",
+      "name": "Old Church Slavonic",
+      "year": 863,
+      "translators": "Cyril (Constantine) and Methodius and their disciples",
+      "language": "Old Church Slavonic",
+      "basis": "Greek Gospels, lectionaries and Septuagint",
+      "approach": "Literal, shaped for worship",
+      "impact": "Created a literary language and alphabet (Glagolitic, later Cyrillic) for Slavic peoples; still the liturgical Bible of Russian and other Slavic Orthodox churches.",
+      "parent": [
+        "septuagint"
+      ]
+    },
+    {
+      "id": "wycliffe",
+      "name": "Wycliffe Bible",
+      "year": 1382,
+      "translators": "John Wycliffe's followers, including Nicholas of Hereford and probably John Purvey",
+      "language": "Middle English",
+      "basis": "Latin Vulgate",
+      "approach": "Early version very literal; later version (around 1395) more idiomatic",
+      "impact": "First complete English Bible; copied by hand and banned without licence in 1409, yet widely read; linked to the Lollard movement.",
+      "parent": [
+        "vulgate"
+      ]
+    },
+    {
+      "id": "tyndale",
+      "name": "Tyndale's translation",
+      "year": 1526,
+      "translators": "William Tyndale",
+      "language": "Early Modern English",
+      "basis": "Erasmus' Greek; Hebrew for the Pentateuch and other books; Luther consulted",
+      "approach": "Direct, plain and rhythmic; close to the original but in natural speech",
+      "impact": "First printed English New Testament and first English translation from the originals; about four-fifths of the KJV New Testament keeps his wording on common estimates.",
+      "parent": [
+        "luther"
+      ]
+    },
+    {
+      "id": "luther",
+      "name": "Luther Bible",
+      "year": 1534,
+      "translators": "Martin Luther, with Philip Melanchthon and other Wittenberg colleagues",
+      "language": "German",
+      "basis": "Erasmus' Greek New Testament (1522 NT) and the Hebrew Bible; Vulgate consulted",
+      "approach": "Dynamic and idiomatic, aimed at ordinary speech",
+      "impact": "Shaped modern German; spread Reformation ideas; placed the Apocrypha in a separate section; model for Tyndale and other Protestant translators.",
+      "parent": [
+        "vulgate"
+      ]
+    },
+    {
+      "id": "coverdale",
+      "name": "Coverdale Bible",
+      "year": 1535,
+      "translators": "Miles Coverdale",
+      "language": "Early Modern English",
+      "basis": "Tyndale where available; German (Luther, Zurich Bible) and Latin for the rest",
+      "approach": "Smooth and musical, secondary translation",
+      "impact": "First complete printed English Bible; his Psalms lived on in the Book of Common Prayer; led into the Great Bible (1539), the first English Bible authorised for churches.",
+      "parent": [
+        "tyndale",
+        "luther",
+        "vulgate"
+      ]
+    },
+    {
+      "id": "great-bible",
+      "name": "Great Bible",
+      "year": 1539,
+      "translators": "Miles Coverdale, under Thomas Cromwell",
+      "language": "Early Modern English",
+      "basis": "Matthew's Bible (Tyndale plus Coverdale), revised",
+      "approach": "Formal, for public reading",
+      "impact": "First English Bible authorised for use in churches under Henry VIII; chained in parish churches for anyone to read.",
+      "parent": [
+        "tyndale",
+        "coverdale"
+      ]
+    },
+    {
+      "id": "geneva",
+      "name": "Geneva Bible",
+      "year": 1560,
+      "translators": "English Protestant exiles led by William Whittingham",
+      "language": "Early Modern English",
+      "basis": "Hebrew and Greek, revising Tyndale and the Great Bible",
+      "approach": "Accurate and readable, with study notes",
+      "impact": "First English Bible with verse numbers throughout; the household Bible of Shakespeare, the Puritans and early American colonists; its notes provoked James I.",
+      "parent": [
+        "tyndale",
+        "great-bible"
+      ]
+    },
+    {
+      "id": "bishops",
+      "name": "Bishops' Bible",
+      "year": 1568,
+      "translators": "Anglican bishops under Archbishop Matthew Parker",
+      "language": "Early Modern English",
+      "basis": "Great Bible revised against Hebrew and Greek",
+      "approach": "Formal, with fewer and milder notes",
+      "impact": "Official church Bible meant to replace the Geneva; never popular; the official base text that the KJV translators were told to revise.",
+      "parent": [
+        "great-bible",
+        "geneva"
+      ]
+    },
+    {
+      "id": "douay-rheims",
+      "name": "Douay-Rheims Bible",
+      "year": 1610,
+      "translators": "Gregory Martin and colleagues at the English College, Douai and Rheims",
+      "language": "Early Modern English",
+      "basis": "Latin Vulgate, with Greek and Hebrew consulted",
+      "approach": "Very literal to the Latin, with Latin-based vocabulary",
+      "impact": "The English Catholic Bible for centuries (revised by Challoner, 1749-1752); influenced some KJV vocabulary.",
+      "parent": [
+        "vulgate"
+      ]
+    },
+    {
+      "id": "kjv",
+      "name": "King James Version (Authorized Version)",
+      "year": 1611,
+      "translators": "About 47 scholars in six companies at Westminster, Oxford and Cambridge",
+      "language": "Early Modern English",
+      "basis": "Hebrew Masoretic text; Greek Textus Receptus (Beza and Estienne editions); revising the Bishops' Bible",
+      "approach": "Formal equivalence with literary dignity; italics mark supplied words",
+      "impact": "The most influential English book; shaped English language and literature; still used by many churches, with some (the 'KJV-only' movement) holding it uniquely authoritative. Standard text today is the 1769 Blayney revision.",
+      "parent": [
+        "bishops",
+        "tyndale",
+        "geneva",
+        "douay-rheims"
+      ]
+    },
+    {
+      "id": "rv",
+      "name": "Revised Version",
+      "year": 1885,
+      "translators": "British committees (with American cooperation)",
+      "language": "English",
+      "basis": "Masoretic text; Greek text close to Westcott-Hort",
+      "approach": "Very formal; minimal changes to KJV style",
+      "impact": "First officially approved revision of the KJV and the first major English Bible to reflect the older Greek manuscripts.",
+      "parent": [
+        "kjv"
+      ]
+    },
+    {
+      "id": "asv",
+      "name": "American Standard Version",
+      "year": 1901,
+      "translators": "American revision committee",
+      "language": "English",
+      "basis": "As the Revised Version",
+      "approach": "Very formal; uses 'Jehovah'",
+      "impact": "Valued for precision; base for the RSV and NASB, and for the Living Bible paraphrase.",
+      "parent": [
+        "rv"
+      ]
+    },
+    {
+      "id": "rsv",
+      "name": "Revised Standard Version",
+      "year": 1952,
+      "translators": "Committee under the National Council of Churches (Luther Weigle chair)",
+      "language": "English",
+      "basis": "Masoretic text with Dead Sea Scrolls (Isaiah); critical Greek text",
+      "approach": "Formal, modern but dignified",
+      "impact": "Mainline standard for decades; controversial among conservatives (Isa 7:14 'young woman'); parent of the NRSV and ESV; had Catholic and ecumenical editions.",
+      "parent": [
+        "asv"
+      ]
+    },
+    {
+      "id": "nasb",
+      "name": "New American Standard Bible",
+      "year": 1971,
+      "translators": "Lockman Foundation scholars",
+      "language": "English",
+      "basis": "Masoretic text (BHK/BHS); Nestle-Aland Greek",
+      "approach": "Highly formal, word-for-word",
+      "impact": "A favourite for close study among conservative evangelicals; updated 1995 and 2020.",
+      "parent": [
+        "asv"
+      ]
+    },
+    {
+      "id": "niv",
+      "name": "New International Version",
+      "year": 1978,
+      "translators": "Committee on Bible Translation; over 100 evangelical scholars from several countries",
+      "language": "English",
+      "basis": "Masoretic text with other ancient witnesses; eclectic Greek text",
+      "approach": "Balanced, leaning dynamic (thought-for-thought where needed)",
+      "impact": "Best-selling modern English Bible; revised 1984 and 2011; the 2011 gender-language changes were debated.",
+      "parent": []
+    },
+    {
+      "id": "nkjv",
+      "name": "New King James Version",
+      "year": 1982,
+      "translators": "About 130 scholars under Thomas Nelson",
+      "language": "English",
+      "basis": "Textus Receptus (NT); Masoretic text; notes give Critical and Majority Text readings",
+      "approach": "Formal",
+      "impact": "Updates KJV language while keeping its textual base; popular with those who prefer the traditional text.",
+      "parent": [
+        "kjv"
+      ]
+    },
+    {
+      "id": "nrsv",
+      "name": "New Revised Standard Version",
+      "year": 1989,
+      "translators": "Committee chaired by Bruce Metzger",
+      "language": "English",
+      "basis": "BHS with Dead Sea Scrolls; UBS Greek",
+      "approach": "Formal-leaning, 'as literal as possible, as free as necessary'; inclusive language for people",
+      "impact": "Standard in academic and mainline settings; includes 4QSama paragraph at 1 Sam 10; updated as NRSVue (2021).",
+      "parent": [
+        "rsv"
+      ]
+    },
+    {
+      "id": "nlt",
+      "name": "New Living Translation",
+      "year": 1996,
+      "translators": "About 90 scholars revising Kenneth Taylor's Living Bible",
+      "language": "English",
+      "basis": "BHS; UBS/NA Greek",
+      "approach": "Dynamic (thought-for-thought)",
+      "impact": "Very readable; widely used for devotional reading, youth and public reading.",
+      "parent": [
+        "asv"
+      ]
+    },
+    {
+      "id": "esv",
+      "name": "English Standard Version",
+      "year": 2001,
+      "translators": "Over 100 scholars under Crossway (Wayne Grudem, J. I. Packer and others)",
+      "language": "English",
+      "basis": "BHS; UBS/NA Greek; revising the 1971 RSV",
+      "approach": "Formal ('essentially literal')",
+      "impact": "Widely adopted in Reformed and evangelical churches; one of the most-used translations in the US.",
+      "parent": [
+        "rsv"
+      ]
+    },
+    {
+      "id": "net",
+      "name": "NET Bible",
+      "year": 2005,
+      "translators": "Scholars largely associated with Dallas Theological Seminary",
+      "language": "English",
+      "basis": "BHS with Dead Sea Scrolls; NA Greek",
+      "approach": "Mixed: readable text with about 60,000 notes giving literal renderings and textual details",
+      "impact": "Free online from the start; its notes make translation choices transparent for students.",
+      "parent": []
+    },
+    {
+      "id": "csb",
+      "name": "Christian Standard Bible",
+      "year": 2017,
+      "translators": "Over 100 scholars under Holman/Lifeway, revising the HCSB (2004)",
+      "language": "English",
+      "basis": "BHS; NA28/UBS5 Greek",
+      "approach": "'Optimal equivalence' between formal and dynamic",
+      "impact": "Popular in Southern Baptist and wider evangelical churches.",
+      "parent": []
+    }
+  ],
+  "materials": [
+    {
+      "name": "Clay tablets and potsherds",
+      "summary": "Across the ancient Near East, writing was pressed into clay tablets (Babylon, Assyria) or written in ink on broken pottery called ostraca. Ezekiel draws Jerusalem on a clay brick, and Jeremiah's purchase deeds are stored in a clay jar to last. In Israel, letters written on potsherds (such as those from Lachish, around 588 BC) show soldiers' messages during the Babylonian invasion.",
+      "refs": [
+        "Ezek 4:1",
+        "Jer 32:14",
+        "Jer 34:7"
+      ]
+    },
+    {
+      "name": "Stone and plastered stone",
+      "summary": "Stone was for permanent, public writing. The Ten Commandments were written on stone tablets, and Israel was told to write the law on large plastered stones at Mount Ebal. Job wishes his words were carved in rock with an iron tool and lead. Inscriptions like the Siloam tunnel inscription and the Mesha Stele (which mentions Israel's king Omri) are stone texts from biblical times.",
+      "refs": [
+        "Exod 31:18",
+        "Deut 27:2-8",
+        "Job 19:23-24",
+        "Josh 8:32"
+      ]
+    },
+    {
+      "name": "Papyrus",
+      "summary": "Papyrus was made in Egypt from strips of reed pith laid crosswise, pressed and dried into sheets that could be glued into rolls. It was cheap and common in the Greco-Roman world. Most early New Testament manuscripts (P52, P46, P66, P75) are papyrus. It survives mainly in dry climates like Egypt's, which is why so many early fragments come from there. When John writes he does not want to use 'paper and ink', the word means papyrus.",
+      "refs": [
+        "2 John 1:12",
+        "Job 8:11"
+      ]
+    },
+    {
+      "name": "Parchment and vellum",
+      "summary": "Parchment is animal skin (sheep, goat or calf) scraped, stretched and dried; fine calf skin is called vellum. It is far more durable than papyrus and can be scraped and reused (a palimpsest). Most Dead Sea Scrolls are on parchment, and from the 4th century the great Christian codices were too. Paul asks Timothy to bring 'the books, especially the parchments'.",
+      "refs": [
+        "2 Tim 4:13"
+      ]
+    },
+    {
+      "name": "Scroll versus codex",
+      "summary": "A scroll is a long roll read by unrolling from one end to the other; Jewish scripture used scrolls and still does in synagogue worship. A codex is the ancestor of the modern book: sheets folded and bound at the spine. Early Christians adopted the codex unusually quickly, perhaps because it was cheaper (both sides used), easier to search, and could hold several books together (all four Gospels, or Paul's letters). Revelation's sealed scroll and Jesus' reading from an Isaiah scroll reflect the older format.",
+      "refs": [
+        "Luke 4:17-20",
+        "Rev 5:1",
+        "Jer 36:23",
+        "Isa 34:4"
+      ]
+    },
+    {
+      "name": "Ink and pens",
+      "summary": "Ancient ink was usually carbon (soot mixed with gum and water), which is black and stable; later iron-gall ink (from oak galls and iron salts) was common in medieval manuscripts and can eat into the page. Scribes used reed pens on papyrus and later quills. Jeremiah's scroll is written in ink, and a scribe in Ezekiel's vision carries a writing case.",
+      "refs": [
+        "Jer 36:18",
+        "Ezek 9:2",
+        "3 John 1:13"
+      ]
+    },
+    {
+      "name": "Scribes and copying",
+      "summary": "Scribes were trained professionals in royal courts and temples (like Shaphan and Baruch), later teachers of the law (like Ezra). Paul usually dictated to a secretary (Tertius names himself in Romans) and signed in his own hand. Early Christian copies were often made by literate believers rather than professional scribes, which led to more variation at first. Scribes made predictable kinds of mistakes: skipping lines between similar endings, swapping letters, harmonising parallel passages, and occasionally changing wording on purpose to clarify or protect doctrine. Textual critics study these patterns to work back to earlier forms. Revelation's warning against adding or taking away shows awareness of the danger.",
+      "refs": [
+        "2 Kgs 22:8",
+        "Jer 36:4",
+        "Ezra 7:6",
+        "Rom 16:22",
+        "Gal 6:11",
+        "Rev 22:18-19"
+      ]
+    },
+    {
+      "name": "Masoretic notes and safeguards",
+      "summary": "Jewish scribes developed strict rules for copying Torah scrolls (recorded in later tractates like *Soferim*): exact materials, spacing, and correction procedures. The Masoretes (around 700-1000) added vowel points and accents and margin notes counting words and letters, marking unusual forms, and noting where the written text (*ketiv*) is read aloud differently (*qere*), as with God's name YHWH read as *Adonai*. Their care explains the remarkable stability of the medieval Hebrew text, though the Dead Sea Scrolls show that before standardisation there was more variety. Jesus' saying about the smallest letter and stroke of the law reflects the care given to the written text.",
+      "refs": [
+        "Matt 5:18",
+        "Neh 8:8",
+        "Deut 4:2"
+      ]
+    },
+    {
+      "name": "Printing and paper",
+      "summary": "Paper, made from rags and plant fibre, spread from China through the Islamic world to Europe by the 12th-13th centuries. Combined with Gutenberg's movable type (around 1455), it made Bibles affordable and identical copies possible, enabling vernacular Bibles, chapter-and-verse references, concordances and eventually mass distribution by Bible societies. Isaiah's picture of God's word that does not return empty is often quoted in that missionary movement.",
+      "refs": [
+        "Isa 55:10-11",
+        "Ps 68:11"
+      ]
+    }
+  ]
+}
