@@ -1138,5 +1138,2513 @@
       "one-hundred-fifty-three",
       "eight"
     ]
+  },
+  {
+    "id": "white",
+    "name": "White",
+    "original": "Hebrew lavan; Greek leukos",
+    "category": "colour",
+    "plain": "White in the Bible stands for purity, victory and the glory of God. Sins are washed 'white as snow', the transfigured Jesus shines white, and the redeemed in Revelation wear white robes washed in the Lamb's blood.",
+    "meanings": [
+      {
+        "meaning": "Cleansing and forgiveness",
+        "refs": [
+          "Isa 1:18",
+          "Ps 51:7",
+          "Rev 7:14"
+        ],
+        "note": "The paradox of Rev 7:14 (robes made white in blood) shows white is about forgiveness through sacrifice, not natural innocence.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Divine glory and holiness",
+        "refs": [
+          "Dan 7:9",
+          "Matt 17:2",
+          "Mark 9:3",
+          "Rev 1:14",
+          "Rev 20:11"
+        ],
+        "note": "The Ancient of Days has white clothing and hair; Jesus' clothes shine at the transfiguration; the final judgement is from a great white throne.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Victory and righteousness of the saints",
+        "refs": [
+          "Rev 3:4-5",
+          "Rev 6:11",
+          "Rev 19:8",
+          "Rev 19:14"
+        ],
+        "note": "Revelation explains the bride's fine linen as 'the righteous deeds of the saints'. White robes are also festal and victory clothing in the Greco-Roman world.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Heavenly messengers",
+        "refs": [
+          "Matt 28:3",
+          "John 20:12",
+          "Acts 1:10"
+        ],
+        "note": "Angels at the tomb and ascension appear in white or shining clothes.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Snow and wool as images of cleansing (Isa 1:18), white garments for joy (Eccl 9:8), white hair of the Ancient of Days (Dan 7:9). In skin-disease laws, white hair or patches could be a sign of uncleanness (Lev 13:3), so white is not always positive.",
+    "ntUsage": "Transfiguration (Mark 9:3), angels (Matt 28:3), and many uses in Revelation: white robes, white horse, white stone with a new name (Rev 2:17), white cloud (Rev 14:14), white throne (Rev 20:11).",
+    "caution": "Biblical white imagery is about light and cleanness, not skin colour. Using it to rank human races is a misuse with an ugly history.",
+    "related": [
+      "red-scarlet",
+      "black",
+      "hyssop",
+      "lamb",
+      "horse"
+    ]
+  },
+  {
+    "id": "red-scarlet",
+    "name": "Red and scarlet",
+    "original": "Hebrew adom, shani (tolaat shani, 'scarlet worm'); Greek kokkinos, pyrros",
+    "category": "colour",
+    "plain": "Red is the colour of blood, so it carries both life and violence. Scarlet thread or wool appears in cleansing rituals and in Rahab's rescue, while red and scarlet also mark the bloodshed of war and the luxury of Babylon in Revelation.",
+    "meanings": [
+      {
+        "meaning": "Sin and guilt",
+        "refs": [
+          "Isa 1:18"
+        ],
+        "note": "'Though your sins be as scarlet.' Scarlet dye was colourfast, so the image is of a stain that will not wash out, except by God.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Cleansing and atonement rituals",
+        "refs": [
+          "Lev 14:4",
+          "Num 19:2",
+          "Num 19:6",
+          "Heb 9:19"
+        ],
+        "note": "Scarlet wool with cedar and hyssop was used in purification; the red heifer's ashes cleansed from death. Hebrews gathers these into Christ's work.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Rescue and covenant sign",
+        "refs": [
+          "Josh 2:18",
+          "Josh 2:21",
+          "Josh 6:25"
+        ],
+        "note": "Rahab's scarlet cord marks her house for safety. Christian writers from Clement of Rome (*1 Clement* 12) onward saw it as a sign of redemption through blood, recalling the Passover blood on doorposts. Tradition, not the stated meaning.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "War and bloodshed",
+        "refs": [
+          "Rev 6:4",
+          "Nah 2:3",
+          "Isa 63:2"
+        ],
+        "note": "The red horse takes peace from the earth; the warrior's garments are red as one who treads the winepress.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Luxury and imperial power",
+        "refs": [
+          "Rev 17:3-4",
+          "Rev 18:16",
+          "Matt 27:28"
+        ],
+        "note": "Babylon rides a scarlet beast and wears purple and scarlet. Soldiers mock Jesus with a scarlet (Matthew) or purple (Mark, John) cloak, parodying royalty.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Scarlet thread on Zerah's hand (Gen 38:28), tabernacle curtains of scarlet yarn (Exod 26:1), purification (Lev 14:4), Esau/Edom the 'red' one (Gen 25:30), a wife clothing her household in scarlet (Prov 31:21).",
+    "ntUsage": "Scarlet robe at the mocking (Matt 27:28), red horse and red dragon (Rev 6:4; Rev 12:3), scarlet beast and woman (Rev 17:3-4), scarlet wool in Hebrews (Heb 9:19).",
+    "caution": "A popular sermon links Ps 22:6 ('I am a worm', Hebrew tolaat) to the scarlet-dye insect to picture Christ's blood. The word tolaat is the general word for worm; the connection is speculative.",
+    "related": [
+      "white",
+      "purple",
+      "dragon",
+      "horse",
+      "hyssop",
+      "cedar"
+    ]
+  },
+  {
+    "id": "purple",
+    "name": "Purple",
+    "original": "Hebrew argaman; Greek porphyra",
+    "category": "colour",
+    "plain": "Purple dye, made from sea snails, was very expensive, so purple meant royalty, wealth and high status. It was woven into the tabernacle and priestly clothes, worn by kings, mocked onto Jesus, and sold by Lydia.",
+    "meanings": [
+      {
+        "meaning": "Royalty and honour",
+        "refs": [
+          "Judg 8:26",
+          "Esth 8:15",
+          "Dan 5:7",
+          "Dan 5:29"
+        ],
+        "note": "Kings of Midian wore purple; Mordecai and Daniel are honoured with it.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Holiness and beauty of God's dwelling",
+        "refs": [
+          "Exod 26:1",
+          "Exod 28:5-6",
+          "2 Chr 3:14"
+        ],
+        "note": "Blue, purple and scarlet yarn are the standard trio for the tabernacle and priestly garments.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Mock kingship of Jesus",
+        "refs": [
+          "Mark 15:17",
+          "John 19:2",
+          "John 19:5"
+        ],
+        "note": "The irony is that the mocked king is the true king.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Wealth that ignores God and neighbour",
+        "refs": [
+          "Luke 16:19",
+          "Rev 17:4",
+          "Rev 18:12"
+        ],
+        "note": "The rich man in purple ignores Lazarus; Babylon trades in purple.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Tabernacle fabric (Exod 26:1), priestly garments (Exod 28:5), royal dress (Judg 8:26), the capable wife's clothing (Prov 31:22), the lover's hair 'like purple' (Song 7:5).",
+    "ntUsage": "Jesus' mocking robe (Mark 15:17), the rich man (Luke 16:19), Lydia the seller of purple (Acts 16:14), Babylon (Rev 17:4; Rev 18:16).",
+    "caution": "Purple itself is neutral; it signals status. Whether that status is honoured or condemned depends on the story.",
+    "related": [
+      "red-scarlet",
+      "blue",
+      "gold-colour"
+    ]
+  },
+  {
+    "id": "blue",
+    "name": "Blue (tekhelet)",
+    "original": "Hebrew tekhelet; Greek hyakinthinos",
+    "category": "colour",
+    "plain": "The Hebrew tekhelet was a costly blue-violet dye. Israelites wore a blue cord on the tassels of their garments to remember God's commands, and the high priest wore a robe all of blue. Jewish tradition linked the colour to sea, sky and God's throne.",
+    "meanings": [
+      {
+        "meaning": "Remembering God's commands",
+        "refs": [
+          "Num 15:38-39"
+        ],
+        "note": "The blue thread in the tassels was a visible reminder to obey and not follow one's own heart.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Priestly holiness and service",
+        "refs": [
+          "Exod 28:31",
+          "Exod 39:22",
+          "Num 4:6-7"
+        ],
+        "note": "The high priest's robe was all blue; blue cloths covered the holiest furnishings when moved.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Heaven and the throne of God",
+        "refs": [
+          "Exod 24:10",
+          "Ezek 1:26"
+        ],
+        "note": "Under God's feet was a sapphire pavement 'like the very heaven'. The Talmud (*Menachot* 43b) says tekhelet resembles the sea, the sea the sky, and the sky the throne of glory. That chain is tradition.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Tabernacle and priestly fabric (Exod 26:1; Exod 28:31), tassels (Num 15:38), Persian palace hangings (Esth 1:6).",
+    "ntUsage": "Almost absent as a symbol. Jacinth (hyacinth-blue) appears in breastplates of the demonic cavalry (Rev 9:17) and as a foundation stone (Rev 21:20). Jesus' tassels (Matt 9:20; Matt 14:36) would have had tekhelet if dye was available.",
+    "caution": "The exact shade and source of tekhelet are debated (most scholars favour a sea snail, Murex trunculus). Ancient colour words do not match modern categories well.",
+    "related": [
+      "purple",
+      "red-scarlet",
+      "white"
+    ]
+  },
+  {
+    "id": "black",
+    "name": "Black",
+    "original": "Hebrew shachor; Greek melas",
+    "category": "colour",
+    "plain": "Black in the Bible is mostly linked to mourning, famine, judgement and darkness. It is not used to describe a people as evil; in Song of Songs the woman is 'black and beautiful'.",
+    "meanings": [
+      {
+        "meaning": "Famine and scarcity",
+        "refs": [
+          "Rev 6:5-6",
+          "Lam 5:10",
+          "Lam 4:8"
+        ],
+        "note": "The black horse carries scales and food prices that mean famine.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Mourning and judgement",
+        "refs": [
+          "Jer 4:28",
+          "Joel 2:10",
+          "Rev 6:12"
+        ],
+        "note": "Heavens darken and the sun becomes black as sackcloth (dark goat-hair cloth worn in mourning).",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Utter darkness of the lost",
+        "refs": [
+          "Jude 1:13",
+          "2 Pet 2:17"
+        ],
+        "note": "'Blackness of darkness' (KJV) describes the fate of false teachers.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Simple description of beauty or health",
+        "refs": [
+          "Song 1:5-6",
+          "Song 5:11",
+          "Lev 13:37"
+        ],
+        "note": "The woman is sun-darkened and beautiful; the beloved's hair is black as a raven; black hair can show healing.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Darkened skin from suffering (Job 30:30; Lam 4:8), darkened heavens (Jer 4:28), horses in Zechariah's vision (Zech 6:2; Zech 6:6), sunburnt beauty (Song 1:5).",
+    "ntUsage": "Hair black or white (Matt 5:36), the black horse (Rev 6:5), the black sun (Rev 6:12), blackness of darkness (Jude 1:13).",
+    "caution": "The so-called 'curse of Ham' used to justify racial slavery misreads Gen 9:25: the curse falls on Canaan, and nothing is said about skin colour. Biblical darkness imagery is about light and its absence, not ethnicity.",
+    "related": [
+      "white",
+      "horse",
+      "raven",
+      "pale"
+    ]
+  },
+  {
+    "id": "green",
+    "name": "Green",
+    "original": "Hebrew yereq, raanan; Greek chlōros",
+    "category": "colour",
+    "plain": "Green is the colour of life, growth and God's provision: green pastures, green leaves of the righteous. Because pagan shrines were often under leafy trees, 'under every green tree' became a phrase for idolatry.",
+    "meanings": [
+      {
+        "meaning": "Life and God's provision",
+        "refs": [
+          "Gen 1:30",
+          "Ps 23:2",
+          "Mark 6:39"
+        ],
+        "note": "God gives green plants for food; the shepherd leads to green pastures. Mark notes the green grass at the feeding, perhaps an eyewitness touch of springtime.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Flourishing of the righteous",
+        "refs": [
+          "Ps 52:8",
+          "Jer 17:8",
+          "Ps 92:14",
+          "Hos 14:8"
+        ],
+        "note": "Trees that stay green in drought picture those who trust God.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Idolatrous worship",
+        "refs": [
+          "Deut 12:2",
+          "1 Kgs 14:23",
+          "Jer 2:20"
+        ],
+        "note": "Hill-top shrines and sacred trees; 'under every green tree' became a formula.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Green wood and dry",
+        "refs": [
+          "Luke 23:31"
+        ],
+        "note": "'If they do this when the wood is green, what will happen when it is dry?' Most read it as: if the innocent Jesus suffers so, how much worse for guilty Jerusalem. Exact sense debated.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "Green plants for food (Gen 1:30), green pastures (Ps 23:2), the wicked flourishing like a green tree only for a time (Ps 37:35), idolatrous groves (Deut 12:2).",
+    "ntUsage": "Green grass (Mark 6:39; Rev 8:7; Rev 9:4), green and dry wood (Luke 23:31). The same Greek word chlōros is the 'pale' horse of Rev 6:8.",
+    "caution": "Green is not a liturgical or mystical code in Scripture; church calendars using green for 'ordinary time' are later tradition.",
+    "related": [
+      "pale",
+      "olive-tree",
+      "palm",
+      "tree-of-life"
+    ]
+  },
+  {
+    "id": "gold-colour",
+    "name": "Gold (as colour and splendour)",
+    "original": "Hebrew zahav; Greek chrysos, chrysous",
+    "category": "colour",
+    "plain": "Gold stands for the highest value, royal splendour and the glory of God's presence. The holiest objects in the tabernacle and temple were gold, and the new Jerusalem is pure gold like clear glass. Gold can also become an idol, as with the golden calf.",
+    "meanings": [
+      {
+        "meaning": "God's glory and holy presence",
+        "refs": [
+          "Exod 25:11",
+          "Exod 25:31",
+          "1 Kgs 6:22",
+          "Rev 21:18",
+          "Rev 21:21"
+        ],
+        "note": "The ark, lampstand and inner temple were gold. The whole new city is gold, as though the holy of holies now fills everything (it is also cube-shaped, Rev 21:16, like the holy of holies in 1 Kgs 6:20).",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Kingship and honour",
+        "refs": [
+          "Dan 2:32",
+          "Dan 2:38",
+          "Matt 2:11",
+          "Rev 4:4"
+        ],
+        "note": "The head of gold is Babylon; the magi bring gold to a king; elders wear golden crowns. Irenaeus (*Against Heresies* 3.9.2) and later Fathers read the gold as a sign of kingship, incense of deity and myrrh of death; tradition.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Refined faith",
+        "refs": [
+          "Job 23:10",
+          "Zech 13:9",
+          "1 Pet 1:7",
+          "Rev 3:18"
+        ],
+        "note": "Gold is purified by fire; faith tested by trials is more precious.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Idolatry and greed",
+        "refs": [
+          "Exod 32:4",
+          "Dan 3:1",
+          "Jas 5:3",
+          "1 Tim 2:9"
+        ],
+        "note": "The golden calf and Nebuchadnezzar's golden statue; hoarded gold that corrodes.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Tabernacle furnishings (Exod 25), Solomon's temple (1 Kgs 6:22), wisdom better than gold (Prov 8:19), God's words sweeter and more desirable than gold (Ps 19:10), 'the gold is mine' (Hag 2:8).",
+    "ntUsage": "Magi's gift (Matt 2:11), tested faith (1 Pet 1:7), golden lampstands and sash (Rev 1:12-13), golden bowls of incense as prayers (Rev 5:8), the golden city (Rev 21:18).",
+    "caution": "Gold as a metal and precious stone is covered separately under metals and stones. Prosperity readings that treat gold streets as a promise of present wealth misread the vision.",
+    "related": [
+      "purple",
+      "white",
+      "ox"
+    ]
+  },
+  {
+    "id": "pale",
+    "name": "Pale (the pale horse)",
+    "original": "Greek chlōros; Hebrew yeraqon",
+    "category": "colour",
+    "plain": "The fourth horse in Revelation is chlōros, the same word used for green grass. Here it means the sickly grey-green of a corpse. Its rider is named Death, and Hades follows. The colour itself signals death and disease.",
+    "meanings": [
+      {
+        "meaning": "Death and plague",
+        "refs": [
+          "Rev 6:8"
+        ],
+        "note": "Death kills by sword, famine, pestilence and wild beasts, echoing Ezekiel's four judgements.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Limited, permitted judgement",
+        "refs": [
+          "Rev 6:8",
+          "Ezek 14:21"
+        ],
+        "note": "Authority is 'given' over a quarter of the earth: the judgement is real but bounded by God.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Terror and sickness on the face",
+        "refs": [
+          "Jer 30:6",
+          "Joel 2:6"
+        ],
+        "note": "Hebrew speaks of faces turning pale or greenish (yeraqon) in terror.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Faces turning pale with fear (Jer 30:6); horses of different colours patrolling the earth in Zechariah (Zech 1:8; Zech 6:2-3), the background for Revelation's four horses.",
+    "ntUsage": "Only Rev 6:8 as a horse colour; chlōros elsewhere means green (Mark 6:39; Rev 8:7; Rev 9:4).",
+    "caution": "Linking the pale horse to a particular modern pandemic or to Islam (because of green flags) is speculative. Revelation's horsemen describe recurring realities of war, famine and death.",
+    "related": [
+      "green",
+      "black",
+      "red-scarlet",
+      "white",
+      "horse",
+      "four"
+    ]
+  },
+  {
+    "id": "lamb",
+    "name": "Lamb",
+    "original": "Hebrew seh, kebes; Greek amnos, arnion",
+    "category": "animal",
+    "plain": "Lambs were the common sacrifice in Israel, above all at Passover. John the Baptist calls Jesus 'the Lamb of God who takes away the sin of the world', and Revelation's central figure is a Lamb standing as though slain, who is also the conquering ruler.",
+    "meanings": [
+      {
+        "meaning": "The Passover lamb and rescue from death",
+        "refs": [
+          "Exod 12:3-7",
+          "Exod 12:46",
+          "John 19:36",
+          "1 Cor 5:7"
+        ],
+        "note": "The lamb's blood marked the houses spared. John notes Jesus' bones were not broken, like the Passover lamb; Paul calls Christ 'our Passover'.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The suffering servant led to slaughter",
+        "refs": [
+          "Isa 53:7",
+          "Acts 8:32-35",
+          "1 Pet 1:19"
+        ],
+        "note": "Philip applies Isa 53 to Jesus. 'A lamb without blemish' combines the sacrificial requirement with sinlessness.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "God will provide the lamb",
+        "refs": [
+          "Gen 22:8",
+          "Gen 22:13",
+          "John 1:29"
+        ],
+        "note": "Abraham's words on Moriah are widely read by Christians as pointing to Christ. Jewish tradition reflects deeply on Isaac's binding (the Aqedah). The link to John 1:29 is a common typology, not stated in John.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "Which lamb is the 'Lamb of God'?",
+        "refs": [
+          "John 1:29",
+          "John 1:36",
+          "Num 28:3-4"
+        ],
+        "note": "Scholars debate whether John means the Passover lamb, the servant of Isa 53, the daily temple lamb (tamid), the lamb of Gen 22, or a warrior-lamb of Jewish apocalyptic (as in *1 Enoch* 89-90). Many think several are combined.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "The slain and conquering Lamb",
+        "refs": [
+          "Rev 5:6",
+          "Rev 5:12",
+          "Rev 17:14",
+          "Rev 21:22-23"
+        ],
+        "note": "John hears of a Lion and sees a Lamb (Rev 5:5-6): Christ conquers by self-giving death. The Lamb is worshipped, shepherds, judges, marries his bride and lights the city.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Abel's offering of the flock (Gen 4:4), Passover (Exod 12), daily morning and evening lambs (Num 28:3-4), the servant as a lamb (Isa 53:7), the wolf lying with the lamb (Isa 11:6; Isa 65:25).",
+    "ntUsage": "John the Baptist's witness (John 1:29), Philip and the eunuch (Acts 8:32), Christ our Passover (1 Cor 5:7), the blameless lamb (1 Pet 1:19), and nearly thirty times in Revelation (arnion). Disciples as lambs among wolves (Luke 10:3) and Jesus' 'feed my lambs' (John 21:15).",
+    "caution": "Revelation's beast from the earth has 'two horns like a lamb' (Rev 13:11): a lamb-like look is no guarantee of truth. Passover was not formally a sin offering, so the NT's lamb imagery blends several sacrifices rather than mapping one-to-one.",
+    "related": [
+      "sheep",
+      "lion",
+      "goat",
+      "seven",
+      "hyssop",
+      "white"
+    ]
+  },
+  {
+    "id": "lion",
+    "name": "Lion",
+    "original": "Hebrew ari, aryeh, kephir, labi; Greek leōn",
+    "category": "animal",
+    "plain": "Lions lived in ancient Israel and were the most feared predator. The lion stands for royal strength (the Lion of Judah), for God's roaring judgement, and also for deadly enemies, including the devil 'like a roaring lion'. The same animal can picture God or his enemies.",
+    "meanings": [
+      {
+        "meaning": "Royal power of Judah and the Messiah",
+        "refs": [
+          "Gen 49:9-10",
+          "Rev 5:5"
+        ],
+        "note": "Jacob's blessing calls Judah a lion's cub with the sceptre. Revelation names Jesus 'the Lion of the tribe of Judah'.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "God's voice and judgement",
+        "refs": [
+          "Amos 3:8",
+          "Hos 5:14",
+          "Hos 11:10",
+          "Amos 1:2"
+        ],
+        "note": "'The lion has roared; who will not fear?' God is like a lion against his unfaithful people, and also roars to gather them home.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Enemies and the devil",
+        "refs": [
+          "1 Pet 5:8",
+          "Ps 22:13",
+          "Ps 22:21",
+          "2 Tim 4:17"
+        ],
+        "note": "Persecutors and Satan are lions that devour. Paul was 'rescued from the lion's mouth', probably meaning a lethal danger rather than literal lions.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Courage of the righteous",
+        "refs": [
+          "Prov 28:1",
+          "2 Sam 1:23",
+          "Prov 30:30"
+        ],
+        "note": "'The righteous are bold as a lion.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "A face of the throne creatures and a Gospel symbol",
+        "refs": [
+          "Ezek 1:10",
+          "Rev 4:7"
+        ],
+        "note": "One of the four faces. Later tradition linked the lion to Mark (Jerome) or to John (Irenaeus); tradition varies.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Samson and David kill lions (Judg 14:5-6; 1 Sam 17:34-37), a disobedient prophet killed by a lion (1 Kgs 13:24), Daniel in the den (Dan 6:22), Babylon as a winged lion (Dan 7:4), the lion eating straw in the peaceable kingdom (Isa 11:7).",
+    "ntUsage": "The devil as a roaring lion (1 Pet 5:8), the faithful who shut lions' mouths (Heb 11:33), the Lion of Judah (Rev 5:5), a lion-like beast (Rev 13:2).",
+    "caution": "C. S. Lewis's Aslan has made the lion a popular Christ image; that is a modern literary use. In Scripture the lion is morally neutral, and context decides.",
+    "related": [
+      "lamb",
+      "four",
+      "ox",
+      "eagle",
+      "beast"
+    ]
+  },
+  {
+    "id": "dove",
+    "name": "Dove",
+    "original": "Hebrew yonah, tor (turtledove); Greek peristera, trygōn",
+    "category": "animal",
+    "plain": "Doves were gentle, common birds and the poor family's sacrifice. A dove brought Noah the olive leaf, and the Spirit descended on Jesus 'like a dove' at his baptism. Doves also picture innocence, love, mourning and, in Hosea, silliness.",
+    "meanings": [
+      {
+        "meaning": "The Holy Spirit",
+        "refs": [
+          "Matt 3:16",
+          "Mark 1:10",
+          "Luke 3:22",
+          "John 1:32"
+        ],
+        "note": "All four Gospels use the image; Luke says 'in bodily form like a dove'. Some link it to the Spirit hovering over the waters (Gen 1:2), which rabbinic tradition likened to a hovering dove (Talmud *Hagigah* 15a). That connection is tradition.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "New creation and peace after judgement",
+        "refs": [
+          "Gen 8:8-12"
+        ],
+        "note": "The dove finds no rest, then returns with an olive leaf. The modern peace symbol of dove and olive branch grew from this story.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Sacrifice of the poor",
+        "refs": [
+          "Lev 5:7",
+          "Lev 12:8",
+          "Luke 2:24"
+        ],
+        "note": "Mary and Joseph offer the poor family's sacrifice. Temple dove-sellers were driven out by Jesus (Matt 21:12).",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Innocence and love",
+        "refs": [
+          "Matt 10:16",
+          "Song 2:14",
+          "Song 5:2"
+        ],
+        "note": "'Wise as serpents, innocent as doves.' The beloved is 'my dove'.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Foolishness and mourning",
+        "refs": [
+          "Hos 7:11",
+          "Isa 38:14",
+          "Isa 59:11"
+        ],
+        "note": "Ephraim is a silly dove flitting between Egypt and Assyria; doves' cooing sounds like moaning.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Noah's dove (Gen 8:8-12), Abraham's covenant offering (Gen 15:9), poor offerings (Lev 12:8), longing for dove's wings (Ps 55:6), Jonah's name means dove (Jonah 1:1), exiles returning like doves (Hos 11:11).",
+    "ntUsage": "Jesus' baptism (Matt 3:16), sacrifice for Jesus' presentation (Luke 2:24), temple sellers (John 2:14), innocence (Matt 10:16).",
+    "caution": "Some preachers make Jonah ('dove') a type of the Spirit or of Israel; that is a name-based link with little textual support.",
+    "related": [
+      "olive-tree",
+      "serpent",
+      "raven",
+      "lamb"
+    ]
+  },
+  {
+    "id": "serpent",
+    "name": "Serpent",
+    "original": "Hebrew nachash, saraph, tannin; Greek ophis, drakōn",
+    "category": "animal",
+    "plain": "The serpent in Eden deceives Eve and is cursed, and Revelation names 'that ancient serpent, called the devil and Satan'. Yet the same image is used for healing: the bronze serpent Moses lifted up, which Jesus compares to his own lifting up on the cross.",
+    "meanings": [
+      {
+        "meaning": "Deceiver and enemy of God's people",
+        "refs": [
+          "Gen 3:1",
+          "Gen 3:14-15",
+          "2 Cor 11:3",
+          "Rev 12:9",
+          "Rev 20:2"
+        ],
+        "note": "Genesis does not name the serpent as Satan; later Jewish writing (*Wisdom of Solomon* 2:24) and the NT make that identification. Gen 3:15 has been read since Irenaeus as the first gospel promise (the 'protoevangelium'); many modern scholars read it more generally as lasting conflict between humans and evil.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Healing through what was lifted up",
+        "refs": [
+          "Num 21:6-9",
+          "John 3:14-15"
+        ],
+        "note": "Looking at the bronze serpent healed the bitten. Jesus uses it of his crucifixion.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "An object that became an idol",
+        "refs": [
+          "2 Kgs 18:4"
+        ],
+        "note": "Hezekiah smashed the bronze serpent (called Nehushtan) because people burned incense to it. Good symbols can become idols.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Shrewdness",
+        "refs": [
+          "Matt 10:16",
+          "Gen 3:1"
+        ],
+        "note": "The serpent was 'crafty' (Hebrew arum, a pun on 'naked', arummim, in Gen 2:25). Jesus tells disciples to be wise as serpents, without guile.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Power over evil",
+        "refs": [
+          "Luke 10:19",
+          "Ps 91:13",
+          "Acts 28:3-6"
+        ],
+        "note": "Disciples tread on serpents; Paul shakes off a viper. Mark 16:18 also mentions handling snakes, but that is in the longer ending of Mark, missing from the earliest manuscripts.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Eden (Gen 3), Moses' staff turned to a snake (Exod 4:3; Exod 7:10-12), fiery serpents (Num 21:6), wine biting like a serpent (Prov 23:32), Leviathan the twisting serpent (Isa 27:1), the serpent eating dust in the new creation (Isa 65:25).",
+    "ntUsage": "Brood of vipers (Matt 3:7; Matt 23:33), bread or a snake (Matt 7:10), the lifted serpent (John 3:14), Paul's viper (Acts 28:3), the ancient serpent (Rev 12:9).",
+    "caution": "The fiery serpents (seraphim) of Num 21:6 share a word with the seraphim of Isa 6:2; some scholars think the seraphim were pictured as winged serpents, others disagree. Snake-handling as a test of faith rests on a textually uncertain verse.",
+    "related": [
+      "dragon",
+      "leviathan",
+      "dove",
+      "beast"
+    ]
+  },
+  {
+    "id": "eagle",
+    "name": "Eagle (and vulture)",
+    "original": "Hebrew nesher; Greek aetos",
+    "category": "animal",
+    "plain": "The eagle in the Bible is a symbol of strength, speed, care and renewal, especially in 'they shall mount up with wings as eagles'. The Hebrew word nesher often means the griffon vulture, so some passages that say 'eagle' picture birds gathering at carcasses.",
+    "meanings": [
+      {
+        "meaning": "God's carrying care",
+        "refs": [
+          "Exod 19:4",
+          "Deut 32:11"
+        ],
+        "note": "God bore Israel 'on eagles' wings', like a bird stirring and carrying its young.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Renewed strength",
+        "refs": [
+          "Isa 40:31",
+          "Ps 103:5"
+        ],
+        "note": "Those who wait on the LORD rise up with fresh strength.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Swift invading armies and proud kingdoms",
+        "refs": [
+          "Deut 28:49",
+          "Hab 1:8",
+          "Ezek 17:3",
+          "Jer 49:16",
+          "Obad 1:4"
+        ],
+        "note": "Babylon is a great eagle; Edom nests among the stars but will be brought down.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Birds gathering at a carcass",
+        "refs": [
+          "Matt 24:28",
+          "Luke 17:37",
+          "Job 39:27-30"
+        ],
+        "note": "Many translations now say 'vultures'. Jesus' saying means judgement will be as obvious as birds circling a body. A Roman-eagle reading (the legions' standards) is sometimes proposed; it is debated.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "A face of the throne creatures and a Gospel symbol",
+        "refs": [
+          "Ezek 1:10",
+          "Rev 4:7",
+          "Rev 12:14"
+        ],
+        "note": "The woman of Rev 12 receives eagle's wings to flee to the wilderness, echoing the exodus. Church tradition (Jerome, Augustine) assigned the eagle to John's soaring Gospel.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Unclean bird (Lev 11:13), the exodus image (Exod 19:4), Saul and Jonathan swifter than eagles (2 Sam 1:23), Babylon as an eagle (Ezek 17:3), winged lion (Dan 7:4).",
+    "ntUsage": "Vultures at the carcass (Matt 24:28), the fourth living creature (Rev 4:7), an eagle crying woe (Rev 8:13), eagle's wings for the woman (Rev 12:14).",
+    "caution": "The legend that the eagle renews youth by flying near the sun and plunging into water comes from medieval bestiaries, not from Ps 103:5.",
+    "related": [
+      "four",
+      "lion",
+      "ox",
+      "raven",
+      "dragon"
+    ]
+  },
+  {
+    "id": "ox",
+    "name": "Ox, bull and calf",
+    "original": "Hebrew shor, par, egel, baqar; Greek bous, moschos, tauros",
+    "category": "animal",
+    "plain": "Oxen were the farmer's strength, pulling ploughs and carts, and bulls were the most costly sacrifice. The ox stands for labour and strength, the bull for sacrifice and for power that could become an idol, as with the golden calf.",
+    "meanings": [
+      {
+        "meaning": "Strength, labour and fair wages",
+        "refs": [
+          "Prov 14:4",
+          "Deut 25:4",
+          "1 Cor 9:9",
+          "1 Tim 5:18"
+        ],
+        "note": "'Do not muzzle the ox while it treads grain.' Paul applies it to paying gospel workers.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Costly sacrifice",
+        "refs": [
+          "Lev 4:3",
+          "Lev 16:3",
+          "Heb 9:13",
+          "Heb 10:4"
+        ],
+        "note": "Bulls were offered for the priest's sin and on the Day of Atonement; Hebrews contrasts them with Christ's self-offering.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Idolatrous power",
+        "refs": [
+          "Exod 32:4",
+          "1 Kgs 12:28",
+          "Hos 8:5-6"
+        ],
+        "note": "The golden calf and Jeroboam's calves at Bethel and Dan. Bulls were common symbols for gods like Baal; some scholars think the calves were pedestals for an invisible God rather than images of him.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "A face of the throne creatures and a Gospel symbol",
+        "refs": [
+          "Ezek 1:10",
+          "Rev 4:7"
+        ],
+        "note": "Tradition linked the ox (or calf) with Luke, whose Gospel begins with a priest offering in the temple.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "Knowing one's master",
+        "refs": [
+          "Isa 1:3"
+        ],
+        "note": "'The ox knows its owner, but Israel does not know.' This verse later inspired the ox and donkey in nativity scenes.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Goring ox laws (Exod 21:28), twelve bronze oxen under the sea (1 Kgs 7:25), Elisha ploughing with twelve yoke (1 Kgs 19:19), lion eating straw like the ox (Isa 11:7).",
+    "ntUsage": "Rescuing an ox on the sabbath (Luke 14:5), the fatted calf (Luke 15:23), the yoke (Matt 11:29-30), muzzled ox (1 Cor 9:9), calf-faced creature (Rev 4:7).",
+    "caution": "The law not to plough with ox and donkey together (Deut 22:10) is often linked to 'unequally yoked' (2 Cor 6:14); Paul does not cite it, so the link is a likely echo at best.",
+    "related": [
+      "four",
+      "lion",
+      "eagle",
+      "donkey",
+      "gold-colour"
+    ]
+  },
+  {
+    "id": "horse",
+    "name": "Horse",
+    "original": "Hebrew sus; Greek hippos",
+    "category": "animal",
+    "plain": "In Bible times horses were war machines, not farm animals. They stand for military might, which Israel was warned not to trust. In visions, coloured horses carry God's judgements through the earth, and Christ returns on a white horse.",
+    "meanings": [
+      {
+        "meaning": "Military power and false security",
+        "refs": [
+          "Deut 17:16",
+          "Ps 20:7",
+          "Ps 33:17",
+          "Isa 31:1",
+          "Prov 21:31"
+        ],
+        "note": "'Some trust in chariots and some in horses.' Kings were not to multiply horses.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "God's heavenly armies",
+        "refs": [
+          "2 Kgs 2:11",
+          "2 Kgs 6:17",
+          "Rev 19:14"
+        ],
+        "note": "Chariots and horses of fire surround Elisha.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Agents of judgement through the earth",
+        "refs": [
+          "Zech 1:8-11",
+          "Zech 6:1-8",
+          "Rev 6:1-8"
+        ],
+        "note": "Revelation's four horsemen draw on Zechariah. The first rider on a white horse is debated: Christ or the gospel's advance (some Fathers), or a conqueror and false messiah who imitates Christ (many modern readers).",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Christ the conquering king",
+        "refs": [
+          "Rev 19:11-16"
+        ],
+        "note": "The rider called Faithful and True, the Word of God, wins with the sword from his mouth.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Untamed will",
+        "refs": [
+          "Ps 32:9",
+          "Jas 3:3",
+          "Jer 8:6"
+        ],
+        "note": "Bit and bridle picture discipline of speech and stubbornness.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Pharaoh's horses in the sea (Exod 15:1), Solomon's horse trade (1 Kgs 10:28), the warhorse of Job (Job 39:19-25), renouncing horses (Hos 14:3), the king who cuts off the war-horse (Zech 9:10).",
+    "ntUsage": "Bits in horses' mouths (Jas 3:3), the horsemen (Rev 6), demonic cavalry (Rev 9:16-17), the white horse of Christ (Rev 19:11).",
+    "caution": "The contrast between horse and donkey matters: the messianic king of Zech 9:9-10 rides a donkey and removes the war-horse.",
+    "related": [
+      "donkey",
+      "white",
+      "red-scarlet",
+      "black",
+      "pale",
+      "four"
+    ]
+  },
+  {
+    "id": "donkey",
+    "name": "Donkey",
+    "original": "Hebrew chamor, aton (she-donkey), ayir (colt); Greek onos, pōlos",
+    "category": "animal",
+    "plain": "Donkeys were the everyday working animal and could also be the mount of leaders in peacetime. Jesus rides into Jerusalem on a donkey, fulfilling Zechariah's picture of a king who comes humbly and brings peace. Balaam's donkey famously sees the angel and speaks.",
+    "meanings": [
+      {
+        "meaning": "The humble, peaceful king",
+        "refs": [
+          "Zech 9:9",
+          "Matt 21:2-7",
+          "John 12:14-15"
+        ],
+        "note": "Matthew has a donkey and a colt; many take this as reading Zechariah's poetic parallel literally, others think two animals were really present. Either way the king comes in peace, not on a war-horse.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Royal and noble status",
+        "refs": [
+          "Judg 5:10",
+          "Judg 10:4",
+          "1 Kgs 1:33",
+          "1 Kgs 1:38"
+        ],
+        "note": "Leaders rode donkeys; Solomon was crowned on David's mule. So the donkey is humble compared to a war-horse, but not shameful.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "God speaking through the unlikely",
+        "refs": [
+          "Num 22:21-33",
+          "2 Pet 2:16"
+        ],
+        "note": "Balaam's donkey sees the angel the prophet cannot see.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Judah's abundant future",
+        "refs": [
+          "Gen 49:11"
+        ],
+        "note": "Binding a donkey to a vine pictures such plenty that no one minds the donkey eating the grapes. Many read it as messianic, echoed in Zech 9:9.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "Abraham's donkey to Moriah (Gen 22:3), firstborn donkeys redeemed with a lamb (Exod 13:13), Saul looking for lost donkeys (1 Sam 9:3), Samson's jawbone (Judg 15:15), the burial of a donkey as disgrace (Jer 22:19).",
+    "ntUsage": "Triumphal entry (Matt 21:5), untying a donkey on the sabbath (Luke 13:15), Balaam's donkey (2 Pet 2:16). The donkey at the nativity is tradition (from Isa 1:3), not in the Gospels.",
+    "caution": "The ancient slur that Jews or Christians worshipped a donkey (reported by Tertullian and seen in the Alexamenos graffito) is a pagan insult, not a biblical symbol.",
+    "related": [
+      "horse",
+      "ox",
+      "lamb",
+      "vine",
+      "palm"
+    ]
+  },
+  {
+    "id": "sheep",
+    "name": "Sheep and shepherd",
+    "original": "Hebrew tson, roeh (shepherd); Greek probaton, poimēn",
+    "category": "animal",
+    "plain": "Israel was a nation of shepherds, so God's people are pictured as sheep and their leaders as shepherds. God is the true shepherd, bad kings are condemned as false shepherds, and Jesus calls himself the Good Shepherd who lays down his life.",
+    "meanings": [
+      {
+        "meaning": "God as shepherd",
+        "refs": [
+          "Ps 23:1",
+          "Ps 80:1",
+          "Isa 40:11",
+          "Ezek 34:11-16"
+        ],
+        "note": "Kings across the ancient Near East were called shepherds; Israel applies the title first to God.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Leaders as shepherds, good and bad",
+        "refs": [
+          "2 Sam 5:2",
+          "Jer 23:1-4",
+          "Ezek 34:2-10",
+          "1 Pet 5:2-4",
+          "Acts 20:28-29"
+        ],
+        "note": "Leaders who feed themselves instead of the flock are judged. Elders are told to shepherd willingly. 'Pastor' comes from the Latin for shepherd.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Jesus the Good Shepherd",
+        "refs": [
+          "John 10:11",
+          "John 10:14-16",
+          "Heb 13:20",
+          "1 Pet 2:25",
+          "Ezek 34:23"
+        ],
+        "note": "Jesus claims the role God promised for himself and for a coming David. He knows, calls, gathers and dies for the sheep.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "People who are lost or helpless",
+        "refs": [
+          "Isa 53:6",
+          "Matt 9:36",
+          "Luke 15:4-7",
+          "Num 27:17"
+        ],
+        "note": "Sheep without a shepherd wander and scatter.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Sheep and goats at the judgement",
+        "refs": [
+          "Matt 25:32-33",
+          "Ezek 34:17"
+        ],
+        "note": "Shepherds separated mixed flocks at night. See 'goat' for the point and its limits.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Abel, the patriarchs, Moses and David as shepherds (Gen 4:2; Exod 3:1; 1 Sam 16:11), the struck shepherd and scattered sheep (Zech 13:7), the coming ruler who shepherds (Mic 5:4).",
+    "ntUsage": "Shepherds at the nativity (Luke 2:8), the lost sheep (Luke 15:4), the Good Shepherd (John 10), 'feed my sheep' (John 21:17), the Lamb who shepherds (Rev 7:17).",
+    "caution": "Sheep imagery is about dependence on a good shepherd, not a call to unthinking passivity; the same texts judge abusive leaders harshly.",
+    "related": [
+      "lamb",
+      "goat",
+      "wolf",
+      "dog"
+    ]
+  },
+  {
+    "id": "goat",
+    "name": "Goat",
+    "original": "Hebrew ez, sair, attud; Greek eriphos, tragos",
+    "category": "animal",
+    "plain": "Goats were ordinary flock animals and acceptable sacrifices. On the Day of Atonement one goat was sacrificed and another, the scapegoat, carried Israel's sins into the wilderness. In Jesus' parable, goats on the left stand for those who failed to care for 'the least of these'.",
+    "meanings": [
+      {
+        "meaning": "Bearing away sin (the scapegoat)",
+        "refs": [
+          "Lev 16:7-10",
+          "Lev 16:21-22",
+          "Heb 9:12-13"
+        ],
+        "note": "One goat is 'for the LORD', the other 'for Azazel'. Azazel is debated: a wilderness demon, a place name, or 'the goat that goes away'. Christians see both goats fulfilled in Christ's death and removal of sin.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Sin offering",
+        "refs": [
+          "Lev 4:23",
+          "Num 7:16",
+          "Heb 10:4"
+        ],
+        "note": "Male goats were regular sin offerings; Hebrews says such blood cannot finally remove sin.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Separation at the judgement",
+        "refs": [
+          "Matt 25:32-33",
+          "Matt 25:41-46"
+        ],
+        "note": "The sheep and goats are judged by how they treated Christ's 'least' brothers and sisters. Who the 'least' are (all needy people or Christian messengers) is debated.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Aggressive empire",
+        "refs": [
+          "Dan 8:5",
+          "Dan 8:21"
+        ],
+        "note": "The he-goat is the king of Greece, generally identified with Alexander the Great.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Deception with goat-skins",
+        "refs": [
+          "Gen 27:9",
+          "Gen 27:16",
+          "Gen 37:31"
+        ],
+        "note": "Jacob deceives Isaac with goat-skins; years later his sons deceive him with a goat's blood on Joseph's coat.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Passover could be a lamb or goat (Exod 12:5), goat-hair curtains (Exod 26:7), goat-demons or 'satyrs' (Lev 17:7; Isa 13:21), the beloved's hair like goats (Song 4:1), Ezekiel judging between rams and goats (Ezek 34:17).",
+    "ntUsage": "Sheep and goats (Matt 25:32), the older brother's complaint about never getting a goat (Luke 15:29), blood of goats (Heb 9:12).",
+    "caution": "Goats are not inherently evil; they were clean animals and valid sacrifices. The modern devil-with-goat-horns imagery comes from later art, not from Scripture.",
+    "related": [
+      "sheep",
+      "lamb",
+      "beast",
+      "hyssop"
+    ]
+  },
+  {
+    "id": "wolf",
+    "name": "Wolf",
+    "original": "Hebrew zeev; Greek lykos",
+    "category": "animal",
+    "plain": "The wolf is the enemy of the flock. Scripture uses it for violent rulers, false teachers who come 'in sheep's clothing', and the dangers disciples face. In the age to come, the wolf will live peacefully with the lamb.",
+    "meanings": [
+      {
+        "meaning": "False teachers and predatory leaders",
+        "refs": [
+          "Matt 7:15",
+          "Acts 20:29",
+          "Ezek 22:27",
+          "Zeph 3:3"
+        ],
+        "note": "Wolves in sheep's clothing; savage wolves entering the flock; officials like wolves tearing prey.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "A hostile world for the disciples",
+        "refs": [
+          "Matt 10:16",
+          "Luke 10:3",
+          "John 10:12"
+        ],
+        "note": "Disciples are sent as sheep among wolves; the hired hand flees when the wolf comes.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Peace in the new creation",
+        "refs": [
+          "Isa 11:6",
+          "Isa 65:25"
+        ],
+        "note": "Whether this is literal peace among animals or a picture of peace between enemies (or both) is debated.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "A fierce tribe",
+        "refs": [
+          "Gen 49:27"
+        ],
+        "note": "Benjamin is 'a ravenous wolf', a warrior tribe. Some Fathers applied it to Paul, a Benjaminite who once 'ravaged' the church (Phil 3:5); tradition.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Benjamin (Gen 49:27), wolves of the evening (Hab 1:8; Zeph 3:3), a wolf destroying the disobedient (Jer 5:6), the wolf with the lamb (Isa 11:6).",
+    "ntUsage": "False prophets (Matt 7:15), sheep among wolves (Luke 10:3), the hireling and the wolf (John 10:12), Paul's warning to Ephesian elders (Acts 20:29).",
+    "caution": "'Wolf' was used for real dangers; using it to dismiss anyone who disagrees with us turns a warning into a weapon.",
+    "related": [
+      "sheep",
+      "lamb",
+      "dog",
+      "lion"
+    ]
+  },
+  {
+    "id": "dog",
+    "name": "Dog",
+    "original": "Hebrew kelev; Greek kyōn, kynarion (little dog)",
+    "category": "animal",
+    "plain": "In the Bible most dogs were half-wild scavengers, not pets, so 'dog' was usually an insult for someone contemptible, unclean or dangerous. Yet the Canaanite woman turns Jesus' 'little dogs' saying into a plea of faith.",
+    "meanings": [
+      {
+        "meaning": "Contempt and worthlessness",
+        "refs": [
+          "1 Sam 17:43",
+          "1 Sam 24:14",
+          "2 Sam 9:8",
+          "2 Sam 16:9"
+        ],
+        "note": "'Am I a dog?' 'A dead dog' was a strong phrase of self-abasement or insult.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Scavengers as a sign of judgement",
+        "refs": [
+          "1 Kgs 21:23-24",
+          "2 Kgs 9:36",
+          "Ps 22:16",
+          "Ps 22:20"
+        ],
+        "note": "Being eaten by dogs was the worst dishonour. In Ps 22 enemies surround like dogs.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Returning to folly",
+        "refs": [
+          "Prov 26:11",
+          "2 Pet 2:22"
+        ],
+        "note": "A dog returning to its vomit pictures people going back to what harmed them.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Outsiders, and how they receive grace",
+        "refs": [
+          "Matt 15:26-28",
+          "Mark 7:27-29"
+        ],
+        "note": "Jewish speech sometimes called Gentiles dogs. Jesus' 'little dogs' saying and the woman's reply lead to praise of her faith. Readers debate whether Jesus was testing her, voicing a common view to overturn it, or genuinely persuaded.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Those excluded from the holy city",
+        "refs": [
+          "Phil 3:2",
+          "Rev 22:15",
+          "Deut 23:18"
+        ],
+        "note": "Paul turns the insult on Christian circumcision-teachers. In Deut 23:18 'dog' may refer to a male cult prostitute; the meaning is debated.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "Not a dog moving its tongue at the exodus (Exod 11:7), unclean meat thrown to dogs (Exod 22:31), Gideon's men lapping like dogs (Judg 7:5), silent watchdogs as lazy prophets (Isa 56:10), a living dog better than a dead lion (Eccl 9:4).",
+    "ntUsage": "Do not give what is holy to dogs (Matt 7:6), dogs licking Lazarus' sores (Luke 16:21), the Canaanite woman (Matt 15:27), 'beware of dogs' (Phil 3:2), outside the city (Rev 22:15).",
+    "caution": "A friendly dog appears in the deuterocanonical book of Tobit, travelling with Tobias. The Bible's negative uses reflect street dogs of the time, not a judgement on dogs today.",
+    "related": [
+      "pig",
+      "wolf",
+      "sheep"
+    ]
+  },
+  {
+    "id": "pig",
+    "name": "Pig (swine)",
+    "original": "Hebrew chazir; Greek choiros, hys",
+    "category": "animal",
+    "plain": "Pigs were unclean under the law of Moses, so they became a symbol of what is unclean or of the far, Gentile world. In Jesus' teaching, the prodigal son feeding pigs has hit bottom, and the demons sent into a herd of pigs show that 'Legion' is defeated.",
+    "meanings": [
+      {
+        "meaning": "Ritual uncleanness",
+        "refs": [
+          "Lev 11:7",
+          "Deut 14:8",
+          "Isa 65:4",
+          "Isa 66:17"
+        ],
+        "note": "Eating pork marked rebellion in Isaiah. Under the Seleucids, Jews were pressured to eat pork and some died refusing (told in 2 Maccabees 6-7).",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Lowest humiliation",
+        "refs": [
+          "Luke 15:15-16"
+        ],
+        "note": "A Jewish son feeding a Gentile's pigs, longing for their food, has lost everything.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Unable to value what is holy",
+        "refs": [
+          "Matt 7:6",
+          "Prov 11:22",
+          "2 Pet 2:22"
+        ],
+        "note": "Pearls before swine; a gold ring in a pig's snout.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Defeat of the unclean powers",
+        "refs": [
+          "Mark 5:11-13",
+          "Matt 8:30-32"
+        ],
+        "note": "Unclean spirits go into unclean animals in Gentile territory and are drowned. Some scholars note the boar was the emblem of the Roman Tenth Legion stationed in the region and see a jab at Rome in 'Legion'; that is speculative.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Food laws set aside",
+        "refs": [
+          "Mark 7:19",
+          "Acts 10:12-15"
+        ],
+        "note": "Mark comments that Jesus 'declared all foods clean'; Peter's vision includes unclean animals. Christians debate how and when food laws ceased to apply, but most agree they do not bind Gentile believers.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "Food laws (Lev 11:7), the wild boar ravaging God's vine (Ps 80:13), pig's blood in idolatrous worship (Isa 66:3).",
+    "ntUsage": "Pearls before swine (Matt 7:6), the Gerasene pigs (Mark 5:13), the prodigal (Luke 15:15), the washed pig back in the mud (2 Pet 2:22).",
+    "caution": "The point of the pig is ritual status, not hygiene. The 'health reasons' explanation for food laws is a modern idea that the text does not give.",
+    "related": [
+      "dog",
+      "goat"
+    ]
+  },
+  {
+    "id": "raven",
+    "name": "Raven",
+    "original": "Hebrew orev; Greek korax",
+    "category": "animal",
+    "plain": "Ravens were unclean scavengers, yet God feeds them and uses them to feed Elijah. Jesus points to the ravens to show that God cares for those who seem least deserving, so his people need not worry.",
+    "meanings": [
+      {
+        "meaning": "God's care for all creatures",
+        "refs": [
+          "Job 38:41",
+          "Ps 147:9",
+          "Luke 12:24"
+        ],
+        "note": "Jesus: they neither sow nor reap, yet God feeds them. How much more you.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Unexpected providence",
+        "refs": [
+          "1 Kgs 17:4",
+          "1 Kgs 17:6"
+        ],
+        "note": "Unclean birds bring bread and meat to the prophet. A few scholars repoint the Hebrew to read 'Arabians' instead of 'ravens'; most keep ravens.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Restlessness after the flood",
+        "refs": [
+          "Gen 8:7"
+        ],
+        "note": "The raven goes to and fro and does not return, unlike the dove. Fathers sometimes read the raven as the unclean or unrepentant; tradition.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "Desolation",
+        "refs": [
+          "Isa 34:11",
+          "Prov 30:17"
+        ],
+        "note": "Ravens inhabit ruins and peck out the eyes of the scornful.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Unclean bird (Lev 11:15; Deut 14:14), Noah's raven (Gen 8:7), Elijah's ravens (1 Kgs 17:6), ravens in ruined Edom (Isa 34:11), hair black as a raven (Song 5:11).",
+    "ntUsage": "Only Luke 12:24 (Matthew says 'birds of the air', Matt 6:26).",
+    "caution": "That ravens are unclean sharpens the point of providence; it does not make them symbols of evil in every text.",
+    "related": [
+      "dove",
+      "eagle",
+      "black"
+    ]
+  },
+  {
+    "id": "fish",
+    "name": "Fish",
+    "original": "Hebrew dag; Greek ichthys, opsarion",
+    "category": "animal",
+    "plain": "Fish were a staple food around Galilee, and several disciples were fishermen. Jesus calls them to 'fish for people', multiplies fish, and eats fish after rising. Early Christians used the Greek word for fish, ICHTHYS, as an acrostic for 'Jesus Christ, God's Son, Saviour'.",
+    "meanings": [
+      {
+        "meaning": "Mission: catching people",
+        "refs": [
+          "Matt 4:19",
+          "Luke 5:4-10",
+          "John 21:6",
+          "Jer 16:16"
+        ],
+        "note": "In Jeremiah fishers gather for judgement; Jesus turns the image toward gathering people into the kingdom.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The final sorting",
+        "refs": [
+          "Matt 13:47-50"
+        ],
+        "note": "A dragnet gathers every kind; good and bad are separated at the end.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "God's provision and abundance",
+        "refs": [
+          "Matt 14:17-21",
+          "John 21:9-13",
+          "Ezek 47:9-10"
+        ],
+        "note": "Feeding the crowds; breakfast on the shore; Ezekiel's river makes the Dead Sea teem with fish.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The risen body is real",
+        "refs": [
+          "Luke 24:42-43"
+        ],
+        "note": "Jesus eats fish to show he is not a ghost.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "ICHTHYS: a Christian password",
+        "refs": [
+          "Matt 16:16"
+        ],
+        "note": "The letters stand for Iesous Christos Theou Yios Soter. Tertullian (*On Baptism* 1) calls Christians little fish after the great Fish, and Augustine (*City of God* 18.23) discusses the acrostic. This is early church tradition, not biblical symbolism.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Creation of sea creatures (Gen 1:21), the great fish of Jonah (Jonah 1:17), clean and unclean fish (Lev 11:9-12), fish dying in the Nile plague (Exod 7:21), people caught like fish (Hab 1:14-15; Eccl 9:12).",
+    "ntUsage": "Fishermen disciples (Mark 1:16-17), feedings (Mark 6:41), the coin in the fish (Matt 17:27), the sign of Jonah (Matt 12:40), 153 fish (John 21:11).",
+    "caution": "The idea that 'the sign of the fish' was a secret code drawn in the sand during persecution is a popular story with little ancient evidence. The Philistine god Dagon is often said to be a fish-god, but most scholars now link the name to grain.",
+    "related": [
+      "one-hundred-fifty-three",
+      "leviathan",
+      "dove",
+      "five"
+    ]
+  },
+  {
+    "id": "locust",
+    "name": "Locust",
+    "original": "Hebrew arbeh (and other words); Greek akris",
+    "category": "animal",
+    "plain": "Locust swarms could strip a land bare, so they were a terrifying image of judgement and invading armies. Yet locusts were also clean food: John the Baptist ate locusts and wild honey. Revelation's locusts from the abyss are demonic and nightmarish.",
+    "meanings": [
+      {
+        "meaning": "Devastating judgement",
+        "refs": [
+          "Exod 10:4-15",
+          "Deut 28:38",
+          "1 Kgs 8:37",
+          "2 Chr 7:13"
+        ],
+        "note": "The eighth plague; covenant curse; Solomon's prayer for relief.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Invading armies",
+        "refs": [
+          "Joel 1:4",
+          "Joel 2:1-11",
+          "Judg 6:5",
+          "Nah 3:15-17"
+        ],
+        "note": "Joel's locusts are either a real plague described as an army, a real army described as locusts, or both stages. Scholars debate.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Restoration after loss",
+        "refs": [
+          "Joel 2:25"
+        ],
+        "note": "'I will restore the years the locust has eaten.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Demonic torment",
+        "refs": [
+          "Rev 9:3-11"
+        ],
+        "note": "Locusts with human faces and scorpion tails, led by Abaddon/Apollyon. Modern attempts to identify them as helicopters or aircraft are speculative.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Desert food of the prophet",
+        "refs": [
+          "Matt 3:4",
+          "Mark 1:6",
+          "Lev 11:22"
+        ],
+        "note": "Most scholars take these as insects (permitted food). The 'locust bean' or carob pod reading is a later suggestion.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "otUsage": "Plague in Egypt (Exod 10), clean insects (Lev 11:22), spies 'like grasshoppers' (Num 13:33), Midianite hordes (Judg 6:5), Amos' vision (Amos 7:1), locusts with no king who still march in ranks (Prov 30:27).",
+    "ntUsage": "John's diet (Matt 3:4; Mark 1:6) and the fifth trumpet (Rev 9:3-11).",
+    "caution": "Locusts are a vivid image, but not every swarm or pest outbreak today is a 'sign'. Context in Joel and Revelation is judgement calling for repentance.",
+    "related": [
+      "seven",
+      "four",
+      "dragon"
+    ]
+  },
+  {
+    "id": "leviathan",
+    "name": "Leviathan",
+    "original": "Hebrew livyatan",
+    "category": "animal",
+    "plain": "Leviathan is a great sea creature in Hebrew poetry. Sometimes it seems to be a real animal (a crocodile or whale) that only God can tame; sometimes it is a many-headed chaos monster that God crushes. Either way the point is God's total mastery over the most frightening powers.",
+    "meanings": [
+      {
+        "meaning": "A creature only God can master",
+        "refs": [
+          "Job 41:1",
+          "Job 41:10-11",
+          "Ps 104:26"
+        ],
+        "note": "In Job, God asks if Job can catch Leviathan with a hook. Many identify it with the crocodile; others see a mythic beast described with real animal features. In Ps 104 it is God's creature playing in the sea.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Chaos and evil defeated by God",
+        "refs": [
+          "Ps 74:13-14",
+          "Isa 27:1",
+          "Job 3:8"
+        ],
+        "note": "God crushed Leviathan's heads; he will slay 'Leviathan the twisting serpent'. Texts from Ugarit describe a seven-headed sea serpent called Litan with very similar wording, so Israel used a known image to declare that the LORD, not Baal, rules the sea.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Hostile nations (Egypt)",
+        "refs": [
+          "Ps 74:13-14",
+          "Ezek 29:3"
+        ],
+        "note": "In Ps 74 crushing Leviathan is linked to the Red Sea; Egypt is elsewhere a sea-dragon.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Background to Revelation's dragon and sea beast",
+        "refs": [
+          "Rev 12:3",
+          "Rev 13:1"
+        ],
+        "note": "The many-headed dragon and the beast from the sea draw on this imagery. The term Leviathan itself is not used in the NT.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "otUsage": "Job 3:8; Job 41; Ps 74:14; Ps 104:26; Isa 27:1.",
+    "ntUsage": "Not named; its imagery informs the dragon and sea beast of Revelation (Rev 12-13). Rev 21:1 'no more sea' completes the defeat of chaos.",
+    "caution": "Reading Leviathan as a surviving dinosaur or sea reptile is a modern young-earth creationist proposal and is not the scholarly consensus. Later Jewish writings (2 Baruch, rabbinic texts) imagined Leviathan served at the messianic banquet; that is tradition.",
+    "related": [
+      "behemoth",
+      "dragon",
+      "serpent",
+      "beast"
+    ]
+  },
+  {
+    "id": "behemoth",
+    "name": "Behemoth",
+    "original": "Hebrew behemot (intensive plural of behemah, 'beast')",
+    "category": "animal",
+    "plain": "Behemoth appears in God's speech to Job as a massive land creature, 'the first of the works of God', that only its Maker can approach with a sword. The name means something like 'the Beast' or 'the super-beast'. Most identify it with the hippopotamus; others see a mythic creature.",
+    "meanings": [
+      {
+        "meaning": "God's power displayed in creation",
+        "refs": [
+          "Job 40:15-24"
+        ],
+        "note": "God shows Job a creature far beyond human control to humble him and to show God's wise rule even over the wild.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Identity: hippopotamus, elephant, or mythic beast",
+        "refs": [
+          "Job 40:15",
+          "Job 40:21-23"
+        ],
+        "note": "It lies under lotus plants in the reeds and is unafraid of a raging river, which fits the hippo. 'Tail like a cedar' (Job 40:17) is hard for the hippo; some read 'tail' as a euphemism, others as poetic exaggeration. Later Jewish texts (*1 Enoch* 60:7-8) pair a land-monster Behemoth with sea-monster Leviathan.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "A dinosaur",
+        "refs": [
+          "Job 40:17"
+        ],
+        "note": "Some young-earth creationists identify Behemoth with a sauropod because of the 'tail like a cedar'. Most biblical scholars do not accept this.",
+        "confidence": "speculative"
+      }
+    ],
+    "otUsage": "Only Job 40:15-24 as a proper name; the ordinary plural 'beasts' (behemot) appears often, as in Ps 73:22 ('I was a beast before you').",
+    "ntUsage": "Not used.",
+    "caution": "Job's point is not zoology. The creature humbles human pride and shows God's sovereign care over things that terrify us.",
+    "related": [
+      "leviathan",
+      "dragon",
+      "beast"
+    ]
+  },
+  {
+    "id": "dragon",
+    "name": "Dragon (sea monster)",
+    "original": "Hebrew tannin; Greek drakōn",
+    "category": "animal",
+    "plain": "The Hebrew tannin can mean a large sea creature, a snake or a sea monster. In poetry it stands for chaos and for proud empires like Egypt and Babylon. In Revelation the great red dragon is Satan, who wars against the woman and her child and gives power to the beast.",
+    "meanings": [
+      {
+        "meaning": "Satan",
+        "refs": [
+          "Rev 12:3-9",
+          "Rev 20:2"
+        ],
+        "note": "The dragon is explicitly identified as 'that ancient serpent, called the devil and Satan'. Seven heads and ten horns link him to the beasts he empowers.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Proud empires",
+        "refs": [
+          "Ezek 29:3",
+          "Isa 51:9",
+          "Jer 51:34"
+        ],
+        "note": "Pharaoh is the great dragon in the Nile; Nebuchadnezzar swallowed Judah like a dragon. Rahab here is a sea-monster name, not Rahab of Jericho.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Created sea creatures",
+        "refs": [
+          "Gen 1:21",
+          "Ps 148:7"
+        ],
+        "note": "God created the great tanninim; they praise him. Even the monsters are creatures.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Chaos defeated",
+        "refs": [
+          "Isa 27:1",
+          "Ps 74:13",
+          "Ps 91:13"
+        ],
+        "note": "The LORD slays the dragon in the sea; the faithful trample it.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Sea creatures (Gen 1:21), Aaron's staff becomes a tannin (Exod 7:9-10), venom of dragons (Deut 32:33), Egypt and Babylon (Ezek 29:3; Jer 51:34).",
+    "ntUsage": "Only Revelation: the red dragon (Rev 12:3), its gift of power to the beast (Rev 13:2-4), frog-like spirits from its mouth (Rev 16:13), bound for a thousand years (Rev 20:2).",
+    "caution": "The KJV uses 'dragons' for jackals in several prophets (e.g. Isa 13:22; Jer 9:11; Mic 1:8) by confusing two similar Hebrew words (tan, jackal; tannin, sea monster). Modern versions correct this. 'Bel and the Dragon' is an addition to Daniel in the deuterocanon.",
+    "related": [
+      "serpent",
+      "leviathan",
+      "beast",
+      "red-scarlet",
+      "seven",
+      "ten"
+    ]
+  },
+  {
+    "id": "beast",
+    "name": "The beast (Daniel 7 and Revelation 13)",
+    "original": "Aramaic cheva; Greek thērion",
+    "category": "animal",
+    "plain": "In Daniel 7 four monstrous beasts rise from the sea and stand for world empires, until 'one like a son of man' receives the kingdom. Revelation 13 combines their features into one beast from the sea, aided by a second beast from the land. The beast is political power that demands worship. Who it refers to has been one of the most debated questions in Christian history.",
+    "meanings": [
+      {
+        "meaning": "Kingdoms opposed to God (Daniel)",
+        "refs": [
+          "Dan 7:3-8",
+          "Dan 7:17",
+          "Dan 7:23"
+        ],
+        "note": "The angel explains the beasts as kings or kingdoms. Traditional reading: Babylon, Medo-Persia, Greece, Rome. Most critical scholars: Babylon, Media, Persia, Greece (ending with Antiochus IV as the little horn). Both views have able defenders.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Beastly power versus the human Son of Man",
+        "refs": [
+          "Dan 7:13-14",
+          "Dan 7:27",
+          "Mark 14:62"
+        ],
+        "note": "Empires are beasts; God's kingdom is given to a human figure and to the saints. Jesus applies the Son of Man to himself.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Rome and emperor worship (preterist reading)",
+        "refs": [
+          "Rev 13:1-8",
+          "Rev 17:9-10",
+          "Rev 13:3"
+        ],
+        "note": "Seven hills and seven kings fit Rome. The healed death-wound may echo the legend that Nero would return (reported by Tacitus and Suetonius). Widely held by modern scholars as at least the first reference.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "A future Antichrist (futurist reading)",
+        "refs": [
+          "2 Thess 2:3-4",
+          "Rev 19:19-20",
+          "1 John 2:18"
+        ],
+        "note": "A final world ruler before Christ returns. Held by many evangelicals and dispensationalists; also by some early Fathers.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "The papacy, or recurring tyranny (historicist and idealist readings)",
+        "refs": [
+          "Rev 13:5-7",
+          "Rev 11:7"
+        ],
+        "note": "Many Reformers identified the beast or Antichrist with the papacy; this view has largely faded and is rejected by Catholics. Idealists see a pattern repeating in every age when the state claims divine honours.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "Daniel's four beasts (Dan 7), ram and goat (Dan 8:20-21), with background in the sea monster imagery of Leviathan.",
+    "ntUsage": "Revelation's sea beast and land beast or false prophet (Rev 13:1; Rev 13:11; Rev 16:13), the beast from the abyss (Rev 11:7; Rev 17:8), its defeat (Rev 19:20; Rev 20:10).",
+    "caution": "Each generation has found 'the beast' in its own enemies. A wise reading notices what the beast does (deceives, demands worship, persecutes, controls trade) and resists those patterns, rather than confidently naming one person.",
+    "related": [
+      "six-hundred-sixty-six",
+      "dragon",
+      "leviathan",
+      "ten",
+      "three-and-a-half",
+      "four",
+      "lamb"
+    ]
+  },
+  {
+    "id": "vine",
+    "name": "Vine and vineyard",
+    "original": "Hebrew gefen, kerem (vineyard); Greek ampelos, ampelōn",
+    "category": "plant",
+    "plain": "The grapevine was one of Israel's main crops, so Israel itself is pictured as God's vine or vineyard, which he planted and tended but which gave bad fruit. Jesus says, 'I am the true vine'; his followers live by staying joined to him. Sitting under one's own vine pictures peace and security.",
+    "meanings": [
+      {
+        "meaning": "Israel as God's vine",
+        "refs": [
+          "Ps 80:8-16",
+          "Isa 5:1-7",
+          "Jer 2:21",
+          "Hos 10:1"
+        ],
+        "note": "God brought a vine out of Egypt; he looked for good grapes and found wild ones.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Jesus the true vine",
+        "refs": [
+          "John 15:1-8"
+        ],
+        "note": "Jesus takes Israel's identity on himself: as the faithful vine he gives life to branches who abide in him. Whether 'taken away' branches (John 15:2) are lost believers or never-true disciples is debated.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Judgement on unfruitful tenants",
+        "refs": [
+          "Matt 21:33-41",
+          "Mark 12:1-9",
+          "Isa 5:2"
+        ],
+        "note": "The parable of the tenants reuses Isaiah's vineyard song against the leaders of Jesus' day.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Peace and plenty",
+        "refs": [
+          "1 Kgs 4:25",
+          "Mic 4:4",
+          "Zech 3:10"
+        ],
+        "note": "'Everyone under his vine and fig tree, with none to make them afraid.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The fruit of the vine and the kingdom feast",
+        "refs": [
+          "Matt 26:29",
+          "Mark 14:25",
+          "John 2:1-11",
+          "Gen 49:11"
+        ],
+        "note": "Wine looks ahead to the messianic banquet. Herod's temple had a great golden vine over its entrance (described by Josephus), so the image was very public.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "otUsage": "Noah's vineyard (Gen 9:20), the cupbearer's dream (Gen 40:9-11), spies' huge cluster (Num 13:23), Jotham's fable (Judg 9:12-13), Naboth's vineyard (1 Kgs 21:1), useless vine wood (Ezek 15:2-6), vine of Sodom (Deut 32:32).",
+    "ntUsage": "Labourers in the vineyard (Matt 20:1-16), wicked tenants (Mark 12:1-9), the barren fig in a vineyard (Luke 13:6), the true vine (John 15:1), the grape harvest of judgement (Rev 14:18-20).",
+    "caution": "Vine imagery can be comforting (abiding) and severe (pruning, burning). Reading only one side distorts it.",
+    "related": [
+      "fig-tree",
+      "olive-tree",
+      "wheat-and-tares",
+      "thorns"
+    ]
+  },
+  {
+    "id": "fig-tree",
+    "name": "Fig tree",
+    "original": "Hebrew teenah; Greek sykē",
+    "category": "plant",
+    "plain": "Figs were a staple fruit, and the fig tree stood for peace and prosperity, and for Israel's fruitfulness or lack of it. Jesus' cursing of a fruitless fig tree, wrapped around his action in the temple, is widely read as an acted warning against the temple establishment.",
+    "meanings": [
+      {
+        "meaning": "Peace and security",
+        "refs": [
+          "1 Kgs 4:25",
+          "Mic 4:4",
+          "Zech 3:10"
+        ],
+        "note": "Sitting under vine and fig tree.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Israel's fruitfulness or failure",
+        "refs": [
+          "Hos 9:10",
+          "Jer 24:1-10",
+          "Jer 8:13",
+          "Luke 13:6-9"
+        ],
+        "note": "God found Israel like early figs; Jeremiah's good and bad figs; Jesus' parable of the barren fig tree given one more year.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Judgement on fruitless religion",
+        "refs": [
+          "Mark 11:12-14",
+          "Mark 11:20-21",
+          "Matt 21:18-21"
+        ],
+        "note": "Mark sandwiches the temple clearing between the cursing and the withered tree. Most scholars read it as an enacted parable about the temple; Jesus also draws a lesson on faith and prayer.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "A sign of the times",
+        "refs": [
+          "Matt 24:32-33",
+          "Luke 21:29-31"
+        ],
+        "note": "When the fig tree puts out leaves, summer is near. The popular claim that the fig tree is modern Israel and its 'budding' was 1948 is a speculative dispensational reading; Luke says 'the fig tree and all the trees'.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Nathanael under the fig tree",
+        "refs": [
+          "John 1:48",
+          "John 1:50"
+        ],
+        "note": "Jesus' knowledge amazes Nathanael. Some suggest he was studying Scripture there, as later rabbis spoke of studying under fig trees; this is speculative.",
+        "confidence": "speculative"
+      }
+    ],
+    "otUsage": "Fig leaves in Eden (Gen 3:7), the fig tree declining kingship in Jotham's fable (Judg 9:10-11), a fig poultice for Hezekiah (Isa 38:21), loss of figs in judgement (Joel 1:7; Hab 3:17).",
+    "ntUsage": "Fruit by its tree (Jas 3:12), the cursed fig (Mark 11:13), the parable (Luke 13:6), lesson of the fig (Matt 24:32), stars falling like unripe figs (Rev 6:13).",
+    "caution": "Mark notes 'it was not the season for figs' (Mark 11:13). This is part of what makes the act symbolic; it is not best read as an outburst of temper.",
+    "related": [
+      "vine",
+      "olive-tree",
+      "mustard-seed"
+    ]
+  },
+  {
+    "id": "olive-tree",
+    "name": "Olive tree and olive oil",
+    "original": "Hebrew zayit, shemen (oil); Greek elaia, elaion",
+    "category": "plant",
+    "plain": "The long-lived olive tree gave oil for food, light, medicine and anointing kings and priests. It stands for God's blessing, for Israel, and for the Spirit-anointed. Paul pictures Gentile believers as wild olive branches grafted into Israel's tree.",
+    "meanings": [
+      {
+        "meaning": "Anointing for office",
+        "refs": [
+          "Exod 30:24-25",
+          "1 Sam 16:13",
+          "Ps 89:20"
+        ],
+        "note": "'Messiah' (Hebrew mashiach) and 'Christ' (Greek christos) both mean 'anointed one', anointed with olive oil.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Israel and the grafted-in Gentiles",
+        "refs": [
+          "Jer 11:16",
+          "Rom 11:17-24"
+        ],
+        "note": "Paul's point is humility: the root supports the branches. How this relates to the future of ethnic Israel is debated (see the Israel-and-church debate).",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Flourishing and blessing",
+        "refs": [
+          "Ps 52:8",
+          "Ps 128:3",
+          "Hos 14:6",
+          "Gen 8:11"
+        ],
+        "note": "A green olive in God's house; children like olive shoots; the olive leaf after the flood.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The two olive trees: anointed witnesses",
+        "refs": [
+          "Zech 4:3",
+          "Zech 4:11-14",
+          "Rev 11:4"
+        ],
+        "note": "In Zechariah, probably Zerubbabel the governor and Joshua the priest. In Revelation, the two witnesses, read as the church's prophetic witness, as two end-time prophets, or as figures like Moses and Elijah.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Light, healing and the Spirit",
+        "refs": [
+          "Exod 27:20",
+          "Luke 10:34",
+          "Jas 5:14",
+          "Matt 25:3-4"
+        ],
+        "note": "Oil for the lamp, for wounds and for prayer over the sick. Oil as a symbol of the Holy Spirit is a common Christian reading drawn from anointing; it is not stated directly.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Promised land of olive oil (Deut 8:8), Jotham's fable (Judg 9:8-9), cherubim of olive wood in the temple (1 Kgs 6:23), gleanings left for the poor (Deut 24:20; Isa 17:6), the Mount of Olives (Zech 14:4).",
+    "ntUsage": "Gethsemane, whose name means 'oil press' (Matt 26:36), the Mount of Olives (Luke 22:39; Acts 1:12), the good Samaritan's oil (Luke 10:34), the olive tree in Romans 11, two olive trees (Rev 11:4).",
+    "caution": "The image of Jesus being 'pressed like olives' in Gethsemane is a devotional reflection on the name, not something the Gospels themselves draw out.",
+    "related": [
+      "dove",
+      "vine",
+      "fig-tree",
+      "green",
+      "almond"
+    ]
+  },
+  {
+    "id": "cedar",
+    "name": "Cedar of Lebanon",
+    "original": "Hebrew erez; Greek kedros",
+    "category": "plant",
+    "plain": "The tall, fragrant, rot-resistant cedars of Lebanon were the finest building timber in the ancient Near East. Cedar stands for strength, majesty and pride: used for God's temple, a picture of the flourishing righteous, and an image of arrogant empires that God cuts down.",
+    "meanings": [
+      {
+        "meaning": "Splendour of God's house",
+        "refs": [
+          "2 Sam 7:2",
+          "1 Kgs 5:6",
+          "1 Kgs 6:9-18"
+        ],
+        "note": "David lives in a house of cedar while the ark is in a tent; Solomon's temple is lined with cedar.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The flourishing righteous",
+        "refs": [
+          "Ps 92:12",
+          "Ps 104:16"
+        ],
+        "note": "'The righteous shall grow like a cedar in Lebanon.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Human pride brought low",
+        "refs": [
+          "Isa 2:13",
+          "Ezek 31:3-14",
+          "Ps 29:5",
+          "Amos 2:9",
+          "Zech 11:1-2"
+        ],
+        "note": "Assyria is a towering cedar felled. God's voice breaks the cedars.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The messianic sprig",
+        "refs": [
+          "Ezek 17:22-23"
+        ],
+        "note": "God takes a tender shoot from the top of the cedar and plants it on a high mountain, and birds nest in it. Many scholars see this behind Jesus' mustard-seed parable.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Cleansing rites",
+        "refs": [
+          "Lev 14:4",
+          "Num 19:6"
+        ],
+        "note": "Cedar wood, scarlet and hyssop were used together in purification. Perhaps chosen for durability or fragrance; the reason is not stated.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Temple and palace building (1 Kgs 7:2), Jotham's fable (Judg 9:15), Jehoash's fable of thistle and cedar (2 Kgs 14:9), Solomon's botany from cedar to hyssop (1 Kgs 4:33), Jehoiakim's cedar palace condemned (Jer 22:14-15).",
+    "ntUsage": "Not mentioned by name in the NT; its imagery of birds nesting in a great tree echoes in the mustard-seed parable (Mark 4:32).",
+    "caution": "Cedar's meaning flips between noble and arrogant. Read the context.",
+    "related": [
+      "hyssop",
+      "mustard-seed",
+      "red-scarlet",
+      "palm"
+    ]
+  },
+  {
+    "id": "mustard-seed",
+    "name": "Mustard seed",
+    "original": "Greek kokkos sinapeōs",
+    "category": "plant",
+    "plain": "Jesus compares the kingdom of God to a tiny mustard seed that grows into a large plant where birds nest, and says faith as small as a mustard seed can move mountains. The point is small beginnings and surprising growth.",
+    "meanings": [
+      {
+        "meaning": "The kingdom's small start and great end",
+        "refs": [
+          "Mark 4:30-32",
+          "Matt 13:31-32",
+          "Luke 13:18-19"
+        ],
+        "note": "From a handful of Galilean disciples to a worldwide community.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Nations finding shelter",
+        "refs": [
+          "Ezek 17:23",
+          "Ezek 31:6",
+          "Dan 4:12"
+        ],
+        "note": "Birds nesting in a great tree was a known image for peoples under a kingdom. Most read the birds as nations, including Gentiles, coming into God's kingdom.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Birds as evil infiltration",
+        "refs": [
+          "Matt 13:4",
+          "Matt 13:19"
+        ],
+        "note": "Some interpreters (e.g. the *Scofield Reference Bible*) note that birds in the sower parable are the evil one and read the mustard tree as Christendom grown unnaturally large and harbouring evil. A minority view.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Small faith in a great God",
+        "refs": [
+          "Matt 17:20",
+          "Luke 17:6"
+        ],
+        "note": "The power is in God, not the size of the faith.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Mustard is not named in the OT. The great-tree-with-birds image comes from Ezek 17:22-23, Ezek 31:6 and Dan 4:10-12.",
+    "ntUsage": "The parable (Mark 4:31), and faith like a mustard seed (Matt 17:20; Luke 17:6).",
+    "caution": "'Smallest of all seeds' is proverbial, not a botanical claim (orchid seeds are smaller). Mustard grows into a large shrub, not a true tree; Matthew and Luke's 'tree' may be a deliberate hint of Ezekiel's cedar, or a bit of humour about a humble garden plant.",
+    "related": [
+      "cedar",
+      "wheat-and-tares",
+      "fig-tree"
+    ]
+  },
+  {
+    "id": "wheat-and-tares",
+    "name": "Wheat and tares (weeds)",
+    "original": "Hebrew chittah (wheat); Greek sitos (wheat), zizania (darnel)",
+    "category": "plant",
+    "plain": "Wheat was the staple grain, so it stands for true fruit and for God's people. In Jesus' parable an enemy sows weeds, almost certainly darnel, which looks like wheat until it heads. The farmer lets both grow until the harvest, when they are separated. Chaff, the husk blown away, is a picture of the worthless.",
+    "meanings": [
+      {
+        "meaning": "Good and evil growing together until the end",
+        "refs": [
+          "Matt 13:24-30",
+          "Matt 13:36-43"
+        ],
+        "note": "Jesus explains: the field is the world, the good seed the children of the kingdom, the weeds the children of the evil one, the harvest the end of the age.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "A mixed church?",
+        "refs": [
+          "Matt 13:38",
+          "1 Cor 5:12-13",
+          "Matt 18:15-17"
+        ],
+        "note": "Augustine used the parable against the Donatists to argue that the visible church contains both true and false members. Others note Jesus says the field is the world, not the church, and that discipline is still commanded. Debated.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Wheat and chaff: judgement",
+        "refs": [
+          "Ps 1:4",
+          "Matt 3:12",
+          "Luke 3:17",
+          "Jer 23:28"
+        ],
+        "note": "The winnowing fork separates grain from chaff.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Death that brings life",
+        "refs": [
+          "John 12:24",
+          "1 Cor 15:36-37"
+        ],
+        "note": "A grain of wheat must die to bear much fruit; Paul uses the seed for the resurrection body.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Testing",
+        "refs": [
+          "Luke 22:31"
+        ],
+        "note": "Satan asks to sift the disciples like wheat.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Wheat harvest and the Feast of Weeks (Exod 34:22), land of wheat and barley (Deut 8:8), Ruth gleaning (Ruth 2:23), chaff driven by wind (Ps 1:4), sowing the wind (Hos 8:7).",
+    "ntUsage": "Wheat and weeds (Matt 13:24-30), winnowing (Matt 3:12), the grain of wheat (John 12:24), sifting (Luke 22:31), the harvest of the earth (Rev 14:15-16).",
+    "caution": "The parable warns against premature uprooting by human servants; it is not a denial that churches should exercise any discipline.",
+    "related": [
+      "mustard-seed",
+      "vine",
+      "thorns",
+      "seventy-times-seven"
+    ]
+  },
+  {
+    "id": "thorns",
+    "name": "Thorns and thistles",
+    "original": "Hebrew qots, dardar, shamir, seneh (thorn bush); Greek akantha, skolops",
+    "category": "plant",
+    "plain": "Thorns come into the story with the curse on the ground after the fall. They picture frustration, judgement, worthless people and the cares that choke faith. At the cross, soldiers crown Jesus with thorns, and many Christians see him bearing the curse.",
+    "meanings": [
+      {
+        "meaning": "The curse on work and the ground",
+        "refs": [
+          "Gen 3:18",
+          "Heb 6:8",
+          "Isa 55:13"
+        ],
+        "note": "Isaiah promises that instead of the thorn will come up the cypress.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Crown of thorns: mock kingship and the curse borne",
+        "refs": [
+          "Matt 27:29",
+          "Mark 15:17",
+          "John 19:2",
+          "John 19:5",
+          "Gal 3:13"
+        ],
+        "note": "The soldiers mean mockery. Connecting the thorns to the curse of Gen 3 is an ancient Christian reflection, not stated in the Gospels.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "Worries and riches that choke the word",
+        "refs": [
+          "Matt 13:7",
+          "Matt 13:22"
+        ],
+        "note": "In the sower parable.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Troublesome enemies",
+        "refs": [
+          "Num 33:55",
+          "Josh 23:13",
+          "2 Sam 23:6",
+          "Ezek 28:24"
+        ],
+        "note": "Remaining Canaanites will be thorns in Israel's sides.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Paul's thorn in the flesh",
+        "refs": [
+          "2 Cor 12:7-9",
+          "Gal 4:15",
+          "Gal 6:11"
+        ],
+        "note": "Greek skolops can mean a stake. Suggestions include poor eyesight, chronic illness, persecution, opponents (cf. Num 33:55) or temptation. No consensus.",
+        "confidence": "debated"
+      }
+    ],
+    "otUsage": "The curse (Gen 3:18), the burning bush, which was a thorn bush (Exod 3:2), Gideon's thorn-threshing (Judg 8:7), the bramble king (Judg 9:14-15), the vineyard overrun (Isa 5:6), thorns on the pagan altars (Hos 10:8).",
+    "ntUsage": "Grapes not gathered from thorns (Matt 7:16), the sower (Matt 13:7), the crown (John 19:2), Paul's thorn (2 Cor 12:7), land bearing thorns (Heb 6:8).",
+    "caution": "The ram 'caught in a thicket' (Gen 22:13) is sometimes linked to the crown of thorns. That is a devotional typology, not something the NT draws.",
+    "related": [
+      "vine",
+      "wheat-and-tares",
+      "tree-of-life"
+    ]
+  },
+  {
+    "id": "hyssop",
+    "name": "Hyssop",
+    "original": "Hebrew ezov; Greek hyssōpos",
+    "category": "plant",
+    "plain": "Hyssop was a small, bushy herb (probably Syrian marjoram) used as a brush to sprinkle blood or water in rites of cleansing. It shows up at the first Passover, in David's prayer 'purge me with hyssop', and at the cross.",
+    "meanings": [
+      {
+        "meaning": "Applying the blood that protects",
+        "refs": [
+          "Exod 12:22"
+        ],
+        "note": "Hyssop dipped in the Passover lamb's blood marked the doorposts.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Cleansing from defilement",
+        "refs": [
+          "Lev 14:4",
+          "Lev 14:49-52",
+          "Num 19:6",
+          "Num 19:18",
+          "Heb 9:19"
+        ],
+        "note": "Used for cleansing skin disease, houses and corpse-impurity.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Inner cleansing from sin",
+        "refs": [
+          "Ps 51:7"
+        ],
+        "note": "David asks for the purification only God can give.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Passover echo at the cross",
+        "refs": [
+          "John 19:29",
+          "John 19:36"
+        ],
+        "note": "Only John mentions hyssop (Mark and Matthew say 'a reed'). Many see a deliberate Passover link. A sprig of hyssop seems too weak to lift a sponge, so some have proposed a different Greek word (hyssos, javelin), found in one late manuscript. Debated.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "The humblest plant",
+        "refs": [
+          "1 Kgs 4:33"
+        ],
+        "note": "Solomon's knowledge reached from the cedar to the hyssop on the wall, that is, from greatest to smallest.",
+        "confidence": "biblical"
+      }
+    ],
+    "otUsage": "Passover (Exod 12:22), cleansing rites (Lev 14; Num 19), David's prayer (Ps 51:7), Solomon's botany (1 Kgs 4:33).",
+    "ntUsage": "The cross (John 19:29) and Hebrews' summary of covenant sprinkling (Heb 9:19).",
+    "caution": "The plant called hyssop today (Hyssopus officinalis) is probably not the biblical one.",
+    "related": [
+      "cedar",
+      "red-scarlet",
+      "lamb",
+      "white"
+    ]
+  },
+  {
+    "id": "lily",
+    "name": "Lily",
+    "original": "Hebrew shushan, shoshannah; Greek krinon",
+    "category": "plant",
+    "plain": "The biblical 'lily' is an unidentified bright flower, possibly the lotus, anemone or iris. It stands for beauty, love and God's lavish care. Jesus says to consider how the lilies grow: not even Solomon was dressed like one of them.",
+    "meanings": [
+      {
+        "meaning": "God's care makes worry unnecessary",
+        "refs": [
+          "Matt 6:28-30",
+          "Luke 12:27-28"
+        ],
+        "note": "Wild flowers, here today and burned tomorrow, are dressed by God; how much more his children.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Beauty and love",
+        "refs": [
+          "Song 2:1-2",
+          "Song 2:16",
+          "Song 4:5",
+          "Song 6:2-3"
+        ],
+        "note": "In Song 2:1 the woman most likely speaks ('I am a rose of Sharon, a lily of the valleys'). Applying it to Christ is a later devotional tradition.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Renewal of Israel",
+        "refs": [
+          "Hos 14:5"
+        ],
+        "note": "'He shall blossom like the lily.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Temple decoration",
+        "refs": [
+          "1 Kgs 7:19",
+          "1 Kgs 7:22",
+          "1 Kgs 7:26",
+          "2 Chr 4:5"
+        ],
+        "note": "Lily-work topped the pillars and the rim of the bronze sea, suggesting Eden-like beauty in God's house.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Purity, Mary and resurrection",
+        "refs": [
+          "Song 2:2"
+        ],
+        "note": "Medieval art made the white lily a sign of Mary's purity, and Easter lilies are a modern custom. Tradition, not biblical symbolism.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Song of Songs (Song 2:1; Song 5:13), Hosea (Hos 14:5), temple pillars (1 Kgs 7:19), and psalm titles set 'to Lilies' (for example Ps 45 and Ps 69), probably a tune name.",
+    "ntUsage": "Only in Jesus' saying about the lilies of the field (Matt 6:28; Luke 12:27).",
+    "caution": "Exact flower identifications are uncertain. Do not build meaning on modern varieties like the white Easter lily.",
+    "related": [
+      "palm",
+      "almond",
+      "green"
+    ]
+  },
+  {
+    "id": "palm",
+    "name": "Palm tree and palm branches",
+    "original": "Hebrew tamar, kaf (palm frond); Greek phoinix",
+    "category": "plant",
+    "plain": "The date palm was a tree of oases and abundance, and its branches were waved at festivals and victories. Crowds wave palm branches as Jesus enters Jerusalem, and the redeemed in Revelation hold palms before God's throne.",
+    "meanings": [
+      {
+        "meaning": "Festival joy (Tabernacles)",
+        "refs": [
+          "Lev 23:40",
+          "Neh 8:15"
+        ],
+        "note": "Palm branches were part of the booths and rejoicing at the Feast of Tabernacles.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Royal welcome and victory",
+        "refs": [
+          "John 12:13",
+          "Rev 7:9"
+        ],
+        "note": "Palms had been waved for the Maccabean liberators (1 and 2 Maccabees) and appeared on Jewish coins; the crowd hails Jesus as a national king. In Revelation they mark the victory of the redeemed.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "The flourishing righteous",
+        "refs": [
+          "Ps 92:12",
+          "Song 7:7-8"
+        ],
+        "note": "'The righteous flourish like the palm tree.'",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Eden in the temple",
+        "refs": [
+          "1 Kgs 6:29",
+          "1 Kgs 6:32",
+          "Ezek 40:16",
+          "Ezek 41:18"
+        ],
+        "note": "Carved palms with cherubim and flowers made the sanctuary a garden of God's presence.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Martyrdom and Palm Sunday",
+        "refs": [
+          "Rev 7:9",
+          "Rev 7:14"
+        ],
+        "note": "Christian art gave martyrs the palm of victory, and the church remembers the triumphal entry on Palm Sunday. Tradition.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Elim's seventy palms (Exod 15:27), Jericho the city of palms (Deut 34:3), Deborah judging under her palm (Judg 4:5), the name Tamar (Gen 38:6; 2 Sam 13:1), idols 'upright as the palm' (Jer 10:5).",
+    "ntUsage": "Triumphal entry (John 12:13) and the great multitude (Rev 7:9).",
+    "caution": "Only John mentions palms specifically at the entry; the other Gospels speak of branches and cloaks.",
+    "related": [
+      "donkey",
+      "white",
+      "lily",
+      "seventy"
+    ]
+  },
+  {
+    "id": "almond",
+    "name": "Almond (Aaron's rod)",
+    "original": "Hebrew shaqed; Greek karyon",
+    "category": "plant",
+    "plain": "The almond is the first tree to blossom in Israel's late winter, so its Hebrew name shaqed sounds like 'the watcher' or 'wakeful one'. Aaron's dead staff budded, blossomed and bore almonds overnight to show God's choice of priest, and the tabernacle lampstand had almond-shaped cups.",
+    "meanings": [
+      {
+        "meaning": "God's chosen priesthood",
+        "refs": [
+          "Num 17:8",
+          "Num 17:10",
+          "Heb 9:4"
+        ],
+        "note": "Twelve staffs were laid before the LORD; only Aaron's came to life. It was kept before the ark as a sign against rebels.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "God watching over his word",
+        "refs": [
+          "Jer 1:11-12"
+        ],
+        "note": "A wordplay: Jeremiah sees an almond branch (shaqed) and God says he is watching (shoqed) to perform his word.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Light and life in the sanctuary",
+        "refs": [
+          "Exod 25:33-34",
+          "Exod 37:19-20"
+        ],
+        "note": "The lampstand's cups were shaped like almond blossoms, making it a stylised flowering tree. Many see an echo of the tree of life.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "meaning": "Old age",
+        "refs": [
+          "Eccl 12:5"
+        ],
+        "note": "'The almond tree blossoms' probably pictures white hair. Debated but widely held.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Resurrection, and Mary",
+        "refs": [
+          "Num 17:8",
+          "Isa 11:1"
+        ],
+        "note": "Fathers saw the dead rod blooming as a figure of Christ's resurrection; others made it a type of the virgin birth (life from what could not naturally bear). Both are tradition.",
+        "confidence": "tradition"
+      }
+    ],
+    "otUsage": "Gift of almonds to Joseph (Gen 43:11), Jacob's rods (Gen 30:37, where 'hazel' in KJV is probably almond, luz), the lampstand (Exod 25:33), Aaron's rod (Num 17:8), Jeremiah's vision (Jer 1:11), old age (Eccl 12:5).",
+    "ntUsage": "Only Heb 9:4, listing Aaron's budded rod in the ark.",
+    "caution": "Hebrew wordplay (shaqed and shoqed) is the key to Jeremiah 1; English readers can easily miss it and look for symbolism elsewhere.",
+    "related": [
+      "tree-of-life",
+      "olive-tree",
+      "twelve",
+      "lily"
+    ]
+  },
+  {
+    "id": "tree-of-life",
+    "name": "Tree of life",
+    "original": "Hebrew ets ha-chayyim; Greek xylon tēs zōēs",
+    "category": "plant",
+    "plain": "The tree of life stood in the middle of Eden. After the fall, humans were barred from it. It returns at the end of the Bible, beside the river in the new Jerusalem, bearing fruit every month, with leaves for the healing of the nations. Between those, Proverbs uses it for wisdom and righteous living.",
+    "meanings": [
+      {
+        "meaning": "Life in God's presence",
+        "refs": [
+          "Gen 2:9",
+          "Gen 3:22",
+          "Gen 3:24"
+        ],
+        "note": "Barring the way can be read as judgement and as mercy (not living forever in a fallen state). Both readings appear in Jewish and Christian tradition.",
+        "confidence": "debated"
+      },
+      {
+        "meaning": "Restored access in the new creation",
+        "refs": [
+          "Rev 2:7",
+          "Rev 22:2",
+          "Rev 22:14",
+          "Ezek 47:12"
+        ],
+        "note": "The paradise of God is open again. Some manuscripts of Rev 22:19 read 'book of life' (KJV) instead of 'tree of life'; most modern texts read 'tree'.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "Wisdom and a good life",
+        "refs": [
+          "Prov 3:18",
+          "Prov 11:30",
+          "Prov 13:12",
+          "Prov 15:4"
+        ],
+        "note": "Wisdom, the fruit of righteousness, fulfilled longing and gentle speech are each 'a tree of life'.",
+        "confidence": "biblical"
+      },
+      {
+        "meaning": "The cross as tree of life",
+        "refs": [
+          "Acts 5:30",
+          "Gal 3:13",
+          "1 Pet 2:24"
+        ],
+        "note": "The NT calls the cross a 'tree' (xylon). Early and medieval Christians linked it to the tree of life: the curse that came by a tree is undone by a tree. Tradition.",
+        "confidence": "tradition"
+      },
+      {
+        "meaning": "The lampstand as a stylised tree",
+        "refs": [
+          "Exod 25:31-36"
+        ],
+        "note": "Some scholars think the menorah, with branches and almond blossoms, recalls the tree of life in the sanctuary.",
+        "confidence": "speculative"
+      }
+    ],
+    "otUsage": "Eden (Gen 2-3), Proverbs (Prov 3:18), the river of healing trees (Ezek 47:12), the righteous like a tree by streams (Ps 1:3).",
+    "ntUsage": "Promise to the victorious at Ephesus (Rev 2:7) and the city's tree with twelve fruits (Rev 22:2).",
+    "caution": "Kabbalah's 'tree of life' diagram is a much later mystical system and should not be read back into Genesis.",
+    "related": [
+      "almond",
+      "olive-tree",
+      "vine",
+      "twelve",
+      "thorns",
+      "green"
+    ]
   }
 ]
