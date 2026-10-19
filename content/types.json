@@ -1,0 +1,2989 @@
+[
+  {
+    "id": "adam-christ",
+    "title": "Adam and Christ: two heads of humanity",
+    "category": "person",
+    "type": {
+      "name": "Adam",
+      "refs": [
+        "Gen 2:7",
+        "Gen 3:1-19",
+        "Gen 5:1-3"
+      ],
+      "summary": "The first human, formed from the dust and given life by God's breath. He was placed in the garden to keep it and to obey one command. His disobedience brought death, toil and exile, and his children inherited his likeness."
+    },
+    "antitype": {
+      "name": "Christ, the last Adam",
+      "refs": [
+        "Rom 5:12-21",
+        "1 Cor 15:21-22",
+        "1 Cor 15:45-49"
+      ],
+      "summary": "Jesus is the head of a new humanity. Where Adam's one act of disobedience brought condemnation and death to many, Jesus' one act of obedience brings righteousness and life. Adam became a living being; Christ became a life-giving Spirit."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Rom 5:14",
+      "1 Cor 15:45"
+    ],
+    "correspondences": [
+      {
+        "type": "One man's act affects all who belong to him",
+        "antitype": "One man's obedience affects all who belong to him"
+      },
+      {
+        "type": "Tested in a garden and fails",
+        "antitype": "Tested in a wilderness and in the garden of Gethsemane and holds firm"
+      },
+      {
+        "type": "Brings death into the world",
+        "antitype": "Brings resurrection life"
+      },
+      {
+        "type": "Made from earth, bears an earthly image",
+        "antitype": "From heaven; believers will bear his heavenly image"
+      },
+      {
+        "type": "Given dominion over creation",
+        "antitype": "Given all authority, with everything put under his feet"
+      }
+    ],
+    "differences": "Paul stresses that the two are not equal: 'the free gift is not like the trespass' (Rom 5:15). Adam's act was one sin leading to condemnation; Christ's gift answers many sins and brings justification. Adam was a created man; Christ is the Lord from heaven.",
+    "fathers": [
+      {
+        "who": "Irenaeus of Lyon",
+        "note": "Developed recapitulation: Christ goes back over the whole human story Adam spoiled and gets it right at every point, summing humanity up in himself.",
+        "source": {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "3.18.1; 5.21.1",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Read Romans 5 as the root of the doctrine of original sin: all humanity was somehow 'in Adam'. This reading shaped the Western church but is debated by Eastern Orthodox theologians, who speak of inherited mortality rather than inherited guilt.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "13.14",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Paul says Adam was a 'pattern' (Greek *typos*) of the one to come. Think of two family trees. Everyone starts in Adam's family, which ends in death. Jesus starts a new family, and those joined to him share his life. This is the clearest example of a type in the whole Bible, because Paul uses the very word.",
+    "caution": "How exactly humanity is 'in Adam' (guilt, corruption, mortality, or all three) is debated between Western and Eastern traditions, and modern discussion of human origins adds further questions. The typology itself does not settle those debates."
+  },
+  {
+    "id": "eve-bride-church",
+    "title": "Eve and the bride: the church from Christ's side",
+    "category": "person",
+    "type": {
+      "name": "Eve, the bride of Adam",
+      "refs": [
+        "Gen 2:18-24",
+        "Gen 3:20"
+      ],
+      "summary": "God takes a rib from the sleeping Adam and builds the woman. Adam greets her as bone of his bones, and the two become one flesh. She is named the mother of all living."
+    },
+    "antitype": {
+      "name": "The church, bride of Christ",
+      "refs": [
+        "Eph 5:25-32",
+        "2 Cor 11:2-3",
+        "Rev 19:7-9",
+        "Rev 21:2"
+      ],
+      "summary": "Christ loves the church, gives himself for her and makes her holy, as a husband with his bride. Paul quotes Genesis 2:24 and says it is a great mystery about Christ and the church."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Eph 5:31-32",
+      "2 Cor 11:3"
+    ],
+    "correspondences": [
+      {
+        "type": "Adam falls into a deep sleep",
+        "antitype": "Christ sleeps in death on the cross"
+      },
+      {
+        "type": "The bride is taken from Adam's opened side",
+        "antitype": "Blood and water flow from Christ's pierced side, read as the sacraments that build the church"
+      },
+      {
+        "type": "Two become one flesh",
+        "antitype": "The church is Christ's body, united with him"
+      },
+      {
+        "type": "Eve is deceived by the serpent",
+        "antitype": "Paul fears the church may be led astray as Eve was"
+      }
+    ],
+    "differences": "Eve was deceived and shared in the fall; the bride of Revelation is pictured finally pure and ready. Paul never calls Eve a typos; he draws the marriage analogy from Genesis 2:24 rather than from Eve as a person. The 'side' link (John 19:34) is a later reading, not stated in the NT.",
+    "fathers": [
+      {
+        "who": "Tertullian",
+        "note": "Compared Adam's sleep and opened side to Christ's death and pierced side, from which the church, the true mother of the living, was formed.",
+        "source": {
+          "author": "Tertullian",
+          "title": "On the Soul",
+          "locator": "43",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Repeatedly said the church was formed from the side of the sleeping Christ just as Eve was formed from the side of sleeping Adam.",
+        "source": {
+          "author": "Augustine",
+          "title": "Tractates on the Gospel of John",
+          "locator": "9.10",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Irenaeus of Lyon",
+        "note": "Paired Eve not only with the church but with Mary: Eve's disobedience was untied by Mary's obedience. This Eve–Mary parallel is a separate, traditional typology.",
+        "source": {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "3.22.4",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "The Bible begins and ends with a wedding. In Genesis a bride is made from the first man's side; in Revelation the church is presented as the bride of the Lamb. Paul says the marriage of Genesis 2 points to Christ and the church.",
+    "caution": "The NT links marriage in Genesis to Christ and the church, but the details (the sleep, the side, the rib) are developed by the Fathers. The Eve–Mary parallel is traditional and especially important in Catholic and Orthodox devotion; Protestants generally do not adopt it."
+  },
+  {
+    "id": "abel-blood",
+    "title": "Abel's blood and the blood that speaks better",
+    "category": "person",
+    "type": {
+      "name": "Abel, the murdered righteous brother",
+      "refs": [
+        "Gen 4:2-10",
+        "Heb 11:4",
+        "Matt 23:35"
+      ],
+      "summary": "Abel offers an acceptable sacrifice and is killed by his jealous brother Cain. God says Abel's blood cries out from the ground."
+    },
+    "antitype": {
+      "name": "Jesus, the righteous one killed by his brothers",
+      "refs": [
+        "Heb 12:22-24",
+        "Matt 23:34-36",
+        "1 John 3:12"
+      ],
+      "summary": "Jesus, the innocent one, is killed through the envy of his own people. His sprinkled blood speaks a better word than Abel's: not a cry for vengeance but a word of forgiveness and covenant."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 12:24"
+    ],
+    "correspondences": [
+      {
+        "type": "A shepherd who brings an acceptable offering",
+        "antitype": "The good shepherd who is himself the offering"
+      },
+      {
+        "type": "Killed by a brother out of envy",
+        "antitype": "Handed over out of envy (Mark 15:10)"
+      },
+      {
+        "type": "His blood cries from the ground",
+        "antitype": "His blood speaks from heaven"
+      },
+      {
+        "type": "First of the righteous martyrs",
+        "antitype": "Jesus names Abel's blood at the head of the line his generation will answer for"
+      }
+    ],
+    "differences": "Hebrews uses Abel by contrast: his blood calls for justice, Christ's blood brings mercy. Abel was a sinner like everyone else and his death achieved nothing for others; Christ's death is described as redemptive.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "In his Easter sermon lists Abel among the figures in whom Christ suffered beforehand: murdered in Abel, bound in Isaac, sold in Joseph, exposed in Moses, hunted in David.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "59; 69",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Read Cain and Abel as the start of the two cities: Cain founds an earthly city, Abel is a pilgrim, a figure of Christ and his people.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "15.1; 15.7",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Abel was the first person in the Bible to die, killed by his own brother. His blood 'cried out' for justice. Hebrews says Jesus' blood also speaks, but it says something better: it brings people near to God instead of calling down judgement.",
+    "caution": "The NT text uses Abel more as a contrast than as a foreshadowing pattern. Calling Abel a 'type' is fair in the Fathers' sense, but the Hebrews link is comparative rather than a stated typos."
+  },
+  {
+    "id": "enoch-taken",
+    "title": "Enoch, the man who walked with God and was taken",
+    "category": "person",
+    "type": {
+      "name": "Enoch",
+      "refs": [
+        "Gen 5:21-24",
+        "Heb 11:5",
+        "Jude 1:14-15"
+      ],
+      "summary": "Enoch walked with God and then 'was not, for God took him'. Hebrews says he was taken so that he should not see death, and Jude cites him as a prophet of judgement."
+    },
+    "antitype": {
+      "name": "Christ's ascension and the hope of believers",
+      "refs": [
+        "Acts 1:9-11",
+        "1 Thess 4:16-17",
+        "1 Cor 15:51-52"
+      ],
+      "summary": "Later readers saw in Enoch a picture of a righteous person received into God's presence, foreshadowing Christ's ascension and the final transformation of believers who are alive at his return."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Heb 11:5"
+    ],
+    "correspondences": [
+      {
+        "type": "Walks closely with God",
+        "antitype": "The Son lives in perfect communion with the Father"
+      },
+      {
+        "type": "Taken up without dying",
+        "antitype": "Those alive at Christ's coming are changed without dying"
+      },
+      {
+        "type": "Seventh from Adam, a preacher of coming judgement",
+        "antitype": "Christ announces and carries out the final judgement"
+      }
+    ],
+    "differences": "Enoch did not die; Christ did die and then rose before ascending, so the ascension is not a copy of Enoch's translation. The NT never calls Enoch a type of Christ; Hebrews uses him as an example of faith.",
+    "fathers": [
+      {
+        "who": "Irenaeus of Lyon",
+        "note": "Cited Enoch (with Elijah) as evidence that God can preserve a human body in life, supporting bodily resurrection.",
+        "source": {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "5.5.1",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Tertullian and later writers",
+        "note": "Several early writers identified Enoch and Elijah as the two witnesses of Revelation 11, who would return to die. This is tradition, not stated in Scripture.",
+        "source": {
+          "author": "Tertullian",
+          "title": "On the Soul",
+          "locator": "50",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Enoch is famous for one line: he walked with God, and then God took him. Christians have seen him as a small preview of the hope that death does not have the last word, and that God can bring a person straight into his presence.",
+    "caution": "This is a traditional, fairly light typology. The book of 1 Enoch, quoted in Jude, is canonical only in the Ethiopian Orthodox church; it should not be used to build NT typology. The Enoch-and-Elijah-as-two-witnesses idea is tradition."
+  },
+  {
+    "id": "noah-ark-baptism",
+    "title": "Noah's ark and baptism",
+    "category": "object",
+    "type": {
+      "name": "The ark through the flood",
+      "refs": [
+        "Gen 6:13-22",
+        "Gen 7:1-24",
+        "Gen 8:1-19"
+      ],
+      "summary": "God tells Noah to build an ark. Eight people and the animals are carried safely through the waters of judgement that destroy the old world, and they step out into a washed creation."
+    },
+    "antitype": {
+      "name": "Baptism into Christ",
+      "refs": [
+        "1 Pet 3:18-22",
+        "Matt 24:37-39",
+        "2 Pet 2:5"
+      ],
+      "summary": "Peter says the water that saved Noah's family corresponds to baptism, which now saves, not by washing dirt from the body but as an appeal to God for a good conscience, through the resurrection of Jesus."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Pet 3:20-21"
+    ],
+    "correspondences": [
+      {
+        "type": "Waters of judgement on a corrupt world",
+        "antitype": "Baptism as dying to the old life"
+      },
+      {
+        "type": "Eight saved inside the ark",
+        "antitype": "Believers saved by being 'in Christ'"
+      },
+      {
+        "type": "A new world emerges from the water",
+        "antitype": "Rising to new life with the risen Christ"
+      },
+      {
+        "type": "The dove brings an olive leaf",
+        "antitype": "The Spirit descends like a dove at Jesus' baptism"
+      }
+    ],
+    "differences": "The flood killed the wicked; baptism is offered to them. Peter insists the saving power is not the water itself but Christ's resurrection and the pledge of a good conscience. The ark carried the righteous; the church holds sinners being made righteous.",
+    "fathers": [
+      {
+        "who": "Justin Martyr",
+        "note": "Saw the eight people as pointing to the eighth day, the day of resurrection, and linked the wood of the ark to the wood of the cross.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "138",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Tertullian",
+        "note": "Compared the dove returning to the ark with the Spirit coming to the baptised.",
+        "source": {
+          "author": "Tertullian",
+          "title": "On Baptism",
+          "locator": "8",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Read the ark as a figure of the church and even of Christ's body, with the door in its side matching the wound in Christ's side.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "15.26",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Noah's family went through a world-ending flood and came out alive because they were inside the ark. Peter says baptism is like that: you pass through water that signals death to the old life, and you come out safe because you are joined to the risen Jesus.",
+    "caution": "Peter's word is *antitypon*, so the link is explicit. What baptism actually does is debated (see /debates/baptism): sacramental traditions read 'baptism now saves you' strongly; others stress Peter's qualification that it is the appeal of a good conscience. The patristic idea that there is no salvation outside the ark-church is an application, not part of Peter's text."
+  },
+  {
+    "id": "melchizedek",
+    "title": "Melchizedek, priest-king of Salem",
+    "category": "person",
+    "type": {
+      "name": "Melchizedek",
+      "refs": [
+        "Gen 14:17-20",
+        "Ps 110:4"
+      ],
+      "summary": "A king of Salem and priest of God Most High who brings bread and wine to Abraham, blesses him, and receives a tenth of the spoils. Psalm 110 later speaks of a royal priest 'after the order of Melchizedek'."
+    },
+    "antitype": {
+      "name": "Christ, the eternal high priest",
+      "refs": [
+        "Heb 5:5-10",
+        "Heb 6:20",
+        "Heb 7:1-28"
+      ],
+      "summary": "Hebrews argues that Jesus is a priest not from Levi's tribe but in Melchizedek's line: a king-priest whose priesthood rests on an indestructible life, so he lives forever to intercede."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 7:3",
+      "Heb 7:15-17",
+      "Ps 110:4"
+    ],
+    "correspondences": [
+      {
+        "type": "Both king and priest",
+        "antitype": "Christ is royal Son and high priest"
+      },
+      {
+        "type": "'King of righteousness' and 'king of peace'",
+        "antitype": "Christ brings righteousness and peace"
+      },
+      {
+        "type": "No recorded genealogy, birth or death",
+        "antitype": "Christ's priesthood does not depend on ancestry and has no end"
+      },
+      {
+        "type": "Abraham, ancestor of Levi, pays him a tenth",
+        "antitype": "Christ's priesthood is greater than the Levitical one"
+      },
+      {
+        "type": "Brings out bread and wine",
+        "antitype": "Read by many traditions as foreshadowing the Lord's Supper"
+      }
+    ],
+    "differences": "Hebrews says Melchizedek was 'made like' the Son of God, not that he was the Son; the silence about his parents is an argument from what Genesis leaves out. Melchizedek blessed Abraham once; Christ offered himself once for all and intercedes forever.",
+    "fathers": [
+      {
+        "who": "Cyprian of Carthage",
+        "note": "Argued that the bread and wine Melchizedek offered prefigured the eucharist, and used it to insist the cup must contain wine.",
+        "source": {
+          "author": "Cyprian",
+          "title": "Letter 63",
+          "locator": "4",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Ambrose of Milan",
+        "note": "Used Melchizedek's offering as evidence that the Christian sacraments are older than those of the Jews.",
+        "source": {
+          "author": "Ambrose",
+          "title": "On the Sacraments",
+          "locator": "4.3",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Melchizedek appears for three verses in Genesis and disappears. Hebrews uses the mystery around him to make a point: Jesus is a priest of a different and higher kind than the priests descended from Aaron, because his priesthood rests on his endless life, not on family descent.",
+    "caution": "Hebrews never mentions the bread and wine, so the eucharistic link is traditional. Some interpreters, ancient and modern, have argued Melchizedek was a pre-incarnate appearance of Christ; most read Hebrews 7:3 as typology from the silence of Genesis. Qumran's 11QMelchizedek shows Jews of the time also speculated about him."
+  },
+  {
+    "id": "isaac-bound",
+    "title": "Isaac bound on Moriah",
+    "category": "event",
+    "type": {
+      "name": "The binding of Isaac (the Akedah)",
+      "refs": [
+        "Gen 22:1-19"
+      ],
+      "summary": "God tests Abraham by asking him to offer Isaac, his beloved and only son of promise. Isaac carries the wood up the mountain; Abraham says God will provide the lamb. At the last moment God stops him and provides a ram."
+    },
+    "antitype": {
+      "name": "The Father giving his Son",
+      "refs": [
+        "Rom 8:32",
+        "John 3:16",
+        "John 19:17",
+        "Heb 11:17-19"
+      ],
+      "summary": "God did not spare his own Son but gave him up for us. Hebrews says Abraham reasoned God could raise the dead, and received Isaac back 'as a figure' of resurrection."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Heb 11:19",
+      "Rom 8:32"
+    ],
+    "correspondences": [
+      {
+        "type": "A beloved, only son of promise",
+        "antitype": "God's beloved only Son"
+      },
+      {
+        "type": "Isaac carries the wood up the hill",
+        "antitype": "Jesus carries his cross to Golgotha"
+      },
+      {
+        "type": "'God will provide the lamb'",
+        "antitype": "'Behold the Lamb of God' (John 1:29)"
+      },
+      {
+        "type": "On the third day Abraham sees the place",
+        "antitype": "Raised on the third day"
+      },
+      {
+        "type": "Isaac received back as if from death",
+        "antitype": "Christ actually raised from death"
+      }
+    ],
+    "differences": "Isaac was not sacrificed; a substitute died instead. In the antitype there is no substitute for the Son: he is himself the substitute. Abraham's hand was stopped; the Father's was not.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Treated Isaac as a figure of Christ who was bound, and the ram as the one who was actually slain.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "Fragments on Isaac",
+          "locator": "9-11",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Preached that Isaac carrying the wood is like Christ carrying the cross, and that Isaac as priest and victim both pictures Christ.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Genesis",
+          "locator": "8",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Noted that Isaac carried the wood as Christ carried his cross.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "16.32",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Abraham was asked to give up the son he loved most, and then God stopped him. Christians read the story as a rehearsal: what God did not require of Abraham, he did himself in giving Jesus. Paul's wording 'did not spare his own Son' seems to echo God's words to Abraham.",
+    "caution": "Romans 8:32 echoes the Greek of Genesis 22:16 but does not name Isaac, and Hebrews 11:19 says 'figuratively' (*en parabolē*) about receiving Isaac back, not about the sacrifice as a whole. Jewish tradition developed the Akedah in its own way, sometimes stressing Isaac's willing consent. The identification of Moriah with the later temple mount rests on 2 Chr 3:1; with Golgotha it is tradition."
+  },
+  {
+    "id": "ram-in-thicket",
+    "title": "The ram caught in the thicket",
+    "category": "object",
+    "type": {
+      "name": "The substitute ram",
+      "refs": [
+        "Gen 22:13-14"
+      ],
+      "summary": "Abraham looks up and sees a ram caught by its horns in a thicket. He offers it in place of his son and names the place 'The LORD will provide'."
+    },
+    "antitype": {
+      "name": "Christ the substitute",
+      "refs": [
+        "John 1:29",
+        "Isa 53:4-6",
+        "1 Pet 2:24",
+        "Mark 10:45"
+      ],
+      "summary": "Jesus dies in the place of others, the provision God makes so that the guilty go free."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Gen 22:8"
+    ],
+    "correspondences": [
+      {
+        "type": "Dies in Isaac's place",
+        "antitype": "Dies in the place of sinners"
+      },
+      {
+        "type": "Caught in a thicket by its head",
+        "antitype": "Crowned with thorns"
+      },
+      {
+        "type": "Provided by God, not brought by Abraham",
+        "antitype": "God himself provides the sacrifice"
+      }
+    ],
+    "differences": "The ram was an animal with no will in the matter; Christ gave himself freely. Note that Abraham predicted a lamb and God provided a ram: the 'lamb' language waits for the NT.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Said the Lord was the lamb like the ram that Abraham saw caught in the bush, and that the bush pointed to the cross.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "Fragments on Isaac",
+          "locator": "11",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Tertullian",
+        "note": "Connected the ram caught by its horns with Christ crowned with thorns.",
+        "source": {
+          "author": "Tertullian",
+          "title": "Against the Jews",
+          "locator": "13",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Isaac did not die because something died in his place. Christians see in the ram the simplest picture of what they believe about the cross: someone else took the death that was due.",
+    "caution": "No NT text mentions the ram. The thorns-and-thicket link is a devotional observation from the Fathers, not an argument the NT makes. Whether 'substitution' is the main or only meaning of the cross is debated (see /debates/atonement)."
+  },
+  {
+    "id": "joseph-patriarch",
+    "title": "Joseph: rejected brother, exalted saviour",
+    "category": "person",
+    "type": {
+      "name": "Joseph son of Jacob",
+      "refs": [
+        "Gen 37:3-28",
+        "Gen 39:1-23",
+        "Gen 41:37-57",
+        "Gen 45:1-15",
+        "Gen 50:19-21"
+      ],
+      "summary": "Joseph is his father's beloved son, hated and sold by his brothers, falsely accused and imprisoned. He is then raised to the right hand of Pharaoh and saves many lives, including the brothers who betrayed him."
+    },
+    "antitype": {
+      "name": "Jesus, rejected and exalted",
+      "refs": [
+        "Acts 7:9-14",
+        "Acts 2:23-24",
+        "Phil 2:8-11",
+        "Matt 26:14-16"
+      ],
+      "summary": "Jesus is rejected by his own, sold for silver, condemned though innocent, and then exalted to God's right hand, from where he offers forgiveness and life to those who rejected him."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Acts 7:9-10"
+    ],
+    "correspondences": [
+      {
+        "type": "Beloved son of his father",
+        "antitype": "Beloved Son of the Father"
+      },
+      {
+        "type": "Sold by his brothers for twenty pieces of silver",
+        "antitype": "Sold by a disciple for thirty pieces of silver"
+      },
+      {
+        "type": "Falsely accused and counted among prisoners",
+        "antitype": "Falsely accused and crucified between criminals"
+      },
+      {
+        "type": "Raised to the right hand of the ruler",
+        "antitype": "Raised to the right hand of God"
+      },
+      {
+        "type": "'You meant evil, God meant it for good, to save many lives'",
+        "antitype": "Human wickedness and God's plan meet in the cross"
+      },
+      {
+        "type": "Brothers do not recognise him at first",
+        "antitype": "His own did not receive him (John 1:11)"
+      }
+    ],
+    "differences": "Joseph had faults (his early boasting) and sometimes tested his brothers harshly. His saving work was about famine and food, not sin and death. He was not killed.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Lists Joseph as one in whom the Lord was sold beforehand.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "59; 69",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Ambrose of Milan",
+        "note": "Wrote a whole treatise on Joseph as a model of chastity and a figure of Christ.",
+        "source": {
+          "author": "Ambrose",
+          "title": "On Joseph",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Joseph's story has the shape of the gospel: the favoured son is rejected by his brothers, goes down into the pit and prison, is raised to power, and uses it to save the very people who wronged him. The NT never says 'Joseph was a type', but Stephen tells his story as part of a pattern of Israel rejecting the deliverers God sent.",
+    "caution": "This is one of the most popular types but has no explicit NT warrant. Stephen's speech (Acts 7) makes the 'rejected deliverer' pattern visible with Joseph and Moses, but it does not draw the line to Jesus in so many words. Popular preaching sometimes stretches it to every detail (the coat, the cup, Asenath as the gentile church)."
+  },
+  {
+    "id": "moses-prophet",
+    "title": "Moses and the prophet like Moses",
+    "category": "person",
+    "type": {
+      "name": "Moses",
+      "refs": [
+        "Exod 2:1-10",
+        "Exod 3:1-12",
+        "Deut 18:15-19",
+        "Deut 34:10-12",
+        "Num 12:6-8"
+      ],
+      "summary": "Moses is saved as a baby from a king's massacre, called to lead Israel out of slavery, speaks with God face to face, gives the law and mediates the covenant. He promised that God would raise up a prophet like him."
+    },
+    "antitype": {
+      "name": "Jesus, the prophet like Moses",
+      "refs": [
+        "Acts 3:22-26",
+        "Acts 7:37",
+        "John 1:17",
+        "John 6:14",
+        "Heb 3:1-6",
+        "Matt 5:1-2"
+      ],
+      "summary": "Peter and Stephen identify Jesus as the promised prophet like Moses. Hebrews says Moses was faithful as a servant in God's house; Christ is faithful as the Son over it."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Acts 3:22",
+      "Deut 18:15",
+      "Heb 3:5-6"
+    ],
+    "correspondences": [
+      {
+        "type": "Escapes as an infant when Pharaoh kills Hebrew boys",
+        "antitype": "Escapes as an infant when Herod kills Bethlehem's boys"
+      },
+      {
+        "type": "Gives the law from a mountain",
+        "antitype": "Teaches with authority on a mountain (Matt 5-7)"
+      },
+      {
+        "type": "Mediator of the old covenant",
+        "antitype": "Mediator of a new covenant (Heb 9:15)"
+      },
+      {
+        "type": "Feeds the people with manna in the wilderness",
+        "antitype": "Feeds crowds in deserted places"
+      },
+      {
+        "type": "Face shines after meeting God",
+        "antitype": "Transfigured, with Moses present (Matt 17:1-3)"
+      },
+      {
+        "type": "Rejected by his own people at first",
+        "antitype": "Rejected by his own"
+      }
+    ],
+    "differences": "Moses was a sinner who was barred from the land; Jesus is presented as sinless. Moses brought a law that, as John says, came through him, while grace and truth came through Jesus Christ. Moses was a servant in the house; Jesus is the Son over it.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Includes Moses exposed on the river among the figures of Christ's sufferings.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "59; 69",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Gregory of Nyssa",
+        "note": "Wrote the *Life of Moses*, reading his whole career as a picture of the soul's ascent to God, with many Christ-figures along the way.",
+        "source": {
+          "author": "Gregory of Nyssa",
+          "title": "Life of Moses",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Moses promised that one day God would send another prophet like him, and the Jews of Jesus' day were still waiting for that figure. The apostles say Jesus is that prophet. Matthew especially tells Jesus' early life so that it echoes Moses' story.",
+    "caution": "In its original setting Deuteronomy 18 can be read as a promise of a continuing line of prophets; the NT reads it as fulfilled supremely in one prophet. Matthew's Moses-parallels are widely recognised but not all are stated; some (five discourses matching five books) are scholarly proposals."
+  },
+  {
+    "id": "aaron-high-priest",
+    "title": "Aaron and the great high priest",
+    "category": "person",
+    "type": {
+      "name": "Aaron the high priest",
+      "refs": [
+        "Exod 28:1-43",
+        "Lev 8:1-36",
+        "Lev 16:1-34"
+      ],
+      "summary": "Aaron is anointed as Israel's first high priest. He wears the names of the tribes on his shoulders and breastplate, offers sacrifices, and once a year enters the Most Holy Place with blood to make atonement."
+    },
+    "antitype": {
+      "name": "Jesus our high priest",
+      "refs": [
+        "Heb 4:14-16",
+        "Heb 5:1-10",
+        "Heb 7:23-28",
+        "Heb 9:11-14"
+      ],
+      "summary": "Jesus is the high priest who sympathises with our weakness yet is without sin. He offered himself once for all, entered heaven itself, and always lives to intercede."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 5:4-5",
+      "Heb 9:7",
+      "Heb 9:11-12"
+    ],
+    "correspondences": [
+      {
+        "type": "Called by God, not self-appointed",
+        "antitype": "Christ did not exalt himself but was appointed"
+      },
+      {
+        "type": "Carries the tribes' names before God",
+        "antitype": "Represents his people before the Father"
+      },
+      {
+        "type": "Enters the Most Holy Place once a year",
+        "antitype": "Enters heaven once for all"
+      },
+      {
+        "type": "Offers the blood of animals",
+        "antitype": "Offers his own blood"
+      },
+      {
+        "type": "Must offer first for his own sins",
+        "antitype": "Has no sins of his own to offer for"
+      }
+    ],
+    "differences": "Hebrews is mostly about contrast: Aaron's priests died and were replaced, needed to sacrifice for themselves, served in a copy of the heavenly sanctuary, and repeated sacrifices that could not cleanse the conscience. Christ is said to be different on every count. Hebrews also places Jesus in Melchizedek's order, not Aaron's.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Preached on Leviticus 16, reading the high priest entering the sanctuary as Christ entering heaven with his own blood.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Leviticus",
+          "locator": "9",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Clement of Rome",
+        "note": "Used the ordered Levitical priesthood as a model for order in the church's ministry.",
+        "source": {
+          "author": "Clement of Rome",
+          "title": "1 Clement",
+          "locator": "40-44",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Israel's high priest stood between God and the people. Hebrews says Jesus does that job perfectly and permanently. Where Aaron went into a tent once a year with animal blood, Jesus went into God's presence once for all with his own.",
+    "caution": "Whether Christian ministers are 'priests' in a sense continuous with Aaron is debated between Catholic/Orthodox and Protestant traditions. Hebrews itself speaks of Christ's unique priesthood and of all believers offering sacrifices of praise (Heb 13:15)."
+  },
+  {
+    "id": "passover-lamb",
+    "title": "The Passover lamb",
+    "category": "festival",
+    "type": {
+      "name": "The Passover lamb",
+      "refs": [
+        "Exod 12:1-28",
+        "Exod 12:46"
+      ],
+      "summary": "On the night of the exodus each household kills an unblemished lamb, marks the doorposts with its blood, and eats it. The destroyer passes over the marked houses. Not a bone of the lamb is to be broken."
+    },
+    "antitype": {
+      "name": "Christ our Passover",
+      "refs": [
+        "1 Cor 5:7-8",
+        "John 1:29",
+        "John 19:31-36",
+        "1 Pet 1:18-19",
+        "Rev 5:6-9"
+      ],
+      "summary": "Paul says Christ our Passover lamb has been sacrificed. John has Jesus die as the Passover lambs are prepared and notes that none of his bones were broken. The Last Supper is set at Passover."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Cor 5:7",
+      "John 19:36"
+    ],
+    "correspondences": [
+      {
+        "type": "Lamb without blemish",
+        "antitype": "A lamb without blemish or spot (1 Pet 1:19)"
+      },
+      {
+        "type": "Blood on the door shields from death",
+        "antitype": "Christ's blood rescues from judgement"
+      },
+      {
+        "type": "No bone broken",
+        "antitype": "Soldiers do not break Jesus' legs"
+      },
+      {
+        "type": "Eaten in a meal that remembers deliverance",
+        "antitype": "The Lord's Supper remembers Christ's death"
+      },
+      {
+        "type": "Old leaven cleared out of the house",
+        "antitype": "Believers clear out malice and wickedness"
+      }
+    ],
+    "differences": "The Passover lamb was not originally a sin offering; it was a protective sign and a meal. The NT fuses Passover with other sacrifice ideas. Israel repeated Passover every year; Christ died once.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "His Easter homily is a full reading of Exodus 12 as the type and Christ as the reality. He compares the type to an artist's model that is set aside once the real statue is finished.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "1-10; 35-45",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Justin Martyr",
+        "note": "Noted the lamb was roasted on crossed spits, which he took as a figure of the cross.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "40",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "On the night Israel left Egypt, the blood of a lamb on the door meant death passed over that house. The first Christians, many of them Jews, saw Jesus' death at Passover and said: he is our lamb. This is why Easter in many languages is still called by the Passover name (Pascha).",
+    "caution": "Whether the Last Supper was itself a Passover meal (the Synoptics) or held the day before (John's timing) is a long-running historical question. Melito's sermon also contains harsh language against the Jewish people that later fed anti-Judaism and should be read critically."
+  },
+  {
+    "id": "red-sea-baptism",
+    "title": "Crossing the Red Sea and baptism",
+    "category": "event",
+    "type": {
+      "name": "The crossing of the sea",
+      "refs": [
+        "Exod 14:10-31",
+        "Exod 15:1-21"
+      ],
+      "summary": "Trapped between Pharaoh's army and the sea, Israel walks through on dry ground while the waters stand as walls. The pursuing army is drowned, and Israel sings of the LORD's victory."
+    },
+    "antitype": {
+      "name": "Baptism into Christ",
+      "refs": [
+        "1 Cor 10:1-6",
+        "Rom 6:3-4",
+        "Col 2:12"
+      ],
+      "summary": "Paul says Israel was 'baptised into Moses in the cloud and in the sea'. These things happened as examples (*typoi*) for us: believers are baptised into Christ and set free from sin's slavery."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Cor 10:1-2",
+      "1 Cor 10:6",
+      "1 Cor 10:11"
+    ],
+    "correspondences": [
+      {
+        "type": "Passing through water out of slavery",
+        "antitype": "Passing through baptism out of sin's slavery"
+      },
+      {
+        "type": "The enemy drowned behind them",
+        "antitype": "Sin and the powers defeated"
+      },
+      {
+        "type": "Under the cloud of God's presence",
+        "antitype": "Baptised in the Spirit"
+      },
+      {
+        "type": "A song of victory on the far shore",
+        "antitype": "The song of Moses and of the Lamb (Rev 15:3)"
+      }
+    ],
+    "differences": "Paul's main point is a warning: all were baptised, yet most died in the wilderness. The type shows that the sign alone does not guarantee faithfulness. Israel's deliverance was national and physical; Christian baptism concerns each person's union with Christ.",
+    "fathers": [
+      {
+        "who": "Tertullian",
+        "note": "Read the crossing as a figure of baptism, with Pharaoh's army as the devil left drowned in the water.",
+        "source": {
+          "author": "Tertullian",
+          "title": "On Baptism",
+          "locator": "9",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Preached the crossing as the soul passing through baptism and leaving the Egyptians, its vices, behind.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Exodus",
+          "locator": "5",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Cyril of Jerusalem",
+        "note": "Taught newly baptised Christians that Pharaoh stands for the devil, and that in the font they had escaped him as Israel escaped Egypt.",
+        "source": {
+          "author": "Cyril of Jerusalem",
+          "title": "Mystagogical Catecheses",
+          "locator": "1.2-3",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Israel walked through the sea and came out free on the other side, with the slave-masters gone for good. Paul says this was a kind of baptism. The point he presses is sober: they all got wet, but many did not keep trusting God afterwards, so do not presume.",
+    "caution": "Paul uses the crossing to warn, not mainly to celebrate. The Fathers' detailed allegories (each Egyptian a particular vice) go well beyond Paul."
+  },
+  {
+    "id": "manna-bread-of-life",
+    "title": "Manna and the bread of life",
+    "category": "object",
+    "type": {
+      "name": "Manna in the wilderness",
+      "refs": [
+        "Exod 16:4-36",
+        "Deut 8:3",
+        "Ps 78:24-25"
+      ],
+      "summary": "God feeds Israel every morning with bread from heaven. It must be gathered daily, cannot be hoarded, and teaches that people do not live by bread alone but by every word from God's mouth."
+    },
+    "antitype": {
+      "name": "Jesus, the bread of life",
+      "refs": [
+        "John 6:30-58",
+        "Matt 4:4",
+        "Rev 2:17"
+      ],
+      "summary": "After feeding five thousand, Jesus says the true bread from heaven is not Moses' manna but himself. Those who ate manna died; whoever eats this bread will live forever."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "John 6:31-35",
+      "John 6:49-51",
+      "1 Cor 10:3"
+    ],
+    "correspondences": [
+      {
+        "type": "Bread that comes down from heaven",
+        "antitype": "The Son who comes down from heaven"
+      },
+      {
+        "type": "Given daily, enough for each",
+        "antitype": "Sufficient for all who come"
+      },
+      {
+        "type": "Sustains life for a time",
+        "antitype": "Gives eternal life"
+      },
+      {
+        "type": "Kept in a jar in the ark as a memorial",
+        "antitype": "'Hidden manna' promised to the faithful"
+      }
+    ],
+    "differences": "Jesus makes the contrast himself: the fathers ate manna and died. Manna fed bodies; Jesus speaks of himself as food for eternal life. Manna stopped when Israel entered the land; Christ's provision does not stop.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Preached that the manna and the Lord's bread are both signs, but that what matters is eating inwardly by faith, not merely outwardly.",
+        "source": {
+          "author": "Augustine",
+          "title": "Tractates on the Gospel of John",
+          "locator": "26",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Ambrose of Milan",
+        "note": "Argued that the eucharist is greater than the manna, since manna was a shadow and the eucharist is the body of Christ.",
+        "source": {
+          "author": "Ambrose",
+          "title": "On the Mysteries",
+          "locator": "8.47-49",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Manna was the daily bread God sent to keep Israel alive in the desert. Jesus says he is the real bread from heaven: not food that keeps you going one more day, but life that lasts forever.",
+    "caution": "How far John 6 refers to the Lord's Supper is debated: Catholic and Orthodox readers see a strong eucharistic meaning; many Protestants read 'eating' mainly as believing (John 6:35). See /debates/lords-supper."
+  },
+  {
+    "id": "the-rock",
+    "title": "The rock that followed them",
+    "category": "object",
+    "type": {
+      "name": "The rock that gave water",
+      "refs": [
+        "Exod 17:1-7",
+        "Num 20:7-13",
+        "Ps 78:15-16"
+      ],
+      "summary": "At Rephidim Moses strikes a rock and water flows for the thirsty people. Later at Kadesh he is told to speak to the rock but strikes it twice, and is barred from the land."
+    },
+    "antitype": {
+      "name": "Christ, the spiritual rock",
+      "refs": [
+        "1 Cor 10:4",
+        "John 7:37-39",
+        "John 19:34"
+      ],
+      "summary": "Paul says Israel drank from the spiritual rock that followed them, 'and the rock was Christ'. Jesus invites the thirsty to come and drink, and living water flows."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Cor 10:4"
+    ],
+    "correspondences": [
+      {
+        "type": "Struck so that water flows",
+        "antitype": "Struck in death; from his side flow blood and water"
+      },
+      {
+        "type": "Water in a dry land for a complaining people",
+        "antitype": "Living water offered to the undeserving"
+      },
+      {
+        "type": "Follows the people through the wilderness",
+        "antitype": "Christ present with his people throughout their journey"
+      }
+    ],
+    "differences": "Paul's statement is unusual: he does not only say the rock pictured Christ but that Christ was present with Israel. The rock gave physical water; Christ gives the Spirit. Moses' second striking was an act of disobedience, so it cannot simply be read as 'Christ struck again'.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Commented that Paul did not say 'the rock signified Christ' but 'was Christ', and used this to explain how signs take the name of what they signify.",
+        "source": {
+          "author": "Augustine",
+          "title": "Questions on the Heptateuch",
+          "locator": "3.57",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "In the desert, God gave Israel water from a rock. Paul says Christ was that rock: he was already there, providing for his people long before he was born in Bethlehem.",
+    "caution": "Paul seems to draw on a Jewish tradition (found later in rabbinic writings) of a well or rock that travelled with Israel. Some popular preaching says 'the rock must be struck only once because Christ died once' from Numbers 20; this is a later application, not Paul's argument."
+  },
+  {
+    "id": "bronze-serpent",
+    "title": "The bronze serpent lifted up",
+    "category": "object",
+    "type": {
+      "name": "The bronze serpent on a pole",
+      "refs": [
+        "Num 21:4-9",
+        "2 Kgs 18:4"
+      ],
+      "summary": "When Israel is bitten by venomous snakes as judgement for their grumbling, God tells Moses to make a bronze serpent and set it on a pole. Anyone bitten who looks at it lives."
+    },
+    "antitype": {
+      "name": "The Son of Man lifted up on the cross",
+      "refs": [
+        "John 3:14-15",
+        "John 8:28",
+        "John 12:32-33",
+        "2 Cor 5:21"
+      ],
+      "summary": "Jesus says that as Moses lifted up the serpent, so the Son of Man must be lifted up, so that whoever believes may have eternal life."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "John 3:14"
+    ],
+    "correspondences": [
+      {
+        "type": "Lifted up on a pole",
+        "antitype": "Lifted up on the cross"
+      },
+      {
+        "type": "Bitten people only need to look",
+        "antitype": "Sinners only need to believe"
+      },
+      {
+        "type": "The image of the deadly thing itself",
+        "antitype": "Christ 'made sin' for us (2 Cor 5:21)"
+      },
+      {
+        "type": "Remedy for death under judgement",
+        "antitype": "Remedy for perishing: eternal life"
+      }
+    ],
+    "differences": "The serpent was a lifeless object and later became an idol that Hezekiah destroyed. It healed physical bites for a time; Christ gives eternal life. The 'image of the curse' link is a reading of Paul, not stated by Jesus in John 3.",
+    "fathers": [
+      {
+        "who": "Justin Martyr",
+        "note": "Argued the serpent was a sign of the cross, through which the power of the ancient serpent is broken.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "91; 94",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Epistle of Barnabas",
+        "note": "Read the serpent as a figure of Jesus who would suffer and give life.",
+        "source": {
+          "author": "Epistle of Barnabas",
+          "title": "Epistle of Barnabas",
+          "locator": "12",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Gregory of Nyssa",
+        "note": "Saw the bronze serpent as Christ taking the likeness of sinful flesh to heal those wounded by sin.",
+        "source": {
+          "author": "Gregory of Nyssa",
+          "title": "Life of Moses",
+          "locator": "2.269-277",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Dying people in the desert were told: look at the bronze snake on the pole and live. It sounds strange, but Jesus himself used the story to explain the cross. He would be lifted up, and anyone who looks to him in trust will live.",
+    "caution": "The link is Jesus' own, but the fine detail of a serpent (a symbol of evil) standing for Christ puzzled ancient readers and has been explained in several ways. The serpent's later fate (2 Kgs 18:4) is a reminder that a sign can be turned into an idol."
+  },
+  {
+    "id": "tabernacle",
+    "title": "The tabernacle: God dwelling among his people",
+    "category": "institution",
+    "type": {
+      "name": "The tabernacle (tent of meeting)",
+      "refs": [
+        "Exod 25:8-9",
+        "Exod 25:40",
+        "Exod 40:34-38"
+      ],
+      "summary": "God tells Moses to build a portable sanctuary exactly according to the pattern shown on the mountain, so that he may dwell among his people. When it is finished, the glory cloud fills it."
+    },
+    "antitype": {
+      "name": "Christ's flesh and the heavenly sanctuary",
+      "refs": [
+        "John 1:14",
+        "Heb 8:1-5",
+        "Heb 9:11",
+        "Heb 9:24",
+        "Rev 21:3"
+      ],
+      "summary": "John says the Word became flesh and 'tabernacled' (pitched his tent) among us, and we saw his glory. Hebrews says the earthly tent was a copy and shadow of the true sanctuary in heaven, where Christ ministers."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 8:5",
+      "Heb 9:24",
+      "John 1:14"
+    ],
+    "correspondences": [
+      {
+        "type": "God pitches his tent among Israel",
+        "antitype": "The Word 'tents' among us in human flesh"
+      },
+      {
+        "type": "Glory fills the tent",
+        "antitype": "'We have seen his glory'"
+      },
+      {
+        "type": "Built after a heavenly pattern",
+        "antitype": "Christ serves in the true, heavenly sanctuary"
+      },
+      {
+        "type": "God dwells with one nation in a tent",
+        "antitype": "God dwells with all peoples in the new creation"
+      }
+    ],
+    "differences": "The tabernacle restricted access: only priests, and only the high priest in the inner room. Christ opens access. The tent was temporary and made by hands; Hebrews says the true one is not of this creation.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Read every material of the tabernacle (gold, silver, bronze, fabrics) as a moral or spiritual lesson for the soul.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Exodus",
+          "locator": "9; 13",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Bede",
+        "note": "Wrote an entire commentary reading the tabernacle as a figure of the church in this present life.",
+        "source": {
+          "author": "Bede",
+          "title": "On the Tabernacle",
+          "year": 730,
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "The tabernacle was a tent where God chose to live in the middle of Israel's camp. John uses the same idea for Jesus: in him God came to live among us. Hebrews adds that the tent was a scale model of something greater in heaven.",
+    "caution": "The NT warrant is strong for the tabernacle as a whole. Detailed allegories of every board, socket and colour (common in older devotional books) go far beyond any NT text and should be treated as speculative."
+  },
+  {
+    "id": "mercy-seat",
+    "title": "The mercy seat and the place of atonement",
+    "category": "object",
+    "type": {
+      "name": "The mercy seat (kapporet) on the ark",
+      "refs": [
+        "Exod 25:17-22",
+        "Lev 16:14-15"
+      ],
+      "summary": "The gold lid of the ark of the covenant, between the cherubim, where God promised to meet Moses. On the Day of Atonement the high priest sprinkled blood on it."
+    },
+    "antitype": {
+      "name": "Christ set forth as hilasterion",
+      "refs": [
+        "Rom 3:23-26",
+        "Heb 9:5",
+        "1 John 2:2"
+      ],
+      "summary": "Paul says God put Christ forward as a *hilasterion* by his blood, to be received by faith. Hebrews uses the same Greek word for the mercy seat itself."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Rom 3:25",
+      "Heb 9:5"
+    ],
+    "correspondences": [
+      {
+        "type": "Hidden inside the Most Holy Place",
+        "antitype": "Set forth publicly on the cross"
+      },
+      {
+        "type": "Blood sprinkled to cover sin",
+        "antitype": "'By his blood' sin is dealt with"
+      },
+      {
+        "type": "Where God meets his people",
+        "antitype": "Christ is where God and humanity meet"
+      },
+      {
+        "type": "Covers the tablets of the law",
+        "antitype": "Sinners under the law find mercy in Christ"
+      }
+    ],
+    "differences": "The mercy seat was an object approached once a year by one man; Christ is offered openly to all through faith. The mercy seat was sprinkled with another's blood; Christ is both place and sacrifice.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Read Romans 3:25 as referring to the mercy seat and explained Christ as the true propitiatory, the place of God's meeting.",
+        "source": {
+          "author": "Origen",
+          "title": "Commentary on Romans",
+          "locator": "3.8",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Inside the holiest room of the tabernacle sat a gold lid on the ark, where blood was sprinkled once a year so that Israel's sins could be forgiven. Paul uses the same word for Jesus: the place where God deals with sin and shows mercy is now Jesus himself, out in the open.",
+    "caution": "Scholars debate what *hilasterion* means in Romans 3:25: 'mercy seat' (the specific object, as in the Greek OT and Heb 9:5), 'propitiation' (a sacrifice that turns away wrath), or 'expiation' (a means of wiping away sin). This affects atonement theology; see /debates/atonement."
+  },
+  {
+    "id": "day-of-atonement",
+    "title": "The Day of Atonement and the scapegoat",
+    "category": "festival",
+    "type": {
+      "name": "Yom Kippur",
+      "refs": [
+        "Lev 16:1-34",
+        "Lev 23:26-32"
+      ],
+      "summary": "Once a year the high priest offers a bull and a goat, carries their blood into the Most Holy Place, and sprinkles it on the mercy seat. He then lays both hands on a second goat, confesses Israel's sins over it, and sends it into the wilderness."
+    },
+    "antitype": {
+      "name": "Christ's once-for-all offering",
+      "refs": [
+        "Heb 9:6-14",
+        "Heb 9:24-28",
+        "Heb 10:11-14",
+        "Heb 13:11-12",
+        "Isa 53:6"
+      ],
+      "summary": "Hebrews reads the day as a lesson: the yearly repetition proved the sacrifices could not perfect anyone. Christ entered heaven with his own blood once for all, and suffered outside the city gate like the sin offerings burned outside the camp."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 9:7-12",
+      "Heb 9:25-26"
+    ],
+    "correspondences": [
+      {
+        "type": "High priest enters once a year",
+        "antitype": "Christ enters once for all"
+      },
+      {
+        "type": "Blood of goats and bulls",
+        "antitype": "His own blood"
+      },
+      {
+        "type": "Bodies burned outside the camp",
+        "antitype": "Jesus suffers outside the gate"
+      },
+      {
+        "type": "Scapegoat carries sins away",
+        "antitype": "Christ bears sins and removes them (traditional reading)"
+      },
+      {
+        "type": "The people afflict themselves and rest",
+        "antitype": "Repentance and resting in a finished work"
+      }
+    ],
+    "differences": "Hebrews stresses that the old rite had to be repeated and could only cleanse outwardly. The scapegoat was not killed, while Christ was; this is why many readers see the two goats together as one picture: one for death, one for removal.",
+    "fathers": [
+      {
+        "who": "Epistle of Barnabas",
+        "note": "Read the two goats as Christ's two comings, and the scapegoat, spat on and crowned with scarlet wool in later Jewish practice, as Christ suffering.",
+        "source": {
+          "author": "Epistle of Barnabas",
+          "title": "Epistle of Barnabas",
+          "locator": "7",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Read the high priest's yearly entry as Christ's ascension into heaven with his own blood.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Leviticus",
+          "locator": "9-10",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "On Israel's holiest day, blood was taken into God's presence and a goat carried the people's sins away into the desert. Hebrews says this was a yearly rehearsal for what Jesus did once: he took his own blood into the real presence of God and dealt with sin for good.",
+    "caution": "Hebrews never mentions the scapegoat (Azazel goat); linking it to Christ is traditional, beginning with Barnabas. The meaning of 'Azazel' is debated (a place, 'complete removal', or a desert demon), and some early writers saw the scapegoat as a figure of something other than Christ."
+  },
+  {
+    "id": "veil",
+    "title": "The veil and the new way through",
+    "category": "object",
+    "type": {
+      "name": "The curtain before the Most Holy Place",
+      "refs": [
+        "Exod 26:31-33",
+        "Lev 16:2",
+        "Heb 9:8"
+      ],
+      "summary": "A heavy embroidered curtain separated the Holy Place from the Most Holy Place. No one could pass it except the high priest, once a year, with blood."
+    },
+    "antitype": {
+      "name": "Christ's flesh, the opened way",
+      "refs": [
+        "Heb 10:19-22",
+        "Matt 27:50-51",
+        "Heb 6:19-20",
+        "Eph 2:14-18"
+      ],
+      "summary": "At Jesus' death the temple curtain is torn from top to bottom. Hebrews says believers now enter the holy places by his blood, through the new and living way he opened through the curtain, that is, his flesh."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 10:20"
+    ],
+    "correspondences": [
+      {
+        "type": "Barrier keeping people out",
+        "antitype": "Way opened for everyone who draws near"
+      },
+      {
+        "type": "Only the high priest may pass",
+        "antitype": "All believers may approach with confidence"
+      },
+      {
+        "type": "Curtain intact while the first tent stands",
+        "antitype": "Curtain torn when Christ dies"
+      }
+    ],
+    "differences": "The curtain hid God's presence; Christ's flesh reveals it. Hebrews' wording 'through the curtain, that is, his flesh' is compressed, and interpreters disagree whether his flesh is the curtain itself or the way through it.",
+    "fathers": [
+      {
+        "who": "Origen and later preachers",
+        "note": "Widely read the torn veil as the unveiling of the hidden meaning of the Scriptures and the opening of heaven.",
+        "source": {
+          "author": "Origen",
+          "title": "Commentary on Matthew",
+          "locator": "138",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "There was a curtain in the temple that said: keep out, God is holy. When Jesus died, it ripped from top to bottom. Hebrews says his death is the doorway: now anyone can come near to God through him.",
+    "caution": "Whether the torn veil in the Gospels mainly means opened access, or judgement on the temple, or both, is debated. Matthew's text does not explain it; the meaning comes from Hebrews."
+  },
+  {
+    "id": "feast-of-firstfruits",
+    "title": "Firstfruits and the resurrection",
+    "category": "festival",
+    "type": {
+      "name": "The sheaf of firstfruits",
+      "refs": [
+        "Lev 23:9-14"
+      ],
+      "summary": "At the start of the barley harvest, the day after the Sabbath of Passover week, a priest waves the first sheaf before the LORD. It is the first part of the harvest, offered as a pledge that the rest belongs to God and will follow."
+    },
+    "antitype": {
+      "name": "Christ raised as firstfruits",
+      "refs": [
+        "1 Cor 15:20-23",
+        "Rom 8:23",
+        "Jas 1:18",
+        "Rev 14:4"
+      ],
+      "summary": "Paul calls the risen Christ the firstfruits of those who have fallen asleep. His resurrection is the first sheaf of a harvest: those who belong to him will be raised at his coming."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Cor 15:20",
+      "1 Cor 15:23"
+    ],
+    "correspondences": [
+      {
+        "type": "First sheaf of the harvest",
+        "antitype": "First person raised to the life of the age to come"
+      },
+      {
+        "type": "Offered the day after the Sabbath of Passover week",
+        "antitype": "Jesus rises on the first day of the week after Passover"
+      },
+      {
+        "type": "Guarantees the rest of the harvest",
+        "antitype": "Guarantees the resurrection of his people"
+      }
+    ],
+    "differences": "The sheaf was cut grain, already dead; Christ is the living risen one. The calendar link depends on how 'the day after the Sabbath' was reckoned, which Jewish groups disputed in Jesus' time.",
+    "fathers": [
+      {
+        "who": "Early Christian preachers",
+        "note": "Commonly connected the Easter season to the firstfruits and Pentecost cycle of fifty days, which shaped the Christian calendar from Easter to Pentecost."
+      }
+    ],
+    "plain": "Farmers offered the first bundle of grain to God as a sign the whole harvest was coming. Paul says Jesus' resurrection is that first bundle: his rising is the promise that everyone who belongs to him will rise too.",
+    "caution": "Paul uses the word 'firstfruits' but does not mention the festival day. The timing match (Jesus rising on the day of the sheaf offering) is attractive but depends on debated calendar questions."
+  },
+  {
+    "id": "pentecost-shavuot",
+    "title": "Pentecost: the harvest feast and the gift of the Spirit",
+    "category": "festival",
+    "type": {
+      "name": "The Feast of Weeks (Shavuot)",
+      "refs": [
+        "Lev 23:15-21",
+        "Deut 16:9-12",
+        "Exod 19:1-6"
+      ],
+      "summary": "Fifty days after the firstfruits sheaf, Israel celebrates the wheat harvest with two loaves. In later Jewish tradition the feast also remembered the giving of the law at Sinai, roughly fifty days after the exodus."
+    },
+    "antitype": {
+      "name": "The outpouring of the Spirit",
+      "refs": [
+        "Acts 2:1-41",
+        "Joel 2:28-29",
+        "Jer 31:31-34",
+        "2 Cor 3:3"
+      ],
+      "summary": "On the day of Pentecost the Spirit comes on the disciples with wind and fire, they speak in many languages, and three thousand people are added: the first great harvest of the church."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Acts 2:1"
+    ],
+    "correspondences": [
+      {
+        "type": "Harvest festival",
+        "antitype": "Three thousand gathered in"
+      },
+      {
+        "type": "Sinai: fire, sound and God's voice",
+        "antitype": "Wind, tongues of fire and speech"
+      },
+      {
+        "type": "Law written on stone",
+        "antitype": "Spirit writing on hearts (2 Cor 3:3)"
+      },
+      {
+        "type": "At Sinai three thousand die after the golden calf",
+        "antitype": "At Pentecost three thousand receive life (a traditional observation)"
+      }
+    ],
+    "differences": "Luke does not explain why the Spirit came on Pentecost; he simply names the day. The Sinai link depends on a Jewish tradition that is only clearly attested after the NT period, though roots may be earlier (Jubilees ties covenant renewal to the feast).",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Drew the parallel between the law given fifty days after Passover and the Spirit given fifty days after Easter, with the finger of God writing on stone and then on hearts.",
+        "source": {
+          "author": "Augustine",
+          "title": "On the Spirit and the Letter",
+          "locator": "16-17",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Pentecost was already a Jewish holiday, a thanksgiving for the wheat harvest, before it became the Christian 'birthday of the church'. Luke tells us the Spirit came on that very day. Christians have seen a harvest of people and a new 'Sinai', with God's law now written on hearts.",
+    "caution": "The Sinai–Pentecost parallel is widely held but is traditional and partly dependent on later Jewish sources; Acts itself does not spell it out. The 'three thousand' contrast with Exod 32:28 is a homiletic observation."
+  },
+  {
+    "id": "feast-of-tabernacles",
+    "title": "Tabernacles: water, light and God dwelling with us",
+    "category": "festival",
+    "type": {
+      "name": "The Feast of Booths (Sukkot)",
+      "refs": [
+        "Lev 23:33-43",
+        "Deut 16:13-15",
+        "Zech 14:16-19"
+      ],
+      "summary": "Israel lives in booths for a week to remember the wilderness and rejoices over the final harvest. By Jesus' day the feast included a daily water-pouring ceremony and great lamps lit in the temple courts. Zechariah pictures all nations keeping it."
+    },
+    "antitype": {
+      "name": "Jesus, source of living water and light",
+      "refs": [
+        "John 7:2",
+        "John 7:37-39",
+        "John 8:12",
+        "John 1:14",
+        "Rev 7:9-17",
+        "Rev 21:3"
+      ],
+      "summary": "On the last great day of the feast, Jesus stands and cries out that the thirsty should come to him and drink, speaking of the Spirit. Soon after he says, 'I am the light of the world'."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "John 7:37-39",
+      "John 8:12"
+    ],
+    "correspondences": [
+      {
+        "type": "Water poured out at the altar",
+        "antitype": "Rivers of living water: the Spirit"
+      },
+      {
+        "type": "Lamps lighting up Jerusalem",
+        "antitype": "'I am the light of the world'"
+      },
+      {
+        "type": "Living in temporary booths",
+        "antitype": "The Word 'tented' among us"
+      },
+      {
+        "type": "Final harvest ingathering, all nations come",
+        "antitype": "A multitude from every nation, sheltered by God (Rev 7)"
+      }
+    ],
+    "differences": "The water and lamp rituals are known from the Mishnah (tractate Sukkah), not from the Old Testament; John assumes his readers know them. The feast looked back to the wilderness; John's Jesus points forward to the Spirit.",
+    "fathers": [
+      {
+        "who": "Methodius of Olympus",
+        "note": "Treated the feast of booths as a figure of the resurrection and the final rest, when the righteous celebrate with God.",
+        "source": {
+          "author": "Methodius",
+          "title": "Symposium (Banquet of the Ten Virgins)",
+          "locator": "9",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Sukkot was a joyful week of camping out, harvest thanks, water-pouring and bright lights. At that very festival Jesus said: if you are thirsty, come to me; I am the light. John wants readers to see the festival's hopes coming true in Jesus.",
+    "caution": "Some popular teaching claims Jesus was born at Tabernacles; this is speculation without solid evidence. The link to John 7-8 is strong but implicit; John never calls the festival a type."
+  },
+  {
+    "id": "sabbath-rest",
+    "title": "The Sabbath and God's rest",
+    "category": "institution",
+    "type": {
+      "name": "The seventh-day Sabbath",
+      "refs": [
+        "Gen 2:2-3",
+        "Exod 20:8-11",
+        "Deut 5:12-15",
+        "Ps 95:7-11"
+      ],
+      "summary": "God rests on the seventh day of creation and makes it holy. Israel is commanded to stop work every seventh day, remembering both creation and freedom from slavery. Psalm 95 warns a disobedient generation that they will not enter God's rest."
+    },
+    "antitype": {
+      "name": "The rest that remains for God's people",
+      "refs": [
+        "Heb 4:1-11",
+        "Matt 11:28-30",
+        "Col 2:16-17",
+        "Mark 2:27-28"
+      ],
+      "summary": "Hebrews says a Sabbath rest still remains for the people of God, entered by faith, in which they rest from their works as God did from his. Jesus offers rest to the weary and calls himself Lord of the Sabbath. Paul calls Sabbaths a shadow of things to come, the substance belonging to Christ."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 4:9-10",
+      "Col 2:16-17"
+    ],
+    "correspondences": [
+      {
+        "type": "God's rest after finishing creation",
+        "antitype": "Believers rest in Christ's finished work"
+      },
+      {
+        "type": "Weekly stop from labour",
+        "antitype": "Rest offered to the weary and burdened"
+      },
+      {
+        "type": "Remembering release from slavery",
+        "antitype": "Release from sin's slavery"
+      },
+      {
+        "type": "The land's rest and Joshua's conquest",
+        "antitype": "A future rest that Joshua did not give"
+      }
+    ],
+    "differences": "The weekly Sabbath was physical and repeated; the rest in Hebrews is both present by faith and still future. Christians disagree on whether the weekly day itself is fulfilled and set aside, transferred to Sunday, or still binding on the seventh day.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Ended his *Confessions* and *City of God* with the eternal Sabbath, the seventh day without evening, as the goal of history.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "22.30",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Justin Martyr",
+        "note": "Argued the true Sabbath is to cease from sin every day, rather than to keep one day idle.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "12",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "God built rest into the week. The NT says that weekly rest was a preview of a deeper rest: being at peace with God because of what Christ has done, and one day resting with God forever.",
+    "caution": "How the typology applies to Christian practice is disputed: Seventh-day Adventists and Seventh Day Baptists keep Saturday; many Reformed and Presbyterian Christians see a 'Christian Sabbath' on Sunday; many others see Sabbath fulfilled in Christ without a binding day. The typology alone does not decide this."
+  },
+  {
+    "id": "jubilee",
+    "title": "Jubilee and the year of the Lord's favour",
+    "category": "institution",
+    "type": {
+      "name": "The Year of Jubilee",
+      "refs": [
+        "Lev 25:8-55",
+        "Isa 61:1-2"
+      ],
+      "summary": "Every fiftieth year, announced by a trumpet on the Day of Atonement, slaves are freed, debts are released and family land returns to its original owners. Isaiah 61 takes up this language for a coming anointed messenger who proclaims liberty."
+    },
+    "antitype": {
+      "name": "Jesus' proclamation of release",
+      "refs": [
+        "Luke 4:16-21",
+        "Luke 7:22",
+        "Col 1:13-14",
+        "Acts 3:19-21"
+      ],
+      "summary": "In the Nazareth synagogue Jesus reads Isaiah 61, 'to proclaim liberty to the captives... the acceptable year of the Lord', and says, 'Today this scripture is fulfilled in your hearing'."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Luke 4:18-21"
+    ],
+    "correspondences": [
+      {
+        "type": "Liberty proclaimed throughout the land",
+        "antitype": "Freedom for captives and the oppressed"
+      },
+      {
+        "type": "Debts cancelled",
+        "antitype": "Forgiveness of sins (the same Greek word *aphesis*)"
+      },
+      {
+        "type": "Land returned to its families",
+        "antitype": "Restoration of all things"
+      },
+      {
+        "type": "Begins on the Day of Atonement",
+        "antitype": "Release grounded in atonement"
+      }
+    ],
+    "differences": "Jubilee was an economic law for land and slaves in Israel; there is little evidence it was regularly practised. Jesus quotes Isaiah rather than Leviticus. Interpreters disagree how far Jesus' 'release' is spiritual (forgiveness) and how far it carries social and economic demands.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Read the 'acceptable year' as the whole time of Christ's coming and preaching.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Luke",
+          "locator": "32",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Jubilee was meant to be Israel's great reset: slaves go home, debts are wiped, land returns to its families. Jesus began his public ministry by reading a passage built on this idea and saying it was happening now in him.",
+    "caution": "Luke never uses the word 'jubilee'; the link runs through Isaiah 61, which itself echoes Leviticus 25. Some modern movements read Luke 4 mainly as a social programme, others mainly as forgiveness of sins. Both have textual footholds."
+  },
+  {
+    "id": "joshua-jesus",
+    "title": "Joshua and Jesus: the same name",
+    "category": "person",
+    "type": {
+      "name": "Joshua son of Nun",
+      "refs": [
+        "Num 13:16",
+        "Josh 1:1-9",
+        "Josh 3:14-17",
+        "Josh 21:43-45"
+      ],
+      "summary": "Moses renames Hoshea 'Joshua' (the LORD saves). After Moses dies, Joshua leads Israel across the Jordan into the promised land and gives them rest from their enemies."
+    },
+    "antitype": {
+      "name": "Jesus, who brings the true rest",
+      "refs": [
+        "Matt 1:21",
+        "Heb 4:8-10",
+        "Acts 7:45",
+        "Matt 3:13-17"
+      ],
+      "summary": "Jesus is the Greek form of Joshua. Hebrews points out that if Joshua had given Israel the final rest, God would not have spoken of another day; that rest comes through Jesus."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Heb 4:8"
+    ],
+    "correspondences": [
+      {
+        "type": "Name means 'the LORD saves'",
+        "antitype": "'He will save his people from their sins'"
+      },
+      {
+        "type": "Succeeds Moses, who could not bring them in",
+        "antitype": "Brings what the law could not"
+      },
+      {
+        "type": "Crosses the Jordan to begin the conquest",
+        "antitype": "Baptised in the Jordan to begin his ministry"
+      },
+      {
+        "type": "Leads the people into the inheritance",
+        "antitype": "Leads his people into God's rest"
+      }
+    ],
+    "differences": "Hebrews uses Joshua mainly by contrast: his rest was incomplete. Joshua's conquest was by the sword against Canaanite cities; Jesus wins by dying and forbids his followers to fight with the sword.",
+    "fathers": [
+      {
+        "who": "Justin Martyr",
+        "note": "Stressed that Moses gave the name Jesus (Joshua) to Hoshea as a prophetic sign of the one to come.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "113",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Preached a whole series on Joshua as a figure of Jesus leading the soul into its inheritance after the law (Moses) has died.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Joshua",
+          "locator": "1.1",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "In Greek, Joshua and Jesus are the same name. Joshua took Israel into the land Moses could only see. Hebrews says even that was not the final rest; Jesus brings the rest that Joshua could not.",
+    "caution": "Older English Bibles (KJV) translate Heb 4:8 and Acts 7:45 as 'Jesus', which confuses readers; the meaning there is Joshua. Reading the conquest's violence as a model for Christians is a misuse of the typology."
+  },
+  {
+    "id": "boaz-kinsman-redeemer",
+    "title": "Boaz the kinsman-redeemer",
+    "category": "person",
+    "type": {
+      "name": "Boaz, the go'el",
+      "refs": [
+        "Ruth 2:1-23",
+        "Ruth 3:9-13",
+        "Ruth 4:1-17",
+        "Lev 25:25"
+      ],
+      "summary": "Boaz, a relative of Naomi's dead husband, acts as 'redeemer' (go'el): he buys back the family land, marries Ruth the Moabite widow, and so restores the family line, from which David comes."
+    },
+    "antitype": {
+      "name": "Christ the redeemer",
+      "refs": [
+        "Gal 4:4-5",
+        "Heb 2:11-15",
+        "Eph 1:7",
+        "Matt 1:5"
+      ],
+      "summary": "Christ becomes our kin by sharing flesh and blood, pays the price to redeem, and takes a bride drawn from all nations. Boaz appears in Jesus' genealogy."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Matt 1:5"
+    ],
+    "correspondences": [
+      {
+        "type": "Must be a close relative",
+        "antitype": "The Son shares our flesh and blood"
+      },
+      {
+        "type": "Willing and able to pay",
+        "antitype": "Pays with his own life"
+      },
+      {
+        "type": "Spreads his 'wing' (garment) over Ruth",
+        "antitype": "Shelter under God's wings (Ruth 2:12)"
+      },
+      {
+        "type": "Takes a foreign woman into Israel",
+        "antitype": "Gentiles brought into God's people"
+      },
+      {
+        "type": "A nearer kinsman cannot redeem",
+        "antitype": "The law could not save (Rom 8:3)"
+      }
+    ],
+    "differences": "Boaz's redemption was a legal, economic and family transaction with no sin or atonement in view. Ruth was not rescued from guilt but from poverty. The NT never cites Ruth for redemption.",
+    "fathers": [
+      {
+        "who": "Ambrose of Milan",
+        "note": "Saw Ruth the foreigner as a figure of the gentile church joined to Christ.",
+        "source": {
+          "author": "Ambrose",
+          "title": "Exposition of the Gospel of Luke",
+          "locator": "3.30",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Jewish tradition",
+        "note": "The Targum and Ruth Rabbah connect Ruth's line with the coming Messiah through David, a messianic reading from within Judaism."
+      }
+    ],
+    "plain": "In Israel, if you lost your land or your family name was dying out, a close relative could step in and 'redeem' you. Boaz did that for Ruth and Naomi. Christians see Jesus doing the same: becoming our relative, paying the price and bringing outsiders into the family.",
+    "caution": "Traditional with no direct NT warrant. The word 'redeem' in the NT draws more on the exodus and slave-release than on Ruth. Some popular readings sexualise or over-allegorise the threshing-floor scene; the text itself is reserved."
+  },
+  {
+    "id": "david-shepherd-king",
+    "title": "David, the shepherd-king",
+    "category": "person",
+    "type": {
+      "name": "David",
+      "refs": [
+        "1 Sam 16:11-13",
+        "1 Sam 17:34-37",
+        "2 Sam 5:1-3",
+        "2 Sam 7:12-16",
+        "Ps 78:70-72"
+      ],
+      "summary": "The youngest son, a shepherd boy, anointed king, who defeats Goliath, suffers persecution, and receives God's promise that his throne will last forever. The prophets later speak of a coming 'David' who will shepherd God's people."
+    },
+    "antitype": {
+      "name": "Jesus, son of David and good shepherd",
+      "refs": [
+        "Ezek 34:23-24",
+        "Luke 1:32-33",
+        "John 10:11-16",
+        "Acts 2:29-36",
+        "Rev 22:16"
+      ],
+      "summary": "Jesus is hailed as son of David, born in David's town, and claims to be the good shepherd who lays down his life. Peter argues that David, being a prophet, spoke of the Messiah's resurrection."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Acts 2:30-31",
+      "Matt 22:41-45",
+      "Ezek 34:23"
+    ],
+    "correspondences": [
+      {
+        "type": "Shepherd of his father's flock",
+        "antitype": "The good shepherd"
+      },
+      {
+        "type": "Anointed but not yet enthroned, hunted by Saul",
+        "antitype": "Anointed Messiah, rejected before exaltation"
+      },
+      {
+        "type": "Defeats the giant on Israel's behalf",
+        "antitype": "Defeats the enemy his people could not face"
+      },
+      {
+        "type": "Promised an everlasting throne",
+        "antitype": "Reigns forever"
+      },
+      {
+        "type": "Psalms of suffering (Ps 22)",
+        "antitype": "Jesus prays Psalm 22 on the cross"
+      }
+    ],
+    "differences": "David committed adultery and murder, and his family was torn by violence. Jesus himself said the Messiah is David's Lord, not merely his son. David's kingdom was national and fought with the sword.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Includes David hunted as one of the figures in whom Christ suffered beforehand.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "69",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Read the Psalms as the voice of the whole Christ, head and body, often heard first in David's mouth.",
+        "source": {
+          "author": "Augustine",
+          "title": "Expositions of the Psalms",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "David went from shepherd boy to king and was promised a dynasty that would never end. Israel's hopes for a Messiah grew from that promise. The NT presents Jesus as the son of David who finally fulfils it: a shepherd-king who gives his life for his sheep.",
+    "caution": "The David–Messiah link is clear in the NT, but reading every detail of David's life (e.g. the five stones, or particular battles) as Christological is a later devotional move. The Goliath parallel is traditional, not stated in the NT."
+  },
+  {
+    "id": "solomon-temple-builder",
+    "title": "Solomon, son of David and temple-builder",
+    "category": "person",
+    "type": {
+      "name": "Solomon",
+      "refs": [
+        "2 Sam 7:12-14",
+        "1 Kgs 3:5-14",
+        "1 Kgs 6:1-38",
+        "1 Kgs 8:10-13",
+        "1 Kgs 10:1-9"
+      ],
+      "summary": "David's son, promised that he would build a house for God's name and that God would be his father. He is famed for wisdom, peace and wealth, builds the temple, and the queen of Sheba comes from far away to hear him. Later he falls into idolatry."
+    },
+    "antitype": {
+      "name": "Jesus, greater than Solomon",
+      "refs": [
+        "Matt 12:42",
+        "Heb 1:5",
+        "John 2:19-21",
+        "Col 2:3",
+        "Eph 2:19-22"
+      ],
+      "summary": "Jesus says 'something greater than Solomon is here'. Hebrews applies God's promise to Solomon, 'I will be his father, and he shall be my son', to Christ. Jesus speaks of raising a temple, his body, and builds his church as God's house."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Matt 12:42",
+      "Heb 1:5"
+    ],
+    "correspondences": [
+      {
+        "type": "Son of David",
+        "antitype": "Son of David"
+      },
+      {
+        "type": "Builds a house for God",
+        "antitype": "Builds his church, a living temple"
+      },
+      {
+        "type": "Famed for wisdom",
+        "antitype": "In him are all treasures of wisdom"
+      },
+      {
+        "type": "Kingdom of peace (shalom)",
+        "antitype": "Prince of peace"
+      },
+      {
+        "type": "Gentile queen comes to hear his wisdom",
+        "antitype": "Nations come to hear Christ"
+      }
+    ],
+    "differences": "Solomon's heart turned to other gods and his kingdom split after his death. 2 Sam 7:14 even mentions punishment for the son's iniquity, which Hebrews does not quote and cannot apply to Christ. Solomon used forced labour to build.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Argued that the promise to David was only partly fulfilled in Solomon and pointed beyond him to Christ, since Solomon's reign did not last forever.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "17.8",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Solomon was David's son, built God's temple and was the wisest king Israel ever had. But he failed badly in the end. Jesus pointed to Solomon and said, in effect: I am the greater son of David, the true wisdom, and the one who builds God's real house.",
+    "caution": "Allegorical readings of the Song of Songs (Solomon as Christ, the bride as the church or soul) are a separate and debated tradition, not part of the NT typology."
+  },
+  {
+    "id": "jonah-sign",
+    "title": "The sign of Jonah",
+    "category": "person",
+    "type": {
+      "name": "Jonah in the fish",
+      "refs": [
+        "Jonah 1:15-17",
+        "Jonah 2:1-10",
+        "Jonah 3:1-10"
+      ],
+      "summary": "Jonah is thrown into the sea to save the sailors, swallowed by a great fish, and after three days and three nights is spat out alive. He then preaches to Nineveh, which repents."
+    },
+    "antitype": {
+      "name": "Jesus' death, burial and resurrection",
+      "refs": [
+        "Matt 12:38-41",
+        "Matt 16:4",
+        "Luke 11:29-32",
+        "1 Cor 15:4"
+      ],
+      "summary": "Asked for a sign, Jesus says no sign will be given but the sign of Jonah: as Jonah was three days and nights in the fish, so the Son of Man will be three days and nights in the heart of the earth. Nineveh repented at Jonah's preaching, and something greater than Jonah is here."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Matt 12:40",
+      "Luke 11:30"
+    ],
+    "correspondences": [
+      {
+        "type": "Thrown overboard so the others are saved",
+        "antitype": "Dies so that others are saved"
+      },
+      {
+        "type": "Three days in the depths",
+        "antitype": "Three days in the grave"
+      },
+      {
+        "type": "Comes back from the deep",
+        "antitype": "Rises from the dead"
+      },
+      {
+        "type": "Gentile city repents",
+        "antitype": "Gospel goes to the nations"
+      }
+    ],
+    "differences": "Jonah was running from God and resented Nineveh's mercy; Jesus went willingly and wept over his city. Jonah was cast out for his own sin; Jesus was without sin.",
+    "fathers": [
+      {
+        "who": "Jerome",
+        "note": "In his commentary on Jonah, read the prophet as a figure of Christ's passion and resurrection, while noting where Jonah's flight cannot fit Christ.",
+        "source": {
+          "author": "Jerome",
+          "title": "Commentary on Jonah",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Jonah spent three days inside a great fish and came out alive. Jesus said his own death and resurrection would be 'the sign of Jonah'. It is one of the few types Jesus names himself.",
+    "caution": "'Three days and three nights' is a Jewish way of counting parts of days; it does not require 72 hours, so it does not force a Wednesday crucifixion. Luke's version stresses Jonah's preaching as the sign rather than the fish."
+  },
+  {
+    "id": "elijah-john-the-baptist",
+    "title": "Elijah and John the Baptist",
+    "category": "person",
+    "type": {
+      "name": "Elijah the prophet",
+      "refs": [
+        "1 Kgs 17:1",
+        "1 Kgs 18:20-40",
+        "2 Kgs 1:8",
+        "2 Kgs 2:11",
+        "Mal 4:5-6"
+      ],
+      "summary": "A rugged prophet in a hairy garment with a leather belt, who confronts King Ahab and Jezebel, calls Israel back from Baal, and is taken to heaven in a whirlwind. Malachi promises God will send Elijah before the great day of the LORD."
+    },
+    "antitype": {
+      "name": "John the Baptist, forerunner of the Messiah",
+      "refs": [
+        "Matt 3:1-4",
+        "Matt 11:13-14",
+        "Matt 17:10-13",
+        "Luke 1:17",
+        "Mark 6:17-29"
+      ],
+      "summary": "John appears in the wilderness dressed like Elijah, calls the nation to repent, and confronts King Herod and Herodias. Jesus says that if they are willing to accept it, John is the Elijah who was to come."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Matt 11:14",
+      "Matt 17:12-13",
+      "Luke 1:17"
+    ],
+    "correspondences": [
+      {
+        "type": "Camel-hair garment and leather belt",
+        "antitype": "Camel-hair garment and leather belt"
+      },
+      {
+        "type": "Calls Israel back to God",
+        "antitype": "Turns hearts of fathers to children"
+      },
+      {
+        "type": "Opposed by a king and his scheming queen",
+        "antitype": "Imprisoned and killed through Herod and Herodias"
+      },
+      {
+        "type": "Hands over to a successor at the Jordan",
+        "antitype": "Baptises Jesus at the Jordan and steps back"
+      }
+    ],
+    "differences": "John himself denied being Elijah when asked (John 1:21), probably meaning he was not Elijah returned in person. Luke clarifies: he came 'in the spirit and power of Elijah'. Elijah did not die; John was executed.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Explained John's denial and Jesus' affirmation by saying John had Elijah's spirit and power, not Elijah's soul, and rejected reincarnation.",
+        "source": {
+          "author": "Origen",
+          "title": "Commentary on Matthew",
+          "locator": "13.1-2",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "The last OT prophet promised that Elijah would come back before the Lord arrived. John the Baptist dressed like Elijah, preached like Elijah and stood up to a king like Elijah. Jesus said: he is the Elijah you were waiting for.",
+    "caution": "This does not support reincarnation; Luke 1:17 speaks of 'the spirit and power of Elijah'. Some traditions also expect Elijah to return personally before the end (Rev 11 is sometimes read this way); that is a separate, debated question."
+  },
+  {
+    "id": "cities-of-refuge",
+    "title": "Cities of refuge",
+    "category": "place",
+    "type": {
+      "name": "The six cities of refuge",
+      "refs": [
+        "Num 35:9-34",
+        "Deut 19:1-13",
+        "Josh 20:1-9"
+      ],
+      "summary": "Six towns were set apart where someone who killed another person by accident could flee from the avenger of blood. Inside, they were safe; they could go home freely after the death of the high priest."
+    },
+    "antitype": {
+      "name": "Refuge in Christ",
+      "refs": [
+        "Heb 6:18-20",
+        "Rom 8:1",
+        "Ps 46:1"
+      ],
+      "summary": "Hebrews speaks of believers as those who 'have fled for refuge' to lay hold of the hope set before them, an anchor that reaches behind the curtain where Jesus has entered as high priest."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Heb 6:18"
+    ],
+    "correspondences": [
+      {
+        "type": "Open to Israelite and foreigner alike",
+        "antitype": "Open to all who come"
+      },
+      {
+        "type": "Safe only inside the city",
+        "antitype": "No condemnation for those in Christ"
+      },
+      {
+        "type": "Freedom comes through the death of the high priest",
+        "antitype": "Freedom through the death of our high priest"
+      },
+      {
+        "type": "Roads kept clear and signposted (later Jewish tradition)",
+        "antitype": "The way to Christ made plain"
+      }
+    ],
+    "differences": "The cities protected the unintentional killer only; a deliberate murderer was handed over. The gospel offers refuge to the guilty, not only to the accidental offender. Hebrews' 'fled for refuge' may be an echo, but it does not name the cities.",
+    "fathers": [
+      {
+        "who": "Origen and later commentators",
+        "note": "Read the high priest's death that frees the refugee as a figure of Christ's death that frees sinners.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Numbers",
+          "locator": "28",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Israel had safe towns where someone who had killed a person by accident could run and be protected. Christians have seen in them a picture of running to Christ for safety. The death of the high priest set the refugee free, which many find a striking echo of Jesus.",
+    "caution": "Traditional, not explicit. The detail about clear roads and signposts comes from the Mishnah (tractate Makkot), not the OT. The fit is imperfect, since the refuge was for the innocent-but-liable, not for the wicked."
+  },
+  {
+    "id": "temple-body-church",
+    "title": "The temple, Christ's body and the church",
+    "category": "institution",
+    "type": {
+      "name": "The Jerusalem temple",
+      "refs": [
+        "1 Kgs 8:10-13",
+        "1 Kgs 8:27-30",
+        "Ezek 43:1-7",
+        "Hag 2:6-9"
+      ],
+      "summary": "The temple in Jerusalem is the place where God puts his name and his glory dwells, where sacrifice is offered and prayer is heard. The prophets see its glory leave before the exile and promise a greater glory in a future house."
+    },
+    "antitype": {
+      "name": "Jesus' body, the church, and the new Jerusalem",
+      "refs": [
+        "John 2:19-21",
+        "Matt 12:6",
+        "1 Cor 3:16-17",
+        "1 Cor 6:19",
+        "Eph 2:19-22",
+        "1 Pet 2:4-5",
+        "Rev 21:22"
+      ],
+      "summary": "Jesus speaks of destroying 'this temple' and raising it in three days, meaning his body. Paul calls the church and the believer's body God's temple, built on Christ the cornerstone. In the new Jerusalem there is no temple, for God and the Lamb are its temple."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "John 2:21",
+      "1 Cor 3:16",
+      "Rev 21:22"
+    ],
+    "correspondences": [
+      {
+        "type": "Where God's glory dwells",
+        "antitype": "God's fullness dwells bodily in Christ"
+      },
+      {
+        "type": "Built of costly stones",
+        "antitype": "Believers as living stones"
+      },
+      {
+        "type": "Where sacrifice is offered",
+        "antitype": "Spiritual sacrifices offered through Christ"
+      },
+      {
+        "type": "Destroyed and rebuilt",
+        "antitype": "Body destroyed and raised in three days"
+      },
+      {
+        "type": "God's presence limited to one place",
+        "antitype": "Whole new creation filled with God's presence"
+      }
+    ],
+    "differences": "The temple could be defiled, destroyed and abandoned by the glory; the NT presents the risen Christ as a temple that cannot be destroyed again. The temple was made with hands; the new one is 'not made with hands' (Mark 14:58).",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Read John 2 as a picture of the whole body of Christ, the church, destroyed and raised.",
+        "source": {
+          "author": "Origen",
+          "title": "Commentary on John",
+          "locator": "10.35",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Read the building of the temple as the building up of the church out of living stones from all nations.",
+        "source": {
+          "author": "Augustine",
+          "title": "Expositions of the Psalms",
+          "locator": "127",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "The temple was the place where heaven and earth met. The NT says that meeting place is now Jesus himself, and through him his people, and in the end the whole renewed world, where God lives with his people without any wall.",
+    "caution": "Christians disagree about whether a future rebuilt temple in Jerusalem has a role in prophecy; dispensationalists often say yes, many others say the typology means the physical temple's role is fulfilled. See /debates/israel-and-church and /debates/millennium."
+  },
+  {
+    "id": "jacobs-ladder",
+    "title": "Jacob's ladder and the Son of Man",
+    "category": "object",
+    "type": {
+      "name": "Jacob's ladder at Bethel",
+      "refs": [
+        "Gen 28:10-22"
+      ],
+      "summary": "Fleeing from Esau, Jacob dreams of a stairway set on the earth reaching to heaven, with God's angels going up and down on it. He wakes and says this is the house of God and the gate of heaven."
+    },
+    "antitype": {
+      "name": "Jesus, the link between heaven and earth",
+      "refs": [
+        "John 1:47-51",
+        "John 14:6",
+        "1 Tim 2:5"
+      ],
+      "summary": "Jesus tells Nathanael, an 'Israelite in whom is no deceit', that he will see heaven opened and the angels of God ascending and descending on the Son of Man."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "John 1:51"
+    ],
+    "correspondences": [
+      {
+        "type": "A stairway joining earth and heaven",
+        "antitype": "The Son of Man joins earth and heaven"
+      },
+      {
+        "type": "Angels going up and down on it",
+        "antitype": "Angels going up and down on the Son of Man"
+      },
+      {
+        "type": "Bethel, 'house of God'",
+        "antitype": "Jesus, where God dwells (John 1:14)"
+      },
+      {
+        "type": "Given to Jacob the deceiver",
+        "antitype": "Promised to Nathanael, an Israelite without deceit"
+      }
+    ],
+    "differences": "Jacob's ladder was a dream vision; Jesus is a person. The ladder simply stood there; Jesus is mediator by his own life and death.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Read the angels ascending and descending on the Son of Man as preachers lifting up Christ the head in heaven and coming down to Christ's body on earth.",
+        "source": {
+          "author": "Augustine",
+          "title": "Tractates on the Gospel of John",
+          "locator": "7.23",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Jacob dreamed of a stairway between heaven and earth. Jesus told his first disciples: you will see that I am that stairway. He is the way God comes down to us and we come up to God.",
+    "caution": "Later devotional readings that turn each rung into a stage of spiritual progress (as in some monastic writings) are a separate tradition and not part of John's meaning."
+  },
+  {
+    "id": "sacrificial-system",
+    "title": "The sacrificial system and the one sacrifice",
+    "category": "institution",
+    "type": {
+      "name": "Israel's offerings",
+      "refs": [
+        "Lev 1:1-17",
+        "Lev 4:1-35",
+        "Lev 17:11",
+        "Ps 40:6-8"
+      ],
+      "summary": "Leviticus sets out burnt, grain, peace, sin and guilt offerings. Blood is given 'to make atonement for your souls'. Yet the prophets and psalms also say God does not ultimately desire animal sacrifice but an obedient heart."
+    },
+    "antitype": {
+      "name": "Christ's once-for-all offering",
+      "refs": [
+        "Heb 9:9-14",
+        "Heb 10:1-14",
+        "Eph 5:2",
+        "Rom 12:1"
+      ],
+      "summary": "Hebrews says the law has only a shadow of the good things to come. Animal blood cannot take away sins; Christ, coming to do God's will, offered his own body once for all and sat down."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Heb 10:1",
+      "Heb 9:9",
+      "Heb 8:5"
+    ],
+    "correspondences": [
+      {
+        "type": "Unblemished animals",
+        "antitype": "A sinless offering"
+      },
+      {
+        "type": "The worshipper lays hands on the victim",
+        "antitype": "Identification of sinners with Christ"
+      },
+      {
+        "type": "Repeated daily and yearly",
+        "antitype": "Offered once for all"
+      },
+      {
+        "type": "Priests always standing",
+        "antitype": "Christ sat down: the work is finished"
+      },
+      {
+        "type": "Peace offering shared in a meal",
+        "antitype": "Fellowship with God through Christ"
+      }
+    ],
+    "differences": "Hebrews says the old sacrifices could never perfect the conscience; they served as a reminder of sin. Christ's offering was a person freely doing God's will, which Psalm 40 already hinted was what God truly wanted.",
+    "fathers": [
+      {
+        "who": "Augustine",
+        "note": "Summed up the relation of the Testaments in a famous saying, often paraphrased: the New lies hidden in the Old, and the Old is made plain in the New. He applied this to the sacrifices as signs of the one true sacrifice.",
+        "source": {
+          "author": "Augustine",
+          "title": "Questions on the Heptateuch",
+          "locator": "2.73",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Augustine",
+        "note": "Defined a visible sacrifice as the sacrament, or sacred sign, of an invisible sacrifice, and said all the old sacrifices signified the one sacrifice of Christ.",
+        "source": {
+          "author": "Augustine",
+          "title": "City of God",
+          "locator": "10.5; 10.20",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Israel's worship was full of sacrifices. Hebrews says they were like shadows cast ahead of a person who was coming. The shadow had the right shape, but it was not the real thing. When Christ came and gave himself, the shadow had done its job.",
+    "caution": "Christians agree Christ's sacrifice fulfils the system, but differ on how the eucharist relates to it (a re-presentation of the one sacrifice in Catholic and Orthodox teaching; a memorial or spiritual feeding in most Protestant teaching). Not every detail of each offering needs a Christological meaning."
+  },
+  {
+    "id": "circumcision-new-heart",
+    "title": "Circumcision, the circumcised heart and baptism",
+    "category": "institution",
+    "type": {
+      "name": "Circumcision",
+      "refs": [
+        "Gen 17:9-14",
+        "Deut 10:16",
+        "Deut 30:6",
+        "Jer 4:4"
+      ],
+      "summary": "Circumcision is the sign of God's covenant with Abraham's household, given to boys on the eighth day. Already in the OT, Moses and the prophets call for a circumcised heart, and Deuteronomy promises God will circumcise his people's hearts."
+    },
+    "antitype": {
+      "name": "Circumcision of the heart by Christ",
+      "refs": [
+        "Col 2:11-12",
+        "Rom 2:28-29",
+        "Phil 3:3",
+        "Gal 6:15"
+      ],
+      "summary": "Paul says believers have been circumcised with a circumcision made without hands, by the putting off of the body of the flesh, the circumcision of Christ, having been buried with him in baptism. True circumcision is of the heart, by the Spirit."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Col 2:11-12",
+      "Rom 2:29"
+    ],
+    "correspondences": [
+      {
+        "type": "A cutting away in the flesh",
+        "antitype": "Putting off the old self"
+      },
+      {
+        "type": "Sign of entry into the covenant people",
+        "antitype": "Baptism marks entry into Christ"
+      },
+      {
+        "type": "Done by human hands",
+        "antitype": "Done 'without hands' by Christ and the Spirit"
+      },
+      {
+        "type": "On the eighth day",
+        "antitype": "New creation on the 'eighth day' of resurrection (traditional)"
+      }
+    ],
+    "differences": "Circumcision was given to males of Abraham's household; baptism is given to men and women alike (Gal 3:27-28). Paul insists outward circumcision without the heart is worthless, so the true antitype is inward change, with baptism as its sign.",
+    "fathers": [
+      {
+        "who": "Justin Martyr",
+        "note": "Argued Christians have received a spiritual circumcision through baptism, which Enoch and others had without fleshly circumcision.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "43",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Cyprian of Carthage",
+        "note": "Used the eighth-day timing of circumcision in debate about whether infants could be baptised before the eighth day; his council said they could.",
+        "source": {
+          "author": "Cyprian",
+          "title": "Letter 64 (to Fidus)",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Circumcision marked a boy as part of God's covenant people. Even in the OT, God said what he really wanted was a 'circumcised heart'. Paul says Christ does that inner surgery, and baptism is now the outward sign of belonging.",
+    "caution": "Whether Colossians 2 makes baptism the direct replacement of circumcision is central to the infant-baptism debate: paedobaptists see continuity of the covenant sign to children; credobaptists argue the antitype is the inward circumcision of believers only. See /debates/baptism."
+  },
+  {
+    "id": "exodus-salvation",
+    "title": "The exodus and salvation in Christ",
+    "category": "event",
+    "type": {
+      "name": "The exodus from Egypt",
+      "refs": [
+        "Exod 3:7-10",
+        "Exod 12:29-42",
+        "Exod 14:13-31",
+        "Exod 19:4-6",
+        "Isa 43:16-19"
+      ],
+      "summary": "God hears Israel's cry, judges Egypt, rescues his people through the Passover and the sea, and brings them to Sinai to be his treasured possession. The prophets later promise a new and greater exodus from exile."
+    },
+    "antitype": {
+      "name": "Redemption through Christ",
+      "refs": [
+        "Luke 9:30-31",
+        "1 Cor 10:1-11",
+        "Col 1:13-14",
+        "1 Pet 2:9-10",
+        "Rev 15:2-4"
+      ],
+      "summary": "At the transfiguration, Moses and Elijah speak with Jesus about his 'departure' (Greek *exodos*) to be accomplished at Jerusalem. Believers are rescued from the domain of darkness and made a royal priesthood, the very titles given to Israel at Sinai."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "1 Cor 10:6",
+      "1 Cor 10:11",
+      "Luke 9:31"
+    ],
+    "correspondences": [
+      {
+        "type": "Slavery in Egypt",
+        "antitype": "Slavery to sin and death"
+      },
+      {
+        "type": "Passover blood",
+        "antitype": "Christ's blood"
+      },
+      {
+        "type": "Through the sea",
+        "antitype": "Through baptism"
+      },
+      {
+        "type": "Wilderness testing",
+        "antitype": "The Christian life as pilgrimage"
+      },
+      {
+        "type": "Made a kingdom of priests at Sinai",
+        "antitype": "Made a royal priesthood"
+      }
+    ],
+    "differences": "The exodus freed a single nation from a political oppressor; the NT speaks of freedom from sin and death for people of every nation. Israel's wilderness generation largely fell away, which Paul uses as a warning rather than a promise.",
+    "fathers": [
+      {
+        "who": "Melito of Sardis",
+        "note": "Retold the whole exodus night as the outline of the gospel, with Egypt's firstborn struck and Israel kept by the lamb's blood.",
+        "source": {
+          "author": "Melito of Sardis",
+          "title": "On Pascha",
+          "locator": "11-33",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Gregory of Nyssa",
+        "note": "Read the exodus as the soul's journey out of slavery to the passions toward God.",
+        "source": {
+          "author": "Gregory of Nyssa",
+          "title": "Life of Moses",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "The exodus is the great rescue story of the OT. The NT tells the story of Jesus with the same shape: a lamb, a crossing through water, a journey, a people made God's own. Luke even calls Jesus' death and resurrection his 'exodus'.",
+    "caution": "Liberation theologies read the exodus primarily as God's rescue of the poor and oppressed in history, while other traditions stress its spiritual fulfilment. The NT supports a spiritual reading clearly; how far the political dimension carries over is debated."
+  },
+  {
+    "id": "promised-land-inheritance",
+    "title": "The promised land and the inheritance to come",
+    "category": "place",
+    "type": {
+      "name": "Canaan, the promised land",
+      "refs": [
+        "Gen 12:7",
+        "Gen 15:18-21",
+        "Deut 6:10-11",
+        "Josh 21:43-45"
+      ],
+      "summary": "God promises Abraham's descendants the land of Canaan, a good land flowing with milk and honey. Under Joshua Israel enters it and receives rest, though the hold on it is always conditional and is later lost in exile."
+    },
+    "antitype": {
+      "name": "The inheritance and the new creation",
+      "refs": [
+        "Rom 4:13",
+        "Matt 5:5",
+        "Heb 4:8-11",
+        "Heb 11:8-16",
+        "1 Pet 1:3-4",
+        "Rev 21:1-4"
+      ],
+      "summary": "Paul says Abraham was promised he would inherit 'the world'. Jesus says the meek will inherit the earth. Hebrews says the patriarchs were looking for a better, heavenly country, a city God has prepared. Revelation ends with a new heaven and new earth."
+    },
+    "warrant": "implicit-nt",
+    "warrantRefs": [
+      "Heb 11:9-10",
+      "Heb 11:16",
+      "Rom 4:13"
+    ],
+    "correspondences": [
+      {
+        "type": "A land promised to Abraham's offspring",
+        "antitype": "The world promised to all who share Abraham's faith"
+      },
+      {
+        "type": "Rest from enemies",
+        "antitype": "The rest that remains"
+      },
+      {
+        "type": "Inheritance divided by lot",
+        "antitype": "An inheritance kept in heaven, imperishable"
+      },
+      {
+        "type": "God dwelling in the land among his people",
+        "antitype": "God dwelling with humanity in the new creation"
+      }
+    ],
+    "differences": "Canaan could be lost through disobedience and was entered by conquest. The NT inheritance is 'imperishable, undefiled and unfading' and global in scope.",
+    "fathers": [
+      {
+        "who": "Irenaeus of Lyon",
+        "note": "Insisted the promise of land to Abraham will be fulfilled literally in a renewed earth at the resurrection, against those who spiritualised it away.",
+        "source": {
+          "author": "Irenaeus",
+          "title": "Against Heresies",
+          "locator": "5.32.2",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Read the land mainly as the soul's spiritual inheritance and heavenly realities, a reading Irenaeus' approach resisted.",
+        "source": {
+          "author": "Origen",
+          "title": "On First Principles",
+          "locator": "4.3.12",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "God promised Abraham a land. The NT says the promise was bigger than a strip of the Middle East: it pointed to the whole renewed earth, which all of Abraham's spiritual children will inherit.",
+    "caution": "Whether the typology means the land promise to ethnic Israel is fulfilled and widened, or still awaits a specific future fulfilment, is a live debate between covenant theology, dispensationalism and others, with real political consequences today. See /debates/israel-and-church."
+  },
+  {
+    "id": "hagar-sarah-allegory",
+    "title": "Hagar and Sarah: Paul's allegory of two covenants",
+    "category": "person",
+    "type": {
+      "name": "Hagar and Sarah, Ishmael and Isaac",
+      "refs": [
+        "Gen 16:1-16",
+        "Gen 21:1-21"
+      ],
+      "summary": "Abraham has a son by Hagar the Egyptian slave woman, born in the ordinary way, and later a son by Sarah the free woman, born by God's promise in old age. Hagar and Ishmael are eventually sent away."
+    },
+    "antitype": {
+      "name": "Two covenants: slavery and freedom",
+      "refs": [
+        "Gal 4:21-31",
+        "Gal 5:1"
+      ],
+      "summary": "Paul says these things may be read allegorically: the two women are two covenants. Hagar stands for Mount Sinai and the present Jerusalem, in slavery; Sarah for the Jerusalem above, which is free and is our mother. Believers are children of promise like Isaac."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Gal 4:24-26"
+    ],
+    "correspondences": [
+      {
+        "type": "Hagar the slave",
+        "antitype": "The covenant from Sinai, bearing children for slavery"
+      },
+      {
+        "type": "Sarah the free woman",
+        "antitype": "The Jerusalem above, mother of the free"
+      },
+      {
+        "type": "Ishmael born 'according to the flesh'",
+        "antitype": "Trying to belong to God by human effort"
+      },
+      {
+        "type": "Isaac born by promise",
+        "antitype": "Believers born by the Spirit"
+      },
+      {
+        "type": "Ishmael mocks Isaac",
+        "antitype": "Those of the flesh persecute those of the Spirit"
+      }
+    ],
+    "differences": "Paul's reading reverses what his opponents would have expected: they would identify Jews with Sarah's line. In Genesis, God also cares for Hagar and Ishmael, sees Hagar's misery and blesses Ishmael (Gen 16:13; Gen 21:17-20), which Paul's argument does not address.",
+    "fathers": [
+      {
+        "who": "Origen",
+        "note": "Cited Galatians 4 as proof that the apostles themselves read the OT allegorically, giving licence for his wider method.",
+        "source": {
+          "author": "Origen",
+          "title": "On First Principles",
+          "locator": "4.2.6",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      },
+      {
+        "who": "John Chrysostom",
+        "note": "Noted that Paul used the word 'allegory' loosely, meaning a type, and that the history still really happened.",
+        "source": {
+          "author": "John Chrysostom",
+          "title": "Commentary on Galatians",
+          "locator": "4.24",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Paul takes the story of Abraham's two wives and two sons and uses it as a picture. One son was born from human planning, the other from God's promise. Paul says trying to be right with God through the law is like being Hagar's child; trusting God's promise makes you Sarah's child, free.",
+    "caution": "This is Paul's own allegory (he uses the word *allēgoroumena*) in a heated argument against teachers urging gentiles to be circumcised. It has been misused to cast the Jewish people as 'slaves' or rejected; Paul's target is a specific teaching, and Romans 9-11 shows his ongoing hope for Israel. It is also not a licence to allegorise any story at will."
+  },
+  {
+    "id": "israel-jesus",
+    "title": "Israel, God's son, and Jesus the true Israel",
+    "category": "person",
+    "type": {
+      "name": "Israel as God's firstborn son",
+      "refs": [
+        "Exod 4:22-23",
+        "Hos 11:1",
+        "Deut 8:2-3",
+        "Isa 49:3"
+      ],
+      "summary": "God calls Israel 'my firstborn son' and brings him out of Egypt. In the wilderness Israel is tested for forty years and often fails. Isaiah speaks of the servant who is called 'Israel'."
+    },
+    "antitype": {
+      "name": "Jesus, the faithful Son",
+      "refs": [
+        "Matt 2:13-15",
+        "Matt 3:16-17",
+        "Matt 4:1-11",
+        "John 15:1-5"
+      ],
+      "summary": "Matthew says Jesus' return from Egypt fulfils 'Out of Egypt I called my son'. After passing through the waters of baptism, Jesus is tested forty days in the wilderness and answers each temptation with Deuteronomy, succeeding where Israel failed."
+    },
+    "warrant": "explicit-nt",
+    "warrantRefs": [
+      "Matt 2:15",
+      "Hos 11:1"
+    ],
+    "correspondences": [
+      {
+        "type": "God's son called out of Egypt",
+        "antitype": "Jesus brought back from Egypt"
+      },
+      {
+        "type": "Passes through the sea",
+        "antitype": "Passes through the Jordan in baptism"
+      },
+      {
+        "type": "Forty years tested in the wilderness",
+        "antitype": "Forty days tested in the wilderness"
+      },
+      {
+        "type": "Grumbles for bread, tests God, worships the calf",
+        "antitype": "Refuses each temptation, quoting Deut 8:3, 6:16, 6:13"
+      },
+      {
+        "type": "Israel as God's vine",
+        "antitype": "'I am the true vine'"
+      }
+    ],
+    "differences": "Hosea 11:1 in context looks back on Israel's past; it is not a prediction. Matthew reads it as a pattern Jesus relives and completes. Israel was a disobedient son; Jesus is the obedient one.",
+    "fathers": [
+      {
+        "who": "Jerome",
+        "note": "Discussed whether Matthew drew Hosea 11:1 from the Hebrew rather than the Greek OT (which reads 'his children'), and defended Matthew's use.",
+        "source": {
+          "author": "Jerome",
+          "title": "Commentary on Hosea",
+          "locator": "11.1",
+          "publicDomain": true,
+          "confidence": "needs-verification"
+        }
+      }
+    ],
+    "plain": "Hosea was remembering the exodus when he wrote 'out of Egypt I called my son'. Matthew sees Jesus walking the same road Israel walked: out of Egypt, through the water, into the wilderness. But where Israel stumbled, Jesus stays faithful. He sums up Israel in himself.",
+    "caution": "Matthew's 'fulfilled' here does not mean Hosea made a prediction; it means the pattern reaches its full meaning in Jesus. Seeing Jesus as 'true Israel' is sometimes pushed into replacement theology (the church replaces Israel); many interpreters who accept this typology reject that conclusion. See /debates/israel-and-church."
+  },
+  {
+    "id": "rahab-scarlet-cord",
+    "title": "Rahab's scarlet cord",
+    "category": "object",
+    "type": {
+      "name": "The scarlet cord in Rahab's window",
+      "refs": [
+        "Josh 2:8-21",
+        "Josh 6:22-25"
+      ],
+      "summary": "Rahab, a Canaanite woman of Jericho, hides Israel's spies. They tell her to tie a scarlet cord in her window; everyone in her house when the city falls will be spared."
+    },
+    "antitype": {
+      "name": "Redemption through Christ's blood",
+      "refs": [
+        "Heb 11:31",
+        "Jas 2:25",
+        "Matt 1:5",
+        "Eph 1:7"
+      ],
+      "summary": "The NT honours Rahab for her faith and her actions and places her in Jesus' family line. Early Christians read the scarlet cord as a sign of redemption through the blood of the Lord."
+    },
+    "warrant": "traditional",
+    "warrantRefs": [
+      "Heb 11:31",
+      "Jas 2:25"
+    ],
+    "correspondences": [
+      {
+        "type": "A red sign on the house keeps those inside safe",
+        "antitype": "Christ's blood protects those who shelter in him"
+      },
+      {
+        "type": "Like the Passover blood on the doorposts",
+        "antitype": "Echo of Christ our Passover"
+      },
+      {
+        "type": "A gentile outsider is brought into Israel",
+        "antitype": "Gentiles brought into God's people"
+      }
+    ],
+    "differences": "The NT praises Rahab's faith and hospitality but never mentions the cord. The cord was a practical signal for soldiers, not a sacrifice.",
+    "fathers": [
+      {
+        "who": "Clement of Rome",
+        "note": "Said the scarlet thread made plain that redemption would come through the blood of the Lord to all who believe and hope in God, and that Rahab showed both faith and prophecy.",
+        "source": {
+          "author": "Clement of Rome",
+          "title": "1 Clement",
+          "locator": "12",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Justin Martyr",
+        "note": "Made the same link between the scarlet sign and the blood of Christ.",
+        "source": {
+          "author": "Justin Martyr",
+          "title": "Dialogue with Trypho",
+          "locator": "111",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      },
+      {
+        "who": "Origen",
+        "note": "Read Rahab's house as the church, outside of which no one is saved.",
+        "source": {
+          "author": "Origen",
+          "title": "Homilies on Joshua",
+          "locator": "3.5",
+          "publicDomain": true,
+          "confidence": "scholarly-consensus"
+        }
+      }
+    ],
+    "plain": "Rahab hung a red cord in her window and her family survived when Jericho fell. Christians very early on saw a picture of being kept safe by Christ's blood. It is a lovely image, but it comes from the early church, not from the NT.",
+    "caution": "A good example of a traditional type: 1 Clement 12 (around AD 96) makes the link, but no NT writer does. It is fine as illustration, but it should not be taught as if the Bible itself said it. Origen's 'no salvation outside Rahab's house' is a further application."
+  }
+]
