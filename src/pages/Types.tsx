@@ -12,7 +12,8 @@ const WARRANT: Record<TypeLinkT['warrant'], { label: string; c: string; note: st
   traditional: { label: 'Church tradition', c: 'gold', note: 'Drawn by the Church Fathers and later interpreters.' },
   speculative: { label: 'Speculative', c: 'muted', note: 'Suggested by some readers; handle with care.' },
 };
-const order = (t: TypeLinkT) => { const p = t.type.refs.map(parseRef).find(Boolean); return p ? p.book * 1000 + p.c1 : 99999; };
+const refOrder = (refs: string[]) => { const p = refs.map(parseRef).find(Boolean); return p ? p.book * 1000 + p.c1 : 99999; };
+const order = (t: TypeLinkT) => refOrder(t.type.refs);
 
 export default function Types() {
   const [sp, setSp] = useSearchParams();
@@ -20,6 +21,7 @@ export default function Types() {
   const [warrants, setWarrants] = useState<string[]>(Object.keys(WARRANT));
   const [hover, setHover] = useState<string | null>(null);
   const list = useMemo(() => types.filter((t) => (!cat || t.category === cat) && warrants.includes(t.warrant)).sort((a, b) => order(a) - order(b)), [cat, warrants]);
+  const right = useMemo(() => [...list].sort((a, b) => refOrder(a.antitype.refs) - refOrder(b.antitype.refs)), [list]);
   const sel = types.find((t) => t.id === sp.get('t'));
   const cats = [...new Set(types.map((t) => t.category))];
   const ROW = 44, H = Math.max(list.length * ROW + 20, 120);
@@ -28,7 +30,7 @@ export default function Types() {
   return (
     <div>
       <PageHeader eyebrow="Types & shadows" title="From Shadow to Substance">
-        The New Testament reads people, events and institutions of the Old as “shadows” of what was coming (Col 2:17; Heb 10:1). Each line below crosses from an Old Testament shadow on the left to its fulfilment on the right. Colour shows how firmly the link rests on the New Testament itself.
+        The New Testament reads people, events and institutions of the Old as “shadows” of what was coming (Col 2:17; Heb 10:1). Each line crosses from an Old Testament shadow (left, in Bible order) to its New Testament fulfilment (right, in Bible order). Hover a name to trace its line. Colour shows how firmly the link rests on the New Testament itself.
       </PageHeader>
       {guide && <Link to={`/guides/${guide.id}`} className="card p-4 mb-5 flex flex-wrap items-center justify-between gap-2 hover:border-accent"><span><span className="eyebrow block">Read first</span><span className="display text-lg">{guide.title}</span></span><span className="text-accent font-semibold text-sm">How to read types wisely →</span></Link>}
       <div className="flex flex-wrap gap-1.5 mb-2"><button className={`btn !py-1 ${!cat ? 'btn-primary' : ''}`} onClick={() => setCat('')}>All</button>{cats.map((c) => <button key={c} className={`btn !py-1 capitalize ${cat === c ? 'btn-primary' : ''}`} onClick={() => setCat(c)}>{c}s</button>)}</div>
@@ -40,12 +42,12 @@ export default function Types() {
             <div className="grid grid-cols-[1fr_minmax(120px,1fr)_1fr]">
               <ul>{list.map((t) => <li key={t.id} style={{ height: ROW }} className="flex items-center justify-end pr-2"><button onMouseEnter={() => setHover(t.id)} onMouseLeave={() => setHover(null)} onClick={() => pick(t.id)} className={`text-right rounded-full px-3 py-1 text-sm transition-colors ${sel?.id === t.id || hover === t.id ? 'bg-accent/10 text-accent font-semibold' : 'hover:bg-sunk'}`}>{t.type.name}</button></li>)}</ul>
               <svg viewBox={`0 0 100 ${H}`} preserveAspectRatio="none" className="w-full" style={{ height: list.length * ROW }} aria-hidden>
-                {list.map((t, i) => { const y = i * ROW + ROW / 2; const on = sel?.id === t.id || hover === t.id; return (
-                  <motion.path key={t.id} d={`M0 ${y} C 50 ${y}, 50 ${y}, 100 ${y}`} fill="none" stroke={`rgb(var(--${WARRANT[t.warrant].c}))`} strokeWidth={on ? 3 : 1.4} opacity={hover && !on ? 0.25 : on ? 1 : 0.75}
+                {list.map((t, i) => { const y = i * ROW + ROW / 2; const y2 = right.indexOf(t) * ROW + ROW / 2; const on = sel?.id === t.id || hover === t.id; return (
+                  <motion.path key={t.id} d={`M0 ${y} C 55 ${y}, 45 ${y2}, 100 ${y2}`} fill="none" stroke={`rgb(var(--${WARRANT[t.warrant].c}))`} strokeWidth={on ? 3 : 1.4} 
                     strokeDasharray={t.warrant === 'speculative' ? '3 3' : t.warrant === 'traditional' ? '6 3' : undefined} vectorEffect="non-scaling-stroke"
-                    initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ duration: 0.6, delay: i * 0.03 }} />); })}
+                    initial={{ opacity: 0 }} animate={{ opacity: hover && !on ? 0.2 : on ? 1 : 0.7 }} transition={{ duration: 0.4, delay: Math.min(i * 0.02, 0.5) }} />); })}
               </svg>
-              <ul>{list.map((t) => <li key={t.id} style={{ height: ROW }} className="flex items-center pl-2"><button onMouseEnter={() => setHover(t.id)} onMouseLeave={() => setHover(null)} onClick={() => pick(t.id)} className={`text-left rounded-full px-3 py-1 text-sm transition-colors ${sel?.id === t.id || hover === t.id ? 'bg-accent/10 text-accent font-semibold' : 'hover:bg-sunk'}`}>{t.antitype.name}</button></li>)}</ul>
+              <ul>{right.map((t) => <li key={t.id} style={{ height: ROW }} className="flex items-center pl-2"><button onMouseEnter={() => setHover(t.id)} onMouseLeave={() => setHover(null)} onClick={() => pick(t.id)} className={`text-left rounded-full px-3 py-1 text-sm transition-colors ${sel?.id === t.id || hover === t.id ? 'bg-accent/10 text-accent font-semibold' : 'hover:bg-sunk'}`}>{t.antitype.name}</button></li>)}</ul>
             </div>
           </div>
           <ul className="md:hidden space-y-2">{list.map((t) => <li key={t.id}><button onClick={() => pick(t.id)} className="card p-3 w-full text-left"><span className="font-semibold">{t.type.name}</span> <span className="text-accent">→</span> <span>{t.antitype.name}</span><span className="block h-1 mt-2 rounded" style={{ background: `rgb(var(--${WARRANT[t.warrant].c}))` }} /></button></li>)}</ul>
