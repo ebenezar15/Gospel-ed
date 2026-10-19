@@ -186,6 +186,56 @@ const PlainPos = z.object({ summary: z.string(), takeaway: z.string(), keyVerse:
 export const PlainLayer = z.record(z.string(), z.object({ summary: z.string(), takeaway: z.string(), whyItMatters: z.string(), positions: z.record(z.string(), PlainPos) }));
 export type PlainLayerT = z.infer<typeof PlainLayer>;
 
+/* ---------- reading the Bible: canon, paradoxes, history, types, symbols ---------- */
+const CanonStatus = z.enum(['canon', 'deuterocanon', 'appendix', 'read-not-canon', 'rejected', 'lost', 'n/a']);
+export const CanonBook = z.object({
+  id: z.string(), title: z.string(), altTitles: z.array(z.string()),
+  category: z.enum(['deuterocanon', 'ot-pseudepigrapha', 'lost-book', 'qumran', 'nt-apocrypha', 'apostolic-fathers', 'gnostic']),
+  date: DateValue, language: z.string(), origin: z.string(),
+  summary: z.string(), plain: z.string(),          // plain = 2-3 sentence everyday explanation
+  contents: z.array(z.string()),                   // short outline points
+  status: z.object({ jewish: CanonStatus, protestant: CanonStatus, catholic: CanonStatus, orthodox: CanonStatus, ethiopian: CanonStatus, syriac: CanonStatus }),
+  whyRejected: z.string(), whyValued: z.string(),
+  criteria: z.array(z.object({ criterion: z.enum(['apostolicity', 'antiquity', 'orthodoxy', 'catholicity', 'church-use', 'inspiration-claims']), verdict: z.enum(['meets', 'partial', 'fails', 'n/a']), note: z.string() })),
+  citedBy: z.array(z.object({ who: z.string(), how: z.string(), source: Source })),
+  biblicalLinks: z.array(z.object({ ref: Ref, note: z.string() })),   // canonical verses that quote, allude to or name it
+  themes: z.array(z.string()), confidence: Confidence,
+  reading: z.array(Source),
+});
+export const Paradox = z.object({
+  id: z.string(), title: z.string(), category: z.string(),
+  plain: z.string(), takeaway: z.string(),
+  poleA: z.object({ label: z.string(), statement: z.string(), refs: z.array(Ref) }),
+  poleB: z.object({ label: z.string(), statement: z.string(), refs: z.array(Ref) }),
+  tension: z.string(),
+  resolutions: z.array(z.object({ name: z.string(), heldBy: z.string(), explanation: z.string(), refs: z.array(Ref), leans: z.enum(['A', 'B', 'both']) })),
+  skeptic: z.object({ objection: z.string(), reply: z.string() }),
+  practical: z.string(), related: z.array(z.string()),
+});
+export const HistoryMilestone = z.object({ id: z.string(), year: z.number(), endYear: z.number().optional(), title: z.string(), kind: z.enum(['writing', 'oral', 'canon', 'manuscript', 'translation', 'printing', 'division', 'discovery', 'council', 'textual']), place: z.string(), summary: z.string(), details: z.string(), refs: z.array(Ref), sources: z.array(Source), confidence: Confidence });
+export const Manuscript = z.object({ id: z.string(), name: z.string(), siglum: z.string().optional(), date: DateValue, language: z.string(), material: z.string(), contents: z.string(), location: z.string(), discovered: z.string(), significance: z.string(), confidence: Confidence });
+export const Variant = z.object({ id: z.string(), ref: Ref, title: z.string(), plain: z.string(), evidenceFor: z.string(), evidenceAgainst: z.string(), modern: z.string(), significance: z.string(), confidence: Confidence });
+export const Translation = z.object({ id: z.string(), name: z.string(), year: z.number(), translators: z.string(), language: z.string(), basis: z.string(), approach: z.string(), impact: z.string(), parent: z.array(z.string()) });
+export const BibleHistory = z.object({ milestones: z.array(HistoryMilestone), manuscripts: z.array(Manuscript), variants: z.array(Variant), translations: z.array(Translation), materials: z.array(z.object({ name: z.string(), summary: z.string(), refs: z.array(Ref) })) });
+export const TypeLink = z.object({
+  id: z.string(), title: z.string(), category: z.enum(['person', 'event', 'institution', 'object', 'place', 'festival']),
+  type: z.object({ name: z.string(), refs: z.array(Ref), summary: z.string() }),
+  antitype: z.object({ name: z.string(), refs: z.array(Ref), summary: z.string() }),
+  warrant: z.enum(['explicit-nt', 'implicit-nt', 'traditional', 'speculative']), warrantRefs: z.array(Ref),
+  correspondences: z.array(z.object({ type: z.string(), antitype: z.string() })),
+  differences: z.string(), fathers: z.array(z.object({ who: z.string(), note: z.string(), source: Source.optional() })),
+  plain: z.string(), caution: z.string().optional(),
+});
+export const SymbolT_ = z.object({
+  id: z.string(), name: z.string(), original: z.string().optional(),
+  category: z.enum(['number', 'colour', 'animal', 'plant', 'object', 'nature', 'place', 'body', 'metal-stone', 'garment', 'action', 'person-figure']),
+  plain: z.string(),
+  meanings: z.array(z.object({ meaning: z.string(), refs: z.array(Ref), note: z.string(), confidence: Confidence })),
+  otUsage: z.string(), ntUsage: z.string(), caution: z.string().optional(), related: z.array(z.string()),
+});
+export type CanonBookT = z.infer<typeof CanonBook>; export type ParadoxT = z.infer<typeof Paradox>;
+export type BibleHistoryT = z.infer<typeof BibleHistory>; export type TypeLinkT = z.infer<typeof TypeLink>; export type SymbolT = z.infer<typeof SymbolT_>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
@@ -201,6 +251,12 @@ export const FILES = {
   'guides-3.json': z.array(DeepDive),
   'guides-4.json': z.array(DeepDive),
   'guides-5.json': z.array(DeepDive),
+  'canon-1.json': z.array(CanonBook), 'canon-2.json': z.array(CanonBook),
+  'paradoxes-1.json': z.array(Paradox), 'paradoxes-2.json': z.array(Paradox),
+  'bible-history.json': BibleHistory,
+  'types.json': z.array(TypeLink),
+  'symbols-1.json': z.array(SymbolT_), 'symbols-2.json': z.array(SymbolT_),
+  'guides-6.json': z.array(DeepDive),
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),

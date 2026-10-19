@@ -84,6 +84,9 @@ const DOORS = [
   { to: '/debates/atonement', k: 'Weigh', t: 'Nine ways to read the cross', d: 'Every theory animated as a flowchart.' },
   { to: '/gospel-history', k: 'Follow', t: 'What gospel was preached, and when?', d: 'From Galilee to Lausanne, with sources.' },
   { to: '/people/elijah?tab=interview', k: 'Interview', t: 'Ask Elijah a question', d: 'An imaginative, scripture-grounded conversation.' },
+  { to: '/canon', k: 'Play', t: 'Canon or not?', d: 'Guess which Bibles include Enoch, Tobit or Thomas.' },
+  { to: '/paradoxes', k: 'Balance', t: 'Faith and works on the scale', d: 'Tilt the Bible’s paradoxes by each resolution.' },
+  { to: '/types', k: 'Cross over', t: 'From shadow to substance', d: 'Passover lamb to Christ, Jonah to the tomb.' },
 ];
 
 export default function Home() {

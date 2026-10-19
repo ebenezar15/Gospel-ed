@@ -23,6 +23,11 @@ import Quiz from './pages/Quiz';
 import NotFound from './pages/NotFound';
 import Guides, { GuidePage } from './pages/Guides';
 import Theologians from './pages/Theologians';
+import Canon from './pages/Canon';
+import Paradoxes from './pages/Paradoxes';
+import BibleHistory from './pages/BibleHistory';
+import Types from './pages/Types';
+import Symbols from './pages/Symbols';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -54,6 +59,11 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="/guides" element={<Guides />} />
           <Route path="/guides/:id" element={<GuidePage />} />
           <Route path="/theologians" element={<Theologians />} />
+          <Route path="/canon" element={<Canon />} />
+          <Route path="/paradoxes" element={<Paradoxes />} />
+          <Route path="/bible-history" element={<BibleHistory />} />
+          <Route path="/types" element={<Types />} />
+          <Route path="/symbols" element={<Symbols />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Layout>

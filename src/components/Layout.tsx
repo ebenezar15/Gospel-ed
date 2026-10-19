@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, guides, figures, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
+  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
 } from '../data';
 import { parseRef } from '../lib/refs';
 
@@ -14,10 +14,14 @@ const NAV: { group: string; items: { to: string; label: string; glyph: string }[
     { to: '/books', label: 'Books', glyph: '❦' }, { to: '/family', label: 'Family Tree', glyph: '⚘' }, { to: '/connections', label: 'Connections', glyph: '✣' },
     { to: '/work', label: 'Work & Ministry', glyph: '⚒' },
   ] },
+  { group: 'Reading the Bible', items: [
+    { to: '/bible-history', label: 'Bible History', glyph: '⌘' }, { to: '/canon', label: 'Omitted & Lost Books', glyph: '✠' },
+    { to: '/types', label: 'Types & Shadows', glyph: '⇄' }, { to: '/symbols', label: 'Symbols & Imagery', glyph: '◈' }, { to: '/paradoxes', label: 'Paradoxes', glyph: '☯' },
+  ] },
   { group: 'Time & Place', items: [{ to: '/timeline', label: 'Timeline', glyph: '⟿' }, { to: '/maps', label: 'Maps & Journeys', glyph: '✦' }, { to: '/lens', label: 'Who Was Alive?', glyph: '◎' }] },
   { group: 'Gospel & Doctrine', items: [
     { to: '/gospel-history', label: 'Gospel Through History', glyph: '✉' }, { to: '/afterlife', label: 'Afterlife & Kingdom', glyph: '☼' },
-    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '⌘' },
+    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '⌂' },
   ] },
   { group: 'Study', items: [{ to: '/study', label: 'Study Desk', glyph: '✎' }, { to: '/quiz', label: 'Quiz & Cards', glyph: '?' }] },
 ];
@@ -39,6 +43,11 @@ function useSearchIndex() {
       ...eras.map((e) => ({ kind: 'Era', title: e.name, sub: e.summary.slice(0, 80), to: `/timeline?era=${e.id}` })),
       ...guides.map((g) => ({ kind: 'Study guide', title: g.title, sub: g.question, to: `/guides/${g.id}` })),
       ...figures.map((f) => ({ kind: 'Theologian', title: f.name, sub: `${f.lived} · ${f.profession}`, to: '/theologians' })),
+      ...canonBooks.map((b) => ({ kind: 'Omitted book', title: b.title, sub: b.altTitles.join(', ') || b.category, to: `/canon?book=${b.id}` })),
+      ...paradoxes.map((p) => ({ kind: 'Paradox', title: p.title, sub: p.takeaway, to: `/paradoxes?p=${p.id}` })),
+      ...types.map((t) => ({ kind: 'Type', title: `${t.type.name} → ${t.antitype.name}`, sub: t.title, to: `/types?t=${t.id}` })),
+      ...symbols.map((s) => ({ kind: 'Symbol', title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
+      ...bibleHistory.variants.map((v) => ({ kind: 'Disputed passage', title: v.title, sub: v.ref, to: '/bible-history' })),
       ...studyPaths.map((s) => ({ kind: 'Study path', title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to }))),
     ];

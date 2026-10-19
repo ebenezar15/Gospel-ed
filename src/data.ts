@@ -1,7 +1,7 @@
 /** Loads every /content/*.json file at build time and builds the cross-reference indexes the UI uses. */
 import type {
   PersonT, PlaceT, EraT, TimelineEventT, EmpireT, JourneyT, RelationshipT, RosterT, BookT, DebateT,
-  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
+  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
 const files = import.meta.glob('../content/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
@@ -35,6 +35,11 @@ export const giftsLists: GiftsListT[] = get('gifts.json', []);
 export const studyPaths: StudyPathT[] = get('study-paths.json', []);
 export const quiz: QuizQT[] = get('quiz.json', []);
 export const guides: DeepDiveT[] = many<DeepDiveT>('guides-');
+export const canonBooks: CanonBookT[] = many<CanonBookT>('canon-');
+export const paradoxes: ParadoxT[] = many<ParadoxT>('paradoxes-');
+export const bibleHistory: BibleHistoryT = get('bible-history.json', { milestones: [], manuscripts: [], variants: [], translations: [], materials: [] });
+export const types: TypeLinkT[] = get('types.json', []);
+export const symbols: SymbolT[] = many<SymbolT>('symbols-');
 export const guideById = new Map(guides.map((g) => [g.id, g]));
 /** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */
 export const plain: PlainLayerT = Object.assign({}, get<PlainLayerT>('plain-1.json', {}), get<PlainLayerT>('plain-2.json', {}));

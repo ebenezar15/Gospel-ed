@@ -62,3 +62,13 @@ In-app routes you can link: /people/<id>, /debates/<id> (soteriology, cessationi
 
 ## Plain-language layer (plain-N.json, PlainLayer schema)
 An object keyed by debate id: { summary (3–4 sentences, everyday words), takeaway (one sentence: what the disagreement is really about), whyItMatters (2–3 sentences: how it changes how people pray, preach, live), positions: { <positionId>: { summary (2–3 sentences, no jargon), takeaway (one sentence), keyVerse (single ref), analogy (optional, one sentence illustration a teenager would get — fair to the view) } } }. Read the debate file to get exact debate and position ids. Every position of every debate must be present.
+
+---
+# Expansion round 3 (Reading the Bible: canon, paradoxes, history, types, symbols)
+All earlier rules apply (strict ref format, confidence labels, even-handed, no invented quotes, plain words for non-specialists with depth kept).
+Schemas: CanonBook, Paradox, BibleHistory, TypeLink, SymbolT_ in src/schemas/index.ts.
+Write chunks under content/_parts/ with a prefix unique to you and merge with your OWN uniquely named script kept in the scratchpad (/tmp/claude-0/-home-user-Gospel-ed/d1bd6d71-36a3-59c2-9eec-83786dc7e324/scratchpad/), never in the repo and never a shared merge.mjs.
+Validate: cd /home/user/Gospel-ed && npx tsx scripts/validate.ts <file> until "No errors.". Do not git commit.
+Ref fields that must parse: refs, keyRefs, keyVerses, ref, keyVerse. Books outside the 66 cannot be cited as refs — name them in text instead.
+Canon book status values: canon | deuterocanon | appendix | read-not-canon | rejected | lost | n/a. Use the tradition's own practice (e.g. Ethiopian Orthodox: 1 Enoch and Jubilees = canon; Catholic: Tobit = deuterocanon; Orthodox: 3 Maccabees = canon/deuterocanon (Orthodox say "anagignoskomena"), Prayer of Manasseh = appendix in Catholic Vulgate; Protestant: Apocrypha = read-not-canon (Article VI of the 39 Articles) or rejected). Mark disputed statuses in the `note`/summary and set confidence accordingly.
+Paradox `related` and Symbol/Type `related` may contain in-app routes (/debates/<id>, /guides/<id>, /people/<id>) or ids of other symbols/types.
