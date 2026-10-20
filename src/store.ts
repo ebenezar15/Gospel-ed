@@ -18,6 +18,8 @@ type Note = { id: string; target: string; text: string; at: number };
 type UI = {
   scheme: Scheme; mode: Mode; reducedMotion: boolean; showSpeculative: boolean; chronology: 'early' | 'late';
   eraFilter: string | null; bookmarks: string[]; notes: Note[]; quizBest: number;
+  /** Left pane state on tablet/desktop: null = automatic (open on wide screens, rail on narrower ones). */
+  navOpen: boolean | null;
   set: (p: Partial<Omit<UI, 'set' | 'toggleBookmark' | 'addNote' | 'removeNote'>>) => void;
   toggleBookmark: (path: string) => void; addNote: (target: string, text: string) => void; removeNote: (id: string) => void;
 };
@@ -29,7 +31,7 @@ const safeStorage = createJSONStorage(() => {
 
 export const useUI = create<UI>()(persist((set) => ({
   scheme: 'parchment', mode: 'system', reducedMotion: false, showSpeculative: false, chronology: 'early',
-  eraFilter: null, bookmarks: [], notes: [], quizBest: 0,
+  eraFilter: null, bookmarks: [], notes: [], quizBest: 0, navOpen: null,
   set: (p) => set(p),
   toggleBookmark: (path) => set((s) => ({ bookmarks: s.bookmarks.includes(path) ? s.bookmarks.filter((b) => b !== path) : [...s.bookmarks, path] })),
   addNote: (target, text) => set((s) => ({ notes: [...s.notes, { id: Math.random().toString(36).slice(2), target, text, at: Date.now() }] })),

@@ -35,7 +35,9 @@ export function DateWithConf({ d, label }: { d?: DateValueT; label?: string }) {
 
 /** A scripture reference. Hover or tap shows the KJV text (public domain). */
 export function Ref({ r }: { r: string }) {
-  const [open, setOpen] = useState(false);
+  const [open, setOpenRaw] = useState(false);
+  const [right, setRight] = useState(false);
+  const setOpen = (v: boolean | ((o: boolean) => boolean)) => setOpenRaw((o) => { const n = typeof v === 'function' ? v(o) : v; if (n && box.current) { const r = box.current.getBoundingClientRect(); setRight(r.left + 360 > window.innerWidth); } return n; });
   const [text, setText] = useState<{ c: number; v: number; text: string }[] | null>(null);
   const parsed = parseRef(r);
   const box = useRef<HTMLSpanElement>(null);
@@ -45,17 +47,17 @@ export function Ref({ r }: { r: string }) {
   }, [open]);
   useEffect(() => {
     if (!open) return;
-    const h = (e: MouseEvent) => { if (box.current && !box.current.contains(e.target as Node)) setOpen(false); };
-    document.addEventListener('mousedown', h); return () => document.removeEventListener('mousedown', h);
+    const h = (e: PointerEvent) => { if (box.current && !box.current.contains(e.target as Node)) setOpen(false); };
+    document.addEventListener('pointerdown', h); return () => document.removeEventListener('pointerdown', h);
   }, [open]);
   if (!parsed) return <span className="chip text-bad" title="Unrecognised reference">{r}</span>;
   return (
-    <span ref={box} className="relative inline-block" onMouseEnter={() => setOpen(true)} onMouseLeave={() => setOpen(false)}>
+    <span ref={box} className="relative inline-block" onPointerEnter={(e) => e.pointerType === 'mouse' && setOpen(true)} onPointerLeave={(e) => e.pointerType === 'mouse' && setOpen(false)}>
       <button type="button" onClick={() => setOpen((o) => !o)} className="chip hover:border-accent font-serif !text-[.78rem]" aria-expanded={open}>
         <span className="rubric">✠</span>{r}
       </button>
       {open && (
-        <span role="tooltip" className="absolute z-50 left-0 top-full mt-1 w-[min(22rem,80vw)] card shadow-xl p-3 text-left block">
+        <span role="tooltip" className={`absolute z-50 ${right ? 'right-0' : 'left-0'} top-full mt-1 w-[min(22rem,80vw)] card shadow-xl p-3 text-left block`}>
           <span className="eyebrow block mb-1">{refLabel(r)} · KJV</span>
           {!text ? <span className="block skeleton h-12" /> : (
             <span className="block max-h-56 overflow-auto font-serif text-[.92rem] leading-relaxed">
@@ -124,7 +126,7 @@ export function Section({ title, children, id, aside }: { title: ReactNode; chil
 }
 export function Tabs<T extends string>({ tabs, value, onChange }: { tabs: { id: T; label: string; hidden?: boolean }[]; value: T; onChange: (t: T) => void }) {
   return (
-    <div role="tablist" className="flex gap-1 border-b border-line scroll-x mb-5">
+    <div role="tablist" className="tabs-scroll flex gap-1 border-b border-line scroll-x mb-5">
       {tabs.filter((t) => !t.hidden).map((t) => (
         <button key={t.id} role="tab" aria-selected={value === t.id} className="tab" onClick={() => onChange(t.id)}>{t.label}</button>
       ))}

@@ -15,13 +15,13 @@ const NAV: { group: string; items: { to: string; label: string; glyph: string }[
     { to: '/work', label: 'Work & Ministry', glyph: '⚒' },
   ] },
   { group: 'Reading the Bible', items: [
-    { to: '/bible-history', label: 'Bible History', glyph: '⌘' }, { to: '/canon', label: 'Omitted & Lost Books', glyph: '✠' },
+    { to: '/bible-history', label: 'Bible History', glyph: '▤' }, { to: '/canon', label: 'Omitted & Lost Books', glyph: '✠' },
     { to: '/types', label: 'Types & Shadows', glyph: '⇄' }, { to: '/symbols', label: 'Symbols & Imagery', glyph: '◈' }, { to: '/paradoxes', label: 'Paradoxes', glyph: '☯' },
   ] },
   { group: 'Time & Place', items: [{ to: '/timeline', label: 'Timeline', glyph: '⟿' }, { to: '/maps', label: 'Maps & Journeys', glyph: '✦' }, { to: '/lens', label: 'Who Was Alive?', glyph: '◎' }] },
   { group: 'Gospel & Doctrine', items: [
     { to: '/gospel-history', label: 'Gospel Through History', glyph: '✉' }, { to: '/afterlife', label: 'Afterlife & Kingdom', glyph: '☼' },
-    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '⌂' },
+    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '❂' },
   ] },
   { group: 'Study', items: [{ to: '/study', label: 'Study Desk', glyph: '✎' }, { to: '/quiz', label: 'Quiz & Cards', glyph: '?' }] },
 ];
@@ -148,28 +148,56 @@ function EraFilter() {
   );
 }
 
+function useWidth() {
+  const [w, setW] = useState(() => (typeof window === 'undefined' ? 1400 : window.innerWidth));
+  useEffect(() => { const h = () => setW(window.innerWidth); window.addEventListener('resize', h); return () => window.removeEventListener('resize', h); }, []);
+  return w;
+}
+
 export default function Layout({ children }: { children: ReactNode }) {
-  const { scheme, mode, reducedMotion } = useUI();
+  const { scheme, mode, reducedMotion, navOpen, set } = useUI();
   const [palette, setPalette] = useState(false);
   const [drawer, setDrawer] = useState(false);
   const loc = useLocation();
+  const width = useWidth();
+  const phone = width < 768;
+  // On tablets in portrait (and narrow windows) the open pane floats over the page instead of squeezing it.
+  const overlay = width < 1100;
+  const open = navOpen ?? width >= 1280;
+  const pinned = open && !overlay;
+  const setOpen = (v: boolean) => set({ navOpen: v });
+
   useEffect(() => applyTheme(scheme, mode, reducedMotion), [scheme, mode, reducedMotion]);
   useEffect(() => {
-    const h = (e: KeyboardEvent) => { if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') { e.preventDefault(); setPalette((p) => !p); } if (e.key === '/' && !(e.target as HTMLElement).closest('input,textarea,select')) { e.preventDefault(); setPalette(true); } };
+    const h = (e: KeyboardEvent) => {
+      if ((e.metaKey || e.ctrlKey) && e.key.toLowerCase() === 'k') { e.preventDefault(); setPalette((p) => !p); }
+      const typing = (e.target as HTMLElement).closest('input,textarea,select');
+      if (e.key === '/' && !typing) { e.preventDefault(); setPalette(true); }
+      if (e.key === '[' && !typing) { e.preventDefault(); set({ navOpen: !(useUI.getState().navOpen ?? window.innerWidth >= 1280) }); }
+      if (e.key === 'Escape') setDrawer(false);
+    };
     window.addEventListener('keydown', h); return () => window.removeEventListener('keydown', h);
   }, []);
-  useEffect(() => { setDrawer(false); document.getElementById('main')?.scrollTo?.(0, 0); window.scrollTo(0, 0); }, [loc.pathname]);
+  useEffect(() => {
+    setDrawer(false);
+    if (overlay && navOpen) set({ navOpen: false });
+    window.scrollTo(0, 0);
+  }, [loc.pathname]);
 
-  const navList = (
-    <nav aria-label="Main" className="space-y-5">
-      {NAV.map((g) => (
-        <div key={g.group}>
-          <div className="eyebrow mb-1.5 px-2">{g.group}</div>
-          <ul className="space-y-0.5">
+  const navList = (compact = false) => (
+    <nav aria-label="Main" className={compact ? 'flex flex-col items-center gap-1' : 'space-y-5'}>
+      {NAV.map((g, gi) => (
+        <div key={g.group} className={compact ? 'flex flex-col items-center gap-1 w-full' : ''}>
+          {compact ? (gi > 0 && <span className="block w-6 h-px bg-line my-1.5" aria-hidden />) : <div className="eyebrow mb-1.5 px-2">{g.group}</div>}
+          <ul className={compact ? 'flex flex-col items-center gap-0.5' : 'space-y-0.5'}>
             {g.items.map((i) => (
               <li key={i.to}>
-                <NavLink to={i.to} end={i.to === '/'} className={({ isActive }) => `flex items-center gap-2.5 px-2.5 py-1.5 rounded-full text-[.9rem] font-medium ${isActive ? 'bg-accent/10 text-accent font-semibold' : 'text-ink/75 hover:text-ink hover:bg-sunk'}`}>
-                  <span aria-hidden className="w-4 text-center text-gold">{i.glyph}</span>{i.label}
+                <NavLink to={i.to} end={i.to === '/'} title={compact ? i.label : undefined} aria-label={compact ? i.label : undefined}
+                  className={({ isActive }) => compact
+                    ? `group relative flex items-center justify-center w-10 h-10 rounded-full text-[1.05rem] ${isActive ? 'bg-accent/15 text-accent' : 'text-gold hover:bg-sunk'}`
+                    : `flex items-center gap-2.5 px-2.5 py-1.5 rounded-full text-[.9rem] font-medium ${isActive ? 'bg-accent/10 text-accent font-semibold' : 'text-ink/75 hover:text-ink hover:bg-sunk'}`}>
+                  <span aria-hidden className={compact ? '' : 'w-4 text-center text-gold'}>{i.glyph}</span>
+                  {compact ? null : i.label}
                 </NavLink>
               </li>
             ))}
@@ -178,43 +206,87 @@ export default function Layout({ children }: { children: ReactNode }) {
       ))}
     </nav>
   );
+  const logo = <svg width="34" height="34" viewBox="0 0 32 32" aria-hidden><circle cx="16" cy="16" r="15" fill="rgb(var(--accent))" /><circle cx="16" cy="16" r="12.5" fill="none" stroke="rgb(var(--accent-ink))" strokeOpacity=".5" strokeWidth="1" /><path d="M16 6v20M9 13h14" stroke="rgb(var(--accent-ink))" strokeWidth="2.2" strokeLinecap="round" /></svg>;
   const brand = (
-    <NavLink to="/" className="flex items-center gap-2.5">
-      <svg width="34" height="34" viewBox="0 0 32 32" aria-hidden><circle cx="16" cy="16" r="15" fill="rgb(var(--accent))" /><circle cx="16" cy="16" r="12.5" fill="none" stroke="rgb(var(--accent-ink))" strokeOpacity=".5" strokeWidth="1" /><path d="M16 6v20M9 13h14" stroke="rgb(var(--accent-ink))" strokeWidth="2.2" strokeLinecap="round" /></svg>
-      <span className="leading-none"><span className="display text-[1.35rem] font-semibold tracking-tight block">Logos Atlas</span><span className="text-[.6rem] tracking-[.12em] uppercase text-muted whitespace-nowrap">Bible · People · Doctrine</span></span>
+    <NavLink to="/" className="flex items-center gap-2.5 min-w-0">
+      {logo}
+      <span className="leading-none min-w-0"><span className="display text-[1.35rem] font-semibold tracking-tight block">Logos Atlas</span><span className="text-[.6rem] tracking-[.12em] uppercase text-muted whitespace-nowrap">Bible · People · Doctrine</span></span>
     </NavLink>
   );
+  const collapseBtn = (
+    <button className="btn !px-2.5 !py-1.5 shrink-0" onClick={() => setOpen(false)} aria-label="Hide menu" title="Hide menu ( [ )">
+      <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
+    </button>
+  );
+  const fullPane = (
+    <>
+      <div className="flex items-center justify-between gap-2 px-1">{brand}{collapseBtn}</div>
+      <button className="btn justify-between text-muted" onClick={() => setPalette(true)}><span>Search…</span><kbd className="text-xs">Ctrl K</kbd></button>
+      <EraFilter />
+      <div className="flex-1">{navList()}</div>
+      <ThemeMenu />
+      <p className="text-[.68rem] text-muted px-1 leading-snug">Scripture text: King James Version (public domain). Summaries are original; confidence labels mark what is text, consensus, debate or tradition. Press [ to show or hide this menu.</p>
+    </>
+  );
+  const safeTop = { paddingTop: 'max(1.25rem, calc(env(safe-area-inset-top, 0px) + .75rem))', paddingLeft: 'max(12px, env(safe-area-inset-left, 0px))' };
 
   return (
-    <div className="min-h-full md:grid md:grid-cols-[236px_minmax(0,1fr)] lg:grid-cols-[256px_minmax(0,1fr)] paper-grain">
-      <aside className="hidden md:flex flex-col gap-5 sticky top-0 h-screen overflow-y-auto border-r border-line bg-surface/80 backdrop-blur px-3 py-5" style={{ paddingLeft: 'max(12px, env(safe-area-inset-left, 0px))' }}>
-        <div className="px-2">{brand}</div>
-        <button className="btn justify-between text-muted" onClick={() => setPalette(true)}><span>Search…</span><kbd className="text-xs">Ctrl K</kbd></button>
-        <EraFilter />
-        <div className="flex-1">{navList}</div>
-        <ThemeMenu />
-        <p className="text-[.68rem] text-muted px-1 leading-snug">Scripture text: King James Version (public domain). Summaries are original; confidence labels mark what is text, consensus, debate or tradition.</p>
-      </aside>
-      <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
-        <div className="flex items-center gap-2.5">
-          <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
-          {brand}
-        </div>
-        <button className="btn" onClick={() => setPalette(true)} aria-label="Search">Search</button>
-      </header>
+    <div className="min-h-full paper-grain md:flex">
+      {/* Tablet & desktop: a slim icon rail that is always there, plus the full pane when open. */}
+      {!phone && !pinned && (
+        <aside className="hidden md:flex flex-col items-center gap-2 [&>*]:shrink-0 sticky top-0 h-[100dvh] w-16 shrink-0 overflow-y-auto overflow-x-visible border-r border-line bg-surface/85 backdrop-blur py-4 z-30" style={{ paddingTop: safeTop.paddingTop, paddingLeft: 'env(safe-area-inset-left, 0px)' }}>
+          <NavLink to="/" aria-label="Home" title="Logos Atlas">{logo}</NavLink>
+          <button className="w-10 h-10 rounded-full border border-line flex items-center justify-center hover:border-accent" onClick={() => setOpen(true)} aria-label="Show menu" title="Show menu ( [ )">
+            <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden><path d="M6 3l5 5-5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
+          </button>
+          <button className="w-10 h-10 rounded-full hover:bg-sunk flex items-center justify-center" onClick={() => setPalette(true)} aria-label="Search" title="Search (Ctrl K)">
+            <svg width="17" height="17" viewBox="0 0 16 16" aria-hidden><circle cx="7" cy="7" r="4.6" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
+          </button>
+          <span className="block w-6 h-px bg-line my-1" aria-hidden />
+          {navList(true)}
+        </aside>
+      )}
+      {!phone && pinned && (
+        <aside className="hidden md:flex flex-col gap-5 sticky top-0 h-[100dvh] w-[284px] shrink-0 overflow-y-auto border-r border-line bg-surface/80 backdrop-blur px-3 pb-5" style={safeTop}>
+          {fullPane}
+        </aside>
+      )}
       <AnimatePresence>
-        {drawer && (
-          <motion.div className="md:hidden fixed inset-0 z-50 bg-black/40" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setDrawer(false)}>
-            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,85vw)] bg-surface border-r border-line p-4 overflow-y-auto space-y-4" style={{ paddingTop: 'calc(1rem + env(safe-area-inset-top,0px))', paddingLeft: 'max(16px, env(safe-area-inset-left,0px))' }}
-              initial={{ x: -300 }} animate={{ x: 0 }} exit={{ x: -300 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
-              <div className="px-1">{brand}</div><EraFilter />{navList}<ThemeMenu />
+        {!phone && open && overlay && (
+          <motion.div className="fixed inset-0 z-50 bg-black/30" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setOpen(false)}>
+            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,80vw)] bg-surface border-r border-line px-3 pb-5 overflow-y-auto flex flex-col gap-5 shadow-2xl" style={safeTop}
+              initial={{ x: -320 }} animate={{ x: 0 }} exit={{ x: -320 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
+              {fullPane}
             </motion.aside>
           </motion.div>
         )}
       </AnimatePresence>
-      <main id="main" className="min-w-0 gutter py-6 md:py-9 md:!px-8 lg:!px-12">
+
+      {/* Phones: top bar + slide-in drawer from the left. */}
+      <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface/95 backdrop-blur border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
+        <div className="flex items-center gap-2.5 min-w-0">
+          <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
+          {brand}
+        </div>
+        <button className="btn !px-2.5" onClick={() => setPalette(true)} aria-label="Search">
+          <svg width="17" height="17" viewBox="0 0 16 16" aria-hidden><circle cx="7" cy="7" r="4.6" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
+        </button>
+      </header>
+      <AnimatePresence>
+        {drawer && phone && (
+          <motion.div className="fixed inset-0 z-50 bg-black/40" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setDrawer(false)}>
+            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,85vw)] bg-surface border-r border-line p-4 overflow-y-auto space-y-4" style={{ paddingTop: 'calc(1rem + env(safe-area-inset-top,0px))', paddingLeft: 'max(16px, env(safe-area-inset-left,0px))' }}
+              initial={{ x: -300 }} animate={{ x: 0 }} exit={{ x: -300 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
+              <div className="flex items-center justify-between gap-2"><div className="min-w-0">{brand}</div><button className="btn !px-2.5" onClick={() => setDrawer(false)} aria-label="Close menu">✕</button></div>
+              <EraFilter />{navList()}<ThemeMenu />
+            </motion.aside>
+          </motion.div>
+        )}
+      </AnimatePresence>
+
+      <main id="main" className="flex-1 min-w-0 gutter py-6 md:py-8 md:!px-7 lg:!px-10 xl:!px-12">
         <AnimatePresence mode="wait">
-          <motion.div key={loc.pathname} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.18 }} className="max-w-[1180px] mx-auto">
+          <motion.div key={loc.pathname} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.18 }} className="max-w-[1280px] mx-auto">
             {children}
           </motion.div>
         </AnimatePresence>
