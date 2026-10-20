@@ -63,7 +63,7 @@ export default function Paradoxes() {
             {p.resolutions.map((x, i) => <button key={i} onClick={() => setRes(res === i ? null : i)} className={`btn ${res === i ? 'btn-primary' : ''}`}>{x.name}</button>)}
           </div>
           {r && (
-            <motion.div key={res} className="card p-5 mb-5" initial={{ opacity: 0.001, y: 8 }} animate={{ opacity: 1, y: 0 }}>
+            <motion.div key={res} className="card p-5 mb-5" initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }}>
               <div className="flex flex-wrap justify-between gap-2"><div className="display text-xl">{r.name}</div><span className="chip">{r.leans === 'both' ? 'Holds both equally' : `Leans toward: ${r.leans === 'A' ? p.poleA.label : p.poleB.label}`}</span></div>
               <div className="text-sm text-muted mb-2">Held by {r.heldBy}</div>
               <p className="font-serif text-[1.1rem] leading-relaxed">{r.explanation}</p>

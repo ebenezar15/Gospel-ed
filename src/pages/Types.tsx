@@ -54,7 +54,7 @@ export default function Types() {
         </>
       )}
       {sel && (
-        <motion.article id="type-detail" key={sel.id} className="card p-5 md:p-6 mt-6 scroll-mt-6" initial={{ opacity: 0.001, y: 10 }} animate={{ opacity: 1, y: 0 }}>
+        <motion.article id="type-detail" key={sel.id} className="card p-5 md:p-6 mt-6 scroll-mt-6" initial={{ opacity: 0.5, y: 10 }} animate={{ opacity: 1, y: 0 }}>
           <div className="flex flex-wrap gap-2 items-center"><span className="eyebrow capitalize">{sel.category}</span><span className="chip" style={{ borderColor: `rgb(var(--${WARRANT[sel.warrant].c}))` }}>{WARRANT[sel.warrant].label}</span></div>
           <h2 className="text-3xl mt-1">{sel.title}</h2>
           <p className="font-serif text-[1.25rem] leading-relaxed mt-2 max-w-[72ch]">{sel.plain}</p>
@@ -66,7 +66,7 @@ export default function Types() {
           {sel.correspondences.length > 0 && (
             <div className="mt-5"><div className="eyebrow mb-2">How they match</div>
               <div className="scroll-x"><table className="w-full min-w-[480px] text-[.95rem]"><tbody>{sel.correspondences.map((c, i) => (
-                <motion.tr key={i} className="border-b border-line/60" initial={{ opacity: 0.001, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.1 + i * 0.08 }}>
+                <motion.tr key={i} className="border-b border-line/60" initial={{ opacity: 0.5, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: 0.1 + i * 0.08 }}>
                   <td className="py-2 pr-3 font-serif w-1/2">{c.type}</td><td className="text-accent px-2">⟶</td><td className="py-2 font-serif w-1/2">{c.antitype}</td></motion.tr>))}</tbody></table></div>
             </div>
           )}

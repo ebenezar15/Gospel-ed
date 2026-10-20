@@ -210,7 +210,7 @@ Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spou
       {tab === 'stories' && (
         <ol className="space-y-3">
           {p.events.map((e, i) => (
-            <motion.li key={i} className="card p-4" initial={{ opacity: 0.001, x: -8 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.04 }}>
+            <motion.li key={i} className="card p-4" initial={{ opacity: 0.5, x: -8 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.04 }}>
               <div className="flex flex-wrap items-baseline gap-x-3"><span className="display text-xl">{e.title}</span>{e.year !== undefined && <span className="text-sm text-muted tabular">{fmtYear(e.year)}</span>}{e.placeId && <span className="text-sm"><PlaceLink id={e.placeId} /></span>}</div>
               <p className="font-serif mt-1">{e.summary}</p>
               <div className="mt-2"><Refs refs={e.refs} /></div>

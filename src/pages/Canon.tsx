@@ -27,7 +27,7 @@ function Cell({ s }: { s: string }) {
 
 function Detail({ b, onClose }: { b: CanonBookT; onClose: () => void }) {
   return (
-    <motion.article key={b.id} className="card p-5 md:p-6" initial={{ opacity: 0.001, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
+    <motion.article key={b.id} className="card p-5 md:p-6" initial={{ opacity: 0.5, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
       <div className="flex justify-between gap-3 items-start">
         <div><div className="eyebrow">{CAT[b.category]}</div><h2 className="text-3xl">{b.title}</h2>{b.altTitles.length > 0 && <div className="text-sm text-muted">Also: {b.altTitles.join(' · ')}</div>}</div>
         <button className="btn !px-3" onClick={onClose} aria-label="Close">✕</button>

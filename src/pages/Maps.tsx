@@ -76,7 +76,7 @@ export default function Maps() {
               </div>
               <AnimatePresence mode="wait">
                 {stop !== null && journey.stops[stop] && (
-                  <motion.div key={stop} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
+                  <motion.div key={stop} initial={{ opacity: 0.5, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
                     <div className="display text-2xl">{placeName(journey.stops[stop].placeId)}{journey.stops[stop].year !== undefined && <span className="text-base text-muted tabular ml-2">{fmtYear(journey.stops[stop].year!)}</span>}</div>
                     <p className="font-serif text-lg leading-relaxed my-2">{journey.stops[stop].note}</p>
                     <Refs refs={journey.stops[stop].refs} />

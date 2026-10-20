@@ -161,7 +161,7 @@ function Battleground({ d }: { d: DebateT }) {
         <div className="mb-3"><Ref r={b.ref} /> <span className="text-sm text-muted ml-2">Hover the reference for the KJV text.</span></div>
         <div className="grid gap-3 md:grid-cols-2">
           {b.readings.map((r, j) => { const p = d.positions.find((x) => x.id === r.positionId); return (
-            <motion.div key={r.positionId + i} className="card p-3 border-t-4" style={{ borderTopColor: p ? colorOf(d, p) : undefined }} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: j * 0.06 }}>
+            <motion.div key={r.positionId + i} className="card p-3 border-t-4" style={{ borderTopColor: p ? colorOf(d, p) : undefined }} initial={{ opacity: 0.5, y: 6 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: j * 0.06 }}>
               <div className="display text-lg" style={{ color: p ? colorOf(d, p) : undefined }}>{p?.name ?? r.positionId}</div><p className="font-serif text-[.95rem]">{r.reading}</p>
             </motion.div>); })}
         </div>
@@ -273,7 +273,7 @@ Rules: present each view as its best defenders would (steelman), never declare a
       {tab === 'timeline' && (
         <ol className="relative border-l-2 border-line ml-2 space-y-4">
           {[...d.timeline].sort((a, b) => a.year - b.year).map((t, i) => (
-            <motion.li key={i} className="ml-5" initial={{ opacity: 0.001, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.03 }}>
+            <motion.li key={i} className="ml-5" initial={{ opacity: 0.5, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.03 }}>
               <span className="absolute -left-[7px] w-3 h-3 rounded-full bg-accent2 mt-1.5" />
               <div className="tabular text-sm text-muted">{fmtYear(t.year)} <Conf c={t.confidence} small /></div>
               <div className="font-semibold">{t.title}</div><p className="font-serif text-[.95rem]">{t.note}</p>

@@ -39,7 +39,7 @@ export default function Symbols() {
       </div>
       <div className="flex flex-wrap gap-1.5 mb-5"><button className={`btn !py-1 ${!cat ? 'btn-primary' : ''}`} onClick={() => setCat('')}>All ({symbols.length})</button>{cats.map((c) => <button key={c} className={`btn !py-1 ${cat === c ? 'btn-primary' : ''}`} onClick={() => setCat(c)}>{CAT_LABEL[c]}</button>)}</div>
       <AnimatePresence mode="wait">{sel && (
-        <motion.article key={sel.id} className="card p-5 md:p-6 mb-6" initial={{ opacity: 0.001, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
+        <motion.article key={sel.id} className="card p-5 md:p-6 mb-6" initial={{ opacity: 0.5, y: 10 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
           <div className="flex justify-between gap-3 items-start">
             <div className="flex items-center gap-4"><Glyph s={sel} /><div><div className="eyebrow">{CAT_LABEL[sel.category]}</div><h2 className="text-3xl">{sel.name}</h2>{sel.original && <div className="font-orig text-muted" dir="auto">{sel.original}</div>}</div></div>
             <button className="btn !px-3" onClick={() => setSp({}, { replace: true })} aria-label="Close">✕</button>
@@ -47,7 +47,7 @@ export default function Symbols() {
           <p className="font-serif text-[1.25rem] leading-relaxed mt-3 max-w-[72ch]">{sel.plain}</p>
           <div className="eyebrow mt-5 mb-2">What it can mean</div>
           <ol className="space-y-3">{sel.meanings.map((m, i) => (
-            <motion.li key={i} className="card p-4" initial={{ opacity: 0.001, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.06 }}>
+            <motion.li key={i} className="card p-4" initial={{ opacity: 0.5, x: -6 }} animate={{ opacity: 1, x: 0 }} transition={{ delay: i * 0.06 }}>
               <div className="flex flex-wrap items-baseline gap-2"><span className="display text-lg">{m.meaning}</span>{m.confidence !== 'biblical' && <Conf c={m.confidence} small />}</div>
               <p className="font-serif text-[1.02rem] mt-0.5">{m.note}</p><div className="mt-1.5"><Refs refs={m.refs} max={5} /></div>
             </motion.li>))}</ol>
@@ -63,7 +63,7 @@ export default function Symbols() {
         <div className="grid gap-2.5 grid-cols-2 sm:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5">
           {list.map((s, i) => (
             <motion.button key={s.id} onClick={() => { setSp({ s: s.id }, { replace: true }); window.scrollTo({ top: 0, behavior: 'smooth' }); }} className={`card p-3 text-left hover:border-accent flex flex-col gap-2 ${sel?.id === s.id ? '!border-accent' : ''}`}
-              initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: Math.min(i * 0.01, 0.4) }}>
+              initial={{ opacity: 0.5, y: 6 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: Math.min(i * 0.01, 0.4) }}>
               <Glyph s={s} />
               <span className="font-semibold leading-tight">{s.name}</span>
               <span className="text-xs text-muted line-clamp-2">{s.meanings.slice(0, 3).map((m) => m.meaning).join(' · ')}</span>

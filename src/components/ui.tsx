@@ -136,7 +136,7 @@ export function Tabs<T extends string>({ tabs, value, onChange }: { tabs: { id: 
 export function Stagger({ children, className }: { children: ReactNode; className?: string }) {
   return <motion.div className={className} initial="hidden" animate="show" variants={{ hidden: {}, show: { transition: { staggerChildren: 0.025 } } }}>{children}</motion.div>;
 }
-export const item = { hidden: { opacity: 0.001, y: 8 }, show: { opacity: 1, y: 0 } };
+export const item = { hidden: { opacity: 0.6, y: 6 }, show: { opacity: 1, y: 0 } };
 export function Empty({ children }: { children: ReactNode }) {
   return <div className="card p-6 text-muted font-serif">{children}</div>;
 }

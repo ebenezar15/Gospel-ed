@@ -25,7 +25,7 @@ export default function Books() {
             <h2 className="display text-2xl rubric mb-2">{name}</h2>
             <div className="grid gap-2 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5">
               {list.map((bk, i) => (
-                <motion.div key={bk.id} initial={{ opacity: 0.001, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.02 }}>
+                <motion.div key={bk.id} initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: i * 0.02 }}>
                   <Link to={`/books/${bk.id}`} className="card p-3 h-full block hover:border-accent group relative overflow-hidden">
                     <span className="absolute left-0 top-0 bottom-0 w-1" style={{ background: `rgb(var(--${bk.testament === 'OT' ? 'ot' : 'nt'}))` }} />
                     <div className="display text-lg leading-tight group-hover:text-accent">{bk.name}</div>
@@ -57,11 +57,11 @@ function Outline({ nodes, root }: { nodes: OutlineNodeT[]; root: string }) {
         <div className="hidden md:block absolute left-[8%] right-[8%] top-0 h-0.5 bg-accent2/60" />
         <div className="grid gap-3 md:pt-5" style={{ gridTemplateColumns: `repeat(auto-fit, minmax(${nodes.length > 5 ? 150 : 190}px, 1fr))` }}>
           {nodes.map((n, i) => (
-            <motion.div key={i} className="card p-3 relative" initial={{ opacity: 0.001, y: reduced ? 0 : 14 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: reduced ? 0 : 0.15 + i * 0.12 }}>
+            <motion.div key={i} className="card p-3 relative" initial={{ opacity: 0.5, y: reduced ? 0 : 14 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: reduced ? 0 : 0.15 + i * 0.12 }}>
               <span className="hidden md:block absolute -top-5 left-1/2 w-0.5 h-5 bg-accent2/60" />
               <div className="flex gap-2 items-baseline"><span className="display text-xl rubric tabular">{i + 1}</span><span className="font-semibold leading-tight">{n.title}</span></div>
               <div className="mt-1"><Refs refs={n.refs} max={2} /></div>
-              {n.children?.length ? <ul className="mt-2 space-y-1.5 border-l border-line pl-2.5">{n.children.map((c, j) => <motion.li key={j} className="text-sm font-serif" initial={{ opacity: 0.001 }} animate={{ opacity: 1 }} transition={{ delay: reduced ? 0 : 0.4 + i * 0.12 + j * 0.05 }}>{c.title} {c.refs.length > 0 && <span className="text-muted text-xs">{c.refs[0]}</span>}</motion.li>)}</ul> : null}
+              {n.children?.length ? <ul className="mt-2 space-y-1.5 border-l border-line pl-2.5">{n.children.map((c, j) => <motion.li key={j} className="text-sm font-serif" initial={{ opacity: 0.5 }} animate={{ opacity: 1 }} transition={{ delay: reduced ? 0 : 0.4 + i * 0.12 + j * 0.05 }}>{c.title} {c.refs.length > 0 && <span className="text-muted text-xs">{c.refs[0]}</span>}</motion.li>)}</ul> : null}
             </motion.div>
           ))}
         </div>

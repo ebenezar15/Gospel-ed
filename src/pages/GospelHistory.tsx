@@ -76,7 +76,7 @@ export default function GospelHistory() {
           </div>
           <aside className="min-w-0">
             {sel ? (
-              <motion.div key={sel.id} className="card p-4 lg:sticky lg:top-4 max-h-[80vh] overflow-y-auto" initial={{ opacity: 0.001, x: 10 }} animate={{ opacity: 1, x: 0 }}>
+              <motion.div key={sel.id} className="card p-4 lg:sticky lg:top-4 max-h-[80vh] overflow-y-auto" initial={{ opacity: 0.5, x: 10 }} animate={{ opacity: 1, x: 0 }}>
                 <div className="eyebrow" style={{ color: KIND[sel.kind].c }}>{KIND[sel.kind].label}</div>
                 <h2 className="display text-3xl leading-tight">{sel.title}</h2>
                 <div className="text-sm text-muted tabular mb-2">{fmtYear(sel.year)}{sel.endYear ? `–${fmtYear(sel.endYear)}` : ''} · {sel.place} <Conf c={sel.confidence} small /></div>

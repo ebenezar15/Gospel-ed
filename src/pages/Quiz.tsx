@@ -30,7 +30,7 @@ function QuizRun() {
         </div>
       ) : (
         <AnimatePresence mode="wait">
-          <motion.div key={q.id + seed} className="card p-5" initial={{ opacity: 0.001, x: 12 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -12 }}>
+          <motion.div key={q.id + seed} className="card p-5" initial={{ opacity: 0.5, x: 12 }} animate={{ opacity: 1, x: 0 }} exit={{ opacity: 0, x: -12 }}>
             <div className="flex justify-between text-sm text-muted mb-2 tabular"><span className="eyebrow">{q.topic}</span><span>Question {i + 1} of {qs.length} · score {score}</span></div>
             <h2 className="display text-2xl mb-4">{q.q}</h2>
             <div className="grid gap-2">

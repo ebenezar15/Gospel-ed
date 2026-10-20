@@ -108,7 +108,7 @@ export default function Home() {
             and weigh {positions} theological positions side by side, each argued as its best defenders would.
           </p>
         </div>
-        <motion.blockquote className="card p-5 md:p-6 relative" initial={{ opacity: 0.001, y: reduced ? 0 : 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}>
+        <motion.blockquote className="card p-5 md:p-6 relative" initial={{ opacity: 0.5, y: reduced ? 0 : 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.3 }}>
           <div className="eyebrow mb-2">Today’s verse</div>
           <p className="font-serif text-xl leading-relaxed dropcap min-h-[4.5rem]">{verse || <span className="block skeleton h-16" />}</p>
           <footer className="mt-3 flex items-center justify-between"><Ref r={ref} /><span className="text-xs text-muted">King James Version</span></footer>
@@ -142,7 +142,7 @@ export default function Home() {
         <h2 className="text-3xl mb-4">Start a journey</h2>
         <div className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {DOORS.map((d, i) => (
-            <motion.div key={d.to} initial={{ opacity: 0.001, y: reduced ? 0 : 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 + i * 0.05 }}>
+            <motion.div key={d.to} initial={{ opacity: 0.5, y: reduced ? 0 : 12 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.1 + i * 0.05 }}>
               <Link to={d.to} className="card p-4 h-full flex flex-col gap-1 hover:border-accent transition-colors group">
                 <span className="eyebrow rubric !text-accent2">{d.k}</span>
                 <span className="display text-xl leading-tight group-hover:text-accent">{d.t}</span>

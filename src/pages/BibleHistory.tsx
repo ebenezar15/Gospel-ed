@@ -39,7 +39,7 @@ function Timeline() {
         </ol>
       </div>
       <AnimatePresence mode="wait">{m && (
-        <motion.article key={m.id} className="card p-5 mt-3" initial={{ opacity: 0.001, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
+        <motion.article key={m.id} className="card p-5 mt-3" initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }}>
           <div className="flex flex-wrap gap-2 items-center text-sm"><span className="chip" style={{ borderColor: `rgb(var(--${KIND[m.kind].c}))` }}>{KIND[m.kind].label}</span><span className="tabular text-muted">{fmtYear(m.year)}{m.endYear ? `–${fmtYear(m.endYear)}` : ''} · {m.place}</span><Conf c={m.confidence} small /></div>
           <h2 className="text-3xl mt-1">{m.title}</h2>
           <p className="font-serif text-[1.2rem] mt-2">{m.summary}</p>
@@ -84,7 +84,7 @@ function Variants() {
   return (
     <div className="grid gap-5 lg:grid-cols-[240px_minmax(0,1fr)]">
       <div className="flex lg:flex-col gap-1.5 scroll-x">{vs.map((x, j) => <button key={x.id} onClick={() => setI(j)} className={`text-left px-3 py-2 rounded-xl shrink-0 text-sm ${j === i ? 'bg-accent/10 text-accent font-semibold' : 'hover:bg-sunk'}`}>{x.title}<div className="text-xs text-muted font-normal">{x.ref}</div></button>)}</div>
-      <motion.article key={v.id} initial={{ opacity: 0.001 }} animate={{ opacity: 1 }}>
+      <motion.article key={v.id} initial={{ opacity: 0.5 }} animate={{ opacity: 1 }}>
         <div className="flex flex-wrap gap-2 items-center"><h2 className="text-3xl">{v.title}</h2><Conf c={v.confidence} small /></div>
         <div className="my-2"><Ref r={v.ref} /> <span className="text-sm text-muted">Hover to read it in the KJV, which includes most of these passages.</span></div>
         <p className="font-serif text-[1.2rem]">{v.plain}</p>
@@ -120,7 +120,7 @@ function Translations() {
       <p className="text-sm text-muted">Arrows run from a translation to those that drew on it. Click any translation for its story.</p>
       <div className="card h-[60vh] hidden sm:block"><ReactFlow nodes={nodes} edges={edges} fitView minZoom={0.1} nodesConnectable={false} onNodeClick={(_, n) => setSel(n.id)} proOptions={{ hideAttribution: true }}><Background color="rgb(var(--border))" gap={30} /><Controls showInteractive={false} /></ReactFlow></div>
       <div className="sm:hidden flex flex-wrap gap-1.5">{ts.map((x) => <button key={x.id} className={`chip ${sel === x.id ? '!border-accent' : ''}`} onClick={() => setSel(x.id)}>{x.name}</button>)}</div>
-      {t && <motion.article key={t.id} className="card p-5" initial={{ opacity: 0.001, y: 8 }} animate={{ opacity: 1, y: 0 }}>
+      {t && <motion.article key={t.id} className="card p-5" initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }}>
         <h3 className="text-2xl">{t.name} <span className="text-muted text-lg tabular">{t.year < 0 ? `${-t.year} BC` : t.year}</span></h3>
         <div className="text-sm text-muted mb-2">{t.translators} · {t.language}</div>
         <dl className="grid gap-2 md:grid-cols-3 text-[.95rem]"><div><dt className="eyebrow">Translated from</dt><dd className="font-serif">{t.basis}</dd></div><div><dt className="eyebrow">Approach</dt><dd className="font-serif">{t.approach}</dd></div><div><dt className="eyebrow">Impact</dt><dd className="font-serif">{t.impact}</dd></div></dl>

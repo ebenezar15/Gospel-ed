@@ -234,7 +234,7 @@ export default function Layout({ children }: { children: ReactNode }) {
     <div className="min-h-full paper-grain md:flex">
       {/* Tablet & desktop: a slim icon rail that is always there, plus the full pane when open. */}
       {!phone && !pinned && (
-        <aside className="hidden md:flex flex-col items-center gap-2 [&>*]:shrink-0 sticky top-0 h-[100dvh] w-16 shrink-0 overflow-y-auto overflow-x-visible border-r border-line bg-surface/85 backdrop-blur py-4 z-30" style={{ paddingTop: safeTop.paddingTop, paddingLeft: 'env(safe-area-inset-left, 0px)' }}>
+        <aside className="hidden md:flex flex-col items-center gap-2 [&>*]:shrink-0 sticky top-0 h-[100dvh] w-16 shrink-0 overflow-y-auto overflow-x-visible border-r border-line bg-surface py-4 z-30" style={{ paddingTop: safeTop.paddingTop, paddingLeft: 'env(safe-area-inset-left, 0px)' }}>
           <NavLink to="/" aria-label="Home" title="Logos Atlas">{logo}</NavLink>
           <button className="w-10 h-10 rounded-full border border-line flex items-center justify-center hover:border-accent" onClick={() => setOpen(true)} aria-label="Show menu" title="Show menu ( [ )">
             <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden><path d="M6 3l5 5-5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
@@ -247,15 +247,15 @@ export default function Layout({ children }: { children: ReactNode }) {
         </aside>
       )}
       {!phone && pinned && (
-        <aside className="hidden md:flex flex-col gap-5 sticky top-0 h-[100dvh] w-[284px] shrink-0 overflow-y-auto border-r border-line bg-surface/80 backdrop-blur px-3 pb-5" style={safeTop}>
+        <aside className="hidden md:flex flex-col gap-5 sticky top-0 h-[100dvh] w-[284px] shrink-0 overflow-y-auto border-r border-line bg-surface px-3 pb-5" style={safeTop}>
           {fullPane}
         </aside>
       )}
       <AnimatePresence>
         {!phone && open && overlay && (
-          <motion.div className="fixed inset-0 z-50 bg-black/30" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setOpen(false)}>
-            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,80vw)] bg-surface border-r border-line px-3 pb-5 overflow-y-auto flex flex-col gap-5 shadow-2xl" style={safeTop}
-              initial={{ x: -320 }} animate={{ x: 0 }} exit={{ x: -320 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
+          <motion.div className="fixed inset-0 z-50 bg-black/25" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} transition={{ duration: 0.15 }} onClick={() => setOpen(false)}>
+            <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,80vw)] bg-surface border-r border-line px-3 pb-5 overflow-y-auto flex flex-col gap-5 shadow-2xl"
+              style={{ ...safeTop, willChange: 'transform' }} initial={{ x: -320 }} animate={{ x: 0 }} exit={{ x: -320 }} transition={{ type: 'tween', ease: 'easeOut', duration: 0.2 }} onClick={(e) => e.stopPropagation()}>
               {fullPane}
             </motion.aside>
           </motion.div>
@@ -263,7 +263,7 @@ export default function Layout({ children }: { children: ReactNode }) {
       </AnimatePresence>
 
       {/* Phones: top bar + slide-in drawer from the left. */}
-      <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface/95 backdrop-blur border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
+      <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
         <div className="flex items-center gap-2.5 min-w-0">
           <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
           {brand}
@@ -285,11 +285,9 @@ export default function Layout({ children }: { children: ReactNode }) {
       </AnimatePresence>
 
       <main id="main" className="flex-1 min-w-0 gutter py-6 md:py-8 md:!px-7 lg:!px-10 xl:!px-12">
-        <AnimatePresence mode="wait">
-          <motion.div key={loc.pathname} initial={{ opacity: 0.001, y: 6 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0 }} transition={{ duration: 0.18 }} className="max-w-[1280px] mx-auto">
-            {children}
-          </motion.div>
-        </AnimatePresence>
+        <div key={loc.pathname} className="page-enter max-w-[1280px] mx-auto">
+          {children}
+        </div>
       </main>
       <CommandPalette open={palette} onClose={() => setPalette(false)} />
     </div>
