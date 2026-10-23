@@ -1263,5 +1263,2023 @@
         ]
       }
     ]
+  },
+  {
+    "id": "psalm-82-gods",
+    "title": "Who are the 'gods' judged in Psalm 82?",
+    "category": "God and the gods",
+    "question": "In Psalm 82 God stands 'in the congregation of the mighty' and judges 'among the gods', then says 'I have said, Ye are gods… but ye shall die like men.' Are these gods heavenly beings, human judges, or Israel itself? And what did Jesus mean when he quoted the psalm in John 10?",
+    "intro": "Psalm 82 is only eight verses long, but it is one of the most argued-over passages in the Old Testament. God takes his place in a gathering called the 'congregation of God' (adat-el) and judges in the middle of the elohim, a Hebrew word that usually means 'God' or 'gods' but can occasionally refer to other powerful figures. He accuses them of judging unjustly and favouring the wicked, demands justice for the poor and fatherless, then pronounces: 'I have said, Ye are gods; and all of you are children of the most High. But ye shall die like men, and fall like one of the princes.' The psalm ends with a prayer: 'Arise, O God, judge the earth: for thou shalt inherit all nations.'\n\nThree readings have a long history. Many modern scholars, and the divine-council view popular among evangelicals, read the 'gods' as heavenly beings who were meant to govern the nations and failed. A long Jewish and Christian tradition reads them as human rulers and judges, who exercise God's authority and can be called 'gods' because of their office. A rabbinic reading links the verse to Israel at Mount Sinai: when Israel received the Torah it was like the immortal angels, but by sinning with the golden calf it fell back into mortality.\n\nThe question matters partly because Jesus quotes Ps 82:6 when accused of blasphemy (John 10:34-36). How his argument works depends on whom the psalm addressed.",
+    "keyRefs": [
+      "Ps 82",
+      "John 10:34-36",
+      "Exod 22:8-9",
+      "Deut 32:8-9",
+      "Ps 89:5-7",
+      "Exod 32:1-8"
+    ],
+    "positions": [
+      {
+        "id": "divine-beings",
+        "name": "Heavenly beings of the divine council",
+        "color": "#8a5a9e",
+        "originYear": 1926,
+        "summary": "On this reading, Psalm 82 pictures a heavenly courtroom. God (Elohim, here standing for Yahweh) rises in the 'assembly of El' and passes sentence on the other elohim, divine beings to whom he had given responsibility for the nations. They have ruled unjustly, letting the poor be crushed, and so they will lose their immortality and 'die like men'. The psalm ends with a prayer that God himself will take over the nations they misgoverned.\n\nThis is the majority view in modern critical scholarship, from Hermann Gunkel and Hans-Joachim Kraus to many recent commentators, and it is central to the evangelical divine-council theology popularised by Michael Heiser. Defenders note the close parallels with the council of El in the Ugaritic texts, with Ps 89:5-7 and with Deut 32:8-9 in its Qumran form. They also note that it was already a Jewish reading before Christ: the Qumran Melchizedek scroll pictures a heavenly figure judging among the elohim using Ps 82:1. Christian defenders read the psalm as part of a biblical story in which rebellious powers are disarmed by Christ and the nations are reclaimed (Col 2:15; Rev 11:15).",
+        "figures": [
+          {
+            "name": "Hermann Gunkel",
+            "lived": "1862–1932",
+            "profession": "German Old Testament scholar, Halle and Giessen",
+            "bio": "Founder of form criticism, who classified the psalms by type and setting. He read Ps 82 as drawing on an ancient myth of the gods being judged and losing their divinity.",
+            "works": [
+              {
+                "author": "Hermann Gunkel",
+                "title": "Die Psalmen (Göttinger Handkommentar)",
+                "year": 1926
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Hans-Joachim Kraus",
+            "lived": "1918–2000",
+            "profession": "German Reformed Old Testament scholar, Göttingen",
+            "bio": "His standard Psalms commentary argued at length that the 'gods' are divine beings and judged the human-judges reading to be an inadequate attempt to avoid the text's mythological language.",
+            "works": [
+              {
+                "author": "Hans-Joachim Kraus",
+                "title": "Psalms 60–150: A Commentary (English translation of Biblischer Kommentar)",
+                "year": 1989
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Michael S. Heiser",
+            "lived": "1963–2023",
+            "profession": "Hebrew Bible scholar and author",
+            "bio": "Made Ps 82 the entry point of a whole-Bible theology of the divine council, arguing that it explains Deut 32, the 'principalities and powers' and the mission to the nations.",
+            "works": [
+              {
+                "author": "Michael S. Heiser",
+                "title": "The Unseen Realm: Recovering the Supernatural Worldview of the Bible",
+                "year": 2015
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "Interest in this reading grew after the Ugaritic tablets (discovered from 1929) revealed a council of El with 'sons of El' that closely resembles biblical language. But the reading is older than modern scholarship: Second Temple Jews at Qumran used Ps 82:1 of heavenly judgement, and some early Christian writers understood the gods as heavenly powers. Today it is the default among critical scholars and widely held among evangelicals influenced by Heiser and the BibleProject.",
+        "claims": [
+          "Adat-el ('assembly of El/God') is a technical term for the heavenly council, matching Ugaritic usage.",
+          "The 'gods' are created spiritual beings given authority over the nations (Deut 32:8-9).",
+          "They are condemned for corrupt rule and sentenced to lose their immortality.",
+          "Ps 82:8 anticipates God reclaiming the nations from these powers.",
+          "Jesus' use of Ps 82 in John 10 shows that 'god' and 'son of the Most High' language for beings other than Yahweh is scriptural, so his claim is not blasphemy in principle."
+        ],
+        "scriptures": [
+          {
+            "ref": "Ps 82:1",
+            "reading": "God stands in the assembly of El and judges among the gods."
+          },
+          {
+            "ref": "Ps 82:7",
+            "reading": "The punishment, to 'die like men', only makes sense for beings who were not mortal."
+          },
+          {
+            "ref": "Ps 89:5-7",
+            "reading": "A parallel council of holy ones in the heavens, among whom Yahweh is incomparable."
+          },
+          {
+            "ref": "Deut 32:8-9",
+            "reading": "The nations were allotted to the sons of God; Ps 82:8 reverses that allotment."
+          },
+          {
+            "ref": "1 Kgs 22:19-23",
+            "reading": "Another heavenly court scene with the host of heaven standing around God's throne."
+          },
+          {
+            "ref": "Col 2:15",
+            "reading": "Christ disarms rulers and authorities, which Christian defenders link to the fall of the gods in Ps 82."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "The parallel between 'gods' and 'sons of the Most High' (Ps 82:6) matches the use of 'sons of God' for heavenly beings in Job and Ps 89.",
+            "refs": [
+              "Job 1:6",
+              "Job 38:7",
+              "Ps 89:6"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "The contrast 'you are gods… but you shall die like men' is powerful only if the hearers are not men. Human judges dying 'like men' would be no sentence at all.",
+            "refs": [
+              "Ps 82:6-7"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "The Qumran Melchizedek scroll (11Q13) quotes Ps 82:1 of a heavenly judge among divine beings, showing the reading existed among Jews before Christ."
+          },
+          {
+            "kind": "historical",
+            "text": "Ugaritic texts describe the 'assembly of El' and the 'sons of El' in nearly the same words, giving a known background for the scene."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Human-judges reading",
+            "text": "The accusations (partiality, failing the fatherless and poor) are precisely the duties of Israel's human judges, so the psalm reads naturally as a rebuke of corrupt courts.",
+            "refs": [
+              "Deut 16:18-20"
+            ]
+          },
+          {
+            "from": "Israel-at-Sinai reading",
+            "text": "Jesus says the 'gods' were those to whom 'the word of God came'. That describes humans who received revelation, not angels.",
+            "refs": [
+              "John 10:35"
+            ]
+          },
+          {
+            "from": "Classical monotheism",
+            "text": "Calling created beings 'gods' who are judged and die risks a quasi-polytheistic picture that later biblical writers rejected."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Ancient people saw heavenly powers as the guardians of justice in their nations (cf. Dan 10:13, 20). Injustice on earth is the failure of rulers in heaven and on earth together.",
+            "refs": [
+              "Dan 10:13",
+              "Dan 10:20"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "The 'word of God' in John 10:35 may be the word of judgement spoken to them in the psalm itself ('I said, you are gods'). Jesus' point is that Scripture uses such language and cannot be broken."
+          },
+          {
+            "toCritique": 2,
+            "text": "The psalm itself denies the gods any independence: they are appointed, judged and sentenced by the one God. That is a strong statement of God's sole sovereignty, not a concession to polytheism."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "This view says the Bible accepts pagan gods as real deities equal to Yahweh.",
+            "correction": "It says the reverse: God judges all such beings as his subordinates and strips them of their status."
+          },
+          {
+            "strawMan": "This is a recent internet theory.",
+            "correction": "It is the mainstream view of modern Psalms commentaries and has ancient Jewish precedents at Qumran."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Explains the strong mythic language of the psalm without strain.",
+            "Links the Old Testament to New Testament teaching on spiritual powers and Christ's victory over them."
+          ],
+          "negative": [
+            "Can encourage speculation about named territorial spirits.",
+            "Makes John 10 harder to explain for some readers."
+          ]
+        },
+        "adherents": [
+          "Most modern critical commentators on the Psalms",
+          "Michael Heiser and divine-council evangelicals",
+          "Many Jewish scholars of the ancient Near East",
+          "Qumran (Second Temple precedent)"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Hans-Joachim Kraus",
+              "title": "Psalms 60–150",
+              "year": 1989
+            },
+            {
+              "author": "Michael S. Heiser",
+              "title": "The Unseen Realm",
+              "year": 2015
+            }
+          ],
+          "critic": [
+            {
+              "author": "John Calvin",
+              "title": "Commentary on the Book of Psalms",
+              "year": 1557,
+              "publicDomain": true
+            },
+            {
+              "author": "Jerome H. Neyrey",
+              "title": "'I Said: You Are Gods': Psalm 82:6 and John 10 (Journal of Biblical Literature 108)",
+              "year": 1989
+            }
+          ]
+        }
+      },
+      {
+        "id": "human-judges",
+        "name": "Human judges and rulers",
+        "color": "#4a6fa5",
+        "originYear": 1100,
+        "summary": "This reading takes the 'gods' to be human judges, kings and magistrates. In Israel judges acted for God: bringing a case before them was bringing it 'before God' (Exod 22:8-9, where the KJV and older Jewish tradition translate elohim as 'the judges'). Because they carried God's authority, they could be called 'gods' and 'children of the most High', just as Moses was made 'a god to Pharaoh' (Exod 7:1). Psalm 82 is a prophetic rebuke: God stands among Israel's rulers, condemns their corrupt justice, and reminds them that for all their title they are mortal and will fall.\n\nThe view has deep roots in Jewish interpretation (the Aramaic Targum renders the scene in terms of judges, and Rashi follows it) and became standard in Christian commentary from the Reformation onward, through Calvin, Matthew Henry and Spurgeon. Its defenders stress the psalm's ethical content, which concerns orphans, the poor and bribery, and they read Jesus' quotation in John 10 as a straightforward lesser-to-greater argument: if Scripture calls human judges 'gods' because God's word appointed them, how much more can the one sent by the Father call himself God's Son.",
+        "figures": [
+          {
+            "name": "Rashi (Rabbi Shlomo Yitzchaki)",
+            "lived": "1040–1105",
+            "profession": "French rabbi and commentator, Troyes",
+            "bio": "The most influential Jewish commentator on the Bible and Talmud. His Psalms commentary reads the 'gods' as judges, consistent with the Targum and with rabbinic use of elohim for courts.",
+            "works": [
+              {
+                "author": "Rashi",
+                "title": "Commentary on Psalms",
+                "locator": "on Ps 82",
+                "publicDomain": true,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "John Calvin",
+            "lived": "1509–1564",
+            "profession": "Reformer and pastor, Geneva",
+            "bio": "Read Ps 82 as addressed to rulers and magistrates, whose authority is a gift from God that makes their injustice more culpable. His reading shaped Reformed political thought about rulers as God's servants.",
+            "works": [
+              {
+                "author": "John Calvin",
+                "title": "Commentary on the Book of Psalms",
+                "year": 1557,
+                "locator": "on Ps 82",
+                "publicDomain": true
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "Charles H. Spurgeon",
+            "lived": "1834–1892",
+            "profession": "Baptist preacher, London",
+            "bio": "His seven-volume devotional commentary on the Psalms presented the 'gods' as magistrates and judges and applied the psalm to rulers of his own day.",
+            "works": [
+              {
+                "author": "Charles H. Spurgeon",
+                "title": "The Treasury of David",
+                "year": 1885,
+                "locator": "on Ps 82",
+                "publicDomain": true
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "Jewish interpreters had reason to avoid reading the psalm as a scene among many gods, and the Targum's 'judges' reading became standard in rabbinic commentary. In Christianity, the Reformers' focus on civil authority and on plain, ethical sense made the magistrates reading natural. It dominated English-language commentary until the twentieth century and is still held by many pastors and some scholars, especially because of how it explains John 10.",
+        "claims": [
+          "Elohim can refer to human judges as God's representatives (Exod 21:6; Exod 22:8-9 in traditional translation).",
+          "Rulers are 'gods' by office and commission, not by nature (Exod 7:1).",
+          "The psalm condemns real courts that favour the wicked and ignore the poor.",
+          "'You shall die like men' warns that office does not exempt rulers from mortality and judgement.",
+          "In John 10, Jesus argues from human judges who bore God's word to himself as the one the Father sanctified and sent."
+        ],
+        "scriptures": [
+          {
+            "ref": "Exod 22:8-9",
+            "reading": "Cases are brought to 'the judges' (elohim), who decide in God's name."
+          },
+          {
+            "ref": "Exod 7:1",
+            "reading": "Moses is made 'a god to Pharaoh': human beings can carry the title by appointment."
+          },
+          {
+            "ref": "Deut 1:17",
+            "reading": "Judges must not show partiality, 'for the judgment is God's'."
+          },
+          {
+            "ref": "2 Chr 19:6",
+            "reading": "Jehoshaphat tells his judges they judge 'not for man, but for the LORD'."
+          },
+          {
+            "ref": "Ps 82:2-4",
+            "reading": "The charges are judicial: unjust verdicts and neglect of the poor and fatherless."
+          },
+          {
+            "ref": "John 10:34-36",
+            "reading": "A lesser-to-greater argument from human 'gods' to the Son of God."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "The duties in Ps 82:3-4 are almost word for word the commands to Israel's human judges in the law.",
+            "refs": [
+              "Deut 16:18-20",
+              "Deut 24:17"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "In 2 Chr 19:6-7, judges are told that they judge for the LORD, which explains how they can represent him and be called by his title.",
+            "refs": [
+              "2 Chr 19:6-7"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "Jesus' argument in John 10 is clearest if the 'gods' are humans: if humans who received God's word are called gods, how much less is it blasphemy for the Son to say he is God's Son.",
+            "refs": [
+              "John 10:35-36"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "The Aramaic Targum and later rabbinic commentary read the scene in terms of judges, showing a long Jewish tradition behind this interpretation."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Divine-beings reading",
+            "text": "The sentence 'you shall die like men' would be meaningless if the judges were already men; the contrast requires non-human hearers.",
+            "refs": [
+              "Ps 82:7"
+            ]
+          },
+          {
+            "from": "Modern philology",
+            "text": "Most scholars now think elohim in Exod 21:6 and 22:8-9 means 'God' (at the sanctuary), not 'judges', which removes the main evidence that judges were called elohim."
+          },
+          {
+            "from": "Israel-at-Sinai reading",
+            "text": "The rabbis who connected the psalm to Sinai read it as about the whole people, not a class of officials; restricting it to judges narrows Jesus' 'to whom the word of God came'."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "The contrast is between their exalted title and their mortal fate: they act as 'gods' but will die like any common man and fall like other princes. That is a real and humbling sentence.",
+            "refs": [
+              "Ps 82:7"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Even if Exod 22 means 'before God', the point stands that judges act for God; and Moses as 'god' to Pharaoh shows the title can be used by delegation.",
+            "refs": [
+              "Exod 4:16"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "The two readings can combine: Israel's rulers were the leading recipients of God's word, and Jesus' argument works either way."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "This view is just an embarrassed modern attempt to avoid the supernatural.",
+            "correction": "It is many centuries older than modern scepticism, rooted in the Targum, Rashi and the Reformers, who all believed in angels."
+          },
+          {
+            "strawMan": "It says rulers are divine.",
+            "correction": "It says rulers are called 'gods' only because they represent God, and the psalm exists to humble them."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Grounds a strong biblical ethic of just government accountable to God.",
+            "Gives a simple reading of Jesus' argument in John 10."
+          ],
+          "negative": [
+            "Can flatten the psalm's mythic and cosmic setting.",
+            "Can be used to exalt rulers' authority if its warnings are ignored."
+          ]
+        },
+        "adherents": [
+          "Targum and much medieval Jewish commentary (notably Rashi)",
+          "John Calvin and much Reformed commentary",
+          "Matthew Henry and Charles Spurgeon",
+          "Many modern pastors and some evangelical scholars"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "John Calvin",
+              "title": "Commentary on the Book of Psalms",
+              "year": 1557,
+              "publicDomain": true
+            },
+            {
+              "author": "Charles H. Spurgeon",
+              "title": "The Treasury of David",
+              "year": 1885,
+              "publicDomain": true
+            }
+          ],
+          "critic": [
+            {
+              "author": "Hans-Joachim Kraus",
+              "title": "Psalms 60–150",
+              "year": 1989
+            },
+            {
+              "author": "Michael S. Heiser",
+              "title": "The Unseen Realm",
+              "year": 2015
+            }
+          ]
+        }
+      },
+      {
+        "id": "israel-at-sinai",
+        "name": "Israel at Sinai",
+        "color": "#b5763a",
+        "originYear": 500,
+        "summary": "A third reading, found in rabbinic literature, connects Psalm 82 with Israel's experience at Mount Sinai. When Israel received the Torah and said 'we will do, and be obedient' (Exod 24:7), God declared them 'gods' and 'children of the most High': in the rabbinic telling, they were freed from the power of death and became like the angels. But when they made the golden calf (Exod 32), they lost that status, and God said, 'you shall die like men', that is, like Adam, who also lost life through disobedience. The Babylonian Talmud (Avodah Zarah 5a) gives this interpretation, and later midrash develops it.\n\nSome New Testament scholars, especially Jerome Neyrey, argue that this reading explains John 10:34-36 best. Jesus defines the 'gods' as 'them to whom the word of God came', which fits Israel receiving God's word at Sinai. His argument is then: if Israel was called 'gods' because it received the word, how much more the one who is himself the Word (John 1:1, 14), consecrated and sent by the Father. Early Christian writers such as Irenaeus developed a related idea, applying 'you are gods' to all who receive adoption through the Word, which became part of the Eastern Christian teaching on deification (theosis).",
+        "figures": [
+          {
+            "name": "Sages of the Babylonian Talmud",
+            "lived": "c. 200–500",
+            "profession": "Rabbinic teachers in Babylonia",
+            "bio": "The Talmud's discussion in tractate Avodah Zarah links Ps 82:6-7 to Israel's acceptance of the Torah and the sin of the golden calf. Related traditions appear in later midrash on Exodus.",
+            "works": [
+              {
+                "author": "Babylonian Talmud",
+                "title": "Avodah Zarah",
+                "locator": "5a",
+                "confidence": "needs-verification"
+              },
+              {
+                "author": "Midrash",
+                "title": "Exodus Rabbah",
+                "locator": "32:1",
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Irenaeus of Lyon",
+            "lived": "c. 130–202",
+            "profession": "Bishop of Lyon",
+            "bio": "Applied Ps 82:6 to those who receive adoption as God's children through the Word, a Christian widening of the idea that the 'gods' are those who receive God's word.",
+            "works": [
+              {
+                "author": "Irenaeus",
+                "title": "Against Heresies",
+                "locator": "3.6.1 and 3.19.1",
+                "publicDomain": true,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "Jerome H. Neyrey",
+            "lived": "20th–21st century",
+            "profession": "Jesuit New Testament scholar, University of Notre Dame",
+            "bio": "Argued that John 10:34-36 presupposes the Jewish tradition that Israel at Sinai became deathless 'gods' through the Torah, so that Jesus' claim rests on the Word coming to people.",
+            "works": [
+              {
+                "author": "Jerome H. Neyrey",
+                "title": "'I Said: You Are Gods': Psalm 82:6 and John 10 (Journal of Biblical Literature 108)",
+                "year": 1989
+              }
+            ],
+            "role": "systematizer"
+          }
+        ],
+        "context": "The rabbinic tradition read Scripture as a connected whole and often linked psalms to events in the Torah. The connection between Sinai and immortality also appears in other midrashic traditions about the tablets being 'engraved' (harut, read as herut, freedom from the angel of death) in Exod 32:16. In Christian scholarship the reading became prominent mainly through studies of John's Gospel, where commentators noticed how well it fits Jesus' phrase about the word of God coming to people.",
+        "claims": [
+          "The 'congregation of God' is Israel, gathered to receive the Torah.",
+          "'I said, you are gods' refers to God's declaration over Israel at Sinai.",
+          "'You shall die like men' refers to the loss of that status after the golden calf.",
+          "Jesus' phrase 'to whom the word of God came' points directly to Israel receiving the Torah.",
+          "Jesus' lesser-to-greater argument contrasts those who received the Word with the Word himself."
+        ],
+        "scriptures": [
+          {
+            "ref": "Exod 19:5-6",
+            "reading": "At Sinai Israel is called God's treasured possession and a kingdom of priests."
+          },
+          {
+            "ref": "Exod 24:7",
+            "reading": "Israel promises, 'All that the LORD hath said will we do, and be obedient.'"
+          },
+          {
+            "ref": "Exod 32:7-8",
+            "reading": "The golden calf: the fall that rabbinic tradition links with 'you shall die like men'."
+          },
+          {
+            "ref": "Exod 4:22",
+            "reading": "Israel is God's firstborn son, matching 'children of the most High'."
+          },
+          {
+            "ref": "John 10:35",
+            "reading": "'Them to whom the word of God came' describes those who received revelation."
+          },
+          {
+            "ref": "John 1:14",
+            "reading": "Jesus is the Word made flesh, greater than those to whom the word merely came."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "John 10:35 defines the 'gods' as those to whom God's word came. That fits Israel at Sinai more naturally than heavenly beings or a select group of judges.",
+            "refs": [
+              "John 10:35"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Israel is called God's son (Exod 4:22; Deut 14:1; Hos 11:1), so 'sons of the Most High' is natural language for the nation.",
+            "refs": [
+              "Deut 14:1",
+              "Hos 11:1"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "The Talmud and midrash show this was a known Jewish interpretation, and Neyrey argues traces of it can be detected in the first century."
+          },
+          {
+            "kind": "logical",
+            "text": "The pattern of gift (life through the word), sin (the calf) and death (dying like Adam) echoes Gen 2–3, a frequent rabbinic and biblical pattern.",
+            "refs": [
+              "Gen 3:19"
+            ]
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Divine-beings reading",
+            "text": "Nothing in Psalm 82 mentions Sinai, Torah or the calf. The link depends on later rabbinic exegesis, whose first-century existence is uncertain."
+          },
+          {
+            "from": "Human-judges reading",
+            "text": "The psalm's charges concern judicial corruption, which fits officials better than the whole nation.",
+            "refs": [
+              "Ps 82:2"
+            ]
+          },
+          {
+            "from": "Historical critics",
+            "text": "The rabbinic sources are written down centuries after John; using them to explain John risks anachronism."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Psalms often allude to Israel's story without naming it. And whatever the psalm's original sense, John's wording suggests that a Sinai-related reading was known to Jesus' hearers."
+          },
+          {
+            "toCritique": 1,
+            "text": "Israel as a whole was told to do justice (Deut 16:20), and the psalm's charge can apply to the nation and its leaders together.",
+            "refs": [
+              "Deut 16:20"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Defenders admit the dating problem but note that rabbinic traditions often preserve older material, and the fit with John's exact words is itself evidence."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "This view says Israel was literally divine.",
+            "correction": "It says Israel received a gift of life and closeness to God that it lost by sin; 'gods' describes privilege, not nature."
+          },
+          {
+            "strawMan": "It is a purely Jewish reading Christians cannot use.",
+            "correction": "Christian scholars such as Neyrey defend it for John 10, and it resonates with patristic teaching on adoption and deification."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Gives a close fit for Jesus' words in John 10.",
+            "Connects the psalm to the great biblical pattern of gift, fall and restoration."
+          ],
+          "negative": [
+            "Depends on traditions recorded later than the New Testament.",
+            "Can obscure the psalm's original concern for social justice."
+          ]
+        },
+        "adherents": [
+          "Rabbinic tradition (Talmud and midrash)",
+          "Jerome Neyrey and some Johannine scholars",
+          "Some patristic and Eastern Orthodox readings linked to deification",
+          "Some Jewish commentators who combine it with the judges reading"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Jerome H. Neyrey",
+              "title": "'I Said: You Are Gods': Psalm 82:6 and John 10 (Journal of Biblical Literature 108)",
+              "year": 1989
+            },
+            {
+              "author": "Babylonian Talmud",
+              "title": "Avodah Zarah",
+              "locator": "5a",
+              "confidence": "needs-verification"
+            }
+          ],
+          "critic": [
+            {
+              "author": "Hans-Joachim Kraus",
+              "title": "Psalms 60–150",
+              "year": 1989
+            },
+            {
+              "author": "John Calvin",
+              "title": "Commentary on the Book of Psalms",
+              "year": 1557,
+              "publicDomain": true
+            }
+          ]
+        }
+      }
+    ],
+    "battleground": [
+      {
+        "ref": "Ps 82:1",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "'Congregation of the mighty' is literally 'the assembly of El', the same phrase used at Ugarit for the council of the gods. God stands up to judge the members of his own heavenly council."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "God stands in the 'congregation' of Israel (adat is regularly Israel's assembly, e.g. Num 27:17) and judges the judges who sit in it. The ancient Targum and Rashi read it this way."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "The assembly is Israel itself, gathered as God's congregation. The 'gods' are the people who stood at Sinai and were given the Torah."
+          }
+        ]
+      },
+      {
+        "ref": "Ps 82:2-4",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "The heavenly rulers of the nations have allowed injustice to flourish on earth; the nations' oppression reflects the failure of their spiritual overseers."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "This is plain judicial language: showing partiality, failing to defend the poor and fatherless. These are the duties Israel's law gives human judges (Deut 1:16-17; Deut 16:18-20)."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "Israel, having received God's law, was meant to be a just people; the charge is that the nation and its leaders failed to live out the Torah they received."
+          }
+        ]
+      },
+      {
+        "ref": "Ps 82:6",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "'Children of the most High' (bene elyon) parallels 'sons of God', a phrase that elsewhere means heavenly beings (Job 1:6; Job 38:7). God appointed them and gave them their status."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "'I said' recalls God's appointment of judges as his representatives; they are 'gods' by office, as Moses was made 'a god to Pharaoh' (Exod 7:1)."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "'I said, you are gods' refers to the moment at Sinai when Israel accepted the Torah and, in rabbinic tradition, was freed from the angel of death."
+          }
+        ]
+      },
+      {
+        "ref": "Ps 82:7",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "The shock is that immortal beings are sentenced to die 'like men' (like Adam). Their punishment is the loss of their immortality and rule."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "Despite their high office, these judges are mortal and will fall like any prince. Power does not exempt them from God's judgement."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "After the golden calf (Exod 32), Israel lost the immortality it had been given at Sinai and became mortal 'like Adam'."
+          }
+        ]
+      },
+      {
+        "ref": "Ps 82:8",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "With the failed gods removed, God himself will take possession of all the nations once allotted to them (Deut 32:8-9). Christians see this fulfilled in Christ's mission to the nations."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "Where human justice has failed, the psalmist asks God to judge the earth directly, for all nations belong to him."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "The God of Sinai is not only Israel's God; the psalm closes by looking to his rule over every nation."
+          }
+        ]
+      },
+      {
+        "ref": "Exod 22:8-9",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "Elohim here means God himself: the case is brought 'before God' at the sanctuary. It does not prove that human judges were called gods."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "The KJV, following older Jewish tradition, translates elohim as 'the judges'. This shows that the word could refer to human judges acting for God."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "Shows that God's authority is shared with Israel's own institutions; the people who received the law also exercise it."
+          }
+        ]
+      },
+      {
+        "ref": "John 10:34-36",
+        "readings": [
+          {
+            "positionId": "divine-beings",
+            "reading": "Jesus argues that Scripture itself calls beings other than Yahweh 'gods' and 'sons of the Most High', so his claim to be God's Son cannot be ruled blasphemous in principle. As the one the Father sanctified and sent, he is far greater than they. Defenders admit 'to whom the word of God came' is the hardest phrase for this view; they read it as those addressed by God's word of judgement in the psalm."
+          },
+          {
+            "positionId": "human-judges",
+            "reading": "A lesser-to-greater argument: if Scripture calls mere human judges 'gods' because God's word commissioned them, how much more may the one whom the Father consecrated and sent into the world be called Son of God."
+          },
+          {
+            "positionId": "israel-at-sinai",
+            "reading": "'Those to whom the word of God came' are Israel at Sinai, who received the Torah. If receiving God's word made them 'gods', how much more the one who is himself the Word (John 1:1, 14), sanctified and sent by the Father."
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "year": -700,
+        "title": "Psalm 82 composed",
+        "note": "An Asaph psalm; dates proposed range from the early monarchy to the exile. Many scholars place it before the exile.",
+        "confidence": "debated"
+      },
+      {
+        "year": -200,
+        "title": "Greek translation",
+        "note": "The Septuagint renders the 'gods' as theoi and the assembly as 'the assembly of gods'.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -75,
+        "title": "Melchizedek scroll at Qumran",
+        "note": "11QMelchizedek applies Ps 82:1 to a heavenly Melchizedek judging among the elohim, showing a divine-beings reading in Second Temple Judaism.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 90,
+        "title": "Gospel of John",
+        "note": "Jesus quotes Ps 82:6 when accused of making himself God (John 10:34-36).",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 160,
+        "title": "Justin Martyr",
+        "note": "In *Dialogue with Trypho* (ch. 124) Justin applies Ps 82 to human beings made in God's likeness who fell into death.",
+        "confidence": "needs-verification"
+      },
+      {
+        "year": 180,
+        "title": "Irenaeus",
+        "note": "Applies 'I said, you are gods' to those who receive adoption through the Word, a reading that fed the Eastern teaching on deification.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 500,
+        "title": "Babylonian Talmud",
+        "note": "Avodah Zarah 5a links Ps 82:6-7 to Israel at Sinai and the golden calf.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 1100,
+        "title": "Rashi",
+        "note": "Reads the 'gods' as Israel's judges, following the Targum's 'judges' interpretation.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 1557,
+        "title": "Calvin's commentary on the Psalms",
+        "note": "Reads the psalm as addressed to magistrates and rulers, whose authority comes from God.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1926,
+        "title": "Gunkel's *Die Psalmen*",
+        "note": "Hermann Gunkel argues that the psalm reflects an ancient myth of a divine council, starting the modern divine-beings consensus.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1989,
+        "title": "Neyrey on John 10",
+        "note": "Jerome Neyrey argues that John 10 depends on the Sinai reading of Ps 82.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 2015,
+        "title": "*The Unseen Realm*",
+        "note": "Michael Heiser makes Ps 82 the key text of a popular whole-Bible divine-council theology.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "influence": [
+      {
+        "from": "human-judges",
+        "to": "israel-at-sinai",
+        "note": "Both readings place the 'gods' among humans; the Sinai reading narrows them to Israel as the people who received God's word."
+      },
+      {
+        "from": "israel-at-sinai",
+        "to": "human-judges",
+        "note": "Some Christian writers combined them: the 'gods' are those, especially rulers, to whom God's word came."
+      },
+      {
+        "from": "divine-beings",
+        "to": "israel-at-sinai",
+        "note": "The rabbinic Sinai reading assumes the 'gods' status is angel-like immortality, borrowing the heavenly frame of the divine-beings reading."
+      }
+    ],
+    "argumentMap": [
+      {
+        "id": "p1",
+        "kind": "claim",
+        "text": "The 'gods' are heavenly beings in God's council.",
+        "positionId": "divine-beings"
+      },
+      {
+        "id": "p2",
+        "kind": "support",
+        "text": "'Assembly of El' and 'sons of the Most High' are council terms with close parallels at Ugarit and in other psalms.",
+        "parent": "p1",
+        "positionId": "divine-beings",
+        "refs": [
+          "Ps 89:5-7",
+          "Job 1:6"
+        ]
+      },
+      {
+        "id": "p3",
+        "kind": "support",
+        "text": "'You shall die like men' only shocks if the hearers are not men.",
+        "parent": "p1",
+        "positionId": "divine-beings",
+        "refs": [
+          "Ps 82:7"
+        ]
+      },
+      {
+        "id": "p4",
+        "kind": "support",
+        "text": "The final verse about inheriting the nations connects with the nations allotted to the sons of God.",
+        "parent": "p1",
+        "positionId": "divine-beings",
+        "refs": [
+          "Ps 82:8",
+          "Deut 32:8-9"
+        ]
+      },
+      {
+        "id": "p5",
+        "kind": "objection",
+        "text": "The charges are about courts, bribes and orphans: human judicial failings.",
+        "parent": "p1",
+        "positionId": "human-judges",
+        "refs": [
+          "Ps 82:2-4"
+        ]
+      },
+      {
+        "id": "p6",
+        "kind": "reply",
+        "text": "In ancient thought heavenly powers were held responsible for justice in their nations; the charge fits rulers on either level.",
+        "parent": "p5",
+        "positionId": "divine-beings",
+        "refs": [
+          "Dan 10:13"
+        ]
+      },
+      {
+        "id": "p7",
+        "kind": "claim",
+        "text": "The 'gods' are human judges and rulers acting with God's authority.",
+        "positionId": "human-judges"
+      },
+      {
+        "id": "p8",
+        "kind": "support",
+        "text": "Elohim can refer to judges acting for God, as older translations of Exodus show.",
+        "parent": "p7",
+        "positionId": "human-judges",
+        "refs": [
+          "Exod 22:8-9",
+          "Exod 21:6"
+        ]
+      },
+      {
+        "id": "p9",
+        "kind": "support",
+        "text": "Jesus' argument in John 10 works best as lesser-to-greater from humans.",
+        "parent": "p7",
+        "positionId": "human-judges",
+        "refs": [
+          "John 10:34-36"
+        ]
+      },
+      {
+        "id": "p10",
+        "kind": "objection",
+        "text": "Most modern scholars think Exod 22:8-9 means 'before God' at the sanctuary, so the evidence for human 'gods' is thin.",
+        "parent": "p8",
+        "positionId": "divine-beings"
+      },
+      {
+        "id": "p11",
+        "kind": "reply",
+        "text": "Moses is explicitly made 'a god' to Pharaoh and to Aaron, so humans can carry the title by office.",
+        "parent": "p10",
+        "positionId": "human-judges",
+        "refs": [
+          "Exod 7:1",
+          "Exod 4:16"
+        ]
+      },
+      {
+        "id": "p12",
+        "kind": "claim",
+        "text": "The 'gods' are Israel at Sinai, made like angels by the Torah and made mortal again by sin.",
+        "positionId": "israel-at-sinai"
+      },
+      {
+        "id": "p13",
+        "kind": "support",
+        "text": "John 10 defines the 'gods' as those to whom the word of God came, which best describes Israel receiving the law.",
+        "parent": "p12",
+        "positionId": "israel-at-sinai",
+        "refs": [
+          "John 10:35"
+        ]
+      },
+      {
+        "id": "p14",
+        "kind": "support",
+        "text": "Israel is called God's son, so 'children of the Most High' fits the nation.",
+        "parent": "p12",
+        "positionId": "israel-at-sinai",
+        "refs": [
+          "Exod 4:22",
+          "Deut 14:1"
+        ]
+      },
+      {
+        "id": "p15",
+        "kind": "objection",
+        "text": "Nothing in Ps 82 mentions Sinai, the Torah or the golden calf; the link is imported from later rabbinic exegesis.",
+        "parent": "p12",
+        "positionId": "divine-beings"
+      },
+      {
+        "id": "p16",
+        "kind": "reply",
+        "text": "Psalms often allude to Israel's story without naming it, and John's Gospel shows the Sinai association was already current in the first century.",
+        "parent": "p15",
+        "positionId": "israel-at-sinai",
+        "refs": [
+          "John 1:17"
+        ]
+      }
+    ]
+  },
+  {
+    "id": "sons-of-god-genesis-6",
+    "title": "Who were the sons of God and the Nephilim?",
+    "category": "God and the gods",
+    "question": "In Genesis 6:1-4 'the sons of God saw the daughters of men' and took wives, and 'there were giants (Nephilim) in the earth in those days'. Were the sons of God fallen angels, the godly descendants of Seth, or ancient kings? And who were the Nephilim?",
+    "intro": "Just before the flood, Genesis tells a four-verse story that has puzzled readers for over two thousand years. 'The sons of God saw the daughters of men that they were fair; and they took them wives of all which they chose' (Gen 6:2). God limits human life to 120 years. Then: 'There were giants (Hebrew Nephilim) in the earth in those days; and also after that, when the sons of God came in unto the daughters of men, and they bare children to them, the same became mighty men which were of old, men of renown' (Gen 6:4). Immediately afterwards God sees that human wickedness is great and resolves to send the flood.\n\nThree main readings exist, and each arose at a different time. The oldest known interpretation, in the Jewish Book of the Watchers (1 Enoch, third century BC), says the sons of God were angels who left heaven, married women and fathered giants; Jude and 2 Peter seem to echo this, and most early Church Fathers held it. From the second century AD, rabbis rejected the angel reading and took the sons of God as sons of nobles or judges, a view developed by modern scholars as 'royal tyrants' who claimed divine sonship. From the third century, Christian writers such as Julius Africanus, and decisively Augustine, read the sons of God as the godly line of Seth marrying ungodly Cainite women, which became standard in the medieval church and among many Reformers.\n\nThe Nephilim appear once more, in the spies' report that they saw 'the giants, the sons of Anak, which come of the giants' in Canaan (Num 13:33). How that verse relates to Gen 6 is part of the debate.",
+    "keyRefs": [
+      "Gen 6:1-4",
+      "Num 13:33",
+      "Job 1:6",
+      "Jude 1:6-7",
+      "2 Pet 2:4-5",
+      "1 Pet 3:19-20",
+      "Gen 4:26",
+      "Matt 22:30"
+    ],
+    "positions": [
+      {
+        "id": "angelic-watchers",
+        "name": "Fallen angels (the Watchers)",
+        "color": "#8a5a9e",
+        "originYear": -250,
+        "summary": "On this view the 'sons of God' were heavenly beings who crossed the boundary God had set between heaven and earth. They took human wives, and their children were the Nephilim, the famous 'mighty men' of ancient legend. The episode shows corruption spreading beyond humanity into the created order itself, and it is the immediate background to the flood. The phrase 'sons of God' is used elsewhere in the Hebrew Bible for heavenly beings (Job 1:6; Job 2:1; Job 38:7), and the New Testament letters of Jude and 2 Peter speak of angels who 'left their own habitation', committed a sin compared with Sodom's, and are kept in chains until the judgement.\n\nThis is the oldest interpretation on record. The Book of the Watchers (1 Enoch 6–16, third century BC) tells of 200 'Watchers' led by Shemihazah who swore an oath on Mount Hermon, married women, taught forbidden arts such as sorcery and metalworking for war, and fathered giants whose violence filled the earth. Jubilees, Josephus and the Septuagint tradition (some manuscripts read 'angels of God' in Gen 6:2) reflect the same understanding, as do most Christian writers of the second and third centuries. In 1 Enoch the spirits of the dead giants become evil spirits, an idea some modern defenders use to explain the origin of demons, though Scripture itself does not say this. Many modern critical scholars and a growing number of evangelicals hold this reading.",
+        "figures": [
+          {
+            "name": "Authors of the Book of the Watchers",
+            "lived": "3rd century BC",
+            "profession": "Anonymous Jewish scribes",
+            "bio": "The earliest part of 1 Enoch expands Gen 6:1-4 into a full story of the Watchers' descent, their sin, the giants and God's judgement. The book was widely read in Second Temple Judaism and is quoted in Jude 1:14-15; it is canonical in the Ethiopian Orthodox Church.",
+            "works": [
+              {
+                "author": "Anonymous",
+                "title": "1 Enoch (Book of the Watchers)",
+                "locator": "chapters 6–16"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Justin Martyr",
+            "lived": "c. 100–165",
+            "profession": "Christian philosopher and apologist, Rome",
+            "bio": "Explained pagan gods and their cults as the work of angels who fell through love of women and of their demon offspring, a view shared by Athenagoras, Irenaeus, Tertullian and others.",
+            "works": [
+              {
+                "author": "Justin Martyr",
+                "title": "Second Apology",
+                "locator": "5",
+                "publicDomain": true
+              }
+            ],
+            "role": "defender"
+          },
+          {
+            "name": "Gordon J. Wenham",
+            "lived": "born 1943",
+            "profession": "Old Testament scholar, Trinity College Bristol and University of Gloucestershire",
+            "bio": "Evangelical author of a leading Genesis commentary, which argues that 'sons of God' should be read as heavenly beings in line with its use elsewhere and with the oldest interpretations.",
+            "works": [
+              {
+                "author": "Gordon J. Wenham",
+                "title": "Genesis 1–15 (Word Biblical Commentary 1)",
+                "year": 1987
+              }
+            ],
+            "role": "systematizer"
+          }
+        ],
+        "context": "The view dominated Jewish interpretation in the Second Temple period and Christian interpretation until the fourth century. It fell out of favour when rabbis in the second century and Christian writers from the third century rejected the idea of angels marrying. It returned in the nineteenth and twentieth centuries with critical scholarship (which saw a myth fragment in the passage) and with evangelical scholars who argued from the usage of 'sons of God' and from Jude and 2 Peter. Michael Heiser's *Reversing Hermon* (2017) made it popular again.",
+        "claims": [
+          "'Sons of God' in the Hebrew Bible means heavenly beings.",
+          "These beings transgressed God's boundaries by taking human wives.",
+          "Their offspring were the Nephilim, mighty warriors remembered in legend.",
+          "Jude and 2 Peter confirm an angelic sin in the days of Noah, followed by imprisonment.",
+          "The episode explains why the corruption before the flood was so extreme."
+        ],
+        "scriptures": [
+          {
+            "ref": "Job 1:6",
+            "reading": "The 'sons of God' come to present themselves before the LORD in heaven."
+          },
+          {
+            "ref": "Job 38:7",
+            "reading": "The 'sons of God' shout for joy at creation, before humans existed."
+          },
+          {
+            "ref": "Gen 6:4",
+            "reading": "The Nephilim and mighty men appear when the sons of God go in to the daughters of men."
+          },
+          {
+            "ref": "Jude 1:6-7",
+            "reading": "Angels who left their dwelling are compared with Sodom going after 'strange flesh'."
+          },
+          {
+            "ref": "2 Pet 2:4-5",
+            "reading": "Sinning angels cast into Tartarus are mentioned alongside the flood."
+          },
+          {
+            "ref": "1 Pet 3:19-20",
+            "reading": "Christ proclaims to 'spirits in prison' who disobeyed in the days of Noah, which many link to the same angels."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "Every other use of the exact Hebrew phrase bene ha-elohim refers to heavenly beings, so the burden of proof is on readings that make them human.",
+            "refs": [
+              "Job 1:6",
+              "Job 2:1"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "Jude ties the angels' sin to sexual transgression ('in like manner… strange flesh') and quotes 1 Enoch, showing the apostolic writers knew and used the Watcher tradition.",
+            "refs": [
+              "Jude 1:6-7",
+              "Jude 1:14-15"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "The angelic reading is the earliest interpretation we have, attested in 1 Enoch, Jubilees, Josephus and nearly all early Christian writers before the third century."
+          },
+          {
+            "kind": "logical",
+            "text": "The contrast 'sons of God' and 'daughters of men' naturally sets a divine category against a human one, and the extraordinary offspring suggest an extraordinary union."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Sethite reading",
+            "text": "Jesus says angels do not marry (Matt 22:30), and spiritual beings cannot father physical children.",
+            "refs": [
+              "Matt 22:30"
+            ]
+          },
+          {
+            "from": "Royal-tyrants reading",
+            "text": "God's judgement in Gen 6:3 and 6:5-7 is on humanity, which makes more sense if humans were the main offenders.",
+            "refs": [
+              "Gen 6:3"
+            ]
+          },
+          {
+            "from": "Historical critics and some evangelicals",
+            "text": "Jude and 2 Peter may be using a well-known tradition as an illustration without endorsing it as the meaning of Genesis."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Jesus speaks of angels 'in heaven', in their proper state; Jude speaks of angels who abandoned that state. Angels in Genesis eat and are taken for men (Gen 18:1-8; Gen 19:1-5), so the Bible does not treat them as unable to take bodily form.",
+            "refs": [
+              "Gen 18:8",
+              "Gen 19:5"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "Humans took part willingly, and the corruption spread to 'all flesh' (Gen 6:12). The angels are judged separately (2 Pet 2:4).",
+            "refs": [
+              "Gen 6:12",
+              "2 Pet 2:4"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Jude cites 1 Enoch as prophecy (Jude 1:14) and assumes his readers share the tradition; both letters place the angelic sin in sequence with the flood."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "This view is a modern fringe idea from conspiracy theorists.",
+            "correction": "It is the oldest Jewish and Christian interpretation and is held by many respected scholars today."
+          },
+          {
+            "strawMan": "It requires believing everything in 1 Enoch.",
+            "correction": "Defenders distinguish what Genesis, Jude and Peter say from the details 1 Enoch adds, such as names, numbers and Mount Hermon."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Takes the plain sense of 'sons of God' seriously and connects Genesis with Jude and 2 Peter.",
+            "Explains the scale of the corruption before the flood and links to biblical themes of rebellious powers."
+          ],
+          "negative": [
+            "Can feed speculation about modern 'hybrids', giants and conspiracy theories.",
+            "Can make humans look like passive victims rather than responsible sinners."
+          ]
+        },
+        "adherents": [
+          "Second Temple Jewish writers (1 Enoch, Jubilees, Josephus)",
+          "Most Church Fathers before Augustine (Justin, Irenaeus, Tertullian)",
+          "Ethiopian Orthodox tradition",
+          "Many modern critical and evangelical scholars"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Gordon J. Wenham",
+              "title": "Genesis 1–15",
+              "year": 1987
+            },
+            {
+              "author": "Michael S. Heiser",
+              "title": "Reversing Hermon: Enoch, the Watchers, and the Forgotten Mission of Jesus Christ",
+              "year": 2017
+            }
+          ],
+          "critic": [
+            {
+              "author": "Augustine",
+              "title": "City of God",
+              "locator": "15.23",
+              "publicDomain": true
+            },
+            {
+              "author": "Meredith G. Kline",
+              "title": "Divine Kingship and Genesis 6:1-4 (Westminster Theological Journal 24)",
+              "year": 1962
+            }
+          ]
+        }
+      },
+      {
+        "id": "sethite",
+        "name": "The godly line of Seth",
+        "color": "#4a6fa5",
+        "originYear": 221,
+        "summary": "This view reads Genesis 6 in the light of chapters 4 and 5, which trace two family lines. The line of Cain builds cities, develops crafts and produces the violent, boastful Lamech (Gen 4:17-24). The line of Seth begins to 'call upon the name of the LORD' (Gen 4:26) and includes Enoch, who 'walked with God' (Gen 5:24). The 'sons of God' are the descendants of Seth, God's people; the 'daughters of men' are women of the godless line. When the godly chose wives only for beauty, the distinction between the two lines dissolved, faith collapsed, and the world became so corrupt that only Noah's family was left.\n\nThe reading first appears clearly in the Christian chronographer Julius Africanus (early third century), was developed by Syriac writers such as Ephrem, given classic form by Augustine (*City of God* 15.23) and John Chrysostom, and became the standard view of the medieval church and of Reformers including Luther and Calvin. Its defenders argue that it keeps the story about human sin and human judgement, takes Jesus' words about angels not marrying seriously, and reflects a theme that runs through the whole Bible: the danger of God's people being absorbed by unbelief through marriage (Deut 7:3-4; Neh 13:23-27; 2 Cor 6:14).",
+        "figures": [
+          {
+            "name": "Julius Africanus",
+            "lived": "c. 160–240",
+            "profession": "Christian chronographer and scholar",
+            "bio": "Wrote the first Christian world chronicle. A surviving fragment proposes that the 'sons of God' are the righteous descendants of Seth, while acknowledging that some manuscripts read 'angels of God'.",
+            "works": [
+              {
+                "author": "Julius Africanus",
+                "title": "Chronographiai (fragments preserved by George Syncellus)",
+                "publicDomain": true,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Augustine of Hippo",
+            "lived": "354–430",
+            "profession": "Bishop of Hippo, North Africa",
+            "bio": "Argued that the sons of God were the citizens of the 'city of God' descended from Seth, who fell by loving earthly beauty. He accepted that angels can appear in bodies but judged the Sethite reading better; his authority made it the Western norm.",
+            "works": [
+              {
+                "author": "Augustine",
+                "title": "City of God",
+                "locator": "15.23",
+                "publicDomain": true
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "John Calvin",
+            "lived": "1509–1564",
+            "profession": "Reformer and pastor, Geneva",
+            "bio": "Called the angelic view absurd and read the passage as the corruption of the church through marriages with unbelievers, an application widely used in Reformed preaching.",
+            "works": [
+              {
+                "author": "John Calvin",
+                "title": "Commentary on Genesis",
+                "year": 1554,
+                "locator": "on Gen 6:1-4",
+                "publicDomain": true
+              }
+            ],
+            "role": "popularizer"
+          }
+        ],
+        "context": "By the third century, Christian theologians increasingly saw angels as purely spiritual beings, and the angels-marrying story seemed both impossible and in conflict with Matt 22:30. The Sethite reading offered a moral, human interpretation that fitted the genealogies of Genesis. After Augustine it dominated Western Christianity for more than a thousand years and remained common among Protestant commentators such as Keil and Delitzsch. It is still held widely in conservative churches.",
+        "claims": [
+          "Gen 4–5 sets up two lines: the ungodly line of Cain and the godly line of Seth.",
+          "The 'sons of God' are Seth's descendants, God's people; the 'daughters of men' are from the ungodly line.",
+          "The sin was intermarriage that dissolved the boundary between belief and unbelief.",
+          "Angels do not marry or reproduce (Matt 22:30), so the sons of God must be human.",
+          "The Nephilim were violent strong men, not hybrid beings."
+        ],
+        "scriptures": [
+          {
+            "ref": "Gen 4:26",
+            "reading": "In Seth's days people began to call on the name of the LORD, marking a godly line."
+          },
+          {
+            "ref": "Gen 5:22-24",
+            "reading": "Enoch of Seth's line walked with God, showing what the godly line was meant to be."
+          },
+          {
+            "ref": "Gen 4:19-24",
+            "reading": "Lamech of Cain's line, with two wives and a boast of revenge, shows the ungodly line's character."
+          },
+          {
+            "ref": "Deut 14:1",
+            "reading": "'Ye are the children of the LORD your God': God's people can be called his sons."
+          },
+          {
+            "ref": "Matt 22:30",
+            "reading": "Angels do not marry, so they cannot be the husbands in Gen 6."
+          },
+          {
+            "ref": "Deut 7:3-4",
+            "reading": "Marriage with unbelievers turns hearts away from God, the sin the Sethite reading sees in Gen 6."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "The literary context is the two genealogies of Gen 4 and Gen 5, which are deliberately contrasted. Gen 6:1-4 naturally continues that story.",
+            "refs": [
+              "Gen 4:17-24",
+              "Gen 5:1-32"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "The judgement that follows targets humans: God's spirit will not strive with 'man', and 'man's' wickedness is great.",
+            "refs": [
+              "Gen 6:3",
+              "Gen 6:5"
+            ]
+          },
+          {
+            "kind": "logical",
+            "text": "Angels are spirits (Heb 1:14) and do not marry; a union producing children is outside their nature as Scripture describes it.",
+            "refs": [
+              "Heb 1:14",
+              "Matt 22:30"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "The view became the consensus of the Western church from Augustine through the Reformation, reflecting careful theological reflection on angels."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Angelic reading",
+            "text": "'Sons of God' never means the line of Seth anywhere else, and the exact phrase elsewhere means heavenly beings.",
+            "refs": [
+              "Job 1:6"
+            ]
+          },
+          {
+            "from": "Angelic and royal readings",
+            "text": "In Gen 6:1 'daughters' are born to humanity in general. Making 'daughters of men' mean only Cainite women in the next verse is an unsignalled change."
+          },
+          {
+            "from": "Royal-tyrants reading",
+            "text": "Why would godly men marrying ungodly women produce Nephilim and 'mighty men'? The Sethite view does not explain the offspring."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "God's people are called his sons and children in many places (Exod 4:22; Deut 14:1; Hos 1:10). The exact phrase is rare, so a handful of uses in Job should not decide its meaning in Genesis.",
+            "refs": [
+              "Hos 1:10"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "The contrast is theological: 'sons of God' versus 'daughters of men' means those who belong to God versus those who live merely as humans. That contrast makes sense even if the second phrase is general."
+          },
+          {
+            "toCritique": 2,
+            "text": "The text does not say the Nephilim were the children; it says they were on the earth then. The children became 'mighty men', famous warriors, which needs no supernatural explanation.",
+            "refs": [
+              "Gen 6:4"
+            ]
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "The Sethite view is a prudish invention to avoid a strange story.",
+            "correction": "It arose from serious reflection on angels' nature and Jesus' words, and from close reading of Gen 4–5."
+          },
+          {
+            "strawMan": "It denies that angels or demons exist.",
+            "correction": "Its defenders fully believe in angels and the angelic fall; they simply do not see that fall in Gen 6."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Keeps the focus on human responsibility and the danger of compromise.",
+            "Fits the Bible's long concern for the faithfulness of God's people in marriage and community."
+          ],
+          "negative": [
+            "Can make the passage a simple lesson on mixed marriage, missing its strangeness.",
+            "Has been misused to justify ethnic or tribal separation, which the text does not teach."
+          ]
+        },
+        "adherents": [
+          "Julius Africanus, Ephrem the Syrian, Augustine, John Chrysostom",
+          "Luther and Calvin",
+          "Keil and Delitzsch and many 19th-century Protestants",
+          "Many conservative Protestant churches today"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Augustine",
+              "title": "City of God",
+              "locator": "15.23",
+              "publicDomain": true
+            },
+            {
+              "author": "C. F. Keil and F. Delitzsch",
+              "title": "Biblical Commentary on the Old Testament: The Pentateuch",
+              "year": 1861,
+              "publicDomain": true
+            }
+          ],
+          "critic": [
+            {
+              "author": "Gordon J. Wenham",
+              "title": "Genesis 1–15",
+              "year": 1987
+            },
+            {
+              "author": "Meredith G. Kline",
+              "title": "Divine Kingship and Genesis 6:1-4 (Westminster Theological Journal 24)",
+              "year": 1962
+            }
+          ]
+        }
+      },
+      {
+        "id": "royal-tyrants",
+        "name": "Ancient kings claiming divine sonship",
+        "color": "#b5763a",
+        "originYear": 150,
+        "summary": "This reading sees the 'sons of God' as kings and nobles, rulers who claimed divine descent or divine authority as many ancient monarchs did. 'They took them wives of all which they chose' describes the abuse of royal power: taking any woman they wanted into harems, the kind of oppression shown by Lamech of Cain's line with his two wives and his boast of seventy-sevenfold vengeance (Gen 4:19-24). The 'mighty men' (gibborim) and 'men of renown' are their warrior dynasties, men like Nimrod, 'a mighty one in the earth' (Gen 10:8-9), who make a name for themselves as the builders of Babel later try to do (Gen 11:4).\n\nThe reading goes back to second-century rabbinic Judaism. Genesis Rabbah records Rabbi Simeon bar Yohai cursing anyone who called them 'sons of God' (meaning angels) and reading 'sons of judges' or 'nobles'; the Aramaic Targum Onqelos translates 'sons of the great ones', and the Greek translator Symmachus 'sons of the powerful'. In modern scholarship Meredith Kline argued that the sons of God were Cainite kings who claimed divine kingship, and others compare the Epic of Gilgamesh, whose king oppresses his city and takes brides. On this view the passage is about tyranny, violence and the corruption of power, which explains why 'the earth was filled with violence' (Gen 6:11).",
+        "figures": [
+          {
+            "name": "Rabbi Simeon bar Yohai",
+            "lived": "2nd century AD",
+            "profession": "Rabbinic sage in Roman Palestine",
+            "bio": "According to Genesis Rabbah, he rejected the reading 'sons of God' in the angelic sense and interpreted the phrase as 'sons of judges' or nobles. The Targums and later rabbinic commentary followed this human, aristocratic reading.",
+            "works": [
+              {
+                "author": "Midrash",
+                "title": "Genesis Rabbah",
+                "locator": "26:5",
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "originator"
+          },
+          {
+            "name": "Meredith G. Kline",
+            "lived": "1922–2007",
+            "profession": "Reformed Old Testament scholar, Westminster and Gordon-Conwell seminaries",
+            "bio": "Argued that the sons of God were kings of the Cainite line who claimed divine status, practised polygamy and violence, and founded tyrannical dynasties, linking the passage to Near Eastern royal ideology.",
+            "works": [
+              {
+                "author": "Meredith G. Kline",
+                "title": "Divine Kingship and Genesis 6:1-4 (Westminster Theological Journal 24)",
+                "year": 1962
+              },
+              {
+                "author": "Meredith G. Kline",
+                "title": "Kingdom Prologue",
+                "year": 2000
+              }
+            ],
+            "role": "systematizer"
+          },
+          {
+            "name": "John H. Walton",
+            "lived": "born 1952",
+            "profession": "Old Testament scholar, Wheaton College",
+            "bio": "Evangelical scholar of the ancient Near Eastern background to Genesis who has discussed the royal reading sympathetically, comparing Gilgamesh's oppression of his city.",
+            "works": [
+              {
+                "author": "John H. Walton",
+                "title": "Genesis (NIV Application Commentary)",
+                "year": 2001,
+                "confidence": "needs-verification"
+              }
+            ],
+            "role": "defender"
+          }
+        ],
+        "context": "Rabbis of the second century had reasons to reject the angel story: it was central to apocalyptic and early Christian writings, and it seemed to blame angels for human sin. The 'sons of nobles' reading became standard in rabbinic interpretation and the Targums. Christians largely preferred the Sethite view until the twentieth century, when knowledge of Near Eastern royal ideology (kings as sons of gods in Egypt and Mesopotamia) gave the royal reading new support among scholars such as Kline.",
+        "claims": [
+          "'Sons of God' refers to kings and nobles who claimed divine sonship or authority.",
+          "'Took… all which they chose' describes royal harems and abuse of women by the powerful.",
+          "The Nephilim and mighty men are warrior aristocracies, like Nimrod.",
+          "The sin is tyranny and violence, which fills the earth before the flood (Gen 6:11).",
+          "The passage continues the story of Cain's line, especially Lamech."
+        ],
+        "scriptures": [
+          {
+            "ref": "Gen 4:19-24",
+            "reading": "Lamech takes two wives and boasts of violent revenge: a prototype tyrant."
+          },
+          {
+            "ref": "Gen 10:8-9",
+            "reading": "Nimrod becomes a 'mighty one' (gibbor) in the earth, the same word as Gen 6:4."
+          },
+          {
+            "ref": "Gen 11:4",
+            "reading": "The builders of Babel want to 'make us a name', like the 'men of renown' (men of the name)."
+          },
+          {
+            "ref": "Gen 6:11",
+            "reading": "The earth is filled with violence, the characteristic sin of tyrants."
+          },
+          {
+            "ref": "2 Sam 7:14",
+            "reading": "The king is called God's son, showing royal 'sonship' language."
+          },
+          {
+            "ref": "Ps 82:6",
+            "reading": "On one reading, rulers are called 'gods' and 'children of the most High'."
+          }
+        ],
+        "arguments": [
+          {
+            "kind": "scriptural",
+            "text": "The vocabulary of Gen 6:4 (gibborim, 'name') links to Nimrod and Babel, both stories about power and empire.",
+            "refs": [
+              "Gen 10:8-9",
+              "Gen 11:4"
+            ]
+          },
+          {
+            "kind": "scriptural",
+            "text": "The judgement concerns human violence and corruption (Gen 6:11-13), which fits a story about tyrannical rulers.",
+            "refs": [
+              "Gen 6:11-13"
+            ]
+          },
+          {
+            "kind": "historical",
+            "text": "Near Eastern kings were commonly called sons of gods; in the Epic of Gilgamesh the king oppresses his people and claims brides, a close cultural parallel."
+          },
+          {
+            "kind": "historical",
+            "text": "The reading is ancient: it appears in Genesis Rabbah, the Targums and Symmachus, so it is not a modern invention."
+          }
+        ],
+        "critiques": [
+          {
+            "from": "Angelic reading",
+            "text": "No Old Testament passage uses the plural 'sons of God' for kings; the phrase consistently refers to heavenly beings.",
+            "refs": [
+              "Job 38:7"
+            ]
+          },
+          {
+            "from": "Sethite reading",
+            "text": "Royal polygamy is not obviously the sin that would provoke a universal flood, and the passage does not mention kings or kingship."
+          },
+          {
+            "from": "Angelic reading",
+            "text": "The rabbinic reading may have been driven by polemic against apocalyptic and Christian uses of the angel story rather than by the text."
+          }
+        ],
+        "responses": [
+          {
+            "toCritique": 0,
+            "text": "Individual kings are called God's son (2 Sam 7:14; Ps 2:7) and rulers can be called elohim; a plural for a royal class is a natural extension, especially in a text using old, compressed language.",
+            "refs": [
+              "Ps 2:7"
+            ]
+          },
+          {
+            "toCritique": 1,
+            "text": "The sin is not polygamy alone but violent seizure and the founding of dynasties of oppression, which the text immediately describes as filling the earth with violence.",
+            "refs": [
+              "Gen 6:11"
+            ]
+          },
+          {
+            "toCritique": 2,
+            "text": "Motives aside, the reading is supported by internal links to Lamech, Nimrod and Babel that stand on their own."
+          }
+        ],
+        "strawMen": [
+          {
+            "strawMan": "This view just explains away the supernatural.",
+            "correction": "Its defenders believe in angels; they argue the passage is about the abuse of human power, a deeply theological theme."
+          },
+          {
+            "strawMan": "It says the Nephilim were ordinary people.",
+            "correction": "It says they were feared warrior elites, the most powerful men of their age."
+          }
+        ],
+        "impacts": {
+          "positive": [
+            "Highlights the Bible's critique of tyranny, violence and abuse of women by the powerful.",
+            "Connects Genesis 6 with the themes of Cain, Nimrod and Babel."
+          ],
+          "negative": [
+            "Can seem to read Near Eastern parallels into a short text.",
+            "Has fewer explicit biblical parallels for the plural phrase than the other views."
+          ]
+        },
+        "adherents": [
+          "Rabbinic tradition (Genesis Rabbah, Targum Onqelos, Rashi)",
+          "Meredith Kline and some Reformed scholars",
+          "Some evangelical scholars of the ancient Near East",
+          "Some modern Jewish commentators"
+        ],
+        "reading": {
+          "proponent": [
+            {
+              "author": "Meredith G. Kline",
+              "title": "Divine Kingship and Genesis 6:1-4 (Westminster Theological Journal 24)",
+              "year": 1962
+            },
+            {
+              "author": "John H. Walton",
+              "title": "Genesis (NIV Application Commentary)",
+              "year": 2001,
+              "confidence": "needs-verification"
+            }
+          ],
+          "critic": [
+            {
+              "author": "Gordon J. Wenham",
+              "title": "Genesis 1–15",
+              "year": 1987
+            },
+            {
+              "author": "Augustine",
+              "title": "City of God",
+              "locator": "15.23",
+              "publicDomain": true
+            }
+          ]
+        }
+      }
+    ],
+    "battleground": [
+      {
+        "ref": "Gen 6:2",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "'Sons of God' (bene ha-elohim) elsewhere in the Hebrew Bible means heavenly beings (Job 1:6; Job 2:1; Job 38:7). Heavenly beings crossed the boundary between heaven and earth and took human wives."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "The 'sons of God' are the line of Seth, who 'called upon the name of the LORD' (Gen 4:26). They chose wives for beauty from the ungodly line of Cain, and godliness collapsed."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "The 'sons of God' are kings and nobles who, like Near Eastern rulers, claimed divine sonship. 'They took… all which they chose' describes royal harems and abuse of power, following the polygamous tyrant Lamech (Gen 4:19-24)."
+          }
+        ]
+      },
+      {
+        "ref": "Gen 6:4",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "The Nephilim are the giant offspring of angels and women, the 'mighty men… of renown' of ancient legend. 'And also after that' allows for later giant clans."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "The Nephilim were violent, powerful men who were already on the earth; the text does not say they were the children of the marriages. The offspring became famous warriors, not hybrids."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "The Nephilim and 'mighty men' (gibborim) are a warrior aristocracy like Nimrod, 'a mighty one in the earth' (Gen 10:8-9). 'Men of renown' (literally 'men of the name') are tyrants making a name for themselves, as at Babel (Gen 11:4)."
+          }
+        ]
+      },
+      {
+        "ref": "Job 1:6",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "The same phrase, 'sons of God', clearly means heavenly beings presenting themselves before God. This is the closest parallel and should decide Gen 6."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "Job is a different book with a heavenly setting; in Genesis the context is the human genealogies of Gen 4–5. Believers are also called God's sons elsewhere (Deut 14:1; Hos 1:10)."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "Job shows the phrase can mean heavenly beings, but kings could also be called God's sons (2 Sam 7:14; Ps 2:7) and rulers 'gods' (on one reading of Ps 82:6). Context must decide."
+          }
+        ]
+      },
+      {
+        "ref": "Jude 1:6-7",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "Angels who 'left their own habitation' are kept in chains; 'even as Sodom and Gomorrha… in like manner' went after 'strange flesh'. This links the angels' sin to sexual transgression, exactly as in 1 Enoch, which Jude quotes (Jude 1:14-15)."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "Jude speaks of an angelic fall, probably the original rebellion, and 'in like manner' may compare Sodom with the cities around it, not with the angels. Jude does not mention Gen 6."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "Jude uses a well-known Jewish tradition as an illustration of judgement on rebels. Using a tradition as an example does not settle what Gen 6 originally meant."
+          }
+        ]
+      },
+      {
+        "ref": "2 Pet 2:4-5",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "Peter places the angels' sin and their imprisonment in Tartarus right next to the flood, matching the order of Gen 6 and the Enoch tradition."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "Peter gives a sequence of judgements (angels, flood, Sodom) without saying that the angels' sin was marrying women; it can refer to the original angelic fall."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "Peter's 'Tartarus' and imprisoned angels echo popular Jewish tradition; he is warning false teachers, not commenting on Genesis."
+          }
+        ]
+      },
+      {
+        "ref": "Matt 22:30",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "Jesus says angels 'in heaven' do not marry, describing their proper state, not what rebellious angels who left heaven could do (Jude 1:6)."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "Angels do not marry, so the sons of God must be human. Augustine and many Reformers found this decisive."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "Supports a human reading. Angels do not marry; kings with harems certainly do."
+          }
+        ]
+      },
+      {
+        "ref": "Num 13:33",
+        "readings": [
+          {
+            "positionId": "angelic-watchers",
+            "reading": "The Anakim are linked to the Nephilim, so giant clans survived or reappeared after the flood ('and also after that', Gen 6:4), explaining the Rephaim, Og (Deut 3:11) and Goliath. Some defenders add that the spies may have exaggerated, since this was an 'evil report' (Num 13:32)."
+          },
+          {
+            "positionId": "sethite",
+            "reading": "All the Nephilim died in the flood. The spies use 'Nephilim' as a legendary name for terrifying giants, part of an 'evil report' (Num 13:32) meant to frighten Israel."
+          },
+          {
+            "positionId": "royal-tyrants",
+            "reading": "'Nephilim' had become a byword for fearsome warrior peoples. The frightened spies used it of the tall Anakim, just as people call a tyrant 'a Nero'."
+          }
+        ]
+      }
+    ],
+    "timeline": [
+      {
+        "year": -250,
+        "title": "Book of the Watchers",
+        "note": "1 Enoch 6–16 tells how 200 Watcher angels led by Shemihazah descended on Mount Hermon, married women, taught forbidden arts and fathered giants. Date c. 3rd century BC.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": -160,
+        "title": "Jubilees",
+        "note": "Jubilees 5 retells the story of angels marrying women and the giants killing one another before the flood.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 40,
+        "title": "Philo",
+        "note": "*On the Giants* discusses the passage, treating the 'angels' in an allegorical, philosophical way.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 65,
+        "title": "Jude and 2 Peter",
+        "note": "Both letters refer to imprisoned angels in contexts echoing the Enoch tradition; Jude quotes 1 Enoch 1:9. Dates are debated.",
+        "confidence": "debated"
+      },
+      {
+        "year": 94,
+        "title": "Josephus",
+        "note": "*Antiquities* 1.73 says many angels of God united with women and fathered violent sons.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 150,
+        "title": "Justin Martyr and the Apologists",
+        "note": "Justin's *Second Apology* 5 says angels fell through love of women and fathered demons; Athenagoras and Irenaeus say similar things.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 150,
+        "title": "Rabbi Simeon bar Yohai",
+        "note": "Genesis Rabbah 26:5 records him cursing those who call them 'sons of God' and reading 'sons of judges/nobles'. Targum Onqelos has 'sons of the great ones'.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 221,
+        "title": "Julius Africanus",
+        "note": "His *Chronographiai* (preserved in fragments) offers the Sethite reading as preferable, while noting copies that read 'angels of God'.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 420,
+        "title": "Augustine",
+        "note": "*City of God* 15.23 argues at length for the Sethite view; it becomes the standard Western reading.",
+        "confidence": "tradition"
+      },
+      {
+        "year": 1554,
+        "title": "Calvin on Genesis",
+        "note": "Calvin calls the angelic view absurd and reads the sons of God as the godly line; Luther also held a Sethite view.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1962,
+        "title": "Kline's 'Divine Kingship'",
+        "note": "Meredith Kline argues in the Westminster Theological Journal that the sons of God were Cainite kings claiming divine status.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "year": 1987,
+        "title": "Modern revival of the angelic view",
+        "note": "Gordon Wenham's Genesis commentary and many critical scholars return to a divine-beings reading; Michael Heiser's *Reversing Hermon* (2017) popularises it.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "influence": [
+      {
+        "from": "angelic-watchers",
+        "to": "royal-tyrants",
+        "note": "The rabbinic 'sons of nobles' reading arose partly as a reaction against the angel story and its use in apocalyptic and Christian circles."
+      },
+      {
+        "from": "angelic-watchers",
+        "to": "sethite",
+        "note": "The Sethite reading was proposed as an alternative to angels who marry, which seemed to contradict Jesus' teaching and angelic nature."
+      },
+      {
+        "from": "sethite",
+        "to": "royal-tyrants",
+        "note": "Kline and others kept the Sethite view's human focus but replaced the godly line with a royal Cainite line."
+      }
+    ],
+    "argumentMap": [
+      {
+        "id": "g1",
+        "kind": "claim",
+        "text": "The sons of God were angels who married women and fathered the Nephilim.",
+        "positionId": "angelic-watchers"
+      },
+      {
+        "id": "g2",
+        "kind": "support",
+        "text": "Elsewhere 'sons of God' always means heavenly beings.",
+        "parent": "g1",
+        "positionId": "angelic-watchers",
+        "refs": [
+          "Job 1:6",
+          "Job 38:7"
+        ]
+      },
+      {
+        "id": "g3",
+        "kind": "support",
+        "text": "Jude and 2 Peter link fallen, imprisoned angels with sexual sin and the flood.",
+        "parent": "g1",
+        "positionId": "angelic-watchers",
+        "refs": [
+          "Jude 1:6-7",
+          "2 Pet 2:4-5"
+        ]
+      },
+      {
+        "id": "g4",
+        "kind": "support",
+        "text": "It is the oldest recorded interpretation and the view of most early Fathers.",
+        "parent": "g1",
+        "positionId": "angelic-watchers"
+      },
+      {
+        "id": "g5",
+        "kind": "objection",
+        "text": "Angels do not marry.",
+        "parent": "g1",
+        "positionId": "sethite",
+        "refs": [
+          "Matt 22:30"
+        ]
+      },
+      {
+        "id": "g6",
+        "kind": "reply",
+        "text": "Jesus speaks of angels in heaven; these angels abandoned their proper dwelling.",
+        "parent": "g5",
+        "positionId": "angelic-watchers",
+        "refs": [
+          "Jude 1:6"
+        ]
+      },
+      {
+        "id": "g7",
+        "kind": "objection",
+        "text": "The judgement falls on humans, not angels, which suits a human sin.",
+        "parent": "g1",
+        "positionId": "royal-tyrants",
+        "refs": [
+          "Gen 6:3",
+          "Gen 6:5-7"
+        ]
+      },
+      {
+        "id": "g8",
+        "kind": "claim",
+        "text": "The sons of God were the godly line of Seth marrying ungodly women.",
+        "positionId": "sethite"
+      },
+      {
+        "id": "g9",
+        "kind": "support",
+        "text": "Genesis 4–5 sets the line of Cain against the line of Seth, who called on the LORD.",
+        "parent": "g8",
+        "positionId": "sethite",
+        "refs": [
+          "Gen 4:26",
+          "Gen 5:1-3"
+        ]
+      },
+      {
+        "id": "g10",
+        "kind": "support",
+        "text": "God's people are called his sons, and mixed marriage is a constant biblical warning.",
+        "parent": "g8",
+        "positionId": "sethite",
+        "refs": [
+          "Deut 14:1",
+          "Deut 7:3-4"
+        ]
+      },
+      {
+        "id": "g11",
+        "kind": "objection",
+        "text": "'Daughters of men' in 6:1 means all human daughters; switching to 'Cainite women' in 6:2 is unsignalled.",
+        "parent": "g8",
+        "positionId": "angelic-watchers",
+        "refs": [
+          "Gen 6:1-2"
+        ]
+      },
+      {
+        "id": "g12",
+        "kind": "reply",
+        "text": "The contrast between 'God' and 'men' is the point: those who belong to God join themselves to those who do not.",
+        "parent": "g11",
+        "positionId": "sethite"
+      },
+      {
+        "id": "g13",
+        "kind": "claim",
+        "text": "The sons of God were kings claiming divine sonship who seized wives and founded warrior dynasties.",
+        "positionId": "royal-tyrants"
+      },
+      {
+        "id": "g14",
+        "kind": "support",
+        "text": "Kings could be called God's son, and ancient rulers claimed divine descent.",
+        "parent": "g13",
+        "positionId": "royal-tyrants",
+        "refs": [
+          "2 Sam 7:14",
+          "Ps 2:7"
+        ]
+      },
+      {
+        "id": "g15",
+        "kind": "support",
+        "text": "Lamech's polygamy and violence and Nimrod as a 'mighty one' fit the pattern of tyranny.",
+        "parent": "g13",
+        "positionId": "royal-tyrants",
+        "refs": [
+          "Gen 4:19-24",
+          "Gen 10:8-9"
+        ]
+      },
+      {
+        "id": "g16",
+        "kind": "objection",
+        "text": "No Old Testament text calls a group of kings 'sons of God' in the plural; the phrase is used for heavenly beings.",
+        "parent": "g13",
+        "positionId": "angelic-watchers"
+      },
+      {
+        "id": "g17",
+        "kind": "reply",
+        "text": "The singular royal usage and Near Eastern parallels make a plural 'sons of the gods' for a royal class plausible; context, not word count, must decide.",
+        "parent": "g16",
+        "positionId": "royal-tyrants"
+      },
+      {
+        "id": "g18",
+        "kind": "objection",
+        "text": "The angelic view rests on Second Temple legends that the canonical texts only allude to.",
+        "parent": "g3",
+        "positionId": "sethite"
+      }
+    ]
   }
 ]

@@ -1,0 +1,2739 @@
+[
+  {
+    "id": "el",
+    "name": "El",
+    "otherNames": [
+      "Ilu",
+      "Bull El",
+      "Father of Years",
+      "Creator of Creatures",
+      "El Elyon (in Genesis)",
+      "El Shaddai (in Genesis)",
+      "El Olam (in Genesis)"
+    ],
+    "original": "Ugaritic 'il; Hebrew 'el",
+    "region": "canaan",
+    "domains": [
+      "head of the gods",
+      "kingship over the divine council",
+      "creation and fatherhood",
+      "wisdom and old age",
+      "decrees and blessings"
+    ],
+    "symbol": "seated bearded elder on a throne, sometimes with bull horns on his crown",
+    "cultCenter": {
+      "name": "Ugarit (Ras Shamra), Syrian coast; his mythic tent stood 'at the source of the two rivers'",
+      "coords": [
+        35.785,
+        35.602
+      ]
+    },
+    "family": [
+      {
+        "relation": "consort",
+        "name": "Athirat (Asherah)",
+        "godId": "asherah"
+      },
+      {
+        "relation": "children",
+        "name": "the 'seventy sons of Athirat', the gods of the council"
+      },
+      {
+        "relation": "son",
+        "name": "Yam (Sea), called El's beloved",
+        "godId": "yam"
+      },
+      {
+        "relation": "son",
+        "name": "Mot (Death), called El's beloved",
+        "godId": "mot"
+      },
+      {
+        "relation": "household member (called 'son of Dagan' in the texts)",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      }
+    ],
+    "plain": "El is simply the old West Semitic word for 'god', and also the name of the high god who ruled over all the other gods in Canaanite religion. At Ugarit he is a wise, grey-bearded father figure who sits enthroned and hands down decisions to a council of younger gods.\n\nThe Bible uses the same word constantly for Israel's God (El Shaddai, El Elyon, Bethel = 'house of El', Israel = perhaps 'El strives'). Unlike Baal, El is almost never attacked in the Bible. That is because Israel's writers treated El either as an ordinary word for God or as another name of the one God they worshipped. How much of Canaanite El was absorbed into Israel's picture of Yahweh is a real and open question among scholars.",
+    "myth": "In the clay tablets from Ugarit (14th to 13th century BC), El is 'Father of Years', 'Bull El', 'Creator of Creatures' and 'Kind El, the Compassionate'. He lives in a tent-shrine on a mountain at the springs of the two rivers and the two deeps. The gods are his children and meet in 'the assembly of El'.\n\nEl does not fight. He decides. When Yam (Sea) wants supremacy, El grants it; when Baal needs a palace, Baal and Anat must win El's permission, usually by going through his wife Athirat. Anat even threatens the old god to get her way. When Baal dies, El comes down from his throne, sits in the dust, gashes his skin and mourns. Then he dreams that the heavens rain oil and the wadis run with honey, and knows that Baal lives again. One text (the 'Birth of the Gracious Gods') describes El fathering gods in a frank, earthy scene by the sea.",
+    "biblicalRole": "El is the one Canaanite god the Bible does not fight. The patriarchs meet God under El names: El Elyon ('God Most High', Gen 14:18-22), El Roi (Gen 16:13), El Shaddai (Gen 17:1), El Olam (Gen 21:33), El-Elohe-Israel (Gen 33:20). Exod 6:3 says God appeared to the patriarchs as El Shaddai but was not known to them by the name Yahweh.\n\nSome biblical poetry describes God with language that matches El at Ugarit: an aged figure on a throne with white hair (Dan 7:9), the 'divine assembly' (Ps 82:1, adat-el), and the Most High dividing the nations (Deut 32:8). Melchizedek's title for God, 'Most High, creator (or possessor) of heaven and earth' (Gen 14:19), matches a Phoenician title of El found at Karatepe.\n\nHow to read this is debated. (1) Many critical scholars (Frank Moore Cross, Mark S. Smith) argue that Yahweh and El were originally separate gods and that Israel merged them, so that Yahweh took over El's role as head of the council. (2) Others argue Israel always used 'El' as a generic word and title for its own God, so the overlap is about shared language, not borrowed gods. (3) Traditional Jewish and Christian readers see the patriarchs worshipping the one true God under the common word for God, with the name Yahweh revealed more fully at the exodus.",
+    "encounters": [
+      {
+        "title": "Melchizedek blesses Abram by El Elyon",
+        "refs": [
+          "Gen 14:18-22"
+        ],
+        "summary": "The priest-king of Salem blesses Abram by 'God Most High, creator of heaven and earth', and Abram identifies this God with Yahweh in his oath."
+      },
+      {
+        "title": "Jacob names Bethel and builds an altar to El",
+        "refs": [
+          "Gen 28:19",
+          "Gen 33:20",
+          "Gen 35:7"
+        ],
+        "summary": "Jacob names places after El: Bethel ('house of El') and El-Elohe-Israel ('El, the God of Israel')."
+      },
+      {
+        "title": "God reveals the name Yahweh",
+        "refs": [
+          "Exod 6:2-3"
+        ],
+        "summary": "God tells Moses that he appeared to the patriarchs as El Shaddai, but by the name Yahweh he did not make himself known to them."
+      },
+      {
+        "title": "The Most High divides the nations",
+        "refs": [
+          "Deut 32:8-9"
+        ],
+        "summary": "Elyon apportions the nations, and Yahweh's portion is Jacob. Whether Elyon and Yahweh are the same figure here is debated; most traditional readers say yes."
+      },
+      {
+        "title": "God stands in the divine assembly",
+        "refs": [
+          "Ps 82:1",
+          "Ps 82:6-7"
+        ],
+        "summary": "God takes his stand in the 'assembly of El' and judges the gods. The phrase matches Ugaritic language for El's council."
+      },
+      {
+        "title": "The Ancient of Days",
+        "refs": [
+          "Dan 7:9-10"
+        ],
+        "summary": "Daniel sees an aged figure with white hair enthroned among a court, a picture many scholars compare to El, the Father of Years."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ugaritic tablets (Baal Cycle, Kirta, Aqhat)",
+        "year": "1929 onward",
+        "place": "Ras Shamra (Ugarit), Syria",
+        "summary": "Hundreds of alphabetic cuneiform tablets, written c. 1400-1185 BC, describe El as father of the gods, head of their assembly, aged and wise. They are the main source for Canaanite El.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Seated-god stele and bronze figurine",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "A limestone stele shows a seated, bearded god with a horned crown receiving homage from a king, and a gold-plated bronze figure shows a seated elder god. Both are often identified as El, but neither is labelled.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Karatepe bilingual inscription",
+        "year": "1946",
+        "place": "Karatepe, southern Turkey",
+        "summary": "An 8th-century BC Phoenician text invokes 'El, creator of earth', a title close to Melchizedek's 'God Most High, creator of heaven and earth' in Gen 14:19.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Deir Alla plaster text (Balaam inscription)",
+        "year": "1967",
+        "place": "Tell Deir Alla, Jordan valley",
+        "summary": "A c. 800 BC text about 'Balaam son of Beor, a seer of the gods' mentions El and a group of gods called shaddayin. It shows the same El vocabulary on the east side of the Jordan and a Balaam tradition outside the Bible.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "El never became a demon. The word simply lived on: in Hebrew as a term for God, in names like Israel, Samuel, Michael, Gabriel and Immanuel, and in the related Aramaic elah and Arabic ilah (from which Allah derives). In Phoenician religion of the first millennium El faded behind city gods like Melqart and Baal Shamem; Philo of Byblos (via Eusebius) equated him with the Greek Kronos.",
+    "refs": [
+      "Gen 14:18-22",
+      "Gen 16:13",
+      "Gen 17:1",
+      "Gen 21:33",
+      "Gen 33:20",
+      "Exod 6:3",
+      "Deut 32:8-9",
+      "Ps 82:1",
+      "Dan 7:9"
+    ],
+    "confidence": "debated",
+    "related": [
+      "asherah",
+      "baal-hadad",
+      "yam",
+      "mot",
+      "sons-of-god"
+    ]
+  },
+  {
+    "id": "asherah",
+    "name": "Asherah",
+    "otherNames": [
+      "Athirat (Ugaritic)",
+      "Lady Athirat of the Sea",
+      "Creatress of the Gods",
+      "Elat ('goddess')",
+      "Qudshu ('holy one', possibly)",
+      "'the grove' (KJV)"
+    ],
+    "original": "Hebrew 'asherah, plural 'asherim/'asherot; Ugaritic 'atrt",
+    "region": "canaan",
+    "domains": [
+      "mother of the gods",
+      "consort of the high god",
+      "fertility and nursing",
+      "sacred trees"
+    ],
+    "symbol": "stylised tree or wooden pole; nude goddess between lions or ibexes",
+    "cultCenter": {
+      "name": "Samaria, where Ahab set up an asherah (worshipped at Ugarit as Athirat and in Judah's high places)",
+      "coords": [
+        35.195,
+        32.276
+      ]
+    },
+    "family": [
+      {
+        "relation": "consort",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "children",
+        "name": "the seventy sons of Athirat (the gods)"
+      },
+      {
+        "relation": "consort (claimed in some Israelite inscriptions; debated)",
+        "name": "Yahweh"
+      }
+    ],
+    "plain": "Asherah was the great mother-goddess of Canaan, wife of the high god El. In the Bible the word 'asherah' means two connected things: the goddess herself, and a wooden pole or stylised tree set up beside altars to stand for her. That is why the Bible talks about asherahs being 'made', 'planted', 'cut down' and 'burned'.\n\nWhat makes Asherah famous today is a set of Hebrew inscriptions from about 800-700 BC that bless people 'by Yahweh and his asherah'. They show that at least some Israelites put Asherah, or her symbol, right next to Israel's God. The prophets and the reforming kings fought this for centuries.",
+    "myth": "At Ugarit she is Athirat, 'Lady Athirat of the Sea' (the exact meaning of the title is debated, perhaps 'she who treads on the sea'), wife of El and 'creatress of the gods', mother of seventy divine sons. She nurses royal heirs in the Kirta epic. In the Baal Cycle she first sides with Yam against Baal, but when Baal and Anat bring her gifts she rides on a donkey to El's tent and persuades him to let Baal build his palace. After Baal dies, she proposes one of her sons, Athtar, as replacement king; he is too small to fill Baal's throne. So she is the queen mother of heaven: the one who has El's ear.",
+    "biblicalRole": "Asherah appears about 40 times in the Bible. Most uses are the wooden cult object: Israel is told not to plant any tree as an asherah beside Yahweh's altar (Deut 16:21) and to cut down the Canaanites' asherim (Exod 34:13; Deut 7:5). Gideon cuts down his father's asherah beside the altar of Baal (Judg 6:25-28).\n\nSome passages clearly mean the goddess: 400 'prophets of Asherah' eat at Jezebel's table (1 Kgs 18:19); Josiah removes vessels made 'for Baal and for Asherah' (2 Kgs 23:4). Queen mother Maacah made an 'abominable image for Asherah' and was deposed for it (1 Kgs 15:13). Manasseh put a carved image of Asherah inside Yahweh's temple (2 Kgs 21:7). Josiah took it out, burned it at the Kidron, ground it to dust and threw the dust on the common graves; he also tore down the rooms in the temple where women wove hangings for Asherah (2 Kgs 23:6-7).\n\nThe repeated fight suggests Asherah worship was not a foreign import but a deep-rooted part of popular religion in both Israel and Judah. The biblical writers present it as apostasy; many historians see it as the older popular religion that the prophets and reforming kings set out to remove. Both statements can be true at once.",
+    "encounters": [
+      {
+        "title": "Do not plant an asherah beside Yahweh's altar",
+        "refs": [
+          "Deut 16:21-22",
+          "Exod 34:13"
+        ],
+        "summary": "The law forbids setting up an asherah or standing stone next to Yahweh's altar, which implies people were doing exactly that."
+      },
+      {
+        "title": "Gideon cuts down his father's asherah",
+        "refs": [
+          "Judg 6:25-32"
+        ],
+        "summary": "Gideon tears down his father's Baal altar and the asherah beside it, then uses its wood to burn a sacrifice to Yahweh."
+      },
+      {
+        "title": "Queen mother Maacah deposed",
+        "refs": [
+          "1 Kgs 15:13",
+          "2 Chr 15:16"
+        ],
+        "summary": "King Asa removes his grandmother from her position because she made an image for Asherah, and burns it at the Kidron."
+      },
+      {
+        "title": "Jezebel's 400 prophets of Asherah",
+        "refs": [
+          "1 Kgs 16:33",
+          "1 Kgs 18:19"
+        ],
+        "summary": "Ahab makes an asherah in Samaria; Jezebel feeds 450 prophets of Baal and 400 of Asherah. Only Baal's prophets appear at the Carmel contest itself."
+      },
+      {
+        "title": "Manasseh puts Asherah in the temple",
+        "refs": [
+          "2 Kgs 21:3",
+          "2 Kgs 21:7"
+        ],
+        "summary": "Manasseh sets up a carved image of Asherah in the house where Yahweh had said he would put his name."
+      },
+      {
+        "title": "Josiah burns Asherah",
+        "refs": [
+          "2 Kgs 23:4",
+          "2 Kgs 23:6-7",
+          "2 Kgs 23:14-15"
+        ],
+        "summary": "Josiah removes the Asherah from the temple, burns and grinds it, scatters its dust on graves, and pulls down the women's weaving rooms. He also cuts down asherim at Bethel and elsewhere."
+      },
+      {
+        "title": "Prophets condemn the asherim",
+        "refs": [
+          "Jer 17:2",
+          "Mic 5:14",
+          "Isa 27:9"
+        ],
+        "summary": "Prophets list the asherim beside altars on hills and under green trees as part of what brought judgement."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Kuntillet Ajrud pithos inscriptions",
+        "year": "1975-1976 (excavated by Ze'ev Meshel)",
+        "place": "Kuntillet Ajrud, north-east Sinai",
+        "summary": "Storage jars at a c. 800 BC caravan way-station carry blessings 'by Yahweh of Samaria and his asherah' and 'by Yahweh of Teman and his asherah'. Drawings on the same jar show two Bes-like figures and a seated lyre player; whether any of them depict Yahweh and Asherah is disputed, and most specialists think the standing pair are Bes figures.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Khirbet el-Qom tomb inscription",
+        "year": "1967 (found by William Dever)",
+        "place": "Khirbet el-Qom, near Hebron",
+        "summary": "A late 8th-century BC tomb inscription for one Uriyahu says he is blessed by Yahweh and that 'by his asherah' Yahweh saved him from his enemies. The text is damaged and its reading is partly uncertain.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Grammar debate: 'his asherah'",
+        "year": "1970s to the present",
+        "place": "Scholarly literature",
+        "summary": "Biblical Hebrew normally does not put a possessive ending ('his') on a personal name, so many read 'his asherah' as Yahweh's cult object, the pole or tree. Others argue the object and the goddess were never really separable, or that the grammar rule has exceptions, so the texts show a belief that Yahweh had a consort. A third view reads it as a place or shrine. The question is unresolved.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Tel Arad shrine and its two altars (residue study 2020)",
+        "year": "1962-1967 excavation; residue analysis published 2020",
+        "place": "Tel Arad, Negev, Judah",
+        "summary": "A small shrine inside a Judahite royal fortress had standing stones and two limestone incense altars at the entrance to its niche. A 2020 study (Arie, Rosen and Namdar, *Tel Aviv*) found frankincense mixed with animal fat on one altar and cannabis mixed with animal dung on the other: the earliest known evidence of a mind-altering substance in Judah's worship. The shrine, dated to the 8th century BC, was deliberately buried; the excavators tied this to Hezekiah's reform, others to Josiah or to other causes. Whether the two stones or altars stood for Yahweh and a consort such as Asherah is an attractive guess, not a finding.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Taanach cult stand",
+        "year": "1968 (Paul Lapp)",
+        "place": "Taanach, Jezreel valley",
+        "summary": "A 10th-century BC clay stand has four tiers: one shows a nude female between two lions, another a sacred tree flanked by ibexes and lions. Many read these as Asherah and her tree symbol (Ruth Hestrin's interpretation); the top tier shows an animal under a winged sun.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Judean pillar figurines",
+        "year": "excavated throughout the 20th century",
+        "place": "Jerusalem, Lachish and many Judahite sites",
+        "summary": "Hundreds of small clay women holding their breasts, common c. 750-586 BC in Judean homes. Many scholars (e.g. William Dever) link them to Asherah; others see them as generic fertility charms or images of worshippers.",
+        "confidence": "debated"
+      }
+    ],
+    "laterFate": "Asherah disappeared from Jewish worship after the exile, but the word survived in strange ways. The Greek Septuagint and Latin Vulgate often translated asherah as 'grove' (alsos, lucus), so the King James Version speaks of 'groves', and generations of readers did not know a goddess lay behind the word. The Mishnah (tractate Avodah Zarah) still discusses what makes a tree an asherah. Asherah has no prominent place in Milton's catalogue or in medieval demon lists. Since the Kuntillet Ajrud discoveries she has become a popular subject in books and documentaries about 'God's wife', a framing that the evidence supports only in part.",
+    "refs": [
+      "Exod 34:13",
+      "Deut 16:21",
+      "Judg 6:25-26",
+      "1 Kgs 15:13",
+      "1 Kgs 18:19",
+      "2 Kgs 21:7",
+      "2 Kgs 23:4-7",
+      "Jer 17:2"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "el",
+      "baal-hadad",
+      "astarte",
+      "queen-of-heaven",
+      "sun-and-host-of-heaven"
+    ]
+  },
+  {
+    "id": "baal-hadad",
+    "name": "Baal (Hadad)",
+    "otherNames": [
+      "Baal",
+      "Hadad",
+      "Haddu",
+      "Baal Zaphon",
+      "Rider of the Clouds",
+      "Aliyan Baal ('the Mighty')",
+      "Zabul Baal ('Prince Baal')",
+      "Baalim (plural)",
+      "Baal Shamem ('lord of heaven', later Phoenician)",
+      "Melqart (Baal of Tyre, a related city god)"
+    ],
+    "original": "Hebrew ba'al ('lord, owner, husband'); Ugaritic b'l, hd",
+    "region": "canaan",
+    "domains": [
+      "storm and thunder",
+      "rain and dew",
+      "fertility of fields",
+      "kingship among the young gods",
+      "victory over chaos"
+    ],
+    "symbol": "bull; warrior with raised club and a spear sprouting into lightning",
+    "cultCenter": {
+      "name": "Mount Zaphon (Jebel Aqra), 1,717 m, on the Syrian-Turkish border; temple of Baal on the acropolis of Ugarit",
+      "coords": [
+        35.969,
+        35.952
+      ]
+    },
+    "family": [
+      {
+        "relation": "father (in the texts)",
+        "name": "Dagan",
+        "godId": "dagon"
+      },
+      {
+        "relation": "head of the household he belongs to",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "sister and ally",
+        "name": "Anat",
+        "godId": "anat"
+      },
+      {
+        "relation": "enemy",
+        "name": "Yam (Sea)",
+        "godId": "yam"
+      },
+      {
+        "relation": "enemy",
+        "name": "Mot (Death)",
+        "godId": "mot"
+      },
+      {
+        "relation": "craftsman who builds his palace",
+        "name": "Kothar-wa-Khasis",
+        "godId": "kothar"
+      }
+    ],
+    "plain": "'Baal' is not really a name. It is a title meaning 'lord', 'owner' or 'husband'. The god most often meant by it is Hadad, the storm god who brings thunder and, above all, rain.\n\nThat matters because of geography. Egypt was watered by the Nile and Mesopotamia by the Tigris and Euphrates. Canaan lived or died by rainfall, as Deuteronomy itself points out (Deut 11:10-11). A god who controlled the rain controlled the harvest, so for farmers Baal was the obvious god to keep happy. The Bible's long struggle against Baal, from Judges to Jeremiah, is a struggle over who really sends the rain.",
+    "myth": "The Baal Cycle, six tablets from Ugarit written down by the scribe Ilimilku around the 14th or 13th century BC, tells Baal's story in three episodes.\n\n1. Baal and Yam. Yam (Sea) is made king by El and demands that Baal be handed over. The craftsman god Kothar-wa-Khasis makes Baal two magic clubs, 'Driver' and 'Chaser'. The second strikes Yam down. Baal is acclaimed king.\n\n2. Baal's palace. A king needs a house. With Anat's help and Athirat's persuasion, El allows it, and Kothar builds a palace of gold, silver and lapis on Mount Zaphon. Kothar proposes a window; Baal at first refuses, then agrees, and through it he thunders his voice across the earth. (Why he hesitated is debated; one guess links it to the line 'death has come up into our windows', Jer 9:21.)\n\n3. Baal and Mot. Mot (Death) invites Baal to his realm. Baal goes down into Death's throat and dies; the land dries out. El and Anat mourn; Anat buries him on Zaphon. Anat then seizes Mot, splits him with a blade, winnows, burns, grinds and sows him like grain. El dreams of heavens raining oil, and Baal returns. Seven years later Baal and Mot fight again until the sun goddess Shapash separates them.\n\nMany scholars read this as a seasonal myth of the dry summer and the return of the autumn rains. Others (e.g. Mark S. Smith) caution that it is mainly about kingship and the fragile order of the world, not a neat annual calendar.",
+    "biblicalRole": "Baal is Yahweh's chief rival in the historical books. Israel 'yoked itself' to Baal-peor in the wilderness (Num 25:3). In Judges, each slide into apostasy is described as serving 'the Baals' (Judg 2:11-13). Gideon tears down his father's Baal altar and is nicknamed Jerubbaal, 'let Baal contend' (Judg 6:25-32).\n\nThe big confrontation comes under Ahab, who married Jezebel, daughter of Ethbaal king of the Sidonians, and built a Baal temple in Samaria (1 Kgs 16:31-32). Which Baal Jezebel promoted is debated: Melqart of Tyre, Baal Shamem, or Hadad. Elijah announces a drought: no dew or rain except at his word (1 Kgs 17:1), a direct challenge to the rain god. On Mount Carmel the contest is fought on Baal's home ground: fire from the sky, then rain (1 Kgs 18). Jehu later massacres Baal's worshippers and turns his Samaria temple into a latrine (2 Kgs 10:18-28); in Judah Athaliah's Baal temple falls with her (2 Kgs 11:18).\n\nThe prophets keep fighting. Hosea says Israel did not know it was Yahweh who gave the grain, wine and oil she credited to Baal, and that one day she will no longer call God 'my Baal' (Hos 2:8; Hos 2:16-17). Jeremiah, some three centuries after Elijah, still condemns Baal altars and child burning 'to Baal' (Jer 2:23; Jer 19:5).\n\nThe Bible also borrows Baal's imagery for Yahweh: the one who 'rides on the clouds' (Ps 68:4; Ps 104:3; Isa 19:1), whose thunderous voice shakes the cedars (Ps 29), and who crushes the sea monster. Many scholars think Ps 29 adapts a Canaanite storm hymn; others see shared regional poetry rather than borrowing. The point in either case is polemical: the titles Baal claimed belong to Yahweh.",
+    "encounters": [
+      {
+        "title": "The cycle of Judges: 'they served the Baals'",
+        "refs": [
+          "Judg 2:11-13",
+          "Judg 10:6"
+        ],
+        "summary": "Each generation abandons Yahweh for the Baals and Ashtaroth and falls to its enemies."
+      },
+      {
+        "title": "Gideon becomes Jerubbaal",
+        "refs": [
+          "Judg 6:25-32"
+        ],
+        "summary": "Gideon pulls down his father's altar to Baal. His father says, if Baal is a god, let him contend for himself; Gideon gets the name Jerubbaal."
+      },
+      {
+        "title": "Ahab, Jezebel and the Baal temple in Samaria",
+        "refs": [
+          "1 Kgs 16:31-33"
+        ],
+        "summary": "Ahab marries the Sidonian princess Jezebel, builds a house of Baal in Samaria and makes an asherah."
+      },
+      {
+        "title": "Drought announced",
+        "refs": [
+          "1 Kgs 17:1",
+          "Jas 5:17"
+        ],
+        "summary": "Elijah declares no dew or rain except at his word, striking at the storm god's own domain."
+      },
+      {
+        "title": "The contest on Mount Carmel",
+        "refs": [
+          "1 Kgs 18:19-40"
+        ],
+        "summary": "Baal's 450 prophets call on him from morning to noon. Elijah mocks: perhaps he is musing, or has 'turned aside' (possibly a euphemism for relieving himself; debated), or is travelling, or asleep. They gash themselves, a mourning rite; El himself gashes his skin over the dead Baal at Ugarit. Elijah soaks his altar with twelve jars of water; fire falls and consumes it. The people cry, 'Yahweh, he is God.'"
+      },
+      {
+        "title": "Rain returns",
+        "refs": [
+          "1 Kgs 18:41-45"
+        ],
+        "summary": "After the contest a small cloud rises from the sea and heavy rain falls: Yahweh, not Baal, ends the drought."
+      },
+      {
+        "title": "Jehu destroys the Baal temple",
+        "refs": [
+          "2 Kgs 10:18-28"
+        ],
+        "summary": "Jehu gathers Baal's worshippers into his temple in Samaria, kills them, breaks the pillar and makes the building a latrine."
+      },
+      {
+        "title": "Seven thousand who did not bow",
+        "refs": [
+          "1 Kgs 19:18",
+          "Rom 11:4"
+        ],
+        "summary": "God tells Elijah he has kept 7,000 who have not knelt to Baal; Paul applies this to a faithful remnant."
+      },
+      {
+        "title": "Hosea: 'You will no longer call me my Baal'",
+        "refs": [
+          "Hos 2:8",
+          "Hos 2:16-17"
+        ],
+        "summary": "Israel credited Baal with the grain, wine and oil that Yahweh gave. Hosea plays on ba'al as 'husband': Israel will call God 'my husband' (ishi) instead."
+      },
+      {
+        "title": "Jeremiah's long fight",
+        "refs": [
+          "Jer 2:23",
+          "Jer 11:13",
+          "Jer 19:5",
+          "Jer 32:35"
+        ],
+        "summary": "Jeremiah condemns altars to 'the shameful thing' (bosheth), to Baal, and the burning of children 'to Baal' in the Hinnom valley."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ugarit and the Baal Cycle tablets",
+        "year": "1928 discovery; excavations from 1929 under Claude Schaeffer",
+        "place": "Ras Shamra and Minet el-Beida, Syria",
+        "summary": "A farmer's plough opened a tomb at Minet el-Beida in 1928; digs at Ras Shamra began in 1929 and the first tablets appeared that May. The new alphabetic cuneiform was deciphered in 1930 by Hans Bauer, Edouard Dhorme and Charles Virolleaud. The Baal Cycle (KTU 1.1-1.6) is the fullest account of Baal's myths.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "'Baal with thunderbolt' stele",
+        "year": "1932",
+        "place": "Near the temple of Baal, Ugarit (now in the Louvre)",
+        "summary": "A limestone stele shows the storm god striding with a raised club and holding a spear whose shaft sprouts like a plant or lightning. It is the classic image of Baal.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Samaria ostraca",
+        "year": "1910",
+        "place": "Samaria",
+        "summary": "8th-century BC administrative notes from the royal palace include personal names compounded with Baal alongside many with Yahweh, showing both were in use in the northern kingdom.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Kuntillet Ajrud plaster inscription",
+        "year": "1975-1976",
+        "place": "Kuntillet Ajrud, Sinai",
+        "summary": "A fragmentary wall text in Phoenician script mentions Baal and El in a theophany-like setting (mountains melting), alongside the Yahweh texts found there.",
+        "confidence": "debated"
+      }
+    ],
+    "renamed": {
+      "original": "Eshbaal ('man of Baal'), Merib-baal ('Baal is advocate'), Jerubbaal ('let Baal contend')",
+      "biblical": "Ish-bosheth, Mephibosheth, Jerubbesheth",
+      "explanation": "Chronicles keeps the original names of Saul's son and grandson, Eshbaal and Merib-baal (1 Chr 8:33-34). Samuel calls them Ish-bosheth and Mephibosheth (2 Sam 2:8; 2 Sam 4:4), and calls Gideon Jerubbesheth (2 Sam 11:21). Bosheth means 'shame'. The standard explanation is that scribes replaced 'Baal' with 'shame' to avoid saying the god's name; Jeremiah and Hosea themselves call Baal 'the shame' (Jer 11:13; Hos 9:10). In Saul's time 'baal' could still be used innocently of Yahweh as 'lord'. A minority view argues that bosheth was once an honourable divine epithet (compare Akkadian bashtu, 'dignity'), so not every change is an insult.",
+      "confidence": "scholarly-consensus"
+    },
+    "laterFate": "Hadad survived for centuries in Syria: as Hadad of Damascus (Rimmon), as Zeus Kasios on his old mountain Zaphon (where the Roman emperors Hadrian and Julian are reported to have climbed to sacrifice), and as Jupiter Heliopolitanus at Baalbek in Lebanon, whose name preserves 'Baal'. In Christian thought the Baals became demons. Milton's *Paradise Lost* (Book 1) lists 'Baalim and Ashtaroth' together among the fallen angels, and early modern demon lists include a 'Bael' or 'Baal' as a king of hell. 'Baal' is still used in English as a byword for a false god.",
+    "refs": [
+      "Num 25:3",
+      "Judg 2:11-13",
+      "Judg 6:25-32",
+      "1 Kgs 16:31-32",
+      "1 Kgs 18:17-40",
+      "2 Kgs 10:18-28",
+      "Hos 2:16-17",
+      "Jer 19:5",
+      "Ps 29"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "el",
+      "anat",
+      "yam",
+      "mot",
+      "kothar",
+      "dagon",
+      "asherah",
+      "baal-peor",
+      "baal-berith",
+      "baal-zebub",
+      "rimmon"
+    ]
+  },
+  {
+    "id": "anat",
+    "name": "Anat",
+    "otherNames": [
+      "Anath",
+      "Virgin Anat (btlt 'nt)",
+      "Sister-in-law of the peoples (title, meaning debated)",
+      "Lady of Heaven (Egyptian title)",
+      "Anat-Yahu (Elephantine)"
+    ],
+    "original": "Ugaritic 'nt; Hebrew 'anat (in names only)",
+    "region": "canaan",
+    "domains": [
+      "war and violence",
+      "hunting",
+      "loyal defence of Baal",
+      "youthful vigour"
+    ],
+    "symbol": "young warrior goddess with axe, shield and spear, sometimes winged",
+    "cultCenter": {
+      "name": "Ugarit (also worshipped in Egypt and at Elephantine)",
+      "coords": [
+        35.785,
+        35.602
+      ]
+    },
+    "family": [
+      {
+        "relation": "brother and ally (possibly also lover; debated)",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "father",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "enemy she destroys",
+        "name": "Mot",
+        "godId": "mot"
+      }
+    ],
+    "plain": "Anat was Canaan's fiercest goddess: a young warrior who fights for her brother Baal. In one famous scene she slaughters an army and wades knee-deep, then neck-deep, in blood, with severed heads hung at her waist. When Baal dies she hunts down Death himself and destroys him.\n\nThe Bible never names her as a goddess, but her name survives in place names and personal names (Anathoth, Jeremiah's home town; Shamgar 'son of Anath'), which shows she was once known in the land.",
+    "myth": "In the Baal Cycle Anat battles armies 'from the seashore to the sunrise', wading through blood, then hosts a feast. She threatens El with violence to get Baal his palace. When Baal dies she searches the earth for him, weeps until she is full of tears, carries his body to Zaphon and buries him. Then she seizes Mot and destroys him as a farmer treats grain: she splits him with a blade, winnows him, burns him, grinds him and sows him in the field, and the birds eat his flesh. In the Aqhat epic she covets a magic bow belonging to the young hero Aqhat, offers him immortality for it, is rebuffed, and has him killed, after which the land suffers drought.\n\nShe is called 'virgin' or 'maiden', yet some texts seem to describe a sexual union with Baal; whether these are about Anat and what 'virgin' means here are debated.",
+    "biblicalRole": "Anat is not named as a deity in the Hebrew Bible. Her name survives in: Anathoth, a Levitical town and Jeremiah's birthplace (Josh 21:18; Jer 1:1); Beth-anath ('house of Anat') in Naphtali, which the Israelites did not conquer (Josh 19:38; Judg 1:33); and the judge Shamgar 'son of Anath' (Judg 3:31; Judg 5:6), possibly a warrior title ('son of Anat' = a soldier under her protection) rather than his parent's name. Some scholars suggest she is among the candidates for the 'Queen of Heaven' of Jeremiah, since Egyptian texts call her 'lady of heaven'; this is one option among several.",
+    "encounters": [
+      {
+        "title": "Shamgar son of Anath",
+        "refs": [
+          "Judg 3:31",
+          "Judg 5:6"
+        ],
+        "summary": "A judge who killed 600 Philistines with an ox-goad bears Anat's name, perhaps as a family name or a warrior title."
+      },
+      {
+        "title": "Beth-anath left unconquered",
+        "refs": [
+          "Josh 19:38",
+          "Judg 1:33"
+        ],
+        "summary": "A town named 'house of Anat' stood in Naphtali's territory; its Canaanite inhabitants remained."
+      },
+      {
+        "title": "Anathoth, Jeremiah's home town",
+        "refs": [
+          "Josh 21:18",
+          "Jer 1:1"
+        ],
+        "summary": "The priestly town of Anathoth near Jerusalem probably carries a plural form of Anat's name, an echo of earlier worship there."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ugaritic Baal Cycle and Aqhat epic",
+        "year": "1929 onward",
+        "place": "Ugarit",
+        "summary": "The main sources for Anat's character as a violent, loyal warrior goddess.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Egyptian monuments of Anat",
+        "year": "New Kingdom (c. 1550-1070 BC)",
+        "place": "Egypt",
+        "summary": "Anat was adopted into Egyptian religion as a war goddess; Ramesses II named a daughter Bint-Anat ('daughter of Anat') and called Anat his protector in battle.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Elephantine papyri: 'Anat-Yahu'",
+        "year": "early 1900s",
+        "place": "Elephantine island, southern Egypt",
+        "summary": "Aramaic documents from a 5th-century BC Jewish military colony list contributions for Yaho (Yahweh) and also mention Anat-Yahu and Anat-Bethel. Whether Anat-Yahu was a consort of Yahweh, an aspect of him, or a separate goddess is debated.",
+        "confidence": "debated"
+      }
+    ],
+    "laterFate": "Anat faded in the first millennium BC. In Cyprus a bilingual inscription equates her with Athena. Many scholars think she contributed, with Astarte, to the later Syrian goddess Atargatis, though the etymology is debated. She has little place in Christian demonology and is absent from Milton's catalogue.",
+    "refs": [
+      "Judg 3:31",
+      "Judg 5:6",
+      "Josh 19:38",
+      "Josh 21:18",
+      "Jer 1:1"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "mot",
+      "el",
+      "astarte",
+      "queen-of-heaven"
+    ]
+  },
+  {
+    "id": "astarte",
+    "name": "Astarte",
+    "otherNames": [
+      "Ashtoreth (Hebrew)",
+      "Ashtaroth (plural)",
+      "Ashtart / Athtart",
+      "Ashtoreth of the Sidonians",
+      "Ishtar (Mesopotamian counterpart)",
+      "Aphrodite Ourania (Greek identification)"
+    ],
+    "original": "Phoenician 'shtrt (Ashtart); Hebrew 'ashtoret",
+    "region": "phoenicia",
+    "domains": [
+      "love and sexuality",
+      "war and hunting",
+      "fertility of flocks",
+      "royal and city protection",
+      "the evening star (Venus)"
+    ],
+    "symbol": "nude goddess, sometimes on a horse or lion; star or crescent; the 'womb of the flock'",
+    "cultCenter": {
+      "name": "Sidon (also Tyre, Kition in Cyprus, Carthage, Egypt)",
+      "coords": [
+        35.371,
+        33.563
+      ]
+    },
+    "family": [
+      {
+        "relation": "western counterpart of",
+        "name": "Ishtar (Inanna)",
+        "godId": "ishtar"
+      },
+      {
+        "relation": "companion of (often paired)",
+        "name": "Baal",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "paired with in Moab",
+        "name": "Chemosh (as 'Ashtar-Chemosh', a male form)",
+        "godId": "chemosh"
+      }
+    ],
+    "plain": "Astarte (Hebrew Ashtoreth) was the Phoenician goddess of love, war and fertility, the western cousin of Mesopotamia's Ishtar. She was the city goddess of Sidon, and the Phoenicians carried her across the Mediterranean to Cyprus, Carthage and beyond.\n\nIn the Bible she appears as 'Ashtoreth of the Sidonians', for whom Solomon built a shrine, and in the plural 'Ashtaroth', paired with 'the Baals' as shorthand for all the foreign gods Israel kept turning to.",
+    "myth": "Astarte has no long surviving myth of her own at Ugarit, where she appears mostly as a hunter and warrior who rebukes Baal for gloating over Yam ('scatter him!'), and as the 'name of Baal'. In Egypt she became a war goddess riding a horse with weapons. In Phoenicia she was a royal goddess: the kings of Sidon served as her priests. Greek writers identified her with Aphrodite; Herodotus calls the temple of Aphrodite Ourania at the Philistine city of Ashkelon the oldest of its kind. Lucian's *On the Syrian Goddess* (2nd century AD) describes her temple at Sidon and links her with the moon.",
+    "biblicalRole": "The plural Ashtaroth appears with Baal(s) as a pair for apostasy: Israel 'served the Baals and the Ashtaroth' (Judg 2:13; Judg 10:6), and Samuel calls Israel to put them away (1 Sam 7:3-4; 1 Sam 12:10). After killing Saul, the Philistines hang his armour in 'the house of Ashtaroth' (1 Sam 31:10), presumably at Beth-shan.\n\nSolomon, influenced by his foreign wives, built high places on the hill east of Jerusalem for 'Ashtoreth the goddess of the Sidonians', Chemosh of Moab and Milcom of Ammon (1 Kgs 11:5-7; 1 Kgs 11:33). They stood for more than three centuries, until Josiah defiled them. The narrator calls that hill 'the Mount of Corruption' (har ha-mashchit, 2 Kgs 23:13). This is very likely a pun on the Mount of Olives, which later Jewish texts call har ha-mishchah, 'Mount of Anointing' (from its olive oil); the pun is attractive but the 'Mount of Anointing' name is attested only later.\n\nA town in Bashan was called Ashtaroth (Deut 1:4; Josh 12:4), presumably after her. She is also one of the candidates for the 'Queen of Heaven' of Jer 7 and 44 (debated).",
+    "encounters": [
+      {
+        "title": "The Baals and the Ashtaroth",
+        "refs": [
+          "Judg 2:13",
+          "Judg 10:6",
+          "1 Sam 7:3-4",
+          "1 Sam 12:10"
+        ],
+        "summary": "The pair 'Baals and Ashtaroth' stands for the whole Canaanite pantheon that Israel served in the time of the judges."
+      },
+      {
+        "title": "Saul's armour in the house of Ashtaroth",
+        "refs": [
+          "1 Sam 31:9-10"
+        ],
+        "summary": "The Philistines put Saul's armour in Ashtaroth's temple and fasten his body to the wall of Beth-shan, while 1 Chr 10:10 adds that his head went to Dagon's temple."
+      },
+      {
+        "title": "Solomon's shrine to Ashtoreth of the Sidonians",
+        "refs": [
+          "1 Kgs 11:1-8",
+          "1 Kgs 11:33"
+        ],
+        "summary": "Solomon follows Ashtoreth and builds high places for his wives' gods east of Jerusalem; God tears the kingdom from his son as a result."
+      },
+      {
+        "title": "Josiah defiles the Mount of Corruption",
+        "refs": [
+          "2 Kgs 23:13-14"
+        ],
+        "summary": "Josiah defiles Solomon's shrines to Ashtoreth, Chemosh and Milcom, breaks the pillars, cuts down the asherim and fills the places with human bones."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Sarcophagi of Tabnit and Eshmunazar II",
+        "year": "1887 (Tabnit) and 1855 (Eshmunazar II)",
+        "place": "Sidon, Lebanon (now Istanbul and the Louvre)",
+        "summary": "Phoenician royal coffins of the 6th-5th centuries BC. Tabnit calls himself 'priest of Astarte, king of the Sidonians'; Eshmunazar II says his mother Amotashtart was a priestess of Astarte and that the family built her temples in Sidon. They confirm the Bible's phrase 'Ashtoreth of the Sidonians'.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Pyrgi gold tablets",
+        "year": "1964",
+        "place": "Pyrgi, Etruscan port near Rome",
+        "summary": "Gold sheets of c. 500 BC in Phoenician and Etruscan record a king's dedication of a shrine to Astarte, equated with the Etruscan goddess Uni. They show how far Phoenician traders carried her.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Temple of Astarte at Kition",
+        "year": "1960s-1970s",
+        "place": "Kition (Larnaca), Cyprus",
+        "summary": "A large Phoenician temple, rebuilt over an older Bronze Age sanctuary, was dedicated to Astarte from the 9th century BC.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "Ashtart (Phoenician), probably pronounced 'Ashtart' or 'Ashtert'",
+      "biblical": "Ashtoreth",
+      "explanation": "The Hebrew vowels of Ashtoreth (a-o-e) match those of bosheth, 'shame'. Most scholars since the 19th century think scribes deliberately read the goddess's name with the vowels of 'shame', just as they did with Baal names and probably Molech. The Greek form Astarte preserves the original vowels. A few scholars think the o-vowel could come from the plural Ashtaroth, so the case is strong but not certain.",
+      "confidence": "scholarly-consensus"
+    },
+    "laterFate": "In Greek and Roman times she merged with Aphrodite and Venus Caelestis, and her Carthaginian counterpart became Juno Caelestis. In Christian demonology she changed gender: early modern grimoires such as Johann Weyer's *Pseudomonarchia Daemonum* (1577) and the *Lesser Key of Solomon* list 'Astaroth' as a great duke of hell, a male demon. Milton's *Paradise Lost* (Book 1) describes 'Astoreth', whom the Phoenicians called Astarte, queen of heaven with crescent horns, worshipped by Sidonian virgins under the moon.",
+    "refs": [
+      "Judg 2:13",
+      "1 Sam 7:3-4",
+      "1 Sam 31:10",
+      "1 Kgs 11:5",
+      "1 Kgs 11:33",
+      "2 Kgs 23:13"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "ishtar",
+      "baal-hadad",
+      "asherah",
+      "anat",
+      "queen-of-heaven",
+      "chemosh",
+      "milcom"
+    ]
+  },
+  {
+    "id": "yam",
+    "name": "Yam",
+    "otherNames": [
+      "Prince Sea (zbl ym)",
+      "Judge River (tpt nhr)",
+      "Beloved of El",
+      "Lotan / Litan (his serpent ally)"
+    ],
+    "original": "Ugaritic ym; Hebrew yam ('sea')",
+    "region": "canaan",
+    "domains": [
+      "the sea",
+      "rivers",
+      "chaos and disorder"
+    ],
+    "symbol": "raging sea; many-headed sea serpent",
+    "cultCenter": {
+      "name": "Ugarit (receives offerings in ritual lists; no known temple)",
+      "coords": [
+        35.785,
+        35.602
+      ]
+    },
+    "family": [
+      {
+        "relation": "father",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "enemy who defeats him",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "ally or alter ego",
+        "name": "Lotan, the twisting serpent with seven heads"
+      }
+    ],
+    "plain": "Yam is the Hebrew and Ugaritic word for 'sea', and at Ugarit it is also a god: the sea as a proud, threatening power that wants to rule. The storm god Baal defeats him.\n\nThe Bible does not worship Yam, but it borrows the picture: again and again Yahweh is the one who rebukes the sea, crushes the sea dragon and sets the sea its limits. When Jesus calms the storm and the disciples ask 'who is this, that even the wind and the sea obey him?', readers who know this background hear a claim about divine power.",
+    "myth": "In the first part of the Baal Cycle, El makes Yam king and builds him a palace. Yam sends messengers to the divine assembly demanding that Baal be surrendered; the gods cower, and El agrees. Baal refuses. Kothar-wa-Khasis gives Baal two clubs, 'Driver' (Yagrush) and 'Chaser' (Aymur). The first strikes Yam's chest without effect; the second hits his head and he collapses. Astarte urges Baal to 'scatter' him, and Baal is hailed as king. Elsewhere Anat and Baal boast of having crushed 'Lotan the fleeing serpent, the twisting serpent, the mighty one with seven heads', Yam's monstrous partner.",
+    "biblicalRole": "The Hebrew word yam means the sea in thousands of ordinary verses, but in poetry the sea and its monsters are treated as hostile powers that God subdues. God 'divided the sea' and 'broke the heads of the dragons on the waters' and 'crushed the heads of Leviathan' (Ps 74:13-14); he 'rules the raging of the sea' and crushed Rahab (Ps 89:9-10; Job 26:12). Isaiah 27:1 promises God will punish 'Leviathan the fleeing serpent, Leviathan the twisting serpent' and slay 'the dragon in the sea', wording that closely matches the Ugaritic description of Lotan.\n\nThe Bible's twist is that the sea is a creature, not a rival god: God set its bounds at creation (Job 38:8-11; Ps 104:9) and the dragons are his creatures (Gen 1:21; Ps 104:26). Scholars debate how far this is 'demythologising' Canaanite myth and how far it simply uses the region's poetic stock. The New Testament takes the picture to its end: Jesus rebukes the wind and sea (Mark 4:39-41), the beast rises from the sea (Rev 13:1), and in the new creation 'the sea was no more' (Rev 21:1).",
+    "encounters": [
+      {
+        "title": "God crushes the sea dragons",
+        "refs": [
+          "Ps 74:13-14",
+          "Ps 89:9-10",
+          "Job 26:12-13"
+        ],
+        "summary": "Poetry praises God for dividing the sea and crushing Leviathan and Rahab, language that echoes Baal's victory over Yam."
+      },
+      {
+        "title": "Leviathan the twisting serpent",
+        "refs": [
+          "Isa 27:1"
+        ],
+        "summary": "Isaiah's phrase for the end-time defeat of evil almost matches the Ugaritic title of Yam's serpent ally Lotan."
+      },
+      {
+        "title": "The sea is given its limit",
+        "refs": [
+          "Job 38:8-11",
+          "Jer 5:22"
+        ],
+        "summary": "God shut in the sea with doors and told it, 'Here your proud waves shall stop': the sea is a creature under command."
+      },
+      {
+        "title": "Jesus rebukes the sea",
+        "refs": [
+          "Mark 4:39-41"
+        ],
+        "summary": "Jesus rebukes the wind and says to the sea, 'Be still'; the disciples ask who this is that even the wind and sea obey him."
+      },
+      {
+        "title": "No more sea",
+        "refs": [
+          "Rev 13:1",
+          "Rev 21:1"
+        ],
+        "summary": "The beast rises from the sea, but in the new heaven and earth the sea is gone: chaos is finally removed."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Baal Cycle tablets KTU 1.1-1.2",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "The fragmentary first tablets of the Baal Cycle tell the conflict between Baal and Yam.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Lotan passage, KTU 1.5",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "Mot reminds Baal that he struck 'Lotan the fleeing serpent, the twisting serpent, the powerful one with seven heads', wording parallel to Isa 27:1.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Yam was never a major cult god and vanished with Ugarit. The image of the sea-monster survived as Leviathan, who became a symbol of chaos in Jewish apocalyptic (to be served at the messianic banquet in later Jewish tradition) and gave Thomas Hobbes the title of his 1651 book on the state.",
+    "refs": [
+      "Ps 74:13-14",
+      "Ps 89:9-10",
+      "Isa 27:1",
+      "Job 38:8-11",
+      "Mark 4:39",
+      "Rev 21:1"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "el",
+      "kothar",
+      "mot",
+      "anat"
+    ]
+  },
+  {
+    "id": "mot",
+    "name": "Mot",
+    "otherNames": [
+      "Death",
+      "Beloved of El",
+      "Hero of El"
+    ],
+    "original": "Ugaritic mt; Hebrew mavet ('death')",
+    "region": "canaan",
+    "domains": [
+      "death",
+      "the underworld",
+      "drought and sterility"
+    ],
+    "symbol": "an enormous open mouth swallowing everything; a city of mud and filth",
+    "cultCenter": {
+      "name": "Ugarit (no known temple; myth places his city, Hmry, in the underworld)",
+      "coords": [
+        35.785,
+        35.602
+      ]
+    },
+    "family": [
+      {
+        "relation": "father",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "enemy",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "destroyer",
+        "name": "Anat",
+        "godId": "anat"
+      }
+    ],
+    "plain": "Mot is death itself, pictured as a god with a bottomless appetite. In the Baal Cycle he swallows the storm god Baal, and the world dries out until Baal returns.\n\nIn Hebrew mot (mavet) is simply the word for death, and nobody in the Bible worships it. But the prophets and psalmists use the same picture of Death as a greedy swallower, and then reverse it: one day God will 'swallow up death for ever' (Isa 25:8), a line Paul quotes about the resurrection.",
+    "myth": "Mot's mouth stretches from earth to sky, one lip to heaven, one to the underworld, and his throat swallows like a lion or a camel. Baal, newly enthroned, sends him a message that he alone is king; Mot replies with a threat and invites Baal to eat with him. Baal submits, descends into Mot's throat and dies. Anat later seizes Mot, splits, winnows, burns, grinds and sows him like grain. Yet Mot is back seven years later to fight Baal until the sun goddess Shapash warns him that El will overturn his throne, and he yields.",
+    "biblicalRole": "Death in the Bible is never a god to be worshipped, but it is sometimes personified in ways that echo Mot. Death is greedy and never satisfied (Hab 2:5; Prov 27:20); it 'has come up into our windows' (Jer 9:21), a line some connect with Baal's hesitation over a window in his palace (debated). Sheol 'opens its mouth beyond measure' (Isa 5:14). Hosea taunts: 'O Death, where are your plagues? O Sheol, where is your sting?' (Hos 13:14).\n\nThe decisive reversal is Isa 25:8: on God's mountain he 'will swallow up death for ever'. The swallower is swallowed. Paul quotes Isaiah and Hosea together for the resurrection (1 Cor 15:54-55), and Revelation pictures Death and Hades thrown into the lake of fire (Rev 20:14). Whether the biblical writers knew Mot as a mythic figure or simply used natural personification is debated; the parallels in imagery are clear.",
+    "encounters": [
+      {
+        "title": "Death comes through the windows",
+        "refs": [
+          "Jer 9:21"
+        ],
+        "summary": "Jeremiah pictures death climbing into houses and cutting off children from the streets."
+      },
+      {
+        "title": "Death's open mouth",
+        "refs": [
+          "Isa 5:14",
+          "Hab 2:5",
+          "Prov 27:20"
+        ],
+        "summary": "Sheol and Death are described as an insatiable mouth, the same image as Mot's throat."
+      },
+      {
+        "title": "God will swallow up death",
+        "refs": [
+          "Isa 25:8"
+        ],
+        "summary": "In Isaiah's vision of the feast on Zion, God swallows Death for ever and wipes away tears."
+      },
+      {
+        "title": "Where is your sting?",
+        "refs": [
+          "Hos 13:14",
+          "1 Cor 15:54-55"
+        ],
+        "summary": "Hosea's taunt to Death becomes Paul's victory cry over death in the resurrection."
+      },
+      {
+        "title": "Death thrown into the lake of fire",
+        "refs": [
+          "Rev 20:14",
+          "1 Cor 15:26"
+        ],
+        "summary": "Death is the last enemy to be destroyed."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Baal Cycle tablets KTU 1.4-1.6",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "Tell the conflict between Baal and Mot, Baal's death and return, and Anat's destruction of Mot.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Mot had no cult to continue. Philo of Byblos (via Eusebius) mentions a 'Muth' whom the Phoenicians called Death and Pluto. The personified Death of Christian art, the rider on the pale horse (Rev 6:8) and the later Grim Reaper, owe more to the Bible and medieval imagination than to Ugarit, though the family resemblance is real.",
+    "refs": [
+      "Isa 25:8",
+      "Isa 5:14",
+      "Jer 9:21",
+      "Hos 13:14",
+      "Hab 2:5",
+      "1 Cor 15:54-55",
+      "Rev 20:14"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "anat",
+      "el",
+      "yam"
+    ]
+  },
+  {
+    "id": "kothar",
+    "name": "Kothar-wa-Khasis",
+    "otherNames": [
+      "Kothar",
+      "Skilful-and-Wise",
+      "Hayyin ('the deft')",
+      "Chousor (Philo of Byblos)"
+    ],
+    "original": "Ugaritic ktr w hss",
+    "region": "canaan",
+    "domains": [
+      "craftsmanship and metalwork",
+      "building",
+      "magic and spells",
+      "music and poetry (possibly)"
+    ],
+    "symbol": "smith's tools: hammer, tongs and bellows",
+    "cultCenter": {
+      "name": "Ugarit (myth places his home at Kaphtor, probably Crete, and Hikuptah, Memphis in Egypt)",
+      "coords": [
+        35.785,
+        35.602
+      ]
+    },
+    "family": [
+      {
+        "relation": "patron and client",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "servant of",
+        "name": "El",
+        "godId": "el"
+      },
+      {
+        "relation": "birth goddesses with a related name (possibly)",
+        "name": "the Kotharat"
+      }
+    ],
+    "plain": "Kothar-wa-Khasis, 'Skilful-and-Wise', is the Canaanite craftsman god: the divine smith and architect. He makes Baal's weapons and builds his palace.\n\nHe is never mentioned in the Bible. He matters to Bible readers mainly because his stories show how people of the time thought about temples: a god's house had to be built by a divinely gifted craftsman. The Bible tells similar stories of human craftsmen filled with God's Spirit and skill: Bezalel for the tabernacle and Hiram of Tyre for Solomon's temple.",
+    "myth": "Kothar lives far away in Kaphtor (probably Crete) and in Hikuptah (Memphis, Egypt), places famous for fine crafts. He forges the two clubs, 'Driver' and 'Chaser', with which Baal defeats Yam. He builds Baal's palace on Zaphon with a seven-day fire that turns silver and gold into bricks. He argues that the palace should have a window, which Baal at first refuses and later accepts. In the Aqhat epic he makes the beautiful bow that Anat covets. He also appears in incantations as a spell-maker.",
+    "biblicalRole": "No biblical text names Kothar. Possible echoes are indirect: the Philistines are said to come from Caphtor (Amos 9:7; Jer 47:4), the same place-name as Kothar's home; and the Bible's craftsmen are filled with wisdom and skill to build God's dwelling (Bezalel in Exod 31:2-5; Hiram of Tyre, a Phoenician bronze-worker, in 1 Kgs 7:13-14). Some scholars also hear the related Kotharat (birth goddesses) behind the rare word kosharot ('prosperity') in Ps 68:6. These links are suggestive, not proven. The biblical point, in contrast with Ugarit, is that skill itself is God's gift to human workers.",
+    "encounters": [
+      {
+        "title": "Bezalel filled with skill",
+        "refs": [
+          "Exod 31:2-5"
+        ],
+        "summary": "God fills Bezalel with his Spirit, wisdom and craftsmanship to build the tabernacle: a human craftsman, not a craftsman god."
+      },
+      {
+        "title": "Hiram of Tyre builds Solomon's bronzework",
+        "refs": [
+          "1 Kgs 7:13-14"
+        ],
+        "summary": "A Phoenician master-craftsman, 'full of wisdom, understanding and skill', makes the temple's bronze pillars and furnishings."
+      },
+      {
+        "title": "Caphtor",
+        "refs": [
+          "Amos 9:7",
+          "Deut 2:23"
+        ],
+        "summary": "Caphtor, probably Crete, is named as the Philistines' place of origin; Ugarit calls it Kothar's home."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Baal Cycle tablets KTU 1.2 and 1.4",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "Describe Kothar making Baal's clubs and building his palace.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Philo of Byblos, *Phoenician History* (quoted by Eusebius)",
+        "year": "written c. AD 100; preserved in the 4th century",
+        "place": "Byblos (literary source)",
+        "summary": "Philo describes 'Chousor', inventor of iron-working, spells and fishing tackle, and equates him with the Greek smith-god Hephaestus: a late echo of Kothar.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Kothar's memory faded into Philo of Byblos's 'Chousor', equated with Hephaestus. He plays no role in Jewish or Christian demonology.",
+    "refs": [
+      "Exod 31:2-5",
+      "1 Kgs 7:13-14",
+      "Amos 9:7"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "yam",
+      "el"
+    ]
+  },
+  {
+    "id": "resheph",
+    "name": "Resheph",
+    "otherNames": [
+      "Reshef",
+      "Rashap (Ebla)",
+      "Resheph of the arrow",
+      "Resheph-Mikal (Cyprus)",
+      "Apollo (Greek identification in Cyprus)"
+    ],
+    "original": "Ugaritic and Phoenician rshp; Hebrew reshep ('flame, plague')",
+    "region": "canaan",
+    "domains": [
+      "plague and pestilence",
+      "war",
+      "archery",
+      "gatekeeper of the underworld",
+      "protection from disease (when appeased)"
+    ],
+    "symbol": "smiting warrior with mace and shield, wearing a crown with a gazelle's head; arrows",
+    "cultCenter": {
+      "name": "Kition, Cyprus (Resheph-Mikal); also worshipped at Ebla, Ugarit and in New Kingdom Egypt",
+      "coords": [
+        33.63,
+        34.918
+      ]
+    },
+    "family": [
+      {
+        "relation": "fellow member of the Ugaritic pantheon",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "Mesopotamian counterpart",
+        "name": "Nergal",
+        "godId": "nergal"
+      }
+    ],
+    "plain": "Resheph was the god of plague and of war, an archer whose arrows brought disease. He was worshipped across the Near East for some two thousand years, from Ebla in Syria to Egypt and Cyprus.\n\nIn the Bible his name is a common word meaning 'flame', 'fiery bolt' or 'plague'. In a few poems, though, resheph seems to be pictured as a person: in Habakkuk 3:5, 'plague went before him, and resheph went out at his feet', as if the old plague god now marches as a servant in Yahweh's procession.",
+    "myth": "Resheph's myths are poorly preserved. At Ugarit he is the gatekeeper of the sun goddess and a god of plague; in the Kirta epic he carries off a fifth of the king's family. In Egypt, Pharaoh Amenhotep II and later kings honoured him as a war god, and stelae show him with a mace, shield and a gazelle-headed crown. In Cyprus he was called 'Resheph of the arrow' and identified with Apollo, the Greek archer-god who also sent plague.",
+    "biblicalRole": "Resheph appears as a common noun in several poems, sometimes with personal colouring: God threatens Israel with 'hunger, burning heat (resheph) and bitter pestilence' (Deut 32:24); 'plague went before him, and resheph followed at his feet' (Hab 3:5); God gave Egypt's flocks 'to reshaphim', fiery bolts (Ps 78:48); he broke 'the reshaphim of the bow', flashing arrows (Ps 76:3); love's flashes are 'flashes (reshaphim) of fire' (Song 8:6); and humans are born to trouble as 'the sons of resheph fly upward', sparks or perhaps birds (Job 5:7). A descendant of Ephraim is also called Resheph (1 Chr 7:25).\n\nMost scholars read Hab 3:5 and Deut 32:24 as demoted deities: once-feared gods now reduced to forces in Yahweh's service. Others see only poetic personification of plague. Either way the theology is that disease is not an independent divine power.",
+    "encounters": [
+      {
+        "title": "Plague and Resheph march with God",
+        "refs": [
+          "Hab 3:5"
+        ],
+        "summary": "In Habakkuk's storm-theophany, Pestilence goes before God and Resheph follows at his feet, like attendants in a royal procession."
+      },
+      {
+        "title": "Burning plague as covenant curse",
+        "refs": [
+          "Deut 32:23-24"
+        ],
+        "summary": "God threatens to send 'arrows' and 'resheph' against faithless Israel, the vocabulary of the archer plague god."
+      },
+      {
+        "title": "Fiery bolts and arrows",
+        "refs": [
+          "Ps 78:48",
+          "Ps 76:3",
+          "Song 8:6",
+          "Job 5:7"
+        ],
+        "summary": "Resheph as a common noun for flames, lightning, flaming arrows and sparks."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ebla tablets",
+        "year": "1974-1976",
+        "place": "Tell Mardikh (Ebla), Syria",
+        "summary": "Mid-3rd-millennium BC texts list Rashap among the gods with his own temple and gate, showing his great age.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Egyptian stelae of Reshep",
+        "year": "19th-20th century acquisitions",
+        "place": "Egypt (Deir el-Medina and elsewhere)",
+        "summary": "New Kingdom stelae show Resheph as a smiting warrior with a gazelle-headed crown, worshipped by Egyptians and foreigners.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Idalion bilingual inscription",
+        "year": "1869",
+        "place": "Idalion, Cyprus",
+        "summary": "A 4th-century BC Phoenician-Greek dedication equates Resheph with Apollo.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Through Cyprus Resheph merged into Apollo. In Hebrew the word survived only as 'flame' or 'spark' (modern Hebrew reshef). He has no role in Milton or in Christian demonology.",
+    "refs": [
+      "Deut 32:24",
+      "Hab 3:5",
+      "Ps 78:48",
+      "Ps 76:3",
+      "Song 8:6",
+      "Job 5:7",
+      "1 Chr 7:25"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "nergal",
+      "mot"
+    ]
+  },
+  {
+    "id": "dagon",
+    "name": "Dagon",
+    "otherNames": [
+      "Dagan",
+      "Lord of the Land (bel matim)",
+      "Father of Baal",
+      "Siton (Greek, 'grain', in Philo of Byblos)"
+    ],
+    "original": "Hebrew dagon; Akkadian and Ugaritic dagan",
+    "region": "philistia",
+    "domains": [
+      "grain and agriculture",
+      "fertility of the land",
+      "kingship and oracles",
+      "the dead and funerary offerings (at Ugarit and Mari)"
+    ],
+    "symbol": "ears of grain; an enthroned father god (not a fish, despite the popular image)",
+    "cultCenter": {
+      "name": "Ashdod (Philistine temple of Dagon); also Gaza; earlier Tuttul and Terqa on the middle Euphrates",
+      "coords": [
+        34.658,
+        31.756
+      ]
+    },
+    "family": [
+      {
+        "relation": "son (in Ugaritic texts)",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      }
+    ],
+    "plain": "Dagon was the chief god of the Philistines in the Bible, with temples at Ashdod and Gaza. He is famous for falling flat on his face in front of the Ark of the Covenant.\n\nOne common myth needs correcting: Dagon was not a fish god. The idea arose because the Hebrew word dag means 'fish', and medieval Jewish commentators such as David Kimhi imagined an idol that was half man, half fish; Milton then made it famous. In fact Dagan was an old Syrian grain god (dagan is Hebrew for 'grain'), worshipped at Ebla and Mari a thousand years before the Philistines arrived. The Philistines, who came from the Aegean world, adopted him when they settled in Canaan.",
+    "myth": "No myth about Dagan survives. Texts from the 3rd and 2nd millennia BC show him as a great god of the middle Euphrates: 'Lord of the Land', giver of grain, and a god of oracles and kingship. Sargon of Akkad (c. 2300 BC) records that he bowed down to Dagan at Tuttul, who gave him the 'upper land' as far as the Cedar Forest. At Mari prophets delivered oracles in his name, and he received offerings for the dead. At Ugarit he had a temple beside Baal's, and Baal is repeatedly called 'son of Dagan', though in the myths Baal belongs to El's family. Philo of Byblos later explained Dagon as 'Siton', grain, and credited him with inventing the plough.",
+    "biblicalRole": "Dagon appears in three scenes.\n\n1. Samson's death (Judg 16:23-30). The Philistine lords gather in Dagon's temple at Gaza to celebrate that 'our god has given Samson our enemy into our hand'. Samson pushes apart the two central pillars and the house falls on them.\n\n2. The ark at Ashdod (1 Sam 5). After capturing the Ark of the Covenant (c. 1050 BC on the usual chronology), the Philistines set it in Dagon's temple as a trophy beside their god. Next morning Dagon lies face down before the ark. They set him up again; the next morning he has fallen again, and his head and both hands lie cut off on the threshold, and 'only Dagon was left to him', an odd phrase usually taken to mean only his trunk or body. That is why, says the narrator, Dagon's priests do not step on the threshold 'to this day' (1 Sam 5:5; compare Zeph 1:9, those who 'leap over the threshold'). A plague of 'tumours' (ophalim, swellings; the Hebrew margin reads tehorim) breaks out in Ashdod, Gath and Ekron. They might be buboes of bubonic plague, haemorrhoids, or a genital affliction; it is debated. The Philistines return the ark with five golden tumours and five golden mice (1 Sam 6:4-5), and the mice have suggested to many a rodent-borne plague (the Greek Septuagint adds mice already in 1 Sam 5:6).\n\n3. Saul's head (1 Chr 10:10). After Saul's death on Gilboa, the Philistines fasten his head in the temple of Dagon, while his armour goes to the house of Ashtaroth and his body hangs on the wall of Beth-shan (1 Sam 31:10).\n\nThe ark story is a 'battle of the gods' told with mockery: the defeated people's God humiliates the victors' god in his own house.",
+    "encounters": [
+      {
+        "title": "Samson brings down Dagon's temple at Gaza",
+        "refs": [
+          "Judg 16:23-30"
+        ],
+        "summary": "The Philistines praise Dagon for capturing Samson; Samson pulls down the pillars and kills more in his death than in his life."
+      },
+      {
+        "title": "Dagon falls before the ark at Ashdod",
+        "refs": [
+          "1 Sam 5:1-5"
+        ],
+        "summary": "Dagon falls face down before the ark, then is found with head and hands broken off on the threshold."
+      },
+      {
+        "title": "Tumours and mice; the ark sent back",
+        "refs": [
+          "1 Sam 5:6-12",
+          "1 Sam 6:1-12"
+        ],
+        "summary": "Plague spreads through the Philistine cities; the ark is returned on a new cart with golden tumours and golden mice as a guilt offering."
+      },
+      {
+        "title": "Saul's head in Dagon's temple",
+        "refs": [
+          "1 Chr 10:8-10",
+          "1 Sam 31:9-10"
+        ],
+        "summary": "The Philistines display Saul's head in Dagon's temple and his armour in the temple of Ashtaroth."
+      },
+      {
+        "title": "Leaping over the threshold",
+        "refs": [
+          "Zeph 1:9"
+        ],
+        "summary": "Zephaniah condemns those who 'leap over the threshold', possibly a custom like that of Dagon's priests."
+      },
+      {
+        "title": "Place names Beth-dagon",
+        "refs": [
+          "Josh 15:41",
+          "Josh 19:27"
+        ],
+        "summary": "Two towns called Beth-dagon ('house of Dagon') show the god was known in Canaan before or alongside the Philistines."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ebla and Mari tablets",
+        "year": "1930s (Mari) and 1970s (Ebla)",
+        "place": "Tell Hariri (Mari) and Tell Mardikh (Ebla), Syria",
+        "summary": "3rd- and 2nd-millennium BC archives show Dagan as a major god of the middle Euphrates, with prophets speaking in his name at Mari.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Temple of Dagan and dedicatory stelae",
+        "year": "1929-1934",
+        "place": "Ugarit",
+        "summary": "One of the two temples on Ugarit's acropolis has been identified as Dagan's on the basis of two stelae recording offerings to him; the identification is widely but not universally accepted.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Ashdod excavations",
+        "year": "1962-1972 (Moshe Dothan)",
+        "place": "Tel Ashdod",
+        "summary": "Excavations revealed a major Philistine city with Aegean-style pottery and cult figurines (including the 'Ashdoda' seated goddess), but Dagon's temple itself has not been found.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Philistine origins",
+        "year": "excavations at Ashkelon, Ekron, Ashdod; ancient DNA study 2019",
+        "place": "Philistine Pentapolis",
+        "summary": "Pottery, architecture and a 2019 DNA study from Ashkelon point to a European/Aegean origin for the first Philistines in the 12th century BC, who soon mixed with locals. This supports the view that they adopted Dagan from their Semitic neighbours.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Dagon's temple at Ashdod was still standing in the 2nd century BC, when, according to 1 Maccabees 10, the Hasmonean leader Jonathan burned it with those who had fled inside. The fish-god idea came from medieval Jewish commentators playing on dag ('fish') and was cemented by Milton's *Paradise Lost* (Book 1), which describes Dagon as a 'sea monster', man above and fish below, mourning in his own temple when the ark maimed him. Later 'fish-god' images of Dagon draw on Assyrian reliefs of fish-cloaked apkallu sages, which have nothing to do with him. H. P. Lovecraft's 1919 story 'Dagon' turned him into a sea deity of horror fiction.",
+    "refs": [
+      "Judg 16:23-30",
+      "1 Sam 5:1-7",
+      "1 Sam 6:4-5",
+      "1 Chr 10:10",
+      "1 Sam 31:10",
+      "Zeph 1:9"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "baal-zebub",
+      "ptgyh",
+      "astarte"
+    ]
+  },
+  {
+    "id": "baal-zebub",
+    "name": "Baal-zebub",
+    "otherNames": [
+      "Lord of Flies",
+      "Baal-zebul ('Baal the Prince', probable original)",
+      "Beelzebul (Greek New Testament)",
+      "Beelzebub (Latin Vulgate, KJV)",
+      "god of Ekron"
+    ],
+    "original": "Hebrew ba'al zevuv; Greek Beelzeboul",
+    "region": "philistia",
+    "domains": [
+      "oracles and healing (as consulted by Ahaziah)",
+      "probably a local form of Baal the storm god"
+    ],
+    "symbol": "flies (by the biblical pun); otherwise the storm god's emblems",
+    "cultCenter": {
+      "name": "Ekron (Tel Miqne)",
+      "coords": [
+        34.849,
+        31.778
+      ]
+    },
+    "family": [
+      {
+        "relation": "local form or title of",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      }
+    ],
+    "plain": "Baal-zebub was the god of the Philistine city of Ekron, whom King Ahaziah of Israel tried to consult when he was injured. The name as written means 'Lord of Flies'.\n\nMost scholars think that is a deliberate insult. At Ugarit Baal is often called zbl b'l, 'Prince Baal', so the god's real title was probably Baal-zebul, 'Baal the Prince' or 'Lord of the exalted house'. Changing one letter turned 'Lord Prince' into 'Lord of Flies'. By the time of Jesus 'Beelzebul' had become a name for the prince of demons.",
+    "myth": "No myth of Ekron's god survives. If he was a local Baal, his worshippers will have told the storm god's stories: Baal the Prince (zbl), who defeats Sea, dies and returns. Ahaziah's embassy suggests Ekron's temple had a reputation as an oracle where one could ask about healing. A minority view takes 'lord of flies' at face value: a god who could drive away (or send) flies and the diseases they carried, comparable to the Greek 'Zeus Apomyios', 'Zeus who averts flies'.",
+    "biblicalRole": "King Ahaziah of Israel, son of Ahab, falls through the lattice of his upper room in Samaria and sends messengers to ask Baal-zebub, god of Ekron, whether he will recover. Elijah intercepts them with a question that becomes the theme of the story: 'Is it because there is no God in Israel that you are going to inquire of Baal-zebub?' Ahaziah dies as Elijah predicted (2 Kgs 1:2-17).\n\nIn the Gospels, opponents accuse Jesus of driving out demons 'by Beelzebul, the prince of demons' (Matt 12:24; Mark 3:22; Luke 11:15). Jesus answers that a kingdom divided against itself cannot stand, and that if he casts out demons by the Spirit (finger) of God, the kingdom of God has come. He also says that if they called the master of the house Beelzebul, they will malign his household too (Matt 10:25), which may play on zebul as 'house'. The Greek manuscripts read Beelzeboul; the Latin Vulgate and Syriac tradition read Beelzebub, which is why the KJV has 'Beelzebub'.",
+    "encounters": [
+      {
+        "title": "Ahaziah sends to Baal-zebub",
+        "refs": [
+          "2 Kgs 1:2-4"
+        ],
+        "summary": "The injured king seeks an oracle from Ekron's god; Elijah asks, 'Is there no God in Israel?'"
+      },
+      {
+        "title": "Fire on the captains",
+        "refs": [
+          "2 Kgs 1:9-16"
+        ],
+        "summary": "Fire falls on two companies sent to seize Elijah; he then goes to Ahaziah and repeats the verdict in person."
+      },
+      {
+        "title": "Ahaziah dies",
+        "refs": [
+          "2 Kgs 1:17"
+        ],
+        "summary": "The king dies according to Elijah's word."
+      },
+      {
+        "title": "Jesus accused of using Beelzebul",
+        "refs": [
+          "Matt 12:24-28",
+          "Mark 3:22-27",
+          "Luke 11:15-20"
+        ],
+        "summary": "Opponents say Jesus casts out demons by Beelzebul, prince of demons. Jesus replies with the divided-kingdom saying and the binding of the strong man."
+      },
+      {
+        "title": "The master of the house called Beelzebul",
+        "refs": [
+          "Matt 10:25"
+        ],
+        "summary": "Jesus warns his disciples that if he was slandered as Beelzebul, they will be too."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ugaritic title zbl b'l ('Prince Baal')",
+        "year": "1930s",
+        "place": "Ugarit",
+        "summary": "Baal is repeatedly called 'Prince, Lord of the earth' (zbl b'l ars). This is the main evidence that the original name was Baal-zebul and that 'zebub' is a deliberate change.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Ekron royal dedicatory inscription",
+        "year": "1996",
+        "place": "Tel Miqne (Ekron)",
+        "summary": "The 7th-century BC temple inscription from Ekron names the goddess Ptgyh, not Baal-zebub, so Ekron's pantheon is still only partly known.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "Baal-zebul, 'Baal the Prince' or 'Lord of the (exalted) dwelling'",
+      "biblical": "Baal-zebub, 'Lord of Flies'",
+      "explanation": "A one-letter change (final l to b) turns an honorific into a sneer. The New Testament form Beelzebul preserves the l, suggesting the original was remembered. A minority of scholars think 'Lord of flies' was the god's real title, perhaps for a healing god who drove away flies.",
+      "confidence": "debated"
+    },
+    "laterFate": "Beelzebub became one of the great names of Christian demonology: the prince of demons, sometimes identified with Satan and sometimes ranked just below him. In the *Testament of Solomon* (early centuries AD) 'Beelzeboul' is the prince of demons questioned by Solomon. Milton's *Paradise Lost* (Book 1) makes Beelzebub Satan's chief lieutenant, next to him in power and crime, who wakes beside him on the burning lake. He appears in medieval mystery plays, in Marlowe's *Doctor Faustus*, and gave William Golding's novel *Lord of the Flies* (1954) its title.",
+    "refs": [
+      "2 Kgs 1:2-3",
+      "2 Kgs 1:6",
+      "2 Kgs 1:16",
+      "Matt 10:25",
+      "Matt 12:24",
+      "Mark 3:22",
+      "Luke 11:15"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "dagon",
+      "ptgyh",
+      "shedim"
+    ]
+  },
+  {
+    "id": "baal-peor",
+    "name": "Baal-peor",
+    "otherNames": [
+      "Baal of Peor",
+      "Peor",
+      "Belphegor (later demonology)"
+    ],
+    "original": "Hebrew ba'al pe'or",
+    "region": "transjordan",
+    "domains": [
+      "local lord of Mount Peor",
+      "possibly rites for the dead",
+      "feasting and sexual rites (as the Bible describes his worship)"
+    ],
+    "symbol": "no known image; a mountain shrine",
+    "cultCenter": {
+      "name": "Beth-peor, on the plains of Moab near Mount Nebo (exact site uncertain)",
+      "coords": [
+        35.72,
+        31.78
+      ]
+    },
+    "family": [
+      {
+        "relation": "local manifestation of (probably)",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "identified with by Milton",
+        "name": "Chemosh",
+        "godId": "chemosh"
+      }
+    ],
+    "plain": "Baal-peor was 'the lord of Peor', a local god worshipped at a mountain shrine in Moab, across the Jordan from Jericho. Israel's first great fall into idolatry, just before entering the promised land, happened there.\n\nThe story became a byword. For centuries afterwards prophets, psalmists and apostles remembered 'what happened at Peor' as the warning example of how quickly God's people could abandon him.",
+    "myth": "Nothing is known of this god apart from the Bible. Most scholars think he was a local form of Baal (or of Chemosh) worshipped at Mount Peor. Psalm 106:28 says Israel 'ate sacrifices offered to the dead', which has led some scholars to link the cult with the marzeah, a feast for the dead known from Ugarit and later texts; others take 'the dead' as a jibe at lifeless idols.",
+    "biblicalRole": "While Israel camped at Shittim, the people 'began to whore with the daughters of Moab', ate at their sacrificial meals, bowed to their gods and 'yoked themselves to Baal of Peor' (Num 25:1-3). A plague broke out; Phinehas the priest ended it by spearing an Israelite man and a Midianite woman in the act. 24,000 died (Num 25:9; Paul gives 23,000 in 1 Cor 10:8, perhaps counting a single day or using a round figure). Numbers later blames Balaam's advice for the seduction (Num 31:16).\n\nThe event became a standard warning: Deut 4:3; Josh 22:17 ('is the iniquity of Peor too little for us?'); Hos 9:10 ('they came to Baal-peor and consecrated themselves to the shame'); Ps 106:28-31; 1 Cor 10:8; Rev 2:14.",
+    "encounters": [
+      {
+        "title": "Israel yokes itself to Baal-peor",
+        "refs": [
+          "Num 25:1-5"
+        ],
+        "summary": "Israelites join Moabite feasts and worship; Moses orders the leaders of the apostasy executed."
+      },
+      {
+        "title": "Phinehas stops the plague",
+        "refs": [
+          "Num 25:6-15"
+        ],
+        "summary": "Phinehas kills Zimri and the Midianite Cozbi; the plague stops after 24,000 deaths, and Phinehas receives a covenant of priesthood."
+      },
+      {
+        "title": "Balaam's counsel",
+        "refs": [
+          "Num 31:16",
+          "Rev 2:14"
+        ],
+        "summary": "The seduction at Peor is traced to Balaam, who taught Balak to put a stumbling block before Israel."
+      },
+      {
+        "title": "Remembered for centuries",
+        "refs": [
+          "Deut 4:3-4",
+          "Josh 22:17",
+          "Hos 9:10",
+          "Ps 106:28-31"
+        ],
+        "summary": "Peor becomes shorthand for apostasy; Hosea says Israel became as detestable as what it loved."
+      },
+      {
+        "title": "Paul's warning",
+        "refs": [
+          "1 Cor 10:7-8"
+        ],
+        "summary": "Paul cites the fall of 23,000 in one day as a warning to the Corinthians against sexual immorality and idol feasts."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Deir Alla plaster inscription (Balaam text)",
+        "year": "1967",
+        "place": "Tell Deir Alla, Jordan valley",
+        "summary": "A c. 800 BC text about 'Balaam son of Beor, a seer of the gods' shows that Balaam was a remembered figure in Transjordan, the region of the Peor story. It does not mention Peor.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Rabbinic tradition (e.g. the Babylonian Talmud, Sanhedrin 64a) claimed that Peor was worshipped by exposing oneself and defecating before the idol, a crude tradition with no ancient support. Milton's *Paradise Lost* (Book 1) gives 'Peor' as another name of Chemosh, the obscene dread of Moab. Renaissance demonology turned him into Belphegor, a demon of sloth and ingenious invention, the hero of Machiavelli's comic tale *Belfagor arcidiavolo*.",
+    "refs": [
+      "Num 25:1-9",
+      "Num 31:16",
+      "Deut 4:3",
+      "Josh 22:17",
+      "Hos 9:10",
+      "Ps 106:28",
+      "1 Cor 10:8",
+      "Rev 2:14"
+    ],
+    "confidence": "biblical",
+    "related": [
+      "baal-hadad",
+      "chemosh",
+      "baal-berith"
+    ]
+  },
+  {
+    "id": "baal-berith",
+    "name": "Baal-berith",
+    "otherNames": [
+      "Lord of the Covenant",
+      "El-berith ('God of the Covenant')",
+      "Berith (later demonology)"
+    ],
+    "original": "Hebrew ba'al berit; 'el berit",
+    "region": "canaan",
+    "domains": [
+      "guardian of covenants and treaties",
+      "city god of Shechem"
+    ],
+    "symbol": "temple-fortress and standing stone at Shechem",
+    "cultCenter": {
+      "name": "Shechem (Tell Balata, near Nablus)",
+      "coords": [
+        35.282,
+        32.213
+      ]
+    },
+    "family": [
+      {
+        "relation": "local form of (probably)",
+        "name": "Baal-Hadad or El",
+        "godId": "baal-hadad"
+      }
+    ],
+    "plain": "Baal-berith, 'Lord of the Covenant', was the god of the old Canaanite city of Shechem. After Gideon died, the Israelites 'made Baal-berith their god', and his temple funded the bloody rise of Gideon's son Abimelech.\n\nThe name is striking because Shechem was also where Joshua renewed Israel's covenant with Yahweh. So the city had two 'covenant' traditions side by side, and the Bible tells how one was swapped for the other.",
+    "myth": "No myth survives. He is called both Baal-berith (Judg 8:33; Judg 9:4) and El-berith (Judg 9:46), so scholars debate whether he was a form of El, a form of Baal, or a title used for both. 'Lord of the Covenant' probably means the god who guaranteed treaties sworn in his temple, perhaps a treaty between Shechem's Canaanites and neighbouring Israelite clans.",
+    "biblicalRole": "Shechem was already an old sacred site in Genesis: Abraham's first altar in Canaan (Gen 12:6-7) and Jacob's purchase of land and altar there (Gen 33:18-20). Joshua made a covenant with Israel at Shechem and set up a great stone under the oak by the sanctuary (Josh 24:25-26).\n\nAfter Gideon's death, the Israelites again served the Baals and made Baal-berith their god (Judg 8:33). The Shechemites gave Abimelech 70 pieces of silver from Baal-berith's temple, with which he hired 'worthless and reckless men' and murdered his 70 brothers (Judg 9:4-5). When Abimelech later turned on Shechem, about a thousand people took refuge in the stronghold of the temple of El-berith; he set it on fire and they all died (Judg 9:46-49).",
+    "encounters": [
+      {
+        "title": "Israel makes Baal-berith its god",
+        "refs": [
+          "Judg 8:33-34"
+        ],
+        "summary": "As soon as Gideon dies, Israel forgets Yahweh and adopts Shechem's covenant god."
+      },
+      {
+        "title": "Temple silver funds a massacre",
+        "refs": [
+          "Judg 9:4-6"
+        ],
+        "summary": "Seventy shekels from Baal-berith's temple pay for Abimelech's hired men, who kill his brothers; Abimelech is made king by the oak at Shechem."
+      },
+      {
+        "title": "The tower of El-berith burns",
+        "refs": [
+          "Judg 9:46-49"
+        ],
+        "summary": "Abimelech burns the stronghold of El-berith's temple with a thousand men and women inside."
+      },
+      {
+        "title": "Joshua's covenant at Shechem",
+        "refs": [
+          "Josh 24:25-27"
+        ],
+        "summary": "Earlier at the same place, Joshua had made Israel's covenant with Yahweh and set up a witness stone."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Shechem 'fortress temple' (migdal)",
+        "year": "1926 (Ernst Sellin); 1956-1973 (G. Ernest Wright and the Drew-McCormick expedition)",
+        "place": "Tell Balata, Nablus",
+        "summary": "A massive temple with walls about 5 m thick, built in the Middle Bronze Age and reused into the Late Bronze or early Iron Age, with a large standing stone in its forecourt. Wright identified it with the 'house of El-berith' of Judges 9. The identification is popular but debated, especially regarding whether the building was still in use at the time of Abimelech.",
+        "confidence": "debated"
+      }
+    ],
+    "laterFate": "In early modern demonology 'Berith' (or Baalberith) appears as a demon: a duke of hell in the *Lesser Key of Solomon*, and a demon named during the Aix-en-Provence possession case of 1610-1611. These lists borrowed biblical names freely and have no connection with ancient Shechem.",
+    "refs": [
+      "Judg 8:33",
+      "Judg 9:4",
+      "Judg 9:46-49",
+      "Josh 24:25-26",
+      "Gen 12:6-7"
+    ],
+    "confidence": "biblical",
+    "related": [
+      "baal-hadad",
+      "el",
+      "baal-peor"
+    ]
+  },
+  {
+    "id": "ptgyh",
+    "name": "Ptgyh",
+    "otherNames": [
+      "PTGYH (consonants only)",
+      "'Lady' of Ikausu"
+    ],
+    "original": "Phoenician-script inscription: ptgyh",
+    "region": "philistia",
+    "domains": [
+      "patron goddess of the royal temple of Ekron"
+    ],
+    "symbol": "unknown; only the name survives",
+    "cultCenter": {
+      "name": "Ekron (Tel Miqne), temple complex 650",
+      "coords": [
+        34.849,
+        31.778
+      ]
+    },
+    "family": [],
+    "plain": "Ptgyh is a goddess known from just one inscription: the royal dedication stone found at Ekron, one of the five Philistine cities, in 1996. The king of Ekron says he built the temple for 'Ptgyh his lady'.\n\nNobody knows who she was. The Bible never mentions her. She is a useful reminder that the Bible names only a few of the gods its neighbours worshipped, and that archaeology keeps turning up new ones.",
+    "myth": "No myth is known. Because the Philistines came from the Aegean world, several scholars have proposed that Ptgyh is a Greek goddess written in Semitic letters: suggestions include Pythogaia (an earth goddess linked with Delphi), Potnia ('Lady', a title of Aegean goddesses) or a form of Gaia. None of these is proven.",
+    "biblicalRole": "Ptgyh is not mentioned in the Bible. The inscription is valuable because its kings are known from both Assyrian records and, by name type, the Bible. King Ikausu son of Padi is mentioned in the annals of the Assyrian kings Esarhaddon and Ashurbanipal (early 7th century BC); his father Padi appears in Sennacherib's account of his 701 BC campaign, the same campaign described in 2 Kgs 18-19. The name Ikausu is generally thought to be the same as Achish, the name of the Philistine king of Gath whom David served (1 Sam 27:2), and may mean 'the Achaean' (Greek).",
+    "encounters": [
+      {
+        "title": "Ekron among the Philistine cities",
+        "refs": [
+          "1 Sam 5:10",
+          "1 Sam 6:16-17"
+        ],
+        "summary": "Ekron is one of the five Philistine cities that received the ark; its later temple belonged to Ptgyh."
+      },
+      {
+        "title": "Achish, a Philistine royal name",
+        "refs": [
+          "1 Sam 27:2"
+        ],
+        "summary": "David serves Achish king of Gath. The same name (Ikausu) appears centuries later for a king of Ekron in the Ptgyh inscription."
+      },
+      {
+        "title": "Prophecies against Ekron",
+        "refs": [
+          "Zeph 2:4",
+          "Amos 1:8",
+          "Jer 25:20"
+        ],
+        "summary": "The prophets announce judgement on Ekron along with the other Philistine cities; Ekron was destroyed by Babylon in 604 BC."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Ekron royal dedicatory inscription",
+        "year": "1996 (Seymour Gitin and Trude Dothan)",
+        "place": "Tel Miqne (Ekron), temple complex 650",
+        "summary": "A five-line limestone block, found in situ in a large temple, reads in substance: the house that Ikausu son of Padi, son of Ysd, son of Ada, son of Ya'ir, ruler of Ekron, built for Ptgyh his lady; may she bless him, protect him, prolong his days and bless his land. It confirms the Assyrian-attested kings and that Ekron was named Ekron, and is a key text for Philistine religion. The goddess's identity remains unknown.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Identity of Ptgyh",
+        "year": "1997 onward",
+        "place": "Scholarly literature",
+        "summary": "Proposals include Pythogaia, Potnia or a Greek-derived goddess, reflecting the Philistines' Aegean roots; others suggest a local Semitic goddess. Unresolved.",
+        "confidence": "speculative"
+      }
+    ],
+    "laterFate": "Ptgyh vanished with Ekron's destruction by Nebuchadnezzar in 604 BC and was unknown until 1996.",
+    "refs": [
+      "1 Sam 5:10",
+      "1 Sam 27:2",
+      "Zeph 2:4"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "dagon",
+      "baal-zebub",
+      "astarte"
+    ]
+  },
+  {
+    "id": "molech",
+    "name": "Molech",
+    "otherNames": [
+      "Moloch (Greek form, Acts 7:43)",
+      "the Molek",
+      "mlk",
+      "possibly Malik / Milku (Syrian and Mesopotamian underworld god)"
+    ],
+    "original": "Hebrew ha-molek (always with the article 'the' except once); consonants mlk = 'king'",
+    "region": "canaan",
+    "domains": [
+      "child sacrifice by fire ('passing through the fire')",
+      "possibly the underworld and the dead"
+    ],
+    "symbol": "fire pit (topheth); later imagined as a bull-headed bronze statue with outstretched arms",
+    "cultCenter": {
+      "name": "Topheth in the Valley of Ben-Hinnom, south of Jerusalem",
+      "coords": [
+        35.231,
+        31.768
+      ]
+    },
+    "family": [
+      {
+        "relation": "often confused or identified with",
+        "name": "Milcom, god of Ammon",
+        "godId": "milcom"
+      },
+      {
+        "relation": "compared with the Carthaginian cult of",
+        "name": "Baal Hammon",
+        "godId": "baal-hammon-and-tanit"
+      }
+    ],
+    "plain": "Molech is the name the Bible links with the worst practice it condemns: making children 'pass through the fire', that is, burning them as sacrifices, at a place called Topheth in the valley just south of Jerusalem.\n\nThere is a real scholarly argument about whether Molech was a god at all. The consonants mlk mean 'king'. Many scholars think the vowels were changed to those of bosheth, 'shame', turning melek ('king') into molek. Others, following Otto Eissfeldt (1935), argue that molk was a Phoenician word for a type of sacrifice, so 'to Molech' originally meant 'as a molk-offering'. Others again argue that Molech was a real underworld god. What no one disputes is that the Bible describes child sacrifice in Judah and condemns it in the strongest terms.",
+    "myth": "No myth of a god called Molech survives. If he was a god, the best candidate is Malik or Milku, a god of the underworld and the dead attested at Ebla, Mari and Ugarit, where one text places 'Milku' at Ashtaroth in Bashan. The famous picture of Moloch as a hollow bronze idol with a bull's head, heated red-hot, with children placed in its arms while drums drowned out the cries, comes from medieval Jewish commentaries (e.g. Rashi on Jer 7:31, explaining the name Topheth from toph, 'drum') and from Greek stories about Carthage, not from the Bible or any ancient Israelite source.",
+    "biblicalRole": "The law forbids giving any child 'to Molech' on pain of death (Lev 18:21; Lev 20:2-5) and forbids making a child 'pass through the fire' (Deut 18:10). Despite this, two kings of Judah did it: Ahaz 'made his son pass through the fire' (2 Kgs 16:3) and Manasseh did the same (2 Kgs 21:6). Topheth in the Valley of Ben-Hinnom was the site (Jer 7:31; Jer 32:35). God says through Jeremiah that it was something 'I did not command, nor did it come into my mind' (Jer 7:31; Jer 19:5). Josiah defiled Topheth so that no one could use it again (2 Kgs 23:10), probably around 622 BC.\n\nSolomon is said to have built a high place for 'Molech the abomination of the Ammonites' (1 Kgs 11:7), whereas two verses earlier the Ammonite god is Milcom (1 Kgs 11:5). This suggests either that the two names were confused or that the writer treated Milcom and Molech as the same 'king' god.\n\nThe Valley of Hinnom (ge hinnom) became, through its association with burning and judgement (Jer 7:32; Jer 19:6), the name Gehenna, the word Jesus uses for the place of final judgement (eleven times in the Gospels, e.g. Matt 5:22; Mark 9:43). Stephen, quoting the Greek of Amos 5:26, mentions 'the tent of Moloch' (Acts 7:43); the Hebrew of Amos reads 'Sakkuth your king' at that point.",
+    "encounters": [
+      {
+        "title": "Law against giving children to Molech",
+        "refs": [
+          "Lev 18:21",
+          "Lev 20:2-5",
+          "Deut 18:10"
+        ],
+        "summary": "Anyone who gives a child to Molech is to be put to death; the practice profanes God's name."
+      },
+      {
+        "title": "Solomon's high place",
+        "refs": [
+          "1 Kgs 11:5",
+          "1 Kgs 11:7"
+        ],
+        "summary": "Solomon builds a high place for 'Molech, the abomination of the Ammonites', called Milcom two verses earlier."
+      },
+      {
+        "title": "Ahaz and Manasseh sacrifice their sons",
+        "refs": [
+          "2 Kgs 16:3",
+          "2 Kgs 21:6",
+          "2 Chr 28:3",
+          "2 Chr 33:6"
+        ],
+        "summary": "Two kings of Judah make their sons pass through the fire, 'according to the abominations of the nations'."
+      },
+      {
+        "title": "Josiah defiles Topheth",
+        "refs": [
+          "2 Kgs 23:10"
+        ],
+        "summary": "Josiah ruins Topheth so that no one can again burn a son or daughter there to Molech."
+      },
+      {
+        "title": "'Which I did not command'",
+        "refs": [
+          "Jer 7:31-32",
+          "Jer 19:5-6",
+          "Jer 32:35"
+        ],
+        "summary": "Jeremiah condemns the high places of Topheth and renames the valley 'the Valley of Slaughter'."
+      },
+      {
+        "title": "Gehenna in the teaching of Jesus",
+        "refs": [
+          "Matt 5:22",
+          "Matt 10:28",
+          "Mark 9:43-47"
+        ],
+        "summary": "The Valley of Hinnom's name becomes Jesus' word for final judgement."
+      },
+      {
+        "title": "Stephen's speech: the tent of Moloch",
+        "refs": [
+          "Acts 7:42-43",
+          "Amos 5:26"
+        ],
+        "summary": "Stephen quotes the Greek version of Amos to accuse Israel of carrying the tent of Moloch in the wilderness."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Punic molk inscriptions",
+        "year": "1930s onward (Eissfeldt's thesis 1935)",
+        "place": "Carthage, North Africa, Malta",
+        "summary": "Stelae from Carthage and other Punic sites use mlk as a sacrifice term (mlk 'mr, 'molk of a lamb'; mlk b'l, of uncertain meaning). Otto Eissfeldt argued that biblical 'to Molech' meant 'as a molk-sacrifice'. Many accepted this; George Heider (1985) and John Day (1989) argued strongly for a real deity Molek. The debate continues.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Ugaritic mention of Milku at Ashtaroth",
+        "year": "1930s-1960s",
+        "place": "Ugarit",
+        "summary": "Ritual and snake-bite incantation texts mention a god mlk dwelling at 'ttrt (Ashtaroth), connected with the dead (the rpum, Rephaim). Supporters of a real god Molech cite this.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Carthage tophet",
+        "year": "1921 onward",
+        "place": "Salammbo, Carthage, Tunisia",
+        "summary": "A sacred precinct with thousands of urns of burned infants and young animals under stelae to Baal Hammon and Tanit, often used as a parallel for Jerusalem's Topheth. Whether it shows routine child sacrifice is debated (see Baal Hammon and Tanit).",
+        "confidence": "debated"
+      },
+      {
+        "find": "Search for Jerusalem's Topheth",
+        "year": "19th century to the present",
+        "place": "Hinnom valley, Jerusalem",
+        "summary": "No sacrificial precinct like Carthage's has been found in the Hinnom valley; the valley has many tombs (including the Ketef Hinnom tombs with the silver amulet blessing). Topheth's exact location is unknown.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "melek, 'king' (as a divine title), or molk, a sacrifice term",
+      "biblical": "Molech (ha-molek)",
+      "explanation": "Since Abraham Geiger (1857) many scholars have argued that the vowels o-e were taken from bosheth, 'shame', as with Ashtoreth and the Baal names. Eissfeldt's alternative explains the form as a genuine Phoenician sacrificial term. A third view takes Molek as a genuine divine name (compare Malik). The Greek Septuagint sometimes translates it as 'ruler' or 'king', showing that early readers did not all read it as a proper name.",
+      "confidence": "debated"
+    },
+    "laterFate": "Moloch became the archetype of a god who devours children. Milton's *Paradise Lost* (Book 1) puts Moloch first in the catalogue of fallen angels: a horrid king smeared with the blood of human sacrifice and parents' tears, worshipped by the Ammonites with drums drowning the children's cries. In modern culture Moloch stands for any system that consumes people: the machine in Fritz Lang's film *Metropolis* (1927) and the 'Moloch' section of Allen Ginsberg's poem *Howl* (1956).",
+    "refs": [
+      "Lev 18:21",
+      "Lev 20:2-5",
+      "1 Kgs 11:7",
+      "2 Kgs 16:3",
+      "2 Kgs 21:6",
+      "2 Kgs 23:10",
+      "Jer 7:31",
+      "Jer 19:5",
+      "Jer 32:35",
+      "Acts 7:43"
+    ],
+    "confidence": "debated",
+    "related": [
+      "milcom",
+      "baal-hammon-and-tanit",
+      "baal-hadad",
+      "chemosh",
+      "adrammelech-anammelech",
+      "sakkuth-kaiwan"
+    ]
+  },
+  {
+    "id": "milcom",
+    "name": "Milcom",
+    "otherNames": [
+      "Milkom",
+      "Malcam ('their king', Masoretic reading)",
+      "abomination of the Ammonites",
+      "sometimes equated with Molech"
+    ],
+    "original": "Hebrew milkom; Ammonite mlkm",
+    "region": "transjordan",
+    "domains": [
+      "national god of Ammon",
+      "kingship"
+    ],
+    "symbol": "crowned king (a heavy gold crown in 2 Sam 12:30, if the crown is the god's)",
+    "cultCenter": {
+      "name": "Rabbah of the Ammonites (Amman Citadel, Jordan)",
+      "coords": [
+        35.935,
+        31.954
+      ]
+    },
+    "family": [
+      {
+        "relation": "confused or identified with",
+        "name": "Molech",
+        "godId": "molech"
+      },
+      {
+        "relation": "fellow national god",
+        "name": "Chemosh of Moab",
+        "godId": "chemosh"
+      }
+    ],
+    "plain": "Milcom was the national god of the Ammonites, whose capital Rabbah lies under modern Amman in Jordan. His name comes from melek, 'king'. Solomon built him a shrine on the hill east of Jerusalem, which stood until Josiah tore it down.\n\nBecause Milcom and Molech share the same root letters, the Bible itself sometimes seems to mix them up, and scholars still debate whether they were one god or two. The best evidence is that Milcom was Ammon's ordinary state god, while 'Molech' is linked mainly with child sacrifice in Jerusalem.",
+    "myth": "No Ammonite myths survive. Ammonite personal names and seals show a people who worshipped Milcom alongside El and others, much as Moabites worshipped Chemosh and Judahites Yahweh. A national god was the divine king of the land: he gave it to his people and fought their wars.",
+    "biblicalRole": "Solomon 'went after Milcom the abomination of the Ammonites' and built a high place for him (1 Kgs 11:5; 1 Kgs 11:33); Josiah defiled it centuries later (2 Kgs 23:13). Zephaniah condemns those who swear by Yahweh and also by Milcom (Zeph 1:5, Masoretic 'Malcam'). Jeremiah asks why 'Milcom' has dispossessed Gad and his people settle in its cities, and announces that Milcom will go into exile with his priests (Jer 49:1; Jer 49:3).\n\nWhen David captured Rabbah he took 'the crown of their king' (malkam), weighing a talent of gold, and it was placed on David's head (2 Sam 12:30). A talent (around 30 kg) is too heavy for a human king to wear, so many (following the Greek Septuagint, which reads 'Milcom their king') think it was the crown of Milcom's statue, perhaps with its precious stone set in David's crown. This is a plausible reading, not a certain one.\n\n1 Kings 11:7 calls the Ammonite god 'Molech', raising the question whether Milcom and Molech were the same. Most scholars now treat them as distinct, explaining 11:7 as a scribal slip or a deliberate slur.",
+    "encounters": [
+      {
+        "title": "David takes the crown at Rabbah",
+        "refs": [
+          "2 Sam 12:26-31",
+          "1 Chr 20:2"
+        ],
+        "summary": "David captures the Ammonite capital and takes a crown of a talent of gold, probably from Milcom's image (debated)."
+      },
+      {
+        "title": "Solomon's high place for Milcom",
+        "refs": [
+          "1 Kgs 11:5",
+          "1 Kgs 11:33"
+        ],
+        "summary": "Solomon worships Milcom and builds his shrine east of Jerusalem."
+      },
+      {
+        "title": "Josiah defiles it",
+        "refs": [
+          "2 Kgs 23:13"
+        ],
+        "summary": "Josiah defiles the high places Solomon built for Ashtoreth, Chemosh and Milcom on the Mount of Corruption."
+      },
+      {
+        "title": "Swearing by Yahweh and by Milcom",
+        "refs": [
+          "Zeph 1:5"
+        ],
+        "summary": "Zephaniah condemns those who mix oaths by Yahweh with oaths by Milcom."
+      },
+      {
+        "title": "Milcom goes into exile",
+        "refs": [
+          "Jer 49:1-3"
+        ],
+        "summary": "Jeremiah mocks the god whose people took Gad's land: Milcom and his priests will go into captivity."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Amman Citadel inscription",
+        "year": "1961",
+        "place": "Amman Citadel, Jordan",
+        "summary": "A fragmentary 9th-century BC Ammonite building inscription that begins with the word mlkm, usually read as Milcom speaking or being invoked. The reading of the rest is uncertain.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Seal impression of an official of Baalis",
+        "year": "1984",
+        "place": "Tell el-Umeiri, Jordan",
+        "summary": "A clay seal impression reads 'belonging to Milkom'ur, servant of Ba'alyasha'. Ba'alyasha is very likely Baalis, the Ammonite king who plotted Gedaliah's murder (Jer 40:14). Milkom'ur ('Milcom is light') shows the god's name in everyday use.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Ammonite seals and statues",
+        "year": "20th century",
+        "place": "Amman region",
+        "summary": "Many Ammonite seals carry names with Milcom; limestone statues of bearded men from Amman may show kings or the god himself (debated).",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "Milkom",
+      "biblical": "malkam, 'their king' (Masoretic vowels in 2 Sam 12:30, Jer 49:1, Jer 49:3, Zeph 1:5)",
+      "explanation": "The same Hebrew consonants mlkm can be read as the god's name Milcom or as malkam, 'their king'. The Masoretic vowels often give 'their king' where the Greek Septuagint read 'Milcom'. Whether this was a deliberate way of avoiding the god's name or an honest ambiguity is debated; modern translations often restore Milcom.",
+      "confidence": "debated"
+    },
+    "laterFate": "Ammon was absorbed by Babylon and later empires, and Milcom's worship faded. Milton's *Paradise Lost* (Book 1) does not list Milcom separately but places Moloch's worship among 'the Ammonite' in Rabbah, following 1 Kgs 11:7 in treating them as one.",
+    "refs": [
+      "2 Sam 12:30",
+      "1 Kgs 11:5",
+      "1 Kgs 11:33",
+      "2 Kgs 23:13",
+      "Zeph 1:5",
+      "Jer 49:1-3"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "molech",
+      "chemosh",
+      "astarte"
+    ]
+  },
+  {
+    "id": "chemosh",
+    "name": "Chemosh",
+    "otherNames": [
+      "Kemosh",
+      "Ashtar-Chemosh (Mesha Stele)",
+      "abomination of Moab",
+      "Kamish (Ebla, possibly)"
+    ],
+    "original": "Hebrew kemosh; Moabite kmsh",
+    "region": "transjordan",
+    "domains": [
+      "national god of Moab",
+      "war and land",
+      "divine anger and favour toward his people"
+    ],
+    "symbol": "no certain image; a warrior god known from the Mesha Stele",
+    "cultCenter": {
+      "name": "Dibon (Dhiban, Jordan), Mesha's capital and the find-site of the Mesha Stele",
+      "coords": [
+        35.777,
+        31.501
+      ]
+    },
+    "family": [
+      {
+        "relation": "paired with (as Ashtar-Chemosh)",
+        "name": "Ashtar, probably a male form of Astarte",
+        "godId": "astarte"
+      },
+      {
+        "relation": "fellow national god",
+        "name": "Milcom of Ammon",
+        "godId": "milcom"
+      },
+      {
+        "relation": "identified with by Milton",
+        "name": "Baal-peor",
+        "godId": "baal-peor"
+      }
+    ],
+    "plain": "Chemosh was the national god of Moab, the kingdom east of the Dead Sea. The Moabites were 'the people of Chemosh' just as Israel was the people of Yahweh.\n\nChemosh is the one neighbouring god whose own worshippers' voice we can still hear clearly, thanks to the Mesha Stele, an inscription of about 840 BC in which King Mesha of Moab explains his country's history in exactly the terms the book of Kings uses for Israel: his god was angry and let the enemy oppress the land, then his god said 'Go!' and gave him victory.",
+    "myth": "No narrative myth survives. The Mesha Stele gives Chemosh's theology: Omri king of Israel humbled Moab for many days 'because Chemosh was angry with his land'. Then Chemosh restored the land in Mesha's days. Chemosh told Mesha, 'Go, take Nebo from Israel', and Mesha killed its 7,000 inhabitants because he had devoted them (the same idea as the Hebrew herem, 'devotion to destruction') to Ashtar-Chemosh. He took the vessels of Yahweh from Nebo and dragged them before Chemosh. Chemosh 'drove out' the king of Israel before him.",
+    "biblicalRole": "Israel's songs taunt Moab as 'the people of Chemosh' whose sons and daughters became fugitives (Num 21:29; Jer 48:46). Jephthah tells the Ammonite king, 'Will you not possess what Chemosh your god gives you?', treating Chemosh as Ammon's god, either a slip, a sign that Ammon then ruled Moabite land, or a rhetorical move (Judg 11:24). Solomon built a high place for 'Chemosh the abomination of Moab' east of Jerusalem (1 Kgs 11:7); Josiah defiled it (2 Kgs 23:13). Jeremiah says Chemosh will go into exile with his priests and princes (Jer 48:7; Jer 48:13).\n\nThe most startling text is 2 Kgs 3. Mesha, king of Moab, a sheep-breeder who paid Israel huge tribute, rebelled after Ahab's death (2 Kgs 3:4-5). Israel, Judah and Edom invaded and besieged him at Kir-hareseth. In desperation Mesha offered his eldest son as a burnt offering on the wall, 'and there came great wrath against Israel', and they withdrew (2 Kgs 3:26-27). Whose wrath? Readings include: (1) Chemosh's wrath, the writer admitting the foreign god's power in his own land (a minority view); (2) Yahweh's wrath against Israel for some fault or for provoking the act; (3) human fury or horror, the Moabites' rage or Israel's own dismay, sapping their will; (4) the writer deliberately leaves it unexplained. The text does not say.",
+    "encounters": [
+      {
+        "title": "'People of Chemosh'",
+        "refs": [
+          "Num 21:29",
+          "Jer 48:46"
+        ],
+        "summary": "Old war-songs and Jeremiah lament Moab as Chemosh's people, scattered and captive."
+      },
+      {
+        "title": "Jephthah's argument",
+        "refs": [
+          "Judg 11:24"
+        ],
+        "summary": "Jephthah argues from each nation's god-given land: let Ammon keep what Chemosh gives, and Israel what Yahweh gives."
+      },
+      {
+        "title": "Solomon's high place for Chemosh",
+        "refs": [
+          "1 Kgs 11:7",
+          "1 Kgs 11:33"
+        ],
+        "summary": "Solomon builds a shrine to Chemosh 'on the mountain east of Jerusalem'."
+      },
+      {
+        "title": "Mesha sacrifices his son",
+        "refs": [
+          "2 Kgs 3:4-5",
+          "2 Kgs 3:26-27"
+        ],
+        "summary": "Under siege, the Moabite king burns his heir on the city wall; great wrath comes on Israel and the armies withdraw."
+      },
+      {
+        "title": "Josiah defiles the shrine",
+        "refs": [
+          "2 Kgs 23:13"
+        ],
+        "summary": "Chemosh's high place is defiled in Josiah's reform."
+      },
+      {
+        "title": "Chemosh shall go into exile",
+        "refs": [
+          "Jer 48:7",
+          "Jer 48:13"
+        ],
+        "summary": "Moab will be ashamed of Chemosh as Israel was ashamed of Bethel."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Mesha Stele (Moabite Stone)",
+        "year": "1868 (shown to F. A. Klein); broken 1869",
+        "place": "Dhiban, Jordan (now in the Louvre)",
+        "summary": "A black basalt stele about 1.15 m tall with 34 lines in Moabite, c. 840 BC. The Anglican missionary F. A. Klein was shown it in 1868; while Prussian and French agents competed for it and Ottoman authorities pressed the local Bani Hamida, the locals heated it and poured cold water over it, shattering it (1869). Charles Clermont-Ganneau had already had a paper squeeze made, torn in haste while still wet. The stone was reconstructed from the squeeze and recovered fragments (about two-thirds of the original). It begins 'I am Mesha son of Chemosh-[yat], king of Moab, the Dibonite', names Omri and 'his son', records the taking of Nebo and the 'vessels of YHWH' dragged before Chemosh. It is the earliest certain mention of Yahweh outside the Bible. A reading of 'House of David' in line 31 (André Lemaire, 1994) is debated.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Kerak inscription",
+        "year": "1958",
+        "place": "Kerak, Jordan",
+        "summary": "A small fragment naming '[Chemosh-yat], king of Moab', probably Mesha's father, confirming the Chemosh-based royal name.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Mesha Stele and 2 Kings 3 compared",
+        "year": "ongoing",
+        "place": "Scholarly literature",
+        "summary": "The stele says Israel oppressed Moab under Omri and 'his son' (or descendant) for 40 years and that Mesha regained his land; Kings places Mesha's revolt after Ahab's death. Most scholars think both describe the same broad events from opposite sides, with chronological details hard to reconcile.",
+        "confidence": "debated"
+      }
+    ],
+    "laterFate": "Moab ceased to exist as a kingdom in the 6th century BC, and Chemosh vanished with it. Milton's *Paradise Lost* (Book 1) names 'Chemos, the obscene dread of Moab's sons', identifies him with Peor, and has him follow Moloch in the catalogue of fallen angels.",
+    "refs": [
+      "Num 21:29",
+      "Judg 11:24",
+      "1 Kgs 11:7",
+      "1 Kgs 11:33",
+      "2 Kgs 3:27",
+      "2 Kgs 23:13",
+      "Jer 48:7",
+      "Jer 48:46"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "milcom",
+      "molech",
+      "baal-peor",
+      "astarte"
+    ]
+  },
+  {
+    "id": "rimmon",
+    "name": "Rimmon",
+    "otherNames": [
+      "Hadad-Rimmon",
+      "Ramman (Akkadian, 'the Thunderer')",
+      "Hadad of Damascus",
+      "Jupiter Damascenus (Roman)"
+    ],
+    "original": "Hebrew rimmon (also 'pomegranate'); Akkadian Ramanu",
+    "region": "aram",
+    "domains": [
+      "storm and thunder",
+      "national god of Aram-Damascus",
+      "rain and fertility"
+    ],
+    "symbol": "bull with a lightning bolt; possibly the pomegranate by the biblical pun",
+    "cultCenter": {
+      "name": "Temple of Hadad in Damascus (site of the later Temple of Jupiter and the Umayyad Mosque)",
+      "coords": [
+        36.307,
+        33.511
+      ]
+    },
+    "family": [
+      {
+        "relation": "Aramean form of",
+        "name": "Baal-Hadad",
+        "godId": "baal-hadad"
+      },
+      {
+        "relation": "consort (in later Syrian cult)",
+        "name": "Atargatis"
+      }
+    ],
+    "plain": "Rimmon was the storm god of Damascus, capital of Aram (Syria): the same Hadad that Canaanites called Baal, under his Akkadian title Ramman, 'the Thunderer'. Several Aramean kings carried his name: Ben-Hadad ('son of Hadad'), Hadadezer ('Hadad is help') and Tabrimmon ('Rimmon is good').\n\nHe appears in one of the Bible's most human scenes. Naaman, the Syrian general healed of skin disease by Elisha, promises to worship only Israel's God, but asks forgiveness in advance for when his king leans on his arm and he must bow with him in the house of Rimmon. Elisha simply says, 'Go in peace.'",
+    "myth": "Hadad of Damascus was the Aramean storm god and divine king, in the same tradition as Baal of Ugarit and Adad of Assyria. Kings of Aram claimed he went before them in battle, as the Tel Dan inscription says of Hazael. The Akkadian epithet Ramman ('thunderer') became the Hebrew Rimmon, which also happens to be the ordinary word for 'pomegranate'.",
+    "biblicalRole": "Naaman asks for two mule-loads of Israelite earth so he can worship Yahweh in Damascus, a sign that he still thinks of gods as tied to their land. He also asks pardon for bowing with his king in the house of Rimmon, and Elisha replies, 'Go in peace' (2 Kgs 5:17-19). Christians have long debated whether this was a concession to weakness, tolerance of outward conformity, or simply a blessing on his departure without approving the request.\n\nAhaz copies the design of an altar he saw in Damascus and installs it in Yahweh's temple, sacrificing 'to the gods of Damascus that had struck him' (2 Kgs 16:10-16; 2 Chr 28:23). Zechariah speaks of a great mourning in Jerusalem 'like the mourning for Hadad-rimmon in the valley of Megiddo' (Zech 12:11). This may be ritual weeping for a dying storm god, or a place-name commemorating the mourning for King Josiah, killed at Megiddo; it is debated.",
+    "encounters": [
+      {
+        "title": "Naaman and the house of Rimmon",
+        "refs": [
+          "2 Kgs 5:17-19"
+        ],
+        "summary": "The healed Syrian general takes earth from Israel and asks pardon for bowing with his master in Rimmon's temple; Elisha says, 'Go in peace.'"
+      },
+      {
+        "title": "Aramean kings named for Hadad and Rimmon",
+        "refs": [
+          "1 Kgs 15:18",
+          "2 Sam 8:3",
+          "1 Kgs 20:1"
+        ],
+        "summary": "Tabrimmon, Hadadezer and Ben-Hadad all bear the storm god's names."
+      },
+      {
+        "title": "Ahaz's Damascus altar",
+        "refs": [
+          "2 Kgs 16:10-16",
+          "2 Chr 28:23"
+        ],
+        "summary": "Ahaz copies a Damascus altar and, according to Chronicles, sacrifices to the gods of Damascus."
+      },
+      {
+        "title": "Mourning for Hadad-rimmon",
+        "refs": [
+          "Zech 12:11"
+        ],
+        "summary": "A great mourning compared to that for Hadad-rimmon in the plain of Megiddo; whether this is a god or a place is debated."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Tel Dan stele",
+        "year": "1993-1994",
+        "place": "Tel Dan, northern Israel",
+        "summary": "A 9th-century BC Aramaic victory inscription, probably by Hazael of Damascus, says that 'Hadad went before me' and claims victory over a king of Israel and a king of the 'House of David'.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Temple of the storm god at Aleppo",
+        "year": "1996 onward (Kay Kohlmeyer)",
+        "place": "Aleppo citadel, Syria",
+        "summary": "A temple of the storm god Hadad, in use from the 3rd millennium to the early 1st millennium BC, with reliefs of the god; it shows the long life of his cult in Syria.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Temple of Jupiter Damascenus",
+        "year": "visible remains; studied since the 19th century",
+        "place": "Damascus",
+        "summary": "The Roman temple whose walls and gateways survive around the Umayyad Mosque stood on the site of Hadad's Aramean temple; it became a church of John the Baptist and then (AD 705-715) the Great Mosque.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "Ramman, 'the Thunderer' (Akkadian title of Hadad)",
+      "biblical": "Rimmon, 'pomegranate'",
+      "explanation": "Hebrew writers may have deliberately read the god's title as rimmon, 'pomegranate', making the mighty Thunderer a piece of fruit. Others think it is just the normal Hebrew form of the Aramaic name. The pun is possible but unproven.",
+      "confidence": "debated"
+    },
+    "laterFate": "Hadad of Damascus became Jupiter Damascenus under Rome. Milton's *Paradise Lost* (Book 1) names 'Rimmon, whose delightful seat was fair Damascus', who won over Naaman's king and led Ahaz to copy his altar. The phrase 'bowing in the house of Rimmon' became an English idiom for compromising one's conscience to keep one's position.",
+    "refs": [
+      "2 Kgs 5:18",
+      "2 Kgs 16:10-16",
+      "2 Chr 28:23",
+      "Zech 12:11",
+      "1 Kgs 15:18"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "baal-hadad",
+      "tammuz"
+    ]
+  },
+  {
+    "id": "tammuz",
+    "name": "Tammuz",
+    "otherNames": [
+      "Dumuzi (Sumerian)",
+      "Dumuzid the shepherd",
+      "Adonis (later Greek counterpart, debated)",
+      "Thammuz (Milton)"
+    ],
+    "original": "Hebrew tammuz; Sumerian Dumuzi(d), 'good son'",
+    "region": "mesopotamia",
+    "domains": [
+      "shepherds and flocks",
+      "spring vegetation",
+      "the dying of growth in summer",
+      "consort of the love goddess"
+    ],
+    "symbol": "shepherd's crook; reed pipe; sheepfold",
+    "cultCenter": {
+      "name": "Uruk and Bad-tibira in southern Mesopotamia",
+      "coords": [
+        45.637,
+        31.322
+      ]
+    },
+    "family": [
+      {
+        "relation": "lover and husband",
+        "name": "Inanna / Ishtar",
+        "godId": "ishtar"
+      },
+      {
+        "relation": "sister who shares his time in the underworld",
+        "name": "Geshtinanna"
+      }
+    ],
+    "plain": "Tammuz (Sumerian Dumuzi) was a shepherd god, husband of the love goddess Inanna (Ishtar). In Mesopotamian myth he was dragged down to the underworld, and each summer women mourned him with laments as the green pastures withered.\n\nThe Bible mentions him once. In a vision dated about 592 BC, Ezekiel is taken to the north gate of the Jerusalem temple and sees 'women sitting, weeping for Tammuz' (Ezek 8:14). The month of Tammuz still has his name in the Jewish calendar.",
+    "myth": "In the Sumerian 'Descent of Inanna', Inanna goes down to the underworld, dies there, and is revived on condition that she sends someone in her place. Returning, she finds her husband Dumuzi enthroned and unmoved by her absence, and hands him to the demons. Dumuzi's sister Geshtinanna mourns him and agrees to share his fate: each spends half the year below. (This ending was understood only in the 1960s; earlier scholars thought he simply stayed dead.) Many other Sumerian songs tell of the courtship of Inanna and Dumuzi and of laments for the slain shepherd.\n\nSir James Frazer's *The Golden Bough* (1890 onward) grouped Tammuz with Adonis, Osiris and Attis as 'dying and rising gods'. Later scholars, notably Jonathan Z. Smith, criticised that category as forced; others, such as Tryggve Mettinger, defend a modified version of it. It is a live debate.",
+    "biblicalRole": "Ezekiel's temple vision (Ezek 8) is a tour of four 'abominations', each worse than the last: an 'image of jealousy' at the north gate; seventy elders burning incense to drawings of creeping things and beasts; women weeping for Tammuz at the north gate of the temple; and twenty-five men with their backs to the temple, bowing east to the sun (Ezek 8:14-16). The point is that even in Jerusalem's last years before 586 BC, Judahites were mourning a Mesopotamian god at Yahweh's own house.\n\nSome scholars suggest other veiled references: Isaiah's 'pleasant plants' or 'gardens of Adonis' planted for a foreign god (Isa 17:10-11), and Daniel's 'the one beloved by women' (Dan 11:37). These are speculative.",
+    "encounters": [
+      {
+        "title": "Women weeping for Tammuz",
+        "refs": [
+          "Ezek 8:14-15"
+        ],
+        "summary": "At the north gate of the temple Ezekiel sees women mourning Tammuz, and is told he will see still greater abominations."
+      },
+      {
+        "title": "The vision's setting",
+        "refs": [
+          "Ezek 8:1-6",
+          "Ezek 8:16-18"
+        ],
+        "summary": "The vision is dated to the sixth year of Jehoiachin's exile; it climaxes with sun worship in the inner court."
+      },
+      {
+        "title": "Gardens for a foreign god (possible)",
+        "refs": [
+          "Isa 17:10-11"
+        ],
+        "summary": "Isaiah describes plants of pleasantness and a foreign slip that wither, which some connect with Adonis-gardens; speculative."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Sumerian 'Descent of Inanna' and Dumuzi laments",
+        "year": "tablets excavated mainly at Nippur, late 19th-20th century; reconstruction by Samuel Noah Kramer and others",
+        "place": "Nippur, Iraq (Old Babylonian copies, c. 1900-1600 BC)",
+        "summary": "The core myths of Dumuzi's death and his half-year return.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Akkadian 'Descent of Ishtar'",
+        "year": "1850s onward",
+        "place": "Library of Ashurbanipal, Nineveh, and Ashur",
+        "summary": "A shorter Akkadian version ending with rites for Tammuz, showing the cult was alive in the 1st millennium BC, Ezekiel's era.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Month name Du'uzu / Tammuz",
+        "year": "Babylonian calendar texts",
+        "place": "Mesopotamia",
+        "summary": "The fourth month (June-July) was named for Dumuzi in the Babylonian calendar; the Jews adopted these month names during and after the exile.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "Tammuz became identified with the Phoenician-Greek Adonis, whose name is Semitic adon, 'lord'. Jerome (Letter 58) complains that Bethlehem's birth-cave was overshadowed by a grove of Tammuz, that is, Adonis, in the 2nd-4th centuries. Maimonides (*Guide for the Perplexed* 3.29) retells a Sabian legend of Tammuz's death. Milton's *Paradise Lost* (Book 1) has 'Thammuz', whose yearly wound turned the river Adonis red and moved the daughters of Zion to the lament Ezekiel saw. The Jewish month and the Arabic Syrian month Tammuz still carry his name.",
+    "refs": [
+      "Ezek 8:14",
+      "Ezek 8:16",
+      "Isa 17:10-11",
+      "Dan 11:37"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "ishtar",
+      "queen-of-heaven",
+      "sun-and-host-of-heaven",
+      "baal-hadad"
+    ]
+  },
+  {
+    "id": "queen-of-heaven",
+    "name": "Queen of Heaven",
+    "otherNames": [
+      "malkat ha-shamayim",
+      "meleket ha-shamayim ('the work/host of heaven', Masoretic vowels)",
+      "possibly Astarte, Ishtar, Anat or Asherah"
+    ],
+    "original": "Hebrew malkat ha-shamayim",
+    "region": "canaan",
+    "domains": [
+      "fertility and household plenty",
+      "protection of the family",
+      "the evening star (if Ishtar/Astarte)"
+    ],
+    "symbol": "cakes (kawwanim) shaped or stamped with her image; the star",
+    "cultCenter": {
+      "name": "The streets of Jerusalem and the towns of Judah; later Judean refugee communities in Egypt",
+      "coords": [
+        35.231,
+        31.776
+      ]
+    },
+    "family": [
+      {
+        "relation": "possible identity",
+        "name": "Astarte",
+        "godId": "astarte"
+      },
+      {
+        "relation": "possible identity",
+        "name": "Ishtar",
+        "godId": "ishtar"
+      },
+      {
+        "relation": "possible identity",
+        "name": "Anat",
+        "godId": "anat"
+      },
+      {
+        "relation": "possible identity",
+        "name": "Asherah",
+        "godId": "asherah"
+      }
+    ],
+    "plain": "The 'Queen of Heaven' was a goddess worshipped by ordinary Judean families in Jeremiah's day, around 600 BC. Children gathered wood, fathers lit the fire, and women kneaded dough to bake cakes for her (Jer 7:18).\n\nJeremiah 44 gives one of the most revealing exchanges in the Bible. After Jerusalem fell, Judean refugees in Egypt told Jeremiah flatly that they would keep burning incense to the Queen of Heaven, because when they did, they had plenty of bread and were well, and since they stopped (under Josiah's reform) they had lacked everything. From their point of view, abandoning the goddess was what caused the disaster. Who exactly she was is not certain.",
+    "myth": "Her worshippers did not leave us her stories under this title. If she was Ishtar, her myths include the descent to the underworld and her love for Tammuz; if Astarte, she was the Phoenician queen goddess of love and war; if Anat, Egyptian texts call Anat 'lady of heaven'. What the Bible does record is her worshippers' theology: a household goddess who repays faithful offerings with food, health and safety.",
+    "biblicalRole": "Jeremiah condemns the family cult of the Queen of Heaven in Jerusalem (Jer 7:16-20). Later, in Pathros in Upper Egypt, the women say their husbands knew and approved of their incense, drink offerings and cakes 'made in her image' (Jer 44:15-19). The men and women together vow to continue. Jeremiah replies that it was exactly this incense that God remembered and punished, and announces that Pharaoh Hophra will fall (Jer 44:20-30).\n\nThe identity of the Queen is debated. (1) Ishtar: 'Queen of Heaven' is a standard Akkadian title of Ishtar (sharrat shame), and the cakes recall Mesopotamian kamanu cakes offered to Ishtar; kawwanim is probably a loanword from that term. (2) Astarte: the western form of Ishtar, popular in the Levant and Egypt. (3) Anat. (4) Asherah. Many scholars (e.g. Susan Ackerman) argue she was a blend of Ishtar and Astarte. All agree she was a goddess of popular, family religion, and that women played the leading role in her cult.",
+    "encounters": [
+      {
+        "title": "The family bakes for the Queen of Heaven",
+        "refs": [
+          "Jer 7:16-20"
+        ],
+        "summary": "Children gather wood, fathers kindle fire, women knead dough for cakes, and drink offerings are poured to other gods."
+      },
+      {
+        "title": "The refugees refuse Jeremiah",
+        "refs": [
+          "Jer 44:15-19"
+        ],
+        "summary": "The Judeans in Egypt insist that sacrificing to the Queen of Heaven brought them plenty, and stopping brought sword and famine."
+      },
+      {
+        "title": "Jeremiah's answer",
+        "refs": [
+          "Jer 44:20-23",
+          "Jer 44:25-28"
+        ],
+        "summary": "Jeremiah says their incense is why the land became a desolation, and sarcastically tells them to go ahead and fulfil their vows."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Judean pillar figurines",
+        "year": "20th century excavations",
+        "place": "Jerusalem and Judahite sites",
+        "summary": "Hundreds of household clay figurines of a woman supporting her breasts, c. 750-586 BC. Some scholars connect them with the Queen of Heaven or Asherah; others see generic fertility or protective charms.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Cake moulds from Mari",
+        "year": "1930s",
+        "place": "Mari (Tell Hariri), Syria",
+        "summary": "Clay moulds of the 18th century BC from the palace kitchen include one shaped as a nude female figure, often cited as a parallel for cakes 'in her image'. The link is illustrative, not direct.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Hermopolis papyri",
+        "year": "1945 (published 1966)",
+        "place": "Hermopolis (Tuna el-Gebel), Egypt",
+        "summary": "Aramaic family letters of c. 500 BC from Arameans in Egypt send greetings to a temple of the Queen of Heaven at Syene (Aswan), showing the title in use in the very region where Jeremiah's refugees settled.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "renamed": {
+      "original": "malkat ha-shamayim, 'Queen of Heaven'",
+      "biblical": "meleket ha-shamayim (Masoretic vowels), probably 'the work' or 'host of heaven'",
+      "explanation": "In Jeremiah the consonants mlkt are pointed by the Masoretes as meleket, not malkat, as if to avoid calling the goddess 'queen'. Ancient Greek translators and most modern versions read 'Queen of Heaven'. Whether the vowels were a deliberate avoidance or a genuine alternative reading is debated.",
+      "confidence": "debated"
+    },
+    "laterFate": "In the 4th century AD Epiphanius of Salamis (*Panarion* 79) condemned the Collyridians, a group of women in Arabia who offered cakes to the Virgin Mary, explicitly comparing them to the cake-offerers of Jeremiah. The medieval Latin title of Mary, 'Regina Caeli' (Queen of Heaven), has prompted Protestant polemic linking Marian devotion with Jeremiah's goddess; Catholic and Orthodox writers reply that the title derives from Mary's role as mother of the Messiah-King and from Rev 12, not from Ishtar or Astarte, and that she is honoured, not worshipped as divine. Historians generally see no direct line of descent between the two.",
+    "refs": [
+      "Jer 7:18",
+      "Jer 44:17-19",
+      "Jer 44:25"
+    ],
+    "confidence": "debated",
+    "related": [
+      "astarte",
+      "ishtar",
+      "anat",
+      "asherah",
+      "tammuz"
+    ]
+  },
+  {
+    "id": "baal-hammon-and-tanit",
+    "name": "Baal Hammon and Tanit",
+    "otherNames": [
+      "Ba'al Hammon",
+      "Tinnit / Tanit 'face of Baal' (pn b'l)",
+      "Kronos and Hera / Saturn and Caelestis (Greek and Roman identifications)",
+      "Juno Caelestis"
+    ],
+    "original": "Punic b'l hmn and tnt",
+    "region": "phoenicia",
+    "domains": [
+      "chief gods of Carthage",
+      "fertility and vows",
+      "recipients of the tophet offerings"
+    ],
+    "symbol": "the 'sign of Tanit': a triangle topped by a horizontal bar and a disc, like a stick figure with raised arms; crescent and disc",
+    "cultCenter": {
+      "name": "Tophet of Salammbo, Carthage (Tunisia)",
+      "coords": [
+        10.323,
+        36.846
+      ]
+    },
+    "family": [
+      {
+        "relation": "consort pair",
+        "name": "Baal Hammon and Tanit"
+      },
+      {
+        "relation": "Phoenician background",
+        "name": "Astarte (Tanit linked with her at Sarepta)",
+        "godId": "astarte"
+      },
+      {
+        "relation": "often compared with",
+        "name": "Molech",
+        "godId": "molech"
+      }
+    ],
+    "plain": "Baal Hammon and Tanit were the chief gods of Carthage, the Phoenician colony in North Africa founded from Tyre. They are not in the Bible. They are here because the Carthage 'tophet', a sacred area full of urns of burned babies and young animals dedicated to them, is the main archaeological evidence used to understand the biblical Topheth and the cult of Molech.\n\nWhether the Carthaginians routinely sacrificed their children, as Greek and Roman writers said, or whether the tophet was a special cemetery for infants who died naturally, is one of the most heated debates in Mediterranean archaeology.",
+    "myth": "Few Punic myths survive. Baal Hammon was the senior god, often shown as a bearded elder on a throne flanked by sphinxes; the Greeks equated him with Kronos and the Romans with Saturn. The meaning of 'Hammon' is debated: 'lord of the incense altar' (compare the Hebrew hammanim, incense altars, in Lev 26:30 and Isa 17:8), or 'lord of Mount Amanus' in Syria. Tanit, called 'face of Baal', rose to prominence in Carthage from the 5th century BC and was later worshipped as Juno Caelestis. Inscriptions on the tophet stelae follow a set formula: 'To the Lady Tanit, face of Baal, and to the Lord Baal Hammon, what X son of Y vowed, because he heard his voice.'",
+    "biblicalRole": "Neither god is named in the Bible. The connection is through practice. The Bible describes a 'Topheth' in the Hinnom valley where children were burned (Jer 7:31; 2 Kgs 23:10), calls the practice making children 'pass through the fire' (Deut 18:10; 2 Kgs 16:3), and says Phoenician-influenced kings brought foreign customs into Israel (1 Kgs 16:31). Scholars borrowed the biblical word 'tophet' for the Punic sanctuaries. Carthage's Punic inscriptions also use mlk as a sacrifice term, which led Otto Eissfeldt to his theory about Molech. The Bible's own word hammanim, incense altars that God threatens to destroy, may share a root with Baal Hammon's name (Lev 26:30; 2 Chr 34:4), though this is uncertain.",
+    "encounters": [
+      {
+        "title": "Topheth in the Hinnom valley",
+        "refs": [
+          "Jer 7:31",
+          "2 Kgs 23:10"
+        ],
+        "summary": "The biblical Topheth, where children were burned, gave its name to the Punic sanctuaries."
+      },
+      {
+        "title": "Passing children through the fire",
+        "refs": [
+          "Deut 12:31",
+          "Deut 18:10",
+          "2 Kgs 17:17"
+        ],
+        "summary": "Deuteronomy condemns burning sons and daughters as something the nations do for their gods."
+      },
+      {
+        "title": "Incense altars (hammanim)",
+        "refs": [
+          "Lev 26:30",
+          "Isa 17:8",
+          "2 Chr 34:4"
+        ],
+        "summary": "A rare word for incense altars that may be related to the name Baal Hammon (uncertain)."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Carthage tophet",
+        "year": "discovered 1921 (F. Icard and P. Gielly); excavated 1920s-1940s and 1976-1979 (Lawrence Stager)",
+        "place": "Salammbo, Carthage, Tunisia",
+        "summary": "A sacred precinct used from about the 8th century BC until Rome destroyed Carthage in 146 BC, with layer upon layer of urns holding the burned bones of infants, young children and young animals (lambs, kids), under stone markers and inscribed stelae to Tanit and Baal Hammon. Stager estimated about 20,000 urns were deposited between c. 400 and 200 BC alone. Similar tophets exist in Sicily (Motya), Sardinia (Tharros, Sulcis) and Malta.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Bone studies: cemetery or sacrifice?",
+        "year": "2010-2013",
+        "place": "Carthage tophet urns",
+        "summary": "Jeffrey Schwartz and colleagues (*PLoS ONE*, 2010) found that many of the infants were prenatal or perinatal and argued the tophet was a cemetery for babies who died naturally. Patricia Smith, Lawrence Stager and colleagues (*Antiquity*, 2011 and 2013), correcting for shrinkage of burned bone, found that the ages cluster at one to two months after birth, which fits a pattern of sacrifice rather than natural mortality. Other specialists (e.g. Paolo Xella and colleagues, *Antiquity* 2013) argue the inscriptions, which speak of vows and offerings, plus the classical sources, point to sacrifice. The question is still debated, though many specialists now accept that at least some infants were sacrificed.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Classical reports",
+        "year": "1st century BC to 2nd century AD writings",
+        "place": "Greek and Roman authors",
+        "summary": "Diodorus Siculus (*Library* 20.14) says that in 310 BC, besieged by Agathocles, Carthage sacrificed some 200-500 children of noble families to Kronos, whose bronze statue had outstretched hands from which the child rolled into a pit of fire. Plutarch (*On Superstition* 13) describes drums and flutes drowning the cries. Tertullian (*Apology* 9) says children were sacrificed to Saturn in Africa into Roman times. These writers were Carthage's enemies or outsiders, so their reliability is part of the debate.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Sarepta 'Tanit-Ashtart' inscription",
+        "year": "1972 (James Pritchard)",
+        "place": "Sarepta (biblical Zarephath), Lebanon",
+        "summary": "A 7th-century BC ivory plaque dedicated to 'Tanit-Ashtart', showing Tanit was known in the Phoenician homeland and linked with Astarte.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "After Rome destroyed Carthage, Baal Hammon lived on as Saturn, whose cult was hugely popular in Roman North Africa, and Tanit as Juno Caelestis. Augustine (*City of God* 2.4) recalls the lewd festivals of the 'Virgin Caelestis' he watched as a young man in Carthage. Gustave Flaubert's novel *Salammbo* (1862) made the image of Carthaginian child sacrifice to Moloch famous in European imagination.",
+    "refs": [
+      "Jer 7:31",
+      "2 Kgs 23:10",
+      "Deut 18:10",
+      "Lev 26:30"
+    ],
+    "confidence": "debated",
+    "related": [
+      "molech",
+      "astarte",
+      "baal-hadad",
+      "el"
+    ]
+  },
+  {
+    "id": "sun-and-host-of-heaven",
+    "name": "Sun, Moon and the Host of Heaven",
+    "otherNames": [
+      "Shemesh (sun)",
+      "Yareah (moon)",
+      "the host of heaven (tseva ha-shamayim)",
+      "the constellations (mazzalot)",
+      "Shamash (Mesopotamian sun god)",
+      "horses and chariots of the sun"
+    ],
+    "original": "Hebrew shemesh, yareah, tseva ha-shamayim",
+    "region": "canaan",
+    "domains": [
+      "sun, moon and stars as divine powers",
+      "justice and seeing all things (the sun)",
+      "omens and fate (the stars)"
+    ],
+    "symbol": "winged sun disc; horses and chariots of the sun; crescent moon; stars",
+    "cultCenter": {
+      "name": "The Jerusalem temple courts and rooftops of Jerusalem",
+      "coords": [
+        35.235,
+        31.778
+      ]
+    },
+    "family": [
+      {
+        "relation": "Mesopotamian sun god",
+        "name": "Shamash",
+        "godId": "shamash"
+      },
+      {
+        "relation": "Mesopotamian moon god",
+        "name": "Sin",
+        "godId": "sin-moon"
+      },
+      {
+        "relation": "Venus, the morning and evening star",
+        "name": "Ishtar",
+        "godId": "ishtar"
+      },
+      {
+        "relation": "star god named in Amos",
+        "name": "Sakkuth and Kaiwan",
+        "godId": "sakkuth-kaiwan"
+      }
+    ],
+    "plain": "Ancient peoples around Israel worshipped the sun, the moon and the stars as gods: Shamash the sun god of justice in Mesopotamia, Sin the moon god of Harran and Ur, and the planets and constellations as divine beings who shaped fate. The Bible calls them 'the host of heaven'.\n\nIn Judah's last century this worship came right into the temple. Manasseh built altars for the host of heaven in its courts; there were horses dedicated to the sun at the temple entrance and 'chariots of the sun'; people burned incense on their rooftops to the stars. Josiah swept it all away, and Ezekiel still saw twenty-five men in the inner court bowing east to the sun with their backs to God's house.",
+    "myth": "In Mesopotamia Shamash crossed the sky each day in his chariot and passed through the underworld at night, seeing everything; so he was the god of justice and oaths (he hands Hammurabi his laws on the famous stele). Sin the moon god kept time and gave omens. Babylonian astrology read the will of the gods in the stars. In Ugarit the sun was a goddess, Shapash, 'torch of the gods', who helps find the dead Baal. Judah stood between these worlds, and Assyrian domination in the 8th-7th centuries BC brought more astral religion with it, though how much was imposed and how much was local is debated.",
+    "biblicalRole": "Genesis deliberately calls the sun and moon just 'the greater light' and 'the lesser light', lamps God hung in the sky, perhaps to avoid names that were also gods' names (Gen 1:16; a common but debated reading). Deuteronomy warns Israel not to bow down to the sun, moon and stars, which God 'allotted to all the peoples' (Deut 4:19; Deut 17:3). Job protests that he never kissed his hand to the shining sun or moon (Job 31:26-28).\n\nThe northern kingdom worshipped the host of heaven (2 Kgs 17:16). Manasseh built altars for all the host of heaven in both temple courts (2 Kgs 21:3; 2 Kgs 21:5). Josiah removed the priests who burned incense 'to Baal, to the sun and the moon and the constellations and all the host of the heavens', took away the horses the kings had dedicated to the sun at the temple entrance, burned the chariots of the sun, and pulled down the rooftop altars of Ahaz (2 Kgs 23:4-5; 2 Kgs 23:11-12). Jeremiah and Zephaniah condemn rooftop offerings to the host of heaven (Jer 19:13; Zeph 1:5). Ezekiel sees about twenty-five men in the inner court facing east and bowing to the sun (Ezek 8:16).\n\nAt the same time the Bible uses solar language for God: 'the LORD God is a sun and shield' (Ps 84:11); 'the sun of righteousness shall rise with healing in its wings' (Mal 4:2). Some scholars (notably J. Glen Taylor, *Yahweh and the Sun*, 1993) argue that some Judahites actually worshipped Yahweh in solar form, so the 'horses of the sun' were Yahweh's; others think they were for a separate sun god introduced under Assyrian influence. It is debated.",
+    "encounters": [
+      {
+        "title": "Do not worship the host of heaven",
+        "refs": [
+          "Deut 4:19",
+          "Deut 17:2-5"
+        ],
+        "summary": "Israel must not bow to sun, moon or stars, which God allotted to the nations."
+      },
+      {
+        "title": "Manasseh's altars to the host of heaven",
+        "refs": [
+          "2 Kgs 21:3-5",
+          "2 Chr 33:3-5"
+        ],
+        "summary": "Manasseh builds altars for all the host of heaven in both courts of the temple."
+      },
+      {
+        "title": "Josiah removes sun horses and chariots",
+        "refs": [
+          "2 Kgs 23:4-5",
+          "2 Kgs 23:11-12"
+        ],
+        "summary": "Josiah removes priests of the sun, moon and constellations, the horses dedicated to the sun and the chariots of the sun, and the rooftop altars."
+      },
+      {
+        "title": "Rooftop offerings",
+        "refs": [
+          "Jer 19:13",
+          "Zeph 1:5",
+          "Jer 8:1-2"
+        ],
+        "summary": "Prophets condemn incense on rooftops to the host of heaven; Jeremiah says the bones of the guilty will be spread before the sun and moon they loved."
+      },
+      {
+        "title": "Twenty-five men bow to the sun",
+        "refs": [
+          "Ezek 8:16-18"
+        ],
+        "summary": "In the inner court, between porch and altar, men turn their backs on the temple and bow eastward to the sun."
+      },
+      {
+        "title": "Stephen: God gave them up to worship the host of heaven",
+        "refs": [
+          "Acts 7:42-43"
+        ],
+        "summary": "Stephen cites Amos to say Israel served the host of heaven even in the wilderness."
+      }
+    ],
+    "archaeology": [
+      {
+        "find": "Taanach cult stand",
+        "year": "1968 (Paul Lapp)",
+        "place": "Taanach, Jezreel valley",
+        "summary": "A 10th-century BC four-tiered clay stand. The top tier shows a horse or young bull under a winged sun disc; other tiers show a nude goddess between lions and a sacred tree. Some (Taylor, Hestrin) read the top tier as Yahweh symbolised by a solar animal and alternating tiers as Yahweh and Asherah; others see generic Canaanite imagery.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Horse figurines with discs",
+        "year": "1967 (Kathleen Kenyon, Cave 1)",
+        "place": "Jerusalem, east slope of the City of David",
+        "summary": "Iron Age clay horse figurines, some with a disc on the forehead, have been linked to the 'horses of the sun' of 2 Kgs 23:11. Whether the disc is a sun or simply a forelock or ornament is debated.",
+        "confidence": "debated"
+      },
+      {
+        "find": "Hezekiah's royal seal impression and LMLK jar handles",
+        "year": "LMLK handles since the 19th century; Hezekiah bulla found 2009, published 2015 (Eilat Mazar)",
+        "place": "Jerusalem (Ophel) and Judahite sites",
+        "summary": "A clay bulla reading 'belonging to Hezekiah son of Ahaz, king of Judah' carries a two-winged sun disc; many royal LMLK storage-jar handles bear a winged sun or four-winged scarab. These show solar symbols as royal emblems of Judah; whether they imply sun worship or simply borrowed Egyptian royal iconography is debated.",
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "find": "Shamash on the Code of Hammurabi stele",
+        "year": "1901-1902",
+        "place": "Susa, Iran (now in the Louvre)",
+        "summary": "The sun god Shamash, with rays rising from his shoulders, hands King Hammurabi (18th century BC) the symbols of authority: the classic image of the sun as god of justice.",
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "laterFate": "After the exile, Jewish practice made a point of turning away from sun worship: the Mishnah (*Sukkah* 5:4) records that during the Feast of Tabernacles priests turned toward the temple and declared that their fathers had turned their backs on the temple and bowed east to the sun, 'but as for us, our eyes are to the LORD'. The Roman cult of Sol Invictus later became a major rival to early Christianity; early Christians themselves prayed facing east toward the rising sun as a symbol of Christ's return, while insisting they did not worship the sun (Tertullian answers this charge in *Apology* 16). Astrology, the heir of star worship, has never fully gone away.",
+    "refs": [
+      "Deut 4:19",
+      "Deut 17:3",
+      "2 Kgs 21:3-5",
+      "2 Kgs 23:5",
+      "2 Kgs 23:11",
+      "Jer 19:13",
+      "Zeph 1:5",
+      "Ezek 8:16"
+    ],
+    "confidence": "scholarly-consensus",
+    "related": [
+      "shamash",
+      "sin-moon",
+      "ishtar",
+      "sakkuth-kaiwan",
+      "queen-of-heaven",
+      "tammuz",
+      "asherah"
+    ]
+  }
+]
