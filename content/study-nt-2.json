@@ -2736,5 +2736,2122 @@
         "publicDomain": true
       }
     ]
+  },
+  {
+    "id": "1-thessalonians",
+    "oneLine": "In what is probably the oldest Christian writing we have, Paul encourages new believers who are suffering for having turned from idols, and comforts them that their dead will rise to meet the Lord at his coming.",
+    "author": {
+      "name": "Paul, Silvanus (Silas) and Timothy",
+      "who": "The three missionaries who founded the church (Acts 17:1-9). Paul is the main voice ('I, Paul', 1 Thess 2:18), but the letter speaks as 'we' throughout, reflecting a team.",
+      "howWeKnow": "Undisputed. The vivid, specific memories of the founding visit, the plans and travels of Timothy (1 Thess 3:1-6) and the early, simple theology fit Paul around 50. A minority view treats 1 Thess 2:14-16 as a later insertion, but most scholars accept it as Paul's.",
+      "otherWritings": [
+        "2 Thessalonians",
+        "Romans",
+        "1 Corinthians",
+        "Galatians",
+        "Philippians",
+        "Philemon"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Corinth",
+      "coords": [
+        22.88,
+        37.91
+      ],
+      "note": "Paul had gone on from Thessalonica to Berea and Athens (1 Thess 3:1); Timothy rejoined him, and Acts places the reunion with Silas and Timothy in Corinth (Acts 18:5).",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "A young, mostly Gentile church of manual workers and their households",
+      "place": "Thessalonica, capital of Macedonia",
+      "coords": [
+        22.94,
+        40.64
+      ],
+      "situation": "Paul had been forced out after only a few weeks or months (Acts 17:5-10). The converts faced hostility from their own fellow citizens (1 Thess 2:14), Paul worried that persecution had crushed their faith, and some members had died, raising the fear that they would miss the Lord's coming (1 Thess 4:13).",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -42,
+        "event": "Thessalonica, having backed Antony and Octavian at Philippi, is rewarded as a 'free city' with its own magistrates, the politarchs."
+      },
+      {
+        "year": 41,
+        "event": "Claudius becomes emperor; coins and inscriptions in Thessalonica honour the emperors and the goddess Roma."
+      },
+      {
+        "year": 49,
+        "event": "Claudius expels Jews from Rome (date from Orosius, debated)."
+      },
+      {
+        "year": 49,
+        "event": "Paul, Silas and Timothy found the church in Thessalonica, then flee to Berea (approximate date)."
+      },
+      {
+        "year": 50,
+        "event": "Paul writes 1 Thessalonians from Corinth, about the time Gallio arrives as proconsul."
+      }
+    ],
+    "backdrop": "Thessalonica (modern Thessaloniki) was the largest city in Macedonia and the seat of the Roman governor, a port on the Via Egnatia. It was a 'free city', governed by its own officials called politarchs. Acts uses exactly this title (Acts 17:6, Acts 17:8), and more than thirty inscriptions with it have been found, one of the small details that support Luke's accuracy. The city's prosperity depended on loyalty to Rome; it had temples to Roma and the emperors, and coins hailing Julius Caesar as a god.\n\nAccording to Acts, Paul preached in the synagogue for three Sabbaths and won some Jews, many God-fearing Greeks and leading women (Acts 17:1-4). Opponents dragged his host Jason before the politarchs, charging that the missionaries defied 'the decrees of Caesar, saying there is another king, Jesus' (Acts 17:7). The letter itself says the converts 'turned to God from idols' (1 Thess 1:9), which suggests that most were Gentiles. Giving up the city's gods was not a private choice; it could mean losing work in trade guilds, alienating family and seeming disloyal to the city's divine protectors. That is the 'affliction' they suffered.\n\nPaul writes as a worried parent. He compares himself to a nursing mother and a father (1 Thess 2:7, 1 Thess 2:11), defends himself against any suggestion that he was a travelling preacher out for money or flattery (1 Thess 2:3-6), and pours out relief at Timothy's good report (1 Thess 3:6-10). Then he answers a practical pastoral problem: some believers had died, and the church grieved as if they had lost their share in the coming kingdom. Paul's answer, with its trumpet, archangel and meeting in the air, is the basis of much later teaching about the end, but here its purpose is comfort (1 Thess 4:18).",
+    "culture": [
+      {
+        "term": "Turning from idols",
+        "explain": "City life revolved around worship of many gods at festivals, guild dinners and civic events. Converts who stopped were seen as atheists and bad citizens, and their neighbours could blame them for any misfortune.",
+        "refs": [
+          "1 Thess 1:9-10",
+          "1 Thess 2:14"
+        ]
+      },
+      {
+        "term": "Wandering philosophers",
+        "explain": "Cities were full of travelling speakers, some sincere, some charlatans seeking money and admiration. Paul distances himself from them: he worked night and day so as not to burden anyone.",
+        "refs": [
+          "1 Thess 2:3-9"
+        ]
+      },
+      {
+        "term": "Parousia and apantēsis",
+        "explain": "Parousia ('presence, arrival') was used for a ruler's official visit to a city. Citizens went out to meet (apantēsis) him and escorted him back in. Many scholars see this picture in 1 Thess 4:15-17; others think the word means simply 'meeting'.",
+        "refs": [
+          "1 Thess 2:19",
+          "1 Thess 4:15-17",
+          "Acts 28:15"
+        ]
+      },
+      {
+        "term": "'Peace and security'",
+        "explain": "Roman propaganda celebrated the peace and safety brought by Rome. Many scholars hear an echo of such slogans in 1 Thess 5:3; others doubt a specific slogan is meant.",
+        "refs": [
+          "1 Thess 5:3"
+        ]
+      },
+      {
+        "term": "Working with one's hands",
+        "explain": "The elite despised manual labour, but the converts were mostly artisans. Paul urges them to live quietly and work so as to win outsiders' respect and not depend on patrons.",
+        "refs": [
+          "1 Thess 4:11-12",
+          "1 Thess 2:9"
+        ]
+      },
+      {
+        "term": "Holy kiss and public reading",
+        "explain": "Paul asks that the letter be read to all the brothers and sisters, and that they greet each other with a holy kiss, a family greeting that marked them as kin.",
+        "refs": [
+          "1 Thess 5:26-27"
+        ]
+      }
+    ],
+    "jewishLens": "Though written to former pagans, 1 Thessalonians uses the language of Israel. These Gentiles are 'beloved by God' and 'chosen' (1 Thess 1:4), words used of Israel in Deuteronomy. They have turned 'to serve a living and true God', the Jewish description of conversion from idols (compare Jer 10:10). They are called to 'holiness' and to avoid sexual immorality 'like the Gentiles who do not know God' (1 Thess 4:5), which shows that Paul thinks of them as no longer belonging to 'the Gentiles' in the old sense, even though they are not Jews. Paula Fredriksen calls such people 'ex-pagan pagans'.\n\nThe hope Paul offers is Jewish apocalyptic hope: the 'day of the Lord' of the prophets (Amos 5:18, Joel 2:31), the resurrection of the dead (Dan 12:2), the trumpet (Isa 27:13) and the Lord coming with his holy ones (Zech 14:5). Paul simply identifies 'the Lord' of that hope as Jesus.\n\nOne passage has caused deep pain: 1 Thess 2:14-16, which speaks of 'the Jews, who killed both the Lord Jesus and the prophets' and on whom 'wrath has come at last'. Some scholars (Birger Pearson) think it is a later insertion written after 70. Most accept it as Paul's but read it as an intra-Jewish prophetic polemic, like the prophets' denunciations of their own people, aimed at particular Judean opponents of the mission, not at the Jewish people as a whole. The Greek has no comma, and some translators argue the phrase should read 'the Judeans who...' rather than 'the Jews, who...', restricting it. Paul's later word that God has not rejected his people (Rom 11:1-2) should be read alongside it.",
+    "flow": [
+      {
+        "label": "Thanks for faith, love, hope",
+        "detail": "The gospel came with power, and their turn from idols is known throughout Macedonia and Achaia.",
+        "refs": [
+          "1 Thess 1:1-10"
+        ]
+      },
+      {
+        "label": "How we lived among you",
+        "detail": "Paul recalls his gentle, unpaid, parent-like ministry and their suffering for the word.",
+        "refs": [
+          "1 Thess 2:1-16"
+        ]
+      },
+      {
+        "label": "Longing and relief",
+        "detail": "Kept away, he sent Timothy, whose good news brought joy; he prays to see them again.",
+        "refs": [
+          "1 Thess 2:17-3:13"
+        ]
+      },
+      {
+        "label": "Holiness and love",
+        "detail": "Avoid sexual immorality, love each other more and more, and work quietly.",
+        "refs": [
+          "1 Thess 4:1-12"
+        ]
+      },
+      {
+        "label": "The dead will rise",
+        "detail": "Do not grieve without hope: the dead in Christ rise first, and all will meet the Lord together.",
+        "refs": [
+          "1 Thess 4:13-18"
+        ]
+      },
+      {
+        "label": "Children of the day",
+        "detail": "The day comes like a thief, so stay awake, armed with faith, love and the hope of salvation.",
+        "refs": [
+          "1 Thess 5:1-11"
+        ]
+      },
+      {
+        "label": "Life together",
+        "detail": "Respect leaders, help the weak, rejoice, pray, test prophecy; may God sanctify you completely.",
+        "refs": [
+          "1 Thess 5:12-28"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Hope for a suffering young church",
+      "branches": [
+        {
+          "label": "Conversion",
+          "items": [
+            "Turned from idols",
+            "Received the word",
+            "Imitators under pressure"
+          ]
+        },
+        {
+          "label": "Paul's ministry",
+          "items": [
+            "Like a nursing mother",
+            "Worked night and day",
+            "Sent Timothy"
+          ]
+        },
+        {
+          "label": "Holiness",
+          "items": [
+            "Sexual purity",
+            "Brotherly love",
+            "Quiet, working life"
+          ]
+        },
+        {
+          "label": "The Lord's coming",
+          "items": [
+            "Dead in Christ rise",
+            "Meeting the Lord",
+            "Encourage one another"
+          ]
+        },
+        {
+          "label": "Watchfulness",
+          "items": [
+            "Thief in the night",
+            "Children of light",
+            "Faith, love, hope armour"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "coming / arrival",
+        "original": "parousia",
+        "meaning": "The royal arrival of Jesus as Lord. Paul uses it four times in this short letter.",
+        "refs": [
+          "1 Thess 2:19",
+          "1 Thess 3:13",
+          "1 Thess 4:15",
+          "1 Thess 5:23"
+        ]
+      },
+      {
+        "word": "affliction",
+        "original": "thlipsis",
+        "meaning": "Pressure, distress, persecution: the social cost of the converts' new faith.",
+        "refs": [
+          "1 Thess 1:6",
+          "1 Thess 3:3-4",
+          "1 Thess 3:7"
+        ]
+      },
+      {
+        "word": "faith / faithfulness",
+        "original": "pistis",
+        "meaning": "Trust and steadfast loyalty. Timothy's report is about their pistis holding firm under pressure.",
+        "refs": [
+          "1 Thess 1:3",
+          "1 Thess 3:2-7"
+        ]
+      },
+      {
+        "word": "holiness / sanctification",
+        "original": "hagiasmos",
+        "meaning": "Being set apart for God, worked out in concrete sexual and social ethics.",
+        "refs": [
+          "1 Thess 4:3-7",
+          "1 Thess 5:23"
+        ]
+      },
+      {
+        "word": "church / assembly",
+        "original": "ekklēsia",
+        "meaning": "'The church of the Thessalonians in God the Father': a civic word for assembly, now used for God's gathered people.",
+        "refs": [
+          "1 Thess 1:1",
+          "1 Thess 2:14"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "acts",
+        "how": "Acts 17 tells of the founding, the riot, Jason and the politarchs.",
+        "refs": [
+          "Acts 17:1-10"
+        ]
+      },
+      {
+        "bookId": "2-thessalonians",
+        "how": "The follow-up letter corrects confusion about the day of the Lord and idleness.",
+        "refs": [
+          "2 Thess 2:1-2",
+          "2 Thess 3:6-12"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "The resurrection hope and the coming of the Lord build on Daniel's vision of the dead awakening and the Son of Man coming with the clouds.",
+        "refs": [
+          "Dan 12:2",
+          "Dan 7:13"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus' sayings about the thief in the night and the trumpet gathering of the elect seem to lie behind Paul's teaching.",
+        "refs": [
+          "Matt 24:30-31",
+          "Matt 24:43",
+          "1 Thess 5:2"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "1 Corinthians 15 develops the resurrection at the last trumpet in more detail.",
+        "refs": [
+          "1 Cor 15:51-52",
+          "1 Thess 4:16"
+        ]
+      }
+    ],
+    "jesusLens": "Here Jesus is 'the Lord' who died and rose (1 Thess 4:14), who 'delivers us from the wrath to come' (1 Thess 1:10), and who will come from heaven with the holy ones. Paul applies to Jesus the Old Testament 'day of the LORD' and the prophets' hope of God coming with his holy ones (Zech 14:5, 1 Thess 3:13). Writing within about twenty years of the crucifixion, Paul prays to Jesus alongside God the Father (1 Thess 3:11), evidence of very early devotion to Jesus within a Jewish monotheistic framework. Jewish readers can see in the letter a Jewish messianic movement offering Gentiles a share in Israel's end-time hope.",
+    "misreadings": [
+      {
+        "topic": "1 Thessalonians 4:17 as a secret, pre-tribulation rapture",
+        "popular": "1 Thess 4:16-17 describes the rapture: Christ will come secretly for his church, believers will vanish to heaven, and the world will then go through a seven-year tribulation before Christ returns visibly to reign. This framework, popularised by J. N. Darby in the 1830s, the Scofield Reference Bible (1909) and the Left Behind novels, is taught in many evangelical churches.",
+        "inContext": "The passage is meant to comfort grieving believers that their dead will not miss out. Nothing in it is secret: there is a shout, an archangel's voice and God's trumpet. Many scholars (N. T. Wright, Ben Witherington, Gene Green) argue that apantēsis, 'meeting', evokes citizens going out to greet an arriving ruler and escorting him back to the city, so believers rise to meet Christ and return with him to a renewed earth. The 'caught up' language may also echo Elijah's ascent and Daniel's clouds. Paul says nothing here about a seven-year tribulation.",
+        "defence": "Pretribulational scholars such as John Walvoord and Thomas Ice argue that the meeting in the air removes believers from the earth before God's wrath (1 Thess 1:10, 1 Thess 5:9), that the apantēsis 'escort' sense is overstated (the word simply means 'meeting', and context decides), and that the church and Israel have distinct roles in the end-time programme. Other evangelicals, such as Robert Gundry (post-tribulational) and George Ladd (historic premillennial), reject a separate secret coming while accepting a literal meeting in the air. Evangelicals are divided; this is a genuine debate, not only a popular misreading. See /debates/rapture.",
+        "whyItMatters": "The rapture framework shapes how many believers think about current events, Israel, and the future of the earth. Paul's own focus is hope for the dead and a call to steady, holy living.",
+        "refs": [
+          "1 Thess 4:13-18",
+          "1 Thess 5:1-11",
+          "Acts 28:15",
+          "Matt 25:6"
+        ],
+        "scholars": [
+          "N. T. Wright",
+          "Ben Witherington",
+          "Gene Green",
+          "John Walvoord",
+          "Thomas Ice",
+          "Robert Gundry",
+          "George Ladd"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "1 Thessalonians 2:14-16 as a condemnation of the Jewish people",
+        "popular": "The Jews killed Jesus and the prophets and are under God's wrath; this passage has been quoted in sermons and tracts as Scripture's verdict on the Jewish people.",
+        "inContext": "Paul, himself a Jew, is comparing the Gentile converts' suffering from their own compatriots with the suffering of the Judean churches from theirs. The prophetic charge of killing the prophets is a stock Jewish self-critique (Neh 9:26). Scholars such as Jeffrey Weima, Abraham Malherbe and the Jewish Annotated New Testament contributors read it as targeted polemic against particular Judean opponents of the mission, not all Jews. Some (Birger Pearson) think it is a post-70 interpolation.",
+        "defence": "Evangelical commentators (Weima, Gene Green, Gordon Fee) defend authenticity and agree that the passage must not be used for anti-Jewish purposes, reading it in line with Romans 9-11. There is scholarly disagreement on authenticity, but near-universal agreement that it is not a blanket condemnation.",
+        "whyItMatters": "This text was misused in the history of Christian antisemitism. Reading it as Paul's own intra-Jewish prophetic speech, beside Romans 11, guards against that.",
+        "refs": [
+          "1 Thess 2:14-16",
+          "Neh 9:26",
+          "Rom 11:1-2"
+        ],
+        "scholars": [
+          "Jeffrey Weima",
+          "Abraham Malherbe",
+          "Birger Pearson",
+          "Gene Green",
+          "Gordon Fee"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "New believers who had paid a social price for leaving their gods learned that their faith was real, that their founder loved them, and that death would not separate them from Christ or from each other.",
+      "now": "1 Thessalonians gives Christians language for grief with hope at funerals (1 Thess 4:13-14), a model of pastoral care that is gentle and unpaid, and a call to steady, ordinary, holy living instead of speculation about dates."
+    },
+    "sources": [
+      {
+        "author": "Jeffrey A. D. Weima",
+        "title": "1-2 Thessalonians (BECNT)",
+        "year": 2014
+      },
+      {
+        "author": "Abraham J. Malherbe",
+        "title": "The Letters to the Thessalonians (Anchor Bible 32B)",
+        "year": 2000
+      },
+      {
+        "author": "Gordon D. Fee",
+        "title": "The First and Second Letters to the Thessalonians (NICNT)",
+        "year": 2009
+      },
+      {
+        "author": "Karl P. Donfried",
+        "title": "The Cults of Thessalonica and the Thessalonian Correspondence, New Testament Studies 31",
+        "year": 1985
+      }
+    ]
+  },
+  {
+    "id": "2-thessalonians",
+    "oneLine": "A short letter to steady a persecuted church shaken by a claim that the day of the Lord had already come: God will judge justly, certain events must come first, so stand firm and keep working.",
+    "author": {
+      "name": "Paul, Silvanus and Timothy (authorship disputed)",
+      "who": "Presented as the same team as 1 Thessalonians, writing a few months later. If pseudonymous, a later Paulinist imitated 1 Thessalonians to correct end-time enthusiasm in the name of Paul.",
+      "howWeKnow": "The letter claims Paul and ends with his own signature as 'the sign of genuineness in every letter' (2 Thess 3:17). Doubters (Wolfgang Trilling, Maarten Menken) note that much of its wording copies 1 Thessalonians while its tone is cooler and its end-time scheme (signs first) seems different. Defenders (Abraham Malherbe, Jeffrey Weima, Gordon Fee) answer that a follow-up letter written soon after would naturally repeat phrases, and that the difference is a response to a new misunderstanding. Scholarly opinion is divided.",
+      "otherWritings": [
+        "1 Thessalonians",
+        "Romans",
+        "1 Corinthians",
+        "Galatians"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Corinth",
+      "coords": [
+        22.88,
+        37.91
+      ],
+      "note": "If Pauline, it was written from Corinth during the same stay as 1 Thessalonians, since Silas and Timothy are still with Paul (2 Thess 1:1, Acts 18:5). If pseudonymous, the place is unknown.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The church of the Thessalonians",
+      "place": "Thessalonica",
+      "coords": [
+        22.94,
+        40.64
+      ],
+      "situation": "Persecution had intensified (2 Thess 1:4-6). Someone, by 'a spirit or a spoken word, or a letter seeming to be from us', had claimed that the day of the Lord had already arrived (2 Thess 2:2). Some members had stopped working and were living off others (2 Thess 3:6-12), perhaps because they thought the end had come, perhaps because they were relying on the church's generosity.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": 40,
+        "event": "Emperor Gaius (Caligula) orders his statue to be set up in the Jerusalem temple; the order is delayed and then cancelled at his death in 41. Many think this crisis shaped expectations of a ruler who would sit in God's temple."
+      },
+      {
+        "year": 49,
+        "event": "Claudius expels Jews from Rome (date from Orosius, debated)."
+      },
+      {
+        "year": 51,
+        "event": "Probable date of 2 Thessalonians if written by Paul a few months after the first letter."
+      },
+      {
+        "year": 66,
+        "event": "The Jewish revolt against Rome begins."
+      },
+      {
+        "year": 70,
+        "event": "Roman destruction of the Jerusalem temple; a post-Pauline 2 Thessalonians would be written after this."
+      }
+    ],
+    "backdrop": "The situation behind 2 Thessalonians is a church under pressure from outside and confused from inside. The believers were enduring 'persecutions and afflictions' that Paul could boast of to other churches (2 Thess 1:4). Into that pain came a teaching that 'the day of the Lord has come'. It is not clear what this meant: perhaps that the final judgement had begun in their sufferings, perhaps a spiritualised idea that the resurrection had already happened (compare 2 Tim 2:18). It was apparently backed by a prophecy or a letter claiming Paul's authority, which is why Paul signs this one so emphatically.\n\nPaul's reply refers back to his oral teaching (2 Thess 2:5): before the day comes, there will be a 'rebellion' (apostasia) and the revealing of 'the man of lawlessness', who exalts himself and takes his seat in God's temple. Something or someone is 'restraining' him now (2 Thess 2:6-7). The first readers knew what Paul meant; later readers do not. Proposed identifications of the restrainer include the Roman empire and its law (the most common ancient view, found in Tertullian), the preaching of the gospel, the Holy Spirit or the church, God himself, or an angel such as Michael (Dan 12:1). The lawless figure echoes Daniel's description of Antiochus IV, who desecrated the temple in 167 BC (Dan 11:36), and the more recent attempt by Caligula to place his statue in the Jerusalem temple in 40.\n\nThe third issue, the 'disorderly' (ataktoi) who would not work, may reflect both end-time excitement and the patronage system: some poorer members may have attached themselves to wealthier believers as clients. Paul's 'if anyone is not willing to work, let him not eat' (2 Thess 3:10) points back to his own example of working to support himself.",
+    "culture": [
+      {
+        "term": "Forged letters and signatures",
+        "explain": "Letters could be forged, and senders authenticated them with a handwritten closing. 2 Thessalonians warns against a letter 'as if from us' and ends with Paul's own hand.",
+        "refs": [
+          "2 Thess 2:2",
+          "2 Thess 3:17"
+        ]
+      },
+      {
+        "term": "Retributive justice and honour",
+        "explain": "In an honour culture, the shamed would expect vindication. Paul assures the persecuted that God will repay affliction and grant them rest, and that God's honour will be shown in them.",
+        "refs": [
+          "2 Thess 1:5-10",
+          "2 Thess 1:12"
+        ]
+      },
+      {
+        "term": "Emperor worship and divine rulers",
+        "explain": "Rulers who claimed divine honours were part of the political landscape, from Antiochus IV to Caligula. The man of lawlessness who claims to be God fits this pattern.",
+        "refs": [
+          "2 Thess 2:3-4",
+          "Dan 11:36"
+        ]
+      },
+      {
+        "term": "Patronage and dependence",
+        "explain": "Poorer citizens often survived as clients of patrons, owing them public support in return for handouts. Paul wants believers to work and not become dependent, while not tiring of doing good to those in real need.",
+        "refs": [
+          "2 Thess 3:6-13"
+        ]
+      },
+      {
+        "term": "Tradition handed on",
+        "explain": "Paul's teaching was passed on both orally and in letters (paradosis, 'traditions'). The church is to hold fast to both.",
+        "refs": [
+          "2 Thess 2:15",
+          "2 Thess 3:6"
+        ]
+      }
+    ],
+    "jewishLens": "2 Thessalonians is soaked in Jewish prophetic and apocalyptic imagery. The Lord Jesus is 'revealed from heaven with his mighty angels in flaming fire, inflicting vengeance' (2 Thess 1:7-8), language borrowed from Isaiah's descriptions of the LORD coming in fire (Isa 66:15). Those who do not know God will be away 'from the presence of the Lord and from the glory of his might' (2 Thess 1:9), almost word for word from Isaiah 2:10 in the Greek Old Testament, where people hide from the terror of the LORD. Once again, texts about Israel's God are applied to Jesus.\n\nThe man of lawlessness sitting in God's temple recalls Daniel's 'abomination of desolation' (Dan 9:27, Dan 11:31, Dan 11:36) and Jesus' warning about the same (Mark 13:14). For a Jewish audience these were memories of real profanations: Antiochus IV setting up a pagan altar in the temple, Pompey entering the holy of holies in 63 BC, and Caligula's statue plan. The 'restrainer' may also draw on Jewish ideas that God delays the end until appointed things are complete.\n\nReaders disagree whether 'the temple of God' means the literal Jerusalem temple (standing when Paul wrote, if he did), a future rebuilt temple (the dispensational view), or the church (as Augustine and some Reformers suggested). The letter itself is more concerned with faithfulness than with timetables: God will be faithful to his suffering people, and they are to stand firm in what they were taught.",
+    "flow": [
+      {
+        "label": "Thanks amid persecution",
+        "detail": "Their faith and love are growing despite affliction.",
+        "refs": [
+          "2 Thess 1:1-4"
+        ]
+      },
+      {
+        "label": "God's just judgement",
+        "detail": "When Jesus is revealed, oppressors will be repaid and the afflicted given rest and glory.",
+        "refs": [
+          "2 Thess 1:5-12"
+        ]
+      },
+      {
+        "label": "Not yet the day",
+        "detail": "Do not be shaken: the rebellion and the man of lawlessness must come first.",
+        "refs": [
+          "2 Thess 2:1-5"
+        ]
+      },
+      {
+        "label": "Restrainer and defeat",
+        "detail": "Something holds lawlessness back for now; the Lord Jesus will destroy the lawless one by his coming.",
+        "refs": [
+          "2 Thess 2:6-12"
+        ]
+      },
+      {
+        "label": "Stand firm",
+        "detail": "God chose them for salvation; hold to the traditions taught by word or letter.",
+        "refs": [
+          "2 Thess 2:13-17"
+        ]
+      },
+      {
+        "label": "Work and discipline",
+        "detail": "Pray for the mission, avoid the idle, imitate Paul's labour, and warn rather than hate the disobedient.",
+        "refs": [
+          "2 Thess 3:1-18"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Stand firm until the day of the Lord",
+      "branches": [
+        {
+          "label": "Suffering",
+          "items": [
+            "Growing faith in affliction",
+            "God sees and repays",
+            "Worthy of the kingdom"
+          ]
+        },
+        {
+          "label": "End-time order",
+          "items": [
+            "Not yet come",
+            "Rebellion first",
+            "Man of lawlessness",
+            "The restrainer"
+          ]
+        },
+        {
+          "label": "Christ's victory",
+          "items": [
+            "Revealed in flaming fire",
+            "Breath of his mouth",
+            "Glorified in his saints"
+          ]
+        },
+        {
+          "label": "Faithful church",
+          "items": [
+            "Hold the traditions",
+            "Pray for the word",
+            "God is faithful"
+          ]
+        },
+        {
+          "label": "Work",
+          "items": [
+            "Paul's example",
+            "Earn your own bread",
+            "Do not tire of good"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "day of the Lord",
+        "original": "hē hēmera tou kyriou",
+        "meaning": "The prophets' day of God's decisive judgement and salvation, now linked to the coming of the Lord Jesus.",
+        "refs": [
+          "2 Thess 2:2",
+          "Joel 2:31"
+        ]
+      },
+      {
+        "word": "lawlessness",
+        "original": "anomia",
+        "meaning": "Defiant rebellion against God. 'The man of lawlessness' embodies it.",
+        "refs": [
+          "2 Thess 2:3",
+          "2 Thess 2:7"
+        ]
+      },
+      {
+        "word": "restrainer / what restrains",
+        "original": "to katechon / ho katechōn",
+        "meaning": "Something (neuter) and someone (masculine) holding back the lawless one. Its identity is unknown to us and widely debated.",
+        "refs": [
+          "2 Thess 2:6-7"
+        ]
+      },
+      {
+        "word": "disorderly / idle",
+        "original": "ataktoi",
+        "meaning": "Originally soldiers out of rank; here members who refused to work and disrupted community life.",
+        "refs": [
+          "2 Thess 3:6-7",
+          "2 Thess 3:11"
+        ]
+      },
+      {
+        "word": "traditions",
+        "original": "paradoseis",
+        "meaning": "Teachings handed on from the apostles, in speech and in writing.",
+        "refs": [
+          "2 Thess 2:15",
+          "2 Thess 3:6"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-thessalonians",
+        "how": "The two letters share structure and phrases; the second corrects misuse of the first's teaching on the day of the Lord.",
+        "refs": [
+          "1 Thess 5:1-3",
+          "2 Thess 2:1-3"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "The arrogant ruler who exalts himself above every god and profanes the temple is Daniel's figure.",
+        "refs": [
+          "Dan 11:36",
+          "Dan 9:27"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "The Lord coming in fire and the Messiah slaying the wicked with the breath of his lips come from Isaiah.",
+        "refs": [
+          "Isa 11:4",
+          "2 Thess 2:8",
+          "Isa 66:15"
+        ]
+      },
+      {
+        "bookId": "mark",
+        "how": "Jesus' warning about the desolating sacrilege and false messiahs parallels this teaching.",
+        "refs": [
+          "Mark 13:5-14"
+        ]
+      },
+      {
+        "bookId": "1-john",
+        "how": "The 'antichrist' tradition in John's letters is often linked with the man of lawlessness.",
+        "refs": [
+          "1 John 2:18"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus is the judge who will be 'revealed from heaven' and the one in whose name and by whose grace believers are glorified (2 Thess 1:7, 2 Thess 1:12). He will slay the lawless one 'with the breath of his mouth', the messianic King's work from Isaiah 11:4. Christian tradition has used this letter to speak of an antichrist figure; Jewish readers recognise in it the familiar pattern of an arrogant tyrant defeated by God's anointed. The letter's comfort lies in Christ's certain victory, not in identifying the villain.",
+    "misreadings": [
+      {
+        "topic": "'If anyone is not willing to work, let him not eat' (2 Thess 3:10) as a rule against welfare",
+        "popular": "2 Thessalonians 3:10 teaches that people who do not work should not receive help; it is quoted in debates against government welfare or charity to the unemployed.",
+        "inContext": "Paul addresses specific church members who were able to work but refused, probably out of end-time excitement or reliance on wealthy patrons, and were living off the community's shared meals. He says 'not willing', not 'not able'. In the same breath he urges believers not to grow weary in doing good (2 Thess 3:13) and to treat the idle as brothers to be warned, not enemies. Scholars such as Bruce Winter and Jeffrey Weima link the problem to patron-client dependency.",
+        "defence": "Evangelical commentators agree that the verse is about the church's internal discipline of able-bodied people refusing work, not a policy statement about the state or about those who cannot find work. Some argue it does express a wider principle of responsibility that can inform social ethics, which is fair as long as the 'not willing' condition and the call to keep doing good remain.",
+        "whyItMatters": "Used out of context, the verse can justify neglect of the poor; in context it protects a generous community from exploitation while keeping it generous.",
+        "refs": [
+          "2 Thess 3:6-13",
+          "1 Thess 4:11-12"
+        ],
+        "scholars": [
+          "Bruce Winter",
+          "Jeffrey Weima",
+          "Gordon Fee"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Identifying the man of lawlessness with current figures",
+        "popular": "The man of lawlessness is the Antichrist, and Christians should watch the news to identify him; at different times he has been identified with the pope, Napoleon, Hitler, various politicians or a coming world leader.",
+        "inContext": "Paul says the Thessalonians already knew what he had taught (2 Thess 2:5-6). His purpose is to calm a church that was 'shaken' by end-time claims, not to supply a code for future decoding. Interpreters from Augustine onwards admitted they did not know what the restrainer was. Scholars across traditions (Malherbe, Weima, Fee) stress that the passage drew on figures known from Daniel and recent history.",
+        "defence": "Many evangelicals, especially dispensationalists, hold that Paul does predict a future individual who will appear before Christ's return, so watchfulness is warranted. Most evangelical commentators nonetheless warn against date-setting and naming individuals, which has repeatedly failed. The debate concerns whether the fulfilment is future, past or symbolic; the error is speculative identification.",
+        "whyItMatters": "Speculation has damaged the church's credibility and fuelled hostility toward groups cast as the Antichrist. The text's own aim is steadiness.",
+        "refs": [
+          "2 Thess 2:1-12",
+          "Dan 11:36"
+        ],
+        "scholars": [
+          "Abraham Malherbe",
+          "Jeffrey Weima",
+          "Gordon Fee",
+          "Charles Wanamaker"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A suffering church was assured of God's justice, protected from panic about the end, and reminded that faithful waiting means ordinary work and mutual care.",
+      "now": "2 Thessalonians speaks to believers facing injustice, to communities swept up in end-times speculation, and to churches balancing generosity with responsibility."
+    },
+    "sources": [
+      {
+        "author": "Charles A. Wanamaker",
+        "title": "The Epistles to the Thessalonians (NIGTC)",
+        "year": 1990
+      },
+      {
+        "author": "Jeffrey A. D. Weima",
+        "title": "1-2 Thessalonians (BECNT)",
+        "year": 2014
+      },
+      {
+        "author": "Abraham J. Malherbe",
+        "title": "The Letters to the Thessalonians (Anchor Bible 32B)",
+        "year": 2000
+      },
+      {
+        "author": "Bruce W. Winter",
+        "title": "Seek the Welfare of the City: Christians as Benefactors and Citizens",
+        "year": 1994
+      }
+    ]
+  },
+  {
+    "id": "1-timothy",
+    "oneLine": "A charge to Paul's trusted delegate in Ephesus to stop false teaching and order God's household so that the church can stand as a pillar of the truth in its city.",
+    "author": {
+      "name": "Paul (authorship disputed)",
+      "who": "Presented as Paul writing to Timothy, his 'true child in the faith' (1 Tim 1:2), whom he had left in Ephesus while he went on to Macedonia (1 Tim 1:3). If pseudonymous, a later follower of Paul applied his teaching to the needs of churches around 90-120.",
+      "howWeKnow": "The letter names Paul and refers to his conversion as persecutor turned apostle (1 Tim 1:12-16). Polycarp (c. 110-135) seems to echo it, and Irenaeus (c. 180) quotes it as Paul's. Many critical scholars (Martin Dibelius, Raymond Collins) judge the Pastorals pseudonymous because about a third of their vocabulary is absent from the other Pauline letters, the church order seems more developed, and the journeys do not fit Acts. Defenders (Luke Timothy Johnson, William Mounce, Philip Towner) point to the use of a secretary, the different purpose of letters to a delegate, and a release from Rome after Acts 28.",
+      "otherWritings": [
+        "2 Timothy",
+        "Titus"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Macedonia (as presented)",
+      "coords": [
+        22.94,
+        40.64
+      ],
+      "note": "Paul says he urged Timothy to remain in Ephesus 'when I was going to Macedonia' (1 Tim 1:3). This journey does not clearly match Acts, so if Pauline it is usually placed after a release from Rome. The exact city is not named; Thessalonica is used for the map point.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Timothy, and through him the church in Ephesus",
+      "place": "Ephesus",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "Some teachers, apparently from within the church's own leadership, were promoting 'myths and endless genealogies', speculative uses of the Law, ascetic bans on marriage and some foods (1 Tim 4:3), and possibly the belief that the resurrection had already happened (compare 2 Tim 2:18). Hymenaeus and Alexander had been put out (1 Tim 1:20). Wealth, widows' support and the selection of leaders were all causing problems.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": 60,
+        "event": "Paul arrives in Rome as a prisoner (Acts 28:16)."
+      },
+      {
+        "year": 62,
+        "event": "End of Paul's two-year house arrest where Acts stops (Acts 28:30); later tradition says he was released and travelled further."
+      },
+      {
+        "year": 63,
+        "event": "Traditional date for 1 Timothy if written by Paul between imprisonments."
+      },
+      {
+        "year": 96,
+        "event": "1 Clement says Paul reached 'the limit of the west' before his death (1 Clement 5.7), which some read as Spain and as evidence for a release."
+      },
+      {
+        "year": 110,
+        "event": "Polycarp's letter to the Philippians appears to echo 1 Timothy 6:7-10, showing the letter was known by then (approximate date)."
+      }
+    ],
+    "backdrop": "Ephesus was the great city of Roman Asia, dominated by the temple of Artemis, whose cult employed many priestesses and attracted pilgrims, and full of competing philosophies, magic and mystery religions. The church there had begun in Paul's long ministry (Acts 19) and by the time of this letter had elders (Acts 20:17), several house churches, wealthy members and a system for supporting widows.\n\nPaul had predicted to the Ephesian elders that 'from among your own selves will arise men speaking twisted things' (Acts 20:30). 1 Timothy shows that happening. The false teaching is hard to reconstruct but seems to combine Jewish-flavoured speculation (genealogies, wanting to be 'teachers of the law', 1 Tim 1:4-7), ascetic rules, and an elitist claim to 'knowledge' (gnōsis, 1 Tim 6:20). The teachers seem to have used religion for financial gain (1 Tim 6:5) and to have found an audience among some women, perhaps younger widows going from house to house (1 Tim 5:13; compare 2 Tim 3:6).\n\nThe letter's answer is not a full theology but a practical order for 'the household of God' (1 Tim 3:15). Leaders must be people of proven character, with qualities that outsiders also respect. The church should pray for rulers, so that believers can live peaceful lives. Widows truly alone should be supported by the church, others by their families. The rich should be generous. Underlying everything is concern for the church's reputation in a city that watched it closely, and for the 'sound' (healthy) teaching centred on Christ Jesus who came to save sinners (1 Tim 1:15).",
+    "culture": [
+      {
+        "term": "The household as the model of community",
+        "explain": "Ancient households included extended family, slaves and clients under a head. The church is called 'the household of God', so its leaders must manage their own households well, and its order mirrors familiar household relationships.",
+        "refs": [
+          "1 Tim 3:4-5",
+          "1 Tim 3:15",
+          "1 Tim 5:1-2"
+        ]
+      },
+      {
+        "term": "Widows",
+        "explain": "A woman without husband or sons often had no means of support. Jewish law commanded care for widows (Deut 14:29), and the church had a list of enrolled widows who served in prayer and good works. 1 Timothy sets criteria to protect both widows and the church's resources.",
+        "refs": [
+          "1 Tim 5:3-16",
+          "Deut 14:29"
+        ]
+      },
+      {
+        "term": "Honour and public reputation",
+        "explain": "Leaders must be 'above reproach' and well thought of by outsiders, because the church's honour, and the gospel's credibility, depended on how its members appeared in the city.",
+        "refs": [
+          "1 Tim 3:2",
+          "1 Tim 3:7",
+          "1 Tim 6:1"
+        ]
+      },
+      {
+        "term": "Modest dress and status display",
+        "explain": "Elaborate hairstyles, gold and expensive clothes signalled wealth and sometimes sexual availability among Roman elite women; the 'new Roman woman' of the period was criticised by moralists. Instruction on dress addresses status display in worship.",
+        "refs": [
+          "1 Tim 2:9-10"
+        ]
+      },
+      {
+        "term": "Wealth and contentment",
+        "explain": "Philosophers debated contentment (autarkeia). 1 Timothy redirects it: godliness with contentment is great gain, and the wealthy should be rich in good works, using money as benefactors who store up treasure in God's future.",
+        "refs": [
+          "1 Tim 6:6-10",
+          "1 Tim 6:17-19"
+        ]
+      },
+      {
+        "term": "Slaves in the church",
+        "explain": "Many church members were slaves, some owned by believers. The letter tells believing slaves to honour masters so the gospel is not slandered, which shows a missionary concern within, not a challenge to, the social order.",
+        "refs": [
+          "1 Tim 6:1-2"
+        ]
+      }
+    ],
+    "jewishLens": "1 Timothy's world is a Gentile city, but its theology is Jewish. Its central confession is the Shema extended: 'there is one God, and there is one mediator between God and men, the man Christ Jesus' (1 Tim 2:5). Its prayers 'for kings and all who are in high positions' (1 Tim 2:1-2) follow the Jewish practice of praying for the rulers of the lands of exile (Jer 29:7) and for the emperor, which Jews offered daily in the temple instead of worshipping him. Its blessing of God as 'the King of the ages, immortal, invisible, the only God' (1 Tim 1:17) and 'King of kings and Lord of lords' (1 Tim 6:15) sound like synagogue doxologies. Care for widows, the payment of elders (with Deut 25:4 quoted in 1 Tim 5:18) and the requirement of two or three witnesses (Deut 19:15, 1 Tim 5:19) all draw directly on Torah.\n\nThe letter says 'the law is good, if one uses it lawfully' (1 Tim 1:8). The false teachers' misuse of the Law and their 'genealogies' may reflect a speculative interpretation of Genesis, possibly with Jewish elements, but the letter does not oppose the Law itself; it says the Law exists to restrain wrongdoing (1 Tim 1:9-10), a list that follows the order of the Ten Commandments.\n\nScholars of the 'Paul within Judaism' school have written less about the Pastorals, partly because most of them think the Pastorals are post-Pauline and reflect a church that was becoming more Gentile and more settled. Traditional scholars who accept Pauline authorship see the same Jewish Paul at work here as in Romans, now applying his gospel to church order.",
+    "flow": [
+      {
+        "label": "Stop the false teachers",
+        "detail": "Timothy must silence speculative teaching; the goal is love from a pure heart.",
+        "refs": [
+          "1 Tim 1:1-11"
+        ]
+      },
+      {
+        "label": "Paul, the forgiven persecutor",
+        "detail": "Christ came to save sinners, and Paul is exhibit A of his patience.",
+        "refs": [
+          "1 Tim 1:12-20"
+        ]
+      },
+      {
+        "label": "Prayer and worship",
+        "detail": "Pray for all, because God desires all to be saved; men pray without anger; women adorn themselves with good works and learn quietly.",
+        "refs": [
+          "1 Tim 2:1-15"
+        ]
+      },
+      {
+        "label": "Leaders of character",
+        "detail": "Overseers and deacons must be tested, faithful and respected; the church is the pillar of truth, centred on the mystery of godliness.",
+        "refs": [
+          "1 Tim 3:1-16"
+        ]
+      },
+      {
+        "label": "Timothy's example",
+        "detail": "Reject ascetic myths, train in godliness, read Scripture publicly and let no one despise your youth.",
+        "refs": [
+          "1 Tim 4:1-16"
+        ]
+      },
+      {
+        "label": "Caring for the household",
+        "detail": "Treat members as family; support real widows, honour and discipline elders fairly, guide slaves.",
+        "refs": [
+          "1 Tim 5:1-6:2"
+        ]
+      },
+      {
+        "label": "Godliness, not gain",
+        "detail": "The love of money ruins; the rich must be generous. Guard the deposit.",
+        "refs": [
+          "1 Tim 6:3-21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Order in God's household for the sake of truth",
+      "branches": [
+        {
+          "label": "Sound teaching",
+          "items": [
+            "Against myths and genealogies",
+            "Law used lawfully",
+            "Guard the deposit"
+          ]
+        },
+        {
+          "label": "Gospel core",
+          "items": [
+            "Christ came to save sinners",
+            "One God, one mediator",
+            "Mystery of godliness"
+          ]
+        },
+        {
+          "label": "Leadership",
+          "items": [
+            "Overseers above reproach",
+            "Tested deacons",
+            "Elders honoured and paid"
+          ]
+        },
+        {
+          "label": "Household care",
+          "items": [
+            "Real widows supported",
+            "Families care for their own",
+            "Members as family"
+          ]
+        },
+        {
+          "label": "Money",
+          "items": [
+            "Godliness with contentment",
+            "Love of money ruins",
+            "Rich in good works"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "godliness / piety",
+        "original": "eusebeia",
+        "meaning": "Reverent devotion shown in a whole way of life. A common Greco-Roman virtue word, used ten times in 1 Timothy for life shaped by the gospel.",
+        "refs": [
+          "1 Tim 2:2",
+          "1 Tim 3:16",
+          "1 Tim 4:7-8",
+          "1 Tim 6:6"
+        ]
+      },
+      {
+        "word": "sound / healthy teaching",
+        "original": "hygiainousa didaskalia",
+        "meaning": "Teaching that produces spiritual health, as opposed to diseased, quarrelsome speculation.",
+        "refs": [
+          "1 Tim 1:10",
+          "1 Tim 6:3"
+        ]
+      },
+      {
+        "word": "overseer",
+        "original": "episkopos",
+        "meaning": "A supervising leader, later the word for 'bishop'. Here seemingly overlapping with elders (presbyteroi).",
+        "refs": [
+          "1 Tim 3:1-2",
+          "1 Tim 5:17"
+        ]
+      },
+      {
+        "word": "faith",
+        "original": "pistis",
+        "meaning": "Both personal trust and 'the faith', the content of what is believed and to be guarded.",
+        "refs": [
+          "1 Tim 1:5",
+          "1 Tim 3:9",
+          "1 Tim 6:12"
+        ]
+      },
+      {
+        "word": "deposit",
+        "original": "parathēkē",
+        "meaning": "Something entrusted for safekeeping, like money left with a banker; here the gospel entrusted to Timothy.",
+        "refs": [
+          "1 Tim 6:20"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "acts",
+        "how": "Paul's farewell to the Ephesian elders warns of false teachers arising among them.",
+        "refs": [
+          "Acts 20:28-31"
+        ]
+      },
+      {
+        "bookId": "titus",
+        "how": "Titus gives almost the same qualifications for elders and the same concern about myths.",
+        "refs": [
+          "Titus 1:5-9",
+          "1 Tim 3:1-7"
+        ]
+      },
+      {
+        "bookId": "2-timothy",
+        "how": "The second letter shows Paul's final charge to Timothy and names some of the same opponents.",
+        "refs": [
+          "2 Tim 2:17-18",
+          "1 Tim 1:20"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Torah rules on oxen, witnesses and widows ground church practice.",
+        "refs": [
+          "Deut 25:4",
+          "1 Tim 5:18",
+          "Deut 19:15",
+          "1 Tim 5:19"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The appeal to Adam and Eve in the instruction on women draws on Genesis 2-3; how it does so is debated.",
+        "refs": [
+          "Gen 2:7",
+          "1 Tim 2:13-14"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "'The labourer deserves his wages' is quoted as Scripture alongside Deuteronomy and matches Jesus' words in Luke.",
+        "refs": [
+          "Luke 10:7",
+          "1 Tim 5:18"
+        ]
+      }
+    ],
+    "jesusLens": "Christ Jesus 'came into the world to save sinners' (1 Tim 1:15), is the 'one mediator between God and men' who 'gave himself as a ransom for all' (1 Tim 2:5-6), and made 'the good confession' before Pontius Pilate (1 Tim 6:13). The early hymn of 1 Tim 3:16 traces his story from being 'manifested in the flesh' to being 'taken up in glory'. Christians read these as compressed creeds. Jewish readers will notice that the one mediator is described as 'the man Christ Jesus', firmly within a framework where God remains one.",
+    "misreadings": [
+      {
+        "topic": "1 Timothy 2:11-15: universal ban, or a specific Ephesian problem?",
+        "popular": "Two popular positions face each other. One: 1 Tim 2:12 plainly forbids any woman to teach or exercise authority over men in church, and this is God's permanent order grounded in creation. The other: the verse was only about uneducated Ephesian women and has no relevance today.",
+        "inContext": "Scholars note several features. The verb authentein (2:12) occurs only here in the New Testament, and its meaning (to exercise authority, to domineer, to instigate) is disputed. The false teaching was spreading among some women (1 Tim 5:13-15). Women were to 'learn', which was itself progressive. Verse 15, 'she will be saved through childbearing', is one of the hardest verses in the New Testament. Egalitarian scholars (Philip Payne, Craig Keener, Linda Belleville, Gordon Fee) read the restriction as addressing a local crisis of women spreading false teaching; some link it to Artemis-related ideas, though that link is debated.",
+        "defence": "Complementarian scholars (Douglas Moo, Thomas Schreiner, Andreas Köstenberger, D. A. Carson) argue that the grounds Paul gives are not local but creational: Adam was formed first, then Eve (1 Tim 2:13), so the restriction applies to authoritative teaching of the gathered church today. Köstenberger's study of the sentence structure argues that 'teach' and 'exercise authority' are both positive activities. They reject any reading that bars women from all teaching or treats women as inferior. This is a genuine, unresolved scholarly debate; both sides in their best forms reject the dismissive popular extremes. See /debates/gender-roles.",
+        "whyItMatters": "The passage determines who may preach and lead in many churches. Understanding both readings at their best helps believers disagree with integrity.",
+        "refs": [
+          "1 Tim 2:8-15",
+          "1 Tim 5:13-15",
+          "Gen 2:7",
+          "Gen 3:6"
+        ],
+        "scholars": [
+          "Philip Payne",
+          "Craig Keener",
+          "Linda Belleville",
+          "Gordon Fee",
+          "Douglas Moo",
+          "Thomas Schreiner",
+          "Andreas Köstenberger"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Money is the root of all evil'",
+        "popular": "A popular saying, often attributed to the Bible, is that money itself is the root of all evil, so wealth is suspect in itself.",
+        "inContext": "The verse says 'the love of money is a root of all kinds of evils' (1 Tim 6:10). It warns those who 'desire to be rich' (1 Tim 6:9). The same chapter tells the rich not to give up their wealth but to be generous and rich in good works (1 Tim 6:17-19). The concern is greed and its power to pull people away from the faith, a theme shared with Jewish wisdom and with moral philosophers of the time.",
+        "defence": "There is little scholarly dispute; all agree on the wording. The opposite error, treating wealth as a sign of God's favour, is just as far from the text.",
+        "whyItMatters": "The verse is about the heart's loyalty and the use of wealth, not a ban on having money.",
+        "refs": [
+          "1 Tim 6:6-10",
+          "1 Tim 6:17-19"
+        ],
+        "scholars": [
+          "Philip Towner",
+          "William Mounce",
+          "Luke Timothy Johnson"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "A church in a great city, troubled by persuasive insiders and by money, received a practical pattern for leadership, worship and care that would make it trustworthy before its neighbours.",
+      "now": "1 Timothy is still the main text for choosing church leaders by character rather than charisma, for church care of the vulnerable, and for warnings about greed. Its gender passages remain among the most debated in the Bible."
+    },
+    "sources": [
+      {
+        "author": "Philip H. Towner",
+        "title": "The Letters to Timothy and Titus (NICNT)",
+        "year": 2006
+      },
+      {
+        "author": "Luke Timothy Johnson",
+        "title": "The First and Second Letters to Timothy (Anchor Bible 35A)",
+        "year": 2001
+      },
+      {
+        "author": "William D. Mounce",
+        "title": "Pastoral Epistles (Word Biblical Commentary 46)",
+        "year": 2000
+      },
+      {
+        "author": "Andreas J. Köstenberger and Thomas R. Schreiner, eds.",
+        "title": "Women in the Church: An Interpretation and Application of 1 Timothy 2:9-15 (3rd ed.)",
+        "year": 2016
+      },
+      {
+        "author": "Philip B. Payne",
+        "title": "Man and Woman, One in Christ",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "2-timothy",
+    "oneLine": "Paul's farewell from a Roman prison: a dying mentor urges his spiritual son not to be ashamed, to suffer with him, to hold to Scripture and to pass the faith on to others.",
+    "author": {
+      "name": "Paul (authorship disputed)",
+      "who": "Presented as Paul in his final imprisonment in Rome, expecting execution (2 Tim 4:6). He writes to Timothy, whose grandmother Lois and mother Eunice had taught him the faith (2 Tim 1:5).",
+      "howWeKnow": "The letter claims Paul and is full of specific personal detail: a cloak left at Troas with Carpus, books and parchments (2 Tim 4:13), Demas deserting, Luke alone remaining, Alexander the coppersmith doing harm. Many who doubt the Pastorals see these as literary colour; others, including some critical scholars (Jerome Murphy-O'Connor, Michael Prior), think 2 Timothy differs from 1 Timothy and Titus and may be genuine. Conservative scholars accept all three.",
+      "otherWritings": [
+        "1 Timothy",
+        "Titus"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Rome, in prison",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Onesiphorus searched for Paul in Rome and found him (2 Tim 1:17). This seems a harsher imprisonment than the house arrest of Acts 28: Paul is chained like a criminal (2 Tim 2:9) and has had a first hearing at which no one supported him (2 Tim 4:16).",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Timothy",
+      "place": "Probably Ephesus",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "Paul greets Priscilla and Aquila and the household of Onesiphorus, who were associated with Ephesus, and mentions sending Tychicus there (2 Tim 4:12, 2 Tim 4:19). Timothy faces teachers like Hymenaeus and Philetus, who say the resurrection has already happened, and may be tempted to timidity and shame over Paul's chains.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 64,
+        "event": "Great Fire of Rome; Nero blames the Christians and executes many (Tacitus, Annals 15.44)."
+      },
+      {
+        "year": 66,
+        "event": "Jewish revolt against Rome begins in Judea."
+      },
+      {
+        "year": 67,
+        "event": "Approximate traditional date of Paul's beheading in Rome under Nero (Eusebius, Church History 2.25), the setting of 2 Timothy if authentic."
+      },
+      {
+        "year": 68,
+        "event": "Nero commits suicide; the year of the four emperors follows in 69."
+      },
+      {
+        "year": 96,
+        "event": "1 Clement recalls Paul's chains, exile and martyrdom (1 Clement 5)."
+      }
+    ],
+    "backdrop": "2 Timothy is written in the form of a farewell testament, a well-known Jewish genre in which a dying leader gives final instructions to his successor: Jacob to his sons (Gen 49), Moses to Joshua and Israel (Deut 31-33), David to Solomon (1 Kgs 2:1-9). Like those, it reviews the leader's life, warns of hard times ahead and hands on a charge. It also has the warmth of Greco-Roman friendship letters, with requests for visits and personal news.\n\nThe circumstances look grim. Christians in Rome had become targets after the fire of 64, when Tacitus says Nero punished them with horrible cruelty. Being associated with a chained prisoner brought shame and danger, which explains why 'all who are in Asia turned away' (2 Tim 1:15) and why Paul praises Onesiphorus for not being ashamed of his chains (2 Tim 1:16). Prisoners depended on friends for food, clothing and company; Paul asks for his cloak before winter (2 Tim 4:13, 2 Tim 4:21). Only Luke is with him.\n\nThe false teaching in Asia seems to be the same as in 1 Timothy, with a new detail: Hymenaeus and Philetus said 'the resurrection has already happened' (2 Tim 2:18), perhaps a spiritualised view that believers already live a risen life, making the body and the future irrelevant. Paul's answer is to look forward to 'that day' (2 Tim 1:12, 2 Tim 4:8) and to keep the gospel safe by entrusting it 'to faithful men who will be able to teach others also' (2 Tim 2:2), four generations in one verse.",
+    "culture": [
+      {
+        "term": "Shame of chains",
+        "explain": "Imprisonment was a public disgrace and imprisoned people relied on visitors. Paul's repeated 'do not be ashamed' addresses the social cost of standing with him.",
+        "refs": [
+          "2 Tim 1:8",
+          "2 Tim 1:12",
+          "2 Tim 1:16-17"
+        ]
+      },
+      {
+        "term": "Farewell testament",
+        "explain": "A Jewish and Greco-Roman genre of last words: reviewing one's life, warning of the future, and charging a successor. 2 Timothy follows this pattern.",
+        "refs": [
+          "2 Tim 4:6-8",
+          "Deut 31:7-8"
+        ]
+      },
+      {
+        "term": "Mentor and spiritual son",
+        "explain": "Teachers and students formed fictive-kin bonds. Timothy is Paul's 'beloved child', and the faith passes along family lines: from Lois to Eunice to Timothy, and from Paul to Timothy to others.",
+        "refs": [
+          "2 Tim 1:2-5",
+          "2 Tim 2:2"
+        ]
+      },
+      {
+        "term": "Soldier, athlete, farmer",
+        "explain": "Three standard images from moral philosophy for disciplined effort and delayed reward.",
+        "refs": [
+          "2 Tim 2:3-6"
+        ]
+      },
+      {
+        "term": "Drink offering and race",
+        "explain": "A libation of wine poured on a sacrifice, and the victor's wreath at the games, picture Paul's death as worship and his life as a completed race.",
+        "refs": [
+          "2 Tim 4:6-8"
+        ]
+      },
+      {
+        "term": "Books and parchments",
+        "explain": "Papyrus scrolls and parchment notebooks were expensive; Paul's request suggests he was still studying and writing. Some suggest the parchments contained Scripture or his own notes.",
+        "refs": [
+          "2 Tim 4:13"
+        ]
+      }
+    ],
+    "jewishLens": "2 Timothy is deeply rooted in Jewish family faith. Timothy's mother was a Jewish believer and his father a Greek (Acts 16:1), and Paul says that 'from childhood you have known the sacred writings' (2 Tim 3:15), the Jewish Scriptures taught at home, as Jewish mothers and grandmothers did. When Paul calls all Scripture 'God-breathed' (2 Tim 3:16), the Scriptures he means are primarily what Christians call the Old Testament, which Timothy learned from Lois and Eunice. Paul also says he serves God 'with a clear conscience, as did my ancestors' (2 Tim 1:3): he sees his faith in Christ as continuous with the faith of Israel.\n\nThe letter draws on Israel's stories. 'The Lord knows those who are his' (2 Tim 2:19) echoes Numbers 16:5, the Korah rebellion, where God distinguished true leaders from false. Jannes and Jambres, named as Moses' opponents (2 Tim 3:8), are the Egyptian magicians of Exodus 7 as named in Jewish tradition (they appear in the Damascus Document from Qumran and in the Targum). The pattern of a leader handing on his task resembles Moses and Joshua and Elijah and Elisha.\n\nTraditional readers stress 2 Timothy's teaching on the authority and sufficiency of Scripture; critical readers see a later church consolidating its tradition. Both can agree that the letter places Christian teaching inside a Jewish family's handing-down of Israel's Scriptures, now read as making one 'wise for salvation through faith in Christ Jesus'.",
+    "flow": [
+      {
+        "label": "Remembering and rekindling",
+        "detail": "Paul recalls Timothy's sincere faith and urges him to fan into flame God's gift.",
+        "refs": [
+          "2 Tim 1:1-7"
+        ]
+      },
+      {
+        "label": "Do not be ashamed",
+        "detail": "Share in suffering for the gospel and guard the deposit, as Onesiphorus did.",
+        "refs": [
+          "2 Tim 1:8-18"
+        ]
+      },
+      {
+        "label": "Strong in grace",
+        "detail": "Entrust the faith to others; endure like soldier, athlete and farmer; remember the risen Christ.",
+        "refs": [
+          "2 Tim 2:1-13"
+        ]
+      },
+      {
+        "label": "An approved worker",
+        "detail": "Handle the word rightly, avoid quarrels, and correct opponents gently.",
+        "refs": [
+          "2 Tim 2:14-26"
+        ]
+      },
+      {
+        "label": "Hard times and Scripture",
+        "detail": "The last days bring corrupt people, but Scripture equips God's servant for every good work.",
+        "refs": [
+          "2 Tim 3:1-17"
+        ]
+      },
+      {
+        "label": "Preach the word",
+        "detail": "Paul's charge before God and Christ: preach in season and out of season.",
+        "refs": [
+          "2 Tim 4:1-5"
+        ]
+      },
+      {
+        "label": "The race finished",
+        "detail": "Paul's farewell, his loneliness and requests, and his confidence in the Lord's rescue into the heavenly kingdom.",
+        "refs": [
+          "2 Tim 4:6-22"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Handing on the faith in the face of death",
+      "branches": [
+        {
+          "label": "Courage",
+          "items": [
+            "Spirit not of fear",
+            "Not ashamed of chains",
+            "Share in suffering"
+          ]
+        },
+        {
+          "label": "Succession",
+          "items": [
+            "Lois, Eunice, Timothy",
+            "Entrust to faithful others",
+            "Four generations"
+          ]
+        },
+        {
+          "label": "Scripture",
+          "items": [
+            "Known from childhood",
+            "God-breathed and useful",
+            "Wise for salvation"
+          ]
+        },
+        {
+          "label": "Opponents",
+          "items": [
+            "Resurrection already past",
+            "Gentle correction",
+            "Last-days corruption"
+          ]
+        },
+        {
+          "label": "Farewell",
+          "items": [
+            "Poured out as offering",
+            "Race finished",
+            "Crown of righteousness",
+            "Bring the cloak"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "God-breathed / inspired",
+        "original": "theopneustos",
+        "meaning": "Breathed out by God. A rare word, perhaps coined for this verse; it expresses Scripture's divine origin and is followed by its usefulness for teaching and training.",
+        "refs": [
+          "2 Tim 3:16-17"
+        ]
+      },
+      {
+        "word": "suffer together",
+        "original": "synkakopatheō",
+        "meaning": "To share in suffering with someone; Paul invites Timothy to join him in the gospel's hardship.",
+        "refs": [
+          "2 Tim 1:8",
+          "2 Tim 2:3"
+        ]
+      },
+      {
+        "word": "deposit",
+        "original": "parathēkē",
+        "meaning": "What has been entrusted for safekeeping: the gospel, guarded by the Holy Spirit.",
+        "refs": [
+          "2 Tim 1:12",
+          "2 Tim 1:14"
+        ]
+      },
+      {
+        "word": "appearing",
+        "original": "epiphaneia",
+        "meaning": "A visible manifestation, used of Christ's first coming and his future return; a word also used for gods and emperors appearing.",
+        "refs": [
+          "2 Tim 1:10",
+          "2 Tim 4:1",
+          "2 Tim 4:8"
+        ]
+      },
+      {
+        "word": "faithful / trustworthy",
+        "original": "pistos",
+        "meaning": "Reliable. 'The saying is trustworthy', a formula found in the Pastorals, and 'if we are faithless, he remains faithful'.",
+        "refs": [
+          "2 Tim 2:11-13",
+          "2 Tim 2:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "deuteronomy",
+        "how": "Moses' farewell charge to Joshua is the model for a leader's final instructions to a successor.",
+        "refs": [
+          "Deut 31:7-8",
+          "2 Tim 4:1-5"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "Jannes and Jambres are traditional names for Pharaoh's magicians who opposed Moses.",
+        "refs": [
+          "Exod 7:11-12",
+          "2 Tim 3:8"
+        ]
+      },
+      {
+        "bookId": "numbers",
+        "how": "'The Lord knows those who are his' recalls the Korah rebellion.",
+        "refs": [
+          "Num 16:5",
+          "2 Tim 2:19"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Acts introduces Timothy, his Jewish mother and Greek father, and his joining Paul at Lystra.",
+        "refs": [
+          "Acts 16:1-3"
+        ]
+      },
+      {
+        "bookId": "philippians",
+        "how": "Paul also speaks of being poured out as a drink offering and of pressing on in a race.",
+        "refs": [
+          "Phil 2:17",
+          "Phil 3:14",
+          "2 Tim 4:6-7"
+        ]
+      }
+    ],
+    "jesusLens": "The gospel Paul guards is 'Jesus Christ, risen from the dead, the offspring of David' (2 Tim 2:8), who 'abolished death and brought life and immortality to light' (2 Tim 1:10) and who will judge the living and the dead at his appearing (2 Tim 4:1). The early saying 'if we have died with him, we will also live with him... if we are faithless, he remains faithful' (2 Tim 2:11-13) roots endurance in Christ's own faithfulness. For Jewish readers the Davidic Messiah and the resurrection are recognisable hopes; the letter claims they have begun in Jesus.",
+    "misreadings": [
+      {
+        "topic": "2 Timothy 3:16 as a ready-made statement about the 66-book Bible",
+        "popular": "2 Timothy 3:16 proves that the whole Bible, Old and New Testaments, is inspired and inerrant, and settles questions about which books belong in it.",
+        "inContext": "When this letter was written, the New Testament had not been collected. The 'sacred writings' Timothy knew from childhood (2 Tim 3:15) were the Jewish Scriptures. Paul's point is practical: Scripture makes one wise for salvation through faith in Christ and equips for good works. The emphasis is on Scripture's purpose and usefulness. Scholars across traditions (Luke Timothy Johnson, Philip Towner) agree on this.",
+        "defence": "Evangelical scholars (B. B. Warfield historically; today William Mounce, Kevin Vanhoozer) agree the primary reference is the Old Testament, but argue that the principle applies to the apostolic writings, which the early church soon recognised as Scripture (1 Tim 5:18 quotes a saying of Jesus as Scripture; 2 Pet 3:16 places Paul's letters among 'the other Scriptures'). They hold that 'God-breathed' grounds Scripture's full truthfulness. The popular error is not the doctrine but ignoring the original reference and purpose.",
+        "whyItMatters": "Remembering that Paul meant Israel's Scriptures honours the Old Testament as Christian Scripture, and keeping its purpose in view stops the verse being used only in arguments.",
+        "refs": [
+          "2 Tim 3:14-17",
+          "1 Tim 5:18",
+          "2 Pet 3:15-16"
+        ],
+        "scholars": [
+          "Luke Timothy Johnson",
+          "Philip Towner",
+          "William Mounce",
+          "B. B. Warfield"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A young leader facing opposition, desertions and the loss of his mentor was urged to courage, to faithful handling of Scripture and to making disciples who would make disciples.",
+      "now": "2 Timothy speaks to mentoring and leadership succession, to believers tempted to be ashamed of Christ in a hostile culture, and to anyone facing death with faith. Its picture of a lonely old man asking for his coat and books makes the call to faithfulness very human."
+    },
+    "sources": [
+      {
+        "author": "Philip H. Towner",
+        "title": "The Letters to Timothy and Titus (NICNT)",
+        "year": 2006
+      },
+      {
+        "author": "Luke Timothy Johnson",
+        "title": "The First and Second Letters to Timothy (Anchor Bible 35A)",
+        "year": 2001
+      },
+      {
+        "author": "Michael Prior",
+        "title": "Paul the Letter-Writer and the Second Letter to Timothy",
+        "year": 1989
+      },
+      {
+        "author": "Tacitus",
+        "title": "Annals",
+        "locator": "15.44",
+        "publicDomain": true
+      }
+    ]
+  },
+  {
+    "id": "titus",
+    "oneLine": "Instructions for organising new churches on Crete so that their leaders, households and public conduct 'adorn' the gospel of the God who saved them by mercy, not by their works.",
+    "author": {
+      "name": "Paul (authorship disputed)",
+      "who": "Presented as Paul writing to Titus, a Greek co-worker who had been with him in Jerusalem (Gal 2:1-3) and his trusted envoy to Corinth (2 Cor 8:23). Paul had left him on Crete to finish organising the churches (Titus 1:5).",
+      "howWeKnow": "The letter claims Paul and shares the vocabulary, church order and concerns of 1 Timothy. The same arguments for and against Pauline authorship apply. Paul's visit to Crete is not recorded in Acts, beyond a brief stop at Fair Havens as a prisoner (Acts 27:7-13), so if Pauline it is usually placed after a release from Rome.",
+      "otherWritings": [
+        "1 Timothy",
+        "2 Timothy"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown; possibly on the way to Nicopolis",
+      "note": "Paul plans to winter at Nicopolis, probably the city in Epirus on the western coast of Greece, and asks Titus to join him there (Titus 3:12). Where he was when writing is not stated.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Titus, overseeing young churches in the towns of Crete",
+      "place": "Crete",
+      "coords": [
+        24.95,
+        35.06
+      ],
+      "situation": "Churches existed in several towns but had no appointed elders. 'Insubordinate, empty talkers', especially 'of the circumcision party', were teaching 'Jewish myths' and human commandments for profit and 'upsetting whole families' (Titus 1:10-14).",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -67,
+        "event": "Rome completes the conquest of Crete; it later forms one province with Cyrene in North Africa, governed from Gortyn."
+      },
+      {
+        "year": 30,
+        "event": "Jews from Crete are among the pilgrims at Pentecost in Jerusalem (Acts 2:11; approximate date)."
+      },
+      {
+        "year": 59,
+        "event": "Paul's prison ship shelters at Fair Havens on Crete before the storm (Acts 27:7-13; approximate date)."
+      },
+      {
+        "year": 63,
+        "event": "Traditional date of Titus if written by Paul between imprisonments."
+      },
+      {
+        "year": 100,
+        "event": "Approximate date if the Pastorals are pseudonymous."
+      }
+    ],
+    "backdrop": "Crete is a large, mountainous island south of Greece, with dozens of towns; Homer called it the island of a hundred cities. After the Roman conquest in 67 BC it was joined administratively with Cyrene in Libya and governed from Gortyn. Crete had a Jewish community (Cretans were present at Pentecost, Acts 2:11, and Philo mentions Jews on Crete), which may explain the 'circumcision party' among the teachers.\n\nCretans had a poor reputation in the ancient world. The verb 'to Cretanise' meant to lie, and Cretans were mocked for claiming that Zeus, the immortal god, had a tomb on their island. Titus quotes one of their own 'prophets': 'Cretans are always liars, evil beasts, lazy gluttons' (Titus 1:12). From at least Clement of Alexandria onwards this line has been attributed to the sixth-century BC poet Epimenides of Knossos, and the same poem may lie behind 'in him we live and move and have our being' (Acts 17:28). The quotation is part of the famous 'liar paradox'.\n\nThe letter is short but structured around one idea: sound teaching must produce good works that make the gospel attractive to outsiders. Elders must be blameless household managers (Titus 1:6-9). Older men and women, younger men and women, and slaves are each given instructions 'so that the word of God may not be reviled' (Titus 2:5) and so that 'in everything they may adorn the doctrine of God our Saviour' (Titus 2:10). Then come two of the richest summaries of grace in the New Testament (Titus 2:11-14, Titus 3:4-7), which ground all this behaviour in what God has done.",
+    "culture": [
+      {
+        "term": "Cretan reputation",
+        "explain": "Cretans were proverbial liars in Greek literature. The letter uses a Cretan poet's own stereotype to rebuke the false teachers, not to condemn all Cretans, since the churches themselves are Cretan.",
+        "refs": [
+          "Titus 1:12-13"
+        ]
+      },
+      {
+        "term": "Household and public honour",
+        "explain": "Outsiders judged new groups by whether they disrupted households. The letter's household instructions aim to remove grounds for slander against the gospel.",
+        "refs": [
+          "Titus 2:3-10",
+          "Titus 2:5"
+        ]
+      },
+      {
+        "term": "Epiphany and 'Saviour'",
+        "explain": "'Saviour' (sōtēr) and 'appearing' (epiphaneia) were titles and words for gods and emperors who brought benefits. Titus applies them to God and to Jesus Christ.",
+        "refs": [
+          "Titus 2:11-13",
+          "Titus 3:4"
+        ]
+      },
+      {
+        "term": "Benefaction and good works",
+        "explain": "Civic life prized public benefaction. Believers are to be 'zealous for good works' and ready for every good work, a public goodness that blesses the town.",
+        "refs": [
+          "Titus 2:14",
+          "Titus 3:1",
+          "Titus 3:8",
+          "Titus 3:14"
+        ]
+      },
+      {
+        "term": "Elders appointed town by town",
+        "explain": "Each town's church needed recognised leaders; the elder is described as 'God's steward' (oikonomos), a household manager entrusted with the master's goods.",
+        "refs": [
+          "Titus 1:5-7"
+        ]
+      }
+    ],
+    "jewishLens": "Titus has a Jewish backbone beneath its Greek vocabulary. Its opening speaks of God's promise of eternal life made 'before the ages began' and revealed at the proper time (Titus 1:2-3). Its description of Christ who 'gave himself for us to redeem us from all lawlessness and to purify for himself a people for his own possession' (Titus 2:14) quotes Israel's covenant identity: 'a people for his treasured possession' (Exod 19:5, Deut 14:2) and God's promise to redeem Israel from all its iniquities (Ps 130:8) and cleanse them (Ezek 37:23). The Gentile churches of Crete are being given Israel's own titles.\n\nThe 'washing of regeneration and renewal of the Holy Spirit, whom he poured out on us richly' (Titus 3:5-6) echoes Ezekiel's promise of sprinkling with clean water and a new spirit (Ezek 36:25-27) and Joel's outpouring of the Spirit (Joel 2:28).\n\nThe criticism of 'Jewish myths' and 'those of the circumcision' (Titus 1:10, Titus 1:14) has to be read carefully. These are teachers within the church, perhaps Jewish believers or Gentiles drawn to Jewish-style speculation and purity rules, who taught that some things were unclean (Titus 1:15). The letter's reply, 'to the pure, all things are pure', is about food and purity rules imposed on Gentiles. It is a dispute within the Jesus movement, not a judgment on Judaism.",
+    "flow": [
+      {
+        "label": "Truth that leads to godliness",
+        "detail": "Paul greets Titus with a statement of the hope of eternal life promised before time.",
+        "refs": [
+          "Titus 1:1-4"
+        ]
+      },
+      {
+        "label": "Appoint elders",
+        "detail": "In every town, appoint blameless, hospitable, self-controlled elders who hold to sound teaching.",
+        "refs": [
+          "Titus 1:5-9"
+        ]
+      },
+      {
+        "label": "Silence the disrupters",
+        "detail": "Rebuke teachers who upset households for profit with myths and purity rules.",
+        "refs": [
+          "Titus 1:10-16"
+        ]
+      },
+      {
+        "label": "Lives that adorn the gospel",
+        "detail": "Each group in the household of faith lives so that the word is not reviled.",
+        "refs": [
+          "Titus 2:1-10"
+        ]
+      },
+      {
+        "label": "Grace that trains",
+        "detail": "God's grace has appeared, training us to live godly lives as we await Christ's appearing.",
+        "refs": [
+          "Titus 2:11-15"
+        ]
+      },
+      {
+        "label": "Saved by mercy",
+        "detail": "Be good citizens, for God saved us not by works but by mercy, through the Spirit's renewing.",
+        "refs": [
+          "Titus 3:1-8"
+        ]
+      },
+      {
+        "label": "Final instructions",
+        "detail": "Avoid foolish controversies, warn the divisive, and help travelling workers.",
+        "refs": [
+          "Titus 3:9-15"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Sound teaching that adorns the gospel",
+      "branches": [
+        {
+          "label": "Leaders",
+          "items": [
+            "Elders in every town",
+            "God's steward",
+            "Hold firm the word"
+          ]
+        },
+        {
+          "label": "Opponents",
+          "items": [
+            "Empty talkers",
+            "Myths and purity rules",
+            "Upsetting households"
+          ]
+        },
+        {
+          "label": "Households",
+          "items": [
+            "Older and younger",
+            "Slaves honoured",
+            "No cause for slander"
+          ]
+        },
+        {
+          "label": "Grace",
+          "items": [
+            "Grace has appeared",
+            "Trains us to renounce",
+            "Blessed hope"
+          ]
+        },
+        {
+          "label": "Salvation",
+          "items": [
+            "Not by our works",
+            "By his mercy",
+            "Washing and renewal",
+            "Heirs of eternal life"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "grace",
+        "original": "charis",
+        "meaning": "God's gift that saves and also trains (paideuousa) believers to live new lives.",
+        "refs": [
+          "Titus 2:11-12",
+          "Titus 3:7"
+        ]
+      },
+      {
+        "word": "good works",
+        "original": "kala erga",
+        "meaning": "Noble, publicly visible good deeds. They are the fruit, not the cause, of salvation in Titus.",
+        "refs": [
+          "Titus 2:7",
+          "Titus 2:14",
+          "Titus 3:8"
+        ]
+      },
+      {
+        "word": "Saviour",
+        "original": "sōtēr",
+        "meaning": "Applied six times in this short letter, three to God and three to Jesus Christ.",
+        "refs": [
+          "Titus 1:3-4",
+          "Titus 2:10",
+          "Titus 2:13",
+          "Titus 3:4-6"
+        ]
+      },
+      {
+        "word": "regeneration",
+        "original": "palingenesia",
+        "meaning": "New birth or renewal; used by Stoics for the rebirth of the world, and in Matthew for the renewal of all things. Here it is a personal new beginning by the Spirit.",
+        "refs": [
+          "Titus 3:5",
+          "Matt 19:28"
+        ]
+      },
+      {
+        "word": "self-controlled / sensible",
+        "original": "sōphrōn",
+        "meaning": "A classic Greek virtue of moderation and good sense, asked of every group in the church.",
+        "refs": [
+          "Titus 1:8",
+          "Titus 2:2-6",
+          "Titus 2:12"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-timothy",
+        "how": "Closely parallel instructions on elders, false teachers and household conduct.",
+        "refs": [
+          "1 Tim 3:1-7",
+          "Titus 1:5-9"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "'A people for his own possession' echoes God's covenant words at Sinai.",
+        "refs": [
+          "Exod 19:5",
+          "Titus 2:14"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "Washing and the gift of a new spirit recall Ezekiel's promise of cleansing.",
+        "refs": [
+          "Ezek 36:25-27",
+          "Titus 3:5"
+        ]
+      },
+      {
+        "bookId": "galatians",
+        "how": "Titus himself was the uncircumcised Greek not compelled to be circumcised in Jerusalem.",
+        "refs": [
+          "Gal 2:3"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Cretans at Pentecost and Paul's stop at Fair Havens are Crete's other New Testament appearances.",
+        "refs": [
+          "Acts 2:11",
+          "Acts 27:7-13"
+        ]
+      }
+    ],
+    "jesusLens": "Titus contains one of the clearest New Testament statements of Jesus' divinity: believers wait for 'the appearing of the glory of our great God and Saviour Jesus Christ' (Titus 2:13), which most scholars read as calling Jesus 'God', though some take it as two persons, 'the great God and our Saviour Jesus Christ'. Christ gave himself to redeem and purify a people. The title 'Saviour' moves back and forth between God and Jesus in the letter, presenting the Father and Son as acting together in salvation. Jewish readers will recognise the language of redemption and a treasured people from Israel's own Scriptures.",
+    "misreadings": [
+      {
+        "topic": "'Cretans are always liars' as a licence for ethnic stereotypes",
+        "popular": "Titus 1:12 shows that some peoples have fixed bad characters, and the Bible endorses judging nations by their reputations.",
+        "inContext": "The letter quotes a Cretan poet's own proverb as a rhetorical jab at specific false teachers who were deceiving for money. The churches that receive the letter are Cretan, and the letter expects Cretan elders to be blameless and Cretan believers to be transformed by grace (Titus 2:11-12). Ancient rhetoric often turned a group's proverb against its own members. Commentators (Towner, Mounce, Johnson) note the rebuke is aimed so 'that they may be sound in the faith' (Titus 1:13).",
+        "defence": "Evangelical commentators accept that 'this testimony is true' affirms the poet's point about these teachers' behaviour but not a racial theory. Some acknowledge that the sentence sounds harsh to modern ears and should not be used to label any people. There is little scholarly dispute.",
+        "whyItMatters": "The gospel in Titus transforms Cretans; using the verse to stereotype others contradicts the letter's own message of grace for 'all people' (Titus 2:11).",
+        "refs": [
+          "Titus 1:10-14",
+          "Titus 2:11"
+        ],
+        "scholars": [
+          "Philip Towner",
+          "William Mounce",
+          "Luke Timothy Johnson"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'Washing of regeneration' (Titus 3:5): baptism or the Spirit's inner work?",
+        "popular": "Evangelicals often read Titus 3:5 as describing only an inner, spiritual cleansing at conversion, with no reference to baptism. Others (sacramental traditions) read it as stating that baptism itself regenerates.",
+        "inContext": "Most commentators, including evangelicals such as Gordon Fee and Philip Towner, think baptism is at least in view, because 'washing' was the obvious early Christian word for baptism (compare Eph 5:26, Acts 22:16). In the Jewish background, washing is linked with the Spirit's renewal (Ezek 36:25-27). The emphasis falls on God's mercy and the Spirit, not on human action.",
+        "defence": "Catholic, Orthodox and Lutheran theologians read the verse as teaching baptismal regeneration, with God acting through the water. Reformed and Baptist evangelicals argue that baptism is the sign of a regeneration worked by the Spirit, and that the verse's 'not by works' guards against treating any rite as automatic. This is a long-standing difference between traditions; see /debates/baptism.",
+        "whyItMatters": "The verse holds together outward sign and inner renewal; each tradition has to account for both.",
+        "refs": [
+          "Titus 3:4-7",
+          "Ezek 36:25-27",
+          "Eph 5:26"
+        ],
+        "scholars": [
+          "Gordon Fee",
+          "Philip Towner",
+          "William Mounce",
+          "Luke Timothy Johnson"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Young churches on an island with a bad reputation learned that God's grace could produce trustworthy leaders and households whose goodness would silence slander.",
+      "now": "Titus speaks to church planting and leadership, to the link between belief and behaviour, and to Christian witness through ordinary good citizenship. Its short summaries of grace (Titus 2:11-14, Titus 3:4-7) are among the best one-paragraph statements of the gospel."
+    },
+    "sources": [
+      {
+        "author": "Philip H. Towner",
+        "title": "The Letters to Timothy and Titus (NICNT)",
+        "year": 2006
+      },
+      {
+        "author": "William D. Mounce",
+        "title": "Pastoral Epistles (Word Biblical Commentary 46)",
+        "year": 2000
+      },
+      {
+        "author": "Gordon D. Fee",
+        "title": "1 and 2 Timothy, Titus (Understanding the Bible Commentary)",
+        "year": 1988
+      },
+      {
+        "author": "Clement of Alexandria",
+        "title": "Stromata",
+        "locator": "1.14",
+        "publicDomain": true,
+        "confidence": "needs-verification"
+      }
+    ]
+  },
+  {
+    "id": "philemon",
+    "oneLine": "A one-page letter in which a prisoner asks a householder to receive back his slave Onesimus 'no longer as a slave but more than a slave, as a beloved brother', putting the gospel to work inside a household church.",
+    "author": {
+      "name": "Paul, with Timothy",
+      "who": "Paul in prison, calling himself 'an old man' (or possibly 'an ambassador', Phlm 1:9) and a 'prisoner of Christ Jesus'. He had led Philemon to faith (Phlm 1:19) and now Onesimus too (Phlm 1:10).",
+      "howWeKnow": "Undisputed. Its personal character, lack of doctrinal agenda and close links to Colossians' greetings make forgery very unlikely. It was in Marcion's collection (c. 140) and the Muratorian list.",
+      "otherWritings": [
+        "Colossians",
+        "Philippians",
+        "Romans",
+        "1 Corinthians"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Prison: Rome or Ephesus",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "note": "Paul asks Philemon to prepare a guest room for him (Phlm 1:22). That is easier to imagine from Ephesus, about 190 km (120 miles) from Colossae, than from Rome, over 1,600 km away, and a runaway or a slave seeking a mediator could more easily reach Ephesus. Rome is the traditional view, supported by the link with Colossians. Coordinates show Ephesus.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Philemon, with Apphia, Archippus and the church in his house",
+      "place": "Colossae",
+      "coords": [
+        29.26,
+        37.79
+      ],
+      "situation": "Onesimus, Philemon's slave, had left his master's house, perhaps owing him something (Phlm 1:18), and had come to Paul, become a believer and served Paul. Paul now sends him back with this letter and with Tychicus (Col 4:7-9). The letter is addressed to the whole house church, so Philemon will respond in public.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -73,
+        "event": "Spartacus' slave revolt in Italy (73-71 BC), a lasting memory of what Romans feared from slaves."
+      },
+      {
+        "year": 54,
+        "event": "Nero becomes emperor."
+      },
+      {
+        "year": 55,
+        "event": "Date of Philemon if written from an Ephesian imprisonment."
+      },
+      {
+        "year": 61,
+        "event": "Date of Philemon if written from Rome; in the same year the Roman senate executes all 400 slaves of the murdered city prefect Pedanius Secundus (Tacitus, Annals 14.42-45)."
+      },
+      {
+        "year": 107,
+        "event": "Ignatius of Antioch mentions a bishop of Ephesus named Onesimus (Ignatius, To the Ephesians 1.3); some scholars speculate he is the same man (approximate date)."
+      }
+    ],
+    "backdrop": "Slavery was everywhere in the Roman world. Perhaps one in five or six people in the empire was enslaved, and in cities the proportion could be higher. Slaves were legal property. They did every kind of work, from mining and farm labour to teaching and managing businesses, and some were later freed. A slave who ran away (a fugitivus) could be hunted down, branded or punished severely, and anyone who harboured him could be liable for the owner's losses.\n\nHowever, Roman legal writers also distinguish a runaway from a slave who went to a friend of the master (an amicus domini) to plead for help after a quarrel or mistake; such a slave was not legally a fugitive. Peter Lampe (1985) and Brian Rapske argued that Onesimus fits this case better: he went to Paul, his master's respected friend, to seek mediation. A famous parallel is the letter of Pliny the Younger to his friend Sabinianus (Letters 9.21), asking him to forgive a freedman who had come to Pliny in tears. Other scholars (John Barclay, Douglas Moo) still think Onesimus probably fled, and Allen Callahan has argued, as a minority view, that Onesimus was Philemon's estranged brother and not a slave at all, reading 'brother both in the flesh and in the Lord' (Phlm 1:16) literally.\n\nPaul's letter is a masterpiece of persuasion. He could command but chooses to appeal 'for love's sake' (Phlm 1:8-9). He plays on Onesimus' name, which means 'useful': 'formerly he was useless to you, but now he is useful' (Phlm 1:11). He offers to pay any debt in his own handwriting, then reminds Philemon that he owes Paul his very self (Phlm 1:19). And he asks for 'even more than I say' (Phlm 1:21), which many read as a hint about freedom or about sending Onesimus back to serve Paul.",
+    "culture": [
+      {
+        "term": "Slavery in the Roman household",
+        "explain": "Slaves belonged to the household (familia) under the master's authority. They could be punished, sold or freed at the owner's will. Household churches therefore had masters and slaves worshipping side by side.",
+        "refs": [
+          "Phlm 1:15-16",
+          "Col 4:1"
+        ]
+      },
+      {
+        "term": "Friend of the master (amicus domini)",
+        "explain": "A slave in trouble could go to a friend of the owner to ask for intercession without being legally a runaway. Many scholars think Onesimus did this.",
+        "refs": [
+          "Phlm 1:10-12",
+          "Phlm 1:17"
+        ]
+      },
+      {
+        "term": "Letter of recommendation and mediation",
+        "explain": "Letters asking one friend to receive another kindly were common. Paul asks Philemon to receive Onesimus as he would receive Paul himself.",
+        "refs": [
+          "Phlm 1:17"
+        ]
+      },
+      {
+        "term": "Debt, accounts and IOUs",
+        "explain": "Paul writes a legally recognisable promise in his own hand: 'I will repay it'. In the honour economy he also reminds Philemon of the debt he owes Paul.",
+        "refs": [
+          "Phlm 1:18-19"
+        ]
+      },
+      {
+        "term": "Public reading in the house church",
+        "explain": "The letter is addressed to the church in Philemon's house, so it was read aloud before the community, including other slaves. Philemon's response would be watched by everyone.",
+        "refs": [
+          "Phlm 1:2",
+          "Phlm 1:25"
+        ]
+      },
+      {
+        "term": "Partnership (koinōnia) and brotherhood",
+        "explain": "Paul calls Philemon his partner and Onesimus his own 'heart' and child. Kinship language turns a legal relationship into a family one.",
+        "refs": [
+          "Phlm 1:6-7",
+          "Phlm 1:10",
+          "Phlm 1:12",
+          "Phlm 1:17"
+        ]
+      }
+    ],
+    "jewishLens": "Philemon does not quote Scripture, but its moral world draws on Israel's Torah. The Law limited the enslavement of fellow Israelites and required their release in the seventh year (Exod 21:2, Deut 15:12-15), reminding Israel, 'you were a slave in the land of Egypt and the LORD your God redeemed you'. Most strikingly, Deuteronomy commanded: 'You shall not give up to his master a slave who has escaped from his master to you. He shall dwell with you... you shall not wrong him' (Deut 23:15-16). This was very unusual in the ancient Near East. Paul, as a Jew, sends Onesimus back not to bondage but with an appeal that he be received as a brother, which in Israel's terms is the way a fellow member of the covenant family is treated (Lev 25:39-43).\n\nThe letter also uses Jewish ideas of household and brotherhood. Paul is a 'father' to Onesimus (Phlm 1:10), as rabbis spoke of teachers as fathers to their disciples. The church is one family where the deepest relationship is 'in the Lord'.\n\nInterpreters differ on how far the letter challenges slavery. Some (Norman Petersen, N. T. Wright) see it as subtly undermining the master-slave relationship from within by making it impossible to treat a brother as property. Others (Jennifer Glancy, J. Albert Harrill) argue that early Christians generally accepted slavery as a given and that the letter must not be romanticised. African American interpreters (Allen Callahan, Lisa Bowens) have shown how the letter was used both by slaveholders and by abolitionists.",
+    "flow": [
+      {
+        "label": "Greeting the house church",
+        "detail": "Paul, a prisoner, greets Philemon, Apphia, Archippus and the whole house church.",
+        "refs": [
+          "Phlm 1:1-3"
+        ]
+      },
+      {
+        "label": "Thanks for Philemon's love",
+        "detail": "Philemon has refreshed the saints; Paul prays his partnership will be effective.",
+        "refs": [
+          "Phlm 1:4-7"
+        ]
+      },
+      {
+        "label": "Appeal, not command",
+        "detail": "On the basis of love Paul appeals for his child Onesimus, once useless, now useful.",
+        "refs": [
+          "Phlm 1:8-14"
+        ]
+      },
+      {
+        "label": "More than a slave",
+        "detail": "Perhaps he was parted for a while so Philemon could have him back forever as a beloved brother.",
+        "refs": [
+          "Phlm 1:15-17"
+        ]
+      },
+      {
+        "label": "Charge it to me",
+        "detail": "Paul will pay any debt, though Philemon owes him his own self.",
+        "refs": [
+          "Phlm 1:18-21"
+        ]
+      },
+      {
+        "label": "Prepare a room",
+        "detail": "Paul hopes to visit; greetings from his fellow workers.",
+        "refs": [
+          "Phlm 1:22-25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Received as a beloved brother",
+      "branches": [
+        {
+          "label": "People",
+          "items": [
+            "Paul the prisoner",
+            "Philemon the host",
+            "Onesimus the slave",
+            "Apphia and Archippus"
+          ]
+        },
+        {
+          "label": "Persuasion",
+          "items": [
+            "Appeal, not command",
+            "Wordplay on 'useful'",
+            "Charge it to me",
+            "Even more than I say"
+          ]
+        },
+        {
+          "label": "New relationships",
+          "items": [
+            "Child of Paul",
+            "Brother in the Lord",
+            "Partner in the gospel"
+          ]
+        },
+        {
+          "label": "Questions",
+          "items": [
+            "Runaway or mediator?",
+            "Was he freed?",
+            "Challenge to slavery?"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "partnership / fellowship",
+        "original": "koinōnia",
+        "meaning": "Shared life in Christ, which Paul hopes will be 'effective' in how Philemon acts.",
+        "refs": [
+          "Phlm 1:6",
+          "Phlm 1:17"
+        ]
+      },
+      {
+        "word": "useful / Onesimus",
+        "original": "onēsimos / euchrēstos",
+        "meaning": "Onesimus means 'useful' or 'beneficial', a common slave name. Paul puns that he was achrēstos (useless) but is now euchrēstos (useful), which may also play on Christos.",
+        "refs": [
+          "Phlm 1:10-11",
+          "Phlm 1:20"
+        ]
+      },
+      {
+        "word": "brother",
+        "original": "adelphos",
+        "meaning": "Fellow member of God's family. Paul calls Philemon and Onesimus 'brother' and asks Philemon to see Onesimus that way 'in the flesh and in the Lord'.",
+        "refs": [
+          "Phlm 1:7",
+          "Phlm 1:16",
+          "Phlm 1:20"
+        ]
+      },
+      {
+        "word": "heart / inner self",
+        "original": "splanchna",
+        "meaning": "Literally the inner organs, the seat of deep affection. Onesimus is Paul's 'very heart'.",
+        "refs": [
+          "Phlm 1:7",
+          "Phlm 1:12",
+          "Phlm 1:20"
+        ]
+      },
+      {
+        "word": "love",
+        "original": "agapē",
+        "meaning": "The ground of Paul's appeal and of Philemon's reputation among the saints.",
+        "refs": [
+          "Phlm 1:5",
+          "Phlm 1:7",
+          "Phlm 1:9"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "colossians",
+        "how": "The same people send greetings, and Onesimus is sent with Tychicus to Colossae; Colossians' household code is the general teaching that Philemon applies to a case.",
+        "refs": [
+          "Col 4:7-17",
+          "Col 3:22-4:1"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Torah forbids handing an escaped slave back to his master and grounds release in Israel's own redemption from Egypt.",
+        "refs": [
+          "Deut 23:15-16",
+          "Deut 15:12-15"
+        ]
+      },
+      {
+        "bookId": "galatians",
+        "how": "'Neither slave nor free... all one in Christ' is worked out in a real household.",
+        "refs": [
+          "Gal 3:28",
+          "Phlm 1:16"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "Paul's teaching that a slave called in the Lord is the Lord's freedman, and that slaves should take freedom if possible, bears on the case.",
+        "refs": [
+          "1 Cor 7:21-23"
+        ]
+      },
+      {
+        "bookId": "leviticus",
+        "how": "Israelites who fell into debt were to be treated as hired workers, not slaves, because they belonged to God.",
+        "refs": [
+          "Lev 25:39-43"
+        ]
+      }
+    ],
+    "jesusLens": "Christ is not described at length in Philemon, but his pattern shapes it. Paul offers to take Onesimus' debt on himself ('charge that to my account', Phlm 1:18), which Martin Luther famously compared to Christ's taking our debts before the Father: 'we are all his Onesimi'. Paul asks Philemon to receive Onesimus as he would receive Paul, as Christ receives believers. The letter shows the gospel turning a master and a slave into brothers 'in the Lord'. Jewish readers may also see in it the Torah's concern for the escaped slave and for fellow members of God's people.",
+    "misreadings": [
+      {
+        "topic": "Onesimus as a simple runaway slave, and the letter as either endorsing or abolishing slavery",
+        "popular": "Onesimus was a runaway slave and perhaps a thief; Paul sent him back to his master, showing that the Bible accepts slavery (a reading used by American slaveholders to defend fugitive slave laws). Alternatively, some modern readers say the letter is an abolitionist manifesto.",
+        "inContext": "The letter never says Onesimus ran away or stole. Peter Lampe and Brian Rapske argue that he went to Paul as his master's friend to seek mediation, which was legal. Allen Callahan argues that he was Philemon's estranged brother. Most scholars still allow the runaway reading as possible. On slavery, Jennifer Glancy and J. Albert Harrill show that early churches did not call for abolition, while Norman Petersen and N. T. Wright argue that 'no longer as a slave... but a beloved brother' makes ownership deeply incompatible with the new family.",
+        "defence": "Evangelical scholars such as Douglas Moo and Scot McKnight hold that Paul does not directly demand manumission but that the logic of the letter, and of Gal 3:28, undermines slavery and led Christians eventually to oppose it; they reject the slaveholders' use of the letter. Moo still thinks a flight is the most likely background. The scholarly disagreement is over the backstory and how far Paul intended to challenge the institution; the popular error is reading certainty into either.",
+        "whyItMatters": "Philemon was used to send real people back into bondage. Reading it carefully shows a gospel that reshapes relationships of power from within, and asks how today's Christians treat those over whom they have economic or social power.",
+        "refs": [
+          "Phlm 1:10-21",
+          "Deut 23:15-16",
+          "1 Cor 7:21-23"
+        ],
+        "scholars": [
+          "Peter Lampe",
+          "Brian Rapske",
+          "Allen Callahan",
+          "Jennifer Glancy",
+          "J. Albert Harrill",
+          "N. T. Wright",
+          "Douglas Moo",
+          "Scot McKnight"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A household church learned that baptism made a slave and his master brothers, and watched to see whether its host would act on it. Paul modelled persuasion, not force, and personal cost for reconciliation.",
+      "now": "Philemon speaks to reconciliation between people of unequal power (employers and workers, majority and minority groups, offenders and the wronged), to the costly role of a mediator, and to churches reckoning honestly with how the Bible was used to defend slavery."
+    },
+    "sources": [
+      {
+        "author": "Douglas J. Moo",
+        "title": "The Letters to the Colossians and to Philemon (Pillar NTC)",
+        "year": 2008
+      },
+      {
+        "author": "Scot McKnight",
+        "title": "The Letter to Philemon (NICNT)",
+        "year": 2017
+      },
+      {
+        "author": "Allen Dwight Callahan",
+        "title": "Embassy of Onesimus: The Letter of Paul to Philemon",
+        "year": 1997
+      },
+      {
+        "author": "Jennifer A. Glancy",
+        "title": "Slavery in Early Christianity",
+        "year": 2002
+      },
+      {
+        "author": "Peter Lampe",
+        "title": "Keine 'Sklavenflucht' des Onesimus, Zeitschrift für die neutestamentliche Wissenschaft 76",
+        "year": 1985
+      }
+    ]
   }
 ]
