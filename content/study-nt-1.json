@@ -1,0 +1,1496 @@
+[
+  {
+    "id": "matthew",
+    "oneLine": "A Jewish teacher's account of Jesus as Israel's Messiah, the new Moses-like teacher of Torah, whose kingdom brings Israel's story to its goal and opens it to the nations.",
+    "author": {
+      "name": "Traditionally Matthew (Levi), the tax collector and apostle",
+      "who": "Whoever wrote it was a Jewish follower of Jesus who knew the Scriptures deeply, read them in Hebrew and Greek, and thought like a trained scribe. The Gospel's own picture of the ideal teacher, a 'scribe trained for the kingdom' who brings out treasures new and old, may be a self-portrait.",
+      "howWeKnow": "The text is anonymous. The title 'According to Matthew' is found in the earliest manuscripts that preserve titles, and second-century writers attribute it to Matthew without dissent. Only this Gospel calls the tax collector at the booth 'Matthew' (Mark and Luke call him Levi), which some take as a signature and others as a later tradition shaping the text. Because it seems to reuse most of Mark, many scholars think an eyewitness apostle is unlikely as the final writer; others answer that an apostle could still use a fellow-believer's written account.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Syria, often Antioch; Galilee is a minority suggestion",
+      "coords": [
+        36.16,
+        36.2
+      ],
+      "note": "Antioch had a large Jewish community and an early church of Jews and Gentiles (Acts 11:19-26). The first clear user of Matthew, Ignatius of Antioch (c. 110), fits a Syrian home, but this is an inference, not a datum.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "A community of Jesus-following Jews, with a growing number of Gentiles, still arguing with other Jewish leaders about how to be faithful to the Torah after the temple's fall",
+      "place": "Syria or Galilee",
+      "coords": [
+        36.16,
+        36.2
+      ],
+      "situation": "If the majority dating is right, the temple had been burned in 70 and different Jewish groups were competing to lead Israel's recovery. Matthew's sharp words about 'their synagogues' and about scribes and Pharisees reflect a family argument between Jews over who rightly interprets Moses, not Christians attacking an alien religion.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -6,
+      "to": 30,
+      "note": "From Jesus' birth under Herod the Great (who died in 4 BC) to the resurrection, c. AD 30 or 33."
+    },
+    "worldEvents": [
+      {
+        "year": -4,
+        "event": "Death of Herod the Great; his kingdom is divided among his sons."
+      },
+      {
+        "year": 6,
+        "event": "Archelaus deposed; Judea placed under a Roman prefect."
+      },
+      {
+        "year": 30,
+        "event": "Crucifixion of Jesus under Pontius Pilate (or 33)."
+      },
+      {
+        "year": 70,
+        "event": "Roman armies under Titus destroy Jerusalem and the temple."
+      },
+      {
+        "year": 80,
+        "event": "Sages at Yavneh (Jamnia) begin reshaping Judaism around Torah study (traditional picture; details debated)."
+      },
+      {
+        "year": 110,
+        "event": "Ignatius of Antioch writes letters that echo Matthew's Gospel."
+      }
+    ],
+    "backdrop": "Matthew was written into a Jewish world that had just lost its centre. If, as most scholars think, it comes from the 80s, the temple, the place where heaven and earth met and sins were dealt with, lay in ruins. Every Jewish group had to answer the same question: how does Israel stay faithful to God now? The sages who later produced the Mishnah answered by focusing on Torah study and the practice of holiness in the home and synagogue. Matthew's community answered: by following Jesus, who is 'God with us', and whose teaching is the true interpretation of Torah.\n\nThis is why Matthew is both the most Jewish Gospel and the one most fiercely critical of other Jewish leaders. It opens with a genealogy from Abraham through David, quotes the prophets with formula citations ('this happened to fulfil...') about ten times, keeps the Sabbath and the temple tax in view, and has Jesus say he came not to abolish the Law and the Prophets but to fulfil them. At the same time it contains the harshest words against 'scribes and Pharisees'. In the ancient world, rival teachers within the same tradition routinely used such language; the closeness of the family makes the quarrel louder.\n\nRoman power stands in the background throughout. Herod, a client king of Rome, tries to kill the infant 'king of the Jews'. Roman soldiers can force a civilian to carry gear for a mile. Roman coins carry Caesar's image. Jesus is executed by a Roman governor on a Roman cross. Matthew ends with the risen Jesus claiming 'all authority in heaven and on earth', the kind of language used of emperors and of Daniel's Son of Man.",
+    "culture": [
+      {
+        "term": "Fulfilment formulas",
+        "explain": "Matthew repeatedly says an event happened 'to fulfil what was spoken by the prophet'. For a Jewish reader, 'fulfil' meant more than a prediction coming true: it meant a pattern in Israel's story reaching its full meaning, as when Hosea's words about Israel coming out of Egypt are applied to Jesus, who relives Israel's story.",
+        "refs": [
+          "Matt 1:22-23",
+          "Matt 2:15",
+          "Hos 11:1"
+        ]
+      },
+      {
+        "term": "Moses' seat and the Pharisees",
+        "explain": "Pharisees were a popular lay movement devoted to keeping Torah carefully in everyday life, not a clique of legalists. Jesus tells crowds to do what they teach from 'Moses' seat' but not to copy hypocrisy. The quarrel is over interpretation and practice, which Jewish teachers argued about constantly.",
+        "refs": [
+          "Matt 23:2-3",
+          "Matt 15:1-9"
+        ]
+      },
+      {
+        "term": "Tassels on the garment",
+        "explain": "Jewish men wore tassels (tzitzit) on the corners of their cloaks as Numbers commands, as reminders of the commandments. The woman with bleeding touches the 'fringe' of Jesus' cloak, the very tassel, and Jesus criticises only those who make theirs extra long for show. Jesus dressed as a Torah-observant Jew.",
+        "refs": [
+          "Matt 9:20",
+          "Matt 23:5",
+          "Num 15:38-39"
+        ]
+      },
+      {
+        "term": "Roman occupation and forced service",
+        "explain": "A Roman soldier could compel a local to carry his pack one mile. 'Go the second mile' turns humiliating compulsion into a free act that shames the oppressor and refuses violent revenge, a practical third way between revolt and resentment.",
+        "refs": [
+          "Matt 5:41",
+          "Matt 27:32"
+        ]
+      },
+      {
+        "term": "Honour and public piety",
+        "explain": "In an honour-based society, almsgiving, prayer and fasting performed in public earned social credit. Jesus does not abolish these core Jewish practices but tells disciples to do them for the Father who sees in secret, moving the audience from the crowd to God.",
+        "refs": [
+          "Matt 6:1-18"
+        ]
+      },
+      {
+        "term": "Binding and loosing",
+        "explain": "Rabbinic language for declaring what is forbidden or permitted under Torah. Jesus gives this teaching authority first to Peter and then to the gathered community, making his followers a school of Torah interpretation under his own authority.",
+        "refs": [
+          "Matt 16:19",
+          "Matt 18:18"
+        ]
+      }
+    ],
+    "jewishLens": "A first-century Jewish listener would hear Matthew as an Israel story, not a new religion. The opening words, 'the book of the genesis of Jesus Messiah, son of David, son of Abraham', echo Genesis and announce that the long-awaited Davidic king has come. Jesus relives Israel's history: he goes down to Egypt and comes out, passes through water, is tested forty days in the wilderness as Israel was tested forty years, and then goes up a mountain to teach, as Moses did at Sinai. His teaching is organised in five great speeches, which many readers since antiquity have linked with the five books of Moses.\n\nThe 'kingdom of heaven' is Matthew's reverent Jewish way of saying 'kingdom of God', avoiding direct use of God's name as many Jews did. It does not mean a place souls go after death. It is the hope of the prophets and Psalms that the God of Israel would reign on earth, put things right, restore Israel and bring the nations to worship him, as the Lord's Prayer says: 'your kingdom come, your will be done, on earth as in heaven'. Jesus is a Jew within Judaism: he wears tassels, teaches in synagogues, pays the temple tax, keeps the Passover, sends his disciples first to 'the lost sheep of the house of Israel', and argues about Sabbath and purity the way Jewish teachers did. What is startling is not that he rejects Torah but that he claims the authority to say what it finally means, and that he presents himself as Immanuel, God with his people, whose presence will remain with them 'to the end of the age'. The final command to make disciples of all nations fulfils God's promise to Abraham that all the nations would be blessed through his seed.",
+    "flow": [
+      {
+        "label": "Son of David, son of Abraham",
+        "detail": "A genealogy and birth stories show Jesus as Israel's true king and God-with-us, threatened by a Roman client king.",
+        "refs": [
+          "Matt 1:1-2:23"
+        ]
+      },
+      {
+        "label": "Israel's story relived",
+        "detail": "Baptism in the Jordan and forty days of testing show Jesus as the faithful Son where Israel had faltered.",
+        "refs": [
+          "Matt 3:1-4:11",
+          "Deut 8:2-3"
+        ]
+      },
+      {
+        "label": "Torah from the mountain",
+        "detail": "The Sermon on the Mount gives the kingdom's way of life as the fullest meaning of the Law and the Prophets.",
+        "refs": [
+          "Matt 5:1-7:29"
+        ]
+      },
+      {
+        "label": "Kingdom in word and deed",
+        "detail": "Healings, mission to Israel's lost sheep and parables reveal the kingdom's hidden, growing presence.",
+        "refs": [
+          "Matt 8:1-13:58"
+        ]
+      },
+      {
+        "label": "A community forms",
+        "detail": "Peter confesses Jesus as Messiah; Jesus speaks of his assembly, forgiveness and the way of the cross.",
+        "refs": [
+          "Matt 16:13-18:35"
+        ]
+      },
+      {
+        "label": "Jerusalem and judgment",
+        "detail": "Jesus enters the city as king, clashes with its leaders and foretells the temple's fall and the final judgment.",
+        "refs": [
+          "Matt 21:1-25:46"
+        ]
+      },
+      {
+        "label": "Cross and all authority",
+        "detail": "Jesus dies as 'King of the Jews', rises, and sends his disciples to all nations with his abiding presence.",
+        "refs": [
+          "Matt 26:1-28:20"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Jesus, Israel's Messiah and teacher",
+      "branches": [
+        {
+          "label": "Israel's story",
+          "items": [
+            "Son of David",
+            "Son of Abraham",
+            "New exodus pattern",
+            "Fulfilment formulas"
+          ]
+        },
+        {
+          "label": "Torah and righteousness",
+          "items": [
+            "Not abolish but fulfil",
+            "Greater righteousness",
+            "Love of God and neighbour",
+            "Mercy over sacrifice"
+          ]
+        },
+        {
+          "label": "Kingdom of heaven",
+          "items": [
+            "God's reign on earth",
+            "Parables of growth",
+            "Reversal for the lowly",
+            "Final judgment"
+          ]
+        },
+        {
+          "label": "God with us",
+          "items": [
+            "Immanuel at the start",
+            "Present where two gather",
+            "With you always"
+          ]
+        },
+        {
+          "label": "Conflict and community",
+          "items": [
+            "Debate with Pharisees",
+            "Peter and the assembly",
+            "Forgiveness without limit",
+            "Discipline with restoration"
+          ]
+        },
+        {
+          "label": "To the nations",
+          "items": [
+            "Magi worship",
+            "Centurion's faith",
+            "Great Commission"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Kingdom of heaven",
+        "original": "basileia ton ouranon",
+        "meaning": "God's reign, coming from heaven to earth; Matthew's reverent equivalent of 'kingdom of God'.",
+        "refs": [
+          "Matt 4:17",
+          "Matt 6:10"
+        ]
+      },
+      {
+        "word": "Righteousness",
+        "original": "dikaiosyne",
+        "meaning": "Right living in covenant faithfulness to God and neighbour, and God's own putting-right of the world.",
+        "refs": [
+          "Matt 5:6",
+          "Matt 5:20",
+          "Matt 6:33"
+        ]
+      },
+      {
+        "word": "Fulfil",
+        "original": "pleroo",
+        "meaning": "To fill full, to bring to intended completion; used of Scripture and of the Law.",
+        "refs": [
+          "Matt 5:17",
+          "Matt 2:15"
+        ]
+      },
+      {
+        "word": "Assembly, church",
+        "original": "ekklesia",
+        "meaning": "The gathered people of God; in the Greek Old Testament it translates the Hebrew qahal, Israel assembled.",
+        "refs": [
+          "Matt 16:18",
+          "Matt 18:17"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "mark",
+        "how": "Matthew reuses most of Mark's story, often shortening narratives and adding large blocks of teaching.",
+        "refs": [
+          "Matt 16:13-20",
+          "Mark 8:27-30"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Jesus answers each temptation with Deuteronomy, and the mountain teaching recalls Moses giving Torah.",
+        "refs": [
+          "Matt 4:4",
+          "Deut 8:3"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "The risen Jesus' claim to all authority echoes the Son of Man receiving dominion over all peoples.",
+        "refs": [
+          "Matt 28:18",
+          "Dan 7:13-14"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James closely echoes the Sermon on the Mount on trials, mercy, oaths and doing the word.",
+        "refs": [
+          "Jas 5:12",
+          "Matt 5:34-37"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The opening phrase and the closing mission to all nations frame the Gospel with the promise to Abraham.",
+        "refs": [
+          "Matt 1:1",
+          "Gen 12:3"
+        ]
+      }
+    ],
+    "jesusLens": "Matthew presents Jesus as Messiah, son of David, Immanuel and the authoritative interpreter of Torah, worshipped by the magi and the disciples. Jewish readers today often value Matthew as evidence that Jesus was a Torah-observant teacher close to the Pharisees' own debates, while disagreeing that he was the Messiah, since the messianic age of peace has not visibly come. Christians read the abiding presence ('I am with you always') as the climax: the God who dwelt with Israel now dwells with his people through the risen Jesus.",
+    "misreadings": [
+      {
+        "topic": "The kingdom of heaven means going to heaven when you die",
+        "popular": "Many sermons and gospel tracts read 'kingdom of heaven' as the place believers go after death, so that entering the kingdom means securing a place in heaven by trusting Jesus.",
+        "inContext": "In Second Temple Judaism 'heaven' was a reverent stand-in for God's name. The kingdom of heaven is God's rule, coming on earth as in heaven, the hope of Israel's prophets. Jesus announces it as 'at hand', prays for it to come, and speaks of the 'renewal of all things'. N. T. Wright, Scot McKnight and Amy-Jill Levine all stress this this-worldly, Israel-centred meaning.",
+        "defence": "Careful evangelical scholars largely agree. Jonathan Pennington argues that Matthew's 'heaven' language is not merely a substitute for 'God' but contrasts God's realm with the present earthly order, while still expecting heaven and earth to be united. D. A. Carson and others note that the kingdom does include life beyond death and final judgment. The real gap is between popular preaching and scholarship, not between scholarly camps.",
+        "whyItMatters": "If the kingdom is only an afterlife destination, the Sermon on the Mount becomes optional ethics. If it is God's reign breaking in now, Jesus' teaching on enemies, money and mercy becomes the shape of present discipleship.",
+        "refs": [
+          "Matt 4:17",
+          "Matt 6:10",
+          "Matt 19:28",
+          "Matt 25:31-46"
+        ],
+        "scholars": [
+          "N. T. Wright",
+          "Scot McKnight",
+          "Amy-Jill Levine",
+          "Jonathan Pennington",
+          "D. A. Carson"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "The Pharisees were legalists trying to earn salvation",
+        "popular": "Pharisees are often presented as the archetypal religious legalists who thought they could earn God's favour by rule-keeping, the opposite of grace.",
+        "inContext": "E. P. Sanders showed from Jewish sources that Judaism understood obedience as the response to God's prior gracious election and covenant ('covenantal nomism'). Pharisees were respected popular teachers who sought to make holiness possible for ordinary people. Matthew's woes are prophetic rebukes of hypocrisy within a shared tradition, using the same harsh conventions found in the prophets and at Qumran. Amy-Jill Levine warns that the stereotype has fed Christian contempt for Jews.",
+        "defence": "Scholars such as D. A. Carson, Simon Gathercole and Stephen Westerholm accept that Judaism was not crudely 'works-righteousness' but argue that Jewish texts also expected final judgment according to deeds and that some groups did trust their own Torah observance. They note that Jesus does denounce real failings. Both sides agree the critique is of hypocrisy and misplaced priorities ('justice, mercy and faithfulness'), which Christians are equally prone to.",
+        "whyItMatters": "Reading the Pharisees as a foil lets Christians miss that the warnings are aimed at religious insiders like themselves, and it has fuelled antisemitism.",
+        "refs": [
+          "Matt 23:2-3",
+          "Matt 23:23",
+          "Matt 5:20"
+        ],
+        "scholars": [
+          "E. P. Sanders",
+          "Amy-Jill Levine",
+          "Simon Gathercole",
+          "D. A. Carson",
+          "Stephen Westerholm"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'His blood be on us' as a curse on the Jewish people",
+        "popular": "For centuries some Christians read the crowd's cry before Pilate as the whole Jewish people accepting guilt for Jesus' death for all generations.",
+        "inContext": "Matthew describes a particular Jerusalem crowd stirred up by a few leaders. Many scholars read 'on us and on our children' as Matthew's grim interpretation of the generation that saw Jerusalem fall in 70. Within the Gospel, Jesus' blood is the 'blood of the covenant poured out for many for the forgiveness of sins', so the line may carry an unintended irony of grace. The Jewish Annotated New Testament discusses its tragic history of use.",
+        "defence": "Evangelical commentators such as Craig Keener and R. T. France firmly reject any collective or perpetual Jewish guilt, a position also stated in Catholic teaching since Nostra Aetate (1965). Some still hold that the verse speaks of real responsibility by those leaders and that crowd. The debate is about the historical sense, not about blaming Jews today.",
+        "whyItMatters": "This verse was used to justify persecution. Reading it in context protects both the text and Jewish neighbours.",
+        "refs": [
+          "Matt 27:25",
+          "Matt 26:28",
+          "Matt 23:36"
+        ],
+        "scholars": [
+          "Amy-Jill Levine",
+          "Craig Keener",
+          "R. T. France"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For a community cut off from the temple and in painful dispute with fellow Jews, Matthew said: you have not left Israel's story; in Jesus its Messiah has come, God is with you, and your calling is to live out Torah's heart and bring the nations to Israel's God.",
+      "now": "Matthew calls readers to a practical righteousness shaped by the Sermon on the Mount, a church that forgives and restores, and humility about religious hypocrisy. It also invites Christians to read Jesus as a Jew and to repent of using this Gospel against Jewish people."
+    },
+    "sources": [
+      {
+        "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Annotated New Testament",
+        "year": 2017,
+        "locator": "2nd ed., introduction and notes on Matthew"
+      },
+      {
+        "author": "Craig S. Keener",
+        "title": "The Gospel of Matthew: A Socio-Rhetorical Commentary",
+        "year": 2009
+      },
+      {
+        "author": "W. D. Davies and Dale C. Allison",
+        "title": "A Critical and Exegetical Commentary on the Gospel According to Saint Matthew (ICC)",
+        "year": 1988,
+        "locator": "3 vols., 1988-1997"
+      },
+      {
+        "author": "Jonathan T. Pennington",
+        "title": "Heaven and Earth in the Gospel of Matthew",
+        "year": 2007
+      },
+      {
+        "author": "E. P. Sanders",
+        "title": "Paul and Palestinian Judaism",
+        "year": 1977
+      }
+    ]
+  },
+  {
+    "id": "mark",
+    "oneLine": "A fast, urgent announcement that Jesus is the Messiah and Son of God whose royal power is revealed above all in suffering and the cross.",
+    "author": {
+      "name": "Traditionally John Mark",
+      "who": "John Mark was a Jerusalem believer whose mother's house hosted the church, a cousin of Barnabas, a sometime companion of Paul and later, according to 1 Peter, with Peter in 'Babylon' (Rome).",
+      "howWeKnow": "The Gospel is anonymous. Papias, writing in the early second century and quoted by Eusebius, reports that Mark was Peter's interpreter. Because Mark was a minor figure, many scholars think the attribution is unlikely to be invented. Richard Bauckham argues that Peter's perspective shapes the story; others think Mark gathered community traditions and that the link to Peter cannot be confirmed.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Traditionally Rome; some scholars propose Syria or Galilee",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Latin loan-words (such as legion, centurion, denarius) and the explanation of Jewish customs suggest a non-Palestinian, possibly Roman, audience, but Latin military terms were used across the empire.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "A largely Gentile church, with Jewish members, needing to understand a crucified Messiah",
+      "place": "Rome (traditional) or Syria",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "situation": "Around the time of Nero's persecution (64) or the Jewish War (66-70), believers faced suffering and possibly betrayal. Mark tells them that the way of the Messiah is the way of the cross, and that following him means taking up their own.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": 28,
+      "to": 30,
+      "note": "From John the Baptist's ministry to the empty tomb, roughly the last one to three years of Jesus' life."
+    },
+    "worldEvents": [
+      {
+        "year": -9,
+        "event": "Priene calendar inscription celebrates Augustus' birthday as the beginning of 'good news' (euangelia) for the world."
+      },
+      {
+        "year": 49,
+        "event": "Claudius expels Jews (and Jewish Christians) from Rome after disturbances."
+      },
+      {
+        "year": 64,
+        "event": "Great Fire of Rome; Nero blames and executes Christians."
+      },
+      {
+        "year": 66,
+        "event": "Jewish revolt against Rome begins."
+      },
+      {
+        "year": 70,
+        "event": "Jerusalem and its temple destroyed."
+      }
+    ],
+    "backdrop": "Mark is the shortest and, on most scholars' view, the earliest Gospel. Its Greek is plain and vivid, full of 'immediately' and present-tense storytelling, as if meant to be performed aloud, which is how almost everyone would have met it. The whole account can be read in under two hours.\n\nIts first line is a political announcement. In the Roman world 'gospel' (euangelion) meant good news of a victory or of an emperor's birth or accession. A famous inscription from Priene in Asia Minor called the birth of Augustus the beginning of good news for the world, and emperors were called sons of a god. Mark begins: 'The beginning of the good news of Jesus the Messiah, the Son of God.' He then quotes Isaiah's promise that God himself would return to Zion to rescue his people. The good news is both Israel's hope and a rival claim to Caesar's.\n\nThe likely setting was dark. If Mark was written in Rome after 64, believers had been burned and crucified by Nero. If it was written near Syria or Galilee during the Jewish War, Jerusalem was under siege and false messiahs were appearing. Either way, the Gospel's long passion narrative and its warnings about persecution, betrayal and 'the abomination of desolation' would have hit home.",
+    "culture": [
+      {
+        "term": "Purity and touch",
+        "explain": "Corpse impurity, skin disease and bodily discharges made a person ritually impure, which mainly restricted temple access; it was not the same as sin. In Mark, impurity does not spread to Jesus; instead his holiness spreads outward and heals the source. Matthew Thiessen argues Jesus is not abolishing purity law but defeating the forces of death it marks.",
+        "refs": [
+          "Mark 1:40-45",
+          "Mark 5:25-34",
+          "Mark 5:41-42",
+          "Lev 15:25-27"
+        ]
+      },
+      {
+        "term": "Explaining Jewish customs",
+        "explain": "Mark pauses to explain hand-washing and Pharisaic practice, which suggests many of his hearers were not Jewish. He also translates Aramaic words like 'talitha koum' and 'ephphatha', keeping Jesus' own voice.",
+        "refs": [
+          "Mark 7:3-4",
+          "Mark 5:41",
+          "Mark 7:34"
+        ]
+      },
+      {
+        "term": "Synagogue",
+        "explain": "A local Jewish gathering for reading and teaching Scripture and prayer, and a village meeting place. Jesus' public work begins in the Capernaum synagogue on the Sabbath, inside Jewish community life.",
+        "refs": [
+          "Mark 1:21-28",
+          "Mark 3:1-6"
+        ]
+      },
+      {
+        "term": "Roman occupation and 'Legion'",
+        "explain": "The demon-possessed man's name 'Legion', the swine (the emblem of the Roman Tenth Legion was a boar) and the drowning in the sea would have evoked Roman military occupation for first hearers, though how deliberate this is remains debated.",
+        "refs": [
+          "Mark 5:1-20"
+        ]
+      },
+      {
+        "term": "Crucifixion and shame",
+        "explain": "Crucifixion was Rome's most shameful punishment, reserved for slaves and rebels. A crucified Messiah sounded absurd. Mark narrates it as a mock coronation: purple robe, crown, acclamation, the title 'King of the Jews', and a lifting up between two others.",
+        "refs": [
+          "Mark 15:16-20",
+          "Mark 15:26-27"
+        ]
+      }
+    ],
+    "jewishLens": "A Jewish hearer would catch at once that Mark opens with Isaiah's promise of a new exodus: a voice in the wilderness preparing the way for the LORD himself to return to Zion. When Jesus proclaims 'the time is fulfilled, the kingdom of God has come near', he announces that Israel's long exile-like waiting is ending and that God is beginning to reign as King, as Isaiah 52 had promised. Jesus chooses twelve, recalling the twelve tribes; feeds crowds in the wilderness like the manna; calms the sea and walks on it as only the God of Israel does in the Psalms and Job; and calls himself 'the Son of Man' from Daniel 7, the human figure who receives the kingdom from the Ancient of Days.\n\nMark's Jesus is a Jew among Jews. He attends synagogue, sends a cleansed leper to the priest with the offering Moses commanded, affirms the Shema as the greatest commandment and praises a scribe who agrees with him as 'not far from the kingdom'. His actions in the temple echo Jeremiah and Isaiah: the temple was meant to be a house of prayer for all nations. The great surprise is that the Messiah's kingdom comes through suffering, as with Isaiah's servant who gives his life 'as a ransom for many', and that Mark's first human to confess him Son of God is a Roman centurion at the cross. For Mark's mixed audience, this tied their suffering to Israel's own history of faithful suffering under empires, from Daniel to the Maccabees.",
+    "flow": [
+      {
+        "label": "The way prepared",
+        "detail": "John the Baptist announces the coming one; Jesus is baptised, named Son, and tested in the wilderness.",
+        "refs": [
+          "Mark 1:1-13"
+        ]
+      },
+      {
+        "label": "Authority in Galilee",
+        "detail": "Jesus proclaims the kingdom, heals, exorcises and forgives sins, stirring wonder and opposition.",
+        "refs": [
+          "Mark 1:14-3:35"
+        ]
+      },
+      {
+        "label": "Parables and mighty acts",
+        "detail": "The kingdom grows like seed; Jesus stills storms, frees the possessed and raises the dead, yet disciples misunderstand.",
+        "refs": [
+          "Mark 4:1-8:21"
+        ]
+      },
+      {
+        "label": "On the way to the cross",
+        "detail": "Peter confesses Jesus as Messiah; three times Jesus foretells his death and teaches servant leadership.",
+        "refs": [
+          "Mark 8:27-10:52"
+        ]
+      },
+      {
+        "label": "King in Jerusalem",
+        "detail": "Jesus enters the city, acts against the temple, debates its leaders and warns of its coming destruction.",
+        "refs": [
+          "Mark 11:1-13:37"
+        ]
+      },
+      {
+        "label": "The crucified king",
+        "detail": "Anointing, last supper, arrest, trials and crucifixion reveal Jesus as Son of God in his death.",
+        "refs": [
+          "Mark 14:1-15:47"
+        ]
+      },
+      {
+        "label": "Empty tomb, open ending",
+        "detail": "The women find the tomb empty and flee in fear, leaving hearers to answer the call to follow.",
+        "refs": [
+          "Mark 16:1-8"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "The crucified Messiah",
+      "branches": [
+        {
+          "label": "Kingdom announced",
+          "items": [
+            "Time is fulfilled",
+            "Isaiah's new exodus",
+            "Repent and trust"
+          ]
+        },
+        {
+          "label": "Authority revealed",
+          "items": [
+            "Over demons",
+            "Over sickness",
+            "Over sea and storm",
+            "To forgive sins"
+          ]
+        },
+        {
+          "label": "Secrecy and misunderstanding",
+          "items": [
+            "Silence commands",
+            "Disciples' blindness",
+            "Two-stage healing"
+          ]
+        },
+        {
+          "label": "Way of the cross",
+          "items": [
+            "Three passion predictions",
+            "Take up your cross",
+            "Ransom for many"
+          ]
+        },
+        {
+          "label": "Temple and judgment",
+          "items": [
+            "Fig tree and temple",
+            "House of prayer",
+            "Olivet warnings"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Good news, gospel",
+        "original": "euangelion",
+        "meaning": "A public announcement of victory or a new king; for Mark, that God's reign has arrived in Jesus.",
+        "refs": [
+          "Mark 1:1",
+          "Mark 1:14-15"
+        ]
+      },
+      {
+        "word": "The way",
+        "original": "hodos",
+        "meaning": "Road, path; Isaiah's highway of return and the road of discipleship to the cross.",
+        "refs": [
+          "Mark 1:2-3",
+          "Mark 10:52"
+        ]
+      },
+      {
+        "word": "Immediately",
+        "original": "euthys",
+        "meaning": "At once; used over forty times, giving the story urgency.",
+        "refs": [
+          "Mark 1:10",
+          "Mark 1:12"
+        ]
+      },
+      {
+        "word": "Son of Man",
+        "original": "ho huios tou anthropou",
+        "meaning": "Jesus' favourite self-description, drawing on Daniel's heavenly human figure who receives the kingdom.",
+        "refs": [
+          "Mark 2:10",
+          "Mark 14:62",
+          "Dan 7:13-14"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "isaiah",
+        "how": "Mark is framed by Isaiah's new exodus and suffering servant.",
+        "refs": [
+          "Mark 1:2-3",
+          "Isa 40:3",
+          "Mark 10:45",
+          "Isa 53:10-12"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "The Son of Man and the abomination of desolation come from Daniel.",
+        "refs": [
+          "Mark 13:14",
+          "Dan 9:27",
+          "Mark 14:62"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Jesus' cry from the cross quotes Psalm 22, a lament that ends in praise.",
+        "refs": [
+          "Mark 15:34",
+          "Ps 22:1"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew and Luke both appear to build on Mark's order and wording.",
+        "refs": [
+          "Mark 1:16-20",
+          "Matt 4:18-22"
+        ]
+      },
+      {
+        "bookId": "1-peter",
+        "how": "Tradition links Mark with Peter, and 1 Peter names 'Mark my son' in Babylon (Rome).",
+        "refs": [
+          "1 Pet 5:13"
+        ]
+      }
+    ],
+    "jesusLens": "Mark reveals Jesus as Son of God not mainly through power but through the cross; the centurion's confession comes when Jesus dies. Jewish readers have often seen in Mark's Jesus a Galilean healer and prophet of the kingdom, while noting the Gospel's high claims about him forgiving sins and acting as Israel's God does. Christian readers see Mark's open ending as an invitation: the risen Jesus 'goes before you to Galilee', and each hearer must decide whether to follow.",
+    "misreadings": [
+      {
+        "topic": "'Gospel' means a private plan for getting saved",
+        "popular": "In many evangelical settings 'the gospel' is summarised as a personal plan: we are sinners, Christ died for us, believe and you will go to heaven.",
+        "inContext": "In Mark, 'gospel' is a royal announcement drawn from Isaiah and from Roman imperial language: God's kingdom has come in Jesus the Messiah. Matthew Bates, Scot McKnight and N. T. Wright argue that the gospel is first about who Jesus is (the king) and what God has done, calling for allegiance (pistis), not only a private transaction.",
+        "defence": "Scholars such as Thomas Schreiner and D. A. Carson agree the gospel is the announcement of Jesus' kingship but insist that forgiveness of sins, the ransom and personal faith are part of that announcement in Mark itself. Most agree the popular summaries are true as far as they go but can shrink the gospel by leaving out the kingdom, Israel and discipleship.",
+        "whyItMatters": "If the gospel is only a transaction, following Jesus on the way of the cross can seem optional. Mark ties trust and discipleship together.",
+        "refs": [
+          "Mark 1:1",
+          "Mark 1:14-15",
+          "Mark 8:34-35",
+          "Mark 10:45"
+        ],
+        "scholars": [
+          "Matthew Bates",
+          "Scot McKnight",
+          "N. T. Wright",
+          "Thomas Schreiner",
+          "D. A. Carson"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Jesus abolished the food laws and the Torah",
+        "popular": "Mark 7:19 ('thus he declared all foods clean') is often read as Jesus setting aside the Jewish law and starting a new religion free of Torah.",
+        "inContext": "The debate in Mark 7 is about hand-washing and whether impurity on hands makes food impure, a Pharisaic tradition, not about pork. Scholars such as Daniel Boyarin and Matthew Thiessen read the comment as Jesus ruling that permitted food does not become defiled through unwashed hands. Others read the narrator's comment as Mark's application for a Gentile church. Jesus elsewhere sends a leper to the priest according to Moses.",
+        "defence": "Many evangelical and mainstream scholars (for example R. T. France and Joel Marcus) still read the parenthesis as Mark's own conclusion that all foods are clean for Jesus' followers, in line with Acts 10 and Paul. They agree Jesus himself is presented as Torah-observant. The disagreement is real and scholarly: what did Jesus mean, and what did Mark mean for his readers?",
+        "whyItMatters": "How we read this shapes whether Jesus is seen as against Judaism or as a Jewish teacher debating its practice, a key question for Jewish-Christian understanding.",
+        "refs": [
+          "Mark 7:1-23",
+          "Mark 1:44",
+          "Acts 10:9-16"
+        ],
+        "scholars": [
+          "Daniel Boyarin",
+          "Matthew Thiessen",
+          "Joel Marcus",
+          "R. T. France"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For suffering believers, Mark said that the cross was not the defeat of the Messiah but the shape of his kingship, and that fear and failure, like the disciples', could be met by a risen Lord who goes ahead of them.",
+      "now": "Mark challenges triumphant, power-centred Christianity. It invites readers to see God's reign in service, to admit their own blindness, and to keep following when the story feels unfinished."
+    },
+    "sources": [
+      {
+        "author": "Joel Marcus",
+        "title": "Mark (Anchor Yale Bible, 2 vols.)",
+        "year": 2000,
+        "locator": "vol. 1 2000, vol. 2 2009"
+      },
+      {
+        "author": "Richard Bauckham",
+        "title": "Jesus and the Eyewitnesses",
+        "year": 2017,
+        "locator": "2nd ed., chapters on Papias and Peter"
+      },
+      {
+        "author": "Matthew Thiessen",
+        "title": "Jesus and the Forces of Death: The Gospels' Portrayal of Ritual Impurity within First-Century Judaism",
+        "year": 2020
+      },
+      {
+        "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Annotated New Testament",
+        "year": 2017,
+        "locator": "notes on Mark"
+      },
+      {
+        "author": "R. T. France",
+        "title": "The Gospel of Mark (NIGTC)",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "id": "luke",
+    "oneLine": "A carefully researched account, written for a patron, showing Jesus as the Saviour promised to Israel whose kingdom lifts the lowly and opens to the nations.",
+    "author": {
+      "name": "Traditionally Luke, the physician and companion of Paul",
+      "who": "The writer was an educated Greek stylist who knew the Greek Old Testament intimately and wrote both this Gospel and Acts. He says he was not an eyewitness but investigated carefully. Paul's letters mention a Luke, 'the beloved physician', as a co-worker.",
+      "howWeKnow": "Both volumes are dedicated to Theophilus and share style and themes. Irenaeus and the Muratorian fragment (late second century) name Luke. The 'we' passages in Acts suggest the author travelled with Paul, though some scholars treat them as a literary device or a source.",
+      "otherWritings": [
+        "Acts"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown; suggestions include Rome, Antioch, Achaia or Asia Minor",
+      "note": "Early prologues to the Gospel place Luke in Achaia, but this tradition is late and uncertain.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "'Most excellent Theophilus', probably a well-to-do patron, and the wider Greek-speaking church",
+      "place": "Somewhere in the eastern Mediterranean or Rome",
+      "situation": "Gentile and Jewish believers needed confidence that their faith was rooted in reliable history and in Israel's Scriptures, and that a movement led by a crucified Jew was neither a novelty nor a threat to public order.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -7,
+      "to": 30,
+      "note": "From the announcement to Zechariah in the days of Herod to the ascension near Bethany."
+    },
+    "worldEvents": [
+      {
+        "year": 6,
+        "event": "Census under Quirinius in Judea sparks a tax revolt led by Judas the Galilean."
+      },
+      {
+        "year": 14,
+        "event": "Death of Augustus; Tiberius becomes emperor."
+      },
+      {
+        "year": 28,
+        "event": "John the Baptist begins preaching (Luke dates it to Tiberius' fifteenth year, c. 28-29)."
+      },
+      {
+        "year": 70,
+        "event": "Jerusalem besieged and destroyed, events Luke's Jesus foretells with grief."
+      },
+      {
+        "year": 85,
+        "event": "Approximate majority date for Luke-Acts."
+      }
+    ],
+    "backdrop": "Luke begins with a formal preface like those of Greek historians and medical writers, announcing that he has investigated everything carefully and will write an orderly account so that Theophilus may know the certainty of what he was taught. Yet as soon as the story begins the style switches to sound like the Greek Old Testament: a childless priestly couple, an angel in the temple, songs that echo Hannah and the Psalms. Luke deliberately places Jesus inside Israel's sacred history and inside Roman world history at the same time.\n\nHe dates events by emperors and governors: the decree of Caesar Augustus, Quirinius governing Syria, the fifteenth year of Tiberius, Pontius Pilate. In Roman propaganda Augustus was the saviour who brought peace. Luke's angels announce to shepherds that the real Saviour, Messiah and Lord, has been born in David's town, and that heaven's peace rests on those God favours. The contrast would not be lost on Roman readers.\n\nLuke's world was organised by patronage: wealthy benefactors gave gifts and expected honour and loyalty in return, and people invited to dinner those who could invite them back. Luke's Jesus repeatedly cuts across that system, telling hosts to invite the poor, the crippled and the blind who cannot repay, and telling his followers that whereas kings like to be called 'benefactors', among them the greatest must serve.",
+    "culture": [
+      {
+        "term": "Patronage and benefaction",
+        "explain": "Benefactors gave gifts and expected honour and returns. Luke's centurion is a patron who built a synagogue; Jesus tells disciples to lend expecting nothing and to host those who cannot repay, redirecting honour to God, the true benefactor.",
+        "refs": [
+          "Luke 7:4-5",
+          "Luke 14:12-14",
+          "Luke 22:25-26"
+        ]
+      },
+      {
+        "term": "Temple piety",
+        "explain": "Luke begins and ends in the temple. Jesus' parents keep the purification law, offer the poor family's sacrifice of birds, and go up for Passover each year. The disciples are 'continually in the temple' after the ascension. Jesus' family is portrayed as devout and Torah-keeping.",
+        "refs": [
+          "Luke 2:22-24",
+          "Luke 2:41-42",
+          "Luke 24:53",
+          "Lev 12:8"
+        ]
+      },
+      {
+        "term": "Samaritans",
+        "explain": "Samaritans and Jews shared descent from Israel and the Torah but disputed where God should be worshipped, with centuries of bitterness and violence. Making a Samaritan the hero who keeps the command to love one's neighbour was shocking.",
+        "refs": [
+          "Luke 9:52-55",
+          "Luke 10:25-37",
+          "Luke 17:15-18"
+        ]
+      },
+      {
+        "term": "Meals and table fellowship",
+        "explain": "Who ate with whom marked status and belonging. Luke shows Jesus at many tables, with Pharisees, tax collectors and sinners, using meals to enact the kingdom's welcome.",
+        "refs": [
+          "Luke 5:29-32",
+          "Luke 7:36-50",
+          "Luke 15:1-2",
+          "Luke 19:5-7"
+        ]
+      },
+      {
+        "term": "Hoping for Israel's redemption",
+        "explain": "Simeon awaits 'the consolation of Israel', Anna speaks to all looking for 'the redemption of Jerusalem', and the Emmaus disciples had hoped Jesus would 'redeem Israel'. These were national hopes for liberation and restoration, which Luke affirms and reshapes.",
+        "refs": [
+          "Luke 2:25",
+          "Luke 2:38",
+          "Luke 24:21"
+        ]
+      }
+    ],
+    "jewishLens": "Luke's opening chapters are among the most Jewish texts in the New Testament. Zechariah and Elizabeth are 'righteous before God, walking blamelessly in all the commandments'. Mary's song echoes Hannah's, praising a God who brings down the mighty and lifts the lowly and who has helped 'his servant Israel, in remembrance of his mercy, as he spoke to our fathers, to Abraham'. Zechariah praises God for raising up a horn of salvation in David's house and remembering his holy covenant. The angel promises Mary that her son will have the throne of his father David and reign over the house of Jacob forever. A first-century Jew would hear all this as God at last keeping his covenant promises to Israel.\n\nJesus' first sermon in the Nazareth synagogue reads Isaiah 61, the Jubilee-like proclamation of good news to the poor and release for captives, and declares it fulfilled 'today'. The kingdom he proclaims is Israel's hope of God's reign arriving with justice for the poor, healing and forgiveness. Luke gives Pharisees a mixed and partly sympathetic role: Jesus dines with them, some warn him about Herod, and in Acts a Pharisee counsels tolerance. At the end the risen Jesus opens 'Moses and all the Prophets and the Psalms' to show that the Messiah had to suffer and rise, and that repentance and forgiveness would go out to all nations beginning from Jerusalem. For Luke, the inclusion of Gentiles is not a replacement of Israel but the light to the nations that Simeon saw, which is also 'glory to your people Israel'.",
+    "flow": [
+      {
+        "label": "Promises remembered",
+        "detail": "Births of John and Jesus are told in the language of Israel's Scriptures, with songs of covenant fulfilment.",
+        "refs": [
+          "Luke 1:5-2:52"
+        ]
+      },
+      {
+        "label": "Good news to the poor",
+        "detail": "John prepares the way; Jesus is anointed by the Spirit and announces Isaiah's year of the Lord's favour.",
+        "refs": [
+          "Luke 3:1-4:30"
+        ]
+      },
+      {
+        "label": "Galilean ministry",
+        "detail": "Healings, calls, blessings and woes, and meals with sinners show the kingdom reversing status.",
+        "refs": [
+          "Luke 4:31-9:50"
+        ]
+      },
+      {
+        "label": "Journey to Jerusalem",
+        "detail": "On the long road Jesus teaches through parables about mercy, wealth, prayer and the lost being found.",
+        "refs": [
+          "Luke 9:51-19:27"
+        ]
+      },
+      {
+        "label": "Weeping over Jerusalem",
+        "detail": "Jesus enters the city, mourns its coming fall, teaches in the temple and eats Passover with the twelve.",
+        "refs": [
+          "Luke 19:28-22:38"
+        ]
+      },
+      {
+        "label": "Innocent one crucified",
+        "detail": "Jesus is declared innocent by Pilate, forgives his executioners and promises paradise to a dying thief.",
+        "refs": [
+          "Luke 22:39-23:56"
+        ]
+      },
+      {
+        "label": "Scriptures opened",
+        "detail": "The risen Jesus explains the Scriptures, breaks bread, commissions witnesses and ascends.",
+        "refs": [
+          "Luke 24:1-53"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Saviour for Israel and the nations",
+      "branches": [
+        {
+          "label": "Covenant promises",
+          "items": [
+            "Abraham and David",
+            "Consolation of Israel",
+            "Songs of Mary and Zechariah"
+          ]
+        },
+        {
+          "label": "Great reversal",
+          "items": [
+            "Poor are blessed",
+            "Mighty brought down",
+            "Lost are found",
+            "Last become first"
+          ]
+        },
+        {
+          "label": "The Spirit and prayer",
+          "items": [
+            "Spirit-anointed Messiah",
+            "Jesus praying",
+            "Promise of power"
+          ]
+        },
+        {
+          "label": "Outsiders welcomed",
+          "items": [
+            "Samaritans",
+            "Tax collectors",
+            "Women disciples",
+            "Gentile centurion"
+          ]
+        },
+        {
+          "label": "Money and patronage",
+          "items": [
+            "Give without return",
+            "Rich fool",
+            "Zacchaeus' restitution"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Saviour, salvation",
+        "original": "soter, soteria",
+        "meaning": "Rescuer and rescue, titles also claimed for emperors; in Luke, God's deliverance of Israel and the world through Jesus.",
+        "refs": [
+          "Luke 1:69",
+          "Luke 2:11",
+          "Luke 19:9-10"
+        ]
+      },
+      {
+        "word": "Today",
+        "original": "semeron",
+        "meaning": "Marks salvation arriving in the present, not only the future.",
+        "refs": [
+          "Luke 4:21",
+          "Luke 19:9",
+          "Luke 23:43"
+        ]
+      },
+      {
+        "word": "Release, forgiveness",
+        "original": "aphesis",
+        "meaning": "Release from debt or captivity, and forgiveness of sins; the Jubilee word in Isaiah 61.",
+        "refs": [
+          "Luke 4:18",
+          "Luke 24:47"
+        ]
+      },
+      {
+        "word": "Must",
+        "original": "dei",
+        "meaning": "Divine necessity: God's purpose in Scripture had to be fulfilled.",
+        "refs": [
+          "Luke 2:49",
+          "Luke 24:26",
+          "Luke 24:44"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "acts",
+        "how": "Volume two of the same work; the Gospel's ending overlaps the opening of Acts.",
+        "refs": [
+          "Luke 24:49",
+          "Acts 1:4-8"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Jesus' mission statement and Simeon's song draw on Isaiah's servant and Jubilee texts.",
+        "refs": [
+          "Luke 4:18-19",
+          "Isa 61:1-2",
+          "Luke 2:32",
+          "Isa 49:6"
+        ]
+      },
+      {
+        "bookId": "1-samuel",
+        "how": "Mary's song and the birth stories echo Hannah's song and Samuel's childhood.",
+        "refs": [
+          "Luke 1:46-55",
+          "1 Sam 2:1-10",
+          "Luke 2:52",
+          "1 Sam 2:26"
+        ]
+      },
+      {
+        "bookId": "leviticus",
+        "how": "Jesus' family keeps the purification law, and the Nazareth sermon echoes the Jubilee.",
+        "refs": [
+          "Luke 2:22-24",
+          "Lev 25:10"
+        ]
+      },
+      {
+        "bookId": "mark",
+        "how": "Luke uses Mark as one of the 'many' earlier accounts mentioned in his preface.",
+        "refs": [
+          "Luke 1:1-4"
+        ]
+      }
+    ],
+    "jesusLens": "Luke presents Jesus as Messiah, Lord and Saviour, the Spirit-anointed prophet like Moses, and the innocent righteous sufferer. Jewish readers often appreciate Luke's portrait of devout Jewish families and his respect for the temple and Torah, while noting tensions in the claim that Israel's hopes are fulfilled in Jesus. Christians read Luke's story as God keeping faith with Israel and through Israel bringing light to the nations.",
+    "misreadings": [
+      {
+        "topic": "The Pharisee and the tax collector: legalism versus grace",
+        "popular": "The parable is often preached as a contrast between the Jewish religion of works, represented by the Pharisee, and Christian grace, represented by the humble tax collector.",
+        "inContext": "Amy-Jill Levine and Kenneth Bailey note that both men pray in the temple, probably at the time of the daily atonement sacrifice, and that the Pharisee's fasting and tithing are admirable Jewish piety. The problem is contempt for others, which Luke names in the introduction. Levine even suggests the Greek may allow that the tax collector went home justified 'alongside' the Pharisee, a reading most scholars do not accept but which shows the parable's openness. The point is humility and mercy, aimed at every religious insider.",
+        "defence": "Evangelical scholars such as Darrell Bock and Craig Blomberg agree the Pharisee should not be caricatured but stress that the parable does teach justification as God's merciful verdict on one who relies on mercy rather than his own record, a theme Paul develops. Both sides agree the story warns believers against the Pharisee's attitude, not against Judaism.",
+        "whyItMatters": "Using the Pharisee as a symbol of Judaism turns a warning to the reader into a weapon against others, which is exactly the attitude the parable condemns.",
+        "refs": [
+          "Luke 18:9-14"
+        ],
+        "scholars": [
+          "Amy-Jill Levine",
+          "Kenneth Bailey",
+          "Darrell Bock",
+          "Craig Blomberg"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "The Good Samaritan is simply 'be nice to strangers'",
+        "popular": "The parable is often reduced to a lesson in helping people in need, with the priest and Levite as heartless religious types who would not risk ritual impurity.",
+        "inContext": "Levine argues the purity excuse does not fit: the priest is going down from Jerusalem, and Jewish law gave saving life priority. The shock is that the hero is a Samaritan, a hated enemy. The lawyer asked 'who is my neighbour?'; Jesus asks him to imagine being rescued by his enemy and to love like that, fulfilling Leviticus 19:18 and 19:34.",
+        "defence": "Traditional commentators (for example Darrell Bock) largely agree about the enemy theme and the command of neighbour-love; many still see purity concerns as part of the backdrop, and some read the Samaritan as a picture of Christ's mercy. The disagreement is about details, not the call to costly mercy across hostile lines.",
+        "whyItMatters": "Reading Judaism as the obstacle hides the parable's real demand: to love people from groups we fear or despise.",
+        "refs": [
+          "Luke 10:25-37",
+          "Lev 19:18",
+          "Lev 19:34"
+        ],
+        "scholars": [
+          "Amy-Jill Levine",
+          "Kenneth Bailey",
+          "Darrell Bock"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Luke assured a mixed, mostly Gentile church that its faith rested on solid history and on Israel's own promises, and it modelled a community where rich and poor, Jew and Gentile, men and women shared one table.",
+      "now": "Luke challenges how readers handle money, status and hospitality, calls for prayer and openness to the Spirit, and invites them to see God's faithfulness to Israel as the root of their own hope."
+    },
+    "sources": [
+      {
+        "author": "Joel B. Green",
+        "title": "The Gospel of Luke (NICNT)",
+        "year": 1997
+      },
+      {
+        "author": "Amy-Jill Levine",
+        "title": "Short Stories by Jesus: The Enigmatic Parables of a Controversial Rabbi",
+        "year": 2014
+      },
+      {
+        "author": "Amy-Jill Levine and Ben Witherington III",
+        "title": "The Gospel of Luke (New Cambridge Bible Commentary)",
+        "year": 2018
+      },
+      {
+        "author": "Kenneth E. Bailey",
+        "title": "Jesus Through Middle Eastern Eyes",
+        "year": 2008
+      },
+      {
+        "author": "Darrell L. Bock",
+        "title": "Luke (Baker Exegetical Commentary, 2 vols.)",
+        "year": 1994
+      }
+    ]
+  },
+  {
+    "id": "john",
+    "oneLine": "A reflective Gospel showing Jesus as the eternal Word who has 'tabernacled' among Israel, fulfilling its feasts and temple, so that readers may trust him and have life.",
+    "author": {
+      "name": "The Beloved Disciple (traditionally John son of Zebedee)",
+      "who": "The Gospel rests on the witness of 'the disciple whom Jesus loved', who leaned on Jesus at the last supper and stood at the cross. He seems to have known Jerusalem and the temple intimately. The final chapter says others ('we know that his testimony is true') put the work into its final form.",
+      "howWeKnow": "Irenaeus (c. 180) says John, the Lord's disciple, published the Gospel in Ephesus. Papias mentions both the apostle John and a 'John the Elder', so some scholars, including Richard Bauckham and Martin Hengel, think the Beloved Disciple was the Elder, a Jerusalem disciple not among the Twelve. Raymond Brown and others reconstructed a 'Johannine community' that shaped the Gospel in stages. Conservative scholars such as D. A. Carson and Craig Blomberg defend the son of Zebedee.",
+      "otherWritings": [
+        "1 John",
+        "2 John",
+        "3 John",
+        "Revelation (traditionally; most scholars think a different John)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Ephesus (traditional); some propose Syria or Palestine",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "note": "Ephesus is the unanimous early tradition. Its Jewish community and its temple of Artemis and imperial temple provide a plausible setting, but internal evidence does not settle the place.",
+      "confidence": "tradition"
+    },
+    "writtenTo": {
+      "who": "Believers, Jewish and Gentile, some of whom had been pushed out of synagogue fellowship, and possibly enquirers",
+      "place": "Asia Minor (traditional)",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "After 70, debate between Jesus-believing Jews and other Jews about Jesus' identity had become bitter, and the Gospel speaks of confessors being 'put out of the synagogue'. Whether this reflects one local community's experience or a broader process is debated.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": 28,
+      "to": 30,
+      "note": "About three years, measured by at least three Passovers, from John the Baptist's testimony to the resurrection appearances."
+    },
+    "worldEvents": [
+      {
+        "year": 26,
+        "event": "Pontius Pilate becomes prefect of Judea (to 36)."
+      },
+      {
+        "year": 18,
+        "event": "Caiaphas becomes high priest (to 36)."
+      },
+      {
+        "year": 70,
+        "event": "Temple destroyed; John presents Jesus' body as the true temple."
+      },
+      {
+        "year": 90,
+        "event": "Approximate date often proposed for John's final form."
+      },
+      {
+        "year": 96,
+        "event": "Death of Domitian; Nerva becomes emperor."
+      }
+    ],
+    "backdrop": "John's Gospel is different from the other three. There are few parables and no exorcisms; instead there are seven 'signs', long conversations and speeches, and the great 'I am' sayings. Much of the action happens in Jerusalem at the Jewish feasts: Passover, Tabernacles and Dedication (Hanukkah). Jesus' public ministry spans at least three Passovers, which is where the traditional three-year ministry comes from.\n\nMost scholars date the final form to the 90s, though a minority, following J. A. T. Robinson, argues for before 70, noting that John describes the pool of Bethesda as still standing. Since the 1960s J. Louis Martyn and Raymond Brown read John on 'two levels': the story of Jesus, and the story of a later community expelled from synagogues. That model has been criticised in recent decades, for example by Richard Bauckham, who argues the Gospels were written for a wide Christian readership, and by scholars who doubt there was any formal expulsion policy, so 'Johannine community' reconstructions should be held lightly.\n\nArchaeology has strengthened John's local knowledge: the pool of Bethesda with five porticoes and the pool of Siloam have been excavated, and stone water jars like those at Cana fit a Jewish concern with purity. John's language of light and darkness, truth and lies, once thought Greek, has close parallels in the Dead Sea Scrolls, a Jewish setting.",
+    "culture": [
+      {
+        "term": "The feasts of Israel",
+        "explain": "John organises much of Jesus' work around feasts. At Passover he feeds a crowd and speaks of bread from heaven; at Tabernacles, with its water-pouring and great lamps, he offers living water and calls himself light of the world; at Hanukkah, the feast of the temple's rededication, he speaks of being consecrated by the Father.",
+        "refs": [
+          "John 6:4",
+          "John 7:37-39",
+          "John 8:12",
+          "John 10:22-36"
+        ]
+      },
+      {
+        "term": "Temple and tabernacle",
+        "explain": "The Word 'tabernacled' among us, and Jesus speaks of the temple of his body. For people who lost the temple in 70, this said God's presence had not abandoned them.",
+        "refs": [
+          "John 1:14",
+          "John 2:19-21",
+          "Exod 40:34"
+        ]
+      },
+      {
+        "term": "Purity jars",
+        "explain": "Six stone water jars at Cana were for Jewish purification; stone did not contract impurity. Jesus fills them with abundant wine, a sign of the messianic wedding feast.",
+        "refs": [
+          "John 2:6-10",
+          "Amos 9:13"
+        ]
+      },
+      {
+        "term": "Put out of the synagogue",
+        "explain": "The rare word aposynagogos describes being excluded from synagogue fellowship, a deep loss of family, community and identity in a collectivist culture. Older scholarship linked this to a curse on heretics in Jewish prayer, a link now widely doubted.",
+        "refs": [
+          "John 9:22",
+          "John 12:42",
+          "John 16:2"
+        ]
+      },
+      {
+        "term": "Hoi Ioudaioi",
+        "explain": "'The Jews' (or 'Judeans') in John usually means Jerusalem authorities opposing Jesus, sometimes Judeans in contrast to Galileans, and sometimes ordinary Jewish crowds, many of whom believe. Jesus and every disciple in the story are themselves Jews.",
+        "refs": [
+          "John 4:9",
+          "John 4:22",
+          "John 7:13",
+          "John 11:45"
+        ]
+      }
+    ],
+    "jewishLens": "John is soaked in Israel's Scriptures and worship. It begins with 'In the beginning', retelling Genesis 1, and uses Jewish wisdom tradition, where Wisdom was with God at creation and came to dwell in Israel, to describe Jesus as the Word. Jesus is the Passover lamb, the manna from heaven, the bronze serpent lifted up, the true vine (Israel's own image in Isaiah and the Psalms), the good shepherd promised in Ezekiel 34, and the one who speaks the divine 'I am'. Salvation, Jesus tells a Samaritan woman, 'is from the Jews'.\n\nThe Gospel reflects a painful split within a Jewish family over who Jesus is. Its harsh language ('your father the devil') is the language of sectarian dispute among Jews, similar in tone to the Dead Sea Scrolls' attacks on other Jews, not a verdict on the Jewish people. Read inside Israel's covenant story, John's message is that the God who dwelt in the tabernacle and temple, who fed Israel in the wilderness and promised a shepherd-king, has come to his own in the flesh of a Jewish man, and that eternal life, the 'life of the age to come' hoped for in Daniel, begins now in knowing the Father through him.",
+    "flow": [
+      {
+        "label": "Word becomes flesh",
+        "detail": "The eternal Word, agent of creation, tabernacles among Israel and reveals the Father's glory.",
+        "refs": [
+          "John 1:1-18"
+        ]
+      },
+      {
+        "label": "Signs begin",
+        "detail": "Water to wine, the temple scene, Nicodemus and the Samaritan woman show new life replacing the old forms.",
+        "refs": [
+          "John 1:19-4:54"
+        ]
+      },
+      {
+        "label": "Feasts fulfilled",
+        "detail": "At Sabbath, Passover, Tabernacles and Hanukkah Jesus reveals himself as bread, water, light and shepherd.",
+        "refs": [
+          "John 5:1-10:42"
+        ]
+      },
+      {
+        "label": "Life from death",
+        "detail": "The raising of Lazarus leads directly to the decision to kill Jesus.",
+        "refs": [
+          "John 11:1-12:50"
+        ]
+      },
+      {
+        "label": "Farewell and love",
+        "detail": "Jesus washes feet, gives the love command, promises the Spirit and prays for his followers' unity.",
+        "refs": [
+          "John 13:1-17:26"
+        ]
+      },
+      {
+        "label": "Lifted up in glory",
+        "detail": "Arrest, trial before Pilate and crucifixion at Passover are presented as Jesus' royal glorification.",
+        "refs": [
+          "John 18:1-19:42"
+        ]
+      },
+      {
+        "label": "Believe and live",
+        "detail": "The risen Jesus meets Mary, Thomas and Peter; the stated purpose is that readers believe and have life.",
+        "refs": [
+          "John 20:1-21:25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "The Word made flesh",
+      "branches": [
+        {
+          "label": "Seven signs",
+          "items": [
+            "Water into wine",
+            "Healing at Bethesda",
+            "Feeding five thousand",
+            "Raising Lazarus"
+          ]
+        },
+        {
+          "label": "I am sayings",
+          "items": [
+            "Bread of life",
+            "Light of the world",
+            "Good shepherd",
+            "Resurrection and life"
+          ]
+        },
+        {
+          "label": "Feasts and temple",
+          "items": [
+            "Passover lamb",
+            "Tabernacles water and light",
+            "Hanukkah dedication",
+            "Body as temple"
+          ]
+        },
+        {
+          "label": "Believing and life",
+          "items": [
+            "Trust as relationship",
+            "Eternal life now",
+            "Born from above"
+          ]
+        },
+        {
+          "label": "Spirit and community",
+          "items": [
+            "Paraclete promised",
+            "Love one another",
+            "Abide in the vine",
+            "Unity prayer"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Word",
+        "original": "logos",
+        "meaning": "God's self-expression; echoes God speaking creation into being and Jewish Wisdom dwelling with Israel.",
+        "refs": [
+          "John 1:1",
+          "John 1:14",
+          "Gen 1:3"
+        ]
+      },
+      {
+        "word": "Believe, trust",
+        "original": "pisteuo",
+        "meaning": "To trust and commit oneself to someone; John uses the verb nearly a hundred times and never the noun.",
+        "refs": [
+          "John 3:16",
+          "John 20:31"
+        ]
+      },
+      {
+        "word": "Abide, remain",
+        "original": "meno",
+        "meaning": "To stay, dwell, keep living in a relationship.",
+        "refs": [
+          "John 15:4-10"
+        ]
+      },
+      {
+        "word": "Eternal life",
+        "original": "zoe aionios",
+        "meaning": "Literally 'life of the age': the life of the age to come, begun now in knowing God.",
+        "refs": [
+          "John 17:3",
+          "Dan 12:2"
+        ]
+      },
+      {
+        "word": "Glory",
+        "original": "doxa",
+        "meaning": "God's visible weighty presence, shown supremely in the cross.",
+        "refs": [
+          "John 1:14",
+          "John 12:23-24"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "The prologue retells creation with Jesus as the Word through whom all things were made.",
+        "refs": [
+          "John 1:1-3",
+          "Gen 1:1-3"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "Tabernacle, manna, Passover lamb and the divine name 'I am' all come from Exodus.",
+        "refs": [
+          "John 1:14",
+          "John 6:31-35",
+          "John 19:36",
+          "Exod 12:46"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "The good shepherd and life-giving water flowing from the temple echo Ezekiel.",
+        "refs": [
+          "John 10:11",
+          "Ezek 34:23",
+          "John 7:38",
+          "Ezek 47:1"
+        ]
+      },
+      {
+        "bookId": "1-john",
+        "how": "Shares vocabulary (light, love, abide, truth) and confronts a later dispute about Jesus come in the flesh.",
+        "refs": [
+          "1 John 1:1-3",
+          "1 John 4:2"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "John explicitly links Jesus' glory with Isaiah's temple vision and the rejected servant.",
+        "refs": [
+          "John 12:38-41",
+          "Isa 6:1-10",
+          "Isa 53:1"
+        ]
+      }
+    ],
+    "jesusLens": "John offers the New Testament's highest Christology: the Word was God, and Thomas confesses 'my Lord and my God'. Jewish readers have historically found John the most difficult Gospel because of its language about 'the Jews' and its claims about Jesus' divinity, though scholars such as Daniel Boyarin argue that ideas like a divine Word or second divine figure were themselves at home in Second Temple Judaism. Christians read John as the climax of Israel's hope that God would dwell with his people.",
+    "misreadings": [
+      {
+        "topic": "'The Jews' in John means the Jewish people as enemies of Jesus",
+        "popular": "Reading English translations, many assume John portrays 'the Jews' as a whole as Jesus' opponents, and some have taken John 8:44 as a statement about Jewish people in general.",
+        "inContext": "Adele Reinhartz, Raymond Brown and the Jewish Annotated New Testament note that Ioudaioi often refers to Judean religious authorities, and that the Gospel's sharp polemic reflects an intra-Jewish dispute. Jesus, his mother, his disciples and the Beloved Disciple are all Jews, many 'Jews' believe in him, and Jesus says 'salvation is from the Jews'. Some translators render it 'Judeans' or 'Jewish leaders' in context; Reinhartz cautions that this can also hide the Gospel's real hostility, which readers should face honestly.",
+        "defence": "Evangelical scholars such as D. A. Carson and Craig Keener agree John is not antisemitic in intent and that the term must be read in context, while noting that John does present a real conflict over Jesus' identity that cannot be softened away. Keener stresses the shared Jewish setting. There is no serious scholarly support today for using the text against Jewish people.",
+        "whyItMatters": "John was used in sermons that fed medieval and modern antisemitism. Reading it in context honours both the Gospel's claims and Jesus' own people.",
+        "refs": [
+          "John 4:22",
+          "John 8:31-47",
+          "John 11:45",
+          "John 9:22"
+        ],
+        "scholars": [
+          "Adele Reinhartz",
+          "Raymond Brown",
+          "Craig Keener",
+          "D. A. Carson"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Eternal life means only living forever in heaven after death",
+        "popular": "John 3:16 is often heard as a promise that believers will not go to hell but will live forever in heaven when they die.",
+        "inContext": "In Jewish thought 'the age to come' was the time of God's renewal of creation and resurrection. John's 'life of the age' begins now: 'this is eternal life, that they know you, the only true God'. It is relational knowing, not just endless duration, and it points to bodily resurrection on the last day. Scholars from Raymond Brown to N. T. Wright and Craig Keener stress this present and future shape.",
+        "defence": "Evangelical scholars fully agree that eternal life is present and relational, and point out that John also clearly speaks of perishing and judgment and of future resurrection, so the popular reading is incomplete rather than wrong.",
+        "whyItMatters": "Seeing eternal life as a present relationship with God turns faith from a ticket into a life of abiding and love.",
+        "refs": [
+          "John 3:16",
+          "John 5:24-29",
+          "John 17:3",
+          "John 6:40"
+        ],
+        "scholars": [
+          "Raymond Brown",
+          "N. T. Wright",
+          "Craig Keener",
+          "D. A. Carson"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For believers who had lost the temple and possibly their synagogue community, John said God's dwelling was now found in Jesus and in a community of love, and that their trust in him was the fulfilment of Israel's worship.",
+      "now": "John invites readers to trust and abide in Jesus personally, to love one another visibly, and to read the Gospel's polemic with care, never turning it against Jewish neighbours."
+    },
+    "sources": [
+      {
+        "author": "Raymond E. Brown",
+        "title": "The Community of the Beloved Disciple",
+        "year": 1979
+      },
+      {
+        "author": "Craig S. Keener",
+        "title": "The Gospel of John: A Commentary (2 vols.)",
+        "year": 2003
+      },
+      {
+        "author": "Richard Bauckham",
+        "title": "The Testimony of the Beloved Disciple",
+        "year": 2007
+      },
+      {
+        "author": "Adele Reinhartz",
+        "title": "Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John",
+        "year": 2018
+      },
+      {
+        "author": "D. A. Carson",
+        "title": "The Gospel According to John (Pillar)",
+        "year": 1991
+      }
+    ]
+  }
+]

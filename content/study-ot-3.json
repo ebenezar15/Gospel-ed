@@ -1,0 +1,2076 @@
+[
+  {
+    "id": "hosea",
+    "oneLine": "A prophet's broken marriage becomes a living picture of God's wounded, stubborn love for an Israel that keeps running to other lovers.",
+    "author": {
+      "name": "Hosea son of Beeri",
+      "who": "The only writing prophet who was a native of the northern kingdom. He speaks of Israel's land, shrines and kings from the inside, calling the nation 'Ephraim' and its capital 'Samaria'. Nothing is known of his trade or town; what we know is his marriage to Gomer and the names of his three children.",
+      "howWeKnow": "The heading names him and dates him by kings of both Judah and Israel (Hos 1:1). The northern vocabulary and the unusual, difficult Hebrew fit a northern speaker. Most scholars think his oracles were carried south to Judah after Samaria fell in 722 BC and edited there, which explains the Judean kings in the heading and several lines about Judah.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Northern kingdom of Israel (Samaria region); edited later in Judah",
+      "coords": [
+        35.19,
+        32.28
+      ],
+      "note": "Hosea spoke in the north. The book as we have it was probably collected and finished in Jerusalem by people who saw his warnings come true.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The people, priests and royal house of the northern kingdom ('Ephraim')",
+      "place": "Samaria, Bethel ('Beth-aven'), Gilgal and the northern shrines",
+      "coords": [
+        35.19,
+        32.28
+      ],
+      "situation": "A nation sliding from wealth under Jeroboam II into chaos: four of its last six kings were assassinated, rival parties courted Assyria and Egypt by turns, and worship of the LORD had blended with Baal fertility rites.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -753,
+        "event": "Death of Jeroboam II; his son Zechariah is murdered after six months, beginning a run of coups in Israel."
+      },
+      {
+        "year": -745,
+        "event": "Tiglath-pileser III takes the Assyrian throne and turns Assyria into a standing empire that annexes conquered lands."
+      },
+      {
+        "year": -738,
+        "event": "Menahem of Israel pays heavy tribute to Assyria (2 Kgs 15:19-20)."
+      },
+      {
+        "year": -734,
+        "event": "Syro-Ephraimite war: Israel and Damascus attack Judah; Assyria responds and strips Israel of Galilee and Gilead."
+      },
+      {
+        "year": -722,
+        "event": "Samaria falls to Assyria after a three-year siege; the northern kingdom ends and many are deported."
+      }
+    ],
+    "backdrop": "Hosea began preaching in the last good years of Jeroboam II, when Israel was rich, its borders wide and its shrines busy. Within a few years everything came apart. Kings were murdered in quick succession (Zechariah, Shallum, Pekahiah and Pekah all died by violence), and each faction had a foreign policy: pay off Assyria, or look to Egypt for help. Hosea compares Israel to 'a silly dove' flying back and forth between the two powers (Hos 7:11) and says the people made kings 'but not by me' (Hos 8:4).\n\nReligiously, the problem was not that Israel had forgotten the LORD's name but that they worshipped him as if he were Baal, the Canaanite storm god who was believed to send rain and fertility. Sacrifices on the hilltops, sacred prostitution or sexual rites, and calf images at Bethel and Dan mixed the LORD with the local gods. People still went to the festivals, but they thought grain, wine and oil came from Baal (Hos 2:5-8).\n\nAssyria under Tiglath-pileser III was no longer a raider but an empire that deported whole populations and resettled them. Hosea's warnings of exile were not abstract: he lived to see Galilee and Gilead stripped away in 733-732 BC, and his book carries the shadow of Samaria's fall in 722 BC.",
+    "culture": [
+      {
+        "term": "Marriage metaphor",
+        "explain": "Hosea pictures the covenant between the LORD and Israel as a marriage: the LORD is the husband who rescued and provided, Israel the bride who chased other 'lovers'. Idolatry is not merely bad theology but adultery, a betrayal of a relationship.",
+        "refs": [
+          "Hos 2:2-7",
+          "Hos 2:16-20",
+          "Hos 3:1"
+        ]
+      },
+      {
+        "term": "Baal worship",
+        "explain": "Baal ('lord', 'master', 'husband') was the Canaanite god of storm and fertility. Hosea plays on the word: one day Israel will call God 'my husband' (ishi), no longer 'my Baal' (baali).",
+        "refs": [
+          "Hos 2:8",
+          "Hos 2:16-17",
+          "Hos 13:1"
+        ]
+      },
+      {
+        "term": "Prophetic sign-names",
+        "explain": "Children's names carried messages. Jezreel recalls Jehu's massacre at Jezreel; Lo-ruhamah means 'not pitied'; Lo-ammi means 'not my people', an undoing of the covenant formula 'you are my people'. Later the names are reversed.",
+        "refs": [
+          "Hos 1:4-9",
+          "Hos 1:10-11",
+          "Hos 2:23"
+        ]
+      },
+      {
+        "term": "Covenant lawsuit (rib)",
+        "explain": "A rib is a legal case. The LORD brings charges against his people as in a court, listing the broken terms of the covenant: no faithfulness, no loyal love, no knowledge of God.",
+        "refs": [
+          "Hos 4:1-3",
+          "Hos 12:2"
+        ]
+      },
+      {
+        "term": "Knowing God",
+        "explain": "In Hebrew, 'to know' (yada) includes intimacy and loyalty, not just information. It is used of husband and wife. Israel's 'lack of knowledge' is a relationship gone cold, and the priests are blamed for it.",
+        "refs": [
+          "Hos 4:6",
+          "Hos 6:6",
+          "Hos 2:20"
+        ]
+      },
+      {
+        "term": "Father and son",
+        "explain": "Alongside the marriage picture, Hosea uses the parent image: God taught Ephraim to walk and lifted him to his cheek. Exodus is remembered as adoption.",
+        "refs": [
+          "Hos 11:1-4",
+          "Exod 4:22"
+        ]
+      }
+    ],
+    "jewishLens": "For a Jewish reader Hosea is above all a book about teshuvah (returning). Its closing chapter, 'Return, O Israel, to the LORD your God' (Hos 14:1-2), opens the haftarah for Shabbat Shuvah, the 'Sabbath of Return' between Rosh Hashanah and Yom Kippur. Its line 'take with you words' (Hos 14:2) was read by the rabbis as a charter for prayer standing in place of sacrifice once the temple was gone. Hosea 6:6, 'I desired mercy (hesed) and not sacrifice', was similarly used after AD 70: a well-known story in *Avot de-Rabbi Natan* has Rabban Yohanan ben Zakkai comfort a disciple at the temple ruins by saying that acts of loving-kindness now atone.\n\nThe marriage image lives in daily practice. When a Jewish man winds the tefillin strap around his finger each weekday morning he recites Hosea 2:19-20 (Hebrew 2:21-22), 'I will betroth you to me forever... in faithfulness, and you shall know the LORD.' The covenant is renewed as a betrothal, every day. Hosea 2 is also the haftarah for Bamidbar, read near Shavuot, the festival of the Sinai covenant, so the wilderness 'honeymoon' (Hos 2:14-15) is heard alongside Israel's wilderness journey.\n\nThe Talmud (*Pesahim* 87a-b) tells a pointed story: when God told Hosea that Israel had sinned, Hosea answered 'exchange them for another nation'. God then had him marry Gomer, and when Hosea could not bear to send away his own wife and children, God said, in effect, 'Neither can I abandon mine.' Medieval interpreters disagreed on whether the marriage was a real event (Rashi tends to read it narratively) or a prophetic vision (Ibn Ezra and Maimonides). Either way, the relationship, not the transaction, is the heart of the book: God is hurt, argues with himself, and refuses to let go (Hos 11:8-9).",
+    "flow": [
+      {
+        "label": "Marriage as living parable",
+        "detail": "God tells Hosea to marry Gomer, and the children's names announce judgment on the house of Jehu and the covenant itself.",
+        "refs": [
+          "Hos 1:2-9"
+        ]
+      },
+      {
+        "label": "The wife taken to court",
+        "detail": "The LORD pleads with unfaithful Israel, strips away Baal's 'gifts', then woos her back in the wilderness and betroths her forever.",
+        "refs": [
+          "Hos 2:2-23"
+        ]
+      },
+      {
+        "label": "Buying back Gomer",
+        "detail": "Hosea pays to redeem his wife and sets a waiting period, a picture of exile followed by return to 'David their king'.",
+        "refs": [
+          "Hos 3:1-5"
+        ]
+      },
+      {
+        "label": "Charges: no knowledge of God",
+        "detail": "Priests, kings and people are indicted for cult prostitution, calf worship, coups and foreign alliances; shallow repentance is exposed.",
+        "refs": [
+          "Hos 4:1-6",
+          "Hos 6:4-6",
+          "Hos 8:4-6"
+        ]
+      },
+      {
+        "label": "History replayed as judgment",
+        "detail": "Jacob's story, the exodus and the wilderness are retold to show a long pattern of ingratitude; exile 'back to Egypt' looms.",
+        "refs": [
+          "Hos 11:1-7",
+          "Hos 12:2-6",
+          "Hos 13:4-8"
+        ]
+      },
+      {
+        "label": "God's heart turns over",
+        "detail": "The LORD cannot give Ephraim up: 'I am God and not a man.' Love overrules the logic of punishment.",
+        "refs": [
+          "Hos 11:8-11"
+        ]
+      },
+      {
+        "label": "Invitation to return",
+        "detail": "A model prayer of repentance and God's promise to heal and love freely; the wise will understand these ways.",
+        "refs": [
+          "Hos 14:1-9"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Hosea: love that will not let go",
+      "branches": [
+        {
+          "label": "Marriage picture",
+          "items": [
+            "Gomer and Hosea",
+            "Israel the unfaithful bride",
+            "Betrothal renewed forever"
+          ]
+        },
+        {
+          "label": "Charges",
+          "items": [
+            "Baal worship and calves",
+            "Kings made without God",
+            "Alliances with Assyria, Egypt",
+            "Corrupt priests"
+          ]
+        },
+        {
+          "label": "Key virtues",
+          "items": [
+            "Hesed: loyal love",
+            "Emet: faithfulness",
+            "Da'at: knowing God"
+          ]
+        },
+        {
+          "label": "Judgment",
+          "items": [
+            "Names of the children",
+            "Exile to Assyria",
+            "Back to 'Egypt'"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Names reversed",
+            "God cannot give up",
+            "Return and healing",
+            "David their king"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Steadfast love",
+        "original": "hesed",
+        "meaning": "Loyal, committed covenant love: kindness that keeps its promises. God wants it more than sacrifice, and Israel's version of it is 'like the morning dew' that vanishes.",
+        "refs": [
+          "Hos 6:4-6",
+          "Hos 2:19",
+          "Hos 12:6"
+        ]
+      },
+      {
+        "word": "Return",
+        "original": "shuv",
+        "meaning": "To turn around and come back; the basic Hebrew word for repentance. Hosea uses it both for Israel's return to God and for God turning from anger.",
+        "refs": [
+          "Hos 3:5",
+          "Hos 6:1",
+          "Hos 14:1-4"
+        ]
+      },
+      {
+        "word": "Knowledge (of God)",
+        "original": "da'at elohim",
+        "meaning": "Intimate, loyal acquaintance with God, shown in obeying and trusting him; its absence is the root charge against Israel.",
+        "refs": [
+          "Hos 4:1",
+          "Hos 4:6",
+          "Hos 6:6"
+        ]
+      },
+      {
+        "word": "Play the harlot",
+        "original": "zanah",
+        "meaning": "To be sexually unfaithful; used for Israel's chasing of other gods and allies. It stresses betrayal within a relationship.",
+        "refs": [
+          "Hos 1:2",
+          "Hos 4:12-14",
+          "Hos 9:1"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "deuteronomy",
+        "how": "Hosea's charges follow Deuteronomy's covenant terms and its curses (no rain, exile), and his call to love and know God echoes Deuteronomy's 'love the LORD your God'.",
+        "refs": [
+          "Hos 4:1-3",
+          "Deut 28:15-24",
+          "Deut 6:4-5"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah takes up Hosea's marriage metaphor for Judah a century later, including the wilderness honeymoon and the divorced wife invited back.",
+        "refs": [
+          "Jer 2:2",
+          "Jer 3:1-14"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "Ezekiel extends the marriage allegory into a long, graphic history of Jerusalem's unfaithfulness and God's everlasting covenant.",
+        "refs": [
+          "Ezek 16:8-14",
+          "Ezek 16:59-63"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew applies 'out of Egypt I called my son' to Jesus, who relives Israel's story, and Jesus twice quotes 'I desire mercy, not sacrifice'.",
+        "refs": [
+          "Matt 2:15",
+          "Matt 9:13",
+          "Matt 12:7"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul uses the reversal of Lo-ammi ('not my people' becomes 'my people') to describe God calling Gentiles as well as Jews.",
+        "refs": [
+          "Rom 9:25-26",
+          "Hos 2:23"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "Paul's taunt 'O death, where is your sting?' draws on Hosea's question to death and the grave.",
+        "refs": [
+          "1 Cor 15:55",
+          "Hos 13:14"
+        ]
+      }
+    ],
+    "jesusLens": "Christians read Hosea's redeeming of Gomer as a picture of God's costly love that buys back the unfaithful, fulfilled in Christ who 'loved the church and gave himself for her' (Eph 5:25). Matthew sees Jesus as the true 'son' called out of Egypt (Matt 2:15), the one who succeeds where Israel failed. Jesus himself uses Hosea 6:6 to defend eating with sinners and to rebuke rigid Sabbath rules (Matt 9:13; Matt 12:7). The 'third day' raising in Hosea 6:2 is often linked by Christians to the resurrection, though the NT never quotes it directly. Jewish readers, for their part, hear Hosea as a promise to Israel itself: the same people who were called 'not my people' will again be 'children of the living God' (Hos 1:10). Both readings agree the book is about God's refusal to abandon his covenant partner.",
+    "misreadings": [
+      {
+        "topic": "'My people are destroyed for lack of knowledge' (Hos 4:6)",
+        "popular": "This verse is often preached as a call to study more, get informed, learn Bible doctrine or even get educated generally: Christians suffer because they do not know enough facts.",
+        "inContext": "In Hosea 'knowledge of God' is relational: loyalty, obedience and intimacy, the opposite of adultery (Hos 2:20; Hos 6:6). The charge in Hos 4:4-9 is aimed at the priests, who were supposed to teach Torah and instead profited from the people's sin offerings. Hans Walter Wolff and Andersen & Freedman stress that 'knowledge' here means the priestly teaching of the covenant and the living relationship it was meant to sustain.",
+        "defence": "Evangelical commentators such as Douglas Stuart and Derek Kidner agree the knowledge is covenantal, not merely intellectual, but point out that it includes real content: Torah taught and remembered. So the popular use is not entirely wrong; teaching matters. It is narrowed when it loses the relational point and the warning to religious leaders.",
+        "whyItMatters": "Read in context, the verse is a warning to leaders who feed on people's failures and a call to a loyal relationship with God, not simply a motivation for more information.",
+        "refs": [
+          "Hos 4:1",
+          "Hos 4:6-9",
+          "Hos 6:6",
+          "Mal 2:7"
+        ],
+        "scholars": [
+          "Hans Walter Wolff",
+          "Francis I. Andersen",
+          "David Noel Freedman",
+          "Douglas Stuart",
+          "Derek Kidner"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "The marriage metaphor and God's 'violence' (Hos 2)",
+        "popular": "Popular devotional reading treats Hosea 2 simply as a romance: God the faithful lover pursuing his wayward bride, a picture of grace to each believer.",
+        "inContext": "Feminist scholars such as Renita Weems and Gale Yee note that the chapter also uses images of stripping and exposing the wife (Hos 2:3; Hos 2:10). They warn that, read literally as a model for human marriage, it can seem to excuse a husband's abuse. They read it as a metaphor shaped by an ancient patriarchal culture, describing a nation's collapse under war and exile.",
+        "defence": "Traditional and evangelical scholars (e.g. Douglas Stuart, Duane Garrett) agree the passage is metaphor for national judgment, drawn from the covenant curses (Deut 28), not a guide to how husbands should treat wives. They stress that the chapter ends in tender wooing, not violence, and that God's goal is restoration. Both sides agree it must not be used to justify abuse.",
+        "whyItMatters": "Seeing both the shock and the tenderness keeps readers from sentimentalising judgment or misusing the text in real marriages.",
+        "refs": [
+          "Hos 2:2-13",
+          "Hos 2:14-23",
+          "Deut 28:47-48"
+        ],
+        "scholars": [
+          "Renita J. Weems",
+          "Gale A. Yee",
+          "Douglas Stuart",
+          "Duane A. Garrett"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For Israel the message was: your crisis is not mainly political but relational. Kings, treaties and harvest rituals will not save you; only returning to the God who loves you will. When Samaria fell, the book explained why, and its promises gave refugees reason to hope.",
+      "now": "Hosea speaks to anyone who treats God as a supplier of blessings rather than a partner in love. It asks what we credit for our 'grain, wine and oil', and what we run to under pressure. It also gives one of the Bible's most moving pictures of a God who feels, grieves and refuses to give up on people who have betrayed him."
+    },
+    "sources": [
+      {
+        "author": "Francis I. Andersen and David Noel Freedman",
+        "title": "Hosea (Anchor Bible 24)",
+        "year": 1980
+      },
+      {
+        "author": "Hans Walter Wolff",
+        "title": "Hosea (Hermeneia)",
+        "year": 1974
+      },
+      {
+        "author": "Renita J. Weems",
+        "title": "Battered Love: Marriage, Sex, and Violence in the Hebrew Prophets",
+        "year": 1995
+      },
+      {
+        "author": "Abraham Joshua Heschel",
+        "title": "The Prophets",
+        "year": 1962
+      }
+    ]
+  },
+  {
+    "id": "joel",
+    "oneLine": "A locust plague becomes a warning of the Day of the LORD, and a call to return with all the heart is answered by God's promise to pour out his Spirit on everyone.",
+    "author": {
+      "name": "Joel son of Pethuel",
+      "who": "A Judean prophet, otherwise unknown. His close interest in the temple, its offerings and its priests has led some to think he was a temple ('cultic') prophet, though that is a guess.",
+      "howWeKnow": "Only the heading names him (Joel 1:1). His era must be worked out from clues inside the book, which is why dates range over four centuries.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The book assumes a working temple, priests 'between the porch and the altar' and the city walls (Joel 2:9; Joel 2:17).",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The people, elders and priests of Judah",
+      "place": "Jerusalem and Judah",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "Swarms of locusts and drought have stripped vines, fig trees and grain; there is nothing left to offer at the temple. Joel calls a national fast and reads the disaster as a preview of a greater day of judgment.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": -586,
+        "event": "Babylon destroys Jerusalem and the first temple; Judah's people are scattered (an event Joel 3:1-3 may look back on)."
+      },
+      {
+        "year": -515,
+        "event": "The second temple is completed under Persian rule."
+      },
+      {
+        "year": -445,
+        "event": "Nehemiah rebuilds Jerusalem's walls (on the Persian-period dating, Joel's 'wall' would be this one)."
+      },
+      {
+        "year": -400,
+        "event": "Greek and Phoenician traders are active in the eastern Mediterranean slave trade (compare Joel 3:4-6)."
+      }
+    ],
+    "backdrop": "Joel gives no king's name and no date. That silence is part of the puzzle. The book mentions elders and priests but no king, a working temple, a city wall, Greeks buying Judean slaves from Phoenicians, and enemies (Tyre, Sidon, Philistia, Egypt, Edom) who fit several periods. It also quotes or echoes many other prophets: 'the Day of the LORD is near' (Obadiah, Zephaniah, Isaiah), 'beat your plowshares into swords' (reversing Isaiah and Micah), and 'the LORD roars from Zion' (Amos 1:2). For these reasons most scholars today place Joel in the Persian period, around 450-350 BC, after the temple was rebuilt. An older view dates it under the boy-king Joash (c. 835 BC), when priests ruled for him, which would explain the absence of a king; others suggest the late 600s BC. The date matters less for the message than for the question of who is quoting whom.\n\nLocust plagues were a real and terrifying event in the ancient Near East and still are: desert locusts can travel in swarms of billions, eating every green thing and leaving famine behind. Joel describes waves of insects (named by four Hebrew words, perhaps stages of growth or kinds of locust) and a drought that dries up the streams. With no grain or wine, the daily grain and drink offerings at the temple had to stop, which was a spiritual crisis as much as an economic one (Joel 1:9; Joel 1:13).\n\nThe book moves from that local disaster to a cosmic one. In chapter 2 the locusts look like an invading army, and the 'Day of the LORD' becomes a day when God himself leads the army. Then the tone turns: if the people return, God will restore the land, pour out his Spirit, and judge the nations who scattered his people.",
+    "culture": [
+      {
+        "term": "Day of the LORD",
+        "explain": "A day when God acts decisively to judge and to save. Israel expected it to be good news against enemies; prophets like Joel warned it could fall on God's own people first, then on the nations.",
+        "refs": [
+          "Joel 1:15",
+          "Joel 2:1-2",
+          "Joel 2:31",
+          "Joel 3:14"
+        ]
+      },
+      {
+        "term": "Solemn assembly and fast",
+        "explain": "In a crisis a trumpet (shofar) summoned everyone, from elders to nursing babies and newlyweds, to fast, weep and pray at the temple. Repentance was communal, not private.",
+        "refs": [
+          "Joel 1:14",
+          "Joel 2:15-17"
+        ]
+      },
+      {
+        "term": "Rend hearts, not garments",
+        "explain": "Tearing clothes was the normal outward sign of grief. Joel does not abolish it but asks for the inward reality it was meant to express.",
+        "refs": [
+          "Joel 2:12-13",
+          "Gen 37:34"
+        ]
+      },
+      {
+        "term": "Israel's creed (Exodus 34)",
+        "explain": "Joel quotes God's self-description from Sinai, 'gracious and merciful, slow to anger, abounding in steadfast love', a refrain that runs through the Twelve.",
+        "refs": [
+          "Joel 2:13",
+          "Exod 34:6-7",
+          "Jonah 4:2"
+        ]
+      },
+      {
+        "term": "Valley of Jehoshaphat",
+        "explain": "'Jehoshaphat' means 'the LORD judges'. The valley is a symbolic courtroom where nations are tried for scattering Israel and selling its children; later tradition placed it in the Kidron Valley.",
+        "refs": [
+          "Joel 3:2",
+          "Joel 3:12-14"
+        ]
+      },
+      {
+        "term": "Spirit on 'all flesh'",
+        "explain": "In Israel the Spirit came mostly on leaders and prophets. Joel promises the Spirit to sons and daughters, old and young, even slaves, fulfilling Moses' wish that all the LORD's people were prophets.",
+        "refs": [
+          "Joel 2:28-29",
+          "Num 11:29"
+        ]
+      }
+    ],
+    "jewishLens": "Joel is heard in the season of the High Holy Days. In many Ashkenazi communities Joel 2:15-27 ('Blow the shofar in Zion, sanctify a fast') is added to the haftarah of Shabbat Shuvah, joining Hosea 14 in calling Israel to return before Yom Kippur. The shofar, the fast, the gathering of every age group and the priests weeping 'between the porch and the altar' map directly onto the liturgy of the Days of Awe. Joel 2:13, 'rend your hearts and not your garments, and return to the LORD your God, for he is gracious and merciful', sums up the Jewish understanding of teshuvah: outward acts matter, but God wants the turned heart, and his mercy is the ground of hope.\n\nNote that the Hebrew Bible divides Joel into four chapters: the English Joel 2:28-32 is Hebrew Joel 3, and English Joel 3 is Hebrew Joel 4. In Jewish reading the outpouring of the Spirit is a promise for the whole people of Israel in the messianic age; the rabbis connected it with the end of the long silence of prophecy and with Moses' wish in Numbers 11. The book's closing scenes, judgment of the nations for 'scattering my people Israel and dividing up my land' and the LORD dwelling in Zion, were read as assurances to a small, battered community that God had not forgotten his covenant with them.",
+    "flow": [
+      {
+        "label": "Locusts strip the land",
+        "detail": "Wave after wave of insects and drought ruin vines, figs and grain; drinkers, farmers and priests are all called to mourn.",
+        "refs": [
+          "Joel 1:2-12"
+        ]
+      },
+      {
+        "label": "Call to fast and cry",
+        "detail": "Priests are told to proclaim a fast and gather everyone at the temple, because the Day of the LORD is near.",
+        "refs": [
+          "Joel 1:13-20"
+        ]
+      },
+      {
+        "label": "The LORD's army comes",
+        "detail": "The locust swarm becomes an army at the city walls, led by God himself; darkness covers the sky.",
+        "refs": [
+          "Joel 2:1-11"
+        ]
+      },
+      {
+        "label": "Return with all your heart",
+        "detail": "'Even now' God invites his people back, citing his gracious character; perhaps he will relent.",
+        "refs": [
+          "Joel 2:12-17"
+        ]
+      },
+      {
+        "label": "The land restored",
+        "detail": "God answers with pity: rain, harvest and repayment for the years the locusts ate.",
+        "refs": [
+          "Joel 2:18-27"
+        ]
+      },
+      {
+        "label": "Spirit on all flesh",
+        "detail": "Afterward God pours out his Spirit on all kinds of people; signs in the sky precede the Day, and all who call on his name are saved.",
+        "refs": [
+          "Joel 2:28-32"
+        ]
+      },
+      {
+        "label": "Nations judged, Zion safe",
+        "detail": "The nations are tried in the valley of decision; Judah is protected, the land flows with wine and water, and the LORD dwells in Zion.",
+        "refs": [
+          "Joel 3:1-21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Joel: the Day of the LORD",
+      "branches": [
+        {
+          "label": "Disaster",
+          "items": [
+            "Locust swarms",
+            "Drought and famine",
+            "Offerings cut off"
+          ]
+        },
+        {
+          "label": "Response",
+          "items": [
+            "Blow the shofar",
+            "Fast and gather all",
+            "Rend hearts, not garments"
+          ]
+        },
+        {
+          "label": "God's character",
+          "items": [
+            "Gracious and merciful",
+            "Slow to anger",
+            "Relents from harm"
+          ]
+        },
+        {
+          "label": "Restoration",
+          "items": [
+            "Rain and harvest",
+            "Years repaid",
+            "Spirit on all flesh"
+          ]
+        },
+        {
+          "label": "Final day",
+          "items": [
+            "Valley of decision",
+            "Nations judged",
+            "God dwells in Zion"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Day of the LORD",
+        "original": "yom YHWH",
+        "meaning": "The time when God steps in to judge evil and rescue his people; 'great and very terrible', yet a refuge for those who call on him.",
+        "refs": [
+          "Joel 1:15",
+          "Joel 2:11",
+          "Joel 2:31",
+          "Joel 3:14"
+        ]
+      },
+      {
+        "word": "Return",
+        "original": "shuv",
+        "meaning": "To turn back to God; Joel pairs it with God's own 'turning' or relenting from disaster.",
+        "refs": [
+          "Joel 2:12-14"
+        ]
+      },
+      {
+        "word": "Spirit",
+        "original": "ruach",
+        "meaning": "Breath, wind, spirit: God's life-giving presence and power, which Joel promises to pour out like rain on everyone.",
+        "refs": [
+          "Joel 2:28-29"
+        ]
+      },
+      {
+        "word": "Relent",
+        "original": "nicham",
+        "meaning": "To change course out of compassion; God 'relents over disaster' when people return.",
+        "refs": [
+          "Joel 2:13-14",
+          "Jonah 3:9-10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "exodus",
+        "how": "The locusts recall the eighth plague on Egypt; now Israel itself is struck, and the Sinai creed of God's mercy is the way back.",
+        "refs": [
+          "Exod 10:12-15",
+          "Exod 34:6-7",
+          "Joel 2:13"
+        ]
+      },
+      {
+        "bookId": "amos",
+        "how": "Joel ends with 'the LORD roars from Zion' and the mountains dripping sweet wine; Amos opens and closes with the same lines, stitching the two books together in the Twelve.",
+        "refs": [
+          "Joel 3:16",
+          "Amos 1:2",
+          "Joel 3:18",
+          "Amos 9:13"
+        ]
+      },
+      {
+        "bookId": "micah",
+        "how": "Joel reverses the famous peace oracle: 'beat your plowshares into swords' turns Micah's and Isaiah's words around for the final battle.",
+        "refs": [
+          "Joel 3:10",
+          "Mic 4:3",
+          "Isa 2:4"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Peter interprets the Spirit's coming at Pentecost as Joel's prophecy, adding 'in the last days'.",
+        "refs": [
+          "Acts 2:16-21",
+          "Joel 2:28-32"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul quotes 'everyone who calls on the name of the Lord will be saved' to show there is no distinction between Jew and Greek.",
+        "refs": [
+          "Rom 10:12-13",
+          "Joel 2:32"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation's locust-army, darkened sun and harvest of the nations draw on Joel's imagery.",
+        "refs": [
+          "Rev 9:2-9",
+          "Rev 14:14-20",
+          "Joel 3:13"
+        ]
+      }
+    ],
+    "jesusLens": "The New Testament reads Joel as a map for the age that begins with Jesus. Peter says the Spirit poured out at Pentecost is what Joel spoke of, because the risen and exalted Jesus has received the Spirit and poured it out (Acts 2:16-21; Acts 2:33). The 'name of the LORD' on which people call is applied to Jesus himself (Acts 2:21; Acts 2:36; Rom 10:9-13), a striking move for Jewish writers. Jesus' own warnings about sun and moon darkening before the coming of the Son of Man echo Joel's signs (Mark 13:24-26). Jewish interpreters read the same promises as still awaiting the messianic age for Israel, with the outpouring of the Spirit and the gathering to Zion yet to come in full. Christians also tend to see a 'now and not yet': the Spirit has come, but the final Day and the full judgment of the nations remain ahead.",
+    "misreadings": [
+      {
+        "topic": "Joel 2 as only about Pentecost",
+        "popular": "Many evangelicals know Joel almost entirely through Acts 2: Joel is 'the Pentecost prophet', and chapters 1 and 3 are background noise.",
+        "inContext": "Joel's promise of the Spirit grows out of a story: a ruined land, a nation that fasts and returns, and a God who restores harvests and then pours his Spirit on everyone, including slaves. It is about the renewal of the covenant people and their land, and it ends with justice for the victims of war and slavery (Joel 3:3-6). Scholars such as James Crenshaw and Hans Walter Wolff stress this communal and land-centred setting; Jewish readers hear it as a promise to Israel.",
+        "defence": "Evangelical scholars (e.g. Leslie Allen, Craig Keener in his Acts commentary) answer that Peter is not ignoring context but claiming that the 'last days' of Joel have begun with Jesus, and that Luke deliberately extends Joel's 'all flesh' to include Gentiles. Keener also notes Peter quotes enough of Joel to point hearers to the whole passage, a common Jewish practice. So Pentecost is a legitimate fulfilment; the problem is only when the rest of Joel is forgotten.",
+        "whyItMatters": "Keeping the whole of Joel means the Spirit is linked to repentance, justice and the restoration of creation, not only to private spiritual experience or speaking in tongues.",
+        "refs": [
+          "Joel 2:12-32",
+          "Joel 3:1-6",
+          "Acts 2:16-21",
+          "Acts 2:39"
+        ],
+        "scholars": [
+          "James L. Crenshaw",
+          "Hans Walter Wolff",
+          "Leslie C. Allen",
+          "Craig S. Keener"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'I will restore the years the locust has eaten' (Joel 2:25)",
+        "popular": "This verse is widely used as a personal promise that God will give back lost time, wasted years, money or relationships to an individual believer.",
+        "inContext": "The promise was spoken to a community that had fasted and returned to God after a literal agricultural disaster. 'The years' are failed harvests; restoration is rain, full threshing floors and food for the whole people, so that they will 'know that I am in the midst of Israel' (Joel 2:27).",
+        "defence": "Pastoral writers point out that the verse reveals God's character as restorer, and applying that character to personal loss is a natural extension many careful preachers make. Most evangelical commentators (e.g. Allen, Stuart) accept a principle-level application while cautioning against treating it as a guaranteed refund of every personal loss.",
+        "whyItMatters": "The richer reading roots hope in God's covenant faithfulness to a people and their land, and avoids promising individuals specific outcomes the text does not promise.",
+        "refs": [
+          "Joel 2:18-27"
+        ],
+        "scholars": [
+          "Leslie C. Allen",
+          "Douglas Stuart"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For a small Judean community the book turned a natural disaster into a call to return together to God, and gave assurance that God still lived in Zion and would one day judge the empires that had scattered and enslaved them.",
+      "now": "Joel shows a whole community responding to crisis with honest lament and shared repentance. It holds together disaster, mercy and the Spirit, and insists that God's gifts are for 'all flesh': young and old, women and men, slaves and free."
+    },
+    "sources": [
+      {
+        "author": "James L. Crenshaw",
+        "title": "Joel (Anchor Bible 24C)",
+        "year": 1995
+      },
+      {
+        "author": "Hans Walter Wolff",
+        "title": "Joel and Amos (Hermeneia)",
+        "year": 1977
+      },
+      {
+        "author": "Leslie C. Allen",
+        "title": "The Books of Joel, Obadiah, Jonah and Micah (NICOT)",
+        "year": 1976
+      },
+      {
+        "author": "James D. Nogalski",
+        "title": "The Book of the Twelve: Hosea-Jonah (Smyth & Helwys Bible Commentary)",
+        "year": 2011
+      }
+    ]
+  },
+  {
+    "id": "amos",
+    "oneLine": "A shepherd from Judah tells prosperous Israel that its religion is worthless while it crushes the poor, because the God who chose them holds them most responsible.",
+    "author": {
+      "name": "Amos of Tekoa",
+      "who": "A Judean from Tekoa, a village on the edge of the wilderness south of Bethlehem. He calls himself a herdsman (noqed, a word also used of a sheep-breeder in 2 Kgs 3:4) and a tender of sycamore figs, and denies being a professional prophet or a 'son of a prophet'. He was sent north to preach in Israel.",
+      "howWeKnow": "The heading (Amos 1:1) and his clash with the priest Amaziah at Bethel (Amos 7:10-15). Scholars accept the core oracles as his; debate centres on a few passages that may come from later editors.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Bethel and Samaria (spoken); Tekoa and Judah (written down)",
+      "coords": [
+        35.22,
+        31.63
+      ],
+      "note": "Amos preached at the northern royal shrine of Bethel and in Samaria. After being expelled he probably returned south, where his words were collected.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The northern kingdom of Israel, especially its wealthy elite",
+      "place": "Samaria and Bethel",
+      "coords": [
+        35.19,
+        32.28
+      ],
+      "situation": "Under Jeroboam II Israel had recovered lost territory and grown rich. Ivory-inlaid houses, winter and summer homes and lavish feasts sat alongside debt slavery, rigged courts and dishonest markets, while the shrines were crowded with worshippers.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -765,
+      "to": -755,
+      "note": "'Two years before the earthquake' (Amos 1:1), probably in the 760s or early 750s BC."
+    },
+    "worldEvents": [
+      {
+        "year": -786,
+        "event": "Jeroboam II becomes king of Israel (approximate); his long reign restores Israel's borders (2 Kgs 14:25)."
+      },
+      {
+        "year": -763,
+        "event": "A total solar eclipse is recorded in Assyrian sources (15 June 763 BC), possibly echoed in Amos 8:9."
+      },
+      {
+        "year": -760,
+        "event": "A major earthquake in the Levant, remembered centuries later (Zech 14:5) and visible in destruction layers at sites such as Hazor."
+      },
+      {
+        "year": -745,
+        "event": "Tiglath-pileser III revives Assyria, which will soon fulfil Amos's warnings of exile."
+      }
+    ],
+    "backdrop": "Amos spoke in a short window of peace. Assyria was weak for a few decades in the early 700s BC, and Damascus had been crushed, so Israel under Jeroboam II expanded to its old borders. The capital, Samaria, flourished: excavators found carved ivory panels there that once decorated furniture, a vivid match for Amos's 'beds of ivory' (Amos 6:4) and 'houses of ivory' (Amos 3:15). Ostraca (inscribed potsherds) from Samaria record shipments of wine and oil to the capital, showing how produce flowed from the countryside to the elite.\n\nThat wealth came at a price. Small farmers who had a bad year borrowed against their land or even sold themselves into debt slavery; creditors seized cloaks taken as pledges and used them at feasts in shrines (Amos 2:8). Merchants used small measures and heavy weights (Amos 8:5). Judges at the city gate took bribes (Amos 5:12). Meanwhile worship flourished at Bethel, Gilgal and Beersheba, with tithes, freewill offerings and loud songs.\n\nAmos was an outsider from Judah, preaching at the king's own sanctuary. The priest Amaziah reported him to Jeroboam for conspiracy and told him to go home (Amos 7:10-13). His book ends with the hope of David's fallen 'booth' raised again, which many scholars think was added after the fall of Jerusalem, though others argue Amos himself held out such hope.",
+    "culture": [
+      {
+        "term": "Oracles against the nations",
+        "explain": "Amos begins by condemning Israel's neighbours for war crimes ('for three transgressions and for four'), drawing applause from his audience, and then springs the trap: the eighth and climactic nation judged is Israel itself.",
+        "refs": [
+          "Amos 1:3-2:5",
+          "Amos 2:6-8"
+        ]
+      },
+      {
+        "term": "Election means responsibility",
+        "explain": "Israel assumed that being chosen meant protection. Amos turns it around: 'You only have I known... therefore I will punish you.' Privilege raises accountability.",
+        "refs": [
+          "Amos 3:2",
+          "Amos 9:7"
+        ]
+      },
+      {
+        "term": "Justice at the gate",
+        "explain": "The city gate was the local courtroom where elders heard cases. 'Hate evil, love good, establish justice in the gate' means fixing the legal system, not just personal kindness.",
+        "refs": [
+          "Amos 5:10-15"
+        ]
+      },
+      {
+        "term": "Mishpat and tsedaqah",
+        "explain": "Justice (mishpat) and righteousness (tsedaqah) together describe a society where the weak get a fair hearing and right relationships are restored. Amos wants them to roll like a never-failing stream.",
+        "refs": [
+          "Amos 5:24",
+          "Amos 6:12"
+        ]
+      },
+      {
+        "term": "Marzeah feast",
+        "explain": "A marzeah was an exclusive banqueting club known from other ancient texts, with drinking and reclining. Amos mocks Samaria's elite lounging at such feasts while the nation collapses.",
+        "refs": [
+          "Amos 6:4-7"
+        ]
+      },
+      {
+        "term": "Day of the LORD reversed",
+        "explain": "Israel longed for the Day of the LORD as victory over enemies. Amos is the earliest prophet to say it will be darkness, not light, for Israel.",
+        "refs": [
+          "Amos 5:18-20"
+        ]
+      }
+    ],
+    "jewishLens": "In the Jewish reading cycle Amos 2:6-3:8 is the haftarah for parashat Vayeshev, where Joseph is sold by his brothers: Amos's charge that Israel 'sold the righteous for silver and the needy for a pair of sandals' (Amos 2:6) was linked by the rabbis to the sale of Joseph. Amos 9:7-15 is read (in Ashkenazi practice) with Acharei Mot, setting Amos's picture of a restored Israel alongside the Day of Atonement laws. The Talmud (*Makkot* 24a) famously says that the 613 commandments were summed up by David in eleven principles, by Isaiah in six, by Micah in three, and by Amos in one: 'Seek me and live' (Amos 5:4).\n\nFor Jewish readers Amos is not an attack on ritual as such; the same Torah commanded sacrifices and festivals. It is a covenant reminder that the God who brought Israel out of Egypt also commanded care for the widow, the orphan, the stranger and the debtor (Exod 22:21-27; Deut 24:10-15). Worship without that justice is noise. Abraham Joshua Heschel's description of the prophets as people who felt God's pathos, his deep emotional involvement with human injustice, drew heavily on Amos and shaped modern Jewish social ethics, including Heschel's own march with Martin Luther King Jr., who quoted Amos 5:24.",
+    "flow": [
+      {
+        "label": "The LORD roars from Zion",
+        "detail": "A thunderous opening: God's voice from Jerusalem withers even Carmel.",
+        "refs": [
+          "Amos 1:2"
+        ]
+      },
+      {
+        "label": "Nations judged, then Israel",
+        "detail": "Seven neighbours are condemned for cruelty; then Israel is condemned for selling the poor, sexual abuse and exploitation in worship.",
+        "refs": [
+          "Amos 1:3-2:16"
+        ]
+      },
+      {
+        "label": "Chosen and accountable",
+        "detail": "Rhetorical questions build to the point: God has spoken, so the prophet must speak; luxury and false worship will be torn down.",
+        "refs": [
+          "Amos 3:1-15",
+          "Amos 4:1-13"
+        ]
+      },
+      {
+        "label": "Seek me and live",
+        "detail": "A funeral song for Israel, a call to seek God and justice, and a rejection of festivals without righteousness.",
+        "refs": [
+          "Amos 5:1-27"
+        ]
+      },
+      {
+        "label": "Woe to the complacent",
+        "detail": "The comfortable elite of Samaria will go first into exile.",
+        "refs": [
+          "Amos 6:1-14"
+        ]
+      },
+      {
+        "label": "Five visions and a clash",
+        "detail": "Locusts, fire, plumb line, summer fruit and the altar struck; Amos is expelled from Bethel by Amaziah.",
+        "refs": [
+          "Amos 7:1-17",
+          "Amos 8:1-3",
+          "Amos 9:1-4"
+        ]
+      },
+      {
+        "label": "David's booth rebuilt",
+        "detail": "After judgment, God will raise David's fallen shelter, restore the people and plant them in their land for good.",
+        "refs": [
+          "Amos 9:11-15"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Amos: justice like a river",
+      "branches": [
+        {
+          "label": "Target",
+          "items": [
+            "Samaria's rich elite",
+            "Bethel's royal shrine",
+            "Complacent 'cows of Bashan'"
+          ]
+        },
+        {
+          "label": "Sins",
+          "items": [
+            "Debt slavery",
+            "Bribed courts",
+            "Cheating weights",
+            "Exploiting worship"
+          ]
+        },
+        {
+          "label": "God's answer",
+          "items": [
+            "Roaring lion",
+            "Plumb line",
+            "Day of darkness",
+            "Exile beyond Damascus"
+          ]
+        },
+        {
+          "label": "Call",
+          "items": [
+            "Seek me and live",
+            "Hate evil, love good",
+            "Justice rolls down"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Remnant spared",
+            "David's booth raised",
+            "Planted forever"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Justice",
+        "original": "mishpat",
+        "meaning": "Fair judgment and the restoring of right order, especially for the vulnerable; Amos complains Israel has turned it into poison.",
+        "refs": [
+          "Amos 5:7",
+          "Amos 5:15",
+          "Amos 5:24"
+        ]
+      },
+      {
+        "word": "Righteousness",
+        "original": "tsedaqah",
+        "meaning": "Right relationships within the covenant community, shown in how the weak are treated.",
+        "refs": [
+          "Amos 5:24",
+          "Amos 6:12"
+        ]
+      },
+      {
+        "word": "Seek",
+        "original": "darash",
+        "meaning": "To seek out, inquire of, turn to; seeking God is set against seeking shrines.",
+        "refs": [
+          "Amos 5:4-6",
+          "Amos 5:14"
+        ]
+      },
+      {
+        "word": "Remnant",
+        "original": "she'erit",
+        "meaning": "Those left after judgment; Amos makes it a sobering image (two legs from a lion's mouth) but also a sliver of hope.",
+        "refs": [
+          "Amos 3:12",
+          "Amos 5:15",
+          "Amos 9:12"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-kings",
+        "how": "Kings describes Jeroboam II's expansion and briefly notes his religion; Amos shows what that prosperity looked like on the ground.",
+        "refs": [
+          "2 Kgs 14:23-29"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Amos's charges reflect Torah laws about pledges, fair weights, care for the poor and the stranger.",
+        "refs": [
+          "Deut 24:10-15",
+          "Deut 25:13-16",
+          "Amos 2:8",
+          "Amos 8:5"
+        ]
+      },
+      {
+        "bookId": "hosea",
+        "how": "Amos and Hosea preached to the same kingdom at nearly the same time: Amos stresses justice, Hosea loyal love.",
+        "refs": [
+          "Amos 1:1",
+          "Hos 1:1"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "At the Jerusalem council James quotes Amos 9:11-12 (in its Greek form) to show that God always meant to include Gentiles in the rebuilt house of David.",
+        "refs": [
+          "Acts 15:13-18",
+          "Amos 9:11-12"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James' warnings to the rich who withhold wages and live in luxury are in the spirit of Amos.",
+        "refs": [
+          "Jas 5:1-6",
+          "Amos 6:4-7"
+        ]
+      },
+      {
+        "bookId": "zechariah",
+        "how": "Zechariah remembers 'the earthquake in the days of Uzziah', the same quake that dates Amos.",
+        "refs": [
+          "Zech 14:5",
+          "Amos 1:1"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus stands in Amos's line when he says that worship without reconciliation and justice is empty (Matt 5:23-24) and when he warns the rich and comfortable (Luke 6:24-25; Luke 16:19-31). The early church saw the raising of 'David's fallen booth' fulfilled in the risen Son of David, whose restored kingdom gathers 'all the nations called by my name' (Acts 15:16-17). Jewish interpreters read Amos 9:11 as the future restoration of the Davidic kingdom under the Messiah; the Talmud even refers to the Messiah as 'son of the fallen ones' (bar nafle) from this verse (*Sanhedrin* 96b). Both traditions see in Amos a God whose kingdom joins worship and justice.",
+    "misreadings": [
+      {
+        "topic": "Amos as either 'only personal holiness' or 'only politics'",
+        "popular": "Some evangelical preaching spiritualises Amos into a call to personal holiness and sincere worship, leaving out economics; some activist preaching turns Amos into a political programme and leaves out God and worship.",
+        "inContext": "Amos joins the two. Israel's sins are listed together: idolatry, sexual abuse, debt slavery, corrupt courts and cheating merchants (Amos 2:6-8; Amos 8:4-6). M. Daniel Carroll R. and Shalom Paul show that his targets are concrete social structures and that his standard is the covenant God gave at the exodus (Amos 2:10; Amos 3:1-2). For a collectivist society, sin and justice were communal, not only individual.",
+        "defence": "Evangelical scholars such as Carroll R. and Gary Smith argue that Amos's justice is grounded in God's character and covenant, not in a modern ideology, and caution against directly mapping ancient Israel's theocratic laws onto modern state policy. They agree that both a purely private and a purely political reading flatten the book.",
+        "whyItMatters": "Amos will not let worship and justice be separated: God rejects songs from people who exploit the poor, and he grounds justice in knowing him.",
+        "refs": [
+          "Amos 2:6-8",
+          "Amos 5:21-24",
+          "Amos 8:4-6",
+          "Amos 3:1-2"
+        ],
+        "scholars": [
+          "M. Daniel Carroll R.",
+          "Shalom M. Paul",
+          "Gary V. Smith",
+          "Abraham Joshua Heschel"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'Can two walk together unless they are agreed?' (Amos 3:3)",
+        "popular": "The verse is often quoted as advice about marriage, friendship or church unity: do not partner with people who do not share your beliefs.",
+        "inContext": "It is the first of a chain of rhetorical questions about cause and effect (a lion roars because it has prey; a trap springs because something touched it). The chain leads to its point: disaster comes because God has acted, and a prophet speaks because God has spoken (Amos 3:6-8). It defends Amos's right to preach, not a principle of relationships.",
+        "defence": "Few commentators of any school defend the relational reading as the meaning of the verse. Some preachers argue the principle (shared direction is needed for shared walking) is true elsewhere in Scripture (2 Cor 6:14), but evangelical commentators like Gary Smith and Billy Smith agree that Amos 3:3 itself is about prophetic authority.",
+        "whyItMatters": "Read in context, the verse confronts listeners with a God who has spoken and must be heard, which is far more searching than a tip about choosing friends.",
+        "refs": [
+          "Amos 3:3-8"
+        ],
+        "scholars": [
+          "Shalom M. Paul",
+          "Gary V. Smith"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Israel heard that its prosperity and full shrines were not proof of God's favour. Within forty years Assyria fulfilled Amos's warnings. Judeans who kept his words learned that the same standard applied to them.",
+      "now": "Amos challenges comfortable religious communities to ask who pays for their comfort, whether their courts and markets are fair, and whether their worship is matched by justice. It also warns against assuming that being God's people guarantees his approval."
+    },
+    "sources": [
+      {
+        "author": "Shalom M. Paul",
+        "title": "Amos (Hermeneia)",
+        "year": 1991
+      },
+      {
+        "author": "Francis I. Andersen and David Noel Freedman",
+        "title": "Amos (Anchor Bible 24A)",
+        "year": 1989
+      },
+      {
+        "author": "M. Daniel Carroll R.",
+        "title": "The Book of Amos (NICOT)",
+        "year": 2020
+      },
+      {
+        "author": "Abraham Joshua Heschel",
+        "title": "The Prophets",
+        "year": 1962
+      }
+    ]
+  },
+  {
+    "id": "obadiah",
+    "oneLine": "The Bible's shortest prophetic book condemns Edom for betraying its brother Judah on the day Jerusalem fell, and promises that the kingdom will finally belong to the LORD.",
+    "author": {
+      "name": "Obadiah ('servant of the LORD')",
+      "who": "Nothing is known of him beyond his name, which was common. Jewish tradition (Talmud *Sanhedrin* 39b) identifies him with Obadiah, Ahab's steward who hid a hundred prophets (1 Kgs 18:3-4), and makes him an Edomite convert, so that Edom is judged by one of its own. Modern scholars treat that as a homiletic tradition, not history.",
+      "howWeKnow": "Only the one-word heading 'The vision of Obadiah' (Obad 1:1). His date is inferred from the events he describes.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Judah, probably among those left in the land after 586 BC",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The vivid description of Edom at the gates of Jerusalem suggests an eyewitness or someone close to the event; some suggest Babylon, but there is no evidence for it.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Grieving Judeans (addressed indirectly through an oracle against Edom)",
+      "place": "Judah and the exiles",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "Jerusalem has been sacked. Edom, Judah's 'brother' nation descended from Esau, stood by, gloated, looted the city and handed fleeing survivors over to the enemy. The oracle assures the victims that God has seen.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": -845,
+        "event": "Edom revolts from Judah under Jehoram (2 Kgs 8:20-22), the setting proposed by the early-date view."
+      },
+      {
+        "year": -597,
+        "event": "Babylon takes Jerusalem and deports King Jehoiachin; ostraca from Arad in this period show the fortress expecting trouble from Edom."
+      },
+      {
+        "year": -586,
+        "event": "Babylon destroys Jerusalem and the temple; Edom's role is remembered bitterly (Ps 137:7; Lam 4:21-22)."
+      },
+      {
+        "year": -553,
+        "event": "Nabonidus of Babylon campaigns against Edom, beginning its decline; Arab groups and later the Nabataeans move into its territory."
+      },
+      {
+        "year": -125,
+        "event": "John Hyrcanus conquers the Idumeans (Edom's descendants in southern Judea) and forces them to adopt Judaism (Josephus, *Antiquities* 13)."
+      }
+    ],
+    "backdrop": "Edom lay south-east of the Dead Sea in the rugged highlands of Seir, its capital Bozrah, its strongholds in the rocks (Obad 1:3). Israel never forgot that Edom's ancestor was Esau, Jacob's twin. The Torah told Israel not to hate an Edomite 'for he is your brother' (Deut 23:7). Yet relations were bitter: Edom refused Israel passage in the wilderness (Num 20:14-21), was conquered by David, and revolted under Jehoram.\n\nThe crisis Obadiah describes is most likely the Babylonian conquest of 586 BC. Several texts accuse Edom of joining in: Psalm 137 recalls Edomites shouting 'Tear it down!' and Lamentations and Ezekiel both name Edom (Lam 4:21-22; Ezek 35:5-15). Obadiah 1-9 closely parallels Jeremiah 49:7-22; scholars debate whether one borrowed from the other or both used an older oracle. A minority of conservative scholars date Obadiah to the 840s BC raid under Jehoram (2 Chr 21:16-17), placing it early in the Twelve; the book itself does not say.\n\nEdom's fate in history matched the oracle's direction. After Babylon's campaigns in the 550s Edom faded; its people drifted into southern Judah (later called Idumea), and the Nabataeans built Petra in its old heartland. Ironically, Herod the Great was an Idumean.",
+    "culture": [
+      {
+        "term": "Brotherhood and betrayal",
+        "explain": "In a kinship culture, a brother was obliged to help in danger. Edom's sin is not just violence but treachery against family; the word 'brother' frames the charge.",
+        "refs": [
+          "Obad 1:10-12",
+          "Deut 23:7",
+          "Gen 25:23"
+        ]
+      },
+      {
+        "term": "Eight 'do nots'",
+        "explain": "Obadiah lists Edom's actions as a rising series of prohibitions: do not gloat, rejoice, boast, enter, loot, stand at the crossroads, cut off survivors, hand them over. The scene slows down like a replay of each betrayal.",
+        "refs": [
+          "Obad 1:12-14"
+        ]
+      },
+      {
+        "term": "As you have done",
+        "explain": "The principle of measure for measure (lex talionis): the punishment fits the crime. Edom drank on God's holy mountain; now the nations will drink God's cup.",
+        "refs": [
+          "Obad 1:15-16"
+        ]
+      },
+      {
+        "term": "Eagle's nest pride",
+        "explain": "Edom's cities were in high, defensible rock country. Its pride in being unreachable becomes the image of its fall.",
+        "refs": [
+          "Obad 1:3-4",
+          "Jer 49:16"
+        ]
+      },
+      {
+        "term": "Day of the LORD on all nations",
+        "explain": "Edom's judgment is one case of a wider day when God judges every nation and restores his people.",
+        "refs": [
+          "Obad 1:15",
+          "Obad 1:21"
+        ]
+      }
+    ],
+    "jewishLens": "Obadiah is the haftarah for parashat Vayishlach (Gen 32-36), where Jacob meets Esau again and Esau's descendants, the kings of Edom, are listed. The pairing makes the point: the brotherly tension of Genesis becomes a national story. The book's last line, 'and the kingdom shall be the LORD's' (Obad 1:21), is woven into Jewish liturgy, recited in the morning service's 'Song at the Sea' section and in the Rosh Hashanah kingship verses (malkhuyot).\n\nIn rabbinic literature 'Edom' became a code name for Rome, the empire that destroyed the second temple, and in the medieval period for Christendom. So Obadiah was read as a promise that the oppressive empire of the day would fall and Zion's saviours would 'judge the mount of Esau'. The Talmud's tradition that Obadiah was a convert from Edom (*Sanhedrin* 39b) makes a striking point: the prophet who condemns Edom is someone who left Edom's ways. The relational frame is constant: God is the protector of a wounded family member, and history is heading toward his kingship.",
+    "flow": [
+      {
+        "label": "A message about Edom",
+        "detail": "Nations are summoned against Edom; God will bring it down from its rocky heights.",
+        "refs": [
+          "Obad 1:1-4"
+        ]
+      },
+      {
+        "label": "Total plunder",
+        "detail": "Unlike thieves who leave something, Edom's attackers will strip it; its allies and wise men will fail it.",
+        "refs": [
+          "Obad 1:5-9"
+        ]
+      },
+      {
+        "label": "The charge: brother betrayed",
+        "detail": "Because of violence to 'your brother Jacob', Edom will be cut off; the day of Jerusalem's fall is replayed in eight scenes.",
+        "refs": [
+          "Obad 1:10-14"
+        ]
+      },
+      {
+        "label": "The Day for all nations",
+        "detail": "What Edom did will return on its own head, and on all nations who drank on God's mountain.",
+        "refs": [
+          "Obad 1:15-16"
+        ]
+      },
+      {
+        "label": "Zion restored",
+        "detail": "Mount Zion will be holy, the house of Jacob will repossess its land, and the kingdom will be the LORD's.",
+        "refs": [
+          "Obad 1:17-21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Obadiah: the kingdom is the LORD's",
+      "branches": [
+        {
+          "label": "Edom",
+          "items": [
+            "Esau's descendants",
+            "Rock fortresses",
+            "Proud and secure"
+          ]
+        },
+        {
+          "label": "The betrayal",
+          "items": [
+            "Stood aloof",
+            "Gloated and looted",
+            "Handed over refugees"
+          ]
+        },
+        {
+          "label": "Justice",
+          "items": [
+            "As you have done",
+            "Cup of judgment",
+            "Day of the LORD"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Escape on Mount Zion",
+            "Exiles return",
+            "Kingdom belongs to God"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Brother",
+        "original": "ach",
+        "meaning": "Kin, family member; the core of Edom's guilt is treachery toward family.",
+        "refs": [
+          "Obad 1:10",
+          "Obad 1:12"
+        ]
+      },
+      {
+        "word": "Day",
+        "original": "yom",
+        "meaning": "Repeated ten times in Obad 1:11-14 for the day of Jerusalem's disaster, then turned into 'the day of the LORD' for all nations.",
+        "refs": [
+          "Obad 1:11-15"
+        ]
+      },
+      {
+        "word": "Kingdom",
+        "original": "melukhah",
+        "meaning": "Royal rule; the book's final word says it will belong to the LORD.",
+        "refs": [
+          "Obad 1:21"
+        ]
+      },
+      {
+        "word": "Pride",
+        "original": "zadon",
+        "meaning": "Arrogant presumption that deceives the heart.",
+        "refs": [
+          "Obad 1:3"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "The rivalry of Jacob and Esau, beginning in the womb, lies behind every line.",
+        "refs": [
+          "Gen 25:22-26",
+          "Gen 27:41",
+          "Gen 33:1-4"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah's oracle against Edom shares several verses almost word for word with Obadiah.",
+        "refs": [
+          "Jer 49:7-22",
+          "Obad 1:1-9"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalm 137 remembers the Edomites cheering Jerusalem's destruction.",
+        "refs": [
+          "Ps 137:7"
+        ]
+      },
+      {
+        "bookId": "amos",
+        "how": "Obadiah ends promising Israel will possess 'the mount of Esau'; Amos 9:12 (just before it in the Hebrew order) speaks of possessing 'the remnant of Edom'.",
+        "refs": [
+          "Amos 9:12",
+          "Obad 1:19"
+        ]
+      },
+      {
+        "bookId": "malachi",
+        "how": "Malachi opens with God contrasting his love for Jacob with the ruin of Edom, the last word on the theme.",
+        "refs": [
+          "Mal 1:2-5"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation also ends with the kingdom of the world becoming the kingdom of God.",
+        "refs": [
+          "Rev 11:15",
+          "Obad 1:21"
+        ]
+      }
+    ],
+    "jesusLens": "Obadiah does not mention a Messiah, but its closing line points where the Gospels begin: 'the kingdom shall be the LORD's' (Obad 1:21), and Jesus announces 'the kingdom of God is at hand' (Mark 1:15). Christians have often noted the irony that an Edomite, Herod the Great, tried to kill the infant Jesus, son of Jacob's line (Matt 2:16), and that Jesus' kingdom overturns the violence of brother against brother by calling enemies into one family (Eph 2:14-16). Jewish readers hear the same verse as the hope of God's visible reign over all nations, still to come.",
+    "misreadings": [
+      {
+        "topic": "Obadiah as a decoder for modern nations",
+        "popular": "In some popular prophecy teaching, Edom in Obadiah is identified with a modern people or state (often Arabs, Palestinians or the nation of Jordan), and the book is read as a forecast of present-day Middle East conflict.",
+        "inContext": "Obadiah addresses a specific ancient kingdom for a specific act: its betrayal of Judah when Babylon sacked Jerusalem. Paul Raabe and Bert Dicou show that 'Edom' later became a symbol for any hostile power (Rome in rabbinic texts), but the book's own concern is God's justice for a betrayed brother and his worldwide kingship, not a map of modern geopolitics.",
+        "defence": "Dispensational writers reply that the 'day of the LORD on all nations' (Obad 1:15) looks beyond the 6th century to the end of history, so a future fulfilment is legitimate. Many evangelical commentators (e.g. Daniel Block, Leslie Allen) accept an end-time horizon while rejecting one-to-one identifications with modern ethnic groups, since the historical Edomites were absorbed into Judea and Nabataea.",
+        "whyItMatters": "Using Obadiah to target modern peoples risks turning a protest against brother-betrayal into a licence for hostility; the book's own logic warns that whoever gloats over another's ruin falls under the same judgment.",
+        "refs": [
+          "Obad 1:10-15",
+          "Obad 1:21",
+          "Ps 137:7"
+        ],
+        "scholars": [
+          "Paul R. Raabe",
+          "Bert Dicou",
+          "Daniel I. Block",
+          "Leslie C. Allen"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For survivors of Jerusalem's fall, who had watched neighbours and relatives profit from their ruin, Obadiah said: God saw every act, will judge it fairly, and has not abandoned Zion.",
+      "now": "Obadiah speaks to the bystander and the opportunist: standing aloof, gloating or profiting from someone else's disaster is itself a sin. It also comforts victims of betrayal that injustice will not have the last word, while reminding everyone that 'as you have done, it will be done to you'."
+    },
+    "sources": [
+      {
+        "author": "Paul R. Raabe",
+        "title": "Obadiah (Anchor Bible 24D)",
+        "year": 1996
+      },
+      {
+        "author": "Bert Dicou",
+        "title": "Edom, Israel's Brother and Antagonist",
+        "year": 1994
+      },
+      {
+        "author": "Leslie C. Allen",
+        "title": "The Books of Joel, Obadiah, Jonah and Micah (NICOT)",
+        "year": 1976
+      },
+      {
+        "author": "Daniel I. Block",
+        "title": "Obadiah: The Kingship Belongs to YHWH (Hearing the Message of Scripture)",
+        "year": 2013,
+        "confidence": "needs-verification"
+      }
+    ]
+  },
+  {
+    "id": "jonah",
+    "oneLine": "A story about a prophet who runs from God because he knows God is merciful, and is left with God's question about pity for a violent enemy city.",
+    "author": {
+      "name": "Anonymous (about Jonah son of Amittai)",
+      "who": "Jonah son of Amittai was a real prophet from Gath-hepher in Galilee who predicted Jeroboam II's victories (2 Kgs 14:25). The book is told about him in the third person by an unnamed narrator.",
+      "howWeKnow": "Jewish tradition (Talmud *Bava Batra* 15a) credits the 'Men of the Great Assembly' with writing down the Twelve; the book itself names no author. Its date is debated: some hold it reflects the 8th-century prophet's experience, many others see late Hebrew features and themes that suggest the Persian period.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Judah (date debated)",
+      "note": "No place is given. Most think the book was shaped in Judah, possibly after the exile, when Israel was thinking hard about its relationship with foreign nations.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israelite readers who knew Assyria as the destroyer of the northern kingdom",
+      "place": "Judah / Israel",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "Nineveh, Assyria's great city, was remembered as brutal; Nahum celebrates its fall. Jonah asks readers whether God may show mercy even to such an enemy, and whether they share God's heart or Jonah's.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -785,
+      "to": -760,
+      "note": "The story is set in the reign of Jeroboam II, when Jonah was active (2 Kgs 14:25), before Assyria's rise under Tiglath-pileser III."
+    },
+    "worldEvents": [
+      {
+        "year": -786,
+        "event": "Jeroboam II begins to reign; Jonah predicts the restoration of Israel's borders."
+      },
+      {
+        "year": -763,
+        "event": "Solar eclipse and revolts in Assyria; a period of Assyrian weakness that some link to Nineveh's openness to repentance (speculative)."
+      },
+      {
+        "year": -722,
+        "event": "Assyria destroys Samaria and deports Israel, making Nineveh the arch-enemy in Israel's memory."
+      },
+      {
+        "year": -705,
+        "event": "Sennacherib makes Nineveh his capital and enlarges it into a vast walled city."
+      },
+      {
+        "year": -612,
+        "event": "Nineveh is destroyed by Babylonians and Medes (the subject of Nahum)."
+      }
+    ],
+    "backdrop": "Nineveh, on the Tigris opposite modern Mosul, was one of Assyria's oldest and greatest cities, and from about 705 BC its capital. Assyrian kings boasted in their inscriptions of flaying rebels, impaling captives and stacking heads, and their palace reliefs (some now in the British Museum) show these scenes in stone. For Israelites, Nineveh meant the empire that destroyed Samaria and devastated Judah. When the book calls it 'that great city' it means both its size and its notoriety.\n\nThe story is set when Jonah was active under Jeroboam II, though the book was probably written later. Its form is debated. Many Christians and Jews have read it as history; Jesus refers to Jonah and the Ninevites in the same breath as the Queen of Sheba (Matt 12:41-42). Many modern scholars read it as a didactic story or prophetic parable, pointing to features such as the exaggerated size of Nineveh ('three days' journey'), the unnamed 'king of Nineveh' (Assyrian kings were called king of Assyria), animals in sackcloth, and the irony-filled plot. Both camps agree on the main thing: the book is crafted with great skill to make a theological point.\n\nThat point comes in chapter 4. Jonah fled not from fear but because he knew God was 'gracious and merciful, slow to anger and abounding in steadfast love' (Jonah 4:2), the creed of Exodus 34. He wanted justice for Nineveh, not mercy. The book ends without his answer to God's question, leaving readers to supply their own.",
+    "culture": [
+      {
+        "term": "Tarshish",
+        "explain": "A distant port in the far west, perhaps Tartessos in Spain. Fleeing there meant going as far as possible in the opposite direction from Nineveh in the east.",
+        "refs": [
+          "Jonah 1:3",
+          "Ps 72:10"
+        ]
+      },
+      {
+        "term": "The sea as chaos",
+        "explain": "For Israel the sea stood for chaotic forces only God could control. The storm, the sailors' terror and the great fish all show God as master of creation.",
+        "refs": [
+          "Jonah 1:4",
+          "Jonah 1:17",
+          "Ps 89:9"
+        ]
+      },
+      {
+        "term": "Pagans who fear God",
+        "explain": "The sailors pray, try to save Jonah, then 'fear the LORD' and offer vows; the Ninevites repent at a five-word sermon. Outsiders respond better than the prophet.",
+        "refs": [
+          "Jonah 1:14-16",
+          "Jonah 3:5-9"
+        ]
+      },
+      {
+        "term": "Sackcloth and fasting",
+        "explain": "Coarse goat-hair cloth and fasting were public signs of mourning and repentance across the ancient Near East; even the animals join in, a comic and moving touch.",
+        "refs": [
+          "Jonah 3:5-8"
+        ]
+      },
+      {
+        "term": "God relenting",
+        "explain": "Prophecies of doom were often conditional warnings. When Nineveh turned from violence, God 'relented' from the disaster, as Jeremiah 18 describes.",
+        "refs": [
+          "Jonah 3:9-10",
+          "Jer 18:7-8"
+        ]
+      },
+      {
+        "term": "Satire and irony",
+        "explain": "The book exaggerates for effect: a 'great' fish, a 'great' city, a prophet 'exceedingly' angry over a plant. Irony invites readers to laugh at Jonah and then see themselves.",
+        "refs": [
+          "Jonah 4:1",
+          "Jonah 4:6-11"
+        ]
+      }
+    ],
+    "jewishLens": "The whole book of Jonah is read as the haftarah at the afternoon (Minchah) service of Yom Kippur, the holiest day of the Jewish year, followed by Micah 7:18-20 ('Who is a God like you, pardoning iniquity'). At the climax of a day of fasting and confession, Israel hears of pagan sailors who pray, a city that repents in sackcloth, and a God who relents. The message is that teshuvah (repentance) works, that no one is beyond it, and that one cannot run from God, a theme the medieval commentators drew from Jonah's flight 'from the presence of the LORD'.\n\nRabbinic tradition also asked why Jonah fled. One answer (in the *Mekhilta* and later Rashi) is that Jonah feared that Nineveh's quick repentance would shame Israel, which had not repented at the words of its prophets; another is that he was protecting his own reputation as a true prophet. Midrash identifies Jonah with the son of the widow of Zarephath whom Elijah raised (Jerusalem Talmud *Sukkah* 5:1), and *Pirkei de-Rabbi Eliezer* expands the fish episode richly. Uriel Simon's JPS commentary sums up the Jewish reading: the book teaches that God's compassion extends to all his creatures, and that justice and mercy must be held together.",
+    "flow": [
+      {
+        "label": "Called and running",
+        "detail": "Told to go east to Nineveh, Jonah boards a ship west to Tarshish.",
+        "refs": [
+          "Jonah 1:1-3"
+        ]
+      },
+      {
+        "label": "Storm and sailors",
+        "detail": "God hurls a storm; the pagan sailors pray, learn the truth, reluctantly throw Jonah overboard, and worship the LORD.",
+        "refs": [
+          "Jonah 1:4-16"
+        ]
+      },
+      {
+        "label": "Inside the great fish",
+        "detail": "God appoints a fish; Jonah prays a psalm of rescue and is spat onto dry land.",
+        "refs": [
+          "Jonah 1:17",
+          "Jonah 2:1-10"
+        ]
+      },
+      {
+        "label": "Nineveh repents",
+        "detail": "Jonah preaches a five-word warning; the whole city, king and cattle, fasts and turns from violence, and God relents.",
+        "refs": [
+          "Jonah 3:1-10"
+        ]
+      },
+      {
+        "label": "The angry prophet",
+        "detail": "Jonah explains he fled because he knew God was merciful, and asks to die.",
+        "refs": [
+          "Jonah 4:1-4"
+        ]
+      },
+      {
+        "label": "The plant and the question",
+        "detail": "God grows and withers a shade plant, then asks: if you pity a plant, should I not pity this great city?",
+        "refs": [
+          "Jonah 4:5-11"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Jonah: should I not pity?",
+      "branches": [
+        {
+          "label": "Jonah",
+          "items": [
+            "Runs from God",
+            "Prays from the deep",
+            "Angry at mercy"
+          ]
+        },
+        {
+          "label": "Outsiders",
+          "items": [
+            "Praying sailors",
+            "Repenting Ninevites",
+            "Cattle in sackcloth"
+          ]
+        },
+        {
+          "label": "God",
+          "items": [
+            "Hurls storm",
+            "Appoints fish, plant, worm",
+            "Relents from disaster",
+            "Asks the last question"
+          ]
+        },
+        {
+          "label": "Big themes",
+          "items": [
+            "Mercy to enemies",
+            "Repentance",
+            "God over all nations"
+          ]
+        },
+        {
+          "label": "Reading it",
+          "items": [
+            "History or parable?",
+            "Satire and irony",
+            "Read on Yom Kippur"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Great",
+        "original": "gadol",
+        "meaning": "Used over a dozen times: great city, great wind, great fish, great fear, great anger. The book plays with what is truly 'great' in God's eyes.",
+        "refs": [
+          "Jonah 1:2",
+          "Jonah 1:17",
+          "Jonah 4:1",
+          "Jonah 4:11"
+        ]
+      },
+      {
+        "word": "Evil / disaster",
+        "original": "ra'ah",
+        "meaning": "Means both moral evil and calamity. Nineveh turns from its evil, God turns from the disaster, and Jonah is 'greatly displeased' (literally, it was evil to him).",
+        "refs": [
+          "Jonah 1:2",
+          "Jonah 3:10",
+          "Jonah 4:1"
+        ]
+      },
+      {
+        "word": "Appoint",
+        "original": "manah",
+        "meaning": "God 'appoints' a fish, a plant, a worm and an east wind, showing quiet control over creation.",
+        "refs": [
+          "Jonah 1:17",
+          "Jonah 4:6-8"
+        ]
+      },
+      {
+        "word": "Pity / spare",
+        "original": "chus",
+        "meaning": "To feel compassion and spare; the key word of God's closing question.",
+        "refs": [
+          "Jonah 4:10-11"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-kings",
+        "how": "Kings names Jonah son of Amittai as a prophet who announced Israel's expansion under Jeroboam II, the only other mention of him in the OT.",
+        "refs": [
+          "2 Kgs 14:25"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "Jonah quotes God's self-revelation at Sinai, but uses it as a complaint.",
+        "refs": [
+          "Exod 34:6-7",
+          "Jonah 4:2"
+        ]
+      },
+      {
+        "bookId": "nahum",
+        "how": "Nahum announces Nineveh's destruction a century later; the two books together show mercy offered and judgment when cruelty resumes.",
+        "refs": [
+          "Nah 1:1-3",
+          "Nah 3:1"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah states the principle Jonah's story illustrates: when a nation turns from evil, God relents.",
+        "refs": [
+          "Jer 18:7-10"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus calls his resurrection 'the sign of Jonah' and says the Ninevites will judge his generation for not repenting.",
+        "refs": [
+          "Matt 12:38-41",
+          "Luke 11:29-32"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "The elder brother in the parable of the prodigal son resembles Jonah: angry that mercy is shown, and left with an open question.",
+        "refs": [
+          "Luke 15:25-32"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus gives 'the sign of Jonah': as Jonah was three days and three nights in the fish, so the Son of Man will be in the heart of the earth (Matt 12:40). He adds that 'something greater than Jonah is here' (Matt 12:41), contrasting a reluctant prophet with himself, who goes willingly to his death for others. Christians also see in Jonah a foreshadowing of the gospel going to the nations: Jesus sends his followers to all peoples, and Peter, called in Joppa (the very port Jonah fled from), is the one sent to the Gentile Cornelius (Acts 10:5-35). Jewish readers emphasise instead that the book belongs to Israel's own call to repentance and to its universal vision of God's mercy.",
+    "misreadings": [
+      {
+        "topic": "Jonah as just a fish story (or just a debate about the fish)",
+        "popular": "In popular culture and children's ministry Jonah is 'the man swallowed by a whale', a lesson about obeying God; in apologetics it is often reduced to arguing whether a man could survive inside a fish.",
+        "inContext": "The fish takes up three verses. The book's climax is chapter 4: Jonah is angry because God is merciful to Israel's enemies. Scholars such as Phyllis Trible, Jack Sasson and Uriel Simon show that the narrative is carefully built to expose the reader's own resentment of grace. Whether read as history or parable, its target is an Israelite (and any believer) who wants God's love for 'us' and his judgment for 'them'.",
+        "defence": "Evangelical scholars such as T. Desmond Alexander and Douglas Stuart defend reading Jonah as history, noting Jesus' reference to the Ninevites' repentance as real (Matt 12:41) and the book's narrative form. They agree, however, that the fish is a means, not the message, and that chapter 4 is the heart of the book. Others (e.g. John Walton, Tremper Longman) accept that its genre may be debated without denying its truth.",
+        "whyItMatters": "Seeing the real climax turns Jonah from a children's tale into one of the sharpest challenges in Scripture: do we want God to be merciful to people we fear or hate?",
+        "refs": [
+          "Jonah 1:17",
+          "Jonah 4:1-11",
+          "Matt 12:40-41"
+        ],
+        "scholars": [
+          "Phyllis Trible",
+          "Jack M. Sasson",
+          "Uriel Simon",
+          "T. Desmond Alexander",
+          "Douglas Stuart"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For Israelites who had suffered at Assyria's hands, Jonah was a hard word: God's mercy is not Israel's private property, and his prophets are called to carry it even to enemies. After the exile it also challenged any tendency to define faithfulness by distance from foreigners.",
+      "now": "Jonah asks readers how they feel when God is kind to people they think deserve punishment. It shows that it is possible to obey outwardly and still resent God's heart, and it leaves an open question each reader must answer."
+    },
+    "sources": [
+      {
+        "author": "Jack M. Sasson",
+        "title": "Jonah (Anchor Bible 24B)",
+        "year": 1990
+      },
+      {
+        "author": "Uriel Simon",
+        "title": "Jonah (JPS Bible Commentary)",
+        "year": 1999
+      },
+      {
+        "author": "Phyllis Trible",
+        "title": "Rhetorical Criticism: Context, Method, and the Book of Jonah",
+        "year": 1994
+      },
+      {
+        "author": "T. Desmond Alexander, David W. Baker and Bruce K. Waltke",
+        "title": "Obadiah, Jonah, Micah (Tyndale Old Testament Commentaries)",
+        "year": 1988
+      }
+    ]
+  },
+  {
+    "id": "micah",
+    "oneLine": "A country prophet indicts Jerusalem's leaders for devouring the poor, foresees Zion ploughed like a field, yet promises a shepherd-king from little Bethlehem and a God who delights in mercy.",
+    "author": {
+      "name": "Micah of Moresheth",
+      "who": "A prophet from Moresheth-gath, a small town in the Shephelah (lowlands) south-west of Jerusalem, near the Philistine border. His name means 'Who is like the LORD?', which the book's last chapter plays on (Mic 7:18). He was a contemporary of Isaiah but a rural voice speaking against the capital.",
+      "howWeKnow": "The heading (Mic 1:1) and a remarkable cross-reference: a century later, elders defending Jeremiah quoted Micah 3:12 and recalled that King Hezekiah responded to it (Jer 26:17-19).",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Moresheth-gath and Jerusalem",
+      "coords": [
+        34.92,
+        31.6
+      ],
+      "note": "Micah came from the lowland town but delivered his oracles against Jerusalem and Samaria; his words were preserved and expanded in Judah.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Judah's leaders (rulers, priests, prophets) and people, and Samaria",
+      "place": "Jerusalem and the towns of the Shephelah",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "Wealthy landowners were seizing family fields, leaders 'ate the flesh' of the people, and prophets preached peace for pay. Assyria destroyed Samaria and then swept through Micah's own region in 701 BC.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -734,
+        "event": "Ahaz of Judah becomes an Assyrian vassal during the Syro-Ephraimite war."
+      },
+      {
+        "year": -722,
+        "event": "Samaria falls to Assyria, as Micah foresaw (Mic 1:6)."
+      },
+      {
+        "year": -715,
+        "event": "Hezekiah becomes sole king of Judah (approximate) and begins religious reforms."
+      },
+      {
+        "year": -701,
+        "event": "Sennacherib invades Judah, takes Lachish and many towns of the Shephelah, and besieges Jerusalem."
+      }
+    ],
+    "backdrop": "Micah's home region, the Shephelah, was Judah's breadbasket and buffer zone. It lay on the route any army from the coast would take toward Jerusalem. The towns he laments in chapter 1, with wordplays on their names (Mic 1:10-15), include Lachish, Judah's second city. In 701 BC Sennacherib took Lachish after a siege that he celebrated in huge stone reliefs for his palace at Nineveh; his annals claim he captured forty-six fortified cities of Judah. For Micah's neighbours, his warnings came true in their lifetimes.\n\nInside Judah the problem was land. Israel's Torah treated family land as an inheritance from God that should stay in the clan (Lev 25:23; Num 27:7-11). In Micah's day powerful people 'covet fields and seize them, and houses, and take them away' (Mic 2:2), turning free farmers into tenants or debt slaves. Judges, priests and prophets all worked for payment (Mic 3:11), while assuring everyone that 'the LORD is among us; no disaster will come'.\n\nThe book alternates between doom and hope three times (Mic 1-2, Mic 3-5, Mic 6-7). Scholars debate how much of the hope comes from Micah and how much from later disciples, but the structure itself makes a point: God's judgment is real, and so is his determination to gather a remnant and bring peace.",
+    "culture": [
+      {
+        "term": "Family land (nachalah)",
+        "explain": "Land was a God-given inheritance, the basis of a household's freedom and place in the covenant. Seizing it was not just theft but an attack on the family's identity.",
+        "refs": [
+          "Mic 2:1-2",
+          "Lev 25:23",
+          "1 Kgs 21:3"
+        ]
+      },
+      {
+        "term": "Covenant lawsuit (rib)",
+        "explain": "Chapter 6 is staged as a court case with the mountains as jury. God, the plaintiff, asks what he has done wrong and recites his saving acts.",
+        "refs": [
+          "Mic 6:1-5"
+        ]
+      },
+      {
+        "term": "Prophets for hire",
+        "explain": "Some prophets gave favourable oracles to those who fed them. Micah contrasts them with his own Spirit-given courage to name sin.",
+        "refs": [
+          "Mic 3:5-8",
+          "Mic 2:11"
+        ]
+      },
+      {
+        "term": "Shepherd-king",
+        "explain": "Kings were called shepherds. Micah promises a ruler from Bethlehem, David's humble hometown, who will shepherd in the LORD's strength rather than in Jerusalem's proud style.",
+        "refs": [
+          "Mic 5:2-4",
+          "1 Sam 16:11-13"
+        ]
+      },
+      {
+        "term": "Vine and fig tree",
+        "explain": "Sitting under one's own vine and fig tree was a picture of secure family life on one's own land, the opposite of land-grabbing and war.",
+        "refs": [
+          "Mic 4:4",
+          "1 Kgs 4:25"
+        ]
+      },
+      {
+        "term": "Wordplay laments",
+        "explain": "In Mic 1:10-15 each town's name is punned on (like 'Dust-town, roll in the dust'), a form of mourning song that made the warnings memorable when performed aloud.",
+        "refs": [
+          "Mic 1:10-16"
+        ]
+      }
+    ],
+    "jewishLens": "Micah's closing words are some of the most used in Jewish worship. Micah 7:18-20 ('Who is a God like you, who pardons iniquity... you will cast all their sins into the depths of the sea') is read at the end of the Yom Kippur afternoon haftarah after Jonah, and on Rosh Hashanah it forms the heart of Tashlikh, the custom of going to flowing water and symbolically casting sins away. Its last verse, 'You will show faithfulness to Jacob and steadfast love (hesed) to Abraham, as you swore to our fathers', grounds forgiveness in God's covenant loyalty to the patriarchs.\n\nMicah 5:6-6:8 (Hebrew numbering) is the haftarah for parashat Balak, because Micah 6:5 recalls Balak and Balaam. The Talmud (*Makkot* 24a) says Micah summed up the whole Torah in three principles: do justice, love kindness, walk humbly with your God (Mic 6:8). In Jewish reading this verse does not replace the commandments but expresses their heart; 'walk humbly' (hatzne'a lekhet) is applied to modest, private acts of charity and to quiet faithfulness. The vision of nations streaming to Zion to learn Torah and beating swords into ploughshares (Mic 4:1-4) shapes Jewish messianic hope for a world at peace under God's instruction.",
+    "flow": [
+      {
+        "label": "God comes down",
+        "detail": "The LORD descends in judgment on Samaria and Jerusalem; Micah laments the lowland towns.",
+        "refs": [
+          "Mic 1:1-16"
+        ]
+      },
+      {
+        "label": "Land-grabbers and false prophets",
+        "detail": "Woe to those who plot to seize fields; the people prefer prophets of wine and beer. A remnant will be gathered like sheep.",
+        "refs": [
+          "Mic 2:1-13"
+        ]
+      },
+      {
+        "label": "Zion ploughed like a field",
+        "detail": "Rulers who devour the people and prophets for hire will bring Jerusalem to ruin.",
+        "refs": [
+          "Mic 3:1-12"
+        ]
+      },
+      {
+        "label": "Nations stream to Zion",
+        "detail": "In the latter days God's mountain is exalted, Torah goes out, and weapons become farm tools.",
+        "refs": [
+          "Mic 4:1-8"
+        ]
+      },
+      {
+        "label": "Ruler from Bethlehem",
+        "detail": "After siege and exile, a shepherd from Bethlehem will bring peace and security.",
+        "refs": [
+          "Mic 5:2-5"
+        ]
+      },
+      {
+        "label": "God's lawsuit",
+        "detail": "God recalls the exodus and asks for justice, kindness and humility, not more sacrifices.",
+        "refs": [
+          "Mic 6:1-8"
+        ]
+      },
+      {
+        "label": "Who is like God?",
+        "detail": "In a collapsed society Micah waits for God, and the book ends praising a God who pardons and keeps his oath to Abraham.",
+        "refs": [
+          "Mic 7:1-7",
+          "Mic 7:18-20"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Micah: who is like the LORD?",
+      "branches": [
+        {
+          "label": "Injustice",
+          "items": [
+            "Fields seized",
+            "Leaders devour people",
+            "Judges take bribes"
+          ]
+        },
+        {
+          "label": "False security",
+          "items": [
+            "Prophets for hire",
+            "'The LORD is among us'",
+            "Zion ploughed"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Remnant gathered",
+            "Nations learn Torah",
+            "Swords to ploughshares"
+          ]
+        },
+        {
+          "label": "The king",
+          "items": [
+            "From little Bethlehem",
+            "Shepherd in God's strength",
+            "He is our peace"
+          ]
+        },
+        {
+          "label": "What God wants",
+          "items": [
+            "Do justice",
+            "Love hesed",
+            "Walk humbly"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Justice",
+        "original": "mishpat",
+        "meaning": "Fair treatment and right order, which leaders should 'know' and instead hate.",
+        "refs": [
+          "Mic 3:1",
+          "Mic 3:8-9",
+          "Mic 6:8"
+        ]
+      },
+      {
+        "word": "Steadfast love",
+        "original": "hesed",
+        "meaning": "Covenant kindness and loyalty; Micah asks people to love it, and ends by saying God delights in it.",
+        "refs": [
+          "Mic 6:8",
+          "Mic 7:18",
+          "Mic 7:20"
+        ]
+      },
+      {
+        "word": "Remnant",
+        "original": "she'erit",
+        "meaning": "The survivors God gathers and forgives after judgment.",
+        "refs": [
+          "Mic 2:12",
+          "Mic 4:7",
+          "Mic 7:18"
+        ]
+      },
+      {
+        "word": "Shepherd",
+        "original": "ra'ah",
+        "meaning": "To tend a flock; used for God and for the coming king who gathers and leads.",
+        "refs": [
+          "Mic 5:4",
+          "Mic 7:14"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "isaiah",
+        "how": "Micah 4:1-3 is almost identical to Isaiah 2:2-4; both contemporaries shared the vision of nations coming to Zion.",
+        "refs": [
+          "Mic 4:1-3",
+          "Isa 2:2-4"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Elders save Jeremiah's life by citing Micah's prophecy against Jerusalem and Hezekiah's repentant response.",
+        "refs": [
+          "Jer 26:17-19",
+          "Mic 3:12"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "The chief priests cite Micah 5:2 to tell Herod the Messiah will be born in Bethlehem; Jesus also quotes Micah's picture of families divided.",
+        "refs": [
+          "Matt 2:4-6",
+          "Matt 10:35-36",
+          "Mic 7:6"
+        ]
+      },
+      {
+        "bookId": "numbers",
+        "how": "Micah reminds Israel of Balak and Balaam as an example of God's saving acts.",
+        "refs": [
+          "Mic 6:5",
+          "Num 22:1-6"
+        ]
+      },
+      {
+        "bookId": "jonah",
+        "how": "In Jewish liturgy Micah 7:18-20 follows Jonah on Yom Kippur, both celebrating a God who pardons.",
+        "refs": [
+          "Mic 7:18-20",
+          "Jonah 4:2"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Jesus' warnings against those who 'devour widows' houses' echo Micah's indictment of land-grabbing leaders.",
+        "refs": [
+          "Luke 20:46-47",
+          "Mic 2:2"
+        ]
+      }
+    ],
+    "jesusLens": "Matthew cites Micah 5:2 to show that the Messiah came from Bethlehem, David's town (Matt 2:6; compare John 7:42). Micah describes this ruler as a shepherd who will be 'great to the ends of the earth' and 'our peace' (Mic 5:4-5), language Christians apply to Jesus the good shepherd who 'is our peace' (John 10:11; Eph 2:14). The phrase about his origins 'from of old, from ancient days' (Mic 5:2) is read by many Christians as hinting at pre-existence; others, including Jewish interpreters, read it as pointing to David's ancient line. Jewish tradition (for example the Targum) also reads Mic 5:2 messianically, as the Messiah from David's house. Micah 7:20's promise of faithfulness to Abraham is echoed in Zechariah's song at John the Baptist's birth (Luke 1:72-73).",
+    "misreadings": [
+      {
+        "topic": "Micah 6:8 as all religion needs, or as an impossible standard",
+        "popular": "Micah 6:8 is quoted in two opposite ways: as a slogan meaning 'God just wants good people, not doctrine or worship', or, in some evangelical preaching, as a moral standard no one can meet, meant to drive people to grace.",
+        "inContext": "The verse answers a covenant lawsuit in which God first recalls what he has done: brought Israel out of Egypt, sent Moses, Aaron and Miriam, protected them from Balaam (Mic 6:3-5). Justice, hesed and humble walking are the fitting response of a rescued people to their rescuer, within the relationship. Scholars like Bruce Waltke and Francis Andersen stress this covenant framing; Jewish tradition reads it as the heart of Torah, not a replacement for it.",
+        "defence": "Evangelical scholars agree the verse assumes grace already given, and that it is not a list of entrance requirements. Some (e.g. Waltke) also note that Israel's history shows how short people fall, so the verse naturally leads to Micah 7:18-20 and God's pardon. Both the moralist and the despair readings miss that grace and response belong together.",
+        "whyItMatters": "Read in context, Micah 6:8 is neither a substitute for God nor a trap, but the shape of a life that answers God's saving love with justice and loyalty.",
+        "refs": [
+          "Mic 6:1-8",
+          "Mic 7:18-20"
+        ],
+        "scholars": [
+          "Bruce K. Waltke",
+          "Francis I. Andersen",
+          "David Noel Freedman",
+          "Delbert R. Hillers"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Micah 5:2 only as a Christmas proof-text",
+        "popular": "Micah 5:2 is known almost only as a Christmas prophecy proving that Jesus was the Messiah because he was born in Bethlehem.",
+        "inContext": "Micah's point is about the kind of king: in contrast to Jerusalem's corrupt rulers (Mic 3:1-3), God will raise a ruler from humble Bethlehem, David's origin, who shepherds in God's strength and brings peace after siege and exile. Andersen & Freedman and Hillers stress the anti-establishment contrast.",
+        "defence": "Evangelical scholars (e.g. Waltke, Kenneth Barker) affirm that Matthew rightly sees Jesus as the fulfilment and that Jewish interpreters themselves read the verse of the Messiah (Matt 2:4-6 shows the priests did). They agree the birthplace matters less than what kind of shepherd-king he is.",
+        "whyItMatters": "The fuller reading shows the Messiah as the answer to abusive power, not only a fulfilled prediction.",
+        "refs": [
+          "Mic 3:1-3",
+          "Mic 5:2-5",
+          "Matt 2:4-6"
+        ],
+        "scholars": [
+          "Francis I. Andersen",
+          "Delbert R. Hillers",
+          "Bruce K. Waltke"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Micah warned Jerusalem's elite that religious privilege would not save a city built on exploitation, and his warning moved Hezekiah to repent (Jer 26:19). After the exile, his promises gave a remnant hope of return, peace and a true king.",
+      "now": "Micah speaks to the misuse of power, the loss of homes and land to the powerful, and preachers who tell people what they want to hear. It also offers one of Scripture's clearest summaries of a faithful life and a closing picture of a God who throws sins into the sea."
+    },
+    "sources": [
+      {
+        "author": "Bruce K. Waltke",
+        "title": "A Commentary on Micah",
+        "year": 2007
+      },
+      {
+        "author": "Francis I. Andersen and David Noel Freedman",
+        "title": "Micah (Anchor Bible 24E)",
+        "year": 2000
+      },
+      {
+        "author": "Delbert R. Hillers",
+        "title": "Micah (Hermeneia)",
+        "year": 1984
+      },
+      {
+        "author": "Adele Berlin and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Study Bible, 2nd ed.",
+        "year": 2014
+      }
+    ]
+  }
+]

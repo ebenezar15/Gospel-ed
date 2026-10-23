@@ -1,0 +1,2337 @@
+[
+  {
+    "id": "job",
+    "oneLine": "A blameless man loses everything, refuses the tidy explanations of his friends, argues his case to God's face, and meets God himself, who answers not with reasons but with the vastness of creation.",
+    "author": {
+      "name": "Unknown Israelite poet",
+      "who": "A highly educated writer, at home in rare Hebrew words, international wisdom traditions and the courtroom language of lawsuits. He deliberately set his story outside Israel, among 'the people of the east', so that its question belongs to every human being.",
+      "howWeKnow": "The book names no author. Its heading simply says 'There was a man in the land of Uz' (Job 1:1), which reads like the opening of a told story. The Talmud records both a view that Moses wrote it and a view that Job 'never existed but was a parable' (Bava Batra 15a); both show that ancient readers were already unsure. Modern dates rest on language, on parallels with Mesopotamian texts about suffering, and on the book's conversation with Proverbs, Psalms and the prophets.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Judah or the Judean exile; unknown",
+      "note": "Nothing in the book fixes its place of writing. The non-Israelite setting (Uz, Teman, Shuah, Naamah) points to the Edom and northern Arabia region, an area known in the Bible for its wise men (Jer 49:7; Obad 1:8).",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "Israelites trained in wisdom, and anyone suffering without explanation",
+      "place": "Judah or the exile community",
+      "situation": "Israel's wisdom teachers taught that the righteous flourish and the wicked fall (Prov 3:1-2). Real life, and especially the catastrophe of exile, made that look too simple. Job gives a hearing to the protest of an innocent sufferer and puts the comfortable theory itself on trial.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": -1000,
+        "event": "Mesopotamian scribes copy *Ludlul bel nemeqi* ('I will praise the lord of wisdom'), a monologue by a righteous sufferer later restored by Marduk."
+      },
+      {
+        "year": -800,
+        "event": "The *Babylonian Theodicy*, an acrostic dialogue between a sufferer and a friend about divine justice, is composed (dating approximate)."
+      },
+      {
+        "year": -586,
+        "event": "Babylon destroys Jerusalem; the question 'why do the righteous suffer?' becomes a national question."
+      },
+      {
+        "year": -539,
+        "event": "Cyrus of Persia takes Babylon; many scholars place the final shaping of Job in the exilic or early Persian period."
+      }
+    ],
+    "backdrop": "Job is set in a world that feels older than Moses. There is no temple, no Torah, no Israel. Job offers sacrifices himself as head of his household (Job 1:5), measures wealth in flocks and servants, and lives to 140 (Job 42:16), like the patriarchs. This 'once upon a time' setting is deliberate: it lifts the story out of any one moment in Israel's history so that it can speak to all of them.\n\nThe book belongs to a wider ancient conversation. Mesopotamian texts such as *Ludlul bel nemeqi* and the *Babylonian Theodicy* also describe a pious man struck down by sickness and social ruin. What makes Job different is its shape: a prose folk tale wraps around a long poetic debate (Job 3-42:6), and the poetry refuses the happy resolution until God himself speaks. In the ancient parallels the gods restore the sufferer; in Job the deeper issue is whether a human being will love God 'for nothing' (Job 1:9).\n\nThe central debate is a clash between an honest sufferer and a theory. Job's friends hold a version of retribution theology: God rewards the righteous and punishes the wicked in this life, so great suffering must mean hidden sin (Job 4:7-8; Job 8:3-6). That idea was not foolish; it is a fair summary of many proverbs and of the covenant blessings and curses (Deut 28). The problem is that they make a general truth into a rule that explains every case. Job knows he is innocent, and the reader knows it too, because God himself said so (Job 1:8).\n\nThe Hebrew of the poetry is among the hardest in the Bible, with more rare words than any other book. Translations differ widely in places, and the Greek translation is about a sixth shorter than the Hebrew. Readers should expect footnotes and should hold some verses loosely.",
+    "culture": [
+      {
+        "term": "The heavenly court and 'the satan'",
+        "explain": "The Hebrew is *ha-satan*, 'the accuser' or 'the adversary', with the definite article, more like a job title than a personal name. He appears among the 'sons of God' (heavenly beings) presenting themselves before the LORD, like officials at a royal court, and acts as a kind of prosecutor who questions Job's motives. Later Jewish and Christian tradition identified him with the devil; the book itself keeps the focus on God's sovereignty.",
+        "refs": [
+          "Job 1:6-12",
+          "Job 2:1-7",
+          "Zech 3:1-2"
+        ]
+      },
+      {
+        "term": "Honour and public shame",
+        "explain": "Job's loss is not only pain but disgrace. He once sat at the city gate as a respected elder (Job 29:7-10); now young men mock him and spit at him (Job 30:1-10). In an honour culture, suffering looked like public evidence of God's disfavour, which is why the friends' explanation stung so badly.",
+        "refs": [
+          "Job 29:7-25",
+          "Job 30:1-10"
+        ]
+      },
+      {
+        "term": "Mourning customs and comfort",
+        "explain": "The friends tear their robes, throw dust on their heads and sit with Job on the ground for seven days in silence (the length of a funeral mourning). This was right; their mistake began when they started explaining.",
+        "refs": [
+          "Job 2:11-13",
+          "Gen 50:10"
+        ]
+      },
+      {
+        "term": "Lawsuit language",
+        "explain": "Job speaks like a man filing a legal case. He wants an umpire or arbiter between himself and God (Job 9:33), a witness in heaven (Job 16:19), a redeemer to stand up for him (Job 19:25), and he signs his final oath of innocence like a legal document: 'here is my signature' (Job 31:35).",
+        "refs": [
+          "Job 9:32-35",
+          "Job 16:19-21",
+          "Job 31:35-37"
+        ]
+      },
+      {
+        "term": "Behemoth and Leviathan",
+        "explain": "God's second speech points to two great creatures. Behemoth is often linked with the hippopotamus and Leviathan with the crocodile, but both also carry the colour of ancient sea-and-chaos monsters (compare Ugaritic Lotan). God's point is that what humans cannot tame, he made and governs.",
+        "refs": [
+          "Job 40:15-24",
+          "Job 41:1-11",
+          "Ps 74:13-14",
+          "Isa 27:1"
+        ]
+      },
+      {
+        "term": "The 'fear of God' outside Israel",
+        "explain": "Job is not an Israelite, yet he 'fears God and turns away from evil' (Job 1:1). Like Melchizedek or Jethro, he shows that the God of Israel is known and honoured beyond Israel, and that wisdom's core is reverence for God.",
+        "refs": [
+          "Job 1:1",
+          "Job 28:28",
+          "Prov 1:7"
+        ]
+      }
+    ],
+    "jewishLens": "Jewish tradition has treated Job with both admiration and argument. The Talmud preserves a discussion of when Job lived, ranging from the time of the patriarchs to the return from exile, and the striking view of Resh Lakish that Job 'never existed but was a parable' (Bava Batra 15a); either way, the rabbis took its question seriously. Some rabbis praised Job as a God-fearer even greater than Abraham; others criticised his bitter words against heaven. Job is one of the few books that may be studied on Tisha B'Av, the fast mourning the temple's destruction, because its subject is grief.\n\nRead within Israel's covenant story, Job tests a misunderstanding of the covenant rather than the covenant itself. Deuteronomy promised blessing for faithfulness and curse for unfaithfulness (Deut 28), and many Israelites heard that as a strict formula. Job shows that the relationship with God is deeper than a contract of rewards: Job keeps addressing God, even accusingly, when God seems absent, and that persistent speaking-to-God is itself loyalty. God's verdict at the end is startling: Job, who protested, 'spoke what is right' about God, while the friends, who defended God with neat theology, did not (Job 42:7-8).\n\nMedieval Jewish thinkers made Job a test case for providence. Saadia Gaon read it as a book about trials that refine; Maimonides (*Guide for the Perplexed* 3.22-23) read Job as moving from moral uprightness to true knowledge of God, after which his suffering no longer overwhelms him. The Aramaic Targum of Job found among the Dead Sea Scrolls (11QtgJob) shows the book was studied and translated by Jews before the time of Jesus.",
+    "flow": [
+      {
+        "label": "Heaven tests a blameless man",
+        "detail": "The accuser asks whether Job serves God 'for nothing'. Job loses wealth, children and health, yet blesses God.",
+        "refs": [
+          "Job 1:1-2:10"
+        ]
+      },
+      {
+        "label": "Silence, then a curse on birth",
+        "detail": "Three friends sit with him seven days. Then Job breaks the silence by cursing the day he was born.",
+        "refs": [
+          "Job 2:11-13",
+          "Job 3:1-26"
+        ]
+      },
+      {
+        "label": "Friends defend the theory",
+        "detail": "Eliphaz, Bildad and Zophar argue in three rounds that suffering means sin and urge Job to repent. Job insists on his innocence.",
+        "refs": [
+          "Job 4:7-8",
+          "Job 8:3-6",
+          "Job 22:5-9"
+        ]
+      },
+      {
+        "label": "Job appeals over their heads",
+        "detail": "Job longs for an arbiter, a heavenly witness and a living redeemer, and finally swears an oath of innocence demanding God answer.",
+        "refs": [
+          "Job 9:32-35",
+          "Job 19:25-27",
+          "Job 31:35-37"
+        ]
+      },
+      {
+        "label": "Where is wisdom found?",
+        "detail": "A poem says humans can mine silver but cannot dig up wisdom; only God knows its place. Elihu then argues that suffering can be God's discipline.",
+        "refs": [
+          "Job 28:12-28",
+          "Job 33:14-30"
+        ]
+      },
+      {
+        "label": "God speaks from the storm",
+        "detail": "God asks Job a torrent of questions about creation, from the sea's boundaries to the wild animals, and the monsters Behemoth and Leviathan.",
+        "refs": [
+          "Job 38:1-7",
+          "Job 40:15-24"
+        ]
+      },
+      {
+        "label": "Job sees and yields",
+        "detail": "Job says he had heard of God but now sees him, and withdraws his case.",
+        "refs": [
+          "Job 42:1-6"
+        ]
+      },
+      {
+        "label": "Friends rebuked, Job restored",
+        "detail": "God says the friends did not speak rightly as Job did; Job prays for them and his fortunes are restored double.",
+        "refs": [
+          "Job 42:7-17"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Job: faith without explanations",
+      "branches": [
+        {
+          "label": "The test",
+          "items": [
+            "Serving God for nothing?",
+            "The accuser's challenge",
+            "Losses in two waves"
+          ]
+        },
+        {
+          "label": "The friends",
+          "items": [
+            "Suffering equals sin",
+            "True ideas misapplied",
+            "Rebuked by God"
+          ]
+        },
+        {
+          "label": "Job's protest",
+          "items": [
+            "Curses his birth",
+            "Wants a fair hearing",
+            "Arbiter, witness, redeemer",
+            "Oath of innocence"
+          ]
+        },
+        {
+          "label": "God's answer",
+          "items": [
+            "Questions, not reasons",
+            "Creation's wild order",
+            "Behemoth and Leviathan"
+          ]
+        },
+        {
+          "label": "Resolution",
+          "items": [
+            "Seeing, not just hearing",
+            "Job prays for friends",
+            "Restored, not explained"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Blameless",
+        "original": "tam (תָּם)",
+        "meaning": "Whole, complete, of integrity; not sinless but undivided in loyalty to God. The related word *tummah*, 'integrity', is what Job refuses to let go of.",
+        "refs": [
+          "Job 1:1",
+          "Job 2:3",
+          "Job 27:5-6"
+        ]
+      },
+      {
+        "word": "For nothing",
+        "original": "hinnam (חִנָּם)",
+        "meaning": "Freely, without payment or reason. The accuser asks whether Job fears God 'for nothing'; later God says Job was ruined 'without reason'. The same word frames the whole test.",
+        "refs": [
+          "Job 1:9",
+          "Job 2:3"
+        ]
+      },
+      {
+        "word": "Redeemer",
+        "original": "go'el (גֹּאֵל)",
+        "meaning": "The next of kin who stands up for a family member, buys back land, frees a relative or avenges blood. Job is sure such a defender lives and will stand on the earth.",
+        "refs": [
+          "Job 19:25-27",
+          "Lev 25:25",
+          "Ruth 4:4-6"
+        ]
+      },
+      {
+        "word": "Wisdom",
+        "original": "hokhmah (חָכְמָה)",
+        "meaning": "Skill in living rightly in God's world. Job 28 insists that the deepest wisdom is not a technique humans can mine but a gift tied to the fear of the Lord.",
+        "refs": [
+          "Job 28:12-28"
+        ]
+      },
+      {
+        "word": "The adversary",
+        "original": "ha-satan (הַשָּׂטָן)",
+        "meaning": "'The accuser', a title for a member of the heavenly court who challenges Job's motives.",
+        "refs": [
+          "Job 1:6-12",
+          "Zech 3:1-2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "proverbs",
+        "how": "Proverbs teaches the general pattern that wisdom brings life; Job tests the hard cases where the pattern seems to fail. Both end at the same place: the fear of the Lord is wisdom.",
+        "refs": [
+          "Prov 1:7",
+          "Job 28:28"
+        ]
+      },
+      {
+        "bookId": "ecclesiastes",
+        "how": "Ecclesiastes shares Job's honesty about injustice under the sun and death that levels everyone.",
+        "refs": [
+          "Eccl 7:15",
+          "Eccl 8:14"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Job's protest prayers belong to the same family as the lament psalms, which also accuse God of absence and still speak to him.",
+        "refs": [
+          "Ps 88",
+          "Ps 22:1-2"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Job's patriarchal setting, long life and household sacrifices recall Abraham, another God-fearer tested by God.",
+        "refs": [
+          "Gen 22:1-2",
+          "Gen 22:12"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James holds up Job as an example of endurance and of the Lord's compassion and mercy at the end.",
+        "refs": [
+          "Jas 5:11"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul quotes Job's wording when praising God whom no one can put in debt.",
+        "refs": [
+          "Rom 11:35",
+          "Job 41:11"
+        ]
+      }
+    ],
+    "jesusLens": "Christians have heard in Job's longing for an arbiter who could 'lay his hand on us both' (Job 9:33) and a living redeemer (Job 19:25) an ache that the New Testament sees answered in Jesus, the one mediator between God and humanity (1 Tim 2:5). Jesus also embodies the innocent sufferer whom observers assume is cursed by God, and he prays a lament from the cross (Matt 27:46). Jewish readers do not read Job messianically; they see in the go'el God himself or a heavenly advocate. Both traditions agree that Job dismantles the idea that suffering always reveals the sufferer's guilt, something Jesus himself rejects (John 9:1-3).",
+    "misreadings": [
+      {
+        "topic": "Quoting Job's friends as God's word",
+        "popular": "Because every verse of Job is Scripture, a line such as 'whoever was innocent ever perished?' (Job 4:7) or 'God exacts of you less than your guilt deserves' (Job 11:6) can be quoted on its own as a true statement about how God works.",
+        "inContext": "The friends' speeches are inspired records of what they said, but God's final verdict is that they 'have not spoken of me what is right' (Job 42:7). Their individual sentences often sound like Proverbs; the error is applying a general pattern as a rule to Job's case. Commentators across traditions, from Carol Newsom to John Walton, read the speeches as voices in a debate that the book as a whole evaluates.",
+        "defence": "Evangelical scholars such as Walton and Tremper Longman agree with this. They add that many of the friends' statements are true in general (Paul even quotes Eliphaz in 1 Cor 3:19 from Job 5:13), so the issue is not that every word is false but that the friends used truth carelessly and without love.",
+        "whyItMatters": "Pastors and friends who quote the friends to sufferers repeat the very mistake God condemned. The book trains readers to ask who is speaking and how the book judges them.",
+        "refs": [
+          "Job 4:7-8",
+          "Job 11:6",
+          "Job 42:7-8",
+          "1 Cor 3:19"
+        ],
+        "scholars": [
+          "John Walton",
+          "Tremper Longman III",
+          "Carol Newsom",
+          "David Clines"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Job as a story about the devil's power",
+        "popular": "Job shows that Satan causes our sickness and losses, so the key response is spiritual warfare against the enemy.",
+        "inContext": "In Job, the adversary can do nothing without God's permission and disappears from the story after chapter 2. Job never learns about the heavenly scene, and God's speeches never mention the satan. The book's focus is Job's relationship with God, not a battle with the devil.",
+        "defence": "Many evangelical teachers rightly note that Scripture elsewhere does describe a real enemy (1 Pet 5:8) and that Job 1-2 shows evil is limited by God. Both sides agree the heavenly prologue reassures readers that suffering is not outside God's rule, even when we cannot see the reason.",
+        "whyItMatters": "Reading Job mainly as demonology can distract from its real comfort: that one may bring raw grief and protest straight to God and still be counted faithful.",
+        "refs": [
+          "Job 1:12",
+          "Job 2:6",
+          "Job 42:7"
+        ],
+        "scholars": [
+          "John Walton",
+          "Robert Alter"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For Israelites who had lost land, temple and king, Job gave permission to grieve honestly, warned against glib explanations, and pointed them to a God who is free, wise and present even when silent.",
+      "now": "Job teaches how to sit with sufferers before speaking, that lament is a form of faith rather than its failure, and that some suffering has no explanation we will be given. It also rebukes any prosperity message that treats health and wealth as proof of God's favour."
+    },
+    "sources": [
+      {
+        "author": "Carol A. Newsom",
+        "title": "The Book of Job: A Contest of Moral Imaginations",
+        "year": 2003
+      },
+      {
+        "author": "John H. Walton",
+        "title": "Job (NIV Application Commentary)",
+        "year": 2012
+      },
+      {
+        "author": "Robert Alter",
+        "title": "The Wisdom Books: Job, Proverbs, and Ecclesiastes",
+        "year": 2010
+      },
+      {
+        "author": "David J. A. Clines",
+        "title": "Job 1-20 (Word Biblical Commentary)",
+        "year": 1989
+      },
+      {
+        "author": "Moses Maimonides",
+        "title": "The Guide for the Perplexed",
+        "locator": "3.22-23",
+        "confidence": "scholarly-consensus"
+      }
+    ]
+  },
+  {
+    "id": "psalms",
+    "oneLine": "Israel's songbook and prayer book: 150 poems, gathered into five books, that teach God's people to praise, complain, confess, trust and wait for his King.",
+    "author": {
+      "name": "David and many others",
+      "who": "David, the shepherd-king and musician (1 Sam 16:23), heads the list, with 73 psalms headed 'of David'. Others are linked to Asaph and the sons of Korah (temple singers appointed in Chronicles), Solomon, Moses, Heman and Ethan. About fifty are anonymous. Editors and temple singers later arranged the whole collection.",
+      "howWeKnow": "Mostly from the superscriptions, the short headings above many psalms (in Hebrew Bibles they are counted as verse 1). Some give historical settings, such as Ps 51 after David's sin with Bathsheba or Ps 3 when he fled from Absalom. The Hebrew *le-david* can mean 'by', 'for' or 'belonging to' David, so scholars debate how much the headings claim. The New Testament cites several psalms as David's words (Acts 2:25-31; Mark 12:36).",
+      "otherWritings": [
+        "2 Sam 22 (a version of Ps 18)",
+        "2 Sam 1:19-27 (David's lament for Saul and Jonathan)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem, especially the temple, and in exile",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Most psalms assume Zion and temple worship; some were written in exile (Ps 137 by the rivers of Babylon). The collection was finalised in Jerusalem in the second-temple period.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Israel at worship, gathered and alone",
+      "place": "Jerusalem temple, homes, pilgrim roads, exile and later the synagogue",
+      "situation": "Psalms were sung at festivals, on pilgrimage (Ps 120-134), at sacrifices of thanksgiving, in times of national disaster and in private prayer. As a finished book, the Psalter also became a guide to meditation, opened by Ps 1, which blesses the person who meditates on the LORD's instruction day and night.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -1000,
+      "to": -450,
+      "note": "Not a narrative, but the psalms span from the Davidic monarchy (and Ps 90, traditionally Mosaic) to the exile and return."
+    },
+    "worldEvents": [
+      {
+        "year": -1000,
+        "event": "David makes Jerusalem his capital and brings the ark there (2 Sam 6)."
+      },
+      {
+        "year": -960,
+        "event": "Solomon's temple is built; Chronicles links temple singing to Asaph, Heman and Jeduthun (1 Chr 25:1)."
+      },
+      {
+        "year": -586,
+        "event": "Babylon destroys the temple and the Davidic kingship ends, the crisis voiced in Ps 89 and Ps 137."
+      },
+      {
+        "year": -516,
+        "event": "The second temple is dedicated; post-exilic psalms of praise and the closing Hallelujahs take shape."
+      },
+      {
+        "year": -100,
+        "event": "The Great Psalms Scroll (11QPs-a) at Qumran shows a differently ordered collection still in use alongside the familiar one (dating approximate)."
+      }
+    ],
+    "backdrop": "The Psalms grew over about six centuries. Individual poems were written for real moments: a king going to war (Ps 20), a sick person recovering (Ps 30), the nation after defeat (Ps 44), pilgrims climbing to Jerusalem (Ps 122). Smaller collections came first, such as the psalms of Asaph (Ps 73-83), the sons of Korah (Ps 42-49; Ps 84-88) and the Songs of Ascents (Ps 120-134). A note at Ps 72:20, 'the prayers of David son of Jesse are ended', is a fossil from an earlier stage when a David collection closed there.\n\nThe finished Psalter is divided into five books, each ending with a doxology, a short burst of praise ending in 'Amen' (Ps 41:13; Ps 72:18-19; Ps 89:52; Ps 106:48), with Ps 150 as the grand finale. Many see a deliberate parallel with the five books of Moses. Gerald Wilson argued in 1985 that the arrangement tells a story: Books I-II celebrate David's kingship, Book III ends with the anguished cry of Ps 89 that God has renounced his covenant with David, and Book IV answers with Moses (Ps 90) and the cry 'The LORD reigns!' (Ps 93; Ps 96-99). Not all scholars accept so detailed a storyline, but most now read the Psalter as a shaped book, not a random hymnal.\n\nHermann Gunkel (early 20th century) sorted psalms by type: hymns of praise, individual and community laments, thanksgivings, royal psalms, wisdom psalms and others. Laments are the single largest group, which surprises many modern worshippers. Walter Brueggemann later described the movement of the Psalms as orientation (life makes sense), disorientation (life falls apart) and new orientation (surprised by God's rescue).\n\nHebrew poetry does not rhyme sounds; it 'rhymes' ideas. The basic unit is parallelism: a second line echoes, sharpens, contrasts or completes the first ('The heavens declare the glory of God, and the sky above proclaims his handiwork', Ps 19:1). Learning to hear that echo is the key to reading the Psalms well.",
+    "culture": [
+      {
+        "term": "Superscriptions and musical notes",
+        "explain": "Headings give author, occasion, type (*mizmor*, a song with instruments; *maskil*, perhaps a teaching poem; *miktam*, uncertain), tune names ('according to The Doe of the Dawn', Ps 22) and directions 'to the choirmaster'. The word *Selah*, used 71 times, is probably a musical or liturgical marker, meaning uncertain.",
+        "refs": [
+          "Ps 22",
+          "Ps 3",
+          "Ps 46"
+        ]
+      },
+      {
+        "term": "Lament as covenant speech",
+        "explain": "Laments complain directly to God ('How long, O LORD?'), ask for help, and usually turn to trust or a vow of praise. Complaint is permitted because the covenant binds God to his people; the psalmist holds God to his promises.",
+        "refs": [
+          "Ps 13",
+          "Ps 44:23-26",
+          "Ps 88"
+        ]
+      },
+      {
+        "term": "Zion and the temple",
+        "explain": "Zion, the hill of the temple, is pictured as the centre of the world, the place of God's presence and protection. Pilgrims sang going up to the feasts.",
+        "refs": [
+          "Ps 46:4-5",
+          "Ps 48:1-3",
+          "Ps 84",
+          "Ps 122"
+        ]
+      },
+      {
+        "term": "Royal psalms and the anointed",
+        "explain": "Some psalms celebrate the king, the LORD's 'anointed' (*mashiah*), at his coronation, wedding or battles. God calls him his 'son' (Ps 2:7), in the language of covenant adoption also found in 2 Sam 7:14. After the monarchy ended these psalms became prayers of hope for a coming King.",
+        "refs": [
+          "Ps 2",
+          "Ps 72",
+          "Ps 89:19-37",
+          "Ps 110"
+        ]
+      },
+      {
+        "term": "Imprecations (curse psalms)",
+        "explain": "Some psalms ask God to judge enemies harshly (Ps 109; Ps 137:8-9). They are prayers of victims who hand vengeance over to God rather than take it themselves, voiced in the strong idiom of the ancient world.",
+        "refs": [
+          "Ps 109:6-20",
+          "Ps 137:7-9",
+          "Deut 32:35"
+        ]
+      },
+      {
+        "term": "Acrostics",
+        "explain": "Several psalms begin each line or stanza with the next letter of the Hebrew alphabet, a way of saying 'everything from A to Z' and aiding memory. Ps 119 has 22 stanzas of 8 lines each.",
+        "refs": [
+          "Ps 119",
+          "Ps 145",
+          "Ps 34"
+        ]
+      }
+    ],
+    "jewishLens": "The Psalms have shaped Jewish prayer more than any other book. A midrash on Ps 1 says that as Moses gave Israel the five books of the Torah, David gave Israel the five books of Psalms (Midrash Tehillim 1). The Mishnah lists the psalm the Levites sang for each day of the week in the temple (Mishnah Tamid 7:4), and these are still said daily in synagogue, with Ps 92 for the Sabbath. Ps 145 (*Ashrei*) is said three times a day; Ps 145-150 form the core of the morning 'verses of song' (*Pesukei de-Zimra*); Ps 95-99 and Ps 29 welcome the Sabbath on Friday evening; and Ps 113-118, the *Hallel*, are sung at Passover, Shavuot, Sukkot and Hanukkah. At the Passover meal the Hallel is split around the meal, which is likely what Jesus and his disciples sang before going to the Mount of Olives (Mark 14:26). Ps 126 is sung before grace after meals on Sabbaths and festivals.\n\nOutside the liturgy, saying the whole Psalter or chosen psalms is a traditional Jewish response to illness, danger and death; communities divide the 150 among themselves so the entire book is read for someone in need.\n\nRead covenantally, the Psalms are the relationship between God and Israel spoken aloud. They praise the LORD's *hesed*, his loyal, covenant love (Ps 136 repeats 'for his hesed endures forever' 26 times), celebrate Torah as a delight rather than a burden (Ps 19:7-11; Ps 119), and give Israel permission to argue with God on the basis of his promises. Royal psalms, especially after the exile, were read as hopes for the Messiah, the son of David; the Targum and midrash apply several of them, such as Ps 2 and Ps 72, to the King Messiah.",
+    "flow": [
+      {
+        "label": "Two ways and the King",
+        "detail": "Ps 1 blesses those who meditate on Torah; Ps 2 enthrones the LORD's anointed over rebellious nations. Together they introduce the book.",
+        "refs": [
+          "Ps 1",
+          "Ps 2"
+        ]
+      },
+      {
+        "label": "Book I: David's cries",
+        "detail": "Mostly Davidic laments and trust psalms, from fleeing Absalom to quiet confidence in the Shepherd.",
+        "refs": [
+          "Ps 3",
+          "Ps 22",
+          "Ps 23",
+          "Ps 41:13"
+        ]
+      },
+      {
+        "label": "Book II: longing and kingship",
+        "detail": "Korahite psalms of longing for God's presence, David's confession, ending with a prayer for the ideal king.",
+        "refs": [
+          "Ps 42",
+          "Ps 51",
+          "Ps 72:18-20"
+        ]
+      },
+      {
+        "label": "Book III: covenant in crisis",
+        "detail": "Asaph wrestles with the prosperity of the wicked and the ruined temple; Ps 89 asks why God has rejected David's line.",
+        "refs": [
+          "Ps 73",
+          "Ps 74",
+          "Ps 89:38-52"
+        ]
+      },
+      {
+        "label": "Book IV: the LORD reigns",
+        "detail": "Opening with Moses' prayer, it answers the crisis by looking past human kings to God's own kingship and the exodus story.",
+        "refs": [
+          "Ps 90",
+          "Ps 93",
+          "Ps 96",
+          "Ps 106:48"
+        ]
+      },
+      {
+        "label": "Book V: return and praise",
+        "detail": "Thanks for gathering the exiles, the Torah meditation of Ps 119, the pilgrim songs and the renewed hope of a Davidic king.",
+        "refs": [
+          "Ps 107:1-3",
+          "Ps 110",
+          "Ps 119",
+          "Ps 120-134"
+        ]
+      },
+      {
+        "label": "Final Hallelujahs",
+        "detail": "Five psalms of pure praise end the book; everything that has breath is called to praise the LORD.",
+        "refs": [
+          "Ps 146-150",
+          "Ps 150:6"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Psalms: Israel's prayer book",
+      "branches": [
+        {
+          "label": "Kinds of psalm",
+          "items": [
+            "Hymns of praise",
+            "Laments",
+            "Thanksgivings",
+            "Royal psalms",
+            "Wisdom and Torah psalms"
+          ]
+        },
+        {
+          "label": "Shape",
+          "items": [
+            "Five books",
+            "Doxology closes each",
+            "Ps 1-2 introduce",
+            "Ps 146-150 conclude"
+          ]
+        },
+        {
+          "label": "Big themes",
+          "items": [
+            "The LORD reigns",
+            "Covenant love (hesed)",
+            "Zion and temple",
+            "The anointed king"
+          ]
+        },
+        {
+          "label": "Prayer lessons",
+          "items": [
+            "Complaint is allowed",
+            "Confession heals",
+            "Trust in waiting",
+            "Praise in community"
+          ]
+        },
+        {
+          "label": "Later use",
+          "items": [
+            "Daily synagogue prayer",
+            "Hallel at Passover",
+            "Most-quoted in New Testament",
+            "Church's hymnbook"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Praises",
+        "original": "tehillim (תְּהִלִּים)",
+        "meaning": "The Hebrew title of the book, 'praises', from the same root as *hallelu-yah*, 'praise Yah'. Even the laments are gathered under this name.",
+        "refs": [
+          "Ps 145",
+          "Ps 150"
+        ]
+      },
+      {
+        "word": "Steadfast love",
+        "original": "hesed (חֶסֶד)",
+        "meaning": "Loyal love that keeps covenant; kindness that goes beyond duty. It is the Psalter's most characteristic description of God.",
+        "refs": [
+          "Ps 136",
+          "Ps 103:8-11",
+          "Exod 34:6"
+        ]
+      },
+      {
+        "word": "Instruction",
+        "original": "torah (תּוֹרָה)",
+        "meaning": "Teaching or instruction, not merely 'law'. The blessed person delights in it like a tree drinking from a stream.",
+        "refs": [
+          "Ps 1:2-3",
+          "Ps 19:7-11",
+          "Ps 119:97"
+        ]
+      },
+      {
+        "word": "Anointed",
+        "original": "mashiah (מָשִׁיחַ)",
+        "meaning": "The king anointed with oil and adopted as God's 'son'; the source of the title Messiah (Greek *Christos*).",
+        "refs": [
+          "Ps 2:2",
+          "Ps 18:50",
+          "Ps 89:20"
+        ]
+      },
+      {
+        "word": "Wait / hope",
+        "original": "qavah (קָוָה)",
+        "meaning": "To wait with expectant hope, like a cord stretched taut. Waiting for the LORD is active trust, not passivity.",
+        "refs": [
+          "Ps 27:14",
+          "Ps 130:5-6"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-samuel",
+        "how": "Several headings tie psalms to scenes in David's life, and Ps 18 appears almost word for word as 2 Sam 22.",
+        "refs": [
+          "2 Sam 22",
+          "Ps 18",
+          "Ps 51"
+        ]
+      },
+      {
+        "bookId": "1-chronicles",
+        "how": "Chronicles describes David organising the temple singers and quotes psalm medleys at the ark's arrival in Jerusalem.",
+        "refs": [
+          "1 Chr 16:8-36",
+          "1 Chr 25:1"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews builds its argument for Jesus' sonship and priesthood on Ps 2, Ps 8, Ps 95 and Ps 110.",
+        "refs": [
+          "Heb 1:5",
+          "Heb 2:6-9",
+          "Heb 3:7-11",
+          "Heb 5:6"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus quotes Ps 110 to ask how the Messiah can be David's son and Lord, and cries Ps 22:1 from the cross.",
+        "refs": [
+          "Matt 22:41-46",
+          "Matt 27:46"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Peter's first sermon reads Ps 16 and Ps 110 as fulfilled in the resurrection and ascension.",
+        "refs": [
+          "Acts 2:25-36"
+        ]
+      },
+      {
+        "bookId": "lamentations",
+        "how": "Communal lament psalms such as Ps 74 and Ps 79 share the grief and language of Lamentations over the ruined temple.",
+        "refs": [
+          "Ps 74",
+          "Ps 79",
+          "Lam 2"
+        ]
+      }
+    ],
+    "jesusLens": "The Psalms are the Old Testament book most quoted in the New Testament. Jesus said that what was written about him 'in the Law of Moses and the Prophets and the Psalms' must be fulfilled (Luke 24:44). The early church read the royal psalms as fulfilled in Jesus the anointed Son (Ps 2:7 in Acts 13:33; Ps 110:1 in Acts 2:34-35), and saw his passion in the laments he prayed (Ps 22; Ps 31:5 in Luke 23:46; Ps 69:9 in John 2:17). Jewish readers also look to the royal psalms for the coming Messiah but do not identify him with Jesus, and they read the laments primarily as the prayers of David and of Israel. Christians have often added a second insight: Jesus not only fulfils the Psalms but prays them, so those who pray the Psalms join their voice to his.",
+    "misreadings": [
+      {
+        "topic": "Psalms as only 'positive' worship",
+        "popular": "Worship should be upbeat and victorious; complaint or anger toward God shows weak faith, so the lament and curse psalms are rarely sung or preached.",
+        "inContext": "About a third of the Psalms are laments, the largest single category. In the covenant relationship, bringing God your complaint is a sign of trust, not unbelief. Walter Brueggemann argued that churches which drop lament lose honesty and a sense of justice; Old Testament scholars broadly agree laments are central.",
+        "defence": "Evangelical scholars such as Tremper Longman, Mark Vroegop and Carl Trueman (who asked 'What do miserable Christians sing?') have also urged churches to recover lament. They add, fairly, that most laments end in trust and praise, so the goal is honest movement toward God, not complaint for its own sake.",
+        "whyItMatters": "Without lament, suffering people feel they must hide pain from God and from church. The Psalter gives them words that God himself put in Scripture.",
+        "refs": [
+          "Ps 13",
+          "Ps 88",
+          "Ps 22:1-2",
+          "Ps 42:9-11"
+        ],
+        "scholars": [
+          "Walter Brueggemann",
+          "Claus Westermann",
+          "Tremper Longman III",
+          "Carl Trueman"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Reading individual verses as standalone promises",
+        "popular": "Verses like 'Delight yourself in the LORD, and he will give you the desires of your heart' (Ps 37:4) or 'no plague will come near your tent' (Ps 91:10) are personal guarantees that God will grant what I want or keep me from all harm.",
+        "inContext": "These lines are poetry within whole psalms. Ps 37 is a wisdom psalm urging patience while the wicked prosper, and the desires in view are shaped by delighting in God. Ps 91 expresses trust in God's protection; the devil himself quotes it to Jesus as a guarantee, and Jesus refuses to test God that way (Matt 4:6-7).",
+        "defence": "Careful evangelical teachers agree, while insisting the psalms do give real comfort: God does protect and does give good gifts. The point is not to empty the promises but to read them as trust in a faithful God rather than as formulas.",
+        "whyItMatters": "Formula readings set believers up for crushed faith when illness or loss comes; the psalms themselves include those very experiences.",
+        "refs": [
+          "Ps 37:4-7",
+          "Ps 91:9-12",
+          "Matt 4:5-7"
+        ],
+        "scholars": [
+          "Gordon Fee",
+          "Douglas Stuart",
+          "John Goldingay"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For Israel, the Psalms were how a people in covenant with God talked to him: at the temple, on the road, in exile and after return. They kept alive the hope of the LORD's kingship and of a renewed Davidic king.",
+      "now": "The Psalms remain the shared prayer book of synagogue and church. They teach the full range of honest prayer, give language for grief and joy, and shape worshippers to see their own lives within God's larger story."
+    },
+    "sources": [
+      {
+        "author": "Gerald H. Wilson",
+        "title": "The Editing of the Hebrew Psalter",
+        "year": 1985
+      },
+      {
+        "author": "Walter Brueggemann",
+        "title": "The Message of the Psalms: A Theological Commentary",
+        "year": 1984
+      },
+      {
+        "author": "Robert Alter",
+        "title": "The Book of Psalms: A Translation with Commentary",
+        "year": 2007
+      },
+      {
+        "author": "Nancy deClaissé-Walford, Rolf A. Jacobson and Beth LaNeel Tanner",
+        "title": "The Book of Psalms (NICOT)",
+        "year": 2014
+      },
+      {
+        "author": "Hermann Gunkel (completed by Joachim Begrich)",
+        "title": "Introduction to Psalms: The Genres of the Religious Lyric of Israel",
+        "year": 1933
+      }
+    ]
+  },
+  {
+    "id": "proverbs",
+    "oneLine": "A parent's school of wisdom for life in God's world: short, sharp sayings on speech, work, money, family and justice, all rooted in reverence for the LORD.",
+    "author": {
+      "name": "Solomon, 'the wise', Hezekiah's scribes, Agur and Lemuel",
+      "who": "Solomon, famed for 3,000 proverbs (1 Kgs 4:32), is the patron of the book. Other sections come from unnamed 'wise men', from scribes of King Hezekiah who copied Solomonic sayings around 700 BC, from Agur son of Jakeh and from the mother of King Lemuel, both probably non-Israelites.",
+      "howWeKnow": "The book itself has internal headings (Prov 1:1; Prov 10:1; Prov 22:17; Prov 24:23; Prov 25:1; Prov 30:1; Prov 31:1). The section Prov 22:17-24:22 closely parallels the Egyptian *Instruction of Amenemope*, showing that Israel's sages knew and reshaped international wisdom.",
+      "otherWritings": [
+        "Song of Songs and Ecclesiastes (traditionally Solomonic)",
+        "Ps 72 and Ps 127 (headed 'of Solomon')"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem royal court and scribal circles",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The collections point to the royal court (sayings about kings, Prov 25:2-7) and to family teaching. Final editing probably took place in Jerusalem after the exile.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "'My son': young men being trained for adult responsibility, and through them all Israel",
+      "place": "Households and scribal schools in Judah",
+      "situation": "Proverbs is framed as a father and mother teaching a son as he steps into adult life: choosing friends, handling money, resisting seduction and speaking wisely. The 'son' becomes a stand-in for every reader.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -1100,
+        "event": "The Egyptian *Instruction of Amenemope*, thirty chapters of advice from a scribe to his son, is probably composed in the Ramesside period (dating approximate)."
+      },
+      {
+        "year": -950,
+        "event": "Solomon's court in Jerusalem gains an international reputation for wisdom (1 Kgs 4:29-34; 1 Kgs 10:1-9)."
+      },
+      {
+        "year": -700,
+        "event": "Hezekiah's scribes copy and arrange a further collection of Solomon's proverbs (Prov 25:1)."
+      },
+      {
+        "year": -450,
+        "event": "Many scholars date the introductory chapters (Prov 1-9) and final editing to the Persian period."
+      },
+      {
+        "year": -180,
+        "event": "Ben Sira writes in Jerusalem, continuing Proverbs' tradition and identifying Wisdom with the Torah."
+      }
+    ],
+    "backdrop": "Every ancient Near Eastern civilisation had wisdom literature. Egyptian 'instructions' were written by officials and kings for their sons; Mesopotamian scribes collected proverbs and advice. Israel's sages took part in this international conversation. The clearest example is Prov 22:17-24:22. In 1924 the Egyptologist Adolf Erman showed that many lines closely match the *Instruction of Amenemope*, and he suggested that an obscure Hebrew word in Prov 22:20 should be read *sheloshim*, 'thirty', matching Amenemope's thirty chapters (many translations now print 'thirty sayings'). Scholars still debate the direction and nature of the borrowing, but most accept a real connection.\n\nWhat Israel did with this material matters more than where it came from. Proverbs grounds all wisdom in 'the fear of the LORD' (Prov 1:7; Prov 9:10), using Israel's covenant name for God. Practical skill, such as how to answer an angry person (Prov 15:1) or manage a field (Prov 24:30-34), is treated as part of living faithfully before the Creator who built the world by wisdom (Prov 3:19-20).\n\nThe book has two main types of material. Chapters 1-9 are longer speeches by a parent and by personified Wisdom, a woman calling in the streets, competing with Folly for the young man's attention. Chapters 10-29 are mostly two-line sayings, often contrasting the righteous and the wicked, the wise and the fool, the diligent and the lazy. Chapters 30-31 bring in foreign voices and end with a poem about a 'woman of strength'.\n\nProverbs are not laws or promises. They are generalisations: observations about how life usually works in God's ordered world. The book itself places contradictory-seeming proverbs side by side (Prov 26:4-5) to train judgement about which one fits which situation.",
+    "culture": [
+      {
+        "term": "Father to son instruction",
+        "explain": "'Hear, my son, your father's instruction, and forsake not your mother's teaching' (Prov 1:8). Education happened in the household. The mother's role in teaching is unusual in ancient wisdom texts and stands out in Israel's version.",
+        "refs": [
+          "Prov 1:8",
+          "Prov 6:20",
+          "Prov 31:1"
+        ]
+      },
+      {
+        "term": "Lady Wisdom and Woman Folly",
+        "explain": "Wisdom is pictured as a noble woman who builds a house, prepares a banquet and invites the simple; Folly is a loud woman who invites them to stolen water and death. The young man must choose whose house he enters.",
+        "refs": [
+          "Prov 8:1-11",
+          "Prov 9:1-6",
+          "Prov 9:13-18"
+        ]
+      },
+      {
+        "term": "Wisdom at creation",
+        "explain": "Wisdom says she was with the LORD before creation, like a master craftsman or delighted child beside him (the Hebrew *amon* is uncertain). This poem shaped Jewish ideas of Torah as the blueprint of the world and Christian ideas of Christ as God's wisdom.",
+        "refs": [
+          "Prov 8:22-31",
+          "Prov 3:19-20"
+        ]
+      },
+      {
+        "term": "Honour, shame and the tongue",
+        "explain": "Reputation was a household's wealth. Proverbs repeatedly warns about gossip, quarrels, flattery and lies, because speech built or destroyed honour within the community.",
+        "refs": [
+          "Prov 22:1",
+          "Prov 18:21",
+          "Prov 11:13"
+        ]
+      },
+      {
+        "term": "The city gate",
+        "explain": "Elders sat at the gate to judge disputes. The capable woman's husband is known there, and Wisdom calls out there; it is the public square of honour.",
+        "refs": [
+          "Prov 31:23",
+          "Prov 1:20-21",
+          "Prov 24:7"
+        ]
+      },
+      {
+        "term": "Justice for the poor",
+        "explain": "Proverbs is not only about personal success. It warns against moving boundary stones, bribery and oppressing the poor, whose defender is God himself.",
+        "refs": [
+          "Prov 14:31",
+          "Prov 22:22-23",
+          "Prov 23:10-11",
+          "Prov 31:8-9"
+        ]
+      }
+    ],
+    "jewishLens": "In Jewish tradition Wisdom in Proverbs became closely identified with the Torah. Ben Sira (chapter 24) and later rabbis read Prov 8 as describing Torah as God's companion at creation; *Genesis Rabbah* 1:1 opens by reading the uncertain word *amon* in Prov 8:30 as 'artisan' or 'tool', so that God looked into the Torah as an architect looks at a plan when creating the world. When the Torah scroll is returned to the ark in synagogue, the congregation sings Prov 3:17-18, 'She is a tree of life to those who grasp her ... her ways are ways of pleasantness', applying Wisdom's words to the Torah itself.\n\nOn Friday evenings many Jewish homes sing *Eshet Hayil*, 'A woman of valour' (Prov 31:10-31), in honour of the wife and mother before the Sabbath meal. Rabbinic and later Jewish readings also took the poem allegorically, of the Torah, the Sabbath or the Divine Presence, but its main life is as a family blessing.\n\nRead within the covenant, Proverbs shows what living as God's people looks like on an ordinary Tuesday. It hardly mentions the exodus, the temple or the covenant at Sinai, yet its 'fear of the LORD' uses the covenant name and its values echo Deuteronomy: honest weights (Prov 11:1; Deut 25:13-16), care for the poor and orphans, faithfulness in marriage. Wisdom is not a self-help path apart from relationship with God; it is the fruit of trusting him with the whole of life (Prov 3:5-6).",
+    "flow": [
+      {
+        "label": "Purpose and foundation",
+        "detail": "The book exists to give wisdom to the simple and the young; its root is the fear of the LORD.",
+        "refs": [
+          "Prov 1:1-7"
+        ]
+      },
+      {
+        "label": "Father's lessons and two women",
+        "detail": "Ten parental speeches warn against violent gangs and seduction, while Lady Wisdom and Woman Folly compete for the son.",
+        "refs": [
+          "Prov 1:8-19",
+          "Prov 7:6-27",
+          "Prov 9:1-18"
+        ]
+      },
+      {
+        "label": "Solomon's sayings",
+        "detail": "Hundreds of two-line contrasts about the righteous and wicked, the wise and foolish, in speech, work and money.",
+        "refs": [
+          "Prov 10:1-22:16"
+        ]
+      },
+      {
+        "label": "Words of the wise",
+        "detail": "Thirty sayings with close Egyptian parallels, then more sayings of the wise.",
+        "refs": [
+          "Prov 22:17-24:22",
+          "Prov 24:23-34"
+        ]
+      },
+      {
+        "label": "Hezekiah's collection",
+        "detail": "More Solomonic proverbs with vivid images from farm, court and home, including the 'answer a fool' pair.",
+        "refs": [
+          "Prov 25:1",
+          "Prov 26:4-5"
+        ]
+      },
+      {
+        "label": "Agur's humility",
+        "detail": "A foreign sage confesses he lacks understanding and lists numerical sayings drawn from nature.",
+        "refs": [
+          "Prov 30:1-9",
+          "Prov 30:18-19"
+        ]
+      },
+      {
+        "label": "Lemuel and the valiant woman",
+        "detail": "A queen mother teaches her son to defend the poor, and an alphabetic poem praises the woman of strength who fears the LORD.",
+        "refs": [
+          "Prov 31:1-9",
+          "Prov 31:10-31"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Proverbs: skill for living",
+      "branches": [
+        {
+          "label": "Foundation",
+          "items": [
+            "Fear of the LORD",
+            "Wisdom at creation",
+            "Trust, not own understanding"
+          ]
+        },
+        {
+          "label": "Two ways",
+          "items": [
+            "Wise versus fool",
+            "Righteous versus wicked",
+            "Lady Wisdom, Woman Folly"
+          ]
+        },
+        {
+          "label": "Everyday life",
+          "items": [
+            "Speech and the tongue",
+            "Work and laziness",
+            "Money and generosity",
+            "Marriage and family"
+          ]
+        },
+        {
+          "label": "Society",
+          "items": [
+            "Justice for the poor",
+            "Honest weights",
+            "Kings and courts"
+          ]
+        },
+        {
+          "label": "How to read",
+          "items": [
+            "General truths, not guarantees",
+            "Pairs that seem to clash",
+            "International wisdom reshaped"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Proverb",
+        "original": "mashal (מָשָׁל)",
+        "meaning": "A comparison, saying or parable; something that 'stands for' something else. The title of the book is *Mishlei*, 'proverbs of'.",
+        "refs": [
+          "Prov 1:1",
+          "Prov 1:6"
+        ]
+      },
+      {
+        "word": "Wisdom",
+        "original": "hokhmah (חָכְמָה)",
+        "meaning": "Skill, whether of a craftsman, a sailor or a ruler; in Proverbs, skill in living well before God.",
+        "refs": [
+          "Prov 1:2",
+          "Prov 4:7",
+          "Exod 31:3"
+        ]
+      },
+      {
+        "word": "Fear of the LORD",
+        "original": "yir'at YHWH (יִרְאַת יְהוָה)",
+        "meaning": "Reverent awe that shapes behaviour: taking God seriously as Creator and covenant Lord. It is the starting point and first principle of wisdom.",
+        "refs": [
+          "Prov 1:7",
+          "Prov 9:10",
+          "Prov 31:30"
+        ]
+      },
+      {
+        "word": "Fool",
+        "original": "kesil / 'evil (כְּסִיל / אֱוִיל)",
+        "meaning": "Not someone of low intelligence but someone morally closed, who will not take correction. Proverbs distinguishes the naive (*peti*), the fool and the scoffer (*lets*).",
+        "refs": [
+          "Prov 1:22",
+          "Prov 12:15",
+          "Prov 26:11"
+        ]
+      },
+      {
+        "word": "Woman of strength",
+        "original": "eshet hayil (אֵשֶׁת חַיִל)",
+        "meaning": "*Hayil* means strength, capability, even military valour. The same phrase describes Ruth (Ruth 3:11).",
+        "refs": [
+          "Prov 31:10",
+          "Ruth 3:11",
+          "Prov 12:4"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-kings",
+        "how": "Kings presents Solomon as the model wise king and author of thousands of proverbs, and then shows his later folly.",
+        "refs": [
+          "1 Kgs 3:9-12",
+          "1 Kgs 4:29-34",
+          "1 Kgs 11:1-6"
+        ]
+      },
+      {
+        "bookId": "job",
+        "how": "Job and Ecclesiastes test the edges of Proverbs' patterns; all three share the conclusion that wisdom begins with fearing God.",
+        "refs": [
+          "Job 28:28",
+          "Prov 1:7"
+        ]
+      },
+      {
+        "bookId": "ruth",
+        "how": "In the Hebrew Bible Ruth follows Proverbs; Ruth is the only person called an 'eshet hayil', a living example of Prov 31.",
+        "refs": [
+          "Ruth 3:11",
+          "Prov 31:10"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James is often called the New Testament's wisdom book, with Proverbs-like teaching on the tongue, humility and wisdom from above. James 4:6 quotes Prov 3:34.",
+        "refs": [
+          "Jas 1:5",
+          "Jas 3:1-12",
+          "Jas 4:6",
+          "Prov 3:34"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "Paul calls Christ 'the wisdom of God', drawing on the figure of Wisdom in Proverbs.",
+        "refs": [
+          "1 Cor 1:24",
+          "1 Cor 1:30"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul quotes Prov 25:21-22 on feeding your enemy and heaping burning coals on his head.",
+        "refs": [
+          "Rom 12:20",
+          "Prov 25:21-22"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus taught like a sage, in short sayings and parables (the Hebrew *mashal* covers both), and claimed that 'something greater than Solomon is here' (Matt 12:42). New Testament writers drew on the figure of Wisdom with God at creation to describe Christ: 'the wisdom of God' (1 Cor 1:24), the one 'in whom are hidden all the treasures of wisdom' (Col 2:3), the Word through whom all things were made (John 1:1-3; compare Prov 8:22-31). In the fourth century Arius used Prov 8:22 ('the LORD created me') to argue that the Son was created, which shows how influential the passage was; Nicene writers answered that it describes Wisdom's role, not the Son's origin. Jewish tradition reads the same poem of the Torah, not of a person.",
+    "misreadings": [
+      {
+        "topic": "Proverbs as promises and guarantees",
+        "popular": "'Train up a child in the way he should go; even when he is old he will not depart from it' (Prov 22:6) is a promise: if parents do it right, their children will stay faithful. Similarly, honouring God with wealth guarantees full barns (Prov 3:9-10).",
+        "inContext": "Proverbs are generalisations about how life usually works, not covenant promises or legal contracts. The book itself shows this by placing opposite sayings together (Prov 26:4-5) and by acknowledging that the righteous sometimes suffer and the wicked prosper (Prov 16:8; Prov 28:6). Scholars such as Tremper Longman, Michael Fox and Bruce Waltke all stress the difference between a proverb and a promise.",
+        "defence": "Evangelical scholars agree almost universally on this point; it is a popular misreading rather than a scholarly debate. They add that proverbs are still reliably true as patterns: good parenting really does tend to shape children, and wise living generally leads to flourishing. The proverbs are not false when exceptions occur; they were never meant to cover every case.",
+        "whyItMatters": "Treating proverbs as guarantees burdens grieving parents with false guilt and turns faith into a formula. Reading them as wisdom frees them to guide without condemning.",
+        "refs": [
+          "Prov 22:6",
+          "Prov 3:9-10",
+          "Prov 26:4-5",
+          "Prov 16:8"
+        ],
+        "scholars": [
+          "Tremper Longman III",
+          "Bruce Waltke",
+          "Michael V. Fox",
+          "Gordon Fee and Douglas Stuart"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Proverbs 31 as a checklist for wives",
+        "popular": "The 'woman of strength' is the standard every Christian wife must meet: rising before dawn, sewing, managing the household perfectly, never idle.",
+        "inContext": "The poem is an alphabetic acrostic, a celebration from A to Z, not a job description. In Jewish homes it is sung as praise to the wife, not as a test. Many scholars note that it also presents Lady Wisdom in household form, closing the book as Prov 1-9 opened it, and that the woman is a capable trader, landowner and teacher, not a narrow domestic figure.",
+        "defence": "Complementarian evangelical teachers often still see in her a model of godly womanhood and household leadership; egalitarian evangelicals stress her economic independence. Both agree her central quality is that she 'fears the LORD' (Prov 31:30), which applies to men and women alike.",
+        "whyItMatters": "A checklist reading can crush women with impossible standards; a praise reading invites honouring the faithful women already present.",
+        "refs": [
+          "Prov 31:10-31",
+          "Prov 31:30",
+          "Prov 9:1-6"
+        ],
+        "scholars": [
+          "Ellen Davis",
+          "Bruce Waltke",
+          "Christine Roy Yoder"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Proverbs trained Israel's young people, officials and households to live as God's people in daily affairs: speaking truthfully, working faithfully, keeping marriage, protecting the poor and respecting authority, all under the fear of the LORD.",
+      "now": "It remains one of the most practical books of the Bible for work, money, friendship, parenting and speech. Read as wisdom rather than formula, it builds judgement and character instead of rule-keeping or anxiety."
+    },
+    "sources": [
+      {
+        "author": "Michael V. Fox",
+        "title": "Proverbs 1-9 (Anchor Yale Bible)",
+        "year": 2000
+      },
+      {
+        "author": "Bruce K. Waltke",
+        "title": "The Book of Proverbs: Chapters 1-15 (NICOT)",
+        "year": 2004
+      },
+      {
+        "author": "Tremper Longman III",
+        "title": "How to Read Proverbs",
+        "year": 2002
+      },
+      {
+        "author": "Miriam Lichtheim",
+        "title": "Ancient Egyptian Literature, Volume II: The New Kingdom",
+        "year": 1976,
+        "locator": "Instruction of Amenemope"
+      },
+      {
+        "author": "Ellen F. Davis",
+        "title": "Proverbs, Ecclesiastes, and the Song of Songs (Westminster Bible Companion)",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "ecclesiastes",
+    "oneLine": "A royal teacher tests every road to lasting gain, finds that life slips through our fingers like breath, and concludes that we should receive each day's food, work and love as God's gift and fear him.",
+    "author": {
+      "name": "Qohelet ('the Gatherer' or 'the Teacher'), presented by a frame narrator",
+      "who": "The main speaker calls himself Qohelet, 'son of David, king in Jerusalem'. The name comes from *qahal*, 'assembly', and means something like 'one who gathers' (people or sayings). A second voice, the editor, introduces him and sums up at the end (Eccl 12:9-14).",
+      "howWeKnow": "The book never names Solomon, but the royal experiments in Eccl 1:12-2:26 clearly wear Solomon's robes. The Hebrew is late, close to the Hebrew of the Mishnah, with Aramaic influence and probably Persian loanwords; for this reason most scholars, including conservatives such as Franz Delitzsch and Tremper Longman, think 'Solomon' is a literary persona chosen by a later sage. Others, such as Walter Kaiser and Duane Garrett, have defended Solomonic authorship.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The speaker presents himself as king in Jerusalem. A Persian or early Hellenistic date would make the writer a Jerusalem sage living under foreign rule.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Educated, reflective Israelites, and especially young people deciding what to live for",
+      "place": "Judah",
+      "situation": "On a later dating, Judah was a small province under Persian or Ptolemaic rule, where a commercial economy, taxes and officials created new wealth and new anxiety (Eccl 5:8-9; Eccl 5:10-12). Many asked what lasting 'profit' (*yitron*, a business word) human effort could secure.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": -539,
+        "event": "Persia conquers Babylon; Judah becomes a province of a vast commercial empire with coinage and taxation."
+      },
+      {
+        "year": -332,
+        "event": "Alexander the Great takes the Levant; Greek ideas begin to spread across the region."
+      },
+      {
+        "year": -301,
+        "event": "Judah passes under the Ptolemies of Egypt, known for efficient tax-farming (dating of Ecclesiastes to this era is one common view)."
+      },
+      {
+        "year": -250,
+        "event": "Fragments of Ecclesiastes later found at Qumran (4QQoh-a) date to around 175-150 BC, setting a latest possible date for the book."
+      }
+    ],
+    "backdrop": "Ecclesiastes is the Bible's most unsettling book, and that is the point. Its key word, *hevel*, appears about 38 times. Older translations render it 'vanity', meaning 'emptiness'; the Hebrew literally means 'breath' or 'vapour', something real but fleeting and impossible to grasp. The opening cry 'hevel of hevels' (Eccl 1:2) is a superlative, like 'holy of holies': utterly fleeting, completely beyond our grip.\n\nQohelet describes a royal experiment. He tries wisdom, pleasure, great building projects, wealth and achievement (Eccl 2:1-11), and each time he asks what 'gain' remains. His answer is that nothing lasts 'under the sun', a phrase used about 29 times for life seen from the ground level of ordinary human experience. Death takes the wise and the fool alike (Eccl 2:14-16); injustice sits in the courts (Eccl 3:16); the righteous sometimes die young while the wicked live long (Eccl 7:15). He refuses to pretend otherwise.\n\nYet a second refrain runs through the book. Seven times Qohelet commends joy: eat your bread, drink your wine, enjoy life with the one you love, do your work with all your might, because these are God's gift (Eccl 2:24-26; Eccl 3:12-13; Eccl 5:18-20; Eccl 8:15; Eccl 9:7-10; Eccl 11:9-10). The answer to life's fleetingness is not despair but gratitude, receiving each day rather than trying to master it.\n\nScholars disagree on how the voices fit together. Some read Qohelet as a sceptic whose views the editor corrects in the epilogue. Others, like Michael Fox, see a coherent thinker honestly facing contradictions. Others, like Craig Bartholomew, read the book as a journey in which 'under the sun' observation alternates with gaps of faith ('remember your Creator', Eccl 12:1) until the editor's conclusion: fear God and keep his commandments (Eccl 12:13).",
+    "culture": [
+      {
+        "term": "Under the sun",
+        "explain": "Life viewed from within the world of human experience, without a view from heaven. Qohelet asks what we can know and gain from observation alone.",
+        "refs": [
+          "Eccl 1:3",
+          "Eccl 1:14",
+          "Eccl 9:11"
+        ]
+      },
+      {
+        "term": "Profit and portion",
+        "explain": "Qohelet uses economic words: *yitron* (profit, surplus) and *heleq* (portion, share). Lasting profit is impossible, but each person does receive a portion from God to enjoy now.",
+        "refs": [
+          "Eccl 1:3",
+          "Eccl 2:10-11",
+          "Eccl 5:18-19"
+        ]
+      },
+      {
+        "term": "Royal fiction",
+        "explain": "Ancient Near Eastern literature includes 'royal autobiographies' in which a king boasts of his deeds. Qohelet imitates the genre and then deflates it: all his achievements are breath.",
+        "refs": [
+          "Eccl 1:12-18",
+          "Eccl 2:4-11"
+        ]
+      },
+      {
+        "term": "Sheol and death",
+        "explain": "Israel's common picture of death was Sheol, a shadowy place of silence. Qohelet stresses that all go to one place and that no one knows what comes after, so we must live now.",
+        "refs": [
+          "Eccl 3:19-21",
+          "Eccl 9:5-6",
+          "Eccl 9:10"
+        ]
+      },
+      {
+        "term": "Banquet and festival joy",
+        "explain": "Clean clothes, oil on the head, bread and wine were signs of festival and celebration. Qohelet commends them as fitting responses to God's gift of life.",
+        "refs": [
+          "Eccl 9:7-9",
+          "Deut 16:13-15"
+        ]
+      },
+      {
+        "term": "The parable of old age",
+        "explain": "Eccl 12:1-7 describes ageing and death with a series of images: the keepers of the house trembling (hands), the grinders ceasing (teeth), the silver cord snapped. Ancient and modern readers have decoded it in different ways.",
+        "refs": [
+          "Eccl 12:1-7"
+        ]
+      }
+    ],
+    "jewishLens": "Ecclesiastes is one of the five *Megillot* (scrolls) read in the synagogue year. It is read at Sukkot, the Feast of Booths, usually on the Sabbath during the festival. The pairing is deliberate: Sukkot is called 'the season of our rejoicing', a harvest festival when Israel was commanded to rejoice (Deut 16:13-15) while living in flimsy temporary huts. A book about life's fleetingness is read in the fragile *sukkah* at the moment of fullest abundance, reminding Israel that every harvest is a gift and every shelter temporary. Some explain the reading as a check on the wealth of harvest time.\n\nThe rabbis argued about the book. The Mishnah records disagreement between the schools of Shammai and Hillel over whether Ecclesiastes 'defiles the hands', that is, counts as holy Scripture (Mishnah Yadayim 3:5; Eduyot 5:3). The Talmud reports that the sages wanted to withdraw it because its words seemed to contradict each other, but kept it because it begins and ends with words of Torah (Shabbat 30b). The Midrash *Kohelet Rabbah* reads the book as Solomon's words and often finds in its 'under the sun' the contrast with Torah, which is 'above the sun'.\n\nRead within the covenant, the book's final word ties its searching to Israel's life with God: 'fear God and keep his commandments, for this is the whole of a person' (Eccl 12:13). Its emphasis on receiving food, drink, work and love with joy also echoes the Torah's festival commands. Qohelet is honest about death and injustice in the way Job and the laments are honest, but he keeps speaking within the frame of a God who gives, judges and is to be feared.",
+    "flow": [
+      {
+        "label": "All is breath",
+        "detail": "The motto, and a poem on endless cycles of sun, wind and rivers where nothing new happens.",
+        "refs": [
+          "Eccl 1:2-11"
+        ]
+      },
+      {
+        "label": "The king's experiment",
+        "detail": "Qohelet tests wisdom, pleasure, building and wealth; nothing yields lasting gain, but eating and working with joy is God's gift.",
+        "refs": [
+          "Eccl 1:12-2:26"
+        ]
+      },
+      {
+        "label": "A time for everything",
+        "detail": "God has set times for birth and death, weeping and dancing, and put eternity in human hearts without letting us see the whole.",
+        "refs": [
+          "Eccl 3:1-15"
+        ]
+      },
+      {
+        "label": "Injustice and toil",
+        "detail": "Oppression, envy, lonely labour, politics and religion done carelessly; better two than one, better listening than many words.",
+        "refs": [
+          "Eccl 3:16-4:16",
+          "Eccl 5:1-7"
+        ]
+      },
+      {
+        "label": "Money cannot satisfy",
+        "detail": "Those who love money never have enough; receive your portion as God's gift.",
+        "refs": [
+          "Eccl 5:10-20",
+          "Eccl 6:1-12"
+        ]
+      },
+      {
+        "label": "Wisdom's limits",
+        "detail": "Proverb-style advice mixed with frank admission that the righteous and wicked do not get what they deserve.",
+        "refs": [
+          "Eccl 7:1-29",
+          "Eccl 8:14-17"
+        ]
+      },
+      {
+        "label": "Seize the day",
+        "detail": "Since death is certain and timing uncertain, eat, drink, love and work with all your strength, and take bold risks.",
+        "refs": [
+          "Eccl 9:7-10",
+          "Eccl 11:1-6"
+        ]
+      },
+      {
+        "label": "Remember your Creator",
+        "detail": "A poem on youth, old age and death; the editor concludes: fear God and keep his commandments, for God will judge.",
+        "refs": [
+          "Eccl 12:1-7",
+          "Eccl 12:13-14"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Ecclesiastes: life as breath",
+      "branches": [
+        {
+          "label": "Hevel",
+          "items": [
+            "Vapour, not meaningless",
+            "Fleeting and ungraspable",
+            "Applies to all striving"
+          ]
+        },
+        {
+          "label": "What fails",
+          "items": [
+            "Wisdom alone",
+            "Pleasure",
+            "Wealth and building",
+            "Reputation"
+          ]
+        },
+        {
+          "label": "Hard realities",
+          "items": [
+            "Death levels all",
+            "Injustice persists",
+            "Timing beyond control"
+          ]
+        },
+        {
+          "label": "What remains",
+          "items": [
+            "Joy as God's gift",
+            "Bread, wine, love, work",
+            "Companionship"
+          ]
+        },
+        {
+          "label": "Conclusion",
+          "items": [
+            "Remember your Creator",
+            "Fear God",
+            "Keep his commandments",
+            "God will judge"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Vapour / vanity",
+        "original": "hevel (הֶבֶל)",
+        "meaning": "Breath, mist, vapour: something real but brief and beyond our grasp. It is also the name Abel, the brother whose life was cut short (Gen 4:2).",
+        "refs": [
+          "Eccl 1:2",
+          "Eccl 12:8",
+          "Ps 144:4"
+        ]
+      },
+      {
+        "word": "Profit / gain",
+        "original": "yitron (יִתְרוֹן)",
+        "meaning": "Surplus, net gain, what is left over. Qohelet asks what lasting surplus a person gets from all their toil.",
+        "refs": [
+          "Eccl 1:3",
+          "Eccl 2:11",
+          "Eccl 3:9"
+        ]
+      },
+      {
+        "word": "Portion",
+        "original": "heleq (חֵלֶק)",
+        "meaning": "One's allotted share, like a share of land or of an inheritance. It is God's gift to enjoy now.",
+        "refs": [
+          "Eccl 2:10",
+          "Eccl 3:22",
+          "Eccl 9:9"
+        ]
+      },
+      {
+        "word": "Eternity",
+        "original": "olam (עוֹלָם)",
+        "meaning": "A long or unending time. God 'has put olam into their hearts' (Eccl 3:11): a sense of more than the present, without the ability to see it all.",
+        "refs": [
+          "Eccl 3:11",
+          "Eccl 3:14"
+        ]
+      },
+      {
+        "word": "Teacher / Gatherer",
+        "original": "qohelet (קֹהֶלֶת)",
+        "meaning": "From *qahal*, 'assembly'. Translated 'the Preacher' (from Greek *Ekklesiastes*, a member or speaker of the assembly).",
+        "refs": [
+          "Eccl 1:1",
+          "Eccl 12:9-10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "Qohelet's world of toil, dust and death is the world after Gen 3, and *hevel* recalls Abel, the first to die.",
+        "refs": [
+          "Gen 3:17-19",
+          "Gen 4:2",
+          "Eccl 3:20"
+        ]
+      },
+      {
+        "bookId": "proverbs",
+        "how": "Ecclesiastes uses Proverbs' form but tests its confidence, admitting that wisdom cannot secure the outcomes it usually brings.",
+        "refs": [
+          "Eccl 7:15",
+          "Prov 10:27"
+        ]
+      },
+      {
+        "bookId": "job",
+        "how": "Both books challenge a tidy view of reward and punishment and end with God's sovereignty and human reverence.",
+        "refs": [
+          "Eccl 8:14",
+          "Job 21:7"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul says creation was 'subjected to futility' in hope; the Greek word is the Septuagint's word for *hevel* in Ecclesiastes.",
+        "refs": [
+          "Rom 8:20-21"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "Paul's argument that without resurrection we might as well 'eat and drink, for tomorrow we die' engages the same question of death's shadow over toil; his answer is that labour in the Lord is not in vain.",
+        "refs": [
+          "1 Cor 15:32",
+          "1 Cor 15:58"
+        ]
+      }
+    ],
+    "jesusLens": "Christian readers have often treated Ecclesiastes as the honest question to which the resurrection is God's answer. Paul says creation was subjected to 'futility' (the Septuagint's word for *hevel*) 'in hope' of liberation (Rom 8:20-21), and he ends his great resurrection chapter by saying that labour in the Lord is 'not in vain' (1 Cor 15:58), as if speaking straight to Qohelet's question about lasting gain. Jesus' teaching on not storing up treasures that moth and rust destroy (Matt 6:19-21) and his parable of the rich fool (Luke 12:16-21) echo Ecclesiastes closely. Jewish readers, by contrast, see the book's answer in the fear of God and the commandments, and in receiving life's joys within the Torah's festivals. Both read the book as clearing away false hopes.",
+    "misreadings": [
+      {
+        "topic": "'Vanity' as 'everything is meaningless'",
+        "popular": "Ecclesiastes teaches that life without God is meaningless, so the book is a negative example of a backslidden Solomon showing where unbelief leads, to be skipped until the last verses.",
+        "inContext": "*Hevel* means 'breath' or 'vapour': brief, fragile, beyond control, rather than worthless. Qohelet never says joy, work or love are worthless; he repeatedly commends them as God's gifts. Scholars such as Michael Fox ('absurd'), Craig Bartholomew and Ellen Davis show the book is a serious, faith-filled wrestling with limits, not a record of apostasy.",
+        "defence": "Some evangelical scholars, such as Tremper Longman, do read Qohelet's own voice as a sceptic's, corrected by the editor's final word. Others, like Bartholomew and Iain Provan, read Qohelet himself more positively. Both camps agree the book is inspired as a whole and that its frankness is meant to drive readers to fear God, not to be ignored.",
+        "whyItMatters": "Read as 'everything is meaningless', the book seems depressing and useless. Read as 'everything is breath', it teaches contentment, gratitude and humility, and frees people from trying to control their lives.",
+        "refs": [
+          "Eccl 1:2",
+          "Eccl 2:24-26",
+          "Eccl 9:7-10",
+          "Eccl 12:13-14"
+        ],
+        "scholars": [
+          "Michael V. Fox",
+          "Craig Bartholomew",
+          "Tremper Longman III",
+          "Iain Provan",
+          "Ellen Davis"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Eccl 3:11 'eternity in their hearts' as a 'God-shaped hole'",
+        "popular": "God put eternity in the human heart, so everyone has a built-in longing for heaven that only Christ can fill.",
+        "inContext": "In context, Qohelet's point is double-edged: God has given humans a sense of the whole sweep of time, yet 'so that they cannot find out what God has done from beginning to end'. It describes both longing and frustration, the creaturely limit of knowing there is more without being able to see it.",
+        "defence": "Evangelical commentators largely accept the context but note that the verse does point to a God-given longing, so the popular use catches something true, even if it leaves out Qohelet's emphasis on human limits.",
+        "whyItMatters": "Hearing the whole verse teaches humility about what we can understand, and trust in a God whose timing we cannot master.",
+        "refs": [
+          "Eccl 3:11",
+          "Eccl 3:14",
+          "Eccl 8:17"
+        ],
+        "scholars": [
+          "Craig Bartholomew",
+          "Tremper Longman III"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "In a commercial, foreign-ruled Judah where wealth and status were uncertain, Ecclesiastes warned against chasing control and commended a grateful, God-fearing, joyful life within limits.",
+      "now": "In cultures driven by productivity, achievement and fear of death, Ecclesiastes offers sober honesty and a freeing invitation: enjoy your meals, your work and the people you love as gifts, and leave what you cannot control to God."
+    },
+    "sources": [
+      {
+        "author": "Michael V. Fox",
+        "title": "A Time to Tear Down and a Time to Build Up: A Rereading of Ecclesiastes",
+        "year": 1999
+      },
+      {
+        "author": "Craig G. Bartholomew",
+        "title": "Ecclesiastes (Baker Commentary on the Old Testament Wisdom and Psalms)",
+        "year": 2009
+      },
+      {
+        "author": "Tremper Longman III",
+        "title": "The Book of Ecclesiastes (NICOT)",
+        "year": 1998
+      },
+      {
+        "author": "Choon-Leong Seow",
+        "title": "Ecclesiastes (Anchor Bible)",
+        "year": 1997
+      }
+    ]
+  },
+  {
+    "id": "song-of-songs",
+    "oneLine": "A cycle of love poems in which a woman and a man long for, praise and find each other, celebrating desire as God's good gift and love as strong as death.",
+    "author": {
+      "name": "Unknown poet, linked with Solomon",
+      "who": "The title links the Song to Solomon, who appears in it as a royal figure (Song 3:7-11; Song 8:11-12). The dominant voice, however, is the woman's: she speaks more lines than anyone else, a rarity in ancient literature.",
+      "howWeKnow": "The heading reads *asher li-shlomoh*, 'which is to/for/of Solomon'. That can mean authorship, dedication or 'in the Solomonic tradition'. The poems mention places across the land, from Lebanon and Hermon to En-gedi and Jerusalem, and include possible loanwords from Persian (*pardes*, 'orchard', Song 4:13) and perhaps Greek (*appiryon*, 'carriage', Song 3:9), which lead many to a later date; others think old love poetry was updated over time.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem and the land of Israel",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The 'daughters of Jerusalem' are addressed repeatedly; the imagery comes from vineyards, gardens and countryside across Israel.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israelites at weddings and celebrations, and later the worshipping community",
+      "place": "Israel",
+      "situation": "Love songs were sung at weddings and feasts across the ancient Near East; Egyptian love poems of the New Kingdom period share many images (gardens, gazelles, 'sister' as a term of endearment). The Song may have been used at Israelite wedding celebrations before it was read in worship.",
+      "confidence": "speculative"
+    },
+    "worldEvents": [
+      {
+        "year": -1250,
+        "event": "Egyptian New Kingdom love songs (e.g. Papyrus Harris 500, Chester Beatty I) use images close to the Song's (dating approximate)."
+      },
+      {
+        "year": -950,
+        "event": "Solomon's reign: the traditional setting of the Song and the era of its royal imagery."
+      },
+      {
+        "year": -450,
+        "event": "Persian period: one widely held date for the Song's final language."
+      },
+      {
+        "year": 90,
+        "event": "Rabbi Akiva defends the Song as 'holy of holies' among the Writings (Mishnah Yadayim 3:5; dating approximate)."
+      }
+    ],
+    "backdrop": "The Song of Songs, meaning 'the greatest song', never mentions God directly (unless in the phrase *shalhevetyah*, 'flame of Yah', in Song 8:6, which may simply mean 'a mighty flame'). It never mentions covenant, law, temple or prayer. It is love poetry: a woman and a man describe each other's bodies with lush images, long for each other at night, search the streets, meet in gardens and vineyards, and declare that love is 'strong as death' (Song 8:6).\n\nScholars disagree on its structure. Some read a single story moving from courtship to wedding (Song 3:6-5:1) to married love; some read a drama with three characters, in which the woman stays faithful to her shepherd lover despite Solomon's advances; many now read it as an anthology or loose cycle of poems held together by repeated refrains. The most important refrain is the warning to the 'daughters of Jerusalem' not to stir up or awaken love until it pleases (Song 2:7; Song 3:5; Song 8:4).\n\nIts images belong to the ancient Near East. Comparing teeth to a flock of washed ewes or a nose to a tower of Lebanon (Song 4:2; Song 7:4) sounds odd in English but described beauty, strength and dignity. Gardens, fountains, spices and fruit are well-known symbols of sexual love, sometimes stated, sometimes veiled. The woman is called 'my sister, my bride', a term of tender affection also found in Egyptian love songs.\n\nPart of the Song's power lies in what it reverses. In Gen 3:16 the woman's desire is toward her husband and he will rule over her; in the Song the woman says, 'I am my beloved's, and his desire is for me' (Song 7:10), using the same rare word for desire (*teshuqah*). Many interpreters see here love restored to the mutuality of Eden.",
+    "culture": [
+      {
+        "term": "Garden imagery",
+        "explain": "The woman is a locked garden and sealed fountain (exclusive, chaste); when she invites her beloved into her garden, the language describes the consummation of love. The setting recalls Eden.",
+        "refs": [
+          "Song 4:12-16",
+          "Song 5:1",
+          "Gen 2:8-10"
+        ]
+      },
+      {
+        "term": "'My sister, my bride'",
+        "explain": "A conventional term of affection in ancient Near Eastern love poetry, also found in Egyptian songs, expressing closeness and belonging, not literal kinship.",
+        "refs": [
+          "Song 4:9-10",
+          "Song 4:12",
+          "Song 5:1"
+        ]
+      },
+      {
+        "term": "Wasf (praise song)",
+        "explain": "A poem describing the beloved's body piece by piece, from head down or feet up. The term comes from Arabic wedding songs studied in the 19th century.",
+        "refs": [
+          "Song 4:1-7",
+          "Song 5:10-16",
+          "Song 7:1-9"
+        ]
+      },
+      {
+        "term": "Brothers and the vineyard",
+        "explain": "In a household culture, brothers guarded a sister's honour and marriage arrangements. The woman's own 'vineyard' (her body, her choice) is a recurring image.",
+        "refs": [
+          "Song 1:6",
+          "Song 8:8-12"
+        ]
+      },
+      {
+        "term": "Wedding procession",
+        "explain": "Song 3:6-11 pictures a royal wedding procession with Solomon carried on a litter, crowned by his mother on his wedding day.",
+        "refs": [
+          "Song 3:6-11"
+        ]
+      },
+      {
+        "term": "Watchmen and the city",
+        "explain": "The woman searches the city by night for her beloved; once the watchmen beat her. The scenes express the risk and longing of love in a public, honour-conscious world.",
+        "refs": [
+          "Song 3:1-4",
+          "Song 5:6-7"
+        ]
+      }
+    ],
+    "jewishLens": "The Song of Songs is read in synagogue at Passover, one of the five *Megillot*; in many communities it is read on the Sabbath of the festival, and Sephardi and other communities also recite it on Friday evenings before the Sabbath. The link with Passover comes from the long Jewish reading of the Song as the love story between God and Israel. The spring imagery ('the winter is past ... the time of singing has come', Song 2:11-12) matches the season of the exodus, and 'I compare you, my love, to a mare among Pharaoh's chariots' (Song 1:9) was read as the crossing of the sea.\n\nThe Targum to the Song turns the poem into a history of Israel, from the exodus and Sinai through the temple, exile and return, to the coming of the Messiah. Rabbi Akiva famously said that 'all the Writings are holy, but the Song of Songs is the holy of holies' (Mishnah Yadayim 3:5), and the Tosefta records his warning that anyone who sings it at banquets as a secular song has no share in the world to come (Tosefta Sanhedrin 12:10). Rashi's commentary reads it as the words of Israel in exile, a wife remembering her husband's former love and longing for his return.\n\nThis allegorical tradition did not deny the plain sense of human love; it saw in human love a picture of covenant love. The prophets had already described the covenant as a marriage, with Israel as God's bride (Hos 2:16-20; Jer 2:2; Isa 62:5). Read relationally, the Song shows what covenant was meant to feel like from the inside: delight, longing, exclusive loyalty, searching and finding, and a love that 'many waters cannot quench' (Song 8:7).",
+    "flow": [
+      {
+        "label": "Longing and first delight",
+        "detail": "The woman longs for her beloved's kisses; they praise each other in the countryside.",
+        "refs": [
+          "Song 1:2-2:7"
+        ]
+      },
+      {
+        "label": "Spring invitation",
+        "detail": "He comes leaping over the hills: arise, my love, the winter is past. 'My beloved is mine and I am his.'",
+        "refs": [
+          "Song 2:8-17"
+        ]
+      },
+      {
+        "label": "Night search",
+        "detail": "She seeks him through the city at night, finds him and will not let him go.",
+        "refs": [
+          "Song 3:1-5"
+        ]
+      },
+      {
+        "label": "Wedding and the garden",
+        "detail": "Solomon's wedding procession; he praises her beauty and enters her garden.",
+        "refs": [
+          "Song 3:6-11",
+          "Song 4:1-5:1"
+        ]
+      },
+      {
+        "label": "Absence and searching",
+        "detail": "She hesitates, he leaves; she searches, is wounded by watchmen, and describes him to the daughters of Jerusalem.",
+        "refs": [
+          "Song 5:2-6:3"
+        ]
+      },
+      {
+        "label": "Praise renewed",
+        "detail": "He praises her again from her feet upward; she invites him to the fields.",
+        "refs": [
+          "Song 6:4-8:4"
+        ]
+      },
+      {
+        "label": "Love strong as death",
+        "detail": "Set me as a seal on your heart; love's flame cannot be quenched or bought.",
+        "refs": [
+          "Song 8:5-14",
+          "Song 8:6-7"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Song of Songs: love's song",
+      "branches": [
+        {
+          "label": "Voices",
+          "items": [
+            "The woman (main voice)",
+            "The man",
+            "Daughters of Jerusalem",
+            "Brothers"
+          ]
+        },
+        {
+          "label": "Images",
+          "items": [
+            "Gardens and vineyards",
+            "Gazelles and doves",
+            "Spices and wine",
+            "Lebanon and Jerusalem"
+          ]
+        },
+        {
+          "label": "Themes",
+          "items": [
+            "Mutual desire",
+            "Exclusive loyalty",
+            "Waiting for love's time",
+            "Love strong as death"
+          ]
+        },
+        {
+          "label": "Readings",
+          "items": [
+            "Human love poetry",
+            "God and Israel",
+            "Christ and church",
+            "Christ and the soul"
+          ]
+        },
+        {
+          "label": "Echoes",
+          "items": [
+            "Eden restored",
+            "Prophets' marriage imagery",
+            "Passover reading"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Beloved",
+        "original": "dod (דּוֹד)",
+        "meaning": "Darling, lover; the woman's main name for the man (over 30 times). The plural *dodim* means love-making or caresses (Song 1:2).",
+        "refs": [
+          "Song 2:16",
+          "Song 5:10",
+          "Song 1:2"
+        ]
+      },
+      {
+        "word": "My love / companion",
+        "original": "ra'yati (רַעְיָתִי)",
+        "meaning": "'My darling', 'my friend', the man's name for the woman; it combines affection with companionship.",
+        "refs": [
+          "Song 1:9",
+          "Song 2:10",
+          "Song 4:1"
+        ]
+      },
+      {
+        "word": "Love",
+        "original": "ahavah (אַהֲבָה)",
+        "meaning": "Love in its full sense; the same word used for God's covenant love for Israel (Deut 7:8).",
+        "refs": [
+          "Song 2:7",
+          "Song 8:6-7",
+          "Deut 7:8"
+        ]
+      },
+      {
+        "word": "Desire",
+        "original": "teshuqah (תְּשׁוּקָה)",
+        "meaning": "Longing, desire; used only three times in the Hebrew Bible, linking the Song to Gen 3.",
+        "refs": [
+          "Song 7:10",
+          "Gen 3:16",
+          "Gen 4:7"
+        ]
+      },
+      {
+        "word": "Seal",
+        "original": "hotam (חוֹתָם)",
+        "meaning": "A signet or cylinder seal worn on a cord or ring, marking ownership and identity: 'set me as a seal upon your heart'.",
+        "refs": [
+          "Song 8:6",
+          "Hag 2:23"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "The Song's garden and mutual desire recall Eden before shame and reverse the distortion of Gen 3:16.",
+        "refs": [
+          "Gen 2:23-25",
+          "Gen 3:16",
+          "Song 7:10"
+        ]
+      },
+      {
+        "bookId": "hosea",
+        "how": "Hosea and other prophets picture the covenant as a marriage, the backdrop for allegorical readings.",
+        "refs": [
+          "Hos 2:14-20",
+          "Jer 2:2",
+          "Isa 62:5"
+        ]
+      },
+      {
+        "bookId": "proverbs",
+        "how": "Proverbs commends delight in the wife of one's youth and warns against the adulterous woman; the Song shows the delight from the inside.",
+        "refs": [
+          "Prov 5:15-19"
+        ]
+      },
+      {
+        "bookId": "ephesians",
+        "how": "Paul calls marriage a 'mystery' that refers to Christ and the church, the basis for Christian allegorical readings.",
+        "refs": [
+          "Eph 5:31-32"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "The Bible ends with the marriage of the Lamb and his bride.",
+        "refs": [
+          "Rev 19:7-9",
+          "Rev 21:2"
+        ]
+      }
+    ],
+    "jesusLens": "Christian interpreters from Origen (3rd century) and Bernard of Clairvaux (12th century, 86 sermons on the Song) to Puritans such as Richard Sibbes read the Song as the love of Christ for the church or the individual soul. They drew on the New Testament's picture of Jesus as the bridegroom (Mark 2:19-20; John 3:29) and of the church as his bride (Eph 5:25-32; Rev 19:7). Many modern Christian interpreters, while affirming the Song's literal subject is human love, see it pointing beyond itself: faithful human love is a living image of God's covenant love. Jewish allegory, by contrast, reads the lovers as God and Israel, and Jewish tradition does not apply it to Jesus.",
+    "misreadings": [
+      {
+        "topic": "A step-by-step story of Solomon's dating and marriage",
+        "popular": "The Song is a single chronological narrative of Solomon's courtship, wedding and married life, giving a model sequence and practical instructions for Christian dating and marriage.",
+        "inContext": "Most scholars think the Song is a lyric cycle, not a plot. Scenes repeat and overlap, the speakers' identities are sometimes unclear, and Solomon is ambiguous: the historical Solomon had 700 wives and 300 concubines (1 Kgs 11:3), hardly a model of exclusive love, and Song 8:11-12 may even contrast the lovers' single vineyard with Solomon's many. Scholars such as J. Cheryl Exum, Tremper Longman and Ellen Davis read the Song as poetry of love's experience.",
+        "defence": "Some evangelical teachers (e.g. Tommy Nelson, Daniel Akin) defend a narrative reading as a legitimate way to draw out the Song's progression from longing to wedding to marriage, which does appear in 3:6-5:1. Many evangelical scholars accept the Song celebrates love within marriage but caution against reading it as a manual.",
+        "whyItMatters": "Forcing a plot can turn poetry into rules. Reading it as poetry lets it shape desire, delight and faithfulness without pretending to give a dating formula.",
+        "refs": [
+          "Song 3:6-11",
+          "Song 8:11-12",
+          "1 Kgs 11:3"
+        ],
+        "scholars": [
+          "J. Cheryl Exum",
+          "Tremper Longman III",
+          "Ellen Davis",
+          "Daniel Akin"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Only allegory, or only sex",
+        "popular": "Older devotional readings treat the Song purely as a picture of Christ and my soul, embarrassed by its physical meaning; some recent readings treat it only as a celebration of sex, with no reference to God.",
+        "inContext": "Both Jewish and Christian traditions held the plain and spiritual readings together more than popular use suggests. The Song's literal subject is human love, which Scripture treats as good (Gen 2:24-25), and the prophets' marriage imagery makes a further covenant reading natural. Scholars such as Ellen Davis and Richard Davidson argue the two are not rivals.",
+        "defence": "Many traditional evangelical commentators (e.g. Iain Duguid) affirm the literal meaning while seeing the Song as a picture of God's love through the lens of the Bible's marriage theme; few defend pure allegory today.",
+        "whyItMatters": "Denying the plain sense teaches shame about the body; denying the wider sense loses the Song's place in the Bible's covenant love story.",
+        "refs": [
+          "Song 8:6-7",
+          "Gen 2:24-25",
+          "Eph 5:31-32"
+        ],
+        "scholars": [
+          "Ellen Davis",
+          "Iain Duguid",
+          "Richard M. Davidson"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "The Song gave Israel a holy language for desire, beauty and faithful love, set within a covenant faith that also pictured God's love for Israel as a marriage.",
+      "now": "It affirms that bodies and desire are good, that love should be mutual, patient ('do not awaken love until it pleases') and exclusive, and that faithful love is a living image of God's own unquenchable love."
+    },
+    "sources": [
+      {
+        "author": "J. Cheryl Exum",
+        "title": "Song of Songs (Old Testament Library)",
+        "year": 2005
+      },
+      {
+        "author": "Tremper Longman III",
+        "title": "Song of Songs (NICOT)",
+        "year": 2001
+      },
+      {
+        "author": "Michael V. Fox",
+        "title": "The Song of Songs and the Ancient Egyptian Love Songs",
+        "year": 1985
+      },
+      {
+        "author": "Marvin H. Pope",
+        "title": "Song of Songs (Anchor Bible)",
+        "year": 1977
+      },
+      {
+        "author": "Iain M. Duguid",
+        "title": "The Song of Songs (Tyndale Old Testament Commentaries)",
+        "year": 2015,
+        "confidence": "needs-verification"
+      }
+    ]
+  },
+  {
+    "id": "isaiah",
+    "oneLine": "The great vision of the Holy One of Israel: judgment on a faithless people, a remnant, a coming son of David, a suffering Servant, comfort and a new exodus for exiles, and a new creation where the nations come to Zion.",
+    "author": {
+      "name": "Isaiah son of Amoz (and, on many views, his later disciples)",
+      "who": "A prophet in Jerusalem who had access to kings, was married to 'the prophetess' and gave his sons symbolic names (Isa 7:3; Isa 8:3). He saw the LORD enthroned in the temple in the year King Uzziah died (about 740 BC) and ministered at least until Sennacherib's invasion in 701 BC.",
+      "howWeKnow": "The heading (Isa 1:1) dates Isaiah's visions to the reigns of Uzziah, Jotham, Ahaz and Hezekiah. Narrative chapters (Isa 36-39) parallel 2 Kgs 18-20. The question is whether chapters 40-66 come from the same prophet. Isa 40-55 addresses Jews already in Babylonian exile and names Cyrus of Persia (Isa 44:28; Isa 45:1) as a figure the audience knows; most critical scholars therefore assign them to a prophet of the 540s BC, and Isa 56-66 to the restored community. Conservative scholars such as J. A. Motyer, John Oswalt and Oswald Allis defend one author, pointing to the shared title 'the Holy One of Israel' (used about 12 times in Isa 1-39 and about 13 times in Isa 40-66, rarely elsewhere), the unbroken Great Isaiah Scroll from Qumran, God's claim in these very chapters to announce events before they happen (Isa 41:21-23; Isa 46:9-10), and New Testament citations of both halves as Isaiah's (John 12:38-41).",
+      "otherWritings": [
+        "A history of Uzziah's reign (2 Chr 26:22)",
+        "A record of Hezekiah's deeds (2 Chr 32:32)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem (and, on the multi-author view, Babylon and post-exilic Jerusalem)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Isaiah of Jerusalem moved in temple and palace circles. Critical scholars place Isa 40-55 among exiles in Babylon and Isa 56-66 back in Judah after 539 BC.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Judah and Jerusalem, then the exiles, then the returning community",
+      "place": "Jerusalem; Babylon",
+      "situation": "Isa 1-39 addresses a nation tempted to trust Egypt or Assyria rather than God. Isa 40-55 speaks comfort to people who believed God had abandoned them in Babylon. Isa 56-66 addresses a small, struggling community in rebuilt Jerusalem, divided over who belongs and how to worship.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -740,
+      "to": -701,
+      "note": "Narrative episodes run from Isaiah's call (year Uzziah died) to Sennacherib's siege and Hezekiah's illness; the oracles look ahead to exile, Cyrus (539 BC) and the new creation."
+    },
+    "worldEvents": [
+      {
+        "year": -745,
+        "event": "Tiglath-pileser III takes the Assyrian throne and begins aggressive westward expansion."
+      },
+      {
+        "year": -734,
+        "event": "Syro-Ephraimite crisis: Aram and Israel attack Judah; Ahaz appeals to Assyria (Isa 7; 2 Kgs 16)."
+      },
+      {
+        "year": -722,
+        "event": "Samaria falls to Assyria; the northern kingdom ends."
+      },
+      {
+        "year": -701,
+        "event": "Sennacherib devastates Judah and besieges Jerusalem; his annals boast he shut Hezekiah up 'like a bird in a cage' but do not claim the city's capture."
+      },
+      {
+        "year": -539,
+        "event": "Cyrus of Persia takes Babylon and soon permits exiles to return (Isa 44:28; Ezra 1:1-4)."
+      }
+    ],
+    "backdrop": "Isaiah lived through the rise of the Assyrian empire, the most brutal military power the region had yet seen. In 734 BC, when Aram (Damascus) and the northern kingdom of Israel tried to force Judah into a coalition against Assyria, Isaiah met King Ahaz at a water channel and urged him to trust God: 'If you do not stand firm in faith, you will not stand at all' (Isa 7:9). Ahaz instead sent tribute to Assyria and became its vassal. In 722 BC Samaria fell. In 701 BC Sennacherib swept through Judah, destroyed Lachish (the siege is carved on reliefs now in the British Museum) and besieged Jerusalem, which was spared (Isa 36-37).\n\nIsaiah's message is anchored in his vision of God as 'the Holy One of Israel', enthroned above the temple, whose glory fills the whole earth (Isa 6:1-3). Because God is holy, Judah's injustice, idolatry and empty worship are intolerable (Isa 1:10-17; Isa 5:1-7). Because God is faithful, a remnant will survive and a new king from the stump of Jesse will rule in justice (Isa 11:1-9). Isaiah also performed sign-acts, such as walking stripped and barefoot for three years to warn against trusting Egypt (Isa 20:2-4).\n\nFrom chapter 40 the horizon changes. Jerusalem's warfare is over; Babylon, not Assyria, is the oppressor; Cyrus is coming. The prophet announces a new exodus through the desert, mocks the idols of Babylon, and introduces 'the Servant of the LORD', who is sometimes Israel (Isa 41:8; Isa 49:3) and sometimes a figure who restores Israel and suffers for others (Isa 49:5-6; Isa 52:13-53:12). The last chapters wrestle with life after return: true fasting, the inclusion of foreigners and eunuchs (Isa 56:3-8), and the promise of new heavens and a new earth (Isa 65:17).\n\nThe authorship question is real but should not obscure the book's unity of theme. Even scholars who hold to multiple authors now emphasise that the book was shaped as a single work, with key themes (Zion, the Holy One, the highway, the nations streaming to God) running from the first chapter to the last. Brevard Childs and H. G. M. Williamson have been influential in this 'whole book' approach.",
+    "culture": [
+      {
+        "term": "Seraphim and the throne room",
+        "explain": "'Burning ones', six-winged beings around God's throne. Isaiah's vision uses temple imagery: the hem of a royal robe filling the sanctuary, smoke, and a coal from the altar to purify the prophet's lips.",
+        "refs": [
+          "Isa 6:1-7"
+        ]
+      },
+      {
+        "term": "Sign names",
+        "explain": "Isaiah's sons carry message names: Shear-jashub, 'a remnant will return', and Maher-shalal-hash-baz, 'quick to the plunder, swift to the spoil'. Immanuel, 'God with us', belongs to the same pattern of names as signs.",
+        "refs": [
+          "Isa 7:3",
+          "Isa 7:14",
+          "Isa 8:1-4",
+          "Isa 8:18"
+        ]
+      },
+      {
+        "term": "Vineyard song",
+        "explain": "Isaiah sings like a wedding entertainer about a friend's vineyard that yields wild grapes, then reveals that the vineyard is Israel. Jesus reuses the image in his parable of the tenants.",
+        "refs": [
+          "Isa 5:1-7",
+          "Mark 12:1-12"
+        ]
+      },
+      {
+        "term": "Mocking idols",
+        "explain": "Isa 44 describes a man cutting a tree, cooking his dinner over half of it and bowing to the other half as a god. In Babylon, gods were carried in great processions; Isaiah pictures them carried off as baggage on weary animals.",
+        "refs": [
+          "Isa 44:9-20",
+          "Isa 46:1-2"
+        ]
+      },
+      {
+        "term": "Cyrus the anointed",
+        "explain": "God calls the Persian king Cyrus 'his anointed' (*mashiah*), the only foreign ruler given this title. The Cyrus Cylinder (539 BC) records his policy of restoring displaced peoples and their gods, consistent with Ezra 1.",
+        "refs": [
+          "Isa 44:28",
+          "Isa 45:1-7",
+          "Ezra 1:1-4"
+        ]
+      },
+      {
+        "term": "The highway and the new exodus",
+        "explain": "Isaiah pictures a road built through the desert for God and his people to return, with water in the wilderness, echoing the first exodus.",
+        "refs": [
+          "Isa 35:8-10",
+          "Isa 40:3-5",
+          "Isa 43:16-21"
+        ]
+      }
+    ],
+    "jewishLens": "Isaiah is the prophet most often read in the synagogue. After Tisha B'Av, the fast mourning the temple's destruction, come the 'seven haftarot of consolation', all from Isa 40-66, beginning with 'Comfort, comfort my people' (Isa 40:1). That Sabbath is named *Shabbat Nahamu*, 'the Sabbath of Comfort'. The Sabbath before Tisha B'Av is *Shabbat Hazon*, named after Isa 1:1, 'The vision of Isaiah', with its indictment of Jerusalem. The seraphim's cry 'Holy, holy, holy is the LORD of hosts; the whole earth is full of his glory' (Isa 6:3) forms the heart of the *Kedushah* prayer recited in daily synagogue worship.\n\nOn the Servant of the LORD, the dominant medieval Jewish reading (Rashi, Ibn Ezra, Kimchi) identifies the servant of Isa 52:13-53:12 with the people of Israel, whose sufferings among the nations will one day astonish the kings of the earth; this rests on texts where God names the servant as Israel (Isa 41:8; Isa 44:1-2; Isa 49:3). Earlier Jewish sources sometimes read the passage messianically: the Aramaic Targum begins 'Behold, my servant the Messiah shall prosper' while transferring the suffering to others, and the Talmud calls the Messiah 'the leper' with reference to Isa 53:4 (Sanhedrin 98b). Jewish tradition also preserves the story that Isaiah was martyred under King Manasseh (Yevamot 49b), which may be what Heb 11:37 refers to.\n\nRead covenantally, Isaiah is about God's faithfulness to Zion and to the house of David despite Israel's unfaithfulness. Judgment is real, but it is the discipline of a husband and father who will not let his people go (Isa 49:14-16; Isa 54:5-8). The promised restoration is always wider than Israel alone: Zion becomes a house of prayer for all peoples (Isa 56:7), and the nations come to learn Torah from Jerusalem (Isa 2:2-4).",
+    "flow": [
+      {
+        "label": "Indictment and invitation",
+        "detail": "God sues his children for rebellion and empty worship, yet offers cleansing: though your sins are like scarlet.",
+        "refs": [
+          "Isa 1:2-20"
+        ]
+      },
+      {
+        "label": "Vision and call",
+        "detail": "Isaiah sees the holy King, is cleansed and sent to a people who will not listen.",
+        "refs": [
+          "Isa 6:1-13"
+        ]
+      },
+      {
+        "label": "Trust or alliances",
+        "detail": "Ahaz rejects the Immanuel sign; Isaiah promises a child-king of David's line and a shoot from Jesse.",
+        "refs": [
+          "Isa 7:1-14",
+          "Isa 9:6-7",
+          "Isa 11:1-9"
+        ]
+      },
+      {
+        "label": "Nations judged, world remade",
+        "detail": "Oracles against the nations, then a vision of world judgment and a feast on Zion where death is swallowed up.",
+        "refs": [
+          "Isa 13:1",
+          "Isa 25:6-9",
+          "Isa 26:19"
+        ]
+      },
+      {
+        "label": "Jerusalem spared",
+        "detail": "Hezekiah trusts God against Sennacherib and is delivered, then shows his treasures to Babylon's envoys, foreshadowing exile.",
+        "refs": [
+          "Isa 36:1",
+          "Isa 37:33-37",
+          "Isa 39:5-7"
+        ]
+      },
+      {
+        "label": "Comfort and new exodus",
+        "detail": "The exile is over; God comes as shepherd, overpowers idols, raises Cyrus and leads his people home.",
+        "refs": [
+          "Isa 40:1-11",
+          "Isa 43:18-21",
+          "Isa 45:1-7"
+        ]
+      },
+      {
+        "label": "The suffering Servant",
+        "detail": "The Servant brings justice to the nations, is rejected, wounded for others' sins, and exalted.",
+        "refs": [
+          "Isa 42:1-4",
+          "Isa 49:1-6",
+          "Isa 52:13-53:12"
+        ]
+      },
+      {
+        "label": "New heavens, new earth",
+        "detail": "True fasting and justice, a Spirit-anointed herald, foreigners welcomed, and a renewed creation centred on Zion.",
+        "refs": [
+          "Isa 56:3-8",
+          "Isa 58:6-7",
+          "Isa 61:1-3",
+          "Isa 65:17-25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Isaiah: the Holy One of Israel",
+      "branches": [
+        {
+          "label": "God",
+          "items": [
+            "Holy One of Israel",
+            "Creator and King",
+            "Only true God",
+            "Redeemer"
+          ]
+        },
+        {
+          "label": "Judgment",
+          "items": [
+            "Injustice and idolatry",
+            "Empty worship",
+            "Assyria and Babylon",
+            "Remnant survives"
+          ]
+        },
+        {
+          "label": "Hope figures",
+          "items": [
+            "Immanuel",
+            "Shoot from Jesse",
+            "Suffering Servant",
+            "Spirit-anointed herald"
+          ]
+        },
+        {
+          "label": "Restoration",
+          "items": [
+            "Comfort my people",
+            "New exodus",
+            "Zion rebuilt",
+            "New heavens and earth"
+          ]
+        },
+        {
+          "label": "Nations",
+          "items": [
+            "Streaming to Zion",
+            "Light to the nations",
+            "Cyrus as tool",
+            "House of prayer for all"
+          ]
+        },
+        {
+          "label": "Authorship",
+          "items": [
+            "Isaiah of Jerusalem",
+            "Second and Third Isaiah",
+            "Unity of the whole"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Holy",
+        "original": "qadosh (קָדוֹשׁ)",
+        "meaning": "Set apart, utterly other, morally pure. 'The Holy One of Israel' is Isaiah's signature name for God, combining otherness with covenant closeness.",
+        "refs": [
+          "Isa 6:3",
+          "Isa 1:4",
+          "Isa 43:3"
+        ]
+      },
+      {
+        "word": "Servant",
+        "original": "eved (עֶבֶד)",
+        "meaning": "Servant, slave, minister of a king. The Servant of the LORD is Israel called to a mission, and a figure who fulfils that mission on Israel's behalf.",
+        "refs": [
+          "Isa 41:8",
+          "Isa 49:3-6",
+          "Isa 52:13"
+        ]
+      },
+      {
+        "word": "Comfort",
+        "original": "nahamu (נַחֲמוּ)",
+        "meaning": "Comfort, console; the doubled command that opens the second half of the book.",
+        "refs": [
+          "Isa 40:1",
+          "Isa 51:3",
+          "Isa 66:13"
+        ]
+      },
+      {
+        "word": "Good news",
+        "original": "basar / mevasser (בָּשַׂר / מְבַשֵּׂר)",
+        "meaning": "To announce good news, like a herald running from a battlefield with news of victory: 'Your God reigns!' The Greek translation is the source of the New Testament word 'gospel'.",
+        "refs": [
+          "Isa 40:9",
+          "Isa 52:7",
+          "Isa 61:1"
+        ]
+      },
+      {
+        "word": "Remnant",
+        "original": "she'ar (שְׁאָר)",
+        "meaning": "Those left after judgment, the seed of the future people of God.",
+        "refs": [
+          "Isa 7:3",
+          "Isa 10:20-22",
+          "Isa 11:11"
+        ]
+      },
+      {
+        "word": "Redeemer",
+        "original": "go'el (גֹּאֵל)",
+        "meaning": "The next-of-kin who buys back a family member. God is Israel's go'el, bound to them by family loyalty.",
+        "refs": [
+          "Isa 41:14",
+          "Isa 43:14",
+          "Isa 54:5"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-kings",
+        "how": "Isa 36-39 largely duplicates 2 Kgs 18:13-20:19 on Sennacherib's invasion and Hezekiah's illness.",
+        "refs": [
+          "2 Kgs 18:13-37",
+          "Isa 36:1-22"
+        ]
+      },
+      {
+        "bookId": "micah",
+        "how": "Isaiah's contemporary Micah shares the vision of nations streaming to the mountain of the LORD almost word for word.",
+        "refs": [
+          "Mic 4:1-3",
+          "Isa 2:2-4"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew cites Isaiah repeatedly: Immanuel, the light in Galilee, the Servant who bears our sicknesses and who will not break a bruised reed.",
+        "refs": [
+          "Matt 1:22-23",
+          "Matt 4:14-16",
+          "Matt 8:17",
+          "Matt 12:17-21"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Jesus opens his ministry in Nazareth by reading Isa 61:1-2 and declaring it fulfilled.",
+        "refs": [
+          "Luke 4:16-21"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul draws on Isaiah for the gospel to the nations, Israel's unbelief and future salvation.",
+        "refs": [
+          "Rom 10:15-16",
+          "Rom 11:26-27",
+          "Rom 15:12"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation's new heavens and new earth, the holy city and the end of tears draw on Isa 25 and Isa 65.",
+        "refs": [
+          "Rev 21:1-4",
+          "Isa 65:17-19",
+          "Isa 25:8"
+        ]
+      }
+    ],
+    "jesusLens": "Isaiah has been called 'the fifth gospel'. The New Testament quotes it more than any prophet. John the Baptist is the voice crying in the wilderness (Isa 40:3; Mark 1:2-3); Jesus announces the year of the Lord's favour from Isa 61 (Luke 4:18-21) and says the Son of Man came to serve and give his life a ransom for many, language widely heard as echoing Isa 53 (Mark 10:45). Philip explains Isa 53:7-8 to the Ethiopian official as being about Jesus (Acts 8:32-35), and Peter applies 'by his wounds you have been healed' to the cross (1 Pet 2:24). Jewish interpreters read the Servant mainly as Israel or a righteous remnant and the royal oracles of a future human Messiah; they also question whether Isa 7:14 refers to a virgin conception, since the Hebrew *almah* means 'young woman'. Christians respond that the Servant both represents Israel and does for Israel what Israel could not, and that Matthew's use of Isa 7:14 follows the Greek *parthenos*.",
+    "misreadings": [
+      {
+        "topic": "Isa 53:5 as a guarantee of physical healing now",
+        "popular": "'By his stripes we are healed' means healing of bodily sickness is included in the atonement exactly as forgiveness is, so believers can claim healing now by faith.",
+        "inContext": "In Isa 53 the Servant's wounds deal mainly with sin and its consequences: 'he was pierced for our transgressions'. 'Healing' is a frequent prophetic picture for restoring a sinful people (Isa 1:5-6; Isa 6:10). Matthew does apply Isa 53:4 to Jesus' healing ministry (Matt 8:16-17), while Peter applies verse 5 to forgiveness (1 Pet 2:24). Scholars such as Craig Keener and John Oswalt note both dimensions.",
+        "defence": "Pentecostal and charismatic scholars (e.g. Keener, Gordon Fee in a qualified way) agree healing flows from Christ's work and is a foretaste of the kingdom, while warning against claiming it as an automatic right. Reformed scholars such as Thomas Schreiner say physical healing is guaranteed in the resurrection, not necessarily now. Most agree the 'guarantee now' form is a popular overreach.",
+        "whyItMatters": "A guarantee reading leaves sick believers blamed for weak faith; a fuller reading holds out real hope of healing while trusting God through suffering.",
+        "refs": [
+          "Isa 53:4-5",
+          "Matt 8:16-17",
+          "1 Pet 2:24",
+          "Isa 1:5-6"
+        ],
+        "scholars": [
+          "Craig Keener",
+          "John Oswalt",
+          "Gordon Fee",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Isaiah 7:14 as only a far-future prediction",
+        "popular": "Isaiah 7:14 is a straightforward prediction about Jesus' virgin birth with no meaning for King Ahaz in 734 BC.",
+        "inContext": "The sign was given to Ahaz: before the child knows right from wrong, the two kings he feared would be gone (Isa 7:16), which happened within a few years. Many scholars think a child born in Isaiah's day fulfilled the sign first, while Isa 9:6-7 and Isa 11 widen it to a royal child whose names exceed any ordinary king. Matthew then reads the whole pattern as fulfilled in Jesus. Scholars such as John Walton and Craig Blomberg defend this 'double' or typological fulfilment.",
+        "defence": "Some conservative scholars (e.g. Alec Motyer, Edward J. Young) argue Isa 7:14 is directly and only messianic, noting the unusual wording, the Greek *parthenos*, and the link with Isa 9:6. This is a genuine scholarly disagreement, not just a popular error.",
+        "whyItMatters": "Seeing the original setting shows that God's promises speak into real crises, and that New Testament 'fulfilment' often means filling full a pattern, not only matching a prediction.",
+        "refs": [
+          "Isa 7:14-16",
+          "Isa 8:3-4",
+          "Isa 9:6-7",
+          "Matt 1:22-23"
+        ],
+        "scholars": [
+          "John Walton",
+          "Craig Blomberg",
+          "J. Alec Motyer",
+          "Edward J. Young"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Isaiah called Judah to trust God rather than empires, warned that holiness requires justice, and gave exiles reasons to believe God had not abandoned them and would bring them home.",
+      "now": "Isaiah still calls God's people to justice for the vulnerable and honest worship, offers comfort to those who feel forgotten, and holds out the hope of a renewed creation where swords become ploughshares and every nation worships."
+    },
+    "sources": [
+      {
+        "author": "Brevard S. Childs",
+        "title": "Isaiah (Old Testament Library)",
+        "year": 2001
+      },
+      {
+        "author": "John N. Oswalt",
+        "title": "The Book of Isaiah (NICOT), 2 vols.",
+        "year": 1986
+      },
+      {
+        "author": "J. Alec Motyer",
+        "title": "The Prophecy of Isaiah",
+        "year": 1993
+      },
+      {
+        "author": "H. G. M. Williamson",
+        "title": "The Book Called Isaiah",
+        "year": 1994
+      },
+      {
+        "author": "Joseph Blenkinsopp",
+        "title": "Isaiah 1-39 (Anchor Bible)",
+        "year": 2000
+      }
+    ]
+  }
+]

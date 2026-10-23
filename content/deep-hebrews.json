@@ -1,0 +1,1218 @@
+{
+  "id": "hebrews",
+  "title": "Hebrews: A Sermon for Weary Believers on the Faithful High Priest",
+  "intro": "Hebrews is not really a letter. It begins with no greeting and calls itself a 'word of exhortation' (Heb 13:22), the phrase used for a synagogue sermon after the Scripture reading (Acts 13:15). Picture it read aloud, in about an hour, to a house church that had once stood firm under public abuse and the loss of property (Heb 10:32-34) but was now tired, drifting and tempted to give up its open confession of Jesus.\n\nThe preacher builds the whole sermon out of Israel's Scriptures, almost always in their Greek form (the Septuagint). Psalms 2, 8, 95 and 110, Jeremiah 31, Genesis 14 and the Day of Atonement ritual of Leviticus 16 carry the argument. The method alternates: a stretch of careful exposition (Jesus is greater than angels, than Moses, than the Levitical priests) is followed by a pastoral warning or encouragement that draws out what it means for the hearers. The goal is not to win a debate but to keep a community faithful to the end.\n\nThis study reads Hebrews through the Jewish cultural and relational lens. That means hearing it as its first audience would: people who loved the tabernacle, the feasts and the story of the patriarchs, who lived in an honour-shame society where public disgrace was a real cost, and who understood a mediator as a trusted go-between with a powerful patron. Read this way, Hebrews is less a verdict that 'Judaism is obsolete' and more a passionate claim that Israel's own hopes (a better priest, a better covenant, a better homeland) have arrived in Jesus, and that it would be tragic to turn back now. Where scholars read the book differently, especially on the warning passages and on whether Hebrews is supersessionist, both sides are given.",
+  "lens": {
+    "summary": "Hebrews is an intra-Jewish argument in a Greek-speaking world: a preacher steeped in the Septuagint, temple worship and synagogue preaching argues that the God who spoke 'to the fathers' has now spoken decisively 'in a Son' (Heb 1:1-2). Its key categories are relational and covenantal: God's faithfulness to his oath, a mediator who brings a people near, a household led by a faithful son, a pilgrim people heading for a promised homeland. Its pressures are social: shame, loss of status and the temptation to retreat into a safer identity. Read in that frame, its 'better' language is the language of fulfilment within one story, not contempt for the earlier chapters of that story.",
+    "principles": [
+      {
+        "name": "One God, one story, spoken in many ways",
+        "text": "The opening sentence puts the prophets and the Son on the same line of divine speech. The earlier word was real and good; the Son is its climax. Every 'better' in Hebrews compares good with better, not bad with good.",
+        "refs": [
+          "Heb 1:1-2",
+          "Heb 8:6",
+          "Heb 11:39-40"
+        ]
+      },
+      {
+        "name": "Scripture as living voice",
+        "text": "Hebrews introduces Scripture with present tenses: God says, the Spirit says, the Son says. Psalm 95's 'Today' is treated as addressed to the congregation now. This is a synagogue way of hearing Scripture, not a proof-text collection.",
+        "refs": [
+          "Heb 3:7-11",
+          "Heb 4:7",
+          "Heb 10:15-17"
+        ]
+      },
+      {
+        "name": "Covenant faithfulness runs both ways",
+        "text": "God binds himself by oath (Heb 6:13-18) and Jesus is 'faithful' over God's house (Heb 3:2-6). The people are called to answer with pistis, which means trust, loyalty and faithfulness over time, not only a moment of belief.",
+        "refs": [
+          "Heb 6:13-18",
+          "Heb 3:2-6",
+          "Heb 10:23"
+        ]
+      },
+      {
+        "name": "Mediator and broker",
+        "text": "In a patronage world, ordinary people reached a powerful patron through a broker who had access. Jesus is the 'mediator' (mesitēs) and high priest who has gone into God's presence and secures 'grace to help in time of need'. Grace (charis) creates a relationship that calls for gratitude and loyalty.",
+        "refs": [
+          "Heb 4:14-16",
+          "Heb 8:6",
+          "Heb 12:28"
+        ]
+      },
+      {
+        "name": "Honour turned upside down",
+        "text": "The hearers had been publicly shamed. Hebrews re-labels that shame as honour: Jesus 'despised the shame' of the cross and now sits at God's right hand; Moses chose 'the reproach of Christ'; the faithful go 'outside the camp, bearing his reproach'.",
+        "refs": [
+          "Heb 12:2",
+          "Heb 11:26",
+          "Heb 13:13"
+        ]
+      },
+      {
+        "name": "Pilgrimage toward a promised city",
+        "text": "The story of Hebrews is Israel's wilderness journey retold: a people between Egypt and the land, tempted to turn back. Abraham, the patriarchs and the faithful all lived as strangers seeking a city God would build.",
+        "refs": [
+          "Heb 3:16-19",
+          "Heb 11:13-16",
+          "Heb 13:14"
+        ]
+      },
+      {
+        "name": "Exposition always serves exhortation",
+        "text": "The doctrine of Jesus' priesthood is never left abstract. Each section turns to 'therefore, let us': hold fast, draw near, consider one another, run with endurance. The sermon exists to keep a community together.",
+        "refs": [
+          "Heb 4:14-16",
+          "Heb 10:19-25",
+          "Heb 12:1-2"
+        ]
+      }
+    ]
+  },
+  "audienceMap": [
+    {
+      "group": "Jewish believers in Jesus from Greek-speaking synagogues",
+      "share": 55,
+      "concerns": "Loyal to Torah, temple and the synagogue community; feeling the loss of belonging and the social safety of being recognised Jews; tempted to downplay or quietly drop the confession of Jesus as Messiah and high priest."
+    },
+    {
+      "group": "Gentile God-fearers and converts who had joined through the synagogue",
+      "share": 25,
+      "concerns": "Attracted to Israel's God and Scriptures; vulnerable without any recognised civic or ethnic status; wondering whether the cost of belonging to a suspect sect was worth it."
+    },
+    {
+      "group": "Long-standing members and leaders who remembered the 'former days'",
+      "share": 10,
+      "concerns": "Had endured imprisonment and confiscation of goods (Heb 10:32-34); now worried about younger or wavering members neglecting meetings (Heb 10:25) and about leaders who had died (Heb 13:7)."
+    },
+    {
+      "group": "Spiritually immature or drifting members",
+      "share": 10,
+      "concerns": "Had grown 'dull of hearing' (Heb 5:11); some were skipping the gatherings; at risk of 'drifting' without dramatically rejecting anything (Heb 2:1)."
+    }
+  ],
+  "argument": [
+    {
+      "id": "son",
+      "label": "God has spoken in a Son",
+      "chapters": "1",
+      "text": "Exposition. The Son is heir, agent of creation and the radiance of God's glory, enthroned at God's right hand (Ps 110:1) and greater than the angels who mediated the Law at Sinai.",
+      "next": [
+        "w1"
+      ]
+    },
+    {
+      "id": "w1",
+      "label": "Warning: do not drift",
+      "chapters": "2",
+      "text": "Exhortation. If the word spoken through angels was binding, neglecting so great a salvation is worse. Then the Son is shown as the truly human one of Psalm 8, made like his brothers and sisters in suffering.",
+      "next": [
+        "moses"
+      ]
+    },
+    {
+      "id": "moses",
+      "label": "Faithful Son over Moses",
+      "chapters": "3",
+      "text": "Exposition. Moses was faithful as a servant in God's house; Jesus is faithful as a son over the house, and 'we are his house' if we hold fast.",
+      "next": [
+        "rest"
+      ]
+    },
+    {
+      "id": "rest",
+      "label": "Today, enter God's rest",
+      "chapters": "3-4",
+      "text": "Exhortation built on Psalm 95. The wilderness generation failed to enter rest through unbelief; the promise of rest remains open 'today'. God's word is sharp and sees all.",
+      "next": [
+        "priest"
+      ]
+    },
+    {
+      "id": "priest",
+      "label": "A sympathetic high priest",
+      "chapters": "4-5",
+      "text": "Exposition. Jesus is a high priest who can sympathise with weakness, appointed by God, not self-appointed, and called by Psalm 110:4 a priest 'after the order of Melchizedek'.",
+      "next": [
+        "w2"
+      ]
+    },
+    {
+      "id": "w2",
+      "label": "Warning: no going back",
+      "chapters": "5-6",
+      "text": "Exhortation. The hearers are sluggish; those who fall away after tasting the good gifts cannot be restored while they keep crucifying the Son afresh. But 'we are persuaded better things' and God's oath is an anchor.",
+      "next": [
+        "melch"
+      ]
+    },
+    {
+      "id": "melch",
+      "label": "Priest like Melchizedek",
+      "chapters": "7",
+      "text": "Exposition of Genesis 14 and Psalm 110. A priesthood based on an oath and an indestructible life, not on descent from Levi, which 'always lives to make intercession'.",
+      "next": [
+        "cov"
+      ]
+    },
+    {
+      "id": "cov",
+      "label": "Mediator of a new covenant",
+      "chapters": "8",
+      "text": "Exposition of Jeremiah 31. The heavenly sanctuary is the real one; the earthly one is a copy and shadow. God himself promised a new covenant written on hearts.",
+      "next": [
+        "sac"
+      ]
+    },
+    {
+      "id": "sac",
+      "label": "Once-for-all sacrifice",
+      "chapters": "9-10",
+      "text": "Exposition through the Day of Atonement. Christ entered the true holy place with his own blood, once for all; his obedient self-offering (Ps 40) brings the forgiveness Jeremiah promised.",
+      "next": [
+        "w3"
+      ]
+    },
+    {
+      "id": "w3",
+      "label": "Draw near; do not shrink back",
+      "chapters": "10",
+      "text": "Exhortation. Therefore draw near, hold fast, meet together. Deliberate sin after knowing the truth leaves no other sacrifice. Remember your former courage; 'my righteous one shall live by faith' (Hab 2:3-4).",
+      "next": [
+        "faith"
+      ]
+    },
+    {
+      "id": "faith",
+      "label": "The cloud of faithful witnesses",
+      "chapters": "11",
+      "text": "Exposition by example. From Abel to the martyrs, faith trusts God's unseen promise and endures shame, living as strangers who look for a homeland. None received the promise apart from 'us'.",
+      "next": [
+        "endure"
+      ]
+    },
+    {
+      "id": "endure",
+      "label": "Run the race, accept discipline",
+      "chapters": "12",
+      "text": "Exhortation. Look to Jesus who endured the cross and despised its shame. Hardship is a father's training (Prov 3:11-12). Do not be like Esau.",
+      "next": [
+        "zion"
+      ]
+    },
+    {
+      "id": "zion",
+      "label": "Zion, not Sinai",
+      "chapters": "12",
+      "text": "Climax. You have not come to the terrifying mountain of Exodus 19 but to Mount Zion, the festal gathering and Jesus the mediator. Receive an unshakable kingdom with gratitude and awe.",
+      "next": [
+        "camp"
+      ]
+    },
+    {
+      "id": "camp",
+      "label": "Life outside the camp",
+      "chapters": "13",
+      "text": "Practical close. Hospitality, care for prisoners, marriage, contentment, honour for leaders; go to Jesus 'outside the camp' bearing his reproach, offering sacrifices of praise and good works.",
+      "next": []
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "God Has Spoken in a Son",
+      "summary": "The sermon opens with one long, carefully balanced Greek sentence (Heb 1:1-4): God spoke to the ancestors through the prophets in many fragments and ways, but at the end of these days he has spoken in a Son. The Son is heir of all things, the one through whom the ages were made, the radiance of God's glory and the exact imprint of his being. Having made purification for sins, he sat down at the right hand of the Majesty. A chain of seven Scripture quotations (mostly Psalms) then shows the Son is greater than the angels: they are servants and messengers; he is the enthroned Son and Lord who remains while creation wears out.",
+      "background": "Hebrews names no author. The Eastern church from Alexandria attributed it to Paul, but Origen already said that only God knows who wrote it. Modern candidates include Apollos (an eloquent Alexandrian Jew skilled in the Scriptures, Acts 18:24), Barnabas (a Levite, Acts 4:36), Priscilla (proposed by Adolf von Harnack), Luke and Silas. The polished Greek and the author's statement that the message came to him through those who heard the Lord (Heb 2:3) make Paul unlikely for most scholars.\n\nThe date is also debated. Many place it before AD 70 because the author speaks as though sacrifices are still offered (Heb 10:1-2) and never mentions the temple's destruction, which would have clinched his argument. Others place it in the 80s, noting that the author always discusses the wilderness tabernacle, not the Jerusalem temple, so the present tenses may be literary. It must be earlier than about AD 96, when 1 Clement draws on it.",
+      "culture": "Angels mattered in Second Temple Jewish piety. Jews believed angels had been present when the Law was given at Sinai (Deut 33:2; Acts 7:53; Gal 3:19), and some Jewish writings imagined exalted angelic mediators and heavenly priests. Comparing the Son with angels is therefore a way of saying: the word that came through him outranks even the revelation at Sinai.\n\nThe opening also uses Wisdom language from Hellenistic Judaism: in Wisdom of Solomon 7:26, Wisdom is a 'reflection of eternal light'. Hebrews applies such language to the Son. 'Sitting down at the right hand' is royal imagery from Psalm 110, the most quoted Old Testament text in the New Testament. A priest stands to serve; a king sits.",
+      "jewishLens": "A Jewish hearer would notice first that God is the subject: 'God spoke'. The prophets were not wrong or second-rate; they were God's own voice to 'our fathers'. The Son is the final word in the same conversation. The Scripture chain is like a synagogue string of texts (a pattern later rabbis called charaz, 'stringing pearls'), and every quotation comes from Israel's own coronation and worship texts: Psalm 2 and 2 Samuel 7 (God's promise to David's son), Psalm 45 (the royal wedding song), Psalm 102 and Psalm 110. The claim is that Israel's royal hope for a Davidic son, enthroned by God, has been fulfilled.",
+      "audience": "Hearers who felt they had lost honour and security would be lifted by a vision of who they belonged to: not a crucified failure but the enthroned Son over all creation. If they were tempted back to the synagogue's settled community, they are reminded that the God of the synagogue has now spoken his clearest word.",
+      "today": "The chapter invites a view of Scripture as one long story of God speaking, with Jesus as the clearest word. It also reframes worth: whatever status the world withholds, believers belong to the household of the one who holds all things together 'by the word of his power'.",
+      "keyRefs": [
+        "Heb 1:1-4",
+        "Heb 1:5-14",
+        "Heb 1:3"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 2:7",
+          "note": "'You are my Son; today I have begotten you' - a coronation psalm for the Davidic king, applied to Jesus' enthronement."
+        },
+        {
+          "ref": "2 Sam 7:14",
+          "note": "God's covenant promise to David: 'I will be his father, and he shall be my son.'"
+        },
+        {
+          "ref": "Ps 110:1",
+          "note": "'Sit at my right hand until I make your enemies your footstool' - the key text of the whole sermon."
+        },
+        {
+          "ref": "Ps 45:6-7",
+          "note": "A royal wedding psalm addressing the king as 'O God'; Hebrews applies it to the Son's eternal throne."
+        },
+        {
+          "ref": "Ps 102:25-27",
+          "note": "Creation wears out like a garment but 'you remain' - applied to the Son as Lord of creation."
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 1 belittles the prophets and the Old Testament as a lesser, partial revelation that Christians can largely leave behind.",
+        "better": "The prophets and the Son are both God speaking. The Old Testament is the very language Hebrews uses to describe Jesus; every claim in the chapter is made by quoting Israel's Scriptures."
+      }
+    },
+    {
+      "n": 2,
+      "title": "So Great a Salvation; the Truly Human Son",
+      "summary": "The first warning (Heb 2:1-4) is gentle but serious: we must pay closer attention so that we do not 'drift away' like a boat slipping its mooring. If the message given through angels was binding, how will we escape if we neglect so great a salvation, first spoken by the Lord and confirmed by signs? Then the sermon turns to Psalm 8: humanity was meant to rule creation, but 'we do not yet see' that. 'We do see Jesus', made lower than the angels for a little while, crowned with glory through suffering death. He shares flesh and blood with his brothers and sisters, breaks the power of the devil who holds people in fear of death, and becomes a merciful and faithful high priest who can help those being tested.",
+      "background": "The hearers had received the gospel from people who had heard Jesus (Heb 2:3), placing them in the second generation. The temptation described is not dramatic rebellion but slow neglect. Later references (Heb 10:32-34; Heb 12:4) suggest they had suffered public abuse but not yet martyrdom.",
+      "culture": "Jewish tradition held that angels mediated the Law at Sinai (the Septuagint of Deut 33:2 mentions angels with God; see Acts 7:53 and Gal 3:19). So 'the message declared by angels' means the Torah, and its penalties for disobedience show that God's word is weighty.\n\nIn honour-shame terms, the Son's descent below the angels and his shameful death are scandalous. Hebrews insists this was 'fitting' for God (Heb 2:10): a pioneer (archēgos) leads his people by going first through suffering. The idea of a ruler who is also a kinsman who 'is not ashamed to call them brothers' (Heb 2:11) is powerful in a kinship society where family solidarity was everything.",
+      "jewishLens": "Psalm 8 is a meditation on Genesis 1: human beings are God's royal stewards. Hebrews reads Jesus as the true Adam and the true representative Israelite who fulfils humanity's vocation. The kinsman idea echoes the Torah's go'el, the family redeemer who rescues relatives from slavery (Lev 25:47-49). The quotations from Psalm 22 and Isaiah 8 put Jesus inside Israel's worshipping assembly ('in the midst of the congregation I will praise you'), not outside it. The 'descendants of Abraham' are the ones he helps (Heb 2:16).",
+      "audience": "Fear of death and of social death (rejection, imprisonment, loss) was real for the congregation. They hear that Jesus faced the same thing, broke its power, and stands with them as an older brother and priest who understands testing from the inside.",
+      "today": "Drift is usually quiet: inattention, not decision. The chapter also gives a deeply humane picture of Jesus: one who knows fear, suffering and temptation and who is not ashamed of his weak family.",
+      "keyRefs": [
+        "Heb 2:1-4",
+        "Heb 2:5-9",
+        "Heb 2:10-18",
+        "Heb 2:14-15"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 8:4-6",
+          "note": "Humanity crowned with glory and given rule over creation; fulfilled first in Jesus."
+        },
+        {
+          "ref": "Ps 22:22",
+          "note": "The suffering righteous one praises God 'in the midst of the congregation' after deliverance."
+        },
+        {
+          "ref": "Isa 8:17-18",
+          "note": "'Here am I and the children God has given me' - the prophet and his household trusting God in crisis."
+        },
+        {
+          "ref": "Deut 33:2",
+          "note": "Sinai theophany; in Greek tradition angels attend God at the giving of the Law."
+        }
+      ],
+      "misread": {
+        "popular": "Jesus' humanity is played down: he only seemed to be tempted, or his sufferings were not truly like ours because he was God.",
+        "better": "Hebrews stresses that he shared 'flesh and blood' fully, suffered when tested and was made like his brothers and sisters 'in every respect'. His sympathy is real because his testing was real."
+      }
+    },
+    {
+      "n": 3,
+      "title": "Faithful Son over God's House; 'Today' in the Wilderness",
+      "summary": "The hearers, called 'holy brothers and sisters, partners in a heavenly calling', are told to consider Jesus, the apostle and high priest of our confession. Moses was faithful 'in all God's house' as a servant; Jesus is faithful 'over' the house as Son, and 'we are his house' if we hold firm our confidence. Then Psalm 95 is quoted at length: 'Today, if you hear his voice, do not harden your hearts as in the rebellion.' The wilderness generation saw God's works for forty years yet did not enter rest because of unbelief. Encourage one another daily, 'as long as it is called Today'.",
+      "background": "The congregation may have been tempted to see Moses and the Torah-centred community as a secure, recognised home. The author does not attack Moses; he borrows God's own praise of Moses (Num 12:7) and then places Jesus higher still. The Psalm 95 exposition (Heb 3:7-4:13) is a classic example of a homily working through one text phrase by phrase.",
+      "culture": "In Jewish thought Moses was the greatest of the prophets, the one to whom God spoke 'mouth to mouth' (Num 12:8). Philo called him a kind of priest-king and mediator. The 'house' is both a household (family, servants, heirs) and God's dwelling. In an ancient household, a trusted steward or slave might run everything, but the son and heir has a different standing.\n\nPsalm 95 was used in synagogue and later in Jewish liturgy for welcoming the Sabbath. Hearers would know it as a call to worship that turns into a warning.",
+      "jewishLens": "Hebrews honours Moses as faithful, using God's own words about him. The point is not 'Moses bad, Jesus good' but 'servant faithful, Son more so', and both belong to the same house of God. The house of God is Israel's identity, and Hebrews says the believing community is that house. The warning from Psalm 95 is an Israelite reading of Israel's story: the Psalms and prophets themselves held up the wilderness generation as a warning to later Israel (Ps 78; Ps 106). Hebrews makes the same move for its own day.",
+      "audience": "They would recognise themselves as a wilderness generation: rescued, on the road, not yet arrived, tired and complaining. The repeated 'Today' tells them their choice is happening now in their gatherings, not at some later crisis.",
+      "today": "Faith is sustained in community: 'exhort one another every day'. Hard-heartedness grows slowly through the 'deceitfulness of sin' and through isolation. Each 'today' is an invitation to listen.",
+      "keyRefs": [
+        "Heb 3:1-6",
+        "Heb 3:7-11",
+        "Heb 3:12-19",
+        "Heb 3:13"
+      ],
+      "echoes": [
+        {
+          "ref": "Num 12:7",
+          "note": "God calls Moses 'faithful in all my house' - quoted to honour him before honouring Jesus more."
+        },
+        {
+          "ref": "Ps 95:7-11",
+          "note": "'Today, if you hear his voice' - the text of the sermon's first major exposition."
+        },
+        {
+          "ref": "Exod 17:1-7",
+          "note": "Massah and Meribah, the testing of God at the rock, behind Psalm 95."
+        },
+        {
+          "ref": "Num 14:20-35",
+          "note": "At Kadesh the generation refused to enter the land and fell in the wilderness."
+        }
+      ],
+      "misread": {
+        "popular": "Moses represents dead law and Jesus represents grace, so the chapter contrasts legalism with faith.",
+        "better": "Hebrews praises Moses as faithful and puts him and Jesus in the same house of God. The contrast is servant and Son, not bad religion and good religion. The failure in the wilderness was unbelief, not Torah-keeping."
+      }
+    },
+    {
+      "n": 4,
+      "title": "A Sabbath Rest Remains; a High Priest Who Understands",
+      "summary": "The promise of entering God's rest still stands, so let us fear falling short. Joshua did not give the final rest, otherwise God would not have spoken through David of another 'today'. 'There remains a Sabbath rest for the people of God.' Let us strive to enter it. God's word is living and active, sharper than a two-edged sword, laying everything bare before the one to whom we must give account. Then the turn: since we have a great high priest who has passed through the heavens, Jesus the Son of God, let us hold fast. He can sympathise with our weaknesses, tested in every way as we are, yet without sin. So let us approach the throne of grace with boldness.",
+      "background": "Hebrews 4:14-16 is a hinge: it closes the Psalm 95 section and opens the long central teaching on Jesus' priesthood (Heb 4:14-10:25). Guthrie's text-linguistic study of Hebrews highlights such overlapping transitions as a feature of the sermon's careful design.",
+      "culture": "Rest (menuchah) in Israel's Scriptures meant the land as secure inheritance (Deut 12:9), the temple as God's resting place (Ps 132:14) and the Sabbath, which shares in God's own rest after creation. Jewish tradition came to see the Sabbath as a foretaste of the world to come.\n\nThe 'throne of grace' is royal and patronage language: the throne where a benefactor dispenses favour. A client normally approached it through a broker. Here the broker is a high priest who is also the king's Son and the people's own brother. Boldness (parrēsia) was the free citizen's right to speak openly in the assembly.",
+      "jewishLens": "Joining Psalm 95 with Genesis 2:2 by the shared word 'rest' is a recognised Jewish interpretive method (later called gezerah shavah, linking texts by a common word). Hebrews reads the land promise as pointing beyond Canaan to God's own rest, a reading compatible with Jewish hopes for the age to come. The image of the high priest who 'passed through the heavens' prepares for the Day of Atonement imagery: as the high priest passed through the courts into the Holy of Holies, Jesus passed into God's very presence.",
+      "audience": "Weary people hear both a warning (God sees everything) and a welcome (come boldly, you will find mercy). The combination is typical of the sermon: fear of drifting, confidence in approaching.",
+      "today": "Rest is a gift ahead of us, not only a mood now. Meanwhile, people who feel weak, tempted or ashamed are invited, not merely permitted, to come to God confidently for timely help.",
+      "keyRefs": [
+        "Heb 4:1-11",
+        "Heb 4:12-13",
+        "Heb 4:14-16",
+        "Heb 4:9"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 2:2",
+          "note": "God rested on the seventh day - the original 'rest' Hebrews links with Psalm 95."
+        },
+        {
+          "ref": "Ps 95:11",
+          "note": "'They shall not enter my rest' - read as implying the rest is still open."
+        },
+        {
+          "ref": "Josh 22:4",
+          "note": "Joshua gave Israel rest in the land, yet the psalm later speaks of a further 'today'."
+        },
+        {
+          "ref": "Deut 12:9",
+          "note": "The land as 'the rest and the inheritance' the Lord gives."
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 4:12 ('the word of God is living and active') is often quoted as a statement about the Bible as a book with power to change lives, cut off from its warning setting.",
+        "better": "In context the 'word' is God's own speaking, especially the Psalm 95 warning just expounded, and the sword image means God sees and judges the heart. It leads straight into the comfort of the sympathetic high priest. The verse is about accountability before God, though it certainly includes Scripture as God's voice."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Called Like Aaron, Priest Like Melchizedek",
+      "summary": "Every high priest is chosen from among people to act for them before God, offering gifts and sacrifices. He can deal gently with the ignorant and wayward because he himself is weak, and no one takes the honour on himself; he must be called, as Aaron was. So Christ did not glorify himself; God said to him, 'You are my Son' (Ps 2) and 'You are a priest forever after the order of Melchizedek' (Ps 110:4). In the days of his flesh he offered prayers with loud cries and tears, learned obedience through suffering, and became the source of eternal salvation. Then the author pauses: there is much to say, but you have become dull of hearing; you need milk when you should be eating solid food.",
+      "background": "The author has been preparing to expound Melchizedek but stops to address the hearers' spiritual sluggishness. The reference to prayers with 'loud cries and tears' (Heb 5:7) is widely taken to refer to Gethsemane, though Hebrews does not name it.",
+      "culture": "The high priest in Israel was from the line of Aaron and was consecrated by God's choice (Exod 28:1). In Greco-Roman society, priesthoods were often prestigious civic offices sought for honour. Hebrews insists the opposite: true priesthood is not self-seeking but God's call, and it involves solidarity with the weak. Jesus' learning 'obedience through suffering' echoes a well-known Greek wordplay (emathen, epathen: learned and suffered) used by moralists, applied here to Jesus.\n\nMilk and solid food was a common teaching image in Greek philosophical schools and in Paul (1 Cor 3:1-2).",
+      "jewishLens": "Pairing Psalm 2:7 and Psalm 110:4 joins kingship and priesthood in one Messianic figure. Some Jewish hopes kept these separate (Qumran expected a priestly Messiah of Aaron and a royal Messiah of Israel), while Psalm 110 already had a Davidic king called a priest. A Jewish hearer would see Hebrews drawing a royal-priestly figure straight out of the Psalter. The tears of Jesus also place him in the tradition of Israel's lament psalms, the righteous sufferer who cries out and is heard.",
+      "audience": "They are gently shamed for immaturity: they ought to be teachers by now. In an honour culture, this rebuke is meant to motivate them to stretch forward and take on the deeper teaching that follows.",
+      "today": "Spiritual maturity is shown in 'powers of discernment trained by practice' (Heb 5:14), not only in knowing information. And Jesus' own prayers with tears give permission for honest lament.",
+      "keyRefs": [
+        "Heb 5:1-4",
+        "Heb 5:5-10",
+        "Heb 5:7-9",
+        "Heb 5:11-14"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 110:4",
+          "note": "'You are a priest forever after the order of Melchizedek' - introduced here, expounded in Hebrews 7."
+        },
+        {
+          "ref": "Ps 2:7",
+          "note": "Divine sonship joined to priesthood."
+        },
+        {
+          "ref": "Exod 28:1",
+          "note": "God's call of Aaron and his sons to the priesthood."
+        },
+        {
+          "ref": "Lev 16:6",
+          "note": "The high priest first offers for his own sin on the Day of Atonement."
+        }
+      ],
+      "misread": {
+        "popular": "'Learned obedience' and 'made perfect' are read as meaning Jesus was once disobedient or morally imperfect.",
+        "better": "In Hebrews 'perfect' means brought to completion or fully qualified for an office. Jesus learned what obedience costs by experience and so was fully equipped as high priest; Hebrews also says he was 'without sin' (Heb 4:15)."
+      }
+    },
+    {
+      "n": 6,
+      "title": "No Turning Back; an Anchor Behind the Curtain",
+      "summary": "Let us go on to maturity, not laying again the foundation (repentance, faith, washings, laying on of hands, resurrection, judgment). For it is impossible to restore again to repentance those who were once enlightened, tasted the heavenly gift, shared in the Holy Spirit and tasted the goodness of God's word, and then have fallen away, since they are crucifying the Son of God again and holding him up to contempt. Land that drinks the rain and bears only thorns is near to being cursed. But, beloved, we are confident of better things in your case. God is not unjust to forget your love and service. God made a promise to Abraham and, having no one greater, swore by himself, so by two unchangeable things we have a sure and steady anchor of the soul that enters behind the curtain, where Jesus has gone as forerunner, a high priest forever after the order of Melchizedek.",
+      "background": "This is the second and most famous warning. Its 'foundation' list is strikingly Jewish: washings (baptisms and purification rites), laying on of hands, resurrection and eternal judgment were all shared with Jewish teaching. Some scholars think the hearers were tempted to settle for this common ground and drop what is distinctive about Jesus.",
+      "culture": "David deSilva reads this passage through patronage. A benefactor who has given great gifts (enlightenment, the Spirit, the powers of the age to come) is owed gratitude and loyalty. To fall away publicly is to declare the benefactor's gifts worthless and to shame him before others, 'holding him up to contempt'. In that world, a client who insulted his only patron had nowhere else to go; no other broker could restore him.\n\nOaths were the strongest guarantee of a promise. When God swears by himself, there is no higher authority to appeal to. The anchor image was a familiar symbol of hope and stability in Greco-Roman culture.",
+      "jewishLens": "The agricultural image of land receiving rain and producing either crops or thorns echoes the Song of the Vineyard (Isa 5:1-7) and the curses of Genesis 3 and Deuteronomy. The heart of the chapter is the covenant oath to Abraham at the binding of Isaac (Gen 22:16-17), an episode central in Jewish memory (the Akedah). The believers are heirs of Abraham's promise, and their hope enters 'behind the curtain', the inner veil of the tabernacle where only the high priest went on Yom Kippur.",
+      "audience": "The hearers would feel the shock of the warning and then the warmth of 'beloved'. The author's purpose is not to diagnose them as lost but to wake them up and reassure them that God remembers their past love, especially their care for fellow believers.",
+      "today": "The passage warns against a settled, public turning away from Jesus, not against ordinary failure. Those anxious that they have committed an unforgivable sin can take comfort that the author assumes his hearers will persevere and points them to God's oath as their anchor.",
+      "keyRefs": [
+        "Heb 6:1-3",
+        "Heb 6:4-8",
+        "Heb 6:9-12",
+        "Heb 6:13-20"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 22:16-17",
+          "note": "God swears by himself to bless and multiply Abraham after the binding of Isaac."
+        },
+        {
+          "ref": "Isa 5:1-7",
+          "note": "God's vineyard that produced wild grapes: fruitfulness expected after care."
+        },
+        {
+          "ref": "Gen 3:17-18",
+          "note": "Thorns and thistles as the sign of the curse on the ground."
+        },
+        {
+          "ref": "Lev 16:2",
+          "note": "Aaron may not enter 'within the veil' at any time; only on the Day of Atonement."
+        }
+      ],
+      "misread": {
+        "popular": "In debates over 'once saved, always saved', one side uses 6:4-6 to show that believers can lose salvation forever, and the other says the people described were never really saved. Either way the passage becomes a test case for a doctrine.",
+        "better": "The passage warns a real congregation against deliberate public repudiation of Jesus and is immediately followed by strong reassurance (Heb 6:9-20). Scholars from McKnight (believers can apostatise) to Schreiner (warnings are God's means of keeping believers) agree its function is to produce perseverance, not to analyse individual souls."
+      }
+    },
+    {
+      "n": 7,
+      "title": "A Priest Forever, Like Melchizedek",
+      "summary": "Melchizedek, king of Salem and priest of God Most High, met Abraham returning from battle, blessed him and received a tenth of the spoils (Gen 14:17-20). His name means 'king of righteousness' and Salem means 'peace'. Scripture records no genealogy, birth or death for him, so he 'remains a priest forever', resembling the Son of God. Abraham, and Levi 'in his loins', gave tithes to him, so his priesthood ranks above Levi's. If perfection had come through the Levitical priesthood, why would Psalm 110 speak of another priest after a different order? Jesus came from Judah, not Levi; his priesthood rests on the power of an indestructible life and on God's oath. Because he lives forever, he is able to save completely those who approach God through him, since he always lives to intercede for them. He offered himself once for all.",
+      "background": "Hebrews is the only New Testament book to call Jesus a priest, and the Melchizedek argument is its most original move. The author needed a way to call Jesus, a descendant of Judah, a high priest without denying the Torah's rule that priests come from Levi. He found it in Psalm 110:4, which itself names a non-Levitical royal priesthood.",
+      "culture": "Melchizedek fascinated Second Temple Jews. Philo of Alexandria treats him allegorically as the divine Word (Logos), a priest-king of peace. Josephus calls him the first priest and founder of Jerusalem. The Qumran text 11QMelchizedek (11Q13, first century BC) pictures Melchizedek as a heavenly deliverer who, at the end of the tenth jubilee on a Day of Atonement, proclaims release for the captives (reading Isaiah 61 and Leviticus 25), atones for 'the men of his lot' and judges Belial. 2 Enoch includes a legend of his miraculous birth. Later rabbis identified him with Shem, son of Noah.\n\nHebrews does not claim Melchizedek was an angel. Its 'without father, without mother' uses a familiar rule of interpretation: what Scripture does not say can carry meaning. Tithing to someone was a mark of acknowledging superior honour.",
+      "jewishLens": "This is an argument from Torah and Psalms, not against them. The author takes seriously that the Law tied priesthood to Levi, and therefore argues that Psalm 110 itself anticipates a change. 'A change of priesthood' implies 'a change of law' regarding priesthood (Heb 7:12): not Torah abolished, but the priestly ordinances reorganised around a new appointment. The strongest point is God's oath: Levitical priests became priests without an oath, but this one is sworn by God, who 'will not change his mind'. The relational emphasis is intercession: a living priest who always pleads for his people.",
+      "audience": "Hearers who valued the visible temple priesthood, with its succession and ceremonies, are offered something more secure: a priest who never dies, never needs replacing, and is personally committed to them.",
+      "today": "Jesus' ongoing intercession is a neglected comfort. Christians often think only about what Christ did; Hebrews stresses what he is doing now, praying for his people before God.",
+      "keyRefs": [
+        "Heb 7:1-10",
+        "Heb 7:11-19",
+        "Heb 7:20-28",
+        "Heb 7:25"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 14:17-20",
+          "note": "Melchizedek blesses Abram, brings bread and wine and receives a tenth."
+        },
+        {
+          "ref": "Ps 110:4",
+          "note": "'The Lord has sworn and will not change his mind: you are a priest forever after the order of Melchizedek.'"
+        },
+        {
+          "ref": "Num 18:21-26",
+          "note": "The Levites receive tithes from Israel - background to Abraham's tithe to Melchizedek."
+        },
+        {
+          "ref": "Isa 61:1-2",
+          "note": "Proclamation of liberty, read in 11QMelchizedek as Melchizedek's mission."
+        }
+      ],
+      "misread": {
+        "popular": "Melchizedek was a pre-incarnate appearance of Christ, or a supernatural being without parents.",
+        "better": "Hebrews says Melchizedek 'resembles' the Son of God (Heb 7:3). The silence about his ancestry is an interpretive point drawn from the Genesis text, making him a type or pattern of Christ. Some Jewish traditions did exalt him, but Hebrews uses him as a living illustration of a priesthood not based on descent."
+      }
+    },
+    {
+      "n": 8,
+      "title": "The True Tent and the New Covenant",
+      "summary": "The main point: we have such a high priest, seated at the right hand of the throne, a minister in the true tent set up by the Lord, not by humans. Earthly priests serve a copy and shadow of the heavenly sanctuary, since Moses was told to make everything 'according to the pattern' shown on the mountain. Jesus has a more excellent ministry because he mediates a better covenant, enacted on better promises. For God, 'finding fault with them', promised through Jeremiah a new covenant with the house of Israel and Judah: laws written on hearts, God as their God and they as his people, everyone knowing him, sins remembered no more. In speaking of 'new', he has made the first old, and what is growing old is ready to vanish away.",
+      "background": "Hebrews 8:8-12 contains the longest Old Testament quotation in the New Testament (Jer 31:31-34). If the sermon was written before AD 70, 'ready to vanish' may have sounded like a prediction; if after, like a description of what had happened when the temple fell.",
+      "culture": "The tabernacle had three zones: the outer court with the bronze altar and basin, the Holy Place with the lampstand, the table of bread and the incense altar, and behind a curtain the Most Holy Place with the ark of the covenant and its cherubim. Many cultures imagined earthly temples as copies of heavenly ones. Jewish texts such as Wisdom of Solomon 9:8, the Qumran Songs of the Sabbath Sacrifice and later rabbinic tradition describe a heavenly sanctuary corresponding to the earthly one.\n\nThe words 'copy' and 'shadow' were also used by Platonist philosophers, including Philo. Scholars debate how far Hebrews draws on Middle Platonism, but its direct source is Exodus 25:40.",
+      "jewishLens": "The new covenant is not a Christian idea opposed to Judaism; it is Jeremiah's promise to Israel, spoken during the crisis of exile. The fault Jeremiah identifies is with the people who broke the covenant, not with God's Torah, and the solution is the same Torah written on the heart. The Qumran community also called itself the community of the 'new covenant'. A Jewish believer would hear Hebrews 8 as saying: the restoration the prophets promised has begun through the Messiah. 'Old' and 'new' here describe stages of God's faithfulness to the same people.",
+      "audience": "For people tempted to return to the visible, recognised institutions of the old covenant, the message is that those institutions were always copies pointing to a reality now open through Jesus. Going back would be choosing the shadow over the substance.",
+      "today": "The new covenant's heart is relationship: 'I will be their God and they shall be my people', with forgiveness and personal knowledge of God for all, from least to greatest. That is Israel's ancient covenant formula fulfilled, not replaced.",
+      "keyRefs": [
+        "Heb 8:1-6",
+        "Heb 8:7-13",
+        "Heb 8:5",
+        "Heb 8:10"
+      ],
+      "echoes": [
+        {
+          "ref": "Jer 31:31-34",
+          "note": "The new covenant promised to Israel and Judah: Torah on the heart, sins forgiven."
+        },
+        {
+          "ref": "Exod 25:40",
+          "note": "'See that you make them after the pattern shown you on the mountain.'"
+        },
+        {
+          "ref": "Ps 110:1",
+          "note": "The seated king-priest at God's right hand."
+        },
+        {
+          "ref": "Exod 6:7",
+          "note": "The covenant formula 'I will take you as my people and I will be your God'."
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 8:13 means God has rejected the Jewish people and Judaism is a dead religion; the church has replaced Israel.",
+        "better": "The verse is commenting on Jeremiah's own word 'new', which implies the earlier arrangement of priesthood and sacrifice was temporary. The new covenant is made 'with the house of Israel'. Scholars such as Richard Hays and Mark Nanos describe Hebrews as Jewish 'new' or 'renewed covenantalism', and evangelical scholars agree it says nothing about God rejecting the Jewish people."
+      }
+    },
+    {
+      "n": 9,
+      "title": "Day of Atonement: Into the True Holy Place",
+      "summary": "The first covenant had regulations for worship and an earthly sanctuary: the first tent with lampstand, table and bread; behind the second curtain, the Most Holy Place with the golden altar of incense (or censer), the ark containing the jar of manna, Aaron's rod and the tablets, and the cherubim over the mercy seat. Priests go into the first tent continually, but only the high priest enters the second, once a year, not without blood. This showed that the way into the holy places was not yet open. Christ came as high priest of the good things to come, entering once for all into the holy places by means of his own blood, securing eternal redemption. If the blood of goats and the ashes of a heifer purified the flesh, how much more will Christ's blood purify our conscience to serve the living God. He is the mediator of a new covenant; just as a will takes effect at death, and the first covenant was inaugurated with blood, so Christ appeared once at the end of the ages to remove sin by his sacrifice, and will appear a second time to save those eagerly waiting for him.",
+      "background": "Hebrews describes the tabernacle of Exodus, not Herod's temple. By the first century the ark had been lost (since 586 BC), and the Most Holy Place stood empty. Placing the golden incense altar or censer in the inner room (Heb 9:4) is a known puzzle; it may reflect the altar's close connection with the inner sanctuary in Exod 30:6 and 1 Kgs 6:22.",
+      "culture": "Yom Kippur (Lev 16; Lev 23:26-32) was the holiest day of Israel's year. The high priest bathed and put on plain linen garments. He offered a bull for his own sins and his household. Two goats were brought and lots were cast: one 'for the Lord', the other 'for Azazel'. He entered the Most Holy Place with a cloud of incense to cover the mercy seat, then sprinkled the bull's blood on and before the mercy seat, then did the same with the goat's blood, purifying the sanctuary from Israel's impurities. He laid both hands on the second goat, confessed Israel's sins over it, and sent it into the wilderness. The bodies of the sin offerings were burned outside the camp. The people fasted and 'afflicted themselves'. The Mishnah (tractate Yoma) records later traditions such as the high priest pronouncing the divine name and the people falling prostrate.\n\nThe red heifer (Num 19) provided ashes for cleansing from corpse impurity. Covenant inauguration with blood (Exod 24:3-8) bound people and God together.",
+      "jewishLens": "Hebrews thinks completely inside the logic of Leviticus: blood is life given by God for cleansing (Lev 17:11), the goal is the holy God dwelling among a people, and access to his presence is the highest privilege. The argument is 'how much more' (qal wa-chomer, the light-to-heavy reasoning familiar from later rabbinic interpretation): if these God-given rites truly cleansed, how much more will the Messiah's self-offering. The rites are treated as effective and meaningful, not as empty superstition; their limit is that they were repeated and dealt with outward purity.",
+      "audience": "For hearers who had grown up fasting on Yom Kippur and hearing the high priest's work described, this chapter would be vivid: they are invited to see Jesus walking through the curtain into God's presence on their behalf, once, and staying there.",
+      "today": "The goal of atonement is a clean conscience and a life of worship, 'to serve the living God'. The passage also keeps Christian hope forward-looking: Christ will appear a second time, like the high priest coming out to the waiting people.",
+      "keyRefs": [
+        "Heb 9:1-10",
+        "Heb 9:11-14",
+        "Heb 9:15-22",
+        "Heb 9:23-28"
+      ],
+      "echoes": [
+        {
+          "ref": "Lev 16:11-19",
+          "note": "The high priest's entry with incense and blood into the Most Holy Place."
+        },
+        {
+          "ref": "Lev 16:20-22",
+          "note": "The goat sent into the wilderness bearing Israel's confessed sins."
+        },
+        {
+          "ref": "Exod 24:6-8",
+          "note": "'This is the blood of the covenant' - Moses sprinkles the people."
+        },
+        {
+          "ref": "Num 19:1-10",
+          "note": "The ashes of the red heifer for purification."
+        },
+        {
+          "ref": "Isa 53:12",
+          "note": "'He bore the sin of many' - echoed in Heb 9:28."
+        }
+      ],
+      "misread": {
+        "popular": "The Old Testament sacrifices were meaningless rituals, or Jews were trying to earn salvation by them.",
+        "better": "The sacrifices were God's gracious provision for a covenant people to live with a holy God; Leviticus presents them as God-given means of cleansing and forgiveness. Hebrews honours them as real but provisional, and says they point to Christ's once-for-all offering."
+      }
+    },
+    {
+      "n": 10,
+      "title": "Once for All; So Draw Near and Hold Fast",
+      "summary": "The law has a shadow of the good things to come; its yearly sacrifices are a reminder of sins, since the blood of bulls and goats cannot take sins away. So Christ, coming into the world, says in Psalm 40: 'Sacrifices you did not desire, but a body you prepared for me... I have come to do your will.' By that will we have been made holy through the offering of Jesus' body once for all. Every priest stands daily, but he sat down. The Spirit's witness in Jeremiah 31 confirms that where sins are forgiven there is no longer any offering for sin. Therefore, with confidence to enter by the new and living way through the curtain, his flesh, let us draw near, hold fast our confession, and consider how to stir one another to love, not neglecting to meet together. For if we go on sinning deliberately after receiving the knowledge of the truth, there remains no sacrifice for sins, only fearful judgment. Remember the former days when you endured public abuse and the seizure of your property with joy. Do not throw away your confidence. 'My righteous one shall live by faith, and if he shrinks back my soul has no pleasure in him.'",
+      "background": "Hebrews 10:32-34 is the clearest window on the community's history: early in their life they were publicly insulted, some were imprisoned, others stood by them, and their goods were confiscated, but no one had yet been killed (Heb 12:4). If the recipients were in Rome, this fits the expulsion of Jews from Rome under Claudius around AD 49, which Suetonius links to disturbances over 'Chrestus' and which Acts 18:2 mentions, more than Nero's lethal persecution of AD 64. This identification is plausible but not certain.",
+      "culture": "Public shaming was a tool of social control: being made a 'public spectacle' (theatrizomenoi, Heb 10:33) meant losing honour and standing. Visiting prisoners was risky, since prisoners depended on outsiders for food and associates could be tainted. Confiscation of property often accompanied legal action or mob violence.\n\nThe synagogue offered recognised status as an ancient, tolerated people. Christ-followers who stayed visibly separate risked losing that protection. 'Neglecting to meet together' may describe people quietly withdrawing to avoid notice.",
+      "jewishLens": "Psalm 40 is itself a Jewish critique of sacrifice without obedience, a theme running through the prophets (1 Sam 15:22; Ps 51:16-17; Hos 6:6). Hebrews places Jesus in that prophetic stream: the obedient self-offering is what God desired. The quotation of Habakkuk 2:3-4, in its Greek form, speaks of the 'coming one' who will not delay and of the righteous living by faithfulness, a text that sustained Israel waiting for God's justice. The warning about deliberate sin echoes Numbers 15:30-31, where sins 'with a high hand' had no sacrifice.",
+      "audience": "They would feel both encouragement and alarm: you have done this before, you can do it again; but turning away now would mean rejecting the only sacrifice there is. The communal call is strong: draw near together, hold fast together, meet together.",
+      "today": "Christian faithfulness is communal. The cure for drift is gathering, mutual encouragement and remembering how God sustained us before. The warning concerns deliberate, persistent rejection of Christ, not ordinary struggles with sin.",
+      "keyRefs": [
+        "Heb 10:1-18",
+        "Heb 10:19-25",
+        "Heb 10:26-31",
+        "Heb 10:32-39"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 40:6-8",
+          "note": "'Sacrifice and offering you did not desire... I delight to do your will' - the obedient self-offering."
+        },
+        {
+          "ref": "Jer 31:33-34",
+          "note": "Repeated: God will remember their sins no more."
+        },
+        {
+          "ref": "Hab 2:3-4",
+          "note": "The coming one will not delay; the righteous shall live by faith(fulness)."
+        },
+        {
+          "ref": "Num 15:30-31",
+          "note": "Sin committed 'with a high hand' - defiant sin with no atoning offering."
+        },
+        {
+          "ref": "Deut 32:35-36",
+          "note": "'Vengeance is mine... the Lord will judge his people.'"
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 10:26 means that any deliberate sin after conversion (for example, a moral failure one knew was wrong) puts a believer beyond forgiveness.",
+        "better": "The context defines the sin as trampling the Son of God underfoot, treating the covenant blood as common and insulting the Spirit of grace (Heb 10:29): deliberate, continuing rejection of Christ. It echoes Numbers 15's defiant sin 'with a high hand'. The author goes on to express confidence that 'we are not of those who shrink back' (Heb 10:39)."
+      }
+    },
+    {
+      "n": 11,
+      "title": "By Faith: The Witnesses Who Looked Ahead",
+      "summary": "Faith is the assurance of things hoped for, the conviction of things not seen. By faith the ancestors received approval. The chapter moves through Israel's story: Abel, Enoch, Noah; Abraham, who left home not knowing where he was going, lived in tents and looked for a city with foundations whose builder is God; Sarah; Isaac, Jacob and Joseph. These all died in faith, not having received the promises, confessing they were strangers and exiles seeking a homeland, so God is not ashamed to be called their God. Abraham offered Isaac, reasoning that God could raise the dead. Moses refused to be called the son of Pharaoh's daughter, choosing ill-treatment with God's people and considering the reproach of Christ greater wealth than Egypt's treasures. Israel crossed the sea; Jericho fell; Rahab welcomed the spies. Then a rush of names and deeds, some triumphant, others tortured, mocked, imprisoned, sawn in two, wandering in deserts and caves, 'of whom the world was not worthy'. All these did not receive what was promised, since God had provided something better, so that apart from us they would not be made perfect.",
+      "background": "Hebrews 11 belongs to a known genre: lists of exemplary figures. Jewish examples include Sirach 44-50 ('Let us now praise famous men') and 1 Maccabees 2:51-64. 'Sawn in two' probably alludes to the tradition that Isaiah was martyred in this way under Manasseh (found in the Martyrdom of Isaiah). Those 'tortured, refusing release, to obtain a better resurrection' recall the Maccabean martyrs (2 Maccabees 6-7).",
+      "culture": "Ancient orators used examples (exempla) to persuade: people imitate those whose honour is praised. The list praises those who embraced shame and marginality in the present for the sake of future honour from God. Pamela Eisenbaum observed that, unlike Sirach, Hebrews omits kings, priests and the temple, and favours outsiders, wanderers and people outside national institutions, such as Rahab the Canaanite. Being 'strangers and exiles' (xenoi kai parepidēmoi) meant having no civic rights, a status the hearers knew.\n\nGod being 'not ashamed to be called their God' is honour language: a patron publicly owns his loyal clients.",
+      "jewishLens": "This is Israel's own story told as the church's family history. The faith of the patriarchs is faithfulness to God's promise, exactly as Jewish tradition remembers Abraham's trust (Gen 15:6) and the binding of Isaac. Moses' choice is read as solidarity with God's suffering people. A Jewish believer would hear that the community stands in unbroken continuity with the ancestors: the same faith, the same hope, the same homeland. The final verse is crucial: the ancestors and the church are completed together. There is no 'their religion' and 'ours', but one people of faith across time.",
+      "audience": "For people who had lost property and status, the chapter says: you are in good company. The greatest figures of Israel's story lived without seeing the promise and were often despised by their society. Your shame does not mean God has abandoned you.",
+      "today": "Faith often means acting on God's promise without seeing the outcome. The chapter honours those who died without seeing answers, as well as those who saw victories, which is a realistic comfort for suffering believers.",
+      "keyRefs": [
+        "Heb 11:1-3",
+        "Heb 11:8-16",
+        "Heb 11:24-28",
+        "Heb 11:32-40"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 12:1-4",
+          "note": "Abraham goes out not knowing where, trusting God's call."
+        },
+        {
+          "ref": "Gen 22:1-14",
+          "note": "The binding of Isaac, read as trust that God can raise the dead."
+        },
+        {
+          "ref": "Gen 23:4",
+          "note": "Abraham calls himself 'a stranger and sojourner' among the Hittites."
+        },
+        {
+          "ref": "Exod 2:11-15",
+          "note": "Moses identifies with his oppressed people and leaves Pharaoh's court."
+        },
+        {
+          "ref": "Josh 2:8-14",
+          "note": "Rahab's confession and protection of the spies."
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 11 is a 'faith hall of fame' of heroes whose great faith brought great results; read alone, it inspires us to believe hard enough to see God act.",
+        "better": "The chapter leads directly into 12:1 ('Therefore, since we are surrounded by so great a cloud of witnesses'). Many in the list suffered and did not receive the promise. It is a call to endure in a race toward Jesus, written for discouraged people, and it binds the ancestors and the church into one family."
+      }
+    },
+    {
+      "n": 12,
+      "title": "Run the Race; You Have Come to Mount Zion",
+      "summary": "Surrounded by this cloud of witnesses, let us lay aside every weight and run with endurance the race set before us, looking to Jesus, the pioneer and perfecter of faith, who for the joy set before him endured the cross, despising its shame, and sat down at the right hand of God. You have not yet resisted to the point of bloodshed. Do not lose heart: 'the Lord disciplines the one he loves' (Prov 3:11-12). Hardship is a father's training, producing the peaceful fruit of righteousness. Strengthen weak knees; pursue peace and holiness; let no root of bitterness spring up; do not be like Esau, who sold his birthright for one meal. You have not come to a mountain that can be touched, blazing fire, darkness, gloom and a terrifying voice, but to Mount Zion, the city of the living God, the heavenly Jerusalem, myriads of angels in festal gathering, the assembly of the firstborn, God the judge of all, the spirits of the righteous made perfect, and Jesus, mediator of a new covenant, whose blood speaks a better word than Abel's. Do not refuse the one who speaks. His voice will shake heaven and earth once more; so, receiving an unshakable kingdom, let us be grateful and worship with reverence and awe, for our God is a consuming fire.",
+      "background": "The community has not yet faced martyrdom (Heb 12:4), which some take as evidence that it was written before Nero's persecution in Rome (AD 64), or in a place untouched by it. The athletic imagery fits any Greco-Roman city with games.",
+      "culture": "Races in the stadium were watched by crowds; 'witnesses' are both spectators and those who testify by their lives. Runners stripped off anything heavy. Crucifixion was the most shameful death in the Roman world, reserved for slaves and rebels. To 'despise the shame' means to treat the world's verdict as worthless because God's verdict mattered more, a radical reversal of honour values.\n\nFatherly discipline (paideia) meant education and training, not only punishment; a father who did not train his son treated him as illegitimate. The birthright was the eldest son's inheritance and honour. 'Gratitude' (echōmen charin, Heb 12:28) is the right response of clients to a generous patron, and deSilva makes this central to the whole sermon.",
+      "jewishLens": "Sinai and Zion are two mountains in Israel's own story: Sinai, where the covenant was given with fearful holiness (Exod 19-20; Deut 4:11-12), and Zion, the city of God's presence and the gathering of the nations in the prophets (Isa 2:2-3; Ps 48). The contrast is not between a bad religion and a good one; Hebrews says the God of Sinai is still 'a consuming fire' (Deut 4:24). The difference is access: Israel had to keep back from Sinai, but believers now join a festal gathering. The proverb on discipline is quoted as a father speaking to his son, Israel's wisdom tradition naming suffering as part of a loving relationship.",
+      "audience": "The congregation is pictured joining a joyful festival in God's city, though in Rome or wherever they lived they were socially marginal. Their real citizenship and assembly are heavenly. At the same time, the warning is plain: God still speaks, and refusing him is more serious now than at Sinai.",
+      "today": "Suffering can be re-read as training within a loving relationship, though Hebrews does not say every hardship is directly sent as punishment. The vision of Zion makes worship a joining of a vast celebration, not an individual transaction.",
+      "keyRefs": [
+        "Heb 12:1-3",
+        "Heb 12:4-13",
+        "Heb 12:14-17",
+        "Heb 12:18-29"
+      ],
+      "echoes": [
+        {
+          "ref": "Prov 3:11-12",
+          "note": "'My son, do not despise the Lord's discipline... the Lord disciplines the one he loves.'"
+        },
+        {
+          "ref": "Exod 19:12-19",
+          "note": "Sinai: the boundary, the fire, the trumpet, the people trembling."
+        },
+        {
+          "ref": "Gen 25:29-34",
+          "note": "Esau sells his birthright for a meal."
+        },
+        {
+          "ref": "Hag 2:6",
+          "note": "'Yet once more I will shake the heavens and the earth.'"
+        },
+        {
+          "ref": "Deut 4:24",
+          "note": "'The Lord your God is a consuming fire.'"
+        }
+      ],
+      "misread": {
+        "popular": "Sinai represents the harsh, legalistic God of the Old Testament or of Judaism; Zion represents the gentle God of the New Testament.",
+        "better": "Both mountains belong to Israel's Scriptures and both reveal the same God. Hebrews ends the section by quoting Deuteronomy that 'our God is a consuming fire'. The contrast is between standing at a distance and being welcomed into the festal assembly through Jesus the mediator."
+      }
+    },
+    {
+      "n": 13,
+      "title": "Outside the Camp: Life in the Meantime",
+      "summary": "Let brotherly love continue. Do not neglect hospitality to strangers, for some have entertained angels unawares. Remember prisoners and those mistreated as if you were with them. Honour marriage. Keep free from love of money, since God has said, 'I will never leave you nor forsake you.' Remember your leaders who spoke God's word and imitate their faith. Jesus Christ is the same yesterday, today and forever; do not be carried away by strange teachings about foods. We have an altar from which those serving the tent have no right to eat. As the bodies of animals whose blood was brought into the sanctuary were burned outside the camp, so Jesus suffered outside the gate to make the people holy. Let us go to him outside the camp, bearing his reproach, for here we have no lasting city but seek the city to come. Offer a sacrifice of praise continually, and do good and share. Obey your leaders. Pray for us. A benediction follows: the God of peace who brought up from the dead the great shepherd of the sheep by the blood of the eternal covenant equip you. The author calls the whole a 'word of exhortation', mentions Timothy's release and sends greetings from 'those from Italy'.",
+      "background": "The ending is the main evidence for setting. 'Those from Italy' could mean Italians abroad sending greetings home (so the recipients were in Rome) or people in Italy sending greetings elsewhere; most scholars favour Rome as the destination. The earliest known use of Hebrews is in 1 Clement, written from Rome. The mention of Timothy links the author to Paul's circle, which helped the later attribution to Paul. Rome's Jewish community was large and synagogue-based, and its Christ-followers had already suffered in the Claudius episode. With Nero's persecution of AD 64 either imminent or recent, the pull back to the protected identity of the synagogue would be strong.",
+      "culture": "Hospitality was a lifeline for travelling believers, and the story of Abraham welcoming three visitors (Gen 18) made it sacred in Jewish memory. Prisoners relied on visitors for food. 'Outside the camp' in the Torah was the place of the unclean, of sin offerings' remains and of shame; Jesus was crucified outside Jerusalem's walls. The call to go out to him there is a call to accept social marginality.\n\n'Strange teachings about foods' may refer to sacrificial meals or to debates over food rules; the author says the heart is strengthened by grace, not by foods. Sacrifices of praise and of sharing were familiar from Psalms and Jewish piety, especially after AD 70, when rabbinic Judaism also understood prayer and deeds of kindness as replacing sacrifice.",
+      "jewishLens": "Even the 'outside the camp' image comes from Leviticus 16:27, the Day of Atonement ritual. The 'sacrifice of praise' echoes Psalm 50:14 and Hosea 14:2 ('the fruit of our lips'). Jewish tradition, too, came to see prayer, Torah study and acts of loving-kindness as offerings to God. The benediction uses Isaiah's shepherd imagery and 'the blood of the eternal covenant' (Zech 9:11; Isa 63:11). The final chapter thus shows a community whose worship, ethics and hope are expressed in Israel's language. 'Jesus Christ the same yesterday, today and forever' answers the sermon's opening: the Son remains while all else changes.",
+      "audience": "After the soaring theology, the hearers receive practical, concrete instructions for a persecuted community: keep loving, keep the doors open, care for those in prison, stay faithful in marriage, resist anxiety about money, follow faithful leaders. The final appeal, 'bear with my word of exhortation', is warm and pastoral.",
+      "today": "The Christian life is lived 'outside the camp': not seeking security in social approval, but in hospitality, generosity, faithfulness and praise. Hebrews 13:8 is an anchor against new teachings, a call back to the Jesus first preached.",
+      "keyRefs": [
+        "Heb 13:1-6",
+        "Heb 13:7-9",
+        "Heb 13:10-16",
+        "Heb 13:20-25"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 18:1-8",
+          "note": "Abraham's hospitality to visitors who turn out to be messengers of God."
+        },
+        {
+          "ref": "Deut 31:6",
+          "note": "'He will not leave you or forsake you.'"
+        },
+        {
+          "ref": "Ps 118:6",
+          "note": "'The Lord is on my side; I will not fear. What can man do to me?'"
+        },
+        {
+          "ref": "Lev 16:27",
+          "note": "The bodies of the Yom Kippur sin offerings burned outside the camp."
+        },
+        {
+          "ref": "Ps 50:14",
+          "note": "'Offer to God a sacrifice of thanksgiving.'"
+        }
+      ],
+      "misread": {
+        "popular": "Hebrews 13:8 is quoted as a stand-alone slogan, for example to argue that all New Testament miracles must happen today in the same way.",
+        "better": "In context it ties together remembering faithful leaders (Heb 13:7) and resisting strange teachings (Heb 13:9): the Jesus they preached is the same Jesus now, so stay with him. It is about faithfulness to the original gospel, not a ruling on spiritual gifts."
+      }
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "'Obsolete': does Hebrews say Judaism has been replaced?",
+      "popular": "Hebrews 8:13 shows that God has finished with the Jewish religion. The old covenant was a failed system of rituals, the Jews are no longer God's covenant people, and the church has taken Israel's place.",
+      "inContext": "The 'new covenant' is not a Christian invention but a promise God made to 'the house of Israel and the house of Judah' through Jeremiah (Jer 31:31-34). Hebrews quotes it as Israel's own hope now fulfilled in the Messiah. The fault named is 'with them' (Heb 8:8), the people's unfaithfulness, exactly as Jeremiah himself said, not with Torah as God's gift. What is 'near to vanishing' is the first covenant's system of priesthood and sacrifice as the means of access, which the author sees as provisional and pointing ahead. Richard Hays describes Hebrews as a form of Jewish sectarian 'new covenantalism', comparable to how the Qumran community saw itself as the people of a renewed covenant, and argues it is not a statement of Christianity over Judaism. Mark Nanos pushes further to 'renewed covenantalism'. Pamela Eisenbaum, a Jewish scholar, has argued that Hebrews is not about Jews and Christians as separate religions at all, since that division did not yet exist. Hebrews never mentions the Pharisees, never accuses Jews of legalism, and holds up Israel's saints as the church's own ancestors (Heb 11).",
+      "defence": "Careful evangelical scholars such as F. F. Bruce, George Guthrie and Thomas Schreiner agree that 'legalistic Jews' caricatures are foreign to Hebrews and that the new covenant is Israel's promise. They nonetheless argue that Hebrews really does claim a decisive discontinuity: the Levitical priesthood and its sacrifices cannot perfect the conscience (Heb 10:1-4), and after Christ there is no return to them. Schreiner holds that Hebrews teaches that the old covenant as a covenant has been fulfilled and set aside. Most agree, however, that 'set aside because fulfilled' is different from 'God rejected the Jewish people', and Hebrews says nothing about the latter.",
+      "whyItMatters": "Supersessionist readings of Hebrews were used historically to justify contempt and violence toward Jews. Reading 8:13 inside Jeremiah's promise keeps the strong Christology of Hebrews without turning it into anti-Judaism.",
+      "refs": [
+        "Heb 8:6-13",
+        "Jer 31:31-34",
+        "Heb 7:18-19",
+        "Heb 10:1-4",
+        "Heb 11:39-40"
+      ],
+      "scholars": [
+        "Richard Hays",
+        "Mark Nanos",
+        "Pamela Eisenbaum",
+        "F. F. Bruce",
+        "Thomas Schreiner",
+        "George Guthrie",
+        "Oskar Skarsaune"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Hebrews 6:4-6 and 10:26: can a Christian lose salvation?",
+      "popular": "Two opposite popular readings exist. Some take these verses as proof that a believer can lose salvation and then can never get it back. Others, defending 'once saved, always saved', say the people described were never truly saved, only close to faith, or that the 'punishment' is loss of rewards, not of salvation.",
+      "inContext": "In a covenant setting, apostasy means publicly breaking loyalty with one's patron and benefactor. David deSilva reads 6:4-8 in patron-client terms: to repudiate the Son after receiving his gifts is to shame the benefactor publicly ('holding him up to contempt', Heb 6:6), the worst ingratitude imaginable, and there is no other broker to turn to. The descriptions (enlightened, tasted the heavenly gift, shared in the Holy Spirit) are the author's normal words for genuine Christian experience. Scot McKnight's influential 1992 study read all five warnings together and concluded that the audience is believers, the sin is apostasy, and the consequence is final judgment. The point is pastoral: the warning is a fence at a cliff edge meant to keep people from going over, and the author immediately adds 'we are persuaded better things of you' (Heb 6:9).",
+      "defence": "Reformed scholars answer in several ways. Thomas Schreiner and Ardel Caneday (The Race Set Before Us) agree with McKnight that the audience is believers and the threat is real eternal judgment, but argue the warnings are the very means God uses to keep his elect persevering, so a true believer heeds them and does not fall. Others (following John Owen, and in some form Wayne Grudem) argue the experiences described fall short of regeneration, comparing them to the wilderness generation who saw God's works yet did not believe. Arminian and Wesleyan readers take the text to describe a real possibility of falling away. These are serious scholarly positions, not popular errors; what popular preaching often misses is that Hebrews is aimed at a weary community under social pressure, not at troubled individuals worried about a single sin.",
+      "whyItMatters": "The passages have caused real anguish to sensitive believers who fear they have committed an unforgivable sin. Read in context, they warn against deliberate, public repudiation of Jesus, and they are addressed to people the preacher believes will persevere.",
+      "refs": [
+        "Heb 6:4-12",
+        "Heb 10:26-39",
+        "Heb 3:12-14",
+        "Heb 2:1-4",
+        "Heb 12:25-29"
+      ],
+      "scholars": [
+        "Scot McKnight",
+        "David deSilva",
+        "Thomas Schreiner",
+        "Ardel Caneday",
+        "George Guthrie",
+        "F. F. Bruce"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Hebrews 11 as a 'faith hall of fame'",
+      "popular": "Hebrews 11 is a list of spiritual giants whose great faith we should admire and imitate, each a stand-alone example of believing hard enough for God to act.",
+      "inContext": "Hebrews 11 is part of a sermon whose 'therefore' comes in 12:1: these people are a 'cloud of witnesses' surrounding runners in a stadium, and the point is endurance toward Jesus. Most of the faith described is faithfulness under uncertainty and shame: Abraham leaving without knowing where, Moses choosing reproach, people tortured and homeless (Heb 11:35-38). Many did not receive what was promised (Heb 11:13; Heb 11:39). Pamela Eisenbaum showed that, unlike typical Jewish hero lists (Sir 44-50, 1 Maccabees 2), Hebrews chooses figures who stand somewhat outside national institutions, people who were marginal, wandering and unsettled. They model the community's own condition. The list ends 'apart from us they should not be made perfect': the ancestors and the church form one family completed together.",
+      "defence": "Evangelical commentators such as F. F. Bruce, George Guthrie and Thomas Schreiner agree fully that chapter 11 must be read with 12:1-3 and is about persevering faith, not heroic achievement. Popular devotional use that celebrates individual heroes is not wrong to admire them, since Hebrews does say 'the world was not worthy' of them (Heb 11:38), but it loses the call to endurance under shame. This is a case of popular flattening, not scholarly disagreement.",
+      "whyItMatters": "Read as a hall of fame, the chapter can make faith sound like a spiritual superpower. Read as the sermon intends, it comforts people who are suffering and have not yet seen God's promises fulfilled.",
+      "refs": [
+        "Heb 11:1-40",
+        "Heb 12:1-3",
+        "Heb 11:13-16",
+        "Heb 11:35-40"
+      ],
+      "scholars": [
+        "Pamela Eisenbaum",
+        "David deSilva",
+        "Craig Koester",
+        "F. F. Bruce",
+        "George Guthrie"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Faith as believing without evidence (Heb 11:1)",
+      "popular": "Hebrews 11:1 defines faith as believing in what you cannot see, often in contrast to evidence or reason; faith is a strong inner certainty.",
+      "inContext": "The key words are hypostasis (substance, assurance, the 'reality' that underlies something) and elenchos (proof, conviction). Faith is the assurance that gives present reality to what is hoped for. In the chapter, faith is relational trust in a faithful God who has promised (Heb 11:11) and loyal action that follows: going, offering, refusing, enduring. Luke Timothy Johnson and David deSilva stress that pistis in this setting is close to faithfulness and loyalty. The 'unseen' is not the irrational but the future and heavenly realities God has promised.",
+      "defence": "Traditional commentators broadly agree that 11:1 is not a definition opposing faith to evidence. Some, such as Thomas Schreiner, stress the subjective 'assurance' side more; others, such as Harold Attridge and Craig Koester, stress the objective 'reality' sense of hypostasis. This is a real translation debate, but no serious reading turns faith into belief without reasons; Hebrews grounds faith in God's character and past acts.",
+      "whyItMatters": "Faith as trust in a promise-keeping God, acted on over a lifetime, is both more demanding and more comforting than faith as a feeling of certainty.",
+      "refs": [
+        "Heb 11:1-3",
+        "Heb 11:6",
+        "Heb 11:11",
+        "Heb 10:35-39"
+      ],
+      "scholars": [
+        "Harold Attridge",
+        "Craig Koester",
+        "Luke Timothy Johnson",
+        "David deSilva",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "'Jesus Christ the same yesterday, today and forever' (Heb 13:8)",
+      "popular": "This verse is often used to argue that because Jesus never changes, every miracle and spiritual gift of the New Testament must be available today in the same way, or more generally as a timeless slogan about God's unchanging nature detached from its setting.",
+      "inContext": "Heb 13:8 sits between a call to remember past leaders who 'spoke the word of God' and whose faith ended well (Heb 13:7) and a warning against 'diverse and strange teachings' about foods (Heb 13:9). The point is that the Jesus those leaders preached is the same Jesus now: do not trade him for new teachings. It echoes the opening of the sermon, where the Son remains while creation changes (Heb 1:10-12; Ps 102:25-27).",
+      "defence": "Those who use the verse for ongoing gifts are not wrong that Christ's character and power are constant, and Pentecostal scholars such as Craig Keener make careful biblical arguments for continuing gifts on other grounds. Cessationists also cite unchanging Christ while denying continuation. Both sides, when careful, agree that 13:8 itself is about fidelity to the original gospel, not a ruling on miracles.",
+      "whyItMatters": "In context the verse is an anchor against drift: the Jesus of the apostles and earlier leaders is enough; we do not need newer, stranger teachings.",
+      "refs": [
+        "Heb 13:7-9",
+        "Heb 1:10-12",
+        "Ps 102:25-27"
+      ],
+      "scholars": [
+        "Craig Koester",
+        "F. F. Bruce",
+        "George Guthrie",
+        "Craig Keener"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Shadows and copies: is Hebrews Platonist?",
+      "popular": "Some readers assume Hebrews teaches that the physical world and earthly worship are inferior shadows of a spiritual realm, so what matters is the inner, spiritual life, not bodies, places or rituals.",
+      "inContext": "Hebrews uses words also used by Plato and the Jewish philosopher Philo of Alexandria: 'copy', 'shadow', 'true'. But its main source is Exodus 25:40, where Moses is shown a 'pattern' on the mountain, and its framework is apocalyptic: a heavenly sanctuary, a decisive event in history (Christ's death 'once for all' at the end of the ages, Heb 9:26), a coming world and a future city. Ronald Williamson argued against heavy dependence on Philo; Harold Attridge and Luke Timothy Johnson see real contact with Middle Platonist vocabulary, used in service of a Jewish eschatology. Jesus' body, blood and death in history are essential, not shadows (Heb 10:5-10).",
+      "defence": "Evangelical scholars such as George Guthrie and Thomas Schreiner generally emphasise the Jewish apocalyptic and typological background and play down Platonism; others, including some Catholic and mainline scholars, see a genuine blend. Nobody serious reads Hebrews as despising the body: the incarnation and suffering of Jesus are central (Heb 2:14-18). The disagreement is about vocabulary and influence, not about whether material life matters.",
+      "whyItMatters": "Hebrews does not offer an escape from history into spirituality. It says the real access to God was opened through a real human life and death and points toward a real future city.",
+      "refs": [
+        "Heb 8:5",
+        "Exod 25:40",
+        "Heb 9:23-26",
+        "Heb 10:1",
+        "Heb 10:5-10"
+      ],
+      "scholars": [
+        "Ronald Williamson",
+        "Harold Attridge",
+        "Luke Timothy Johnson",
+        "George Guthrie",
+        "Craig Koester"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "The 'rest' of Hebrews 4 as Sunday rules or inner peace only",
+      "popular": "Either the 'Sabbath rest' is used to argue about which day Christians must keep, or it is spiritualised into personal peace and relief from striving at the moment of conversion.",
+      "inContext": "The rest in Hebrews 3-4 draws on Psalm 95, Numbers 14 and Genesis 2:2. It is God's own rest, the promised land seen as a picture of the final inheritance, still future and still to be 'entered' through faithful perseverance (Heb 4:11). Jewish tradition already connected the Sabbath with the world to come; Hebrews uses the rare word sabbatismos (Heb 4:9), Sabbath-celebration, for the joy that awaits God's people. It is both already tasted ('we who have believed do enter', Heb 4:3) and not yet completed.",
+      "defence": "Many evangelical scholars (for example Guthrie and Schreiner) agree the rest is chiefly eschatological, while noting the present tense of 4:3 supports a real present dimension. Debates over the Christian Sabbath are legitimate but draw on other texts; Hebrews 4 is not their main battleground.",
+      "whyItMatters": "The passage keeps hope forward-looking: believers are still a pilgrim people who must not stop short of the land, like their ancestors at Kadesh.",
+      "refs": [
+        "Heb 3:7-4:11",
+        "Ps 95:7-11",
+        "Num 14:20-35",
+        "Gen 2:2"
+      ],
+      "scholars": [
+        "George Guthrie",
+        "Craig Koester",
+        "Harold Attridge",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Jesus' sacrifice as only a legal transaction",
+      "popular": "Hebrews shows that God's wrath required blood, so Jesus paid the penalty; the high-priest language is mainly a picture of a legal debt being cancelled so individuals can go to heaven.",
+      "inContext": "Hebrews' main picture is not the law court but the sanctuary: Yom Kippur purification so that a holy God can dwell among an unclean people and they can 'draw near'. Blood in Leviticus is life given to cleanse and consecrate (Lev 17:11). The aim is a cleansed conscience, open access and a covenant people who worship (Heb 9:14; Heb 10:19-22). Jesus is also a priest who sympathises and intercedes now (Heb 7:25). Craig Koester and David Moffitt emphasise that in Hebrews atonement includes Jesus' ascension into God's presence, not only his death.",
+      "defence": "Evangelical scholars such as Schreiner and Guthrie affirm penal substitution as part of the New Testament picture (Heb 9:28 echoes Isa 53:12, 'to bear the sins of many'), and the warnings about judgment show God's justice is real. They agree that Hebrews' distinctive emphasis is priestly and relational access, and that a purely transactional preaching of the cross is thinner than the text.",
+      "whyItMatters": "The goal of the sacrifice in Hebrews is relationship: bold, clean-hearted approach to God within a worshipping community.",
+      "refs": [
+        "Heb 9:11-14",
+        "Heb 10:19-22",
+        "Lev 17:11",
+        "Heb 9:28",
+        "Heb 7:25"
+      ],
+      "scholars": [
+        "Craig Koester",
+        "David Moffitt",
+        "David deSilva",
+        "Thomas Schreiner",
+        "George Guthrie"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "perspectives": [
+    {
+      "name": "Supersessionist (replacement) reading",
+      "who": "Much of the patristic and medieval tradition, for example John Chrysostom's homilies on Hebrews, and many later popular readers.",
+      "summary": "Hebrews proves that the old covenant and its people have been replaced. The Jewish religion is a set of obsolete shadows; the church is the new Israel and inherits all its promises.",
+      "strengths": "It takes seriously the sharp language of Hebrews ('obsolete', Heb 8:13; 'he takes away the first', Heb 10:9) and the claim that there is no other sacrifice for sin. It recognises how central Christ's finality is to the book.",
+      "critiques": "Hebrews never mentions 'the Jews' as a group, never rejects the Jewish people, and calls Israel's saints 'our' fathers. The new covenant it celebrates is promised to Israel and Judah. It reads later Jewish-Christian hostility back into an intra-Jewish sermon, and it has a tragic history of fuelling contempt."
+    },
+    {
+      "name": "Fulfilment and continuity",
+      "who": "Mainstream evangelical and Catholic commentators, for example F. F. Bruce, George Guthrie, Craig Koester, Thomas Schreiner.",
+      "summary": "One story, one God, one people of faith across the ages. The Levitical system was God's good provision, pointing to a fuller reality; with Christ that fuller reality has come, so the earlier means of access is completed and set aside, but the promises to Israel are kept, not cancelled.",
+      "strengths": "It fits the 'many times and many ways' opening, the typological reading of the tabernacle, and the inclusion of Israel's saints in the people of faith (Heb 11:39-40).",
+      "critiques": "Jewish and post-Holocaust readers ask whether 'fulfilment' still implies that Judaism today is empty. Others note it can underplay the genuine discontinuity Hebrews asserts, or alternatively soften the sharpness of the warnings."
+    },
+    {
+      "name": "Jewish-Christian intramural debate (new or renewed covenantalism)",
+      "who": "Richard Hays, Mark Nanos, Pamela Eisenbaum, and in different ways Luke Timothy Johnson.",
+      "summary": "Hebrews comes from inside first-century Judaism before 'Judaism' and 'Christianity' were separate religions. Like the Qumran community, which also saw itself as the people of the new covenant, the author argues about the right way to be faithful to Israel's God, now through Messiah Jesus. Hays calls it Jewish sectarian 'new covenantalism'; Nanos prefers 'renewed covenantalism'.",
+      "strengths": "It matches the book's total immersion in Jewish Scripture and worship, its silence about Gentile-Jewish tension, and its historical setting in the decades before the parting of the ways.",
+      "critiques": "Critics say it can blur the real newness Hebrews claims for Jesus' once-for-all sacrifice, and that a sect claiming the old system is 'near vanishing' is still making exclusive claims that later readers will hear as replacement. Some note that the audience may have included many Gentiles."
+    },
+    {
+      "name": "Platonic and Philonic background",
+      "who": "Older scholars such as James Moffatt and Ceslas Spicq, and with nuance Harold Attridge and James Thompson.",
+      "summary": "Hebrews thinks in the categories of Alexandrian Jewish philosophy: the heavenly, true and eternal versus the earthly, copied and passing. Its affinity with Philo of Alexandria suggests an author like Apollos, an Alexandrian Jew.",
+      "strengths": "It explains vocabulary such as 'shadow', 'copy' and 'true tabernacle' and the polished Greek rhetoric of the book.",
+      "critiques": "Ronald Williamson and others showed the differences from Philo are deep: Hebrews has a decisive historical event, an end of the ages and a coming city. Shared vocabulary does not mean shared worldview."
+    },
+    {
+      "name": "Apocalyptic and Second Temple background",
+      "who": "C. K. Barrett, Lincoln Hurst, David Moffitt, and many recent commentators.",
+      "summary": "The two-level picture of Hebrews is Jewish apocalyptic: a heavenly temple where God is enthroned (as in 1 Enoch, Daniel and the Qumran Songs of the Sabbath Sacrifice), two ages, and a coming kingdom that cannot be shaken. Melchizedek speculation like 11QMelchizedek belongs here too.",
+      "strengths": "It accounts for the future orientation of the book (the 'coming world', Heb 2:5; the 'city to come', Heb 13:14) and the emphasis on resurrection and ascension.",
+      "critiques": "Hebrews does use philosophical vocabulary, and many scholars think the either-or is false: a Hellenistic Jewish preacher could blend apocalyptic structure with Platonist language."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Better",
+      "original": "kreittōn (κρείττων)",
+      "usual": "Christianity is better than Judaism.",
+      "inContext": "Used about thirteen times to compare what God gave earlier with what he gives in the Son: better hope, covenant, promises, sacrifices, possession, country, resurrection. It is a comparison of good and better within one plan.",
+      "refs": [
+        "Heb 1:4",
+        "Heb 7:19",
+        "Heb 8:6",
+        "Heb 11:16",
+        "Heb 11:40"
+      ]
+    },
+    {
+      "term": "Perfect / make perfect",
+      "original": "teleioō (τελειόω)",
+      "usual": "Morally flawless.",
+      "inContext": "To bring to completion or goal; in priestly use, to consecrate for service. Jesus was 'made perfect through sufferings' (qualified as priest), and the law could not 'perfect' worshippers, that is, bring them fully into God's presence.",
+      "refs": [
+        "Heb 2:10",
+        "Heb 5:9",
+        "Heb 7:19",
+        "Heb 10:14"
+      ]
+    },
+    {
+      "term": "Mediator",
+      "original": "mesitēs (μεσίτης)",
+      "usual": "A legal go-between.",
+      "inContext": "A broker or guarantor who stands between two parties. In a patronage society, the mediator brings clients near to a great patron. Jesus mediates a better covenant and guarantees it with his life.",
+      "refs": [
+        "Heb 8:6",
+        "Heb 9:15",
+        "Heb 12:24"
+      ]
+    },
+    {
+      "term": "Covenant / testament",
+      "original": "diathēkē (διαθήκη)",
+      "usual": "A contract between equals.",
+      "inContext": "The Septuagint word for berit, God's binding relational commitment to a people. In 9:16-17 the author plays on its other meaning, a will that takes effect at death.",
+      "refs": [
+        "Heb 8:8-10",
+        "Heb 9:15-17",
+        "Heb 13:20"
+      ]
+    },
+    {
+      "term": "Faith / faithfulness",
+      "original": "pistis (πίστις)",
+      "usual": "Belief in doctrines, or certainty without evidence.",
+      "inContext": "Trust, loyalty and faithfulness toward a faithful God, shown over time in obedience and endurance. Jesus is the 'pioneer and perfecter' of this faith.",
+      "refs": [
+        "Heb 10:38-39",
+        "Heb 11:1",
+        "Heb 11:6",
+        "Heb 12:2"
+      ]
+    },
+    {
+      "term": "Assurance / substance",
+      "original": "hypostasis (ὑπόστασις)",
+      "usual": "A feeling of confidence.",
+      "inContext": "Underlying reality or substance (the Son is the 'exact imprint of his hypostasis', Heb 1:3), also firm confidence. Faith gives present reality to what is hoped for.",
+      "refs": [
+        "Heb 1:3",
+        "Heb 3:14",
+        "Heb 11:1"
+      ]
+    },
+    {
+      "term": "Pioneer / founder",
+      "original": "archēgos (ἀρχηγός)",
+      "usual": "Author or originator.",
+      "inContext": "A leader who goes first and opens the way for others to follow, like a trailblazer or the founder of a city. Jesus leads 'many sons and daughters to glory' through suffering.",
+      "refs": [
+        "Heb 2:10",
+        "Heb 12:2"
+      ]
+    },
+    {
+      "term": "Forerunner",
+      "original": "prodromos (πρόδρομος)",
+      "usual": "Herald.",
+      "inContext": "One who runs ahead and enters first so others can follow; Jesus has gone 'behind the curtain' as forerunner, anchoring the hope of those who come after.",
+      "refs": [
+        "Heb 6:19-20"
+      ]
+    },
+    {
+      "term": "Once for all",
+      "original": "ephapax (ἐφάπαξ)",
+      "usual": "Only once.",
+      "inContext": "Decisively and unrepeatably. Contrasts with the yearly Yom Kippur rite and the daily offerings; Christ's self-offering does not need repeating.",
+      "refs": [
+        "Heb 7:27",
+        "Heb 9:12",
+        "Heb 10:10"
+      ]
+    },
+    {
+      "term": "Rest / Sabbath-rest",
+      "original": "katapausis; sabbatismos (κατάπαυσις; σαββατισμός)",
+      "usual": "Inner calm.",
+      "inContext": "God's own rest and the promised inheritance; sabbatismos (perhaps coined) suggests the festive Sabbath celebration of the world to come.",
+      "refs": [
+        "Heb 4:1-11"
+      ]
+    },
+    {
+      "term": "Shadow / copy / pattern",
+      "original": "skia; hypodeigma; typos (σκιά; ὑπόδειγμα; τύπος)",
+      "usual": "Unreal or worthless.",
+      "inContext": "Drawn from Exodus 25:40: what Moses built followed a heavenly pattern. A shadow is real and points to its source; the earthly sanctuary was a true, God-given sketch of the heavenly reality.",
+      "refs": [
+        "Heb 8:5",
+        "Heb 9:23-24",
+        "Heb 10:1"
+      ]
+    },
+    {
+      "term": "Boldness / confidence",
+      "original": "parrēsia (παρρησία)",
+      "usual": "Personal self-confidence.",
+      "inContext": "In the Greek city, the free citizen's right to speak openly; here the right of access to God's presence and the courage to confess Jesus publicly despite shame.",
+      "refs": [
+        "Heb 3:6",
+        "Heb 4:16",
+        "Heb 10:19",
+        "Heb 10:35"
+      ]
+    },
+    {
+      "term": "Reproach / shame",
+      "original": "oneidismos; aischynē (ὀνειδισμός; αἰσχύνη)",
+      "usual": "Hurt feelings.",
+      "inContext": "Public loss of honour in a society built on reputation. Hebrews treats sharing Christ's reproach as honour in God's court.",
+      "refs": [
+        "Heb 10:33",
+        "Heb 11:26",
+        "Heb 12:2",
+        "Heb 13:13"
+      ]
+    },
+    {
+      "term": "Word of exhortation",
+      "original": "logos tēs paraklēseōs (λόγος τῆς παρακλήσεως)",
+      "usual": "A letter.",
+      "inContext": "A synagogue-style sermon that both encourages and urges. The same phrase is used for Paul's synagogue address in Acts 13:15.",
+      "refs": [
+        "Heb 13:22",
+        "Acts 13:15"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "Harold W. Attridge",
+      "title": "The Epistle to the Hebrews (Hermeneia)",
+      "year": 1989
+    },
+    {
+      "author": "Craig R. Koester",
+      "title": "Hebrews: A New Translation with Introduction and Commentary (Anchor Bible 36)",
+      "year": 2001
+    },
+    {
+      "author": "David A. deSilva",
+      "title": "Perseverance in Gratitude: A Socio-Rhetorical Commentary on the Epistle 'to the Hebrews'",
+      "year": 2000
+    },
+    {
+      "author": "Luke Timothy Johnson",
+      "title": "Hebrews: A Commentary (New Testament Library)",
+      "year": 2006
+    },
+    {
+      "author": "F. F. Bruce",
+      "title": "The Epistle to the Hebrews (NICNT), revised edition",
+      "year": 1990
+    },
+    {
+      "author": "George H. Guthrie",
+      "title": "Hebrews (NIV Application Commentary)",
+      "year": 1998
+    },
+    {
+      "author": "George H. Guthrie",
+      "title": "The Structure of Hebrews: A Text-Linguistic Analysis",
+      "year": 1994
+    },
+    {
+      "author": "Thomas R. Schreiner",
+      "title": "Commentary on Hebrews (Biblical Theology for Christian Proclamation)",
+      "year": 2015
+    },
+    {
+      "author": "Thomas R. Schreiner and Ardel B. Caneday",
+      "title": "The Race Set Before Us: A Biblical Theology of Perseverance and Assurance",
+      "year": 2001
+    },
+    {
+      "author": "Scot McKnight",
+      "title": "The Warning Passages of Hebrews: A Formal Analysis and Theological Conclusions",
+      "year": 1992,
+      "locator": "Trinity Journal 13 (1992): 21-59"
+    },
+    {
+      "author": "Pamela M. Eisenbaum",
+      "title": "The Jewish Heroes of Christian History: Hebrews 11 in Literary Context",
+      "year": 1997
+    },
+    {
+      "author": "Richard B. Hays",
+      "title": "'Here We Have No Lasting City': New Covenantalism in Hebrews, in The Epistle to the Hebrews and Christian Theology (ed. Bauckham et al.)",
+      "year": 2009
+    },
+    {
+      "author": "Mark D. Nanos",
+      "title": "New or Renewed Covenantalism? A Response to Richard Hays, in The Epistle to the Hebrews and Christian Theology",
+      "year": 2009
+    },
+    {
+      "author": "William L. Lane",
+      "title": "Hebrews (Word Biblical Commentary 47A-B)",
+      "year": 1991
+    },
+    {
+      "author": "Ronald Williamson",
+      "title": "Philo and the Epistle to the Hebrews",
+      "year": 1970
+    },
+    {
+      "author": "David M. Moffitt",
+      "title": "Atonement and the Logic of Resurrection in the Epistle to the Hebrews",
+      "year": 2011
+    },
+    {
+      "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+      "title": "The Jewish Annotated New Testament (2nd ed.), introduction and notes on Hebrews",
+      "year": 2017
+    },
+    {
+      "author": "Florentino García Martínez and Eibert Tigchelaar",
+      "title": "The Dead Sea Scrolls Study Edition (11Q13, 11QMelchizedek)",
+      "year": 1997
+    },
+    {
+      "author": "Suetonius",
+      "title": "Lives of the Caesars: Claudius",
+      "locator": "25.4",
+      "publicDomain": true
+    },
+    {
+      "author": "Tacitus",
+      "title": "Annals",
+      "locator": "15.44",
+      "publicDomain": true
+    },
+    {
+      "author": "Eusebius",
+      "title": "Ecclesiastical History",
+      "locator": "6.25.11-14 (Origen on the authorship of Hebrews)",
+      "publicDomain": true
+    }
+  ]
+}

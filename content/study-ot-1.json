@@ -1,0 +1,1232 @@
+[
+  {
+    "id": "genesis",
+    "oneLine": "Genesis tells how the one Creator made a good world, how humans broke it, and how God chose one ordinary, quarrelsome family to carry blessing back to all the nations.",
+    "author": {
+      "name": "Moses (traditional); anonymous scribes and editors (critical)",
+      "who": "Jewish and Christian tradition names Moses, the leader of the exodus, as the author of the whole Torah. Critical scholarship sees Genesis as the work of several generations of Israelite storytellers, priests and scribes, finished around the time of the exile or soon after.",
+      "howWeKnow": "Genesis itself never names an author. The attribution to Moses comes from the way later books speak of 'the book of Moses' (2 Chr 25:4; Neh 13:1) and from Jesus and the apostles calling the Torah 'Moses' (Luke 24:27; John 5:46). The critical view rests on internal evidence: doublets (two creation accounts, two covenant scenes with Abraham), different names for God in different blocks, and notes that look back from a later time, such as 'the Canaanite was then in the land' (Gen 12:6) and kings of Edom listed 'before any king reigned' over Israel (Gen 36:31). Many conservative scholars accept Mosaic substance with later editorial updating, so the gap between the camps is sometimes smaller than it looks.",
+      "otherWritings": [
+        "Exodus",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy",
+        "Psalm 90 (by its heading)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown: the wilderness and plains of Moab (traditional) or Judah and the Babylonian exile (critical)",
+      "note": "If Mosaic, Genesis was shaped on the way from Egypt to Canaan, giving a people who had just left slavery their family history. If composed or completed in the 6th-5th centuries BC, it was finished by scribes in Babylon or in Persian-period Jerusalem who were asking whether God's promises still stood after the exile. Both settings make sense of the book's focus on promises not yet fulfilled.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israel as a covenant people",
+      "place": "On the edge of the promised land (traditional) or in exile and restoration (critical)",
+      "situation": "Either way the first readers were people outside the land, holding a promise they had not yet seen fulfilled. Genesis answers their questions: Who made the world, and who are the gods of the nations? Why is life so full of pain and death? Why us, and is the promise still good? Its ending, with Joseph's bones waiting in Egypt to be carried home (Gen 50:24-26), leaves the story pointed forward.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -2166,
+      "to": -1805,
+      "note": "Genesis 1-11 (creation to Babel) cannot be dated and is not set on a historical calendar. The patriarchal stories are usually placed in the Middle Bronze Age. Adding up the Bible's own figures (1 Kgs 6:1 and Exod 12:40) gives Abraham's birth around 2166 BC and Joseph's death around 1805 BC; scholars who prefer a 13th-century exodus move these about two centuries later, and many critical scholars doubt that the patriarchs can be dated at all."
+    },
+    "worldEvents": [
+      {
+        "year": -2100,
+        "event": "Ur's Third Dynasty builds the great ziggurat at Ur; Sumerian king lists and flood stories circulate in Mesopotamia."
+      },
+      {
+        "year": -1750,
+        "event": "Hammurabi of Babylon issues his law code; adoption, inheritance and surrogate-wife customs in Mesopotamian documents resemble patriarchal practice."
+      },
+      {
+        "year": -1640,
+        "event": "The Hyksos, Semitic rulers from Canaan, take control of Egypt's eastern Delta, showing Asiatics could rise to power in Egypt."
+      },
+      {
+        "year": -1700,
+        "event": "The Babylonian Atrahasis epic tells of creation, overpopulation and a flood survived by one man in a boat."
+      },
+      {
+        "year": -586,
+        "event": "On the critical dating, Jerusalem falls to Babylon; Genesis is completed by exiles who need its promises again."
+      }
+    ],
+    "backdrop": "Genesis was born into a world already full of origin stories. Babylonian texts such as *Enuma Elish* say the world was made out of the corpse of a slain sea-goddess and that humans were created as slaves to do the gods' work. *Atrahasis* and the *Epic of Gilgamesh* tell of a flood sent because noisy humans annoyed the gods. Egyptian texts describe creation by a god's spoken word. Genesis uses the same building blocks: waters, a dome of sky, a garden, a flood, a boat, a tower. But it uses them to say something very different.\n\nIn Genesis there is one God, who has no rivals and no birth story. The sun and moon, worshipped as gods elsewhere, are simply 'lamps' hung up to mark the seasons (Gen 1:14-18). The sea monsters are creatures God made and called good (Gen 1:21). Humans are not slaves made from divine blood but the image of God, appointed to rule the earth as his representatives (Gen 1:26-28). The flood comes because of violence and corruption, not noise (Gen 6:11-13), and ends with a covenant promise (Gen 9:8-17). Many scholars read Gen 1-11 as a deliberate counter-story to Babylonian myth, written by people who knew those myths well.\n\nThe patriarchal stories (Gen 12-50) move into a different world: semi-nomadic families who herd sheep and goats between towns, dig wells, make treaties with local kings and go down to Egypt in famine. Some customs fit second-millennium texts from Nuzi and Mari (adoption of heirs, a slave-wife bearing a child for a barren wife, household gods as title deeds), though scholars such as Thomas Thompson and John Van Seters argued in the 1970s that many parallels also fit later periods. The debate over whether Abraham can be placed in history remains open.\n\nGenesis is built with ten headings: 'these are the generations (*toledot*) of...' (Gen 2:4; Gen 5:1; Gen 6:9; Gen 10:1; Gen 11:10; Gen 11:27; Gen 25:12; Gen 25:19; Gen 36:1; Gen 37:2). Each one narrows the focus, from the heavens and earth to humanity, to Noah, to Shem, to Terah's family, to Jacob's twelve sons. The structure itself makes a theological point: the God of the whole world is narrowing his attention to one family in order to bless the whole world through it.",
+    "culture": [
+      {
+        "term": "Toledot (generations)",
+        "explain": "The ten 'these are the generations of' headings divide the book. In a culture where identity came from ancestry, genealogies were not dull lists but claims about who belongs to whom and who carries the promise.",
+        "refs": [
+          "Gen 2:4",
+          "Gen 5:1",
+          "Gen 11:27",
+          "Gen 37:2"
+        ]
+      },
+      {
+        "term": "Image of God",
+        "explain": "Ancient kings set up statues (images) of themselves in conquered lands to show who ruled there. Egyptian and Assyrian kings were called the image of a god. Genesis gives this royal title to every human, male and female.",
+        "refs": [
+          "Gen 1:26-28",
+          "Gen 9:6"
+        ]
+      },
+      {
+        "term": "Cutting a covenant",
+        "explain": "Treaties were sealed by walking between halves of slaughtered animals, a self-curse meaning 'may I become like these if I break faith'. In Gen 15 only God, as a smoking fire pot and torch, passes between the pieces: he takes the whole oath on himself.",
+        "refs": [
+          "Gen 15:9-18",
+          "Jer 34:18-20"
+        ]
+      },
+      {
+        "term": "Firstborn and birthright",
+        "explain": "The eldest son normally inherited a double share and leadership of the clan. Genesis repeatedly overturns this: Abel over Cain, Isaac over Ishmael, Jacob over Esau, Joseph and Judah over Reuben, Ephraim over Manasseh. God's choice is grace, not entitlement.",
+        "refs": [
+          "Gen 25:23",
+          "Gen 25:29-34",
+          "Gen 48:13-20"
+        ]
+      },
+      {
+        "term": "Barrenness",
+        "explain": "A childless wife carried deep shame and economic danger, because sons secured a family's future. Sarah, Rebekah and Rachel are all barren, so every link in the chain of promise depends on God's gift, not human strength.",
+        "refs": [
+          "Gen 11:30",
+          "Gen 25:21",
+          "Gen 30:1-2",
+          "Gen 30:22-24"
+        ]
+      },
+      {
+        "term": "Hospitality",
+        "explain": "In a world without inns, welcoming strangers was a sacred duty and a test of character. Abraham's lavish welcome at Mamre contrasts with the men of Sodom, who try to abuse Lot's guests.",
+        "refs": [
+          "Gen 18:1-8",
+          "Gen 19:1-11"
+        ]
+      },
+      {
+        "term": "Household gods (teraphim)",
+        "explain": "Small figurines kept in the home, possibly linked to family ancestors and inheritance claims. Rachel steals her father's, and Jacob later buries foreign gods before worshipping at Bethel.",
+        "refs": [
+          "Gen 31:19",
+          "Gen 31:30-35",
+          "Gen 35:2-4"
+        ]
+      }
+    ],
+    "jewishLens": "In Jewish tradition Genesis is *Bereshit* ('In the beginning'), the first of the five books of the Torah, the covenant teaching God gave Israel. It is read aloud in synagogue starting on the Sabbath after Simchat Torah, the autumn festival where the final verses of Deuteronomy and the first verses of Genesis are read back to back so that the reading never ends. The medieval commentator Rashi opens his commentary by asking why a book of law begins with creation rather than the first commandment in Exod 12. His answer: so that if the nations accuse Israel of stealing the land, Israel can reply that the whole earth belongs to its Creator, who gives it to whom he wills. Genesis, in other words, is a covenant family's charter.\n\nThe rabbis read the patriarchs as models and as ancestors whose merit (*zekhut avot*) still counts for their children; daily prayer begins by blessing 'the God of Abraham, the God of Isaac and the God of Jacob'. The binding of Isaac (the *Akedah*, Gen 22) is read on the second day of Rosh Hashanah and recalled when the shofar (ram's horn) is blown, as Israel asks God to remember Abraham's faithfulness. Jewish readers notice that Genesis does not hide the patriarchs' failures: Abraham passes off his wife as his sister, Jacob deceives his father, the brothers sell Joseph. Midrash often explains or softens these, but the text's own honesty teaches that the covenant rests on God's faithfulness more than on human merit.\n\nAbove all, the first audience would hear Genesis as a family story about relationship. God speaks to Abraham as a friend (compare Isa 41:8), bargains with him over Sodom (Gen 18:22-33), wrestles with Jacob (Gen 32:24-30) and works quietly through Joseph's suffering. The covenant is not a contract signed by equals but a gift from a faithful God who binds himself by oath to a family, so that 'in thee shall all families of the earth be blessed' (Gen 12:3).",
+    "flow": [
+      {
+        "label": "God creates a good world",
+        "detail": "In six days God forms and fills the world and rests on the seventh. Humans, male and female, are made in his image to rule and tend it.",
+        "refs": [
+          "Gen 1:1-2:3",
+          "Gen 2:4-25"
+        ]
+      },
+      {
+        "label": "Humans grasp and fall",
+        "detail": "The first couple distrust God's word and take the forbidden fruit. Shame, blame, pain and exile from the garden follow, with a promise that the woman's seed will crush the serpent.",
+        "refs": [
+          "Gen 3:1-24"
+        ]
+      },
+      {
+        "label": "Sin spreads to violence",
+        "detail": "Cain murders Abel, Lamech boasts of vengeance, and the earth fills with violence. God sends the flood, saves Noah and makes a covenant with all life.",
+        "refs": [
+          "Gen 4:1-16",
+          "Gen 6:5-9:17"
+        ]
+      },
+      {
+        "label": "Babel scatters the nations",
+        "detail": "Humanity tries to make a name for itself with a tower reaching heaven. God confuses their language and scatters them into seventy nations.",
+        "refs": [
+          "Gen 10:1-32",
+          "Gen 11:1-9"
+        ]
+      },
+      {
+        "label": "God calls Abraham",
+        "detail": "God promises a childless old man land, descendants and a great name, so that all families of the earth will be blessed through him. The promise is tested for 25 years until Isaac is born.",
+        "refs": [
+          "Gen 12:1-3",
+          "Gen 15:1-21",
+          "Gen 22:1-19"
+        ]
+      },
+      {
+        "label": "Jacob becomes Israel",
+        "detail": "The trickster Jacob grabs the blessing, is tricked in turn, and wrestles with God at Peniel. He limps away with a new name: Israel.",
+        "refs": [
+          "Gen 27:1-40",
+          "Gen 32:22-32"
+        ]
+      },
+      {
+        "label": "Joseph saves the family",
+        "detail": "Sold by his brothers, Joseph rises in Egypt and saves the world from famine. Judah offers himself in Benjamin's place and the family is reconciled.",
+        "refs": [
+          "Gen 37:1-36",
+          "Gen 44:18-34",
+          "Gen 50:15-21"
+        ]
+      },
+      {
+        "label": "Waiting in Egypt",
+        "detail": "Jacob blesses his sons and dies. Joseph asks that his bones be carried to the promised land, leaving the promise open-ended.",
+        "refs": [
+          "Gen 49:1-28",
+          "Gen 50:22-26"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Genesis: beginnings and promise",
+      "branches": [
+        {
+          "label": "Creation",
+          "items": [
+            "One God, no rivals",
+            "Humans as God's image",
+            "Sabbath rest",
+            "Very good world"
+          ]
+        },
+        {
+          "label": "Fall and spread of sin",
+          "items": [
+            "Eden and exile",
+            "Cain and Abel",
+            "Flood and Noah",
+            "Babel's tower"
+          ]
+        },
+        {
+          "label": "Covenant promise",
+          "items": [
+            "Land, seed, blessing",
+            "Covenant between the pieces",
+            "Circumcision as sign",
+            "Blessing for all nations"
+          ]
+        },
+        {
+          "label": "Chosen family",
+          "items": [
+            "Abraham and Sarah",
+            "Isaac the promised son",
+            "Jacob renamed Israel",
+            "Twelve tribes' fathers"
+          ]
+        },
+        {
+          "label": "Hidden providence",
+          "items": [
+            "Joseph sold and raised",
+            "Meant for evil, meant good",
+            "Reconciled brothers",
+            "Bones awaiting the land"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Create",
+        "original": "bara' (בָּרָא)",
+        "meaning": "A verb used in the Bible only with God as subject: to bring something new into being. It appears at the three high points of Gen 1: the universe, living creatures and humanity.",
+        "refs": [
+          "Gen 1:1",
+          "Gen 1:21",
+          "Gen 1:27"
+        ]
+      },
+      {
+        "word": "Image",
+        "original": "tselem (צֶלֶם)",
+        "meaning": "A statue or representation. Humans are God's living statues, placed on earth to show who its true king is.",
+        "refs": [
+          "Gen 1:26-27",
+          "Gen 9:6"
+        ]
+      },
+      {
+        "word": "Blessing",
+        "original": "berakhah (בְּרָכָה)",
+        "meaning": "God's gift of life, fruitfulness and flourishing. It appears five times in the call of Abraham, reversing the five curses of Gen 3-11.",
+        "refs": [
+          "Gen 1:28",
+          "Gen 12:1-3",
+          "Gen 22:18"
+        ]
+      },
+      {
+        "word": "Covenant",
+        "original": "berit (בְּרִית)",
+        "meaning": "A binding, sworn relationship. God makes covenants with Noah and all life, and with Abraham and his descendants.",
+        "refs": [
+          "Gen 9:9-17",
+          "Gen 15:18",
+          "Gen 17:7"
+        ]
+      },
+      {
+        "word": "Seed / offspring",
+        "original": "zera' (זֶרַע)",
+        "meaning": "Offspring or descendants; it can mean one child or a whole people. The promised seed is the thread that ties Genesis together.",
+        "refs": [
+          "Gen 3:15",
+          "Gen 12:7",
+          "Gen 22:17-18"
+        ]
+      },
+      {
+        "word": "Generations",
+        "original": "toledot (תּוֹלְדֹת)",
+        "meaning": "'What came out of' someone: the story of their descendants. The ten toledot headings structure the book.",
+        "refs": [
+          "Gen 2:4",
+          "Gen 25:19",
+          "Gen 37:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "exodus",
+        "how": "Exodus begins by listing Jacob's sons (Exod 1:1-5) and shows the promise of many descendants fulfilled, then threatened by Pharaoh. God remembers his covenant with Abraham, Isaac and Jacob.",
+        "refs": [
+          "Exod 1:7",
+          "Exod 2:24",
+          "Gen 15:13-14"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalm 8 meditates on humanity's royal dignity in creation, and Psalm 104 sings the creation story as praise.",
+        "refs": [
+          "Ps 8:3-8",
+          "Ps 104:1-35"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul uses Abraham's trust before circumcision (Gen 15:6) to argue that Gentiles share Abraham's family by faith, and Adam as the head of fallen humanity.",
+        "refs": [
+          "Rom 4:1-25",
+          "Rom 5:12-21"
+        ]
+      },
+      {
+        "bookId": "galatians",
+        "how": "Paul reads the promise to Abraham as the gospel preached in advance: the blessing reaching the nations.",
+        "refs": [
+          "Gal 3:6-9",
+          "Gal 3:16"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews lists Abel, Enoch, Noah, Abraham, Sarah, Isaac, Jacob and Joseph as people who trusted God's promise without seeing it.",
+        "refs": [
+          "Heb 11:4-22"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "The Bible's last scenes reverse Genesis: the tree of life returns, the curse is removed and God dwells with humanity.",
+        "refs": [
+          "Rev 22:1-5",
+          "Rev 21:3-4"
+        ]
+      }
+    ],
+    "jesusLens": "Christian readers have long seen Gen 3:15, the promise that the woman's offspring will crush the serpent's head, as the first hint of the gospel (the *protoevangelium*, Irenaeus and later writers). The New Testament reads Jesus as the true seed of Abraham through whom the nations are blessed (Gal 3:16), as the last Adam who undoes Adam's failure (Rom 5:12-21; 1 Cor 15:45), and as the Word through whom all things were made (John 1:1-3, echoing Gen 1:1). Isaac carrying wood up the mountain and being spared (Gen 22) is read as a picture of the Father giving the Son, and Joseph, rejected by his brothers and then their saviour, as a type of Christ. Jewish readers, by contrast, read Gen 3:15 as the ongoing struggle between humans and evil, and the Akedah as the model of Abraham's and Israel's faithful obedience; Jewish tradition also developed the idea that Isaac's near-sacrifice brings merit to his descendants. Both readings agree that Genesis ends unfinished: the blessing for the nations is promised, not yet delivered.",
+    "misreadings": [
+      {
+        "topic": "Genesis 1 as a science report",
+        "popular": "Genesis 1 is a straightforward scientific and historical account of how and when the physical universe was made: six 24-hour days, a young earth, and a text that should be set directly against modern cosmology.",
+        "inContext": "Many scholars, including John Walton, Gordon Wenham and Jewish commentators such as Nahum Sarna, argue that the first audience would have heard Gen 1 as an answer to ancient Near Eastern myths: who is God, what is the world for, what are humans? Walton reads it as the inauguration of the cosmos as God's temple, with God 'resting' on the seventh day as a king takes his throne. The days form a literary pattern (days 1-3 form realms, days 4-6 fill them), and its concerns are function and purpose rather than material physics.",
+        "defence": "Young-earth creationists (e.g. Answers in Genesis) and some Reformed scholars argue that the text presents itself as history, that 'evening and morning' marks ordinary days, and that Exod 20:11 grounds the Sabbath in a real six-day week. Old-earth evangelicals such as C. John Collins and the Reasons to Believe movement hold the days are real but not 24 hours. Most careful evangelical scholars on all sides agree that Genesis is primarily theology, written to an ancient audience, and that the main point is who the Creator is.",
+        "whyItMatters": "If Gen 1 is read only as a scientific claim, its main message, that the one God is the loving king of a good world and humans are his image-bearers, can be lost in arguments about dating.",
+        "refs": [
+          "Gen 1:1-2:3",
+          "Exod 20:11",
+          "Ps 104:1-35"
+        ],
+        "scholars": [
+          "John Walton",
+          "Gordon Wenham",
+          "Nahum Sarna",
+          "C. John Collins",
+          "Ken Ham"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Believed' as inner agreement (Gen 15:6)",
+        "popular": "Abraham simply believed a fact God told him, and God credited this mental belief to him as righteousness; faith is mainly an inward decision to accept a truth.",
+        "inContext": "The Hebrew verb *he'emin* (from *aman*, firm) means to rely on, to trust, to hold firm to someone. Abraham's trust is a relationship with a God who has bound himself by covenant, and it shows itself in leaving home, waiting decades and finally offering Isaac (Gen 22; Jas 2:21-23). Scholars such as Lois Tverberg and Matthew Bates stress that biblical faith includes loyalty.",
+        "defence": "Reformed scholars such as Douglas Moo and Thomas Schreiner agree that saving faith is personal trust, not bare assent, and that true faith produces obedience; they insist only that righteousness is credited to faith, not earned by the obedience that follows (Rom 4:4-5). Both sides agree popular preaching sometimes thins faith down to a one-time mental decision.",
+        "whyItMatters": "Reading faith as covenant trust keeps belief and faithful living together, as both Paul and James do.",
+        "refs": [
+          "Gen 15:6",
+          "Rom 4:3-5",
+          "Jas 2:21-23"
+        ],
+        "scholars": [
+          "Matthew Bates",
+          "Lois Tverberg",
+          "Douglas Moo",
+          "Thomas Schreiner"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For Israel, Genesis said: our God is the Creator of all, not one tribal god among many; the world is good and orderly, not a battlefield of gods; our ancestors were chosen by grace, not merit; and the promise of land and blessing still stands, even in Egypt or in Babylon.",
+      "now": "Genesis grounds human dignity in the image of God, which gives every person worth regardless of status. It explains why the world is beautiful and broken at once. Its stories of jealous siblings, barren couples and betrayed brothers show God working faithfully through messy families, and it frames the whole Bible as God's plan to bless all nations."
+    },
+    "sources": [
+      {
+        "author": "Gordon J. Wenham",
+        "title": "Genesis 1-15 (Word Biblical Commentary)",
+        "year": 1987
+      },
+      {
+        "author": "Nahum M. Sarna",
+        "title": "Genesis (The JPS Torah Commentary)",
+        "year": 1989
+      },
+      {
+        "author": "John H. Walton",
+        "title": "The Lost World of Genesis One",
+        "year": 2009
+      },
+      {
+        "author": "Robert Alter",
+        "title": "Genesis: Translation and Commentary",
+        "year": 1996
+      },
+      {
+        "author": "Adele Berlin and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Study Bible",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "id": "exodus",
+    "oneLine": "Exodus tells how God heard enslaved Israel's cry, broke Pharaoh's power, made Israel his own people at Sinai, and came to live among them in a tent.",
+    "author": {
+      "name": "Moses (traditional); priestly and other scribes (critical)",
+      "who": "Moses, raised in Pharaoh's court and called at the burning bush, is the book's main human character and by tradition its author. Critical scholars see the book as combining older traditions, including law collections and poems, with later priestly writing.",
+      "howWeKnow": "Exodus says Moses wrote down particular things: the victory over Amalek (Exod 17:14), 'all the words of the LORD' at the covenant ceremony (Exod 24:4) and the covenant words of Exod 34 (Exod 34:27). Tradition extended this to the whole book. Critical scholars point to different styles: the vivid stories, the old Song of the Sea (Exod 15, often dated very early on linguistic grounds), the Covenant Code (Exod 20:22-23:33) and the detailed tabernacle chapters (Exod 25-31; Exod 35-40), usually assigned to the Priestly source.",
+      "otherWritings": [
+        "Genesis",
+        "Leviticus",
+        "Numbers",
+        "Deuteronomy"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown: Sinai wilderness (traditional) or Judah and Babylon (critical)",
+      "note": "Traditional: written during the wilderness years. Critical: older traditions (some perhaps from the early Iron Age) gathered and finalised in the exile or Persian period, when a second 'exodus' from Babylon was being hoped for (compare Isa 43:16-19).",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israel, the redeemed people",
+      "place": "The wilderness and the land of Canaan; later the exile",
+      "situation": "Israel needed to know who its God was, what he had done for them, and how a holy God could live among an unruly people. Every Passover retold the story to the next generation (Exod 12:26-27; Exod 13:8), so Exodus was meant to be heard and re-enacted, not only read.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -1526,
+      "to": -1445,
+      "note": "From the oppression and Moses' birth to the setting up of the tabernacle a year after leaving Egypt (Exod 40:17). The early date (exodus c. 1446 BC) comes from 1 Kgs 6:1; the late date (c. 1270-1250 BC) from the store city 'Raamses' (Exod 1:11) and the archaeology of Canaan. Many critical scholars think the story preserves memories of a smaller group's escape, not of a whole nation. Egyptian records do not mention the exodus, which is unsurprising given that they rarely record defeats."
+    },
+    "worldEvents": [
+      {
+        "year": -1479,
+        "event": "Thutmose III begins his reign; Egypt's New Kingdom expands into Canaan and Syria."
+      },
+      {
+        "year": -1350,
+        "event": "The Amarna letters show Canaanite city-kings begging Pharaoh for help against raiders called the Habiru."
+      },
+      {
+        "year": -1279,
+        "event": "Ramesses II begins his long reign and builds the Delta capital Pi-Ramesses (biblical Raamses)."
+      },
+      {
+        "year": -1208,
+        "event": "The Merneptah Stele names 'Israel' as a people in Canaan, the earliest mention of Israel outside the Bible."
+      },
+      {
+        "year": -1177,
+        "event": "The Late Bronze Age collapse: the Sea Peoples, including the Philistines, reach the coast of Canaan."
+      }
+    ],
+    "backdrop": "Egypt in the second millennium BC was the superpower of the ancient world. Its pharaohs were seen as divine sons of the sun-god, guarantors of *ma'at* (cosmic order). Foreign workers, including Semites from Canaan, laboured on building projects in the eastern Nile Delta; Egyptian paintings, such as the tomb of Rekhmire (15th century BC), show foreign labourers making mud bricks. The region of Goshen and the cities of Pithom and Raamses fit this Delta setting (Exod 1:11).\n\nThe ten plagues are aimed at Egypt's world. The Nile, worshipped as the source of life, turns to blood. Frogs, linked with the goddess Heqet, overrun the land. Cattle, sacred to several deities, die. The sun, the great god Ra, goes dark for three days. Finally the firstborn of Pharaoh himself, the heir of the 'divine' king, dies. The text states the point plainly: 'against all the gods of Egypt I will execute judgment' (Exod 12:12). Exodus is a contest over who is truly God and who has the right to Israel's service.\n\nAt Sinai the book shifts from rescue to relationship. The covenant follows a pattern known from ancient treaties: the great king introduces himself and recalls his kindness ('I am the LORD thy God, which have brought thee out of the land of Egypt', Exod 20:2), then lays out stipulations, witnesses and the writing of the treaty (Exod 24:3-8). Scholars such as George Mendenhall and Kenneth Kitchen compared this to Hittite vassal treaties of the 14th-13th centuries BC; others see closer links to later Assyrian treaties. Either way, the law comes after the rescue, inside a relationship already given.\n\nThe last third of the book describes the tabernacle, a portable tent-sanctuary. Its plan echoes Egyptian royal war camps, where the king's tent stood in the centre, and its decorations (cherubim, gold, a lampstand like a tree) echo Eden. The book's climax is not the Red Sea but the moment when God's glory fills the tent (Exod 40:34-35). The rescued people now have the Creator living in their camp.",
+    "culture": [
+      {
+        "term": "Pharaoh as a god",
+        "explain": "Pharaoh was believed to be the son of Ra and the living Horus. When Pharaoh asks 'Who is the LORD?' (Exod 5:2), he is asking a theological question that the plagues answer.",
+        "refs": [
+          "Exod 5:2",
+          "Exod 9:16",
+          "Exod 12:12"
+        ]
+      },
+      {
+        "term": "Hardening the heart",
+        "explain": "In Egyptian belief the heart was weighed after death against the feather of truth; a heavy heart meant judgment. Exodus often says Pharaoh's heart was made 'heavy' (Hebrew *kaved*), using the same idea. Sometimes Pharaoh hardens it, sometimes God does.",
+        "refs": [
+          "Exod 7:13",
+          "Exod 8:15",
+          "Exod 9:12"
+        ]
+      },
+      {
+        "term": "Firstborn and redemption",
+        "explain": "The firstborn belonged to God; after the Passover every firstborn son in Israel had to be 'redeemed' (bought back) with a price. Israel itself is called God's firstborn son.",
+        "refs": [
+          "Exod 4:22-23",
+          "Exod 13:11-16"
+        ]
+      },
+      {
+        "term": "Suzerain treaty",
+        "explain": "A great king (suzerain) made treaties with lesser kings: preamble, history of his kindness, laws, a public copy, witnesses, blessings and curses. Sinai follows this shape, with God as the great king.",
+        "refs": [
+          "Exod 20:1-17",
+          "Exod 24:3-8"
+        ]
+      },
+      {
+        "term": "Blood of the covenant",
+        "explain": "Moses splashes half the blood on the altar and half on the people: the two parties are bound in one life. Jesus echoes the phrase at the Last Supper.",
+        "refs": [
+          "Exod 24:6-8",
+          "Mark 14:24"
+        ]
+      },
+      {
+        "term": "The divine name",
+        "explain": "God reveals his name YHWH, connected with 'I AM THAT I AM' (*ehyeh asher ehyeh*): the God who is present and will be what he will be. Jews avoid pronouncing it and say Adonai ('Lord'); English Bibles print LORD.",
+        "refs": [
+          "Exod 3:13-15",
+          "Exod 6:2-8",
+          "Exod 34:5-7"
+        ]
+      },
+      {
+        "term": "Tabernacle as portable Sinai",
+        "explain": "The tent has three zones like the mountain: the camp (the people at the foot), the holy place (the elders partway up), and the holy of holies (Moses alone at the top in the cloud). God's presence moves with them.",
+        "refs": [
+          "Exod 19:12-13",
+          "Exod 24:9-18",
+          "Exod 25:8-9"
+        ]
+      }
+    ],
+    "jewishLens": "Exodus is *Shemot* ('Names'), and its story is the centre of Jewish memory. Every year at Passover (Pesach) families gather for the Seder and tell the story to their children, following the command 'thou shalt shew thy son in that day' (Exod 13:8). The Haggadah, the Seder's script, insists that 'in every generation a person must see himself as if he personally came out of Egypt' (Mishnah Pesachim 10:5). The exodus is not a past event about other people; it is the shared story that makes Israel a people. The Song of the Sea (Exod 15) is read in synagogue on the seventh day of Passover and on Shabbat Shirah, and it is recited every morning in the daily prayers.\n\nThe Ten Commandments (in Hebrew the 'Ten Words', *aseret ha-devarim*) begin not with a command but with a reminder: 'I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage' (Exod 20:2). Jewish tradition counts this as the first 'word'. The order matters: God rescues first, then gives Torah as a gift that shapes the life of the freed. The rabbis compared Sinai to a wedding, with the mountain as the canopy and the tablets as the marriage contract. At the festival of Shavuot (Pentecost) Jews celebrate the giving of the Torah, and many stay up all night studying.\n\nThe Sabbath command is grounded in creation (Exod 20:11) and, in Deuteronomy, in the exodus (Deut 5:15): a people once enslaved now rests and lets its servants and animals rest too. Many laws in the Covenant Code repeat the reason 'for ye were strangers in the land of Egypt' (Exod 22:21; Exod 23:9). Memory of slavery becomes the motive for justice. The first audience heard Exodus as a love story with a crisis in the middle, the golden calf (Exod 32), in which God reveals his own character to Moses as 'merciful and gracious, longsuffering, and abundant in goodness and truth' (Exod 34:6). That self-description became Israel's most-quoted confession of who God is.",
+    "flow": [
+      {
+        "label": "Israel enslaved in Egypt",
+        "detail": "Jacob's family multiplies, a new Pharaoh fears them, and he enslaves them and orders the killing of Hebrew baby boys.",
+        "refs": [
+          "Exod 1:1-22"
+        ]
+      },
+      {
+        "label": "Moses called at bush",
+        "detail": "Saved as a baby and raised in the palace, Moses flees to Midian. God speaks from a burning bush, reveals his name and sends him back.",
+        "refs": [
+          "Exod 2:1-25",
+          "Exod 3:1-4:17"
+        ]
+      },
+      {
+        "label": "Plagues against Egypt's gods",
+        "detail": "Pharaoh refuses to let Israel go to worship. Ten plagues dismantle Egypt's world and show the LORD as God.",
+        "refs": [
+          "Exod 5:1-2",
+          "Exod 7:14-11:10"
+        ]
+      },
+      {
+        "label": "Passover and the sea",
+        "detail": "The blood of a lamb protects Israel's firstborn. Israel leaves, God parts the sea and Pharaoh's army drowns; Moses and Miriam sing.",
+        "refs": [
+          "Exod 12:1-51",
+          "Exod 14:1-31",
+          "Exod 15:1-21"
+        ]
+      },
+      {
+        "label": "Testing in the wilderness",
+        "detail": "God provides water, manna and quail, and the people complain at every step. The Sabbath is introduced with the manna.",
+        "refs": [
+          "Exod 15:22-17:16"
+        ]
+      },
+      {
+        "label": "Covenant at Sinai",
+        "detail": "God offers Israel the role of a kingdom of priests, speaks the Ten Words and the Covenant Code, and seals the covenant with blood and a meal.",
+        "refs": [
+          "Exod 19:3-6",
+          "Exod 20:1-17",
+          "Exod 24:1-11"
+        ]
+      },
+      {
+        "label": "Golden calf and mercy",
+        "detail": "While Moses is on the mountain the people make a calf idol. Moses intercedes, God reveals his merciful name and renews the covenant.",
+        "refs": [
+          "Exod 32:1-35",
+          "Exod 33:12-23",
+          "Exod 34:1-10"
+        ]
+      },
+      {
+        "label": "Glory fills the tabernacle",
+        "detail": "The people build the tent exactly as instructed, and the cloud of God's glory fills it. God now lives among them.",
+        "refs": [
+          "Exod 25:8-9",
+          "Exod 40:34-38"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Exodus: from slavery to worship",
+      "branches": [
+        {
+          "label": "Deliverance",
+          "items": [
+            "God hears the cry",
+            "Moses and Aaron",
+            "Ten plagues",
+            "Passover lamb",
+            "Crossing the sea"
+          ]
+        },
+        {
+          "label": "Who is God?",
+          "items": [
+            "I AM THAT I AM",
+            "Judge of Egypt's gods",
+            "Merciful and gracious",
+            "Jealous for loyalty"
+          ]
+        },
+        {
+          "label": "Covenant at Sinai",
+          "items": [
+            "Kingdom of priests",
+            "Ten Words",
+            "Covenant Code",
+            "Blood of the covenant"
+          ]
+        },
+        {
+          "label": "Crisis and mercy",
+          "items": [
+            "Golden calf",
+            "Moses intercedes",
+            "Tablets renewed",
+            "God's glory passes"
+          ]
+        },
+        {
+          "label": "Presence",
+          "items": [
+            "Pillar of cloud and fire",
+            "Tabernacle blueprint",
+            "Priests ordained",
+            "Glory fills the tent"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Redeem",
+        "original": "ga'al (גָּאַל)",
+        "meaning": "To buy back or rescue as a family member does for a relative in trouble. God acts as Israel's kinsman-redeemer.",
+        "refs": [
+          "Exod 6:6",
+          "Exod 15:13"
+        ]
+      },
+      {
+        "word": "Serve / work / worship",
+        "original": "'avad, 'avodah (עָבַד, עֲבֹדָה)",
+        "meaning": "The same word means slave labour and worship. The book moves Israel from serving Pharaoh to serving God.",
+        "refs": [
+          "Exod 1:13-14",
+          "Exod 4:23",
+          "Exod 12:31"
+        ]
+      },
+      {
+        "word": "Glory",
+        "original": "kavod (כָּבוֹד)",
+        "meaning": "Literally 'weight' or 'heaviness': the weighty presence and honour of God. Pharaoh's heart is made heavy; God gets 'glory' (gains weight) over him.",
+        "refs": [
+          "Exod 14:4",
+          "Exod 33:18",
+          "Exod 40:34"
+        ]
+      },
+      {
+        "word": "Treasured possession",
+        "original": "segullah (סְגֻלָּה)",
+        "meaning": "A king's private treasure. Israel is God's special possession among all the peoples of the earth.",
+        "refs": [
+          "Exod 19:5-6"
+        ]
+      },
+      {
+        "word": "Dwell / tabernacle",
+        "original": "shakhan, mishkan (שָׁכַן, מִשְׁכָּן)",
+        "meaning": "To settle or camp; the mishkan is God's dwelling-tent. Later Jewish tradition spoke of God's indwelling presence as the Shekhinah.",
+        "refs": [
+          "Exod 25:8-9",
+          "Exod 29:45-46"
+        ]
+      },
+      {
+        "word": "Steadfast love",
+        "original": "hesed (חֶסֶד)",
+        "meaning": "Loyal, covenant love that goes beyond duty. It is central to God's self-description after the golden calf.",
+        "refs": [
+          "Exod 20:6",
+          "Exod 34:6-7"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "God acts because he remembers his covenant with Abraham, Isaac and Jacob, and the promise of many descendants has been fulfilled.",
+        "refs": [
+          "Exod 2:24",
+          "Exod 1:7",
+          "Gen 15:13-14"
+        ]
+      },
+      {
+        "bookId": "leviticus",
+        "how": "Leviticus continues straight on from the tabernacle's completion, explaining how the people may approach the God who now lives among them.",
+        "refs": [
+          "Exod 40:34-35",
+          "Lev 1:1"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isaiah promises a new exodus from Babylon, with a road through the wilderness and God leading his people home.",
+        "refs": [
+          "Isa 43:16-19",
+          "Isa 51:9-11"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "John says the Word 'dwelt' (literally 'tabernacled') among us and we saw his glory, and presents Jesus as the Passover lamb whose bones are not broken.",
+        "refs": [
+          "John 1:14",
+          "John 19:36",
+          "Exod 12:46"
+        ]
+      },
+      {
+        "bookId": "1-corinthians",
+        "how": "Paul calls Christ 'our passover' and uses the wilderness generation as a warning to the church.",
+        "refs": [
+          "1 Cor 5:7",
+          "1 Cor 10:1-11"
+        ]
+      },
+      {
+        "bookId": "1-peter",
+        "how": "Peter applies the Sinai calling, a kingdom of priests and holy nation, to the mixed Jewish and Gentile churches.",
+        "refs": [
+          "1 Pet 2:9-10",
+          "Exod 19:5-6"
+        ]
+      }
+    ],
+    "jesusLens": "The Gospels tell Jesus' story in exodus colours. Matthew has the infant Jesus come out of Egypt (Matt 2:15, quoting Hos 11:1), pass through water at his baptism, and be tested forty days in the wilderness, answering each temptation from Deuteronomy. Luke says that on the mountain Jesus spoke with Moses and Elijah about his coming 'decease', literally his *exodos* (Luke 9:31). Jesus dies at Passover and reinterprets the Passover meal around his own body and 'blood of the new testament [covenant]' (Mark 14:22-24). John presents him as the bread from heaven greater than manna (John 6:31-35) and as the true tabernacle where God's glory is seen (John 1:14). Jewish readers stress that the exodus is Israel's own continuing story of redemption, still celebrated and still awaiting final fulfilment in the messianic age; many Christian scholars now agree that the New Testament does not erase that story but claims that Jesus joins and completes it.",
+    "misreadings": [
+      {
+        "topic": "Law as a ladder to earn God's favour",
+        "popular": "The Old Testament law was a system for earning salvation by obedience, given to show Israel it could never succeed; Exodus is about law, while the New Testament is about grace.",
+        "inContext": "The Ten Words begin with what God has already done: 'I am the LORD thy God, which have brought thee out... of the house of bondage' (Exod 20:2). Rescue comes first; Torah is the way of life for a people already redeemed. Scholars such as Jon Levenson, E. P. Sanders and Christopher Wright stress that Torah was received as a gift of relationship, and that sacrifices and forgiveness were built into the covenant (Exod 34:6-7).",
+        "defence": "Reformed and Lutheran scholars such as Thomas Schreiner and Douglas Moo agree that Sinai began with grace, but argue that Paul still contrasts the Mosaic covenant with the new covenant (2 Cor 3:6-11; Gal 3:10-12), that its demands exposed sin, and that it was a temporary administration. They reject the idea that Israelites were saved by works, while keeping a real law-gospel distinction. Most agree the popular 'Old Testament works, New Testament grace' slogan is too simple.",
+        "whyItMatters": "Seeing the law as a gift within a relationship helps Christians read the Old Testament without contempt for Judaism and understand why Psalm 119 can delight in God's law.",
+        "refs": [
+          "Exod 20:1-17",
+          "Exod 34:6-7",
+          "Ps 119:97",
+          "Gal 3:10-12"
+        ],
+        "scholars": [
+          "Jon Levenson",
+          "E. P. Sanders",
+          "Christopher J. H. Wright",
+          "Thomas Schreiner",
+          "Douglas Moo"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Exodus as purely spiritual salvation",
+        "popular": "The exodus is mainly a picture of individual salvation from sin; its political and economic side is incidental.",
+        "inContext": "In context the exodus is the rescue of a whole people from forced labour, genocide and a tyrant's claim to be divine. God says he has 'seen the affliction' and 'heard their cry' (Exod 3:7). Jewish tradition and liberation theologians, as well as evangelical scholars such as Christopher Wright, stress that redemption here is social, physical and spiritual together, which is why its laws protect slaves, strangers, widows and orphans.",
+        "defence": "Evangelical scholars caution against reducing the exodus to politics, pointing out that its goal is worship ('let my people go, that they may serve me', Exod 8:1) and that the New Testament applies it to deliverance from sin and death (Col 1:13-14). Most would say both are true: the exodus is spiritual and social, and neither should swallow the other.",
+        "whyItMatters": "The first audience learned from the exodus how to treat the poor and the outsider; that ethic is lost if it becomes only a private metaphor.",
+        "refs": [
+          "Exod 3:7-8",
+          "Exod 8:1",
+          "Exod 22:21-24",
+          "Col 1:13-14"
+        ],
+        "scholars": [
+          "Christopher J. H. Wright",
+          "Gustavo Gutierrez",
+          "Michael Walzer",
+          "Douglas Stuart"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Israel learned that its God hears the oppressed, overpowers empires and their gods, binds himself to his people by covenant, forgives their worst betrayal, and chooses to live among them. Every Passover renewed that identity.",
+      "now": "Exodus remains the Bible's great story of liberation. It speaks to anyone enslaved or afraid, teaches that freedom is for worship and covenant life rather than self-rule, models justice for the stranger, and shows that God's presence, not success, is what makes a people his own."
+    },
+    "sources": [
+      {
+        "author": "Brevard S. Childs",
+        "title": "The Book of Exodus: A Critical, Theological Commentary",
+        "year": 1974
+      },
+      {
+        "author": "Nahum M. Sarna",
+        "title": "Exploring Exodus: The Origins of Biblical Israel",
+        "year": 1986
+      },
+      {
+        "author": "Carol Meyers",
+        "title": "Exodus (New Cambridge Bible Commentary)",
+        "year": 2005
+      },
+      {
+        "author": "Kenneth A. Kitchen",
+        "title": "On the Reliability of the Old Testament",
+        "year": 2003
+      },
+      {
+        "author": "Douglas K. Stuart",
+        "title": "Exodus (New American Commentary)",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "id": "leviticus",
+    "oneLine": "Leviticus is the handbook for living next door to a holy God: how to draw near through sacrifice, how to stay clean, and how to be holy in everyday life.",
+    "author": {
+      "name": "Moses (traditional); Israel's priests (critical)",
+      "who": "The book presents itself as God's words to Moses at the tent of meeting. Critical scholars assign almost all of it to priestly writers: the Priestly source (P) in Lev 1-16 and the Holiness school (H) in Lev 17-26.",
+      "howWeKnow": "The phrase 'the LORD spake unto Moses' opens most sections (Lev 1:1; Lev 4:1; Lev 11:1). Scholars notice a shift at Lev 17: the earlier chapters focus on the priests and sanctuary, the later 'Holiness Code' calls the whole people holy and uses its own refrain, 'I am the LORD' (Lev 18:2; Lev 19:2). Jacob Milgrom and Israel Knohl argued that H is the later school that edited P; Milgrom, a Jewish scholar, dated much of P before the exile, against the older view that it was post-exilic.",
+      "otherWritings": [
+        "Parts of Exodus and Numbers (Priestly material)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Mount Sinai (narrative setting); Jerusalem temple circles (critical)",
+      "note": "The narrative setting is the month after the tabernacle was raised (Exod 40:17; Num 1:1). Critical scholars locate the writers among the priests of the Jerusalem temple, before or during the exile.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The priests and the whole people of Israel",
+      "place": "The camp around the tabernacle; later Judah and the exile",
+      "situation": "The holy God has just moved into the middle of the camp (Exod 40:34-35). That is wonderful and dangerous: how can impure, sinful people live near him without being destroyed? Leviticus answers with offerings, priests, purity rules and a holy calendar. The danger is real: two of Aaron's sons die for offering unauthorised fire (Lev 10:1-3).",
+      "confidence": "biblical"
+    },
+    "setIn": {
+      "from": -1445,
+      "to": -1445,
+      "note": "The whole book takes place at Sinai in roughly one month, between the raising of the tabernacle (Exod 40:17) and the census in Num 1:1. The year depends on exodus dating (c. 1445 BC early, c. 1260 BC late)."
+    },
+    "worldEvents": [
+      {
+        "year": -1400,
+        "event": "Ugaritic texts from Syria record sacrifices with names similar to Israel's (whole offering, peace offering), showing a shared ritual vocabulary."
+      },
+      {
+        "year": -1350,
+        "event": "Hittite instructions for temple officials stress guarding the sanctuary from impurity, a concern close to Leviticus."
+      },
+      {
+        "year": -622,
+        "event": "Josiah centralises worship in Jerusalem; critical scholars place much priestly writing around the late monarchy."
+      },
+      {
+        "year": -586,
+        "event": "The temple is destroyed; priestly writers in exile preserve the sanctuary rules in writing."
+      },
+      {
+        "year": 70,
+        "event": "After the second temple falls, the rabbis teach that prayer, study and kindness take the place of sacrifice."
+      }
+    ],
+    "backdrop": "Every people in the ancient Near East had temples, priests and sacrifices. Babylonian and Hittite texts show priests guarding temples from defilement, because a god would leave a polluted house. Leviticus shares this world but changes it in key ways. Israel's God does not need food (compare Ps 50:12-13); sacrifices are gifts and means of restoring relationship, not meals that keep the deity alive. There is no magic against demons, no worship of the dead, and the moral law (love your neighbour, Lev 19:18) sits right next to ritual law.\n\nThe book is built around a geography of holiness. At the centre is the holy of holies, where God's presence rests above the ark. Around it are the holy place, the courtyard, the camp and, outside, the wilderness. People and things move between states: holy, common, clean, unclean. 'Unclean' (*tame'*) does not mean sinful or dirty. Touching a corpse, giving birth or having a skin disease made a person ritually impure for a time, often through normal life events. Impurity simply could not come near the sanctuary. The anthropologist Mary Douglas argued that the purity rules express wholeness and order: clean animals are those that fit their category neatly. Jacob Milgrom argued that many impurities are linked to death and loss of life, so the rules teach that the God of life must be kept apart from death.\n\nThe centre of the book, both in position and in meaning, is the Day of Atonement (Lev 16). Once a year the high priest enters the holy of holies with blood to cleanse the sanctuary from the people's impurities and sins, and a second goat, 'for Azazel', carries the people's sins away into the wilderness. Right after it comes the Holiness Code, which calls ordinary Israelites to be holy in farming, family, business, justice and worship: leave the edges of your field for the poor (Lev 19:9-10), pay workers the same day (Lev 19:13), love the stranger as yourself (Lev 19:34). Leviticus ends with the Jubilee (Lev 25): every fiftieth year land returns to its families and slaves go free, because the land belongs to God.",
+    "culture": [
+      {
+        "term": "Holy and common, clean and unclean",
+        "explain": "Holy means set apart for God; common means ordinary. Clean and unclean are states that allow or bar approach to the sanctuary. Most uncleanness is not sin and is washed off with time and water.",
+        "refs": [
+          "Lev 10:10",
+          "Lev 11:44-47",
+          "Lev 15:31"
+        ]
+      },
+      {
+        "term": "The five offerings",
+        "explain": "Burnt offering (wholly given), grain offering (a gift of tribute), peace or fellowship offering (a shared meal with God), purification offering (cleansing the sanctuary from sin's pollution) and reparation offering (paying for damage done).",
+        "refs": [
+          "Lev 1:1-17",
+          "Lev 2:1-16",
+          "Lev 3:1-17",
+          "Lev 4:1-35",
+          "Lev 5:14-19"
+        ]
+      },
+      {
+        "term": "Blood as life",
+        "explain": "Blood carries life, which belongs to God. It may not be eaten; on the altar it 'makes atonement' (ransom, cleansing) for life.",
+        "refs": [
+          "Lev 17:11",
+          "Lev 17:14"
+        ]
+      },
+      {
+        "term": "Day of Atonement",
+        "explain": "Yom Kippur, the one day the high priest enters the inner room. Two goats: one slaughtered for cleansing, one sent to Azazel bearing the people's sins.",
+        "refs": [
+          "Lev 16:1-34"
+        ]
+      },
+      {
+        "term": "Food laws",
+        "explain": "Animals that chew the cud and have split hooves, fish with fins and scales: these may be eaten. The laws mark Israel's distinctness at every meal and are tied to the call 'be ye holy; for I am holy'.",
+        "refs": [
+          "Lev 11:1-47",
+          "Lev 20:24-26"
+        ]
+      },
+      {
+        "term": "Sabbath years and Jubilee",
+        "explain": "Every seventh year the land rests; every fiftieth year land returns to its family and Israelite slaves are freed. The land is God's, held in trust.",
+        "refs": [
+          "Lev 25:1-24",
+          "Lev 25:39-42"
+        ]
+      }
+    ],
+    "jewishLens": "Leviticus is *Vayikra* ('And he called'). Its first word is written in Torah scrolls with a small final letter *aleph*, which midrash reads as Moses' humility: God called him, yet he made himself small. A famous midrash (Leviticus Rabbah 7:3) asks why young children traditionally began studying Torah with Leviticus rather than Genesis, and answers that the offerings are pure and children are pure, so let the pure come and study purity. Far from being the boring book, Leviticus was the starting point of Jewish education.\n\nAfter the second temple was destroyed in AD 70, sacrifice became impossible, and the rabbis faced the question of what Leviticus now means. Their answer shaped Judaism: prayer takes the place of the offerings (compare Hos 14:2, 'so will we render the calves of our lips'), the family table replaces the altar, and acts of loving-kindness atone as sacrifices did. The daily prayer services are timed to the old daily offerings. Leviticus 16 is still read on Yom Kippur, the holiest day of the Jewish year, a day of fasting, confession and trust that God forgives. The food laws (kashrut) continue as daily practice for observant Jews, turning every meal into a reminder of covenant identity.\n\nThe heart of the book for Jewish teachers is Lev 19, which Rabbi Akiva called a great principle of the Torah because it contains 'thou shalt love thy neighbour as thyself' (Lev 19:18). The chapter mixes ritual and ethics on purpose: honour parents, keep Sabbath, do not steal, do not curse the deaf, judge fairly, love the stranger. Holiness is not withdrawal from life; it is imitating God (*imitatio Dei*) in every corner of life. The first audience would have heard Leviticus as an invitation: the God who rescued you now lives next door, and here is how to live as his household.",
+    "flow": [
+      {
+        "label": "Offerings to draw near",
+        "detail": "Five kinds of offering show how worshippers bring gifts, share fellowship and deal with sin and guilt.",
+        "refs": [
+          "Lev 1:1-6:7"
+        ]
+      },
+      {
+        "label": "Priests ordained",
+        "detail": "Aaron and his sons are anointed and begin service. Nadab and Abihu die for unauthorised fire, showing that holiness is serious.",
+        "refs": [
+          "Lev 8:1-36",
+          "Lev 9:22-24",
+          "Lev 10:1-3"
+        ]
+      },
+      {
+        "label": "Clean and unclean",
+        "detail": "Rules on food, childbirth, skin disease, mildew and bodily discharges teach Israel to keep death and disorder away from God's dwelling.",
+        "refs": [
+          "Lev 11:1-47",
+          "Lev 12:1-8",
+          "Lev 13:1-59",
+          "Lev 15:31"
+        ]
+      },
+      {
+        "label": "Day of Atonement",
+        "detail": "Once a year the sanctuary and people are cleansed and sins are carried away by the goat for Azazel.",
+        "refs": [
+          "Lev 16:1-34"
+        ]
+      },
+      {
+        "label": "Holiness in everyday life",
+        "detail": "The Holiness Code applies holiness to sex, family, farming, business, justice and love of neighbour and stranger.",
+        "refs": [
+          "Lev 18:1-5",
+          "Lev 19:1-37"
+        ]
+      },
+      {
+        "label": "Holy times",
+        "detail": "Sabbath, Passover, Firstfruits, Weeks, Trumpets, Atonement and Booths set Israel's year to God's rhythm.",
+        "refs": [
+          "Lev 23:1-44"
+        ]
+      },
+      {
+        "label": "Jubilee and the land",
+        "detail": "Sabbath years and Jubilee restore land and freedom. Blessings and curses close the covenant, with a promise that God will remember even in exile.",
+        "refs": [
+          "Lev 25:8-24",
+          "Lev 26:3-13",
+          "Lev 26:40-45"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Leviticus: holiness for a dwelling God",
+      "branches": [
+        {
+          "label": "Approaching God",
+          "items": [
+            "Five offerings",
+            "Blood as life",
+            "Priests as mediators",
+            "Fire from the LORD"
+          ]
+        },
+        {
+          "label": "Purity",
+          "items": [
+            "Clean and unclean food",
+            "Childbirth and skin disease",
+            "Unclean is not sinful",
+            "Washing and waiting"
+          ]
+        },
+        {
+          "label": "Atonement",
+          "items": [
+            "Day of Atonement",
+            "Cleansing the sanctuary",
+            "Goat for Azazel",
+            "Forgiveness promised"
+          ]
+        },
+        {
+          "label": "Holy living",
+          "items": [
+            "Love your neighbour",
+            "Love the stranger",
+            "Gleanings for the poor",
+            "Honest weights"
+          ]
+        },
+        {
+          "label": "Holy time and land",
+          "items": [
+            "Sabbath",
+            "Seven feasts",
+            "Sabbath year",
+            "Jubilee release"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Holy",
+        "original": "qadosh (קָדוֹשׁ)",
+        "meaning": "Set apart, belonging to God, sharing his character. 'Ye shall be holy: for I the LORD your God am holy' is the book's motto.",
+        "refs": [
+          "Lev 11:44",
+          "Lev 19:2",
+          "Lev 20:26"
+        ]
+      },
+      {
+        "word": "Atone / make atonement",
+        "original": "kipper (כִּפֶּר)",
+        "meaning": "To purge, cleanse or ransom. Scholars debate the balance: Milgrom stressed purging the sanctuary; Jay Sklar argues it includes both ransom and purification.",
+        "refs": [
+          "Lev 16:30",
+          "Lev 17:11"
+        ]
+      },
+      {
+        "word": "Offering",
+        "original": "qorban (קָרְבָּן)",
+        "meaning": "From the root 'to draw near'. An offering is literally a 'bringing near': a way to come close to God.",
+        "refs": [
+          "Lev 1:2",
+          "Mark 7:11"
+        ]
+      },
+      {
+        "word": "Unclean",
+        "original": "tame' (טָמֵא)",
+        "meaning": "Ritually impure, not allowed near holy things. Often caused by normal life events and removed by time and washing.",
+        "refs": [
+          "Lev 11:24-25",
+          "Lev 15:31"
+        ]
+      },
+      {
+        "word": "Purification offering",
+        "original": "hatta't (חַטָּאת)",
+        "meaning": "Usually translated 'sin offering'. Its blood cleanses the sanctuary from the pollution that sin and impurity cause.",
+        "refs": [
+          "Lev 4:1-35",
+          "Lev 16:15-16"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "exodus",
+        "how": "Leviticus begins where Exodus ends: God has filled the tabernacle, and now he calls Moses from it.",
+        "refs": [
+          "Exod 40:34-35",
+          "Lev 1:1"
+        ]
+      },
+      {
+        "bookId": "numbers",
+        "how": "Numbers continues the priestly organisation of the camp around the sanctuary and the march toward the land.",
+        "refs": [
+          "Num 1:1",
+          "Num 2:1-2"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "Ezekiel, a priest, uses Leviticus' language of holiness, impurity and the departing glory, and promises a cleansed people and a new temple.",
+        "refs": [
+          "Ezek 22:26",
+          "Ezek 36:25-27",
+          "Ezek 44:23"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews reads Jesus as both high priest and sacrifice, entering the true holy of holies once for all, using Lev 16 in detail.",
+        "refs": [
+          "Heb 9:6-14",
+          "Heb 9:22-26"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus names 'love thy neighbour' (Lev 19:18) as the second great commandment, alongside the Shema.",
+        "refs": [
+          "Matt 22:37-40",
+          "Lev 19:18"
+        ]
+      },
+      {
+        "bookId": "1-peter",
+        "how": "Peter quotes Leviticus' motto 'be ye holy; for I am holy' to believers scattered among the nations.",
+        "refs": [
+          "1 Pet 1:15-16"
+        ]
+      }
+    ],
+    "jesusLens": "Christians read Leviticus through Hebrews, which presents Jesus as the great high priest who offers himself and enters the heavenly sanctuary with his own blood (Heb 9:11-14). The New Testament draws on several offerings: Jesus as the purification offering (Rom 8:3, where 'for sin' can translate the Greek term for sin offering), as the Passover and the covenant sacrifice, and as the one who 'bare our sins' like the goat sent away (compare Isa 53:4-6). The Gospels show Jesus touching lepers, a bleeding woman and a corpse; instead of becoming unclean, he makes them clean (Mark 1:40-42; Mark 5:25-34; Mark 5:41-42), as if holiness now flows outward from him. Jewish readers note that Leviticus already joins forgiveness to repentance and that God promised to remember his covenant even in exile (Lev 26:44-45); many Christian scholars agree that the sacrificial system was a real gift of grace, not an empty ritual waiting to be replaced.",
+    "misreadings": [
+      {
+        "topic": "Unclean means sinful or dirty",
+        "popular": "Leviticus calls things like childbirth, skin disease and menstruation 'unclean' because they are sinful, shameful or unhygienic; the laws are early health codes or show God's disgust at the body.",
+        "inContext": "Ritual impurity was not moral guilt. A mother who gave birth, or a man who buried his father, did nothing wrong; often they did something good. Jacob Milgrom argued that the common thread is association with death and the loss of life-force, which must be kept separate from the God of life. Mary Douglas and later Jonathan Klawans distinguished ritual impurity (contagious, temporary, not sinful) from moral impurity (caused by grave sins such as murder, idolatry and sexual sins, which defile the land).",
+        "defence": "Evangelical scholars such as Gordon Wenham and Jay Sklar largely agree and teach this distinction. Some add that impurity is still a picture of how sin separates us from God (as the New Testament uses the language), and that some rules had incidental health benefits. The popular 'health code' idea is generally rejected by scholars on both sides as the main explanation, since many unclean animals are perfectly healthy to eat.",
+        "whyItMatters": "Confusing impurity with sin has led to shame around women's bodies and illness. In context, the rules taught that God is life and wholeness, and Jesus' healing touch shows that wholeness spreading.",
+        "refs": [
+          "Lev 12:1-8",
+          "Lev 15:31",
+          "Lev 18:24-28",
+          "Mark 5:25-34"
+        ],
+        "scholars": [
+          "Jacob Milgrom",
+          "Mary Douglas",
+          "Jonathan Klawans",
+          "Gordon Wenham",
+          "Jay Sklar"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Leviticus is obsolete and irrelevant",
+        "popular": "Leviticus is a dead book of rituals cancelled by Jesus; Christians can safely skip it.",
+        "inContext": "For its first readers Leviticus was a gift: the way to live safely and joyfully near God. It contains the command to love one's neighbour, care for the poor and stranger, deal honestly and practise Jubilee. Jewish tradition started children's education here. Scholars such as Ephraim Radner, L. Michael Morales and Jacob Milgrom show how deeply the New Testament depends on its categories.",
+        "defence": "Evangelical scholars agree the sacrifices and food laws are fulfilled in Christ (Heb 10:1-14; Mark 7:19), and that Christians are not bound by its ceremonial laws. But writers such as Wenham and Sklar insist the book still teaches God's holiness, the seriousness of sin, the costliness of atonement and the social ethics of the covenant. Few serious scholars of any tradition would call it irrelevant.",
+        "whyItMatters": "Without Leviticus, words like atonement, sacrifice, holiness, priest and Jubilee lose their meaning, and much of Hebrews, Romans and the Gospels becomes hard to follow.",
+        "refs": [
+          "Lev 19:9-18",
+          "Lev 25:10",
+          "Luke 4:18-19",
+          "Heb 10:1-14"
+        ],
+        "scholars": [
+          "L. Michael Morales",
+          "Jay Sklar",
+          "Gordon Wenham",
+          "Jacob Milgrom"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Leviticus gave Israel a way to live with God in their midst: dealing with sin, guarding his holiness, marking time by his feasts and building a society where land, people and even animals belonged to him and could rest.",
+      "now": "Leviticus teaches that God is both near and holy, that sin is costly and pollutes communities, that forgiveness is God's gift, and that holiness touches business, sex, farming and how we treat the poor and immigrants. Its Jubilee still inspires debt relief and justice movements."
+    },
+    "sources": [
+      {
+        "author": "Jacob Milgrom",
+        "title": "Leviticus 1-16 (Anchor Bible)",
+        "year": 1991
+      },
+      {
+        "author": "Mary Douglas",
+        "title": "Leviticus as Literature",
+        "year": 1999
+      },
+      {
+        "author": "Gordon J. Wenham",
+        "title": "The Book of Leviticus (NICOT)",
+        "year": 1979
+      },
+      {
+        "author": "Jay Sklar",
+        "title": "Leviticus (Tyndale Old Testament Commentaries)",
+        "year": 2014
+      },
+      {
+        "author": "L. Michael Morales",
+        "title": "Who Shall Ascend the Mountain of the Lord? A Biblical Theology of the Book of Leviticus",
+        "year": 2015
+      }
+    ]
+  }
+]

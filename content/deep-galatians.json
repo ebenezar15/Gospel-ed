@@ -1,0 +1,895 @@
+{
+  "id": "galatians",
+  "title": "Galatians: Who Belongs to Abraham's Family?",
+  "intro": "Galatians is Paul's most heated letter. There is no thanksgiving after the greeting, only a shocked 'I am astonished' (Gal 1:6). Young churches of non-Jews in central Asia Minor (modern Turkey) had been told by visiting teachers that trusting the Messiah Jesus was a good start, but that to belong fully to Abraham's family they must also be circumcised and take on the Jewish law: its food rules, its calendar, its way of life. Paul answers that this would turn the good news upside down.\n\nFor centuries Western Christians have read Galatians mainly as an answer to the question 'How can a guilty person be accepted by God?' That question is really in the letter (Gal 2:16, Gal 2:20). But the argument Paul actually fights in front of the Galatians is a related, more concrete one: who counts as God's people, and on what basis do Jews and non-Jews eat at one table (Gal 2:11-14, Gal 3:28-29)? Paul's answer is that God has acted in the cross of the Messiah to rescue the world from 'the present evil age' (Gal 1:4), to make one family out of Jews and Gentiles by trust in Jesus, and to give that family the Spirit, who produces the life the law pointed to (Gal 5:22-23).\n\nThis study reads the letter with its first hearers: former worshippers of Greek, Galatian and Roman gods who had stopped sacrificing to them, who were under pressure from their neighbours, and who were being offered what looked like a safer and more complete identity. It also lays out, side by side, the main ways modern scholars read the letter (traditional Protestant, the New Perspective, Paul within Judaism, apocalyptic and 'gift' readings), so you can weigh them yourself.",
+  "lens": {
+    "summary": "Read Galatians as a family argument inside Israel's story. The question on the table is not whether Judaism was a religion of earning (Jews of Paul's day did not, in general, think so) but whether non-Jews who trust Israel's Messiah must become Jews to share Abraham's blessing. Paul answers from Israel's own scriptures: God promised Abraham that all nations would be blessed in him (Gen 12:3), God has now kept that promise through the Messiah's faithful death, and the Spirit poured out on uncircumcised Gentiles is God's own proof that they are already family. Grace (charis) is God's unearned gift that creates a relationship and calls for loyal response; faith (pistis) is trust and allegiance; the law is God's good gift with a specific, temporary role in the story until the Messiah came.",
+    "principles": [
+      {
+        "name": "The question is Abraham's family",
+        "text": "The agitators asked, in effect, 'Are you really children of Abraham yet?' Paul answers that those who share Abraham's trust are his children, because God told Abraham the nations would be blessed in him. Membership, not merely private guilt, is the live issue.",
+        "refs": [
+          "Gal 3:6-9",
+          "Gen 12:3",
+          "Gen 15:6",
+          "Gal 3:29"
+        ]
+      },
+      {
+        "name": "Torah is gift within covenant",
+        "text": "In Jewish thought the law was given to a people God had already rescued from Egypt; it was a way of living inside the relationship, not a ladder to climb into it. Paul does not deny that. He argues the law came 430 years after the promise and cannot add conditions to it, and that its role was to guard Israel until the Messiah came.",
+        "refs": [
+          "Exod 20:2",
+          "Gal 3:17-19",
+          "Gal 3:23-25"
+        ]
+      },
+      {
+        "name": "The table is a test of the gospel",
+        "text": "In the ancient world, who you ate with showed who your people were. When Peter withdrew from eating with Gentile believers at Antioch, Paul said he was 'not walking straight toward the truth of the gospel'. The gospel creates a shared table.",
+        "refs": [
+          "Gal 2:11-14",
+          "Acts 10:28",
+          "Acts 11:3"
+        ]
+      },
+      {
+        "name": "Pistis is trust and loyalty",
+        "text": "Greek pistis covers belief, trust, faithfulness and loyalty. In Galatians it marks those who rely on the Messiah and stay loyal to him, and possibly also the Messiah's own faithfulness to God. Faith that matters is 'faith working through love'.",
+        "refs": [
+          "Gal 2:16",
+          "Gal 2:20",
+          "Gal 5:6"
+        ]
+      },
+      {
+        "name": "Grace as gift that creates a bond",
+        "text": "In Greco-Roman and Jewish settings a gift (charis) created a relationship and invited a grateful, loyal response. John Barclay shows that Paul's stress is that God's gift in Christ was given without regard to prior worth: to Gentiles, to a former persecutor, to people with no ethnic or moral 'qualification'. It is free but not cheap: it creates a new way of life.",
+        "refs": [
+          "Gal 1:6",
+          "Gal 1:15-16",
+          "Gal 2:21"
+        ]
+      },
+      {
+        "name": "A new age has broken in",
+        "text": "Paul frames everything by the arrival of a new age: Jesus 'gave himself to rescue us from the present evil age' and what counts now is 'new creation'. Jewish hope for the age to come, with the Spirit poured out, has begun.",
+        "refs": [
+          "Gal 1:4",
+          "Gal 6:15",
+          "Isa 32:15",
+          "Joel 2:28-29"
+        ]
+      },
+      {
+        "name": "Household and kinship language",
+        "text": "Children, heirs, slaves, guardians, adoption, brothers and sisters: Paul thinks with the ancient household. The Spirit who cries 'Abba, Father' makes former outsiders into sons and heirs, as Israel was called God's son.",
+        "refs": [
+          "Gal 4:4-7",
+          "Exod 4:22",
+          "Hos 11:1"
+        ]
+      },
+      {
+        "name": "Honour and shame turned over",
+        "text": "Crucifixion was the most shameful death in the Roman world and, by Deuteronomy, a sign of curse. Paul makes the crucified Messiah his only boast, and refuses to boast in circumcision as a mark of status.",
+        "refs": [
+          "Gal 3:13",
+          "Deut 21:23",
+          "Gal 6:14"
+        ]
+      }
+    ]
+  },
+  "audienceMap": [
+    {
+      "group": "Gentile believers (former worshippers of the gods)",
+      "share": 75,
+      "concerns": "Whether they truly belong to God's people without circumcision; social and legal pressure after abandoning their city's gods and the emperor's honours; how to live a holy life without the law's clear rules."
+    },
+    {
+      "group": "The visiting teachers ('agitators')",
+      "share": 10,
+      "concerns": "Faithfulness to the covenant of circumcision given to Abraham (Gen 17); the good order and reputation of the community; perhaps avoiding persecution for welcoming uncircumcised Gentiles (Gal 6:12)."
+    },
+    {
+      "group": "Jewish believers in Galatia",
+      "share": 10,
+      "concerns": "How to keep faith with their own heritage while eating with Gentile brothers and sisters; whether Paul despises the law (he insists he does not, Gal 3:21, Gal 5:14)."
+    },
+    {
+      "group": "Wider audience: Jerusalem and Antioch circles who would hear of the letter",
+      "share": 5,
+      "concerns": "Paul's standing as an apostle, his relationship to Peter and James, and whether his mission undermined Jewish identity."
+    }
+  ],
+  "argument": [
+    {
+      "id": "rescue",
+      "label": "Rescued from the evil age",
+      "chapters": "1",
+      "text": "Paul opens by declaring that Jesus gave himself for our sins to rescue us from the present evil age. The whole letter flows from this: something decisive has already happened.",
+      "next": [
+        "no-other"
+      ]
+    },
+    {
+      "id": "no-other",
+      "label": "There is no other gospel",
+      "chapters": "1",
+      "text": "Turning to a 'gospel' that requires circumcision is not an upgrade but a desertion of the God who called them.",
+      "next": [
+        "call"
+      ]
+    },
+    {
+      "id": "call",
+      "label": "Paul's call came from God",
+      "chapters": "1",
+      "text": "Paul tells his story: zealous persecutor, then called like a prophet to announce the Son among the nations. His message did not come from Jerusalem.",
+      "next": [
+        "jerusalem"
+      ]
+    },
+    {
+      "id": "jerusalem",
+      "label": "Jerusalem agrees; Antioch breaks",
+      "chapters": "2",
+      "text": "The pillars accepted Titus uncircumcised and shook hands on Paul's mission. But at Antioch Peter withdrew from table fellowship, and Paul confronted him publicly.",
+      "next": [
+        "justified"
+      ]
+    },
+    {
+      "id": "justified",
+      "label": "Justified through the Messiah's pistis",
+      "chapters": "2",
+      "text": "Even Jews by birth are put right with God not by works of the law but through the faith/faithfulness of Jesus Christ. Paul has died to the law and now lives by the Son who loved him.",
+      "next": [
+        "spirit",
+        "abraham"
+      ]
+    },
+    {
+      "id": "spirit",
+      "label": "You received the Spirit by hearing",
+      "chapters": "3",
+      "text": "The Galatians' own experience proves the point: God gave them the Spirit and worked miracles when they heard and trusted, not when they kept the law.",
+      "next": [
+        "abraham"
+      ]
+    },
+    {
+      "id": "abraham",
+      "label": "Abraham's single family",
+      "chapters": "3",
+      "text": "Abraham trusted God; Scripture foresaw the nations blessed in him. The Messiah absorbed the curse so that Abraham's blessing and the Spirit reach the Gentiles. The promise to the one 'seed' is fulfilled in Christ.",
+      "next": [
+        "law-why"
+      ]
+    },
+    {
+      "id": "law-why",
+      "label": "Why the law? A guardian until Messiah",
+      "chapters": "3-4",
+      "text": "The law came later, could not cancel the promise, and served as a paidagogos, a household guardian, until the Messiah. Now all, Jew and Greek, slave and free, male and female, are one in him, adopted heirs with the Spirit.",
+      "next": [
+        "dont-return"
+      ]
+    },
+    {
+      "id": "dont-return",
+      "label": "Do not go back; two mothers",
+      "chapters": "4",
+      "text": "Paul pleads as a mother in labour pains. Then he reads the Hagar and Sarah story as a picture of two covenants and two ways of being family: slavery and freedom.",
+      "next": [
+        "freedom"
+      ]
+    },
+    {
+      "id": "freedom",
+      "label": "Freedom to serve in love",
+      "chapters": "5",
+      "text": "Christ set us free; do not take on slavery again. But freedom is not licence: it is freedom to be slaves of one another in love, which fulfils the whole law. Walk by the Spirit.",
+      "next": [
+        "burdens"
+      ]
+    },
+    {
+      "id": "burdens",
+      "label": "Bear one another's burdens",
+      "chapters": "6",
+      "text": "The Spirit's community restores the fallen gently, shares goods with teachers, and keeps sowing good, especially within the household of faith.",
+      "next": [
+        "new-creation"
+      ]
+    },
+    {
+      "id": "new-creation",
+      "label": "New creation and the Israel of God",
+      "chapters": "6",
+      "text": "In his own large handwriting Paul sums up: neither circumcision nor uncircumcision counts, but new creation. Peace and mercy on those who walk by this rule, and on the Israel of God.",
+      "next": []
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "No other gospel: Paul's call came from God",
+      "summary": "Paul greets the churches as an apostle sent 'not from men' but by Jesus Christ and God the Father, and announces that Jesus gave himself to rescue us from the present evil age. Instead of the usual thanksgiving he expresses astonishment that the Galatians are deserting the one who called them for a different 'gospel', and pronounces a curse on anyone, even an angel, who preaches otherwise. He then tells his own story: a zealous persecutor of the church, he was set apart by God before birth and called to proclaim the Son among the nations. He did not consult anyone, went to Arabia, returned to Damascus, and only after three years visited Peter in Jerusalem for fifteen days.",
+      "background": "Where were the Galatian churches? 'Galatia' could mean the ethnic region in the north around Ancyra (modern Ankara), settled by Celtic Gauls in the 200s BC, or the larger Roman province, which in Paul's day stretched south to include Pisidian Antioch, Iconium, Lystra and Derbe. The North Galatian view (J. B. Lightfoot, Hans Dieter Betz, J. Louis Martyn, Martinus de Boer) holds that Paul wrote to ethnic Galatians he evangelised on his second or third journey (Acts 16:6, Acts 18:23), probably in the mid-50s. The South Galatian view (William Ramsay, F. F. Bruce, Richard Longenecker, Ben Witherington) holds he wrote to the cities he founded on his first journey with Barnabas (Acts 13-14), which would allow an early date, perhaps around AD 48, before the Jerusalem council of Acts 15. Acts records no visit by Paul to cities in the north. The question matters for how Galatians relates to Acts and to Romans, but not for the letter's main message.",
+      "culture": "Ancient letters normally opened with a thanksgiving to the gods or for the recipients. Leaving it out was a deliberate social snub: hearers would feel the chill. The curse formula ('let him be anathema') draws on the Old Testament idea of something devoted to God for destruction. Paul's appeal to his own story fits ancient rhetoric: a speaker established his character (ēthos) before making his case. His language of 'pleasing men' versus being a 'slave of Christ' (Gal 1:10) touches the patronage world, where clients flattered patrons for favour.",
+      "jewishLens": "Paul describes his past 'in Judaism' with pride and pain: he advanced beyond his peers and was extremely zealous for the ancestral traditions (Gal 1:14). 'Zeal' recalls Phinehas and the Maccabees, who used force to defend Israel's covenant boundaries (Num 25:11-13). His call is told in the language of Israel's prophets: set apart 'from my mother's womb' like the servant of Isaiah 49 and Jeremiah. He did not abandon Israel's God; he was sent by Israel's God to be the servant who brings light to the nations. 'Rescue from the present evil age' uses Jewish apocalyptic language of two ages: this age under evil powers and the age to come.",
+      "audience": "Gentile hearers, many of whom had recently been told by impressive visitors that Paul's message was incomplete or second-hand, would hear Paul insisting that his gospel is not a diluted copy of Jerusalem's. They would also feel the shock of the curse: this is not a minor disagreement over practice but about the very identity of the good news. Some may have felt caught between loyalty to Paul, their founder, and respect for teachers with links to Jerusalem.",
+      "today": "The chapter asks what the core of the good news is and how it relates to the additions communities make to it. It also shows that a person can be zealous, sincere and well-educated in Scripture and still be opposing God's purposes; Paul's story is a call to humility. His independence is not individualism: he still went to Jerusalem and sought fellowship (Gal 2:2).",
+      "keyRefs": [
+        "Gal 1:1-5",
+        "Gal 1:6-9",
+        "Gal 1:10",
+        "Gal 1:13-17",
+        "Gal 1:18-24"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 49:1",
+          "note": "The servant called 'from the womb' to bring God's salvation to the end of the earth; Paul sees his mission to the nations in this role."
+        },
+        {
+          "ref": "Jer 1:5",
+          "note": "Jeremiah set apart before birth as a prophet to the nations."
+        },
+        {
+          "ref": "Num 25:11-13",
+          "note": "Phinehas's zeal for God's covenant, the model for Paul's former violent zeal."
+        },
+        {
+          "ref": "Deut 13:1-5",
+          "note": "Warnings against prophets who lead the people away from God, background to Paul's curse on a false gospel."
+        }
+      ],
+      "misread": {
+        "popular": "Paul converted from Judaism to Christianity on the Damascus road, leaving his old religion.",
+        "better": "Paul tells a prophetic call within Israel's story: the same God now revealed his Son to him and sent him to the nations. He changed his mind about Jesus and about the Gentiles, not his God."
+      }
+    },
+    {
+      "n": 2,
+      "title": "Jerusalem, Antioch and the truth of the gospel",
+      "summary": "Fourteen years later Paul went to Jerusalem with Barnabas and Titus, an uncircumcised Greek, and privately set his gospel before the leaders. Titus was not compelled to be circumcised, despite 'false brothers'. James, Cephas (Peter) and John, the 'pillars', recognised Paul's mission to the uncircumcised and asked only that he remember the poor. But later at Antioch, Peter, who had been eating with Gentile believers, withdrew when 'certain people from James' arrived, and even Barnabas followed. Paul confronted Peter publicly. He then states the principle: even Jews by birth know that a person is justified not by works of the law but through faith in (or the faithfulness of) Jesus Christ. 'I have been crucified with Christ; I no longer live, but Christ lives in me.'",
+      "background": "Is the Jerusalem visit of Gal 2:1-10 the council of Acts 15? Many scholars think so: both involve Paul, Barnabas, circumcision and the Jerusalem leaders. Others, especially South Galatian advocates, identify it with the famine-relief visit of Acts 11:27-30, which would date Galatians before the council and explain why Paul never mentions the council's decision (Acts 15:23-29), which would have been his strongest argument. The Antioch incident probably happened in the late 40s. Antioch in Syria was a large mixed city where Jews and Gentiles in the Jesus movement had been eating together (Acts 11:19-26). Pressure from Judea, where Jewish nationalism was rising under Roman rule in the 40s, may explain why the visitors from James wanted Jewish believers to keep clearer separation.",
+      "culture": "In Mediterranean society, meals expressed belonging and rank. To share a table was to accept someone as family or friend; to withdraw was a public statement. Paul's public rebuke of Peter 'before them all' was an honour challenge between two leading men. Paul's handshake with the pillars (the 'right hand of fellowship') was a formal sign of agreement and partnership in the ancient world.",
+      "jewishLens": "Jews in the diaspora regularly mixed with Gentiles, but table fellowship raised questions: was the food kosher, had it been offered to idols, was the wine poured as a libation? Jews held a range of views. The issue at Antioch was probably not that Peter ate pork but the degree of intimacy and the status of Gentile believers: were they full members or guests? Paul's phrase 'Jews by birth and not Gentile sinners' (Gal 2:15) uses a common Jewish way of speaking, where 'sinners' meant those outside the covenant law. Paul then says that even Jews rely on the Messiah for righteousness, so the table cannot be divided along that line. 'Crucified with Christ' is covenant participation: what happened to the Messiah is counted as happening to his people.",
+      "audience": "The Galatians would recognise their own situation: Gentiles being told they were second-class unless they adopted Jewish practice. They would hear that even Peter had wobbled under social pressure, and that Paul had stood for their equal place at the table. The words 'the Son of God, who loved me and gave himself for me' would land with warmth for people who were feeling unwanted.",
+      "today": "Who eats with whom is still a gospel issue: churches can be divided by race, class, politics or culture while believing the same creed. Paul calls a withdrawal from shared fellowship 'not walking straight toward the truth of the gospel'. The chapter also holds together social and personal faith: 'he loved me and gave himself for me' is one of the most personal lines in the New Testament.",
+      "keyRefs": [
+        "Gal 2:1-10",
+        "Gal 2:11-14",
+        "Gal 2:15-16",
+        "Gal 2:19-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 143:2",
+          "note": "'No one living is righteous before you': Paul's 'by works of the law no flesh will be justified' echoes this psalm."
+        },
+        {
+          "ref": "Dan 1:8",
+          "note": "Daniel refusing the king's food: an example of food laws as faithful Jewish identity in a foreign setting."
+        },
+        {
+          "ref": "Gen 17:9-14",
+          "note": "The covenant of circumcision with Abraham, the strongest scriptural argument the agitators could make for circumcising Gentiles."
+        }
+      ],
+      "misread": {
+        "popular": "Peter fell into legalism, trying to earn salvation by keeping rules, and Paul corrected his theology.",
+        "better": "Peter did not change his doctrine; he changed his table under social pressure. Paul says this 'hypocrisy' denied in practice what both of them believed: that Jews and Gentiles are equally put right with God through the Messiah, and so belong at one table."
+      }
+    },
+    {
+      "n": 3,
+      "title": "Abraham's family, the curse and the promise",
+      "summary": "'You foolish Galatians!' Paul asks whether they received the Spirit by works of the law or by hearing with faith. Then he turns to Abraham, who 'believed God, and it was counted to him as righteousness'. Scripture foresaw that God would justify the nations by faith and announced the gospel beforehand: 'In you shall all the nations be blessed.' Those who rely on works of the law are under a curse, but the Messiah redeemed us from the curse by becoming a curse, so that Abraham's blessing might come to the Gentiles and we might receive the promised Spirit. The law, coming 430 years later, cannot annul the promise. It was added because of transgressions and served as a guardian until Christ. Now all are children of God through faith; in Christ there is neither Jew nor Greek, slave nor free, male and female, and all are Abraham's seed and heirs.",
+      "background": "The agitators likely had a strong scriptural case: God's covenant with Abraham required circumcision for all males in his household, including foreigners (Gen 17:9-14), and Abraham was a model of obedience. Jewish writers such as the author of *Jubilees* and Philo honoured Abraham as the first to turn from idols. Paul answers on their ground, reading the Abraham story in order: trust and blessing for the nations (Gen 12, Gen 15) before circumcision (Gen 17) and long before Sinai.",
+      "culture": "'Who has bewitched you?' (Gal 3:1) uses the language of the evil eye, a widely feared form of envious magic in the ancient world; Paul hints the visitors have cast a spell on them. 'Publicly portrayed as crucified' uses the word for a public poster or notice. A will or covenant (diathēkē) once ratified could not be altered by a later party (Gal 3:15). The paidagōgos was a household slave who escorted a boy to school and supervised him until adulthood; he was protective but often remembered as strict. When the son came of age, the guardian's job was over.",
+      "jewishLens": "Paul's argument is a chain of scriptural texts read the way Jewish teachers read them, linking passages by shared words: Gen 15:6 and Hab 2:4 (both 'faith' and 'righteous'), Deut 27:26 and Deut 21:23 (both 'cursed'). Deuteronomy's curse was not only individual: Israel as a nation had experienced the covenant curses of exile (Deut 28-30). N. T. Wright argues Paul sees the Messiah taking Israel's curse on himself so that the blessing of Abraham can finally flow to the nations; others read the curse as the universal plight of all who break God's law. The 'seed' (Gal 3:16) is singular because the promise culminates in one representative, the Messiah, in whom many are one.",
+      "audience": "The Galatians had seen miracles and received the Spirit (Gal 3:5); Paul reminds them that God had already accepted them as they were. To people being told they were not yet Abraham's children, the closing line would be a lifeline: 'If you are Christ's, then you are Abraham's offspring, heirs according to promise.' Slaves and women in the house church would hear the baptismal formula of 3:28 as an astonishing statement of belonging.",
+      "today": "The chapter grounds identity not in ethnicity, achievement or social rank but in belonging to the Messiah. It challenges churches that quietly rank members, and individuals who feel they have to earn a place. It also models reading the Old Testament as one story leading to Christ, not as an obsolete book.",
+      "keyRefs": [
+        "Gal 3:1-5",
+        "Gal 3:6-9",
+        "Gal 3:10-14",
+        "Gal 3:15-22",
+        "Gal 3:23-29"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 15:6",
+          "note": "Abraham believed the Lord, who counted it to him as righteousness: Paul's anchor text."
+        },
+        {
+          "ref": "Gen 12:3",
+          "note": "All the families of the earth blessed in Abraham: Paul calls this 'the gospel preached beforehand'."
+        },
+        {
+          "ref": "Hab 2:4",
+          "note": "The righteous shall live by faith(fulness): read by Paul of life given through trust."
+        },
+        {
+          "ref": "Deut 27:26",
+          "note": "Cursed is everyone who does not keep all the law; part of the covenant blessings and curses."
+        },
+        {
+          "ref": "Deut 21:23",
+          "note": "A hanged man is cursed by God; Paul applies it to the crucified Messiah."
+        }
+      ],
+      "misread": {
+        "popular": "The law was a schoolmaster that teaches us we are sinners so that we run to Christ for salvation.",
+        "better": "The paidagōgos was a babysitter-guardian, not a teacher. Paul's main point is historical: the law had a temporary guardianship over Israel 'until faith came', that is, until the Messiah arrived. Now that he has come, Jews and Gentiles alike are heirs without that guardian. (The law's role in revealing sin is real but secondary here.)"
+      }
+    },
+    {
+      "n": 4,
+      "title": "From slaves to heirs; Hagar and Sarah",
+      "summary": "An heir who is a child is no better than a slave, under guardians until the date set by his father. So we too were enslaved under the 'elements of the world'. But when the fullness of time came, God sent his Son, born of a woman, born under the law, to redeem those under the law so that we might receive adoption. Because you are sons, God sent the Spirit of his Son into our hearts crying 'Abba, Father'. Paul asks how they can turn back to weak elements, observing days, months, seasons and years. He recalls their warm welcome when he first came to them ill, and pleads as a mother in labour until Christ is formed in them. He closes with an allegory: Abraham had two sons, one by the slave Hagar and one by the free woman Sarah; these represent two covenants, and believers are children of the free woman.",
+      "background": "Gal 4:10 ('days, months, seasons, years') is usually read as the Jewish sabbath, new moons and festivals the agitators were urging. Bruce Winter and Justin Hardin argue that the imperial cult is also in view: cities across the province of Galatia held festivals honouring Augustus and his successors, and Gentiles who had stopped joining them but were not recognised Jews were socially and perhaps legally exposed. Becoming Jewish proselytes through circumcision would give them a recognised status, since Jews were traditionally exempted from civic worship. This reading is debated, but it explains why Paul says the agitators want to avoid persecution (Gal 6:12). Paul's illness on his first visit (Gal 4:13-15) is unknown; suggestions include an eye problem or malaria.",
+      "culture": "Roman law placed a fatherless heir under a tutor and a curator until a set age; Paul adapts this. Roman adoption (adoptio) transferred a person fully into a new family, cancelling old debts and giving full rights of inheritance; adoptions of adult heirs were common among the elite, including emperors. 'Abba' is Aramaic for 'father', the word of a family member, preserved in Greek-speaking churches (Mark 14:36). Welcoming a messenger 'as an angel of God' reflects ancient hospitality codes. Ancient writers, Jewish (Philo) and Greek, used allegory to draw spiritual meaning from stories; Paul explicitly says he is doing this (Gal 4:24).",
+      "jewishLens": "Israel was God's 'firstborn son' (Exod 4:22), redeemed from slavery in Egypt. Paul retells the exodus: God 'sent' his Son and 'sent' his Spirit to redeem slaves and make them heirs, as God once brought Israel out of slavery. His allegory reverses the usual association (Isaac and Sarah were Israel's ancestors) to make the point that what counts is promise and Spirit, not natural descent. He quotes Isa 54:1, where barren Zion rejoices after exile because her children will be many: the restoration promised to Israel is happening as the nations come in. 'The present Jerusalem' probably refers to the Jerusalem-based mission that insisted on circumcising Gentiles, not to the Jewish people as such; Martyn reads the two mothers as two Gentile missions.",
+      "audience": "Former pagans who had worshipped gods tied to the stars and seasons would hear that taking on a calendar of holy days as the condition of belonging was, oddly, like going back to their old slavery. They would be moved by Paul's tender appeal as their 'mother' and the memory of how they would have given him their eyes. The allegory gave them a family story: they are not illegitimate children of Abraham but sons of the free woman, born by promise.",
+      "today": "Christian identity is adoption: secure, legal, family belonging, with the Spirit's cry 'Abba' at its heart. The chapter warns against turning festivals, practices or markers into conditions of belonging. It also warns readers not to turn Hagar into a symbol of the Jewish people; Paul's allegory concerns two ways of being God's family, and Christian anti-Jewish uses of it misread him.",
+      "keyRefs": [
+        "Gal 4:1-7",
+        "Gal 4:8-11",
+        "Gal 4:12-20",
+        "Gal 4:21-31"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 4:22",
+          "note": "Israel is my firstborn son: sonship language Paul extends to Gentiles in the Messiah."
+        },
+        {
+          "ref": "Gen 16:1-4",
+          "note": "Hagar, Sarah's Egyptian slave, bears Ishmael to Abraham."
+        },
+        {
+          "ref": "Gen 21:9-10",
+          "note": "Sarah says to cast out the slave woman and her son; Paul quotes it in Gal 4:30."
+        },
+        {
+          "ref": "Isa 54:1",
+          "note": "Rejoice, O barren one: Zion restored after exile with many children, quoted in Gal 4:27."
+        }
+      ],
+      "misread": {
+        "popular": "Hagar stands for the Jews and the Old Covenant; Sarah stands for Christians and the church, which has replaced Israel.",
+        "better": "Paul is countering teachers who wanted to make Gentiles into Abraham's children by circumcision. His two mothers stand for two ways of belonging: by the flesh (human effort and status) or by promise and Spirit. Martyn argues the 'slave' line is the circumcising Gentile mission, not Jews as a people. Paul himself remained a Jew."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Freedom, love and the Spirit",
+      "summary": "'For freedom Christ has set us free; stand firm and do not submit again to a yoke of slavery.' Paul warns that if the Galatians accept circumcision as the condition of belonging, Christ will be of no benefit to them; in Christ neither circumcision nor uncircumcision counts, but faith working through love. He lashes out at the agitators. Then he says freedom is not an opportunity for the flesh: through love be slaves of one another, for the whole law is fulfilled in one word, 'love your neighbour as yourself'. Walk by the Spirit and you will not carry out the desires of the flesh. He lists works of the flesh (sexual immorality, idolatry, sorcery, enmity, strife, jealousy, factions, drunkenness) and the fruit of the Spirit: love, joy, peace, patience, kindness, goodness, faithfulness, gentleness, self-control.",
+      "background": "If the Galatians stopped being guided by the Jewish law, what would keep them moral? This was a fair question from the agitators' side. Paul's reply is that the Spirit, promised by the prophets, produces a life that fulfils what the law aimed at. The vice list matches problems of factional communities and pagan festivals (idolatry, sorcery, drunken revels), while 'enmity, strife, factions, envy' fit a church splitting over the circumcision question (Gal 5:15).",
+      "culture": "Greek moralists commonly used lists of vices and virtues; Paul's list stands out for its focus on community: most of the 'works of the flesh' damage relationships. 'Self-control' (enkrateia) was a prized Greek virtue. Paul's harsh wish that the agitators would 'castrate themselves' (Gal 5:12) would have reminded Galatians of the self-castrated priests (galli) of the mother-goddess Cybele, whose cult was strong in the region; it is a pointed and crude joke comparing circumcision zeal to pagan practice.",
+      "jewishLens": "'Love your neighbour as yourself' comes from Lev 19:18; Jesus and later Jewish teachers such as Hillel summed up the Torah in similar ways. Paul does not reject the law's goal; he says it is fulfilled through Spirit-led love. Jeremiah and Ezekiel promised a time when God would write the law on hearts and put his Spirit within his people so that they would walk in his ways (Jer 31:33, Ezek 36:26-27). Paul believes that time has come. The 'fruit' image recalls Israel as God's vine or vineyard expected to bear good fruit (Isa 5:1-7).",
+      "audience": "Galatians caught in quarrels ('biting and devouring one another') would feel the rebuke and the relief: there is a way of holiness that does not require circumcision but does require love. Former participants in drunken festivals and magical practices would recognise their old life in the vice list. The fruit of the Spirit gave them a portrait of a community that looked like Jesus.",
+      "today": "Freedom in Christ is not doing as I please; it is freedom from self-centredness for loving service. The chapter offers a test for any church movement: does it produce love, joy, peace, patience, kindness, or factions and envy? It also refuses both legalism and licence.",
+      "keyRefs": [
+        "Gal 5:1-6",
+        "Gal 5:13-15",
+        "Gal 5:16-21",
+        "Gal 5:22-26"
+      ],
+      "echoes": [
+        {
+          "ref": "Lev 19:18",
+          "note": "Love your neighbour as yourself: Paul says it fulfils the whole law."
+        },
+        {
+          "ref": "Ezek 36:26-27",
+          "note": "God will put his Spirit within his people and cause them to walk in his statutes."
+        },
+        {
+          "ref": "Jer 31:33",
+          "note": "The law written on the heart in the new covenant."
+        },
+        {
+          "ref": "Isa 5:1-7",
+          "note": "Israel as God's vineyard expected to bear fruit; the Spirit now produces the fruit."
+        }
+      ],
+      "misread": {
+        "popular": "Freedom in Christ means I am no longer bound by rules; whatever I feel led to do is fine.",
+        "better": "Paul immediately turns freedom into mutual slavery in love (Gal 5:13). The Spirit's fruit is relational and communal. The law's goal is fulfilled, not discarded."
+      }
+    },
+    {
+      "n": 6,
+      "title": "Bearing burdens and the new creation",
+      "summary": "If someone is caught in a wrongdoing, those who are spiritual should restore them gently. 'Bear one another's burdens, and so fulfil the law of Christ.' Each should test their own work. Share good things with those who teach. Whatever one sows one will reap; do not grow weary of doing good, especially to the household of faith. Then Paul takes the pen: 'See with what large letters I am writing to you with my own hand.' The agitators want to make a good showing in the flesh and avoid persecution for the cross. Paul will boast only in the cross, through which the world has been crucified to him. 'Neither circumcision nor uncircumcision is anything, but a new creation.' Peace and mercy on all who walk by this rule, and on the Israel of God. He bears the marks of Jesus on his body.",
+      "background": "Ancient letters were usually dictated to a scribe; the author often added a closing in his own hand to authenticate it. Paul's 'large letters' may reflect poor eyesight, lack of practice in fine script, or simple emphasis, like writing in capitals. The agitators' motive 'that they may not be persecuted for the cross' (Gal 6:12) may point to pressure from zealous Jews in Judea against those who welcomed uncircumcised Gentiles (Robert Jewett's suggestion) or, as Winter and Hardin argue, to civic pressure in Galatia on uncircumcised Gentiles who no longer honoured the gods or the emperor.",
+      "culture": "In an honour-shame society, boasting was about public status. Circumcision could be a matter of pride for a teacher who 'made' converts. Paul refuses to boast in anything except the cross, a symbol of utter shame. The 'marks' (stigmata) of Jesus may refer to scars from beatings and stoning (Acts 14:19, 2 Cor 11:23-25); slaves and devotees of gods were sometimes branded or tattooed with their owner's mark. Sowing and reaping was common farming wisdom.",
+      "jewishLens": "'The law of Christ' may mean the Torah as reinterpreted and embodied by the Messiah, especially the command of love, or the pattern of Jesus' self-giving life. 'New creation' recalls Isaiah's promise of new heavens and a new earth (Isa 65:17). The blessing 'peace upon Israel' closes Ps 125 and Ps 128; Paul adds 'and mercy'. Who is 'the Israel of God'? The whole church of Jews and Gentiles in Christ (many interpreters, including N. T. Wright and Douglas Moo), Jewish believers in Jesus, or the Jewish people as a whole, on whom Paul prays God's mercy (Susan Eastman), connecting with Rom 11:26. The phrase is debated, and its interpretation shapes how Christians think about Israel.",
+      "audience": "The handwritten conclusion would have been visible when the letter was shown to the congregation after being read aloud. Hearers would feel the personal weight: Paul bears real wounds for them, while the agitators risk nothing. The practical instructions would steer a quarrelling church toward gentleness and generosity.",
+      "today": "Christian community is a burden-sharing family, not a place of competitive spirituality. The chapter asks what we boast in: background, success, church badges, or the cross. 'New creation' frames everything: God is renewing the world, and churches are meant to be a foretaste of it.",
+      "keyRefs": [
+        "Gal 6:1-5",
+        "Gal 6:7-10",
+        "Gal 6:11-16",
+        "Gal 6:17-18"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 65:17",
+          "note": "God creating new heavens and a new earth: background to 'new creation'."
+        },
+        {
+          "ref": "Ps 125:5",
+          "note": "'Peace be upon Israel', echoed in Paul's closing blessing."
+        },
+        {
+          "ref": "Ps 128:6",
+          "note": "Another psalm ending with 'peace upon Israel'."
+        },
+        {
+          "ref": "Jer 9:23-24",
+          "note": "Let the one who boasts boast in knowing the Lord, not in wisdom, strength or riches."
+        }
+      ],
+      "misread": {
+        "popular": "'The Israel of God' proves that the church has replaced Israel, so God has no future purpose for the Jewish people.",
+        "better": "The phrase is genuinely debated. Even those who read it as the whole church in Christ usually see it as Israel renewed and expanded around the Messiah, not Gentiles displacing Jews. Others read it as a prayer of mercy for ethnic Israel, in line with Rom 11."
+      }
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "'Works of the law' means trying to earn salvation by being good",
+      "popular": "When Paul says no one is justified 'by works of the law' (Gal 2:16), he means that no one can get to heaven by being a good person or by religious effort. The Galatian error was legalism: thinking you could earn God's favour, which was the essence of first-century Judaism.",
+      "inContext": "E. P. Sanders (1977) showed that the Jewish literature of the period generally sees obedience as the response to God's prior gracious choice of Israel, not as earning entry ('covenantal nomism'). James Dunn and N. T. Wright argue that 'works of the law' in Galatians points especially to the practices that marked Jews off from other nations: circumcision, food laws and sabbath and festival days, the very things at issue in Antioch (Gal 2:11-14) and Galatia (Gal 4:10, Gal 5:2). The issue is whether Gentiles must become Jews to be in God's family. The Dead Sea Scrolls text 4QMMT uses a similar Hebrew phrase for specific law practices that define the community.",
+      "defence": "Douglas Moo, Thomas Schreiner, Stephen Westerholm and Simon Gathercole reply that 'works of the law' means everything the law commands, not only boundary markers (Gal 3:10 speaks of doing 'all things written'), and that Paul's logic of curse and blessing does touch the human inability to obey. Gathercole shows that some Jewish texts did expect final vindication on the basis of obedience. Many on both sides now agree: the phrase means doing the law as a whole, the presenting issue was Gentile entry, and Paul's answer has implications for any attempt to rely on our own record before God.",
+      "whyItMatters": "If Judaism is pictured as a religion of anxious earning, Christians misrepresent their Jewish neighbours and miss Paul's main pastoral point: the gospel creates one family across ethnic lines, and anything that divides that table contradicts it.",
+      "refs": [
+        "Gal 2:16",
+        "Gal 3:10",
+        "Gal 2:11-14",
+        "Gal 4:10",
+        "Gal 5:2-4"
+      ],
+      "scholars": [
+        "E. P. Sanders",
+        "James D. G. Dunn",
+        "N. T. Wright",
+        "Douglas Moo",
+        "Thomas Schreiner",
+        "Simon Gathercole",
+        "Stephen Westerholm"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Law versus grace as the Old Testament religion versus the New Testament religion",
+      "popular": "The Old Testament was the era of law, where people related to God by keeping rules; the New Testament is the era of grace, where we simply believe. Galatians shows Paul freeing Christians from the Old Testament religion.",
+      "inContext": "Paul argues the opposite of a split between two religions. His key evidence is from the Old Testament: Abraham was counted righteous by trusting God (Gen 15:6), the promise to bless the nations came first (Gen 12:3), and Habakkuk said the righteous live by faith (Hab 2:4). Grace runs through Israel's story: the exodus came before Sinai (Exod 20:2). What changes is not God's character but the point in the story: the Messiah has come and the Spirit is given (Gal 4:4-6). Richard Hays and N. T. Wright stress this narrative continuity; John Barclay shows that grace was a common Jewish theme, with Paul's distinctive emphasis on its being given to the unworthy.",
+      "defence": "Traditional Lutheran and Reformed interpreters agree that grace is in the Old Testament; they speak of a 'law-gospel' distinction that runs through both testaments, not a division between them. Moo and Schreiner note that Paul does contrast the Sinai covenant with the promise (Gal 3:17-18, Gal 4:24-25), so there is real discontinuity in salvation history. The popular slogan flattened a careful theological distinction.",
+      "whyItMatters": "Reading the Old Testament as a failed rule-religion cuts Christians off from their own scriptures and repeats a Marcion-like split Paul never made. Paul needs the Old Testament to make his argument.",
+      "refs": [
+        "Gal 3:6-9",
+        "Gal 3:11",
+        "Gal 3:17-18",
+        "Gen 15:6",
+        "Hab 2:4",
+        "Exod 20:2"
+      ],
+      "scholars": [
+        "Richard B. Hays",
+        "N. T. Wright",
+        "John M. G. Barclay",
+        "Douglas Moo",
+        "Thomas Schreiner"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Galatians 3:28: 'neither Jew nor Greek, slave nor free, male and female'",
+      "popular": "Readers tend to take one of two quick positions. Some say the verse is only about spiritual equality before God in salvation and has no bearing on roles in church or home. Others say it abolishes all differences and settles every modern debate about gender and leadership.",
+      "inContext": "In context the verse is about membership and inheritance: all who are baptised into the Messiah are 'one' and are Abraham's seed and heirs (Gal 3:26-29). Its first pair, Jew and Greek, is the live issue of the letter, and Paul clearly means it to change who eats together (Gal 2:12-14). 'Male and female' echoes Gen 1:27, suggesting new creation. Scholars note it may reverse a known Jewish morning prayer of thanks for not being made a Gentile, a slave or a woman, though the dating of that prayer is debated. Paul does not erase Jewish or Gentile identity (he still speaks of 'Jews by birth', Gal 2:15); he denies that these identities rank people before God or at the table.",
+      "defence": "Complementarian scholars (for example Schreiner) argue the verse concerns equal standing in Christ and does not itself address church offices, which Paul treats elsewhere. Egalitarian scholars (for example Cohick, and many feminist interpreters) argue the social effect at the table shows the verse does reshape community life, including women's participation. Both agree it is more than private spirituality and less than a denial that differences exist.",
+      "whyItMatters": "The verse was meant to change real relationships, starting with who eats with whom. How far that goes for slavery and gender has been, and still is, a central Christian argument.",
+      "refs": [
+        "Gal 3:26-29",
+        "Gal 2:12-14",
+        "Gen 1:27",
+        "Gal 2:15"
+      ],
+      "scholars": [
+        "Thomas Schreiner",
+        "Lynn Cohick",
+        "Richard Longenecker",
+        "Wayne Meeks",
+        "Krister Stendahl"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Freedom as individual licence",
+      "popular": "'For freedom Christ has set us free' (Gal 5:1) means Christians are free from rules: what matters is my personal relationship with God, and nobody should tell me how to live.",
+      "inContext": "In Galatians freedom is freedom from slavery to 'the elements of the world' and to the old age, so that believers can serve one another. Paul immediately says: do not use freedom as an opening for the flesh, but 'through love become slaves of one another' (Gal 5:13). The freed person in antiquity belonged to a new household; Paul's picture is of a community bearing burdens together (Gal 6:2). John Barclay's *Obeying the Truth* (1988) argues the second half of the letter is not an afterthought but shows how the Spirit forms a disciplined, loving community without the law's boundary markers.",
+      "defence": "Evangelical scholars generally agree; the individualist reading is popular rather than scholarly. Traditional Protestants stress that freedom from the law's condemnation is personal and real (Gal 2:20) and that this freedom then expresses itself in love. Luther himself wrote that a Christian is perfectly free, lord of all, and also a dutiful servant of all.",
+      "whyItMatters": "Individualist freedom produces lonely, consumer faith; Paul's freedom produces communities of mutual service and accountability.",
+      "refs": [
+        "Gal 5:1",
+        "Gal 5:13-14",
+        "Gal 6:1-2",
+        "Gal 4:3",
+        "Gal 4:9"
+      ],
+      "scholars": [
+        "John M. G. Barclay",
+        "Martin Luther",
+        "Scot McKnight",
+        "Douglas Moo"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "'Faith in Christ' or 'the faith(fulness) of Christ' (pistis Christou)",
+      "popular": "Galatians 2:16 obviously means we are justified by our believing in Christ, as most English Bibles translate.",
+      "inContext": "The Greek phrase pistis Iesou Christou (Gal 2:16, Gal 3:22) can grammatically mean 'faith in Jesus Christ' or 'the faith/faithfulness of Jesus Christ'. Richard Hays (*The Faith of Jesus Christ*, 1983), J. Louis Martyn, Martinus de Boer and N. T. Wright argue for Christ's own faithfulness: his obedient self-giving death (Gal 2:20) is the ground of justification, and our trust responds to it. Matthew Bates suggests pistis often means allegiance, and that the phrase may highlight the faithful King to whom we give allegiance.",
+      "defence": "James Dunn (on this point), Douglas Moo, Thomas Schreiner and many others defend 'faith in Christ', noting that the same verse adds 'we have believed in Christ Jesus', that Paul elsewhere stresses human believing (Gal 3:6), and that early Greek-speaking readers mostly took it that way. Both sides agree Christ's faithful death and our trust are both in the passage; the dispute is over which one this phrase names.",
+      "whyItMatters": "It changes the centre of gravity: is the focus on the quality of my faith, or on the faithful Messiah whom I trust? Either way, salvation does not rest on the strength of a believer's feeling.",
+      "refs": [
+        "Gal 2:16",
+        "Gal 2:20",
+        "Gal 3:22",
+        "Gal 3:6"
+      ],
+      "scholars": [
+        "Richard B. Hays",
+        "J. Louis Martyn",
+        "Martinus C. de Boer",
+        "N. T. Wright",
+        "Matthew W. Bates",
+        "James D. G. Dunn",
+        "Douglas Moo",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Galatians as an anti-Jewish letter",
+      "popular": "Galatians shows Paul leaving Judaism behind. The Jews were legalists trapped in slavery (Hagar), and the church has replaced Israel as 'the Israel of God' (Gal 6:16).",
+      "inContext": "Paul's opponents in Galatia were almost certainly other Jewish followers of Jesus (or, as Mark Nanos argues, local Jewish community leaders), and the argument is about what Gentiles must do, not a verdict on Jews who keep Torah. Paul calls himself a Jew by birth (Gal 2:15), quotes the Jewish scriptures throughout, and uses Jewish interpretive methods. The Hagar-Sarah allegory concerns two ways of making Gentile converts, according to J. Louis Martyn, not Judaism versus Christianity. Krister Stendahl and Paula Fredriksen stress that Paul describes a prophetic call (Gal 1:15, echoing Isa 49:1 and Jer 1:5), not a conversion out of Judaism. 'The Israel of God' is debated: Susan Eastman argues it is ethnic Israel, on whom Paul prays mercy.",
+      "defence": "Many evangelical scholars, including Moo and Wright, read 'Israel of God' as the whole renewed people of God, Jew and Gentile in Christ, and see real discontinuity: Paul treats Torah-observance as no longer defining God's people. But they deny this licenses contempt for Jews; Wright calls the church 'Israel' as fulfilment, not replacement by outsiders, and both reject the 'legalistic Jews' caricature.",
+      "whyItMatters": "Galatians was misused in Christian anti-Jewish preaching. Reading it as an argument among Jews about including Gentiles honours both the text and Paul's own identity.",
+      "refs": [
+        "Gal 2:15",
+        "Gal 1:13-16",
+        "Isa 49:1",
+        "Gal 4:21-31",
+        "Gal 6:16"
+      ],
+      "scholars": [
+        "Mark D. Nanos",
+        "J. Louis Martyn",
+        "Krister Stendahl",
+        "Paula Fredriksen",
+        "Susan Grove Eastman",
+        "N. T. Wright",
+        "Douglas Moo"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Paul's 'conversion' as leaving Judaism for Christianity",
+      "popular": "On the Damascus road Paul stopped being a Jew and became a Christian, swapping one religion for another.",
+      "inContext": "'Christianity' did not yet exist as a separate religion. In Galatians Paul describes his experience in the words of prophetic calling: God set him apart from his mother's womb and called him to proclaim the Son among the nations (Gal 1:15-16), echoing Isaiah's servant (Isa 49:1-6) and Jeremiah (Jer 1:5). Stendahl's famous essay argued that the West read Paul through Augustine's and Luther's troubled consciences, whereas Paul reports a 'robust conscience' (Phil 3:6). He changed his view of the Messiah and the place of Gentiles, not his God.",
+      "defence": "Scholars such as Seyoon Kim and Moo agree it was a call, but argue it was also a conversion in the sense of a radical reorientation: Paul counted his former zeal as persecution of God's church (Gal 1:13) and now found righteousness through Christ alone. Most now say 'both call and conversion'.",
+      "whyItMatters": "Seeing Paul as a Jew called to bring the nations to Israel's God keeps his mission inside Israel's hope, not against it.",
+      "refs": [
+        "Gal 1:13-16",
+        "Isa 49:1-6",
+        "Jer 1:5",
+        "Acts 9:15"
+      ],
+      "scholars": [
+        "Krister Stendahl",
+        "Paula Fredriksen",
+        "Seyoon Kim",
+        "Douglas Moo"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "perspectives": [
+    {
+      "name": "Lutheran / Reformed traditional",
+      "who": "Martin Luther (*Lectures on Galatians*, 1535), John Calvin; today Douglas Moo, Thomas Schreiner, Stephen Westerholm, Simon Gathercole",
+      "summary": "Galatians teaches that sinners are declared righteous by God through faith alone, on the basis of Christ's death in their place, and not by any human performance, including obedience to God's law. The agitators' 'gospel' added human works to Christ and so destroyed grace. The letter applies to every form of self-reliant religion.",
+      "strengths": "Takes seriously the language of curse, sin and personal rescue (Gal 1:4, Gal 2:20, Gal 3:13); explains the letter's intensity; has nourished centuries of assurance and pastoral comfort.",
+      "critiques": "Can caricature Judaism as legalistic; can underplay the Jew-Gentile, table-fellowship setting and the letter's community ethics. Defenders respond that the boundary-marker issue is real but that Paul's reasoning goes deeper, to the universal human plight."
+    },
+    {
+      "name": "New Perspective on Paul",
+      "who": "E. P. Sanders (foundation), James D. G. Dunn (who coined the label in 1982), N. T. Wright, Scot McKnight",
+      "summary": "Judaism was a religion of grace and covenant. 'Works of the law' refers above all to the badges that marked Jews off from Gentiles. Justification in Galatians is first about God declaring who belongs to his covenant people; the issue is whether Gentiles must become Jews. Wright stresses the single family promised to Abraham.",
+      "strengths": "Fits the Antioch incident and the circumcision issue closely; corrects a long-standing caricature of Judaism; integrates justification with the church's unity.",
+      "critiques": "Traditional scholars say it shrinks 'works of the law' and sidelines individual sin and guilt. Responders note Dunn and Wright both affirm personal justification by faith and see the social dimension as an added, not a replacement, emphasis."
+    },
+    {
+      "name": "Paul within Judaism",
+      "who": "Mark Nanos, Paula Fredriksen, Pamela Eisenbaum, Magnus Zetterholm",
+      "summary": "Paul remained a Torah-observant Jew. His letters are addressed to Gentiles and his warnings against 'works of the law' concern Gentiles taking on circumcision and full Jewish law, not Jews keeping their own covenant. Nanos argues the 'influencers' in Galatia were local Jewish community leaders guiding Gentiles toward proselyte conversion.",
+      "strengths": "Takes Paul's Jewishness and audience seriously; removes the basis for Christian anti-Judaism; explains why Paul can both relativise and honour the law.",
+      "critiques": "Critics (Barclay, Moo, Wright) argue Gal 2:14-21 shows Paul applying the critique to Jews too ('we, Jews by birth... even we have believed'), and that 'died to the law' (Gal 2:19) is hard to fit. Defenders reply that these are about status before God, not about Jews abandoning Torah practice."
+    },
+    {
+      "name": "Apocalyptic Paul",
+      "who": "J. Louis Martyn (Anchor Bible commentary, 1997), Martinus de Boer (2011), Beverly Gaventa, Douglas Campbell",
+      "summary": "Galatians is not about two ways of religion but about God invading a world enslaved by cosmic powers ('the elements of the world', Gal 4:3) to rescue it. Justification is God's liberating act of putting things right. The law belongs to the old age along with sin and the flesh; the decisive contrast is old age versus new creation (Gal 6:15).",
+      "strengths": "Explains the letter's cosmic vocabulary and its sharp 'then and now' contrasts; makes God's action, not human choice, the centre; strong on pistis Christou.",
+      "critiques": "Critics say it underplays salvation-history continuity (Abraham, promise) that Paul argues from, and the human response of faith. Wright especially presses the importance of covenant narrative; apocalyptic readers respond that the promise is fulfilled only by divine invasion."
+    },
+    {
+      "name": "Grace as incongruous gift",
+      "who": "John M. G. Barclay (*Paul and the Gift*, 2015)",
+      "summary": "Barclay maps what ancient people meant by gift and shows that Jewish writers 'perfected' grace in different ways. Paul's distinctive emphasis is incongruity: God's gift in Christ was given without regard to worth, ethnic, social or moral, which is why it dismantles the old ranking systems (circumcision, status) and creates new communities. It is unconditioned, but not unconditional: it expects a transformed life.",
+      "strengths": "Bridges old and new perspectives; respects Judaism; explains both personal grace and social reconfiguration.",
+      "critiques": "Some Reformed scholars want more on forensic justification and imputation; some New Perspective scholars think it still centres on grace more than on covenant identity. Barclay's framework is widely regarded as a major advance."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Works of the law",
+      "original": "erga nomou (ἔργα νόμου)",
+      "usual": "Good deeds done to earn salvation.",
+      "inContext": "Practising the Jewish law, especially the visible marks of Jewish identity (circumcision, food rules, holy days), as the basis for belonging to God's people. Debated whether it means the whole law or especially these markers.",
+      "refs": [
+        "Gal 2:16",
+        "Gal 3:2",
+        "Gal 3:10"
+      ]
+    },
+    {
+      "term": "Justify",
+      "original": "dikaioō (δικαιόω)",
+      "usual": "God declares an individual sinner 'not guilty'.",
+      "inContext": "God declaring someone in the right, as in a law-court; in Galatians this includes being recognised as a true member of God's covenant family, able to share the table. Legal and covenant senses overlap.",
+      "refs": [
+        "Gal 2:16",
+        "Gal 3:8",
+        "Gal 3:24"
+      ]
+    },
+    {
+      "term": "Faith / faithfulness",
+      "original": "pistis (πίστις)",
+      "usual": "Inner belief or mental assent.",
+      "inContext": "Trust, faithfulness, loyalty, allegiance. Can describe our reliance on Christ and possibly Christ's faithfulness to God.",
+      "refs": [
+        "Gal 2:16",
+        "Gal 3:22",
+        "Gal 5:6",
+        "Gal 5:22"
+      ]
+    },
+    {
+      "term": "Grace / gift",
+      "original": "charis (χάρις)",
+      "usual": "God's unmerited favour, the opposite of effort.",
+      "inContext": "A gift that creates a relationship and calls forth gratitude and loyalty. Paul stresses God gave it to people with no qualifying worth.",
+      "refs": [
+        "Gal 1:6",
+        "Gal 1:15",
+        "Gal 2:21"
+      ]
+    },
+    {
+      "term": "Gospel",
+      "original": "euangelion (εὐαγγέλιον)",
+      "usual": "How an individual gets saved.",
+      "inContext": "Royal good news: the announcement that God's promised King has come, died and risen; also used of imperial announcements. Isaiah's herald of good news lies behind it.",
+      "refs": [
+        "Gal 1:6-9",
+        "Gal 1:11",
+        "Isa 52:7"
+      ]
+    },
+    {
+      "term": "Seed / offspring",
+      "original": "sperma (σπέρμα)",
+      "usual": "Descendants in general.",
+      "inContext": "Abraham's promised offspring. Paul reads the singular as pointing to the Messiah, in whom many become one family and heirs.",
+      "refs": [
+        "Gal 3:16",
+        "Gal 3:29",
+        "Gen 22:18"
+      ]
+    },
+    {
+      "term": "Guardian",
+      "original": "paidagōgos (παιδαγωγός)",
+      "usual": "A schoolteacher who leads us to Christ.",
+      "inContext": "A household slave who supervised a boy until adulthood: walking him to school, guarding his behaviour, sometimes disciplining him. His role ended when the boy came of age. Not a teacher.",
+      "refs": [
+        "Gal 3:24-25"
+      ]
+    },
+    {
+      "term": "Adoption as sons",
+      "original": "huiothesia (υἱοθεσία)",
+      "usual": "A warm feeling of being God's child.",
+      "inContext": "A legal act in Roman society that made someone a full heir with the family name and property; Paul blends it with Israel's identity as God's son.",
+      "refs": [
+        "Gal 4:5-7",
+        "Exod 4:22"
+      ]
+    },
+    {
+      "term": "Elements of the world",
+      "original": "ta stoicheia tou kosmou (τὰ στοιχεῖα τοῦ κόσμου)",
+      "usual": "Basic religious principles.",
+      "inContext": "Probably the basic elements and powers that ancient people believed governed the cosmos (earth, air, fire, water, and the heavenly bodies linked to calendars and gods). Paul puts both pagan religion and life under the law, in the old age, under this heading. Meaning debated.",
+      "refs": [
+        "Gal 4:3",
+        "Gal 4:9"
+      ]
+    },
+    {
+      "term": "Flesh",
+      "original": "sarx (σάρξ)",
+      "usual": "The body, or sexual desire.",
+      "inContext": "Human life in the old age, apart from God's Spirit, including religious pride in marks on the body (circumcision) as well as selfish desires.",
+      "refs": [
+        "Gal 3:3",
+        "Gal 5:16-21",
+        "Gal 6:12-13"
+      ]
+    },
+    {
+      "term": "New creation",
+      "original": "kainē ktisis (καινὴ κτίσις)",
+      "usual": "An individual's personal fresh start.",
+      "inContext": "God's renewal of the world that has begun in the Messiah, echoing Isaiah's new heavens and new earth. Individuals share in it, but the phrase is cosmic.",
+      "refs": [
+        "Gal 6:15",
+        "Isa 65:17"
+      ]
+    },
+    {
+      "term": "The Israel of God",
+      "original": "ho Israēl tou theou (ὁ Ἰσραὴλ τοῦ θεοῦ)",
+      "usual": "The church, which has replaced Israel.",
+      "inContext": "Disputed: the whole people of God in Christ (Jew and Gentile), Jewish believers in Jesus, or the Jewish people for whom Paul prays mercy.",
+      "refs": [
+        "Gal 6:16",
+        "Ps 125:5"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "E. P. Sanders",
+      "title": "Paul and Palestinian Judaism",
+      "year": 1977
+    },
+    {
+      "author": "James D. G. Dunn",
+      "title": "The Epistle to the Galatians (Black's New Testament Commentaries)",
+      "year": 1993
+    },
+    {
+      "author": "James D. G. Dunn",
+      "title": "The New Perspective on Paul (Bulletin of the John Rylands Library 65)",
+      "year": 1983
+    },
+    {
+      "author": "N. T. Wright",
+      "title": "Galatians (Commentaries for Christian Formation)",
+      "year": 2021
+    },
+    {
+      "author": "John M. G. Barclay",
+      "title": "Obeying the Truth: Paul's Ethics in Galatians",
+      "year": 1988
+    },
+    {
+      "author": "John M. G. Barclay",
+      "title": "Paul and the Gift",
+      "year": 2015
+    },
+    {
+      "author": "Richard B. Hays",
+      "title": "The Faith of Jesus Christ: The Narrative Substructure of Galatians 3:1-4:11",
+      "year": 1983
+    },
+    {
+      "author": "Mark D. Nanos",
+      "title": "The Irony of Galatians: Paul's Letter in First-Century Context",
+      "year": 2002
+    },
+    {
+      "author": "J. Louis Martyn",
+      "title": "Galatians (Anchor Bible 33A)",
+      "year": 1997
+    },
+    {
+      "author": "Martinus C. de Boer",
+      "title": "Galatians: A Commentary (New Testament Library)",
+      "year": 2011
+    },
+    {
+      "author": "Matthew W. Bates",
+      "title": "Salvation by Allegiance Alone",
+      "year": 2017
+    },
+    {
+      "author": "Scot McKnight",
+      "title": "Galatians (NIV Application Commentary)",
+      "year": 1995
+    },
+    {
+      "author": "Douglas J. Moo",
+      "title": "Galatians (Baker Exegetical Commentary on the New Testament)",
+      "year": 2013
+    },
+    {
+      "author": "Thomas R. Schreiner",
+      "title": "Galatians (Zondervan Exegetical Commentary on the New Testament)",
+      "year": 2010
+    },
+    {
+      "author": "Richard N. Longenecker",
+      "title": "Galatians (Word Biblical Commentary 41)",
+      "year": 1990
+    },
+    {
+      "author": "Justin K. Hardin",
+      "title": "Galatians and the Imperial Cult (WUNT 2.237)",
+      "year": 2008
+    },
+    {
+      "author": "Bruce W. Winter",
+      "title": "Seek the Welfare of the City: Christians as Benefactors and Citizens",
+      "year": 1994
+    },
+    {
+      "author": "Krister Stendahl",
+      "title": "The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review 56)",
+      "year": 1963
+    },
+    {
+      "author": "Paula Fredriksen",
+      "title": "Paul: The Pagans' Apostle",
+      "year": 2017
+    },
+    {
+      "author": "Susan Grove Eastman",
+      "title": "Israel and the Mercy of God: A Re-reading of Galatians 6.16 and Romans 9-11 (New Testament Studies 56)",
+      "year": 2010
+    },
+    {
+      "author": "Simon J. Gathercole",
+      "title": "Where Is Boasting? Early Jewish Soteriology and Paul's Response in Romans 1-5",
+      "year": 2002
+    },
+    {
+      "author": "Stephen Westerholm",
+      "title": "Perspectives Old and New on Paul",
+      "year": 2004
+    },
+    {
+      "author": "Norman H. Young",
+      "title": "Paidagogos: The Social Setting of a Pauline Metaphor (Novum Testamentum 29)",
+      "year": 1987
+    },
+    {
+      "author": "Martin Luther",
+      "title": "Lectures on Galatians",
+      "year": 1535,
+      "publicDomain": true
+    }
+  ]
+}

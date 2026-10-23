@@ -98,9 +98,14 @@ export function SourceLine({ s }: { s: SourceT }) {
     </span>
   );
 }
+/** Renders *italic* spans (used for book titles) inside plain content strings. */
+export function Rich({ text }: { text: string }) {
+  const parts = text.split(/\*([^*\n]+)\*/g);
+  return <>{parts.map((x, i) => (i % 2 ? <i key={i}>{x}</i> : x))}</>;
+}
 export function Paras({ text, className }: { text?: string; className?: string }) {
   if (!text) return null;
-  return <div className={`prose-serif ${className ?? ''}`}>{text.split(/\n\n+/).map((p, i) => <p key={i}>{p}</p>)}</div>;
+  return <div className={`prose-serif ${className ?? ''}`}>{text.split(/\n\n+/).map((p, i) => <p key={i}><Rich text={p} /></p>)}</div>;
 }
 export function PageHeader({ eyebrow, title, children, actions }: { eyebrow?: string; title: ReactNode; children?: ReactNode; actions?: ReactNode }) {
   return (

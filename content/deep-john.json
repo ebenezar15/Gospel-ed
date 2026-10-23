@@ -1,0 +1,1609 @@
+{
+  "id": "john",
+  "title": "John: The Word Who Tabernacled Among Us",
+  "intro": "John's Gospel is the most Jewish and the most argued-over of the four Gospels. It opens with the first words of Genesis, it is built around Israel's festivals (Passover, Sukkot, Hanukkah, the Sabbath), and it presents Jesus as the place where Israel's God now dwells: the Word, the true temple, the living water, the light of the world, the good shepherd. At the same time it contains some of the New Testament's sharpest words against 'the Jews', words that were later used to harm Jewish people. A careful reading has to hold both facts together.\n\nThe book tells us its own purpose: it was written so that readers would keep trusting that Jesus is the Messiah, the Son of God, and that by trusting they would have life in his name (John 20:31). 'Life' here is not only life after death. In John it is 'the life of the age to come' already tasted now, and it is defined relationally: knowing the one true God and Jesus whom he sent (John 17:3).\n\nThis study walks through all 21 chapters. For each one it gives the story, the historical background (who wrote, where, and what conflict lay behind it), the cultural keys (feasts, weddings, wells, shepherds, burial and crucifixion), a Jewish covenant reading, what the first hearers would have felt, what it means today, Old Testament echoes, and common misreadings. It also lays out the main scholarly views on authorship and on the book's relationship to Judaism, so you can weigh them yourself.",
+  "lens": {
+    "summary": "Read John as a Jewish book about Israel's God keeping covenant with his people, written in a time of painful family conflict. Its first audience heard Genesis in its opening line, Moses and the tabernacle in its talk of glory, and the festivals of Jerusalem in its middle chapters. Its big claim is that the God who once spoke creation into being, led Israel through the wilderness and dwelt in the temple has now come in person, in a Jewish man, to make his people (and through them the world) his friends. 'Believing' in John means ongoing trust and loyalty, a relationship, not a single mental assent. And the book's harsh words about 'the Jews' belong to an argument inside the Jewish family, mostly aimed at Judean leaders, not to a verdict on the Jewish people.",
+    "principles": [
+      {
+        "name": "Genesis and the Word",
+        "text": "'In the beginning' deliberately echoes Gen 1:1. God's Word (Hebrew dabar, Aramaic memra) and Wisdom were already ways Jews spoke of God acting in the world. John says that this Word is personal and has become flesh. A Jewish hearer would recognise the categories before being startled by the claim.",
+        "refs": [
+          "John 1:1-3",
+          "Gen 1:1-3",
+          "Prov 8:22-31",
+          "Ps 33:6"
+        ]
+      },
+      {
+        "name": "Temple and tabernacle",
+        "text": "'The Word became flesh and pitched his tent among us' (John 1:14) recalls the tabernacle in the wilderness and the glory cloud that filled it. Throughout John, Jesus' body is the new meeting place of God and people (John 2:21), so the loss of the Jerusalem temple in AD 70 is answered, not ignored.",
+        "refs": [
+          "John 1:14",
+          "Exod 40:34-35",
+          "John 2:19-21",
+          "John 4:21-24"
+        ]
+      },
+      {
+        "name": "The festivals as the stage",
+        "text": "Jesus goes up to Jerusalem for Passover, Sukkot (Tabernacles) and Hanukkah (Dedication), and heals on the Sabbath. At each feast he takes up its central symbols (bread, water, light, the consecrated temple, rest) and says they find their meaning in him. Jesus is not opposed to Israel's calendar; he keeps it, as a faithful Jew, and fills it.",
+        "refs": [
+          "John 2:13",
+          "John 5:1",
+          "John 6:4",
+          "John 7:2",
+          "John 10:22",
+          "John 11:55"
+        ]
+      },
+      {
+        "name": "'I AM' and the one God of Israel",
+        "text": "Jesus' 'I am' sayings echo how God names himself in Exod 3:14 and especially in Isaiah (Isa 43:10, Isa 43:25), where 'I am he' is the language of Israel's one God. John is not leaving Jewish monotheism behind; he is claiming Jesus belongs inside the identity of the one God of the Shema (Deut 6:4).",
+        "refs": [
+          "John 8:58",
+          "Exod 3:14",
+          "Isa 43:10",
+          "John 10:30",
+          "Deut 6:4"
+        ]
+      },
+      {
+        "name": "Life of the age to come, known in relationship",
+        "text": "Zōē aiōnios is usually translated 'eternal life', but in Jewish idiom it is 'the life of the age to come' (Dan 12:2). John's surprise is that this future life starts now, and he defines it as knowing God (John 17:3). In Hebrew thought 'knowing' is covenant intimacy, not just information.",
+        "refs": [
+          "John 17:3",
+          "Dan 12:2",
+          "John 5:24",
+          "Jer 31:34"
+        ]
+      },
+      {
+        "name": "Believing as trusting loyalty",
+        "text": "John never uses the noun 'faith' (pistis); he uses the verb 'believe/trust' (pisteuō) about 98 times. It is something you keep doing. Characters move toward or away from Jesus over time (Nicodemus, the Samaritan woman, the blind man, Thomas). Trust is a journey of relationship, often shown by 'remaining' (menō) with Jesus.",
+        "refs": [
+          "John 20:31",
+          "John 15:4-5",
+          "John 8:31",
+          "John 6:66-69"
+        ]
+      },
+      {
+        "name": "'The Jews' as an intramural word",
+        "text": "Hoi Ioudaioi can mean Judeans (people of Judea, as opposed to Galileans), the Jewish people, or, very often in John, the religious authorities in Jerusalem who oppose Jesus. Jesus, his mother, all the disciples and the narrator's first community were Jews. The harsh language reflects a bitter family quarrel, not a charge against the Jewish people of any age.",
+        "refs": [
+          "John 4:22",
+          "John 7:13",
+          "John 9:22",
+          "John 11:45",
+          "John 12:11"
+        ]
+      },
+      {
+        "name": "Shepherds, friends and family",
+        "text": "John's picture of salvation is relational: God's children born 'from above' (John 1:12-13), sheep who know the shepherd's voice (John 10:14), servants made friends (John 15:15), and a new family formed at the cross (John 19:26-27). This is covenant language from Ezekiel 34 and Jeremiah 31 made personal.",
+        "refs": [
+          "John 1:12-13",
+          "John 10:14-16",
+          "John 15:15",
+          "John 19:26-27",
+          "Ezek 34:11-16"
+        ]
+      }
+    ]
+  },
+  "audienceMap": [
+    {
+      "group": "Jewish followers of Jesus, some pushed out of synagogue life",
+      "share": 40,
+      "concerns": "Grief and anger at losing their place among family and neighbours; wondering whether following Jesus meant losing the festivals, Torah and temple; needing assurance that Jesus is truly Israel's Messiah (John 9:22, John 16:2)."
+    },
+    {
+      "group": "Gentile believers in a city such as Ephesus",
+      "share": 30,
+      "concerns": "Learning the Jewish story they had joined; hearing that they are the 'other sheep' brought into one flock (John 10:16); needing explanations of Hebrew terms, which John supplies (John 1:38, John 1:41)."
+    },
+    {
+      "group": "Secret sympathisers still in the synagogue",
+      "share": 10,
+      "concerns": "Like Nicodemus and Joseph of Arimathea, people who believed but feared open loyalty (John 12:42); the Gospel invites them to step into the light (John 19:38-39)."
+    },
+    {
+      "group": "Followers of John the Baptist",
+      "share": 10,
+      "concerns": "The Gospel repeatedly says the Baptist was not the light but a witness to it (John 1:8, John 3:30); some scholars think Baptist loyalists were part of the audience (compare Acts 19:1-7 at Ephesus)."
+    },
+    {
+      "group": "Believers drawn to a 'spiritual' Christ without real flesh",
+      "share": 10,
+      "concerns": "Early docetic ideas (that Jesus only seemed to be human) may lie behind the stress on flesh, blood, water, tears and touchable wounds (John 1:14, John 19:34, John 20:27); 1 John 4:2 confronts this directly."
+    }
+  ],
+  "argument": [
+    {
+      "id": "prologue",
+      "label": "The Word becomes flesh",
+      "chapters": "1",
+      "text": "The prologue retells Genesis 1: the Word who was with God and was God has come into the world, pitched his tent among Israel and shown the Father's glory, full of covenant love and faithfulness (John 1:14, compare Exod 34:6).",
+      "next": [
+        "witness"
+      ]
+    },
+    {
+      "id": "witness",
+      "label": "Witnesses and first disciples",
+      "chapters": "1",
+      "text": "John the Baptist points to the Lamb of God; disciples follow and receive Jewish titles for Jesus: Rabbi, Messiah, the one Moses wrote about, King of Israel, Son of Man.",
+      "next": [
+        "signs"
+      ]
+    },
+    {
+      "id": "signs",
+      "label": "Book of Signs: seven signs",
+      "chapters": "2-12",
+      "text": "Seven signs reveal who Jesus is: water to wine (2), the official's son (4), the paralysed man (5), feeding the 5,000 (6), walking on water (6), the man born blind (9), the raising of Lazarus (11). Each provokes faith in some and resistance in others.",
+      "next": [
+        "newtemple",
+        "feasts"
+      ]
+    },
+    {
+      "id": "newtemple",
+      "label": "New temple, new birth, true worship",
+      "chapters": "2-4",
+      "text": "Jesus clears the temple and speaks of his body as the temple; he tells Nicodemus of birth from above and the Samaritan woman of worship in Spirit and truth. Old institutions are not mocked but fulfilled.",
+      "next": [
+        "feasts"
+      ]
+    },
+    {
+      "id": "feasts",
+      "label": "Jesus at Israel's feasts",
+      "chapters": "5-10",
+      "text": "Sabbath (5), Passover (6), Sukkot (7-9) and Hanukkah (10): at each festival Jesus claims its symbols — Sabbath work, manna, water, light, the consecrated one — and controversy with the Jerusalem authorities grows.",
+      "next": [
+        "lazarus"
+      ]
+    },
+    {
+      "id": "lazarus",
+      "label": "Lazarus and the decision to kill",
+      "chapters": "11-12",
+      "text": "The greatest sign, Lazarus raised, triggers the council's decision that one man should die for the nation. Jesus is anointed for burial, enters Jerusalem as king, and the hour arrives. The Book of Signs closes with Isaiah's words about unbelief.",
+      "next": [
+        "glory"
+      ]
+    },
+    {
+      "id": "glory",
+      "label": "Book of Glory begins",
+      "chapters": "13",
+      "text": "On the eve of Passover Jesus washes his disciples' feet, gives the new commandment of love, and predicts betrayal and denial. Glory in John is shown by humble self-giving.",
+      "next": [
+        "farewell"
+      ]
+    },
+    {
+      "id": "farewell",
+      "label": "Farewell discourse and prayer",
+      "chapters": "14-17",
+      "text": "Like Jacob or Moses before death, Jesus gives a farewell speech: the Father's house, the Paraclete (Spirit), the vine and branches, coming persecution, and his prayer that the disciples be one and share God's love.",
+      "next": [
+        "passion"
+      ]
+    },
+    {
+      "id": "passion",
+      "label": "Arrest, trial and the lifted-up king",
+      "chapters": "18-19",
+      "text": "Jesus goes to death in control: 'I am' in the garden, a king before Pilate, crucified as the Passover lambs are slaughtered, saying 'It is finished', buried as a king with lavish spices.",
+      "next": [
+        "resurrection"
+      ]
+    },
+    {
+      "id": "resurrection",
+      "label": "Risen Lord, sending Spirit",
+      "chapters": "20",
+      "text": "Mary Magdalene meets the risen Jesus in a garden; he breathes the Spirit on the disciples as God breathed into Adam; Thomas confesses 'My Lord and my God'.",
+      "next": [
+        "purpose"
+      ]
+    },
+    {
+      "id": "purpose",
+      "label": "Purpose: believe and have life",
+      "chapters": "20",
+      "text": "John 20:30-31 states the aim: these signs are written so that you may keep trusting that Jesus is the Messiah, the Son of God, and have life in his name.",
+      "next": [
+        "epilogue"
+      ]
+    },
+    {
+      "id": "epilogue",
+      "label": "Epilogue: Peter restored, witness sealed",
+      "chapters": "21",
+      "text": "By the Sea of Galilee Jesus feeds the disciples, restores Peter with three questions of love and commissions him to shepherd; the Beloved Disciple's testimony is affirmed as true.",
+      "next": []
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Word, the Lamb and the first disciples",
+      "summary": "John opens 'in the beginning' with the Word who was with God and was God, through whom everything was made. The Word is life and light; the world did not recognise him and his own people largely did not receive him, but those who did became God's children. The Word became flesh and 'tabernacled' among us, full of grace and truth. Then the story begins: John the Baptist denies being the Messiah, Elijah or the Prophet, and points to Jesus as 'the Lamb of God'. Andrew, Peter, Philip and Nathanael follow, giving Jesus a cascade of titles: Rabbi, Messiah, the one Moses and the prophets wrote about, Son of God, King of Israel. Jesus promises they will see angels ascending and descending on the Son of Man.",
+      "background": "Who wrote this? The book itself only says its witness is 'the disciple whom Jesus loved' (John 21:20-24). Irenaeus, around AD 180, said this was John son of Zebedee, who published the Gospel at Ephesus in old age. Many modern scholars think the Gospel took shape in stages within a community gathered around this disciple, finished around AD 90. Richard Bauckham argues the Beloved Disciple was a Jerusalem disciple called John the Elder, whom the early writer Papias mentions alongside the apostles.\n\nEphesus was a large Greek city in Asia Minor (modern Turkey) with a substantial Jewish community, and Acts records that disciples of John the Baptist were there (Acts 19:1-7). That may explain why chapter 1 is so careful to say the Baptist was a witness, not the light (John 1:8). The Jerusalem temple had been destroyed by Rome in AD 70, so a Gospel that calls Jesus God's 'tabernacle' would speak to a grieving people.",
+      "culture": "'Word' (logos) worked in two worlds at once. For Greek listeners, Stoic philosophers spoke of the Logos as the reason ordering the universe. For Jewish listeners, God created by speaking (Gen 1:3), his word 'ran swiftly' (Ps 147:15), Wisdom was beside him at creation (Prov 8:30), and the Aramaic Targums (synagogue paraphrases of scripture) often spoke of God's Memra (Word) acting in creation and history. The Jewish philosopher Philo of Alexandria, a contemporary of Jesus, called the Logos God's 'firstborn' and even a 'second God'.\n\nThe Baptist's questioners are priests and Levites sent from Jerusalem (John 1:19) — the temple establishment checking a rival movement. 'Lamb of God' would evoke the Passover lamb, the daily temple lambs and the servant led like a lamb to slaughter (Isa 53:7). 'Come and see' and 'where are you staying?' reflect how disciples attached themselves to a rabbi: by living with him.",
+      "jewishLens": "The prologue is best heard as a Jewish meditation on Genesis 1 and on the Exodus. Light shines in darkness as at creation; the Word 'tabernacles' as God's glory filled the tent in the wilderness (Exod 40:34-35); 'grace and truth' echoes God's self-description to Moses as 'abounding in steadfast love and faithfulness' (Exod 34:6). Moses could not see God's face (Exod 33:20), but the only Son 'who is at the Father's side' has made him known (John 1:18).\n\nDaniel Boyarin, a Jewish scholar of the Talmud, argues that the idea of a divine Word alongside God was not foreign to first-century Jews; what made John distinctive was saying this Word became a particular human being. 'His own' who did not receive him (John 1:11) are first of all Israel, yet the receivers are also Israelites — Andrew, Peter, Nathanael, 'an Israelite in whom there is no deceit'. Jacob's ladder (Gen 28:12) is applied to Jesus: he is the new Bethel, the 'house of God', where heaven and earth meet.",
+      "audience": "Jewish believers who had lost the temple and, perhaps, their synagogue would hear: God's presence has not left you; it has been among you in a person. Gentile hearers would hear that the reason behind the universe has a name and a face. Followers of the Baptist would hear their teacher himself saying 'he must increase'. And everyone would hear an invitation to the same simple step the first disciples took: 'come and see'.",
+      "today": "The prologue resists both a merely human Jesus and a ghostly, unreal one. God is known not first through ideas but through a life lived in flesh. And discipleship begins as it did for Andrew: by spending time with Jesus and then bringing a brother.",
+      "keyRefs": [
+        "John 1:1-5",
+        "John 1:14",
+        "John 1:18",
+        "John 1:29",
+        "John 1:41",
+        "John 1:51"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 1:1-3",
+          "note": "'In the beginning', light and darkness, creation by speech."
+        },
+        {
+          "ref": "Exod 40:34-35",
+          "note": "Glory filling the tent: the Word 'tabernacled' among us."
+        },
+        {
+          "ref": "Exod 34:6",
+          "note": "'Steadfast love and faithfulness' behind 'grace and truth'."
+        },
+        {
+          "ref": "Isa 40:3",
+          "note": "The voice in the wilderness preparing the Lord's way."
+        },
+        {
+          "ref": "Gen 28:12",
+          "note": "Jacob's ladder: angels ascending and descending, now on the Son of Man."
+        }
+      ],
+      "misread": {
+        "popular": "John's Logos is a borrowing from Greek philosophy, so the prologue is a 'Greek' introduction to an un-Jewish Gospel.",
+        "better": "The prologue is rooted in Genesis, Wisdom and Exodus; Greek hearers would catch resonance, but its world is Jewish (Brown, Keener, Boyarin)."
+      }
+    },
+    {
+      "n": 2,
+      "title": "Wine at Cana, fire in the temple",
+      "summary": "At a wedding in Cana of Galilee the wine runs out. Jesus' mother tells him; he says his hour has not yet come, but she tells the servants to do whatever he says. Jesus has six stone water jars, used for Jewish purification, filled to the brim — about 120 to 180 gallons — and the water becomes excellent wine. This is 'the first of his signs', revealing his glory, and his disciples trust him. Then at Passover in Jerusalem Jesus drives out the animal sellers and money changers from the temple courts. Asked for a sign, he says, 'Destroy this temple, and in three days I will raise it up.' John explains he meant the temple of his body, which the disciples understood only after the resurrection.",
+      "background": "John places the temple action at the start of Jesus' ministry, while Matthew, Mark and Luke place it in the last week. Scholars debate whether there were two incidents or whether John moved it to the front for theological reasons, to frame the whole ministry with the replacement of the temple by Jesus' body. Writing after AD 70, John's readers knew the temple had in fact been destroyed. 'Forty-six years' to build this temple (John 2:20) fits Herod's rebuilding begun around 20/19 BC, pointing to about AD 27/28.",
+      "culture": "Jewish weddings in Galilee could last up to a week, and the groom's family hosted. Running out of wine was a serious public shame: hospitality and honour were bound up with providing for guests, and some scholars suggest gifts of wine created reciprocal obligations. Mary's 'they have no wine' is a request made on behalf of the family.\n\nThe six stone jars matter. Stone, unlike pottery, was believed not to contract ritual impurity, and stone vessels have been found widely in first-century Judea and Galilee, including near Cana. They held water for hand-washing and purification. Jesus does not pour the water out; he transforms it. In the temple, money changers exchanged coins into the Tyrian shekel required for the temple tax, and animals were sold for pilgrims who could not bring their own. The trade was legal and useful; Jesus' protest is about it filling the space of prayer and turning 'my Father's house' into a marketplace.",
+      "jewishLens": "Abundant wine was a prophetic picture of the messianic age: 'the mountains shall drip sweet wine' (Amos 9:13), and the Lord would make a feast of 'well-aged wines' for all peoples (Isa 25:6). A wedding was itself an image of God and Israel (Isa 62:4-5). So the first sign announces that the long-promised feast has begun, using Israel's own purification jars as the containers of the new.\n\nIn the temple Jesus acts like a prophet. The disciples recall 'zeal for your house will consume me' (Ps 69:9), and Zechariah had foreseen a day when there would no longer be a trader in the house of the Lord (Zech 14:21). His word about raising the temple in three days makes his body the true meeting place of God and people. This is not contempt for the temple: Jesus calls it 'my Father's house'. It is the claim that what the temple pointed to is now present in him.",
+      "audience": "For Jewish readers after AD 70, the question 'where do we meet God now?' was raw. John answers: in the risen body of Jesus. The wedding scene also reassured them that following Jesus was not a sad loss of Jewish life but joy overflowing from within it — the jars of purification filled with wine.",
+      "today": "Jesus' first sign is an act of kindness that spares a family shame at a party. The God of John is generous and joyful. The temple scene warns religious communities whenever worship becomes business, and points to Jesus himself as the centre of worship.",
+      "keyRefs": [
+        "John 2:1-11",
+        "John 2:13-22",
+        "John 2:19-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Amos 9:13",
+          "note": "Mountains dripping with wine in the restored age."
+        },
+        {
+          "ref": "Isa 25:6",
+          "note": "God's feast of fine wines for all peoples."
+        },
+        {
+          "ref": "Ps 69:9",
+          "note": "'Zeal for your house will consume me.'"
+        },
+        {
+          "ref": "Zech 14:21",
+          "note": "No more traders in the house of the Lord on that day."
+        },
+        {
+          "ref": "Gen 41:55",
+          "note": "'Do whatever he tells you' — Pharaoh's words about Joseph, echoed by Mary."
+        }
+      ],
+      "misread": {
+        "popular": "The temple cleansing shows Jesus rejecting Jewish religion and its sacrifices as dead ritual.",
+        "better": "Jesus defends 'my Father's house' like the prophets did; his body becomes the temple's fulfilment, not a condemnation of Israel's worship (Coloe, Keener)."
+      }
+    },
+    {
+      "n": 3,
+      "title": "Nicodemus: birth from above and the lifted-up Son",
+      "summary": "Nicodemus, a Pharisee and member of the ruling council, comes to Jesus at night and calls him a teacher from God. Jesus tells him no one can see God's kingdom without being born anōthen — 'again' or 'from above'. Nicodemus takes it literally; Jesus speaks of being born of water and Spirit, and of the Spirit as wind blowing where it wills. Jesus says the Son of Man must be lifted up as Moses lifted up the serpent in the wilderness, so that whoever trusts may have eternal life — 'for God so loved the world'. Light has come, and people reveal themselves by coming to it or avoiding it. The chapter ends with John the Baptist rejoicing as 'the friend of the bridegroom': 'He must increase, but I must decrease.'",
+      "background": "Nicodemus is one of John's most carefully drawn characters. He appears three times: coming by night (John 3:2), cautiously defending Jesus in the council (John 7:50-51), and finally bringing about 75 pounds of spices for Jesus' burial (John 19:39). Many scholars think he represented a group in John's own day: synagogue members who were sympathetic to Jesus but afraid to say so openly (John 12:42). The dialogue slides from Jesus' voice into the narrator's reflection, and translations disagree where the quotation marks end (after 3:15 or 3:21).",
+      "culture": "Visiting a teacher at night was not necessarily cowardly; rabbis were known to study Torah at night. But in John, night and darkness carry symbolic weight (John 13:30). 'The teacher of Israel' marks Nicodemus as a recognised scholar. The 'friend of the bridegroom' (John 3:29) was the groom's best man, who arranged the wedding and rejoiced at the groom's joy, not seeking the bride for himself.",
+      "jewishLens": "Jesus expects 'the teacher of Israel' to understand (John 3:10), which points us to Israel's scriptures. Ezekiel promised that God would sprinkle clean water on his people and put a new spirit within them (Ezek 36:25-27), and in the valley of dry bones the 'wind/breath/spirit' (ruach) would bring dead Israel to life (Ezek 37:9-14). 'Born of water and Spirit' is that promised renewal.\n\nThen Jesus turns to Numbers 21. When the people were dying from snake bites, God told Moses to set a bronze serpent on a pole; whoever looked at it lived. Jewish tradition (for example the Wisdom of Solomon 16:6-7 and the Mishnah, Rosh Hashanah 3:8) stressed that it was not the bronze that healed but turning the heart to God. 'Lifted up' (hypsoō) in John means both crucified and exalted (John 12:32-33). John 3:16 explains the logic: God loved the world 'in this way' — by giving his Son to be lifted up so the dying could look and live.",
+      "audience": "Secret believers would recognise themselves in Nicodemus and be gently urged toward the light. All hearers would be reminded that new life is God's gift, as surprising as the wind, and that it arrives through the cross, just as healing came to Israel in the wilderness through what God provided.",
+      "today": "The famous verse lives inside a story of a cautious, honest seeker who takes years to step into the open. God's love is costly and wide, embracing 'the world', and new birth is something God does, not a technique we perform.",
+      "keyRefs": [
+        "John 3:1-8",
+        "John 3:14-16",
+        "John 3:19-21",
+        "John 3:29-30"
+      ],
+      "echoes": [
+        {
+          "ref": "Num 21:8-9",
+          "note": "The bronze serpent: look and live."
+        },
+        {
+          "ref": "Ezek 36:25-27",
+          "note": "Clean water and a new spirit for Israel."
+        },
+        {
+          "ref": "Ezek 37:9-10",
+          "note": "Wind/Spirit giving life to dry bones."
+        },
+        {
+          "ref": "Isa 52:13",
+          "note": "The servant 'lifted up' and exalted."
+        },
+        {
+          "ref": "Gen 22:2",
+          "note": "'Your only son, whom you love' — the giving of a beloved son."
+        }
+      ],
+      "misread": {
+        "popular": "John 3:16 stands alone as a summary: believe and you go to heaven when you die; 'born again' means praying a decision prayer.",
+        "better": "3:16 completes 3:14-15 (the lifted-up serpent); 'eternal life' is the life of the age to come, starting now; new birth 'from above' is the Spirit's renewal promised in Ezekiel (Keener, Thompson, Carson)."
+      }
+    },
+    {
+      "n": 4,
+      "title": "Living water at Jacob's well",
+      "summary": "Travelling through Samaria, a tired Jesus sits by Jacob's well at noon and asks a Samaritan woman for a drink — breaking norms of gender, ethnicity and purity. He offers 'living water' that becomes a spring welling up to eternal life. He shows he knows her history of five husbands, and she raises the old dispute: should God be worshipped on this mountain (Gerizim) or in Jerusalem? Jesus says salvation is from the Jews, yet the hour is coming when true worshippers will worship the Father in Spirit and truth. She says the Messiah is coming; Jesus answers, 'I am he, the one speaking to you.' She leaves her water jar and brings her town, and many Samaritans believe, calling him 'Saviour of the world'. Back in Cana, Jesus heals a royal official's son with a word: the second sign.",
+      "background": "Jews and Samaritans shared descent from Israel and the five books of Moses, but had been divided for centuries. Samaritans worshipped on Mount Gerizim; the Jewish ruler John Hyrcanus destroyed their temple there in the late second century BC (Josephus places it around 128 BC; excavations suggest about 111-110 BC), and bitterness ran deep. The narrator explains 'Jews do not share things in common with Samaritans' (John 4:9), suggesting some readers needed this explained. Acts 8 shows Samaritans responding to the gospel early, and some scholars think Samaritan believers were part of John's community.",
+      "culture": "Wells were meeting places, and in Israel's stories they are where future marriages begin: Abraham's servant meets Rebekah (Gen 24), Jacob meets Rachel (Gen 29), Moses meets Zipporah (Exod 2:15-21). A first audience would sense a 'betrothal scene' — but here it becomes a bond between Jesus and a whole people. 'Living water' meant running water from a spring, as opposed to still cistern water; it was the purest kind for purification.\n\nWhy noon? Some say she was avoiding other women out of shame; others note noon is simply when a traveller would rest, and that the text never calls her immoral. Five husbands may reflect widowhood, divorce by men (women could rarely initiate divorce) or levirate marriage; the current man may be a relative supporting her. Jesus' word reveals knowledge, not condemnation, and she becomes the first evangelist to a town.",
+      "jewishLens": "Jesus speaks as a Jew — 'we worship what we know, for salvation is from the Jews' (John 4:22) — while opening the door to Samaritans as part of a restored Israel. The prophets hoped for the reunion of the northern tribes with Judah (Ezek 37:15-22). God himself is 'the fountain of living waters' (Jer 2:13), and the end-time temple would send out life-giving water (Ezek 47:1-12). Jesus offers that water personally.\n\nThe Samaritans expected the Taheb, a prophet like Moses (Deut 18:15-18), rather than a Davidic king. Jesus' 'I am he' (egō eimi) is the first of John's 'I am' sayings. Worship 'in Spirit and truth' does not reject place out of contempt; it means the Father seeks worshippers wherever they are, because the true temple is now Jesus himself.",
+      "audience": "A mixed community of Jews, Samaritans and Gentiles in John's day would hear its own story: the enmity of centuries dissolved around one well. A royal official (probably serving Herod Antipas) trusting Jesus' word without seeing anticipates the Gentile believers 'who have not seen and yet believe' (John 20:29).",
+      "today": "Jesus crosses lines of shame, gender and old religious hatred, treats a marginal woman as a theological conversation partner, and makes her a witness. True worship is not owned by any one place or group.",
+      "keyRefs": [
+        "John 4:7-15",
+        "John 4:21-24",
+        "John 4:25-26",
+        "John 4:39-42",
+        "John 4:46-54"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 29:1-12",
+          "note": "Jacob meets Rachel at a well."
+        },
+        {
+          "ref": "Gen 33:18-20",
+          "note": "Jacob's land at Shechem, near Sychar."
+        },
+        {
+          "ref": "Jer 2:13",
+          "note": "God the fountain of living waters."
+        },
+        {
+          "ref": "Deut 18:15-18",
+          "note": "The prophet like Moses, basis of the Samaritan hope."
+        },
+        {
+          "ref": "2 Kgs 17:24-41",
+          "note": "Origins of the Samaritan population and its mixed worship."
+        }
+      ],
+      "misread": {
+        "popular": "The Samaritan woman was a notorious sinner whose sexual immorality Jesus exposed.",
+        "better": "The text never calls her sinful; her marriages may reflect widowhood or divorce. She is a seeker and the first to bring a town to Jesus (Levine, Keener, Lynn Cohick)."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Healing on the Sabbath and the Son who works like the Father",
+      "summary": "At 'a feast of the Jews' Jesus visits the pool of Bethesda in Jerusalem with its five porches, where many sick people lie. He asks a man paralysed for 38 years, 'Do you want to be well?', and tells him to pick up his mat and walk. It is the Sabbath, so the authorities object to the man carrying his mat. When they learn Jesus healed him, they challenge Jesus, who answers: 'My Father is working until now, and I am working.' They seek to kill him because he calls God his own Father, 'making himself equal with God'. Jesus explains that the Son does only what he sees the Father doing, has authority to give life and to judge, and that witnesses testify for him: John the Baptist, his works, the Father, the scriptures and Moses.",
+      "background": "For a long time some scholars doubted the pool of Bethesda with five porticoes existed, and treated the detail as symbolic (five books of Moses). Excavations near the Church of St Anne in Jerusalem uncovered a large double pool with a dividing wall, giving four sides plus a middle colonnade: five porches. This is often cited as evidence of the Gospel writer's accurate local knowledge, and the Copper Scroll from Qumran may mention a site called Beth Eshdatayin ('house of the twin pools'). John 5:3b-4 (an angel stirring the water) is absent from the earliest manuscripts and is usually printed in footnotes.",
+      "culture": "Sabbath was Israel's weekly gift of rest and a sign of the covenant (Exod 31:13-17). Carrying loads from one domain to another was among the activities rabbis classed as work (Jer 17:21-22 already forbids carrying burdens through Jerusalem's gates on the Sabbath), so the objection was a reasonable application of Torah, not pettiness. Jewish teachers also discussed whether God himself rests on the Sabbath; since people are born and die every Sabbath, they agreed God continues to give life and to judge — the very two works Jesus claims (John 5:21-22).",
+      "jewishLens": "Jesus does not attack the Sabbath; he enters a Jewish debate about God's own Sabbath work and places himself on God's side of it. In Jewish law an agent (shaliach) acts with the authority of the one who sends him; Jesus speaks as the Son-agent who does exactly what the Father does. Yet 'honour the Son as they honour the Father' (John 5:23) goes beyond an ordinary agent. The 'Son of Man' who receives authority to judge echoes Dan 7:13-14, and the hour when the dead hear his voice echoes Dan 12:2.\n\nThe appeal to witnesses follows Deut 19:15: truth is established by two or three witnesses. Moses himself, the great intercessor, will be a witness for Jesus because 'he wrote of me' (John 5:46).",
+      "audience": "A community accused of breaking with Moses would hear Jesus claim that Moses and the scriptures were on his side. They would also hear that the conflict over the Sabbath was a debate about who Jesus is, not about whether God's law is good.",
+      "today": "'Do you want to be well?' is a disarmingly personal question. Jesus' Sabbath healings show God's rest as restoration. The chapter also warns that it is possible to search the scriptures diligently yet miss the person they point to (John 5:39-40).",
+      "keyRefs": [
+        "John 5:2-9",
+        "John 5:16-18",
+        "John 5:19-24",
+        "John 5:39-46"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 2:2-3",
+          "note": "God's Sabbath rest after creation."
+        },
+        {
+          "ref": "Jer 17:21-22",
+          "note": "Not carrying burdens on the Sabbath."
+        },
+        {
+          "ref": "Dan 7:13-14",
+          "note": "The Son of Man given authority."
+        },
+        {
+          "ref": "Dan 12:2",
+          "note": "The dead rising to life or judgement."
+        },
+        {
+          "ref": "Deut 19:15",
+          "note": "Two or three witnesses establish a matter."
+        }
+      ],
+      "misread": {
+        "popular": "Jesus broke the Sabbath to show that God's law was legalistic and obsolete.",
+        "better": "Jesus engages a Jewish debate about God's life-giving work on the Sabbath and claims to share it; the issue is his identity, not the law's worth (Keener, Levine, Thompson)."
+      }
+    },
+    {
+      "n": 6,
+      "title": "Bread of life at Passover",
+      "summary": "Near Passover, by the Sea of Galilee, Jesus feeds five thousand people with five barley loaves and two fish, and twelve baskets of leftovers are gathered. The crowd says he is 'the Prophet who is to come' and wants to make him king by force, so he withdraws. That night the disciples see him walking on the sea; he says 'I am; do not be afraid.' In the synagogue at Capernaum Jesus says he is the bread of life, the true bread from heaven, greater than the manna; whoever eats his flesh and drinks his blood has eternal life. Many disciples find this 'a hard saying' and leave. Jesus asks the Twelve if they will go too; Peter answers, 'Lord, to whom shall we go? You have the words of eternal life.'",
+      "background": "This is the second Passover in John (John 2:13, John 6:4, John 11:55), which is why many say Jesus' ministry lasted about three years. The feeding is the only miracle besides the resurrection found in all four Gospels. The language of eating flesh and drinking blood is widely seen as connected to the Lord's Supper, which John does not narrate at the Last Supper; how directly John means the Eucharist is debated (Catholic and Orthodox readers see a clear reference; many Protestants read it as a vivid image for trusting Jesus' death, see John 6:35 and John 6:47).",
+      "culture": "Barley loaves were the bread of the poor. The crowd's response follows Passover logic: Passover remembered the exodus, and many Jews hoped the Messiah would come at Passover and that the manna would fall again in the messianic age (2 Baruch 29:8 speaks of manna descending again). A 'prophet like Moses' who fed people in the wilderness was exactly what such hopes looked for. Eating someone's 'flesh' and drinking 'blood' would shock: Torah forbade consuming blood (Lev 17:10-14). Jesus' language is deliberately jarring.",
+      "jewishLens": "The chapter is a Passover midrash. The crowd quotes 'He gave them bread from heaven to eat' (Ps 78:24, compare Exod 16:4), and Jesus interprets it like a synagogue teacher: it was not Moses but my Father who gives the true bread from heaven. In Jewish tradition Torah and Wisdom were spoken of as bread: Wisdom invites, 'Come, eat of my bread' (Prov 9:5), and Isaiah calls the thirsty and hungry to come and eat without cost (Isa 55:1-3). Jesus presents himself as God's living Torah-Wisdom-bread.\n\nWalking on the sea with 'I am; do not be afraid' echoes God who 'trampled the waves of the sea' (Job 9:8) and led Israel through the sea at the exodus (Ps 77:19). The grumbling (gongyzō) of the crowd (John 6:41) echoes Israel's murmuring in the wilderness (Exod 16:2). Peter's confession, 'the Holy One of God', is a Jewish title for one set apart by God.",
+      "audience": "The scene of disciples leaving would resonate with a community that had seen others turn back. Peter's 'to whom shall we go?' spoke for those who stayed despite the cost. Readers who celebrated the Lord's Supper would hear their meal echoed.",
+      "today": "Jesus offers himself, not just his gifts. Some follow for loaves; real discipleship is staying when the teaching is hard, because there is nowhere else to find life.",
+      "keyRefs": [
+        "John 6:1-14",
+        "John 6:16-21",
+        "John 6:32-35",
+        "John 6:53-58",
+        "John 6:66-69"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 16:4",
+          "note": "God rains bread from heaven in the wilderness."
+        },
+        {
+          "ref": "Ps 78:24",
+          "note": "'He gave them bread from heaven.'"
+        },
+        {
+          "ref": "2 Kgs 4:42-44",
+          "note": "Elisha feeds a hundred with barley loaves, with some left over."
+        },
+        {
+          "ref": "Isa 55:1-3",
+          "note": "Come, eat and drink without cost; hear and live."
+        },
+        {
+          "ref": "Job 9:8",
+          "note": "God alone treads on the waves of the sea."
+        }
+      ],
+      "misread": {
+        "popular": "Readers either flatten John 6 into a doctrine of the Mass, or dismiss any sacramental meaning as pure metaphor.",
+        "better": "The chapter is first a Passover-manna midrash about trusting Jesus as God's bread; whether and how it points to the Eucharist is a genuine debate between traditions (Brown, Carson, Keener)."
+      }
+    },
+    {
+      "n": 7,
+      "title": "Sukkot: rivers of living water",
+      "summary": "At the feast of Tabernacles (Sukkot) Jesus' brothers, who do not believe in him, urge him to show himself in Judea. He goes up quietly, then teaches openly in the temple halfway through the feast. People argue: is he a good man or a deceiver? Has he studied? Is he the Messiah? Can the Messiah come from Galilee? On the last great day of the feast Jesus stands and cries out, 'If anyone thirsts, let him come to me and drink. Whoever believes in me, as the scripture said, out of his heart will flow rivers of living water' — which John explains as the Spirit. The temple guards fail to arrest him ('No one ever spoke like this man'), and Nicodemus urges a fair hearing.",
+      "background": "Chapters 7 to 10:21 are set at Sukkot, the autumn feast. The debate over Jesus' origin (Galilee, Bethlehem, unknown) reflects real Jewish discussions about how the Messiah would appear (John 7:27, John 7:42). Fear 'of the Jews' among people who are themselves Jews (John 7:13) shows that 'the Jews' here means the Jerusalem authorities. The fact that even Jesus' brothers did not believe (John 7:5) is a striking admission that early Christians would hardly invent; James later became a leader in Jerusalem (Gal 1:19).",
+      "culture": "Sukkot was the most joyful pilgrimage feast. Families lived in booths for seven days, remembering the wilderness (Lev 23:42-43), and gave thanks for the harvest. According to the Mishnah (Sukkah 4-5), each morning a priest drew water from the pool of Siloam in a golden pitcher and processed to the temple, where it was poured on the altar with wine while the Hallel Psalms (Ps 113-118) were sung. It was also a prayer for the coming winter rains. The rabbis said whoever had not seen the rejoicing of the water-drawing had never seen joy. On the seventh day, the priests circled the altar seven times. Into that scene Jesus cries, 'Come to me and drink.'",
+      "jewishLens": "The water ritual looked back to water from the rock in the wilderness (Exod 17:6, Ps 78:15-16) and forward to the end-time river flowing from the temple (Ezek 47:1-12) and the living waters going out from Jerusalem on the day when all nations would keep Sukkot (Zech 14:8, Zech 14:16). Isaiah tied it together: 'With joy you will draw water from the wells of salvation' (Isa 12:3), and God promised to pour water on the thirsty and his Spirit on Israel's offspring (Isa 44:3).\n\nJesus claims that the hope of the feast is fulfilled in him: from him (or from the believer, the Greek can be read either way) flow rivers of the Spirit. He is standing at the heart of Israel's worship, using its own words, at its own feast. The debate about him is a Jewish debate among Jews about the Messiah.",
+      "audience": "Readers far from Jerusalem, possibly cut off from festival life, would hear that the joy and the Spirit promised at Sukkot had not been taken from them: they flowed from Jesus. The divided crowd also mirrored their own experience of families split over Jesus.",
+      "today": "The Spirit is not an abstract doctrine but the satisfaction of a deep thirst. The chapter also shows honest uncertainty about Jesus, and Nicodemus models a quiet courage: insisting on fairness when a group rushes to judgement.",
+      "keyRefs": [
+        "John 7:2-5",
+        "John 7:14-18",
+        "John 7:37-39",
+        "John 7:45-52"
+      ],
+      "echoes": [
+        {
+          "ref": "Lev 23:33-43",
+          "note": "The feast of booths and its rejoicing."
+        },
+        {
+          "ref": "Zech 14:8",
+          "note": "Living waters flowing from Jerusalem."
+        },
+        {
+          "ref": "Ezek 47:1-12",
+          "note": "The river from the temple bringing life."
+        },
+        {
+          "ref": "Isa 12:3",
+          "note": "Drawing water from the wells of salvation."
+        },
+        {
+          "ref": "Isa 44:3",
+          "note": "Water on thirsty ground and the Spirit poured out."
+        }
+      ]
+    },
+    {
+      "n": 8,
+      "title": "The light of the world and 'before Abraham was, I am'",
+      "summary": "Most modern Bibles first print the story of the woman caught in adultery (John 7:53-8:11) in brackets: Jesus writes on the ground, says 'Let the one without sin cast the first stone', and sends her away uncondemned, 'go and sin no more'. Then, still at Sukkot, Jesus says, 'I am the light of the world; whoever follows me will not walk in darkness.' A long, increasingly heated debate follows about his testimony, his Father and his origin. To Jews who had believed in him, he says the truth will set them free; they protest that as Abraham's children they have never been slaves. The argument escalates to Jesus' charge that their desire to kill him shows the devil's parentage, not Abraham's. It climaxes in 'Before Abraham was, I am', and they pick up stones.",
+      "background": "The adultery story is missing from the earliest Greek manuscripts (such as P66, P75, Sinaiticus and Vaticanus), and in some later manuscripts it appears in other places, even in Luke. Most scholars, conservative and critical, think it was not part of John's original text, though many believe it preserves a genuine early tradition about Jesus. The rest of the chapter is the sharpest conflict in the Gospel, and its polemic has been abused more than almost any other text. Scholars widely believe its harshness reflects the bitter later conflict between John's community and synagogue leaders as well as the original setting.",
+      "culture": "During Sukkot, according to the Mishnah (Sukkah 5:2-4), four huge golden lamp-stands were lit in the Court of the Women in the temple. It was said that no courtyard in Jerusalem was not lit by their light, and devout men danced with torches through the night while Levites played music on the fifteen steps. Jesus speaks 'in the treasury' (John 8:20), which was in that same court. To say 'I am the light of the world' there was like pointing to the blazing lamps and saying, 'This is about me.'\n\nArguments about descent ('we are Abraham's children') were arguments about honour and identity. In ancient thought you resembled your father: actions revealed parentage.",
+      "jewishLens": "The light recalls the pillar of fire that guided Israel in the wilderness (Exod 13:21), the very event Sukkot remembers, and Isaiah's servant as 'a light to the nations' (Isa 49:6). 'Before Abraham was, I am' echoes God's own name (Exod 3:14) and especially the 'I am he' of Isaiah (Isa 43:10-13), spoken by the one God who existed before all. The hearers understand it as a claim to divine identity, which is why they reach for stones as for blasphemy (Lev 24:16).\n\nThe 'children of the devil' language is family polemic. The Dead Sea Scrolls divide even Israel into 'sons of light' and 'sons of darkness'; the prophets called Israel's leaders 'rulers of Sodom' (Isa 1:10). Jesus is speaking to particular people seeking his death (John 8:40), using the logic that you show your father by your deeds, the same test 1 John 3:8-10 applies to Christians. It is not a statement about the Jewish people.",
+      "audience": "John's community, in conflict with synagogue leaders, would hear their own arguments about Abraham, Moses and freedom. They would hear that Jesus is the light the Sukkot lamps celebrated. Later readers who were no longer a vulnerable minority would misuse the same words with terrible results.",
+      "today": "This chapter must be read with great care. It is a picture of Jesus revealing God's light and of truth that frees people from the slavery of sin, not a licence for contempt. The adultery story, whatever its textual history, shows Jesus protecting a vulnerable woman from a crowd and still calling her to a new life.",
+      "keyRefs": [
+        "John 8:3-11",
+        "John 8:12",
+        "John 8:31-36",
+        "John 8:44",
+        "John 8:56-59"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 13:21-22",
+          "note": "The pillar of fire lighting Israel's way."
+        },
+        {
+          "ref": "Isa 49:6",
+          "note": "A light to the nations."
+        },
+        {
+          "ref": "Exod 3:14",
+          "note": "God's name, 'I am who I am'."
+        },
+        {
+          "ref": "Isa 43:10-13",
+          "note": "'Before me no god was formed... I am he.'"
+        },
+        {
+          "ref": "Gen 22:1-14",
+          "note": "Abraham 'saw' the day of God's provision on Moriah, a Jewish background for John 8:56."
+        }
+      ],
+      "misread": {
+        "popular": "John 8:44 shows that Jews are children of the devil — a reading used in medieval and modern antisemitism.",
+        "better": "Jesus addresses particular opponents seeking to kill him, using Jewish family polemic; the same test applies to anyone (1 John 3:8-10). It cannot rightly be applied to the Jewish people (Brown, Keener, Levine; Reinhartz warns of its real anti-Jewish effect)."
+      }
+    },
+    {
+      "n": 9,
+      "title": "The man born blind and the fear of being put out",
+      "summary": "Jesus' disciples ask whether a man born blind was punished for his own sin or his parents'. Jesus says neither: it is so God's works may be revealed. He spits on the ground, makes mud, anoints the man's eyes and sends him to wash in the pool of Siloam ('Sent'). He comes back seeing. It is the Sabbath. The neighbours, the Pharisees and the man's parents are questioned; the parents answer cautiously because 'the Jews had already agreed that anyone who confessed Jesus to be Messiah would be put out of the synagogue' (John 9:22). The man grows bolder in each interview, from 'the man called Jesus' to 'a prophet' to worshipping Jesus as the Son of Man. He is thrown out. Jesus finds him and says he came so the blind might see and those who claim to see become blind.",
+      "background": "John 9:22 is the first of three aposynagōgos ('put out of the synagogue') passages (also John 12:42 and John 16:2). In 1968 J. Louis Martyn proposed that John 9 should be read on two levels: the story of Jesus and the experience of John's community decades later, expelled from the synagogue. Martyn linked this to the Birkat ha-Minim, the 'blessing' (in fact a curse) against heretics in the Jewish daily prayer, said to have been revised at Yavneh around AD 85.\n\nThis theory has been widely debated. Reuven Kimelman (1981) and others showed there is no clear evidence that the first-century form targeted Christians, or that it was used empire-wide to expel them; the text mentioning Nazarenes (notzrim) comes from later manuscripts. Joel Marcus (2009) defends a modified version. Adele Reinhartz questions the expulsion theory itself. Most scholars today accept that some Jesus-followers experienced exclusion from local synagogues, but not a single, official decree.\n\nThe pool of Siloam from the Second Temple period was rediscovered in Jerusalem in 2004, a large stepped pool consistent with ritual washing.",
+      "culture": "Many people assumed disability was punishment for sin, a view the book of Job had already challenged. Spittle was regarded in the ancient world as having healing power, and making mud could count as kneading, one of the activities forbidden on the Sabbath in later rabbinic lists. Synagogue membership meant much more than a weekly service: it was family, community, trade, burial and social belonging. Being 'put out' meant social death. The parents' fear is entirely understandable.",
+      "jewishLens": "Opening the eyes of the blind was a sign of God's new age (Isa 35:5, Isa 42:7). Jesus as 'the light of the world' (John 9:5) continues the Sukkot theme, and Siloam was the pool from which the Sukkot water was drawn. Making clay and anointing may echo God forming Adam from the ground (Gen 2:7): a new creation for a man born blind.\n\nThe debate among the Pharisees is a genuine Jewish argument: some say 'This man is not from God, for he does not keep the Sabbath', but others ask, 'How can a sinner do such signs?' (John 9:16). The man reasons like a Torah student: 'God does not listen to sinners... if this man were not from God, he could do nothing' (John 9:31-33). The issue is the true reading of Moses.",
+      "audience": "For a community that had paid the price of exclusion, the blind man would be a hero: someone whose witness grew under pressure, who lost his place in the synagogue but was found by Jesus. Fearful sympathisers would see themselves in the parents and be challenged.",
+      "today": "Disability is not punishment. Faith often grows step by step through questions. The chapter also warns any community — including churches — against excluding people whose experience does not fit its expectations, and asks who is really blind.",
+      "keyRefs": [
+        "John 9:1-7",
+        "John 9:16",
+        "John 9:22",
+        "John 9:30-38",
+        "John 9:39-41"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 35:5",
+          "note": "The eyes of the blind opened in the coming age."
+        },
+        {
+          "ref": "Isa 42:6-7",
+          "note": "The servant opens blind eyes."
+        },
+        {
+          "ref": "Gen 2:7",
+          "note": "God forms humanity from the dust of the ground."
+        },
+        {
+          "ref": "Exod 4:11",
+          "note": "'Who makes a person mute or deaf, seeing or blind? Is it not I, the Lord?'"
+        },
+        {
+          "ref": "Isa 8:6",
+          "note": "The gently flowing waters of Shiloah (Siloam)."
+        }
+      ],
+      "misread": {
+        "popular": "The Pharisees are hard-hearted legalists who simply hated Jesus.",
+        "better": "The Pharisees are divided (John 9:16) and argue from Torah; the story is about how people respond to new evidence. The 'put out of the synagogue' detail likely reflects later local conflict, though the Birkat ha-Minim link is debated (Martyn, Kimelman, Marcus, Reinhartz)."
+      }
+    },
+    {
+      "n": 10,
+      "title": "The good shepherd and the feast of Dedication",
+      "summary": "Jesus contrasts thieves and hired hands with the good shepherd who knows his sheep by name, leads them out, and lays down his life for them. 'I am the gate'; 'I am the good shepherd.' He has other sheep 'not of this fold' who will become one flock with one shepherd. Some say he is possessed; others ask whether a demon can open blind eyes. In winter, at the feast of Dedication (Hanukkah), Jesus walks in Solomon's Porch. Asked plainly if he is the Messiah, he says his works testify, his sheep hear his voice, no one will snatch them from his hand, and 'I and the Father are one'. When they move to stone him, he cites Psalm 82, 'I said, you are gods', and calls himself the one the Father consecrated and sent. He withdraws across the Jordan, where many believe.",
+      "background": "The shepherd discourse follows directly from chapter 9: the authorities who threw out the healed man are contrasted with the shepherd who finds him. Hanukkah celebrated the rededication of the temple in 164 BC by Judas Maccabeus after the Seleucid king Antiochus IV had defiled it (recorded in 1 Maccabees 4, a book outside the Protestant canon). It is the only mention of Hanukkah in the Bible.",
+      "culture": "Shepherds in Judea often kept several flocks together overnight in a stone fold, with one gate. In the morning each shepherd called his own sheep, which recognised his voice. Some shepherds slept across the opening as a living gate. Hired hands were paid workers without the owner's stake in the flock. Hanukkah, in winter, featured lights and the reading of the story of the Maccabees, who resisted foreign tyranny and false shepherds. Solomon's Porch, a covered colonnade on the east side of the temple, was a natural place to walk in winter.",
+      "jewishLens": "Ezekiel 34 is the key text: God condemns Israel's shepherds (its rulers) who fed themselves and not the flock, and promises, 'I myself will shepherd my sheep... I will set over them one shepherd, my servant David' (Ezek 34:11-24). Jesus claims both roles: God's own shepherding and the Davidic shepherd. Psalm 23 and Jeremiah 23:1-6 lie in the background.\n\nAt Hanukkah, the feast of the consecrated temple, Jesus says he is the one 'the Father consecrated' (hagiazō, John 10:36) — he is the dedicated temple. 'I and the Father are one' echoes the Shema, 'the Lord is one' (Deut 6:4): the sheep in his hand are in the Father's hand. His use of Psalm 82 is a rabbinic 'how much more' argument: if scripture can call those who received God's word 'gods', how much more the one God sent.",
+      "audience": "A community that felt cast out would hear that the true shepherd knows them by name and that no one can snatch them away. Gentile believers would hear themselves as the 'other sheep', brought into the one flock of Israel's God, not a separate flock.",
+      "today": "The picture is deeply relational: being known by name and knowing a voice. Leaders are judged by whether they lay down their lives for the flock or use it. Security rests in God's hold, not in our grip.",
+      "keyRefs": [
+        "John 10:1-5",
+        "John 10:11-16",
+        "John 10:22-30",
+        "John 10:34-36"
+      ],
+      "echoes": [
+        {
+          "ref": "Ezek 34:11-16",
+          "note": "God himself shepherds and seeks the lost."
+        },
+        {
+          "ref": "Ezek 34:23-24",
+          "note": "One shepherd, God's servant David."
+        },
+        {
+          "ref": "Ps 23:1-4",
+          "note": "The Lord is my shepherd."
+        },
+        {
+          "ref": "Ps 82:6",
+          "note": "'I said, you are gods' — quoted by Jesus."
+        },
+        {
+          "ref": "Deut 6:4",
+          "note": "The Shema: the Lord is one."
+        }
+      ],
+      "misread": {
+        "popular": "The 'other sheep' are Gentiles who form a new, separate people that replaces Israel.",
+        "better": "They are Gentiles (and perhaps scattered Israelites) gathered into one flock under Israel's shepherd, fulfilling Ezekiel's promise; the image is of enlargement, not replacement (Keener, Bauckham)."
+      }
+    },
+    {
+      "n": 11,
+      "title": "Lazarus raised and the plan to kill Jesus",
+      "summary": "Lazarus of Bethany, brother of Martha and Mary, is ill. Jesus, who loves them, deliberately waits two days, and Lazarus dies. When Jesus arrives, Lazarus has been in the tomb four days. Martha meets him with faith and grief; Jesus says, 'I am the resurrection and the life', and she confesses him as Messiah and Son of God. Mary weeps at his feet, and Jesus, deeply moved and angry at death, weeps too. At the tomb he prays and calls, 'Lazarus, come out!' The dead man comes out bound in grave clothes. Many believe. The chief priests and Pharisees fear the Romans will destroy 'our place and our nation'. Caiaphas says it is better that one man die for the people, which John calls an unwitting prophecy that Jesus would die to gather God's scattered children. From that day they plan to kill him.",
+      "background": "In Mark the temple action triggers the plot against Jesus; in John it is the raising of Lazarus, the seventh and greatest sign. The leaders' fear (John 11:48) was realistic: Roman authorities did crush messianic movements, and by the time John wrote, Rome had in fact destroyed the temple and city in AD 70. Caiaphas was high priest from about AD 18 to 36; an ornate ossuary (bone box) inscribed with the name 'Joseph son of Caiaphas', found in Jerusalem in 1990, may belong to his family.",
+      "culture": "Jewish burial happened quickly, usually the same day, in a rock-cut tomb sealed with a stone. The body was washed, wrapped in cloths, with the face covered by a separate cloth. Mourning lasted seven days (shiva), and friends came to comfort the family; professional mourners might wail. Later rabbinic tradition said the soul lingered near the body for three days, so by the fourth day death was certain and decay had begun ('he stinks', John 11:39). Jesus' delay means no one could say Lazarus was merely unconscious.",
+      "jewishLens": "Martha voices the faith of many Jews, especially Pharisees: 'I know he will rise in the resurrection on the last day' (John 11:24, compare Dan 12:2). Jesus answers that the resurrection life of the last day is present in him now. The scene echoes Ezekiel's promise, 'I will open your graves... and you shall know that I am the Lord' (Ezek 37:12-13).\n\nCaiaphas thinks politically: one man's death to save the nation from Rome. John sees in it Israel's hope of restoration: Jesus would die 'not for the nation only, but also to gather into one the children of God who are scattered abroad' (John 11:52), the language of the ingathering of exiles (Isa 43:5-7, Ezek 37:21).",
+      "audience": "Readers who had buried believers would hear Jesus' promise to Martha as their own. They would also see that Jesus' own people included those who loved him (Martha, Mary, Lazarus and the many 'Jews' who came to comfort them and believed, John 11:45).",
+      "today": "Jesus does not hurry past grief; he weeps beside it, and he is angry at death. Resurrection hope is not only for the end; the life of the age to come meets people in their losses now.",
+      "keyRefs": [
+        "John 11:5-6",
+        "John 11:21-27",
+        "John 11:33-35",
+        "John 11:43-44",
+        "John 11:47-53"
+      ],
+      "echoes": [
+        {
+          "ref": "Ezek 37:12-14",
+          "note": "God opens Israel's graves and gives his Spirit."
+        },
+        {
+          "ref": "Dan 12:2",
+          "note": "Many who sleep in the dust will awake."
+        },
+        {
+          "ref": "1 Kgs 17:17-24",
+          "note": "Elijah raises a widow's son."
+        },
+        {
+          "ref": "Isa 25:8",
+          "note": "God will swallow up death and wipe away tears."
+        },
+        {
+          "ref": "Isa 43:5-7",
+          "note": "Gathering God's scattered children from the ends of the earth."
+        }
+      ],
+      "misread": {
+        "popular": "'The Jews' plotted Jesus' death as a people.",
+        "better": "Many Jews mourned with Martha and Mary and believed (John 11:45); the decision was taken by a small leadership circle fearing Rome (John 11:47-53)."
+      }
+    },
+    {
+      "n": 12,
+      "title": "Anointed, welcomed as king, and the hour has come",
+      "summary": "Six days before Passover, at a dinner in Bethany, Mary anoints Jesus' feet with expensive perfumed oil and wipes them with her hair; Judas objects, and Jesus says she has kept it for his burial. The next day crowds with palm branches greet Jesus, shouting 'Hosanna! Blessed is he who comes in the name of the Lord, the King of Israel', and Jesus rides a young donkey. Some Greeks ask to see Jesus, and he announces, 'The hour has come for the Son of Man to be glorified': like a grain of wheat, he must die to bear fruit. A voice from heaven answers his prayer. When lifted up, he will draw all people to himself. The narrator explains the unbelief of many with Isaiah, and notes that many leaders believed but did not confess it, fearing being put out of the synagogue. Jesus' final public appeal: 'I have come as light into the world.'",
+      "background": "This chapter ends the 'Book of Signs'. The second aposynagōgos passage (John 12:42-43) explicitly names rulers who believed secretly because of the Pharisees, 'for they loved human glory more than the glory of God'. The arrival of Greeks marks the turning point: when Gentiles seek Jesus, his 'hour' arrives. Scholars note that John's audience included such Gentile seekers.",
+      "culture": "Nard was an imported perfume from India; a pound worth 300 denarii was almost a year's wages for a labourer. Letting down her hair in public was a startling, intimate act. Palm branches were symbols of Jewish national victory; they had been waved when Simon Maccabeus liberated Jerusalem and appeared on coins of the Jewish revolts against Rome. 'Hosanna' (Hebrew 'save, please') comes from Psalm 118, sung at Passover and Sukkot. To welcome someone into the city with palms was to greet a liberating king.",
+      "jewishLens": "The crowd's cry is Ps 118:25-26, and John adds Zech 9:9: 'Do not fear, daughter of Zion; see, your king is coming, seated on a donkey's colt.' Zechariah's king comes humble and brings peace to the nations — not the warrior many hoped for. The 'lifting up' that will draw all people echoes Isaiah's servant who will be 'lifted up and greatly exalted' (Isa 52:13).\n\nJohn quotes Isa 53:1 ('Lord, who has believed our report?') and Isa 6:10 (hardened eyes and hearts), and says Isaiah 'saw his glory' (John 12:41) — identifying the glory Isaiah saw on the throne with Jesus. Unbelief is explained within Israel's own prophetic story, not as a sign that Israel is rejected; Isaiah himself spoke of a people slow to see.",
+      "audience": "A community that wondered why so many of their own people did not believe would find an answer in Isaiah: prophets had always met resistance. Secret believers would feel the sting of 12:43 and be urged to choose God's glory over human approval.",
+      "today": "Mary's lavish love, the humble king on a donkey, and the grain that must die all point to the same truth: in John, glory is love giving itself away. Fear of losing social standing remains a powerful reason people hide what they believe.",
+      "keyRefs": [
+        "John 12:3-8",
+        "John 12:12-15",
+        "John 12:23-26",
+        "John 12:32-33",
+        "John 12:37-43"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 118:25-26",
+          "note": "'Save us... blessed is he who comes in the name of the Lord.'"
+        },
+        {
+          "ref": "Zech 9:9",
+          "note": "Your king comes humble, on a donkey."
+        },
+        {
+          "ref": "Isa 52:13",
+          "note": "The servant lifted up and exalted."
+        },
+        {
+          "ref": "Isa 53:1",
+          "note": "'Who has believed our report?'"
+        },
+        {
+          "ref": "Isa 6:9-10",
+          "note": "Eyes blinded and hearts hardened; Isaiah sees the Lord's glory."
+        }
+      ]
+    },
+    {
+      "n": 13,
+      "title": "Washing feet and the new commandment",
+      "summary": "Before Passover, knowing his hour has come and 'having loved his own... he loved them to the end', Jesus rises from supper, wraps a towel around himself and washes his disciples' feet. Peter refuses, then asks for a full bath; Jesus says unless he washes him, Peter has no share with him. Jesus tells them to wash one another's feet as he has done. Troubled, he announces that one of them will betray him; the Beloved Disciple, reclining next to Jesus, asks who, and Jesus gives a morsel to Judas, who goes out — 'and it was night'. Jesus says the Son of Man is now glorified, gives a new commandment, 'love one another as I have loved you', and predicts that Peter will deny him three times.",
+      "background": "Here the 'Book of Glory' begins. The Beloved Disciple appears for the first time by that title (John 13:23). John dates the supper 'before the feast of Passover' (John 13:1) and Jesus' death on the day of preparation, when Passover lambs were slaughtered (John 19:14), while the Synoptics present the Last Supper as a Passover meal. Scholars have proposed different solutions: different calendars in use, John's theological choice to align Jesus' death with the lambs, or the Synoptic account being a Passover-like meal held early. John has no institution of bread and cup; the foot washing stands in its place.",
+      "culture": "Guests reclined on couches around a low table, leaning on the left elbow, feet stretched away; the disciple 'at Jesus' bosom' was in a place of honour and intimacy. Feet were dusty from roads, and washing them was the job of the lowest servant; Jewish sources suggest even a Jewish slave should not be required to do it. A host might offer water, but would not wash guests' feet himself. A teacher washing his students' feet was a shocking reversal of honour.",
+      "jewishLens": "Jesus, knowing that 'the Father had given all things into his hands' (John 13:3), uses that authority to serve. The scene resembles the servant of Isaiah who humbles himself. Hospitality in Israel's stories begins with water for feet (Gen 18:4). Judas's betrayal fulfils Ps 41:9, 'He who ate my bread has lifted his heel against me' — the betrayal by a table companion, a deep breach of covenant friendship.\n\nThe 'new commandment' is not new in content — 'love your neighbour as yourself' is Lev 19:18 — but new in its measure: 'as I have loved you'. It is the covenant love of the new covenant community (Jer 31:31-34), marked out as Jesus' disciples by their love.",
+      "audience": "A small, pressured community needed the foot-washing more than a doctrine: humility, forgiveness and practical care for one another. Readers who had seen betrayal and failure within the group would hear that even Judas sat at the table and Peter would fall — and that Jesus' love was 'to the end'.",
+      "today": "Leadership in the church is measured by the towel. The mark of Jesus' followers is not first their doctrine or culture but their love for one another, which outsiders can see.",
+      "keyRefs": [
+        "John 13:1-5",
+        "John 13:12-17",
+        "John 13:21-30",
+        "John 13:34-35"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 41:9",
+          "note": "The friend who ate my bread lifted his heel against me."
+        },
+        {
+          "ref": "Lev 19:18",
+          "note": "Love your neighbour as yourself."
+        },
+        {
+          "ref": "Gen 18:4",
+          "note": "Abraham offers water to wash his guests' feet."
+        },
+        {
+          "ref": "Isa 53:12",
+          "note": "The servant pours out his life."
+        }
+      ],
+      "misread": {
+        "popular": "The 'new commandment' replaces the Old Testament law of love with a new Christian ethic.",
+        "better": "Love of neighbour is already Torah (Lev 19:18); what is new is the pattern and power of Jesus' self-giving love in the new covenant community (Keener, Thompson)."
+      }
+    },
+    {
+      "n": 14,
+      "title": "The Father's house, the way, and the promised Advocate",
+      "summary": "Jesus tells his troubled disciples to trust God and trust him. In his Father's house are many dwelling places; he goes to prepare a place and will come back to take them to himself. Thomas asks the way; Jesus says, 'I am the way, and the truth, and the life. No one comes to the Father except through me.' Philip asks to see the Father; Jesus says whoever has seen him has seen the Father. He promises 'another Advocate' (Paraclete), the Spirit of truth, who will remain with them and teach them. He will not leave them orphans. If anyone loves him and keeps his word, the Father and he will come and make their home with that person. He gives them peace, 'not as the world gives', and says, 'Rise, let us go from here.'",
+      "background": "Chapters 14-17 are the 'Farewell Discourse'. 'Rise, let us go from here' (John 14:31) followed by three more chapters of speech is one of the clues for the theory that the Gospel was edited in stages (Brown), though others see it as a deliberate literary move or a walk toward Gethsemane (Carson). The promise of the Spirit to 'remind' them of everything Jesus said (John 14:26) is also a statement about how this Gospel understood its own remembering and interpreting of Jesus.",
+      "culture": "The farewell speech was a recognised Jewish genre: Jacob blesses his sons (Gen 49), Moses gives Deuteronomy before his death, David instructs Solomon (1 Kgs 2:1-9), and later Jewish 'testaments' (such as the Testaments of the Twelve Patriarchs) follow a pattern: announcement of departure, comfort, commands to love, warnings, promises, and appointment of successors. A paraclete in legal settings was an advocate or helper who stood beside someone. A 'house' with many rooms suggests a large extended-family household, where married sons added rooms around a shared courtyard.",
+      "jewishLens": "'My Father's house' in John 2:16 is the temple. In the temple there were many rooms (1 Kgs 6:5, Ezek 40:17) and the hope of dwelling in God's house was the hope of Psalm 23:6 and Psalm 27:4. The same word for 'dwelling place' (monē) returns in John 14:23, where the Father and Son come to dwell with the believer. So the promise is God's presence: the household of the Father, now and at Jesus' return.\n\n'Way', 'truth' and 'life' are rich Hebrew words. The way (derek) is how one walks in Torah (Ps 119:30); truth (emet) is God's faithfulness; life is covenant blessing (Deut 30:15-20). Moses asked to see God's glory (Exod 33:18); Philip asks to see the Father, and Jesus says he has been seen in the Son. The Spirit as 'another Advocate' continues Jesus' presence as Joshua continued Moses' leadership (Deut 34:9).",
+      "audience": "A community that had lost the eyewitnesses (the Beloved Disciple had died, John 21:23) and lived without Jesus' physical presence would hear: you are not orphans; the Spirit remains and teaches; the Father and Son make their home with you.",
+      "today": "The famous verse 14:6 is said to anxious friends, not to opponents. It invites us to know God as Father through Jesus. The home Jesus prepares is above all a relationship — being where he is.",
+      "keyRefs": [
+        "John 14:1-3",
+        "John 14:6-9",
+        "John 14:16-18",
+        "John 14:23",
+        "John 14:26-27"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 23:6",
+          "note": "Dwelling in the house of the Lord forever."
+        },
+        {
+          "ref": "Exod 33:18-23",
+          "note": "Moses asks to see God's glory."
+        },
+        {
+          "ref": "Deut 31:6-8",
+          "note": "Moses' farewell: do not fear, God will not leave you."
+        },
+        {
+          "ref": "Ps 119:30",
+          "note": "'I have chosen the way of faithfulness.'"
+        },
+        {
+          "ref": "Ezek 37:27",
+          "note": "My dwelling place shall be with them."
+        }
+      ],
+      "misread": {
+        "popular": "Jesus promises each believer a 'mansion' in heaven after death, and 14:6 is mainly a verdict on other religions.",
+        "better": "'Dwelling places' are rooms in the Father's household (compare 14:23: God dwelling with us now), with a future hope too; 14:6 is comfort to disciples about knowing the Father through Jesus, though its exclusive claim is debated in its implications (Carson, Keener, Köstenberger)."
+      }
+    },
+    {
+      "n": 15,
+      "title": "The true vine and the friends of Jesus",
+      "summary": "Jesus says, 'I am the true vine, and my Father is the vine-grower.' Branches that bear fruit are pruned; branches cut off wither. The disciples are to remain (abide) in him as he remains in them, for apart from him they can do nothing. As the Father loved him, he has loved them; they are to remain in his love by keeping his commands, so that his joy may be in them. The greatest love is to lay down one's life for one's friends. 'I no longer call you servants... I have called you friends.' He chose them to bear lasting fruit. The world will hate them as it hated him; but the Advocate and they themselves will testify about him.",
+      "background": "The Farewell Discourse continues, perhaps on the walk to the Mount of Olives. The warning that the world will hate the disciples would match the experience of John's community: rejection by neighbours, by some in the synagogue, and possibly suspicion from Roman authorities, as believers would not join in civic and imperial cults. Some scholars see chapters 15-17 as an expanded second edition of the farewell material.",
+      "culture": "Vineyards were everywhere in the land of Israel. Pruning in late winter cut away dead and unfruitful wood so the vine would bear more; prunings were burned. 'Friend of the king' was a recognised court title in the ancient world for a trusted insider, and in Greco-Roman thought friendship meant frankness and shared counsel, unlike the relationship of master and slave, who is simply told what to do. Jesus elevates his followers to the status of confidants.",
+      "jewishLens": "Israel was God's vine or vineyard: 'You brought a vine out of Egypt' (Ps 80:8-16); Isaiah's song of the vineyard grieves that it produced wild grapes (Isa 5:1-7); Jeremiah calls Israel a choice vine that went wild (Jer 2:21). A golden vine decorated the entrance to Herod's temple, as Josephus describes. When Jesus calls himself 'the true vine', he is not discarding Israel but presenting himself as the faithful Israel in whom God's people are rooted. To remain in him is to belong to God's people.\n\nAbraham and Moses were called friends of God (Isa 41:8, Exod 33:11). Jesus extends that covenant intimacy to all his disciples: they know what the master is doing.",
+      "audience": "A minority under pressure needed to hear that their identity rested on staying connected to Jesus and to one another in love, that fruit would come through pruning, and that being hated did not mean being abandoned.",
+      "today": "Christian life is not mainly effort but connection — remaining in a relationship of love. The status of 'friend' changes how believers relate to God: not as anxious servants but as trusted companions.",
+      "keyRefs": [
+        "John 15:1-8",
+        "John 15:9-13",
+        "John 15:14-17",
+        "John 15:18-27"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 80:8-16",
+          "note": "Israel the vine brought out of Egypt."
+        },
+        {
+          "ref": "Isa 5:1-7",
+          "note": "The song of the unfruitful vineyard."
+        },
+        {
+          "ref": "Jer 2:21",
+          "note": "A choice vine turned wild."
+        },
+        {
+          "ref": "Isa 41:8",
+          "note": "Abraham, God's friend."
+        },
+        {
+          "ref": "Exod 33:11",
+          "note": "God speaks to Moses face to face, as with a friend."
+        }
+      ],
+      "misread": {
+        "popular": "The vine replaces Israel: the church is the new vine and Israel has been cut off.",
+        "better": "Jesus is the faithful Israel-vine and his followers, Jewish and Gentile, are branches in him; the image is of fulfilment and belonging rather than rejection (Keener, Thompson, Bauckham)."
+      }
+    },
+    {
+      "n": 16,
+      "title": "Grief turned to joy and the coming Spirit",
+      "summary": "Jesus warns that his disciples will be put out of synagogues, and some will even think that killing them is service to God. It is better for them that he goes away, because then the Advocate will come, who will convict the world about sin, righteousness and judgement, and will guide the disciples into all truth. In 'a little while' they will not see him, and then they will see him again. Their grief will turn to joy, as a woman's labour pain gives way to joy at a birth. They will ask the Father in Jesus' name, for the Father himself loves them. The disciples say they now understand; Jesus warns they will be scattered, yet 'take heart; I have overcome the world'.",
+      "background": "John 16:2 is the third aposynagōgos passage and the most severe: exclusion and even killing. Scholars debate what this reflects. Martyn read it as the community's experience of formal expulsion; others note local tensions, the stoning of Stephen (Acts 7) and Paul's own earlier persecution of believers as a zealous Jew (Gal 1:13-14), and possible denunciation to Roman authorities. Reinhartz and others caution that we cannot simply read the community's history off the text. What is clear is that John's readers had suffered real loss and fear.",
+      "culture": "Labour in childbirth was a common Jewish picture for the painful arrival of God's new age — the 'birth pangs of the Messiah'. In court, an advocate who 'convicts' brings evidence that shows who is truly in the wrong. Praying 'in the name' of someone meant praying as their representative, with their authority and character.",
+      "jewishLens": "The woman in labour echoes Isaiah's images of Zion giving birth to a new people (Isa 26:17-19, Isa 66:7-14), where birth and resurrection are linked. Those who think persecuting others is 'service to God' (latreia, worship) stand in a line of zeal for God that Paul himself once embodied; the Gospel does not mock their zeal but calls it misdirected.\n\nThe Spirit guiding into 'all truth' recalls God's promise to put his Spirit within Israel so they would walk in his ways (Ezek 36:27) and the new covenant where all will know the Lord (Jer 31:34). The disciples' 'scattering' recalls Zech 13:7, 'strike the shepherd and the sheep will be scattered'.",
+      "audience": "For believers who had been expelled, threatened or bereaved, this chapter named their pain honestly and promised joy that no one could take away. It also told them their suffering was foreseen, not a sign that God had abandoned them.",
+      "today": "Grief is not denied but transformed, like labour into birth. The Spirit continues Jesus' teaching presence. And the chapter warns religious people of every tradition, including Christians, that violence done 'for God' can be deeply mistaken.",
+      "keyRefs": [
+        "John 16:1-4",
+        "John 16:7-15",
+        "John 16:20-22",
+        "John 16:33"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 26:17-19",
+          "note": "Labour pains and the dead rising."
+        },
+        {
+          "ref": "Isa 66:7-14",
+          "note": "Zion gives birth; rejoicing replaces grief."
+        },
+        {
+          "ref": "Zech 13:7",
+          "note": "Strike the shepherd, the sheep scatter."
+        },
+        {
+          "ref": "Jer 31:33-34",
+          "note": "God's law written within; all will know the Lord."
+        }
+      ],
+      "misread": {
+        "popular": "John 16:2 shows that Jews were persecutors of Christians, so Christians are always the innocent victims.",
+        "better": "It reflects a specific, painful local conflict within the Jewish family; within a few centuries the power relationship reversed and Christians persecuted Jews. The text warns all who think violence is worship (Brown, Reinhartz, Levine)."
+      }
+    },
+    {
+      "n": 17,
+      "title": "Jesus' prayer: knowing God and being one",
+      "summary": "Jesus lifts his eyes to heaven: 'Father, the hour has come; glorify your Son so that the Son may glorify you.' He defines eternal life: 'that they may know you, the only true God, and Jesus Christ whom you have sent.' He has made the Father's name known to those the Father gave him. He prays for them: that they be kept in the Father's name, protected from the evil one, made holy in the truth, and sent into the world as he was sent. Then he prays for those who will believe through their word: that all may be one, as the Father is in him and he in the Father, so that the world may believe; and that they may be with him and see his glory, and that the Father's love may be in them.",
+      "background": "Since the sixteenth-century Lutheran theologian David Chytraeus, this has been called the 'High Priestly Prayer'. It concludes the Farewell Discourse. Its concern for unity probably reflects a community that faced divisions; the letters of John speak of members who 'went out from us' (1 John 2:19). It is also the clearest single statement of John's theology of knowing God.",
+      "culture": "Lifting the eyes to heaven was a common Jewish posture in prayer. In Jewish thought a 'name' stood for the person's character and presence; God put his name in the temple (Deut 12:11). To be 'kept in the name' meant to be held within God's own presence and protection.",
+      "jewishLens": "'Knowing God' in the Hebrew Bible is covenant relationship, not information: the new covenant promises that 'they shall all know me' (Jer 31:34), and Hosea mourns that there is 'no knowledge of God in the land' (Hos 4:1). Jesus defines eternal life — the life of the age to come — as that relational knowing (John 17:3), and holds firmly to Jewish monotheism: 'the only true God'.\n\nJesus prays like a high priest interceding for the people, consecrating himself (hagiazō) as priests and sacrifices were consecrated (Exod 28:41). His prayer that his followers be 'one' echoes the Shema's oneness (Deut 6:4) and Ezekiel's hope that God's scattered people would be gathered into one (Ezek 37:22). The glory he had 'before the world existed' links back to the Word in the beginning.",
+      "audience": "A small, divided, pressured community would hear itself prayed for by name: kept, protected, consecrated and sent. Later believers ('those who will believe through their word') are also included in the prayer.",
+      "today": "Christianity at its heart is knowing God as Father through Jesus. The unity Jesus prays for is a relational unity of love modelled on God himself, and it is meant to be visible to the world.",
+      "keyRefs": [
+        "John 17:1-5",
+        "John 17:3",
+        "John 17:15-19",
+        "John 17:20-23",
+        "John 17:24-26"
+      ],
+      "echoes": [
+        {
+          "ref": "Jer 31:34",
+          "note": "All shall know me, from least to greatest."
+        },
+        {
+          "ref": "Hos 6:6",
+          "note": "God desires the knowledge of God more than burnt offerings."
+        },
+        {
+          "ref": "Deut 6:4",
+          "note": "The Lord our God, the Lord is one."
+        },
+        {
+          "ref": "Exod 28:41",
+          "note": "Consecrating priests for service."
+        },
+        {
+          "ref": "Ezek 37:22",
+          "note": "One nation, one king, no longer divided."
+        }
+      ],
+      "misread": {
+        "popular": "'Eternal life' in John 17 means going to heaven forever, and unity means one institutional church or simply invisible spiritual unity.",
+        "better": "Eternal life is defined as knowing God now (John 17:3); unity is a visible relational oneness of love that the world can see (Thompson, Bauckham, Keener)."
+      }
+    },
+    {
+      "n": 18,
+      "title": "Arrest in the garden and the king before Pilate",
+      "summary": "Jesus crosses the Kidron valley to a garden. Judas comes with a detachment of soldiers and temple police carrying lanterns and torches. Jesus asks whom they seek; when he says 'I am', they step back and fall to the ground. He asks them to let his disciples go. Peter cuts off the ear of Malchus, and Jesus tells him to put away his sword. Jesus is taken to Annas, former high priest, and questioned; meanwhile Peter, let into the courtyard through the Beloved Disciple's contact, denies Jesus three times by a charcoal fire. At dawn Jesus is taken to Pilate's headquarters; the accusers stay outside to avoid defilement before Passover. Pilate asks, 'Are you the king of the Jews?' Jesus says his kingdom is not from this world and that he came to testify to the truth. Pilate asks, 'What is truth?' and offers to release Jesus, but the crowd asks for Barabbas.",
+      "background": "Only John mentions Roman soldiers (a speira, a cohort) at the arrest and the hearing before Annas. Annas had been high priest (AD 6-15) and five of his sons and his son-in-law Caiaphas held the office after him; he remained the power behind the office. The Beloved Disciple is described as 'known to the high priest' (John 18:15), which Bauckham uses to argue he was a Jerusalem disciple. Pontius Pilate governed Judea AD 26-36; an inscription bearing his name was found at Caesarea Maritima in 1961.",
+      "culture": "Entering a Gentile's house could be thought to cause ritual impurity, which would prevent eating the Passover meal; the accusers stay outside, and Pilate moves in and out. The Roman governor alone had the power to execute (John 18:31), the 'right of the sword'. 'King of the Jews' was a political charge: claiming kingship without Rome's appointment was treason against Caesar. The custom of releasing a prisoner at Passover is attested only in the Gospels.",
+      "jewishLens": "The 'I am' in the garden (John 18:5-6) carries the weight of the divine name; the arresting party falls back as people fell before God's glory (Ezek 1:28). Jesus is not a helpless victim: he goes out to meet them, protects his own ('of those you gave me I lost not one', John 18:9), and accepts 'the cup the Father has given' (compare Ps 75:8, Isa 51:17).\n\nJesus' kingship belongs to Israel's hope: the Messiah as king (Ps 2, 2 Sam 7:12-16). 'Not from this world' means its source is God, not that it is purely spiritual or irrelevant to earth. Jesus' testimony to 'truth' (emet: God's faithful reality) stands against Pilate's cynical power.",
+      "audience": "Believers facing hostile authorities, Jewish or Roman, would see their Lord standing calmly before both, in control of his own destiny. Peter's denials, beside the courageous Beloved Disciple, would comfort and warn those who had themselves failed under pressure.",
+      "today": "Jesus refuses the sword. His kingdom confronts power not with violence but with testimony to truth. And even the leading apostle denies him — failure is not the end of the story (see chapter 21).",
+      "keyRefs": [
+        "John 18:4-9",
+        "John 18:10-11",
+        "John 18:15-18",
+        "John 18:28",
+        "John 18:33-38"
+      ],
+      "echoes": [
+        {
+          "ref": "2 Sam 15:23",
+          "note": "David crosses the Kidron in betrayal and sorrow."
+        },
+        {
+          "ref": "Isa 43:10",
+          "note": "'I am he' — the divine self-identification."
+        },
+        {
+          "ref": "Ps 2:1-6",
+          "note": "Rulers conspire against the Lord's anointed king."
+        },
+        {
+          "ref": "Isa 51:17",
+          "note": "The cup of the Lord's wrath."
+        }
+      ],
+      "misread": {
+        "popular": "The Jewish people as a whole demanded Jesus' death and bear collective guilt.",
+        "better": "John shows a small group of temple leaders with their police, plus Roman soldiers and a Roman governor; the Catholic Church's Nostra Aetate (1965) and most churches reject collective Jewish guilt (Brown, Levine)."
+      }
+    },
+    {
+      "n": 19,
+      "title": "Crucified king, Passover lamb, buried in a garden",
+      "summary": "Pilate has Jesus flogged; soldiers mock him with a crown of thorns and a purple robe. Pilate presents him: 'Here is the man!' The chief priests cry 'Crucify!' and say 'We have no king but Caesar.' At noon on the day of preparation for Passover, Pilate hands him over. Jesus carries his own cross to Golgotha; the inscription 'Jesus of Nazareth, the King of the Jews' is written in Hebrew, Latin and Greek. Soldiers divide his clothes and cast lots for his seamless tunic. Jesus entrusts his mother to the Beloved Disciple. He says 'I thirst', receives sour wine on hyssop, and says 'It is finished', and gives up his spirit. His legs are not broken; a soldier pierces his side, and blood and water flow out. Joseph of Arimathea and Nicodemus bury him with about 75 pounds of myrrh and aloes in a new tomb in a garden.",
+      "background": "John's timing is distinctive: Jesus is condemned around noon on the day of preparation (John 19:14), the time when Passover lambs began to be slaughtered in the temple. The narrator stresses eyewitness testimony to the blood and water: 'He who saw it has borne witness... so that you also may believe' (John 19:35). This may counter docetic ideas that Jesus only seemed to have a body. The chief priests' cry 'We have no king but Caesar' is ironic, since daily Jewish prayer confessed God alone as King.",
+      "culture": "Roman crucifixion was designed for maximum pain and public shame; it was reserved for slaves, rebels and the lowest classes. Victims were flogged first, carried the crossbeam, were often stripped, and could hang for days. The heel bone of a crucified man named Jehohanan, with an iron nail still in it, was found in a Jerusalem ossuary in 1968, confirming that nails were used and that a crucified man could receive a Jewish burial. Breaking legs (crurifragium) hastened death by suffocation; Deut 21:22-23 required bodies not to remain overnight, especially before a Sabbath and feast day.\n\nJewish burial for an honoured person involved spices and linen. 'A hundred litrai' (about 75 pounds) of spices is a royal quantity; Josephus describes lavish spices at Herod's funeral. A garden tomb belonged to the wealthy.",
+      "jewishLens": "Jesus dies as the Passover lamb: hyssop was used to put the lamb's blood on the doorposts (Exod 12:22), and none of the lamb's bones were to be broken (Exod 12:46, Num 9:12). John the Baptist's 'Lamb of God' (John 1:29) is fulfilled. The piercing fulfils Zech 12:10, 'they will look on the one they have pierced', a passage about mourning in Jerusalem that leads to cleansing (Zech 13:1). The divided garments echo Ps 22:18, the psalm of the righteous sufferer.\n\nThe seamless tunic may recall the high priest's woven robe (Exod 28:32). Blood and water may point to the temple's sacrifice and the river of living water (Ezek 47:1, John 7:38). 'It is finished' (tetelestai) means accomplished: the work the Father gave is complete (John 17:4). And at the cross a new family is created: the mother of Jesus and the Beloved Disciple are given to each other as mother and son.",
+      "audience": "Readers would see that the shameful cross was in fact the 'lifting up' of a king and the Passover of the world. Those who had been afraid would take heart from Joseph and Nicodemus, secret disciples who finally stepped forward at the most dangerous moment.",
+      "today": "The glory of God is seen in a crucified man who cares for his mother in his agony. In John the cross is not defeat but completion. It also forms a new family that crosses blood ties.",
+      "keyRefs": [
+        "John 19:5",
+        "John 19:14-15",
+        "John 19:19-20",
+        "John 19:25-30",
+        "John 19:31-37",
+        "John 19:38-42"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 12:46",
+          "note": "No bone of the Passover lamb broken."
+        },
+        {
+          "ref": "Exod 12:22",
+          "note": "Hyssop used for the lamb's blood."
+        },
+        {
+          "ref": "Ps 22:18",
+          "note": "They divide my garments and cast lots."
+        },
+        {
+          "ref": "Zech 12:10",
+          "note": "They will look on the one whom they pierced."
+        },
+        {
+          "ref": "Ps 69:21",
+          "note": "For my thirst they gave me vinegar."
+        }
+      ],
+      "misread": {
+        "popular": "'We have no king but Caesar' shows the Jewish nation rejecting God and being rejected.",
+        "better": "The words are spoken by the chief priests (John 19:15), a small leadership group; John presents them as tragic irony, not a verdict on the Jewish people (Brown, Keener, Levine)."
+      }
+    },
+    {
+      "n": 20,
+      "title": "The garden, the breath of life, and Thomas's confession",
+      "summary": "Early on the first day of the week Mary Magdalene finds the stone removed and runs to Peter and the Beloved Disciple. They run to the tomb; the Beloved Disciple arrives first; Peter goes in and sees the linen cloths lying and the face-cloth rolled up separately. The Beloved Disciple 'saw and believed'. Mary stays weeping, sees two angels, then Jesus, whom she takes for the gardener — until he says 'Mary', and she answers 'Rabbouni!' He sends her to tell his 'brothers': 'I am ascending to my Father and your Father, to my God and your God.' That evening Jesus appears to the disciples behind locked doors, says 'Peace be with you', shows his wounds, sends them as the Father sent him, breathes on them and says, 'Receive the Holy Spirit.' Thomas, absent, refuses to believe without touching the wounds. A week later Jesus invites him, and Thomas confesses, 'My Lord and my God!' Jesus blesses those who have not seen and yet believe. John states his purpose: these things are written so that you may believe that Jesus is the Messiah, the Son of God, and have life in his name.",
+      "background": "Mary Magdalene is the first witness to the risen Jesus, and the Latin tradition later called her the 'apostle to the apostles' (Hippolytus and later writers). In the ancient world women's testimony was often given less weight in court, which many historians count as a reason the story was not invented. John 20:30-31 looks like the original ending of the Gospel; chapter 21 follows as an epilogue. There is a textual variant in 20:31: 'that you may come to believe' (aorist) or 'that you may continue to believe' (present); the manuscripts are divided, and scholars debate whether the book is mainly evangelistic or for strengthening believers.",
+      "culture": "The 'first day of the week' is Sunday, the day after the Sabbath. Tombs were often in gardens or orchards, so a gardener would be a natural person to meet. 'Rabbouni' is an Aramaic form of 'my teacher', and the narrator translates it for Greek-speaking readers. 'Peace be with you' (shalom aleichem) was the ordinary Jewish greeting, but now filled with new meaning after the cross.",
+      "jewishLens": "The garden setting recalls Eden; the risen Jesus is mistaken for the gardener, the role of the first Adam (Gen 2:15). When he breathes on the disciples, John uses the same rare verb (emphysaō) as the Greek translation of Gen 2:7, where God breathed life into Adam, and Ezek 37:9, where the Spirit breathes on the dry bones. This is new creation: a new humanity and a restored Israel.\n\n'My Father and your Father, my God and your God' (John 20:17) echoes Ruth's covenant pledge, 'your people shall be my people, and your God my God' (Ruth 1:16): the disciples are now Jesus' 'brothers' in God's family. Thomas's 'My Lord and my God' answers the prologue's 'the Word was God' and applies to Jesus the language Israel used for its God (Ps 35:23).",
+      "audience": "Readers who had never seen Jesus would hear themselves blessed in John 20:29. Thomas gives permission to doubt honestly. The purpose statement tells them directly why the book exists: for their ongoing trust and their life.",
+      "today": "Jesus meets people personally — calling Mary by name, inviting Thomas to touch. Resurrection is the start of a new creation, and the Spirit is given for mission: 'as the Father has sent me, so I send you.'",
+      "keyRefs": [
+        "John 20:1-9",
+        "John 20:11-18",
+        "John 20:19-23",
+        "John 20:24-29",
+        "John 20:30-31"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 2:7",
+          "note": "God breathes the breath of life into Adam."
+        },
+        {
+          "ref": "Ezek 37:9-10",
+          "note": "Breath enters the slain and they live."
+        },
+        {
+          "ref": "Song 3:1-4",
+          "note": "Seeking the one my soul loves and finding him."
+        },
+        {
+          "ref": "Ruth 1:16",
+          "note": "'Your God my God' — covenant belonging."
+        },
+        {
+          "ref": "Ps 35:23",
+          "note": "'My God and my Lord' addressed to Israel's God."
+        }
+      ]
+    },
+    {
+      "n": 21,
+      "title": "Breakfast by the sea and Peter restored",
+      "summary": "By the Sea of Tiberias (Galilee), seven disciples fish all night and catch nothing. At dawn a stranger on the shore tells them to cast the net on the right side; they haul in 153 large fish and the net does not tear. The Beloved Disciple says, 'It is the Lord!' Peter jumps into the sea. Jesus has a charcoal fire with fish and bread and invites them to breakfast. Afterward he asks Peter three times, 'Do you love me?' and three times commissions him: 'Feed my lambs; tend my sheep; feed my sheep.' He foretells that Peter will die by being bound and led where he does not want to go. Peter asks about the Beloved Disciple; Jesus says, 'If I want him to remain until I come, what is that to you? Follow me.' The narrator corrects a rumour that this disciple would not die, and the community affirms: 'We know that his testimony is true.'",
+      "background": "Most scholars see chapter 21 as an epilogue added after 20:31, possibly by the same author or by the community after the Beloved Disciple's death; Bauckham argues it was planned by the author as a balancing epilogue to the prologue. The correction of the rumour (John 21:23) suggests the Beloved Disciple had died or was very old, which troubled those who expected him to live until Jesus returned. Peter's death, foretold here, is traditionally placed in Rome under Nero, around AD 64-67 (1 Clement 5, a source outside the canon).",
+      "culture": "Fishing on the Sea of Galilee was usually done at night with drag nets or casting nets. Peter, stripped for work, puts on his outer garment before jumping in — perhaps out of respect, to greet his master properly. A charcoal fire (anthrakia) is mentioned only twice in the New Testament: the fire where Peter denied Jesus (John 18:18) and this one. A shared meal in the ancient world was an act of reconciliation and restored relationship.",
+      "jewishLens": "Peter's threefold denial is answered by a threefold restoration, and his commission is in shepherding language: God's people as a flock entrusted to faithful leaders, in contrast to the bad shepherds of Ezekiel 34 and in line with the shepherd of John 10. Jesus feeding the disciples with bread and fish recalls the feeding in John 6 and God providing for his people in the wilderness.\n\nThe 153 fish have produced many symbolic interpretations (Jerome said Greek zoologists counted 153 species of fish, suggesting all nations; others note 153 is the 'triangular number' of 17, or link it to Ezek 47:10, where fishermen spread nets from En-gedi to En-eglaim beside the life-giving river). Many scholars think it may simply be an eyewitness memory, while the unbroken net suggests a mission that gathers without breaking.",
+      "audience": "For a community grieving its founding witness and perhaps uncertain about its relation to the wider church led by Peter's memory, the chapter honours both: Peter as shepherd, the Beloved Disciple as witness. Each disciple has his own calling: 'What is that to you? Follow me.'",
+      "today": "Failure is not final. Jesus restores Peter not with a lecture but with breakfast and the question 'Do you love me?' Leadership flows from love and means feeding others. And comparing callings is pointless; each disciple must simply follow.",
+      "keyRefs": [
+        "John 21:4-8",
+        "John 21:9-14",
+        "John 21:15-19",
+        "John 21:20-23",
+        "John 21:24-25"
+      ],
+      "echoes": [
+        {
+          "ref": "Ezek 47:10",
+          "note": "Fishermen with many fish beside the river of life."
+        },
+        {
+          "ref": "Ezek 34:2-4",
+          "note": "Shepherds who fail to feed the flock."
+        },
+        {
+          "ref": "Jer 16:16",
+          "note": "God sends many fishermen to gather his people."
+        },
+        {
+          "ref": "Ps 23:5",
+          "note": "A table prepared, a restored guest."
+        }
+      ],
+      "misread": {
+        "popular": "The two Greek words for love (agapaō and phileō) prove that Peter could only offer an inferior 'friendship' love.",
+        "better": "John uses the two verbs interchangeably elsewhere (e.g. both for the Father's love of the Son, John 3:35 and John 5:20); most scholars (Carson, Keener, Brown) see stylistic variation. The point is the threefold restoration."
+      }
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "'The Jews' as the whole Jewish people",
+      "popular": "Many readers, hearing phrases like 'the Jews sought to kill him' (John 5:18), take John to be describing the Jewish people as a whole as Jesus' enemies. In older Christian preaching this fed the charge that 'the Jews killed Christ'.",
+      "inContext": "Ioudaioi in John has several senses: Judeans, the Jewish people generally, and most often the temple-based authorities in Jerusalem. The same Gospel says 'salvation is from the Jews' (John 4:22), says many Jews believed (John 11:45, John 12:11), and has Jewish characters on both sides. Jesus, his family and disciples are all Jews; the very people afraid 'of the Jews' are Jews themselves (John 7:13). Scholars such as Raymond Brown, Craig Keener and Amy-Jill Levine stress this. Adele Reinhartz, a Jewish New Testament scholar, goes further: she argues that even read carefully John's rhetoric distances believers from 'the Jews' and has an anti-Jewish effect, and that honesty requires admitting this rather than explaining it away.",
+      "defence": "Evangelical commentators such as D. A. Carson and Andreas Köstenberger fully reject antisemitic use of John and agree 'the Jews' usually means the leaders who opposed Jesus. Some add that 'the Jews' can also stand for the unbelieving 'world' as a theological category, and that John's strong words are a prophetic, intra-Jewish critique like those in Isaiah or Jeremiah, not ethnic hatred. Some translations now render it 'the Judeans' or 'the Jewish leaders' where context supports it, though others warn that this can hide a real difficulty.",
+      "whyItMatters": "John was quoted in sermons, passion plays and propaganda that led to violence against Jewish people. Reading Ioudaioi carefully is a matter of truth and of love of neighbour.",
+      "refs": [
+        "John 4:22",
+        "John 7:13",
+        "John 11:45",
+        "John 5:18",
+        "John 9:22"
+      ],
+      "scholars": [
+        "Raymond Brown",
+        "Adele Reinhartz",
+        "Amy-Jill Levine",
+        "Craig Keener",
+        "D. A. Carson",
+        "Andreas Köstenberger"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "John 3:16 cut off from Numbers 21",
+      "popular": "John 3:16 is often presented on its own as the whole gospel in one verse: God loves you, believe in Jesus, and you will go to heaven when you die.",
+      "inContext": "John 3:16 is the climax of a sentence that begins in John 3:14: 'as Moses lifted up the serpent in the wilderness, so must the Son of Man be lifted up'. In Num 21:4-9 dying Israelites looked at the bronze serpent and lived. 'So' (houtōs) in 3:16 mainly means 'in this way': God loved the world in this manner, by giving his Son to be lifted up on the cross. 'Eternal life' is the life of the age to come, starting now. 'The world' in John is humanity alienated from God, which makes the love more surprising. Scholars such as Craig Keener and Marianne Meye Thompson stress the Numbers background.",
+      "defence": "Evangelical scholars (Carson, Köstenberger) agree on the Numbers background and the meaning 'in this way', and would say the popular use is not wrong but thin: God's love, the gift of the Son, and life through trust are all in the verse. They also point out that John does speak of future resurrection (John 5:28-29, John 6:40), so the 'after death' hope is real, not a mistake.",
+      "whyItMatters": "Reconnecting 3:16 to the cross and to Israel's wilderness story keeps the love of God from becoming sentimental: it is costly, cross-shaped love that heals the deadly bite of sin.",
+      "refs": [
+        "John 3:14-16",
+        "Num 21:4-9",
+        "John 12:32-33",
+        "John 5:28-29"
+      ],
+      "scholars": [
+        "Craig Keener",
+        "Marianne Meye Thompson",
+        "D. A. Carson",
+        "Andreas Köstenberger"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "'Born again' as a one-time decision formula",
+      "popular": "'You must be born again' (John 3:3) is often understood as a moment of personal decision, praying a prayer to receive Christ, after which one is a 'born-again Christian'.",
+      "inContext": "Anōthen means both 'again' and 'from above'; Nicodemus hears 'again', but Jesus means 'from above' — a birth God causes by the Spirit (John 1:13). The background is Ezekiel's promise of water and Spirit to renew Israel (Ezek 36:25-27) and the valley of dry bones (Ezek 37). It is about God creating a renewed people, not a human technique. And Nicodemus himself does not 'decide' in one scene; he reappears gradually (John 7:50-51, John 19:39). Keener, Thompson and Brown emphasise the Ezekiel background.",
+      "defence": "Evangelical scholars agree new birth is God's work, not a formula, and Reformed theologians in particular insist regeneration precedes faith. Many would still say the new birth is a real beginning that becomes visible in a moment of turning, and that conversion experiences are a legitimate way people come into the new life. The problem is not the idea of a beginning but treating a prayer as the cause rather than the Spirit.",
+      "whyItMatters": "New birth as God's re-creation of a people keeps the focus on the Spirit's ongoing work and on a life of trust, rather than on a past event as a ticket.",
+      "refs": [
+        "John 3:3-8",
+        "John 1:12-13",
+        "Ezek 36:25-27",
+        "Ezek 37:9-14"
+      ],
+      "scholars": [
+        "Raymond Brown",
+        "Craig Keener",
+        "Marianne Meye Thompson",
+        "D. A. Carson"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "'Mansions' in heaven (John 14:2)",
+      "popular": "From the King James 'In my Father's house are many mansions', many picture individual luxury homes in heaven that Jesus is building for believers to enjoy after death.",
+      "inContext": "'Mansions' is from Latin mansiones, 'dwelling places' or 'rooms'. 'My Father's house' in John 2:16 is the temple, and the image may be of rooms in the temple or in a large family house. The same word monē returns in John 14:23 where the Father and Son come and make their 'dwelling' with the believer now. The promise is about belonging in God's household, at home with the Father, rather than real estate. Some scholars (e.g. Mary Coloe) connect it to the temple; others note Jewish wedding customs of a groom preparing rooms, though that link is uncertain.",
+      "defence": "Carson and others agree 'mansions' is a mistranslation in modern English, but maintain that 14:2-3 does refer to Jesus' future return and believers being with him, so a future hope is truly in view. The best reading holds both: dwelling with God now by the Spirit (14:23) and fully at his coming.",
+      "whyItMatters": "The promise is not a better house but a closer relationship: the Father's home is wherever he is with his children.",
+      "refs": [
+        "John 14:2-3",
+        "John 14:23",
+        "John 2:16",
+        "John 8:35"
+      ],
+      "scholars": [
+        "D. A. Carson",
+        "Craig Keener",
+        "Raymond Brown",
+        "Marianne Meye Thompson"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "John 8:44 and antisemitism",
+      "popular": "'You are of your father the devil' has been quoted for centuries as if Jesus were saying Jews as a people are children of the devil.",
+      "inContext": "In context Jesus is speaking to 'the Jews who had believed in him' (John 8:31) and who now want to kill him (John 8:40). The point is moral parentage: whoever seeks murder and lies shows whose family they belong to, the same logic used by Jewish prophets and by the Dead Sea Scrolls (which speak of 'sons of light' and 'sons of darkness' inside Israel). 1 John 3:8-10 applies the same test to anyone who claims to be a Christian. Brown, Keener and Levine all stress that this is polemic within the Jewish family. Reinhartz warns that, however it began, its effect on later readers was devastating.",
+      "defence": "Evangelical scholars agree it cannot be applied to Jews as a people and condemn its antisemitic use. They read it as a spiritual diagnosis that applies to all who reject truth, Gentile or Jew, and note that the same chapter has Jesus say 'Abraham rejoiced to see my day' — he does not reject Abraham's family but claims to be its fulfilment.",
+      "whyItMatters": "This verse was used in medieval and Nazi propaganda. Reading it in its setting is a basic act of justice.",
+      "refs": [
+        "John 8:31",
+        "John 8:40-47",
+        "1 John 3:8-10",
+        "John 8:56"
+      ],
+      "scholars": [
+        "Raymond Brown",
+        "Craig Keener",
+        "Amy-Jill Levine",
+        "Adele Reinhartz",
+        "D. A. Carson"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "John 14:6 and the question of other religions",
+      "popular": "'No one comes to the Father except through me' is often used as a proof text that all people of other faiths are excluded from salvation, sometimes in a combative way.",
+      "inContext": "Jesus says this to his own frightened disciples on the night before his death, in answer to Thomas's 'we do not know the way'. In Jewish idiom 'the way' (derek) is how one walks with God (Ps 119:30), and 'truth' (emet) is covenant faithfulness. Jesus is saying he is the path to the Father's home of 14:2: in knowing him they know the Father (John 14:7-9). It is a statement of comfort and identity, not originally an argument with other religions. Scholars differ on what follows for people who never hear of Jesus.",
+      "defence": "Evangelical scholars (Carson, Köstenberger) maintain the verse really is exclusive: there is no access to the Father apart from Jesus, and that is consistent with Acts 4:12. Inclusivist evangelicals (e.g. Clark Pinnock) agree Jesus is the only way but argue he may save some who do not know his name. Both sides agree the verse should be spoken with the tenderness of its setting, not as a weapon.",
+      "whyItMatters": "The verse's original tone matters: it is an invitation to know God as Father through Jesus, said by a man about to die for his friends.",
+      "refs": [
+        "John 14:1-9",
+        "Ps 119:30",
+        "Acts 4:12",
+        "John 10:16"
+      ],
+      "scholars": [
+        "D. A. Carson",
+        "Andreas Köstenberger",
+        "Craig Keener",
+        "Marianne Meye Thompson"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Water in John 3:5",
+      "popular": "Readers divide: some read 'born of water and the Spirit' as baptism, others as physical birth (amniotic water) followed by spiritual birth.",
+      "inContext": "Jesus rebukes Nicodemus as 'the teacher of Israel' for not understanding (John 3:10), which suggests the answer lies in Israel's scriptures: Ezek 36:25-27 joins clean water and a new spirit as God's cleansing and renewal of his people. 'Water and Spirit' then likely describes one birth: cleansing and renewal by God. Many scholars (Carson, Keener) favour this; Catholic, Orthodox and many Protestant readers also see a reference to baptism, as did the early church. The physical-birth reading has fewer defenders among scholars.",
+      "defence": "Sacramental traditions argue that John's readers knew Christian baptism and would hear it here, especially since John 3:22 mentions baptising. Evangelicals who read Ezekiel can agree that baptism later expresses this cleansing without being its cause. This is a genuine scholarly disagreement, not just a popular error.",
+      "whyItMatters": "Knowing the Ezekiel background shows that new birth is God's promised renewal of Israel now opened to all.",
+      "refs": [
+        "John 3:5",
+        "John 3:10",
+        "Ezek 36:25-27",
+        "John 3:22"
+      ],
+      "scholars": [
+        "D. A. Carson",
+        "Craig Keener",
+        "Raymond Brown",
+        "Andreas Köstenberger"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "'Eternal life' as only life after death",
+      "popular": "'Eternal life' is often heard as endless existence in heaven that begins at death.",
+      "inContext": "In Jewish thought the two ages were 'this age' and 'the age to come' (Dan 12:2). Zōē aiōnios is the life of that coming age. John's distinctive point is that it starts now: whoever trusts 'has' eternal life and 'has passed from death to life' (John 5:24). Jesus defines it as knowing God (John 17:3) — a relationship. Thompson, Bauckham and Keener emphasise this.",
+      "defence": "Evangelical scholars agree strongly with this 'already' emphasis and note that John also keeps a 'not yet' — resurrection on the last day (John 6:39-40). So the popular view is incomplete rather than wrong.",
+      "whyItMatters": "If eternal life starts now, Christian life is about present friendship with God and love for others, not only waiting to leave the world.",
+      "refs": [
+        "John 17:3",
+        "John 5:24",
+        "John 6:40",
+        "Dan 12:2"
+      ],
+      "scholars": [
+        "Marianne Meye Thompson",
+        "Richard Bauckham",
+        "Craig Keener",
+        "D. A. Carson"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "John as a 'Greek' or anti-Jewish Gospel",
+      "popular": "Older scholarship and some popular teaching said John's Logos came from Greek philosophy and that John is the least Jewish Gospel, written for Gentiles to replace Judaism.",
+      "inContext": "Since the Dead Sea Scrolls (light/darkness, truth, spirit of truth) and wider study of Second Temple Judaism, most scholars see John as deeply Jewish. Its Logos draws on Gen 1, Wisdom (Prov 8, and the Wisdom of Solomon and Sirach in the Apocrypha), and Jewish thinkers like Philo. Daniel Boyarin, a Jewish Talmud scholar, has argued that the prologue is a Jewish midrash on Genesis using a Logos/Memra theology that some Jews already held. Raymond Brown and Craig Keener also stress the Jewish background.",
+      "defence": "Evangelical scholars welcome the recovery of John's Jewishness, and many argue it supports the reliability of its traditions (Köstenberger, Carson, Bauckham). Some note that John still deliberately addresses a wider Greek-speaking audience, for whom 'Logos' also had resonance, so it is 'both/and'.",
+      "whyItMatters": "If John is Jewish to its core, Christians cannot read it as a charter against Judaism; it is a Jewish argument about Israel's God and Israel's Messiah.",
+      "refs": [
+        "John 1:1-14",
+        "Prov 8:22-31",
+        "Gen 1:1-3",
+        "John 4:22"
+      ],
+      "scholars": [
+        "Daniel Boyarin",
+        "Raymond Brown",
+        "Craig Keener",
+        "Richard Bauckham",
+        "Andreas Köstenberger"
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "perspectives": [
+    {
+      "name": "Traditional apostolic authorship",
+      "who": "Irenaeus (c. 180) and later church tradition; modern defenders include D. A. Carson, Andreas Köstenberger, Craig Blomberg, Leon Morris.",
+      "summary": "The Beloved Disciple is John son of Zebedee, one of the Twelve, who wrote (or dictated) the Gospel in Ephesus in old age, perhaps in the 90s. The Gospel's detailed knowledge of Jerusalem and Palestinian geography (the pool of Bethesda, Solomon's Porch, Jacob's well) fits an eyewitness.",
+      "strengths": "Strong second-century tradition (Irenaeus, who knew Polycarp); the Beloved Disciple is close to Peter, as John is in Mark and Acts; the son of Zebedee is never named in the Gospel, which is odd unless he is the author; accurate topographical details confirmed by archaeology (e.g. the pool of Bethesda with five porticoes).",
+      "critiques": "The Gospel never names its author; Acts 4:13 calls John 'unlettered'; the Gospel lacks scenes where the son of Zebedee is present in the Synoptics (Transfiguration, Jairus' daughter); Papias seems to distinguish an apostle John from an 'elder John', and Irenaeus may have merged them."
+    },
+    {
+      "name": "Johannine community (multi-stage composition)",
+      "who": "J. Louis Martyn, Raymond Brown (The Community of the Beloved Disciple), many critical scholars in the late twentieth century.",
+      "summary": "The Gospel grew in stages within a community gathered around the Beloved Disciple. It can be read on two levels: the story of Jesus and the later story of the community, especially its expulsion from the synagogue (the aposynagōgos passages, John 9:22, John 12:42, John 16:2), which Martyn linked to the Birkat ha-Minim, a synagogue benediction against heretics.",
+      "strengths": "Explains rough transitions (e.g. 'Rise, let us go from here' at John 14:31 followed by three more chapters), the apparent ending at 20:31 plus chapter 21, and the bitterness toward synagogue authorities as reflecting real trauma.",
+      "critiques": "The Birkat ha-Minim cannot be shown to have targeted Christians in the first century (Reuven Kimelman, 1981); reading a community history out of a Gospel is speculative; Bauckham argues the Gospels were written for wide circulation, not single communities; Reinhartz critiques the 'expulsion' theory itself."
+    },
+    {
+      "name": "Eyewitness testimony (Bauckham)",
+      "who": "Richard Bauckham (Jesus and the Eyewitnesses, The Testimony of the Beloved Disciple); in part Martin Hengel.",
+      "summary": "The Beloved Disciple was a real eyewitness, but not one of the Twelve: John the Elder, a Jerusalem disciple mentioned by Papias, who later lived in Ephesus. He wrote the Gospel himself as a deliberate testimony, and 'we know that his testimony is true' (John 21:24) is a claim of historiographic eyewitness.",
+      "strengths": "Fits Papias' two Johns; explains the Jerusalem focus and the disciple 'known to the high priest' (John 18:15); takes the Gospel's own self-presentation seriously; explains why the Beloved Disciple is absent from Galilean Synoptic scenes.",
+      "critiques": "Traditionalists say it rejects Irenaeus too quickly; critical scholars say it trusts Papias and the Gospel's claims too much; the identification remains a hypothesis."
+    },
+    {
+      "name": "Jewish-Christian intramural conflict",
+      "who": "Wayne Meeks, Raymond Brown, Craig Keener, Amy-Jill Levine and many others in different ways; Daniel Boyarin argues 'Judaism' and 'Christianity' were not yet fully separate.",
+      "summary": "John is the record of a painful argument within the Jewish family about whether Jesus is Israel's Messiah and how he relates to the one God. Its polemic is like the sharp language between Jewish groups in the Dead Sea Scrolls. The 'parting of the ways' had not fully happened.",
+      "strengths": "Takes seriously that everyone in the story is Jewish; explains both John's deep Jewishness and its harshness; offers a way to read John without antisemitism.",
+      "critiques": "Adele Reinhartz argues that calling it 'intramural' can soften the Gospel's real anti-Jewish effect, since John itself creates distance from 'the Jews'; others question how much of the community history can be known."
+    },
+    {
+      "name": "Historically reliable but theologically shaped",
+      "who": "Paul N. Anderson (John, Jesus and History project), Craig Keener, Craig Blomberg; earlier C. H. Dodd.",
+      "summary": "John is an independent tradition about Jesus, not just a theological meditation built on the Synoptics. Some of its details (a ministry of several years, multiple visits to Jerusalem, the dating of the crucifixion on the eve of Passover) may be more historically accurate than the Synoptics, while its discourses are shaped in John's own voice.",
+      "strengths": "Explains confirmed details (Bethesda, the pool of Siloam excavated in 2004); fits the different style of Jesus' speech as interpreted testimony.",
+      "critiques": "Sceptical scholars think the discourses are mostly the evangelist's creation; conservatives worry 'shaped' concedes too much."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Word",
+      "original": "λόγος (logos)",
+      "usual": "A spoken word; or a Greek philosophical idea of cosmic reason.",
+      "inContext": "God's creative and revealing speech (Gen 1, Ps 33:6), close to Wisdom (Prov 8) and the Aramaic Memra used in the Targums for God acting. John says this Word is personal, was with God and was God, and became flesh.",
+      "refs": [
+        "John 1:1-14",
+        "Ps 33:6",
+        "Prov 8:22-31"
+      ]
+    },
+    {
+      "term": "Dwelt (tabernacled)",
+      "original": "σκηνόω (skēnoō)",
+      "usual": "Lived among us.",
+      "inContext": "'Pitched his tent', recalling the tabernacle (skēnē) and the Shekinah glory. Jesus is God's dwelling with Israel.",
+      "refs": [
+        "John 1:14",
+        "Exod 25:8-9",
+        "Exod 40:34-35"
+      ]
+    },
+    {
+      "term": "Grace and truth",
+      "original": "χάρις καὶ ἀλήθεια (charis kai alētheia)",
+      "usual": "Undeserved favour and correct doctrine.",
+      "inContext": "Likely echoes hesed ve'emet, 'steadfast love and faithfulness', God's covenant character revealed to Moses (Exod 34:6). It is relational loyalty, not just ideas.",
+      "refs": [
+        "John 1:14",
+        "John 1:17",
+        "Exod 34:6"
+      ]
+    },
+    {
+      "term": "I am",
+      "original": "ἐγώ εἰμι (egō eimi)",
+      "usual": "A simple 'It's me' or an introduction to a metaphor.",
+      "inContext": "Seven 'I am' sayings with images (bread, light, door, shepherd, resurrection, way, vine) and several absolute 'I am' sayings that echo God's self-naming in Exod 3:14 and Isaiah's 'I am he'.",
+      "refs": [
+        "John 8:58",
+        "John 18:5-6",
+        "Isa 43:10",
+        "Exod 3:14"
+      ]
+    },
+    {
+      "term": "Sign",
+      "original": "σημεῖον (sēmeion)",
+      "usual": "A miracle or proof.",
+      "inContext": "A deed that points beyond itself to Jesus' identity, like Moses' signs in Egypt (Exod 4:8-9). John chooses seven to tell the story.",
+      "refs": [
+        "John 2:11",
+        "John 20:30-31",
+        "Exod 4:8-9"
+      ]
+    },
+    {
+      "term": "Believe / trust",
+      "original": "πιστεύω (pisteuō)",
+      "usual": "Agreeing that something is true; a one-time decision.",
+      "inContext": "Ongoing trust and loyalty toward a person, often joined to 'remain' and 'follow'. John uses the verb roughly 98 times and never the noun.",
+      "refs": [
+        "John 20:31",
+        "John 6:29",
+        "John 8:31"
+      ]
+    },
+    {
+      "term": "Eternal life",
+      "original": "ζωὴ αἰώνιος (zōē aiōnios)",
+      "usual": "Living forever in heaven after death.",
+      "inContext": "The life of the age to come (Dan 12:2), begun now through knowing God and Jesus (John 17:3), completed at the resurrection.",
+      "refs": [
+        "John 17:3",
+        "John 3:16",
+        "Dan 12:2"
+      ]
+    },
+    {
+      "term": "The Jews / Judeans",
+      "original": "οἱ Ἰουδαῖοι (hoi Ioudaioi)",
+      "usual": "The Jewish people as a whole.",
+      "inContext": "Context-dependent: Judeans, the Jewish people at feasts, or, frequently, the Jerusalem authorities hostile to Jesus. Used about 70 times in John.",
+      "refs": [
+        "John 1:19",
+        "John 7:1",
+        "John 11:45",
+        "John 4:22"
+      ]
+    },
+    {
+      "term": "Put out of the synagogue",
+      "original": "ἀποσυνάγωγος (aposynagōgos)",
+      "usual": "Formal excommunication from Judaism.",
+      "inContext": "Found only in John (three times). Probably reflects real exclusion of Jesus-followers from local synagogue communities; whether this was formal or empire-wide is debated.",
+      "refs": [
+        "John 9:22",
+        "John 12:42",
+        "John 16:2"
+      ]
+    },
+    {
+      "term": "Advocate / Helper",
+      "original": "παράκλητος (paraklētos)",
+      "usual": "Comforter.",
+      "inContext": "One called alongside: an advocate or helper, the Spirit of truth who continues Jesus' presence and witness, as Joshua continued Moses or Elisha Elijah.",
+      "refs": [
+        "John 14:16-17",
+        "John 14:26",
+        "John 16:7-14"
+      ]
+    },
+    {
+      "term": "Remain / abide",
+      "original": "μένω (menō)",
+      "usual": "Staying in church or keeping saved.",
+      "inContext": "Staying close in a relationship; making one's home with someone. The Father and Son make their dwelling (monē) with disciples.",
+      "refs": [
+        "John 15:4-10",
+        "John 1:38-39",
+        "John 14:23"
+      ]
+    },
+    {
+      "term": "Glory / glorify",
+      "original": "δόξα / δοξάζω (doxa / doxazō)",
+      "usual": "Splendour, fame, heavenly brightness.",
+      "inContext": "God's visible presence (kavod) in tabernacle and temple, now seen above all in Jesus being 'lifted up' on the cross.",
+      "refs": [
+        "John 1:14",
+        "John 12:23-24",
+        "John 17:1-5",
+        "Exod 33:18-23"
+      ]
+    },
+    {
+      "term": "Hour",
+      "original": "ὥρα (hōra)",
+      "usual": "A time of day.",
+      "inContext": "Jesus' appointed hour of death and glorification; 'not yet come' in early chapters, 'has come' from John 12:23.",
+      "refs": [
+        "John 2:4",
+        "John 12:23",
+        "John 13:1",
+        "John 17:1"
+      ]
+    },
+    {
+      "term": "From above / again",
+      "original": "ἄνωθεν (anōthen)",
+      "usual": "Again (as in 'born again').",
+      "inContext": "Deliberately double: 'again' and 'from above'. Jesus means a birth caused by God's Spirit.",
+      "refs": [
+        "John 3:3",
+        "John 3:7",
+        "John 3:31",
+        "John 19:11"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "Raymond E. Brown",
+      "title": "The Gospel According to John (Anchor Bible 29 and 29A)",
+      "year": 1966
+    },
+    {
+      "author": "Raymond E. Brown",
+      "title": "The Community of the Beloved Disciple",
+      "year": 1979
+    },
+    {
+      "author": "Raymond E. Brown and Francis J. Moloney",
+      "title": "An Introduction to the Gospel of John",
+      "year": 2003
+    },
+    {
+      "author": "J. Louis Martyn",
+      "title": "History and Theology in the Fourth Gospel",
+      "year": 1968
+    },
+    {
+      "author": "Richard Bauckham",
+      "title": "Jesus and the Eyewitnesses: The Gospels as Eyewitness Testimony",
+      "year": 2006
+    },
+    {
+      "author": "Richard Bauckham",
+      "title": "The Testimony of the Beloved Disciple",
+      "year": 2007
+    },
+    {
+      "author": "Craig S. Keener",
+      "title": "The Gospel of John: A Commentary (2 vols.)",
+      "year": 2003
+    },
+    {
+      "author": "D. A. Carson",
+      "title": "The Gospel According to John (Pillar New Testament Commentary)",
+      "year": 1991
+    },
+    {
+      "author": "Andreas J. Köstenberger",
+      "title": "John (Baker Exegetical Commentary on the New Testament)",
+      "year": 2004
+    },
+    {
+      "author": "Marianne Meye Thompson",
+      "title": "John: A Commentary (New Testament Library)",
+      "year": 2015
+    },
+    {
+      "author": "Adele Reinhartz",
+      "title": "Cast Out of the Covenant: Jews and Anti-Judaism in the Gospel of John",
+      "year": 2018
+    },
+    {
+      "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+      "title": "The Jewish Annotated New Testament (2nd ed.)",
+      "year": 2017
+    },
+    {
+      "author": "Amy-Jill Levine",
+      "title": "The Misunderstood Jew: The Church and the Scandal of the Jewish Jesus",
+      "year": 2006
+    },
+    {
+      "author": "Daniel Boyarin",
+      "title": "The Gospel of the Memra: Jewish Binitarianism and the Prologue to John",
+      "year": 2001,
+      "locator": "Harvard Theological Review 94.3"
+    },
+    {
+      "author": "Daniel Boyarin",
+      "title": "Border Lines: The Partition of Judaeo-Christianity",
+      "year": 2004
+    },
+    {
+      "author": "Reuven Kimelman",
+      "title": "Birkat Ha-Minim and the Lack of Evidence for an Anti-Christian Jewish Prayer in Late Antiquity",
+      "year": 1981,
+      "locator": "in E. P. Sanders (ed.), Jewish and Christian Self-Definition, vol. 2"
+    },
+    {
+      "author": "Joel Marcus",
+      "title": "Birkat Ha-Minim Revisited",
+      "year": 2009,
+      "locator": "New Testament Studies 55"
+    },
+    {
+      "author": "Mary L. Coloe",
+      "title": "God Dwells with Us: Temple Symbolism in the Fourth Gospel",
+      "year": 2001
+    },
+    {
+      "author": "Gale A. Yee",
+      "title": "Jewish Feasts and the Gospel of John",
+      "year": 1989
+    },
+    {
+      "author": "Paul N. Anderson",
+      "title": "The Riddles of the Fourth Gospel",
+      "year": 2011
+    },
+    {
+      "author": "Irenaeus of Lyon",
+      "title": "Against Heresies",
+      "locator": "3.1.1",
+      "publicDomain": true
+    },
+    {
+      "author": "Eusebius",
+      "title": "Ecclesiastical History",
+      "locator": "3.39 (Papias on John the Elder)",
+      "publicDomain": true
+    },
+    {
+      "author": "Mishnah",
+      "title": "Tractate Sukkah",
+      "locator": "chapters 4-5 (water-drawing and lamp-lighting)",
+      "publicDomain": true
+    }
+  ]
+}

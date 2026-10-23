@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import BibleMap, { type MapRoute } from '../components/BibleMap';
-import { Section, Refs, Ref, Conf, Paras, Empty, PageHeader, Tabs, Bookmark } from '../components/ui';
+import { Section, Refs, Ref, Conf, Paras, Empty, PageHeader, Tabs, Bookmark, Rich } from '../components/ui';
 import { MindMap, FlowChart, ArgumentGraph, AudienceDonut, TimeBar, Misreadings, ConnectionStar, bookName } from '../components/StudyViz';
 import { books, studyById, deepById } from '../data';
 import type { BookStudyT, BookT, PlaceT } from '../schemas';
@@ -32,10 +32,10 @@ export function BookStudyBlock({ b }: { b: BookT }) {
 
       <Section title="Who, where and to whom">
         <div className="grid gap-3 md:grid-cols-3 mb-4">
-          <div className="card p-4"><div className="eyebrow mb-1">Author</div><div className="display text-xl">{s.author.name}</div><p className="font-serif text-[1rem] mt-1">{s.author.who}</p><p className="text-sm text-muted mt-1.5">{s.author.howWeKnow}</p><div className="mt-1.5"><Conf c={s.author.confidence} small /></div>
+          <div className="card p-4"><div className="eyebrow mb-1">Author</div><div className="display text-xl">{s.author.name}</div><p className="font-serif text-[1rem] mt-1"><Rich text={s.author.who} /></p><p className="text-sm text-muted mt-1.5"><Rich text={s.author.howWeKnow} /></p><div className="mt-1.5"><Conf c={s.author.confidence} small /></div>
             {s.author.otherWritings.length > 0 && <div className="mt-2 text-sm"><span className="text-muted">Also wrote: </span>{s.author.otherWritings.join(', ')}</div>}</div>
-          <div className="card p-4"><div className="eyebrow mb-1">Written from</div><div className="display text-xl">{s.writtenFrom.place}</div><p className="font-serif text-[1rem] mt-1">{s.writtenFrom.note}</p><div className="mt-1.5"><Conf c={s.writtenFrom.confidence} small /></div></div>
-          <div className="card p-4"><div className="eyebrow mb-1">Written to</div><div className="display text-xl">{s.writtenTo.who}</div><div className="text-sm text-muted">{s.writtenTo.place}</div><p className="font-serif text-[1rem] mt-1">{s.writtenTo.situation}</p><div className="mt-1.5"><Conf c={s.writtenTo.confidence} small /></div></div>
+          <div className="card p-4"><div className="eyebrow mb-1">Written from</div><div className="display text-xl">{s.writtenFrom.place}</div><p className="font-serif text-[1rem] mt-1"><Rich text={s.writtenFrom.note} /></p><div className="mt-1.5"><Conf c={s.writtenFrom.confidence} small /></div></div>
+          <div className="card p-4"><div className="eyebrow mb-1">Written to</div><div className="display text-xl">{s.writtenTo.who}</div><div className="text-sm text-muted">{s.writtenTo.place}</div><p className="font-serif text-[1rem] mt-1"><Rich text={s.writtenTo.situation} /></p><div className="mt-1.5"><Conf c={s.writtenTo.confidence} small /></div></div>
         </div>
         <FromToMap s={s} />
       </Section>
@@ -46,7 +46,7 @@ export function BookStudyBlock({ b }: { b: BookT }) {
       <Section title="How the book moves"><FlowChart steps={s.flow} /></Section>
       <Section title="Cultural keys"><CultureCards items={s.culture} /></Section>
       <Section title="Through Jewish, covenant eyes"><div className="card p-5" style={{ background: 'rgb(var(--accent) / .05)' }}><Paras text={s.jewishLens} /></div></Section>
-      <Section title="Key words"><div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">{s.keyWords.map((k) => <div key={k.word} className="card p-3"><div className="flex items-baseline gap-2 flex-wrap"><span className="display text-xl">{k.word}</span><i className="text-accent">{k.original}</i></div><p className="font-serif text-[.98rem] mt-1">{k.meaning}</p><div className="mt-1"><Refs refs={k.refs} max={3} /></div></div>)}</div></Section>
+      <Section title="Key words"><div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">{s.keyWords.map((k) => <div key={k.word} className="card p-3"><div className="flex items-baseline gap-2 flex-wrap"><span className="display text-xl">{k.word}</span><i className="text-accent">{k.original}</i></div><p className="font-serif text-[.98rem] mt-1"><Rich text={k.meaning} /></p><div className="mt-1"><Refs refs={k.refs} max={3} /></div></div>)}</div></Section>
       {s.connections.length > 0 && <Section title="Connections to other books"><ConnectionStar id={b.id} links={s.connections} /></Section>}
       <Section title="Pointing to Jesus"><Paras text={s.jesusLens} /></Section>
       {s.misreadings.length > 0 && <Section title="Common misreadings"><Misreadings list={s.misreadings} /></Section>}
@@ -62,7 +62,7 @@ function CultureCards({ items }: { items: { term: string; explain: string; refs:
     <div className="grid gap-2 sm:grid-cols-2">{items.map((c, i) => (
       <button key={i} onClick={() => setOpen(open === i ? null : i)} className={`card p-4 text-left ${open === i ? 'border-accent' : ''}`}>
         <div className="flex justify-between gap-2"><span className="font-semibold">{c.term}</span><span className="text-muted">{open === i ? '−' : '+'}</span></div>
-        {open === i ? <div className="mt-1.5"><p className="font-serif text-[1rem]">{c.explain}</p><div className="mt-1.5" onClick={(e) => e.stopPropagation()}><Refs refs={c.refs} max={3} /></div></div> : <p className="text-sm text-muted line-clamp-1 mt-0.5">{c.explain}</p>}
+        {open === i ? <div className="mt-1.5"><p className="font-serif text-[1rem]"><Rich text={c.explain} /></p><div className="mt-1.5" onClick={(e) => e.stopPropagation()}><Refs refs={c.refs} max={3} /></div></div> : <p className="text-sm text-muted line-clamp-1 mt-0.5"><Rich text={c.explain} /></p>}
       </button>))}</div>
   );
 }
@@ -105,18 +105,18 @@ export function DeepStudyPage() {
         {d.audienceMap.length > 0 && <Section title="Who was in the room"><AudienceDonut groups={d.audienceMap} /></Section>}</div>}
 
       {tab === 'lens' && <div className="max-w-4xl"><Paras text={d.lens.summary} /><div className="grid gap-3 md:grid-cols-2 mt-5">{d.lens.principles.map((p, i) => (
-        <motion.div key={i} className="card p-4" initial={{ opacity: 0.5, y: 8 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}><div className="flex gap-2 items-baseline"><span className="display text-2xl rubric tabular">{i + 1}</span><span className="font-semibold">{p.name}</span></div><p className="font-serif mt-1">{p.text}</p><div className="mt-1.5"><Refs refs={p.refs} max={4} /></div></motion.div>))}</div>
+        <motion.div key={i} className="card p-4" initial={{ opacity: 0.5, y: 8 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }}><div className="flex gap-2 items-baseline"><span className="display text-2xl rubric tabular">{i + 1}</span><span className="font-semibold">{p.name}</span></div><p className="font-serif mt-1"><Rich text={p.text} /></p><div className="mt-1.5"><Refs refs={p.refs} max={4} /></div></motion.div>))}</div>
         {d.intro.split(/\n\n/).length > 1 && <Section title="Introduction"><Paras text={d.intro.split(/\n\n/).slice(1).join('\n\n')} /></Section>}</div>}
 
       {tab === 'misreadings' && <div><p className="font-serif text-[1.08rem] mb-4 max-w-[70ch]">Each card sets a common popular reading beside the reading from the book's Jewish, first-century setting, and then lets careful traditional scholars answer. Often both sides agree that popular preaching flattened something richer.</p><Misreadings list={d.misreadings} /></div>}
 
       {tab === 'views' && <div className="grid gap-3 md:grid-cols-2">{d.perspectives.map((p) => (
-        <div key={p.name} className="card p-4"><div className="display text-xl">{p.name}</div><div className="text-sm text-muted">{p.who}</div><p className="font-serif mt-2">{p.summary}</p>
-          <div className="grid gap-2 sm:grid-cols-2 mt-3 text-sm"><div className="rounded-lg p-2.5" style={{ background: 'rgb(var(--good) / .1)' }}><b>Strengths.</b> {p.strengths}</div><div className="rounded-lg p-2.5" style={{ background: 'rgb(var(--warn) / .1)' }}><b>Critiques.</b> {p.critiques}</div></div></div>))}</div>}
+        <div key={p.name} className="card p-4"><div className="display text-xl">{p.name}</div><div className="text-sm text-muted">{p.who}</div><p className="font-serif mt-2"><Rich text={p.summary} /></p>
+          <div className="grid gap-2 sm:grid-cols-2 mt-3 text-sm"><div className="rounded-lg p-2.5" style={{ background: 'rgb(var(--good) / .1)' }}><b>Strengths.</b> <Rich text={p.strengths} /></div><div className="rounded-lg p-2.5" style={{ background: 'rgb(var(--warn) / .1)' }}><b>Critiques.</b> <Rich text={p.critiques} /></div></div></div>))}</div>}
 
       {tab === 'terms' && <div className="grid gap-2 md:grid-cols-2">{d.keyTerms.map((k) => (
         <div key={k.term} className="card p-4"><div className="flex items-baseline gap-2 flex-wrap"><span className="display text-xl">{k.term}</span><i className="text-accent">{k.original}</i></div>
-          <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-1 mt-2 text-[.95rem] font-serif"><span className="eyebrow pt-1">Usual</span><span>{k.usual}</span><span className="eyebrow pt-1">In context</span><span>{k.inContext}</span></div><div className="mt-1.5"><Refs refs={k.refs} max={4} /></div></div>))}</div>}
+          <div className="grid grid-cols-[auto_1fr] gap-x-2 gap-y-1 mt-2 text-[.95rem] font-serif"><span className="eyebrow pt-1">Usual</span><span><Rich text={k.usual} /></span><span className="eyebrow pt-1">In context</span><span><Rich text={k.inContext} /></span></div><div className="mt-1.5"><Refs refs={k.refs} max={4} /></div></div>))}</div>}
 
       {d.sources.length > 0 && <Section title="Further reading"><ul className="text-sm space-y-1">{d.sources.map((x, i) => <li key={i}><b>{x.author}</b>, <i>{x.title}</i>{x.year ? ` (${x.year})` : ''}</li>)}</ul></Section>}
     </div>
@@ -128,7 +128,7 @@ function ChapterView({ c, bookAbbr }: { c: NonNullable<ReturnType<typeof deepByI
   return (
     <motion.article initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }}>
       <div className="flex flex-wrap items-baseline gap-3"><span className="display text-5xl rubric tabular">{c.n}</span><h2 className="display text-3xl leading-tight">{c.title}</h2><Ref r={`${bookAbbr} ${c.n}`} /></div>
-      <p className="font-serif text-[1.15rem] mt-2 max-w-[72ch]">{c.summary}</p>
+      <p className="font-serif text-[1.15rem] mt-2 max-w-[72ch]"><Rich text={c.summary} /></p>
       <div className="grid gap-4 lg:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)] mt-4">
         <div className="card p-4">
           <div className="flex flex-wrap gap-1 mb-3">{LENSES.map(([k, l]) => <button key={k} onClick={() => setLens(k)} className={`chip !text-[.8rem] !py-1 ${lens === k ? '!bg-accent !text-accentInk !border-accent' : 'hover:border-accent'}`}>{l}</button>)}</div>
@@ -136,8 +136,8 @@ function ChapterView({ c, bookAbbr }: { c: NonNullable<ReturnType<typeof deepByI
           <div className="mt-3"><Refs refs={c.keyRefs} max={6} /></div>
         </div>
         <div className="space-y-3">
-          {c.echoes.length > 0 && <div className="card p-4"><div className="eyebrow mb-2">Old Testament echoes</div><ul className="space-y-2">{c.echoes.map((e, i) => <li key={i} className="flex gap-2 items-start"><span className="shrink-0"><Ref r={e.ref} /></span><span className="font-serif text-[.98rem]">{e.note}</span></li>)}</ul></div>}
-          {c.misread && <div className="card p-4" style={{ borderColor: 'rgb(var(--warn) / .6)' }}><div className="eyebrow mb-1">Often misread</div><p className="font-serif text-[.98rem]"><b>Popular:</b> {c.misread.popular}</p><p className="font-serif text-[.98rem] mt-1.5"><b>In context:</b> {c.misread.better}</p></div>}
+          {c.echoes.length > 0 && <div className="card p-4"><div className="eyebrow mb-2">Old Testament echoes</div><ul className="space-y-2">{c.echoes.map((e, i) => <li key={i} className="flex gap-2 items-start"><span className="shrink-0"><Ref r={e.ref} /></span><span className="font-serif text-[.98rem]"><Rich text={e.note} /></span></li>)}</ul></div>}
+          {c.misread && <div className="card p-4" style={{ borderColor: 'rgb(var(--warn) / .6)' }}><div className="eyebrow mb-1">Often misread</div><p className="font-serif text-[.98rem]"><b>Popular:</b> <Rich text={c.misread.popular} /></p><p className="font-serif text-[.98rem] mt-1.5"><b>In context:</b> <Rich text={c.misread.better} /></p></div>}
         </div>
       </div>
     </motion.article>

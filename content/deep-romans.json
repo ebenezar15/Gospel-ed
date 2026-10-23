@@ -1,0 +1,1443 @@
+{
+  "id": "romans",
+  "title": "Romans: God's Faithfulness, One Family, and the Good News of Jesus as Lord",
+  "intro": "Romans is Paul's longest letter and the one that has shaped Christian theology more than almost any other book. Augustine was converted reading Romans 13. Luther found his breakthrough in Romans 1:17. John Wesley felt his heart 'strangely warmed' hearing Luther's preface to Romans read aloud. Many evangelicals learned the gospel through the 'Romans Road' (a short chain of verses from Romans used in evangelism).\n\nBut Romans was first a real letter, carried by a real woman (Phoebe) to a handful of house churches in the capital of the empire around AD 57. Paul had never been there. The believers were a mix of Jews and non-Jews (Gentiles) who did not always eat at the same table or keep the same holy days. Paul wanted their support for a mission to Spain, and he was about to take a money gift from Gentile churches to the poor believers in Jerusalem.\n\nThis study reads Romans chapter by chapter through that first setting: Israel's covenant story (God's binding promise-relationship with Abraham's family), Torah as God's gift, the hope that God would end Israel's exile and bless the nations, and a Roman world of honour and shame, patrons and clients, and an emperor hailed as 'son of god' whose reign was called 'good news' and 'peace'. It also sets out, fairly, where scholars disagree about Romans and why it matters.",
+  "lens": {
+    "summary": "Read Romans as a letter about the faithfulness of Israel's God. God promised Abraham a worldwide family and promised to put the world right. Paul argues that in the death and resurrection of Jesus, Israel's Messiah (anointed king), God has kept those promises: he has dealt with sin, made one family out of Jews and Gentiles, given the Spirit, and not abandoned Israel. Salvation is deeply personal, but in Romans it is never only private. It is about being brought into a people, under a new Lord, living in a new way together.",
+    "principles": [
+      {
+        "name": "God's righteousness is God's covenant faithfulness",
+        "text": "In the Hebrew Bible, God's 'righteousness' (tsedaqah) often means God acting rightly and faithfully to rescue his people and keep his promises. Paul opens and builds his argument on this idea. Scholars debate how much it also means a status God gives to people; most now agree it includes God's own saving action, not only a gift handed over.",
+        "refs": [
+          "Rom 1:16-17",
+          "Rom 3:21-26",
+          "Ps 98:2-3",
+          "Isa 51:5-8"
+        ]
+      },
+      {
+        "name": "Abraham's family is the question behind the questions",
+        "text": "Who belongs to Abraham's family, and on what basis? Paul answers: all who share Abraham's trust in the God who raises the dead, whether circumcised or not. Romans 4 is not a side illustration; it is the hinge of the argument.",
+        "refs": [
+          "Rom 4:11-17",
+          "Gen 15:6",
+          "Gen 17:5"
+        ]
+      },
+      {
+        "name": "Israel's story: Adam, exile and return",
+        "text": "Paul reads human history through Adam's fall and Israel's history through sin, exile and the promise of return. Jesus is the faithful one who undoes Adam's disobedience and brings the long-awaited 'return' of God's presence by the Spirit.",
+        "refs": [
+          "Rom 5:12-21",
+          "Rom 8:1-4",
+          "Deut 30:1-6",
+          "Ezek 36:26-27"
+        ]
+      },
+      {
+        "name": "Torah is holy, but it cannot give life by itself",
+        "text": "Paul never calls the Law evil. It is holy, just and good, a gift of the covenant. The problem is sin using the Law, and human flesh that cannot keep it. Paul also resists making the Law a badge that keeps Gentiles out.",
+        "refs": [
+          "Rom 7:12",
+          "Rom 3:29-31",
+          "Rom 8:3-4",
+          "Rom 10:4"
+        ]
+      },
+      {
+        "name": "Grace as a gift that creates a relationship",
+        "text": "In the Roman world, a gift (charis) bound giver and receiver together; the receiver owed gratitude and loyalty. John Barclay shows that Paul's radical point is that God gives to the unworthy, without regard to prior worth, yet the gift still expects a transformed life in return.",
+        "refs": [
+          "Rom 5:6-8",
+          "Rom 6:1-4",
+          "Rom 12:1"
+        ]
+      },
+      {
+        "name": "Faith as trust and loyalty (pistis)",
+        "text": "The Greek word pistis covers belief, trust, faithfulness and loyalty. Paul speaks of the 'obedience of faith' among the nations, framing the letter. Matthew Bates argues this includes allegiance to Jesus as king; others stress that faith is receiving, not achieving.",
+        "refs": [
+          "Rom 1:5",
+          "Rom 16:26",
+          "Rom 4:20-21",
+          "Rom 10:9"
+        ]
+      },
+      {
+        "name": "A rival gospel to Caesar's",
+        "text": "Roman inscriptions called the emperor's birth 'good news' (euangelion), Augustus 'son of a god', and the empire's order 'peace'. Paul's gospel announces another Son of God, risen from the dead, whose peace comes through reconciliation. Scholars debate how deliberate the contrast is.",
+        "refs": [
+          "Rom 1:3-4",
+          "Rom 5:1",
+          "Rom 10:9",
+          "Rom 13:1-7"
+        ]
+      },
+      {
+        "name": "One table: a letter for a divided church",
+        "text": "Romans ends with practical appeals: welcome one another as Christ welcomed you. Many scholars think chapters 14-15, about food and days, show what the whole argument is driving at: Jews and Gentiles glorifying God with one voice.",
+        "refs": [
+          "Rom 14:1-3",
+          "Rom 15:5-9",
+          "Rom 15:7"
+        ]
+      }
+    ]
+  },
+  "audienceMap": [
+    {
+      "group": "Gentile believers (some formerly 'God-fearers' at synagogues)",
+      "share": 60,
+      "concerns": "Do we need to become Jews (circumcision, food laws, Sabbath) to be full members? Has God finished with Israel now that so many Jews do not believe? Some were tempted to look down on Jewish believers and their scruples (Rom 11:18-20)."
+    },
+    {
+      "group": "Jewish believers (including returnees after Claudius's expulsion)",
+      "share": 30,
+      "concerns": "Is God still faithful to Israel? Is the Torah being thrown away? Why are uncircumcised Gentiles treated as equals? Some returned from exile under Claudius to find Gentile-led house churches with different habits."
+    },
+    {
+      "group": "Paul's friends and co-workers named in chapter 16",
+      "share": 5,
+      "concerns": "Prisca and Aquila, Junia and Andronicus and others who knew Paul. They could vouch for him and help the churches receive his letter and his Spain mission."
+    },
+    {
+      "group": "Household slaves, freedpeople and the poor",
+      "share": 5,
+      "concerns": "Many names in Romans 16 are typical slave or freed names. For them, talk of slavery to sin, redemption, adoption and being heirs would land with special force. (Overlaps with the groups above; share is rough.)"
+    }
+  ],
+  "argument": [
+    {
+      "id": "a1",
+      "label": "The gospel of God's Son",
+      "chapters": "1",
+      "text": "Paul introduces himself and the gospel about David's descendant, declared Son of God by resurrection. The gospel is God's power to save the Jew first and also the Greek, because God's righteousness is revealed in it.",
+      "next": [
+        "a2"
+      ]
+    },
+    {
+      "id": "a2",
+      "label": "All have sinned: Gentile and Jew",
+      "chapters": "1-3",
+      "text": "Gentile idolatry leads to disorder; Jews who judge others do the same things. Having the Law does not exempt anyone. The whole world is accountable to God.",
+      "next": [
+        "a3"
+      ]
+    },
+    {
+      "id": "a3",
+      "label": "God's righteousness through the Messiah",
+      "chapters": "3",
+      "text": "Now, apart from the Law, God's righteousness is revealed through the faith(fulness) of Jesus the Messiah, whose death is the place of atonement. God is shown to be just and the one who justifies.",
+      "next": [
+        "a4"
+      ]
+    },
+    {
+      "id": "a4",
+      "label": "Abraham, father of all who trust",
+      "chapters": "4",
+      "text": "Abraham was counted righteous by trust before circumcision, so he is father of believing Jews and Gentiles alike. God's promise was always to give him many nations.",
+      "next": [
+        "a5"
+      ]
+    },
+    {
+      "id": "a5",
+      "label": "Peace with God; Adam and Christ",
+      "chapters": "5",
+      "text": "Justified, we have peace and hope. Christ's obedience overturns Adam's disobedience; where sin multiplied, grace multiplied more.",
+      "next": [
+        "a6",
+        "a7"
+      ]
+    },
+    {
+      "id": "a6",
+      "label": "Dead to sin, alive to God",
+      "chapters": "6",
+      "text": "Grace is not licence. Baptised into Christ's death and resurrection, believers change masters: from slavery to sin to slavery to God.",
+      "next": [
+        "a8"
+      ]
+    },
+    {
+      "id": "a7",
+      "label": "The Law is good, sin is the problem",
+      "chapters": "7",
+      "text": "Believers have died to the Law's rule. The Law is holy, but sin hijacked it; the 'I' who delights in the Law cannot do what it commands. Who will rescue me?",
+      "next": [
+        "a8"
+      ]
+    },
+    {
+      "id": "a8",
+      "label": "Life in the Spirit; new creation",
+      "chapters": "8",
+      "text": "No condemnation for those in Christ. The Spirit fulfils the Law's just requirement in us, makes us God's children and heirs, and points to the renewal of all creation. Nothing can separate us from God's love.",
+      "next": [
+        "a9"
+      ]
+    },
+    {
+      "id": "a9",
+      "label": "Has God's word failed Israel?",
+      "chapters": "9",
+      "text": "If nothing can separate us from God's love, what about Israel? God's promise has always worked by calling and mercy, through a remnant, and now includes Gentiles.",
+      "next": [
+        "a10"
+      ]
+    },
+    {
+      "id": "a10",
+      "label": "The word is near: confess Jesus as Lord",
+      "chapters": "10",
+      "text": "Christ is the goal of the Law. Deuteronomy's 'word near you' is now the message of faith. Anyone, Jew or Greek, who calls on the Lord will be saved, so messengers must be sent.",
+      "next": [
+        "a11"
+      ]
+    },
+    {
+      "id": "a11",
+      "label": "All Israel will be saved",
+      "chapters": "11",
+      "text": "God has not rejected his people. Gentiles are grafted into Israel's olive tree and must not boast. Israel's stumbling is temporary; God's gifts and calling are irrevocable. Doxology.",
+      "next": [
+        "a12"
+      ]
+    },
+    {
+      "id": "a12",
+      "label": "Living sacrifices in one body",
+      "chapters": "12-13",
+      "text": "In view of God's mercies, believers offer their bodies as living worship, use their gifts in one body, love enemies, live wisely under rulers, and love their neighbour as the fulfilling of the Law.",
+      "next": [
+        "a13"
+      ]
+    },
+    {
+      "id": "a13",
+      "label": "Welcome one another: strong and weak",
+      "chapters": "14-15",
+      "text": "Do not despise or judge one another over food and days. Christ became a servant to the circumcised for God's truthfulness and so that the nations might glorify God. Paul's plans: Jerusalem, Rome, Spain.",
+      "next": [
+        "a14"
+      ]
+    },
+    {
+      "id": "a14",
+      "label": "Greetings: the church in names",
+      "chapters": "16",
+      "text": "Phoebe is commended; some 26 people and several households are greeted, Jews and Gentiles, women and men, slaves and free. A final warning against division and a doxology to the God who strengthens through the gospel.",
+      "next": []
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "The Gospel of God's Son and a World Gone Wrong",
+      "summary": "Paul introduces himself as a slave of the Messiah and an apostle sent to bring about 'the obedience of faith' among all nations. His gospel is about God's Son, descended from David and declared Son of God in power by the resurrection. He states his theme: the gospel is God's power for salvation to the Jew first and also the Greek, because in it God's righteousness is revealed. Then he describes how humanity exchanged the glory of God for idols, and how God 'handed them over' to the consequences.",
+      "background": "Paul writes from Corinth around AD 57, near the end of his third journey (Acts 20:2-3). He has never visited Rome, though he has long wanted to (Rom 1:13). The Roman believers met in several house churches. Jewish believers had been expelled from Rome under Emperor Claudius around AD 49 (the Roman historian Suetonius says Jews were expelled for disturbances 'at the instigation of Chrestus', probably a garbled reference to Christ; compare Acts 18:2). After Claudius died in AD 54 many returned, to find churches now led largely by Gentiles. Paul writes partly to introduce his gospel, partly to gain support for a mission to Spain.",
+      "culture": "Paul's opening reads like a royal announcement. In the Roman world, 'gospel' (euangelion) was used for good news of an emperor's birth, accession or victory; Augustus was called divi filius, 'son of the divine (Julius)'. Paul announces a different Son of God, enthroned not by a senate vote but by resurrection. 'Slave' (doulos) was a real social category; a slave of a powerful household carried its master's authority. Honour and shame drive verses 18-32: humans refused to give God the honour (doxa, glory) due to him, and their own lives became dishonoured. 'I am not ashamed of the gospel' is a bold claim in a culture where a crucified Lord was the height of shame.",
+      "jewishLens": "Paul's gospel was 'promised beforehand through his prophets in the holy scriptures' (1:2): it is the next chapter of Israel's story, not a new religion. Jesus is the 'seed of David', the promised king of 2 Samuel 7 and Psalm 2. 'The righteous shall live by faith' quotes Habakkuk 2:4, written when Babylon threatened Judah and the faithful had to trust God's promise. The description of idolatry in 1:18-32 echoes Jewish critiques like the Wisdom of Solomon 13-14 and Israel's own story: 'they exchanged their glory' recalls the golden calf (Ps 106:20) and Jeremiah 2:11. Paul uses a Jewish argument everyone would cheer, then turns it in chapter 2.",
+      "audience": "Gentile believers would recognise their own past in the description of idols and the moral chaos that followed. Jewish believers would hear a familiar synagogue sermon against pagan idolatry and nod along. Both would notice the ordering 'to the Jew first' (1:16): Gentiles are reminded that the gospel came through Israel, while Jews are reminded that it is also for the Greek.",
+      "today": "Romans 1 is often used only for its list of sins. Its deeper point is that every human disorder grows from failing to honour and thank God (1:21). It also challenges every nationalism and every 'Caesar' by naming Jesus, the risen Davidic king, as the true Son of God. Readers should remember the chapter is a set-up: Paul is about to say that those who judge others are no better off.",
+      "keyRefs": [
+        "Rom 1:1-7",
+        "Rom 1:16-17",
+        "Rom 1:18-23",
+        "Rom 1:24-32",
+        "Acts 18:2"
+      ],
+      "echoes": [
+        {
+          "ref": "Hab 2:4",
+          "note": "'The righteous shall live by faith(fulness)': in Habakkuk, trusting God's promise while the empire rages. Paul makes it the theme verse of Romans."
+        },
+        {
+          "ref": "2 Sam 7:12-14",
+          "note": "God promises David a descendant whose kingdom will last and who will be God's son. Rom 1:3-4 announces its fulfilment."
+        },
+        {
+          "ref": "Ps 2:7",
+          "note": "'You are my son, today I have begotten you': the royal enthronement psalm behind 'declared Son of God in power'."
+        },
+        {
+          "ref": "Ps 106:20",
+          "note": "Israel 'exchanged their glory' for an image of an ox at Sinai; Rom 1:23 uses the same language, so even the anti-pagan charge has Israel's story in it."
+        },
+        {
+          "ref": "Ps 98:2-3",
+          "note": "The Lord has revealed his righteousness and remembered his faithfulness to Israel in the sight of the nations."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 1:18-32 is mainly a list proving how wicked 'they' (pagans, or today's culture) are.",
+        "better": "Paul uses a standard Jewish critique of Gentile sin to set up a trap: in 2:1 he turns to anyone who agrees and says 'you who judge do the same things'. The passage shows that all humanity, including the judge, needs God's rescue."
+      }
+    },
+    {
+      "n": 2,
+      "title": "No Favouritism: Judgment for the Judge",
+      "summary": "Paul turns on the reader who condemns pagan sin: you do the same things. God judges impartially, according to what each person has done, Jew and Gentile alike. Having the Law and circumcision is a gift, but it does not protect anyone who breaks it. True Jewishness is a matter of the heart, circumcised by the Spirit.",
+      "background": "In Rome, Jewish communities were well established, with several synagogues, and some Gentiles had been attracted to them as 'God-fearers'. Paul addresses an imagined conversation partner, first anyone who judges (2:1), then one who 'calls himself a Jew' (2:17). Scholars debate whether this second figure is a Jewish teacher, or (as Rafael Rodríguez and Runar Thorsteinsson argue) a Gentile who has taken on Jewish identity and now judges others.",
+      "culture": "Paul uses a teaching style called diatribe: an imagined dialogue with a conversation partner, common in Stoic philosophers like Epictetus. Readers should hear it as lively argument, not a personal attack. 'God shows no partiality' (prosōpolēmpsia, literally 'receiving the face') hits a society where courts openly favoured the honourable and wealthy. Honour language continues: 'glory, honour and immortality' versus 'wrath and fury'.",
+      "jewishLens": "Paul draws on Israel's own prophets, who constantly warned that being God's people meant greater responsibility (Amos 3:2). Israel's calling was to be 'a light to those in darkness' (Isa 42:6-7); Paul says that when God's people break the covenant, 'the name of God is blasphemed among the Gentiles' (Isa 52:5; Ezek 36:20). The hope of a circumcised heart comes from Deuteronomy 30:6 and Jeremiah 31:33, promises for the time after exile. Paul is not attacking Judaism; he is using its own scriptures to say that the promised renewal has to happen from the inside.",
+      "audience": "Jewish believers might feel stung: their privileges seem to count for less. Gentile believers might feel unexpectedly honoured: Gentiles who 'do by nature what the law requires' (2:14) are taken seriously. But the chapter also warns Gentiles who had begun to look down on Jews (11:18) that judging others is the very sin Paul just exposed.",
+      "today": "Romans 2 confronts religious insiders of every kind. Knowing the Bible, attending church or holding correct doctrine cannot replace a changed heart. It also insists that God's final judgment will take account of how people actually lived (2:6-7), a verse every tradition must reckon with.",
+      "keyRefs": [
+        "Rom 2:1-5",
+        "Rom 2:6-11",
+        "Rom 2:12-16",
+        "Rom 2:17-24",
+        "Rom 2:25-29"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 62:12",
+          "note": "'You repay each one according to his work' (also Prov 24:12), quoted in Rom 2:6."
+        },
+        {
+          "ref": "Isa 52:5",
+          "note": "'My name is continually blasphemed' because of Israel's exile; Paul cites it in Rom 2:24."
+        },
+        {
+          "ref": "Deut 30:6",
+          "note": "God promises to circumcise his people's hearts after exile, the hope behind Rom 2:29."
+        },
+        {
+          "ref": "Jer 31:33",
+          "note": "The new covenant writes the Law on the heart, echoed in Rom 2:15."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 2:6-13 is purely hypothetical: Paul describes salvation by works only to show it is impossible.",
+        "better": "This is genuinely debated. Some (Douglas Moo, for example) read it as stating the Law's standard, which no one in fact meets. Others (Wright, Thomas Schreiner, Simon Gathercole) think the Gentiles 'doing the law' are Christians transformed by the Spirit, and that final judgment according to works is real, though based on God's prior grace. Either way, Paul is not teaching salvation by merit."
+      }
+    },
+    {
+      "n": 3,
+      "title": "God Is Faithful; the Messiah Is the Answer",
+      "summary": "Paul asks: then what advantage is there in being a Jew? Much: they were entrusted with God's words, and human unfaithfulness cannot cancel God's faithfulness. A chain of scripture shows that all, Jew and Gentile, are under sin. Then comes the turning point: now God's righteousness has been revealed apart from the Law, through the faith(fulness) of Jesus the Messiah, whose death is the place of atonement, so that God is both just and the justifier. Boasting is excluded, because God is God of Jews and Gentiles alike.",
+      "background": "Paul's opponents accused him of teaching 'let us do evil that good may come' (3:8). His gospel of grace for the ungodly was controversial. Rom 3:21-26 is extremely compact, and some scholars think Paul is adapting an earlier Jewish-Christian confession about Jesus' death. It is the most debated paragraph in the letter.",
+      "culture": "'Redemption' (apolytrōsis) was the word for buying back a slave or prisoner. 'Justify' belongs to the lawcourt: a judge declares who is in the right. 'Boasting' was a feature of honour culture: people publicly claimed status. Paul says the Messiah's cross leaves no room for anyone, Jew or Gentile, to claim superior honour before God.",
+      "jewishLens": "The big question of 3:1-8 is God's own faithfulness (pistis) and righteousness: has God kept faith with Israel when Israel has not? Paul says yes. The word for atonement, hilastērion, is the Greek name for the 'mercy seat' where the high priest sprinkled blood on the Day of Atonement (Lev 16). Jesus' death is presented as the place where God meets and deals with sin, publicly. The Shema ('the LORD is one', Deut 6:4) is used in 3:30: because God is one, he must be the God of all nations, so he justifies Jews and Gentiles on the same basis. Paul ends by saying faith 'establishes' the Law (3:31), not abolishes it.",
+      "audience": "Jewish believers would welcome 3:1-4: Israel's privileges are real, and God is faithful. They would also hear their own psalms quoted to show that sin is universal. Gentile believers would hear that they stand on level ground with Jews, justified the same way. 'Is he not the God of Gentiles also?' was the sentence both groups needed to hear about each other.",
+      "today": "Rom 3:23 ('all have sinned') is usually quoted alone. In context, it explains why there is 'no distinction' between Jew and Gentile (3:22). The cross levels every group. This chapter also shows Paul caring as much about God being proved faithful and just as about humans being forgiven.",
+      "keyRefs": [
+        "Rom 3:1-4",
+        "Rom 3:9-20",
+        "Rom 3:21-26",
+        "Rom 3:27-31"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 51:4",
+          "note": "David confesses his sin so that God is 'justified' in his words; quoted in Rom 3:4."
+        },
+        {
+          "ref": "Ps 14:1-3",
+          "note": "'There is none righteous': the first of a chain of psalms and prophets in Rom 3:10-18."
+        },
+        {
+          "ref": "Ps 143:2",
+          "note": "'No one living is righteous before you', echoed in Rom 3:20."
+        },
+        {
+          "ref": "Lev 16:14-16",
+          "note": "The mercy seat on the Day of Atonement, the background to hilastērion in Rom 3:25."
+        },
+        {
+          "ref": "Deut 6:4",
+          "note": "The Shema: God is one, so he is the God of Jews and Gentiles (Rom 3:29-30)."
+        }
+      ],
+      "misread": {
+        "popular": "Rom 3:23 is the start of a personal salvation plan: you are a sinner, so you need Jesus.",
+        "better": "True, but in Paul's argument the verse serves a larger point: since all have sinned, Jew and Gentile have equal access to God's grace in the Messiah, and neither can boast over the other (3:27-30)."
+      }
+    },
+    {
+      "n": 4,
+      "title": "Abraham, Father of Us All",
+      "summary": "Paul turns to Abraham, the founding father. Abraham 'believed God, and it was counted to him as righteousness' (Gen 15:6), and that happened before he was circumcised. So Abraham is the father both of the uncircumcised who believe and of the circumcised who follow in his steps of faith. God's promise that he would inherit the world came through the righteousness of faith, by grace, so that it would be sure for all his offspring. Abraham's faith was trust in the God who gives life to the dead.",
+      "background": "Abraham was the central figure in Jewish debates about identity and righteousness. Some Jewish writings of the period presented Abraham as faithful in keeping God's commands even before Sinai (for example Sirach 44:19-21 and Jubilees). Paul enters this conversation and reads Abraham's story in the order Genesis tells it: promise and faith in Genesis 15, circumcision later in Genesis 17.",
+      "culture": "'Counted' (logizomai) is an accounting word: a sum entered in a ledger. Paul contrasts wages owed to a worker with a gift given freely (4:4-5), drawing on everyday experience of employment and patronage. Ancestry mattered enormously in honour culture; to call Abraham 'our forefather according to the flesh' and then say he is father of uncircumcised Gentiles was socially explosive.",
+      "jewishLens": "This chapter is about Abraham's family, the covenant question at the heart of Romans. God promised Abraham he would be 'father of many nations' (Gen 17:5) and that in him all nations would be blessed (Gen 12:3). Paul argues that this promise is fulfilled when Gentiles trust Israel's God and are counted as Abraham's children. David's Psalm 32 adds that God's blessing includes forgiving sins and not counting them. Abraham's faith in a God who 'gives life to the dead' (4:17) foreshadows faith in the God who raised Jesus.",
+      "audience": "For Gentile believers, this chapter gave them a family tree: they were not second-class guests but Abraham's children. For Jewish believers, it honoured Abraham as their father too, but asked them to see the uncircumcised as brothers and sisters. Both were invited to imitate Abraham's hope against hope (4:18).",
+      "today": "Romans 4 shows that faith is not mere agreement with facts but trust in God's promise when circumstances say it is impossible. It also roots Christian identity in Israel's story: believers have a Jewish father in faith. Churches divided by ethnicity are reminded that God's promise was always for many nations.",
+      "keyRefs": [
+        "Rom 4:1-8",
+        "Rom 4:9-12",
+        "Rom 4:13-17",
+        "Rom 4:18-25"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 15:6",
+          "note": "Abraham believed the Lord, and he counted it to him as righteousness: the text the whole chapter expounds."
+        },
+        {
+          "ref": "Ps 32:1-2",
+          "note": "David's blessing on the one whose sin is forgiven and not counted, linked to Gen 15:6 by the shared word 'count'."
+        },
+        {
+          "ref": "Gen 17:5",
+          "note": "'Father of many nations': the promise Paul sees fulfilled in Gentile believers."
+        },
+        {
+          "ref": "Gen 18:14",
+          "note": "Is anything too hard for the Lord? The background to Abraham's faith in the God who gives life to the dead."
+        }
+      ],
+      "misread": {
+        "popular": "Abraham is simply an example of an individual saved by faith rather than works.",
+        "better": "He is that, but Paul's main concern is who belongs to Abraham's family. Abraham is 'the father of us all' (4:16), Jew and Gentile, because God's promise was always for many nations and always received by trust."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Peace with God: Adam and the Messiah",
+      "summary": "Justified by faith, believers have peace with God, access to grace and hope of sharing God's glory, even through suffering. God shows his love in that Christ died for us while we were still sinners and enemies. Paul then compares Adam and Christ: through one man's disobedience sin and death entered the world and reigned; through one man's obedience grace reigns through righteousness to eternal life. The Law came in to increase the trespass, but where sin increased, grace overflowed.",
+      "background": "Chapter 5 begins the second movement of the letter. Paul shifts from 'faith' language to 'life', 'hope', 'love' and 'Spirit'. The Roman church lived with real suffering: insecurity after the expulsion under Claudius, social suspicion of a strange new group, and the hardships of slaves and poor members.",
+      "culture": "'Peace' (pax) was Rome's great boast: the Pax Romana, celebrated on coins and in the Altar of Peace built for Augustus. It was peace imposed by conquest. Paul offers peace with God made by reconciliation, an enemy being won over. 'Access' (prosagōgē) could describe being introduced into a king's presence by a patron. Dying for a good person (a patron or benefactor) was imaginable; dying for an enemy was not (5:7-8).",
+      "jewishLens": "Jewish writings of the time (for example 4 Ezra and 2 Baruch, written later in the first century) reflected on Adam's sin and its effects on humanity. Paul reads Israel's calling as God's answer to Adam: God called Abraham to undo Adam's ruin. But the Law, given to Israel, actually showed sin more clearly (5:20). Jesus, the faithful Israelite and true human, finally does what Adam and Israel failed to do. The 'love of God poured into our hearts through the Holy Spirit' echoes the prophetic promise of the Spirit poured out (Joel 2:28).",
+      "audience": "Slaves and powerless members would hear that they had access to the highest presence of all. Gentiles would hear that their story is part of humanity's story from Adam. Jews would hear that the Law's role was real but limited, and that the Messiah has fulfilled Israel's vocation. Everyone would hear 'peace' in contrast with Rome's version.",
+      "today": "Romans 5:8 is often quoted rightly as the heart of God's love. The Adam-Christ passage widens the gospel from 'my sins' to 'humanity's story': Jesus starts a new humanity. Different traditions read 5:12 differently: Western churches (following Augustine) see inherited guilt; Eastern Orthodox see inherited mortality and corruption. Both agree Christ's obedience is greater than Adam's fall.",
+      "keyRefs": [
+        "Rom 5:1-5",
+        "Rom 5:6-11",
+        "Rom 5:12-14",
+        "Rom 5:15-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 3:17-19",
+          "note": "Adam's disobedience brings death into the world, the background to Rom 5:12."
+        },
+        {
+          "ref": "Isa 53:11-12",
+          "note": "The servant makes 'many' righteous through his obedience; Rom 5:19 echoes 'the many'."
+        },
+        {
+          "ref": "Joel 2:28",
+          "note": "God promises to pour out his Spirit, echoed in love 'poured out' by the Spirit (Rom 5:5)."
+        },
+        {
+          "ref": "Isa 52:7",
+          "note": "The messenger who announces peace and says 'your God reigns', the Jewish meaning of peace-as-gospel."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 5:12 proves that each baby is born personally guilty of Adam's sin (a Western doctrine of original guilt).",
+        "better": "Paul clearly says sin and death came through Adam and spread to all. How exactly (inherited guilt, inherited corruption, or each person's own sinning, 'because all sinned') is debated between Augustinian, Reformed and Orthodox traditions. Paul's main point is the greater power of Christ's grace."
+      }
+    },
+    {
+      "n": 6,
+      "title": "Changing Masters: Dead to Sin, Alive to God",
+      "summary": "Should we keep sinning so grace can increase? By no means. Believers were baptised into Christ's death so that they might walk in newness of life, sharing his resurrection. Sin is no longer to reign in their mortal bodies. Using the picture of slavery, Paul says they have changed masters: once slaves of sin, now slaves of righteousness and of God. The wages of sin is death, but the free gift of God is eternal life in Christ Jesus our Lord.",
+      "background": "Paul's critics accused his grace-gospel of encouraging moral laxity (3:8). He answers by grounding ethics in union with Christ. Baptism was the moment of transfer into the Messiah's people, probably by immersion, a visible picture of burial and rising.",
+      "culture": "Slavery was everywhere in Rome; perhaps a third of the city's population were slaves or former slaves. Slaves could be bought, sold, or transferred to new owners; a freed slave owed continuing duties to his patron. Paul says, 'I am speaking in human terms because of your weakness' (6:19): he uses slavery as an analogy his hearers knew in their bodies. 'Wages' (opsōnia) were a soldier's ration-pay; 'gift' (charisma) was a free grant. Paul contrasts what sin pays out with what God gives.",
+      "jewishLens": "Rom 6 retells the Exodus. Israel passed through the sea (which Paul elsewhere calls a 'baptism', 1 Cor 10:2), leaving slavery in Egypt to serve God. Believers pass through baptism, leaving slavery to sin to serve God. 'Present yourselves to God' (6:13) uses the language of offering. 'Newness of life' fits the prophetic hope of new creation. The goal is holiness (6:19, 6:22), what Torah always aimed at: 'you shall be holy, for I am holy'.",
+      "audience": "Slaves and freedpeople would feel this chapter keenly: they knew what it meant to change owners, and what it cost. Gentile converts from pagan cults, which also had initiation rites, would hear that baptism means death to the old life, not just a ritual. Jewish believers concerned that Paul's gospel was lawless would hear Paul insisting on holiness.",
+      "today": "Romans 6:23 is usually preached to unbelievers. In context it is said to believers: you have a new master; do not go back to the old one. Grace is not a loophole but a new allegiance. The chapter also invites careful thought about how slavery imagery lands for descendants of enslaved peoples: Paul uses it to speak of liberation, not to endorse the institution.",
+      "keyRefs": [
+        "Rom 6:1-4",
+        "Rom 6:5-11",
+        "Rom 6:12-14",
+        "Rom 6:15-23"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 14:29-31",
+          "note": "Israel passes through the sea from slavery to freedom; Paul links this to baptism (1 Cor 10:1-2)."
+        },
+        {
+          "ref": "Exod 19:5-6",
+          "note": "Redeemed Israel becomes God's treasured possession and holy nation: freed to serve God."
+        },
+        {
+          "ref": "Lev 19:2",
+          "note": "'You shall be holy': the goal of 'slavery to righteousness leading to holiness' (Rom 6:19)."
+        },
+        {
+          "ref": "Ezek 37:12-14",
+          "note": "God opens Israel's graves and gives life by his Spirit, background to 'newness of life'."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 6:23 is an evangelistic verse explaining that unbelievers deserve death but can receive eternal life.",
+        "better": "That truth is in Romans, but 6:23 concludes an argument to baptised believers: you have changed masters, so live under the new one. It is about the shape of a believer's life, as much as about entry into salvation."
+      }
+    },
+    {
+      "n": 7,
+      "title": "The Law Is Holy, but Sin Hijacked It",
+      "summary": "Using marriage as an illustration, Paul says believers have died to the Law through the body of Christ, so they now belong to the risen one and serve in the new way of the Spirit. Is the Law sin, then? No: the Law is holy, and the commandment holy, just and good. But sin seized the commandment and used it to bring death. An anguished 'I' wants to do the good the Law commands but cannot, and cries out: 'Who will rescue me from this body of death?' Thanks be to God through Jesus Christ.",
+      "background": "Paul writes to 'those who know the law' (7:1), probably both Jewish believers and Gentiles who had learned Torah in synagogues. Having said that believers are 'not under law but under grace' (6:14), Paul must explain why he is not attacking God's Law. Debate over the identity of the 'I' in 7:7-25 goes back to the early church: many early Greek writers took it as a person without Christ; Augustine changed his mind and read it as a Christian; Luther and Calvin followed him.",
+      "culture": "Ancient writers used 'speech-in-character' (prosopopoeia): an author speaks in the voice of someone else to dramatise a situation. Greco-Roman moralists also wrote about the divided self, knowing the good but not doing it (Medea's lament in Euripides and Ovid was famous). Paul's audience would recognise this kind of speech. Roman marriage law, in which a wife was bound to her husband until his death, provides the opening illustration.",
+      "jewishLens": "The 'I' echoes Adam in Eden: one commandment, sin like a serpent seizing the opportunity, deception, and death (compare 7:11 with Gen 3:13). It also echoes Israel at Sinai: receiving the holy Law and almost at once breaking it with the golden calf. Paul insists the Law is God's good gift (7:12, 7:14); the problem lies in 'sin dwelling in me' and the weakness of the flesh. This is not a Jewish complaint against Torah, which Jews celebrated as delight (Ps 19; Ps 119), but a diagnosis of what the Law alone cannot do without the promised Spirit.",
+      "audience": "Jewish believers would hear Paul defend the Law's holiness, which they needed to hear. They might recognise Israel's own story of failure. Gentile believers attracted to adopting the Law would hear that taking it on would not solve the problem of sin. Both are being set up for chapter 8's answer.",
+      "today": "Many Christians find Rom 7 deeply true to their experience of struggle, and every reading agrees struggle with sin is real. The question is whether this passage describes the normal, defeated condition of a believer, or life under the Law without the Spirit, answered in chapter 8. Reading 7 and 8 together keeps both honesty and hope.",
+      "keyRefs": [
+        "Rom 7:1-6",
+        "Rom 7:7-13",
+        "Rom 7:14-20",
+        "Rom 7:21-25"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 3:13",
+          "note": "'The serpent deceived me': sin 'deceived me' through the commandment (Rom 7:11)."
+        },
+        {
+          "ref": "Exod 20:17",
+          "note": "'You shall not covet': the commandment Paul cites in Rom 7:7."
+        },
+        {
+          "ref": "Exod 32:7-8",
+          "note": "Israel turns to the golden calf right after receiving the Law, a pattern behind 'when the commandment came, sin revived'."
+        },
+        {
+          "ref": "Ps 19:7-8",
+          "note": "The Law of the Lord is perfect: the Jewish delight in Torah Paul affirms in Rom 7:12 and 7:22."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 7:14-25 describes the mature Christian's normal life: always wanting to do good and always failing.",
+        "better": "This is a long-running scholarly debate, not simply a popular error. Many scholars (Kümmel, Moo, Wright, Stowers) think the 'I' is someone under the Law without the Spirit, such as Adam or Israel, voiced dramatically. Others (Augustine, Luther, Calvin, Packer, Dunn in part) see the believer's ongoing struggle. All agree chapter 8 is Paul's answer and that Rom 7 is no excuse for giving up."
+      }
+    },
+    {
+      "n": 8,
+      "title": "Life in the Spirit and the Renewal of Creation",
+      "summary": "There is now no condemnation for those in Christ Jesus. God has done what the Law, weakened by the flesh, could not do: by sending his Son as a sin offering, he condemned sin in the flesh, so that the Law's just requirement is fulfilled in those who walk by the Spirit. The Spirit makes believers God's children and heirs, crying 'Abba, Father'. All creation groans, waiting for the revealing of God's children. God works all things together for good for those who love him, and nothing in all creation can separate us from God's love in Christ.",
+      "background": "Chapter 8 is the climax of Rom 5-8. Suffering is assumed throughout: believers 'suffer with him' (8:17) and face 'tribulation, distress, persecution, famine, nakedness, danger, sword' (8:35). About seven years later, in AD 64, Nero would blame Rome's Christians for the great fire and execute many of them, as Tacitus reports. Paul's words would be read by people who soon needed them.",
+      "culture": "Adoption (huiothesia) in Roman law was a legal act, often of an adult, transferring someone into a new family with full rights of inheritance; old debts were cancelled. Roman emperors were often adopted heirs (Augustus by Julius Caesar, Nero by Claudius). For slaves in the church, being made 'heirs of God and co-heirs with Christ' was astonishing. 'Abba' is Aramaic for 'father', the intimate word Jesus used (Mark 14:36), kept in a Greek letter to Rome.",
+      "jewishLens": "Rom 8 is a new Exodus and a return from exile. Israel was God's 'firstborn son' (Exod 4:22), led by God's presence through the wilderness to an inheritance. Now the Spirit leads God's children (8:14) towards an inheritance that is the whole renewed creation. The prophets promised that God would put his Spirit within his people so they would walk in his ways (Ezek 36:26-27) and that the creation itself would be renewed (Isa 65:17). 'Who will bring a charge against God's elect? It is God who justifies' (8:33) echoes Isa 50:8. 'For your sake we are killed all day long' (8:36) is from Ps 44, Israel's lament of faithful suffering.",
+      "audience": "Slaves and the poor would hear that they were heirs of the world. Gentile believers would hear Israel's titles (sons, firstborn, elect, called, glorified) applied to them, which raises the urgent question of chapter 9: what about Israel itself? Jewish believers would hear their ancestral hope of the Spirit and new creation being fulfilled.",
+      "today": "Rom 8:28 is beloved but often misused as a promise that everything will turn out pleasant. In context, the 'good' is being shaped into the image of God's Son (8:29), and the setting is suffering, groaning and persecution. Romans 8 also gives Christians a strong reason to care for creation: God plans to liberate it, not discard it.",
+      "keyRefs": [
+        "Rom 8:1-4",
+        "Rom 8:12-17",
+        "Rom 8:18-25",
+        "Rom 8:26-30",
+        "Rom 8:31-39"
+      ],
+      "echoes": [
+        {
+          "ref": "Ezek 36:26-27",
+          "note": "God promises a new heart and his Spirit within, so his people walk in his statutes: fulfilled in Rom 8:4."
+        },
+        {
+          "ref": "Exod 4:22",
+          "note": "Israel is God's firstborn son, the background to adoption and 'firstborn among many brothers'."
+        },
+        {
+          "ref": "Gen 22:12",
+          "note": "Abraham did not withhold his son; 'he who did not spare his own Son' (Rom 8:32) echoes the binding of Isaac."
+        },
+        {
+          "ref": "Isa 50:8-9",
+          "note": "'He who vindicates me is near; who will contend with me?' echoed in Rom 8:33-34."
+        },
+        {
+          "ref": "Ps 44:22",
+          "note": "A lament of faithful Israel suffering 'for your sake', quoted in Rom 8:36."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 8:28 means God will make everything in my life turn out well, in the way I hope.",
+        "better": "The 'good' is defined in 8:29: being conformed to the image of God's Son. The promise holds in the middle of real suffering (8:18, 8:35-36), not in avoiding it. It is a promise of God's faithful purpose for his people, not of comfort on demand."
+      }
+    },
+    {
+      "n": 9,
+      "title": "Has God's Word Failed? Israel, Promise and Mercy",
+      "summary": "Paul expresses deep anguish for his fellow Jews, to whom belong the adoption, the glory, the covenants, the Law, the worship, the promises, the patriarchs and the Messiah himself. Has God's word failed? No: not all descended from Israel are Israel, and God's promise has always worked by calling, not by human descent or effort, as in the choice of Isaac and Jacob. Using Exodus and the potter image, Paul defends God's freedom to show mercy. Now God has called a people from Jews and Gentiles, while Israel stumbled over the stone, seeking righteousness as if by works.",
+      "background": "Romans 9-11 is not a detour. After the soaring promises of chapter 8, the obvious question in Rome was: if God's promises are so sure, why have most of Paul's fellow Jews not accepted Jesus as Messiah? Gentile believers in Rome may have begun to conclude that God had moved on from Israel. Paul's argument here is the background to many later Christian attitudes to Jews, both good and terrible.",
+      "culture": "Paul speaks as a member of a people under accusation. His willingness to be 'cursed and cut off' for his kin (9:3) echoes the loyalty expected within a kinship group. The potter image (9:20-23) was common in the ancient world for a creator's authority. Honour and shame appear again: 'whoever believes in him will not be put to shame' (9:33).",
+      "jewishLens": "Paul retells Israel's story in order: Abraham and Isaac (Gen 21:12), Jacob and Esau (Gen 25:23; Mal 1:2-3), Moses and Pharaoh (Exod 33:19; 9:16), Hosea's promise that 'not my people' will be called 'my people' (Hos 2:23), and Isaiah's remnant (Isa 10:22; 1:9). Moses' own prayer to be blotted out for Israel (Exod 32:32) lies behind 9:3. This is an intra-Jewish argument about God's faithfulness, of the kind the prophets made. 'Jacob I loved, Esau I hated' in Malachi refers to the peoples Israel and Edom; 'hated' in Hebrew idiom can mean 'chose not' rather than emotional hatred.",
+      "audience": "Jewish believers would feel Paul's grief as their own, and also the honour of the list of Israel's privileges (9:4-5). Gentile believers would hear that their inclusion is pure mercy, foretold in Hosea, giving no ground for pride. Everyone would wrestle with the hard questions about God's justice that Paul himself raises (9:14, 9:19).",
+      "today": "Rom 9 has been at the centre of debates about predestination since Augustine. It should also be read as a chapter about God's faithfulness to Israel and as an example of grief for others. Christians who read it should share Paul's love for the Jewish people, not use it to justify contempt.",
+      "keyRefs": [
+        "Rom 9:1-5",
+        "Rom 9:6-13",
+        "Rom 9:14-18",
+        "Rom 9:19-29",
+        "Rom 9:30-33"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 32:32",
+          "note": "Moses asks to be blotted out of God's book for Israel's sake, like Paul's wish in Rom 9:3."
+        },
+        {
+          "ref": "Mal 1:2-3",
+          "note": "'Jacob I loved, Esau I hated': about the nations Israel and Edom, quoted in Rom 9:13."
+        },
+        {
+          "ref": "Exod 33:19",
+          "note": "'I will have mercy on whom I have mercy', God's self-description after the golden calf, quoted in Rom 9:15."
+        },
+        {
+          "ref": "Hos 2:23",
+          "note": "'Not my people' become 'my people': a promise to restore Israel that Paul sees widening to Gentiles."
+        },
+        {
+          "ref": "Isa 28:16",
+          "note": "A stone laid in Zion: whoever trusts will not be put to shame (Rom 9:33)."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 9 is mainly a proof text about God choosing which individuals will be eternally saved or lost.",
+        "better": "Scholars disagree here (see the misreadings list). Some, like Piper and Schreiner, see individual election to salvation; others, like Wright and Dunn, see God's calling of peoples to roles in his purpose. Either way, the chapter's question is God's faithfulness to Israel, and its story ends in mercy for all (11:32). Reading it apart from chapters 10-11 distorts it."
+      }
+    },
+    {
+      "n": 10,
+      "title": "The Word Is Near You: Jesus Is Lord",
+      "summary": "Paul prays for Israel's salvation. They have zeal for God, but not according to knowledge, seeking to establish their own righteousness rather than submitting to God's. The Messiah is the 'end' (telos: goal or end) of the Law for righteousness for everyone who believes. Reading Deuteronomy 30, Paul says the 'word of faith' is near: if you confess with your mouth that Jesus is Lord and believe in your heart that God raised him from the dead, you will be saved. There is no distinction between Jew and Greek; everyone who calls on the Lord's name will be saved. So messengers must be sent.",
+      "background": "Paul's own past as a 'zealous' persecutor of the church (Gal 1:13-14; Phil 3:6) lies behind 10:2. Zeal had a heroic tradition in Judaism (Phinehas, Elijah, the Maccabees). Paul knows it from inside. This chapter also prepares for his request: he wants Rome's help to send him to Spain (15:24), the 'ends of the world' to which the gospel must go.",
+      "culture": "Confessing 'Jesus is Lord' (Kyrios Iēsous) in Rome was a public loyalty statement. Emperors were increasingly called kyrios; later, Christians were executed for refusing to say 'Caesar is Lord'. 'Beautiful feet' of messengers (10:15) recalls runners who brought news of a victory or a new king. Calling on a name meant appealing to a patron or god for help.",
+      "jewishLens": "Deut 30:11-14 says God's commandment is not too far away, 'not in heaven, not beyond the sea; the word is very near you, in your mouth and in your heart'. Moses said this in the context of a promised return after exile (Deut 30:1-6). Paul reads it as fulfilled in the Messiah: the word now near is the message of faith. 'Everyone who calls on the name of the LORD will be saved' (Joel 2:32) originally means YHWH; Paul applies it to Jesus, placing him within Israel's worship of the one God. Isaiah's messenger of good news (Isa 52:7) announces Zion's return and God's reign. Deut 32 and Isa 65 explain Israel's surprising unbelief and Gentile inclusion.",
+      "audience": "Jewish believers heard their own Torah (Deuteronomy) and prophets (Isaiah, Joel) read as pointing to Jesus. Gentile believers heard that they had equal access: 'there is no distinction'. Both were drawn into Paul's mission: if all who call will be saved, someone must be sent, and Rome could help send Paul.",
+      "today": "Romans 10:9-10 is central to evangelism, and rightly so. In context it is also a public allegiance to Jesus as Lord, which in Rome had political edge, and a fulfilment of Israel's story. 'Christ is the end of the law' (10:4) is best understood as the Law's goal and climax, not its abolition in contempt.",
+      "keyRefs": [
+        "Rom 10:1-4",
+        "Rom 10:5-13",
+        "Rom 10:14-17",
+        "Rom 10:18-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Deut 30:11-14",
+          "note": "'The word is very near you': Moses' promise of return, read by Paul as the message of faith in the Messiah."
+        },
+        {
+          "ref": "Joel 2:32",
+          "note": "'Whoever calls on the name of the LORD will be saved', applied by Paul to Jesus as Lord."
+        },
+        {
+          "ref": "Isa 52:7",
+          "note": "How beautiful are the feet of the messenger who announces peace and says 'Your God reigns'."
+        },
+        {
+          "ref": "Isa 53:1",
+          "note": "'Lord, who has believed our report?' explains the mixed response to the gospel (Rom 10:16)."
+        },
+        {
+          "ref": "Deut 32:21",
+          "note": "God will make Israel jealous by those who are not a nation: a theme Paul develops in chapter 11."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 10:9 is a simple formula: say a prayer acknowledging Jesus and you are saved, whatever follows.",
+        "better": "The confession 'Jesus is Lord' is a public, life-shaping allegiance to the risen king, believed in the heart. Scholars like Matthew Bates stress allegiance; Reformed scholars stress trust, not performance. Both reject a formula disconnected from a changed life."
+      }
+    },
+    {
+      "n": 11,
+      "title": "The Olive Tree: God Has Not Rejected His People",
+      "summary": "Has God rejected his people? By no means: Paul himself is an Israelite, and there is a remnant chosen by grace, as in Elijah's day. Israel's stumbling is not final; through it salvation has come to the Gentiles, to make Israel jealous. Gentiles are wild olive branches grafted into Israel's tree and must not boast over the natural branches. A partial hardening has come on Israel until the fullness of the Gentiles comes in, and so all Israel will be saved, for the gifts and calling of God are irrevocable. Paul ends in a hymn of praise to God's unsearchable wisdom.",
+      "background": "Paul addresses Gentile believers directly here (11:13). After the expulsion under Claudius, Gentile believers may have come to lead the house churches and to regard returning Jewish believers as relics. Paul pushes hard against this. Tragically, later church history often did exactly what Paul warned against, which is why this chapter is central to modern Jewish-Christian dialogue.",
+      "culture": "Grafting was ordinary farming knowledge around the Mediterranean, though normally cultivated branches were grafted onto wild stock. Paul deliberately reverses it ('contrary to nature', 11:24), stressing that Gentile inclusion is pure gift. Boasting (11:18) again reflects an honour culture in which groups competed for status. The closing doxology mirrors Jewish prayers of praise.",
+      "jewishLens": "The olive tree was an image for Israel (Jer 11:16; Hos 14:6). Elijah's complaint and God's answer about the 7,000 (1 Kgs 19:10-18) shows that God always keeps a faithful remnant. 'The deliverer will come from Zion' (Isa 59:20-21) and the promise to take away sins (Isa 27:9; Jer 31:33-34) express Israel's hope of restoration. Paul's confidence that God will not abandon Israel echoes Jeremiah: only if heaven can be measured will God reject Israel (Jer 31:37). The doxology quotes Isaiah 40 and Job.",
+      "audience": "Gentile believers were sharply warned: you stand only by faith, do not be arrogant, you could be cut off too. Jewish believers would be greatly encouraged: their people were not finished, and Paul expected a future in which 'all Israel' would be saved. Both groups were invited to see their story as one tree.",
+      "today": "Romans 11 is one of the strongest biblical correctives to Christian anti-Judaism. Whatever one thinks about how 'all Israel' will be saved, Gentile Christians are commanded not to boast over Jews and to recognise their dependence on Israel's root. Many churches have revised their teaching about Judaism since the Holocaust partly because of this chapter.",
+      "keyRefs": [
+        "Rom 11:1-6",
+        "Rom 11:11-16",
+        "Rom 11:17-24",
+        "Rom 11:25-32",
+        "Rom 11:33-36"
+      ],
+      "echoes": [
+        {
+          "ref": "1 Kgs 19:18",
+          "note": "God reserves 7,000 who did not bow to Baal: the remnant 'chosen by grace' (Rom 11:4-5)."
+        },
+        {
+          "ref": "Isa 59:20-21",
+          "note": "A redeemer will come to Zion and God's covenant and Spirit will remain, quoted in Rom 11:26-27."
+        },
+        {
+          "ref": "Jer 11:16",
+          "note": "Israel as a green olive tree, the image behind Paul's olive tree."
+        },
+        {
+          "ref": "Jer 31:35-37",
+          "note": "Israel will not cease as a nation before God while the sun and moon endure: God's covenant faithfulness."
+        },
+        {
+          "ref": "Isa 40:13",
+          "note": "'Who has known the mind of the LORD?' quoted in the closing doxology (Rom 11:34)."
+        }
+      ],
+      "misread": {
+        "popular": "The church has replaced Israel; God's promises to the Jewish people now belong to Christians.",
+        "better": "Paul writes Romans 11 to stop Gentile believers from thinking that. God has not rejected his people; Gentiles are grafted into Israel's tree; God's calling is irrevocable. Scholars debate who 'all Israel' is (ethnic Israel in the future, as Moo and Schreiner hold, or the whole people of God, as Wright holds), but not that Gentile arrogance is forbidden."
+      }
+    },
+    {
+      "n": 12,
+      "title": "Living Sacrifices in One Body",
+      "summary": "In view of God's mercies (the whole argument of chapters 1-11), Paul urges believers to present their bodies as a living sacrifice, their reasonable worship, and to be transformed by the renewing of their minds rather than conformed to this age. No one should think too highly of themselves; they are one body with different gifts given by grace. Love must be genuine: honour one another, welcome strangers, bless persecutors, live in harmony, never take revenge, and overcome evil with good.",
+      "background": "With the theological argument complete, Paul turns to the life of the community. The Roman house churches were small, socially mixed groups, meeting in homes and apartment blocks (insulae). Some members were wealthy enough to host; many were slaves, freedpeople or artisans. Paul's appeal is to the whole community together: 'your bodies' (plural) is one 'sacrifice' (singular).",
+      "culture": "Rome was full of temples and animal sacrifices; worship meant offering something dead on an altar. Paul calls for living sacrifices: the whole of daily life. Honour was a limited good that people competed for; Paul says 'outdo one another in showing honour' (12:10), reversing the competition. Hospitality to strangers (philoxenia) was vital for travelling believers. The 'body' was a familiar political image: the Roman fable of Menenius Agrippa used it to keep plebeians in their place, while Paul uses it to give every member a gift and a role.",
+      "jewishLens": "Sacrifice language comes from Israel's temple and the Psalms, where God desires a broken heart and thanksgiving (Ps 51:16-17; Ps 50:14). Paul's ethics are drawn from Torah and wisdom: 'Vengeance is mine, I will repay' (Deut 32:35) and 'If your enemy is hungry, feed him' (Prov 25:21-22). This continues Jewish teaching on mercy to enemies, not a break from it. 'Not conformed to this age' reflects the Jewish two-ages framework: this present age and the age to come.",
+      "audience": "Gentiles from pagan backgrounds would hear that their whole lives were now worship of the one God, not just occasional temple visits. Jewish believers would recognise Torah and proverbs. Both groups, divided over food and customs, were told to think soberly about themselves and honour one another. Members facing hostility in the city were told not to retaliate.",
+      "today": "Romans 12:1-2 is often applied to individual consecration. Its original focus is the community: one body, many gifts, mutual honour. Its call to bless persecutors and refuse revenge remains one of the most demanding ethical teachings in the New Testament.",
+      "keyRefs": [
+        "Rom 12:1-2",
+        "Rom 12:3-8",
+        "Rom 12:9-13",
+        "Rom 12:14-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 51:16-17",
+          "note": "God desires a broken and contrite heart more than animal sacrifice."
+        },
+        {
+          "ref": "Deut 32:35",
+          "note": "'Vengeance is mine, I will repay', quoted in Rom 12:19."
+        },
+        {
+          "ref": "Prov 25:21-22",
+          "note": "Feed your hungry enemy and heap burning coals on his head, quoted in Rom 12:20."
+        },
+        {
+          "ref": "Lev 19:18",
+          "note": "Do not take vengeance; love your neighbour as yourself: the Torah root of Paul's ethic."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 12:1-2 is mainly about each individual's private dedication and finding God's personal will for my life.",
+        "better": "It is personal, but Paul's plurals point to a community offering itself together, and 'God's will' is spelled out in the rest of the chapter: humility, gifts used for others, genuine love and peace with enemies."
+      }
+    },
+    {
+      "n": 13,
+      "title": "Rulers, Taxes and the Debt of Love",
+      "summary": "Paul tells believers to be subject to the governing authorities, since all authority exists under God, and rulers are God's servants to reward good and punish wrong. They should pay taxes and give respect and honour where due. The only debt they should keep owing is love, because love fulfils the Law. The night is far gone and the day is near, so they should put off the works of darkness and put on the Lord Jesus Christ.",
+      "background": "Nero became emperor in AD 54; his early reign was regarded as relatively good. But Jewish communities in Rome had been expelled under Claudius only a few years earlier, so a minority group had good reason to avoid trouble. Tacitus (Annals 13.50-51) records public protests in AD 58 over abuses by indirect tax collectors. Paul distinguishes direct tribute (phoros) and indirect taxes (telos), urging payment of both (13:7). Jewish revolutionary feeling against Rome was also growing in Judea, leading to war in AD 66.",
+      "culture": "Roman society was a ladder of honour from the emperor down. Paul's 'honour to whom honour is due' (13:7) uses that system. The 'sword' (13:4) symbolised the governor's power to execute. Paul's language of rulers as God's 'servants' (diakonoi, leitourgoi) quietly places Caesar under God, not above him. Night-time drunkenness and revelry (13:13) was common at Roman banquets.",
+      "jewishLens": "Jewish tradition taught that God gives kingdoms to whom he will (Dan 2:21; Dan 4:17) and that exiles should seek the welfare of the city where they live (Jer 29:7). Jews in the empire prayed and sacrificed for the emperor rather than to him. Daniel also shows the limit: when a king demands worship, faithful Jews refuse (Dan 3; Dan 6). Paul's summary of the commandments in love of neighbour quotes Leviticus 19:18, as Jesus and Rabbi Hillel did in different ways. 'The day is near' reflects the Jewish hope of the day of the Lord.",
+      "audience": "Jewish believers, remembering the expulsion, would hear a call to be peaceable and give Rome no excuse. Gentile believers, who had abandoned civic gods and might be suspected of disloyalty, would hear that faith in Jesus did not make them rebels. Everyone would hear that their deepest loyalty and 'debt' was love, under a Lord whose day was coming.",
+      "today": "Romans 13 calls Christians to be good citizens: pay taxes, respect order, avoid needless conflict. It does not teach that whatever a government commands is right. Rulers are described as servants for good; when they command evil, believers follow Peter: 'We must obey God rather than men' (Acts 5:29). The passage was misused in Nazi Germany and apartheid South Africa, and Christians in both contexts appealed to the wider Bible to resist.",
+      "keyRefs": [
+        "Rom 13:1-7",
+        "Rom 13:8-10",
+        "Rom 13:11-14",
+        "Acts 5:29"
+      ],
+      "echoes": [
+        {
+          "ref": "Jer 29:7",
+          "note": "Seek the welfare of the city where I have sent you into exile: the model for minority life under empire."
+        },
+        {
+          "ref": "Dan 4:17",
+          "note": "The Most High rules the kingdom of men and gives it to whom he will."
+        },
+        {
+          "ref": "Dan 3:16-18",
+          "note": "Three Jews refuse the king's idol: the limit of submission."
+        },
+        {
+          "ref": "Lev 19:18",
+          "note": "Love your neighbour as yourself, quoted in Rom 13:9."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 13 means Christians must always obey the government, since every government is put there by God.",
+        "better": "Paul urges a vulnerable minority to be peaceable, pay taxes and honour rulers, while describing rulers as God's servants for good, accountable to God. The rest of Scripture shows that when rulers demand sin or idolatry, God's people obey God. Both Wright and Moo agree it is not a blank cheque."
+      }
+    },
+    {
+      "n": 14,
+      "title": "The Strong and the Weak: Do Not Despise or Judge",
+      "summary": "Paul addresses divisions over food and holy days. Some eat anything; others, 'weak in faith', eat only vegetables. Some treat one day as special; others treat all days alike. Each must be fully convinced in their own mind, because each lives and dies to the Lord. Do not judge or despise one another; do not destroy for the sake of food someone for whom Christ died. The kingdom of God is not eating and drinking but righteousness, peace and joy in the Holy Spirit.",
+      "background": "Many scholars think this chapter reveals the concrete situation behind Romans. The 'weak' were probably mostly Jewish believers (and Gentiles influenced by them) who kept kosher food laws and Sabbath and avoided meat that might have been offered to idols or not slaughtered properly; in Rome, kosher meat may have been hard to obtain, so vegetables were the safe option. The 'strong' were mostly Gentiles (and Jews like Paul) who felt free to eat. Mark Nanos argues instead that the 'weak' were non-Christian Jews in the synagogues where believers still met; most scholars have not followed him, but his reading highlights the Jewish setting.",
+      "culture": "Shared meals defined community and status in the ancient world. Who you ate with showed whose group you belonged to. For Jews in the diaspora, food laws and Sabbath were key marks of loyalty to God, and Roman writers often mocked them for it. For Gentiles, refusing meat at a civic banquet could be seen as antisocial. Paul applies honour language: the strong should not 'despise' (look down on); the weak should not 'judge' (condemn).",
+      "jewishLens": "Food laws (Lev 11) and Sabbath (Exod 20:8-11) were part of God's covenant with Israel, and Jewish martyrs had died rather than eat pork (Dan 1:8 and 2 Maccabees 6-7). Paul does not mock this. He says these practices can be done 'to the Lord' (14:6). He also says 'nothing is unclean in itself' (14:14), a statement scholars read differently: as relativising food laws for all believers, or (within the Paul within Judaism view) as addressing Gentiles only. The quotation 'every knee shall bow' (Isa 45:23) reminds both sides that the one God, not they, is judge.",
+      "audience": "Jewish believers who kept the food laws heard Paul defend their right to do so and forbid others from despising them. Gentile believers who ate freely heard that their freedom must yield to love. Both heard that the kingdom of God is not about food. The goal was that they could actually eat together.",
+      "today": "Churches still divide over 'disputable matters': alcohol, worship styles, holidays, diet, cultural customs. Romans 14 gives a pattern: hold convictions sincerely, do not despise or condemn those who differ, limit your freedom for the sake of a weaker brother or sister, and keep the kingdom's priorities.",
+      "keyRefs": [
+        "Rom 14:1-4",
+        "Rom 14:5-9",
+        "Rom 14:10-12",
+        "Rom 14:13-23"
+      ],
+      "echoes": [
+        {
+          "ref": "Lev 11:44-47",
+          "note": "Israel's food laws distinguished clean and unclean as part of being holy."
+        },
+        {
+          "ref": "Dan 1:8",
+          "note": "Daniel refuses the king's food to avoid defilement, a model for diaspora Jews and the 'weak' who ate vegetables."
+        },
+        {
+          "ref": "Isa 45:23",
+          "note": "Every knee will bow and every tongue confess to God, quoted in Rom 14:11."
+        },
+        {
+          "ref": "Exod 20:8-11",
+          "note": "The Sabbath commandment, behind the dispute over days."
+        }
+      ],
+      "misread": {
+        "popular": "The 'weak' are immature Christians with legalistic hang-ups, and the 'strong' are mature believers who understand grace.",
+        "better": "The 'weak' were most likely faithful Jewish believers keeping God's commands in Torah, and Gentiles who joined them. Paul refuses to let them be despised and asks the strong to bend. Calling them 'legalists' imports a later caricature of Judaism."
+      }
+    },
+    {
+      "n": 15,
+      "title": "Welcome One Another: Jerusalem, Rome and Spain",
+      "summary": "The strong should bear with the weak and please their neighbour, as Christ did not please himself. Paul prays that they will glorify God 'with one voice' and urges: welcome one another as Christ welcomed you. Christ became a servant to the circumcised to confirm God's promises to the patriarchs, and so that the Gentiles might glorify God for his mercy; Paul quotes a chain of scriptures where the nations praise God with Israel. Then he explains his mission: he has preached from Jerusalem to Illyricum, and plans to visit Rome on the way to Spain, after taking a collection from Macedonia and Achaia to the poor believers in Jerusalem.",
+      "background": "The collection for Jerusalem was a major project of Paul's later ministry (1 Cor 16:1-4; 2 Cor 8-9). Gentile churches sent money to the Jewish mother church as a sign of unity and gratitude. Paul feared opposition in Judea (15:31), and Acts records that he was arrested in Jerusalem (Acts 21). He wanted Rome to be a base for a mission to Spain, a region at the western edge of the known world, with fewer Jewish communities and little Greek; he would need Roman help with contacts, language and support.",
+      "culture": "Paul uses benefaction language: the Gentiles have shared in the Jews' spiritual blessings, so they owe it to them to serve them materially (15:27). This is reciprocity in a patronage culture, but flowing from the Gentile periphery to the Jewish centre. Being 'sent on' (propempō, 15:24) meant being supplied for a journey: food, money, companions. Paul describes his ministry as 'priestly service' (hierourgeō), offering the Gentiles as an acceptable offering.",
+      "jewishLens": "Paul's mission is Israel's mission: the prophets foresaw the nations coming to Zion with gifts and worshipping Israel's God (Isa 60:5-6; Isa 66:20). The quotations in 15:9-12 come from all parts of Israel's scriptures (Psalms, Torah and Prophets) and climax with Isaiah 11:10: the root of Jesse will rise to rule the nations, and in him the nations will hope. Christ is described as a servant to the circumcised for the sake of God's truthfulness (faithfulness) to the patriarchs. The whole letter has been leading here: Jew and Gentile worshipping together as the prophets promised.",
+      "audience": "Jewish believers heard Christ honoured as the servant who confirmed God's promises to their fathers. Gentile believers heard that their inclusion fulfils Israel's scriptures, and that they owe a debt to Jerusalem. All were asked to welcome one another and to join Paul's mission to Spain and his prayers for Jerusalem.",
+      "today": "Romans 15:7 is a fitting summary of the whole letter: welcome one another as Christ welcomed you, for God's glory. Unity across ethnic and cultural lines is not an optional extra but the fulfilment of the gospel. The collection also shows practical, financial solidarity between churches of different cultures.",
+      "keyRefs": [
+        "Rom 15:1-7",
+        "Rom 15:8-13",
+        "Rom 15:14-21",
+        "Rom 15:22-33"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 69:9",
+          "note": "'The reproaches of those who reproached you fell on me', applied to Christ in Rom 15:3."
+        },
+        {
+          "ref": "Ps 18:49",
+          "note": "I will praise you among the nations, quoted in Rom 15:9."
+        },
+        {
+          "ref": "Deut 32:43",
+          "note": "Rejoice, O nations, with his people, quoted in Rom 15:10."
+        },
+        {
+          "ref": "Isa 11:10",
+          "note": "The root of Jesse rises to rule the nations; in him they will hope (Rom 15:12)."
+        },
+        {
+          "ref": "Isa 52:15",
+          "note": "Those who were not told will see: Paul's reason for preaching where Christ was not yet named (Rom 15:21)."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 15-16 are a practical postscript with travel plans and greetings, not part of the letter's real message.",
+        "better": "Many scholars (Wright, Jewett, McKnight in *Reading Romans Backwards*) argue the opposite: these chapters show what the whole letter is for. Jews and Gentiles glorifying God together, supporting a mission and sharing resources, is the gospel lived out."
+      }
+    },
+    {
+      "n": 16,
+      "title": "Phoebe, Junia and the Household of God",
+      "summary": "Paul commends Phoebe, a deacon (diakonos) of the church at Cenchreae and a patron (prostatis) of many, including Paul, who carries the letter. He greets about 26 named people in Rome and several households and house churches, including Prisca and Aquila, his co-workers, and Andronicus and Junia, 'prominent among the apostles'. He warns against those who cause divisions, sends greetings from his companions (including Tertius, the scribe, and Gaius, his host), and closes with praise to God who has revealed the long-hidden mystery for the obedience of faith among all nations.",
+      "background": "Cenchreae was the eastern port of Corinth. Phoebe probably travelled to Rome, carried the letter and may well have read or explained it to the house churches, as letter carriers often did. Prisca and Aquila, Jews expelled from Rome under Claudius (Acts 18:2), had returned and hosted a church. Peter Lampe's study of the names suggests a socially mixed group: many names are typical of slaves or freedpeople, some are Jewish (Paul calls Andronicus, Junia and Herodion his 'kinsfolk'), and several are women. There are textual questions about the ending: some manuscripts place the doxology (16:25-27) after chapter 14 or 15, and a few scholars once argued chapter 16 was sent to Ephesus, but most now accept it as part of Romans.",
+      "culture": "A prostatis was a patron or benefactor: someone with resources and standing who protected and supported others. Phoebe's role gave her honour and authority, and Paul's commendation asks Rome to receive her 'in a way worthy of the saints'. House churches met in homes (16:5) or in households like those of Aristobulus and Narcissus (16:10-11), possibly slaves and freedpeople of those great families. The 'holy kiss' was a sign of family belonging. Women are named as co-workers and hard workers: Prisca, Mary, Tryphaena, Tryphosa, Persis, Julia.",
+      "jewishLens": "Paul names his Jewish 'kinsfolk' with honour, showing Jewish believers as part of the Roman church's foundation. The promise that 'the God of peace will soon crush Satan under your feet' (16:20) echoes Gen 3:15, the first promise of victory over the serpent: Paul's story of Adam (Rom 5) ends in hope. The closing doxology speaks of the mystery revealed through the prophetic writings, so that all nations may come to the obedience of faith, bracketing the letter with 1:5.",
+      "audience": "Hearers would listen for their own names. Being greeted publicly by an apostle was a mark of honour. Jews and Gentiles, women and men, slaves and free, heard themselves named together as one family. The warning against divisive people (16:17-18) would remind them of the tensions Paul had addressed.",
+      "today": "Romans 16 is often skipped, but it shows that Paul's theology was lived in real relationships. It challenges assumptions about women's roles: Phoebe as deacon and patron, Junia as 'prominent among the apostles' (the meaning of this phrase is debated: 'well known to the apostles' or 'outstanding as apostles'). It reminds churches that the gospel creates a diverse family.",
+      "keyRefs": [
+        "Rom 16:1-2",
+        "Rom 16:3-5",
+        "Rom 16:7",
+        "Rom 16:17-20",
+        "Rom 16:25-27"
+      ],
+      "echoes": [
+        {
+          "ref": "Gen 3:15",
+          "note": "The serpent's head will be crushed: echoed in 'the God of peace will soon crush Satan under your feet' (Rom 16:20)."
+        },
+        {
+          "ref": "Isa 2:2-3",
+          "note": "All nations stream to the Lord's house: the vision behind a church of many nations."
+        },
+        {
+          "ref": "Dan 2:47",
+          "note": "God as revealer of mysteries, behind the 'mystery kept secret for long ages' (Rom 16:25)."
+        }
+      ],
+      "misread": {
+        "popular": "Romans 16 is just a list of names with no teaching value, and its women are helpers rather than leaders.",
+        "better": "The list reveals who the church was: Jews and Gentiles, slaves and free, women in recognised roles. Phoebe is a deacon and patron who carries the letter; Junia is likely a woman apostle. Scholars debate how these roles relate to later church offices (Michael Burer and Daniel Wallace argue for 'well known to the apostles'; Moo and Schreiner accept 'prominent among the apostles' but take 'apostle' in the looser sense of a travelling missionary), but all agree women were significant in the Roman churches."
+      }
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "'Works of the law': good deeds in general, or Torah marks of Jewish identity?",
+      "popular": "When Paul says no one is justified by 'works of the law' (Rom 3:20, 3:28), he means no one can earn heaven by being good. Judaism (and every religion) teaches salvation by human effort; Christianity alone teaches grace.",
+      "inContext": "E. P. Sanders (*Paul and Palestinian Judaism*, 1977) showed that ancient Judaism generally understood itself as a people chosen by grace, keeping Torah as a response within the covenant ('covenantal nomism'). James Dunn and N. T. Wright argue that 'works of the law' in Romans focuses on the Torah as a whole, especially practices that marked Jews off from Gentiles (circumcision, food laws, Sabbath). Paul's target is the idea that membership in God's people is defined by Torah observance, which would exclude Gentiles. See Rom 3:29: 'Or is God the God of Jews only?'",
+      "defence": "Douglas Moo, Thomas Schreiner, Stephen Westerholm (*Perspectives Old and New on Paul*, 2004) and Simon Gathercole (*Where Is Boasting?*, 2002) answer that Paul broadens the point: in Romans 4:4-5 he contrasts 'one who works' and receives wages with one who trusts God 'who justifies the ungodly', which sounds like any human doing. The volumes edited by D. A. Carson and others, *Justification and Variegated Nomism* (2001), argue that Second Temple Judaism was more varied than Sanders allowed and included a role for obedience in final salvation. Both sides now agree the old 'legalistic Jews' caricature is wrong, and many hold that Paul's point includes both the boundary markers and the wider truth that no human doing earns God's favour.",
+      "whyItMatters": "If 'works of the law' only means 'trying to be good', Romans can sound anti-Jewish and loses its social target: one table for Jews and Gentiles. If it only means 'boundary markers', Romans can lose its word to every human heart about grace for the ungodly. Reading both together guards against both errors.",
+      "refs": [
+        "Rom 3:20",
+        "Rom 3:27-30",
+        "Rom 4:4-5",
+        "Rom 9:30-32",
+        "Gal 2:16"
+      ],
+      "scholars": [
+        "E. P. Sanders",
+        "James D. G. Dunn",
+        "N. T. Wright",
+        "Douglas Moo",
+        "Thomas Schreiner",
+        "Stephen Westerholm",
+        "Simon Gathercole",
+        "D. A. Carson"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "'The righteousness of God': a gift transferred, or God's own covenant faithfulness?",
+      "popular": "God's righteousness is the perfect moral record God credits to believers. At conversion my sins go to Christ and his righteousness comes to me, so God sees me as righteous.",
+      "inContext": "In Israel's scriptures 'God's righteousness' often means God's saving faithfulness to his promises (Ps 98:2-3; Isa 51:5-8). N. T. Wright reads Rom 1:17 and 3:21-26 mainly as God's covenant faithfulness: God keeps his promise to Abraham and deals with sin through the Messiah. Ernst Käsemann and the apocalyptic school read it as God's saving power invading a world held by sin. Douglas Campbell (*The Deliverance of God*, 2009) stresses God's liberating act rather than a legal transaction.",
+      "defence": "Reformed and Lutheran scholars (Moo, Schreiner, Westerholm, Mark Seifrid) agree God's righteousness includes his saving action, but argue that in Rom 3:21-22, 4:3-6 and 5:17 Paul also speaks of a righteous status God gives as a gift, and in 2 Cor 5:21 and Phil 3:9 of a righteousness 'from God'. Imputation (God crediting righteousness) is drawn from the 'counting' language of Rom 4. Many argue it is both/and: God's faithful saving act results in a new standing for believers.",
+      "whyItMatters": "The phrase decides whether Romans is mainly about how I get right with God, or mainly about how God is proved faithful in rescuing a people and a world. Most careful readers now hold both: God is faithful, and his faithfulness gives sinners a new standing.",
+      "refs": [
+        "Rom 1:17",
+        "Rom 3:21-26",
+        "Rom 4:3-6",
+        "Rom 10:3",
+        "Ps 98:2-3",
+        "Isa 51:5-8"
+      ],
+      "scholars": [
+        "N. T. Wright",
+        "Ernst Käsemann",
+        "Douglas Campbell",
+        "Douglas Moo",
+        "Mark Seifrid",
+        "Thomas Schreiner",
+        "Stephen Westerholm"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "'Faith in Christ' or 'the faithfulness of Christ' (pistis Christou)?",
+      "popular": "Rom 3:22 means righteousness comes 'through faith in Jesus Christ'. The focus is my act of believing.",
+      "inContext": "The Greek phrase pistis Iēsou Christou can be read 'faith in Jesus Christ' (objective genitive) or 'the faith(fulness) of Jesus Christ' (subjective genitive: Jesus' own faithful obedience to death). Richard Hays (*The Faith of Jesus Christ*, 1983), Wright, Campbell and others argue for the second: Rom 3:22 would then say God's righteousness is revealed through the Messiah's faithfulness 'for all who believe', which avoids saying 'faith' twice. Rom 5:19 speaks of Christ's obedience in parallel.",
+      "defence": "James Dunn (on the 'faith in' side, notably), Moo, Schreiner and Westerholm argue that Paul elsewhere uses pistis overwhelmingly for human faith, that Rom 4 makes Abraham's faith the model, and that the repetition is emphatic, not redundant. Early Greek-speaking readers largely took it as 'faith in'. Both readings affirm that Christ's obedience saves and that people must trust him; the dispute is about what this phrase emphasises.",
+      "whyItMatters": "If it is Christ's faithfulness, Romans puts the spotlight first on what Jesus did, not on the quality of my believing, which can free anxious believers. If it is faith in Christ, Paul stresses that the benefit is received by trust alone. Either way, popular teaching that makes faith a work of its own misses Paul.",
+      "refs": [
+        "Rom 3:22",
+        "Rom 3:26",
+        "Rom 5:19",
+        "Gal 2:16",
+        "Phil 3:9"
+      ],
+      "scholars": [
+        "Richard B. Hays",
+        "N. T. Wright",
+        "Douglas Campbell",
+        "James D. G. Dunn",
+        "Douglas Moo",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Romans 7: the normal Christian struggle?",
+      "popular": "Romans 7:14-25 describes the mature Christian: I want to do good but keep failing. This is the normal Christian life until heaven, and the more mature I am, the more I feel it.",
+      "inContext": "Werner Georg Kümmel (1929) argued that the 'I' is a rhetorical figure (speech-in-character, prosopopoeia), not Paul's present autobiography. Many modern scholars, including the Reformed scholar Douglas Moo as well as Wright and Stanley Stowers, read the 'I' as Israel under the Law, or Adam, or a person under the Law without the Spirit. Rom 7:14 says 'sold under sin', while Rom 6:18 says believers are 'freed from sin', and Rom 8:2 announces that freedom. Krister Stendahl warned that the West read Paul through its own 'introspective conscience'.",
+      "defence": "Augustine (later in life), Luther, Calvin, and modern Reformed writers such as J. I. Packer and John Piper read Rom 7 as the believer's ongoing struggle: only the regenerate 'delight in the law of God' (Rom 7:22), and present tenses are used. Dunn holds a mixed view: the believer lives in the overlap of the ages. Scholars on both sides agree that Rom 8 is Paul's goal and that Rom 7 must not be used to excuse sin.",
+      "whyItMatters": "If Rom 7 is the normal Christian life, believers may expect defeat. If it describes life under the Law without the Spirit, Rom 8 becomes the norm: real struggle, but with hope and power. Either reading should send readers to Rom 8, not stop at 7:24.",
+      "refs": [
+        "Rom 7:14-25",
+        "Rom 6:17-18",
+        "Rom 8:1-4",
+        "Rom 7:9-11"
+      ],
+      "scholars": [
+        "Werner Georg Kümmel",
+        "Krister Stendahl",
+        "Douglas Moo",
+        "N. T. Wright",
+        "James D. G. Dunn",
+        "J. I. Packer",
+        "Stanley Stowers"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Romans 9: individual eternal destiny only?",
+      "popular": "Romans 9 is mainly about God choosing which individuals go to heaven and which do not, before they are born (Jacob loved, Esau hated; the potter and the clay).",
+      "inContext": "Romans 9-11 answers a question raised by Romans 8: if God's promises are sure, what about Israel? Paul retells Israel's story (Abraham, Isaac, Jacob, Exodus, prophets) to show God's promise has always moved by his free calling and mercy. 'Jacob I loved, Esau I hated' quotes Mal 1:2-3, about the nations Israel and Edom. Wright, Dunn and many Arminian and Wesleyan readers stress corporate and historical election to a role; the chapters end not with fixed reprobation but with mercy on all (Rom 11:32).",
+      "defence": "John Piper (*The Justification of God*, 1983), Schreiner and Moo argue that Paul's argument does concern individual salvation: the problem is that individual Israelites are 'accursed' (Rom 9:3), and corporate groups are made of individuals. Schreiner notes that corporate and individual election are not opposites. Augustine and Calvin read it this way. The debate is real and long-standing, not a popular misunderstanding.",
+      "whyItMatters": "Pulling Rom 9 out of its story turns a chapter about God's faithfulness to Israel into an abstract debate about predestination only. Reading it within Rom 9-11 keeps both Paul's anguish for his people and his confidence in God's mercy.",
+      "refs": [
+        "Rom 9:1-5",
+        "Rom 9:6-13",
+        "Rom 9:14-24",
+        "Mal 1:2-3",
+        "Rom 11:32"
+      ],
+      "scholars": [
+        "N. T. Wright",
+        "James D. G. Dunn",
+        "John Piper",
+        "Thomas Schreiner",
+        "Douglas Moo",
+        "Brian Abasciano"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Romans 11: has the church replaced Israel?",
+      "popular": "Since most Jews rejected Jesus, the church is now the 'new Israel' and God's promises to the Jewish people have passed to Christians (often called replacement theology or supersessionism).",
+      "inContext": "Paul says the opposite to Gentile believers who were starting to think so: God has not rejected his people (Rom 11:1-2); Gentiles are wild branches grafted into Israel's olive tree and must not boast over the natural branches (Rom 11:17-24); 'the gifts and the calling of God are irrevocable' (Rom 11:29). Mark Nanos and the 'Paul within Judaism' school, along with many Catholic and Protestant scholars since the Holocaust, stress Israel's ongoing election.",
+      "defence": "Traditional evangelical scholars generally reject crude replacement too. Wright argues that Israel's hope is fulfilled in the Messiah and that 'all Israel' (Rom 11:26) is the whole people of God, Jew and Gentile, while insisting Jews are always welcome back. Moo and Schreiner think 'all Israel' refers to a future large-scale turning of ethnic Jews to Christ. So the scholarly debate is mainly about how Israel is saved, not whether God has finished with Israel.",
+      "whyItMatters": "Supersessionist readings fed centuries of Christian contempt for Jews. Romans 11 warns Gentile Christians against exactly that arrogance and calls for humility and hope.",
+      "refs": [
+        "Rom 11:1-2",
+        "Rom 11:17-24",
+        "Rom 11:25-29",
+        "Jer 31:35-37"
+      ],
+      "scholars": [
+        "Mark Nanos",
+        "Pamela Eisenbaum",
+        "N. T. Wright",
+        "Douglas Moo",
+        "Thomas Schreiner",
+        "Krister Stendahl"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Romans 13: obey any government, always?",
+      "popular": "Romans 13:1-7 means Christians must obey whatever the government commands, because every ruler is appointed by God.",
+      "inContext": "Paul is writing to a vulnerable minority in Rome, some recently expelled under Claudius, at a time of anger over taxes (Tacitus reports protests about indirect taxes in AD 58). He urges them not to give Rome a reason to crush them. The passage sits inside a call to love and non-retaliation (Rom 12:14-21; 13:8-10), and describes rulers as God's servants for good, which implies a standard they can fail. Scripture also honours civil disobedience when rulers command sin (Exod 1:17; Dan 3:16-18; Acts 5:29). Scholars including Wright, Neil Elliott and Robert Jewett highlight this setting.",
+      "defence": "Moo and Schreiner agree that Rom 13 is not a blank cheque: Christians must obey God rather than men when the two conflict. They insist the passage still teaches a real, general duty of respect, taxes and submission to civil order as God's arrangement, against revolutionary readings. Both sides agree the text was abused in Nazi Germany and apartheid South Africa to silence the church.",
+      "whyItMatters": "Read as blanket obedience, Rom 13 has been used to justify injustice. Read as a call to peaceable, conscientious citizenship under a higher Lord, it guides believers in every political setting.",
+      "refs": [
+        "Rom 13:1-7",
+        "Rom 12:17-21",
+        "Rom 13:8-10",
+        "Acts 5:29",
+        "Dan 3:16-18"
+      ],
+      "scholars": [
+        "N. T. Wright",
+        "Robert Jewett",
+        "Neil Elliott",
+        "Douglas Moo",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Justification: only an individual legal transaction, or also covenant membership?",
+      "popular": "Justification is the moment God the judge declares me not guilty and credits Christ's righteousness to me. It answers 'How can I, a sinner, be right with God?' and is entirely about my personal standing.",
+      "inContext": "Stendahl ('The Apostle Paul and the Introspective Conscience of the West', 1963) argued Paul's question was how Gentiles could belong to God's people, not how a guilty conscience finds peace. Wright argues justification is God's declaration of who belongs to his covenant family, in anticipation of final judgment; it is both legal (lawcourt) and covenantal (family membership). Bates (*Salvation by Allegiance Alone*, 2017) adds that saving faith includes allegiance to Jesus the king.",
+      "defence": "Carson, Moo, Schreiner, Westerholm and John Piper (*The Future of Justification*, 2007, a response to Wright) agree that justification creates one people, but insist the root is God's legal verdict that the ungodly are righteous through faith alone, and that ecclesiology (being in the church) follows from it rather than defining it. They warn that allegiance language must not slide into works. Wright replies that he affirms forgiveness and imputation-like truths, but locates them within the covenant story.",
+      "whyItMatters": "If justification is only private, churches can divide over race, culture and food while claiming the gospel. If it is only social, the personal assurance of forgiveness can fade. Romans holds them together: one God justifies Jews and Gentiles alike by faith (Rom 3:29-30).",
+      "refs": [
+        "Rom 3:23-30",
+        "Rom 4:5",
+        "Rom 5:1",
+        "Rom 8:33-34",
+        "Rom 15:7"
+      ],
+      "scholars": [
+        "Krister Stendahl",
+        "N. T. Wright",
+        "Matthew Bates",
+        "John Piper",
+        "D. A. Carson",
+        "Douglas Moo",
+        "Stephen Westerholm"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "The 'Romans Road': verses lifted out of their argument",
+      "popular": "Romans 3:23, 6:23, 5:8 and 10:9-10 together summarise the gospel: all have sinned, sin's wage is death, Christ died for us, so confess and believe to be saved.",
+      "inContext": "Each verse is true, and the sequence is a useful evangelistic tool. But in context, 3:23 explains why Jew and Gentile stand on level ground (3:22, 3:29); 6:23 is addressed to believers about which master they serve; 10:9-10 answers Israel's story in Deut 30 and the confession 'Jesus is Lord' would sound in Rome like a challenge to 'Caesar is Lord'. Scholars from Wright to Scot McKnight (*The King Jesus Gospel*, 2011) argue that reducing the gospel to a personal plan of salvation leaves out Jesus as Israel's Messiah and Lord, and the creation of one people.",
+      "defence": "Defenders, including many evangelical pastors and scholars like Schreiner, reply that the Romans Road accurately reflects Paul's own logic (sin, grace, faith) and that evangelism needs simple summaries. They agree the full gospel also includes resurrection, lordship and church, and that the Road is a door into Romans, not a replacement for it.",
+      "whyItMatters": "Using the verses is not wrong; using them as the whole of Romans can make the gospel only about escaping punishment, rather than also about belonging to a Lord and his people.",
+      "refs": [
+        "Rom 3:23",
+        "Rom 6:23",
+        "Rom 5:8",
+        "Rom 10:9-10",
+        "Deut 30:11-14"
+      ],
+      "scholars": [
+        "N. T. Wright",
+        "Scot McKnight",
+        "Thomas Schreiner",
+        "Matthew Bates"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "perspectives": [
+    {
+      "name": "Lutheran and Reformed (traditional Protestant)",
+      "who": "Martin Luther, John Calvin; modern: Douglas Moo, Thomas Schreiner, Stephen Westerholm, Simon Gathercole, D. A. Carson, John Piper",
+      "summary": "Romans answers the universal human problem: all are guilty before a holy God, and none can earn favour. God justifies the ungodly by grace through faith alone, on the basis of Christ's atoning death, crediting righteousness to believers. Law and gospel are sharply distinguished: the Law exposes sin; the gospel gives what the Law demands.",
+      "strengths": "Takes seriously Paul's language of guilt, wrath, gift and 'the ungodly' (Rom 4:5); gives deep personal assurance; has carefully answered New Perspective claims with studies of Second Temple Judaism.",
+      "critiques": "Critics say it can read Paul through Luther's late-medieval struggles and caricature Judaism as legalism, and can neglect Jew-Gentile unity, Israel's story and Rom 9-16. Defenders reply that the best Reformed scholars now avoid the caricature and that the individual and social belong together."
+    },
+    {
+      "name": "New Perspective on Paul",
+      "who": "E. P. Sanders (groundwork), James D. G. Dunn (named it, 1983), N. T. Wright",
+      "summary": "Judaism was a religion of grace and covenant, not merit-earning. Paul's critique of 'works of the law' targets Torah used as a boundary marker that excluded Gentiles. Justification is God's declaration of who belongs to the covenant people, marked by faith in Jesus, so Jews and Gentiles eat together.",
+      "strengths": "Corrects anti-Jewish caricatures; explains why Romans spends so long on Abraham, Israel and food laws; makes the social shape of the gospel central.",
+      "critiques": "Critics (Westerholm, Gathercole, Carson) say it underplays Paul's universal language about human sin and works, overstates uniformity in Judaism, and risks making justification mainly about the church. Many on both sides now accept parts of each other's insights."
+    },
+    {
+      "name": "Paul within Judaism",
+      "who": "Krister Stendahl (forerunner), Mark Nanos, Pamela Eisenbaum, Paula Fredriksen, Magnus Zetterholm, Matthew Thiessen",
+      "summary": "Paul never left Judaism. He remained a Torah-observant Jew and wrote Romans to Gentile believers, telling them not to become Jews but to join Israel's God as Gentiles. His criticisms of the Law concern Gentiles taking it on, not Jews keeping it.",
+      "strengths": "Takes Paul's Jewishness and Rom 11 with full seriousness; notes that the letter's explicit audience is Gentile (Rom 1:13; 11:13); combats Christian anti-Judaism.",
+      "critiques": "Critics say it struggles with texts where Paul seems to address Jews (Rom 2:17) or relativise the Law for all (Rom 7:4-6; 14:14), and with Paul's insistence that Jews too need the Messiah (Rom 10:1-4). Some versions suggest a 'two covenant' view that most interpreters think Rom 10-11 excludes."
+    },
+    {
+      "name": "Apocalyptic Paul",
+      "who": "Ernst Käsemann, J. Louis Martyn (mainly on Galatians), Beverly Gaventa, Douglas Campbell",
+      "summary": "Romans is about God's invasive rescue of a world held captive by Sin and Death as powers. God's righteousness is his liberating, world-changing action in Christ. Human beings are not mainly lawbreakers needing a verdict but captives needing deliverance.",
+      "strengths": "Explains Paul's language of Sin as a ruling power (Rom 5-7), creation's groaning (Rom 8) and the cosmic scope of salvation; stresses God's initiative.",
+      "critiques": "Critics say it can downplay Israel's story and covenant continuity, and human responsibility. Campbell's reading of Rom 1-4 as Paul quoting an opponent is widely judged unconvincing even by sympathetic scholars."
+    },
+    {
+      "name": "Paul and the Gift (Barclay)",
+      "who": "John M. G. Barclay (*Paul and the Gift*, 2015; *Paul and the Power of Grace*, 2020)",
+      "summary": "In the ancient world 'grace' could be 'perfected' (emphasised) in different ways: its size, its priority, its being given to the unworthy, its effect, or its not expecting a return. Paul's distinctive emphasis is grace given without regard to worth (incongruous grace), which undermines all prior status, Jewish or Gentile, and forms new communities. But it is not 'non-circular': it expects grateful, transformed lives.",
+      "strengths": "Bridges the Old and New Perspectives: grace is truly free and also social. Explains why Jewish texts could all speak of grace yet differ from Paul.",
+      "critiques": "Some Reformed readers want a clearer place for imputation and forensic justification; some New Perspective readers think it still centres too much on grace as a theme. Widely praised as one of the most important recent books on Paul."
+    },
+    {
+      "name": "Eastern Orthodox",
+      "who": "John Chrysostom's *Homilies on Romans* (late 4th century), Theodoret; modern Orthodox writers",
+      "summary": "Romans is read as the story of God healing humanity from death and corruption through union with Christ (theosis, sharing in God's life). Rom 5:12 is read as Adam passing on death and mortality, not inherited guilt. Faith and works are not set against each other; salvation is a lifelong participation in Christ through baptism and the Spirit.",
+      "strengths": "Reads Rom 6 and 8 (union, Spirit, adoption, glory) as central; keeps a long patristic memory, including Greek-speaking readers of Paul's own language.",
+      "critiques": "Protestant critics say it underplays the legal language of justification and Paul's 'apart from works'. Orthodox reply that the Western legal frame is itself one emphasis that should not swallow participation."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Gospel",
+      "original": "euangelion",
+      "usual": "The message of how to be saved and go to heaven.",
+      "inContext": "In the Greek Old Testament and Isaiah, 'good news' announces that God reigns and is bringing his people home (Isa 52:7). In Roman inscriptions it announced imperial births and victories. Paul's gospel is about God's Son, descended from David and declared Son of God by resurrection: a royal announcement.",
+      "refs": [
+        "Rom 1:1-4",
+        "Rom 10:15",
+        "Isa 52:7"
+      ]
+    },
+    {
+      "term": "Righteousness / justify",
+      "original": "dikaiosynē / dikaioō",
+      "usual": "Moral perfection; to justify is to declare a sinner legally innocent.",
+      "inContext": "The same Greek root covers 'righteousness', 'justice' and 'justification'. It translates Hebrew tsedaqah: rightness within a relationship, including God's faithful saving action. To be 'justified' is to be declared in the right, in God's court and within his people.",
+      "refs": [
+        "Rom 1:17",
+        "Rom 3:26",
+        "Rom 5:1",
+        "Ps 143:1-2"
+      ]
+    },
+    {
+      "term": "Faith",
+      "original": "pistis",
+      "usual": "Believing certain facts, or inner trust as opposed to doing.",
+      "inContext": "Trust, faithfulness and loyalty in a relationship. Paul speaks of the 'obedience of faith'. Abraham's faith is trusting God's promise against the evidence. Whether it means 'faithfulness' in pistis Christou is debated.",
+      "refs": [
+        "Rom 1:5",
+        "Rom 3:3",
+        "Rom 4:18-21"
+      ]
+    },
+    {
+      "term": "Grace",
+      "original": "charis",
+      "usual": "Unearned favour, opposed to any human response.",
+      "inContext": "A gift or benefaction in a culture of patronage, which created a bond and expected gratitude. Paul stresses grace given to the unworthy and ungodly, which still produces a response of grateful service.",
+      "refs": [
+        "Rom 3:24",
+        "Rom 5:15-17",
+        "Rom 12:3-6"
+      ]
+    },
+    {
+      "term": "Works of the law",
+      "original": "erga nomou",
+      "usual": "Good deeds or religious effort.",
+      "inContext": "Deeds the Torah requires, often focused in debate on practices that set Jews apart (circumcision, food, Sabbath). A similar Hebrew phrase appears in a Dead Sea Scroll (4QMMT). Its exact scope is a central scholarly debate.",
+      "refs": [
+        "Rom 3:20",
+        "Rom 3:28",
+        "Gal 2:16"
+      ]
+    },
+    {
+      "term": "Law",
+      "original": "nomos",
+      "usual": "God's moral rules in general, or legalism.",
+      "inContext": "Usually the Torah of Moses, the covenant gift given to Israel at Sinai. Paul sometimes plays on nomos as 'principle' or 'rule' (Rom 7:21-23; 8:2).",
+      "refs": [
+        "Rom 7:12",
+        "Rom 3:31",
+        "Rom 8:2"
+      ]
+    },
+    {
+      "term": "Atonement place / propitiation",
+      "original": "hilastērion",
+      "usual": "A sacrifice that turns away God's anger.",
+      "inContext": "In the Greek Old Testament the word names the 'mercy seat', the lid of the ark where blood was sprinkled on the Day of Atonement. Translations differ between 'propitiation' (turning away wrath), 'expiation' (wiping out sin) and 'mercy seat'; many scholars think Paul includes the Day of Atonement imagery.",
+      "refs": [
+        "Rom 3:25",
+        "Lev 16:14-16",
+        "Heb 9:5"
+      ]
+    },
+    {
+      "term": "Flesh",
+      "original": "sarx",
+      "usual": "The body, or sinful physical desires.",
+      "inContext": "Human existence in its weakness and mortality, and, for Paul, life organised apart from God's Spirit. It can also mean ethnic descent ('according to the flesh', Rom 9:3-5).",
+      "refs": [
+        "Rom 1:3",
+        "Rom 8:3-9",
+        "Rom 9:5"
+      ]
+    },
+    {
+      "term": "Spirit",
+      "original": "pneuma",
+      "usual": "A private inner experience of God.",
+      "inContext": "God's own presence, promised by the prophets for the age of return (Ezek 36-37), now given to Jews and Gentiles, writing the Law on hearts, adopting them as children and raising the dead.",
+      "refs": [
+        "Rom 8:9-11",
+        "Rom 8:15-16",
+        "Ezek 36:26-27"
+      ]
+    },
+    {
+      "term": "Adoption",
+      "original": "huiothesia",
+      "usual": "A warm picture of being loved by God.",
+      "inContext": "A Roman legal act that transferred a person, often an adult, into a new family with full inheritance rights and cancelled old debts. It also echoes Israel as God's 'son' (Exod 4:22; Rom 9:4).",
+      "refs": [
+        "Rom 8:15",
+        "Rom 8:23",
+        "Rom 9:4"
+      ]
+    },
+    {
+      "term": "Lord",
+      "original": "kyrios",
+      "usual": "A title of personal devotion.",
+      "inContext": "In the Greek Old Testament kyrios stands for God's name, YHWH; in Rome it was used of the emperor. 'Jesus is Lord' (Rom 10:9) applies Joel 2:32 to Jesus and stakes a rival claim to Caesar's.",
+      "refs": [
+        "Rom 10:9-13",
+        "Joel 2:32",
+        "Rom 14:8-9"
+      ]
+    },
+    {
+      "term": "Mystery",
+      "original": "mystērion",
+      "usual": "Something unknowable.",
+      "inContext": "In Jewish apocalyptic writing (as in Daniel), a hidden plan of God now revealed. In Romans it is Israel's partial hardening until the fullness of the Gentiles comes in, and the gospel kept secret for ages and now disclosed.",
+      "refs": [
+        "Rom 11:25",
+        "Rom 16:25-26",
+        "Dan 2:28"
+      ]
+    },
+    {
+      "term": "Remnant",
+      "original": "leimma",
+      "usual": "A small leftover.",
+      "inContext": "Prophetic word for the faithful part of Israel through whom God keeps his promise to the whole (Elijah's 7,000; Isaiah's remnant). Paul sees Jewish believers like himself as the remnant chosen by grace.",
+      "refs": [
+        "Rom 9:27",
+        "Rom 11:5",
+        "1 Kgs 19:18",
+        "Isa 10:22"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "E. P. Sanders",
+      "title": "Paul and Palestinian Judaism",
+      "year": 1977
+    },
+    {
+      "author": "James D. G. Dunn",
+      "title": "Romans 1-8 and Romans 9-16 (Word Biblical Commentary 38A-B)",
+      "year": 1988
+    },
+    {
+      "author": "James D. G. Dunn",
+      "title": "The New Perspective on Paul (revised edition)",
+      "year": 2008
+    },
+    {
+      "author": "N. T. Wright",
+      "title": "The Letter to the Romans (New Interpreter's Bible vol. 10)",
+      "year": 2002
+    },
+    {
+      "author": "N. T. Wright",
+      "title": "Paul and the Faithfulness of God",
+      "year": 2013
+    },
+    {
+      "author": "Krister Stendahl",
+      "title": "The Apostle Paul and the Introspective Conscience of the West (Harvard Theological Review 56)",
+      "year": 1963
+    },
+    {
+      "author": "John M. G. Barclay",
+      "title": "Paul and the Gift",
+      "year": 2015
+    },
+    {
+      "author": "Matthew W. Bates",
+      "title": "Salvation by Allegiance Alone",
+      "year": 2017
+    },
+    {
+      "author": "Douglas A. Campbell",
+      "title": "The Deliverance of God: An Apocalyptic Rereading of Justification in Paul",
+      "year": 2009
+    },
+    {
+      "author": "Mark D. Nanos",
+      "title": "The Mystery of Romans: The Jewish Context of Paul's Letter",
+      "year": 1996
+    },
+    {
+      "author": "Douglas J. Moo",
+      "title": "The Letter to the Romans (NICNT, 2nd edition)",
+      "year": 2018
+    },
+    {
+      "author": "Thomas R. Schreiner",
+      "title": "Romans (BECNT, 2nd edition)",
+      "year": 2018
+    },
+    {
+      "author": "Stephen Westerholm",
+      "title": "Perspectives Old and New on Paul: The 'Lutheran' Paul and His Critics",
+      "year": 2004
+    },
+    {
+      "author": "Simon J. Gathercole",
+      "title": "Where Is Boasting? Early Jewish Soteriology and Paul's Response in Romans 1-5",
+      "year": 2002
+    },
+    {
+      "author": "D. A. Carson, Peter T. O'Brien, Mark A. Seifrid (eds.)",
+      "title": "Justification and Variegated Nomism (2 vols.)",
+      "year": 2001
+    },
+    {
+      "author": "John Piper",
+      "title": "The Justification of God: An Exegetical and Theological Study of Romans 9:1-23",
+      "year": 1983
+    },
+    {
+      "author": "John Piper",
+      "title": "The Future of Justification: A Response to N. T. Wright",
+      "year": 2007
+    },
+    {
+      "author": "Richard B. Hays",
+      "title": "Echoes of Scripture in the Letters of Paul",
+      "year": 1989
+    },
+    {
+      "author": "Richard B. Hays",
+      "title": "The Faith of Jesus Christ",
+      "year": 1983
+    },
+    {
+      "author": "Robert Jewett",
+      "title": "Romans (Hermeneia)",
+      "year": 2007
+    },
+    {
+      "author": "Joseph A. Fitzmyer",
+      "title": "Romans (Anchor Bible 33)",
+      "year": 1993
+    },
+    {
+      "author": "Peter Lampe",
+      "title": "From Paul to Valentinus: Christians at Rome in the First Two Centuries",
+      "year": 2003
+    },
+    {
+      "author": "Ernst Käsemann",
+      "title": "Commentary on Romans (English translation)",
+      "year": 1980
+    },
+    {
+      "author": "Werner Georg Kümmel",
+      "title": "Römer 7 und die Bekehrung des Paulus",
+      "year": 1929
+    },
+    {
+      "author": "Beverly Roberts Gaventa",
+      "title": "When in Romans: An Invitation to Linger with the Gospel according to Paul",
+      "year": 2016
+    },
+    {
+      "author": "Scot McKnight",
+      "title": "Reading Romans Backwards",
+      "year": 2019
+    },
+    {
+      "author": "Paula Fredriksen",
+      "title": "Paul: The Pagans' Apostle",
+      "year": 2017
+    },
+    {
+      "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+      "title": "The Jewish Annotated New Testament (2nd edition)",
+      "year": 2017
+    },
+    {
+      "author": "Suetonius",
+      "title": "Lives of the Caesars: Claudius",
+      "locator": "25.4",
+      "publicDomain": true
+    },
+    {
+      "author": "Tacitus",
+      "title": "Annals",
+      "locator": "13.50-51 (tax protests, AD 58)",
+      "publicDomain": true,
+      "confidence": "needs-verification"
+    },
+    {
+      "author": "John Chrysostom",
+      "title": "Homilies on Romans",
+      "publicDomain": true
+    },
+    {
+      "author": "Paullus Fabius Maximus (proconsul of Asia)",
+      "title": "Priene calendar inscription (OGIS 458)",
+      "year": -9,
+      "confidence": "scholarly-consensus"
+    }
+  ]
+}
