@@ -28,6 +28,7 @@ import Paradoxes from './pages/Paradoxes';
 import BibleHistory from './pages/BibleHistory';
 import Types from './pages/Types';
 import Symbols from './pages/Symbols';
+import Gods from './pages/Gods';
 
 ReactDOM.createRoot(document.getElementById('root')!).render(
   <React.StrictMode>
@@ -64,6 +65,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="/bible-history" element={<BibleHistory />} />
           <Route path="/types" element={<Types />} />
           <Route path="/symbols" element={<Symbols />} />
+          <Route path="/gods" element={<Gods />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Layout>

@@ -236,6 +236,46 @@ export const SymbolT_ = z.object({
 export type CanonBookT = z.infer<typeof CanonBook>; export type ParadoxT = z.infer<typeof Paradox>;
 export type BibleHistoryT = z.infer<typeof BibleHistory>; export type TypeLinkT = z.infer<typeof TypeLink>; export type SymbolT = z.infer<typeof SymbolT_>;
 
+/* ---------- gods of the nations ---------- */
+export const God = z.object({
+  id: z.string(), name: z.string(), otherNames: z.array(z.string()), original: z.string().optional(),
+  region: z.enum(['canaan', 'phoenicia', 'philistia', 'transjordan', 'aram', 'mesopotamia', 'egypt', 'greco-roman', 'israelite-folk', 'spirit-beings']),
+  domains: z.array(z.string()), symbol: z.string(),
+  cultCenter: z.object({ name: z.string(), coords: z.tuple([z.number(), z.number()]) }),
+  family: z.array(z.object({ relation: z.string(), name: z.string(), godId: z.string().optional() })),
+  plain: z.string(), myth: z.string(), biblicalRole: z.string(),
+  encounters: z.array(z.object({ title: z.string(), refs: z.array(Ref), summary: z.string() })),
+  archaeology: z.array(z.object({ find: z.string(), year: z.string(), place: z.string(), summary: z.string(), confidence: Confidence })),
+  renamed: z.object({ original: z.string(), biblical: z.string(), explanation: z.string(), confidence: Confidence }).optional(),
+  laterFate: z.string(), refs: z.array(Ref), confidence: Confidence, related: z.array(z.string()),
+});
+export const GodsExtra = z.object({
+  overview: z.object({ plain: z.string(), keyPoints: z.array(z.string()) }),
+  showdowns: z.array(z.object({
+    id: z.string(), title: z.string(), year: z.number(), place: z.string(), coords: z.tuple([z.number(), z.number()]), godIds: z.array(z.string()), refs: z.array(Ref),
+    steps: z.array(z.object({ title: z.string(), text: z.string(), refs: z.array(Ref), side: z.enum(['god', 'yahweh', 'people', 'narrator']) })),
+    meaning: z.string(), interpretations: z.array(z.object({ view: z.string(), text: z.string() })), confidence: Confidence,
+  })),
+  nameShifts: z.array(z.object({ id: z.string(), original: z.string(), originalMeaning: z.string(), changed: z.string(), changedMeaning: z.string(), technique: z.string(), refs: z.array(Ref), note: z.string(), confidence: Confidence })),
+  finds: z.array(z.object({ id: z.string(), name: z.string(), discovered: z.number(), dated: z.string(), place: z.string(), coords: z.tuple([z.number(), z.number()]), summary: z.string(), significance: z.string(), godIds: z.array(z.string()), refs: z.array(Ref), confidence: Confidence })),
+  purge: z.array(z.object({ item: z.string(), ref: Ref, what: z.string(), godIds: z.array(z.string()) })),
+  demonChain: z.array(z.object({ stage: z.string(), period: z.string(), text: z.string(), refs: z.array(Ref), examples: z.array(z.string()) })),
+});
+export const Council = z.object({
+  plain: z.string(), keyPoints: z.array(z.string()),
+  tiers: z.array(z.object({ name: z.string(), hebrew: z.string(), who: z.string(), role: z.string(), refs: z.array(Ref) })),
+  elohimUses: z.array(z.object({ who: z.string(), ref: Ref, note: z.string() })),
+  scenes: z.array(z.object({ id: z.string(), title: z.string(), ref: Ref, setting: z.string(), whoIsThere: z.array(z.string()), whatHappens: z.string(), readings: z.array(z.object({ view: z.string(), text: z.string() })) })),
+  deut32: z.object({ mt: z.string(), dss: z.string(), lxx: z.string(), translations: z.array(z.object({ name: z.string(), reads: z.string() })), explanation: z.string(), significance: z.string(), confidence: Confidence }),
+  rebellions: z.array(z.object({ id: z.string(), title: z.string(), refs: z.array(Ref), who: z.string(), what: z.string(), consequence: z.string(), reversal: z.string(), reversalRefs: z.array(Ref), readings: z.array(z.object({ view: z.string(), text: z.string() })), confidence: Confidence })),
+  reclaim: z.array(z.object({ stage: z.string(), refs: z.array(Ref), text: z.string(), confidence: Confidence })),
+  nations: z.array(z.object({ name: z.string(), gen10: z.string(), acts2: z.boolean(), paulVisited: z.boolean(), coords: z.tuple([z.number(), z.number()]), note: z.string() })),
+  objections: z.array(z.object({ question: z.string(), answer: z.string(), otherViews: z.string(), refs: z.array(Ref) })),
+  scholars: z.array(z.object({ name: z.string(), year: z.number(), work: z.string(), contribution: z.string() })),
+});
+export type CouncilT = z.infer<typeof Council>;
+export type GodT = z.infer<typeof God>; export type GodsExtraT = z.infer<typeof GodsExtra>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
@@ -256,7 +296,8 @@ export const FILES = {
   'bible-history.json': BibleHistory,
   'types.json': z.array(TypeLink),
   'symbols-1.json': z.array(SymbolT_), 'symbols-2.json': z.array(SymbolT_),
-  'guides-6.json': z.array(DeepDive),
+  'guides-6.json': z.array(DeepDive), 'guides-7.json': z.array(DeepDive),
+  'gods-1.json': z.array(God), 'gods-2.json': z.array(God), 'gods-extra.json': GodsExtra, 'council.json': Council, 'debates-6.json': z.array(Debate),
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),

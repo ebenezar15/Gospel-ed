@@ -86,6 +86,7 @@ const DOORS = [
   { to: '/people/elijah?tab=interview', k: 'Interview', t: 'Ask Elijah a question', d: 'An imaginative, scripture-grounded conversation.' },
   { to: '/canon', k: 'Play', t: 'Canon or not?', d: 'Guess which Bibles include Enoch, Tobit or Thomas.' },
   { to: '/paradoxes', k: 'Balance', t: 'Faith and works on the scale', d: 'Tilt the Bible’s paradoxes by each resolution.' },
+  { to: '/gods?tab=showdowns', k: 'Witness', t: 'Elijah vs Baal, the ark vs Dagon', d: 'The Bible’s showdowns with the gods, scene by scene.' },
   { to: '/types', k: 'Cross over', t: 'From shadow to substance', d: 'Passover lamb to Christ, Jonah to the tomb.' },
 ];
 

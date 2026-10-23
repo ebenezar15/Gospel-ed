@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
+  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
 } from '../data';
 import { parseRef } from '../lib/refs';
 
@@ -17,6 +17,7 @@ const NAV: { group: string; items: { to: string; label: string; glyph: string }[
   { group: 'Reading the Bible', items: [
     { to: '/bible-history', label: 'Bible History', glyph: '▤' }, { to: '/canon', label: 'Omitted & Lost Books', glyph: '✠' },
     { to: '/types', label: 'Types & Shadows', glyph: '⇄' }, { to: '/symbols', label: 'Symbols & Imagery', glyph: '◈' }, { to: '/paradoxes', label: 'Paradoxes', glyph: '☯' },
+    { to: '/gods', label: 'Gods of the Nations', glyph: '♆' },
   ] },
   { group: 'Time & Place', items: [{ to: '/timeline', label: 'Timeline', glyph: '⟿' }, { to: '/maps', label: 'Maps & Journeys', glyph: '✦' }, { to: '/lens', label: 'Who Was Alive?', glyph: '◎' }] },
   { group: 'Gospel & Doctrine', items: [
@@ -48,6 +49,9 @@ function useSearchIndex() {
       ...types.map((t) => ({ kind: 'Type', title: `${t.type.name} → ${t.antitype.name}`, sub: t.title, to: `/types?t=${t.id}` })),
       ...symbols.map((s) => ({ kind: 'Symbol', title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
       ...bibleHistory.variants.map((v) => ({ kind: 'Disputed passage', title: v.title, sub: v.ref, to: '/bible-history' })),
+      ...gods.map((g) => ({ kind: 'God', title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
+      ...godsExtra.showdowns.map((s) => ({ kind: 'Showdown', title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
+      { kind: 'Page', title: 'The divine council', sub: 'Psalm 82, Deuteronomy 32:8, sons of God', to: '/gods?tab=council' },
       ...studyPaths.map((s) => ({ kind: 'Study path', title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to }))),
     ];
