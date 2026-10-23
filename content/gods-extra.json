@@ -1,0 +1,2110 @@
+{
+  "overview": {
+    "plain": "Ancient Israel lived among peoples who each had their own gods: Baal (Hadad) the storm god and Asherah the mother goddess in Canaan, Dagon among the Philistines, Chemosh in Moab, Milcom in Ammon, Marduk and Nabu in Babylon, and the many gods of Egypt. Most of these were tied to a land, a city or a force of nature, and people worshipped them to secure rain, children, harvests and victory. Israel was drawn to them for practical reasons: Canaan's farms depended on rain rather than a great river, foreign marriages and treaties brought foreign altars, and archaeology shows that many ordinary Israelites mixed the worship of Yahweh with other gods and cult objects. The Bible's writers answer in several ways at once: they tell contest stories in which Israel's God beats a rival on its own ground, they mock idols as wood and metal, they deliberately twist the gods' names into insults, and in later texts they treat the foreign gods as demons. The result is a long argument, running from Exodus to Acts, that Yahweh alone deserves worship and that the gods of the nations cannot save.",
+    "keyPoints": [
+      "Most ancient gods were local and functional: a god of a mountain, a city, the storm, the grain or the sea. Changing land often meant changing gods (1 Sam 26:19; 2 Kgs 17:26).",
+      "Baal was the great temptation because Canaan's farming depended on rain, and Baal was the rain god (Deut 11:10-11). The Elijah stories answer him on exactly that ground (1 Kgs 17:1; 1 Kgs 18:41-45).",
+      "Archaeology (Ugarit, Kuntillet Ajrud, Khirbet el-Qom, Tel Arad) shows the gods the Bible attacks were real objects of worship, and that some Israelites linked Yahweh with Asherah. How widespread this was is debated.",
+      "The Bible often tells 'showdown' stories in which a rival god is humbled on its own turf: the Nile, Dagon's temple, Baal's Mount Carmel, Babylon's procession street (Exod 12:12; 1 Sam 5:3-4; 1 Kgs 18:38; Isa 46:1-2).",
+      "Scribes sometimes changed the names of gods and of people named after them, swapping 'Baal' for 'bosheth' (shame) or putting the vowels of 'shame' onto a god's name. If a biblical name looks odd, check the vowels.",
+      "Josiah's reform in 621 BC is the Bible's most detailed list of what was actually being worshipped in Judah, from Baal vessels in the temple to horses dedicated to the sun (2 Kgs 23:4-20).",
+      "Over time the view of these gods shifted: from rival powers, to lifeless idols, to demons behind the idols (Deut 32:17; Ps 96:5; 1 Cor 10:19-21). Later Christian demonology and Milton's *Paradise Lost* turned the old gods into named devils.",
+      "Many popular claims need care: Dagon was probably a grain god, not a fish god; the one-plague-per-Egyptian-god scheme is a later reading; and whether 'Molech' was a god or a kind of sacrifice is still argued."
+    ]
+  },
+  "showdowns": [
+    {
+      "id": "plagues-egypt",
+      "title": "The plagues and the gods of Egypt",
+      "year": -1446,
+      "place": "Egypt (the Nile Delta, near Goshen)",
+      "coords": [
+        31.83,
+        30.8
+      ],
+      "godIds": [
+        "hapi",
+        "heqet",
+        "apis",
+        "hathor",
+        "ra",
+        "osiris",
+        "amun"
+      ],
+      "refs": [
+        "Exod 7:8-12:36",
+        "Exod 12:12",
+        "Exod 18:11",
+        "Num 33:4"
+      ],
+      "steps": [
+        {
+          "title": "Staff against staff",
+          "side": "people",
+          "text": "Aaron's staff becomes a serpent; Pharaoh's magicians do the same, but Aaron's swallows theirs. The royal cobra was a symbol of Pharaoh's divine power, so many readers see the first blow aimed at the crown itself.",
+          "refs": [
+            "Exod 7:10-12"
+          ]
+        },
+        {
+          "title": "The Nile turns to blood",
+          "side": "yahweh",
+          "text": "The river that fed Egypt becomes undrinkable. Traditionally linked to Hapi, the god of the Nile's flood, and to Osiris, whose life-force the flood was said to carry. The text itself names no god here.",
+          "refs": [
+            "Exod 7:17-21"
+          ]
+        },
+        {
+          "title": "Frogs everywhere",
+          "side": "yahweh",
+          "text": "Frogs swarm into houses and ovens. Popular teaching links this to Heqet, a frog-headed goddess of birth; she was a minor deity, so the link is suggestive rather than certain.",
+          "refs": [
+            "Exod 8:2-6"
+          ]
+        },
+        {
+          "title": "The magicians give up",
+          "side": "people",
+          "text": "When the dust becomes gnats, Pharaoh's experts cannot copy it and admit, 'This is the finger of God'. Egypt's own religious professionals concede the contest.",
+          "refs": [
+            "Exod 8:16-19"
+          ]
+        },
+        {
+          "title": "Livestock die",
+          "side": "yahweh",
+          "text": "Egypt's herds die while Israel's survive. Often linked to the sacred Apis bull of Memphis and the cow goddess Hathor (traditional pairing, debated).",
+          "refs": [
+            "Exod 9:3-7"
+          ]
+        },
+        {
+          "title": "Darkness for three days",
+          "side": "yahweh",
+          "text": "A darkness 'that can be felt' covers Egypt but not Goshen. Since Ra (Re) and Amun-Ra, the sun gods, stood at the top of Egypt's pantheon, this is the plague most readers connect to a specific god.",
+          "refs": [
+            "Exod 10:21-23"
+          ]
+        },
+        {
+          "title": "Judgment on all the gods",
+          "side": "yahweh",
+          "text": "Before the last plague Yahweh says, 'against all the gods of Egypt I will execute judgments'. This is the one place Exodus itself frames the plagues as a contest with gods.",
+          "refs": [
+            "Exod 12:12"
+          ]
+        },
+        {
+          "title": "The firstborn and Pharaoh's house",
+          "side": "yahweh",
+          "text": "The firstborn die, including Pharaoh's heir. Pharaoh was regarded as a son of the gods and his heir as the next divine king, so the blow lands on the throne's claim to divinity.",
+          "refs": [
+            "Exod 12:29-32"
+          ]
+        },
+        {
+          "title": "Looking back",
+          "side": "narrator",
+          "text": "Jethro concludes that Yahweh is greater than all gods, and Numbers recalls that on Egypt's gods also Yahweh executed judgments.",
+          "refs": [
+            "Exod 18:11",
+            "Num 33:4"
+          ]
+        }
+      ],
+      "meaning": "Exodus presents the plagues as more than natural disasters: they show who really controls the Nile, the land, the animals, light and life, and they answer Pharaoh's question, 'Who is Yahweh, that I should obey him?' (Exod 5:2). The text explicitly calls this a judgment on Egypt's gods, but it does not match each plague to a named god.",
+      "interpretations": [
+        {
+          "view": "One plague per god (popular pairing)",
+          "text": "Each plague targets a particular deity: Hapi, Heqet, Apis and Hathor, Ra, and so on. Widely taught since the 19th and 20th centuries and popularised in books such as John J. Davis, *Moses and the Gods of Egypt* (1971). Critics note that Egypt had hundreds of gods, several pairings rely on minor deities, and some plagues (gnats, flies, boils) have no obvious god. Best treated as a traditional, partly speculative reading."
+        },
+        {
+          "view": "Pharaoh and Ma'at",
+          "text": "The plagues attack the order (ma'at) that Pharaoh, as divine king, was supposed to uphold. Chaos in river, field and sky shows that Pharaoh cannot keep the world in order, while Israel's God can. This fits Exod 12:12 without needing a god-by-god list."
+        },
+        {
+          "view": "Undoing creation",
+          "text": "Some scholars (for example Terence Fretheim) read the plagues as creation running backwards: water, land, animals and light turn against Egypt, echoing Genesis 1, because Pharaoh has opposed the Creator's purposes."
+        },
+        {
+          "view": "Historical and naturalistic questions",
+          "text": "Dates differ (early exodus c. 1446 BC or late exodus c. 1260 BC), and some propose a natural chain of events (red algae, frogs, insects, disease). Others doubt the events are historical in this form. These questions do not change the theological point the text makes."
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "golden-calf",
+      "title": "The golden calf at Sinai",
+      "year": -1446,
+      "place": "Mount Sinai (traditional site: Jebel Musa)",
+      "coords": [
+        33.975,
+        28.539
+      ],
+      "godIds": [
+        "golden-calf",
+        "apis"
+      ],
+      "refs": [
+        "Exod 32:1-35",
+        "Deut 9:7-21",
+        "Ps 106:19-23",
+        "Acts 7:39-41"
+      ],
+      "steps": [
+        {
+          "title": "'Make us gods'",
+          "side": "people",
+          "text": "While Moses is delayed on the mountain, the people ask Aaron to make them gods (or 'a god'; elohim can be either) to go before them.",
+          "refs": [
+            "Exod 32:1"
+          ]
+        },
+        {
+          "title": "Aaron casts the calf",
+          "side": "people",
+          "text": "Aaron collects gold earrings, shapes a young bull, and the people say, 'These are your gods, O Israel, who brought you up out of Egypt'.",
+          "refs": [
+            "Exod 32:2-4"
+          ]
+        },
+        {
+          "title": "A feast 'to Yahweh'",
+          "side": "people",
+          "text": "Aaron builds an altar and announces 'a feast to Yahweh' tomorrow. The people sacrifice, eat, drink and 'rise up to play'.",
+          "refs": [
+            "Exod 32:5-6"
+          ]
+        },
+        {
+          "title": "Wrath and intercession",
+          "side": "yahweh",
+          "text": "Yahweh tells Moses the people have corrupted themselves and threatens to consume them; Moses pleads, appealing to God's promise to Abraham, and Yahweh relents.",
+          "refs": [
+            "Exod 32:7-14"
+          ]
+        },
+        {
+          "title": "Tablets smashed, calf destroyed",
+          "side": "people",
+          "text": "Moses breaks the tablets, burns the calf, grinds it to powder, scatters it on water and makes the people drink it.",
+          "refs": [
+            "Exod 32:19-20"
+          ]
+        },
+        {
+          "title": "Judgment in the camp",
+          "side": "narrator",
+          "text": "The Levites rally to Moses and kill about three thousand; a plague follows. Moses offers to be blotted out of God's book for the people.",
+          "refs": [
+            "Exod 32:26-35"
+          ]
+        },
+        {
+          "title": "The echo at Bethel and Dan",
+          "side": "narrator",
+          "text": "Centuries later Jeroboam sets up two calves with almost the same words: 'Here are your gods, O Israel, who brought you up out of Egypt'. The writers clearly want readers to connect the two.",
+          "refs": [
+            "1 Kgs 12:28-30"
+          ]
+        }
+      ],
+      "meaning": "The calf breaks the second commandment almost as soon as it is given (Exod 20:4-5). Whether the people meant a new god or an image of Yahweh, the Bible treats making a visible, controllable form of God as betrayal, and later tradition remembers it as Israel's archetypal sin (Ps 106:19-20; Acts 7:41).",
+      "interpretations": [
+        {
+          "view": "A foreign god (Egyptian influence)",
+          "text": "Older commentators, Jewish and Christian, often linked the calf to the Apis bull of Egypt, which the people had just left. Bull imagery was common across the Near East, so a direct Apis link is possible but unproven."
+        },
+        {
+          "view": "An image or pedestal of Yahweh",
+          "text": "Because Aaron proclaims a feast 'to Yahweh', many scholars think the calf was meant to represent Israel's own God, or to serve as his throne or mount, as the cherubim did. Bull imagery was used for storm gods such as Baal and for El ('Bull El' at Ugarit). On this view the sin is worshipping the right God the wrong way."
+        },
+        {
+          "view": "A polemic against Jeroboam",
+          "text": "Many critical scholars think the story was shaped (or written) to condemn Jeroboam's calf-shrines, given the identical formula and the plural 'gods' for a single calf. Others reply that Jeroboam was consciously copying an older tradition, so the echo runs the other way."
+        },
+        {
+          "view": "Christian typology",
+          "text": "Paul uses the episode as a warning to Christians tempted by idol feasts in Corinth (1 Cor 10:7), and Stephen cites it to show Israel's pattern of resisting God's messengers (Acts 7:39-41)."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "baal-peor",
+      "title": "Baal-peor: apostasy on the plains of Moab",
+      "year": -1406,
+      "place": "Shittim, on the plains of Moab east of the Jordan",
+      "coords": [
+        35.67,
+        31.84
+      ],
+      "godIds": [
+        "baal-peor",
+        "chemosh"
+      ],
+      "refs": [
+        "Num 25:1-18",
+        "Num 31:16",
+        "Deut 4:3-4",
+        "Ps 106:28-31",
+        "Hos 9:10",
+        "1 Cor 10:8",
+        "Rev 2:14"
+      ],
+      "steps": [
+        {
+          "title": "An invitation to sacrifice",
+          "side": "people",
+          "text": "Camped at Shittim, Israelite men begin 'whoring' with Moabite women, who invite them to the sacrifices of their gods. They eat and bow down.",
+          "refs": [
+            "Num 25:1-2"
+          ]
+        },
+        {
+          "title": "Yoked to Baal of Peor",
+          "side": "god",
+          "text": "Israel 'yokes itself' to Baal of Peor, the local lord of Mount Peor. The verb suggests a binding commitment, almost a treaty or marriage.",
+          "refs": [
+            "Num 25:3"
+          ]
+        },
+        {
+          "title": "Judgment ordered",
+          "side": "yahweh",
+          "text": "Yahweh's anger burns; Moses orders the judges to execute those who joined themselves to Baal-peor.",
+          "refs": [
+            "Num 25:4-5"
+          ]
+        },
+        {
+          "title": "Zimri and Cozbi",
+          "side": "people",
+          "text": "While the people weep at the tent of meeting, an Israelite leader, Zimri, openly brings a Midianite princess, Cozbi, into his tent.",
+          "refs": [
+            "Num 25:6",
+            "Num 25:14-15"
+          ]
+        },
+        {
+          "title": "Phinehas acts",
+          "side": "people",
+          "text": "Phinehas the priest spears both of them; the plague stops. Twenty-four thousand have died.",
+          "refs": [
+            "Num 25:7-9"
+          ]
+        },
+        {
+          "title": "A covenant of peace",
+          "side": "yahweh",
+          "text": "Yahweh gives Phinehas a covenant of lasting priesthood for his zeal.",
+          "refs": [
+            "Num 25:10-13"
+          ]
+        },
+        {
+          "title": "Balaam's advice",
+          "side": "narrator",
+          "text": "Later the text blames the episode on Balaam's counsel: unable to curse Israel, he advised luring them into sin.",
+          "refs": [
+            "Num 31:16",
+            "Rev 2:14"
+          ]
+        },
+        {
+          "title": "Remembered for centuries",
+          "side": "narrator",
+          "text": "Deuteronomy, Hosea and the Psalms all recall Peor as a defining failure; Paul cites it to the Corinthians.",
+          "refs": [
+            "Deut 4:3-4",
+            "Hos 9:10",
+            "Ps 106:28-31",
+            "1 Cor 10:8"
+          ]
+        }
+      ],
+      "meaning": "On the edge of the promised land, Israel's first open lapse into Canaanite-style worship comes not by force but through hospitality, sex and shared meals. The story warns that the real danger of the other gods lay in ordinary social ties.",
+      "interpretations": [
+        {
+          "view": "Sexual fertility rite",
+          "text": "Older scholarship often explained Peor as ritual sex in a fertility cult. The text links sex and sacrifice, but evidence for organised 'sacred prostitution' in Canaan is now widely doubted, so many scholars treat this as an over-reading."
+        },
+        {
+          "view": "Cult of the dead",
+          "text": "Ps 106:28 says Israel 'ate the sacrifices of the dead'. Some scholars connect Peor with the marzeah, a feast associated with the dead known from Ugarit and later texts, and read Baal-peor as having an underworld side."
+        },
+        {
+          "view": "Political and covenant betrayal",
+          "text": "The language of being 'yoked' and the Midianite princess suggest alliance politics as well as religion: joining Moab and Midian meant joining their god."
+        },
+        {
+          "view": "24,000 or 23,000?",
+          "text": "Paul says 23,000 fell 'in one day' (1 Cor 10:8). Suggested explanations: he is quoting from memory, combining with Exod 32, rounding, or counting only those who died in a single day. It is a well-known small discrepancy."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "dagon-ark",
+      "title": "Dagon falls before the ark",
+      "year": -1050,
+      "place": "Ashdod, then Gath and Ekron (Philistia)",
+      "coords": [
+        34.66,
+        31.75
+      ],
+      "godIds": [
+        "dagon"
+      ],
+      "refs": [
+        "1 Sam 4:10-11",
+        "1 Sam 5:1-12",
+        "1 Sam 6:1-21"
+      ],
+      "steps": [
+        {
+          "title": "The ark captured",
+          "side": "people",
+          "text": "Israel loses the battle of Ebenezer; the ark is captured and Eli's sons are killed. Eli's daughter-in-law names her son Ichabod, 'the glory has departed'.",
+          "refs": [
+            "1 Sam 4:10-11",
+            "1 Sam 4:21-22"
+          ]
+        },
+        {
+          "title": "A trophy in Dagon's temple",
+          "side": "god",
+          "text": "The Philistines set the ark beside Dagon in his temple at Ashdod, as conquerors did with the gods of defeated peoples.",
+          "refs": [
+            "1 Sam 5:1-2"
+          ]
+        },
+        {
+          "title": "Face down",
+          "side": "yahweh",
+          "text": "Next morning Dagon has fallen on his face before the ark, the posture of a worshipper. They put him back.",
+          "refs": [
+            "1 Sam 5:3"
+          ]
+        },
+        {
+          "title": "Head and hands broken off",
+          "side": "yahweh",
+          "text": "The next morning he has fallen again, with head and hands cut off on the threshold; 'only Dagon was left' (the Hebrew is odd, probably 'only his trunk').",
+          "refs": [
+            "1 Sam 5:4"
+          ]
+        },
+        {
+          "title": "'To this day'",
+          "side": "narrator",
+          "text": "This is given as the reason Dagon's priests do not step on the threshold at Ashdod. Zephaniah later condemns those who 'leap over the threshold', perhaps the same custom.",
+          "refs": [
+            "1 Sam 5:5",
+            "Zeph 1:9"
+          ]
+        },
+        {
+          "title": "Tumours spread",
+          "side": "yahweh",
+          "text": "Yahweh's hand strikes Ashdod with tumours ('ophalim'). The ark is passed to Gath and then Ekron, and panic follows it.",
+          "refs": [
+            "1 Sam 5:6-12"
+          ]
+        },
+        {
+          "title": "Golden tumours and golden mice",
+          "side": "people",
+          "text": "The Philistine priests and diviners advise sending it back with a guilt offering: five golden tumours and five golden mice, one for each Philistine ruler, and to 'give glory to the God of Israel'. They recall Egypt's hardness of heart.",
+          "refs": [
+            "1 Sam 6:2-9"
+          ]
+        },
+        {
+          "title": "The cows go straight home",
+          "side": "narrator",
+          "text": "Two nursing cows pull the cart straight to Beth-shemesh, against their instinct, confirming it was Yahweh's doing.",
+          "refs": [
+            "1 Sam 6:10-16"
+          ]
+        }
+      ],
+      "meaning": "Israel's God has not been defeated with his people. In the enemy god's own house he humbles the rival, who ends up bowing and broken. The point is that the ark's capture was judgment on Israel, not proof that Dagon was stronger.",
+      "interpretations": [
+        {
+          "view": "Dagon the grain god, not a fish god",
+          "text": "The 'fish god' idea comes from Hebrew dag (fish) and medieval Jewish commentators such as Rashi and David Kimchi. Most scholars now connect Dagon (Dagan) with dagan, 'grain'. He was worshipped far earlier at Ebla and Mari (3rd millennium BC) as a great lord of the land, and Ugaritic texts call Baal 'son of Dagan'. The Philistines, newcomers from the Aegean, seem to have adopted him locally."
+        },
+        {
+          "view": "What were the tumours?",
+          "text": "'Ophalim' means swellings or mounds. The KJV's 'emerods' (haemorrhoids) follows Jewish tradition; the Masoretes even marked a politer word (techorim) to be read aloud. Because mice are mentioned, many suggest bubonic plague with swollen lymph nodes; others doubt plague bacteria were present in the region then. The cause is uncertain."
+        },
+        {
+          "view": "Ancient 'godnapping' practice",
+          "text": "Carrying off a defeated people's gods was standard Near Eastern practice (Assyrian kings boast of it). The story turns this custom upside down: the captured God punishes his captors."
+        },
+        {
+          "view": "Ark Narrative as a source",
+          "text": "Many scholars think 1 Sam 4-6 (with 2 Sam 6) was once a separate 'Ark Narrative', perhaps written to explain the ark's absence and return. This affects how they date the story, not its theological point."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "samson-dagon",
+      "title": "Samson in the temple of Dagon",
+      "year": -1075,
+      "place": "Gaza (Philistia)",
+      "coords": [
+        34.46,
+        31.5
+      ],
+      "godIds": [
+        "dagon"
+      ],
+      "refs": [
+        "Judg 16:21-31",
+        "Heb 11:32-34"
+      ],
+      "steps": [
+        {
+          "title": "Blinded and grinding",
+          "side": "people",
+          "text": "Betrayed by Delilah, Samson is blinded, bound in bronze and set to grind grain in the prison at Gaza.",
+          "refs": [
+            "Judg 16:21"
+          ]
+        },
+        {
+          "title": "The hair grows",
+          "side": "narrator",
+          "text": "A quiet note: his hair begins to grow again.",
+          "refs": [
+            "Judg 16:22"
+          ]
+        },
+        {
+          "title": "Praise to Dagon",
+          "side": "god",
+          "text": "The Philistine lords gather for a great sacrifice to Dagon, singing that their god has given their enemy into their hands. The people praise their god when they see Samson.",
+          "refs": [
+            "Judg 16:23-24"
+          ]
+        },
+        {
+          "title": "Made to perform",
+          "side": "people",
+          "text": "Samson is brought out to entertain them and placed between the pillars; about three thousand watch from the roof.",
+          "refs": [
+            "Judg 16:25-27"
+          ]
+        },
+        {
+          "title": "Samson's prayer",
+          "side": "people",
+          "text": "He asks Yahweh to remember him and strengthen him once more to avenge his two eyes.",
+          "refs": [
+            "Judg 16:28"
+          ]
+        },
+        {
+          "title": "The pillars fall",
+          "side": "yahweh",
+          "text": "Pushing the two central pillars, he brings the house down; he kills more in his death than in his life.",
+          "refs": [
+            "Judg 16:29-30"
+          ]
+        },
+        {
+          "title": "Buried with his father",
+          "side": "narrator",
+          "text": "His family recover his body and bury him; he had judged Israel twenty years.",
+          "refs": [
+            "Judg 16:31"
+          ]
+        }
+      ],
+      "meaning": "The Philistines credit Dagon with Samson's capture, so the collapse of Dagon's house is a public reversal: the feast to Dagon becomes the occasion of Yahweh's victory through a broken man.",
+      "interpretations": [
+        {
+          "view": "Archaeological plausibility",
+          "text": "Philistine temples excavated at Tell Qasile (by Amihai Mazar) and Tel Miqne-Ekron had roofs supported by two central pillars set close together, which makes the story's architecture believable."
+        },
+        {
+          "view": "Hero of faith",
+          "text": "Hebrews lists Samson among those who 'out of weakness were made strong' (Heb 11:32-34). Many Christian and Jewish readers see his final prayer as genuine repentance."
+        },
+        {
+          "view": "Tragic and critical reading",
+          "text": "Others note that Samson's prayer is for personal revenge and that Judges presents him as a flawed, self-destructive judge, a sign of how far Israel had fallen; the victory is God's in spite of him."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "carmel",
+      "title": "Elijah and the prophets of Baal on Mount Carmel",
+      "year": -860,
+      "place": "Mount Carmel (traditional site: El-Muhraqa)",
+      "coords": [
+        35.095,
+        32.663
+      ],
+      "godIds": [
+        "baal-hadad",
+        "asherah"
+      ],
+      "refs": [
+        "1 Kgs 16:31-33",
+        "1 Kgs 17:1",
+        "1 Kgs 18:1-46",
+        "Jas 5:17-18"
+      ],
+      "steps": [
+        {
+          "title": "Ahab, Jezebel and a drought",
+          "side": "narrator",
+          "text": "Ahab marries Jezebel, daughter of the king of the Sidonians, and builds a temple for Baal in Samaria. Elijah announces that no dew or rain will fall except by his word: a direct challenge to the rain god.",
+          "refs": [
+            "1 Kgs 16:31-33",
+            "1 Kgs 17:1"
+          ]
+        },
+        {
+          "title": "The challenge",
+          "side": "people",
+          "text": "Elijah summons 450 prophets of Baal and 400 of Asherah 'who eat at Jezebel's table' and asks the people how long they will limp between two opinions.",
+          "refs": [
+            "1 Kgs 18:19-21"
+          ]
+        },
+        {
+          "title": "Baal's prophets call all day",
+          "side": "god",
+          "text": "They call on Baal from morning to noon and limp around their altar, but there is no voice and no answer.",
+          "refs": [
+            "1 Kgs 18:25-26"
+          ]
+        },
+        {
+          "title": "Elijah mocks",
+          "side": "people",
+          "text": "Elijah taunts them: perhaps Baal is musing, or has 'gone aside' (probably a crude joke about relieving himself), or is travelling, or asleep. Ugaritic myths do show Baal away, dead or sleeping.",
+          "refs": [
+            "1 Kgs 18:27"
+          ]
+        },
+        {
+          "title": "They cut themselves",
+          "side": "god",
+          "text": "They shout louder and gash themselves with swords and lances until blood flows, and rave until evening. Self-cutting was a mourning rite in the region (forbidden in Deut 14:1) and may have been a plea to a god thought dead.",
+          "refs": [
+            "1 Kgs 18:28-29",
+            "Deut 14:1"
+          ]
+        },
+        {
+          "title": "Twelve stones and water",
+          "side": "people",
+          "text": "Elijah repairs Yahweh's altar with twelve stones for the tribes and has it drenched with water three times, so no trick is possible.",
+          "refs": [
+            "1 Kgs 18:30-35"
+          ]
+        },
+        {
+          "title": "Fire from heaven",
+          "side": "yahweh",
+          "text": "After a short prayer, fire falls and consumes sacrifice, wood, stones and water. The people cry, 'Yahweh, he is God'.",
+          "refs": [
+            "1 Kgs 18:36-39"
+          ]
+        },
+        {
+          "title": "Slaughter at the Kishon",
+          "side": "people",
+          "text": "Elijah has the prophets of Baal seized and killed at the brook Kishon.",
+          "refs": [
+            "1 Kgs 18:40"
+          ]
+        },
+        {
+          "title": "Then the rain",
+          "side": "yahweh",
+          "text": "Elijah prays on the summit; a small cloud rises from the sea and a great rainstorm follows.",
+          "refs": [
+            "1 Kgs 18:41-45"
+          ]
+        }
+      ],
+      "meaning": "The contest is fought on Baal's own terms: fire (lightning) and rain were the storm god's speciality. Yahweh sends both, and Baal sends neither. The story's question is not which god is stronger in general but which god actually gives Israel its rain and life.",
+      "interpretations": [
+        {
+          "view": "Storm-god polemic",
+          "text": "Most scholars read the narrative as a deliberate polemic: Baal 'rider of the clouds' with thunderbolt in hand is shown to be silent, and Yahweh takes over his roles (compare Ps 29). Carmel, on the border with Phoenicia, was a fitting stage."
+        },
+        {
+          "view": "Which Baal?",
+          "text": "Jezebel's god is often identified with Baal-Shamem or Melqart, the god of Tyre, rather than Hadad of Ugarit. The text simply says 'Baal'; scholars are divided."
+        },
+        {
+          "view": "History and numbers",
+          "text": "Some historians see the story as legend shaped by later conflicts over Baal worship; others accept a historical core. Everyone agrees the narrative is carefully crafted, with its repeated threes and twelves."
+        },
+        {
+          "view": "The violence",
+          "text": "The killing of the prophets follows Deuteronomy's law on false prophets (Deut 13:1-5). Jewish and Christian readers have long wrestled with it; Jesus rebukes disciples who want to copy Elijah's fire (Luke 9:54-55), and James uses Elijah instead as a model of prayer (Jas 5:17-18)."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "ahaziah-baal-zebub",
+      "title": "Ahaziah consults Baal-zebub of Ekron",
+      "year": -852,
+      "place": "Samaria, with messengers bound for Ekron",
+      "coords": [
+        35.19,
+        32.28
+      ],
+      "godIds": [
+        "baal-zebub"
+      ],
+      "refs": [
+        "2 Kgs 1:1-18",
+        "Luke 9:51-56"
+      ],
+      "steps": [
+        {
+          "title": "A fall through the lattice",
+          "side": "people",
+          "text": "King Ahaziah of Israel, Ahab's son, falls through the lattice of his upper room in Samaria and is badly hurt.",
+          "refs": [
+            "2 Kgs 1:2"
+          ]
+        },
+        {
+          "title": "Messengers to Ekron",
+          "side": "god",
+          "text": "He sends messengers to ask Baal-zebub, the god of Ekron, whether he will recover. Ekron's god evidently had a reputation as an oracle for healing.",
+          "refs": [
+            "2 Kgs 1:2"
+          ]
+        },
+        {
+          "title": "'Is there no God in Israel?'",
+          "side": "yahweh",
+          "text": "The angel of Yahweh sends Elijah to intercept them: is it because there is no God in Israel that you go to Ekron? The king will die.",
+          "refs": [
+            "2 Kgs 1:3-4"
+          ]
+        },
+        {
+          "title": "The hairy man",
+          "side": "people",
+          "text": "The messengers turn back and describe a hairy man with a leather belt; Ahaziah knows it is Elijah.",
+          "refs": [
+            "2 Kgs 1:5-8"
+          ]
+        },
+        {
+          "title": "Fire on the captains",
+          "side": "yahweh",
+          "text": "Two captains with fifty men each are sent to arrest Elijah; fire falls from heaven and consumes them.",
+          "refs": [
+            "2 Kgs 1:9-12"
+          ]
+        },
+        {
+          "title": "The third captain pleads",
+          "side": "people",
+          "text": "The third captain kneels and begs for his men's lives; Elijah goes with him to the king.",
+          "refs": [
+            "2 Kgs 1:13-15"
+          ]
+        },
+        {
+          "title": "Verdict and death",
+          "side": "narrator",
+          "text": "Elijah repeats the verdict to Ahaziah's face, and the king dies, leaving no son.",
+          "refs": [
+            "2 Kgs 1:16-17"
+          ]
+        }
+      ],
+      "meaning": "Consulting a foreign god for healing is treated as a public denial that Israel's God is present and able. The fire on the soldiers mirrors Carmel: the power Baal was believed to wield belongs to Yahweh.",
+      "interpretations": [
+        {
+          "view": "A mocking name",
+          "text": "Most scholars think 'Baal-zebub' (lord of flies) is a scornful twist of 'Baal-zebul' (Baal the Prince), a title of Baal known from Ugarit. The Gospels' 'Beelzebul' preserves the original form."
+        },
+        {
+          "view": "A real fly-god title",
+          "text": "A minority hold that the god really was invoked as lord over flies, averting disease-bearing insects, comparable to Greek titles like Zeus Apomyios. On this view the name is not a pun."
+        },
+        {
+          "view": "The fire and the soldiers",
+          "text": "Readers have long been troubled by the deaths of a hundred soldiers. Jesus refuses to repeat the act when James and John want to call down fire on a Samaritan village (Luke 9:54-55), which many Christians take as a deliberate contrast."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "mesha-chemosh",
+      "title": "Mesha of Moab, Chemosh and the sacrifice on the wall",
+      "year": -849,
+      "place": "Kir-hareseth (modern Kerak, Jordan)",
+      "coords": [
+        35.7,
+        31.18
+      ],
+      "godIds": [
+        "chemosh"
+      ],
+      "refs": [
+        "2 Kgs 1:1",
+        "2 Kgs 3:4-27",
+        "Num 21:29",
+        "Jer 48:7",
+        "Amos 2:1"
+      ],
+      "steps": [
+        {
+          "title": "A vassal sheep-king",
+          "side": "narrator",
+          "text": "Mesha king of Moab, a sheep breeder, pays Israel a huge tribute in lambs and wool; after Ahab's death he rebels.",
+          "refs": [
+            "2 Kgs 3:4-5",
+            "2 Kgs 1:1"
+          ]
+        },
+        {
+          "title": "Mesha's side of the story",
+          "side": "god",
+          "text": "On his own stone monument (the Mesha Stele) Mesha says Omri oppressed Moab 'because Chemosh was angry with his land', and that Chemosh then told him to take Nebo from Israel. He claims victory and that 'Israel has perished for ever'.",
+          "refs": [
+            "2 Kgs 3:4-5"
+          ]
+        },
+        {
+          "title": "Three kings march",
+          "side": "people",
+          "text": "Jehoram of Israel, Jehoshaphat of Judah and the king of Edom march around the south of the Dead Sea and run out of water.",
+          "refs": [
+            "2 Kgs 3:6-10"
+          ]
+        },
+        {
+          "title": "Elisha and the water",
+          "side": "yahweh",
+          "text": "Elisha, playing on a minstrel's music, predicts water without rain; ditches fill, and in the morning sun the water looks like blood to the Moabites.",
+          "refs": [
+            "2 Kgs 3:11-23"
+          ]
+        },
+        {
+          "title": "Moab devastated",
+          "side": "people",
+          "text": "Israel routs Moab, ruins its cities, stops its wells and fells its good trees, and besieges Kir-hareseth.",
+          "refs": [
+            "2 Kgs 3:24-25"
+          ]
+        },
+        {
+          "title": "The firstborn on the wall",
+          "side": "god",
+          "text": "Failing to break out, Mesha offers his eldest son, the crown prince, as a burnt offering on the city wall.",
+          "refs": [
+            "2 Kgs 3:26-27"
+          ]
+        },
+        {
+          "title": "'Great wrath' and withdrawal",
+          "side": "narrator",
+          "text": "'There was great wrath against Israel', and they withdraw to their own land. The text does not say whose wrath.",
+          "refs": [
+            "2 Kgs 3:27"
+          ]
+        }
+      ],
+      "meaning": "This is one of the rare cases where we have both sides. The Bible and the Mesha Stele use the same theology in mirror image: a nation's god is angry with his land and lets the enemy oppress it, then turns and gives victory. The puzzling ending of 2 Kings 3 has made this one of the most discussed verses about foreign gods.",
+      "interpretations": [
+        {
+          "view": "Chemosh's wrath",
+          "text": "Some scholars read the 'wrath' as the anger of Chemosh, roused by the sacrifice. On this view the writer concedes, at least as narrative, that Moab's god acted on his own ground, reflecting the older idea of territorial gods."
+        },
+        {
+          "view": "Yahweh's wrath",
+          "text": "Others think the wrath is Yahweh's, since in Kings 'wrath' (qetsef) usually comes from God. Israel may be judged for overreaching (felling trees against Deut 20:19-20) or for having driven a king to human sacrifice."
+        },
+        {
+          "view": "Human horror or Moabite fury",
+          "text": "Some translations and commentators (going back to Jewish interpreters) read it as Israel's own revulsion or dismay at the sight, or as Moab's soldiers fighting with renewed fury after their king's sacrifice. Either would explain the retreat without any divine actor."
+        },
+        {
+          "view": "The Stele and Kings compared",
+          "text": "The two accounts do not describe the same campaign and disagree on timing: Kings dates the revolt after Ahab's death, the Stele within the days of Omri's 'son'. Scholars harmonise this in different ways (for example 'son' meaning descendant) or accept that each side remembered events to its own credit."
+        }
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "queen-of-heaven",
+      "title": "Jeremiah and the Queen of Heaven",
+      "year": -580,
+      "place": "Pathros and Tahpanhes, Egypt",
+      "coords": [
+        32.17,
+        30.86
+      ],
+      "godIds": [
+        "queen-of-heaven",
+        "astarte",
+        "ishtar"
+      ],
+      "refs": [
+        "Jer 7:16-20",
+        "Jer 44:1-30"
+      ],
+      "steps": [
+        {
+          "title": "Whole families bake cakes",
+          "side": "people",
+          "text": "Years before the exile Jeremiah describes children gathering wood, fathers lighting fires and women kneading dough to make cakes for the Queen of Heaven.",
+          "refs": [
+            "Jer 7:18"
+          ]
+        },
+        {
+          "title": "Refugees in Egypt",
+          "side": "narrator",
+          "text": "After Jerusalem falls, a group of Judahites flees to Egypt, taking Jeremiah with them.",
+          "refs": [
+            "Jer 43:5-7",
+            "Jer 44:1"
+          ]
+        },
+        {
+          "title": "Jeremiah's warning",
+          "side": "yahweh",
+          "text": "Jeremiah points to the ruins of Judah as the result of worshipping other gods and warns them not to repeat it in Egypt.",
+          "refs": [
+            "Jer 44:2-14"
+          ]
+        },
+        {
+          "title": "'We will not listen'",
+          "side": "people",
+          "text": "The men and women answer that they will keep burning incense to the Queen of Heaven, as they and their kings did in Judah, when they 'had plenty of food and saw no evil'.",
+          "refs": [
+            "Jer 44:15-17"
+          ]
+        },
+        {
+          "title": "Their reading of history",
+          "side": "god",
+          "text": "Since they stopped her offerings, they say, they have lacked everything and been consumed by sword and famine. This probably refers to the time after Josiah's reform.",
+          "refs": [
+            "Jer 44:18"
+          ]
+        },
+        {
+          "title": "With our husbands' knowledge",
+          "side": "people",
+          "text": "The women add that their cakes 'in her image' and drink offerings were made with their husbands' approval.",
+          "refs": [
+            "Jer 44:19"
+          ]
+        },
+        {
+          "title": "Jeremiah's reply",
+          "side": "yahweh",
+          "text": "Jeremiah answers that this very incense is why disaster came, and gives a sign: Pharaoh Hophra will be handed to his enemies.",
+          "refs": [
+            "Jer 44:20-30"
+          ]
+        }
+      ],
+      "meaning": "This is a rare passage where worshippers of another god speak for themselves. Two readings of the same history collide: the people think disaster came because they abandoned the goddess; the prophet says it came because they served her. The book sides with Jeremiah but records the argument honestly.",
+      "interpretations": [
+        {
+          "view": "Who was the Queen of Heaven?",
+          "text": "Candidates include Ishtar (whose title in Akkadian was 'Lady of Heaven' and who received star-shaped cakes), Astarte, Anat (called 'lady of heaven' in Egypt), or Asherah. Many scholars think Judahite worship blended features of several goddesses. The identity is debated."
+        },
+        {
+          "view": "Household and women's religion",
+          "text": "Scholars such as Susan Ackerman stress that this was family worship, led by women, alongside temple religion. It shows that the prophets' 'Yahweh alone' faith was not yet everyone's practice."
+        },
+        {
+          "view": "A link with the Elephantine Jews?",
+          "text": "A Jewish colony in Egypt a century later swore by 'Anat-Yahu', which some see as a continuation of this goddess worship among Egyptian Jews. The connection is possible but unproven."
+        },
+        {
+          "view": "Not the Marian title",
+          "text": "Later Christians called Mary 'Queen of Heaven'. Some Protestant writers have linked the two; Catholic and Orthodox writers reply that the Marian title grew from Christian reflection on Christ's kingship and has no historical connection with the goddess of Jer 44. Historians agree there is no direct line between them."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "isaiah-idol-satire",
+      "title": "Isaiah's idol satire and the bowing of Bel and Nebo",
+      "year": -540,
+      "place": "Babylon",
+      "coords": [
+        44.42,
+        32.54
+      ],
+      "godIds": [
+        "marduk",
+        "nabu"
+      ],
+      "refs": [
+        "Isa 44:9-20",
+        "Isa 46:1-7",
+        "Jer 10:1-16",
+        "Ps 115:4-8"
+      ],
+      "steps": [
+        {
+          "title": "Idol-makers are nothing",
+          "side": "narrator",
+          "text": "Those who fashion idols are nothing, and the things they delight in do not profit; their witnesses neither see nor know.",
+          "refs": [
+            "Isa 44:9-11"
+          ]
+        },
+        {
+          "title": "A hungry blacksmith",
+          "side": "people",
+          "text": "The smith works with his strong arm, grows hungry and faint, and drinks no water: the god-maker is weaker than he thinks.",
+          "refs": [
+            "Isa 44:12"
+          ]
+        },
+        {
+          "title": "The carpenter plants a tree",
+          "side": "people",
+          "text": "The carpenter measures out a human figure; he plants a cedar, and the rain makes it grow (rain that comes from Yahweh, not the idol).",
+          "refs": [
+            "Isa 44:13-14"
+          ]
+        },
+        {
+          "title": "Half for dinner, half for a god",
+          "side": "people",
+          "text": "With half the log he roasts meat and warms himself; with the rest he makes a god, bows down and prays, 'Save me, for you are my god'.",
+          "refs": [
+            "Isa 44:15-17"
+          ]
+        },
+        {
+          "title": "No one stops to think",
+          "side": "narrator",
+          "text": "No one says, 'Shall I fall down before a block of wood?' He feeds on ashes; a deluded heart has led him astray.",
+          "refs": [
+            "Isa 44:18-20"
+          ]
+        },
+        {
+          "title": "Bel bows, Nebo stoops",
+          "side": "god",
+          "text": "Bel (Marduk) and Nebo (Nabu), the great gods of Babylon carried in its New Year procession, are pictured as heavy loads on weary animals, unable to save themselves, going into captivity.",
+          "refs": [
+            "Isa 46:1-2"
+          ]
+        },
+        {
+          "title": "The God who carries",
+          "side": "yahweh",
+          "text": "By contrast Yahweh has carried Israel from birth and will carry them to old age. People carry their idols; this God carries his people.",
+          "refs": [
+            "Isa 46:3-7"
+          ]
+        },
+        {
+          "title": "A scarecrow in a cucumber field",
+          "side": "narrator",
+          "text": "Jeremiah uses the same satire: idols are like scarecrows that cannot speak and must be carried. One verse in Jeremiah is even written in Aramaic, the language of the empire, as a message to the nations.",
+          "refs": [
+            "Jer 10:3-5",
+            "Jer 10:11"
+          ]
+        }
+      ],
+      "meaning": "In exile the question was whether Babylon's gods had defeated Israel's. These chapters answer with mockery: the idols are man-made, must be carried, and cannot act, whereas Yahweh made the heavens, controls history and carries his people. Here the Bible moves closest to saying that the other gods are not real at all.",
+      "interpretations": [
+        {
+          "view": "Exilic 'Second Isaiah'",
+          "text": "Most scholars date Isa 40-55 to the late exile (c. 550-539 BC), when Cyrus was rising and Babylon's gods were close at hand; the satire fits that setting."
+        },
+        {
+          "view": "Isaiah of Jerusalem",
+          "text": "Traditional Jewish and Christian readers, and some modern conservative scholars, hold that the 8th-century Isaiah wrote these chapters prophetically, which makes the naming of Cyrus (Isa 44:28; Isa 45:1) predictive."
+        },
+        {
+          "view": "Is the satire fair?",
+          "text": "Babylonian theologians did not think the wood was the god: a ritual of 'washing the mouth' was believed to make the image a dwelling of the deity. Critics call Isaiah's account a caricature; defenders reply that satire deliberately exposes the material base of the practice, and that ordinary worshippers did treat images as the god."
+        },
+        {
+          "view": "Did Bel actually bow?",
+          "text": "Cyrus took Babylon peacefully in 539 BC and honoured Marduk (see the Cyrus Cylinder). Some read Isa 46 as theological poetry rather than a forecast; others point to later damage under Xerxes, or see the 'bowing' fulfilled in Babylon's fall from power."
+        }
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "paul-gods",
+      "title": "Paul among the gods: Lystra, Athens and Ephesus",
+      "year": 48,
+      "place": "Lystra (then Athens and Ephesus)",
+      "coords": [
+        32.33,
+        37.58
+      ],
+      "godIds": [
+        "zeus",
+        "hermes",
+        "unknown-god",
+        "artemis"
+      ],
+      "refs": [
+        "Acts 14:8-20",
+        "Acts 17:16-34",
+        "Acts 19:23-41",
+        "1 Cor 8:4-6",
+        "1 Thess 1:9"
+      ],
+      "steps": [
+        {
+          "title": "A lame man walks",
+          "side": "yahweh",
+          "text": "At Lystra Paul heals a man lame from birth.",
+          "refs": [
+            "Acts 14:8-10"
+          ]
+        },
+        {
+          "title": "'The gods have come down'",
+          "side": "god",
+          "text": "The crowd shouts in Lycaonian that the gods have come down in human form, calling Barnabas Zeus and Paul Hermes, 'because he was the chief speaker'.",
+          "refs": [
+            "Acts 14:11-12"
+          ]
+        },
+        {
+          "title": "Garlands and oxen",
+          "side": "people",
+          "text": "The priest of Zeus, whose temple stood before the city, brings oxen and garlands to sacrifice to them.",
+          "refs": [
+            "Acts 14:13"
+          ]
+        },
+        {
+          "title": "'We are men like you'",
+          "side": "people",
+          "text": "Paul and Barnabas tear their clothes and urge them to turn from 'these vain things' to the living God who gives rain and fruitful seasons. Soon after, the crowd turns and stones Paul.",
+          "refs": [
+            "Acts 14:14-19"
+          ]
+        },
+        {
+          "title": "A city full of idols",
+          "side": "people",
+          "text": "In Athens Paul is provoked by a city full of idols and debates in the synagogue and the marketplace.",
+          "refs": [
+            "Acts 17:16-21"
+          ]
+        },
+        {
+          "title": "To an unknown god",
+          "side": "god",
+          "text": "Before the Areopagus he points to an altar 'to an unknown god' and announces that God as the Creator who does not live in shrines made by hands.",
+          "refs": [
+            "Acts 17:22-25"
+          ]
+        },
+        {
+          "title": "'In him we live'",
+          "side": "yahweh",
+          "text": "Quoting Greek poets, Paul argues that humans are God's offspring, so God cannot be like gold or stone, and calls all people to repent because of the coming judgment by the risen man.",
+          "refs": [
+            "Acts 17:26-31"
+          ]
+        },
+        {
+          "title": "'Great is Artemis of the Ephesians!'",
+          "side": "god",
+          "text": "In Ephesus the silversmith Demetrius, who made silver shrines of Artemis, warns that Paul's preaching that 'gods made with hands are not gods' threatens both trade and the goddess. A crowd shouts her praise for two hours in the theatre.",
+          "refs": [
+            "Acts 19:23-34"
+          ]
+        },
+        {
+          "title": "The town clerk calms the crowd",
+          "side": "narrator",
+          "text": "The town clerk reminds them that Ephesus is guardian of Artemis and of the image that fell from heaven, notes that Paul's group were neither temple-robbers nor blasphemers, and dismisses the assembly.",
+          "refs": [
+            "Acts 19:35-41"
+          ]
+        }
+      ],
+      "meaning": "The old contest continues in the Greek world, but the weapons change. There is no fire from heaven: Paul refuses worship, reasons from creation, adapts to his audience, and the gods lose ground through conversion and economics rather than by force.",
+      "interpretations": [
+        {
+          "view": "Local legend at Lystra",
+          "text": "The Roman poet Ovid tells of Zeus (Jupiter) and Hermes (Mercury) visiting a Phrygian couple, Philemon and Baucis, in disguise, and punishing those who refused them hospitality (*Metamorphoses* 8). Many commentators think a local version of this story explains the crowd's eagerness not to miss a divine visit."
+        },
+        {
+          "view": "Contextual bridge-building",
+          "text": "Many read Acts 17 as a model of meeting people where they are: using their altar and their poets to point to the Creator. Others stress that the speech ends in a sharp call to repentance and a resurrection that most hearers mocked."
+        },
+        {
+          "view": "Idols nothing, demons real",
+          "text": "Paul's letters hold two thoughts together: an idol is nothing and there is one God (1 Cor 8:4-6), yet pagan sacrifices are offered to demons (1 Cor 10:19-21). Acts shows the public face of the first thought."
+        },
+        {
+          "view": "Historical reliability of Acts",
+          "text": "Details such as the Lycaonian language, the 'temple-warden' title of Ephesus and the town clerk's office fit local inscriptions, which many take as signs of good information; others think Luke shaped the speeches freely, as ancient historians did."
+        }
+      ],
+      "confidence": "biblical"
+    }
+  ],
+  "nameShifts": [
+    {
+      "id": "eshbaal-ishbosheth",
+      "original": "Eshbaal (Esh-baal)",
+      "originalMeaning": "Probably 'man of Baal' or 'Baal exists'. In Saul's day 'baal' (lord) may simply have been a title for Israel's own God.",
+      "changed": "Ish-bosheth",
+      "changedMeaning": "'Man of shame'",
+      "technique": "Substitution: the god-name 'baal' replaced by 'bosheth' (shame).",
+      "refs": [
+        "1 Chr 8:33",
+        "1 Chr 9:39",
+        "2 Sam 2:8-10",
+        "Hos 2:16-17"
+      ],
+      "note": "Chronicles keeps the older form of the name of Saul's son, while Samuel uses the 'shame' form. A name 'Eshbaal son of Beda' was found on a jar from Khirbet Qeiyafa (published 2015), showing the name was in real use around 1000 BC. Hosea 2:16-17 shows why: by the 8th century prophets wanted 'Baal' removed from Israel's vocabulary altogether, even as a title for Yahweh.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "meribbaal-mephibosheth",
+      "original": "Merib-baal / Meri-baal",
+      "originalMeaning": "Uncertain: perhaps 'Baal is my advocate' or 'hero of Baal'.",
+      "changed": "Mephibosheth",
+      "changedMeaning": "Uncertain; usually taken as 'from the mouth of shame' or 'one who scatters shame'. The key element is 'bosheth', shame.",
+      "technique": "Substitution of 'bosheth' for 'baal', with a reshaped first element.",
+      "refs": [
+        "1 Chr 8:34",
+        "1 Chr 9:40",
+        "2 Sam 4:4",
+        "2 Sam 9:6",
+        "2 Sam 21:8"
+      ],
+      "note": "Jonathan's lame son appears as Merib-baal in Chronicles and as Mephibosheth in Samuel. Saul's son by Rizpah, also called Mephibosheth (2 Sam 21:8), probably had a Baal-name originally too. The exact meaning of both forms is uncertain, but the swap of 'baal' for 'bosheth' is widely accepted.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "jerubbaal-jerubbesheth",
+      "original": "Jerubbaal",
+      "originalMeaning": "Probably 'may Baal contend' or 'Baal founds/increases'. Judges explains it as 'let Baal contend against him', because Gideon tore down Baal's altar.",
+      "changed": "Jerubbesheth",
+      "changedMeaning": "'Let shame contend'",
+      "technique": "Substitution of 'besheth/bosheth' (shame) for 'baal'.",
+      "refs": [
+        "Judg 6:32",
+        "Judg 7:1",
+        "Judg 8:35",
+        "2 Sam 11:21"
+      ],
+      "note": "Gideon's other name keeps 'Baal' throughout Judges, but in 2 Sam 11:21 (Joab's message to David) it becomes Jerubbesheth. Judges 6:32 is itself a pun turning a pro-Baal name into a taunt against Baal; most scholars think the original name was a normal Baal-honouring name.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "beeliada-eliada",
+      "original": "Beeliada",
+      "originalMeaning": "'Baal knows' (or 'the Lord knows', if baal is a title).",
+      "changed": "Eliada",
+      "changedMeaning": "'God (El) knows'",
+      "technique": "Substitution of 'El' (God) for 'Baal', rather than 'shame'.",
+      "refs": [
+        "1 Chr 14:7",
+        "2 Sam 5:16",
+        "1 Chr 3:8"
+      ],
+      "note": "A son of David born in Jerusalem. Here the pattern is reversed from Saul's family: Chronicles 14:7 keeps Beeliada, while Samuel and the other list in Chronicles use Eliada. It shows that even David gave a son a Baal-name, almost certainly meaning 'the Lord knows' with Yahweh in mind, and that later scribes found this uncomfortable.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "ashtart-ashtoreth",
+      "original": "Ashtart (Astarte), consonants 'shtrt",
+      "originalMeaning": "The name of the great West Semitic goddess of love and war, known in Phoenician inscriptions and in Greek as Astarte.",
+      "changed": "Ashtoreth",
+      "changedMeaning": "The goddess's consonants read with the vowels of 'bosheth' (shame), so the reader says 'shame' while saying her name.",
+      "technique": "Re-vocalisation: the consonants are kept, the vowels of bosheth are imposed.",
+      "refs": [
+        "1 Kgs 11:5",
+        "1 Kgs 11:33",
+        "2 Kgs 23:13",
+        "Judg 2:13",
+        "1 Sam 31:10"
+      ],
+      "note": "Hebrew was originally written without vowels, so later readers supplied them. Outside the Bible the goddess is Ashtart; only in the Hebrew Bible is she 'Ashtoreth'. The plural Ashtaroth (Judg 2:13) is used for the goddesses generally. A few scholars think the vocalisation could be a dialect form, but most accept the 'shame' pun.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "melek-molech",
+      "original": "melek (consonants mlk)",
+      "originalMeaning": "'King'. Could be a divine title ('the King') or, on a Punic parallel, a technical term for a kind of sacrifice (molk).",
+      "changed": "Molech",
+      "changedMeaning": "'King' read with the vowels of 'bosheth' (shame).",
+      "technique": "Re-vocalisation with the vowels of bosheth.",
+      "refs": [
+        "Lev 18:21",
+        "Lev 20:2-5",
+        "1 Kgs 11:7",
+        "2 Kgs 23:10",
+        "Jer 32:35"
+      ],
+      "note": "The same consonants give Milcom, god of Ammon (1 Kgs 11:5; 1 Kgs 11:33), and 1 Kgs 11:7 calls the same Ammonite god 'Molech'. In 1935 Otto Eissfeldt argued from Punic inscriptions that 'to Molech' originally meant 'as a molk-offering', so no god Molech existed; many scholars followed him. Others (for example John Day and George Heider) argue for a real underworld god, pointing to a deity mlk in Ugaritic and Akkadian texts and to Lev 20:5, 'to go whoring after Molech'. Either way, the vowels of 'shame' seem deliberate.",
+      "confidence": "debated"
+    },
+    {
+      "id": "baalzebul-baalzebub",
+      "original": "Baal-zebul",
+      "originalMeaning": "Probably 'Baal the Prince' or 'Lord of the exalted dwelling'. Ugaritic texts call Baal zbl b'l ars, 'Prince, Lord of the earth'.",
+      "changed": "Baal-zebub",
+      "changedMeaning": "'Lord of flies'",
+      "technique": "One-letter change turning a title of honour into a contemptuous nickname.",
+      "refs": [
+        "2 Kgs 1:2-3",
+        "2 Kgs 1:16",
+        "Matt 10:25",
+        "Matt 12:24-27",
+        "Mark 3:22",
+        "Luke 11:15-19"
+      ],
+      "note": "Greek manuscripts of the Gospels have Beelzebul, which preserves the older 'prince/dwelling' form; the Latin Vulgate and the KJV have Beelzebub. Jesus' wordplay on 'the master of the house' (Matt 10:25) may play on zebul, 'dwelling'. A minority think Baal-zebub was a genuine title of a fly-averting healing god (Greek parallels like Zeus Apomyios, 'averter of flies'), so the pun is likely but not certain.",
+      "confidence": "debated"
+    },
+    {
+      "id": "anointing-corruption",
+      "original": "har ha-mishchah, 'Mount of Anointing' (the Mount of Olives, where olive oil was produced)",
+      "originalMeaning": "The hill east of Jerusalem, called Mount of Anointing in later Jewish usage because of its olive oil.",
+      "changed": "har ha-mashchit, 'Mount of Corruption' (or 'of the Destroyer')",
+      "changedMeaning": "'Mount of ruin/corruption'",
+      "technique": "Near-homophone pun: a one-letter difference between 'anointing' and 'destruction'.",
+      "refs": [
+        "2 Kgs 23:13",
+        "1 Kgs 11:7",
+        "2 Sam 15:30",
+        "Zech 14:4"
+      ],
+      "note": "Solomon's shrines for Ashtoreth, Chemosh and Milcom stood on this hill for about three centuries until Josiah defiled them. The pun is widely recognised, though the 'Mount of Anointing' name is attested only in later Jewish sources, and some take mashchit simply as a description ('the hill of destruction') with no wordplay intended.",
+      "confidence": "debated"
+    },
+    {
+      "id": "bethel-bethaven",
+      "original": "Bethel",
+      "originalMeaning": "'House of God (El)', the shrine where Jacob dreamed and where Jeroboam set up a golden calf.",
+      "changed": "Beth-aven",
+      "changedMeaning": "'House of wickedness' or 'house of nothingness/trouble'",
+      "technique": "Substitution: 'aven' (iniquity, emptiness) replaces 'El' (God).",
+      "refs": [
+        "Hos 4:15",
+        "Hos 5:8",
+        "Hos 10:5",
+        "Amos 5:5",
+        "Gen 28:19",
+        "Josh 7:2"
+      ],
+      "note": "Hosea mocks the calf-shrine at Bethel as Beth-aven; Amos makes a similar pun ('Bethel shall come to nought', aven). A real place called Beth-aven near Ai existed (Josh 7:2), which Hosea may be exploiting; but in Hosea 10:5 the 'calf of Beth-aven' is plainly Bethel's calf.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "nabu-nego",
+      "original": "Abed-nabu, 'servant of Nabu' (the Babylonian god of writing and wisdom)",
+      "originalMeaning": "A normal Babylonian name honouring Nabu (biblical Nebo).",
+      "changed": "Abed-nego",
+      "changedMeaning": "No clear meaning; 'nego' is not a known god.",
+      "technique": "Possible deliberate distortion of the god's name (bu changed to go), or ordinary sound change.",
+      "refs": [
+        "Dan 1:7",
+        "Dan 2:49",
+        "Dan 3:12-30",
+        "Isa 46:1"
+      ],
+      "note": "Many scholars think 'nego' disguises 'Nabu', so that a faithful Jew is not called 'servant of Nabu'. Others think it is simply an Aramaic or scribal form and no insult is meant. Elsewhere the Bible names Nebo plainly (Isa 46:1), and Daniel's own Babylonian name, Belteshazzar, keeps Bel-related elements (Dan 4:8), so the change, if deliberate, was not systematic.",
+      "confidence": "debated"
+    },
+    {
+      "id": "ashima-ashmat",
+      "original": "Ashima (a god of Hamath) or possibly Asherah of Samaria",
+      "originalMeaning": "Ashima was a deity brought to Samaria by settlers from Hamath.",
+      "changed": "ashmat Shomron, 'the guilt of Samaria'",
+      "changedMeaning": "'Guilt' (asham), close in sound to Ashima.",
+      "technique": "Sound-alike pun turning a god's name into 'guilt'.",
+      "refs": [
+        "Amos 8:14",
+        "2 Kgs 17:30"
+      ],
+      "note": "Amos condemns those who 'swear by the sin (ashmat) of Samaria'. Many translations (for example NRSV 'Ashimah of Samaria') take this as a veiled god-name. Since Amos predates the Assyrian resettlement of 2 Kgs 17, some prefer to see Asherah of Samaria (known from Kuntillet Ajrud) or a calf-cult behind it; others think 'guilt' is meant literally.",
+      "confidence": "debated"
+    },
+    {
+      "id": "gillulim",
+      "original": "pesel / elohim, 'images', 'gods'",
+      "originalMeaning": "Ordinary words for cult images and gods.",
+      "changed": "gillulim",
+      "changedMeaning": "Often explained as 'dung-idols' or 'dung-balls', from gel / galal, dung.",
+      "technique": "Coined insult: idols named with a word that sounds like dung, vowelled like shiqqutsim, 'detestable things'.",
+      "refs": [
+        "Ezek 6:4-6",
+        "Ezek 6:13",
+        "Ezek 4:12",
+        "Lev 26:30",
+        "Deut 29:17"
+      ],
+      "note": "Ezekiel uses gillulim nearly 40 times; it is his favourite word for idols. The link with dung (compare Ezek 4:12) is widely held but not proven; some derive it from galal, 'to roll', meaning round stones or blocks. Either way it is a contemptuous word, not a neutral one.",
+      "confidence": "debated"
+    },
+    {
+      "id": "elilim",
+      "original": "elohim, 'gods'",
+      "originalMeaning": "The normal word for gods (and also for Israel's God).",
+      "changed": "elilim",
+      "changedMeaning": "'Nothings', 'worthless things'",
+      "technique": "Sound-alike pun on el/elohim using a word built on 'al (not, nothing).",
+      "refs": [
+        "Ps 96:5",
+        "1 Chr 16:26",
+        "Lev 19:4",
+        "Isa 2:8",
+        "Isa 2:18-20",
+        "Hab 2:18"
+      ],
+      "note": "'All the gods (elohim) of the peoples are nothings (elilim), but Yahweh made the heavens' (Ps 96:5). The Greek Septuagint translated elilim here as daimonia, 'demons', a key step in the later idea that the gods were demons.",
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "baalshamem-abomination",
+      "original": "Baal Shamem, 'Lord of Heaven' (Syrian title equated with Olympian Zeus)",
+      "originalMeaning": "The god whose cult Antiochus IV installed in the Jerusalem temple in 167 BC, called Zeus Olympios in Greek sources.",
+      "changed": "shiqquts shomem, 'the abomination that makes desolate'",
+      "changedMeaning": "'Detestable thing (shiqquts) of desolation (shomem)'",
+      "technique": "Double substitution: shiqquts (detestable thing) for 'baal', and shomem (desolating) as a pun on shamem (heaven).",
+      "refs": [
+        "Dan 11:31",
+        "Dan 12:11",
+        "Dan 9:27",
+        "Matt 24:15",
+        "1 Kgs 11:5"
+      ],
+      "note": "Proposed by Eberhard Nestle in 1884 and accepted by many commentators. The same word shiqquts replaces 'god' elsewhere: 1 Kgs 11:5 calls Milcom 'the abomination of the Ammonites', where 1 Kgs 11:33 says 'the god of the Ammonites'. Readers who take Daniel as predictive prophecy of a later desolation often accept the pun while reading the fulfilment differently.",
+      "confidence": "debated"
+    }
+  ],
+  "finds": [
+    {
+      "id": "ugarit",
+      "name": "Ugarit (Ras Shamra) tablets and the Baal Cycle",
+      "discovered": 1928,
+      "dated": "c. 1400-1185 BC (most myths copied in the 13th century BC)",
+      "place": "Ras Shamra and Minet el-Beida, near Latakia, Syria",
+      "coords": [
+        35.78,
+        35.6
+      ],
+      "summary": "In 1928 a farmer's plough struck an ancient tomb at Minet el-Beida on the Syrian coast. French excavations under Claude Schaeffer began at nearby Ras Shamra in 1929 and found clay tablets in a previously unknown alphabetic cuneiform, deciphered within about a year (1930) by Hans Bauer, Edouard Dhorme and Charles Virolleaud. Among them is the Baal Cycle: Baal (Hadad), the storm god, defeats Yam (Sea) with clubs made by Kothar-wa-Khasis, gets a palace on Mount Zaphon, is swallowed by Mot (Death), and returns after his sister Anat destroys Mot. Other texts describe El, the aged father of the gods, his consort Athirat (Asherah) and the assembly of the 'sons of El'.",
+      "significance": "Before Ugarit, Baal, Asherah and El were known mostly from the Bible's attacks on them. Ugarit let scholars hear Canaanite religion in its own words and revealed many shared images: Baal as 'rider of the clouds' (compare Ps 68:4), the seven-headed sea serpent Lotan (compare Leviathan, Isa 27:1), Zaphon as the holy mountain (Ps 48:2), El as an aged king (compare Dan 7:9) and a council of gods (Ps 82:1). Scholars debate whether the Bible borrows, adapts or polemicises against these motifs.",
+      "godIds": [
+        "baal-hadad",
+        "el",
+        "asherah",
+        "anat",
+        "yam",
+        "mot",
+        "kothar",
+        "dagon"
+      ],
+      "refs": [
+        "Ps 29:3-9",
+        "Ps 68:4",
+        "Isa 27:1",
+        "Ps 74:13-14",
+        "Ps 48:2",
+        "Ps 82:1",
+        "Dan 7:9"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "mesha-stele",
+      "name": "Mesha Stele (Moabite Stone)",
+      "discovered": 1868,
+      "dated": "c. 840 BC",
+      "place": "Dhiban (biblical Dibon), Jordan; now in the Louvre, Paris",
+      "coords": [
+        35.78,
+        31.5
+      ],
+      "summary": "In 1868 local Bedouin showed the missionary F. A. Klein a black basalt stone about 1 m high with 34 lines of writing. Prussian and French agents competed to acquire it; under Ottoman pressure, locals heated the stone and poured cold water on it, shattering it. Before that, Charles Clermont-Ganneau had obtained a paper squeeze (impression), torn while still wet; the text was reconstructed from the squeeze and about two-thirds of the fragments. Mesha says Omri of Israel oppressed Moab 'because Chemosh was angry with his land', that Chemosh told him to take Nebo, that he killed its 7,000 inhabitants and devoted them to Ashtar-Chemosh, and that he dragged the vessels of YHWH before Chemosh.",
+      "significance": "It is the longest Iron Age inscription from the region, names Omri and Israel, and contains one of the earliest securely dated mentions of YHWH outside the Bible. It shows a neighbour using the same theology as Kings in reverse: a nation's god angry with his land, then giving victory, and 'devoting' a city to destruction (herem). A reading 'house of David' in line 31 has been proposed (André Lemaire) but is debated.",
+      "godIds": [
+        "chemosh"
+      ],
+      "refs": [
+        "2 Kgs 3:4-27",
+        "2 Kgs 1:1",
+        "Num 21:29",
+        "1 Kgs 16:23-28",
+        "Jer 48:7"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "kuntillet-ajrud",
+      "name": "Kuntillet Ajrud inscriptions: 'Yahweh and his asherah'",
+      "discovered": 1975,
+      "dated": "c. 800 BC",
+      "place": "Kuntillet Ajrud, north-east Sinai",
+      "coords": [
+        34.42,
+        30.19
+      ],
+      "summary": "Excavated in 1975-76 by Ze'ev Meshel, this remote way-station on a desert route had storage jars (pithoi) and plastered walls with inscriptions and drawings. One jar reads, in essence, 'I bless you by YHWH of Samaria and by his asherah'; another invokes 'YHWH of Teman and his asherah'. Plaster texts mention El and Baal. Drawings include Bes-like figures and a seated lyre player, which some have identified as Yahweh and Asherah.",
+      "significance": "The find shows that some Israelites around 800 BC blessed people in the name of Yahweh together with an 'asherah'. Grammar is the crux: Hebrew normally does not add 'his' to a personal name, so many read 'his asherah' as a cult object (a sacred pole or tree) associated with Yahweh; others argue it means the goddess as Yahweh's consort. Most scholars think the drawings and the inscriptions were not made as a single scene, so the 'Yahweh and Asherah' picture is doubtful.",
+      "godIds": [
+        "asherah",
+        "el",
+        "baal-hadad"
+      ],
+      "refs": [
+        "Deut 16:21",
+        "2 Kgs 13:6",
+        "2 Kgs 21:7",
+        "Hab 3:3",
+        "1 Kgs 18:19"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "khirbet-el-qom",
+      "name": "Khirbet el-Qom tomb inscription",
+      "discovered": 1967,
+      "dated": "c. 750-700 BC",
+      "place": "Khirbet el-Qom, west of Hebron",
+      "coords": [
+        34.97,
+        31.54
+      ],
+      "summary": "William Dever recovered this inscription from a looted Iron Age tomb in 1967. Carved roughly into a pillar above a downward-pointing hand, it reads something like: 'Uriyahu the rich wrote it. Blessed be Uriyahu by YHWH; from his enemies by his asherah he has saved him.' The letters are poorly cut and several readings are possible.",
+      "significance": "It is a second, independent witness from Judah (not just the north) to blessing by 'YHWH and his asherah'. With Kuntillet Ajrud it is central to the debate over how widespread Asherah worship alongside Yahweh was in popular religion.",
+      "godIds": [
+        "asherah"
+      ],
+      "refs": [
+        "2 Kgs 23:6",
+        "2 Kgs 21:7",
+        "Jer 17:2"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "tel-arad",
+      "name": "Tel Arad shrine and the 2020 residue study",
+      "discovered": 1962,
+      "dated": "c. 760-715 BC (shrine stratum); residue study published 2020",
+      "place": "Tel Arad, northern Negev, Israel",
+      "coords": [
+        35.13,
+        31.28
+      ],
+      "summary": "Yohanan Aharoni's excavations (1962-67) uncovered a small shrine inside a Judahite royal fortress, with a niche holding at least one standing stone (massebah) and two limestone incense altars on its steps. In 2020 a team led by Eran Arie analysed residues on the altars: the larger held frankincense mixed with animal fat; the smaller held cannabis mixed with animal dung (used to keep it smouldering). The shrine was later deliberately covered over.",
+      "significance": "It shows an official Judahite shrine outside Jerusalem, of the kind later reforms condemned (2 Kgs 18:4; 2 Kgs 23:8). The cannabis is the earliest known evidence of the drug in Judah and among the earliest in the Near East, suggesting mind-altering incense in worship. Whether the standing stones stood for Yahweh alone or Yahweh with a consort, and whether the shrine was buried under Hezekiah, Josiah or for other reasons, are debated.",
+      "godIds": [
+        "asherah"
+      ],
+      "refs": [
+        "2 Kgs 18:4",
+        "2 Kgs 18:22",
+        "2 Kgs 23:8",
+        "Exod 30:34-38",
+        "Num 21:1"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "ekron-inscription",
+      "name": "Ekron royal dedicatory inscription",
+      "discovered": 1996,
+      "dated": "early 7th century BC",
+      "place": "Tel Miqne (Ekron), Israel",
+      "coords": [
+        34.85,
+        31.78
+      ],
+      "summary": "Found in 1996 in a large temple complex during excavations led by Seymour Gitin and Trude Dothan, this five-line stone inscription records a temple built by Ikausu (Achish) son of Padi, ruler of Ekron, for 'Ptgyh his lady', asking her to bless and protect him and prolong his days. Padi and Ikausu are both known as kings of Ekron in Assyrian records.",
+      "significance": "It confirms Ekron's identification, gives a list of Philistine kings matching Assyrian sources, and names a goddess, Ptgyh, otherwise unknown; she may be an Aegean goddess (some suggest a form of Greek Potnia, 'lady'), reflecting the Philistines' origins. It is a reminder that the gods of Ekron were more varied than the single 'Baal-zebub' of 2 Kings 1. The name Achish also matches the Philistine king of Gath in Samuel.",
+      "godIds": [
+        "ptgyh",
+        "baal-zebub"
+      ],
+      "refs": [
+        "2 Kgs 1:2",
+        "1 Sam 5:10",
+        "1 Sam 27:2",
+        "Zeph 2:4"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "carthage-tophet",
+      "name": "Carthage tophet (Precinct of Tanit)",
+      "discovered": 1921,
+      "dated": "c. 730-146 BC",
+      "place": "Salammbo, Carthage, Tunisia",
+      "coords": [
+        10.32,
+        36.85
+      ],
+      "summary": "Found in 1921 and excavated repeatedly since (notably by Lawrence Stager's team in the 1970s), this Phoenician burial ground held thousands of urns, estimated at over 20,000 across its history, containing the burned bones of infants and young animals, under stelae dedicated to Baal Hammon and Tanit. Some stelae use the word mlk for an offering. Greek and Roman writers (for example Diodorus Siculus, *Library* 20.14) describe Carthaginian child sacrifice, including a bronze statue from which children rolled into fire.",
+      "significance": "The site is the main evidence for the 'molk' sacrifice behind the biblical Topheth and 'passing children through fire to Molech'. In 2010 a team led by Jeffrey Schwartz argued that many remains were prenatal or newborn, suggesting a cemetery for natural deaths; in 2011-2013 a team including Patricia Smith, correcting for shrinkage of burned bone, found ages clustered in the first weeks of life, consistent with sacrifice. Most scholars now accept that at least some children were sacrificed, but the scale and practice remain debated.",
+      "godIds": [
+        "molech"
+      ],
+      "refs": [
+        "2 Kgs 23:10",
+        "Jer 7:31",
+        "Jer 19:5",
+        "Lev 18:21",
+        "2 Kgs 16:3"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "taanach-stand",
+      "name": "Taanach cult stand",
+      "discovered": 1968,
+      "dated": "10th century BC",
+      "place": "Tell Ta'annek (Taanach), Jezreel Valley",
+      "coords": [
+        35.22,
+        32.52
+      ],
+      "summary": "Found in 1968 by Paul Lapp's expedition, this clay stand about 60 cm tall has four decorated tiers: a naked female figure between two lions; an empty space flanked by winged sphinxes (cherubim); a sacred tree with two ibexes flanked by lions; and at the top a young bull or horse beneath a winged sun disc.",
+      "significance": "Many scholars read the female figure and the tree as representations of Asherah. The empty space between cherubim has been read as the invisible presence of Yahweh, and the animal under the sun disc as Yahweh (or Baal) linked with the sun, compare the 'horses of the sun' removed by Josiah. The stand suggests a combined iconography of Yahweh and Asherah in northern Israel, but each identification is debated.",
+      "godIds": [
+        "asherah",
+        "golden-calf"
+      ],
+      "refs": [
+        "Judg 5:19",
+        "2 Kgs 23:11",
+        "Deut 16:21",
+        "1 Kgs 6:23-28"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "tel-dan-high-place",
+      "name": "Tel Dan sacred precinct (high place and altar)",
+      "discovered": 1966,
+      "dated": "10th-8th century BC",
+      "place": "Tel Dan, at the springs of the Jordan",
+      "coords": [
+        35.65,
+        33.25
+      ],
+      "summary": "Avraham Biran's long excavation (from 1966) uncovered a sacred precinct with a large stone platform (bamah), the remains of a horned altar, smaller incense altars and iron shovels for handling ashes. A later bilingual Greek-Aramaic inscription (found 1976) reads 'To the god who is in Dan'. The 'house of David' stele found in 1993-94 came from the same site.",
+      "significance": "Most scholars identify the platform with the royal sanctuary Jeroboam I founded and later kings enlarged, the site of one of the two golden calves. No calf has been found. It shows a major state shrine of the northern kingdom that rivalled Jerusalem for centuries.",
+      "godIds": [
+        "golden-calf"
+      ],
+      "refs": [
+        "1 Kgs 12:28-30",
+        "Judg 18:30-31",
+        "2 Kgs 10:29",
+        "Amos 8:14"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "cyrus-cylinder",
+      "name": "Cyrus Cylinder",
+      "discovered": 1879,
+      "dated": "539-538 BC",
+      "place": "Babylon (Esagila, Marduk's temple area); now in the British Museum",
+      "coords": [
+        44.42,
+        32.54
+      ],
+      "summary": "Found by Hormuzd Rassam in 1879, this clay barrel records Cyrus of Persia's capture of Babylon. It says Marduk was angry with the last king, Nabonidus, searched for a righteous ruler, called Cyrus by name and let him enter Babylon without battle. Cyrus claims to have returned gods to their sanctuaries and gathered their peoples back to their homes.",
+      "significance": "It shows the same pattern as Isaiah 44-45 from Babylon's side: a god choosing Cyrus. Marduk gets the credit here, Yahweh in Isaiah. Its policy of restoring peoples and temples fits the decree in Ezra, though the cylinder does not mention Jews. It also shows that Bel (Marduk) was honoured, not humiliated, when Babylon fell, which bears on how Isa 46:1-2 is read.",
+      "godIds": [
+        "marduk",
+        "nabu",
+        "sin-moon"
+      ],
+      "refs": [
+        "Ezra 1:1-4",
+        "Isa 44:28",
+        "Isa 45:1-4",
+        "2 Chr 36:22-23",
+        "Isa 46:1-2"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "lachish-reliefs",
+      "name": "Lachish reliefs of Sennacherib",
+      "discovered": 1849,
+      "dated": "c. 700 BC (siege of 701 BC)",
+      "place": "Sennacherib's South-West Palace, Nineveh; now in the British Museum",
+      "coords": [
+        43.15,
+        36.36
+      ],
+      "summary": "Found during Austen Henry Layard's excavations at Nineveh in the late 1840s, these carved stone panels show Assyria's siege of the Judahite city of Lachish in 701 BC: siege ramps, battering rams, impaled prisoners, families deported, and soldiers carrying away booty, including objects many read as cult equipment such as large incense stands.",
+      "significance": "The reliefs confirm the campaign described in Kings and illustrate the Assyrian claim, voiced by the Rabshakeh, that no nation's gods had saved it. Assyrian armies usually carried off the statues of defeated gods; some scholars note that no divine image appears among Lachish's spoils, which may fit Judah's largely aniconic worship of Yahweh, though this argument from silence is debated.",
+      "godIds": [
+        "nisroch"
+      ],
+      "refs": [
+        "2 Kgs 18:13-14",
+        "2 Kgs 18:33-35",
+        "Isa 36:18-20",
+        "2 Chr 32:9",
+        "2 Kgs 19:37"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "deir-alla",
+      "name": "Tell Deir Alla Balaam inscription",
+      "discovered": 1967,
+      "dated": "c. 800 BC",
+      "place": "Tell Deir Alla, Jordan Valley, Jordan",
+      "coords": [
+        35.62,
+        32.2
+      ],
+      "summary": "A Dutch team led by Henk Franken found fragments of a plaster wall text written in red and black ink in 1967. It opens with 'the account of Balaam son of Beor, a seer of the gods'. The gods come to him at night; he weeps and tells how the gods and the 'shaddayin' met in assembly and ordered a goddess to close the heavens, bringing darkness and disaster.",
+      "significance": "It is the only extra-biblical text naming a biblical prophet from this region and period, and shows that Balaam was remembered east of the Jordan as a famous seer, matching Numbers 22-24. Its 'shaddayin' and divine assembly connect with the Bible's title Shaddai and with the idea of a council of gods. Its language (Aramaic, Canaanite or a local dialect) is debated.",
+      "godIds": [
+        "el",
+        "sons-of-god"
+      ],
+      "refs": [
+        "Num 22:5",
+        "Num 24:4",
+        "Num 24:16",
+        "Num 31:16",
+        "Josh 13:22"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "ketef-hinnom",
+      "name": "Ketef Hinnom silver amulets",
+      "discovered": 1979,
+      "dated": "late 7th to early 6th century BC",
+      "place": "Ketef Hinnom, above the Hinnom Valley, Jerusalem",
+      "coords": [
+        35.228,
+        31.769
+      ],
+      "summary": "Gabriel Barkay found two tiny rolled silver amulets in a burial cave in 1979. When unrolled they contained a blessing close to the priestly blessing of Numbers 6: 'May YHWH bless you and keep you; may YHWH make his face shine on you and give you peace'. A 2004 re-study with new imaging confirmed the late Iron Age date.",
+      "significance": "They are the oldest known texts with wording found in the Bible, and they come from the very valley where Topheth stood. Only YHWH is invoked, a useful contrast to the 'YHWH and his asherah' blessings, showing the range of Judahite religion around Josiah's time.",
+      "godIds": [],
+      "refs": [
+        "Num 6:24-26",
+        "2 Kgs 23:10",
+        "Jer 7:31"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "lystra-zeus-hermes",
+      "name": "Zeus and Hermes inscriptions near Lystra",
+      "discovered": 1909,
+      "dated": "3rd century AD",
+      "place": "Sedasa and the region of Lystra, Lycaonia (south-central Turkey)",
+      "coords": [
+        32.33,
+        37.58
+      ],
+      "summary": "Inscriptions published by the classicist W. M. Calder in the early 20th century record the dedication to Zeus of a statue of Hermes by local men with Lycaonian names, and an altar to Zeus 'who hears prayer' and Hermes. The exact discovery dates and readings should be checked against the published editions.",
+      "significance": "Though later than Paul, they show Zeus and Hermes worshipped together in this very district, as Acts 14 assumes, and fit the local legend (told by Ovid) of the two gods visiting the region in human form.",
+      "godIds": [
+        "zeus",
+        "hermes"
+      ],
+      "refs": [
+        "Acts 14:11-13"
+      ],
+      "confidence": "needs-verification"
+    },
+    {
+      "id": "ephesus-artemision",
+      "name": "Temple of Artemis at Ephesus (Artemision)",
+      "discovered": 1869,
+      "dated": "c. 560 BC; rebuilt after 356 BC; destroyed AD 262",
+      "place": "Ephesus (near Selcuk, Turkey)",
+      "coords": [
+        27.364,
+        37.95
+      ],
+      "summary": "After years of searching, the engineer John Turtle Wood found the site of the temple on 31 December 1869. One of the Seven Wonders of the ancient world, the temple was rebuilt on a huge scale after a fire in 356 BC. Wood also found, in the theatre, the Salutaris inscription (AD 104) describing processions of gold and silver images of Artemis through the city. Statues of Ephesian Artemis, with distinctive rows of bulbous shapes on her chest, were later found in the city.",
+      "significance": "The finds illustrate Acts 19: a city proud to be 'temple guardian' of Artemis, a trade in her images, a vast theatre, and an image said to have 'fallen from heaven'. They show what was at stake economically and civically when the goddess lost worshippers.",
+      "godIds": [
+        "artemis"
+      ],
+      "refs": [
+        "Acts 19:23-41",
+        "Acts 19:35"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "elephantine-papyri",
+      "name": "Elephantine papyri: the Yahu temple and Anat-Yahu",
+      "discovered": 1893,
+      "dated": "c. 495-399 BC",
+      "place": "Elephantine Island, Aswan, Egypt",
+      "coords": [
+        32.886,
+        24.085
+      ],
+      "summary": "Aramaic papyri began reaching collectors in 1893 and further finds came from excavations in 1906-08. They come from a Jewish military colony that had a temple to YHW (Yahu) on the island. Letters describe its destruction in 410 BC by priests of the local god Khnum, and a petition (407 BC) to the Persian governor of Judah and to the sons of Sanballat for permission to rebuild. A temple collection list records money for YHW, Eshem-bethel and Anat-bethel, and an oath names Anat-Yahu.",
+      "significance": "These Jews offered sacrifice to Yahweh outside Jerusalem and apparently honoured other deities alongside him, about a century after Jeremiah confronted Judahites in Egypt. Whether Anat-Yahu was a goddess treated as Yahweh's consort or an aspect of Yahweh is debated. The papyri also name Sanballat, the opponent of Nehemiah.",
+      "godIds": [
+        "anat",
+        "queen-of-heaven"
+      ],
+      "refs": [
+        "Jer 44:1",
+        "Jer 44:15-19",
+        "Neh 2:10",
+        "Isa 19:19"
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "purge": [
+    {
+      "item": "Temple vessels for Baal, Asherah and the host of heaven",
+      "ref": "2 Kgs 23:4",
+      "what": "Hilkiah and the priests bring out of Yahweh's temple all the vessels made for Baal, Asherah and the host of heaven. Josiah burns them outside Jerusalem in the fields of the Kidron and carries the ashes to Bethel, the northern shrine he will later defile.",
+      "godIds": [
+        "baal-hadad",
+        "asherah"
+      ]
+    },
+    {
+      "item": "Idolatrous priests deposed",
+      "ref": "2 Kgs 23:5",
+      "what": "He removes the kemarim, priests appointed by Judah's kings to burn incense at the high places to Baal, the sun, the moon, the constellations (mazzalot, perhaps the zodiac) and all the host of heaven.",
+      "godIds": [
+        "baal-hadad",
+        "shamash",
+        "sin-moon",
+        "ishtar"
+      ]
+    },
+    {
+      "item": "The Asherah image in the temple",
+      "ref": "2 Kgs 23:6",
+      "what": "He brings the Asherah (the image Manasseh had placed in the temple, 2 Kgs 21:7) out to the Kidron, burns it, grinds it to dust and throws the dust on the graves of the common people.",
+      "godIds": [
+        "asherah"
+      ]
+    },
+    {
+      "item": "Houses of the qedeshim and the weavers for Asherah",
+      "ref": "2 Kgs 23:7",
+      "what": "He breaks down the houses of the qedeshim (often translated 'male cult prostitutes', though their role is debated) in the temple, where women wove hangings (or garments) for Asherah.",
+      "godIds": [
+        "asherah"
+      ]
+    },
+    {
+      "item": "High places from Geba to Beersheba",
+      "ref": "2 Kgs 23:8",
+      "what": "He brings the priests from the towns of Judah to Jerusalem and defiles the high places where they burned incense, from Geba in the north to Beersheba in the south. These were mostly local shrines to Yahweh, now banned in favour of the one temple.",
+      "godIds": []
+    },
+    {
+      "item": "High places of the gates",
+      "ref": "2 Kgs 23:8",
+      "what": "He breaks down the high places at the city gate of Joshua the governor. Some scholars emend 'gates' (she'arim) to 'goat-demons' (se'irim), compare Lev 17:7.",
+      "godIds": [
+        "shedim"
+      ]
+    },
+    {
+      "item": "Status of the high-place priests",
+      "ref": "2 Kgs 23:9",
+      "what": "The former high-place priests may not serve at Yahweh's altar in Jerusalem, though they eat unleavened bread among their fellow priests.",
+      "godIds": []
+    },
+    {
+      "item": "Topheth in the Valley of Hinnom",
+      "ref": "2 Kgs 23:10",
+      "what": "He defiles Topheth in the Valley of the son of Hinnom so that no one can make a son or daughter pass through fire to Molech.",
+      "godIds": [
+        "molech"
+      ]
+    },
+    {
+      "item": "Horses and chariots of the sun",
+      "ref": "2 Kgs 23:11",
+      "what": "He removes the horses the kings of Judah had dedicated to the sun at the entrance of the temple, by the chamber of Nathan-melech, and burns the chariots of the sun.",
+      "godIds": [
+        "shamash"
+      ]
+    },
+    {
+      "item": "Rooftop altars and Manasseh's altars",
+      "ref": "2 Kgs 23:12",
+      "what": "He pulls down the altars on the roof of Ahaz's upper room (likely for astral worship, compare Jer 19:13; Zeph 1:5) and the altars Manasseh built in the two temple courts, smashes them and throws the dust into the Kidron.",
+      "godIds": [
+        "shamash",
+        "ishtar"
+      ]
+    },
+    {
+      "item": "Solomon's shrines on the Mount of Corruption",
+      "ref": "2 Kgs 23:13",
+      "what": "He defiles the high places east of Jerusalem, south of the Mount of Corruption, that Solomon built for Ashtoreth of the Sidonians, Chemosh of Moab and Milcom of the Ammonites.",
+      "godIds": [
+        "astarte",
+        "chemosh",
+        "milcom"
+      ]
+    },
+    {
+      "item": "Pillars and Asherim broken, bones scattered",
+      "ref": "2 Kgs 23:14",
+      "what": "He breaks the standing stones, cuts down the Asherim (sacred poles) and fills their places with human bones, making them permanently unclean.",
+      "godIds": [
+        "asherah"
+      ]
+    },
+    {
+      "item": "Jeroboam's altar at Bethel",
+      "ref": "2 Kgs 23:15",
+      "what": "He tears down the altar and high place Jeroboam built at Bethel, burns the high place, grinds it to dust and burns the Asherah there.",
+      "godIds": [
+        "golden-calf",
+        "asherah"
+      ]
+    },
+    {
+      "item": "Bones burned on the Bethel altar",
+      "ref": "2 Kgs 23:16",
+      "what": "Seeing tombs on the hillside, he takes the bones and burns them on the altar, fulfilling the word of the man of God from Judah (1 Kgs 13:2).",
+      "godIds": [
+        "golden-calf"
+      ]
+    },
+    {
+      "item": "The prophet's tomb spared",
+      "ref": "2 Kgs 23:17-18",
+      "what": "He leaves untouched the grave of the man of God who predicted this, and the bones of the old prophet from Samaria buried with him.",
+      "godIds": []
+    },
+    {
+      "item": "Shrines in the cities of Samaria",
+      "ref": "2 Kgs 23:19",
+      "what": "He removes all the houses of the high places in the towns of Samaria that the kings of Israel had built, doing to them as he did at Bethel.",
+      "godIds": []
+    },
+    {
+      "item": "Northern high-place priests executed",
+      "ref": "2 Kgs 23:20",
+      "what": "He kills the priests of the high places there on their altars and burns human bones on them, then returns to Jerusalem. This is harsher than his treatment of Judah's priests (2 Kgs 23:9).",
+      "godIds": []
+    },
+    {
+      "item": "Mediums, spiritists, teraphim and idols (after the Passover)",
+      "ref": "2 Kgs 23:24",
+      "what": "Just beyond the main list, he also removes mediums, necromancers, household gods (teraphim), idols (gillulim) and all the abominations in Judah and Jerusalem, to carry out the words of the book found in the temple.",
+      "godIds": [
+        "teraphim"
+      ]
+    }
+  ],
+  "demonChain": [
+    {
+      "stage": "Territorial gods",
+      "period": "c. 1200-600 BC",
+      "text": "In the older biblical texts the gods of other nations are treated as real powers tied to their own lands. Jephthah can say to the Ammonites, 'Will you not possess what Chemosh your god gives you?'; David, driven out of Israel, complains he is being told to 'go, serve other gods'; Naaman takes Israelite soil home so he can worship Yahweh in Syria. Deut 32:8-9 pictures the nations allotted to heavenly beings while Israel is Yahweh's own portion. The point is not that these gods equal Yahweh, but that they are rivals in a crowded heavenly world.",
+      "refs": [
+        "Judg 11:24",
+        "1 Sam 26:19",
+        "2 Kgs 5:17-18",
+        "Deut 32:8-9",
+        "2 Kgs 17:26",
+        "Ruth 1:15-16"
+      ],
+      "examples": [
+        "Chemosh of Moab",
+        "Milcom of Ammon",
+        "Baal of Peor",
+        "Dagon of Ashdod",
+        "the 'god of the land' in Samaria"
+      ]
+    },
+    {
+      "stage": "Prophetic mockery: gods as man-made things",
+      "period": "c. 750-540 BC",
+      "text": "The prophets push further: idols are wood, stone and metal made by tired workmen, carried on animals, nailed down so they will not fall over. They cannot speak, walk or save. In this phase the focus is on the emptiness of the image, and in Second Isaiah the claim becomes that there is no other god at all.",
+      "refs": [
+        "Isa 44:9-20",
+        "Isa 46:1-7",
+        "Jer 10:3-11",
+        "Ps 115:4-8",
+        "Hab 2:18-19",
+        "Isa 45:5-7",
+        "1 Kgs 18:27"
+      ],
+      "examples": [
+        "half a log for cooking, half for a god (Isa 44)",
+        "a scarecrow in a cucumber field (Jer 10:5)",
+        "Bel and Nebo as heavy baggage (Isa 46)",
+        "elilim, 'nothings' (Ps 96:5)"
+      ]
+    },
+    {
+      "stage": "Shedim: sacrificing to demons",
+      "period": "texts variously dated c. 700-400 BC",
+      "text": "A few Hebrew texts take a different line: behind the idols stand real spiritual beings, but lesser and harmful ones. Moses' Song says Israel sacrificed 'to shedim, not God, to gods they had not known'; Ps 106 says they sacrificed their sons and daughters to the shedim. The word is related to Akkadian shedu, a protective spirit. Other texts mention se'irim, 'goat-demons', to whom sacrifices were forbidden.",
+      "refs": [
+        "Deut 32:16-17",
+        "Ps 106:36-38",
+        "Lev 17:7",
+        "2 Chr 11:15",
+        "Isa 13:21"
+      ],
+      "examples": [
+        "shedim (Deut 32:17; Ps 106:37)",
+        "se'irim, goat-demons (Lev 17:7)",
+        "Lilith in the ruins (Isa 34:14)"
+      ]
+    },
+    {
+      "stage": "The Septuagint: the gods become daimonia",
+      "period": "3rd-1st century BC",
+      "text": "When Jewish scholars in Alexandria translated the Scriptures into Greek, they often used daimonia (demons) for foreign gods. Ps 96:5 ('all the gods of the nations are nothings') became 'all the gods of the nations are demons'; Deut 32:17 became 'they sacrificed to demons and not to God'; Isa 65:3 adds that Israel burned incense 'to demons, which do not exist'. In Greek, daimon had been a neutral word for a divine being; this translation helped turn it into a word for evil spirits.",
+      "refs": [
+        "Ps 96:5",
+        "Deut 32:17",
+        "Isa 65:3",
+        "Isa 13:21",
+        "Ps 106:37"
+      ],
+      "examples": [
+        "Ps 95:5 LXX (= Ps 96:5): 'the gods of the nations are daimonia'",
+        "Deut 32:17 LXX: 'they sacrificed to daimonia'",
+        "Baruch 4:7 (Apocrypha): 'sacrificing to demons and not to God'"
+      ]
+    },
+    {
+      "stage": "Second Temple writings: Watchers and evil spirits",
+      "period": "c. 300 BC - AD 100",
+      "text": "Jewish writings outside the Hebrew canon give the demons a back-story. In 1 Enoch's Book of the Watchers, rebel angels (the 'sons of God' of Gen 6) descend on Mount Hermon, teach forbidden arts and father giants; when the giants die their spirits become evil spirits that afflict humanity (1 Enoch 15:8-12), and the angels' spirits lead people to sacrifice to demons as to gods (1 Enoch 19:1). Jubilees has Mastema, chief of the spirits, keep a tenth of them to lead people into error and idolatry (Jubilees 10-11). These books are not part of most canons (1 Enoch and Jubilees are canonical in the Ethiopian Orthodox Church) but were widely read when the New Testament was written.",
+      "refs": [
+        "Gen 6:1-4",
+        "Jude 1:6",
+        "Jude 1:14-15",
+        "2 Pet 2:4",
+        "Dan 4:13"
+      ],
+      "examples": [
+        "1 Enoch 6-16 (Shemihazah and the Watchers)",
+        "1 Enoch 19:1 (spirits lead people to sacrifice to demons)",
+        "Jubilees 10:1-14 (Mastema)",
+        "Dead Sea Scrolls songs against demons"
+      ]
+    },
+    {
+      "stage": "New Testament: idols nothing, demons real",
+      "period": "c. AD 50-100",
+      "text": "Paul holds both strands together: an idol is nothing and there is one God and one Lord (1 Cor 8:4-6), yet what pagans sacrifice they offer 'to demons and not to God', echoing Deut 32:17 in its Greek form, so Christians cannot share the Lord's table and the table of demons. The Gospels speak of Beelzebul, a Philistine Baal-title, as 'prince of demons'. In Philippi Paul expels a 'Python spirit' from a slave girl, linking a Greek oracle (Apollo's Pythian prophecy) to demonic power. Revelation lists worship of demons and idols together.",
+      "refs": [
+        "1 Cor 8:4-6",
+        "1 Cor 10:19-21",
+        "Matt 12:24-27",
+        "Mark 3:22",
+        "Luke 11:15",
+        "Acts 16:16-18",
+        "Gal 4:8",
+        "Rev 9:20"
+      ],
+      "examples": [
+        "Beelzebul, prince of demons",
+        "the Python spirit at Philippi",
+        "'the table of demons' (1 Cor 10:21)",
+        "'those that by nature are not gods' (Gal 4:8)"
+      ]
+    },
+    {
+      "stage": "Church fathers: the pagan gods were demons",
+      "period": "2nd-5th century AD",
+      "text": "Early Christian apologists made this the standard explanation of paganism. Justin Martyr argued that evil demons, offspring of the fallen angels, had passed themselves off as the gods of Greek myth and persecuted Socrates and Christians alike (*First Apology* 5; *Second Apology* 5). Tertullian challenged magistrates to bring someone possessed before a tribunal and watch the 'god' confess it was a demon when ordered by a Christian (*Apology* 22-23). Augustine devoted much of *City of God* (books 8-10) to showing that the gods honoured by Rome were demons seeking worship.",
+      "refs": [
+        "Ps 96:5",
+        "1 Cor 10:20",
+        "Deut 32:17"
+      ],
+      "examples": [
+        "Justin Martyr, *First Apology* 5; *Second Apology* 5",
+        "Tertullian, *Apology* 22-23",
+        "Athenagoras, *Plea for the Christians* 26",
+        "Augustine, *City of God* books 8-10"
+      ]
+    },
+    {
+      "stage": "Medieval and early modern demonology",
+      "period": "c. AD 400-1800",
+      "text": "Jerome's Latin Vulgate spelled the Gospels' Beelzebul as 'Beelzebub', and Western tradition made him a prince of hell. Later demonologies and magical handbooks ranked the old gods as officers in an infernal hierarchy: Astarte became Astaroth, now a male 'great duke' of hell; Baal became Bael, a demon king; Baal-peor became Belphegor. Lists of this kind appear in Johann Weyer's *Pseudomonarchia daemonum* (1577) and the 17th-century *Lesser Key of Solomon*, and were popularised in Collin de Plancy's *Dictionnaire infernal* (1818).",
+      "refs": [
+        "Matt 12:24",
+        "2 Kgs 1:2",
+        "Num 25:3",
+        "1 Kgs 11:5"
+      ],
+      "examples": [
+        "Beelzebub, prince of demons",
+        "Astaroth, duke of hell (a goddess turned male)",
+        "Belphegor (from Baal-peor)",
+        "Bael (from Baal)",
+        "Moloch"
+      ]
+    },
+    {
+      "stage": "Milton's *Paradise Lost* (1667): the catalogue of fallen angels",
+      "period": "AD 1667",
+      "text": "In Book 1 of *Paradise Lost* John Milton gives a roll-call of fallen angels who later, he says, would be worshipped as gods by the nations. Beelzebub is Satan's second in command. The list follows the Old Testament closely: Moloch, smeared with the blood of child sacrifice; Chemos (Chemosh) with Peor; the Baalim and Ashtaroth; Astoreth the moon-goddess of Sidon; Thammuz mourned by the women of Zion; Dagon, who grieved when the captured ark maimed his image; Rimmon of Damascus; Egypt's Osiris, Isis and Orus; and Belial. Through Milton the Bible's rival gods passed into English literature as named devils.",
+      "refs": [
+        "1 Kgs 11:5-7",
+        "Num 25:3",
+        "Ezek 8:14",
+        "1 Sam 5:4",
+        "2 Kgs 5:18",
+        "2 Kgs 23:10"
+      ],
+      "examples": [
+        "Beelzebub as Satan's lieutenant",
+        "Moloch",
+        "Chemos and Peor",
+        "Thammuz",
+        "Dagon",
+        "Rimmon",
+        "Belial"
+      ]
+    }
+  ]
+}
