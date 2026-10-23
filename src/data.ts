@@ -4,7 +4,10 @@ import type {
   GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
+import { applyOverlay } from './i18n';
+
 const files = import.meta.glob('../content/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
+for (const [k, v] of Object.entries(files)) applyOverlay(k.replace('../content/', ''), v);
 const get = <T,>(name: string, fallback: T): T => (files[`../content/${name}`] as T) ?? fallback;
 const many = <T,>(prefix: string): T[] =>
   Object.keys(files).filter((k) => k.startsWith(`../content/${prefix}`)).sort().flatMap((k) => files[k] as T[]);

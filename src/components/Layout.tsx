@@ -7,6 +7,7 @@ import {
   people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies,
 } from '../data';
 import { parseRef } from '../lib/refs';
+import { lang, setLang } from '../i18n';
 
 const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
   { group: 'The Book', items: [
@@ -277,9 +278,9 @@ export default function Layout({ children }: { children: ReactNode }) {
           <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
           {brand}
         </div>
-        <button className="btn !px-2.5" onClick={() => setPalette(true)} aria-label="Search">
+        <div className="flex items-center gap-1.5"><LangSwitch compact /><button className="btn !px-2.5" onClick={() => setPalette(true)} aria-label="Search">
           <svg width="17" height="17" viewBox="0 0 16 16" aria-hidden><circle cx="7" cy="7" r="4.6" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
-        </button>
+        </button></div>
       </header>
       <AnimatePresence>
         {drawer && phone && (
@@ -293,12 +294,25 @@ export default function Layout({ children }: { children: ReactNode }) {
         )}
       </AnimatePresence>
 
-      <main id="main" className="flex-1 min-w-0 gutter py-6 md:py-8 md:!px-7 lg:!px-10 xl:!px-12">
+      <div className="hidden md:block fixed top-3 right-4 z-40" style={{ top: 'calc(.75rem + env(safe-area-inset-top,0px))' }}><LangSwitch /></div>
+      <main id="main" className="flex-1 min-w-0 gutter py-6 md:pt-14 md:pb-8 md:!px-7 lg:!px-10 xl:!px-12">
         <div key={loc.pathname} className="page-enter max-w-[1280px] mx-auto">
           {children}
         </div>
       </main>
       <CommandPalette open={palette} onClose={() => setPalette(false)} />
+    </div>
+  );
+}
+
+/** EN | தமிழ் switch. Switching reloads the app so content and indexes are rebuilt in the chosen language. */
+function LangSwitch({ compact }: { compact?: boolean }) {
+  return (
+    <div role="group" aria-label="Language / மொழி" className="flex rounded-full border border-line bg-surface shadow-sm overflow-hidden text-[.8rem] font-semibold">
+      {(['en', 'ta'] as const).map((l) => (
+        <button key={l} onClick={() => setLang(l)} aria-pressed={lang === l} lang={l}
+          className={`${compact ? 'px-2.5 py-1.5' : 'px-3 py-1.5'} transition-colors ${lang === l ? 'bg-accent text-accentInk' : 'hover:bg-sunk'}`}>{l === 'en' ? 'EN' : 'தமிழ்'}</button>
+      ))}
     </div>
   );
 }

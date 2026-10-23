@@ -1,3 +1,4 @@
+import { isTa } from '../i18n';
 import { useEffect, useRef, useState } from 'react';
 import { getSample, ERROR_COPY } from '../lib/ask';
 
@@ -29,7 +30,7 @@ export default function Chat({ rules, placeholder, suggestions, speaker, tools, 
       const opts: Record<string, unknown> = { signal: ctl.current.signal, onText: ({ text }: { text: string }) => { setStatus(''); setLive(text); } };
       if (useTools) opts.tools = useTools.map((t) => ({ ...t, execute: (i: any) => { setStatus(`Looking up ${t.name.replace(/_/g, ' ')}…`); return t.execute(i); } }));
       else opts.cache = false;
-      const { text, truncated } = await sample([{ role: 'user', content: rules }, ...next], opts);
+      const { text, truncated } = await sample([{ role: 'user', content: isTa ? `${rules}\n\nReply in clear, natural modern Tamil (தமிழ்). Use Tamil Union Version (பழைய திருப்புதல்) spellings for Bible names and books, and keep scripture references in the form "Rom 3:20".` : rules }, ...next], opts);
       setTurns([...next, { role: 'assistant', content: text }]); setStatus(truncated ? 'The answer was cut short. Ask a narrower question for the rest.' : '');
     } catch (e: any) {
       if (e?.text) setTurns([...next, { role: 'assistant', content: e.text }]);

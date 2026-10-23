@@ -1,0 +1,1550 @@
+[
+{
+"chunk": "000",
+"family": "afterlife-terms",
+"strings": 164,
+"chars": 23958
+},
+{
+"chunk": "001",
+"family": "afterlife-terms",
+"strings": 35,
+"chars": 5482
+},
+{
+"chunk": "002",
+"family": "afterlife-views",
+"strings": 83,
+"chars": 22529
+},
+{
+"chunk": "003",
+"family": "afterlife-views",
+"strings": 36,
+"chars": 10861
+},
+{
+"chunk": "004",
+"family": "bible-history",
+"strings": 117,
+"chars": 23559
+},
+{
+"chunk": "005",
+"family": "bible-history",
+"strings": 159,
+"chars": 23907
+},
+{
+"chunk": "006",
+"family": "bible-history",
+"strings": 220,
+"chars": 23833
+},
+{
+"chunk": "007",
+"family": "bible-history",
+"strings": 198,
+"chars": 18787
+},
+{
+"chunk": "008",
+"family": "books-nt",
+"strings": 306,
+"chars": 23875
+},
+{
+"chunk": "009",
+"family": "books-nt",
+"strings": 303,
+"chars": 23787
+},
+{
+"chunk": "010",
+"family": "books-nt",
+"strings": 104,
+"chars": 9331
+},
+{
+"chunk": "011",
+"family": "books-ot",
+"strings": 295,
+"chars": 23868
+},
+{
+"chunk": "012",
+"family": "books-ot",
+"strings": 264,
+"chars": 23785
+},
+{
+"chunk": "013",
+"family": "books-ot",
+"strings": 234,
+"chars": 23956
+},
+{
+"chunk": "014",
+"family": "books-ot",
+"strings": 220,
+"chars": 19864
+},
+{
+"chunk": "015",
+"family": "canon",
+"strings": 188,
+"chars": 23176
+},
+{
+"chunk": "016",
+"family": "canon",
+"strings": 181,
+"chars": 23964
+},
+{
+"chunk": "017",
+"family": "canon",
+"strings": 213,
+"chars": 23864
+},
+{
+"chunk": "018",
+"family": "canon",
+"strings": 222,
+"chars": 23754
+},
+{
+"chunk": "019",
+"family": "canon",
+"strings": 237,
+"chars": 23965
+},
+{
+"chunk": "020",
+"family": "canon",
+"strings": 231,
+"chars": 23076
+},
+{
+"chunk": "021",
+"family": "canon",
+"strings": 192,
+"chars": 23254
+},
+{
+"chunk": "022",
+"family": "canon",
+"strings": 214,
+"chars": 23993
+},
+{
+"chunk": "023",
+"family": "canon",
+"strings": 209,
+"chars": 23994
+},
+{
+"chunk": "024",
+"family": "canon",
+"strings": 215,
+"chars": 22963
+},
+{
+"chunk": "025",
+"family": "canon",
+"strings": 165,
+"chars": 18672
+},
+{
+"chunk": "026",
+"family": "context",
+"strings": 94,
+"chars": 22811
+},
+{
+"chunk": "027",
+"family": "context",
+"strings": 103,
+"chars": 22245
+},
+{
+"chunk": "028",
+"family": "context",
+"strings": 106,
+"chars": 22802
+},
+{
+"chunk": "029",
+"family": "context",
+"strings": 96,
+"chars": 22234
+},
+{
+"chunk": "030",
+"family": "context",
+"strings": 107,
+"chars": 23525
+},
+{
+"chunk": "031",
+"family": "context",
+"strings": 99,
+"chars": 19769
+},
+{
+"chunk": "032",
+"family": "council",
+"strings": 180,
+"chars": 23738
+},
+{
+"chunk": "033",
+"family": "council",
+"strings": 132,
+"chars": 23621
+},
+{
+"chunk": "034",
+"family": "council",
+"strings": 40,
+"chars": 7881
+},
+{
+"chunk": "035",
+"family": "debates",
+"strings": 120,
+"chars": 23923
+},
+{
+"chunk": "036",
+"family": "debates",
+"strings": 148,
+"chars": 23911
+},
+{
+"chunk": "037",
+"family": "debates",
+"strings": 163,
+"chars": 23900
+},
+{
+"chunk": "038",
+"family": "debates",
+"strings": 219,
+"chars": 23872
+},
+{
+"chunk": "039",
+"family": "debates",
+"strings": 159,
+"chars": 23995
+},
+{
+"chunk": "040",
+"family": "debates",
+"strings": 189,
+"chars": 23130
+},
+{
+"chunk": "041",
+"family": "debates",
+"strings": 140,
+"chars": 23820
+},
+{
+"chunk": "042",
+"family": "debates",
+"strings": 181,
+"chars": 23123
+},
+{
+"chunk": "043",
+"family": "debates",
+"strings": 195,
+"chars": 23973
+},
+{
+"chunk": "044",
+"family": "debates",
+"strings": 199,
+"chars": 23814
+},
+{
+"chunk": "045",
+"family": "debates",
+"strings": 191,
+"chars": 23890
+},
+{
+"chunk": "046",
+"family": "debates",
+"strings": 221,
+"chars": 23954
+},
+{
+"chunk": "047",
+"family": "debates",
+"strings": 184,
+"chars": 23901
+},
+{
+"chunk": "048",
+"family": "debates",
+"strings": 222,
+"chars": 23950
+},
+{
+"chunk": "049",
+"family": "debates",
+"strings": 212,
+"chars": 23845
+},
+{
+"chunk": "050",
+"family": "debates",
+"strings": 201,
+"chars": 23987
+},
+{
+"chunk": "051",
+"family": "debates",
+"strings": 174,
+"chars": 23453
+},
+{
+"chunk": "052",
+"family": "debates",
+"strings": 185,
+"chars": 23725
+},
+{
+"chunk": "053",
+"family": "debates",
+"strings": 219,
+"chars": 23996
+},
+{
+"chunk": "054",
+"family": "debates",
+"strings": 162,
+"chars": 23912
+},
+{
+"chunk": "055",
+"family": "debates",
+"strings": 208,
+"chars": 23571
+},
+{
+"chunk": "056",
+"family": "debates",
+"strings": 177,
+"chars": 23083
+},
+{
+"chunk": "057",
+"family": "debates",
+"strings": 232,
+"chars": 23992
+},
+{
+"chunk": "058",
+"family": "debates",
+"strings": 171,
+"chars": 23894
+},
+{
+"chunk": "059",
+"family": "debates",
+"strings": 201,
+"chars": 23923
+},
+{
+"chunk": "060",
+"family": "debates",
+"strings": 198,
+"chars": 23980
+},
+{
+"chunk": "061",
+"family": "debates",
+"strings": 230,
+"chars": 23988
+},
+{
+"chunk": "062",
+"family": "debates",
+"strings": 213,
+"chars": 23994
+},
+{
+"chunk": "063",
+"family": "debates",
+"strings": 229,
+"chars": 23127
+},
+{
+"chunk": "064",
+"family": "debates",
+"strings": 202,
+"chars": 23930
+},
+{
+"chunk": "065",
+"family": "debates",
+"strings": 182,
+"chars": 23488
+},
+{
+"chunk": "066",
+"family": "debates",
+"strings": 194,
+"chars": 23949
+},
+{
+"chunk": "067",
+"family": "debates",
+"strings": 176,
+"chars": 23977
+},
+{
+"chunk": "068",
+"family": "debates",
+"strings": 35,
+"chars": 2921
+},
+{
+"chunk": "069",
+"family": "deep-ephesians",
+"strings": 104,
+"chars": 23890
+},
+{
+"chunk": "070",
+"family": "deep-ephesians",
+"strings": 121,
+"chars": 23060
+},
+{
+"chunk": "071",
+"family": "deep-galatians",
+"strings": 95,
+"chars": 23872
+},
+{
+"chunk": "072",
+"family": "deep-galatians",
+"strings": 99,
+"chars": 23923
+},
+{
+"chunk": "073",
+"family": "deep-galatians",
+"strings": 30,
+"chars": 2241
+},
+{
+"chunk": "074",
+"family": "deep-hebrews",
+"strings": 110,
+"chars": 23619
+},
+{
+"chunk": "075",
+"family": "deep-hebrews",
+"strings": 82,
+"chars": 23843
+},
+{
+"chunk": "076",
+"family": "deep-hebrews",
+"strings": 85,
+"chars": 23926
+},
+{
+"chunk": "077",
+"family": "deep-hebrews",
+"strings": 57,
+"chars": 5486
+},
+{
+"chunk": "078",
+"family": "deep-john",
+"strings": 99,
+"chars": 23776
+},
+{
+"chunk": "079",
+"family": "deep-john",
+"strings": 91,
+"chars": 23886
+},
+{
+"chunk": "080",
+"family": "deep-john",
+"strings": 97,
+"chars": 23982
+},
+{
+"chunk": "081",
+"family": "deep-john",
+"strings": 92,
+"chars": 23813
+},
+{
+"chunk": "082",
+"family": "deep-john",
+"strings": 70,
+"chars": 8172
+},
+{
+"chunk": "083",
+"family": "deep-romans",
+"strings": 114,
+"chars": 23826
+},
+{
+"chunk": "084",
+"family": "deep-romans",
+"strings": 95,
+"chars": 23811
+},
+{
+"chunk": "085",
+"family": "deep-romans",
+"strings": 88,
+"chars": 23841
+},
+{
+"chunk": "086",
+"family": "deep-romans",
+"strings": 79,
+"chars": 13262
+},
+{
+"chunk": "087",
+"family": "empires",
+"strings": 26,
+"chars": 4248
+},
+{
+"chunk": "088",
+"family": "eras",
+"strings": 32,
+"chars": 1883
+},
+{
+"chunk": "089",
+"family": "eschatology",
+"strings": 163,
+"chars": 23932
+},
+{
+"chunk": "090",
+"family": "eschatology",
+"strings": 196,
+"chars": 23933
+},
+{
+"chunk": "091",
+"family": "eschatology",
+"strings": 183,
+"chars": 23954
+},
+{
+"chunk": "092",
+"family": "eschatology",
+"strings": 205,
+"chars": 23329
+},
+{
+"chunk": "093",
+"family": "eschatology",
+"strings": 206,
+"chars": 23862
+},
+{
+"chunk": "094",
+"family": "eschatology",
+"strings": 88,
+"chars": 7963
+},
+{
+"chunk": "095",
+"family": "gifts",
+"strings": 46,
+"chars": 4634
+},
+{
+"chunk": "096",
+"family": "gods",
+"strings": 215,
+"chars": 23975
+},
+{
+"chunk": "097",
+"family": "gods",
+"strings": 217,
+"chars": 23988
+},
+{
+"chunk": "098",
+"family": "gods",
+"strings": 202,
+"chars": 23987
+},
+{
+"chunk": "099",
+"family": "gods",
+"strings": 204,
+"chars": 23901
+},
+{
+"chunk": "100",
+"family": "gods",
+"strings": 165,
+"chars": 23996
+},
+{
+"chunk": "101",
+"family": "gods",
+"strings": 198,
+"chars": 23162
+},
+{
+"chunk": "102",
+"family": "gods",
+"strings": 204,
+"chars": 23617
+},
+{
+"chunk": "103",
+"family": "gods",
+"strings": 214,
+"chars": 23925
+},
+{
+"chunk": "104",
+"family": "gods",
+"strings": 187,
+"chars": 23222
+},
+{
+"chunk": "105",
+"family": "gods",
+"strings": 162,
+"chars": 22346
+},
+{
+"chunk": "106",
+"family": "gods",
+"strings": 24,
+"chars": 3769
+},
+{
+"chunk": "107",
+"family": "gods-extra",
+"strings": 235,
+"chars": 23836
+},
+{
+"chunk": "108",
+"family": "gods-extra",
+"strings": 173,
+"chars": 23880
+},
+{
+"chunk": "109",
+"family": "gods-extra",
+"strings": 124,
+"chars": 15106
+},
+{
+"chunk": "110",
+"family": "gospel-emphasis",
+"strings": 26,
+"chars": 6947
+},
+{
+"chunk": "111",
+"family": "gospel-history",
+"strings": 215,
+"chars": 23850
+},
+{
+"chunk": "112",
+"family": "gospel-history",
+"strings": 96,
+"chars": 12856
+},
+{
+"chunk": "113",
+"family": "gospel-questions",
+"strings": 45,
+"chars": 8843
+},
+{
+"chunk": "114",
+"family": "guides",
+"strings": 124,
+"chars": 23583
+},
+{
+"chunk": "115",
+"family": "guides",
+"strings": 144,
+"chars": 23872
+},
+{
+"chunk": "116",
+"family": "guides",
+"strings": 133,
+"chars": 22615
+},
+{
+"chunk": "117",
+"family": "guides",
+"strings": 127,
+"chars": 23712
+},
+{
+"chunk": "118",
+"family": "guides",
+"strings": 211,
+"chars": 23976
+},
+{
+"chunk": "119",
+"family": "guides",
+"strings": 202,
+"chars": 23751
+},
+{
+"chunk": "120",
+"family": "guides",
+"strings": 130,
+"chars": 23536
+},
+{
+"chunk": "121",
+"family": "guides",
+"strings": 161,
+"chars": 23912
+},
+{
+"chunk": "122",
+"family": "guides",
+"strings": 103,
+"chars": 23021
+},
+{
+"chunk": "123",
+"family": "guides",
+"strings": 78,
+"chars": 21962
+},
+{
+"chunk": "124",
+"family": "guides",
+"strings": 29,
+"chars": 23977
+},
+{
+"chunk": "125",
+"family": "guides",
+"strings": 137,
+"chars": 22788
+},
+{
+"chunk": "126",
+"family": "guides",
+"strings": 85,
+"chars": 23841
+},
+{
+"chunk": "127",
+"family": "guides",
+"strings": 112,
+"chars": 23967
+},
+{
+"chunk": "128",
+"family": "guides",
+"strings": 181,
+"chars": 23392
+},
+{
+"chunk": "129",
+"family": "guides",
+"strings": 89,
+"chars": 23930
+},
+{
+"chunk": "130",
+"family": "guides",
+"strings": 465,
+"chars": 23992
+},
+{
+"chunk": "131",
+"family": "guides",
+"strings": 75,
+"chars": 23921
+},
+{
+"chunk": "132",
+"family": "guides",
+"strings": 186,
+"chars": 23274
+},
+{
+"chunk": "133",
+"family": "guides",
+"strings": 124,
+"chars": 23405
+},
+{
+"chunk": "134",
+"family": "guides",
+"strings": 103,
+"chars": 23169
+},
+{
+"chunk": "135",
+"family": "guides",
+"strings": 87,
+"chars": 22370
+},
+{
+"chunk": "136",
+"family": "guides",
+"strings": 142,
+"chars": 23949
+},
+{
+"chunk": "137",
+"family": "guides",
+"strings": 68,
+"chars": 4123
+},
+{
+"chunk": "138",
+"family": "journeys",
+"strings": 255,
+"chars": 21248
+},
+{
+"chunk": "139",
+"family": "movements",
+"strings": 121,
+"chars": 23871
+},
+{
+"chunk": "140",
+"family": "movements",
+"strings": 184,
+"chars": 23953
+},
+{
+"chunk": "141",
+"family": "movements",
+"strings": 152,
+"chars": 23974
+},
+{
+"chunk": "142",
+"family": "movements",
+"strings": 184,
+"chars": 23660
+},
+{
+"chunk": "143",
+"family": "movements",
+"strings": 190,
+"chars": 23817
+},
+{
+"chunk": "144",
+"family": "movements",
+"strings": 148,
+"chars": 23970
+},
+{
+"chunk": "145",
+"family": "movements",
+"strings": 190,
+"chars": 23857
+},
+{
+"chunk": "146",
+"family": "movements",
+"strings": 191,
+"chars": 23679
+},
+{
+"chunk": "147",
+"family": "movements",
+"strings": 140,
+"chars": 23846
+},
+{
+"chunk": "148",
+"family": "movements",
+"strings": 111,
+"chars": 9357
+},
+{
+"chunk": "149",
+"family": "occupations",
+"strings": 262,
+"chars": 23441
+},
+{
+"chunk": "150",
+"family": "occupations",
+"strings": 96,
+"chars": 10587
+},
+{
+"chunk": "151",
+"family": "paradoxes",
+"strings": 174,
+"chars": 23869
+},
+{
+"chunk": "152",
+"family": "paradoxes",
+"strings": 176,
+"chars": 23925
+},
+{
+"chunk": "153",
+"family": "paradoxes",
+"strings": 181,
+"chars": 23969
+},
+{
+"chunk": "154",
+"family": "paradoxes",
+"strings": 225,
+"chars": 23814
+},
+{
+"chunk": "155",
+"family": "paradoxes",
+"strings": 218,
+"chars": 23885
+},
+{
+"chunk": "156",
+"family": "paradoxes",
+"strings": 30,
+"chars": 4604
+},
+{
+"chunk": "157",
+"family": "people",
+"strings": 254,
+"chars": 23522
+},
+{
+"chunk": "158",
+"family": "people",
+"strings": 264,
+"chars": 24000
+},
+{
+"chunk": "159",
+"family": "people",
+"strings": 266,
+"chars": 23975
+},
+{
+"chunk": "160",
+"family": "people",
+"strings": 262,
+"chars": 23966
+},
+{
+"chunk": "161",
+"family": "people",
+"strings": 226,
+"chars": 23955
+},
+{
+"chunk": "162",
+"family": "people",
+"strings": 218,
+"chars": 23854
+},
+{
+"chunk": "163",
+"family": "people",
+"strings": 219,
+"chars": 23920
+},
+{
+"chunk": "164",
+"family": "people",
+"strings": 292,
+"chars": 23968
+},
+{
+"chunk": "165",
+"family": "people",
+"strings": 259,
+"chars": 23907
+},
+{
+"chunk": "166",
+"family": "people",
+"strings": 239,
+"chars": 23972
+},
+{
+"chunk": "167",
+"family": "people",
+"strings": 249,
+"chars": 23979
+},
+{
+"chunk": "168",
+"family": "people",
+"strings": 233,
+"chars": 23789
+},
+{
+"chunk": "169",
+"family": "people",
+"strings": 252,
+"chars": 23836
+},
+{
+"chunk": "170",
+"family": "people",
+"strings": 250,
+"chars": 23973
+},
+{
+"chunk": "171",
+"family": "people",
+"strings": 284,
+"chars": 23937
+},
+{
+"chunk": "172",
+"family": "people",
+"strings": 257,
+"chars": 23948
+},
+{
+"chunk": "173",
+"family": "people",
+"strings": 208,
+"chars": 23735
+},
+{
+"chunk": "174",
+"family": "people",
+"strings": 216,
+"chars": 23910
+},
+{
+"chunk": "175",
+"family": "people",
+"strings": 222,
+"chars": 23587
+},
+{
+"chunk": "176",
+"family": "people",
+"strings": 227,
+"chars": 23807
+},
+{
+"chunk": "177",
+"family": "people",
+"strings": 252,
+"chars": 23954
+},
+{
+"chunk": "178",
+"family": "people",
+"strings": 241,
+"chars": 23971
+},
+{
+"chunk": "179",
+"family": "people",
+"strings": 237,
+"chars": 23620
+},
+{
+"chunk": "180",
+"family": "people",
+"strings": 249,
+"chars": 23193
+},
+{
+"chunk": "181",
+"family": "people",
+"strings": 248,
+"chars": 23972
+},
+{
+"chunk": "182",
+"family": "people",
+"strings": 231,
+"chars": 23997
+},
+{
+"chunk": "183",
+"family": "people",
+"strings": 264,
+"chars": 23776
+},
+{
+"chunk": "184",
+"family": "people",
+"strings": 241,
+"chars": 23920
+},
+{
+"chunk": "185",
+"family": "people",
+"strings": 207,
+"chars": 23861
+},
+{
+"chunk": "186",
+"family": "people",
+"strings": 279,
+"chars": 23992
+},
+{
+"chunk": "187",
+"family": "people",
+"strings": 270,
+"chars": 23972
+},
+{
+"chunk": "188",
+"family": "people",
+"strings": 286,
+"chars": 23772
+},
+{
+"chunk": "189",
+"family": "people",
+"strings": 251,
+"chars": 23862
+},
+{
+"chunk": "190",
+"family": "people",
+"strings": 259,
+"chars": 23756
+},
+{
+"chunk": "191",
+"family": "people",
+"strings": 217,
+"chars": 23998
+},
+{
+"chunk": "192",
+"family": "people",
+"strings": 221,
+"chars": 23997
+},
+{
+"chunk": "193",
+"family": "people",
+"strings": 215,
+"chars": 23979
+},
+{
+"chunk": "194",
+"family": "people",
+"strings": 196,
+"chars": 23988
+},
+{
+"chunk": "195",
+"family": "people",
+"strings": 214,
+"chars": 23892
+},
+{
+"chunk": "196",
+"family": "people",
+"strings": 70,
+"chars": 7981
+},
+{
+"chunk": "197",
+"family": "places",
+"strings": 228,
+"chars": 23948
+},
+{
+"chunk": "198",
+"family": "places",
+"strings": 211,
+"chars": 23843
+},
+{
+"chunk": "199",
+"family": "places",
+"strings": 198,
+"chars": 19691
+},
+{
+"chunk": "200",
+"family": "plain",
+"strings": 132,
+"chars": 23799
+},
+{
+"chunk": "201",
+"family": "plain",
+"strings": 141,
+"chars": 23905
+},
+{
+"chunk": "202",
+"family": "plain",
+"strings": 84,
+"chars": 14377
+},
+{
+"chunk": "203",
+"family": "quiz",
+"strings": 405,
+"chars": 23983
+},
+{
+"chunk": "204",
+"family": "quiz",
+"strings": 65,
+"chars": 2711
+},
+{
+"chunk": "205",
+"family": "relationships",
+"strings": 370,
+"chars": 23930
+},
+{
+"chunk": "206",
+"family": "relationships",
+"strings": 333,
+"chars": 23954
+},
+{
+"chunk": "207",
+"family": "relationships",
+"strings": 55,
+"chars": 4003
+},
+{
+"chunk": "208",
+"family": "rosters",
+"strings": 289,
+"chars": 23949
+},
+{
+"chunk": "209",
+"family": "rosters",
+"strings": 230,
+"chars": 17885
+},
+{
+"chunk": "210",
+"family": "study",
+"strings": 183,
+"chars": 23915
+},
+{
+"chunk": "211",
+"family": "study",
+"strings": 184,
+"chars": 23661
+},
+{
+"chunk": "212",
+"family": "study",
+"strings": 193,
+"chars": 23986
+},
+{
+"chunk": "213",
+"family": "study",
+"strings": 223,
+"chars": 23901
+},
+{
+"chunk": "214",
+"family": "study",
+"strings": 226,
+"chars": 23836
+},
+{
+"chunk": "215",
+"family": "study",
+"strings": 186,
+"chars": 22799
+},
+{
+"chunk": "216",
+"family": "study",
+"strings": 123,
+"chars": 23973
+},
+{
+"chunk": "217",
+"family": "study",
+"strings": 158,
+"chars": 22809
+},
+{
+"chunk": "218",
+"family": "study",
+"strings": 160,
+"chars": 23636
+},
+{
+"chunk": "219",
+"family": "study",
+"strings": 133,
+"chars": 23960
+},
+{
+"chunk": "220",
+"family": "study",
+"strings": 164,
+"chars": 22726
+},
+{
+"chunk": "221",
+"family": "study",
+"strings": 175,
+"chars": 23874
+},
+{
+"chunk": "222",
+"family": "study",
+"strings": 195,
+"chars": 23941
+},
+{
+"chunk": "223",
+"family": "study",
+"strings": 132,
+"chars": 22981
+},
+{
+"chunk": "224",
+"family": "study",
+"strings": 165,
+"chars": 23571
+},
+{
+"chunk": "225",
+"family": "study",
+"strings": 154,
+"chars": 23999
+},
+{
+"chunk": "226",
+"family": "study",
+"strings": 148,
+"chars": 23983
+},
+{
+"chunk": "227",
+"family": "study",
+"strings": 181,
+"chars": 23732
+},
+{
+"chunk": "228",
+"family": "study",
+"strings": 171,
+"chars": 23922
+},
+{
+"chunk": "229",
+"family": "study",
+"strings": 170,
+"chars": 23469
+},
+{
+"chunk": "230",
+"family": "study",
+"strings": 158,
+"chars": 23995
+},
+{
+"chunk": "231",
+"family": "study",
+"strings": 149,
+"chars": 23507
+},
+{
+"chunk": "232",
+"family": "study",
+"strings": 172,
+"chars": 22858
+},
+{
+"chunk": "233",
+"family": "study",
+"strings": 172,
+"chars": 23936
+},
+{
+"chunk": "234",
+"family": "study",
+"strings": 174,
+"chars": 23922
+},
+{
+"chunk": "235",
+"family": "study",
+"strings": 176,
+"chars": 23270
+},
+{
+"chunk": "236",
+"family": "study",
+"strings": 175,
+"chars": 23947
+},
+{
+"chunk": "237",
+"family": "study",
+"strings": 136,
+"chars": 23065
+},
+{
+"chunk": "238",
+"family": "study",
+"strings": 161,
+"chars": 22387
+},
+{
+"chunk": "239",
+"family": "study",
+"strings": 165,
+"chars": 22796
+},
+{
+"chunk": "240",
+"family": "study",
+"strings": 201,
+"chars": 23957
+},
+{
+"chunk": "241",
+"family": "study",
+"strings": 175,
+"chars": 23977
+},
+{
+"chunk": "242",
+"family": "study",
+"strings": 169,
+"chars": 22803
+},
+{
+"chunk": "243",
+"family": "study",
+"strings": 139,
+"chars": 17604
+},
+{
+"chunk": "244",
+"family": "study-paths",
+"strings": 152,
+"chars": 16236
+},
+{
+"chunk": "245",
+"family": "symbols",
+"strings": 220,
+"chars": 23871
+},
+{
+"chunk": "246",
+"family": "symbols",
+"strings": 239,
+"chars": 23917
+},
+{
+"chunk": "247",
+"family": "symbols",
+"strings": 241,
+"chars": 23990
+},
+{
+"chunk": "248",
+"family": "symbols",
+"strings": 256,
+"chars": 23942
+},
+{
+"chunk": "249",
+"family": "symbols",
+"strings": 289,
+"chars": 23914
+},
+{
+"chunk": "250",
+"family": "symbols",
+"strings": 300,
+"chars": 23969
+},
+{
+"chunk": "251",
+"family": "symbols",
+"strings": 311,
+"chars": 23978
+},
+{
+"chunk": "252",
+"family": "symbols",
+"strings": 15,
+"chars": 1614
+},
+{
+"chunk": "253",
+"family": "timeline",
+"strings": 285,
+"chars": 23964
+},
+{
+"chunk": "254",
+"family": "timeline",
+"strings": 216,
+"chars": 16282
+},
+{
+"chunk": "255",
+"family": "types",
+"strings": 212,
+"chars": 23881
+},
+{
+"chunk": "256",
+"family": "types",
+"strings": 218,
+"chars": 23856
+},
+{
+"chunk": "257",
+"family": "types",
+"strings": 138,
+"chars": 16401
+}
+]

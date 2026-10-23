@@ -11,7 +11,8 @@ import { books } from '../data';
 const PALETTE = ['--accent', '--nt', '--ot', '--accent-2', '--good', '--warn'];
 const col = (i: number, a = 1) => `rgb(var(${PALETTE[i % PALETTE.length]}) / ${a})`;
 export const bookName = (id: string) => books.find((b) => b.id === id)?.name ?? id;
-export const fmtYear = (y: number) => (y < 0 ? `${-y} BC` : `AD ${y}`);
+import { fmtYear } from '../i18n';
+export { fmtYear };
 
 /* ---------- radial mind map ---------- */
 export function MindMap({ center, branches }: { center: string; branches: { label: string; items: string[] }[] }) {

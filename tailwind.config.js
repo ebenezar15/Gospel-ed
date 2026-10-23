@@ -10,9 +10,9 @@ export default {
         good: v('good'), warn: v('warn'), bad: v('bad'),
       },
       fontFamily: {
-        display: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-        sans: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
-        serif: ['"Cormorant Garamond"', '"EB Garamond"', 'Georgia', 'serif'],
+        display: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', '"Noto Sans Tamil"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        sans: ['"Avenir Next"', '"AvenirNext"', '"Avenir Next LT Pro"', 'Avenir', '"Nunito Sans"', '"Noto Sans Tamil"', 'ui-sans-serif', 'system-ui', 'sans-serif'],
+        serif: ['"Cormorant Garamond"', '"EB Garamond"', '"Noto Serif Tamil"', 'Georgia', 'serif'],
         orig: ['"Noto Serif Hebrew"', '"Noto Serif"', 'serif'],
       },
     },

@@ -2,13 +2,15 @@ import { useEffect, useRef, useState, type ReactNode } from 'react';
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { parseRef } from '../lib/refs';
-import { loadKJV, versesFor, refLabel } from '../lib/kjv';
+import { loadKJV, versesFor, refLabel, refShort } from '../lib/kjv';
+import { isTa, t, loadTamilBook, TA_ABBR } from '../i18n';
+import { BOOK_INDEX } from '../lib/canon';
 import { personById, placeName, personName } from '../data';
 import type { ConfidenceT, DateValueT, SourceT } from '../schemas';
 import { useUI } from '../store';
 
-export const fmtYear = (y: number) => (y < 0 ? `${-y} BC` : y < 1000 ? `AD ${y}` : `${y}`);
-export function fmtDate(d?: DateValueT) { if (!d) return '—'; return `${d.circa ? 'c. ' : ''}${fmtYear(d.year)}`; }
+export const fmtYear = (y: number) => (isTa ? (y < 0 ? `கி.மு. ${-y}` : y < 1000 ? `கி.பி. ${y}` : `${y}`) : y < 0 ? `${-y} BC` : y < 1000 ? `AD ${y}` : `${y}`);
+export function fmtDate(d?: DateValueT) { if (!d) return '—'; return `${d.circa ? (isTa ? 'சு. ' : 'c. ') : ''}${fmtYear(d.year)}`; }
 
 const CONF_LABEL: Record<ConfidenceT, string> = {
   biblical: 'Biblical', 'scholarly-consensus': 'Scholarly consensus', debated: 'Debated', tradition: 'Tradition', speculative: 'Speculative', 'needs-verification': 'Needs verification',
@@ -39,12 +41,15 @@ export function Ref({ r }: { r: string }) {
   const [right, setRight] = useState(false);
   const setOpen = (v: boolean | ((o: boolean) => boolean)) => setOpenRaw((o) => { const n = typeof v === 'function' ? v(o) : v; if (n && box.current) { const r = box.current.getBoundingClientRect(); setRight(r.left + 360 > window.innerWidth); } return n; });
   const [text, setText] = useState<{ c: number; v: number; text: string }[] | null>(null);
+  const [version, setVersion] = useState<'ta' | 'kjv'>(isTa ? 'ta' : 'kjv');
   const parsed = parseRef(r);
   const box = useRef<HTMLSpanElement>(null);
   useEffect(() => {
-    if (!open || text || !parsed) return;
-    loadKJV().then((k) => setText(versesFor(k, parsed, 12)));
-  }, [open]);
+    if (!open || !parsed) return;
+    setText(null);
+    if (version === 'ta') loadTamilBook(parsed.book).then((b) => setText(versesFor([...Array(parsed.book)].concat([b]) as string[][][], parsed, 12))).catch(() => setVersion('kjv'));
+    else loadKJV().then((k) => setText(versesFor(k, parsed, 12)));
+  }, [open, version]);
   useEffect(() => {
     if (!open) return;
     const h = (e: PointerEvent) => { if (box.current && !box.current.contains(e.target as Node)) setOpen(false); };
@@ -54,17 +59,18 @@ export function Ref({ r }: { r: string }) {
   return (
     <span ref={box} className="relative inline-block" onPointerEnter={(e) => e.pointerType === 'mouse' && setOpen(true)} onPointerLeave={(e) => e.pointerType === 'mouse' && setOpen(false)}>
       <button type="button" onClick={() => setOpen((o) => !o)} className="chip hover:border-accent font-serif !text-[.78rem]" aria-expanded={open}>
-        <span className="rubric">✠</span>{r}
+        <span className="rubric">✠</span>{refShort(r)}
       </button>
       {open && (
         <span role="tooltip" className={`absolute z-50 ${right ? 'right-0' : 'left-0'} top-full mt-1 w-[min(22rem,80vw)] card shadow-xl p-3 text-left block`}>
-          <span className="eyebrow block mb-1">{refLabel(r)} · KJV</span>
+          <span className="eyebrow mb-1 flex items-center justify-between gap-2"><span>{refLabel(r)} · {version === 'ta' ? 'தமிழ் (யூனியன்)' : 'KJV'}</span>
+            {isTa && <button type="button" className="underline normal-case tracking-normal" onClick={(e) => { e.stopPropagation(); setVersion(version === 'ta' ? 'kjv' : 'ta'); }}>{version === 'ta' ? 'KJV' : 'தமிழ்'}</button>}</span>
           {!text ? <span className="block skeleton h-12" /> : (
             <span className="block max-h-56 overflow-auto font-serif text-[.92rem] leading-relaxed">
               {text.map((v) => <span key={`${v.c}:${v.v}`}><sup className="rubric mr-0.5">{v.v}</sup>{v.text} </span>)}
             </span>
           )}
-          <Link to={`/study?verse=${encodeURIComponent(r)}`} className="text-xs text-accent mt-2 inline-block">Open in verse panel →</Link>
+          <Link to={`/study?verse=${encodeURIComponent(r)}`} className="text-xs text-accent mt-2 inline-block">{t('Open in verse panel →')}</Link>
         </span>
       )}
     </span>
@@ -99,8 +105,11 @@ export function SourceLine({ s }: { s: SourceT }) {
   );
 }
 /** Renders *italic* spans (used for book titles) inside plain content strings. */
+const PROSE_REF = /\b([123] )?(Gen|Exod|Lev|Num|Deut|Josh|Judg|Ruth|Sam|Kgs|Chr|Ezra|Neh|Esth|Job|Ps|Prov|Eccl|Song|Isa|Jer|Lam|Ezek|Dan|Hos|Joel|Amos|Obad|Jonah|Mic|Nah|Hab|Zeph|Hag|Zech|Mal|Matt|Mark|Luke|John|Acts|Rom|Cor|Gal|Eph|Phil|Col|Thess|Tim|Titus|Phlm|Heb|Jas|Pet|Jude|Rev)(?= \d)/g;
+/** In Tamil mode, English book abbreviations inside prose ("Rom 3:20") become Tamil ones ("ரோம 3:20"). */
+export const localRefs = (s: string) => (isTa ? s.replace(PROSE_REF, (m) => { const i = BOOK_INDEX[m]; return i === undefined ? m : TA_ABBR[i]; }) : s);
 export function Rich({ text }: { text: string }) {
-  const parts = text.split(/\*([^*\n]+)\*/g);
+  const parts = localRefs(text).split(/\*([^*\n]+)\*/g);
   return <>{parts.map((x, i) => (i % 2 ? <i key={i}>{x}</i> : x))}</>;
 }
 export function Paras({ text, className }: { text?: string; className?: string }) {

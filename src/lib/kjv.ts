@@ -1,5 +1,6 @@
 import { parseRef, type ParsedRef } from './refs';
 import { BOOKS } from './canon';
+import { isTa, TA_BOOKS, TA_ABBR } from '../i18n';
 
 let cache: string[][][] | null = null;
 let loading: Promise<string[][][]> | null = null;
@@ -18,4 +19,8 @@ export function versesFor(kjv: string[][][], r: ParsedRef, max = 40): Verse[] {
   }
   return out;
 }
-export function refLabel(ref: string) { const p = parseRef(ref); return p ? ref.replace(/^\S+( \S+)?(?= \d)/, BOOKS[p.book].name) : ref; }
+const swapBook = (ref: string, names: string[]) => { const p = parseRef(ref); return p ? ref.replace(/^\S+( \S+)?(?= \d)/, names[p.book]) : ref; };
+/** "Rom 3:20" → "Romans 3:20" / "ரோமர் 3:20". */
+export function refLabel(ref: string) { return swapBook(ref, isTa ? TA_BOOKS : BOOKS.map((b) => b.name)); }
+/** Chip label: the reference as written in English, Tamil abbreviation in Tamil mode. */
+export function refShort(ref: string) { return isTa ? swapBook(ref, TA_ABBR) : ref; }
