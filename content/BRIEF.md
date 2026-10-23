@@ -79,3 +79,35 @@ Read the source notes at /tmp/claude-0/-home-user-Gospel-ed/d1bd6d71-36a3-59c2-9
 Schemas: God, GodsExtra in src/schemas/index.ts; Debate for debates-6.json; DeepDive for guides-7.json. God ids are kebab-case (e.g. baal-hadad, asherah, astarte, dagon, molech, milcom, chemosh, el, anat, yam, mot, resheph, kothar, baal-zebub, baal-peor, baal-berith, tammuz, queen-of-heaven, ptgyh, marduk, nabu, nergal, ishtar, shamash, sin-moon, sakkuth-kaiwan, nisroch, adrammelech-anammelech, succoth-benoth, ashima, nibhaz-tartak, rimmon, ra, osiris, hapi, heqet, apis, hathor, amun, zeus, hermes, artemis, castor-and-pollux, unknown-god, gad-and-meni, teraphim, golden-calf, nehushtan, azazel, lilith, shedim, sons-of-god). gods-1.json covers canaan/phoenicia/philistia/transjordan/aram; gods-2.json covers mesopotamia/egypt/greco-roman/israelite-folk/spirit-beings. Use these ids in godIds/related so links resolve.
 Coordinates are [longitude, latitude].
 The notes file also summarises a second video on the divine council. Same rules: never name the presenter; treat Heiser-style claims as one scholarly reading (present critiques and alternatives: classical monotheism, human-judges reading of Ps 82, Sethite reading of Gen 6, Trinitarian / plural-of-majesty readings of Gen 1:26, evolutionary-monotheism views of Mark Smith and others).
+
+---
+# Round 5: Book studies (study-*.json) and deep studies (deep-*.json)
+
+Schemas: `BookStudy`, `ChapterStudy`, `DeepStudy`, `Misreading` in `src/schemas/index.ts` (read the field comments there — they are the spec).
+**Book ids** (use exactly, for `id` and `connections[].bookId`):
+OT: genesis exodus leviticus numbers deuteronomy joshua judges ruth 1-samuel 2-samuel 1-kings 2-kings 1-chronicles 2-chronicles ezra nehemiah esther job psalms proverbs ecclesiastes song-of-songs isaiah jeremiah lamentations ezekiel daniel hosea joel amos obadiah jonah micah nahum habakkuk zephaniah haggai zechariah malachi
+NT: matthew mark luke john acts romans 1-corinthians 2-corinthians galatians ephesians philippians colossians 1-thessalonians 2-thessalonians 1-timothy 2-timothy titus philemon hebrews james 1-peter 2-peter 1-john 2-john 3-john jude revelation
+(`content/books-ot.json` / `books-nt.json` already hold the basic outline, authorship and date for each book — read the entry for your book first, do not contradict it without reason, and do not repeat it; the study adds depth.)
+
+## Research
+Use WebSearch (load it with ToolSearch "select:WebSearch") to check scholarly positions, dates and archaeological facts you are not sure of — e.g. introductions in standard commentaries, the Jewish Study Bible / Jewish Annotated New Testament, the Bible Project, Bible Odyssey (SBL), Britannica. Do not copy text; summarise in your own words. Cite real works in `sources` (author, title, year). If unsure a work says something, mark the Source `confidence: "needs-verification"`.
+
+## The lens the user wants
+"The Jewish cultural and relational gospel lens": read each book as its first audience would — inside Israel's covenant story (election, Torah as gift within relationship, temple, feasts, exile and return, the hope of the kingdom), and the ancient Mediterranean world (honour and shame, kinship and household, patronage and gift — *charis* as gift that creates a relationship, *pistis* as trust/faithfulness/loyalty, collectivist identity, oral performance of texts). Emphasise God's faithful relationship with a people, not only individual transactions.
+
+## Misreadings (the "differentials")
+The user asked how evangelicals have misunderstood these books. Handle this fairly:
+- `popular` = the common popular-level evangelical reading, stated in the way its holders would recognise (not a caricature).
+- `inContext` = the reading from Jewish/first-century context, naming which scholars argue it (e.g. E. P. Sanders, James Dunn, N. T. Wright, Krister Stendahl, John Barclay, Matthew Bates, Mark Nanos, Pamela Eisenbaum, Amy-Jill Levine, David deSilva, Richard Hays, Scot McKnight, Craig Keener, Lois Tverberg, Marvin Wilson).
+- `defence` = how careful traditional evangelical/Reformed scholars answer (e.g. D. A. Carson, Douglas Moo, Thomas Schreiner, Simon Gathercole, Stephen Westerholm, John Piper), so the reader sees both sides. Often the truth is "popular preaching flattened something; scholars on both sides agree it is richer" — say so.
+- Distinguish *popular misunderstanding* from *scholarly disagreement*. Use confidence `debated` where scholars disagree.
+- Never mock any tradition. No supersessionist put-downs of Judaism either ("legalistic Pharisees") — correct those where they appear.
+
+## Visual fields — write them to be drawn
+- `flow`: 4–8 steps, short `label` (≤ 6 words), `detail` 1–2 sentences. It becomes a flowchart.
+- `mindmap`: 4–6 branches, each 2–5 items of ≤ 6 words. It becomes a radial mind map.
+- `argument` (deep studies): 6–14 nodes; `next` lists ids of the nodes each one leads to (it may branch and rejoin); `chapters` like "1-4" or "9-11".
+- `audienceMap.share` rough percentages that add to 100.
+- `writtenFrom.coords` / `writtenTo.coords` = [longitude, latitude] (e.g. Rome [12.5, 41.9], Jerusalem [35.23, 31.78], Babylon [44.42, 32.54], Ephesus [27.34, 37.94], Corinth [22.88, 37.91]). Omit coords if wholly unknown.
+- `worldEvents`: 3–6 dated events (negative years = BC) surrounding the writing.
+- Plain language for a curious non-specialist: short sentences, define every technical term. Depth through specifics, not jargon.

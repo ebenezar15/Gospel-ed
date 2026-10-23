@@ -8,6 +8,7 @@ import People from './pages/People';
 import PersonPage from './pages/PersonPage';
 import Rosters from './pages/Rosters';
 import Books, { BookPage } from './pages/Books';
+import { DeepStudyPage } from './pages/BookStudy';
 import Timeline from './pages/Timeline';
 import Maps from './pages/Maps';
 import Lens from './pages/Lens';
@@ -41,6 +42,7 @@ ReactDOM.createRoot(document.getElementById('root')!).render(
           <Route path="/rosters" element={<Rosters />} />
           <Route path="/books" element={<Books />} />
           <Route path="/books/:id" element={<BookPage />} />
+          <Route path="/books/:id/deep" element={<DeepStudyPage />} />
           <Route path="/timeline" element={<Timeline />} />
           <Route path="/maps" element={<Maps />} />
           <Route path="/lens" element={<Lens />} />

@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths,
+  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies,
 } from '../data';
 import { parseRef } from '../lib/refs';
 
@@ -51,6 +51,11 @@ function useSearchIndex() {
       ...bibleHistory.variants.map((v) => ({ kind: 'Disputed passage', title: v.title, sub: v.ref, to: '/bible-history' })),
       ...gods.map((g) => ({ kind: 'God', title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
       ...godsExtra.showdowns.map((s) => ({ kind: 'Showdown', title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
+      ...deepStudies.flatMap((d) => [{ kind: 'Deep study', title: d.title, sub: `${d.chapters.length} chapters, chapter by chapter`, to: `/books/${d.id}/deep` },
+        ...d.chapters.map((c) => ({ kind: 'Chapter study', title: `${books.find((b) => b.id === d.id)?.name ?? d.id} ${c.n}: ${c.title}`, sub: c.summary.slice(0, 80), to: `/books/${d.id}/deep?ch=${c.n}` }))]),
+      ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: 'Misreading', title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
+      { kind: 'Page', title: 'When the books were written', sub: 'Timeline of all 66 books', to: '/books?tab=when' },
+      { kind: 'Page', title: 'Where the books were written', sub: 'Map of authors and first readers', to: '/books?tab=where' },
       { kind: 'Page', title: 'The divine council', sub: 'Psalm 82, Deuteronomy 32:8, sons of God', to: '/gods?tab=council' },
       ...studyPaths.map((s) => ({ kind: 'Study path', title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to }))),

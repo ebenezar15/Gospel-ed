@@ -1,7 +1,7 @@
 /** Loads every /content/*.json file at build time and builds the cross-reference indexes the UI uses. */
 import type {
   PersonT, PlaceT, EraT, TimelineEventT, EmpireT, JourneyT, RelationshipT, RosterT, BookT, DebateT,
-  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
+  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
 const files = import.meta.glob('../content/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
@@ -44,6 +44,10 @@ export const gods: GodT[] = many<GodT>('gods-').filter((g: any) => g && g.id && 
 export const godById = new Map(gods.map((g) => [g.id, g]));
 export const godsExtra: GodsExtraT = get('gods-extra.json', { overview: { plain: '', keyPoints: [] }, showdowns: [], nameShifts: [], finds: [], purge: [], demonChain: [] });
 export const council: CouncilT | null = get('council.json', null);
+export const bookStudies: BookStudyT[] = [...many<BookStudyT>('study-ot-'), ...many<BookStudyT>('study-nt-')].filter((x) => x && x.id && x.mindmap);
+export const studyById = new Map(bookStudies.map((x) => [x.id, x]));
+export const deepStudies: DeepStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/deep-')).map((k) => files[k] as DeepStudyT).filter((x) => x && x.id);
+export const deepById = new Map(deepStudies.map((x) => [x.id, x]));
 export const guideById = new Map(guides.map((g) => [g.id, g]));
 /** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */
 export const plain: PlainLayerT = Object.assign({}, get<PlainLayerT>('plain-1.json', {}), get<PlainLayerT>('plain-2.json', {}));

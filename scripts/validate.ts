@@ -24,6 +24,7 @@ const people = new Set<string>(), places = new Set<string>(), eras = new Set<str
 for (const f of [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11].map((n) => `people-${n}.json`)) (load(f) ?? []).forEach((p: any) => people.add(p.id));
 (load('places.json') ?? []).forEach((p: any) => places.add(p.id));
 (load('eras.json') ?? []).forEach((e: any) => eras.add(e.id));
+const bookIds = new Set<string>([...(load('books-ot.json') ?? []), ...(load('books-nt.json') ?? [])].map((b: any) => b.id));
 const missing = { people: new Map<string, string[]>(), places: new Map<string, string[]>() };
 const note = (m: Map<string, string[]>, id: string, where: string) => { if (!m.has(id)) m.set(id, []); m.get(id)!.push(where); };
 
@@ -41,6 +42,7 @@ function walk(f: string, v: any, path: string) {
       if (places.size && k === 'placeId' && typeof x === 'string' && !places.has(x)) note(missing.places, x, `${f}${p}`);
       if (eras.size && (k === 'eraIds') && Array.isArray(x)) x.forEach((id: string) => !eras.has(id) && err(f, `unknown era "${id}" at ${p}`));
       if (eras.size && k === 'eraId' && typeof x === 'string' && !eras.has(x)) err(f, `unknown era "${x}" at ${p}`);
+      if (k === 'bookId' && typeof x === 'string' && bookIds.size && !bookIds.has(x)) err(f, `unknown book id "${x}" at ${p}`);
       walk(f, x, p);
     }
   }

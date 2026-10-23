@@ -276,6 +276,61 @@ export const Council = z.object({
 export type CouncilT = z.infer<typeof Council>;
 export type GodT = z.infer<typeof God>; export type GodsExtraT = z.infer<typeof GodsExtra>;
 
+/* ---------- book studies (round 5) ---------- */
+const Coords = z.tuple([z.number(), z.number()]); // [lon, lat]
+const Lens = z.object({ view: z.string(), text: z.string() });
+export const Misreading = z.object({
+  topic: z.string(),
+  popular: z.string(),          // the common popular / evangelical reading, stated fairly
+  inContext: z.string(),        // how it reads in its Jewish, covenantal, first-audience context
+  defence: z.string(),          // how traditional evangelical scholars respond (steelman)
+  whyItMatters: z.string(),
+  refs: z.array(Ref), scholars: z.array(z.string()), confidence: Confidence,
+});
+export const BookStudy = z.object({
+  id: z.string(),               // = book id in books-ot/books-nt
+  oneLine: z.string(),          // the book in one plain sentence
+  author: z.object({ name: z.string(), who: z.string(), howWeKnow: z.string(), otherWritings: z.array(z.string()), confidence: Confidence }),
+  writtenFrom: z.object({ place: z.string(), coords: Coords.optional(), note: z.string(), confidence: Confidence }),
+  writtenTo: z.object({ who: z.string(), place: z.string(), coords: Coords.optional(), situation: z.string(), confidence: Confidence }),
+  setIn: z.object({ from: z.number(), to: z.number(), note: z.string() }).optional(), // years the story covers (narrative books)
+  worldEvents: z.array(z.object({ year: z.number(), event: z.string() })), // what was happening around the writing
+  backdrop: z.string(),         // historical background, 2-4 paragraphs
+  culture: z.array(z.object({ term: z.string(), explain: z.string(), refs: z.array(Ref) })), // cultural keys to unlock the book
+  jewishLens: z.string(),       // how a first (Jewish / covenant) audience would hear it; relational covenant reading
+  flow: z.array(z.object({ label: z.string(), detail: z.string(), refs: z.array(Ref) })), // flowchart of the book's movement / argument, 4-8 steps
+  mindmap: z.object({ center: z.string(), branches: z.array(z.object({ label: z.string(), items: z.array(z.string()) })) }), // 4-6 branches, 2-5 items each
+  keyWords: z.array(z.object({ word: z.string(), original: z.string(), meaning: z.string(), refs: z.array(Ref) })),
+  connections: z.array(z.object({ bookId: z.string(), how: z.string(), refs: z.array(Ref) })), // links to other books (use book ids)
+  jesusLens: z.string(),        // how the book points toward / is read in light of Jesus (Jewish and Christian readings)
+  misreadings: z.array(Misreading), // 1-3 common misunderstandings
+  relevance: z.object({ then: z.string(), now: z.string() }),
+  sources: z.array(Source),
+});
+export const ChapterStudy = z.object({
+  n: z.number(), title: z.string(), summary: z.string(),
+  background: z.string(),       // history / what was going on behind this chapter
+  culture: z.string(),          // cultural perspective (Jewish, Greco-Roman, temple, honour-shame, patronage etc.)
+  jewishLens: z.string(),       // covenantal-relational reading
+  audience: z.string(),         // what the first hearers would have felt / understood
+  today: z.string(),            // relevance now
+  keyRefs: z.array(Ref), echoes: z.array(z.object({ ref: Ref, note: z.string() })), // OT echoes / allusions
+  misread: z.object({ popular: z.string(), better: z.string() }).optional(),
+});
+export const DeepStudy = z.object({
+  id: z.string(),               // book id: john | romans | galatians | ephesians | hebrews
+  title: z.string(), intro: z.string(),
+  lens: z.object({ summary: z.string(), principles: z.array(z.object({ name: z.string(), text: z.string(), refs: z.array(Ref) })) }), // the Jewish cultural & relational lens for this book
+  audienceMap: z.array(z.object({ group: z.string(), share: z.number(), concerns: z.string() })), // who was in the room, share 0-100 rough
+  argument: z.array(z.object({ id: z.string(), label: z.string(), chapters: z.string(), text: z.string(), next: z.array(z.string()) })), // argument flowchart nodes with edges by id
+  chapters: z.array(ChapterStudy),
+  misreadings: z.array(Misreading), // 5-10 major differentials
+  perspectives: z.array(z.object({ name: z.string(), who: z.string(), summary: z.string(), strengths: z.string(), critiques: z.string() })), // e.g. Reformed/Lutheran, New Perspective, Paul within Judaism, apocalyptic
+  keyTerms: z.array(z.object({ term: z.string(), original: z.string(), usual: z.string(), inContext: z.string(), refs: z.array(Ref) })),
+  sources: z.array(Source),
+});
+export type BookStudyT = z.infer<typeof BookStudy>; export type DeepStudyT = z.infer<typeof DeepStudy>; export type MisreadingT = z.infer<typeof Misreading>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
@@ -298,6 +353,8 @@ export const FILES = {
   'symbols-1.json': z.array(SymbolT_), 'symbols-2.json': z.array(SymbolT_),
   'guides-6.json': z.array(DeepDive), 'guides-7.json': z.array(DeepDive),
   'gods-1.json': z.array(God), 'gods-2.json': z.array(God), 'gods-extra.json': GodsExtra, 'council.json': Council, 'debates-6.json': z.array(Debate),
+  'study-ot-1.json': z.array(BookStudy), 'study-ot-2.json': z.array(BookStudy), 'study-ot-3.json': z.array(BookStudy), 'study-nt-1.json': z.array(BookStudy), 'study-nt-2.json': z.array(BookStudy),
+  'deep-john.json': DeepStudy, 'deep-romans.json': DeepStudy, 'deep-hebrews.json': DeepStudy, 'deep-galatians.json': DeepStudy, 'deep-ephesians.json': DeepStudy,
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),
