@@ -1216,5 +1216,1525 @@
         "year": 1995
       }
     ]
+  },
+  {
+    "id": "galatians",
+    "oneLine": "Paul angrily insists that Gentile believers are already full children of Abraham through the Messiah and the Spirit, so they must not be pressured into circumcision to belong to God's people.",
+    "author": {
+      "name": "Paul, 'and all the brothers with me'",
+      "who": "Paul, who had brought the gospel to the Galatians while ill (Gal 4:13-14). He tells his own story at length here: a zealous persecutor, called by God's revelation of his Son, independent of but in fellowship with the Jerusalem apostles.",
+      "howWeKnow": "Paul names himself, writes the closing lines in large letters with his own hand (Gal 6:11), and gives autobiographical details found nowhere else. Galatians is one of the undisputed letters and headed Marcion's collection in the 140s.",
+      "otherWritings": [
+        "Romans",
+        "1 Corinthians",
+        "2 Corinthians",
+        "Philippians",
+        "1 Thessalonians",
+        "Philemon"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Uncertain: Syrian Antioch, Ephesus or Macedonia",
+      "note": "The letter gives no location. South Galatian supporters often place it in Syrian Antioch around 48-49, before the Jerusalem council; North Galatian supporters place it in Ephesus or Macedonia in the mid-50s, close in time to Romans.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "'The churches of Galatia', mostly Gentile converts",
+      "place": "Roman province of Galatia (central Asia Minor)",
+      "coords": [
+        31.19,
+        38.31
+      ],
+      "situation": "Jewish-Christian teachers had arrived after Paul left, telling the Gentile believers that to be full members of Abraham's family they must be circumcised and keep the Law, including the calendar (Gal 4:10, Gal 5:2-4, Gal 6:12-13). Some converts were persuaded. Paul calls it 'a different gospel' (Gal 1:6) and fights for the converts' standing.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -278,
+        "event": "Celtic tribes (Galatai, 'Gauls') cross into Asia Minor and settle the central highlands around Ancyra, giving 'Galatia' its name."
+      },
+      {
+        "year": -25,
+        "event": "After King Amyntas dies, Augustus makes Galatia a Roman province, which stretches south to include Pisidian Antioch, Iconium, Lystra and Derbe."
+      },
+      {
+        "year": 47,
+        "event": "Approximate date of Paul and Barnabas's first journey through the southern cities of the province (Acts 13-14)."
+      },
+      {
+        "year": 49,
+        "event": "Approximate date of the Jerusalem council, which rules that Gentile believers need not be circumcised (Acts 15)."
+      },
+      {
+        "year": 55,
+        "event": "Alternative date for Galatians under the North Galatian view, during Paul's Ephesian ministry."
+      }
+    ],
+    "backdrop": "Who were 'the Galatians'? The name originally meant the Celtic tribes who settled in north-central Asia Minor around 278 BC. But from 25 BC 'Galatia' was also the name of a large Roman province that included cities further south, such as Pisidian Antioch, Iconium, Lystra and Derbe, which Paul and Barnabas evangelised on the first journey (Acts 13-14). The North Galatian theory, the older majority view and still favoured by many German and some English scholars (J. B. Lightfoot, J. Louis Martyn), holds that Paul wrote to ethnic Galatians in the north, perhaps visited on the journeys of Acts 16:6 and Acts 18:23, and that the letter dates from the mid-50s. The South Galatian theory, argued powerfully by William Ramsay and held by many English-speaking evangelical scholars (F. F. Bruce, Richard Longenecker, Craig Keener), holds that Paul wrote to the southern churches, perhaps as early as 48-49. The question is genuinely open.\n\nThe date matters because of how Galatians relates to Acts 15. If Galatians was written before the Jerusalem council, it would be Paul's earliest letter, and his silence about the council's ruling would be natural; the Jerusalem visit of Galatians 2:1-10 would then be the famine-relief visit of Acts 11:30. If it was written after, Galatians 2 probably describes the council itself from Paul's angle.\n\nEither way, the issue is clear. Gentiles who turned from idols to Israel's God through Jesus were in an odd position: they were neither pagans nor Jews. Pagan neighbours saw them abandon the city's gods, which was dangerous; Jewish neighbours saw uncircumcised men claiming to belong to Abraham's God. Circumcision would regularise their position, making them proselytes, legally recognisable members of a Jewish community and safer from persecution (Gal 6:12). The teachers probably argued from Genesis 17, where God commands circumcision for Abraham's household as an everlasting covenant. Paul replies from Genesis 15, where Abraham trusted God and was counted righteous before he was circumcised, and from the Galatians' own experience of receiving the Spirit without the Law (Gal 3:2-5).",
+    "culture": [
+      {
+        "term": "Circumcision as covenant sign and social identity",
+        "explain": "For Jews circumcision was the sign of God's covenant with Abraham, commanded in Genesis 17. For Gentile men it was a painful adult operation that publicly made them Jews. It was the decisive boundary marker between Israel and the nations.",
+        "refs": [
+          "Gen 17:9-14",
+          "Gal 5:2-3",
+          "Gal 6:12-13"
+        ]
+      },
+      {
+        "term": "Table fellowship at Antioch",
+        "explain": "Many Jews avoided eating with Gentiles because of food laws and fear of idolatry. In Antioch Peter ate with Gentile believers until people from James arrived, then withdrew. Paul saw this as splitting the one family of God at the meal table, the most visible sign of belonging.",
+        "refs": [
+          "Gal 2:11-14"
+        ]
+      },
+      {
+        "term": "Guardian (paidagōgos)",
+        "explain": "A household slave who escorted a boy to school and supervised his behaviour until he came of age. Paul says the Law was Israel's paidagōgos until Christ came: a protective, temporary guardian, not an enemy.",
+        "refs": [
+          "Gal 3:23-25"
+        ]
+      },
+      {
+        "term": "Heirs and inheritance",
+        "explain": "Under Roman and Greek law an heir who was still a minor had no more freedom than a slave until the date set by his father. Paul uses this to say that both Jews and Gentiles have now come of age as God's sons, with the Spirit crying 'Abba'.",
+        "refs": [
+          "Gal 4:1-7"
+        ]
+      },
+      {
+        "term": "Honour, curse and the evil eye",
+        "explain": "'Who has bewitched you?' (Gal 3:1) uses the language of the evil eye, a widely feared form of envious magic. Paul's curse formula (Gal 1:8-9) and his line about the Galatians once willing to tear out their eyes for him (Gal 4:15) work within this honour-and-curse world.",
+        "refs": [
+          "Gal 1:8-9",
+          "Gal 3:1",
+          "Gal 4:13-15"
+        ]
+      },
+      {
+        "term": "Writing in his own hand",
+        "explain": "Letters were usually dictated to a scribe; the sender might add a closing in his own writing as a signature and guarantee. Paul's 'large letters' underline the seriousness of his final appeal.",
+        "refs": [
+          "Gal 6:11"
+        ]
+      }
+    ],
+    "jewishLens": "Galatians is often read as Paul against Judaism. Read in its setting, it is an argument between Jewish believers in Jesus about how Gentiles share Israel's blessings. Paul does not say Jews must stop being Jews; he himself says 'we ourselves are Jews by birth' (Gal 2:15). He is arguing that Gentiles must not become Jews in order to be counted members of Abraham's family, because God promised Abraham that all nations would be blessed in him (Gen 12:3, Gal 3:8). If Gentiles had to be circumcised, the promise would only ever produce one nation, not the blessing of many.\n\nThe New Perspective on Paul (James Dunn, N. T. Wright) reads 'works of the law' here as the practices that marked Jews out from Gentiles, especially circumcision, food laws and calendar. Paul's opposition is to making those badges the test of membership. The 'Paul within Judaism' scholars (Mark Nanos, Matthew Thiessen, Paula Fredriksen) argue that Paul assumed Jewish believers would keep Torah, and that his objection was specifically to Gentiles being circumcised, which Thiessen argues many Jews themselves thought could not make a Gentile a true descendant of Abraham. Traditional Reformed and Lutheran readers (Thomas Schreiner, Stephen Westerholm, Douglas Moo) accept that boundary markers are in view but argue that Paul's logic goes deeper: no human doing of the Law, of any kind, can make anyone right with God, since the Law pronounces a curse on all who fail to keep it (Gal 3:10).\n\nPaul's key texts are all Jewish Scripture: Abraham's faith (Gen 15:6), the curse of Deuteronomy, Habakkuk's 'the righteous shall live by faith' (Hab 2:4), Isaiah's barren woman who rejoices (Isa 54:1). Even the most controversial passage, the allegory of Hagar and Sarah (Gal 4:21-31), is a Jewish-style midrash. It does not say Jews are Hagar's children; it contrasts two ways of belonging: through human effort to secure status (Hagar and Ishmael born 'by the flesh') or through God's promise and the Spirit. Reading it as Judaism versus Christianity misses that Paul addresses Gentiles being tempted to seek status by circumcision.",
+    "flow": [
+      {
+        "label": "No other gospel",
+        "detail": "Paul skips his usual thanksgiving and curses any message that adds conditions to the gospel of grace.",
+        "refs": [
+          "Gal 1:1-10"
+        ]
+      },
+      {
+        "label": "Paul's call and independence",
+        "detail": "His gospel came by revelation, not from Jerusalem, yet the pillars recognised it and shook hands.",
+        "refs": [
+          "Gal 1:11-2:10"
+        ]
+      },
+      {
+        "label": "Confrontation at Antioch",
+        "detail": "Peter's withdrawal from Gentile tables denies that both are justified by faith in Christ, and Paul opposes him to his face.",
+        "refs": [
+          "Gal 2:11-21"
+        ]
+      },
+      {
+        "label": "Abraham's family by faith",
+        "detail": "The Spirit came by hearing with faith; Abraham was counted righteous by trust, and in Christ the blessing reaches the nations.",
+        "refs": [
+          "Gal 3:1-14"
+        ]
+      },
+      {
+        "label": "Law as temporary guardian",
+        "detail": "The Law came 430 years after the promise and guarded Israel until Christ; now all are one in him, heirs by promise.",
+        "refs": [
+          "Gal 3:15-4:7"
+        ]
+      },
+      {
+        "label": "Plea and allegory",
+        "detail": "A personal appeal, then Hagar and Sarah: children of the promise must not return to slavery.",
+        "refs": [
+          "Gal 4:8-31"
+        ]
+      },
+      {
+        "label": "Freedom by the Spirit",
+        "detail": "Stand firm in freedom, serve each other in love, walk by the Spirit and bear one another's burdens.",
+        "refs": [
+          "Gal 5:1-6:10"
+        ]
+      },
+      {
+        "label": "New creation in his own hand",
+        "detail": "Circumcision is not the issue; new creation is. Peace on the Israel of God.",
+        "refs": [
+          "Gal 6:11-18"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "One family of Abraham by faith and Spirit",
+      "branches": [
+        {
+          "label": "Paul's gospel",
+          "items": [
+            "Revealed, not invented",
+            "Recognised by the pillars",
+            "Peter confronted at Antioch"
+          ]
+        },
+        {
+          "label": "Abraham",
+          "items": [
+            "Believed and counted righteous",
+            "Blessing for all nations",
+            "One seed, the Messiah"
+          ]
+        },
+        {
+          "label": "The Law",
+          "items": [
+            "Came 430 years later",
+            "Guardian until Christ",
+            "Not against the promises"
+          ]
+        },
+        {
+          "label": "Identity",
+          "items": [
+            "Neither Jew nor Greek",
+            "Sons and heirs",
+            "Abba, Father"
+          ]
+        },
+        {
+          "label": "Freedom and Spirit",
+          "items": [
+            "Do not return to slavery",
+            "Faith working through love",
+            "Fruit of the Spirit",
+            "Bear one another's burdens"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "works of the law",
+        "original": "erga nomou",
+        "meaning": "Doing what the Torah requires. Traditional readers take it as obeying the Law to earn standing with God; New Perspective readers stress the identity markers of circumcision, food and Sabbath that separated Jews and Gentiles. Both readings see Paul denying that these justify.",
+        "refs": [
+          "Gal 2:16",
+          "Gal 3:2",
+          "Gal 3:10"
+        ]
+      },
+      {
+        "word": "faith / faithfulness",
+        "original": "pistis",
+        "meaning": "Trust and loyalty. The phrase pistis Christou (Gal 2:16, Gal 2:20) may mean 'faith in Christ' or 'the faithfulness of Christ', a long-running debate (Richard Hays for the latter, James Dunn and Moo for the former).",
+        "refs": [
+          "Gal 2:16",
+          "Gal 2:20",
+          "Gal 3:23-26"
+        ]
+      },
+      {
+        "word": "justify",
+        "original": "dikaioō",
+        "meaning": "To declare in the right. In Galatians the question is who counts as a member of God's righteous people and on what basis, which includes standing before God's judgement.",
+        "refs": [
+          "Gal 2:16",
+          "Gal 3:8",
+          "Gal 3:24"
+        ]
+      },
+      {
+        "word": "promise",
+        "original": "epangelia",
+        "meaning": "God's commitment to Abraham, which Paul says the later Law cannot annul. The promised blessing is identified with the Spirit.",
+        "refs": [
+          "Gal 3:14",
+          "Gal 3:17-18",
+          "Gal 3:29"
+        ]
+      },
+      {
+        "word": "flesh",
+        "original": "sarx",
+        "meaning": "Not simply the body but human life apart from God's Spirit, including religious self-reliance ('make a good showing in the flesh') and selfish desires.",
+        "refs": [
+          "Gal 3:3",
+          "Gal 5:16-21",
+          "Gal 6:12"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "Paul's whole argument hangs on Abraham: the promise to bless the nations, faith counted as righteousness, and the stories of Hagar and Sarah.",
+        "refs": [
+          "Gen 12:3",
+          "Gen 15:6",
+          "Gen 21:9-10"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Acts 15 records the Jerusalem council on the same issue; how Galatians 2 fits Acts 11 and 15 is central to the dating debate.",
+        "refs": [
+          "Acts 15:1-21",
+          "Gal 2:1-10"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Romans develops the same themes with less heat and adds Israel's future (Rom 9-11).",
+        "refs": [
+          "Rom 4:1-25",
+          "Gal 3:6-9"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Paul cites Deuteronomy's curse on all who do not keep the whole Law, and the curse on one hanged on a tree, which Christ bore.",
+        "refs": [
+          "Deut 27:26",
+          "Deut 21:23",
+          "Gal 3:10-13"
+        ]
+      },
+      {
+        "bookId": "habakkuk",
+        "how": "'The righteous will live by faith' is quoted against reliance on the Law.",
+        "refs": [
+          "Hab 2:4",
+          "Gal 3:11"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James insists faith without works is dead; many see him correcting a misuse of Paul, not Paul himself.",
+        "refs": [
+          "Jas 2:21-24",
+          "Gal 5:6"
+        ]
+      }
+    ],
+    "jesusLens": "Christ is the one who 'gave himself for our sins to deliver us from the present evil age' (Gal 1:4). He 'redeemed us from the curse of the law by becoming a curse for us' (Gal 3:13), the single 'seed' of Abraham in whom the promise is fulfilled (Gal 3:16), and the Son sent 'born of a woman, born under the law' (Gal 4:4). Paul's most personal confession is here: 'I have been crucified with Christ... the Son of God, who loved me and gave himself for me' (Gal 2:20). Christian tradition has used Galatians to defend salvation by grace through faith; Jewish readers note that Paul's claim is not that Israel's God has changed but that, in the Messiah, God has begun the promised blessing of the nations.",
+    "misreadings": [
+      {
+        "topic": "'Works of the law' as good deeds or moral effort in general",
+        "popular": "When Paul says no one is justified by 'works of the law' (Gal 2:16), he means trying to earn salvation by being good: going to church, giving, doing good deeds. The Judaizers taught salvation by human effort, like any religion of works.",
+        "inContext": "James Dunn and N. T. Wright argue that the phrase refers first to the Torah's specific requirements, and in Galatians especially to those that separated Jews from Gentiles: circumcision, food laws and holy days, which are exactly what is at stake in Gal 2:3, Gal 2:12 and Gal 4:10. E. P. Sanders showed that Judaism did not generally teach that one earns entry into God's favour by merit; one was in the covenant by God's grace and kept the Law as a response. So the Galatian dispute was about who belongs to Abraham's family and on what terms, not about whether moral effort can buy heaven.",
+        "defence": "Stephen Westerholm, Simon Gathercole, Douglas Moo and Thomas Schreiner reply that 'works of the law' does mean the whole Law, not only badges (Gal 3:10 speaks of 'all things written in the book of the law'), and that Paul's logic generalises: if the God-given Torah cannot justify, no human performance can. Gathercole shows that some Jewish texts did expect final vindication partly on the basis of obedience. Most scholars now agree that the popular picture of Jews as self-righteous merit-earners is a caricature, while disagreeing about how far Paul's principle extends to all human works. Ephesians 2:8-9 and Titus 3:5, which speak of 'works' generally, are often cited by the traditional side.",
+        "whyItMatters": "The traditional reading guards grace against moralism. The New Perspective reading guards against turning religion into ethnic or cultural badges that exclude others, and corrects an unfair picture of Judaism. Both concerns are real.",
+        "refs": [
+          "Gal 2:11-16",
+          "Gal 3:10",
+          "Gal 4:10",
+          "Gal 5:2-6"
+        ],
+        "scholars": [
+          "E. P. Sanders",
+          "James Dunn",
+          "N. T. Wright",
+          "John Barclay",
+          "Stephen Westerholm",
+          "Simon Gathercole",
+          "Douglas Moo",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Galatians 3:28 as either only spiritual or as abolishing all differences",
+        "popular": "Two popular readings collide. One says 'neither Jew nor Greek, slave nor free, male and female' is only about equal access to salvation and has no social implications. The other says it abolishes all distinctions, so ethnicity and gender no longer matter at all.",
+        "inContext": "In context the verse is about the baptised being 'one' family and heirs of Abraham (Gal 3:26-29), and it immediately had social effects: Jews and Gentiles eating together (Gal 2:11-14). Paul still speaks of Jews and Gentiles, men and women, so the distinctions remain but no longer rank people before God or divide the table. Scholars such as Richard Longenecker and Craig Keener see it as a programme that the church gradually worked out.",
+        "defence": "Complementarian scholars agree the verse has social implications (it rules out ethnic or class favouritism) but argue that it addresses who inherits, not what roles men and women have in church leadership. Egalitarian scholars argue its logic does extend to roles. Both agree it is more than a private spiritual equality.",
+        "whyItMatters": "The verse was central to debates over slavery, racial segregation in churches and women's ministry; reading it in context keeps it from being either emptied or stretched beyond Paul's point.",
+        "refs": [
+          "Gal 3:26-29",
+          "Gal 2:11-14",
+          "1 Cor 12:13"
+        ],
+        "scholars": [
+          "Richard Longenecker",
+          "Craig Keener",
+          "Ronald Fung",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Gentile converts in Galatia, under social pressure and confused by persuasive teachers, were told that they already fully belonged to God's family through Christ and the Spirit, and that the Spirit's fruit, not circumcision, marked them out.",
+      "now": "Galatians shaped Luther and the Reformation's 'by faith alone'. Today it also speaks to churches that make cultural customs, political loyalties or denominational markers into tests of who truly belongs, and to believers who feel they must earn God's acceptance."
+    },
+    "sources": [
+      {
+        "author": "J. Louis Martyn",
+        "title": "Galatians (Anchor Bible 33A)",
+        "year": 1997
+      },
+      {
+        "author": "Craig S. Keener",
+        "title": "Galatians: A Commentary",
+        "year": 2019
+      },
+      {
+        "author": "Richard N. Longenecker",
+        "title": "Galatians (Word Biblical Commentary 41)",
+        "year": 1990
+      },
+      {
+        "author": "Matthew Thiessen",
+        "title": "Paul and the Gentile Problem",
+        "year": 2016
+      },
+      {
+        "author": "Stephen Westerholm",
+        "title": "Perspectives Old and New on Paul",
+        "year": 2004
+      }
+    ]
+  },
+  {
+    "id": "ephesians",
+    "oneLine": "Ephesians celebrates God's plan to unite everything in Christ, starting with a new people in which Jews and Gentiles are reconciled, and calls that people to live it out in unity, holiness and households shaped by Christ.",
+    "author": {
+      "name": "Paul (authorship disputed)",
+      "who": "Presented as Paul writing as 'a prisoner for the Lord' (Eph 4:1), sending Tychicus with news (Eph 6:21-22). If not by Paul, it was written by a close disciple who knew Colossians well and wanted to sum up Paul's teaching for a new generation.",
+      "howWeKnow": "The letter claims Paul (Eph 1:1, Eph 3:1) and was accepted as his from the second century. Doubts arise from its long liturgical sentences (Eph 1:3-14 is one sentence in Greek), vocabulary, the stress on the universal church and on salvation as already accomplished, and its heavy overlap with Colossians. Scholars such as Andrew Lincoln and Margaret MacDonald think it is post-Pauline; Harold Hoehner, Clinton Arnold and Peter O'Brien defend Paul. Opinion is divided, perhaps roughly evenly among all scholars.",
+      "otherWritings": [
+        "Colossians",
+        "Philemon",
+        "Philippians",
+        "Romans"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Prison, traditionally Rome",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "The writer is in chains (Eph 6:20). Tradition places this in Paul's Roman house arrest (Acts 28:30-31); some propose Caesarea or Ephesus. If the letter is post-Pauline, the prison setting is part of its presentation of Paul.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Gentile believers in the province of Asia, probably several churches",
+      "place": "Ephesus and surrounding cities of Asia",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "The words 'in Ephesus' (Eph 1:1) are missing from the earliest manuscripts (Papyrus 46, Codex Sinaiticus, Codex Vaticanus), and the letter contains no personal greetings, odd for a church where Paul spent nearly three years. Many think it was a circular letter for several churches. The readers are Gentiles ('you who were once far off', Eph 2:13) who needed to know their place in God's people and how to live in a city full of magic and powers.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 52,
+        "event": "Approximate start of Paul's long ministry in Ephesus, teaching in the lecture hall of Tyrannus (Acts 19:9-10)."
+      },
+      {
+        "year": 55,
+        "event": "Ephesian believers burn magic books worth 50,000 silver coins; the silversmiths riot in the theatre (Acts 19:19-41)."
+      },
+      {
+        "year": 60,
+        "event": "Paul arrives in Rome under guard and lives two years under house arrest (Acts 28:16, Acts 28:30)."
+      },
+      {
+        "year": 62,
+        "event": "James the brother of Jesus is executed in Jerusalem (Josephus, Antiquities 20.9.1)."
+      },
+      {
+        "year": 70,
+        "event": "The Jerusalem temple is destroyed; if Ephesians is post-Pauline, its image of the church as a holy temple (Eph 2:21) would read differently after this."
+      }
+    ],
+    "backdrop": "Ephesus was the leading city of the Roman province of Asia, a port of perhaps 200,000 people, with a theatre seating about 25,000 and the great temple of Artemis, one of the seven wonders of the ancient world. The city was famous for magic; 'Ephesian letters' were written charms, and Acts describes converts burning their magic scrolls (Acts 19:19). Its large Jewish community had protected rights. Paul spent between two and three years here (Acts 19:8-10, Acts 20:31), and the gospel spread through the region, to Colossae, Laodicea and Hierapolis.\n\nIf the letter was circular, it was written for Gentile believers across this region, people who had been 'without God in the world' (Eph 2:12) and had lived in fear of spiritual 'principalities and powers'. Ephesians answers that fear by showing Christ seated far above every power (Eph 1:20-22) and the church seated with him (Eph 2:6). Clinton Arnold's research on magic and power in Asia Minor shows how strongly this would have spoken to former users of charms and astrology.\n\nEphesians also addresses a social problem: how could Jews and Gentiles form one community when the temple in Jerusalem had a stone barrier forbidding Gentiles to go further on pain of death? Two inscriptions from that barrier have been found. Ephesians says that Christ 'has broken down the dividing wall of hostility' (Eph 2:14). Acts tells that Paul was arrested in Jerusalem after being accused of bringing Trophimus the Ephesian past that barrier (Acts 21:28-29), which gives the image a personal edge if Paul wrote it.",
+    "culture": [
+      {
+        "term": "The temple's dividing wall",
+        "explain": "A low stone balustrade in the Jerusalem temple courts carried warnings in Greek and Latin that any foreigner going beyond it would be responsible for his own death. Ephesians uses this as a picture of the hostility between Jew and Gentile that Christ abolished.",
+        "refs": [
+          "Eph 2:11-16",
+          "Acts 21:28-29"
+        ]
+      },
+      {
+        "term": "Powers and magic",
+        "explain": "People in Asia believed in many spiritual powers (rulers, authorities, cosmic forces) that could be manipulated by magic or astrology. Ephesians names these powers repeatedly and places them under Christ.",
+        "refs": [
+          "Eph 1:20-23",
+          "Eph 3:10",
+          "Eph 6:12"
+        ]
+      },
+      {
+        "term": "Household codes",
+        "explain": "Greek moral writers from Aristotle onwards taught 'household management' in three pairs: husbands and wives, fathers and children, masters and slaves, always addressing the male head. Ephesians follows this form but speaks directly to wives, children and slaves as moral agents, and frames everything with mutual submission and Christ's self-giving love.",
+        "refs": [
+          "Eph 5:21-33",
+          "Eph 6:1-9"
+        ]
+      },
+      {
+        "term": "Citizenship and household of God",
+        "explain": "Cities granted citizenship as a high honour; resident foreigners lived without full rights. Gentiles in Christ are no longer 'strangers and aliens' but fellow citizens with God's holy people and members of his household.",
+        "refs": [
+          "Eph 2:12",
+          "Eph 2:19-22"
+        ]
+      },
+      {
+        "term": "Roman armour",
+        "explain": "Readers saw Roman soldiers every day. But the armour of God draws mostly on Isaiah, where God himself puts on righteousness as a breastplate and salvation as a helmet, so believers wear God's own armour.",
+        "refs": [
+          "Eph 6:10-17",
+          "Isa 59:17",
+          "Isa 11:5"
+        ]
+      }
+    ],
+    "jewishLens": "Ephesians is written to Gentiles, but its world is Jewish. It opens with a long berakah, a Jewish blessing formula ('Blessed be the God and Father...'), like synagogue prayers that bless God for his deeds (Eph 1:3-14). The themes are Israel's: election, redemption, inheritance, God's people as 'his possession', the sealing of the Spirit as the down payment of the promised inheritance.\n\nThe centre is Ephesians 2:11-22. Gentiles were once 'alienated from the commonwealth of Israel and strangers to the covenants of promise' (Eph 2:12). In Christ they have been 'brought near', language Isaiah uses for peace to the far and the near (Isa 57:19). They are not added to a new, non-Jewish religion; they are made fellow citizens with the holy ones and built into a single temple with the apostles and prophets as its foundation. The phrase 'one new man' (Eph 2:15) has sometimes been read as replacing Israel with a Gentile church. Scholars sensitive to Jewish identity (Markus Barth, Lynn Cohick) argue instead that Jews remain Jews and Gentiles remain Gentiles, reconciled in one body without either being erased.\n\nThe statement that Christ 'abolished the law of commandments in ordinances' (Eph 2:15) is also debated. Traditional readers see the ceremonial Law as fulfilled and set aside. New Perspective readers stress that what is abolished is the Law's function of dividing people, and 'Paul within Judaism' readers note that the letter is addressed to Gentiles and says nothing about Jews giving up Torah. The 'mystery' revealed to Paul (Eph 3:6) is not that God loves Gentiles, which the prophets already said, but that Gentiles share fully and equally in Israel's inheritance through the Messiah.",
+    "flow": [
+      {
+        "label": "Every blessing in Christ",
+        "detail": "A great Jewish-style blessing for election, redemption and the Spirit's seal, aiming to unite all things in Christ.",
+        "refs": [
+          "Eph 1:1-14"
+        ]
+      },
+      {
+        "label": "Christ above all powers",
+        "detail": "Paul prays they will grasp the power that raised Christ and seated him over every authority, as head of the church.",
+        "refs": [
+          "Eph 1:15-23"
+        ]
+      },
+      {
+        "label": "Saved by grace",
+        "detail": "Dead in sins and under the powers, believers have been made alive and seated with Christ, by grace through faith, for good works.",
+        "refs": [
+          "Eph 2:1-10"
+        ]
+      },
+      {
+        "label": "Wall broken down",
+        "detail": "Gentiles once far off are now fellow citizens with Israel's holy ones, built into one temple.",
+        "refs": [
+          "Eph 2:11-22"
+        ]
+      },
+      {
+        "label": "The mystery and prayer",
+        "detail": "Paul's mission reveals the mystery of the Gentiles as co-heirs; he prays they know Christ's love beyond knowledge.",
+        "refs": [
+          "Eph 3:1-21"
+        ]
+      },
+      {
+        "label": "Walk worthy in unity",
+        "detail": "One body, one Spirit; Christ's gifts equip the church to grow up together into maturity.",
+        "refs": [
+          "Eph 4:1-16"
+        ]
+      },
+      {
+        "label": "New life and households",
+        "detail": "Put off the old self, walk in love and light, and let mutual submission shape marriage, parenting and work.",
+        "refs": [
+          "Eph 4:17-6:9"
+        ]
+      },
+      {
+        "label": "Stand in God's armour",
+        "detail": "The struggle is against spiritual powers; stand firm in God's own armour and pray.",
+        "refs": [
+          "Eph 6:10-24"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "All things united in Christ",
+      "branches": [
+        {
+          "label": "Blessings",
+          "items": [
+            "Chosen before creation",
+            "Redeemed through his blood",
+            "Sealed with the Spirit"
+          ]
+        },
+        {
+          "label": "Grace",
+          "items": [
+            "Dead, made alive",
+            "Seated with Christ",
+            "Created for good works"
+          ]
+        },
+        {
+          "label": "One new humanity",
+          "items": [
+            "Far off brought near",
+            "Dividing wall broken",
+            "One holy temple",
+            "Gentiles co-heirs"
+          ]
+        },
+        {
+          "label": "Church life",
+          "items": [
+            "Unity of the Spirit",
+            "Gifts that equip",
+            "Speaking truth in love"
+          ]
+        },
+        {
+          "label": "Household",
+          "items": [
+            "Submit to one another",
+            "Love as Christ loved",
+            "Masters and slaves accountable"
+          ]
+        },
+        {
+          "label": "Spiritual warfare",
+          "items": [
+            "Powers defeated",
+            "Armour of God",
+            "Prayer in the Spirit"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "church",
+        "original": "ekklēsia",
+        "meaning": "In Ephesians the word usually means the whole worldwide church, Christ's body and bride, rather than one local gathering.",
+        "refs": [
+          "Eph 1:22-23",
+          "Eph 3:10",
+          "Eph 5:25-27"
+        ]
+      },
+      {
+        "word": "grace",
+        "original": "charis",
+        "meaning": "God's unearned gift that raises the dead; it also gives each believer a share in ministry.",
+        "refs": [
+          "Eph 2:5-8",
+          "Eph 4:7"
+        ]
+      },
+      {
+        "word": "mystery",
+        "original": "mystērion",
+        "meaning": "Not a puzzle but a hidden purpose of God now revealed, especially that Gentiles share Israel's inheritance in Christ.",
+        "refs": [
+          "Eph 1:9-10",
+          "Eph 3:3-6",
+          "Eph 5:32"
+        ]
+      },
+      {
+        "word": "body",
+        "original": "sōma",
+        "meaning": "The church as the body of which Christ is head, growing together as each part works.",
+        "refs": [
+          "Eph 1:23",
+          "Eph 4:4",
+          "Eph 4:15-16"
+        ]
+      },
+      {
+        "word": "to sum up / unite",
+        "original": "anakephalaiōsasthai",
+        "meaning": "To gather everything under one head, as in summing up an argument. God's plan is to unite all things in heaven and earth in Christ.",
+        "refs": [
+          "Eph 1:10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "colossians",
+        "how": "About a third of Ephesians' content has close parallels in Colossians, including the household code and the sending of Tychicus.",
+        "refs": [
+          "Col 3:18-4:1",
+          "Eph 5:21-6:9",
+          "Col 4:7-8",
+          "Eph 6:21-22"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Peace to the far and near, and the armour God himself wears, both come from Isaiah.",
+        "refs": [
+          "Isa 57:19",
+          "Eph 2:17",
+          "Isa 59:17",
+          "Eph 6:14-17"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Christ's ascent and giving of gifts is read through Psalm 68, and his rule through Psalm 110.",
+        "refs": [
+          "Ps 68:18",
+          "Eph 4:8",
+          "Ps 110:1",
+          "Eph 1:20"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Acts tells of Paul's long ministry in Ephesus and his farewell to the Ephesian elders.",
+        "refs": [
+          "Acts 19:1-20",
+          "Acts 20:17-38"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The 'one flesh' of marriage is applied to Christ and the church.",
+        "refs": [
+          "Gen 2:24",
+          "Eph 5:31-32"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "The risen Christ's later letter to Ephesus praises the church's doctrinal vigilance but says it has lost its first love.",
+        "refs": [
+          "Rev 2:1-7"
+        ]
+      }
+    ],
+    "jesusLens": "Ephesians presents Christ as the one in whom God's whole plan for the universe comes together (Eph 1:10). He is the risen Lord seated at God's right hand above every power (Eph 1:20-21), the cornerstone of a new temple (Eph 2:20), 'our peace' who made Jew and Gentile one (Eph 2:14), the giver of gifts after his ascension (Eph 4:8-11) and the bridegroom who gave himself for his bride (Eph 5:25). Christian tradition draws on Ephesians for its doctrines of grace (Eph 2:8-9) and of the church. Jewish readers notice that Gentiles are said to be joined to the 'commonwealth of Israel', which suggests that, for this writer, the Messiah gathers the nations into Israel's hope rather than leaving Israel behind.",
+    "misreadings": [
+      {
+        "topic": "Ephesians 2:8-10 read without 2:11-22",
+        "popular": "Ephesians 2 is about how an individual is saved: by grace through faith, not by works. Verses 8-9 are the key; what follows about Jews and Gentiles is a secondary application.",
+        "inContext": "Verses 1-10 and 11-22 are one argument. The same grace that raises individuals from death also creates one new people out of hostile groups. Markus Barth, N. T. Wright and Lynn Cohick stress that for the original readers being 'saved' meant being brought out of their old alienation into God's family with Israel. Salvation has a vertical and a horizontal dimension.",
+        "defence": "Evangelical scholars such as Harold Hoehner, Peter O'Brien and Clinton Arnold agree that 2:11-22 is essential and that grace creates a community. They also defend the classic point that 2:8-9 speaks of 'works' generally, not just Jewish boundary markers, since it addresses Gentiles who never had the Law; this is often cited against reducing Paul's teaching to ethnic badges. Both sides agree the passage holds personal grace and reconciled community together.",
+        "whyItMatters": "If grace is only personal, a church can be saved yet segregated. Ephesians makes reconciliation across ethnic and cultural hostility part of what salvation is.",
+        "refs": [
+          "Eph 2:8-10",
+          "Eph 2:11-16",
+          "Eph 2:19-22"
+        ],
+        "scholars": [
+          "Markus Barth",
+          "N. T. Wright",
+          "Lynn Cohick",
+          "Harold Hoehner",
+          "Peter O'Brien",
+          "Clinton Arnold"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'Wives, submit' (Eph 5:22) read apart from 5:21 and the household code form",
+        "popular": "Ephesians 5:22-24 sets out the husband's authority and the wife's duty to obey him in everything; this is God's order for marriage.",
+        "inContext": "In Greek verse 22 has no verb; it borrows 'submitting' from verse 21: 'submitting to one another out of reverence for Christ, wives to your husbands'. The household code was a familiar Greco-Roman form that assumed male rule. Ephesians changes it by addressing wives, children and slaves directly, by putting far longer demands on husbands (to love as Christ gave himself up to death) and by calling masters to remember that they have the same Master in heaven (Eph 6:9). Scholars like Lynn Cohick and Craig Keener see this as subverting the code from inside while working within it.",
+        "defence": "Complementarian scholars (Peter O'Brien, Clinton Arnold, Wayne Grudem) agree that 5:21 governs the passage and that husbands' headship means sacrificial service, not domination. They argue, however, that 'submit' still describes a particular role of wives that is grounded in Christ and the church rather than merely in culture, while slavery is not grounded in creation. Egalitarians reply that the parallel with slavery shows the code is cultural. It is a real scholarly disagreement; both sides reject abusive readings.",
+        "whyItMatters": "This passage has been used both to protect and to harm women. Reading it with 5:21 and the husband's cross-shaped duty rules out domination on every reading. See /debates/gender-roles.",
+        "refs": [
+          "Eph 5:21-33",
+          "Eph 6:5-9"
+        ],
+        "scholars": [
+          "Lynn Cohick",
+          "Craig Keener",
+          "Peter O'Brien",
+          "Clinton Arnold",
+          "Wayne Grudem"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Gentiles who had lived in fear of hostile powers and outside Israel's promises learned that they were seated with Christ above those powers and belonged as full citizens in God's household alongside Jewish believers.",
+      "now": "Ephesians speaks to Christians who feel spiritually insecure, to churches fractured by ethnic, racial or class hostility, and to households that need a model of love stronger than mere hierarchy. Its picture of the church as a sign to the powers of God's wisdom (Eph 3:10) gives ordinary congregations a cosmic dignity."
+    },
+    "sources": [
+      {
+        "author": "Andrew T. Lincoln",
+        "title": "Ephesians (Word Biblical Commentary 42)",
+        "year": 1990
+      },
+      {
+        "author": "Harold W. Hoehner",
+        "title": "Ephesians: An Exegetical Commentary",
+        "year": 2002
+      },
+      {
+        "author": "Clinton E. Arnold",
+        "title": "Ephesians: Power and Magic",
+        "year": 1989
+      },
+      {
+        "author": "Lynn H. Cohick",
+        "title": "The Letter to the Ephesians (NICNT)",
+        "year": 2020
+      },
+      {
+        "author": "Markus Barth",
+        "title": "Ephesians (Anchor Bible 34-34A)",
+        "year": 1974
+      }
+    ]
+  },
+  {
+    "id": "philippians",
+    "oneLine": "From prison, Paul thanks his most loyal partners and urges citizens of a proud Roman colony to live as citizens of heaven, following a Messiah who gave up status instead of grasping it.",
+    "author": {
+      "name": "Paul, with Timothy",
+      "who": "Paul, who founded the church at Philippi with Silas and Timothy around 49-50 (Acts 16), and who received regular financial support from it.",
+      "howWeKnow": "Undisputed. The letter's warmth, personal references to Epaphroditus, Euodia and Syntyche, and its partnership language fit Paul's known relationship with the church, and Polycarp, writing to the Philippians in the early second century, mentions Paul's letters to them.",
+      "otherWritings": [
+        "Romans",
+        "1 Corinthians",
+        "2 Corinthians",
+        "Galatians",
+        "1 Thessalonians",
+        "Philemon"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Prison: Rome, Ephesus or Caesarea",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Paul mentions the 'praetorium' (the imperial guard or a governor's headquarters, Phil 1:13) and greetings from 'Caesar's household' (Phil 4:22), which fit Rome, the traditional view. But both terms could also apply to provincial capitals, and the many journeys between Paul and Philippi (Epaphroditus' trip, news of his illness, planned visits) are easier over the short distance from Ephesus, where some scholars think Paul was imprisoned (compare 2 Cor 11:23). Caesarea (Acts 23:35) is a third option. Coordinates show Rome as the traditional location.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "'All the saints in Christ Jesus at Philippi, with the overseers and deacons'",
+      "place": "Philippi, Macedonia",
+      "coords": [
+        24.28,
+        41.01
+      ],
+      "situation": "The church had sent Epaphroditus with a gift; he nearly died and was now returning with this letter (Phil 2:25-30). The believers faced local opposition (Phil 1:28-30), two leading women, Euodia and Syntyche, were at odds (Phil 4:2-3), and Paul warns about teachers who might urge circumcision (Phil 3:2).",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -42,
+        "event": "Battle of Philippi: Antony and Octavian defeat Brutus and Cassius; veterans are settled and Philippi becomes a Roman colony."
+      },
+      {
+        "year": -30,
+        "event": "After Actium, Octavian (later Augustus) refounds the colony as Colonia Iulia Augusta Philippensis, with more settlers and Roman legal privileges (approximate date)."
+      },
+      {
+        "year": 49,
+        "event": "Paul, Silas and Timothy found the church; Lydia is baptised; Paul and Silas are beaten and jailed, then released as Roman citizens (Acts 16:11-40)."
+      },
+      {
+        "year": 55,
+        "event": "Date of Philippians if written from an Ephesian imprisonment."
+      },
+      {
+        "year": 61,
+        "event": "Date of Philippians if written from Roman house arrest."
+      }
+    ],
+    "backdrop": "Philippi was a small but proud Roman colony in eastern Macedonia, on the Via Egnatia, the Roman highway linking Italy to the East. Its people were very conscious of being Roman: Latin inscriptions dominate the site, its land had 'Italian right' (exemption from some taxes as if it were Italian soil), and many families descended from army veterans. Acts captures the atmosphere: the slave-girl's owners accuse Paul and Silas of 'advocating customs that are not lawful for us as Romans' (Acts 16:21).\n\nPhilippi's elite competed for honour through a ladder of civic offices and titles, carefully listed on inscriptions. Joseph Hellerman argues that this 'race for honour' is the backdrop to Paul's description of Christ in Philippians 2:5-11, who descended the ladder from equality with God to slave to crucifixion, and to Paul's own list of credentials that he counts as loss (Phil 3:4-8). Paul also uses political words: 'live as citizens worthy of the gospel' (Phil 1:27, Greek politeuesthe) and 'our citizenship is in heaven, and from it we await a Saviour, the Lord Jesus Christ' (Phil 3:20). In a colony where 'saviour' and 'lord' were imperial titles, this implied a rival allegiance.\n\nThe church began with women: Lydia, a dealer in purple cloth from Thyatira and a God-fearer, hosted it (Acts 16:14-15, Acts 16:40). There seems to have been no synagogue, only a 'place of prayer' by the river, so the Jewish community was small. The congregation became Paul's most faithful supporter, giving to him in Thessalonica and Corinth and to the Jerusalem collection out of deep poverty (Phil 4:15-16, 2 Cor 8:1-5). Philippians is in part a thank-you letter, though Paul writes it carefully so as not to sound like a client indebted to patrons.",
+    "culture": [
+      {
+        "term": "Roman colony and citizenship",
+        "explain": "Colonists were Roman citizens living abroad, governed by Roman law and loyal to the emperor. Paul tells believers in such a city that their true commonwealth is heaven, and they are its outpost.",
+        "refs": [
+          "Phil 1:27",
+          "Phil 3:20-21",
+          "Acts 16:12"
+        ]
+      },
+      {
+        "term": "Race for honour",
+        "explain": "Elite men advertised their status by listing offices held. Paul lists his own impeccable Jewish credentials and then writes them off, and describes Christ's journey downward to a slave's death.",
+        "refs": [
+          "Phil 2:6-8",
+          "Phil 3:4-8"
+        ]
+      },
+      {
+        "term": "Friendship and partnership (koinōnia)",
+        "explain": "Greco-Roman friendship involved sharing goods and obligations. Paul calls the Philippians partners in the gospel and receives their gifts as a sacrifice to God, avoiding the patron-client language of debt.",
+        "refs": [
+          "Phil 1:5-7",
+          "Phil 4:10-19"
+        ]
+      },
+      {
+        "term": "Chains and the praetorium",
+        "explain": "Prisoners depended on friends for food and care, and imprisonment brought shame. Paul reframes his chains as advancing the gospel among the imperial guard.",
+        "refs": [
+          "Phil 1:12-14",
+          "Phil 2:25"
+        ]
+      },
+      {
+        "term": "Self-sufficiency (autarkeia)",
+        "explain": "Stoic philosophers prized being 'self-sufficient', needing nothing outside oneself. Paul uses the word but redefines it: his contentment comes from Christ who strengthens him.",
+        "refs": [
+          "Phil 4:11-13"
+        ]
+      },
+      {
+        "term": "Women leaders",
+        "explain": "Macedonian women had relatively public roles. Euodia and Syntyche 'struggled together' with Paul in the gospel and were important enough that their disagreement mattered to the whole church.",
+        "refs": [
+          "Phil 4:2-3",
+          "Acts 16:13-15"
+        ]
+      }
+    ],
+    "jewishLens": "Philippians is written to a mostly Gentile church with a small Jewish presence, but Paul's most famous passages are steeped in Israel's Scriptures. The Christ hymn (Phil 2:6-11) ends with every knee bowing and every tongue confessing Jesus as Lord, words taken from Isaiah 45:23, where the one God of Israel declares that every knee shall bow to him alone. Richard Bauckham argues that this places Jesus within the unique identity of Israel's God without abandoning Jewish monotheism. The servant who humbles himself and is exalted also echoes Isaiah's suffering servant (Isa 52:13-53:12).\n\nIn chapter 3 Paul gives the only full list of his Jewish credentials: circumcised on the eighth day, of Israel, of Benjamin, a Hebrew of Hebrews, a Pharisee, blameless as to righteousness under the Law (Phil 3:5-6). He does not say he was a guilt-ridden failure; he was, by the standards of his tradition, 'blameless'. What changed was not his assessment of Judaism but his encounter with the Messiah, beside whom everything else became loss. Krister Stendahl used this verse to argue that Paul did not have a troubled conscience before his conversion.\n\nPaul's harsh words, 'look out for the dogs... the mutilation' (Phil 3:2), are aimed at people pressing Gentile believers to be circumcised, probably Jewish-Christian missionaries, not at Jews in general. Reformed readers (Moises Silva, Peter O'Brien) see in Phil 3:9 a clear contrast between 'a righteousness of my own that comes from the law' and 'righteousness from God that depends on faith', evidence for justification by faith alone. New Perspective readers (Dunn, Wright) note that the 'righteousness of my own' is national covenant status ('of Israel, of Benjamin'), not moral self-improvement. Many find both elements in the text.",
+    "flow": [
+      {
+        "label": "Thanks for partnership",
+        "detail": "Paul thanks God for their partnership from the first day and prays their love will abound.",
+        "refs": [
+          "Phil 1:1-11"
+        ]
+      },
+      {
+        "label": "Chains that advance the gospel",
+        "detail": "Imprisonment has spread the message; to live is Christ and to die is gain.",
+        "refs": [
+          "Phil 1:12-26"
+        ]
+      },
+      {
+        "label": "Citizens worthy of the gospel",
+        "detail": "Stand together in one spirit and do not fear opponents.",
+        "refs": [
+          "Phil 1:27-30"
+        ]
+      },
+      {
+        "label": "The mind of Christ",
+        "detail": "Count others more significant, as Christ emptied himself, became a slave, died on a cross, and was exalted as Lord.",
+        "refs": [
+          "Phil 2:1-18"
+        ]
+      },
+      {
+        "label": "Timothy and Epaphroditus",
+        "detail": "Two living examples of Christ-like concern for others.",
+        "refs": [
+          "Phil 2:19-30"
+        ]
+      },
+      {
+        "label": "Credentials counted as loss",
+        "detail": "Paul gives up his status to know Christ and the power of his resurrection, and presses on to the goal.",
+        "refs": [
+          "Phil 3:1-21"
+        ]
+      },
+      {
+        "label": "Peace, joy and the gift",
+        "detail": "Agree in the Lord, rejoice, pray instead of worrying; Paul has learned contentment and thanks them for their gift.",
+        "refs": [
+          "Phil 4:1-23"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Live as citizens of heaven, with the mind of Christ",
+      "branches": [
+        {
+          "label": "Joy",
+          "items": [
+            "Rejoice in the Lord",
+            "Joy in chains",
+            "Peace beyond understanding"
+          ]
+        },
+        {
+          "label": "Partnership",
+          "items": [
+            "From the first day",
+            "Gifts as sacrifice",
+            "Epaphroditus the messenger"
+          ]
+        },
+        {
+          "label": "Christ's humility",
+          "items": [
+            "Did not grasp equality",
+            "Emptied, took slave form",
+            "Obedient to the cross",
+            "Every knee will bow"
+          ]
+        },
+        {
+          "label": "Status reversed",
+          "items": [
+            "Credentials counted loss",
+            "Know Christ",
+            "Press on to the prize"
+          ]
+        },
+        {
+          "label": "Citizenship",
+          "items": [
+            "Worthy of the gospel",
+            "Commonwealth in heaven",
+            "Awaiting a Saviour"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "partnership / fellowship",
+        "original": "koinōnia",
+        "meaning": "Shared life and shared resources in a common cause; used of the Philippians' financial and spiritual participation in Paul's mission.",
+        "refs": [
+          "Phil 1:5",
+          "Phil 2:1",
+          "Phil 4:15"
+        ]
+      },
+      {
+        "word": "joy / rejoice",
+        "original": "chara / chairō",
+        "meaning": "Appears about 16 times; joy rooted in Christ and the progress of the gospel, not in circumstances.",
+        "refs": [
+          "Phil 1:18",
+          "Phil 2:17-18",
+          "Phil 4:4"
+        ]
+      },
+      {
+        "word": "mind / mindset",
+        "original": "phroneō",
+        "meaning": "A way of thinking that shapes behaviour. 'Have this mind among yourselves which is yours in Christ Jesus.'",
+        "refs": [
+          "Phil 2:2-5",
+          "Phil 3:15",
+          "Phil 4:2"
+        ]
+      },
+      {
+        "word": "emptied himself",
+        "original": "ekenōsen (kenōsis)",
+        "meaning": "Christ did not use his divine status for his own advantage but took the form of a slave. Theologians debate what this 'emptying' involved; most say he added humanity rather than subtracted divinity.",
+        "refs": [
+          "Phil 2:6-7"
+        ]
+      },
+      {
+        "word": "live as citizens",
+        "original": "politeuomai / politeuma",
+        "meaning": "To live as a citizen of a city-state; politeuma is a commonwealth or colony of citizens abroad.",
+        "refs": [
+          "Phil 1:27",
+          "Phil 3:20"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "acts",
+        "how": "Acts 16 describes the founding: Lydia, the slave girl, the jailer and Paul's appeal to Roman citizenship.",
+        "refs": [
+          "Acts 16:11-40"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "The Christ hymn applies to Jesus Isaiah's words that every knee will bow to the LORD, and echoes the servant's humiliation and exaltation.",
+        "refs": [
+          "Isa 45:23",
+          "Phil 2:10-11",
+          "Isa 52:13"
+        ]
+      },
+      {
+        "bookId": "2-corinthians",
+        "how": "Paul praises the Macedonian churches, including Philippi, for giving generously in poverty.",
+        "refs": [
+          "2 Cor 8:1-5",
+          "2 Cor 11:9"
+        ]
+      },
+      {
+        "bookId": "1-thessalonians",
+        "how": "Paul came to Thessalonica straight from being shamefully treated in Philippi, and the Philippians sent support there.",
+        "refs": [
+          "1 Thess 2:2",
+          "Phil 4:16"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul's Jewish credentials and his grief over Israel connect Philippians 3 to Romans 9-11.",
+        "refs": [
+          "Rom 11:1",
+          "Phil 3:5"
+        ]
+      }
+    ],
+    "jesusLens": "Philippians 2:6-11 is one of the earliest and highest statements about Jesus. Many scholars think it was an early hymn or poem that Paul quotes; others think Paul wrote it. It moves from Christ's existing 'in the form of God' to his choice to become human and a slave, his obedience to a cross, and God's exaltation of him to receive the name above every name, the divine name, so that all creation confesses him as Lord. For Christian theology this is a foundation of incarnation doctrine. For a Jewish reader it is striking that Isaiah's words about the one God are applied to Jesus 'to the glory of God the Father', which Paul sees as fulfilling, not compromising, Israel's monotheism.",
+    "misreadings": [
+      {
+        "topic": "'I can do all things through Christ' (Phil 4:13) as a promise of success",
+        "popular": "Philippians 4:13 means that with Christ's strength a believer can achieve any goal: win the game, pass the exam, get the job, overcome any obstacle. It is printed on sports gear and shared before competitions.",
+        "inContext": "The verse comes at the end of Paul's thank-you for a gift. He says he has learned to be content whether well fed or hungry, in plenty or in need (Phil 4:11-12). 'All things' means all these circumstances, including going without. He is borrowing the Stoic ideal of self-sufficiency (autarkeia) and correcting it: his contentment is not inner self-mastery but Christ's strength. Gordon Fee and Markus Bockmuehl read it as 'I can endure anything'.",
+        "defence": "Evangelical scholars agree almost unanimously with the contextual reading. Some add that Paul's confidence in Christ's enabling is real and can be applied to any faithful task God gives, so it is not wrong to pray for strength in hard work; the error is turning a verse about contentment in need into a promise of winning or getting what we want.",
+        "whyItMatters": "Read properly, the verse supports someone facing poverty, illness or prison rather than promising victory; it can protect believers from feeling that hardship means God has failed them.",
+        "refs": [
+          "Phil 4:10-14"
+        ],
+        "scholars": [
+          "Gordon Fee",
+          "Markus Bockmuehl",
+          "Moises Silva",
+          "Peter O'Brien"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Philippians 3 as Paul rejecting Judaism as worthless 'rubbish'",
+        "popular": "Paul says his Jewish heritage and law-keeping are 'rubbish' (Phil 3:8). Judaism was a religion of works and self-righteousness, and Paul discovered grace when he left it behind.",
+        "inContext": "Paul calls himself 'blameless' under the Law (Phil 3:6), not a failure. He counts his privileges as loss compared with knowing the Messiah, not because they were evil but because they could not compare. Scholars from Stendahl to Pamela Eisenbaum and the Jewish Annotated New Testament stress that Paul writes as a Jew who found Israel's Messiah, not a convert to another religion. His target in 3:2 is pressure on Gentiles to be circumcised.",
+        "defence": "Traditional scholars such as Moises Silva and Peter O'Brien agree Paul is not attacking Judaism as such, but argue that 3:9 shows he had relied on 'a righteousness of my own that comes from the law', which he now rejects in favour of a righteousness from God through faith; this is the heart of justification by faith. The scholarly disagreement is about what that 'own righteousness' was (moral achievement or covenant status), not about whether Judaism was a religion of grace.",
+        "whyItMatters": "Christian contempt for Judaism has had terrible consequences. This passage can be read as personal testimony about Christ's surpassing worth without disparaging the Jewish people.",
+        "refs": [
+          "Phil 3:2-9",
+          "Rom 9:4-5"
+        ],
+        "scholars": [
+          "Krister Stendahl",
+          "Pamela Eisenbaum",
+          "James Dunn",
+          "Moises Silva",
+          "Peter O'Brien"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A small church in a status-conscious Roman town learned to see Christ's descent, not the race for honour, as the pattern for their life together, to stand firm under pressure and to reconcile their quarrelling leaders.",
+      "now": "Philippians speaks to anxiety (Phil 4:6-7), to rivalry and self-promotion in churches and workplaces, and to Christians tempted to give their deepest loyalty to a nation or party. Its joy is not denial of suffering: it was written in chains."
+    },
+    "sources": [
+      {
+        "author": "Gordon D. Fee",
+        "title": "Paul's Letter to the Philippians (NICNT)",
+        "year": 1995
+      },
+      {
+        "author": "Markus Bockmuehl",
+        "title": "The Epistle to the Philippians (Black's New Testament Commentary)",
+        "year": 1997
+      },
+      {
+        "author": "Joseph H. Hellerman",
+        "title": "Reconstructing Honor in Roman Philippi: Carmen Christi as Cursus Pudorum",
+        "year": 2005
+      },
+      {
+        "author": "Richard Bauckham",
+        "title": "Jesus and the God of Israel",
+        "year": 2008
+      }
+    ]
+  },
+  {
+    "id": "colossians",
+    "oneLine": "To a young church tempted by a spirituality of rules, visions and angel-worship, Paul says that all the fullness of God lives in Christ, so believers already have everything in him and should live out their new life.",
+    "author": {
+      "name": "Paul, with Timothy (authorship disputed)",
+      "who": "Presented as Paul in prison with Timothy, writing to a church founded by his co-worker Epaphras, a Colossian (Col 1:7, Col 4:12). If not by Paul himself, a close associate, perhaps Timothy, may have written it in Paul's name, during his lifetime or soon after.",
+      "howWeKnow": "The letter claims Paul and ends with his signature (Col 4:18). Its greetings name almost the same people as Philemon, an undisputed letter (Aristarchus, Mark, Epaphras, Luke, Demas, Archippus), and Onesimus is mentioned in both. Doubts arise from style, the cosmic Christology, the teaching that believers are already raised with Christ (Col 3:1), and the household code. James Dunn suggested Timothy wrote it with Paul's approval; Douglas Moo and N. T. Wright accept Paul; many critical scholars do not.",
+      "otherWritings": [
+        "Philemon",
+        "Ephesians",
+        "Philippians",
+        "Romans"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Prison: Rome or Ephesus",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Paul is in chains (Col 4:3, Col 4:18). Rome is traditional; Ephesus, only about 190 km (120 miles) from Colossae, would make it easier for Onesimus to reach Paul and for Paul to plan a visit (Phlm 1:22). Coordinates show Rome.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The mostly Gentile church at Colossae, founded by Epaphras",
+      "place": "Colossae, Lycus valley, Phrygia (province of Asia)",
+      "coords": [
+        29.26,
+        37.79
+      ],
+      "situation": "Paul had never visited (Col 2:1). Teachers were promoting a 'philosophy' involving food and drink rules, festivals, new moons and Sabbaths, ascetic self-denial, visions, and the 'worship of angels' (Col 2:16-23), implying that faith in Christ needed supplementing. The letter was to be read in Laodicea as well (Col 4:16).",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -200,
+        "event": "Antiochus III settles about 2,000 Jewish families from Mesopotamia in Lydia and Phrygia (Josephus, Antiquities 12.3.4), the origin of the Lycus valley's Jewish community (approximate date)."
+      },
+      {
+        "year": -62,
+        "event": "The Roman governor Flaccus confiscates Jewish temple-tax money collected in the region, including over 20 pounds of gold at Laodicea, according to Cicero, Pro Flacco 28."
+      },
+      {
+        "year": 55,
+        "event": "Epaphras evangelises the Lycus valley during Paul's Ephesian ministry (approximate)."
+      },
+      {
+        "year": 60,
+        "event": "A major earthquake strikes Laodicea, reported by Tacitus (Annals 14.27); later writers say Colossae and Hierapolis were also hit. The exact year (60-61 or later) and its effect on Colossae are uncertain."
+      },
+      {
+        "year": 61,
+        "event": "Traditional date of Colossians and Philemon from Rome."
+      }
+    ],
+    "backdrop": "Colossae lay in the Lycus valley in Phrygia, in western Turkey, near the larger cities of Laodicea (about 16 km away) and Hierapolis. It had been an important wool town in earlier centuries, famous for a dark red wool dye, but by Paul's day it had been overshadowed by Laodicea. The site has never been excavated; only a mound and surface finds remain, though survey work has begun. An earthquake around 60 damaged the region badly, and Colossae seems to have declined afterwards. If Colossians was written after 61 and the city had been destroyed, it would be odd that the letter does not mention it; this is sometimes used in dating arguments.\n\nThe region had a substantial Jewish population, settled there by the Seleucid king Antiochus III. Cicero records that Roman officials seized Jewish temple contributions collected at Laodicea in the 60s BC. Phrygia was also known for intense local religion, including the worship of Cybele and of the god Men, mystery cults with initiation rites, and folk religion that called on angels for protection. Later Christian sources show a strong cult of the archangel Michael at nearby Chonae.\n\nThe 'Colossian philosophy' is one of the great puzzles of New Testament study. Paul never defines it; we reconstruct it from his replies. Suggestions include a form of Jewish mysticism in which ascetics fasted to see heavenly visions and join the angels' worship (Fred Francis, Andrew Lincoln), a mixture of Jewish and local Phrygian folk religion (Clinton Arnold), a Greek philosophical school (Troy Martin suggested Cynics), or simply Jewish synagogue teaching about Sabbath and food that attracted Gentile believers (James Dunn). 'Worship of angels' (Col 2:18) could mean worshipping angels or joining in the angels' worship. Whatever it was, it made believers feel incomplete, and Paul replies that they 'have been filled' in Christ (Col 2:10).",
+    "culture": [
+      {
+        "term": "Powers, thrones and elements",
+        "explain": "People feared 'thrones, dominions, rulers, authorities' and the 'elemental spirits of the world' (stoicheia), which might mean basic principles, the physical elements or the spirits thought to rule them. Colossians says all were created through Christ and disarmed at the cross.",
+        "refs": [
+          "Col 1:16",
+          "Col 2:8",
+          "Col 2:15"
+        ]
+      },
+      {
+        "term": "Roman triumph",
+        "explain": "A victorious general paraded defeated enemies through the streets in public shame. Christ 'disarmed the rulers and authorities and put them to open shame, by triumphing over them' in the cross, turning an instrument of Roman humiliation into a victory parade.",
+        "refs": [
+          "Col 2:15"
+        ]
+      },
+      {
+        "term": "Certificate of debt",
+        "explain": "A cheirographon was a handwritten IOU. God cancelled 'the record of debt that stood against us', nailing it to the cross, as if posting the cancelled bill publicly.",
+        "refs": [
+          "Col 2:14"
+        ]
+      },
+      {
+        "term": "Household code",
+        "explain": "Standard teaching on the household addressed the male head about ruling wife, children and slaves. Colossians addresses all members directly and reminds masters that they too have a Master in heaven. Its link with Onesimus and Philemon makes the slavery instructions concrete.",
+        "refs": [
+          "Col 3:18-4:1",
+          "Phlm 1:15-16"
+        ]
+      },
+      {
+        "term": "Letters circulated and read aloud",
+        "explain": "The letter was carried by Tychicus with Onesimus, read to the gathered church, and then exchanged with Laodicea. Christian letters were public documents for communities, not private reading.",
+        "refs": [
+          "Col 4:7-9",
+          "Col 4:16"
+        ]
+      },
+      {
+        "term": "Barbarians and Scythians",
+        "explain": "To Greeks, 'barbarians' were non-Greek speakers and Scythians, from the Black Sea steppe, were the proverbial savages. Colossians says that in the new humanity these labels give no one a lower rank.",
+        "refs": [
+          "Col 3:11"
+        ]
+      }
+    ],
+    "jewishLens": "The great Christ hymn in Colossians 1:15-20 sounds Greek to modern ears, but its background is Jewish Wisdom tradition. In Proverbs 8 Wisdom is beside God at creation, 'the beginning of his ways'. Later Jewish writings such as the Wisdom of Solomon described Wisdom as the image of God's goodness. Colossians says Christ is the 'image of the invisible God', the 'firstborn of all creation' in whom all things were created, and 'the beginning'. N. T. Wright suggests the hymn also plays on the first word of Genesis, bereshit ('in the beginning'), read in Jewish interpretation as 'by Wisdom'. Firstborn here means rank and heir, as Israel and David are called firstborn (Exod 4:22, Ps 89:27), not first created.\n\nColossians also says believers were circumcised 'with a circumcision made without hands' in Christ's death and baptism (Col 2:11-12), drawing on the prophetic hope of circumcised hearts (Deut 30:6, Jer 4:4). And it calls Sabbaths, new moons and food laws 'a shadow of the things to come; the substance belongs to Christ' (Col 2:16-17).\n\nThis last passage needs care. Traditional Protestant readers have taken it to mean that the Sabbath and food laws have been fulfilled and are no longer binding on Christians. 'Paul within Judaism' scholars point out that Colossians is addressed to Gentiles, and its point may be that Gentile believers should not let anyone judge them for not observing these Jewish practices, not that Jews must abandon them. Dunn reads the opponents as local synagogue Jews whose practices were attractive to Gentile believers. Either way, the letter roots its claims in Israel's story: Gentiles have been rescued from darkness and transferred into the kingdom (Col 1:13), language that echoes the exodus.",
+    "flow": [
+      {
+        "label": "Thanks and prayer",
+        "detail": "Paul gives thanks for the faith that came through Epaphras and prays for wisdom and endurance.",
+        "refs": [
+          "Col 1:1-14"
+        ]
+      },
+      {
+        "label": "The supreme Christ",
+        "detail": "Christ is the image of God, creator, head of the church and reconciler of all things through the cross.",
+        "refs": [
+          "Col 1:15-23"
+        ]
+      },
+      {
+        "label": "Paul's labour",
+        "detail": "Paul suffers for the church and makes known the mystery: Christ in you, the hope of glory.",
+        "refs": [
+          "Col 1:24-2:5"
+        ]
+      },
+      {
+        "label": "Fullness in him",
+        "detail": "In Christ the whole fullness of deity dwells bodily; believers have been filled, forgiven and freed from the powers.",
+        "refs": [
+          "Col 2:6-15"
+        ]
+      },
+      {
+        "label": "Do not be judged",
+        "detail": "Food rules, festivals, visions and ascetic regulations are shadows that cannot restrain the flesh.",
+        "refs": [
+          "Col 2:16-23"
+        ]
+      },
+      {
+        "label": "Raised with Christ",
+        "detail": "Set minds on things above, put off the old self and put on compassion, forgiveness and love.",
+        "refs": [
+          "Col 3:1-17"
+        ]
+      },
+      {
+        "label": "Household and greetings",
+        "detail": "The household code, prayer and wise conduct toward outsiders, then greetings and the letter swap with Laodicea.",
+        "refs": [
+          "Col 3:18-4:18"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Christ is all, and you are complete in him",
+      "branches": [
+        {
+          "label": "Who Christ is",
+          "items": [
+            "Image of the invisible God",
+            "Firstborn over creation",
+            "Fullness of deity bodily",
+            "Head of the body"
+          ]
+        },
+        {
+          "label": "What he did",
+          "items": [
+            "Reconciled all things",
+            "Cancelled the debt",
+            "Disarmed the powers"
+          ]
+        },
+        {
+          "label": "The philosophy",
+          "items": [
+            "Food and festival rules",
+            "Visions and angels",
+            "Harsh treatment of body"
+          ]
+        },
+        {
+          "label": "New life",
+          "items": [
+            "Raised with Christ",
+            "Put off, put on",
+            "Christ is all and in all"
+          ]
+        },
+        {
+          "label": "Community",
+          "items": [
+            "Peace of Christ rules",
+            "Household reshaped",
+            "Letters shared with Laodicea"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "fullness",
+        "original": "plērōma",
+        "meaning": "Completeness. All of God's fullness dwells in Christ, and believers are 'filled' in him, so nothing needs adding.",
+        "refs": [
+          "Col 1:19",
+          "Col 2:9-10"
+        ]
+      },
+      {
+        "word": "image",
+        "original": "eikōn",
+        "meaning": "A visible representation. Christ is the image of the invisible God, and believers are renewed after the image of their creator, recalling Genesis 1:27.",
+        "refs": [
+          "Col 1:15",
+          "Col 3:10"
+        ]
+      },
+      {
+        "word": "firstborn",
+        "original": "prōtotokos",
+        "meaning": "The heir with highest rank, and the first to rise from the dead; not 'first created'.",
+        "refs": [
+          "Col 1:15",
+          "Col 1:18"
+        ]
+      },
+      {
+        "word": "elemental spirits / principles",
+        "original": "stoicheia",
+        "meaning": "Basic elements of the world or of teaching, possibly the spiritual forces associated with them. Believers have died with Christ to them.",
+        "refs": [
+          "Col 2:8",
+          "Col 2:20"
+        ]
+      },
+      {
+        "word": "mystery",
+        "original": "mystērion",
+        "meaning": "God's long-hidden purpose now revealed: 'Christ in you (Gentiles), the hope of glory'.",
+        "refs": [
+          "Col 1:26-27",
+          "Col 2:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "philemon",
+        "how": "Written at the same time and carried with Colossians; Onesimus, Philemon's slave, travels with Tychicus.",
+        "refs": [
+          "Col 4:9",
+          "Phlm 1:10-12"
+        ]
+      },
+      {
+        "bookId": "ephesians",
+        "how": "Ephesians shares much of Colossians' structure and wording, especially on the household and new life.",
+        "refs": [
+          "Col 3:5-17",
+          "Eph 4:17-5:20"
+        ]
+      },
+      {
+        "bookId": "proverbs",
+        "how": "Wisdom present with God at creation lies behind Christ as the one through whom all things were made.",
+        "refs": [
+          "Prov 8:22-31",
+          "Col 1:15-17"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Image, creation and new humanity recall Genesis 1.",
+        "refs": [
+          "Gen 1:26-27",
+          "Col 3:10"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation's letter to nearby Laodicea shows the later state of a neighbouring church.",
+        "refs": [
+          "Rev 3:14-22",
+          "Col 4:16"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "John's prologue presents a similar high Christology: the Word through whom all things were made.",
+        "refs": [
+          "John 1:1-3",
+          "Col 1:16"
+        ]
+      }
+    ],
+    "jesusLens": "Colossians offers one of the New Testament's highest views of Christ. Everything in heaven and on earth, visible and invisible, was created 'through him and for him', he holds all things together, and God was pleased to reconcile all things to himself through him, 'making peace by the blood of his cross' (Col 1:16-20). In him 'the whole fullness of deity dwells bodily' (Col 2:9). Christian creeds draw heavily on these verses. Their roots in Jewish Wisdom tradition show early Jewish believers expressing Jesus' identity with the categories Israel already had for God's presence and activity in creation.",
+    "misreadings": [
+      {
+        "topic": "Colossians 2:16-17 as proof that God abolished the Sabbath for everyone",
+        "popular": "Colossians 2:16-17 shows that the Sabbath and food laws were done away with at the cross; Jewish practice is now obsolete and observing it is legalism.",
+        "inContext": "The verse tells Gentile believers not to let anyone 'judge' them over these things. James Dunn argues the pressure came from local Jews whose practices attracted Gentile believers; 'Paul within Judaism' readers note that the letter does not address Jewish believers or tell them to stop. 'Shadow' and 'substance' contrast a pointer with what it points to, not something evil with something good. The real target is a whole system of ascetic rules and visionary experiences that made Christ seem insufficient.",
+        "defence": "Douglas Moo and other evangelical commentators maintain that Paul does teach that the Mosaic calendar and food laws, as covenant obligations, have reached their fulfilment in Christ and are not binding on believers, which fits Rom 14:5-6. But most agree this does not make observance sinful or Judaism legalistic, and Christian traditions differ on whether a weekly day of rest remains a creation principle (Sabbatarians and many Reformed) or not.",
+        "whyItMatters": "The passage is about freedom from being judged, so it should not become a tool for judging others, either those who keep Jewish customs or those who do not.",
+        "refs": [
+          "Col 2:16-23",
+          "Rom 14:5-6"
+        ],
+        "scholars": [
+          "James Dunn",
+          "Douglas Moo",
+          "N. T. Wright",
+          "Clinton Arnold"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Firstborn of all creation' as meaning Christ was created",
+        "popular": "Some groups (for example Jehovah's Witnesses, following the ancient Arians) read 'firstborn of all creation' as meaning Christ was the first thing God made. Some ordinary readers also find the phrase confusing.",
+        "inContext": "In the Old Testament 'firstborn' marks rank and inheritance: Israel is God's firstborn (Exod 4:22), and God makes David 'firstborn, highest of the kings of the earth' though he was the youngest son (Ps 89:27). The next verse explains why Christ is firstborn: 'for by him all things were created' (Col 1:16), placing him on the Creator's side.",
+        "defence": "Evangelical, Catholic and Orthodox scholars agree on this; it is the classic Nicene reading defended since Athanasius. The disagreement is between traditions, not mainly among academic commentators, who largely agree that rank is meant.",
+        "whyItMatters": "The passage is central to belief in Christ's divinity and to his authority over every spiritual power feared by the Colossians.",
+        "refs": [
+          "Col 1:15-18",
+          "Exod 4:22",
+          "Ps 89:27"
+        ],
+        "scholars": [
+          "N. T. Wright",
+          "Douglas Moo",
+          "James Dunn",
+          "Richard Bauckham"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "A church tempted by spiritual elitism, special experiences and strict rules was told that it already had everything in Christ, that the powers it feared were defeated, and that holiness comes from union with the risen Christ, not from harsh discipline of the body.",
+      "now": "Colossians speaks to anyone told that faith in Christ needs an extra technique, secret knowledge, diet, experience or spiritual hierarchy to be complete. It also offers a vision of Christ as Lord over creation, science and culture, and a new humanity where ethnic and social labels lose their power to rank."
+    },
+    "sources": [
+      {
+        "author": "Douglas J. Moo",
+        "title": "The Letters to the Colossians and to Philemon (Pillar NTC)",
+        "year": 2008
+      },
+      {
+        "author": "James D. G. Dunn",
+        "title": "The Epistles to the Colossians and to Philemon (NIGTC)",
+        "year": 1996
+      },
+      {
+        "author": "Clinton E. Arnold",
+        "title": "The Colossian Syncretism",
+        "year": 1995
+      },
+      {
+        "author": "N. T. Wright",
+        "title": "Colossians and Philemon (Tyndale NT Commentaries)",
+        "year": 1986
+      },
+      {
+        "author": "Tacitus",
+        "title": "Annals",
+        "locator": "14.27",
+        "publicDomain": true
+      }
+    ]
   }
 ]

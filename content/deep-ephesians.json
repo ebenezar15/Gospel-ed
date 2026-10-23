@@ -1,0 +1,867 @@
+{
+  "id": "ephesians",
+  "title": "Ephesians: One New People in a World of Powers",
+  "intro": "Ephesians reads more like a prayer and a sermon than a crisis letter. It opens with one enormous sentence of praise (in Greek, Eph 1:3-14 is a single sentence) for God's plan 'to unite all things in Christ, things in heaven and things on earth' (Eph 1:10). Its centre is a breathtaking claim: in the Messiah, God has torn down the wall between Jews and Gentiles and created 'one new humanity' (Eph 2:15), and this reconciled community is God's announcement to the spiritual powers that their divided order is ending (Eph 3:10). The second half turns this vision into ordinary life: speech, anger, sex, money, work, marriage, parenting, slavery and spiritual conflict.\n\nThe letter was written to people who lived in or near Ephesus, a great city of Roman Asia famous for the temple of Artemis, for magical practices, and for its devotion to the emperors. Many hearers had lived in fear of fate, stars and spirits. Ephesians tells them that the crucified and risen Messiah sits above 'every rule and authority and power' (Eph 1:21), and that they sit with him (Eph 2:6).\n\nWestern readers have often taken Ephesians as a handbook of individual salvation (chosen before time, saved by grace, armed for private battle). Those themes are there. But in its own setting the letter's focus is corporate: God's choice of a people in Christ, the creation of one body from enemies, a household reshaped by mutual submission, and a church standing together against the powers. This study traces those threads, presents the debates fairly, and names who holds which view.",
+  "lens": {
+    "summary": "Read Ephesians as Israel's story widening to include the nations. Gentiles who were once 'alienated from the commonwealth of Israel and strangers to the covenants of promise' (Eph 2:12) are now 'fellow citizens with the saints and members of the household of God' (Eph 2:19), built into a new temple where God lives by the Spirit. Election, inheritance, sealing, temple, peace to the far and the near, the divine council and its rebellious powers, the armour of God from Isaiah: all are Jewish categories. Grace (charis) is God's lavish gift that creates a people and calls for a 'worthy walk'; the church's unity is not a nice extra but the visible proof of the gospel.",
+    "principles": [
+      {
+        "name": "Chosen as a people in the Messiah",
+        "text": "Israel knew itself as chosen by love, not merit (Deut 7:6-8). Ephesians says God chose 'us in him': election happens in the Messiah, the chosen one, and is shared by all who are in him. Its aim is holiness and praise.",
+        "refs": [
+          "Eph 1:4-6",
+          "Deut 7:6-8",
+          "Isa 42:1"
+        ]
+      },
+      {
+        "name": "The far and the near brought together",
+        "text": "Isaiah promised peace 'to the far and to the near'. Ephesians reads this as Gentiles (far) and Jews (near) reconciled to God and one another through the cross.",
+        "refs": [
+          "Eph 2:13-17",
+          "Isa 57:19"
+        ]
+      },
+      {
+        "name": "A new temple",
+        "text": "The Jerusalem temple separated Jew from Gentile by a barrier. In the Messiah, Jews and Gentiles together become the holy temple where God dwells by his Spirit, built on the cornerstone of Isaiah 28.",
+        "refs": [
+          "Eph 2:19-22",
+          "Isa 28:16",
+          "1 Kgs 8:27"
+        ]
+      },
+      {
+        "name": "Grace that creates a new way of life",
+        "text": "Salvation is a gift 'not from works', yet it creates people 'for good works which God prepared beforehand'. Gift and grateful, faithful response belong together, as in covenant relationship.",
+        "refs": [
+          "Eph 2:8-10",
+          "Eph 4:1"
+        ]
+      },
+      {
+        "name": "The powers and the divine council",
+        "text": "Jewish scripture and later Jewish writings pictured heavenly beings assigned to nations, some of whom rebelled. Ephesians announces that Christ is enthroned above them all, and that the church's unity makes God's wisdom known to them.",
+        "refs": [
+          "Eph 1:20-22",
+          "Eph 3:10",
+          "Deut 32:8-9",
+          "Dan 10:13",
+          "Ps 82:1-8"
+        ]
+      },
+      {
+        "name": "The household reshaped",
+        "text": "Ancient households were the building blocks of society, ordered from the top down. Ephesians keeps the household but reshapes every relationship by mutual submission, self-giving love modelled on Christ, and the shared lordship of Christ over master and slave.",
+        "refs": [
+          "Eph 5:21",
+          "Eph 5:25",
+          "Eph 6:9"
+        ]
+      },
+      {
+        "name": "God's own armour",
+        "text": "The armour of Eph 6 is the armour Isaiah says God himself and his Messiah wear when coming to set things right. The church is clothed with God's character: truth, justice, peace, faithfulness.",
+        "refs": [
+          "Eph 6:14-17",
+          "Isa 59:17",
+          "Isa 11:5",
+          "Isa 52:7"
+        ]
+      }
+    ]
+  },
+  "audienceMap": [
+    {
+      "group": "Gentile believers from civic and Artemis worship",
+      "share": 55,
+      "concerns": "Whether they truly belong to Israel's God and his people; how to live in a city whose festivals, guilds and economy revolved around Artemis and the emperors."
+    },
+    {
+      "group": "Converts from magic and fear of spirits",
+      "share": 10,
+      "concerns": "Protection from hostile powers, fate and curses; whether Christ really rules over the forces they once tried to manipulate (Acts 19:18-19)."
+    },
+    {
+      "group": "Jewish believers in Jesus",
+      "share": 15,
+      "concerns": "How their heritage and covenants relate to the flood of Gentile believers; whether unity means losing Jewish identity."
+    },
+    {
+      "group": "Wives, children and slaves in believing households",
+      "share": 15,
+      "concerns": "Addressed directly as moral agents, unusual in ancient household teaching; how the gospel changes daily power relationships at home."
+    },
+    {
+      "group": "Sister churches in Asia receiving a circulated copy",
+      "share": 5,
+      "concerns": "If the letter was circular, churches such as Laodicea would hear it as a general charter for Gentile churches in the region (Col 4:16)."
+    }
+  ],
+  "argument": [
+    {
+      "id": "blessing",
+      "label": "Every blessing in Christ",
+      "chapters": "1",
+      "text": "Praise to the Father who chose, adopted, redeemed and sealed a people in the Messiah, with the plan of uniting all things in him.",
+      "next": [
+        "prayer-power"
+      ]
+    },
+    {
+      "id": "prayer-power",
+      "label": "Christ enthroned above the powers",
+      "chapters": "1",
+      "text": "Paul prays they will grasp the power that raised Christ and seated him above every ruler and name, as head over all things for the church.",
+      "next": [
+        "dead-alive"
+      ]
+    },
+    {
+      "id": "dead-alive",
+      "label": "From dead to raised with him",
+      "chapters": "2",
+      "text": "Once dead in sins under the ruler of the power of the air; now made alive, raised and seated with Christ, by grace through faith, created for good works.",
+      "next": [
+        "one-new"
+      ]
+    },
+    {
+      "id": "one-new",
+      "label": "The dividing wall torn down",
+      "chapters": "2",
+      "text": "Gentiles once far off are brought near. Christ is our peace: he broke down the dividing wall, created one new humanity, and built a temple for God.",
+      "next": [
+        "mystery"
+      ]
+    },
+    {
+      "id": "mystery",
+      "label": "The mystery revealed",
+      "chapters": "3",
+      "text": "God's long-hidden secret is that Gentiles are fellow heirs, one body and sharers of the promise. Through the church God's wisdom is shown to the heavenly powers.",
+      "next": [
+        "prayer-love"
+      ]
+    },
+    {
+      "id": "prayer-love",
+      "label": "Rooted in Christ's love",
+      "chapters": "3",
+      "text": "Paul kneels before the Father of every family and prays they will know the love of Christ that surpasses knowledge.",
+      "next": [
+        "unity"
+      ]
+    },
+    {
+      "id": "unity",
+      "label": "Walk worthy: one body, many gifts",
+      "chapters": "4",
+      "text": "Keep the unity of the Spirit. One body, one Spirit, one Lord, one faith. The ascended Christ gives people-gifts to equip the church to grow up into him.",
+      "next": [
+        "new-self"
+      ]
+    },
+    {
+      "id": "new-self",
+      "label": "Put off old, put on new",
+      "chapters": "4",
+      "text": "Do not live like the Gentiles in futile thinking. Put on the new humanity created in God's likeness: truthful speech, honest work, kindness and forgiveness.",
+      "next": [
+        "light"
+      ]
+    },
+    {
+      "id": "light",
+      "label": "Imitate God; walk in light",
+      "chapters": "5",
+      "text": "Walk in love as Christ loved us; reject sexual immorality and greed; live as children of light; be filled with the Spirit in song and thanksgiving.",
+      "next": [
+        "household"
+      ]
+    },
+    {
+      "id": "household",
+      "label": "Submitting to one another",
+      "chapters": "5-6",
+      "text": "Mutual submission out of reverence for Christ reshapes marriage, parenting and slavery, with Christ's self-giving love as the pattern and Christ as the one Lord of all.",
+      "next": [
+        "armour"
+      ]
+    },
+    {
+      "id": "armour",
+      "label": "Stand together in God's armour",
+      "chapters": "6",
+      "text": "Be strong in the Lord. The real struggle is against the spiritual powers; stand firm clothed in God's own armour from Isaiah, praying in the Spirit.",
+      "next": []
+    }
+  ],
+  "chapters": [
+    {
+      "n": 1,
+      "title": "Every blessing in Christ, enthroned above the powers",
+      "summary": "After a brief greeting 'to the saints who are [in Ephesus] and faithful in Christ Jesus', the letter bursts into praise. God has blessed us with every spiritual blessing in the heavenly places in Christ: he chose us in him before the foundation of the world to be holy, predestined us for adoption, redeemed and forgave us through his blood, made known the mystery of his will, his plan to unite all things in Christ, and gave us an inheritance. 'You also', the Gentile hearers, were sealed with the promised Holy Spirit, the down payment of our inheritance. Paul then prays that they will know the hope of God's calling, the riches of his inheritance in the saints, and the surpassing power that raised Christ and seated him at God's right hand far above every ruler, authority, power and dominion, with all things under his feet, as head over all things for the church, his body.",
+      "background": "Who wrote Ephesians and to whom? The letter names Paul as author, in prison (Eph 3:1, Eph 4:1, Eph 6:20). Many critical scholars (Andrew Lincoln, Ernest Best, Margaret MacDonald) think a disciple of Paul wrote it a generation later, pointing to its long liturgical sentences, unusual vocabulary, its picture of a universal church, and its close parallels with Colossians. Others (Harold Hoehner, Frank Thielman, Clinton Arnold, Lynn Cohick) defend Paul's authorship, writing perhaps from Rome around AD 60-62. Also, the words 'in Ephesus' (Eph 1:1) are missing from several of the earliest manuscripts, including the papyrus P46 and the first hands of Codex Sinaiticus and Codex Vaticanus. The letter also lacks personal greetings, strange if Paul had spent nearly three years in Ephesus (Acts 20:31). Many scholars therefore think it was a circular letter for several churches of Roman Asia; Marcion in the second century knew it as the letter 'to the Laodiceans', perhaps the letter mentioned in Col 4:16.",
+      "culture": "Ephesus was the leading city of the Roman province of Asia, with perhaps 200,000 people, a great harbour and the famous temple of Artemis, one of the seven wonders of the ancient world. Ephesian Artemis was honoured as a powerful protector, and the city was famous for magic: the 'Ephesian letters' (Ephesia grammata) were mystic words used as charms. People feared fate, the stars and spirits, and sought power to control them (Acts 19:18-19). Ephesians answers in kind: God's 'power', 'strength' and 'might' (Eph 1:19) are greater than all powers 'named' in this age and the next, perhaps a hint at the practice of invoking names in magic, as Clinton Arnold argues. Sealing was used for ownership and protection of goods; the 'down payment' (arrabōn) was a deposit guaranteeing full payment.",
+      "jewishLens": "The opening praise follows the pattern of a Jewish berakah, a blessing prayer that begins 'Blessed be God' and recounts his saving acts. Its themes are Israel's: chosen in love (Deut 7:6-8), adopted as sons, redeemed (the exodus word), given an inheritance (the land), sealed (compare the mark of Ezek 9:4) and made God's own possession (Exod 19:5). Now these gifts are given 'in the Messiah' to Jews ('we who first hoped in Christ', Eph 1:12) and to Gentiles ('you also', Eph 1:13). Christ's enthronement fulfils Ps 110:1 ('sit at my right hand') and Ps 8:6 (all things under the feet of humanity). The 'powers' recall the heavenly beings set over the nations in Deut 32:8-9 and the princes of Persia and Greece in Dan 10.",
+      "audience": "Gentile believers who had once sought protection from Artemis or magical charms would hear that they are already blessed with 'every' blessing, chosen, adopted and sealed by the Spirit, and that the Christ they belong to rules over every power they once feared. They are not latecomers on probation; they share Israel's inheritance.",
+      "today": "The chapter starts with worship, not instructions: identity before behaviour. It reassures people who feel insecure in faith that their belonging rests on God's initiative in Christ. It also confronts modern fears (fate, chaos, hostile systems) with the claim that Christ already reigns over them.",
+      "keyRefs": [
+        "Eph 1:3-6",
+        "Eph 1:7-10",
+        "Eph 1:11-14",
+        "Eph 1:15-19",
+        "Eph 1:20-23"
+      ],
+      "echoes": [
+        {
+          "ref": "Deut 7:6-8",
+          "note": "Israel chosen as God's treasured people out of love, not merit: the pattern for 'he chose us'."
+        },
+        {
+          "ref": "Exod 19:5",
+          "note": "Israel as God's treasured possession; Ephesians speaks of God's own possession and inheritance."
+        },
+        {
+          "ref": "Ps 110:1",
+          "note": "'Sit at my right hand until I make your enemies your footstool': Christ's enthronement over the powers."
+        },
+        {
+          "ref": "Ps 8:6",
+          "note": "'You have put all things under his feet', applied to the Messiah as the true human."
+        },
+        {
+          "ref": "Deut 32:8-9",
+          "note": "God divided the nations, with the Lord's own portion being his people; background for powers over the nations."
+        }
+      ],
+      "misread": {
+        "popular": "Ephesians 1 teaches that God chose a fixed list of individuals before time, and the main question is whether I am on it.",
+        "better": "The language is plural and 'in him': God chose a people in the Messiah, now including Gentiles. Individual and corporate aspects are debated, but the passage was written to produce praise and assurance, not anxiety."
+      }
+    },
+    {
+      "n": 2,
+      "title": "Raised by grace; the dividing wall torn down",
+      "summary": "You were dead in trespasses and sins, following the course of this world and the ruler of the power of the air; we all lived that way. But God, rich in mercy, made us alive together with Christ, raised us and seated us with him in the heavenly places. 'By grace you have been saved through faith... not from works, so that no one may boast. For we are his workmanship, created in Christ Jesus for good works.' Then: remember that you Gentiles were once without the Messiah, alienated from the commonwealth of Israel, strangers to the covenants of promise, without hope and without God. Now you who were far off have been brought near by the blood of Christ. He is our peace: he made the two one, broke down the dividing wall of hostility, abolished the law of commandments in ordinances, to create in himself one new humanity, reconciling both to God through the cross. You are no longer strangers but fellow citizens with the saints and members of God's household, built on the foundation of apostles and prophets, with Christ as cornerstone, a holy temple in the Lord.",
+      "background": "Herod's temple in Jerusalem had a stone balustrade (the soreg) around the inner courts. Signs in Greek and Latin warned Gentiles not to pass beyond it; Josephus describes them (Jewish War 5.193-194). A complete Greek example found in 1871 by Charles Clermont-Ganneau, now in the Istanbul Archaeology Museums, says that any foreigner caught inside will have himself to blame for his death that follows. Paul himself was accused of bringing Trophimus the Ephesian past that barrier (Acts 21:27-29). Whether Eph 2:14 alludes directly to that barrier is debated (the Greek words differ), but the image of a wall dividing Jew from Gentile would have been vivid. If the letter is late, the temple had been destroyed in AD 70, which would add another layer.",
+      "culture": "Citizenship in a Greek city (politeia) was a prized status; resident aliens (paroikoi) and strangers lived without full rights. Ephesians uses this civic language: Gentiles move from foreigners to fellow citizens and members of the household. 'Workmanship' (poiēma) means something made, a work of art or craft. The 'ruler of the power of the air' fits the ancient belief that the air between earth and heaven was inhabited by spirits.",
+      "jewishLens": "Jews commonly called Gentiles 'far' and Israel 'near' to God (Ps 148:14). Isaiah promised 'peace, peace to the far and to the near' (Isa 57:19) and the messenger 'who announces peace' (Isa 52:7); Ephesians weaves both into Christ who 'came and preached peace'. Gentiles are not added to a new Gentile religion; they are brought into Israel's commonwealth, covenants and hope. The temple image draws on Isa 28:16 (a tested cornerstone in Zion) and Ps 118:22. The 'law of commandments in ordinances' is abolished as a wall of hostility, its dividing function, which interpreters relate in different ways to the continuing goodness of the law (Eph 6:2 still quotes it).",
+      "audience": "Gentiles who had lived 'without God in the world' (literally 'atheists', a word pagans also used of those who rejected their gods) would hear an astonishing reversal: from strangers to family, from outsiders to the very stones of God's temple. Jewish believers would hear that they are not losing their heritage but welcoming the nations into it, as the prophets foresaw.",
+      "today": "Ephesians 2 holds personal salvation (verses 1-10) and social reconciliation (verses 11-22) as one gospel. Churches divided along ethnic, racial or class lines contradict the cross, which 'killed the hostility'. For Gentile Christians it is also a reminder of humility and gratitude toward the Jewish people, into whose story they have been brought.",
+      "keyRefs": [
+        "Eph 2:1-3",
+        "Eph 2:4-7",
+        "Eph 2:8-10",
+        "Eph 2:11-13",
+        "Eph 2:14-18",
+        "Eph 2:19-22"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 57:19",
+          "note": "Peace to the far and to the near: Gentiles and Jews reconciled."
+        },
+        {
+          "ref": "Isa 52:7",
+          "note": "The feet of the one who brings good news and announces peace."
+        },
+        {
+          "ref": "Isa 28:16",
+          "note": "A tested, precious cornerstone laid in Zion."
+        },
+        {
+          "ref": "Ps 118:22",
+          "note": "The stone the builders rejected has become the cornerstone."
+        }
+      ],
+      "misread": {
+        "popular": "Ephesians 2:8-9 sums up the gospel: salvation is a private gift to individuals received by faith.",
+        "better": "It is a free gift by grace through faith, and verse 10 adds that it creates people for good works. Verses 11-22 show what that grace produces: one new humanity from former enemies. Salvation is personal and communal."
+      }
+    },
+    {
+      "n": 3,
+      "title": "The mystery made known and a prayer for love",
+      "summary": "Paul, a prisoner of Christ for the sake of the Gentiles, explains the 'mystery' revealed to him and to the apostles and prophets: that the Gentiles are fellow heirs, members of the same body, and sharers in the promise in Christ through the gospel. Though the least of all the saints, he was given grace to preach the unsearchable riches of Christ to the Gentiles, so that through the church the manifold wisdom of God might now be made known to the rulers and authorities in the heavenly places. He urges them not to lose heart over his sufferings. Then he kneels before the Father, from whom every family in heaven and on earth is named, praying that they will be strengthened by the Spirit, that Christ may dwell in their hearts through faith, and that, rooted in love, they may grasp the breadth, length, height and depth of Christ's love that surpasses knowledge. He ends with a doxology to the one who can do far more than we ask or imagine.",
+      "background": "The chapter assumes Paul's imprisonment, traditionally the Roman house arrest of Acts 28:16-31, though Caesarea or an Ephesian imprisonment have been proposed. If written by a later disciple, it presents Paul as the model apostle to the Gentiles whose sufferings had borne fruit. The 'apostles and prophets' as recipients of revelation suggests an early generation of leaders now seen as a foundation (Eph 2:20).",
+      "culture": "A 'family' (patria) in the ancient world was a lineage named after its father; Paul plays on Father (patēr) and every family (patria) named from him. The four dimensions (breadth, length, height, depth) may echo descriptions of cosmic or temple measurements, or magical formulas describing the extent of power, as Arnold suggests; their exact reference is debated. Kneeling to pray was a posture of intense supplication; Jews typically prayed standing.",
+      "jewishLens": "'Mystery' recalls Daniel, where God reveals hidden things (raz) about his kingdom (Dan 2:28, Dan 2:47), and the Dead Sea Scrolls, where the 'mysteries of God' are his plans revealed to the community's teacher. The mystery here is not that Gentiles would be blessed (the prophets said they would, Isa 49:6), but the manner: as full co-heirs in one body without becoming Jews. The display of God's wisdom to the powers fits Jewish ideas of the heavenly court observing God's acts in history.",
+      "audience": "Gentile believers could easily feel embarrassed that their apostle was in chains. Paul reframes his imprisonment as part of God's plan for their glory. The prayer would assure them that the love of Christ reaches every dimension of their lives.",
+      "today": "The church's very existence as a reconciled community is meant to be a sign, even to unseen powers, of God's wisdom. The prayer is a model: it asks not mainly for circumstances to change but for inner strength, deep love and knowledge of Christ.",
+      "keyRefs": [
+        "Eph 3:1-6",
+        "Eph 3:7-13",
+        "Eph 3:14-19",
+        "Eph 3:20-21"
+      ],
+      "echoes": [
+        {
+          "ref": "Dan 2:28",
+          "note": "There is a God in heaven who reveals mysteries: background to 'mystery' as revealed plan."
+        },
+        {
+          "ref": "Isa 49:6",
+          "note": "The servant as a light to the nations, so that God's salvation reaches the ends of the earth."
+        },
+        {
+          "ref": "Job 11:7-9",
+          "note": "God's wisdom higher than heaven, deeper than Sheol, longer than the earth and broader than the sea."
+        }
+      ],
+      "misread": {
+        "popular": "The mystery is something vague and spiritual that only the specially enlightened understand.",
+        "better": "In Paul's usage a mystery is God's plan once hidden and now openly announced; here it is specific: Gentiles as fellow heirs and one body with Jews in the Messiah."
+      }
+    },
+    {
+      "n": 4,
+      "title": "One body, many gifts, a new humanity",
+      "summary": "Paul urges them to walk worthy of their calling with humility, gentleness, patience and love, eager to keep the unity of the Spirit in the bond of peace: one body, one Spirit, one hope, one Lord, one faith, one baptism, one God and Father of all. Grace was given to each according to Christ's gift; quoting Ps 68 ('when he ascended on high he led captives and gave gifts to people'), he describes the ascended Christ giving apostles, prophets, evangelists, pastors and teachers to equip the saints for ministry, so that the body grows to maturity and is not tossed by every wind of teaching. They must no longer walk as the Gentiles do, in futility and darkness, but put off the old self and put on the new self created in God's likeness. Practical commands follow: speak truth, be angry without sinning, do not give the devil a foothold, stop stealing and work to share with the needy, speak only what builds up, do not grieve the Holy Spirit, put away bitterness and anger, be kind and forgive as God in Christ forgave you.",
+      "background": "Unity was under pressure in Gentile churches of Asia: differing teachings (Eph 4:14), cultural habits from pagan life, and the old tensions between Jews and Gentiles. The list of leaders (apostles, prophets, evangelists, pastor-teachers) reflects a church with recognised ministries; whether these are offices or functions, and whether apostles and prophets continue, is debated between traditions.",
+      "culture": "Greek cities prized concord (homonoia) and orators often urged it, using the image of a body whose parts must cooperate; Paul uses the body image but makes Christ its head and source of growth. Pagan moralists also criticised Gentile vice. Theft by household slaves and labourers was a common complaint; Ephesians tells former thieves not only to stop but to work so they can give, turning a taker into a patron of the needy. 'Put off' and 'put on' evoke changing clothes, perhaps at baptism.",
+      "jewishLens": "The confession 'one God and Father of all' echoes the Shema (Deut 6:4), now expanded with one Lord, one Spirit. Ps 68:18 originally pictures God ascending Zion after victory, receiving gifts; Ephesians reads it as 'gave gifts'. Some Jewish traditions (such as the Aramaic Targum of the Psalms) also read 'gave' and linked the psalm to Moses ascending Sinai to receive Torah for Israel, associated with the feast of Shavuot (Pentecost); Ephesians may be drawing on such a reading, now applied to Christ giving the Spirit's gifts. Details of that background are debated. The ethical commands quote Zech 8:16 and Ps 4:4, and 'grieve the Holy Spirit' recalls Isa 63:10, where Israel grieved God's Spirit in the wilderness.",
+      "audience": "New believers formed by pagan habits needed concrete guidance. Slaves and labourers would hear that their work could become a means of generosity. A church tempted by competing teachers would hear that maturity comes through the whole body using its gifts, not through spiritual elites.",
+      "today": "Unity is to be 'kept', not manufactured: it already exists in the one Spirit, and must be guarded by humility and patience. Ministry belongs to all the saints, with leaders equipping them. The new self is visible in ordinary speech, anger management, honest work and forgiveness.",
+      "keyRefs": [
+        "Eph 4:1-6",
+        "Eph 4:7-13",
+        "Eph 4:14-16",
+        "Eph 4:17-24",
+        "Eph 4:25-32"
+      ],
+      "echoes": [
+        {
+          "ref": "Ps 68:18",
+          "note": "God ascends on high leading captives; Ephesians reads it of Christ giving gifts."
+        },
+        {
+          "ref": "Deut 6:4",
+          "note": "The Shema, behind 'one Lord... one God and Father of all'."
+        },
+        {
+          "ref": "Zech 8:16",
+          "note": "Speak the truth to one another."
+        },
+        {
+          "ref": "Ps 4:4",
+          "note": "Be angry, and do not sin."
+        },
+        {
+          "ref": "Isa 63:10",
+          "note": "Israel rebelled and grieved God's Holy Spirit."
+        }
+      ],
+      "misread": {
+        "popular": "Ministry is what pastors and professional leaders do; ordinary believers receive it.",
+        "better": "Leaders are given 'to equip the saints for the work of ministry'. Every member has grace given to them, and the body builds itself up in love as each part works properly."
+      }
+    },
+    {
+      "n": 5,
+      "title": "Walk in love and light; submitting to one another",
+      "summary": "Be imitators of God as beloved children, and walk in love as Christ loved us and gave himself as a fragrant offering. Sexual immorality, impurity, greed and coarse talk must not even be named among them; the greedy person is an idolater. Once darkness, they are now light in the Lord: walk as children of light, expose the unfruitful works of darkness, make the most of the time. Do not get drunk with wine, but be filled with the Spirit, speaking in psalms, hymns and spiritual songs, giving thanks, and submitting to one another out of reverence for Christ. Wives, to your husbands as to the Lord, for the husband is the head of the wife as Christ is head of the church. Husbands, love your wives as Christ loved the church and gave himself up for her, to make her holy; love them as your own bodies. Quoting Gen 2:24, Paul says this is a great mystery, and he is speaking about Christ and the church.",
+      "background": "Household codes (lists of duties for members of a household) appear in Ephesians, Colossians (Col 3:18-4:1) and 1 Peter (1 Pet 2:18-3:7). Their pattern goes back to Aristotle's *Politics* (book 1), which treats the household as made of three pairs (master and slave, husband and wife, father and children) and argues that the male naturally rules. Greek, Roman and Hellenistic Jewish writers (Philo, Josephus) repeated the scheme, often to show that a group was not socially subversive. David Balch argued that early Christians used it partly to defend themselves against charges of undermining households. In the earliest manuscripts of Eph 5:22 there is no verb: 'wives, to your own husbands', borrowing 'submit' from 5:21.",
+      "culture": "Drunken banquets and the wine-god Dionysus were part of city life; Ephesians contrasts drunken revelry with Spirit-filled singing. In Roman marriage the husband held legal power and wives were expected to show modesty and obedience; husbands were not usually told to love their wives in a self-sacrificing way. Ephesians keeps the expected instruction to wives but reshapes the husband's role around Christ's self-giving death, an expectation with no clear parallel in ancient household codes. 'Head' (kephalē) could mean ruler, source, or the prominent, life-giving part; its sense here is debated.",
+      "jewishLens": "'A fragrant offering and sacrifice' (Eph 5:2) uses temple language (Exod 29:18). The light-darkness contrast is strong in the Dead Sea Scrolls (sons of light and sons of darkness). The marriage image of Christ and the church echoes the prophets' picture of God as Israel's husband (Hos 2:19-20, Isa 54:5, Ezek 16:8-14), where the husband washes, clothes and adorns his bride. Gen 2:24, the foundation of Jewish marriage teaching, is read as a picture of the Messiah's union with his people.",
+      "audience": "Wives heard themselves addressed directly as moral agents who choose their conduct 'as to the Lord', which was unusual. Husbands, the most powerful members of the household, heard the longest and most demanding instructions: a call to self-giving love. A mixed church would hear that their homes were to be small pictures of Christ's love for his people.",
+      "today": "The chapter calls Christians to a sexual and economic ethic that refuses exploitation and greed, and to worship that shapes community. How the household code applies today divides complementarians and egalitarians, but both agree it cannot justify domination or abuse, and that 5:21 and 5:25 set the tone.",
+      "keyRefs": [
+        "Eph 5:1-2",
+        "Eph 5:3-14",
+        "Eph 5:15-21",
+        "Eph 5:22-24",
+        "Eph 5:25-33"
+      ],
+      "echoes": [
+        {
+          "ref": "Exod 29:18",
+          "note": "A pleasing aroma, a food offering to the Lord: Christ's self-giving as sacrifice."
+        },
+        {
+          "ref": "Gen 2:24",
+          "note": "The two become one flesh, quoted in Eph 5:31."
+        },
+        {
+          "ref": "Ezek 16:8-14",
+          "note": "God washes, clothes and adorns his bride Israel."
+        },
+        {
+          "ref": "Isa 60:1",
+          "note": "Arise, shine, for your light has come: possibly echoed in 'Awake, O sleeper... Christ will shine on you'."
+        }
+      ],
+      "misread": {
+        "popular": "Ephesians 5 is mainly about wives submitting to husbands as the head of the home.",
+        "better": "The section begins with mutual submission 'to one another' (5:21), addresses wives as free moral agents, and gives husbands the heavier demand: to love as Christ did, by giving himself up. How this shapes roles today is debated, but power used for self-interest is ruled out."
+      }
+    },
+    {
+      "n": 6,
+      "title": "One Master in heaven; standing in God's armour",
+      "summary": "Children, obey your parents in the Lord; this is the first commandment with a promise. Fathers, do not provoke your children to anger but bring them up in the training and instruction of the Lord. Slaves, obey your earthly masters with sincerity, as serving Christ, knowing the Lord will reward whatever good anyone does, slave or free. Masters, do the same to them, stop threatening, knowing that both they and you have the same Master in heaven, and there is no favouritism with him. Finally, be strong in the Lord and put on the whole armour of God to stand against the schemes of the devil, for our struggle is not against flesh and blood but against rulers, authorities, cosmic powers of this darkness and spiritual forces of evil in the heavenly places. Stand, with the belt of truth, the breastplate of righteousness, feet ready with the gospel of peace, the shield of faith, the helmet of salvation and the sword of the Spirit, the word of God, praying at all times in the Spirit. Pray for Paul, an ambassador in chains, and Tychicus will bring news. Peace, love and grace to all who love the Lord Jesus with undying love.",
+      "background": "Slavery was everywhere in the Roman world; perhaps a sixth to a third of people in large cities were enslaved or recently freed (estimates vary widely). Slaves could be household managers, teachers or labourers, and had no legal personhood. Ephesians does not call for abolition, which no ancient movement did, but it addresses slaves as moral agents and tells masters they are slaves of the same Lord, who shows no favouritism. Later Christians debated whether such texts endorsed slavery; abolitionists argued their logic undermined it. The imperial cult was strong in Ephesus: a temple to Rome and the deified Julius Caesar was authorised there under Augustus, and a major temple of the emperors (the Sebastoi) was built under Domitian around AD 89-90. Calling Jesus 'Lord' and Paul an 'ambassador' had political overtones.",
+      "culture": "Roman fathers had legal power (patria potestas) over children, even adult ones; telling fathers not to provoke their children limits that power. Roman soldiers were a familiar sight, and the armour image would be easy to picture, but its content comes from Isaiah. 'Stand' is military language for holding a position against attack. Ancient hearers who feared spirits often wore amulets; Ephesians offers a different protection: being clothed with God's character and word.",
+      "jewishLens": "'Honour your father and mother' (Exod 20:12, Deut 5:16) is quoted as still valid for Gentile believers, showing the Torah still teaches them. The armour is drawn from Isaiah: God puts on righteousness as a breastplate and salvation as a helmet to bring justice (Isa 59:17); the Messiah wears righteousness and faithfulness as a belt and strikes with the rod of his mouth (Isa 11:4-5); the feet of the herald of peace (Isa 52:7); the servant's mouth like a sharp sword (Isa 49:2). The struggle against rulers and authorities in the heavenly places fits Jewish apocalyptic pictures of battle between God's angels and the powers over the nations (Dan 10:13, Dan 10:20-21). The church now wears the armour of the divine warrior.",
+      "audience": "Slaves would hear something rare: their work has value before Christ, who will reward them, and their masters are under the same Lord. Children would be addressed directly in the assembly. A small, vulnerable church in a city full of temples and magic would hear that their stand together, in truth, peace and prayer, is part of God's victory.",
+      "today": "The household instructions invite reflection on how Christ's lordship reshapes all power relationships, including at work. The armour of God calls the church to stand together by truthfulness, justice, peace-making and prayer, rather than by fear or by technique. Paul asks prayer not for release but for boldness to speak.",
+      "keyRefs": [
+        "Eph 6:1-4",
+        "Eph 6:5-9",
+        "Eph 6:10-13",
+        "Eph 6:14-17",
+        "Eph 6:18-24"
+      ],
+      "echoes": [
+        {
+          "ref": "Isa 59:17",
+          "note": "The Lord puts on righteousness as a breastplate and a helmet of salvation."
+        },
+        {
+          "ref": "Isa 11:5",
+          "note": "Righteousness and faithfulness as the belt of the Messiah."
+        },
+        {
+          "ref": "Isa 52:7",
+          "note": "The feet of the messenger who announces peace."
+        },
+        {
+          "ref": "Isa 49:2",
+          "note": "God made the servant's mouth like a sharp sword."
+        },
+        {
+          "ref": "Exod 20:12",
+          "note": "Honour your father and mother, quoted with its promise."
+        }
+      ],
+      "misread": {
+        "popular": "Spiritual warfare means identifying and binding demons, and the armour is a personal prayer routine for protection.",
+        "better": "The armour is God's own, from Isaiah, worn by the church together. Its pieces are truth, justice, peace, faith, salvation and God's word, and the command is to stand and pray. The powers are real, but the battle is fought through faithfulness and unity."
+      }
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "Ephesians 1:4-5: election as God pre-selecting individuals only",
+      "popular": "Before creation God chose certain individuals to be saved and passed over others; Ephesians 1 is mainly about my personal place on that list. (Others react against this and treat election as simply God foreseeing who would choose him.)",
+      "inContext": "The passage is plural and Christ-centred: God 'chose us in him', 'in the Beloved'. In Israel's scriptures election is first of a people (Deut 7:6-8), centred on a chosen representative (Isa 42:1, the servant). William Klein, Markus Barth and N. T. Wright stress corporate election: God chose the Messiah, and a people in him, and anyone joined to him shares that election. The purpose is vocational: 'holy and blameless', 'to the praise of his glory', and the immediate surprise is that Gentiles now share Israel's chosenness (Eph 1:11-14).",
+      "defence": "Reformed scholars such as Harold Hoehner and Thomas Schreiner argue corporate and individual election are not opposites: a group is made of persons, and 'he chose us... according to the purpose of his will' (Eph 1:11) implies God's choice of those persons. Arminian scholars also accept corporate framing but stress human response. Most agree the text is first about God's gracious initiative and the people in Christ, and that it was meant to produce praise and assurance, not anxiety or debate.",
+      "whyItMatters": "Reading election as corporate and in Christ turns it from a puzzle about who is in or out into a call to be a holy people for the world, and a reason for Gentile believers to know they truly belong.",
+      "refs": [
+        "Eph 1:3-14",
+        "Deut 7:6-8",
+        "Isa 42:1",
+        "Eph 1:11"
+      ],
+      "scholars": [
+        "William W. Klein",
+        "Markus Barth",
+        "N. T. Wright",
+        "Harold Hoehner",
+        "Thomas Schreiner",
+        "Frank Thielman"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Ephesians 2:8-9 quoted without 2:10-22",
+      "popular": "'By grace you have been saved through faith, and this is not your own doing; it is the gift of God, not a result of works, so that no one may boast.' This is the gospel in a sentence: personal salvation as a free gift received by faith.",
+      "inContext": "The sentence is true and central, but Ephesians does not stop there. Verse 10 says we are God's 'workmanship' (poiēma), created for good works. Verses 11-22 then show what salvation creates: Gentiles once far off brought near, Jew and Gentile made one new humanity, enemies reconciled, a temple for God. Salvation is personal and social at once. Lincoln, Thielman, Cohick and Wright all stress that 2:1-10 and 2:11-22 are two panels of one picture: the same grace that raises the dead creates one people.",
+      "defence": "Evangelical scholars generally agree; the problem is popular quotation, not scholarly theology. Traditional interpreters add that 'not from works' here is broader than the Jewish boundary markers of Galatians (it is any human doing), which supports the classic Protestant emphasis on grace alone. New Perspective scholars largely accept that point for Ephesians.",
+      "whyItMatters": "A gospel that stops at verse 9 can leave churches content to be collections of saved individuals. Ephesians says the saved are a new community whose unity across hostile lines is itself the evidence of salvation.",
+      "refs": [
+        "Eph 2:8-10",
+        "Eph 2:11-22",
+        "Eph 2:14-16"
+      ],
+      "scholars": [
+        "Andrew T. Lincoln",
+        "Frank Thielman",
+        "Lynn H. Cohick",
+        "N. T. Wright",
+        "Harold Hoehner"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Ephesians 5:22 ('Wives, submit') without 5:21 ('submitting to one another')",
+      "popular": "The household code sets out a chain of command: husbands lead, wives submit, children obey, slaves obey. Submission is a one-way duty owed by those lower in the order.",
+      "inContext": "In the earliest Greek manuscripts 5:22 has no verb of its own; it borrows 'submit' from 5:21, 'submitting to one another out of reverence for Christ', which itself is the last of several results of being filled with the Spirit (Eph 5:18-21). The code follows the classic pattern of Aristotle's household management (husband-wife, father-child, master-slave), but reshapes it: wives, children and slaves are addressed as moral agents; husbands are told to love their wives as Christ gave himself up for the church, a demand unheard of in ancient codes; fathers must not provoke their children; masters must stop threatening because they share a Master in heaven. Lynn Cohick and Craig Keener emphasise this counter-cultural reshaping.",
+      "defence": "Complementarian scholars (such as Thielman, Hoehner and Schreiner in other writings) agree that 5:21 governs the passage and that husbands' headship must be self-giving, but argue that mutual submission does not erase distinct roles: 'one another' can mean 'some to others' in their appropriate relationships, and the code still asks wives to submit to husbands. Egalitarian scholars argue that the code was a missionary accommodation to its culture, like its instructions to slaves, and that its inner logic points beyond it. Both reject using the passage to justify abuse.",
+      "whyItMatters": "Read without 5:21 and 5:25, the code can be used to defend domination; read whole, it subordinates every household power to Christ's self-giving love. How it applies today remains debated.",
+      "refs": [
+        "Eph 5:18-21",
+        "Eph 5:22-33",
+        "Eph 6:1-9"
+      ],
+      "scholars": [
+        "Lynn H. Cohick",
+        "Craig S. Keener",
+        "David Balch",
+        "Frank Thielman",
+        "Harold Hoehner",
+        "Thomas Schreiner"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Ephesians 6:12: spiritual warfare as a private hunt for demons",
+      "popular": "Because 'we wrestle not against flesh and blood', Christians should identify and cast out territorial spirits, bind demons in prayer, and see spiritual attack behind most personal troubles.",
+      "inContext": "Ephesians does take the powers seriously; Clinton Arnold shows that its hearers in a city full of magic needed to know Christ rules over them. But the commands are to 'stand' (four times), to put on the armour (mostly virtues: truth, righteousness, the gospel of peace, faith, salvation, the word of God) and to pray, including for Paul's preaching. The 'you' is plural: the church stands together. The struggle shows up concretely in lies, anger, theft, sexual exploitation and division (Eph 4:25-31): 'do not give the devil a foothold' (Eph 4:27) comes in a passage about anger. Walter Wink argues the powers are also the spirituality of institutions and systems.",
+      "defence": "Many charismatic and Pentecostal scholars, and Arnold himself, argue the passage assumes real personal spiritual beings and that prayer against them is appropriate; deliverance ministry has New Testament precedent (Acts 16:18, Acts 19:11-12). Critics of Wink say he reduces personal beings to social structures. A shared middle ground: the powers are real, the believer's main weapons are faithfulness, unity, truth and prayer, and Christ has already won.",
+      "whyItMatters": "Spiritual warfare in Ephesians looks like a united church telling the truth, refusing hatred and proclaiming peace, not like anxious hunting for demons behind every event.",
+      "refs": [
+        "Eph 6:10-20",
+        "Eph 4:25-32",
+        "Eph 1:20-22"
+      ],
+      "scholars": [
+        "Clinton E. Arnold",
+        "Walter Wink",
+        "Timothy Gombis",
+        "Michael S. Heiser"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "'Heavenly places' as escape from the world",
+      "popular": "Believers are seated with Christ in the heavenly places (Eph 2:6), so our real home is up in heaven; the goal of faith is to rise above earthly concerns until we go there.",
+      "inContext": "'The heavenly places' (ta epourania) in Ephesians is the unseen realm where the powers operate too (Eph 3:10, Eph 6:12). Being seated with Christ there means sharing his authority now, in this world. God's plan is to unite 'all things in heaven and on earth' (Eph 1:10), and the letter's second half is intensely earthly: work, speech, marriage, slaves and masters. Andrew Lincoln and N. T. Wright stress that heaven and earth are being brought together, not separated.",
+      "defence": "Traditional interpreters agree the phrase is not escapist; they emphasise the believer's present spiritual blessing and secure position, and the future hope of glory (Eph 1:14, Eph 1:18). The difference is mainly emphasis.",
+      "whyItMatters": "If heaven is an escape hatch, the church withdraws; if heaven and earth are being united in Christ, the church becomes a foretaste of that union in ordinary life.",
+      "refs": [
+        "Eph 1:3",
+        "Eph 1:10",
+        "Eph 2:6",
+        "Eph 3:10",
+        "Eph 6:12"
+      ],
+      "scholars": [
+        "Andrew T. Lincoln",
+        "N. T. Wright",
+        "Clinton E. Arnold",
+        "Frank Thielman"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Abolishing 'the law of commandments' means the church replaces Israel",
+      "popular": "Ephesians 2:15 says Christ abolished the law, so Israel's covenants are over and the church is the new, non-Jewish people of God.",
+      "inContext": "Ephesians says the opposite of Gentile replacement: Gentiles are brought into what Israel already had: the commonwealth of Israel, the covenants of promise, hope and God (Eph 2:12, Eph 2:19). What is abolished is the law 'of commandments in ordinances' as a dividing wall of hostility between the two (Eph 2:14-15), the way it functioned to separate. Markus Barth and, from a Messianic Jewish angle, Mark Kinzer argue that the 'one new humanity' unites two peoples without erasing Jewish identity, rather like a marriage.",
+      "defence": "Many evangelical scholars (Hoehner, Thielman) argue that the new humanity is a genuinely new entity, 'neither Jew nor Gentile' in its basis, and that the Mosaic law no longer governs the people of God. They still reject contempt for Jews and describe Gentiles joining Israel's hope, not stealing it.",
+      "whyItMatters": "This shapes Christian attitudes to the Jewish people: Gentile Christians are guests grafted into Israel's story, not its replacements.",
+      "refs": [
+        "Eph 2:11-22",
+        "Eph 2:12",
+        "Eph 3:6",
+        "Rom 11:17-18"
+      ],
+      "scholars": [
+        "Markus Barth",
+        "Mark S. Kinzer",
+        "Harold Hoehner",
+        "Frank Thielman",
+        "Lynn H. Cohick"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "The armour of God as a solo soldier's equipment",
+      "popular": "Each morning I put on the armour piece by piece in prayer to protect myself from attack.",
+      "inContext": "The armour is first God's own: in Isa 59:17 the Lord puts on righteousness as a breastplate and salvation as a helmet to rescue his people; in Isa 11:5 the Messiah wears righteousness and faithfulness as a belt; Isa 52:7 gives the feet of the messenger of peace. Ephesians clothes the church, together (plural 'you'), with God's own character and mission. The image may also draw on the Roman soldier, but the content is Isaiah.",
+      "defence": "Devotional use of the armour is not wrong; scholars across traditions affirm personal appropriation. The correction is that the armour is communal, defensive ('stand'), and made of virtues and the gospel rather than techniques.",
+      "whyItMatters": "The church wins by being like God, truthful, just and peace-bringing, together, not by individual spiritual technique.",
+      "refs": [
+        "Eph 6:13-17",
+        "Isa 59:17",
+        "Isa 11:4-5",
+        "Isa 52:7"
+      ],
+      "scholars": [
+        "Timothy Gombis",
+        "Frank Thielman",
+        "Clinton E. Arnold",
+        "Lynn H. Cohick"
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "perspectives": [
+    {
+      "name": "Traditional Reformed / evangelical",
+      "who": "John Calvin; Harold Hoehner (2002), Frank Thielman (2010), Clinton Arnold (2010), Peter O'Brien",
+      "summary": "Ephesians is by Paul. It teaches God's sovereign election of individuals in Christ, salvation by grace alone through faith alone apart from any works, Christ's cosmic victory, and the church as his body. The Jew-Gentile union is a fruit of reconciliation to God.",
+      "strengths": "Takes the letter's language of grace and divine initiative at full strength; strong exegetical commentaries defending authorship and unity.",
+      "critiques": "Can treat 2:11-22 as an application rather than the climax of chapter 2, and can individualise election. Defenders reply that the vertical reconciliation (to God) grounds the horizontal (to each other), as 2:16 itself says."
+    },
+    {
+      "name": "New Perspective and covenant-narrative reading",
+      "who": "N. T. Wright, James D. G. Dunn, Scot McKnight",
+      "summary": "Ephesians shows the goal of Paul's gospel: the single family promised to Abraham, Jew and Gentile together, as the sign to the powers that God's new creation has begun. 'Not by works' in Ephesians broadens Galatians' debate over the law into a general principle, which Dunn and others see as a development within the Pauline tradition.",
+      "strengths": "Makes the Jew-Gentile union central, as the letter does; links election, temple and mystery to Israel's story.",
+      "critiques": "Traditional critics fear it downplays personal sin and forgiveness (Eph 1:7, Eph 2:1-3). Wright responds that both are central and inseparable."
+    },
+    {
+      "name": "Bilateral or Paul-within-Judaism reading",
+      "who": "Mark S. Kinzer, Markus Barth; related to Paul within Judaism scholars",
+      "summary": "The 'one new humanity' is a union of two distinct peoples, Jews who may continue in covenant practice and Gentiles who join Israel's God without becoming Jews. Gentiles are brought into the commonwealth of Israel, not the other way round.",
+      "strengths": "Honours Eph 2:12 and 2:19 and the ongoing place of the Jewish people; resists supersessionism.",
+      "critiques": "Critics argue 2:15 ('abolishing the law of commandments') and 'one new humanity' imply the end of the law's distinctive role for Jewish believers too. Defenders reply that what ends is the law's role as a wall of hostility, not Jewish identity."
+    },
+    {
+      "name": "Powers and apocalyptic reading",
+      "who": "Clinton Arnold (*Ephesians: Power and Magic*, 1989), Walter Wink (*Naming the Powers*, 1984), Timothy Gombis (*The Drama of Ephesians*, 2010), Michael Heiser",
+      "summary": "The letter is a drama of divine warfare: God in Christ triumphs over the rebellious powers and displays that victory in a united church. Arnold reads it against Ephesian magic and the fear of spirits; Wink reads the powers as including the inner spirit of institutions; Heiser reads them against the Old Testament divine council.",
+      "strengths": "Explains the letter's frequent 'powers' vocabulary and its cosmic scope; speaks to people in cultures that fear spirits.",
+      "critiques": "Readings can tilt either toward demythologising (Wink) or toward speculative demonology; the divine-council framework is debated. Each side reminds the other that the text affirms both personal powers and their effects in human structures."
+    },
+    {
+      "name": "Critical deutero-Pauline reading",
+      "who": "Andrew Lincoln (Word Biblical Commentary, 1990), Ernest Best (1998), Margaret MacDonald (2000)",
+      "summary": "A disciple of Paul wrote Ephesians, perhaps around AD 80-90, using Colossians as a model, to summarise Paul's legacy for Gentile churches in a later generation. The church is now a universal body, and future hope is more 'realised' (believers already raised and seated with Christ).",
+      "strengths": "Accounts for differences in style, vocabulary, church concept and the close parallels with Colossians; most such scholars treat the letter as valuable and inspired-in-tradition.",
+      "critiques": "Defenders of Pauline authorship (Hoehner, Thielman, Arnold, Cohick) note that ancient writers varied style by genre and secretary, that ancient churches never doubted it, and that Paul's ideas elsewhere already include cosmic Christ and a universal church. Hoehner's survey found scholarly opinion roughly evenly divided."
+    }
+  ],
+  "keyTerms": [
+    {
+      "term": "Chose / elect",
+      "original": "eklegomai (ἐκλέγομαι)",
+      "usual": "God picked particular individuals for heaven.",
+      "inContext": "God chose a people 'in him', the Messiah, for holiness and praise, as he chose Israel. Debated how corporate and individual election relate.",
+      "refs": [
+        "Eph 1:4",
+        "Deut 7:6"
+      ]
+    },
+    {
+      "term": "Predestine",
+      "original": "proorizō (προορίζω)",
+      "usual": "Fixing each person's eternal destiny in advance.",
+      "inContext": "Marking out beforehand a destiny: here, adoption as sons and the inheritance. The focus is on the goal God set for his people in Christ.",
+      "refs": [
+        "Eph 1:5",
+        "Eph 1:11"
+      ]
+    },
+    {
+      "term": "Mystery",
+      "original": "mystērion (μυστήριον)",
+      "usual": "Something puzzling or unknowable.",
+      "inContext": "A divine secret now revealed, as in Daniel's Aramaic raz: God's plan to unite all things in Christ and make Gentiles fellow heirs.",
+      "refs": [
+        "Eph 1:9",
+        "Eph 3:3-6",
+        "Dan 2:28"
+      ]
+    },
+    {
+      "term": "Sum up / unite",
+      "original": "anakephalaioō (ἀνακεφαλαιόω)",
+      "usual": "A summary.",
+      "inContext": "To gather everything under one head: God's plan to bring heaven and earth together in the Messiah.",
+      "refs": [
+        "Eph 1:10"
+      ]
+    },
+    {
+      "term": "Heavenly places",
+      "original": "en tois epouraniois (ἐν τοῖς ἐπουρανίοις)",
+      "usual": "Heaven as a future destination.",
+      "inContext": "The unseen realm where Christ reigns, believers share his position, and hostile powers still operate.",
+      "refs": [
+        "Eph 1:3",
+        "Eph 1:20",
+        "Eph 2:6",
+        "Eph 3:10",
+        "Eph 6:12"
+      ]
+    },
+    {
+      "term": "Rulers and authorities",
+      "original": "archai kai exousiai (ἀρχαὶ καὶ ἐξουσίαι)",
+      "usual": "Demons.",
+      "inContext": "Spiritual powers behind nations and systems, in Jewish thought often linked to heavenly beings set over nations (Deut 32:8-9) who rebelled. They can also work through human structures.",
+      "refs": [
+        "Eph 1:21",
+        "Eph 3:10",
+        "Eph 6:12"
+      ]
+    },
+    {
+      "term": "Dividing wall",
+      "original": "to mesotoichon tou phragmou (τὸ μεσότοιχον τοῦ φραγμοῦ)",
+      "usual": "A general barrier between God and people.",
+      "inContext": "The wall of separation between Jew and Gentile, probably evoking the temple barrier whose inscriptions warned Gentiles not to pass on pain of death, and the law's role in dividing.",
+      "refs": [
+        "Eph 2:14"
+      ]
+    },
+    {
+      "term": "Church / assembly",
+      "original": "ekklēsia (ἐκκλησία)",
+      "usual": "A building or a denomination.",
+      "inContext": "The assembled people of God; in Greek cities the citizen assembly, and in the Greek Old Testament Israel gathered before God. In Ephesians, the whole body of Christ across places.",
+      "refs": [
+        "Eph 1:22",
+        "Eph 3:10",
+        "Eph 5:25"
+      ]
+    },
+    {
+      "term": "Head",
+      "original": "kephalē (κεφαλή)",
+      "usual": "Boss or ruler.",
+      "inContext": "Debated: 'authority over' or 'source' or the one who gives life and unity to the body. In Ephesians Christ as head both rules and nourishes the body (Eph 4:15-16, Eph 5:23-29).",
+      "refs": [
+        "Eph 1:22",
+        "Eph 4:15-16",
+        "Eph 5:23"
+      ]
+    },
+    {
+      "term": "Submit",
+      "original": "hypotassō (ὑποτάσσω)",
+      "usual": "Obey a superior.",
+      "inContext": "To place oneself in order under another; in 5:21 it is mutual, flowing from the Spirit and reverence for Christ. Its relation to roles is debated.",
+      "refs": [
+        "Eph 5:21",
+        "Eph 5:22",
+        "Eph 5:24"
+      ]
+    },
+    {
+      "term": "Full armour",
+      "original": "panoplia (πανοπλία)",
+      "usual": "Personal spiritual defence kit.",
+      "inContext": "The complete equipment of a soldier, filled with the content of God's own armour in Isaiah: truth, justice, peace, faithfulness, salvation and his word.",
+      "refs": [
+        "Eph 6:11",
+        "Eph 6:13",
+        "Isa 59:17"
+      ]
+    },
+    {
+      "term": "Household management / plan",
+      "original": "oikonomia (οἰκονομία)",
+      "usual": "Economics; a dispensation of time.",
+      "inContext": "The management of a household. God is the householder administering his plan for the fullness of time, and Paul is a steward of it.",
+      "refs": [
+        "Eph 1:10",
+        "Eph 3:2",
+        "Eph 3:9"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "Andrew T. Lincoln",
+      "title": "Ephesians (Word Biblical Commentary 42)",
+      "year": 1990
+    },
+    {
+      "author": "Harold W. Hoehner",
+      "title": "Ephesians: An Exegetical Commentary",
+      "year": 2002
+    },
+    {
+      "author": "Frank Thielman",
+      "title": "Ephesians (Baker Exegetical Commentary on the New Testament)",
+      "year": 2010
+    },
+    {
+      "author": "Lynn H. Cohick",
+      "title": "The Letter to the Ephesians (New International Commentary on the New Testament)",
+      "year": 2020
+    },
+    {
+      "author": "Clinton E. Arnold",
+      "title": "Ephesians (Zondervan Exegetical Commentary on the New Testament)",
+      "year": 2010
+    },
+    {
+      "author": "Clinton E. Arnold",
+      "title": "Ephesians: Power and Magic. The Concept of Power in Ephesians in Light of Its Historical Setting",
+      "year": 1989
+    },
+    {
+      "author": "Ernest Best",
+      "title": "Ephesians (International Critical Commentary)",
+      "year": 1998
+    },
+    {
+      "author": "Margaret Y. MacDonald",
+      "title": "Colossians and Ephesians (Sacra Pagina)",
+      "year": 2000
+    },
+    {
+      "author": "Markus Barth",
+      "title": "Ephesians (Anchor Bible 34 and 34A)",
+      "year": 1974
+    },
+    {
+      "author": "William W. Klein",
+      "title": "The New Chosen People: A Corporate View of Election",
+      "year": 1990
+    },
+    {
+      "author": "Timothy G. Gombis",
+      "title": "The Drama of Ephesians: Participating in the Triumph of God",
+      "year": 2010
+    },
+    {
+      "author": "Walter Wink",
+      "title": "Naming the Powers: The Language of Power in the New Testament",
+      "year": 1984
+    },
+    {
+      "author": "Michael S. Heiser",
+      "title": "The Unseen Realm",
+      "year": 2015
+    },
+    {
+      "author": "Mark S. Kinzer",
+      "title": "Postmissionary Messianic Judaism",
+      "year": 2005
+    },
+    {
+      "author": "David L. Balch",
+      "title": "Let Wives Be Submissive: The Domestic Code in 1 Peter",
+      "year": 1981
+    },
+    {
+      "author": "Paul Trebilco",
+      "title": "The Early Christians in Ephesus from Paul to Ignatius",
+      "year": 2004
+    },
+    {
+      "author": "N. T. Wright",
+      "title": "Paul and the Faithfulness of God",
+      "year": 2013
+    },
+    {
+      "author": "Craig S. Keener",
+      "title": "Paul, Women and Wives: Marriage and Women's Ministry in the Letters of Paul",
+      "year": 1992
+    },
+    {
+      "author": "Aristotle",
+      "title": "Politics",
+      "locator": "1.1253b",
+      "publicDomain": true
+    },
+    {
+      "author": "Josephus",
+      "title": "Jewish War",
+      "locator": "5.193-194",
+      "publicDomain": true
+    },
+    {
+      "author": "Josephus",
+      "title": "Jewish Antiquities",
+      "locator": "15.417",
+      "publicDomain": true
+    }
+  ]
+}

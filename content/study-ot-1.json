@@ -1228,5 +1228,1195 @@
         "year": 2015
       }
     ]
+  },
+  {
+    "id": "numbers",
+    "oneLine": "Numbers tells how a rescued but grumbling generation failed to trust God and died in the wilderness, while God stayed faithful and brought their children to the edge of the promised land.",
+    "author": {
+      "name": "Moses (traditional); priestly and non-priestly writers (critical)",
+      "who": "Tradition credits Moses, who is said to have recorded the stages of the journey. Critical scholars see a mix of priestly material (censuses, camp order, ritual law) and older narrative traditions (the spies, Balaam, the rebellions).",
+      "howWeKnow": "Num 33:2 says Moses wrote down the starting points of the journeys. The rest of the attribution is traditional. Critical scholars point to the shifts in style between lists and stories and to the Balaam poems (Num 23-24), which many consider old poetry. An 8th-century BC plaster inscription from Deir Alla in Jordan, found in 1967, names 'Balaam son of Beor', a seer of the gods, showing that Balaam was a known figure in the region's traditions.",
+      "otherWritings": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Deuteronomy"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Plains of Moab (traditional); Judah or Babylon (critical)",
+      "note": "The book ends on the plains of Moab by the Jordan opposite Jericho (Num 36:13). Critical scholars date the final shaping to the exile or Persian period, when another generation stood outside the land asking whether they would enter it.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The new generation of Israel",
+      "place": "On the threshold of Canaan; later the exiles",
+      "situation": "The old generation that left Egypt has died because it refused to enter the land. The new generation is counted, taught and warned. Every later generation that heard the book stood in their shoes: will we trust God where our parents did not?",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -1445,
+      "to": -1406,
+      "note": "From the second month of the second year after the exodus (Num 1:1) to the fortieth year (Num 33:38), about 38-39 years. On the late exodus chronology these years fall in the 13th century BC. Most of the wandering years are passed over in silence; the book focuses on the beginning and end."
+    },
+    "worldEvents": [
+      {
+        "year": -1400,
+        "event": "Egyptian texts mention 'Shasu of Yhw', nomadic groups in the region of Edom and Midian, possibly linked to the name YHWH."
+      },
+      {
+        "year": -1350,
+        "event": "Amarna letters show Canaan as a patchwork of small city-states loosely under Egypt."
+      },
+      {
+        "year": -1274,
+        "event": "Battle of Kadesh between Ramesses II and the Hittites; the big powers are busy in Syria."
+      },
+      {
+        "year": -800,
+        "event": "The Deir Alla inscription records a vision of 'Balaam son of Beor', a seer, in Transjordan."
+      },
+      {
+        "year": -600,
+        "event": "The Ketef Hinnom silver amulets from Jerusalem contain a form of the priestly blessing of Num 6:24-26, the oldest known biblical text."
+      }
+    ],
+    "backdrop": "The Hebrew name of the book is *Bemidbar*, 'in the wilderness', and that is its real subject. The Sinai and Negev deserts were harsh, with scarce water and food, but they were not empty: Edomites, Moabites, Ammonites, Amorite kings like Sihon and Og, and nomadic Midianites controlled routes and wells. Israel had to ask permission to pass, fight, or go around (Num 20:14-21; Num 21:21-35).\n\nThe English title comes from the two censuses (Num 1; Num 26), which count men of fighting age. The totals are huge (603,550 in Num 1:46), implying a population of two million or more. Scholars debate this. Some take the figures literally. Others, including conservative scholars such as Colin Humphreys and Kenneth Kitchen, note that the Hebrew word *eleph* can mean 'thousand' but also 'clan' or 'military unit', which would give a much smaller number. Others think the numbers are symbolic or reflect later population. The book's point holds either way: God kept his promise to multiply Abraham's descendants.\n\nThe book's structure is a story of two generations. The first (Num 1-25) is counted, organised around the tabernacle and sets out confidently. Then come the complaints: about food (Num 11), about Moses' leadership (Num 12; Num 16), and finally the refusal to enter the land after the spies' report (Num 13-14). God sentences that generation to die in the desert. Dennis Olson's influential study, *The Death of the Old and the Birth of the New*, showed that the second census (Num 26) marks the turn to a new generation, who receive fresh laws about inheritance, offerings and settled life.\n\nIn the middle of the gloom stands the Balaam story (Num 22-24). A famous foreign seer, hired by King Balak of Moab to curse Israel, can only bless them. Israel does not even know it is happening. The message: God protects his people even when they are unaware and unfaithful. Yet the very next chapter shows Israel falling into idolatry and sexual sin with Moab at Baal-peor (Num 25), the very thing Balaam later advised (Num 31:16).",
+    "culture": [
+      {
+        "term": "The camp as a sacred order",
+        "explain": "The twelve tribes camp in a square around the tabernacle, three on each side, with Levites in an inner ring. The arrangement is a map of Israel's life: God at the centre.",
+        "refs": [
+          "Num 2:1-34",
+          "Num 3:38"
+        ]
+      },
+      {
+        "term": "Murmuring",
+        "explain": "Complaining against leaders and against God is the wilderness generation's signature sin. In an honour culture, publicly despising God's gifts (calling manna 'light bread') was an insult to the giver.",
+        "refs": [
+          "Num 11:1-6",
+          "Num 14:2-4",
+          "Num 21:5"
+        ]
+      },
+      {
+        "term": "Eleph: thousand or clan?",
+        "explain": "The Hebrew 'eleph' usually means thousand, but can mean clan or troop. This is the centre of the debate over the size of the census numbers.",
+        "refs": [
+          "Num 1:46",
+          "Num 26:51",
+          "Judg 6:15"
+        ]
+      },
+      {
+        "term": "Seers and curses",
+        "explain": "In the ancient world professional seers were hired to curse enemies before battle. Balaam was a well-known international diviner. A curse was believed to have real power.",
+        "refs": [
+          "Num 22:5-7",
+          "Num 24:1",
+          "Josh 13:22"
+        ]
+      },
+      {
+        "term": "Nazirite vow",
+        "explain": "A man or woman could take a temporary vow of special dedication: no wine, no cutting hair, no contact with corpses. Samson and Samuel are lifelong examples.",
+        "refs": [
+          "Num 6:1-21",
+          "Judg 13:5",
+          "Acts 21:23-26"
+        ]
+      },
+      {
+        "term": "Daughters of Zelophehad",
+        "explain": "Five sisters with no brothers ask for their father's land so his name will not disappear. God agrees, creating a precedent for women's inheritance.",
+        "refs": [
+          "Num 27:1-11",
+          "Num 36:1-12"
+        ]
+      }
+    ],
+    "jewishLens": "Jewish tradition calls the book *Bemidbar*, 'in the wilderness', and the rabbis drew much meaning from that setting. A midrash notes that the Torah was given in the wilderness, a place that belongs to no one, to show that Torah is open to all who will make themselves humble and open like the desert (Numbers Rabbah 1:7). Numbers is usually begun in synagogue in the weeks just before Shavuot, the feast celebrating the giving of the Torah.\n\nThe priestly blessing (Num 6:24-26), 'The LORD bless thee, and keep thee: the LORD make his face shine upon thee...', is recited by the *kohanim* (descendants of Aaron) in synagogue, and parents say it over their children on Friday nights. It was already in use around 600 BC, as the silver amulets from Ketef Hinnom show. Num 15:37-41, the command to wear tassels (*tzitzit*) on the corners of garments as a reminder of the commandments, forms the third paragraph of the Shema, recited morning and evening. Balaam's line 'How goodly are thy tents, O Jacob' (Num 24:5) opens the morning prayers when Jews enter the synagogue: words meant as a curse became a daily blessing.\n\nThe rabbis also faced the hard stories honestly. The spies' report (Num 13-14) was dated by tradition to the ninth of Av, the same date on which both temples later fell, so the fast of Tisha B'Av links Israel's loss of faith in the wilderness with its later disasters. The first audience would hear Numbers as both warning and comfort: a whole generation can lose its inheritance through unbelief, but God does not abandon the covenant. He is the God who, even when angry, forgives 'according unto the greatness of thy mercy' (Num 14:19), and who keeps the promise for the children.",
+    "flow": [
+      {
+        "label": "Counting and ordering",
+        "detail": "The first generation is counted, the camp arranged around the tabernacle, and the Levites set apart. The cloud leads the march.",
+        "refs": [
+          "Num 1:1-46",
+          "Num 2:1-34",
+          "Num 9:15-23"
+        ]
+      },
+      {
+        "label": "Setting out from Sinai",
+        "detail": "After almost a year at the mountain, Israel moves out with the ark going before them.",
+        "refs": [
+          "Num 10:11-13",
+          "Num 10:33-36"
+        ]
+      },
+      {
+        "label": "Complaints and rebellions",
+        "detail": "The people crave meat, Miriam and Aaron challenge Moses, and God disciplines and provides.",
+        "refs": [
+          "Num 11:1-35",
+          "Num 12:1-16"
+        ]
+      },
+      {
+        "label": "Refusal at Kadesh",
+        "detail": "Ten spies spread fear; the people refuse to enter. God sentences that generation to forty years in the wilderness, sparing Caleb and Joshua.",
+        "refs": [
+          "Num 13:25-33",
+          "Num 14:1-38"
+        ]
+      },
+      {
+        "label": "Wilderness wandering",
+        "detail": "Korah's rebellion, Aaron's budding staff, Moses' failure at the waters of Meribah and the bronze serpent mark the long years.",
+        "refs": [
+          "Num 16:1-35",
+          "Num 17:1-13",
+          "Num 20:1-13",
+          "Num 21:4-9"
+        ]
+      },
+      {
+        "label": "Balaam blesses Israel",
+        "detail": "A hired seer tries to curse Israel but can only bless them, foreseeing a star out of Jacob.",
+        "refs": [
+          "Num 22:1-41",
+          "Num 23:7-10",
+          "Num 24:15-19"
+        ]
+      },
+      {
+        "label": "A new generation",
+        "detail": "After apostasy at Baal-peor, a second census counts the new generation; Joshua is commissioned and laws prepare them for life in the land.",
+        "refs": [
+          "Num 25:1-9",
+          "Num 26:63-65",
+          "Num 27:15-23",
+          "Num 36:13"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Numbers: faith tested in the wilderness",
+      "branches": [
+        {
+          "label": "Two generations",
+          "items": [
+            "First census",
+            "Old generation dies",
+            "Second census",
+            "New generation inherits"
+          ]
+        },
+        {
+          "label": "Grumbling and rebellion",
+          "items": [
+            "Craving meat",
+            "Miriam and Aaron",
+            "Ten spies' fear",
+            "Korah's revolt"
+          ]
+        },
+        {
+          "label": "God's faithfulness",
+          "items": [
+            "Cloud and fire",
+            "Manna continues",
+            "Bronze serpent",
+            "Forgives yet disciplines"
+          ]
+        },
+        {
+          "label": "Balaam",
+          "items": [
+            "Hired to curse",
+            "Talking donkey",
+            "Blessings instead",
+            "Star out of Jacob"
+          ]
+        },
+        {
+          "label": "Preparing for land",
+          "items": [
+            "Joshua commissioned",
+            "Women's inheritance",
+            "Cities of refuge",
+            "Tribal boundaries"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Wilderness",
+        "original": "midbar (מִדְבָּר)",
+        "meaning": "Desert or steppe land, a place of testing and dependence where God both disciplines and provides.",
+        "refs": [
+          "Num 1:1",
+          "Num 14:33",
+          "Hos 2:14"
+        ]
+      },
+      {
+        "word": "Murmur / grumble",
+        "original": "lun (לוּן)",
+        "meaning": "To complain persistently. The wilderness word for distrust of God and his leaders.",
+        "refs": [
+          "Num 14:2",
+          "Num 14:27",
+          "Num 17:5"
+        ]
+      },
+      {
+        "word": "Number / muster",
+        "original": "paqad (פָּקַד)",
+        "meaning": "To count, muster, or attend to. The same word is used when God 'visits' his people in care or judgment.",
+        "refs": [
+          "Num 1:3",
+          "Num 26:2",
+          "Num 14:18"
+        ]
+      },
+      {
+        "word": "Bless",
+        "original": "barakh (בָּרַךְ)",
+        "meaning": "To speak and give life and favour. Balaam's story turns on whether he will bless or curse Israel.",
+        "refs": [
+          "Num 6:24-26",
+          "Num 23:20",
+          "Num 24:9"
+        ]
+      },
+      {
+        "word": "Inheritance",
+        "original": "nachalah (נַחֲלָה)",
+        "meaning": "A family's allotted share of land, held from God and not to be sold off permanently.",
+        "refs": [
+          "Num 26:52-56",
+          "Num 27:7",
+          "Num 36:7"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "exodus",
+        "how": "Many wilderness stories in Numbers mirror Exodus (manna, quail, water from the rock), but after Sinai grumbling now brings judgment.",
+        "refs": [
+          "Exod 16:1-36",
+          "Num 11:4-9",
+          "Num 20:1-13"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Deuteronomy is Moses' speech to the new generation counted in Num 26, recalling the failure at Kadesh.",
+        "refs": [
+          "Deut 1:19-46",
+          "Num 26:63-65"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalms 78, 95 and 106 retell the wilderness rebellions as a warning: 'harden not your heart'.",
+        "refs": [
+          "Ps 95:7-11",
+          "Ps 106:13-33"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "Jesus compares his being lifted up on the cross to the bronze serpent lifted up for healing.",
+        "refs": [
+          "John 3:14-15",
+          "Num 21:8-9"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews warns the church not to repeat the unbelief of the wilderness generation, who could not enter God's rest.",
+        "refs": [
+          "Heb 3:7-19",
+          "Heb 4:1-11"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "The risen Jesus rebukes those who hold 'the doctrine of Balaam', leading God's people into idolatry and immorality.",
+        "refs": [
+          "Rev 2:14",
+          "Num 31:16"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus himself uses Numbers: 'as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up' (John 3:14), pointing to the bronze serpent that healed those who looked at it (Num 21:9). Paul calls the rock that gave water 'Christ' (1 Cor 10:4), and Jesus' feeding of the crowd in the wilderness and his teaching on the bread from heaven echo the manna. Balaam's 'star out of Jacob' (Num 24:17) was read as a messianic prophecy by Jewish groups before Jesus (the Dead Sea Scrolls use it, and the 2nd-century rebel leader Bar Kokhba was hailed as 'son of the star'), and Christians linked it with the star at Jesus' birth (Matt 2:2). Hebrews reads the wilderness generation as a mirror for the church living between rescue and arrival.",
+    "misreadings": [
+      {
+        "topic": "The wilderness as a lower Christian life",
+        "popular": "In some revivalist and 'higher life' teaching, the wilderness stands for the defeated, carnal Christian who has been saved (left Egypt) but has not yet entered the victorious life (Canaan) through a second experience of full surrender.",
+        "inContext": "Numbers is about a whole covenant people, not stages in an individual's spiritual biography. The wilderness is real history and a place of God's presence and provision as well as testing; the prophets even remember it as a honeymoon (Jer 2:2; Hos 2:14). Hebrews applies it to the whole church living between redemption and final rest (Heb 3-4).",
+        "defence": "Defenders of 'deeper life' teaching (from the Keswick tradition) see value in calling believers out of half-hearted faith, which Hebrews also does. Many evangelical scholars, including Reformed critics of Keswick such as J. I. Packer, accept the call to wholehearted trust but reject a two-tier picture of Christians. Most would agree the typology is a homiletical application, not the book's own meaning.",
+        "whyItMatters": "Reading Numbers as a community story keeps the focus on shared faithfulness, leadership and God's patience with a people, rather than on private spiritual stages.",
+        "refs": [
+          "Num 14:1-38",
+          "Jer 2:2",
+          "Heb 3:7-19",
+          "Heb 4:1-11"
+        ],
+        "scholars": [
+          "Dennis Olson",
+          "J. I. Packer",
+          "Gordon Wenham",
+          "Timothy Ashley"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Numbers warned Israel that rescue does not guarantee arrival: a generation that despises God's gifts and refuses to trust him can lose its inheritance. It also comforted them that God keeps his promise for the children and protects his people even from curses they never hear about.",
+      "now": "Numbers speaks to communities in transition: between rescue and promised rest, under pressure, tempted to look back to Egypt. It exposes the poison of grumbling and fear, honours faithful minorities like Caleb and Joshua, shows women's voices changing the law, and promises that God's blessing outlasts our failure."
+    },
+    "sources": [
+      {
+        "author": "Dennis T. Olson",
+        "title": "The Death of the Old and the Birth of the New: The Framework of the Book of Numbers and the Pentateuch",
+        "year": 1985
+      },
+      {
+        "author": "Jacob Milgrom",
+        "title": "Numbers (The JPS Torah Commentary)",
+        "year": 1990
+      },
+      {
+        "author": "Timothy R. Ashley",
+        "title": "The Book of Numbers (NICOT)",
+        "year": 1993
+      },
+      {
+        "author": "Gordon J. Wenham",
+        "title": "Numbers (Tyndale Old Testament Commentaries)",
+        "year": 1981
+      }
+    ]
+  },
+  {
+    "id": "deuteronomy",
+    "oneLine": "Deuteronomy is Moses' farewell sermon, urging a new generation to love the one God with all their heart and to live his covenant justly in the land he is giving them.",
+    "author": {
+      "name": "Moses (traditional); scribes of the late monarchy and exile (critical)",
+      "who": "The book presents itself as Moses' speeches on the plains of Moab, written down and handed to the Levitical priests. Critical scholars see it as the product of a 'Deuteronomic' school of scribes, prophets and priests in Judah in the 7th century BC, expanded during the exile.",
+      "howWeKnow": "Deut 1:1 introduces Moses' words, and Deut 31:9 and Deut 31:24 say Moses wrote this law down. The book is also framed by a narrator who speaks of Moses in the third person and records his death (Deut 34). Since de Wette (1805), critical scholars have linked the book's core (Deut 12-26) with the 'book of the law' found in the temple in 622 BC (2 Kgs 22:8), because Josiah's reform matches its demands: one central sanctuary, Passover in Jerusalem, removal of high places. Moshe Weinfeld showed close parallels with Assyrian loyalty oaths of the 7th century (especially Esarhaddon's succession treaty, 672 BC). Kenneth Kitchen and Meredith Kline argued instead that its overall shape matches 2nd-millennium Hittite treaties, supporting an earlier date.",
+      "otherWritings": [
+        "Genesis",
+        "Exodus",
+        "Leviticus",
+        "Numbers"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "The plains of Moab, east of the Jordan (narrative setting)",
+      "coords": [
+        35.6,
+        31.85
+      ],
+      "note": "In the story, Moses speaks across from Jericho, within sight of the land he will not enter. On the critical view, the book was written in Jerusalem in the 7th century and completed in Babylonian exile, again with the land in view but out of reach.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The new generation about to enter Canaan; later, Judah under Josiah and the exiles",
+      "place": "Plains of Moab; Jerusalem; Babylon",
+      "situation": "A people standing between promise and possession must decide whether they will be loyal to the LORD alone in a land full of other gods. Moses' repeated 'today' (Deut 30:15-19) invites every generation that hears the book to stand in the same moment of decision.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -1406,
+      "to": -1406,
+      "note": "The book covers about one month at the end of the fortieth year (Deut 1:3; Deut 34:8), c. 1406 BC on the early chronology or c. 1220 BC on the late. Critical scholars read the setting as literary, with the real audience living in the 7th-6th centuries BC."
+    },
+    "worldEvents": [
+      {
+        "year": -1350,
+        "event": "Hittite kings such as Suppiluliuma I make vassal treaties with historical prologue, stipulations, deposit, reading, witnesses, blessings and curses."
+      },
+      {
+        "year": -722,
+        "event": "Samaria falls to Assyria; northern refugees may have brought Deuteronomic traditions to Jerusalem."
+      },
+      {
+        "year": -672,
+        "event": "Esarhaddon of Assyria imposes a loyalty oath on vassals, demanding they 'love' the crown prince with all their heart; its curses closely parallel Deut 28."
+      },
+      {
+        "year": -622,
+        "event": "A 'book of the law' is found in the temple, and King Josiah launches a sweeping religious reform."
+      },
+      {
+        "year": -586,
+        "event": "Jerusalem falls; Deuteronomy's warnings of exile come true, and its promise of return after repentance becomes the exiles' hope (Deut 30:1-5)."
+      }
+    ],
+    "backdrop": "The name Deuteronomy comes from the Greek translation of Deut 17:18, where the king is to write 'a copy of this law'; the Greek translators rendered it *deuteronomion*, 'second law'. The book is not a new law but a retelling and application of the Sinai covenant for a generation about to settle down. Its Hebrew name, *Devarim*, means 'words', from its opening line.\n\nDeuteronomy is shaped like an ancient treaty between a great king and a vassal people. It has a preamble (Deut 1:1-5), a history of what the great king has done (Deut 1-4), basic loyalty (Deut 5-11), detailed laws (Deut 12-26), blessings and curses (Deut 27-28), witnesses, and provisions for storing and reading the document (Deut 31:9-13). Ancient treaties demanded that vassals 'love' their overlord, meaning exclusive political loyalty. Deuteronomy uses that language for Israel's relationship with God: 'thou shalt love the LORD thy God with all thine heart' (Deut 6:5). Love here is not only feeling; it is wholehearted, practical loyalty. But it is also warmer than any treaty: God set his love on Israel because he loved them and kept his oath to their fathers (Deut 7:7-8).\n\nThe laws have a strong social conscience. Debts are released every seventh year (Deut 15:1-11), runaway slaves are not to be returned (Deut 23:15-16), workers are paid daily (Deut 24:14-15), and the 'stranger, the fatherless, and the widow' appear again and again (Deut 10:18; Deut 24:19-21). Even the king is limited: he must not multiply horses, wives or gold, and must read the law daily so that 'his heart be not lifted up above his brethren' (Deut 17:14-20). No other ancient law collection limits its king like this.\n\nThe book also has a unique demand: worship at 'the place which the LORD your God shall choose' (Deut 12:5), rather than at every local shrine. Critical scholars connect this with Josiah's centralisation of worship in Jerusalem. Traditional scholars note that the book never names Jerusalem and that it could refer to successive sanctuaries such as Shiloh. Either way, the demand protected Israel's worship from merging with the local cults of Canaan.",
+    "culture": [
+      {
+        "term": "Treaty love",
+        "explain": "In ancient treaties, to 'love' the overlord meant to be loyal and obey him. Deuteronomy takes over this word for Israel's relationship with God, and fills it with warmth, gratitude and family language.",
+        "refs": [
+          "Deut 6:5",
+          "Deut 7:7-9",
+          "Deut 10:12"
+        ]
+      },
+      {
+        "term": "The Shema",
+        "explain": "'Hear, O Israel: The LORD our God is one LORD' (Deut 6:4). Recited twice daily by Jews, it confesses that the LORD alone is Israel's God and calls for undivided love.",
+        "refs": [
+          "Deut 6:4-9",
+          "Mark 12:29-30"
+        ]
+      },
+      {
+        "term": "Blessings and curses",
+        "explain": "Treaties ended with blessings for loyalty and curses for betrayal, often in vivid lists. Deut 28's curses closely resemble those in Assyrian treaties. They apply to Israel as a nation in the land.",
+        "refs": [
+          "Deut 28:1-14",
+          "Deut 28:15-68",
+          "Deut 30:15-20"
+        ]
+      },
+      {
+        "term": "Public reading",
+        "explain": "Treaties were stored in temples and read aloud regularly. Every seventh year at the feast of Booths, the whole people, including women, children and foreigners, were to hear the law read.",
+        "refs": [
+          "Deut 31:9-13",
+          "Neh 8:1-8"
+        ]
+      },
+      {
+        "term": "The stranger, the fatherless and the widow",
+        "explain": "People without land or male protector were the most vulnerable in an agricultural, kinship-based society. Deuteronomy makes them the special concern of God and of every Israelite household.",
+        "refs": [
+          "Deut 10:17-19",
+          "Deut 14:28-29",
+          "Deut 24:17-22"
+        ]
+      },
+      {
+        "term": "Herem (devoted to destruction)",
+        "explain": "Something 'devoted' was given wholly to God, often by destruction in war. Deuteronomy applies it to the Canaanite cities to remove idolatry. Its meaning and the scale it describes are debated.",
+        "refs": [
+          "Deut 7:1-6",
+          "Deut 20:16-18"
+        ]
+      }
+    ],
+    "jewishLens": "Deuteronomy gave Judaism its central confession. The Shema (Deut 6:4-9), along with Deut 11:13-21 and Num 15:37-41, is recited every morning and evening and, ideally, as the last words before death. Its commands are fulfilled literally: the words are written in the *mezuzah* fixed to doorposts and in the *tefillin* (phylacteries) bound on arm and forehead during morning prayer (Deut 6:8-9). A Jewish child's first verse is often 'Moses commanded us a law, even the inheritance of the congregation of Jacob' (Deut 33:4).\n\nThe rabbis also called Deuteronomy *Mishneh Torah*, 'repetition of the Torah', the name Maimonides later gave to his great law code. It is read in synagogue during the late summer, through the sad fast of Tisha B'Av and the 'seven weeks of comfort' toward the New Year, so that its warnings and promises of return frame Israel's season of repentance. The final verses, Moses' death and burial by God himself in an unknown grave (Deut 34:5-6), are read on Simchat Torah, when the cycle ends and begins again; the rabbis said the Torah begins with an act of kindness (God clothing Adam and Eve) and ends with one (God burying Moses).\n\nThe first audience would have heard Deuteronomy as a loving parent's last words. Moses keeps saying 'remember' and 'do not forget'. He insists that the law is not too hard or far away: 'the word is very nigh unto thee, in thy mouth, and in thy heart, that thou mayest do it' (Deut 30:14). Obedience is the response of love to a God who chose Israel not because they were many or good but because he loved them (Deut 7:7-8; Deut 9:4-6). And he promises that even after exile, if Israel returns, God will gather them and 'circumcise thine heart' so they can love him fully (Deut 30:1-6).",
+    "flow": [
+      {
+        "label": "Remember the journey",
+        "detail": "Moses recalls forty years: the failure at Kadesh, the victories in Transjordan and God's faithfulness despite Israel's unbelief.",
+        "refs": [
+          "Deut 1:19-46",
+          "Deut 2:7",
+          "Deut 4:32-40"
+        ]
+      },
+      {
+        "label": "Ten Words renewed",
+        "detail": "The covenant made at Horeb is restated for the new generation, which is now treated as standing there itself.",
+        "refs": [
+          "Deut 5:1-21"
+        ]
+      },
+      {
+        "label": "Love the one LORD",
+        "detail": "The Shema and its explanation call for wholehearted loyalty, teaching children, and humility in prosperity.",
+        "refs": [
+          "Deut 6:4-9",
+          "Deut 8:11-18",
+          "Deut 10:12-22"
+        ]
+      },
+      {
+        "label": "Laws for life in the land",
+        "detail": "One place of worship, festivals, debt release, just courts, limits on kings, care for the poor and fair treatment of workers and foreigners.",
+        "refs": [
+          "Deut 12:1-14",
+          "Deut 15:1-11",
+          "Deut 16:18-20",
+          "Deut 17:14-20",
+          "Deut 24:14-22"
+        ]
+      },
+      {
+        "label": "Blessing or curse",
+        "detail": "A covenant ceremony at Shechem is commanded, with blessings for faithfulness and curses, including exile, for betrayal.",
+        "refs": [
+          "Deut 27:1-8",
+          "Deut 28:1-68"
+        ]
+      },
+      {
+        "label": "Choose life",
+        "detail": "Moses foresees exile and return, promises a circumcised heart, and calls Israel to choose life today.",
+        "refs": [
+          "Deut 30:1-10",
+          "Deut 30:11-20"
+        ]
+      },
+      {
+        "label": "Moses' song and death",
+        "detail": "Joshua is commissioned, Moses sings and blesses the tribes, views the land from Nebo and dies.",
+        "refs": [
+          "Deut 31:7-8",
+          "Deut 32:1-43",
+          "Deut 33:1-29",
+          "Deut 34:1-12"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Deuteronomy: covenant love renewed",
+      "branches": [
+        {
+          "label": "Remember",
+          "items": [
+            "Forty years retold",
+            "Do not forget",
+            "Teach your children",
+            "You were slaves"
+          ]
+        },
+        {
+          "label": "Love God",
+          "items": [
+            "The Shema",
+            "Whole heart, soul, might",
+            "No other gods",
+            "Circumcised heart"
+          ]
+        },
+        {
+          "label": "Justice in the land",
+          "items": [
+            "Debt release",
+            "Fair courts",
+            "Wages paid daily",
+            "Stranger, widow, orphan"
+          ]
+        },
+        {
+          "label": "Leadership",
+          "items": [
+            "Limited king",
+            "Prophet like Moses",
+            "Levitical priests",
+            "Judges and officers"
+          ]
+        },
+        {
+          "label": "Choice",
+          "items": [
+            "Blessings and curses",
+            "Life or death",
+            "Exile and return",
+            "Today"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Hear",
+        "original": "shema' (שְׁמַע)",
+        "meaning": "To hear, listen and obey. In Hebrew, really hearing means responding.",
+        "refs": [
+          "Deut 6:4",
+          "Deut 5:1",
+          "Deut 30:20"
+        ]
+      },
+      {
+        "word": "Love",
+        "original": "'ahav (אָהַב)",
+        "meaning": "Covenant loyalty with heart and action. God loves Israel first; Israel is to love God, the neighbour and the stranger.",
+        "refs": [
+          "Deut 6:5",
+          "Deut 7:8",
+          "Deut 10:19"
+        ]
+      },
+      {
+        "word": "Remember",
+        "original": "zakhar (זָכַר)",
+        "meaning": "To call to mind so that it shapes action. Israel remembers slavery and God's rescue, and acts justly.",
+        "refs": [
+          "Deut 5:15",
+          "Deut 8:2",
+          "Deut 24:18"
+        ]
+      },
+      {
+        "word": "Heart",
+        "original": "levav (לֵבָב)",
+        "meaning": "The centre of thinking, choosing and feeling. Deuteronomy wants the law written on the heart, not only obeyed outwardly.",
+        "refs": [
+          "Deut 6:6",
+          "Deut 10:16",
+          "Deut 30:6"
+        ]
+      },
+      {
+        "word": "Instruction / law",
+        "original": "torah (תּוֹרָה)",
+        "meaning": "Teaching or instruction, like a parent's guidance; not merely legal code.",
+        "refs": [
+          "Deut 4:44",
+          "Deut 31:9",
+          "Deut 33:4"
+        ]
+      },
+      {
+        "word": "Choose",
+        "original": "bachar (בָּחַר)",
+        "meaning": "God chooses Israel and a place for his name; Israel must choose life.",
+        "refs": [
+          "Deut 7:6",
+          "Deut 12:5",
+          "Deut 30:19"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "joshua",
+        "how": "Joshua opens by applying Deuteronomy's call to be strong and courageous and to meditate on the law.",
+        "refs": [
+          "Josh 1:6-9",
+          "Deut 31:7-8"
+        ]
+      },
+      {
+        "bookId": "2-kings",
+        "how": "The book of the law found in Josiah's day, usually identified with Deuteronomy, drives his reform; Kings judges every king by Deuteronomy's standards.",
+        "refs": [
+          "2 Kgs 22:8-13",
+          "2 Kgs 23:25"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah's language is soaked in Deuteronomy, and he promises a new covenant with the law written on the heart.",
+        "refs": [
+          "Jer 11:1-5",
+          "Jer 31:31-34"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus answers all three wilderness temptations with words from Deuteronomy and names the Shema as the greatest commandment.",
+        "refs": [
+          "Matt 4:4",
+          "Matt 4:7",
+          "Matt 4:10",
+          "Matt 22:37-38"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Peter and Stephen identify Jesus as the 'prophet like Moses' promised in Deut 18.",
+        "refs": [
+          "Acts 3:22-23",
+          "Acts 7:37",
+          "Deut 18:15-19"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul reads Deut 30:12-14, 'the word is nigh thee', as the word of faith proclaimed in Christ.",
+        "refs": [
+          "Rom 10:6-10"
+        ]
+      }
+    ],
+    "jesusLens": "Deuteronomy is one of the books Jesus quotes most. In the wilderness, as the true Israel tested forty days, he answers the devil three times from Deuteronomy (Matt 4:1-11; Deut 8:3; Deut 6:16; Deut 6:13), succeeding where the wilderness generation failed. He names the Shema as the first commandment (Mark 12:29-30). The early church saw him as the 'prophet like Moses' whom Israel must hear (Deut 18:15; Acts 3:22), and Paul reads the promise of a circumcised heart (Deut 30:6) as fulfilled by the Spirit (Rom 2:29). Paul also wrestles with Deuteronomy's curses, saying Christ became a curse for us by hanging on a tree (Gal 3:13; Deut 21:23). Jewish readers emphasise that Deuteronomy itself says the commandment is near and doable (Deut 30:11-14) and that it describes an ongoing relationship of love; Christian interpreters differ on how far Deuteronomy expects Israel to fail (Deut 31:16-29) and how that sets up the need for a new covenant.",
+    "misreadings": [
+      {
+        "topic": "Deuteronomy's blessings as a prosperity promise",
+        "popular": "Some prosperity preaching takes Deut 8:18 ('it is he that giveth thee power to get wealth') and Deut 28:1-14 as promises that any believer who obeys and gives faithfully will be financially rich and healthy.",
+        "inContext": "The blessings and curses belong to a national covenant tied to the land of Israel, in the form of an ancient treaty. They are corporate (the nation, its crops, its rain) and serve the covenant's goal of a just society where 'there shall be no poor among you' (Deut 15:4). Deut 8:18 is actually a warning against pride: when you are rich, remember it was God's gift, 'that he may establish his covenant'. Scholars such as Christopher Wright and Daniel Block stress this context.",
+        "defence": "Prosperity teachers argue that Gal 3:14 extends the blessing of Abraham to believers and that God still delights in providing. Evangelical scholars such as Gordon Fee (himself from a Pentecostal background) and D. A. Carson reply that the New Testament reinterprets blessing around the Spirit, contentment and generosity (1 Tim 6:6-10), and that the righteous often suffer (Job; Heb 11:35-38). Most agree that God does bless obedience, but not with a guaranteed financial formula.",
+        "whyItMatters": "Read in context, Deuteronomy's blessings call communities to generosity and justice; read as personal formulas, they can blame the poor and sick for their condition.",
+        "refs": [
+          "Deut 8:11-18",
+          "Deut 15:4-11",
+          "Deut 28:1-14",
+          "1 Tim 6:6-10"
+        ],
+        "scholars": [
+          "Christopher J. H. Wright",
+          "Daniel Block",
+          "Gordon Fee",
+          "D. A. Carson"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Love as feeling versus law as duty",
+        "popular": "The Old Testament demanded outward obedience to rules, while the New Testament introduced the idea of loving God from the heart.",
+        "inContext": "Deuteronomy is the Bible's great book of love. It commands love for God with all the heart (Deut 6:5), roots the law in God's prior love (Deut 7:7-8), calls Israel to circumcise its heart (Deut 10:16) and loves the stranger (Deut 10:19). Jesus' greatest commandment is a quotation of Deuteronomy. Scholars such as Jon Levenson (*The Love of God*, 2016) show how love and obedience belong together in covenant.",
+        "defence": "Evangelical scholars agree, while noting that Deuteronomy itself anticipates Israel's failure (Deut 29:4; Deut 31:27-29) and promises that God will change the heart (Deut 30:6), a promise the New Testament sees fulfilled by the Spirit. So the difference between the covenants is not law versus love, but whether hearts are renewed.",
+        "whyItMatters": "Recognising love at the core of the Torah corrects a common caricature of Judaism and helps Christians see continuity between the Testaments.",
+        "refs": [
+          "Deut 6:4-6",
+          "Deut 7:7-8",
+          "Deut 10:16-19",
+          "Deut 30:6",
+          "Mark 12:29-31"
+        ],
+        "scholars": [
+          "Jon Levenson",
+          "Daniel Block",
+          "Peter Craigie",
+          "Thomas Schreiner"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Deuteronomy prepared Israel to keep faith in a land of abundance and rival gods: remember the rescue, love the LORD alone, build a just society, limit power, and know that unfaithfulness leads to exile while repentance leads home.",
+      "now": "Deuteronomy shapes how believers think about love for God, memory, teaching children, justice for the poor and immigrants, the danger of comfort and the limits of political power. Its call to 'choose life' still confronts each generation."
+    },
+    "sources": [
+      {
+        "author": "Jeffrey H. Tigay",
+        "title": "Deuteronomy (The JPS Torah Commentary)",
+        "year": 1996
+      },
+      {
+        "author": "Moshe Weinfeld",
+        "title": "Deuteronomy and the Deuteronomic School",
+        "year": 1972
+      },
+      {
+        "author": "Daniel I. Block",
+        "title": "Deuteronomy (NIV Application Commentary)",
+        "year": 2012
+      },
+      {
+        "author": "Peter C. Craigie",
+        "title": "The Book of Deuteronomy (NICOT)",
+        "year": 1976
+      },
+      {
+        "author": "Jon D. Levenson",
+        "title": "The Love of God: Divine Gift, Human Gratitude, and Mutual Faithfulness in Judaism",
+        "year": 2016
+      }
+    ]
+  },
+  {
+    "id": "joshua",
+    "oneLine": "Joshua tells how God kept his promise of land, bringing Israel across the Jordan and into Canaan, and then asks each generation to choose whom it will serve.",
+    "author": {
+      "name": "Joshua and later editors (traditional); the Deuteronomistic historians (critical)",
+      "who": "The Talmud credits Joshua with most of the book, with his death recorded by Eleazar and Phinehas (Baba Bathra 15a). Most critical scholars see Joshua as the first book of the Deuteronomistic History, written or edited in the late monarchy and exile using older stories and lists.",
+      "howWeKnow": "Josh 24:26 says Joshua wrote words in the book of the law of God. The phrase 'unto this day' (Josh 4:9; Josh 7:26; Josh 15:63) shows a writer looking back on the events from some distance. The book's language and theology closely match Deuteronomy, which led Martin Noth (1943) to propose a single history running from Deuteronomy to Kings.",
+      "otherWritings": [
+        "Part of the Deuteronomistic History: Judges, Samuel, Kings (critical view)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Canaan (traditional); Jerusalem and the exile (critical)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "On the critical view the book took shape in Jerusalem under Josiah (who also tried to reclaim and purify the land) and was finished in exile, when the land had been lost. Coordinates are for Jerusalem; the traditional view places composition in early Israel.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israel as heirs of the promised land",
+      "place": "Canaan; later Judah and the exiles",
+      "situation": "Every generation needed to know that the land was a gift, not a conquest earned by strength, and that keeping it depended on loyalty to the LORD. For exiles who had lost the land, Joshua was both an explanation and a hope: God gave it once and can give it again.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -1406,
+      "to": -1380,
+      "note": "From the Jordan crossing to Joshua's death at 110. Early chronology: c. 1406-1380 BC. Late chronology: c. 1230-1200 BC, the period when hundreds of new hill-country villages appear and when the Merneptah Stele (c. 1208 BC) first names Israel in Canaan. Many critical scholars think the book compresses a long, gradual process into a single campaign."
+    },
+    "worldEvents": [
+      {
+        "year": -1350,
+        "event": "Amarna letters: Canaanite kings complain to Pharaoh about the 'Habiru', landless raiders destabilising the land."
+      },
+      {
+        "year": -1230,
+        "event": "Hazor's great Late Bronze palace is destroyed by an intense fire; the excavator Amnon Ben-Tor attributes it to the Israelites, others to Egyptians or internal revolt."
+      },
+      {
+        "year": -1208,
+        "event": "Pharaoh Merneptah's stele claims 'Israel is laid waste', showing Israel as a people in Canaan."
+      },
+      {
+        "year": -1200,
+        "event": "Around 300 small new villages appear in the central hill country, often linked with early Israel."
+      },
+      {
+        "year": -622,
+        "event": "Josiah's reform and expansion northward; critical scholars see a Josianic edition of Joshua."
+      }
+    ],
+    "backdrop": "Canaan in the Late Bronze Age was a land of small, walled city-states, each with its own king, nominally under Egyptian control. The Amarna letters (14th century BC) show these kings quarrelling with each other and begging Egypt for troops. Around 1200 BC this world collapsed: cities burned, trade networks failed, and the Egyptians withdrew. In the central hill country, hundreds of small farming villages appeared, without pig bones, with simple houses and storage pits. Many archaeologists identify these as early Israel.\n\nHow does the book of Joshua relate to this evidence? Opinions vary widely. Older scholars (W. F. Albright) saw a military conquest matching the destruction layers. Others proposed peaceful infiltration of nomads (Albrecht Alt) or a peasant revolt within Canaan (George Mendenhall, Norman Gottwald). Today many archaeologists, such as Israel Finkelstein and William Dever, think Israel emerged mostly from within Canaan. Conservative scholars such as Kenneth Kitchen and Richard Hess argue that the book itself describes a limited campaign: it says only three cities were burned (Jericho, Ai and Hazor, Josh 11:13), that much land remained unconquered (Josh 13:1), and that Canaanites still lived among Israel (Josh 15:63; Judg 1:27-33).\n\nSpecific sites are debated. At Jericho, John Garstang (1930s) dated a destroyed city to about 1400 BC; Kathleen Kenyon (1950s) redated that destruction to about 1550 BC and found little Late Bronze occupation; Bryant Wood (1990) argued again for 1400 BC, and radiocarbon tests have generally supported Kenyon's earlier date. Ai (usually identified with et-Tell) seems to have been unoccupied in the Late Bronze Age, which has led some to propose another site. Hazor, by contrast, has a massive burned destruction layer of the 13th century BC.\n\nThe book's own shape follows Deuteronomy: a new Moses (Joshua), a new crossing of waters, circumcision and Passover at Gilgal, holy war against idolatry, a covenant ceremony on Mount Ebal (Josh 8:30-35, as Deut 27 commanded), land allotment and covenant renewal. In the 1980s Adam Zertal excavated a structure on Mount Ebal that he identified as an Israelite altar; others see it as a farmhouse or watchtower.",
+    "culture": [
+      {
+        "term": "Holy war and herem",
+        "explain": "In ancient warfare a god was believed to fight for his people. Devoting a city to God (herem) meant giving it entirely to him, often by destruction, with no plunder. The Moabite king Mesha (9th century BC) boasts of doing the same to Israelite towns for his god Chemosh.",
+        "refs": [
+          "Josh 6:17-21",
+          "Josh 10:40",
+          "Deut 20:16-18"
+        ]
+      },
+      {
+        "term": "Hyperbolic war reports",
+        "explain": "Ancient Near Eastern conquest accounts routinely used total language ('left none remaining') for victories that were partial. Joshua itself shows Canaanites still living in the land after such statements.",
+        "refs": [
+          "Josh 10:40",
+          "Josh 13:1-6",
+          "Josh 15:63"
+        ]
+      },
+      {
+        "term": "Memorial stones",
+        "explain": "Stone heaps marked sacred events and served as teaching tools: 'when your children ask'. Twelve stones from the Jordan stand at Gilgal.",
+        "refs": [
+          "Josh 4:1-9",
+          "Josh 4:20-24",
+          "Josh 24:26-27"
+        ]
+      },
+      {
+        "term": "Inheritance by lot",
+        "explain": "Land was distributed by casting lots before God, so that every tribe and clan received its share from God's hand, not by power. It could not be sold permanently.",
+        "refs": [
+          "Josh 14:1-2",
+          "Josh 18:10",
+          "Num 26:55-56"
+        ]
+      },
+      {
+        "term": "Treaty and oath",
+        "explain": "The Gibeonites trick Israel into a treaty. Even though it was deceptive, the oath made in God's name must be kept: covenant faithfulness binds even toward foreigners.",
+        "refs": [
+          "Josh 9:3-27",
+          "2 Sam 21:1-2"
+        ]
+      },
+      {
+        "term": "Covenant renewal at Shechem",
+        "explain": "Shechem, where Abraham first built an altar, becomes the place where Joshua gathers all Israel to choose the LORD and set up a witness stone.",
+        "refs": [
+          "Gen 12:6-7",
+          "Josh 24:1-28"
+        ]
+      }
+    ],
+    "jewishLens": "In the Hebrew Bible Joshua opens the second division, the *Nevi'im* (Prophets), as the first of the 'Former Prophets'. Jewish tradition reads it as prophetic history: the story of how God's word to Moses came true. Its first chapter is read as the *haftarah* (prophetic reading) on Simchat Torah, right after Moses' death in Deuteronomy, so that the transition from Moses to Joshua is relived every year. Joshua 2 (the spies and Rahab) is the haftarah for the Torah portion about Moses' spies (Num 13-15), contrasting a failed reconnaissance with a faithful one.\n\nThe rabbis were struck by Rahab. In Talmudic tradition (Megillah 14b) she becomes a righteous convert who married Joshua and was the ancestor of priests and prophets, including Jeremiah and Huldah. Her confession that 'the LORD your God, he is God in heaven above, and in earth beneath' (Josh 2:11) is treated as one of the great professions of faith. The Talmud also warns against taking the conquest as a licence: later rabbis treated the commands concerning the seven Canaanite nations as no longer applicable, since those nations had ceased to exist (compare Mishnah Yadayim 4:4 on the mixing of nations by Sennacherib).\n\nThe first audience would hear Joshua as the fulfilment of the promise first given to Abraham. The book's climax is not a battle but the statement that 'there failed not ought of any good thing which the LORD had spoken unto the house of Israel; all came to pass' (Josh 21:45). Yet it ends with a warning and a choice: 'choose you this day whom ye will serve' (Josh 24:15). The land is a gift within a relationship, held only by loyalty, and the exiles who later read Joshua knew how real that warning was.",
+    "flow": [
+      {
+        "label": "Be strong and courageous",
+        "detail": "God commissions Joshua after Moses' death and promises his presence, calling him to meditate on the law.",
+        "refs": [
+          "Josh 1:1-9"
+        ]
+      },
+      {
+        "label": "Rahab and the spies",
+        "detail": "A Canaanite prostitute hides Israel's spies, confesses faith in the LORD and is spared with her family.",
+        "refs": [
+          "Josh 2:1-24",
+          "Josh 6:22-25"
+        ]
+      },
+      {
+        "label": "Crossing the Jordan",
+        "detail": "The river stops as the priests carry the ark in. Israel camps at Gilgal, is circumcised and keeps Passover; the manna ends.",
+        "refs": [
+          "Josh 3:14-17",
+          "Josh 5:2-12"
+        ]
+      },
+      {
+        "label": "Jericho and Achan",
+        "detail": "Jericho falls after a seven-day procession. Achan's theft brings defeat at Ai, showing that Israel can become like the Canaanites.",
+        "refs": [
+          "Josh 6:1-21",
+          "Josh 7:1-26",
+          "Josh 8:1-29"
+        ]
+      },
+      {
+        "label": "Campaigns south and north",
+        "detail": "Gibeon's treaty draws Israel into war with a southern coalition; then a northern coalition led by Hazor is defeated.",
+        "refs": [
+          "Josh 9:3-27",
+          "Josh 10:1-14",
+          "Josh 11:1-15"
+        ]
+      },
+      {
+        "label": "Dividing the inheritance",
+        "detail": "The land is allotted to the tribes by lot, with cities of refuge and Levitical towns; Caleb receives Hebron.",
+        "refs": [
+          "Josh 13:1-7",
+          "Josh 14:6-15",
+          "Josh 20:1-9",
+          "Josh 21:43-45"
+        ]
+      },
+      {
+        "label": "Choose whom to serve",
+        "detail": "Joshua's farewell and the covenant at Shechem: Israel promises to serve the LORD, and a stone is set up as witness.",
+        "refs": [
+          "Josh 23:1-16",
+          "Josh 24:14-28"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Joshua: promise kept, choice offered",
+      "branches": [
+        {
+          "label": "Leadership",
+          "items": [
+            "Joshua succeeds Moses",
+            "Meditate on the law",
+            "Commander of the LORD's army"
+          ]
+        },
+        {
+          "label": "Entering the land",
+          "items": [
+            "Jordan crossing",
+            "Gilgal memorial stones",
+            "Circumcision and Passover",
+            "Manna ceases"
+          ]
+        },
+        {
+          "label": "Warfare",
+          "items": [
+            "Jericho's walls",
+            "Achan's sin",
+            "Gibeon's treaty",
+            "Hazor burned",
+            "Debated scale"
+          ]
+        },
+        {
+          "label": "Insiders and outsiders",
+          "items": [
+            "Rahab saved",
+            "Achan judged",
+            "Gibeonites spared",
+            "Faith over ethnicity"
+          ]
+        },
+        {
+          "label": "Inheritance",
+          "items": [
+            "Land by lot",
+            "Cities of refuge",
+            "Rest from enemies",
+            "Every promise fulfilled"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Devoted thing",
+        "original": "cherem (חֵרֶם)",
+        "meaning": "Something given wholly to God, usually by destruction, and forbidden for human use.",
+        "refs": [
+          "Josh 6:17-18",
+          "Josh 7:1"
+        ]
+      },
+      {
+        "word": "Inheritance",
+        "original": "nachalah (נַחֲלָה)",
+        "meaning": "The family land allotted by God; the word occurs dozens of times in Joshua 13-21.",
+        "refs": [
+          "Josh 11:23",
+          "Josh 13:7",
+          "Josh 24:28"
+        ]
+      },
+      {
+        "word": "Rest",
+        "original": "nuach, menuchah (נוּחַ, מְנוּחָה)",
+        "meaning": "Settled peace from enemies in the land, a key promise of Deuteronomy.",
+        "refs": [
+          "Josh 1:13",
+          "Josh 21:44",
+          "Heb 4:8-9"
+        ]
+      },
+      {
+        "word": "Be strong and of good courage",
+        "original": "chazaq ve'ematz (חֲזַק וֶאֱמָץ)",
+        "meaning": "The repeated charge to Joshua and to Israel, grounded in God's presence, not in human ability.",
+        "refs": [
+          "Josh 1:6",
+          "Josh 1:9",
+          "Josh 10:25"
+        ]
+      },
+      {
+        "word": "Serve",
+        "original": "'avad (עָבַד)",
+        "meaning": "To worship and obey. The final chapter uses it again and again: serve the LORD, not the gods beyond the river.",
+        "refs": [
+          "Josh 24:14-15",
+          "Josh 24:24"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "deuteronomy",
+        "how": "Joshua carries out Deuteronomy's commands: the covenant ceremony on Mount Ebal, cities of refuge, and destruction of idolatrous cities.",
+        "refs": [
+          "Deut 27:1-8",
+          "Josh 8:30-35",
+          "Deut 19:1-10",
+          "Josh 20:1-9"
+        ]
+      },
+      {
+        "bookId": "judges",
+        "how": "Judges opens after Joshua's death and shows how incomplete the occupation was and how quickly Israel turned to other gods.",
+        "refs": [
+          "Judg 1:27-36",
+          "Judg 2:6-13"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The land given in Joshua is the land promised to Abraham; Joseph's bones are finally buried at Shechem.",
+        "refs": [
+          "Gen 15:18-21",
+          "Gen 50:25",
+          "Josh 24:32"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews says Joshua did not give the final rest, which remains for God's people; it also commends Rahab's faith.",
+        "refs": [
+          "Heb 4:8-9",
+          "Heb 11:30-31"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Rahab appears in Jesus' genealogy, a Canaanite woman in the line of the Messiah.",
+        "refs": [
+          "Matt 1:5"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James cites Rahab as an example of faith shown in action.",
+        "refs": [
+          "Jas 2:25"
+        ]
+      }
+    ],
+    "jesusLens": "The name Jesus is the Greek form of Joshua (*Yehoshua*, 'the LORD saves'); in Heb 4:8 the Greek actually reads 'Jesus' for Joshua. Christians have long read Joshua as a type of Jesus: a new leader after Moses who brings God's people into their inheritance. Hebrews says Joshua's rest was not final; a deeper Sabbath rest remains (Heb 4:8-11). Many Christian readers note that Jesus reverses the pattern of conquest: instead of taking land by the sword, he sends his followers to all nations with the message of peace (Matt 28:18-20), and the inheritance is widened to 'the meek' and the whole earth (Matt 5:5). Rahab, a Canaanite who sides with Israel's God, is included in Jesus' family tree (Matt 1:5), showing that faith, not ethnicity, defined membership even in Joshua. Jewish readers focus on the land as God's continuing gift to the Jewish people and on Joshua as the faithful disciple of Moses who received the Torah from him (Mishnah Avot 1:1).",
+    "misreadings": [
+      {
+        "topic": "The conquest as genocide or as a model for today",
+        "popular": "Readers tend to fall into one of two camps. One reads Joshua as a straightforward record of God commanding the extermination of whole peoples, which they either defend flatly or reject as proof the Old Testament God is cruel. The other has used Joshua to justify 'Christian' conquests, from crusades to colonial settlement.",
+        "inContext": "Scholars note that ancient war reports used sweeping, stereotyped language ('utterly destroyed all that breathed') for limited victories, and Joshua itself says Canaanites remained (Josh 13:1-6; Josh 15:63; Judg 1:21-36). Paul Copan, Matthew Flannagan and Nicholas Wolterstorff argue for hyperbole and that the targets were mainly military strongholds. The command was tied to a unique moment and to judgment on specific practices such as child sacrifice (Deut 12:31), not ethnicity: Canaanite Rahab is saved and Israelite Achan is destroyed. Jewish tradition already confined the commands to the past.",
+        "defence": "Traditional evangelical and Reformed scholars, such as Wayne Grudem and William Lane Craig in his earlier writing, hold that God, as giver of life and judge of all, could rightly command limited judgment on a corrupt culture after centuries of patience (Gen 15:16), and some warn that the hyperbole argument can be stretched too far to explain away the text. Others, such as Douglas Earl, read the stories mainly as theological symbolism about undivided loyalty. Nearly all agree that the commands were unique to that moment in salvation history and give no warrant for any war today.",
+        "whyItMatters": "Joshua has been misused to justify violence; reading it in context protects against that while still taking seriously God's judgment on evil and his inclusion of outsiders like Rahab.",
+        "refs": [
+          "Josh 6:21-25",
+          "Josh 10:40",
+          "Josh 13:1-6",
+          "Gen 15:16",
+          "Deut 12:31"
+        ],
+        "scholars": [
+          "Paul Copan",
+          "Matthew Flannagan",
+          "Nicholas Wolterstorff",
+          "Richard Hess",
+          "Wayne Grudem",
+          "Christopher J. H. Wright"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Joshua 1:8 as a formula for personal success",
+        "popular": "Josh 1:8 promises that if you meditate on God's word daily you will be prosperous and successful in your career and plans.",
+        "inContext": "The words are spoken to Israel's leader at a specific moment: success means carrying out God's commission to bring Israel into the land in line with the Torah. The 'success' (Hebrew *sakal*, act wisely) is about wise, faithful leadership under God's word, like the king who reads the law daily in Deut 17:18-20.",
+        "defence": "Evangelical teachers rightly draw a general principle: those who soak in God's word grow in wisdom (Ps 1:1-3). Scholars on all sides agree the verse is about faithfulness to God's purposes, not a guarantee of personal ambition.",
+        "whyItMatters": "Reading it as a career promise shrinks a call to covenant leadership into self-help.",
+        "refs": [
+          "Josh 1:7-9",
+          "Deut 17:18-20",
+          "Ps 1:1-3"
+        ],
+        "scholars": [
+          "Richard Hess",
+          "Marten Woudstra",
+          "David Howard"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Joshua told Israel that its land was God's gift, fulfilling his oath to Abraham; that holding it depended on covenant loyalty, not military power; and that outsiders who trust the LORD can be welcomed while insiders who betray him are judged.",
+      "now": "Joshua raises hard questions about violence and judgment that readers must face honestly. It also speaks of God's faithfulness to every promise, courage grounded in God's presence, the danger of compromise, the inclusion of unlikely outsiders, and the need for every generation to choose whom it will serve."
+    },
+    "sources": [
+      {
+        "author": "Richard S. Hess",
+        "title": "Joshua (Tyndale Old Testament Commentaries)",
+        "year": 1996
+      },
+      {
+        "author": "Martin Noth",
+        "title": "The Deuteronomistic History (English translation of Uberlieferungsgeschichtliche Studien, 1943)",
+        "year": 1981
+      },
+      {
+        "author": "Paul Copan and Matthew Flannagan",
+        "title": "Did God Really Command Genocide? Coming to Terms with the Justice of God",
+        "year": 2014
+      },
+      {
+        "author": "Israel Finkelstein and Neil Asher Silberman",
+        "title": "The Bible Unearthed",
+        "year": 2001
+      },
+      {
+        "author": "William G. Dever",
+        "title": "Who Were the Early Israelites and Where Did They Come From?",
+        "year": 2003
+      }
+    ]
   }
 ]
