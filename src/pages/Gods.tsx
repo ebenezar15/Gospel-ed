@@ -113,14 +113,14 @@ function Vowels() {
       <div className="grid gap-3 md:grid-cols-2">
         {list.map((n) => { const on = shown.includes(n.id); return (
           <button key={n.id} onClick={() => setShown((s) => on ? s.filter((x) => x !== n.id) : [...s, n.id])} className="card p-4 text-left hover:border-accent">
-            <div className="h-14 flex items-center relative overflow-hidden">
+            <div className="min-h-14 flex items-center relative">
               <AnimatePresence mode="wait">
-                {!on ? <motion.div key="a" className="display text-3xl" initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 12, filter: 'blur(4px)' }}>{n.original}</motion.div>
-                  : <motion.div key="b" className="display text-3xl text-accent" initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 12 }}>{n.changed}</motion.div>}
+                {!on ? <motion.div key="a" className={`display leading-tight ${n.original.length > 18 ? 'text-2xl' : 'text-3xl'}`} initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 12, filter: 'blur(4px)' }}>{n.original}</motion.div>
+                  : <motion.div key="b" className={`display leading-tight text-accent ${n.changed.length > 18 ? 'text-2xl' : 'text-3xl'}`} initial={{ opacity: 0, y: -12 }} animate={{ opacity: 1, y: 0 }} exit={{ opacity: 0, y: 12 }}>{n.changed}</motion.div>}
               </AnimatePresence>
             </div>
             <div className="text-sm"><span className="text-muted">{on ? 'Now means:' : 'Means:'}</span> <b>{on ? n.changedMeaning : n.originalMeaning}</b></div>
-            {on && <motion.div initial={{ opacity: 0.4 }} animate={{ opacity: 1 }} className="mt-2"><span className="chip">{n.technique}</span><p className="font-serif text-[1rem] mt-1.5">{n.note}</p><div className="mt-1.5 flex flex-wrap gap-2 items-center"><Refs refs={n.refs} max={3} /><Conf c={n.confidence} small /></div></motion.div>}
+            {on && <motion.div initial={{ opacity: 0.4 }} animate={{ opacity: 1 }} className="mt-2"><span className="chip whitespace-normal !h-auto py-0.5 inline-block max-w-full">{n.technique}</span><p className="font-serif text-[1rem] mt-1.5">{n.note}</p><div className="mt-1.5 flex flex-wrap gap-2 items-center"><Refs refs={n.refs} max={3} /><Conf c={n.confidence} small /></div></motion.div>}
             {!on && <div className="text-xs text-accent mt-2">Tap to see what the scribes did →</div>}
           </button>); })}
       </div>
@@ -289,7 +289,6 @@ export default function Gods() {
       <PageHeader eyebrow="Gods of the nations" title="The Other Gods of the Bible">
         Baal, Asherah, Dagon, Chemosh, Molech and the rest were real objects of worship with temples, priests and inscriptions we can still read. Meet them, watch the showdowns, see what the archaeologists found, and discover how the Bible renamed and mocked them, and what the “divine council” passages say about the powers behind the nations.
       </PageHeader>
-      {godsExtra.overview.plain && <section className="card p-5 mb-5" style={{ background: 'linear-gradient(135deg, rgb(var(--accent) / .07), rgb(var(--surface)))' }}><div className="eyebrow !text-accent mb-1">In plain words</div><p className="font-serif text-[1.2rem] leading-relaxed max-w-[75ch]">{godsExtra.overview.plain}</p>{godsExtra.overview.keyPoints.length > 0 && <ul className="grid gap-1.5 md:grid-cols-2 mt-3">{godsExtra.overview.keyPoints.map((k, i) => <li key={i} className="flex gap-2.5 text-[.95rem]"><span className="mt-1.5 w-2 h-2 rounded-full bg-accent shrink-0" />{k}</li>)}</ul>}</section>}
       <div className="flex flex-wrap gap-2 mb-4">
         {guide && <Link to={`/guides/${guide.id}`} className="chip hover:border-accent !py-1 !text-[.82rem]">Guide: {guide.title} →</Link>}
         {councilGuide && <Link to={`/guides/${councilGuide.id}`} className="chip hover:border-accent !py-1 !text-[.82rem]">Guide: {councilGuide.title} →</Link>}
@@ -299,6 +298,12 @@ export default function Gods() {
         { id: 'map', label: 'Map of the gods' }, { id: 'gods', label: `All gods (${gods.length})` }, { id: 'showdowns', label: 'Showdowns' }, { id: 'vowels', label: 'Check the vowels' },
         { id: 'digs', label: 'Archaeology' }, { id: 'purge', label: 'Josiah’s purge' }, { id: 'demons', label: 'From gods to demons' }, { id: 'council', label: '✦ The divine council' },
       ]} />
+      {tab === 'map' && godsExtra.overview.plain && (
+        <details className="card p-4 mb-4 group" style={{ background: 'linear-gradient(135deg, rgb(var(--accent) / .07), rgb(var(--surface)))' }}>
+          <summary className="cursor-pointer list-none flex items-start gap-3"><span className="eyebrow !text-accent shrink-0 mt-1">In plain words</span><span className="font-serif text-[1.1rem] line-clamp-2 group-open:line-clamp-none">{godsExtra.overview.plain}</span><span className="text-accent text-sm shrink-0 mt-1 group-open:hidden">More</span></summary>
+          {godsExtra.overview.keyPoints.length > 0 && <ul className="grid gap-1.5 md:grid-cols-2 mt-3">{godsExtra.overview.keyPoints.map((k, i) => <li key={i} className="flex gap-2.5 text-[.95rem]"><span className="mt-1.5 w-2 h-2 rounded-full bg-accent shrink-0" />{k}</li>)}</ul>}
+        </details>
+      )}
       {(tab === 'map' || tab === 'gods') && (
         <div className="flex flex-wrap gap-1.5 mb-4"><button className={`btn !py-1 ${!region ? 'btn-primary' : ''}`} onClick={() => setRegion('')}>Everywhere</button>{regions.map((r) => <button key={r} className={`btn !py-1 ${region === r ? 'btn-primary' : ''}`} onClick={() => setRegion(r)}><span className="w-2.5 h-2.5 rounded-full" style={{ background: `rgb(var(--${REGION[r].c}))` }} />{REGION[r].label}</button>)}</div>
       )}
