@@ -1492,5 +1492,1396 @@
         "year": 1991
       }
     ]
+  },
+  {
+    "id": "acts",
+    "oneLine": "The story of how the risen Jesus, by his Spirit, restored a renewed Israel in Jerusalem and drew the nations in, carrying the hope of Israel from Jerusalem to Rome.",
+    "author": {
+      "name": "Traditionally Luke, author of the Third Gospel",
+      "who": "A cultured writer, comfortable in Greek historiography and the Greek Old Testament, who knew the eastern Mediterranean well. The 'we' passages place him with Paul on parts of his journeys, including the voyage to Rome.",
+      "howWeKnow": "The preface addresses the same Theophilus as Luke and refers back to 'the first book'. Early writers from Irenaeus onward name Luke. Accurate local details, such as the title 'politarchs' at Thessalonica and Gallio's proconsulship in Corinth (confirmed by the Delphi inscription), support a well-informed author; differences from Paul's letters lead some scholars to think the writer was a later admirer rather than a companion.",
+      "otherWritings": [
+        "Luke"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown; Rome is often suggested because the narrative ends there",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "The book ends with Paul under house arrest in Rome for two years (c. 60-62), which early-date defenders take as the time of writing.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "Theophilus and the wider Gentile-majority church with its Jewish roots",
+      "place": "The Greek-speaking Mediterranean",
+      "situation": "A movement that began as Jews in Jerusalem now included many Gentiles and was regarded with suspicion by both some Jewish communities and Roman officials. Acts explains how this happened by God's design and shows that the movement was faithful to Israel's hope and not a danger to Roman order.",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": 30,
+      "to": 62,
+      "note": "From the ascension (c. 30 or 33) to the end of Paul's two-year house arrest in Rome (c. 62)."
+    },
+    "worldEvents": [
+      {
+        "year": 41,
+        "event": "Claudius becomes emperor; Herod Agrippa I made king of Judea (died 44, Acts 12)."
+      },
+      {
+        "year": 49,
+        "event": "Claudius expels Jews from Rome; Priscilla and Aquila come to Corinth (Acts 18:2)."
+      },
+      {
+        "year": 51,
+        "event": "Gallio proconsul of Achaia (dated by the Delphi inscription), hearing Paul's case."
+      },
+      {
+        "year": 62,
+        "event": "James, brother of Jesus, executed in Jerusalem (Josephus)."
+      },
+      {
+        "year": 64,
+        "event": "Fire of Rome and Nero's persecution, just after the story ends."
+      }
+    ],
+    "backdrop": "Acts covers about thirty years, from a small group of Galilean Jews in Jerusalem to a network of assemblies across the eastern empire and in Rome. It is written as ancient history, with speeches that summarise what was said, travel narratives, trial scenes and a shipwreck. It is selective: Peter dominates the first half, Paul the second, and most apostles disappear from view.\n\nThe Jewish world of Acts was diverse. In Jerusalem there were Aramaic-speaking Jews and Greek-speaking 'Hellenists' from the diaspora; across the empire perhaps several million Jews lived in cities with synagogues, many of which attracted Gentile 'God-fearers' who honoured Israel's God without full conversion. These God-fearers, like Cornelius and Lydia, are the bridge across which the message passes to the nations.\n\nRoman rule frames the story. Roman citizenship protects Paul; magistrates in Philippi, Thessalonica, Corinth and Ephesus hear accusations that the believers 'turn the world upside down' and proclaim 'another king, Jesus'. Luke shows officials repeatedly finding no crime, while also showing the message's challenge to idolatry and to the economy of temples, as in the silversmiths' riot at Ephesus.",
+    "culture": [
+      {
+        "term": "Pentecost (Shavuot)",
+        "explain": "The Feast of Weeks, fifty days after Passover, a pilgrimage harvest feast later linked with the giving of the Torah at Sinai. Jews from across the diaspora were in Jerusalem, so the Spirit's coming gathers scattered Israel first.",
+        "refs": [
+          "Acts 2:1-11",
+          "Lev 23:15-21"
+        ]
+      },
+      {
+        "term": "God-fearers",
+        "explain": "Gentiles who attended synagogue, prayed to Israel's God and gave alms without being circumcised. Inscriptions such as one from Aphrodisias appear to list them. They were the first Gentiles to receive the message.",
+        "refs": [
+          "Acts 10:1-2",
+          "Acts 13:16",
+          "Acts 16:14"
+        ]
+      },
+      {
+        "term": "Temple devotion",
+        "explain": "The first believers met daily in the temple, kept the hours of prayer, and Paul later paid for Nazirite vows in the temple to show he still kept the Law.",
+        "refs": [
+          "Acts 2:46",
+          "Acts 3:1",
+          "Acts 21:20-26"
+        ]
+      },
+      {
+        "term": "Civic religion and patron gods",
+        "explain": "Cities honoured patron deities whose festivals, trade guilds and temples tied economy and identity together. Turning from idols threatened jobs and civic honour, as with Artemis of the Ephesians.",
+        "refs": [
+          "Acts 19:23-41",
+          "Acts 14:11-13"
+        ]
+      },
+      {
+        "term": "Roman citizenship and law",
+        "explain": "Citizens could not be beaten without trial and could appeal to Caesar. Paul uses these rights, and Roman courts become stages for testimony.",
+        "refs": [
+          "Acts 16:37-39",
+          "Acts 22:25-29",
+          "Acts 25:11"
+        ]
+      },
+      {
+        "term": "Household conversion",
+        "explain": "In a collectivist society the head of household's decision shaped the whole household, including slaves. Several households are baptised together.",
+        "refs": [
+          "Acts 16:15",
+          "Acts 16:31-34",
+          "Acts 18:8"
+        ]
+      }
+    ],
+    "jewishLens": "Acts opens with the disciples asking the risen Jesus, 'Lord, will you at this time restore the kingdom to Israel?' Jesus does not dismiss the question; he redirects it to the Spirit and to witness 'to the ends of the earth', the words of Isaiah's servant who would restore Israel and be a light to the nations. The first chapters are about the restoration of Israel: the Twelve are made complete again with Matthias, the Spirit falls at a Jewish pilgrim feast, Peter quotes Joel's promise for 'the last days', and thousands of Jews believe and share possessions so that 'there was no needy person among them', fulfilling Deuteronomy's ideal.\n\nOnly then does the message go to Samaritans and Gentiles. At the Jerusalem council, James reads Gentile inclusion through Amos: God is rebuilding the fallen tent of David so that the rest of humanity may seek the Lord. Gentiles join Israel's God as Gentiles, without circumcision, while keeping basic laws (avoiding idol food, blood, strangled meat and sexual immorality) that resemble what Leviticus required of foreigners in Israel. To the end Paul describes himself as a Pharisee who believes everything in the Law and the Prophets and is on trial 'because of the hope of Israel'. Read this way, Acts is not the story of believers leaving Judaism but of a Jewish messianic renewal movement wrestling, with joy and pain, over how the nations share in Israel's blessings.",
+    "flow": [
+      {
+        "label": "Waiting for the Spirit",
+        "detail": "The risen Jesus speaks of the kingdom, ascends, and the Twelve are restored to full number.",
+        "refs": [
+          "Acts 1:1-26"
+        ]
+      },
+      {
+        "label": "Renewed Israel in Jerusalem",
+        "detail": "The Spirit comes at Pentecost; thousands believe and form a sharing community in the temple courts.",
+        "refs": [
+          "Acts 2:1-5:42"
+        ]
+      },
+      {
+        "label": "Scattering and Samaria",
+        "detail": "Stephen's death scatters believers; Philip reaches Samaritans and an Ethiopian official.",
+        "refs": [
+          "Acts 6:1-8:40"
+        ]
+      },
+      {
+        "label": "Saul called, Gentiles welcomed",
+        "detail": "Saul meets the risen Jesus; Peter is sent to Cornelius' household and the Spirit falls on Gentiles.",
+        "refs": [
+          "Acts 9:1-12:25"
+        ]
+      },
+      {
+        "label": "Mission and council",
+        "detail": "Paul and Barnabas plant assemblies; Jerusalem agrees Gentiles need not be circumcised.",
+        "refs": [
+          "Acts 13:1-15:35"
+        ]
+      },
+      {
+        "label": "Into Greece and Asia",
+        "detail": "Paul's journeys bring the message to Philippi, Thessalonica, Athens, Corinth and Ephesus.",
+        "refs": [
+          "Acts 15:36-20:38"
+        ]
+      },
+      {
+        "label": "On trial for Israel's hope",
+        "detail": "Arrested in the temple, Paul defends himself before councils, governors and a king, then reaches Rome.",
+        "refs": [
+          "Acts 21:1-28:31"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "The Spirit's witness from Jerusalem to Rome",
+      "branches": [
+        {
+          "label": "Israel restored",
+          "items": [
+            "Twelve made complete",
+            "Pentecost pilgrims",
+            "Thousands of Jews believe",
+            "Hope of Israel"
+          ]
+        },
+        {
+          "label": "Nations included",
+          "items": [
+            "Samaritans",
+            "Ethiopian official",
+            "Cornelius' household",
+            "Jerusalem council"
+          ]
+        },
+        {
+          "label": "The Spirit",
+          "items": [
+            "Power for witness",
+            "Boldness in trials",
+            "Guidance in mission"
+          ]
+        },
+        {
+          "label": "Community life",
+          "items": [
+            "Shared possessions",
+            "Breaking bread",
+            "Prayer and teaching",
+            "Care for widows"
+          ]
+        },
+        {
+          "label": "Before rulers",
+          "items": [
+            "Sanhedrin",
+            "Roman magistrates",
+            "Felix and Festus",
+            "Appeal to Caesar"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Witness",
+        "original": "martys",
+        "meaning": "One who testifies to what they have seen; later the word for martyr.",
+        "refs": [
+          "Acts 1:8",
+          "Acts 22:15"
+        ]
+      },
+      {
+        "word": "The Way",
+        "original": "he hodos",
+        "meaning": "An early name for the Jesus movement, echoing Isaiah's way of the Lord.",
+        "refs": [
+          "Acts 9:2",
+          "Acts 24:14"
+        ]
+      },
+      {
+        "word": "Assembly, church",
+        "original": "ekklesia",
+        "meaning": "Gathered people; used of Israel in the wilderness and of the believers.",
+        "refs": [
+          "Acts 7:38",
+          "Acts 20:28"
+        ]
+      },
+      {
+        "word": "Boldness",
+        "original": "parresia",
+        "meaning": "Free, frank speech, the right of a citizen to speak openly; marks the apostles' witness.",
+        "refs": [
+          "Acts 4:13",
+          "Acts 4:29-31",
+          "Acts 28:31"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "luke",
+        "how": "The second volume continues what Jesus 'began to do and teach'.",
+        "refs": [
+          "Acts 1:1-2",
+          "Luke 24:46-49"
+        ]
+      },
+      {
+        "bookId": "joel",
+        "how": "Peter interprets Pentecost through Joel's promise of the Spirit poured on all flesh.",
+        "refs": [
+          "Acts 2:16-21",
+          "Joel 2:28-32"
+        ]
+      },
+      {
+        "bookId": "amos",
+        "how": "James grounds Gentile inclusion in Amos' rebuilt tent of David.",
+        "refs": [
+          "Acts 15:15-18",
+          "Amos 9:11-12"
+        ]
+      },
+      {
+        "bookId": "galatians",
+        "how": "Paul's own account of his calling and the Jerusalem meetings can be compared and contrasted with Acts.",
+        "refs": [
+          "Gal 1:13-2:10",
+          "Acts 15:1-29"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "'To the ends of the earth' and 'a light for the nations' come from Isaiah's servant songs.",
+        "refs": [
+          "Acts 1:8",
+          "Acts 13:47",
+          "Isa 49:6"
+        ]
+      }
+    ],
+    "jesusLens": "In Acts Jesus is the risen and enthroned Lord who continues to act through the Spirit, the prophet like Moses and the Davidic king seated at God's right hand. Jewish readers often note that Acts portrays Paul and the early believers as observant Jews, while also seeing in its narrative the beginnings of a painful separation. Christians read it as the pattern of the church's mission: rooted in Israel, empowered by the Spirit and sent to all peoples.",
+    "misreadings": [
+      {
+        "topic": "Paul converted from Judaism to Christianity",
+        "popular": "Acts 9 is commonly told as Paul's conversion from a legalistic Jewish religion to Christianity, after which he left Judaism behind.",
+        "inContext": "Krister Stendahl argued Paul was 'called' rather than converted: like the prophets, he received a commission to the nations from the same God he already served. In Acts Paul keeps calling himself a Jew and a Pharisee, worships in the temple, takes vows and says he is on trial for Israel's hope. Scholars such as Paula Fredriksen, Mark Nanos and Isaac Oliver see Acts presenting Paul as a Torah-faithful Jew. 'Christianity' as a separate religion did not yet exist.",
+        "defence": "Many evangelical scholars, such as Seyoon Kim and Thomas Schreiner, accept the 'call' language but insist there was a real conversion: a radical change in Paul's understanding of the Law, of Messiah and of how one is right with God. They note that Acts itself shows Paul in deep conflict with synagogues. Both sides agree Paul did not see himself as leaving Israel's God or Scriptures.",
+        "whyItMatters": "If Paul left Judaism, the church can imagine it replaced Israel. If he was called within it, Gentile believers are guests grafted into Israel's story.",
+        "refs": [
+          "Acts 9:1-19",
+          "Acts 22:3",
+          "Acts 23:6",
+          "Acts 26:6-7",
+          "Acts 28:20"
+        ],
+        "scholars": [
+          "Krister Stendahl",
+          "Paula Fredriksen",
+          "Mark Nanos",
+          "Seyoon Kim",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Acts ends with God turning from the Jews to the Gentiles for good",
+        "popular": "Paul's final words in Rome, quoting Isaiah 6 and saying salvation has been sent to the Gentiles, are often read as God finally giving up on the Jewish people.",
+        "inContext": "Jacob Jervell argued that in Acts many thousands of Jews believe, forming the restored core of Israel, and that the Gentile mission is an extension of Israel's restoration rather than its replacement. Paul's 'turning to the Gentiles' happens city by city, and he goes back to synagogues each time. Some Jews in Rome are persuaded. Isaac Oliver and others read Acts as leaving the door open.",
+        "defence": "Scholars such as Jack Sanders read Acts as more negative toward Jewish rejection, and many evangelical commentators see the ending as a solemn judgment on unbelief, not on Jews as a people. Most agree Luke's tone is grief, not contempt, and that Romans 9-11 should be read alongside.",
+        "whyItMatters": "This text has been used to justify teaching that the church replaced Israel. Reading it carefully supports humility and respect.",
+        "refs": [
+          "Acts 28:23-28",
+          "Acts 21:20",
+          "Isa 6:9-10",
+          "Rom 11:1-2"
+        ],
+        "scholars": [
+          "Jacob Jervell",
+          "Isaac W. Oliver",
+          "Jack T. Sanders",
+          "Craig Keener"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Acts assured a mixed and sometimes suspected community that it stood in continuity with Israel's God and Scriptures, was led by the Spirit, and was not a threat to public order, even as it confronted idolatry.",
+      "now": "Acts calls churches to prayer, generosity, Spirit-led witness across cultural lines and courage before power, while reminding Gentile believers of their Jewish roots."
+    },
+    "sources": [
+      {
+        "author": "Craig S. Keener",
+        "title": "Acts: An Exegetical Commentary (4 vols.)",
+        "year": 2012,
+        "locator": "vols. 2012-2015"
+      },
+      {
+        "author": "Jacob Jervell",
+        "title": "Luke and the People of God",
+        "year": 1972
+      },
+      {
+        "author": "Isaac W. Oliver",
+        "title": "Luke's Jewish Eschatology: The National Restoration of Israel in Luke-Acts",
+        "year": 2021
+      },
+      {
+        "author": "Krister Stendahl",
+        "title": "Paul Among Jews and Gentiles",
+        "year": 1976
+      },
+      {
+        "author": "Richard I. Pervo",
+        "title": "Acts (Hermeneia)",
+        "year": 2009
+      }
+    ]
+  },
+  {
+    "id": "hebrews",
+    "oneLine": "A sermon urging weary believers not to drift away, because in Jesus, Son and great high priest, God has opened the way into his presence and fulfilled Israel's worship.",
+    "author": {
+      "name": "Unknown",
+      "who": "A highly educated Jewish-Christian preacher, skilled in Greek rhetoric and in reading the Greek Old Testament, who knew Timothy and belonged to the second generation of believers (he heard the message from those who heard the Lord).",
+      "howWeKnow": "The work names no author. The earliest Pauline manuscript collection (P46, c. 200) includes it among Paul's letters, but Origen already said only God knows who wrote it. Suggestions include Apollos, Barnabas, Priscilla, Luke and Silas; none has won agreement.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Unknown; possibly Italy or a place where Italians were present",
+      "note": "'Those from Italy greet you' could mean the writer is in Italy or that Italian exiles with him are greeting home.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "A house-church community, probably mostly Jewish believers with deep knowledge of the Scriptures and temple worship",
+      "place": "Rome is most often proposed; Jerusalem and others also suggested",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "situation": "They had once endured public shaming, imprisonment and confiscation of property with joy, but years later they were tired, neglecting meetings, and tempted to drift back to the security and honour of the wider Jewish community or simply give up.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 49,
+        "event": "Claudius expels Jews from Rome, possibly over disputes about Christ; a possible background for the earlier sufferings."
+      },
+      {
+        "year": 64,
+        "event": "Nero's persecution of Christians in Rome."
+      },
+      {
+        "year": 66,
+        "event": "Jewish revolt begins in Judea."
+      },
+      {
+        "year": 70,
+        "event": "Temple destroyed; Hebrews never mentions this, which some take as a sign of earlier writing."
+      },
+      {
+        "year": 96,
+        "event": "1 Clement, from Rome, echoes Hebrews (approximate date)."
+      }
+    ],
+    "backdrop": "Hebrews calls itself 'a word of exhortation', the term used for a synagogue sermon in Acts. It reads like a sermon meant to be heard aloud, alternating between exposition of Scripture and urgent appeals. Its Greek is the most polished in the New Testament, and its argument moves like a skilled orator's, weaving together comparison, warning and encouragement.\n\nIts main concern is perseverance. The readers had once paid a high social price for their faith: they had been publicly insulted, had stood by imprisoned believers, and had accepted the seizure of their property. In an honour-shame society that was costly, and the pressure to return to respectability was strong. The preacher answers by showing that Jesus is greater than angels, Moses, Aaron and the whole sacrificial system, so that turning back would mean turning away from the very reality those good gifts pointed toward.\n\nWhether the temple was still standing is debated. The writer speaks of the wilderness tabernacle rather than the Jerusalem temple, and uses present tenses for sacrifices, which some take as evidence of a date before 70 and others as a literary way of discussing Scripture's descriptions.",
+    "culture": [
+      {
+        "term": "Day of Atonement",
+        "explain": "Once a year the high priest entered the most holy place with blood to cleanse the sanctuary and the people. Hebrews presents Jesus entering the heavenly sanctuary with his own blood once for all.",
+        "refs": [
+          "Heb 9:6-12",
+          "Lev 16:11-19"
+        ]
+      },
+      {
+        "term": "Honour and shame",
+        "explain": "Public disgrace was a powerful social weapon. The preacher says Jesus 'despised the shame' of the cross and calls believers to go 'outside the camp, bearing his reproach', choosing God's approval over society's.",
+        "refs": [
+          "Heb 12:2",
+          "Heb 13:12-13",
+          "Heb 10:32-34"
+        ]
+      },
+      {
+        "term": "Patronage and gratitude",
+        "explain": "Benefactors gave grace (charis) and clients owed loyalty and gratitude. David deSilva shows Hebrews treats apostasy as shocking ingratitude toward the greatest benefactor, and perseverance as fitting gratitude.",
+        "refs": [
+          "Heb 12:28",
+          "Heb 6:4-8",
+          "Heb 4:16"
+        ]
+      },
+      {
+        "term": "Melchizedek",
+        "explain": "The priest-king of Salem who blessed Abraham, mentioned again in Psalm 110. He was the subject of speculation in Second Temple texts, including a Dead Sea Scroll (11QMelchizedek). Hebrews uses him to show a priesthood older and greater than Levi's.",
+        "refs": [
+          "Heb 7:1-17",
+          "Gen 14:18-20",
+          "Ps 110:4"
+        ]
+      },
+      {
+        "term": "Rest and pilgrimage",
+        "explain": "Israel's wilderness generation failed to enter the promised rest. The readers are a pilgrim people on the way to a city with foundations, like Abraham.",
+        "refs": [
+          "Heb 3:7-4:11",
+          "Heb 11:8-16",
+          "Ps 95:7-11"
+        ]
+      }
+    ],
+    "jewishLens": "Hebrews is one of the most thoroughly Jewish books in the New Testament. Nearly every argument is built on the Scriptures of Israel: Psalms 2, 8, 95 and 110, Jeremiah's new covenant, the tabernacle instructions of Exodus, the rites of Leviticus 16 and the faithful heroes of Genesis to the Maccabean martyrs. Its method of reading is recognisably Jewish: arguing from the lesser to the greater (a rabbinic principle), drawing meaning from what Scripture leaves unsaid (Melchizedek's missing genealogy), and seeing earthly worship as a copy of a heavenly pattern, as Exodus says Moses saw on the mountain.\n\nA first-century Jewish hearer would recognise the story as their own. God spoke to the ancestors through prophets; the tabernacle was a true gift; Moses was faithful in all God's house. The preacher's claim is that these were real but provisional, pointing to a fuller access to God that Jeremiah had promised: a covenant written on hearts with sins remembered no more. Jesus, a descendant of Judah, is the faithful Son and merciful high priest who has gone ahead into God's presence. The call is not to leave Israel's faith behind but to keep going on the pilgrimage that Abraham began, toward the city whose builder is God, with the great cloud of Israel's faithful witnesses cheering them on.",
+    "flow": [
+      {
+        "label": "God has spoken in a Son",
+        "detail": "The Son, radiance of God's glory, is greater than angels; do not drift from his message.",
+        "refs": [
+          "Heb 1:1-2:4"
+        ]
+      },
+      {
+        "label": "One of us, our brother",
+        "detail": "Jesus shared flesh and blood, defeated death and became a merciful high priest.",
+        "refs": [
+          "Heb 2:5-18"
+        ]
+      },
+      {
+        "label": "Enter the rest today",
+        "detail": "Faithful over God's house like Moses, Jesus leads a people who must not harden hearts as in the wilderness.",
+        "refs": [
+          "Heb 3:1-4:13"
+        ]
+      },
+      {
+        "label": "Priest like Melchizedek",
+        "detail": "After warning against falling away, the preacher shows Jesus' eternal priesthood greater than Levi's.",
+        "refs": [
+          "Heb 4:14-7:28"
+        ]
+      },
+      {
+        "label": "New covenant, true sanctuary",
+        "detail": "Jeremiah's promise is fulfilled as Jesus offers himself once for all in the heavenly sanctuary.",
+        "refs": [
+          "Heb 8:1-10:18"
+        ]
+      },
+      {
+        "label": "Draw near, hold fast",
+        "detail": "With confidence to approach God, believers must meet, encourage one another and not throw away their boldness.",
+        "refs": [
+          "Heb 10:19-39"
+        ]
+      },
+      {
+        "label": "Faith that endures",
+        "detail": "Israel's faithful ancestors and Jesus himself model trust that runs the race to the unshakeable kingdom.",
+        "refs": [
+          "Heb 11:1-13:25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Jesus, Son and high priest",
+      "branches": [
+        {
+          "label": "Greater than",
+          "items": [
+            "Angels",
+            "Moses",
+            "Aaron's priesthood",
+            "Animal sacrifices"
+          ]
+        },
+        {
+          "label": "Priesthood",
+          "items": [
+            "Merciful and faithful",
+            "Order of Melchizedek",
+            "Once for all offering",
+            "Intercedes always"
+          ]
+        },
+        {
+          "label": "Covenant",
+          "items": [
+            "Jeremiah's promise",
+            "Law on hearts",
+            "Sins remembered no more"
+          ]
+        },
+        {
+          "label": "Warnings",
+          "items": [
+            "Do not drift",
+            "Do not harden",
+            "No sacrifice left",
+            "Do not refuse"
+          ]
+        },
+        {
+          "label": "Faith and pilgrimage",
+          "items": [
+            "Hall of faith",
+            "Cloud of witnesses",
+            "Run the race",
+            "City to come"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Better, superior",
+        "original": "kreitton",
+        "meaning": "Used repeatedly to compare Jesus and the new covenant with earlier gifts.",
+        "refs": [
+          "Heb 7:22",
+          "Heb 8:6"
+        ]
+      },
+      {
+        "word": "Perfect, bring to completion",
+        "original": "teleioo",
+        "meaning": "To bring to the goal; Jesus is 'perfected' as high priest and perfects worshippers.",
+        "refs": [
+          "Heb 2:10",
+          "Heb 10:14"
+        ]
+      },
+      {
+        "word": "Faith, trust",
+        "original": "pistis",
+        "meaning": "Steady trust in God's promises that keeps going toward what is unseen.",
+        "refs": [
+          "Heb 11:1",
+          "Heb 11:6"
+        ]
+      },
+      {
+        "word": "Draw near",
+        "original": "proserchomai",
+        "meaning": "Priestly word for approaching God's presence, now opened to all believers.",
+        "refs": [
+          "Heb 4:16",
+          "Heb 10:22"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "leviticus",
+        "how": "The Day of Atonement and the priesthood are the template for Jesus' work.",
+        "refs": [
+          "Heb 9:7",
+          "Lev 16:2-34"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalm 110 (priest forever, seated at the right hand) and Psalm 95 (today, if you hear) drive the argument.",
+        "refs": [
+          "Heb 1:13",
+          "Heb 5:6",
+          "Heb 3:7-11"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "The longest Old Testament quotation in the New Testament is Jeremiah's new covenant.",
+        "refs": [
+          "Heb 8:8-12",
+          "Jer 31:31-34"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Melchizedek, Abraham's pilgrimage and the faith of the patriarchs.",
+        "refs": [
+          "Heb 7:1-3",
+          "Heb 11:8-22",
+          "Gen 14:18-20"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "The tabernacle built after the heavenly pattern and the covenant ratified with blood.",
+        "refs": [
+          "Heb 8:5",
+          "Exod 25:40",
+          "Heb 9:18-20",
+          "Exod 24:8"
+        ]
+      }
+    ],
+    "jesusLens": "Hebrews presents Jesus as the Son through whom God made and sustains all things, fully human and tested in every way, and the eternal high priest whose self-offering opens access to God. Jewish readers have challenged its contrasts, since Judaism itself understood repentance, prayer and God's mercy as atoning, especially after 70. Christians have read Hebrews as showing Israel's worship fulfilled in Jesus; recent scholars stress that its contrasts concern the Sinai sacrificial system, not the Jewish people or God's faithfulness to them.",
+    "misreadings": [
+      {
+        "topic": "Hebrews teaches that Judaism is obsolete and replaced by Christianity",
+        "popular": "Hebrews 8:13 ('what is becoming obsolete') is often read as saying the Jewish religion was a failed system of works that God replaced with Christianity.",
+        "inContext": "Richard Hays argued that Hebrews is better called 'new covenantalism' than supersessionism: it is an argument within Israel's Scriptures, using Jeremiah's own words, about the sacrificial system of the Sinai covenant, not a rejection of Israel. The heroes of faith are all Israelites, and the readers are urged to join them. Scholars in The Jewish Annotated New Testament note that its contrasts would have been heard as an internal Jewish argument, although later Christians used them against Jews.",
+        "defence": "Many evangelical scholars (for example F. F. Bruce, Peter O'Brien and Thomas Schreiner) agree Hebrews does not reject the Jewish people but maintain that it really does teach that the old covenant's priesthood and sacrifices have been fulfilled and are no longer the way to God. The debate is whether that counts as 'supersessionism' or as fulfilment within Israel's own story.",
+        "whyItMatters": "How Christians speak about the old covenant shapes whether they see Judaism with contempt or with respect for its gifts.",
+        "refs": [
+          "Heb 8:6-13",
+          "Heb 11:39-40",
+          "Heb 1:1-2"
+        ],
+        "scholars": [
+          "Richard Hays",
+          "David deSilva",
+          "F. F. Bruce",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "The warning passages and losing salvation",
+        "popular": "Readers usually assume the warnings must be either about 'losing your salvation' (Arminian reading) or about people who were never truly saved (Calvinist reading).",
+        "inContext": "David deSilva reads the warnings in patronage terms: turning away from so great a Benefactor publicly, after enjoying his gifts, would be an unthinkable insult, like a client spurning a patron, and would leave no other source of grace. The preacher's purpose is to motivate perseverance in a whole community, not to supply a doctrine of individual assurance.",
+        "defence": "Reformed scholars (for example Thomas Schreiner and Ardel Caneday) read the warnings as the God-given means by which the elect persevere; Arminian scholars (for example Scot McKnight) read them as real warnings that genuine believers can fall away. Both agree the warnings are serious and aimed at real readers, and that the letter also gives strong assurance. This is a genuine scholarly disagreement.",
+        "whyItMatters": "Seeing the communal and relational setting moves the question from 'am I in or out?' to 'will we stay loyal to the One who has given us everything?'",
+        "refs": [
+          "Heb 6:4-12",
+          "Heb 10:26-39",
+          "Heb 2:1-4",
+          "Heb 12:25-29"
+        ],
+        "scholars": [
+          "David deSilva",
+          "Thomas Schreiner",
+          "Scot McKnight",
+          "William Lane"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For tired, shamed believers, Hebrews said: you have a sympathetic high priest, open access to God and a lasting city; do not trade them for social comfort.",
+      "now": "Hebrews speaks to anyone worn down by long faithfulness, calling them to meet together, hold fast and draw near to God with confidence, while honouring the Jewish Scriptures and worship it draws on."
+    },
+    "sources": [
+      {
+        "author": "David A. deSilva",
+        "title": "Perseverance in Gratitude: A Socio-Rhetorical Commentary on the Epistle 'to the Hebrews'",
+        "year": 2000
+      },
+      {
+        "author": "Harold W. Attridge",
+        "title": "The Epistle to the Hebrews (Hermeneia)",
+        "year": 1989
+      },
+      {
+        "author": "William L. Lane",
+        "title": "Hebrews (Word Biblical Commentary, 2 vols.)",
+        "year": 1991
+      },
+      {
+        "author": "Richard B. Hays",
+        "title": "'Here We Have No Lasting City': New Covenantalism in Hebrews, in The Epistle to the Hebrews and Christian Theology (ed. Bauckham et al.)",
+        "year": 2009
+      },
+      {
+        "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Annotated New Testament",
+        "year": 2017,
+        "locator": "introduction to Hebrews"
+      }
+    ]
+  },
+  {
+    "id": "james",
+    "oneLine": "A Jewish wisdom letter to scattered believers calling for whole-hearted, practical faithfulness that shows itself in endurance, care for the poor and controlled speech.",
+    "author": {
+      "name": "James (Jacob), brother of Jesus",
+      "who": "Jacob, a brother of Jesus who did not believe during Jesus' ministry, saw the risen Jesus and became the respected leader of the Jerusalem church, known for his devotion to the Law and prayer. Josephus records his execution in 62.",
+      "howWeKnow": "The letter is from 'James, a servant of God and of the Lord Jesus Christ'; only the famous James would need no further title. The case against him rests on its good Greek and late attestation; the case for him on its early Jewish character, closeness to Jesus' sayings and lack of later church structures. A skilled helper with Greek is possible.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem (if by James)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Images of early and late rains, scorching wind and fig trees fit the land of Israel.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "'The twelve tribes in the dispersion': Jewish believers in Jesus living outside the land",
+      "place": "Diaspora communities, perhaps in Syria and beyond",
+      "situation": "Poor believers were being exploited by wealthy landowners and dragged into court; congregations were tempted to flatter rich visitors, were divided by quarrels and harsh words, and some claimed faith without acting on it.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 44,
+        "event": "Death of Herod Agrippa I; Judea returns to direct Roman rule."
+      },
+      {
+        "year": 47,
+        "event": "Famine in Judea under Claudius (Acts 11:28), approximate."
+      },
+      {
+        "year": 49,
+        "event": "Jerusalem council, chaired by James (Acts 15), approximate."
+      },
+      {
+        "year": 62,
+        "event": "James executed by stoning on the orders of the high priest Ananus (Josephus, Antiquities 20.200)."
+      },
+      {
+        "year": 66,
+        "event": "Jewish revolt against Rome; social tensions between rich and poor were one of its causes."
+      }
+    ],
+    "backdrop": "James reads less like a letter than a collection of wisdom teaching, like Proverbs or the Jewish wisdom book of Ben Sira, arranged around themes: trials, wisdom, wealth, speech, faith and action. It mentions Jesus by name only twice, yet more than any other letter it echoes Jesus' own teaching, especially the Sermon on the Mount: joy in trials, mercy triumphing over judgment, not swearing oaths, the poor as heirs of the kingdom.\n\nIts social world is sharply divided. Wealthy landowners withheld wages from field labourers; the rich dragged the poor into court; and a rich man in fine clothes could walk into a congregation's 'synagogue' (the very word James uses) and be shown the best seat while a poor man was told to sit on the floor. In the decades before the Jewish revolt, debt, land loss and the gap between rich and poor were growing in Judea.\n\nJames is also famous for its paragraph on faith and works, which Martin Luther thought contradicted Paul, calling it 'an epistle of straw' compared with the main gospel books. Most scholars today think James and Paul are addressing different questions, though some think James is responding to a distorted version of Paul's slogans.",
+    "culture": [
+      {
+        "term": "Synagogue gathering",
+        "explain": "James calls the believers' meeting a 'synagogue', showing how naturally Jewish believers continued Jewish forms of assembly.",
+        "refs": [
+          "Jas 2:2"
+        ]
+      },
+      {
+        "term": "Patronage and partiality",
+        "explain": "Honouring a rich visitor could bring a congregation a powerful patron. James says this is partiality that breaks the royal law of love, since God chose the poor.",
+        "refs": [
+          "Jas 2:1-9",
+          "Lev 19:15"
+        ]
+      },
+      {
+        "term": "Wages and land",
+        "explain": "Torah required day-labourers to be paid before sunset. James' denunciation of withheld wages echoes Leviticus, Deuteronomy and the prophets.",
+        "refs": [
+          "Jas 5:1-6",
+          "Deut 24:14-15",
+          "Lev 19:13"
+        ]
+      },
+      {
+        "term": "Wisdom tradition",
+        "explain": "Jewish wisdom teaches the two ways of life and practical godliness. James' wisdom 'from above' is pure, peaceable and merciful, contrasted with jealous earthly wisdom.",
+        "refs": [
+          "Jas 3:13-18",
+          "Prov 2:6"
+        ]
+      },
+      {
+        "term": "Elders and anointing",
+        "explain": "The sick call the community's elders to pray and anoint with oil, combining Jewish practices of prayer and healing with communal confession.",
+        "refs": [
+          "Jas 5:14-16"
+        ]
+      }
+    ],
+    "jewishLens": "James is the most clearly Jewish letter in the New Testament and could almost be read in a synagogue. It addresses believers as 'the twelve tribes', the scattered people of Israel whom God would one day regather. It calls the Torah 'the perfect law of liberty' and 'the royal law', summed up in Leviticus 19:18, 'love your neighbour as yourself'. Its heroes are Abraham, Rahab, Job and Elijah. Its central concern is the Jewish ideal of wholeness: a single-minded heart toward God rather than a 'double-minded' one, echoing the Shema's call to love God with all one's heart.\n\nFor James, faith (pistis) is trust and loyalty toward the God who is one, and like any covenant loyalty it must be lived out. Abraham's trust was 'completed' when he offered Isaac; Rahab's showed itself in sheltering the spies. This is how a first-century Jewish audience understood covenant faithfulness: God's gracious gift, 'every good and perfect gift from above', calls forth a response of mercy, justice and humility. Jesus appears as 'the Lord of glory' whose coming is near, and the ethics of his kingdom shape the whole letter, which stands as a living link between Jesus' teaching and the earliest Jewish believers.",
+    "flow": [
+      {
+        "label": "Trials make whole",
+        "detail": "Testing produces endurance and maturity; ask God for wisdom without doubting.",
+        "refs": [
+          "Jas 1:1-18"
+        ]
+      },
+      {
+        "label": "Hear and do",
+        "detail": "Receive the implanted word and do it; true religion cares for orphans and widows.",
+        "refs": [
+          "Jas 1:19-27"
+        ]
+      },
+      {
+        "label": "No favourites",
+        "detail": "Honouring the rich and shaming the poor breaks the royal law of love.",
+        "refs": [
+          "Jas 2:1-13"
+        ]
+      },
+      {
+        "label": "Faith that works",
+        "detail": "Faith without deeds is dead; Abraham and Rahab show living trust.",
+        "refs": [
+          "Jas 2:14-26"
+        ]
+      },
+      {
+        "label": "Tongue and wisdom",
+        "detail": "Speech can set a forest on fire; heavenly wisdom is peaceable and merciful.",
+        "refs": [
+          "Jas 3:1-18"
+        ]
+      },
+      {
+        "label": "Humble before God",
+        "detail": "Quarrels come from desires; submit to God, do not judge, do not boast about tomorrow.",
+        "refs": [
+          "Jas 4:1-17"
+        ]
+      },
+      {
+        "label": "Justice, patience, prayer",
+        "detail": "Woe to oppressive rich; wait for the Lord, pray, confess and restore the wandering.",
+        "refs": [
+          "Jas 5:1-20"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Whole-hearted faithfulness",
+      "branches": [
+        {
+          "label": "Trials",
+          "items": [
+            "Joy in testing",
+            "Endurance",
+            "Wisdom from God"
+          ]
+        },
+        {
+          "label": "Poor and rich",
+          "items": [
+            "No partiality",
+            "God chose the poor",
+            "Withheld wages",
+            "Care for widows"
+          ]
+        },
+        {
+          "label": "Faith and deeds",
+          "items": [
+            "Faith alone is dead",
+            "Abraham's offering",
+            "Rahab's welcome"
+          ]
+        },
+        {
+          "label": "Speech",
+          "items": [
+            "Tame the tongue",
+            "Quick to listen",
+            "No oaths"
+          ]
+        },
+        {
+          "label": "Community",
+          "items": [
+            "Pray for the sick",
+            "Confess to each other",
+            "Restore the wanderer"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Complete, whole",
+        "original": "teleios",
+        "meaning": "Mature, undivided, whole-hearted; the goal of trials and the quality of God's law.",
+        "refs": [
+          "Jas 1:4",
+          "Jas 1:25"
+        ]
+      },
+      {
+        "word": "Double-minded",
+        "original": "dipsychos",
+        "meaning": "Literally 'two-souled': divided loyalty between God and the world.",
+        "refs": [
+          "Jas 1:8",
+          "Jas 4:8"
+        ]
+      },
+      {
+        "word": "Faith, loyalty",
+        "original": "pistis",
+        "meaning": "Trust and allegiance to God that is shown in action.",
+        "refs": [
+          "Jas 2:14-26"
+        ]
+      },
+      {
+        "word": "Justify, show righteous",
+        "original": "dikaioo",
+        "meaning": "To declare or demonstrate as righteous; in James, Abraham is shown righteous by his actions.",
+        "refs": [
+          "Jas 2:21-24",
+          "Gen 22:1-18"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "matthew",
+        "how": "Many sayings echo the Sermon on the Mount: trials, mercy, oaths, the poor and doing the word.",
+        "refs": [
+          "Jas 5:12",
+          "Matt 5:34-37",
+          "Jas 2:5",
+          "Matt 5:3"
+        ]
+      },
+      {
+        "bookId": "leviticus",
+        "how": "Leviticus 19, the holiness code, underlies James' teaching on love, partiality, wages and speech.",
+        "refs": [
+          "Jas 2:8",
+          "Lev 19:18"
+        ]
+      },
+      {
+        "bookId": "proverbs",
+        "how": "Wisdom, speech and humility echo Proverbs; James quotes it on God's grace to the humble.",
+        "refs": [
+          "Jas 4:6",
+          "Prov 3:34"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Both cite Abraham and Genesis 15:6, but James focuses on faith shown in deeds, Paul on works of the Law as identity markers.",
+        "refs": [
+          "Jas 2:23",
+          "Rom 4:3",
+          "Gen 15:6"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "James the leader appears in Acts guiding the council and receiving Paul.",
+        "refs": [
+          "Acts 15:13-21",
+          "Acts 21:18-25"
+        ]
+      }
+    ],
+    "jesusLens": "James rarely names Jesus but is saturated with his teaching. He calls him 'our glorious Lord Jesus Christ' and awaits his coming as Judge. Jewish readers often find James familiar, a Torah-centred ethical work; Christians read it as showing what trust in Jesus looks like in daily life, especially toward the poor.",
+    "misreadings": [
+      {
+        "topic": "James contradicts Paul on faith and works",
+        "popular": "Many readers feel James 2:24 ('a person is justified by works and not by faith alone') contradicts Paul's 'justified by faith apart from works of the law', and either downplay James, as Luther did, or explain it away.",
+        "inContext": "James Dunn and others note that Paul's 'works of the law' focus on Torah markers such as circumcision and food laws that divided Jews from Gentiles, while James' 'works' are acts of mercy, like clothing the poor. James' 'faith' in 2:19 is bare belief that God is one, which even demons have. Matthew Bates argues both writers see pistis as loyal trust that is embodied. On this reading they address different problems with compatible answers.",
+        "defence": "Reformed scholars such as Douglas Moo and Thomas Schreiner agree there is no contradiction but explain it differently: Paul speaks of the initial verdict of justification by faith alone, and James of the evidence that faith is genuine (faith alone saves, but the faith that saves is never alone). Some critical scholars think James is reacting to a misunderstanding of Paul. All agree the tension is apparent, not a real clash over essentials.",
+        "whyItMatters": "Hearing James on his own terms prevents a Christianity that claims faith but ignores the poor, and helps readers see Paul and James as partners.",
+        "refs": [
+          "Jas 2:14-26",
+          "Rom 3:28",
+          "Gal 5:6",
+          "Gen 15:6"
+        ],
+        "scholars": [
+          "James D. G. Dunn",
+          "Matthew Bates",
+          "Douglas Moo",
+          "Thomas Schreiner",
+          "Luke Timothy Johnson"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "James told scattered, often poor Jewish believers that their faith in the Lord Jesus meant living out Torah's heart: patience under trial, justice for workers, honour for the poor and peace in the community.",
+      "now": "James confronts favouritism toward the wealthy, careless or cruel speech and faith that never touches the poor. It calls churches to prayer, confession and practical mercy."
+    },
+    "sources": [
+      {
+        "author": "Luke Timothy Johnson",
+        "title": "The Letter of James (Anchor Bible)",
+        "year": 1995
+      },
+      {
+        "author": "Richard Bauckham",
+        "title": "James: Wisdom of James, Disciple of Jesus the Sage",
+        "year": 1999
+      },
+      {
+        "author": "Douglas J. Moo",
+        "title": "The Letter of James (Pillar)",
+        "year": 2000
+      },
+      {
+        "author": "Dale C. Allison Jr.",
+        "title": "James (International Critical Commentary)",
+        "year": 2013
+      },
+      {
+        "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+        "title": "The Jewish Annotated New Testament",
+        "year": 2017,
+        "locator": "introduction to James"
+      }
+    ]
+  },
+  {
+    "id": "1-peter",
+    "oneLine": "A letter to Gentile converts in Asia Minor telling them that, though now outsiders in their own towns, they have become God's own people, Israel's 'royal priesthood', called to hope and do good under suffering.",
+    "author": {
+      "name": "Peter the apostle, with Silvanus",
+      "who": "Simon Peter, the Galilean fisherman who led the Twelve, writing late in life from Rome, with Silvanus (Silas) helping to write or deliver the letter.",
+      "howWeKnow": "The letter claims Peter as author and was widely accepted early; 2 Peter refers to it and Polycarp echoes it. Many critical scholars doubt Petrine authorship because of its polished Greek and a setting they date later, while others point to Silvanus' role and to the absence of any clear evidence of later empire-wide persecution.",
+      "otherWritings": [
+        "2 Peter (traditional attribution)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "'Babylon', a code-name for Rome",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Jewish writers after 70 (for example 4 Ezra and 2 Baruch) and Revelation call Rome 'Babylon', the empire that destroyed the temple and scattered God's people.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "'Elect exiles of the dispersion' in Pontus, Galatia, Cappadocia, Asia and Bithynia, mostly Gentile converts",
+      "place": "Northern and central Asia Minor (modern Turkey)",
+      "coords": [
+        33,
+        40
+      ],
+      "situation": "Former pagans had stopped taking part in family cults, guild feasts and civic festivals. Neighbours were surprised and offended, slandering them as wrongdoers. This was mainly local social hostility, not yet an empire-wide legal persecution.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": 54,
+        "event": "Nero becomes emperor."
+      },
+      {
+        "year": 64,
+        "event": "Fire of Rome; Christians executed by Nero."
+      },
+      {
+        "year": 65,
+        "event": "Peter's martyrdom in Rome according to tradition (c. 64-68)."
+      },
+      {
+        "year": 112,
+        "event": "Pliny the Younger, governor of Bithynia-Pontus, writes to Trajan about how to handle Christians."
+      }
+    ],
+    "backdrop": "The provinces named in the opening verse cover a vast area of what is now Turkey, from the Black Sea coast to the central plateau. Most of the believers there were Gentiles: Peter speaks of 'the futile ways inherited from your forefathers' and says that 'once you were not a people'. When they turned to Israel's God, they also turned away from household gods, trade-guild banquets dedicated to patron deities and festivals honouring the emperor, all of which bound ancient communities together.\n\nThe result was social exclusion. Neighbours were 'surprised that you do not join them' and spoke evil of them. Slaves in pagan households and wives of unbelieving husbands were especially exposed, since they were expected to follow the religion of the head of the house. John Elliott argued that many readers may already have been literal resident aliens (paroikoi), people without full civic rights; others think Peter's 'exile' language is mainly spiritual. Either way, they felt like strangers at home.\n\nAround fifty years later, Pliny, governor of Bithynia, wrote that he executed people simply for being Christians if they refused to recant. 1 Peter shows an earlier stage in which the name 'Christian' was already a reason for shame.",
+    "culture": [
+      {
+        "term": "Honour and shame",
+        "explain": "Slander was a weapon to shame outsiders into conformity. Peter reverses the values: suffering as a Christian is no shame but glorifies God, and God gives honour to those who trust the rejected cornerstone.",
+        "refs": [
+          "1 Pet 2:7",
+          "1 Pet 4:14-16"
+        ]
+      },
+      {
+        "term": "Household codes",
+        "explain": "Greek moralists taught how slaves, wives and husbands should behave in a well-ordered household. Peter adapts the form, addressing slaves and wives as moral agents and grounding everything in Christ's example, so that good conduct may silence slander and win others.",
+        "refs": [
+          "1 Pet 2:18-3:7"
+        ]
+      },
+      {
+        "term": "Resident aliens and exiles",
+        "explain": "Paroikoi and parepidemoi were people living away from home without full rights. The terms recall Abraham, a sojourner in Canaan, and Israel in exile.",
+        "refs": [
+          "1 Pet 1:1",
+          "1 Pet 2:11",
+          "Gen 23:4"
+        ]
+      },
+      {
+        "term": "Imperial honour",
+        "explain": "Peter says 'fear God, honour the emperor': the emperor is honoured as a human institution, but fear (reverence) is reserved for God alone, a quiet refusal of emperor worship.",
+        "refs": [
+          "1 Pet 2:13-17"
+        ]
+      },
+      {
+        "term": "Diaspora",
+        "explain": "The dispersion was the Jewish experience of living scattered among the nations. Peter applies it to Gentile believers who now share Israel's identity and longing.",
+        "refs": [
+          "1 Pet 1:1",
+          "Jas 1:1"
+        ]
+      }
+    ],
+    "jewishLens": "1 Peter does something remarkable: it addresses mainly Gentile converts with the titles of Israel. They are 'elect exiles of the dispersion', 'a chosen race, a royal priesthood, a holy nation, a people for God's own possession', the very words God spoke to Israel at Sinai. 'Once you were not a people, but now you are God's people', Peter says, applying Hosea's promise of Israel's restoration. They are called to 'be holy, for I am holy', the refrain of Leviticus.\n\nFor a Jewish-rooted reader this is not Israel being replaced but Gentiles being brought into Israel's story, as the prophets foresaw the nations joining Israel's God. Their experience of marginalisation now matches Israel's long experience of exile under empires, which is why Rome is called 'Babylon'. Christ is presented through Isaiah's suffering servant, who bore sins and did not retaliate, and as the stone rejected by the builders in Psalm 118. The letter's hope is resurrection and 'an inheritance imperishable, kept in heaven' to be revealed at the last time, the Jewish hope of a renewed creation, not escape from it.",
+    "flow": [
+      {
+        "label": "Born to a living hope",
+        "detail": "Through Jesus' resurrection believers have a sure inheritance, and trials refine their faith like gold.",
+        "refs": [
+          "1 Pet 1:1-12"
+        ]
+      },
+      {
+        "label": "Be holy, love deeply",
+        "detail": "Redeemed by Christ's blood, they are to live as holy people and love one another earnestly.",
+        "refs": [
+          "1 Pet 1:13-2:3"
+        ]
+      },
+      {
+        "label": "God's people in exile",
+        "detail": "Living stones in God's temple, a royal priesthood, they live honourably among the nations.",
+        "refs": [
+          "1 Pet 2:4-12"
+        ]
+      },
+      {
+        "label": "Doing good under authority",
+        "detail": "Citizens, slaves, wives and husbands follow Christ's pattern of non-retaliation and good conduct.",
+        "refs": [
+          "1 Pet 2:13-3:12"
+        ]
+      },
+      {
+        "label": "Suffering for doing right",
+        "detail": "Ready to give a reason for hope, they share the path of Christ who suffered and was vindicated.",
+        "refs": [
+          "1 Pet 3:13-4:19"
+        ]
+      },
+      {
+        "label": "Humble shepherds, firm faith",
+        "detail": "Elders shepherd willingly; all resist the devil, trusting God who will restore them.",
+        "refs": [
+          "1 Pet 5:1-14"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Hope for God's people in exile",
+      "branches": [
+        {
+          "label": "New identity",
+          "items": [
+            "Elect exiles",
+            "Royal priesthood",
+            "Living stones",
+            "Once not a people"
+          ]
+        },
+        {
+          "label": "Living hope",
+          "items": [
+            "Resurrection",
+            "Imperishable inheritance",
+            "Faith refined"
+          ]
+        },
+        {
+          "label": "Suffering",
+          "items": [
+            "Fiery trial",
+            "Christ's example",
+            "Suffering as Christian"
+          ]
+        },
+        {
+          "label": "Conduct among outsiders",
+          "items": [
+            "Silence slander",
+            "Honour the emperor",
+            "Household codes",
+            "Gentle answer"
+          ]
+        },
+        {
+          "label": "Community",
+          "items": [
+            "Love covers sins",
+            "Hospitality",
+            "Use gifts",
+            "Humble elders"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Exile, sojourner",
+        "original": "parepidemos, paroikos",
+        "meaning": "Resident alien or temporary resident, living without full belonging.",
+        "refs": [
+          "1 Pet 1:1",
+          "1 Pet 2:11"
+        ]
+      },
+      {
+        "word": "Hope",
+        "original": "elpis",
+        "meaning": "Confident expectation grounded in Jesus' resurrection.",
+        "refs": [
+          "1 Pet 1:3",
+          "1 Pet 3:15"
+        ]
+      },
+      {
+        "word": "Grace",
+        "original": "charis",
+        "meaning": "God's generous favour and gift, which calls for a relationship of trust; 'the true grace of God' in which to stand.",
+        "refs": [
+          "1 Pet 5:10",
+          "1 Pet 5:12"
+        ]
+      },
+      {
+        "word": "Good conduct",
+        "original": "anastrophe kale",
+        "meaning": "Honourable way of life visible to outsiders.",
+        "refs": [
+          "1 Pet 2:12",
+          "1 Pet 3:16"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "exodus",
+        "how": "Israel's Sinai calling as a kingdom of priests is applied to believers.",
+        "refs": [
+          "1 Pet 2:9",
+          "Exod 19:5-6"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isaiah 53 shapes the picture of Christ suffering without retaliation, and Isaiah 28 the cornerstone.",
+        "refs": [
+          "1 Pet 2:22-25",
+          "Isa 53:4-9",
+          "1 Pet 2:6",
+          "Isa 28:16"
+        ]
+      },
+      {
+        "bookId": "hosea",
+        "how": "'Not my people' becoming 'my people' describes Gentile inclusion.",
+        "refs": [
+          "1 Pet 2:10",
+          "Hos 2:23"
+        ]
+      },
+      {
+        "bookId": "mark",
+        "how": "Peter names 'Mark my son' with him in Babylon, linking him to the Gospel tradition.",
+        "refs": [
+          "1 Pet 5:13"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Both call Rome 'Babylon' and encourage faithful witness under pressure.",
+        "refs": [
+          "1 Pet 5:13",
+          "Rev 18:2"
+        ]
+      }
+    ],
+    "jesusLens": "Christ is the suffering servant who bore sins on the tree, the precious cornerstone, the shepherd and overseer of souls, and the one raised and exalted over all powers. Jewish readers recognise the use of Isaiah 53 and the transfer of Israel's titles; Christians read it as Gentiles joining Israel's priestly calling through the Messiah.",
+    "misreadings": [
+      {
+        "topic": "'Exiles' means this world is not our home, so we are just passing through to heaven",
+        "popular": "Pilgrim and exile language is often read as saying the earth does not matter and believers should look past it to heaven.",
+        "inContext": "Exile in Jewish thought meant living faithfully among the nations while awaiting God's restoration, as Jeremiah told exiles to seek the welfare of Babylon. Peter calls believers to good works that outsiders can see, and their hope is an inheritance to be revealed when Christ appears. John Elliott, Karen Jobes and David deSilva read the language socially: they are outsiders in their towns but insiders in God's household.",
+        "defence": "Evangelical scholars agree that the letter's hope is future and heavenly in source but emphasise that it is meant to shape present life, not to escape it. Jobes argues that literal displacement may also be in view. There is broad agreement that withdrawal from the world is not Peter's point.",
+        "whyItMatters": "Seeing exile as faithful presence calls believers to do good where they live rather than retreat.",
+        "refs": [
+          "1 Pet 1:1",
+          "1 Pet 2:11-12",
+          "Jer 29:7",
+          "1 Pet 1:4-5"
+        ],
+        "scholars": [
+          "John H. Elliott",
+          "Karen Jobes",
+          "David deSilva",
+          "Miroslav Volf"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "The household code makes submission of slaves and wives a timeless rule",
+        "popular": "Some read 1 Peter 2-3 as God's permanent blueprint for social order, including male authority and acceptance of harsh treatment; others reject the letter as endorsing slavery.",
+        "inContext": "David Balch and others showed Peter is using a familiar Greco-Roman form to show that believers are not subversive troublemakers, so that slander would be silenced and outsiders might be won. Remarkably, Peter addresses slaves and wives directly as moral agents, tells husbands to honour wives as co-heirs, and frames everything with Christ's example. It is a missional strategy for a vulnerable minority.",
+        "defence": "Complementarian scholars (for example Wayne Grudem and Thomas Schreiner) see a lasting pattern of husbands' loving leadership grounded beyond culture, while acknowledging slavery is not endorsed; egalitarian scholars (for example Lynn Cohick and Craig Keener) see the code as cultural accommodation for mission. This is a live scholarly debate.",
+        "whyItMatters": "These verses have been used to tell abused people to stay silent. Reading them in context shows Peter's concern for the vulnerable and for witness, not for enforcing abuse.",
+        "refs": [
+          "1 Pet 2:18-25",
+          "1 Pet 3:1-7",
+          "1 Pet 2:12",
+          "1 Pet 2:16"
+        ],
+        "scholars": [
+          "David Balch",
+          "Lynn Cohick",
+          "Craig Keener",
+          "Thomas Schreiner",
+          "Karen Jobes"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For converts who had lost status and friendships, Peter gave a new family, a noble identity drawn from Israel's story, and a strategy of patient goodness under pressure.",
+      "now": "1 Peter helps believers who feel culturally sidelined to keep hope, answer with gentleness, do visible good and find belonging in a community, without retreat or retaliation."
+    },
+    "sources": [
+      {
+        "author": "John H. Elliott",
+        "title": "A Home for the Homeless: A Sociological Exegesis of 1 Peter",
+        "year": 1981
+      },
+      {
+        "author": "Karen H. Jobes",
+        "title": "1 Peter (Baker Exegetical Commentary)",
+        "year": 2005
+      },
+      {
+        "author": "David L. Balch",
+        "title": "Let Wives Be Submissive: The Domestic Code in 1 Peter",
+        "year": 1981
+      },
+      {
+        "author": "Paul J. Achtemeier",
+        "title": "1 Peter (Hermeneia)",
+        "year": 1996
+      },
+      {
+        "author": "David A. deSilva",
+        "title": "Honor, Patronage, Kinship and Purity: Unlocking New Testament Culture",
+        "year": 2000
+      }
+    ]
   }
 ]
