@@ -2883,5 +2883,2003 @@
         "year": 2000
       }
     ]
+  },
+  {
+    "id": "2-peter",
+    "oneLine": "A farewell testament in Peter's name, reminding believers to grow in godliness, trust the apostolic witness and the prophets, and not be shaken by those who mock the Lord's delayed coming.",
+    "author": {
+      "name": "Simeon Peter (claimed); authorship strongly debated",
+      "who": "The letter presents itself as the last words of 'Simeon Peter', using the Hebrew form of his name, who knows his death is near and who was an eyewitness of the transfiguration.",
+      "howWeKnow": "The text names Peter, but it is the New Testament letter most widely judged pseudonymous: its elaborate Greek differs from 1 Peter, chapter 2 closely reuses Jude, it refers to Paul's letters as a collection alongside 'the other Scriptures', and it treats the first generation as having died. It is first named explicitly by Origen (third century), who notes it was disputed. Defenders such as Michael Green and Michael Kruger answer that a different secretary could explain the style, that Peter could have used Jude, and that the early church rejected other Petrine writings, so its acceptance was not careless. Some scholars, such as Richard Bauckham, see it as a 'testament' whose readers would have recognised the convention of writing in an honoured figure's name.",
+      "otherWritings": [
+        "1 Peter (if the same author)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Rome, if by Peter; otherwise unknown",
+      "coords": [
+        12.5,
+        41.9
+      ],
+      "note": "Tradition places Peter's death in Rome under Nero; nothing in the letter names a place.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "Believers who had received 'a faith of equal standing', apparently the same readers as an earlier letter",
+      "place": "Possibly the churches of Asia Minor addressed in 1 Peter",
+      "situation": "Teachers inside the community were promising freedom while living in sensuality and greed, and scoffers asked 'where is the promise of his coming?', arguing that the world simply goes on as it always has.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 64,
+        "event": "Nero's persecution; tradition dates Peter's martyrdom to 64-68."
+      },
+      {
+        "year": 70,
+        "event": "Destruction of Jerusalem; the first generation of apostles is passing away."
+      },
+      {
+        "year": 96,
+        "event": "1 Clement written from Rome (approximate)."
+      },
+      {
+        "year": 230,
+        "event": "Origen mentions 2 Peter as a disputed writing (approximate)."
+      },
+      {
+        "year": 367,
+        "event": "Athanasius' Festal Letter lists 2 Peter among the 27 New Testament books."
+      }
+    ],
+    "backdrop": "2 Peter is written as a 'testament', a well-known Jewish genre in which a great figure near death gives final instructions and warnings, as Moses does in Deuteronomy and as the Testaments of the Twelve Patriarchs portray Jacob's sons doing. Peter says the 'putting off of my tent' is near and that he wants his readers to remember these things after his departure.\n\nThe problem it addresses is twofold. Some teachers were living immorally and greedily while claiming freedom, and they mocked the expectation of Christ's return. Jerome Neyrey and others have compared their arguments with Epicurean philosophy, which denied that the gods intervene in the world or judge it: if the world never changes, there will be no judgment, so there is no need for moral restraint. The author answers that God has acted in judgment before (the flood, Sodom), that his timing is not ours ('one day is as a thousand years'), and that the delay is mercy, giving time for repentance.\n\nThe letter's acceptance into the canon was slow. Eusebius lists it among the disputed books, and some early writers doubted it. It was received in the fourth-century lists that settled the 27-book New Testament.",
+    "culture": [
+      {
+        "term": "Testament genre",
+        "explain": "Jewish farewell speeches recall the past, warn of coming false teachers and urge faithfulness. The form was widely known and often written in a hero's name.",
+        "refs": [
+          "2 Pet 1:12-15",
+          "Deut 31:24-29"
+        ]
+      },
+      {
+        "term": "Virtue lists",
+        "explain": "Greek moralists listed virtues building on one another. Peter's 'ladder' starts with faith and ends with love, rooting Greek moral language in God's gift.",
+        "refs": [
+          "2 Pet 1:5-7"
+        ]
+      },
+      {
+        "term": "Patronage and divine gift",
+        "explain": "God's 'divine power has granted' everything needed for life and godliness, a benefactor's language. The proper response is grateful growth, not careless ingratitude.",
+        "refs": [
+          "2 Pet 1:3-4",
+          "2 Pet 1:10"
+        ]
+      },
+      {
+        "term": "Jewish traditions about angels and judgment",
+        "explain": "The angels who sinned are kept in 'Tartarus', a Greek word for the deepest underworld, echoing Jewish traditions about the Watchers found in 1 Enoch. 2 Peter tones down Jude's direct use of such traditions.",
+        "refs": [
+          "2 Pet 2:4",
+          "Jude 1:6",
+          "Gen 6:1-4"
+        ]
+      },
+      {
+        "term": "Eyewitness testimony",
+        "explain": "In ancient historiography eyewitness testimony carried weight. The author contrasts 'cleverly devised myths' with what 'we were eyewitnesses' of on the holy mountain.",
+        "refs": [
+          "2 Pet 1:16-18",
+          "Matt 17:1-8"
+        ]
+      }
+    ],
+    "jewishLens": "2 Peter stands firmly in Jewish apocalyptic and prophetic hope. It takes for granted that God judges the wicked and rescues the righteous, as with Noah, called a 'herald of righteousness', and Lot, who was distressed by Sodom's lawlessness. It relies on 'the prophetic word' as a lamp in a dark place until the day dawns. Its answer to the problem of delay draws on Psalm 90, 'a thousand years in your sight are like yesterday', a text Jewish interpreters also used when reflecting on God's timing.\n\nThe hope it defends is Isaiah's: 'new heavens and a new earth in which righteousness dwells'. The Day of the Lord is the prophets' day of judgment and renewal, not a flight from creation. Its promise that believers may 'share in the divine nature' is expressed in Greek terms but, for a Jewish-rooted hearer, recalls Israel's calling to be holy as God is holy and the hope of escaping the corruption of the present age. For a first audience that had lived through Jerusalem's destruction and the deaths of the apostles, the message was that God keeps covenant promises, even when the wait is long.",
+    "flow": [
+      {
+        "label": "Everything for godliness",
+        "detail": "God's power and promises enable a growing life of virtue from faith to love.",
+        "refs": [
+          "2 Pet 1:1-11"
+        ]
+      },
+      {
+        "label": "A last reminder",
+        "detail": "Facing death, Peter wants them to remember the truth after he is gone.",
+        "refs": [
+          "2 Pet 1:12-15"
+        ]
+      },
+      {
+        "label": "Eyewitness and prophecy",
+        "detail": "The transfiguration and the prophets' Spirit-given word ground their hope.",
+        "refs": [
+          "2 Pet 1:16-21"
+        ]
+      },
+      {
+        "label": "False teachers exposed",
+        "detail": "As in Israel's past, false teachers will come; God judged angels, the flood generation and Sodom.",
+        "refs": [
+          "2 Pet 2:1-22"
+        ]
+      },
+      {
+        "label": "Why the delay",
+        "detail": "Scoffers forget creation and the flood; God's patience gives time to repent.",
+        "refs": [
+          "2 Pet 3:1-10"
+        ]
+      },
+      {
+        "label": "Live in hope",
+        "detail": "Wait for new heavens and a new earth, live holy lives, and grow in grace.",
+        "refs": [
+          "2 Pet 3:11-18"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Remember and grow until the Day",
+      "branches": [
+        {
+          "label": "Growth",
+          "items": [
+            "Divine power given",
+            "Ladder of virtues",
+            "Make calling sure"
+          ]
+        },
+        {
+          "label": "Foundations",
+          "items": [
+            "Eyewitness of glory",
+            "Prophetic word",
+            "Spirit-moved prophets"
+          ]
+        },
+        {
+          "label": "False teachers",
+          "items": [
+            "Deny the Master",
+            "Greed and sensuality",
+            "Way of Balaam",
+            "Promise false freedom"
+          ]
+        },
+        {
+          "label": "Day of the Lord",
+          "items": [
+            "Like a thief",
+            "Delay is mercy",
+            "Thousand years as day"
+          ]
+        },
+        {
+          "label": "New creation",
+          "items": [
+            "New heavens and earth",
+            "Righteousness dwells",
+            "Live holy now"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Knowledge",
+        "original": "epignosis",
+        "meaning": "Personal, relational knowing of God and Jesus, the source of growth.",
+        "refs": [
+          "2 Pet 1:2-3",
+          "2 Pet 3:18"
+        ]
+      },
+      {
+        "word": "Godliness",
+        "original": "eusebeia",
+        "meaning": "Reverent devotion shown in a life that honours God.",
+        "refs": [
+          "2 Pet 1:3",
+          "2 Pet 3:11"
+        ]
+      },
+      {
+        "word": "Coming",
+        "original": "parousia",
+        "meaning": "Royal arrival or presence; used of Christ's return.",
+        "refs": [
+          "2 Pet 1:16",
+          "2 Pet 3:4"
+        ]
+      },
+      {
+        "word": "Patience",
+        "original": "makrothymia",
+        "meaning": "Long-suffering, slowness to anger, God's covenant character.",
+        "refs": [
+          "2 Pet 3:9",
+          "2 Pet 3:15",
+          "Exod 34:6"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "jude",
+        "how": "Much of chapter 2 reworks Jude's examples and warnings, generally omitting Jude's explicit non-canonical sources.",
+        "refs": [
+          "2 Pet 2:1-18",
+          "Jude 1:4-16"
+        ]
+      },
+      {
+        "bookId": "1-peter",
+        "how": "Refers to an earlier letter to the same readers.",
+        "refs": [
+          "2 Pet 3:1"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "The transfiguration and the Lord coming like a thief echo the Gospels.",
+        "refs": [
+          "2 Pet 1:17",
+          "Matt 17:5",
+          "2 Pet 3:10",
+          "Matt 24:43"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalm 90 supplies the 'thousand years as one day' saying.",
+        "refs": [
+          "2 Pet 3:8",
+          "Ps 90:4"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "The hope of new heavens and a new earth.",
+        "refs": [
+          "2 Pet 3:13",
+          "Isa 65:17"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus is 'our God and Saviour', the beloved Son honoured on the holy mountain, and the coming Lord whose Day will bring judgment and renewal. Jewish readers recognise the Jewish testamentary form and apocalyptic hope; Christians read the letter as an assurance that Christ's promises remain sure across generations.",
+    "misreadings": [
+      {
+        "topic": "The earth will be annihilated, so the physical world does not matter",
+        "popular": "From the KJV ('the earth also and the works that are therein shall be burned up') many conclude God will destroy the physical universe and take believers to heaven, so caring for creation is pointless.",
+        "inContext": "The oldest Greek manuscripts read that the earth and its works 'will be found' (heurethesetai), meaning exposed or laid bare before God's judgment. Al Wolters, Richard Bauckham and J. Richard Middleton read the fire as refining and judging, like the flood, which did not annihilate the world but purged it. The goal is 'new heavens and a new earth in which righteousness dwells', Isaiah's renewed creation.",
+        "defence": "Some careful evangelical scholars (for example Thomas Schreiner and Douglas Moo) accept the 'found' reading, while noting that the language of dissolution is strong and that some discontinuity between present and future creation is intended. Others still hold a replacement view. The disagreement is about how much continuity there is, not about whether believers should be good stewards.",
+        "whyItMatters": "If creation is destined for the trash heap, it can be neglected. If it is to be purified and renewed, present care for it anticipates God's future.",
+        "refs": [
+          "2 Pet 3:10-13",
+          "2 Pet 3:6",
+          "Isa 65:17",
+          "Rom 8:19-23"
+        ],
+        "scholars": [
+          "Al Wolters",
+          "Richard Bauckham",
+          "J. Richard Middleton",
+          "Douglas Moo",
+          "Thomas Schreiner"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'A thousand years as one day' is a code for calculating prophecy",
+        "popular": "Some read 2 Peter 3:8 as a formula: each day of creation equals a thousand years, so the world will last six thousand years and then Christ returns.",
+        "inContext": "The saying adapts Psalm 90:4 to make a point about God's perspective: human impatience cannot measure God's faithfulness, and his delay is patience. Bauckham and Gene Green read it as a pastoral answer to scoffers, not a timetable. Jesus himself says no one knows the day or hour.",
+        "defence": "Some early Christian writers (for example the Epistle of Barnabas 15) did build a six-thousand-year scheme on such texts, and some modern readers find that tradition meaningful. Most evangelical scholars today agree the verse is not meant for date-setting.",
+        "whyItMatters": "Date-setting repeatedly fails and discredits hope. The verse invites patience and repentance instead.",
+        "refs": [
+          "2 Pet 3:8-9",
+          "Ps 90:4",
+          "Matt 24:36"
+        ],
+        "scholars": [
+          "Richard Bauckham",
+          "Gene L. Green",
+          "Douglas Moo"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For a church losing its founders and hearing mockery of its hope, 2 Peter said: remember the apostolic witness, grow in character, and understand God's delay as mercy.",
+      "now": "2 Peter speaks to readers tempted by teachers who promise freedom without holiness, and to anyone discouraged by waiting. It calls for steady growth, discernment and hope for a renewed creation."
+    },
+    "sources": [
+      {
+        "author": "Richard J. Bauckham",
+        "title": "Jude, 2 Peter (Word Biblical Commentary 50)",
+        "year": 1983
+      },
+      {
+        "author": "Gene L. Green",
+        "title": "Jude and 2 Peter (Baker Exegetical Commentary)",
+        "year": 2008
+      },
+      {
+        "author": "Jerome H. Neyrey",
+        "title": "2 Peter, Jude (Anchor Bible)",
+        "year": 1993
+      },
+      {
+        "author": "Michael J. Kruger",
+        "title": "The Authenticity of 2 Peter, Journal of the Evangelical Theological Society 42",
+        "year": 1999
+      },
+      {
+        "author": "Al Wolters",
+        "title": "Worldview and Textual Criticism in 2 Peter 3:10, Westminster Theological Journal 49",
+        "year": 1987
+      }
+    ]
+  },
+  {
+    "id": "1-john",
+    "oneLine": "A pastoral sermon to a church shaken by a split, assuring those who stayed that they have eternal life and giving clear marks of truth: confessing Jesus come in the flesh, keeping his commands and loving one another.",
+    "author": {
+      "name": "Anonymous; traditionally John the apostle",
+      "who": "A senior leader of the Johannine churches who speaks as part of a group of eyewitnesses ('what we have heard, what we have seen with our eyes') and addresses readers tenderly as 'little children'.",
+      "howWeKnow": "The letter is anonymous. Its vocabulary and themes (light, love, truth, abide, eternal life, the Word) are so close to John's Gospel that most scholars assign it to the same author or circle. Irenaeus quotes it as John's. Whether the writer is the apostle, John the Elder or another leader is debated.",
+      "otherWritings": [
+        "John",
+        "2 John",
+        "3 John"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Ephesus (traditional)",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "note": "Based on the tradition that John lived in Ephesus late in life.",
+      "confidence": "tradition"
+    },
+    "writtenTo": {
+      "who": "House churches in the Johannine network, probably around Ephesus",
+      "place": "Province of Asia",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "A group had left the community (they 'went out from us'), apparently denying that Jesus the Messiah had truly come in the flesh, claiming to be without sin and showing little love. Those who remained were unsettled and needed assurance.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": 70,
+        "event": "Jerusalem destroyed; Jewish and Christian communities in Asia grow."
+      },
+      {
+        "year": 81,
+        "event": "Domitian becomes emperor (to 96)."
+      },
+      {
+        "year": 95,
+        "event": "Approximate date often proposed for the Johannine letters."
+      },
+      {
+        "year": 110,
+        "event": "Ignatius of Antioch warns churches in Asia against teachers who say Christ only seemed to suffer."
+      },
+      {
+        "year": 120,
+        "event": "Polycarp's letter to the Philippians echoes 1 John's test about confessing Jesus come in the flesh (approximate)."
+      }
+    ],
+    "backdrop": "1 John has no greeting or farewell; it reads like a sermon or circular tract. It moves in spirals rather than straight lines, returning again and again to the same themes from new angles: walking in the light, confessing sin, keeping commands, loving fellow believers, and confessing Jesus rightly.\n\nThe crisis was a schism. The writer calls those who left 'antichrists' and 'false prophets'. Their exact teaching is reconstructed from the writer's replies: they seem to have denied that the human Jesus was the Messiah and Son of God, or that Christ came 'in the flesh' and 'by water and blood' (that is, truly lived and truly died). This fits early forms of docetism (from Greek dokeo, 'to seem'), the idea that Christ only seemed to be human. Irenaeus tells of a teacher in Asia, Cerinthus, who taught that the divine Christ descended on the man Jesus at his baptism and left him before the cross, and of a story that John fled a bathhouse when Cerinthus entered.\n\nThe split was also moral and relational. Those who left apparently claimed fellowship with God and freedom from sin while neglecting love for poorer believers. The writer insists that knowing God cannot be separated from obeying him and caring for a brother or sister in need.",
+    "culture": [
+      {
+        "term": "Kinship language",
+        "explain": "Believers are 'children of God', 'brothers and sisters', 'little children'. In a collectivist world, family meant obligation: you share your goods with kin. Refusing help to a sibling in need denies the family bond.",
+        "refs": [
+          "1 John 3:1-2",
+          "1 John 3:16-18"
+        ]
+      },
+      {
+        "term": "Atoning sacrifice",
+        "explain": "Jesus is the hilasmos for sins, a word used in the Greek Old Testament for atonement rites. It recalls the Day of Atonement, where God himself provides the means of cleansing.",
+        "refs": [
+          "1 John 2:2",
+          "1 John 4:10",
+          "Lev 16:30"
+        ]
+      },
+      {
+        "term": "Advocate",
+        "explain": "A parakletos was a supporter who stood beside someone in court. Jesus is the righteous advocate with the Father.",
+        "refs": [
+          "1 John 2:1"
+        ]
+      },
+      {
+        "term": "Testing prophets",
+        "explain": "Early churches received travelling prophets and teachers. Like Deuteronomy's tests of prophets, John gives a test: confession of Jesus come in the flesh.",
+        "refs": [
+          "1 John 4:1-3",
+          "Deut 18:21-22"
+        ]
+      },
+      {
+        "term": "Idols",
+        "explain": "The closing warning, 'keep yourselves from idols', fits a city full of temples (Artemis, the emperors) and may also mean any false picture of God.",
+        "refs": [
+          "1 John 5:21"
+        ]
+      }
+    ],
+    "jewishLens": "Although the readers were likely a mixed community in a Greek city, 1 John's world is deeply Jewish. God is light, as the Psalms and Isaiah proclaim. The 'old commandment' they have had from the beginning is the command of love, rooted in Leviticus 19:18 and renewed by Jesus. Cain, who killed his brother, is the negative example of hatred within the family. Sin is defined as 'lawlessness' (anomia), the breaking of God's covenant instruction. The atoning sacrifice language comes straight from Israel's temple worship.\n\nThe writer's 'tests' are covenantal, not anxious checklists. In Israel's covenant, God's gracious initiative came first ('we love because he first loved us') and faithfulness followed: knowing God meant walking in his ways, as Jeremiah said of King Josiah, 'he judged the cause of the poor; was not this to know me?' A Jewish-rooted hearer would hear 1 John as saying that the God of Israel has revealed himself in the flesh of Jesus the Messiah, and that the community that confesses him must look like its Father: truthful, righteous and loving toward the vulnerable.",
+    "flow": [
+      {
+        "label": "Word of life seen",
+        "detail": "Eyewitnesses proclaim the life revealed in Jesus so that readers share fellowship and joy.",
+        "refs": [
+          "1 John 1:1-4"
+        ]
+      },
+      {
+        "label": "Walk in the light",
+        "detail": "God is light; confess sin rather than deny it; Jesus is advocate and atoning sacrifice.",
+        "refs": [
+          "1 John 1:5-2:2"
+        ]
+      },
+      {
+        "label": "Obey and love",
+        "detail": "Knowing God means keeping his commands and loving brothers and sisters.",
+        "refs": [
+          "1 John 2:3-17"
+        ]
+      },
+      {
+        "label": "Antichrists left",
+        "detail": "Those who went out deny the Son; abide in what you heard from the beginning.",
+        "refs": [
+          "1 John 2:18-29"
+        ]
+      },
+      {
+        "label": "Children of God",
+        "detail": "God's children practise righteousness and love in deed, unlike Cain.",
+        "refs": [
+          "1 John 3:1-24"
+        ]
+      },
+      {
+        "label": "God is love",
+        "detail": "Test the spirits; God's love shown in sending his Son must be lived out among believers.",
+        "refs": [
+          "1 John 4:1-21"
+        ]
+      },
+      {
+        "label": "Know that you have life",
+        "detail": "Faith in the Son overcomes the world; the letter is written so they may know they have eternal life.",
+        "refs": [
+          "1 John 5:1-21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Fellowship with God in truth and love",
+      "branches": [
+        {
+          "label": "God's nature",
+          "items": [
+            "God is light",
+            "God is love",
+            "Father of the children"
+          ]
+        },
+        {
+          "label": "Right belief",
+          "items": [
+            "Jesus is the Christ",
+            "Come in the flesh",
+            "Water and blood"
+          ]
+        },
+        {
+          "label": "Right living",
+          "items": [
+            "Keep his commands",
+            "Confess sins",
+            "Practise righteousness"
+          ]
+        },
+        {
+          "label": "Love",
+          "items": [
+            "Love one another",
+            "Love in deed",
+            "Lay down life",
+            "Share goods"
+          ]
+        },
+        {
+          "label": "Assurance",
+          "items": [
+            "Know you have life",
+            "Spirit's anointing",
+            "Abide in him"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Fellowship",
+        "original": "koinonia",
+        "meaning": "Shared life and partnership with God and with one another.",
+        "refs": [
+          "1 John 1:3",
+          "1 John 1:7"
+        ]
+      },
+      {
+        "word": "Abide, remain",
+        "original": "meno",
+        "meaning": "To stay, keep living in a relationship; used over twenty times.",
+        "refs": [
+          "1 John 2:24",
+          "1 John 4:16"
+        ]
+      },
+      {
+        "word": "Love",
+        "original": "agape",
+        "meaning": "Self-giving commitment to another's good, defined by God's sending of his Son.",
+        "refs": [
+          "1 John 4:8-10",
+          "1 John 3:16"
+        ]
+      },
+      {
+        "word": "Atoning sacrifice",
+        "original": "hilasmos",
+        "meaning": "Means of atonement, removing sin and restoring relationship.",
+        "refs": [
+          "1 John 2:2",
+          "1 John 4:10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "john",
+        "how": "Shares the Word, light and darkness, love command and the purpose of eternal life.",
+        "refs": [
+          "1 John 1:1",
+          "John 1:1",
+          "1 John 5:13",
+          "John 20:31"
+        ]
+      },
+      {
+        "bookId": "2-john",
+        "how": "2 John applies the same test about Jesus come in the flesh to travelling teachers.",
+        "refs": [
+          "2 John 1:7",
+          "1 John 4:2-3"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Cain is the model of hatred within the family of faith.",
+        "refs": [
+          "1 John 3:12",
+          "Gen 4:8"
+        ]
+      },
+      {
+        "bookId": "leviticus",
+        "how": "The love command and atonement language come from Leviticus.",
+        "refs": [
+          "1 John 2:7-8",
+          "Lev 19:18",
+          "1 John 2:2",
+          "Lev 16:30"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus is the eternal life revealed, the Christ and Son of God who came in the flesh, the righteous advocate and atoning sacrifice, and the coming one whose appearing will make believers like him. 1 John makes the real humanity and real death of Jesus a test of truth, which was decisive for later Christian teaching on the incarnation.",
+    "misreadings": [
+      {
+        "topic": "The Antichrist is a single future world dictator",
+        "popular": "Popular prophecy teaching reads 'Antichrist' as one end-time political ruler who will deceive the world, combining 1 John with Daniel, 2 Thessalonians and Revelation.",
+        "inContext": "1 John is the only New Testament book that uses the word 'antichrist', and it says 'many antichrists have come' and 'went out from us': false teachers who deny that Jesus is the Christ come in the flesh. Raymond Brown, Judith Lieu and Craig Keener stress that John reapplies an expected end-time figure to a present internal danger, the spirit of denial.",
+        "defence": "Many dispensational and other evangelical scholars hold that John also affirms a coming individual Antichrist ('you heard that antichrist is coming') while teaching that his spirit is already at work. Others see no single figure. The point all agree on is John's: the urgent danger is false teaching within the church.",
+        "whyItMatters": "Looking for a distant villain can distract from John's concern: whether our own confession and love are true.",
+        "refs": [
+          "1 John 2:18-22",
+          "1 John 4:3",
+          "2 John 1:7"
+        ],
+        "scholars": [
+          "Raymond Brown",
+          "Judith Lieu",
+          "Craig Keener",
+          "Robert Yarbrough"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "1 John's 'tests' are a checklist to prove you are saved",
+        "popular": "Some read the letter as a set of tests believers must pass to know they are truly saved, which can produce anxiety, or else read 'whoever is born of God does not sin' as demanding sinless perfection.",
+        "inContext": "The tests were given to reassure those who stayed, not to unsettle them: 'I write these things to you so that you may know that you have eternal life.' They distinguish the community from those who left. The same letter says anyone who claims to have no sin deceives themselves, so 'does not sin' (present tense) means not living in persistent, unrepentant sin. Judith Lieu and Marianne Meye Thompson read the letter as pastoral reassurance in a crisis.",
+        "defence": "Evangelical scholars such as Robert Yarbrough and Colin Kruse agree the purpose is assurance, while noting that the letter really does expect visible fruit and that its tests remain useful for self-examination. The difference is mainly between pastoral use and popular misuse.",
+        "whyItMatters": "Read as covenant assurance, 1 John comforts the doubting and challenges the complacent.",
+        "refs": [
+          "1 John 5:13",
+          "1 John 1:8-10",
+          "1 John 3:6-9",
+          "1 John 3:19-20"
+        ],
+        "scholars": [
+          "Judith Lieu",
+          "Marianne Meye Thompson",
+          "Robert Yarbrough",
+          "Colin Kruse"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For a wounded, divided church, 1 John said: you are God's children, your confession of Jesus is true, and the proof of knowing God is love that shares goods with those in need.",
+      "now": "1 John helps believers navigate church conflict and confusion about Jesus, holding together sound belief, honest confession of sin and practical love, and grounding assurance in God's love first."
+    },
+    "sources": [
+      {
+        "author": "Raymond E. Brown",
+        "title": "The Epistles of John (Anchor Bible)",
+        "year": 1982
+      },
+      {
+        "author": "Judith M. Lieu",
+        "title": "I, II, and III John (New Testament Library)",
+        "year": 2008
+      },
+      {
+        "author": "Robert W. Yarbrough",
+        "title": "1-3 John (Baker Exegetical Commentary)",
+        "year": 2008
+      },
+      {
+        "author": "Irenaeus",
+        "title": "Against Heresies",
+        "locator": "1.26.1 and 3.3.4 (Cerinthus)",
+        "publicDomain": true
+      }
+    ]
+  },
+  {
+    "id": "2-john",
+    "oneLine": "A short letter from 'the elder' to a sister church, urging love and obedience and warning not to give a platform to travelling teachers who deny that Jesus Christ came in the flesh.",
+    "author": {
+      "name": "'The elder'",
+      "who": "A senior, respected leader in the Johannine churches who could write with authority to congregations in other towns, and who calls himself simply 'the elder' (presbyteros), suggesting everyone knew who he was.",
+      "howWeKnow": "2 and 3 John are by the same writer, judging by style, length and the title. Papias distinguished John the apostle from 'John the Elder', so many scholars identify the writer with the Elder; others hold he was the apostle. The theme and vocabulary are very close to 1 John.",
+      "otherWritings": [
+        "3 John",
+        "1 John (probably)",
+        "John (possibly)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Ephesus or another city in Asia",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "note": "Based on the Johannine tradition; the letter itself names no place.",
+      "confidence": "tradition"
+    },
+    "writtenTo": {
+      "who": "'The elect lady and her children', most likely a personified local church and its members",
+      "place": "A congregation within reach of the elder in Asia",
+      "situation": "Travelling teachers who denied the incarnation were moving between house churches looking for hospitality and support. The elder warns this church not to receive them as teachers.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 70,
+        "event": "Fall of Jerusalem; churches in Asia take on greater importance."
+      },
+      {
+        "year": 95,
+        "event": "Approximate date often proposed for the Johannine letters."
+      },
+      {
+        "year": 100,
+        "event": "The Didache gives rules for testing travelling apostles and prophets (date approximate, c. 50-120)."
+      },
+      {
+        "year": 110,
+        "event": "Ignatius warns Asian churches against docetic teachers."
+      }
+    ],
+    "backdrop": "2 John is the shortest book in the New Testament, short enough to fit on a single sheet of papyrus. It follows the normal pattern of an ancient letter: sender, recipient, greeting, main body, hope to visit, greetings from others.\n\nIts setting is the network of house churches that early Christians relied on. There were no church buildings; believers met in homes. Teachers and missionaries travelled from town to town and depended on hospitality, as did the elder's own messengers. This network was how the gospel spread, but it also allowed false teachers to move around. The Didache, an early Christian manual, gives practical rules: a true prophet does not stay more than two days or ask for money.\n\nThe specific danger was the same as in 1 John: teachers who did not confess 'Jesus Christ coming in the flesh'. The elder calls them deceivers and 'the antichrist', and says those who 'run ahead' beyond the teaching of Christ do not have God.",
+    "culture": [
+      {
+        "term": "Hospitality",
+        "explain": "Receiving a guest into the home meant food, lodging and public endorsement. In a house church, welcoming a teacher also gave him a platform to teach the whole congregation.",
+        "refs": [
+          "2 John 1:10-11",
+          "3 John 1:5-8"
+        ]
+      },
+      {
+        "term": "Elect lady",
+        "explain": "Kyria ('lady') could be a woman's name or title, but the language of her 'children' and her 'elect sister' suggests sister congregations, as Israel and Jerusalem were pictured as a mother or bride.",
+        "refs": [
+          "2 John 1:1",
+          "2 John 1:13",
+          "Isa 54:1"
+        ]
+      },
+      {
+        "term": "Ancient letter form",
+        "explain": "Letters opened with greetings and closed with wishes to visit 'face to face' ('mouth to mouth'), since writing was a poor substitute for presence.",
+        "refs": [
+          "2 John 1:12"
+        ]
+      },
+      {
+        "term": "Greeting as endorsement",
+        "explain": "To 'greet' a person publicly signalled honour and fellowship. Refusing the greeting was a public statement of distance.",
+        "refs": [
+          "2 John 1:10-11"
+        ]
+      }
+    ],
+    "jewishLens": "The elder's main command is the 'commandment we have had from the beginning, that we love one another', the Torah's love command renewed by Jesus. 'Walking' in truth and in the commandments is Jewish halakhic language (halakhah means 'walking'), describing a way of life shaped by God's instruction. The picture of a community as a 'lady' and her 'children' echoes the prophets' images of Zion as mother of her people.\n\nThe warning against receiving false teachers also follows a Jewish pattern: Deuteronomy commanded Israel not to listen to prophets who led the people after other gods, however impressive their signs. For a first-century audience the issue was covenant loyalty. To deny that the Messiah came in the flesh was to deny the God who sent him, and to support such teaching would be to share in its work.",
+    "flow": [
+      {
+        "label": "Greeting in truth",
+        "detail": "The elder greets the elect lady with grace, mercy and peace in truth and love.",
+        "refs": [
+          "2 John 1:1-3"
+        ]
+      },
+      {
+        "label": "Joy at faithful children",
+        "detail": "He rejoices that some of her children walk in the truth.",
+        "refs": [
+          "2 John 1:4"
+        ]
+      },
+      {
+        "label": "Love one another",
+        "detail": "The old commandment is to love, and love means walking in his commandments.",
+        "refs": [
+          "2 John 1:5-6"
+        ]
+      },
+      {
+        "label": "Deceivers are out",
+        "detail": "Many deny Jesus Christ came in the flesh; watch yourselves and abide in the teaching.",
+        "refs": [
+          "2 John 1:7-9"
+        ]
+      },
+      {
+        "label": "Do not host them",
+        "detail": "Do not receive or greet such teachers, or you share their evil work.",
+        "refs": [
+          "2 John 1:10-11"
+        ]
+      },
+      {
+        "label": "Hope to visit",
+        "detail": "He hopes to come and talk face to face so their joy may be complete.",
+        "refs": [
+          "2 John 1:12-13"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Truth and love together",
+      "branches": [
+        {
+          "label": "Truth",
+          "items": [
+            "Abides in us",
+            "Walk in truth",
+            "Teaching of Christ"
+          ]
+        },
+        {
+          "label": "Love",
+          "items": [
+            "Old commandment",
+            "Love one another",
+            "Love is obedience"
+          ]
+        },
+        {
+          "label": "Danger",
+          "items": [
+            "Deceivers gone out",
+            "Deny the flesh",
+            "Running ahead"
+          ]
+        },
+        {
+          "label": "Discernment",
+          "items": [
+            "Watch yourselves",
+            "Do not host",
+            "Do not endorse"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Truth",
+        "original": "aletheia",
+        "meaning": "Reality as revealed in Jesus, and faithful living in line with it; used five times in the opening verses.",
+        "refs": [
+          "2 John 1:1-4"
+        ]
+      },
+      {
+        "word": "Walk",
+        "original": "peripateo",
+        "meaning": "To live, conduct oneself; echoes the Hebrew idea of walking in God's ways.",
+        "refs": [
+          "2 John 1:4",
+          "2 John 1:6"
+        ]
+      },
+      {
+        "word": "Deceiver",
+        "original": "planos",
+        "meaning": "One who leads astray, a misleader.",
+        "refs": [
+          "2 John 1:7"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-john",
+        "how": "Same test of confessing Jesus come in the flesh and same love command.",
+        "refs": [
+          "2 John 1:7",
+          "1 John 4:2-3",
+          "2 John 1:5",
+          "1 John 2:7"
+        ]
+      },
+      {
+        "bookId": "3-john",
+        "how": "3 John shows the opposite problem: a leader refusing hospitality to true messengers.",
+        "refs": [
+          "3 John 1:9-10"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Deuteronomy warns Israel not to follow prophets who lead them away from the Lord.",
+        "refs": [
+          "Deut 13:1-4"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "The love command from the beginning echoes Jesus' new commandment.",
+        "refs": [
+          "2 John 1:5",
+          "John 13:34"
+        ]
+      }
+    ],
+    "jesusLens": "The letter insists that Jesus Christ came in the flesh and that remaining in his teaching means having both the Father and the Son. Its concern is that love and truth about Jesus stay together.",
+    "misreadings": [
+      {
+        "topic": "Never let anyone of a different belief into your home",
+        "popular": "2 John 10 is sometimes read as forbidding Christians to invite into their homes, or even greet, anyone who holds different religious beliefs, such as door-to-door missionaries.",
+        "inContext": "The setting is the house church. 'Receiving into the house' meant giving a travelling teacher lodging, support and a platform to teach the congregation, and 'greeting' meant public endorsement. Raymond Brown, Judith Lieu and Colin Kruse read the command as refusing to sponsor false teachers, not refusing ordinary kindness to neighbours. Jesus himself ate with sinners and outsiders.",
+        "defence": "Some conservative interpreters stress that the elder's warning is strict and that Christians should be careful not to give any appearance of endorsing false teaching about Christ. Most agree the text concerns supporting teachers, not general hospitality or friendship.",
+        "whyItMatters": "Read in context, the verse protects congregations without making believers unkind or fearful toward people of other faiths.",
+        "refs": [
+          "2 John 1:10-11",
+          "Luke 15:1-2",
+          "Heb 13:2"
+        ],
+        "scholars": [
+          "Raymond Brown",
+          "Judith Lieu",
+          "Colin Kruse"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "A congregation open-hearted to travelling teachers learned that love includes protecting the community from teaching that denies who Jesus is.",
+      "now": "2 John speaks to churches deciding whom to give a platform. It holds truth and love together and warns against separating them."
+    },
+    "sources": [
+      {
+        "author": "Raymond E. Brown",
+        "title": "The Epistles of John (Anchor Bible)",
+        "year": 1982
+      },
+      {
+        "author": "Judith M. Lieu",
+        "title": "The Second and Third Epistles of John: History and Background",
+        "year": 1986
+      },
+      {
+        "author": "Colin G. Kruse",
+        "title": "The Letters of John (Pillar)",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "3-john",
+    "oneLine": "A personal note from 'the elder' to Gaius, praising his hospitality to travelling missionaries, rebuking a domineering leader, Diotrephes, and recommending Demetrius.",
+    "author": {
+      "name": "'The elder'",
+      "who": "The same respected leader who wrote 2 John, with authority across several house churches but facing resistance from one local leader.",
+      "howWeKnow": "Same opening title, style and length as 2 John. The identity of the elder (apostle or John the Elder) is debated, as for 2 John. 3 John has the weakest early attestation of the Johannine letters.",
+      "otherWritings": [
+        "2 John",
+        "1 John (probably)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Ephesus or nearby",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "note": "Based on Johannine tradition; not stated in the letter.",
+      "confidence": "tradition"
+    },
+    "writtenTo": {
+      "who": "Gaius, a believer known for generous hospitality",
+      "place": "A town in Asia near Diotrephes' congregation",
+      "situation": "Diotrephes, who 'loves to be first', refused to receive the elder's messengers, spread slander against him and expelled members who welcomed them. Gaius needed encouragement to keep supporting missionaries, and Demetrius, probably the bearer of the letter, needed a recommendation.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": 70,
+        "event": "Fall of Jerusalem."
+      },
+      {
+        "year": 95,
+        "event": "Approximate date often proposed for the Johannine letters."
+      },
+      {
+        "year": 100,
+        "event": "Didache (c. 50-120) regulates hospitality to travelling prophets and teachers."
+      },
+      {
+        "year": 110,
+        "event": "Ignatius' letters show bishops gaining a central role in local churches."
+      }
+    ],
+    "backdrop": "3 John is the most personal letter in the New Testament after Philemon, and about the same length as 2 John. It gives a rare, ground-level glimpse of early church life: missionaries travelling 'for the sake of the Name', relying on believers for food, lodging and supplies for the next stage of the journey; letters of recommendation; and a power struggle in a local congregation.\n\nDiotrephes may have been the host of a house church, which in the ancient world gave the householder considerable control over who could attend and teach. Some scholars see in the conflict an early stage of the shift from travelling leadership to strong local leaders (later bishops); others see a simple clash of personality and pride. The elder does not accuse Diotrephes of false teaching, only of love of status, slander and refusing hospitality.\n\nThe missionaries took nothing from 'the Gentiles' (here meaning unbelievers), so they relied entirely on believers' generosity. Supporting them made the host a 'fellow worker for the truth'.",
+    "culture": [
+      {
+        "term": "Hospitality and patronage",
+        "explain": "Hosts acted as patrons to travelling teachers, and support was expected 'in a manner worthy of God'. Hospitality was a central Jewish and early Christian virtue, modelled by Abraham.",
+        "refs": [
+          "3 John 1:5-8",
+          "Gen 18:1-8",
+          "Rom 12:13"
+        ]
+      },
+      {
+        "term": "Love of honour",
+        "explain": "Philoproteuo ('love to be first') describes the competitive pursuit of honour that dominated ancient social life. Jesus taught the reverse: the first must be servant of all.",
+        "refs": [
+          "3 John 1:9",
+          "Mark 10:43-44"
+        ]
+      },
+      {
+        "term": "Letters of recommendation",
+        "explain": "Travellers carried letters vouching for them to hosts. The elder's commendation of Demetrius functions as such a letter.",
+        "refs": [
+          "3 John 1:12",
+          "2 Cor 3:1"
+        ]
+      },
+      {
+        "term": "Health wishes",
+        "explain": "Greek letters routinely opened with a wish for the recipient's health and well-being, much like 'I hope this finds you well'.",
+        "refs": [
+          "3 John 1:2"
+        ]
+      },
+      {
+        "term": "The Name",
+        "explain": "Going out 'for the sake of the Name' echoes Jewish reverence for God's Name and Jesus' teaching about suffering for his name.",
+        "refs": [
+          "3 John 1:7",
+          "Acts 5:41"
+        ]
+      }
+    ],
+    "jewishLens": "Hospitality to travellers was a deep Jewish virtue. Abraham ran to welcome strangers at Mamre; Torah commanded love for the stranger because Israel had been strangers in Egypt; and Jewish communities across the diaspora hosted travelling teachers and messengers. Gaius stands in that tradition. Walking 'in the truth' again reflects the Jewish idea of life as a walk in God's ways.\n\nThe elder's advice, 'do not imitate what is evil but what is good', sounds like the wisdom tradition's two ways. Diotrephes' fault is the opposite of covenant humility: hoarding honour rather than serving God's messengers. For a first audience, the letter would have been heard as a practical application of covenant faithfulness in a small community: open doors, generous provision and humble leadership.",
+    "flow": [
+      {
+        "label": "Prayer for Gaius",
+        "detail": "The elder greets Gaius and wishes him health, rejoicing in his faithfulness.",
+        "refs": [
+          "3 John 1:1-4"
+        ]
+      },
+      {
+        "label": "Faithful hospitality",
+        "detail": "Gaius has welcomed strangers; sending them on worthily makes him a fellow worker.",
+        "refs": [
+          "3 John 1:5-8"
+        ]
+      },
+      {
+        "label": "Diotrephes rebuked",
+        "detail": "A leader who loves to be first refuses the elder's people and expels those who help.",
+        "refs": [
+          "3 John 1:9-10"
+        ]
+      },
+      {
+        "label": "Imitate the good",
+        "detail": "Whoever does good is from God; whoever does evil has not seen God.",
+        "refs": [
+          "3 John 1:11"
+        ]
+      },
+      {
+        "label": "Demetrius commended",
+        "detail": "Everyone, and the truth itself, testifies for Demetrius.",
+        "refs": [
+          "3 John 1:12"
+        ]
+      },
+      {
+        "label": "Face to face soon",
+        "detail": "The elder hopes to visit and sends greetings to the friends by name.",
+        "refs": [
+          "3 John 1:13-14"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Open doors for the truth",
+      "branches": [
+        {
+          "label": "Gaius",
+          "items": [
+            "Walks in truth",
+            "Generous host",
+            "Fellow worker"
+          ]
+        },
+        {
+          "label": "Missionaries",
+          "items": [
+            "For the Name",
+            "Took nothing from outsiders",
+            "Sent on worthily"
+          ]
+        },
+        {
+          "label": "Diotrephes",
+          "items": [
+            "Loves to be first",
+            "Slanders the elder",
+            "Expels the helpers"
+          ]
+        },
+        {
+          "label": "Demetrius",
+          "items": [
+            "Good testimony",
+            "Recommended traveller"
+          ]
+        },
+        {
+          "label": "Lesson",
+          "items": [
+            "Imitate good",
+            "Humble leadership",
+            "Friends by name"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Fellow worker",
+        "original": "synergos",
+        "meaning": "Partner in the work; those who support missionaries share in their mission.",
+        "refs": [
+          "3 John 1:8"
+        ]
+      },
+      {
+        "word": "Truth",
+        "original": "aletheia",
+        "meaning": "The gospel reality and a life consistent with it.",
+        "refs": [
+          "3 John 1:3-4",
+          "3 John 1:12"
+        ]
+      },
+      {
+        "word": "Loves to be first",
+        "original": "philoproteuon",
+        "meaning": "Ambitious for pre-eminence; status-seeking.",
+        "refs": [
+          "3 John 1:9"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-john",
+        "how": "2 John warns against receiving false teachers; 3 John rebukes refusing true ones.",
+        "refs": [
+          "2 John 1:10",
+          "3 John 1:10"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Abraham's hospitality is the Jewish model for welcoming travellers.",
+        "refs": [
+          "Gen 18:1-8"
+        ]
+      },
+      {
+        "bookId": "mark",
+        "how": "Jesus' teaching that the first must be servant contrasts with Diotrephes.",
+        "refs": [
+          "Mark 10:42-45"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews also urges hospitality to strangers.",
+        "refs": [
+          "Heb 13:2"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus is not named directly, but the missionaries go out 'for the sake of the Name', and the letter's call to humble service and generous welcome reflects his teaching and example.",
+    "misreadings": [
+      {
+        "topic": "3 John 2 promises health and wealth to the faithful",
+        "popular": "Some prosperity teaching uses 3 John 2 ('I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth', KJV) as a divine promise that faithful believers will be wealthy and healthy.",
+        "inContext": "The verse is a standard Greek letter-opening wish for the recipient's well-being, found in many surviving papyrus letters. The word euodousthai means 'to go well', not financial prosperity. Gordon Fee and Colin Kruse note that the elder is praying for a friend, not stating a law. The letter itself praises giving away resources to missionaries.",
+        "defence": "Prosperity teachers argue that God does desire the flourishing of his people and that the elder's prayer reflects that desire. Evangelical scholars across the spectrum agree it is a sincere prayer for well-being but not a guarantee or a formula.",
+        "whyItMatters": "Turning a friendly greeting into a promise can lead to disappointment and blame when believers suffer illness or poverty.",
+        "refs": [
+          "3 John 1:2",
+          "3 John 1:5-8",
+          "Jas 4:13-15"
+        ],
+        "scholars": [
+          "Gordon Fee",
+          "Colin Kruse",
+          "Raymond Brown"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "A small group of believers was encouraged to keep supporting missionaries despite a domineering local leader.",
+      "now": "3 John honours quiet generosity, warns against power-hungry leadership and reminds churches that supporting those who serve elsewhere is a share in their work."
+    },
+    "sources": [
+      {
+        "author": "Raymond E. Brown",
+        "title": "The Epistles of John (Anchor Bible)",
+        "year": 1982
+      },
+      {
+        "author": "Judith M. Lieu",
+        "title": "I, II, and III John (New Testament Library)",
+        "year": 2008
+      },
+      {
+        "author": "Gordon D. Fee",
+        "title": "The Disease of the Health and Wealth Gospels",
+        "year": 1985,
+        "confidence": "needs-verification"
+      },
+      {
+        "author": "Colin G. Kruse",
+        "title": "The Letters of John (Pillar)",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "jude",
+    "oneLine": "A short, fiery sermon-letter from a brother of Jesus urging believers to contend for the faith against intruders who turn grace into licence, while keeping themselves in God's love and showing mercy.",
+    "author": {
+      "name": "Jude (Judah), brother of James",
+      "who": "Judah was one of Jesus' brothers. Like James, he did not believe during Jesus' ministry but later became a travelling leader; Paul mentions 'the brothers of the Lord' travelling with their wives. He modestly calls himself 'servant of Jesus Christ and brother of James', not brother of Jesus.",
+      "howWeKnow": "The letter names Jude, brother of James. Hegesippus (second century, quoted by Eusebius) tells of Jude's grandsons, poor farmers in Galilee, being questioned by Domitian about the Davidic family. Some scholars think the letter is pseudonymous because of its good Greek and its phrase 'the faith once for all delivered'; others, notably Richard Bauckham, argue it fits early Palestinian Jewish Christianity and that a forger would hardly choose so obscure a name.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Probably Palestine (if by Jude); otherwise unknown",
+      "note": "The heavy use of Jewish apocalyptic tradition fits a Palestinian Jewish-Christian setting, but the letter gives no place.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "An unnamed community, probably of Jewish believers or Gentiles well taught in Jewish tradition",
+      "place": "Unknown; Syria, Palestine and Asia Minor have been suggested",
+      "situation": "Certain people had 'crept in unnoticed' and shared in the community's love feasts. They treated God's grace as permission for sexual immorality, rejected authority, claimed visions and caused divisions.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": 49,
+        "event": "Jerusalem council; James leads the Jerusalem church (approximate)."
+      },
+      {
+        "year": 62,
+        "event": "James, Jude's brother, is executed in Jerusalem."
+      },
+      {
+        "year": 66,
+        "event": "Jewish revolt against Rome begins."
+      },
+      {
+        "year": 70,
+        "event": "Jerusalem and the temple destroyed."
+      },
+      {
+        "year": 90,
+        "event": "Hegesippus' story of Jude's grandsons before Domitian (approximate setting)."
+      }
+    ],
+    "backdrop": "Jude is only twenty-five verses long, but it is carefully crafted. Richard Bauckham has shown that its central section is a piece of Jewish interpretation: it states a theme, gives examples from Scripture and tradition, then applies each with 'these people are...', much like the commentaries (pesharim) found among the Dead Sea Scrolls.\n\nJude draws freely on Jewish traditions beyond the Hebrew Bible. Verse 6, about angels who left their proper home and are kept in chains for judgment, reflects the story of the Watchers in 1 Enoch. Verse 9, about the archangel Michael disputing with the devil over Moses' body, comes, according to Clement of Alexandria and Origen, from a work called the Assumption (or Testament) of Moses, whose ending is lost. Verses 14-15 quote 1 Enoch 1:9 almost word for word, introducing it as something Enoch 'prophesied'. 1 Enoch was widely read in the Second Temple period; fragments of it were found at Qumran, and it remains part of the Ethiopian Orthodox canon.\n\nBecause of these citations some early Christians hesitated over Jude, and Jerome mentions that many rejected it for this reason. Yet it is listed in the Muratorian fragment and was accepted by Tertullian, Clement and Origen, and it entered all the major canon lists.",
+    "culture": [
+      {
+        "term": "1 Enoch and Jewish tradition",
+        "explain": "1 Enoch is a collection of Jewish apocalyptic writings (third century BC onward) about Enoch, the fallen Watchers and final judgment. Jude quotes it as genuine prophecy, showing that his community valued it.",
+        "refs": [
+          "Jude 1:6",
+          "Jude 1:14-15",
+          "Gen 5:24",
+          "Gen 6:1-4"
+        ]
+      },
+      {
+        "term": "Love feasts",
+        "explain": "Early believers shared common meals (agapai) that included the Lord's Supper. The intruders are 'hidden reefs' at these meals, dangerous because unseen, and shepherds feeding only themselves.",
+        "refs": [
+          "Jude 1:12",
+          "1 Cor 11:20-22"
+        ]
+      },
+      {
+        "term": "Angels and authority",
+        "explain": "Even Michael, the great archangel, did not dare insult the devil but said 'The Lord rebuke you', echoing Zechariah. The intruders, by contrast, 'blaspheme glorious ones'.",
+        "refs": [
+          "Jude 1:8-10",
+          "Zech 3:2"
+        ]
+      },
+      {
+        "term": "Patterns of judgment",
+        "explain": "Jewish teaching often grouped stock examples of rebellion and judgment. Jude's triads (wilderness Israel, Watchers, Sodom; Cain, Balaam, Korah) come from this tradition.",
+        "refs": [
+          "Jude 1:5-7",
+          "Jude 1:11"
+        ]
+      },
+      {
+        "term": "Doxology",
+        "explain": "Jewish prayers ended with blessing God for glory and majesty forever. Jude's closing doxology, one of the most loved in Scripture, gives the same praise 'through Jesus Christ our Lord'.",
+        "refs": [
+          "Jude 1:24-25",
+          "1 Chr 29:10-11"
+        ]
+      }
+    ],
+    "jewishLens": "Jude is perhaps the most thoroughly Jewish document in the New Testament, a window into the faith of Jesus' own family. Its examples come from Israel's story (the exodus generation, Sodom, Cain, Balaam, Korah) and from the wider Jewish tradition of Enoch and Moses. Its way of arguing, matching ancient types to present people, is the method of Jewish apocalyptic interpretation. Its hope is Enoch's: the Lord coming with his holy ones to judge the ungodly.\n\nFor a Jewish-rooted audience, Jude's message is covenantal. God saved a people out of Egypt but later judged those in that very generation who did not trust him, so grace is not a licence to rebel. Yet the letter is bracketed by assurance: the readers are 'called, beloved in God the Father and kept for Jesus Christ', and God 'is able to keep you from stumbling'. Their part is to build themselves up in faith, pray in the Spirit and keep themselves in God's love while waiting for mercy, and to snatch others from the fire. It is the call to covenant loyalty that runs from Deuteronomy through the prophets.",
+    "flow": [
+      {
+        "label": "Called and kept",
+        "detail": "Jude greets believers loved by God and kept for Jesus Christ.",
+        "refs": [
+          "Jude 1:1-2"
+        ]
+      },
+      {
+        "label": "Contend for the faith",
+        "detail": "Intruders have slipped in, turning grace into licence and denying the Master.",
+        "refs": [
+          "Jude 1:3-4"
+        ]
+      },
+      {
+        "label": "Remember past judgments",
+        "detail": "The exodus generation, the Watchers and Sodom show that God judges rebellion.",
+        "refs": [
+          "Jude 1:5-7"
+        ]
+      },
+      {
+        "label": "These people are...",
+        "detail": "The intruders reject authority, follow Cain, Balaam and Korah, and are barren clouds and wandering stars.",
+        "refs": [
+          "Jude 1:8-13"
+        ]
+      },
+      {
+        "label": "Enoch foretold it",
+        "detail": "Enoch and the apostles warned of the Lord's judgment on scoffers.",
+        "refs": [
+          "Jude 1:14-19"
+        ]
+      },
+      {
+        "label": "Keep yourselves in love",
+        "detail": "Build up, pray, wait for mercy, and show mercy to the doubting and endangered.",
+        "refs": [
+          "Jude 1:20-23"
+        ]
+      },
+      {
+        "label": "Glory to the keeper",
+        "detail": "God is able to keep them from stumbling and present them blameless with joy.",
+        "refs": [
+          "Jude 1:24-25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Contend for the faith, kept by God",
+      "branches": [
+        {
+          "label": "The threat",
+          "items": [
+            "Crept in unnoticed",
+            "Grace into licence",
+            "Reject authority",
+            "Cause divisions"
+          ]
+        },
+        {
+          "label": "Ancient examples",
+          "items": [
+            "Exodus generation",
+            "Fallen angels",
+            "Sodom and Gomorrah",
+            "Cain, Balaam, Korah"
+          ]
+        },
+        {
+          "label": "Jewish sources",
+          "items": [
+            "1 Enoch prophecy",
+            "Michael and Moses",
+            "Pesher-style reading"
+          ]
+        },
+        {
+          "label": "Believers' response",
+          "items": [
+            "Build up in faith",
+            "Pray in the Spirit",
+            "Keep in God's love",
+            "Show mercy"
+          ]
+        },
+        {
+          "label": "God's keeping",
+          "items": [
+            "Called and beloved",
+            "Kept for Jesus",
+            "Able to keep from stumbling"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Contend",
+        "original": "epagonizomai",
+        "meaning": "To struggle earnestly, like an athlete, for the faith handed down.",
+        "refs": [
+          "Jude 1:3"
+        ]
+      },
+      {
+        "word": "Keep, guard",
+        "original": "tereo",
+        "meaning": "Key word: believers are kept by God, keep themselves in his love, while rebels are kept for judgment.",
+        "refs": [
+          "Jude 1:1",
+          "Jude 1:6",
+          "Jude 1:21"
+        ]
+      },
+      {
+        "word": "Licentiousness",
+        "original": "aselgeia",
+        "meaning": "Unrestrained sensuality, throwing off moral limits.",
+        "refs": [
+          "Jude 1:4"
+        ]
+      },
+      {
+        "word": "Mercy",
+        "original": "eleos",
+        "meaning": "God's covenant compassion (Hebrew hesed), received and shown.",
+        "refs": [
+          "Jude 1:2",
+          "Jude 1:21-22"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-peter",
+        "how": "2 Peter reuses much of Jude's material, generally removing the explicit non-canonical references.",
+        "refs": [
+          "Jude 1:4-13",
+          "2 Pet 2:1-17"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Enoch, the sons of God, Sodom and Cain all come from Genesis.",
+        "refs": [
+          "Jude 1:14",
+          "Gen 5:21-24",
+          "Jude 1:7",
+          "Gen 19:24-25"
+        ]
+      },
+      {
+        "bookId": "numbers",
+        "how": "Balaam and Korah's rebellion and the wilderness judgments.",
+        "refs": [
+          "Jude 1:11",
+          "Num 16:1-35",
+          "Num 22:5-7"
+        ]
+      },
+      {
+        "bookId": "zechariah",
+        "how": "'The Lord rebuke you' echoes the angel's word to Satan.",
+        "refs": [
+          "Jude 1:9",
+          "Zech 3:2"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "Written by brothers of Jesus, both letters share a strongly Jewish-Christian outlook.",
+        "refs": [
+          "Jude 1:1",
+          "Jas 1:1"
+        ]
+      }
+    ],
+    "jesusLens": "Jude calls Jesus 'our only Master and Lord', and some of the best manuscripts of verse 5 even say that Jesus saved the people out of Egypt, placing him in Israel's story as the LORD. The letter shows how quickly Jesus' own Jewish family came to worship him within the framework of Jewish monotheism.",
+    "misreadings": [
+      {
+        "topic": "Jude's use of 1 Enoch: either Enoch is Scripture or Jude made a mistake",
+        "popular": "Readers who discover that Jude quotes 1 Enoch often feel forced to choose: either 1 Enoch should be in the Bible, or Jude's inspiration is compromised.",
+        "inContext": "Richard Bauckham and Gene Green show that Jude, like other Jews of his time, valued 1 Enoch as containing true prophecy without thereby making it part of a fixed canon (which was still settling). Paul quotes Greek poets without endorsing everything they wrote. Jude's community knew and loved these traditions, so he argues from what they already accepted.",
+        "defence": "Conservative scholars such as Thomas Schreiner and Douglas Moo say that Jude affirms the truth of the specific prophecy he quotes, not the inspiration of the whole book. Some Ethiopian Orthodox Christians, who include 1 Enoch in their canon, see Jude as support for that. Scholars agree that Jude's practice shows how broad the early Jewish reading world was.",
+        "whyItMatters": "Knowing Jude's sources helps readers understand the Jewish world of the New Testament without fear that it undermines Scripture.",
+        "refs": [
+          "Jude 1:14-15",
+          "Jude 1:9",
+          "Acts 17:28",
+          "Titus 1:12"
+        ],
+        "scholars": [
+          "Richard Bauckham",
+          "Gene L. Green",
+          "Thomas Schreiner",
+          "Douglas Moo"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Contend for the faith' means fighting culture wars",
+        "popular": "Jude 3 is often used as a slogan for aggressive defence of doctrine or for political and cultural battles against outsiders.",
+        "inContext": "Jude's opponents are inside the community, at its love feasts, and the issue is moral as much as doctrinal: using grace as an excuse for immorality. The letter's response is not attack but building up in faith, prayer, staying in God's love and showing mercy, even snatching people from the fire. Bauckham notes that the positive instruction in verses 20-23 is the letter's real goal.",
+        "defence": "Evangelical scholars rightly stress that Jude does call for firm defence of apostolic teaching and that some teaching must be resisted. They agree that the manner Jude commends includes mercy and humility, as with Michael's restraint.",
+        "whyItMatters": "Read whole, Jude teaches believers to stand firm without becoming harsh, keeping mercy alongside conviction.",
+        "refs": [
+          "Jude 1:3-4",
+          "Jude 1:20-23",
+          "Jude 1:9"
+        ],
+        "scholars": [
+          "Richard Bauckham",
+          "Gene L. Green",
+          "Thomas Schreiner"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "A community infiltrated by smooth-talking teachers was told that grace is not licence, that God judges rebellion, and that he keeps those who keep themselves in his love.",
+      "now": "Jude warns against using grace as cover for self-indulgence and against leaders who serve themselves, while calling believers to prayer, mercy and joyful confidence in God's power to keep them."
+    },
+    "sources": [
+      {
+        "author": "Richard J. Bauckham",
+        "title": "Jude, 2 Peter (Word Biblical Commentary 50)",
+        "year": 1983
+      },
+      {
+        "author": "Richard Bauckham",
+        "title": "Jude and the Relatives of Jesus in the Early Church",
+        "year": 1990
+      },
+      {
+        "author": "Gene L. Green",
+        "title": "Jude and 2 Peter (Baker Exegetical Commentary)",
+        "year": 2008
+      },
+      {
+        "author": "George W. E. Nickelsburg and James C. VanderKam",
+        "title": "1 Enoch: A New Translation",
+        "year": 2004
+      },
+      {
+        "author": "Eusebius",
+        "title": "Church History",
+        "locator": "3.19-20 (Hegesippus on Jude's grandsons)",
+        "publicDomain": true
+      }
+    ]
+  },
+  {
+    "id": "revelation",
+    "oneLine": "A prophetic vision given to seven real churches in Roman Asia, unveiling that the slain Lamb, not Caesar, rules history, and calling them to faithful witness until God makes all things new.",
+    "author": {
+      "name": "John, a prophet exiled on Patmos",
+      "who": "A Jewish-Christian prophet named John, well known to the seven churches, who was on Patmos 'because of the word of God and the testimony of Jesus' and who thinks in Hebrew while writing in rough, Semitic Greek.",
+      "howWeKnow": "He names himself four times but never claims to be an apostle. Justin Martyr and Irenaeus identified him with the apostle John. Dionysius of Alexandria in the third century argued from style that he was a different John, and most modern scholars agree; a minority defends the apostle.",
+      "otherWritings": [
+        "John's Gospel and letters (traditionally; most scholars think a different author)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Patmos, a small island in the Aegean",
+      "coords": [
+        26.55,
+        37.31
+      ],
+      "note": "John says he was on Patmos when he received the vision. The book may have been written there or shortly after on the mainland.",
+      "confidence": "biblical"
+    },
+    "writtenTo": {
+      "who": "Seven churches in the Roman province of Asia: Ephesus, Smyrna, Pergamum, Thyatira, Sardis, Philadelphia, Laodicea",
+      "place": "Western Asia Minor (modern Turkey)",
+      "coords": [
+        27.34,
+        37.94
+      ],
+      "situation": "Some churches faced slander, imprisonment and even death (Antipas at Pergamum); others were comfortable, wealthy and compromising with trade-guild feasts and civic religion. Most scholars date the book to Domitian's reign (c. 95), following Irenaeus; some argue for the late 60s after Nero. Recent research (Leonard Thompson, Steven Friesen) suggests the pressure came less from an empire-wide persecution than from local imperial cult and social life, which John saw as a deeper danger.",
+      "confidence": "debated"
+    },
+    "worldEvents": [
+      {
+        "year": -29,
+        "event": "Pergamum receives permission for a temple to Roma and Augustus, the first in Asia."
+      },
+      {
+        "year": 26,
+        "event": "Smyrna wins the right to build a temple to Tiberius (Tacitus, Annals 4.55-56)."
+      },
+      {
+        "year": 60,
+        "event": "Earthquake hits Laodicea, which rebuilds from its own wealth without imperial aid (Tacitus, Annals 14.27)."
+      },
+      {
+        "year": 64,
+        "event": "Nero's persecution of Christians in Rome; Nero dies in 68, and legends arise that he would return."
+      },
+      {
+        "year": 70,
+        "event": "Temple in Jerusalem destroyed by Titus."
+      },
+      {
+        "year": 89,
+        "event": "Temple of the Sebastoi (the Flavian emperors) dedicated at Ephesus (c. 89-90)."
+      }
+    ],
+    "backdrop": "Revelation combines three genres. It is an apocalypse, a Jewish literary form (like Daniel 7-12 or 1 Enoch) in which a seer is shown heavenly realities through symbols, angels and numbers. It is a prophecy, a message from God calling hearers to respond now. And it is a letter, addressed to seven real churches, meant to be read aloud in worship: 'blessed is the one who reads aloud and those who hear'.\n\nThe province of Asia was proud and prosperous, and it competed for the honour of building temples to the emperors. Pergamum hosted the first temple to Roma and Augustus; Smyrna built one for Tiberius; Ephesus dedicated a great temple to the Flavian emperors around 89-90. Emperor worship was woven into festivals, trade-guild banquets, coinage and civic identity. Refusing to take part could mean losing business and friends, or worse. Domitian reportedly liked to be addressed as 'lord and god', though historians debate how far that reflects his own policy. Meanwhile, the Jewish communities in Asia had legal privileges, and tension between some synagogues and Jesus-followers appears in the letters to Smyrna and Philadelphia.\n\nJohn's visions expose this world. Rome is the beast from the sea, sitting on seven hills; its prophets of the imperial cult are the beast from the land; and the city is 'Babylon the great', the luxurious prostitute whose trade in goods and 'human souls' enriches merchants. The number 666 most likely spells 'Nero Caesar' in Hebrew letters, which also explains the ancient variant 616.",
+    "culture": [
+      {
+        "term": "Imperial cult",
+        "explain": "Temples, priests, sacrifices and festivals honoured the emperors as divine or semi-divine. For the cities it expressed loyalty and gratitude; for John it was idolatry. The beasts, the mark and the worship of the image use this world.",
+        "refs": [
+          "Rev 13:4",
+          "Rev 13:12-17",
+          "Rev 2:13"
+        ]
+      },
+      {
+        "term": "Trade guilds and idol food",
+        "explain": "Guild meetings involved meals honouring patron gods. 'Balaam' and 'Jezebel' at Pergamum and Thyatira seem to have taught that eating idol food was acceptable, a way to keep business and status.",
+        "refs": [
+          "Rev 2:14",
+          "Rev 2:20",
+          "Num 25:1-2"
+        ]
+      },
+      {
+        "term": "Wealth and economics",
+        "explain": "Laodicea was a rich banking, textile and medical centre. Babylon's cargo list of luxury goods ends with 'slaves, that is, human souls', exposing the economics of empire.",
+        "refs": [
+          "Rev 3:17-18",
+          "Rev 18:11-13"
+        ]
+      },
+      {
+        "term": "Gematria and symbolic numbers",
+        "explain": "In Hebrew and Greek, letters doubled as numbers. Seven means completeness, twelve the people of God, and 666 most likely spells 'Neron Kaisar' in Hebrew letters.",
+        "refs": [
+          "Rev 13:18",
+          "Rev 1:4",
+          "Rev 21:12-14"
+        ]
+      },
+      {
+        "term": "Synagogue tensions",
+        "explain": "In Smyrna and Philadelphia, John calls some opponents 'a synagogue of Satan' who 'say they are Jews and are not'. This is an intra-Jewish dispute over who are God's true people, written by a Jew, not a statement about Jews in general.",
+        "refs": [
+          "Rev 2:9",
+          "Rev 3:9"
+        ]
+      },
+      {
+        "term": "Temple worship",
+        "explain": "Lampstands, incense, altar, white robes, harps and hymns all come from the Jerusalem temple. Heaven is pictured as the true sanctuary, and the new Jerusalem is a cube like the most holy place.",
+        "refs": [
+          "Rev 8:3-4",
+          "Rev 21:16",
+          "1 Kgs 6:20"
+        ]
+      }
+    ],
+    "jewishLens": "Revelation is the most Jewish book in the New Testament in its imagery. It has more allusions to the Hebrew Scriptures than any other New Testament book, though it never formally quotes them: the throne-chariot of Ezekiel, the beasts and Son of Man of Daniel, the plagues of Exodus, the lampstands of Zechariah, the fall of Babylon in Jeremiah and Isaiah, and the new Jerusalem of Ezekiel 40-48 and Isaiah 65. Its genre, the apocalypse, is a Jewish form born in times of imperial oppression, from Daniel under the Greeks to 4 Ezra and 2 Baruch, written after Rome destroyed the temple. A first-century Jew would hear Rome as the latest Babylon and the beast as the fourth beast of Daniel.\n\nThe central vision turns the story on its head. John hears of 'the Lion of the tribe of Judah', the Davidic warrior Messiah, but when he turns he sees a Lamb standing as though slain. Victory comes by sacrificial faithfulness, the way of Isaiah's servant and the Passover lamb. The redeemed are counted as the twelve tribes of Israel (144,000) and then seen as a countless multitude from every nation: a single people of God in which the nations join Israel's worship. The ending is Israel's hope fulfilled: not escape from earth but God's dwelling (the shekinah, the tabernacle presence) coming down to live with his people, the river and tree of life of Eden and Ezekiel restored, and the leaves of the tree 'for the healing of the nations'.",
+    "flow": [
+      {
+        "label": "Vision of the risen Lord",
+        "detail": "John on Patmos sees the Son of Man among seven lampstands, holding the churches.",
+        "refs": [
+          "Rev 1:1-20"
+        ]
+      },
+      {
+        "label": "Messages to seven churches",
+        "detail": "Each church is praised, warned and promised rewards for 'conquering' through faithfulness.",
+        "refs": [
+          "Rev 2:1-3:22"
+        ]
+      },
+      {
+        "label": "Throne and Lamb",
+        "detail": "Heaven's worship centres on God the Creator and the slain Lamb who is worthy to open the scroll.",
+        "refs": [
+          "Rev 4:1-5:14"
+        ]
+      },
+      {
+        "label": "Seals, trumpets, witness",
+        "detail": "Cycles of judgment echo the exodus plagues, while God's people are sealed and bear witness.",
+        "refs": [
+          "Rev 6:1-11:19"
+        ]
+      },
+      {
+        "label": "Dragon and beasts",
+        "detail": "The cosmic conflict behind Rome: the dragon, the beast from the sea and the beast from the land.",
+        "refs": [
+          "Rev 12:1-14:20"
+        ]
+      },
+      {
+        "label": "Babylon falls",
+        "detail": "Bowls of wrath and the fall of the great city expose empire's violence and luxury.",
+        "refs": [
+          "Rev 15:1-18:24"
+        ]
+      },
+      {
+        "label": "Victory and judgment",
+        "detail": "The rider called the Word of God defeats the beast; Satan is bound and finally judged.",
+        "refs": [
+          "Rev 19:1-20:15"
+        ]
+      },
+      {
+        "label": "All things new",
+        "detail": "New heavens and earth; God dwells with his people in the new Jerusalem.",
+        "refs": [
+          "Rev 21:1-22:21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "The Lamb who was slain reigns",
+      "branches": [
+        {
+          "label": "Seven churches",
+          "items": [
+            "Faithful under pressure",
+            "Comfortable and compromised",
+            "Promises to conquerors"
+          ]
+        },
+        {
+          "label": "Worship",
+          "items": [
+            "Throne room",
+            "Worthy is the Lamb",
+            "Hymns and incense"
+          ]
+        },
+        {
+          "label": "Empire exposed",
+          "items": [
+            "Beast from sea",
+            "Beast from land",
+            "Babylon the prostitute",
+            "Mark and 666"
+          ]
+        },
+        {
+          "label": "Faithful witness",
+          "items": [
+            "Conquer by the Lamb's blood",
+            "Two witnesses",
+            "Martyrs under altar"
+          ]
+        },
+        {
+          "label": "New creation",
+          "items": [
+            "New Jerusalem",
+            "God dwells with people",
+            "River and tree of life",
+            "Healing of nations"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Revelation, unveiling",
+        "original": "apokalypsis",
+        "meaning": "An uncovering of what is hidden: the true state of the world from heaven's view.",
+        "refs": [
+          "Rev 1:1"
+        ]
+      },
+      {
+        "word": "Witness, testimony",
+        "original": "martyria",
+        "meaning": "Faithful testimony to Jesus, often costing life; Jesus is the faithful witness.",
+        "refs": [
+          "Rev 1:5",
+          "Rev 12:11"
+        ]
+      },
+      {
+        "word": "Conquer",
+        "original": "nikao",
+        "meaning": "To win the victory; in Revelation, by faithful suffering like the Lamb, not by violence.",
+        "refs": [
+          "Rev 2:7",
+          "Rev 5:5",
+          "Rev 12:11"
+        ]
+      },
+      {
+        "word": "Lamb",
+        "original": "arnion",
+        "meaning": "Jesus' main title in Revelation (twenty-eight times): the slain yet living Passover lamb.",
+        "refs": [
+          "Rev 5:6",
+          "Rev 5:12"
+        ]
+      },
+      {
+        "word": "Endurance",
+        "original": "hypomone",
+        "meaning": "Patient, steadfast perseverance under pressure.",
+        "refs": [
+          "Rev 1:9",
+          "Rev 13:10",
+          "Rev 14:12"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "daniel",
+        "how": "Beasts, the Son of Man, sealed books and time periods all come from Daniel.",
+        "refs": [
+          "Rev 13:1-2",
+          "Dan 7:2-7",
+          "Rev 1:13",
+          "Dan 7:13"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "The throne-chariot, eating the scroll, Gog and Magog and the river of life from the city echo Ezekiel.",
+        "refs": [
+          "Rev 4:6-8",
+          "Ezek 1:5-10",
+          "Rev 22:1-2",
+          "Ezek 47:12"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "Plagues, the song of Moses and the kingdom of priests shape the story of a new exodus.",
+        "refs": [
+          "Rev 15:3",
+          "Exod 15:1-18",
+          "Rev 1:6",
+          "Exod 19:6"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "New heavens and new earth, no more tears, and the fall of Babylon.",
+        "refs": [
+          "Rev 21:1-4",
+          "Isa 65:17-19",
+          "Isa 25:8"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The tree of life, river and the end of the curse bring Eden's story full circle.",
+        "refs": [
+          "Rev 22:2-3",
+          "Gen 2:9",
+          "Gen 3:17"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "'Come out of her, my people' echoes the call to flee Babylon.",
+        "refs": [
+          "Rev 18:4",
+          "Jer 51:45"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus is the faithful witness, firstborn from the dead and ruler of the kings of the earth, the Son of Man, the Lion who is the Lamb, and the Alpha and Omega who shares God's throne and receives the same worship. Jewish readers recognise the apocalyptic form and imagery; Christians see in the slain Lamb the heart of the book: God's victory through self-giving love.",
+    "misreadings": [
+      {
+        "topic": "Revelation is a coded guide to today's headlines",
+        "popular": "Many popular books and preachers read Revelation as a detailed prediction of modern events, matching beasts, plagues and the mark with current nations, technologies and leaders.",
+        "inContext": "Revelation was written to seven real churches and had to make sense to them ('the time is near'). Its symbols draw on the Hebrew Scriptures and on Roman realities: seven hills, imperial worship, Nero. Richard Bauckham, Michael Gorman and Craig Koester read it as prophetic unveiling of empire in every age, not as a timetable for ours. Each generation that matched it to its own headlines has been wrong in the details.",
+        "defence": "Futurist interpreters, including dispensational scholars (for example Robert Thomas) and historic premillennialists, argue that much of Revelation does describe future events before Christ's return, though careful futurists also warn against date-setting and headline matching. Preterist, historicist, idealist and futurist approaches remain a real scholarly debate; many scholars combine them.",
+        "whyItMatters": "Treating Revelation as a decoder breeds fear and speculation. Reading it in its setting calls believers to worship, endurance and faithful resistance to idolatry now.",
+        "refs": [
+          "Rev 1:1-4",
+          "Rev 17:9",
+          "Rev 22:10",
+          "Rev 13:18"
+        ],
+        "scholars": [
+          "Richard Bauckham",
+          "Michael Gorman",
+          "Craig Koester",
+          "G. K. Beale",
+          "Robert Thomas"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Revelation teaches a secret rapture before the tribulation",
+        "popular": "Dispensational teaching often reads the voice saying 'come up here' to John as a picture of the church being raptured, so the church is absent from the earth during the judgments of chapters 6-19.",
+        "inContext": "In its setting, 'come up here' is John's personal call into the heavenly throne room, like the prophets' visions. God's servants are present on earth throughout, sealed and protected through suffering, not removed from it. Barbara Rossing, Craig Keener and Michael Gorman note that Revelation's call is to endure and witness, and that its future hope is God coming down to dwell on earth.",
+        "defence": "Pre-tribulation scholars (for example John Walvoord and Robert Thomas) argue that the word 'church' disappears after chapter 3 and that promises of being kept 'from the hour of trial' imply removal, combining Revelation with 1 Thessalonians 4. Many other evangelicals (historic premillennialists like George Ladd, amillennialists like G. K. Beale) disagree. This is a real, ongoing debate within evangelicalism.",
+        "whyItMatters": "Expecting to escape suffering can leave believers unprepared for it; Revelation prepares them to remain faithful in it.",
+        "refs": [
+          "Rev 4:1",
+          "Rev 3:10",
+          "Rev 7:3",
+          "Rev 13:7-10",
+          "1 Thess 4:16-17"
+        ],
+        "scholars": [
+          "Barbara Rossing",
+          "Craig Keener",
+          "George Eldon Ladd",
+          "John Walvoord",
+          "G. K. Beale"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Synagogue of Satan' means Jews are Satan's people",
+        "popular": "Some readers, and historically some anti-Jewish preachers, took Revelation 2:9 and 3:9 as a condemnation of Jews and Judaism as such.",
+        "inContext": "John is himself a Jew whose book honours the twelve tribes and the new Jerusalem. His words concern local opponents in two cities who, he believed, were denouncing Jesus-followers to authorities. 'Say they are Jews and are not' is a claim about who are true Jews, the kind of insider polemic found in the prophets and at Qumran. The Jewish Annotated New Testament and David Frankfurter discuss the passage in this light.",
+        "defence": "Evangelical commentators such as G. K. Beale and Craig Keener agree it is not a statement about all Jews and reject any antisemitic use, while some read it as teaching that the church is now the true Israel. Whether John means Gentile believers or Jewish believers as 'true Jews' is debated.",
+        "whyItMatters": "Correct reading prevents a polemical phrase from being turned into hatred of Jewish people, and reminds readers that John's quarrel was within Israel's family.",
+        "refs": [
+          "Rev 2:9",
+          "Rev 3:9",
+          "Rev 7:4-8",
+          "Rev 21:12"
+        ],
+        "scholars": [
+          "Amy-Jill Levine",
+          "David Frankfurter",
+          "G. K. Beale",
+          "Craig Keener"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For small churches in a powerful empire, Revelation unveiled that Caesar was not lord, that their faithful witness shared in the Lamb's victory, and that comfortable compromise was more dangerous than persecution.",
+      "now": "Revelation calls readers to worship God alone, to see through the idolatries of power and wealth in any age, to endure with hope, and to long for God's renewal of the earth, rather than to speculate about dates."
+    },
+    "sources": [
+      {
+        "author": "Richard Bauckham",
+        "title": "The Theology of the Book of Revelation",
+        "year": 1993
+      },
+      {
+        "author": "Craig R. Koester",
+        "title": "Revelation (Anchor Yale Bible)",
+        "year": 2014
+      },
+      {
+        "author": "Michael J. Gorman",
+        "title": "Reading Revelation Responsibly",
+        "year": 2011
+      },
+      {
+        "author": "Steven J. Friesen",
+        "title": "Imperial Cults and the Apocalypse of John",
+        "year": 2001
+      },
+      {
+        "author": "Leonard L. Thompson",
+        "title": "The Book of Revelation: Apocalypse and Empire",
+        "year": 1990
+      }
+    ]
   }
 ]

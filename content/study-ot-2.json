@@ -1911,7 +1911,7 @@
     "author": {
       "name": "Isaiah son of Amoz (and, on many views, his later disciples)",
       "who": "A prophet in Jerusalem who had access to kings, was married to 'the prophetess' and gave his sons symbolic names (Isa 7:3; Isa 8:3). He saw the LORD enthroned in the temple in the year King Uzziah died (about 740 BC) and ministered at least until Sennacherib's invasion in 701 BC.",
-      "howWeKnow": "The heading (Isa 1:1) dates Isaiah's visions to the reigns of Uzziah, Jotham, Ahaz and Hezekiah. Narrative chapters (Isa 36-39) parallel 2 Kgs 18-20. The question is whether chapters 40-66 come from the same prophet. Isa 40-55 addresses Jews already in Babylonian exile and names Cyrus of Persia (Isa 44:28; Isa 45:1) as a figure the audience knows; most critical scholars therefore assign them to a prophet of the 540s BC, and Isa 56-66 to the restored community. Conservative scholars such as J. A. Motyer, John Oswalt and Oswald Allis defend one author, pointing to the shared title 'the Holy One of Israel' (used about 12 times in Isa 1-39 and about 13 times in Isa 40-66, rarely elsewhere), the unbroken Great Isaiah Scroll from Qumran, God's claim in these very chapters to announce events before they happen (Isa 41:21-23; Isa 46:9-10), and New Testament citations of both halves as Isaiah's (John 12:38-41).",
+      "howWeKnow": "The heading (Isa 1:1) dates Isaiah's visions to the reigns of Uzziah, Jotham, Ahaz and Hezekiah. Narrative chapters (Isa 36-39) parallel 2 Kgs 18-20. The question is whether chapters 40-66 come from the same prophet. Isa 40-55 addresses Jews already in Babylonian exile and names Cyrus of Persia (Isa 44:28; Isa 45:1) as a figure the audience knows; most critical scholars therefore assign them to a prophet of the 540s BC, and Isa 56-66 to the restored community. Conservative scholars such as J. A. Motyer, John Oswalt and Oswald Allis defend one author, pointing to the shared title 'the Holy One of Israel' (used about a dozen times in each half of the book and only a handful of times elsewhere in the Bible), the unbroken Great Isaiah Scroll from Qumran, God's claim in these very chapters to announce events before they happen (Isa 41:21-23; Isa 46:9-10), and New Testament citations of both halves as Isaiah's (John 12:38-41).",
       "otherWritings": [
         "A history of Uzziah's reign (2 Chr 26:22)",
         "A record of Hezekiah's deeds (2 Chr 32:32)"
@@ -2331,6 +2331,1593 @@
         "author": "Joseph Blenkinsopp",
         "title": "Isaiah 1-39 (Anchor Bible)",
         "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "jeremiah",
+    "oneLine": "A reluctant priest-prophet spends forty years telling Jerusalem that its covenant-breaking will bring Babylon, suffers rejection for it, and then promises a homecoming and a new covenant written on the heart.",
+    "author": {
+      "name": "Jeremiah son of Hilkiah, with his scribe Baruch",
+      "who": "A young man from a priestly family in Anathoth, a village about 5 km north-east of Jerusalem, possibly descended from Abiathar, the priest Solomon banished there (1 Kgs 2:26). Called as a youth in 627 BC, he was forbidden to marry (Jer 16:1-4), was beaten, put in stocks, imprisoned and thrown into a muddy cistern, and was finally taken to Egypt against his will.",
+      "howWeKnow": "The book tells us Jeremiah dictated his oracles to Baruch son of Neriah, that King Jehoiakim burned the scroll column by column, and that Jeremiah dictated it again 'with many similar words added' (Jer 36:4; Jer 36:23; Jer 36:32). This is the Bible's clearest description of how a prophetic book was written. The Greek Septuagint version is about one-eighth shorter and arranged differently, and Hebrew fragments from Qumran support both forms, so the book clearly grew in stages.",
+      "otherWritings": [
+        "Lamentations (by tradition)",
+        "1-2 Kings (credited to him by the Talmud, Bava Batra 15a)"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem; last words from Egypt",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Most oracles were delivered in Jerusalem, many in the temple courts. Jeremiah's last recorded words were spoken at Tahpanhes in the eastern Nile Delta (Jer 43:8-13; Jer 44:1).",
+      "confidence": "biblical"
+    },
+    "writtenTo": {
+      "who": "Kings, priests, prophets and people of Judah, then the exiles in Babylon and refugees in Egypt",
+      "place": "Jerusalem; Babylon; Egypt",
+      "situation": "Judah was caught between Egypt and Babylon. Many believed that because the temple stood in Jerusalem, God would never let the city fall. Jeremiah's message that Babylon was God's instrument sounded like treason.",
+      "confidence": "biblical"
+    },
+    "setIn": {
+      "from": -627,
+      "to": -561,
+      "note": "From Jeremiah's call in Josiah's 13th year to the release of King Jehoiachin from prison in Babylon, the book's final scene (Jer 52:31-34)."
+    },
+    "worldEvents": [
+      {
+        "year": -622,
+        "event": "The book of the law is found in the temple and Josiah's reform begins (2 Kgs 22-23)."
+      },
+      {
+        "year": -612,
+        "event": "Nineveh falls to the Babylonians and Medes; Assyria collapses."
+      },
+      {
+        "year": -605,
+        "event": "Nebuchadnezzar defeats Egypt at Carchemish (Jer 46:2), making Babylon master of the Levant."
+      },
+      {
+        "year": -597,
+        "event": "Babylon captures Jerusalem and deports King Jehoiachin, recorded in the Babylonian Chronicle."
+      },
+      {
+        "year": -588,
+        "event": "Lachish letters: an officer writes that he can no longer see Azekah's signals, matching Jer 34:7 (dating approximate)."
+      },
+      {
+        "year": -586,
+        "event": "Jerusalem and the temple are destroyed; Gedaliah is appointed governor and later murdered (Jer 39-41)."
+      }
+    ],
+    "backdrop": "Jeremiah's forty-year ministry spans the end of the kingdom of Judah. It began under Josiah, the reforming king who purged idols after the 'book of the law' was found (622 BC). Josiah's death at Megiddo in 609 BC, fighting Pharaoh Necho, shattered hopes. His sons Jehoahaz, Jehoiakim and Zedekiah, and his grandson Jehoiachin, swung between Egypt and Babylon. Jehoiakim burned Jeremiah's scroll in his winter palace; Zedekiah consulted Jeremiah secretly but lacked the courage to obey.\n\nJeremiah's most dangerous message was the temple sermon (Jer 7; Jer 26). Standing at the temple gate, he told worshippers not to trust the slogan 'the temple of the LORD, the temple of the LORD' while they stole, murdered, committed adultery and followed other gods. He warned that the temple could become like Shiloh, the earlier sanctuary destroyed long before. He was nearly executed; elders saved him by recalling that the prophet Micah had said something similar a century earlier and had not been killed (Jer 26:16-19).\n\nJeremiah's confrontation with false prophets is equally sharp. Hananiah prophesied that Babylon's yoke would be broken within two years and broke the wooden yoke Jeremiah was wearing as a sign; Jeremiah replied that God would replace it with iron (Jer 28). Jeremiah urged surrender to Babylon as God's will for the time, which made him look like a traitor.\n\nArchaeology has given the book unusual texture. Clay seal impressions (bullae) bearing the names of Gemariah son of Shaphan (Jer 36:10), Jehucal son of Shelemiah and Gedaliah son of Pashhur (Jer 38:1) have been found in Jerusalem, and the Lachish letters (about 588 BC) show the panic of the Babylonian advance. A bulla reading 'Berekhyahu son of Neriyahu the scribe', once linked to Baruch, is now widely suspected to be a forgery.",
+    "culture": [
+      {
+        "term": "Sign-acts",
+        "explain": "Prophets acted out their messages: Jeremiah buried a linen loincloth until it rotted, smashed a clay jar before the elders, wore an ox yoke, and bought a field while Jerusalem was under siege to show that land would one day be bought again.",
+        "refs": [
+          "Jer 13:1-11",
+          "Jer 19:1-13",
+          "Jer 27:1-7",
+          "Jer 32:6-15"
+        ]
+      },
+      {
+        "term": "The covenant lawsuit",
+        "explain": "Jeremiah speaks like a prosecutor bringing God's case against a faithless wife or son, calling heaven and earth as witnesses, in the style of Deuteronomy.",
+        "refs": [
+          "Jer 2:4-13",
+          "Jer 2:2",
+          "Deut 32:1"
+        ]
+      },
+      {
+        "term": "Laments or 'confessions'",
+        "explain": "Jeremiah's private complaints to God, unique among the prophets, accuse God of deceiving him and curse the day of his birth, yet he cannot stop speaking: the word is like fire in his bones.",
+        "refs": [
+          "Jer 11:18-12:6",
+          "Jer 15:10-21",
+          "Jer 20:7-18"
+        ]
+      },
+      {
+        "term": "The potter's house",
+        "explain": "Jeremiah watches a potter reshape a spoiled pot and learns that God may change announced plans if a nation repents, or a promised blessing if it turns to evil.",
+        "refs": [
+          "Jer 18:1-11"
+        ]
+      },
+      {
+        "term": "Seventy years",
+        "explain": "A round number for a lifetime of exile, from Babylon's rise (about 605 BC) to its fall (539 BC). Daniel later prays over this prophecy and Chronicles sees it fulfilled in Cyrus.",
+        "refs": [
+          "Jer 25:11-12",
+          "Jer 29:10",
+          "Dan 9:2",
+          "2 Chr 36:21-22"
+        ]
+      },
+      {
+        "term": "Redemption of land",
+        "explain": "Under the Torah a kinsman could buy back family land to keep it in the clan. Jeremiah's purchase of his cousin's field at Anathoth used sealed deeds stored in a clay jar, the same method that preserved the Dead Sea Scrolls.",
+        "refs": [
+          "Jer 32:6-15",
+          "Lev 25:25"
+        ]
+      }
+    ],
+    "jewishLens": "Jeremiah shapes the Jewish calendar of mourning. In the three weeks between the fast of 17 Tammuz and Tisha B'Av, two of the three special 'haftarot of affliction' are read from Jeremiah (Jer 1 and Jer 2), and on the morning of Tisha B'Av the prophetic reading is Jer 8:13-9:23, with its cry 'Oh that my head were waters and my eyes a fountain of tears' (Jer 9:1). Tradition calls him 'the weeping prophet' and credits him with Lamentations. On the second day of Rosh Hashanah the haftarah is from Jer 31, where Rachel weeps for her children and God answers, 'Is Ephraim my dear son? ... I will surely have mercy on him'. Many Jews still visit the traditional Tomb of Rachel near Bethlehem in connection with this text.\n\nJeremiah's letter to the exiles (Jer 29) became a charter for Jewish life in the diaspora: build houses, plant gardens, marry, and 'seek the welfare (*shalom*) of the city' where God has sent you, praying for it (Jer 29:5-7). Jewish communities have long prayed for the governments of the lands where they live, a practice rooted partly in this passage.\n\nRead covenantally, Jeremiah is a love story gone wrong and then renewed. God remembers Israel's 'devotion' as a young bride following him in the wilderness (Jer 2:2), accuses her of running after other lovers, and grieves like a wounded husband and father (Jer 3:19-20; Jer 31:20). The judgment is the covenant curse of Deuteronomy, but it is not God's last word. The new covenant of Jer 31:31-34 is made 'with the house of Israel and the house of Judah'; its newness lies not in a new Torah but in Torah written on the heart, so that all will know the LORD and sin will be forgiven.",
+    "flow": [
+      {
+        "label": "Called before birth",
+        "detail": "God appoints a reluctant youth as prophet to the nations, to uproot and to plant.",
+        "refs": [
+          "Jer 1:4-10"
+        ]
+      },
+      {
+        "label": "Faithless bride",
+        "detail": "God indicts Israel for leaving the fountain of living water for broken cisterns and calls her to return.",
+        "refs": [
+          "Jer 2:2",
+          "Jer 2:13",
+          "Jer 3:12-14"
+        ]
+      },
+      {
+        "label": "False security exposed",
+        "detail": "The temple sermon: God's house is not a lucky charm for people who break his covenant.",
+        "refs": [
+          "Jer 7:1-15",
+          "Jer 26:1-19"
+        ]
+      },
+      {
+        "label": "Prophet in anguish",
+        "detail": "Sign-acts, rejection and laments: Jeremiah suffers with and for his people.",
+        "refs": [
+          "Jer 13:1-11",
+          "Jer 20:7-18"
+        ]
+      },
+      {
+        "label": "Submit to Babylon",
+        "detail": "Jeremiah confronts kings and false prophets, wears a yoke, and tells exiles to settle for seventy years.",
+        "refs": [
+          "Jer 27:1-15",
+          "Jer 28:1-17",
+          "Jer 29:4-14"
+        ]
+      },
+      {
+        "label": "Book of Consolation",
+        "detail": "God promises restoration, Rachel's comfort and a new covenant written on hearts; Jeremiah buys a field in hope.",
+        "refs": [
+          "Jer 30:1-3",
+          "Jer 31:15-20",
+          "Jer 31:31-34",
+          "Jer 32:6-15"
+        ]
+      },
+      {
+        "label": "The city falls",
+        "detail": "Jeremiah is imprisoned and rescued from a cistern; Jerusalem falls and survivors flee to Egypt, dragging him along.",
+        "refs": [
+          "Jer 38:6-13",
+          "Jer 39:1-10",
+          "Jer 43:5-7"
+        ]
+      },
+      {
+        "label": "Nations judged, a king released",
+        "detail": "Oracles against Egypt, Philistia, Moab, Babylon and others; the book ends with Jehoiachin freed in Babylon, a flicker of hope.",
+        "refs": [
+          "Jer 46:1",
+          "Jer 50:1-5",
+          "Jer 52:31-34"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Jeremiah: covenant broken and renewed",
+      "branches": [
+        {
+          "label": "The prophet",
+          "items": [
+            "Called as a youth",
+            "Forbidden to marry",
+            "Laments and tears",
+            "Rejected and imprisoned"
+          ]
+        },
+        {
+          "label": "Indictment",
+          "items": [
+            "Idolatry as adultery",
+            "Temple as lucky charm",
+            "Injustice to the poor",
+            "False prophets"
+          ]
+        },
+        {
+          "label": "Judgment",
+          "items": [
+            "Babylon as God's tool",
+            "Seventy years",
+            "Jerusalem falls"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Seek the city's welfare",
+            "Rachel comforted",
+            "Field bought in siege",
+            "New covenant on hearts"
+          ]
+        },
+        {
+          "label": "Sign-acts",
+          "items": [
+            "Rotted loincloth",
+            "Smashed jar",
+            "Ox yoke",
+            "Buried deeds"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Return / repent",
+        "original": "shuv (שׁוּב)",
+        "meaning": "To turn back, return; used over 100 times in Jeremiah, both for Israel turning back to God and God turning back their captivity.",
+        "refs": [
+          "Jer 3:12",
+          "Jer 3:22",
+          "Jer 29:14"
+        ]
+      },
+      {
+        "word": "Covenant",
+        "original": "berit (בְּרִית)",
+        "meaning": "A binding relationship sealed by oath, with commitments on both sides; here broken by Israel and renewed by God.",
+        "refs": [
+          "Jer 11:1-5",
+          "Jer 31:31-34"
+        ]
+      },
+      {
+        "word": "Know",
+        "original": "yada (יָדַע)",
+        "meaning": "To know by experience and relationship, not just facts. In the new covenant all will know the LORD.",
+        "refs": [
+          "Jer 9:24",
+          "Jer 22:16",
+          "Jer 31:34"
+        ]
+      },
+      {
+        "word": "Welfare / peace",
+        "original": "shalom (שָׁלוֹם)",
+        "meaning": "Wholeness, wellbeing, prosperity. False prophets cry 'peace' when there is none; exiles are to seek Babylon's shalom.",
+        "refs": [
+          "Jer 6:14",
+          "Jer 29:7",
+          "Jer 29:11"
+        ]
+      },
+      {
+        "word": "Plans / thoughts",
+        "original": "mahashavot (מַחֲשָׁבוֹת)",
+        "meaning": "Plans, intentions. In Jer 29:11 God's plans are for the exiled community's future after seventy years.",
+        "refs": [
+          "Jer 29:11",
+          "Jer 18:11"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "deuteronomy",
+        "how": "Jeremiah's language of covenant, curse and circumcised hearts draws heavily on Deuteronomy, likely the book found in Josiah's reign.",
+        "refs": [
+          "Deut 28:15",
+          "Deut 30:6",
+          "Jer 4:4",
+          "Jer 11:3-5"
+        ]
+      },
+      {
+        "bookId": "2-kings",
+        "how": "Kings narrates the same final kings and the fall of Jerusalem; Jer 52 closely parallels 2 Kgs 24-25.",
+        "refs": [
+          "2 Kgs 24:18-25:30",
+          "Jer 52:1-34"
+        ]
+      },
+      {
+        "bookId": "lamentations",
+        "how": "Lamentations mourns the fall Jeremiah predicted and is traditionally credited to him.",
+        "refs": [
+          "Lam 1:1",
+          "Jer 9:1"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "Daniel prays over Jeremiah's seventy years and receives a vision of seventy 'weeks' of years.",
+        "refs": [
+          "Dan 9:2",
+          "Dan 9:24",
+          "Jer 25:11"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews quotes Jer 31:31-34 at length, the longest Old Testament quotation in the New Testament.",
+        "refs": [
+          "Heb 8:8-12",
+          "Heb 10:16-17"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew applies Rachel weeping for her children to Herod's massacre in Bethlehem, and Jesus combines Jer 7:11 with Isa 56:7 when clearing the temple.",
+        "refs": [
+          "Matt 2:17-18",
+          "Matt 21:13"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus stands in Jeremiah's line. Like Jeremiah he warns that the temple has become 'a den of robbers' and predicts its destruction (Mark 11:17; Mark 13:2), weeps over Jerusalem (Luke 19:41-44), and is treated as a traitor. Some people even thought Jesus was Jeremiah returned (Matt 16:14). At the Last Supper he speaks of 'the new covenant in my blood' (Luke 22:20; 1 Cor 11:25), and Hebrews argues that Jesus has inaugurated the new covenant of Jer 31 (Heb 8:6-13). Jewish tradition reads the new covenant as a still-future renewal with Israel, in which Torah will be fully internalised; Christian readers see it begun in Christ and the Spirit, and many add that its promise to Israel and Judah remains significant (Rom 11:26-27).",
+    "misreadings": [
+      {
+        "topic": "Jeremiah 29:11 as a personal promise of prosperity",
+        "popular": "'For I know the plans I have for you, declares the LORD, plans to prosper you and not to harm you, to give you a hope and a future' (NIV) is God's personal promise to me that my career, health or relationships will turn out well.",
+        "inContext": "The verse is in a letter to the whole exiled community in Babylon (the 'you' is plural in Hebrew). It follows the instruction to settle in Babylon for seventy years (Jer 29:10), so most of the first hearers would die in exile before the promise was kept. It is a promise of God's faithfulness to his people's long-term future, not a guarantee of short-term personal success. Scholars across the spectrum, including Walter Brueggemann and Christopher Wright, make this point.",
+        "defence": "Evangelical scholars such as Christopher Wright and Tremper Longman agree on the original meaning, but argue Christians may still draw comfort from the verse because the same faithful God has good purposes for his people in Christ (Rom 8:28), as long as 'good' includes waiting and suffering. The issue is a popular flattening, not a scholarly dispute.",
+        "whyItMatters": "Read individually, the verse can collapse when life goes wrong. Read in context, it teaches patience, faithfulness in a hostile place (seeking the city's welfare) and trust in God's long purposes for a community.",
+        "refs": [
+          "Jer 29:4-7",
+          "Jer 29:10-14",
+          "Rom 8:28"
+        ],
+        "scholars": [
+          "Christopher J. H. Wright",
+          "Walter Brueggemann",
+          "Tremper Longman III"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'The heart is deceitful above all things' as the whole story",
+        "popular": "Jer 17:9 proves people should never trust their feelings or desires, because the human heart is wholly corrupt.",
+        "inContext": "Jer 17:9 diagnoses Judah's stubborn idolatry, and the very next verse says God searches the heart to give each person what they deserve. Jeremiah's answer is not distrust alone but a new heart: God will write his Torah on it (Jer 24:7; Jer 31:33). The covenant story moves from diagnosis to cure.",
+        "defence": "Reformed scholars rightly see Jer 17:9 as a key text on human sinfulness, consistent with Rom 3:10-18. They agree that the promise of a new heart is essential and that believers' renewed hearts are part of the new covenant.",
+        "whyItMatters": "Quoting only the diagnosis can leave believers in permanent self-suspicion; Jeremiah holds out God's work of renewing the heart.",
+        "refs": [
+          "Jer 17:9-10",
+          "Jer 24:7",
+          "Jer 31:33"
+        ],
+        "scholars": [
+          "J. A. Thompson",
+          "Jack Lundbom"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Jeremiah explained to a devastated people why judgment came, kept them from despair, and gave exiles a way to live faithfully in a foreign land while waiting for God's restoration.",
+      "now": "Jeremiah warns against religious slogans that cover injustice, shows the cost of speaking truth to power, gives permission for honest complaint, and grounds hope in God's commitment to make a new covenant people."
+    },
+    "sources": [
+      {
+        "author": "Jack R. Lundbom",
+        "title": "Jeremiah 1-20 (Anchor Bible)",
+        "year": 1999
+      },
+      {
+        "author": "William L. Holladay",
+        "title": "Jeremiah 1 (Hermeneia)",
+        "year": 1986
+      },
+      {
+        "author": "Walter Brueggemann",
+        "title": "A Commentary on Jeremiah: Exile and Homecoming",
+        "year": 1998
+      },
+      {
+        "author": "Christopher J. H. Wright",
+        "title": "The Message of Jeremiah (The Bible Speaks Today)",
+        "year": 2014
+      },
+      {
+        "author": "J. A. Thompson",
+        "title": "The Book of Jeremiah (NICOT)",
+        "year": 1980
+      }
+    ]
+  },
+  {
+    "id": "lamentations",
+    "oneLine": "Five poems of grief over Jerusalem's destruction that confess sin, protest pain, and in the very middle cling to the LORD's mercies, new every morning.",
+    "author": {
+      "name": "Anonymous poet(s); traditionally Jeremiah",
+      "who": "Someone who witnessed the siege and fall of Jerusalem in 586 BC: the starving children, the burned temple, the captured king. The poet speaks sometimes as a narrator, sometimes as personified Zion (a widowed woman), and sometimes as 'the man who has seen affliction' (Lam 3:1).",
+      "howWeKnow": "The Hebrew text names no author. The Greek Septuagint adds an introduction saying Jeremiah sat weeping and lamented over Jerusalem, and 2 Chr 35:25 says Jeremiah composed laments for Josiah. Many scholars doubt Jeremiah's authorship because Lam 4:17-20 seems to put hope in Egyptian help and in King Zedekiah, both of which Jeremiah opposed; others think the tradition remains plausible.",
+      "otherWritings": [
+        "Jeremiah (if the tradition is right)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Judah, among the ruins of Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The vivid eyewitness detail suggests survivors left in the land, though some think exiles in Babylon composed or used the poems.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Survivors of the catastrophe gathering to mourn",
+      "place": "The ruined temple site and Judah",
+      "situation": "Jer 41:5 describes worshippers coming to the ruined temple with shaved beards and torn clothes. Zech 7:3-5 and Zech 8:19 mention fasts in the fifth month (the month of the temple's burning) observed for seventy years. Lamentations was probably used at such mourning gatherings.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -2000,
+        "event": "Sumerian city laments such as the *Lament over Ur* had long mourned destroyed cities and departed gods, a genre Lamentations shares and transforms."
+      },
+      {
+        "year": -588,
+        "event": "Nebuchadnezzar's army begins the final siege of Jerusalem (2 Kgs 25:1)."
+      },
+      {
+        "year": -586,
+        "event": "The wall is breached, Zedekiah captured and blinded, and the temple burned (2 Kgs 25:4-9)."
+      },
+      {
+        "year": -582,
+        "event": "A further deportation from Judah follows the murder of Gedaliah (Jer 52:30)."
+      }
+    ],
+    "backdrop": "In 586 BC, after an eighteen-month siege, Babylon broke into Jerusalem. Famine had been so severe that mothers ate their children (Lam 2:20; Lam 4:10), a horror Deuteronomy had named among the covenant curses (Deut 28:53-57). Nebuchadnezzar's commander burned the temple, the palace and the great houses, pulled down the walls and deported much of the population (2 Kgs 25:8-11). For Judah, it was not only a military defeat; it seemed the end of the covenant promises of land, king and temple.\n\nLamentations gives words to that grief. Its five poems are carefully built. Chapters 1, 2 and 4 are alphabetic acrostics of 22 verses, each beginning with the next letter of the Hebrew alphabet. Chapter 3 is a triple acrostic: three verses for each letter, 66 in all. Chapter 5 has 22 verses but is not an acrostic, as if the poet's control finally breaks down into raw prayer. The acrostic form may express completeness, grief 'from A to Z', or impose order on chaos. Many lines use a limping rhythm, called *qinah* (lament) metre, with a long line followed by a shorter one, like a sob.\n\nThe book holds two things together without resolving them. It confesses that the disaster was the LORD's just judgment for Jerusalem's sin (Lam 1:8; Lam 1:18). It also protests that the suffering is excessive and asks God to look at what he has done (Lam 2:20; Lam 5:20). In the exact centre of the book stands the confession that the LORD's steadfast love never ceases and his mercies are new every morning (Lam 3:22-23). Yet the book ends not with resolution but with a question: 'unless you have utterly rejected us' (Lam 5:22).",
+    "culture": [
+      {
+        "term": "Zion as widow",
+        "explain": "Jerusalem is personified as a woman who has lost husband and children, sitting alone with 'none to comfort her', a phrase repeated five times in chapter 1.",
+        "refs": [
+          "Lam 1:1-2",
+          "Lam 1:9",
+          "Lam 1:16-17",
+          "Lam 1:21"
+        ]
+      },
+      {
+        "term": "Mourning rites",
+        "explain": "Sitting on the ground in silence, throwing dust on the head, wearing sackcloth, shaving beards: the gestures of a funeral applied to a whole city.",
+        "refs": [
+          "Lam 2:10",
+          "Jer 41:5"
+        ]
+      },
+      {
+        "term": "Acrostic poems",
+        "explain": "Each verse or group of verses starts with the next Hebrew letter. In chapters 2-4 the letters *pe* and *ayin* appear in reverse of the usual order, an alphabet order also known from some ancient inscriptions.",
+        "refs": [
+          "Lam 1",
+          "Lam 3",
+          "Lam 4"
+        ]
+      },
+      {
+        "term": "Covenant curses fulfilled",
+        "explain": "Many images (famine, cannibalism, exile, enemies mocking) match the curses of Deut 28 and Lev 26 almost point by point.",
+        "refs": [
+          "Deut 28:49-57",
+          "Lev 26:27-33",
+          "Lam 4:10"
+        ]
+      },
+      {
+        "term": "The LORD as enemy",
+        "explain": "Shockingly, the poet describes God himself as acting like an enemy, bending his bow and tearing down his own sanctuary.",
+        "refs": [
+          "Lam 2:4-7",
+          "Lam 3:10-12"
+        ]
+      },
+      {
+        "term": "The LORD's anointed",
+        "explain": "'The breath of our nostrils, the LORD's anointed' refers to King Zedekiah, captured as he fled, showing how much hope rested on the Davidic king.",
+        "refs": [
+          "Lam 4:20",
+          "2 Kgs 25:4-7"
+        ]
+      }
+    ],
+    "jewishLens": "Lamentations, called *Eikhah* ('How!') from its first word, is chanted in synagogues on the evening of Tisha B'Av, the ninth of Av, the fast day that mourns the destruction of both the first temple (586 BC) and the second (AD 70) and later disasters of Jewish history. Worshippers sit on the floor or on low stools, as mourners do, often by dim light, while the book is sung to a haunting melody used for nothing else. When the reader reaches the end, the congregation repeats the second-last verse, 'Restore us to yourself, O LORD, that we may be restored; renew our days as of old' (Lam 5:21), so the book does not close on the bleak final line. The same custom is followed with Isaiah, Malachi and Ecclesiastes. Other prophetic readings in the weeks around the fast link the 'eikhah' cries of Moses (Deut 1:12), Isaiah (Isa 1:21) and Jeremiah.\n\nThe midrash *Eikhah Rabbah* is one of the oldest rabbinic commentaries. It pictures God himself mourning over the destruction, like a king who has lost his sons, and even weeping; the rabbis did not shrink from describing God as sharing his people's grief. Medieval *kinot* (elegies) recited on Tisha B'Av extend Lamentations to new tragedies, from the Crusades to the Holocaust.\n\nCovenantally, Lamentations is the darkest page of the relationship between God and Israel: the curses of Deuteronomy have fallen. Yet the poets still speak to God, still call him 'LORD', still remember his hesed and still ask him to remember them. Faith here is not explaining the disaster but refusing to stop addressing the covenant partner who allowed it.",
+    "flow": [
+      {
+        "label": "The lonely widow",
+        "detail": "Jerusalem sits desolate, betrayed by her lovers, and herself cries out: is it nothing to you, all who pass by?",
+        "refs": [
+          "Lam 1:1-11",
+          "Lam 1:12-22"
+        ]
+      },
+      {
+        "label": "God's anger described",
+        "detail": "The Lord has swallowed up his own city and temple as an enemy; children faint in the streets.",
+        "refs": [
+          "Lam 2:1-10",
+          "Lam 2:11-22"
+        ]
+      },
+      {
+        "label": "One man's affliction",
+        "detail": "A sufferer describes God as a bear in ambush and an archer, until he remembers.",
+        "refs": [
+          "Lam 3:1-20"
+        ]
+      },
+      {
+        "label": "Mercies new every morning",
+        "detail": "At the book's centre: the LORD's steadfast love never ceases; it is good to wait quietly.",
+        "refs": [
+          "Lam 3:21-33"
+        ]
+      },
+      {
+        "label": "Examine and return",
+        "detail": "Let us test our ways and lift our hearts to God; the sufferer pleads for justice.",
+        "refs": [
+          "Lam 3:40-66"
+        ]
+      },
+      {
+        "label": "Horrors of the siege",
+        "detail": "Gold grows dim; princes starve; the anointed king is captured; Edom will be judged.",
+        "refs": [
+          "Lam 4:1-10",
+          "Lam 4:20-22"
+        ]
+      },
+      {
+        "label": "Remember us",
+        "detail": "A communal prayer listing the people's disgrace, ending with 'restore us' and an unanswered question.",
+        "refs": [
+          "Lam 5:1-22"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Lamentations: grief before God",
+      "branches": [
+        {
+          "label": "Voices",
+          "items": [
+            "Narrator",
+            "Zion as widow",
+            "The afflicted man",
+            "The community"
+          ]
+        },
+        {
+          "label": "Form",
+          "items": [
+            "Five poems",
+            "Alphabetic acrostics",
+            "Limping lament rhythm",
+            "Order in chaos"
+          ]
+        },
+        {
+          "label": "Grief",
+          "items": [
+            "City in ruins",
+            "Starving children",
+            "No comforter"
+          ]
+        },
+        {
+          "label": "Theology",
+          "items": [
+            "Sin confessed",
+            "Judgment just",
+            "Pain protested",
+            "God's hesed remembered"
+          ]
+        },
+        {
+          "label": "Use",
+          "items": [
+            "Tisha B'Av chanting",
+            "Repeat 'restore us'",
+            "Model for communal lament"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "How!",
+        "original": "eikhah (אֵיכָה)",
+        "meaning": "A cry of shock and grief, 'How can this be?'; the book's Hebrew title.",
+        "refs": [
+          "Lam 1:1",
+          "Lam 2:1",
+          "Lam 4:1"
+        ]
+      },
+      {
+        "word": "Steadfast love",
+        "original": "hesed (חֶסֶד)",
+        "meaning": "Covenant loyalty and kindness; the plural 'steadfast loves' (*hasdei*) in Lam 3:22 suggests many acts of kindness.",
+        "refs": [
+          "Lam 3:22",
+          "Lam 3:32"
+        ]
+      },
+      {
+        "word": "Mercies / compassion",
+        "original": "rahamim (רַחֲמִים)",
+        "meaning": "Tender compassion, related to *rehem*, 'womb': the feeling of a mother for her child.",
+        "refs": [
+          "Lam 3:22",
+          "Lam 3:32",
+          "Isa 49:15"
+        ]
+      },
+      {
+        "word": "Faithfulness",
+        "original": "emunah (אֱמוּנָה)",
+        "meaning": "Steadiness, reliability, trustworthiness. 'Great is your faithfulness' is spoken in the middle of the ruins.",
+        "refs": [
+          "Lam 3:23"
+        ]
+      },
+      {
+        "word": "Comforter",
+        "original": "menahem (מְנַחֵם)",
+        "meaning": "One who consoles. Zion has none; Isaiah later answers 'Comfort, comfort my people'.",
+        "refs": [
+          "Lam 1:2",
+          "Lam 1:16",
+          "Isa 40:1"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah predicted the catastrophe Lamentations mourns, and shares its tears and imagery.",
+        "refs": [
+          "Jer 9:1",
+          "Jer 14:17",
+          "Lam 2:11"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Lamentations describes the covenant curses of Deut 28 fulfilled, including the siege famine.",
+        "refs": [
+          "Deut 28:52-57",
+          "Lam 4:10"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isa 40-55 answers Lamentations' 'no one to comfort her' with 'Comfort, comfort my people', and pictures Zion's children returning.",
+        "refs": [
+          "Lam 1:2",
+          "Isa 40:1-2",
+          "Isa 49:14-21"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Communal laments over the destroyed temple share the same grief and questions.",
+        "refs": [
+          "Ps 74:1-11",
+          "Ps 79:1-5",
+          "Ps 137"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Jesus weeps over Jerusalem and foresees its destruction in language recalling the first fall.",
+        "refs": [
+          "Luke 19:41-44",
+          "Luke 23:28-31"
+        ]
+      }
+    ],
+    "jesusLens": "Christians have long read Lam 1:12, 'Is it nothing to you, all you who pass by? Look and see if there is any sorrow like my sorrow', in Holy Week as words fitting Christ on the cross; the man 'who has seen affliction' of Lam 3 has also been read as a figure of the suffering Christ, and parts of Lamentations are sung in the Tenebrae services of the Catholic and Anglican traditions. Jesus wept over Jerusalem and predicted a second destruction (Luke 19:41-44), which came in AD 70 and is also mourned on Tisha B'Av. Jewish tradition reads the book as the mourning of Israel and of God himself, not as messianic prophecy. Both traditions find in Lam 3:22-33 the conviction that God 'does not willingly afflict' and that his compassion outlasts judgment.",
+    "misreadings": [
+      {
+        "topic": "'Great is thy faithfulness' lifted out of the ruins",
+        "popular": "Lam 3:22-23 is a cheerful promise of fresh blessings each day, sung as an upbeat hymn without reference to its setting.",
+        "inContext": "The verses are spoken in the middle of a devastated city, by a man who has just described God as an enemy who broke his bones. They are a defiant act of memory ('this I call to mind', Lam 3:21), not a summary of how things feel. Scholars such as Kathleen O'Connor and F. W. Dobbs-Allsopp stress that the book's hope is fragile and surrounded by unresolved grief.",
+        "defence": "Evangelical scholars and hymn-singers would agree; the hymn by Thomas Chisholm (1923) itself was written by a man of modest means and ill health and celebrates God's faithfulness through hardship. The point is not to stop singing it but to sing it as Lamentations does, in honesty about pain.",
+        "whyItMatters": "Read in context, the verse gives hope to people whose lives are in ruins, not just to those having a good day; it also legitimises grief alongside faith.",
+        "refs": [
+          "Lam 3:1-20",
+          "Lam 3:21-24",
+          "Lam 5:20-22"
+        ],
+        "scholars": [
+          "Kathleen O'Connor",
+          "F. W. Dobbs-Allsopp",
+          "Adele Berlin"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Confession means no complaint",
+        "popular": "Because the disaster was God's just judgment, the right response is only to accept it quietly; questioning God would be rebellion.",
+        "inContext": "Lamentations does both. It confesses sin (Lam 1:18; Lam 3:42) but also asks God to see whether anyone was ever treated like this (Lam 2:20) and ends with an unresolved plea (Lam 5:20-22). Adele Berlin and Dobbs-Allsopp note that protest and confession sit side by side within covenant faith.",
+        "defence": "Traditional evangelical commentators such as Tremper Longman note that Lam 3:39 warns against complaining about the punishment of sin, so there is a real tension; but they also accept that the book's protests are inspired prayers. The book holds both without cancelling either.",
+        "whyItMatters": "This balance helps people who suffer because of their own sin, and those who suffer far beyond it, to speak honestly to God.",
+        "refs": [
+          "Lam 1:18",
+          "Lam 2:20",
+          "Lam 3:39-42",
+          "Lam 5:20-22"
+        ],
+        "scholars": [
+          "Adele Berlin",
+          "Tremper Longman III",
+          "F. W. Dobbs-Allsopp"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Lamentations gave survivors of the greatest catastrophe of Israel's history a structured way to grieve, confess and pray together, keeping them in relationship with God when everything else was gone.",
+      "now": "It models communal grief after disasters, wars and abuses; shows that faith can hold confession, protest and hope at the same time; and gives words to anyone who has seen their world collapse."
+    },
+    "sources": [
+      {
+        "author": "Adele Berlin",
+        "title": "Lamentations (Old Testament Library)",
+        "year": 2002
+      },
+      {
+        "author": "Delbert R. Hillers",
+        "title": "Lamentations (Anchor Bible)",
+        "year": 1992
+      },
+      {
+        "author": "F. W. Dobbs-Allsopp",
+        "title": "Lamentations (Interpretation)",
+        "year": 2002
+      },
+      {
+        "author": "Kathleen M. O'Connor",
+        "title": "Lamentations and the Tears of the World",
+        "year": 2002
+      }
+    ]
+  },
+  {
+    "id": "ezekiel",
+    "oneLine": "A priest in exile sees God's glory on a moving throne, watches it leave the defiled temple, and then sees it return to a renewed people, raised from death and given a new heart and spirit.",
+    "author": {
+      "name": "Ezekiel son of Buzi",
+      "who": "A priest from Jerusalem, trained for temple service, deported to Babylonia with King Jehoiachin in 597 BC. He lived in his own house at Tel-abib by the Chebar canal, where the elders of the exiles came to consult him (Ezek 3:15; Ezek 8:1). His wife, 'the delight of his eyes', died suddenly, and he was told not to mourn publicly as a sign (Ezek 24:15-24).",
+      "howWeKnow": "The book is mostly in the first person and is dated more precisely than any other prophetic book, with about thirteen dates counted from Jehoiachin's exile (e.g. Ezek 1:2; Ezek 8:1; Ezek 33:21; Ezek 40:1). Its priestly vocabulary closely resembles the Holiness Code of Lev 17-26. Most scholars accept that the core comes from Ezekiel, arranged and expanded by his disciples.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Tel-abib by the Chebar canal, Babylonia",
+      "coords": [
+        45.23,
+        32.13
+      ],
+      "note": "The Chebar (*nar kabari*) was an irrigation canal near Nippur, known from Babylonian business documents of the Murashu family. The exact location of Tel-abib is unknown; coordinates are approximate for the Nippur region.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Judean exiles of the first deportation, and through them the whole house of Israel",
+      "place": "Babylonia",
+      "situation": "Before 586 BC the exiles expected a quick return and believed Jerusalem could never fall. After it fell they swung to despair: 'Our bones are dried up, and our hope is lost' (Ezek 37:11). Ezekiel had to destroy false hope first, then build true hope.",
+      "confidence": "biblical"
+    },
+    "setIn": {
+      "from": -593,
+      "to": -571,
+      "note": "From Ezekiel's inaugural vision in the fifth year of Jehoiachin's exile to his last dated oracle in the twenty-seventh year (Ezek 29:17)."
+    },
+    "worldEvents": [
+      {
+        "year": -597,
+        "event": "Nebuchadnezzar captures Jerusalem and deports Jehoiachin, Ezekiel and leading citizens (2 Kgs 24:10-16)."
+      },
+      {
+        "year": -592,
+        "event": "Babylonian ration tablets from this era list 'Ya'ukin, king of the land of Yahud' and his sons receiving oil in Babylon (dating approximate)."
+      },
+      {
+        "year": -586,
+        "event": "Jerusalem and the temple are destroyed; a refugee brings the news to Ezekiel (Ezek 33:21)."
+      },
+      {
+        "year": -585,
+        "event": "Nebuchadnezzar begins a thirteen-year siege of Tyre, reflected in Ezek 26-29 (dating approximate)."
+      },
+      {
+        "year": -562,
+        "event": "Nebuchadnezzar dies; Evil-merodach (Amel-Marduk) releases Jehoiachin (2 Kgs 25:27)."
+      }
+    ],
+    "backdrop": "Ezekiel was thirty, the age priests began serving (Num 4:3), when he received his call (Ezek 1:1 likely refers to his age). But there was no temple in Babylon. Instead, God came to him: a storm from the north, four living creatures with four faces, wheels within wheels full of eyes, and above them a sapphire throne with 'the likeness of the glory of the LORD' (Ezek 1:26-28). The point is that God's presence is not trapped in Jerusalem; his throne is mobile and can reach exiles by a Babylonian canal.\n\nThe first half of the book (Ezek 1-24) explains why Jerusalem must fall. Ezekiel acts out the siege with a clay brick, lies on his side for months, eats rationed bread cooked over dung, and shaves his head and divides the hair (Ezek 4-5). In a vision he is carried to the temple and sees idol worship, women weeping for the god Tammuz, and men bowing to the sun (Ezek 8). Then the glory of the LORD leaves the temple in stages and halts on the Mount of Olives (Ezek 10:18-19; Ezek 11:22-23). For a priest, this was the most terrible sight imaginable.\n\nAfter oracles against seven nations (Ezek 25-32), the turning point comes when a refugee announces, 'The city has fallen' (Ezek 33:21). From then on Ezekiel speaks hope: a true shepherd from David's line (Ezek 34), a new heart and spirit (Ezek 36), dry bones raised to life and two kingdoms reunited (Ezek 37), the defeat of Gog (Ezek 38-39), and a vast, measured temple to which the glory returns, with a river flowing from it to heal the Dead Sea (Ezek 40-48). The final name of the city is 'The LORD is there' (Ezek 48:35).\n\nEzekiel is the strangest of the prophets: his visions are overwhelming, his allegories (Ezek 16; Ezek 23) are sexually graphic, and his behaviour was so unusual that some modern writers have tried to diagnose him. Most scholars now read his actions as deliberate prophetic theatre, and his graphic language as a shock tactic to make complacent hearers feel the outrage of covenant betrayal.",
+    "culture": [
+      {
+        "term": "The glory (kavod)",
+        "explain": "The visible, radiant presence of God that filled the tabernacle and Solomon's temple. Its departure and return frame the whole book.",
+        "refs": [
+          "Exod 40:34-35",
+          "1 Kgs 8:10-11",
+          "Ezek 10:18-19",
+          "Ezek 43:1-5"
+        ]
+      },
+      {
+        "term": "Living creatures and cherubim",
+        "explain": "Composite throne guardians with faces of a human, lion, ox and eagle. Similar winged guardians (lamassu) stood at Assyrian and Babylonian palace gates, but in Ezekiel they carry the throne of Israel's God.",
+        "refs": [
+          "Ezek 1:5-14",
+          "Ezek 10:14-15",
+          "Rev 4:6-8"
+        ]
+      },
+      {
+        "term": "Prophetic sign-acts",
+        "explain": "Ezekiel's dramatic actions, such as the brick siege model, lying on his side, digging through a wall with baggage, and not mourning his wife, made the message visible to a sceptical audience.",
+        "refs": [
+          "Ezek 4:1-8",
+          "Ezek 12:3-11",
+          "Ezek 24:15-24"
+        ]
+      },
+      {
+        "term": "Watchman",
+        "explain": "A city watchman who failed to warn of attack bore responsibility for the deaths. Ezekiel is made a watchman for Israel, accountable for sounding the warning.",
+        "refs": [
+          "Ezek 3:16-21",
+          "Ezek 33:1-9"
+        ]
+      },
+      {
+        "term": "Shepherd kings",
+        "explain": "Ancient Near Eastern kings were called shepherds of their people. Ezekiel indicts Israel's rulers as shepherds who fed themselves, and promises that God himself, through a Davidic prince, will shepherd the flock.",
+        "refs": [
+          "Ezek 34:1-10",
+          "Ezek 34:11-16",
+          "Ezek 34:23-24"
+        ]
+      },
+      {
+        "term": "Holiness and purity",
+        "explain": "As a priest Ezekiel thinks in terms of clean and unclean, holy and common. Idolatry and bloodshed defile the land so that God's holy presence cannot remain; the new temple restores clear boundaries.",
+        "refs": [
+          "Ezek 22:26",
+          "Ezek 36:17-18",
+          "Ezek 44:23"
+        ]
+      }
+    ],
+    "jewishLens": "Ezekiel's opening vision became the foundation of Jewish mystical tradition, called *ma'aseh merkavah*, 'the work of the chariot'. The Mishnah restricts teaching it: the chariot may not be expounded even to one student unless he is a sage who understands on his own (Mishnah Hagigah 2:1). Yet Ezek 1 is read publicly as the haftarah on the first day of Shavuot, the festival of the giving of the Torah, pairing the revelation at Sinai with the revelation to Ezekiel. Ezek 37, the valley of dry bones, is the haftarah for the Sabbath during Passover, linking the exodus with national resurrection; it became an important text for the Jewish belief in the resurrection of the dead, and after the Holocaust it was often read as a picture of the Jewish people's survival.\n\nThe rabbis also wrestled with Ezekiel. Because his temple regulations (Ezek 40-48) differ in places from the laws of the Torah, the Talmud reports that the sages considered withdrawing the book until Hananiah ben Hezekiah sat in an upper room with three hundred jars of oil for his lamp and worked out how to reconcile them (Shabbat 13b). Many details are left for Elijah to explain when he comes.\n\nCovenantally, Ezekiel insists that God acts 'for the sake of my holy name' (Ezek 36:22): his reputation is bound up with Israel's fate among the nations, so he will restore them, not because they earned it but because he is faithful. The refrain 'then they will know that I am the LORD', about 70 times, shows that the goal of judgment and restoration is relationship: 'you shall be my people, and I will be your God' (Ezek 36:28). The new heart and new spirit of Ezek 36 parallel Jeremiah's new covenant, with Torah obeyed from within.",
+    "flow": [
+      {
+        "label": "Vision of the mobile throne",
+        "detail": "By a Babylonian canal, Ezekiel sees God's glory on a living, wheeled throne and is commissioned as a watchman.",
+        "refs": [
+          "Ezek 1:1-28",
+          "Ezek 2:1-3:21"
+        ]
+      },
+      {
+        "label": "Siege acted out",
+        "detail": "Brick model, lying on his side, rationed bread and shaved hair announce Jerusalem's coming siege.",
+        "refs": [
+          "Ezek 4:1-17",
+          "Ezek 5:1-4"
+        ]
+      },
+      {
+        "label": "The glory departs",
+        "detail": "Ezekiel sees idolatry in the temple; the glory moves to the threshold, the east gate and then the mountain east of the city.",
+        "refs": [
+          "Ezek 8:1-18",
+          "Ezek 10:18-19",
+          "Ezek 11:22-23"
+        ]
+      },
+      {
+        "label": "Allegories and responsibility",
+        "detail": "Jerusalem as an unfaithful foundling-bride; each generation answers for its own sin; God takes no pleasure in death.",
+        "refs": [
+          "Ezek 16:1-14",
+          "Ezek 18:1-4",
+          "Ezek 18:30-32"
+        ]
+      },
+      {
+        "label": "Nations judged",
+        "detail": "Oracles against Ammon, Moab, Edom, Philistia, Tyre, Sidon and Egypt, including the proud king of Tyre.",
+        "refs": [
+          "Ezek 25:1-7",
+          "Ezek 28:1-19",
+          "Ezek 29:1-6"
+        ]
+      },
+      {
+        "label": "The city has fallen",
+        "detail": "News arrives; Ezekiel's mouth is opened, and his message turns to hope.",
+        "refs": [
+          "Ezek 33:21-22"
+        ]
+      },
+      {
+        "label": "Shepherd, new heart, dry bones",
+        "detail": "God will shepherd his flock, give a new heart and spirit, raise the nation from death and unite it under one king.",
+        "refs": [
+          "Ezek 34:11-24",
+          "Ezek 36:24-28",
+          "Ezek 37:1-14",
+          "Ezek 37:15-28"
+        ]
+      },
+      {
+        "label": "The glory returns",
+        "detail": "After Gog's defeat, a vision of a new temple, the glory's return, a life-giving river and a city named 'The LORD is there'.",
+        "refs": [
+          "Ezek 38:1-6",
+          "Ezek 43:1-5",
+          "Ezek 47:1-12",
+          "Ezek 48:35"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Ezekiel: the glory leaves and returns",
+      "branches": [
+        {
+          "label": "Visions",
+          "items": [
+            "Throne-chariot",
+            "Temple abominations",
+            "Dry bones",
+            "New temple"
+          ]
+        },
+        {
+          "label": "Sign-acts",
+          "items": [
+            "Brick siege",
+            "Lying on his side",
+            "Shaved hair",
+            "Wife's death unmourned"
+          ]
+        },
+        {
+          "label": "Judgment",
+          "items": [
+            "Glory departs",
+            "Unfaithful bride",
+            "Bad shepherds",
+            "Nations judged"
+          ]
+        },
+        {
+          "label": "Restoration",
+          "items": [
+            "New heart and spirit",
+            "Davidic shepherd",
+            "Two sticks joined",
+            "River of life"
+          ]
+        },
+        {
+          "label": "Key refrains",
+          "items": [
+            "Know that I am LORD",
+            "For my name's sake",
+            "Son of man"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Glory",
+        "original": "kavod (כָּבוֹד)",
+        "meaning": "Weight, heaviness, honour; the radiant manifest presence of God.",
+        "refs": [
+          "Ezek 1:28",
+          "Ezek 10:18",
+          "Ezek 43:2"
+        ]
+      },
+      {
+        "word": "Son of man",
+        "original": "ben adam (בֶּן־אָדָם)",
+        "meaning": "'Human being', 'mortal'; God's address to Ezekiel about 93 times, stressing his frailty before the divine glory.",
+        "refs": [
+          "Ezek 2:1",
+          "Ezek 37:3"
+        ]
+      },
+      {
+        "word": "Spirit / breath / wind",
+        "original": "ruah (רוּחַ)",
+        "meaning": "One Hebrew word for wind, breath and spirit. In the valley of bones the play on all three meanings is deliberate.",
+        "refs": [
+          "Ezek 37:5-10",
+          "Ezek 36:26-27",
+          "Ezek 2:2"
+        ]
+      },
+      {
+        "word": "Know",
+        "original": "yada (יָדַע)",
+        "meaning": "'You will know that I am the LORD': the goal of all God's acts, an experiential, relational knowing.",
+        "refs": [
+          "Ezek 6:7",
+          "Ezek 36:23",
+          "Ezek 37:13-14"
+        ]
+      },
+      {
+        "word": "Shepherd",
+        "original": "ro'eh (רֹעֶה)",
+        "meaning": "Shepherd, ruler, pastor. God promises to shepherd his people himself and through his servant David.",
+        "refs": [
+          "Ezek 34:2",
+          "Ezek 34:15",
+          "Ezek 34:23"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "leviticus",
+        "how": "Ezekiel's priestly language of holiness, defilement and covenant blessing and curse closely mirrors Lev 17-26.",
+        "refs": [
+          "Lev 26:3-13",
+          "Ezek 34:25-31"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah and Ezekiel both promise a renewed heart and covenant, and both quote and reject the proverb about sour grapes.",
+        "refs": [
+          "Jer 31:29-34",
+          "Ezek 18:2-4",
+          "Ezek 36:26-27"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "Jesus presents himself as the good shepherd and promises rivers of living water and new birth by water and Spirit, all strongly echoing Ezekiel.",
+        "refs": [
+          "John 10:11-16",
+          "John 7:37-39",
+          "John 3:5"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation reuses Ezekiel's throne vision, eating the scroll, Gog and Magog, the measured temple and the river of life.",
+        "refs": [
+          "Rev 4:6-8",
+          "Rev 10:9-10",
+          "Rev 20:8",
+          "Rev 22:1-2"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "Ezekiel names a righteous 'Daniel' alongside Noah and Job; Daniel's vision of one like a son of man on clouds develops throne-vision imagery.",
+        "refs": [
+          "Ezek 14:14",
+          "Ezek 28:3",
+          "Dan 7:9-14"
+        ]
+      }
+    ],
+    "jesusLens": "Christians read Ezekiel's promises as fulfilled in Jesus and the Spirit. Jesus is the shepherd who seeks the lost (Luke 15:3-7; John 10:11), the Davidic king Ezekiel promised (Ezek 34:23-24). His body is the temple where God's glory dwells (John 1:14; John 2:19-21), and from him and the Spirit flow 'rivers of living water' like the river from Ezekiel's temple (John 7:37-39). The new heart and spirit of Ezek 36 lie behind Jesus' words about being born of water and Spirit (John 3:5) and the coming of the Spirit at Pentecost. Revelation ends with a city where God dwells with his people, echoing 'The LORD is there' (Rev 21:3; Rev 22:1-2). Jewish readers expect Ezekiel's restoration literally: a regathered Israel, a Davidic king and a third temple, and read the dry bones as national and bodily resurrection.",
+    "misreadings": [
+      {
+        "topic": "Gog of Magog as a coded prediction about Russia",
+        "popular": "Ezek 38-39 predicts that in the end times Russia ('Rosh', with 'Meshech' as Moscow and 'Tubal' as Tobolsk) will lead a coalition including Iran (Persia) against modern Israel, and current events show this is about to happen.",
+        "inContext": "Most scholars, conservative and critical, identify Meshech and Tubal with peoples of Anatolia (modern Turkey) known from Assyrian records (Mushku and Tabal). The Hebrew *rosh* most naturally means 'chief' ('Gog, chief prince of Meshech and Tubal'), not a nation. Gog is a symbolic final enemy drawn from the far north, the edge of the known world, whose defeat shows that restored Israel will be secure because God protects it. Scholars such as Daniel Block and Iain Duguid make these points.",
+        "defence": "Dispensational writers such as John Walvoord and Mark Hitchcock defend a future literal invasion and some still argue for 'Rosh' as a people; but many dispensational scholars now concede the Russia identification is weak. A future, literal fulfilment in some form remains a legitimate view, debated against symbolic and already-fulfilled readings.",
+        "whyItMatters": "Matching Ezekiel to the news has produced repeated failed predictions and can turn prophecy into speculation. Read in context, Gog's defeat assures God's people that no enemy can undo his restoration.",
+        "refs": [
+          "Ezek 38:1-6",
+          "Ezek 39:1-7",
+          "Ezek 39:21-29",
+          "Rev 20:7-9"
+        ],
+        "scholars": [
+          "Daniel I. Block",
+          "Iain Duguid",
+          "John Walvoord",
+          "Mark Hitchcock"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Ezekiel 28 as the story of Satan's fall",
+        "popular": "The lament over the king of Tyre, 'You were in Eden, the garden of God ... you were an anointed guardian cherub', describes Lucifer's original glory and fall before creation.",
+        "inContext": "The oracle is explicitly addressed to 'the king of Tyre', whose pride came from trade and wealth (Ezek 28:5; Ezek 28:16). Ezekiel uses Eden imagery and perhaps ancient myths of a primeval figure on God's mountain to mock a human king who thought himself a god (Ezek 28:2). Most commentators, including Block and Greenberg, read it as a taunt against the king, not a hidden history of Satan.",
+        "defence": "A line of interpreters from Tertullian and Origen to some modern evangelicals sees a double reference: the human king as an instance of a deeper spiritual pride whose origin is in Satan. Scholars who hold this usually grant that the passage's primary target is the king of Tyre. It is a real debate, not just a popular error.",
+        "whyItMatters": "Reading the text first as a warning about human pride and economic power keeps its point sharp for today; any further application must not erase that.",
+        "refs": [
+          "Ezek 28:1-10",
+          "Ezek 28:11-19",
+          "Isa 14:12-15"
+        ],
+        "scholars": [
+          "Daniel I. Block",
+          "Moshe Greenberg",
+          "Origen"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Ezekiel shattered false hope in an unbreakable Jerusalem, explained the disaster as the holy God's just response, and then gave exiles who felt dead a vision of resurrection, renewal and God's presence among them again.",
+      "now": "Ezekiel warns leaders who exploit those in their care, insists on personal responsibility, and offers hope that God can give new hearts and breathe life into what seems dead, for individuals and communities."
+    },
+    "sources": [
+      {
+        "author": "Daniel I. Block",
+        "title": "The Book of Ezekiel, Chapters 1-24 (NICOT)",
+        "year": 1997
+      },
+      {
+        "author": "Moshe Greenberg",
+        "title": "Ezekiel 1-20 (Anchor Bible)",
+        "year": 1983
+      },
+      {
+        "author": "Walther Zimmerli",
+        "title": "Ezekiel 1 (Hermeneia)",
+        "year": 1979
+      },
+      {
+        "author": "Christopher J. H. Wright",
+        "title": "The Message of Ezekiel (The Bible Speaks Today)",
+        "year": 2001
+      },
+      {
+        "author": "Iain M. Duguid",
+        "title": "Ezekiel (NIV Application Commentary)",
+        "year": 1999
+      }
+    ]
+  },
+  {
+    "id": "daniel",
+    "oneLine": "Stories of Jewish exiles who stay faithful at a pagan court, and visions of beastly empires, all declaring that the Most High rules over human kingdoms and will give the everlasting kingdom to 'one like a son of man' and his holy people.",
+    "author": {
+      "name": "Daniel (traditional); an anonymous author or circle in the Maccabean era (critical view)",
+      "who": "Daniel, whose Babylonian name was Belteshazzar, was a young Judean noble taken to Babylon, trained in Babylonian learning and serving as an adviser to kings for about seventy years. On the critical view, the book's final author was a wise teacher among the *maskilim*, 'those who are wise' (Dan 11:33; Dan 12:3), during the persecution of 167-164 BC.",
+      "howWeKnow": "The visions (Dan 7-12) are written in the first person by Daniel. The traditional date rests on these claims, on Jesus' reference to 'the prophet Daniel' (Matt 24:15), on accurate details such as Belshazzar's role as co-regent (once doubted, now confirmed by the Nabonidus texts), and on Daniel's presence at Qumran by about 125-100 BC. The critical date rests on the detail of Dan 11, which tracks events from Alexander through the Seleucid and Ptolemaic kings with growing precision up to Antiochus IV's desecration of the temple in 167 BC, and then, many argue, gets the details of Antiochus' death wrong (Dan 11:40-45). Other arguments include Greek loanwords for musical instruments (Dan 3:5), puzzles over 'Darius the Mede' (unknown outside the Bible) and the book's place among the Writings rather than the Prophets. Conservative scholars such as Joyce Baldwin, Ernest Lucas (who leans to a mixed view), Stephen Miller and Tremper Longman have responses to each.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Babylon (traditional) or Jerusalem/Judea (critical)",
+      "coords": [
+        44.42,
+        32.54
+      ],
+      "note": "The stories are set in Babylon and Susa (Dan 8:2). If the final book is Maccabean, it was likely completed in Judea.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Jews living under foreign empires, especially those facing pressure to give up their faith",
+      "place": "The exile, the Persian diaspora, and Judea under Antiochus IV",
+      "situation": "Whether read as sixth-century exiles or second-century martyrs, the audience faced the same question: how to be faithful to God when pagan powers demand total loyalty. Under Antiochus IV (167 BC) Sabbath, circumcision and Torah scrolls were banned and an altar to Zeus was set up in the temple, the 'abomination that makes desolate' (Dan 11:31).",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -605,
+      "to": -536,
+      "note": "From Nebuchadnezzar's first deportation in the third year of Jehoiakim (Dan 1:1) to Daniel's last vision in the third year of Cyrus (Dan 10:1)."
+    },
+    "worldEvents": [
+      {
+        "year": -605,
+        "event": "Nebuchadnezzar becomes king of Babylon and takes the first Judean captives."
+      },
+      {
+        "year": -539,
+        "event": "Persia captures Babylon; the Nabonidus Chronicle describes the city's fall, while Nabonidus' son Belshazzar was in charge of Babylon."
+      },
+      {
+        "year": -333,
+        "event": "Alexander the Great defeats Persia, the 'goat' of Dan 8 that breaks the ram's two horns."
+      },
+      {
+        "year": -167,
+        "event": "Antiochus IV Epiphanes desecrates the temple and bans Jewish practice, sparking the Maccabean revolt."
+      },
+      {
+        "year": -164,
+        "event": "Judas Maccabeus rededicates the temple, the origin of Hanukkah; Antiochus dies in Persia."
+      }
+    ],
+    "backdrop": "Daniel is two books in one. Chapters 1-6 are court tales, stories about Jews at a foreign king's court, like the Joseph story (Gen 41) and Esther. Daniel and his friends refuse the king's food, interpret dreams, survive a blazing furnace and a lions' den, and see proud kings humbled. Chapters 7-12 are apocalyptic visions: four beasts from the sea, a ram and a goat, seventy 'weeks' of years, and a long revelation about the 'kings of the north and south'. 'Apocalyptic' comes from the Greek for 'unveiling'; it uses symbols, angels and numbers to reveal what is happening behind history and how it will end.\n\nThe book is also bilingual. It begins in Hebrew, switches to Aramaic, the international language of the empires, from the moment the Babylonian wise men speak to the king (Dan 2:4) to the end of chapter 7, then returns to Hebrew. The Aramaic section has a careful mirror structure: four kingdoms (Dan 2 and Dan 7), faithful Jews delivered (Dan 3 and Dan 6), and proud kings judged (Dan 4 and Dan 5).\n\nThe date of Daniel is one of the sharpest disagreements in Old Testament studies. Most critical scholars hold that the visions were written between 167 and 164 BC to strengthen Jews under Antiochus IV, using older stories from the Persian or early Greek period; this was first argued by the pagan philosopher Porphyry and is now standard in mainstream scholarship (John Collins, Carol Newsom). Conservative scholars hold a sixth-century date, accepting predictive prophecy and pointing to the book's accurate Babylonian details. Some evangelical scholars (for example, John Goldingay) accept a second-century date while affirming the book's inspiration, arguing that the visions may be written as prophecy in the style of their genre.\n\nThe four kingdoms of Dan 2 and Dan 7 illustrate the debate. The traditional reading, found already in Josephus and Jerome, is Babylon, Medo-Persia, Greece and Rome, with God's kingdom arriving in the Roman era. The critical reading is Babylon, Media, Persia and Greece, with the 'little horn' as Antiochus IV and the kingdom expected in his time. Either way, the book's message is that God gives kingdoms to whom he wills and will replace all of them with his own (Dan 2:44; Dan 4:17).",
+    "culture": [
+      {
+        "term": "The king's table",
+        "explain": "Eating the king's food bound a courtier to the king as a client to his patron, and the meat may not have been kosher or may have been offered to idols. Daniel's request for vegetables and water kept a mark of loyalty to God while serving faithfully.",
+        "refs": [
+          "Dan 1:5",
+          "Dan 1:8-16"
+        ]
+      },
+      {
+        "term": "New names",
+        "explain": "Babylonian names honoured Babylonian gods: Belteshazzar ('protect the king's life', perhaps invoking Bel), Abednego ('servant of Nabu'). Renaming marked a change of owner and identity.",
+        "refs": [
+          "Dan 1:6-7",
+          "Dan 4:8"
+        ]
+      },
+      {
+        "term": "Dream interpretation",
+        "explain": "Babylonian scholars kept huge dream-omen manuals. Daniel, like Joseph, can do what professional experts cannot because God reveals mysteries.",
+        "refs": [
+          "Dan 2:1-11",
+          "Dan 2:27-28",
+          "Gen 41:15-16"
+        ]
+      },
+      {
+        "term": "Praying toward Jerusalem",
+        "explain": "Daniel prays three times a day facing Jerusalem, following Solomon's prayer that exiles would pray toward the land and the temple.",
+        "refs": [
+          "Dan 6:10",
+          "1 Kgs 8:46-50"
+        ]
+      },
+      {
+        "term": "Apocalyptic symbols",
+        "explain": "Beasts stand for empires, horns for kings, the sea for chaos, clouds for divine presence, and numbers (seven, seventy, 'time, times and half a time') for periods set by God.",
+        "refs": [
+          "Dan 7:2-8",
+          "Dan 7:17",
+          "Dan 7:25",
+          "Dan 8:20-21"
+        ]
+      },
+      {
+        "term": "Angels and princes of nations",
+        "explain": "Daniel introduces named angels: Gabriel, who explains visions, and Michael, 'the great prince' who protects Israel. Nations have heavenly 'princes' too, an idea linked to Deut 32:8.",
+        "refs": [
+          "Dan 8:16",
+          "Dan 10:13",
+          "Dan 10:20-21",
+          "Dan 12:1"
+        ]
+      }
+    ],
+    "jewishLens": "In the Hebrew Bible Daniel is placed among the Writings (*Ketuvim*), not the Prophets. The Talmud reflects this, distinguishing Daniel from the prophets Haggai, Zechariah and Malachi (Megillah 3a). Some explain the placement by the book's late date, others by its genre, or by the view that Daniel was a wise man to whom God revealed things rather than a prophet sent to Israel. Daniel is not read as a haftarah in the synagogue, but its heroes are honoured as models of *kiddush ha-Shem*, sanctifying God's name by being ready to die rather than worship idols. Hananiah, Mishael and Azariah (Shadrach, Meshach and Abednego) are remembered in the Talmud and liturgy alongside other martyrs.\n\nThe book is closely tied to Hanukkah. The persecution under Antiochus IV and the 'abomination of desolation' (Dan 11:31; Dan 12:11) are the events from which the Maccabees rescued the temple. 1 Maccabees uses Daniel's language of 'the desolating sacrilege', and Mattathias' farewell speech cites Daniel and his friends as models (according to 1 Macc 2:59-60).\n\nRabbinic interpreters often read Daniel's visions messianically, but carefully. The Talmud warns against calculating the end (Sanhedrin 97b), even as some sages explored Daniel's numbers. Rashi read the seventy weeks of Dan 9 as ending with the Roman destruction of the second temple in AD 70. The 'one like a son of man' coming with the clouds (Dan 7:13) was read both as the Messiah (Sanhedrin 98a contrasts his coming 'with the clouds' and 'lowly, riding on a donkey', Zech 9:9) and, as Dan 7:18 and Dan 7:27 suggest, as a symbol of 'the holy ones of the Most High', faithful Israel. Covenantally, Daniel's prayer in chapter 9 is a model: he confesses Israel's sin, appeals to God's covenant faithfulness and to his name, and asks God to act 'for your own sake' (Dan 9:4-19).",
+    "flow": [
+      {
+        "label": "Faithful at the king's table",
+        "detail": "Four young exiles refuse the king's food and are blessed with wisdom.",
+        "refs": [
+          "Dan 1:1-21"
+        ]
+      },
+      {
+        "label": "Statue of four kingdoms",
+        "detail": "Nebuchadnezzar dreams of a statue smashed by a stone that becomes a mountain: God's everlasting kingdom.",
+        "refs": [
+          "Dan 2:31-45"
+        ]
+      },
+      {
+        "label": "Furnace and humbled king",
+        "detail": "Three friends refuse to bow and are rescued in the fire; Nebuchadnezzar goes mad until he acknowledges the Most High.",
+        "refs": [
+          "Dan 3:16-18",
+          "Dan 3:24-28",
+          "Dan 4:28-37"
+        ]
+      },
+      {
+        "label": "Writing on the wall and lions",
+        "detail": "Belshazzar profanes temple vessels and loses his kingdom that night; Daniel prays despite a decree and is saved from the lions.",
+        "refs": [
+          "Dan 5:1-5",
+          "Dan 5:25-31",
+          "Dan 6:10",
+          "Dan 6:19-23"
+        ]
+      },
+      {
+        "label": "Beasts and the son of man",
+        "detail": "Four beasts rise from the sea; the Ancient of Days gives everlasting dominion to one like a son of man and the holy ones.",
+        "refs": [
+          "Dan 7:1-14",
+          "Dan 7:27"
+        ]
+      },
+      {
+        "label": "Ram, goat and seventy weeks",
+        "detail": "Persia and Greece clash; a little horn desecrates the sanctuary; Daniel's confession brings the seventy-weeks revelation.",
+        "refs": [
+          "Dan 8:1-12",
+          "Dan 8:20-21",
+          "Dan 9:1-19",
+          "Dan 9:24-27"
+        ]
+      },
+      {
+        "label": "Kings of north and south",
+        "detail": "An angel recounts centuries of conflict ending with a blasphemous king and a time of distress.",
+        "refs": [
+          "Dan 10:1-14",
+          "Dan 11:2-4",
+          "Dan 11:31-36"
+        ]
+      },
+      {
+        "label": "Resurrection and the end",
+        "detail": "Michael arises, the dead awake to life or shame, the wise shine like stars, and Daniel is told to rest until the end.",
+        "refs": [
+          "Dan 12:1-3",
+          "Dan 12:13"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Daniel: God rules the kingdoms",
+      "branches": [
+        {
+          "label": "Court stories",
+          "items": [
+            "King's food refused",
+            "Fiery furnace",
+            "Nebuchadnezzar humbled",
+            "Lions' den"
+          ]
+        },
+        {
+          "label": "Visions",
+          "items": [
+            "Statue and stone",
+            "Four beasts",
+            "Son of man",
+            "Seventy weeks"
+          ]
+        },
+        {
+          "label": "Empires",
+          "items": [
+            "Babylon",
+            "Medes and Persians",
+            "Greece",
+            "Rome or Antiochus?"
+          ]
+        },
+        {
+          "label": "Faithfulness",
+          "items": [
+            "Serve without compromise",
+            "Prayer under pressure",
+            "Ready to die"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Everlasting kingdom",
+            "Michael the protector",
+            "Resurrection of the dead"
+          ]
+        },
+        {
+          "label": "Debates",
+          "items": [
+            "Sixth or second century",
+            "Darius the Mede",
+            "Seventy weeks schemes"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Kingdom",
+        "original": "malkhu (Aramaic מַלְכוּ)",
+        "meaning": "Kingdom, kingship, reign; the book's central theme, used dozens of times for human empires and God's everlasting reign.",
+        "refs": [
+          "Dan 2:44",
+          "Dan 4:3",
+          "Dan 7:14"
+        ]
+      },
+      {
+        "word": "Son of man",
+        "original": "bar enash (Aramaic בַּר אֱנָשׁ)",
+        "meaning": "'A human being'. In contrast to the beasts, a human figure comes with the clouds, the way God himself travels in the Old Testament, and receives eternal dominion.",
+        "refs": [
+          "Dan 7:13-14",
+          "Ps 104:3"
+        ]
+      },
+      {
+        "word": "Mystery",
+        "original": "raz (Aramaic רָז)",
+        "meaning": "A secret or hidden plan revealed by God, a word borrowed from Persian. It appears in the Dead Sea Scrolls and lies behind Paul's 'mystery'.",
+        "refs": [
+          "Dan 2:18-19",
+          "Dan 2:27-30",
+          "Dan 2:47"
+        ]
+      },
+      {
+        "word": "Holy ones",
+        "original": "qaddishin (Aramaic קַדִּישִׁין)",
+        "meaning": "Holy ones or saints. In Dan 7 it may mean faithful Israel, angels, or both, who receive the kingdom.",
+        "refs": [
+          "Dan 7:18",
+          "Dan 7:22",
+          "Dan 7:27"
+        ]
+      },
+      {
+        "word": "The wise",
+        "original": "maskilim (מַשְׂכִּילִים)",
+        "meaning": "Those who have insight and teach many; they will suffer but will shine like stars.",
+        "refs": [
+          "Dan 11:33-35",
+          "Dan 12:3",
+          "Dan 12:10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "Daniel at Nebuchadnezzar's court mirrors Joseph at Pharaoh's: a young exile interprets a king's dream when the experts fail and is promoted.",
+        "refs": [
+          "Gen 41:8-16",
+          "Dan 2:27-28",
+          "Dan 2:48"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Daniel reads Jeremiah's prophecy of seventy years and prays for its fulfilment.",
+        "refs": [
+          "Dan 9:2",
+          "Jer 25:11-12",
+          "Jer 29:10"
+        ]
+      },
+      {
+        "bookId": "esther",
+        "how": "Both are stories of Jews in foreign courts facing deadly decrees, showing faithful life in the diaspora.",
+        "refs": [
+          "Esth 4:14",
+          "Dan 6:4-9"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus warns of 'the abomination of desolation spoken of by the prophet Daniel' and claims the son of man's coming with the clouds before the high priest.",
+        "refs": [
+          "Matt 24:15",
+          "Matt 26:64"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation draws heavily on Daniel: the son of man, beasts from the sea, time-times-and-half, and books opened in judgment.",
+        "refs": [
+          "Rev 1:13-14",
+          "Rev 13:1-7",
+          "Rev 12:14",
+          "Rev 20:12"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews alludes to those who 'shut the mouths of lions' and 'quenched the power of fire' as heroes of faith.",
+        "refs": [
+          "Heb 11:33-34"
+        ]
+      }
+    ],
+    "jesusLens": "'Son of Man' was Jesus' favourite way of referring to himself, and at his trial he joined Dan 7:13 to Ps 110:1: 'you will see the Son of Man seated at the right hand of Power and coming with the clouds of heaven' (Mark 14:62), a claim the high priest heard as blasphemy. Jesus' proclamation of 'the kingdom of God' takes up Daniel's promise of a kingdom God would set up that would never be destroyed (Dan 2:44; Mark 1:15). Revelation pictures the risen Jesus with features of both the son of man and the Ancient of Days (Rev 1:13-14; Dan 7:9). Many Christians have read the seventy weeks (Dan 9:24-27) as pointing to the time of the Messiah's coming and death. Jewish interpreters read the son of man as the Messiah or as Israel, and the seventy weeks as ending in the second-temple period, but do not identify the Messiah with Jesus. Critical scholars often read the original son of man as the archangel Michael or as a symbol of faithful Israel vindicated.",
+    "misreadings": [
+      {
+        "topic": "The seventieth week as a future seven-year tribulation",
+        "popular": "Dan 9:27 predicts that a future Antichrist will make a seven-year peace treaty with Israel, break it halfway, and set up an abomination in a rebuilt temple; there is a long gap (the church age) between the 69th and 70th weeks.",
+        "inContext": "The 'gap' and future Antichrist reading developed mainly in 19th-century dispensationalism (J. N. Darby, later the Scofield Bible). Other readings are older and widely held: the seventy weeks end with Antiochus IV in 167-164 BC (most critical scholars, e.g. John Collins); or they culminate in the Messiah's death and the temple's destruction in AD 70 (many early church writers, Reformed and other evangelical scholars). The numbers are probably symbolic (ten jubilee cycles of seven times seven years). Scholars such as Ernest Lucas and Tremper Longman note how differently the details can be calculated.",
+        "defence": "Dispensational scholars such as John Walvoord, Harold Hoehner (who calculated the 69 weeks precisely to AD 33) and Stephen Miller defend the future-week view, arguing that the six goals of Dan 9:24 are not yet fully accomplished and that Jesus placed the 'abomination' in the future (Matt 24:15). This is a genuine debate among evangelicals, not simply a popular mistake.",
+        "whyItMatters": "Which reading one holds shapes views of Israel, the end times and current events. Knowing that faithful scholars disagree guards against treating one end-times chart as essential to the gospel.",
+        "refs": [
+          "Dan 9:24-27",
+          "Matt 24:15",
+          "Dan 11:31"
+        ],
+        "scholars": [
+          "John J. Collins",
+          "Ernest Lucas",
+          "Tremper Longman III",
+          "John Walvoord",
+          "Harold Hoehner",
+          "Stephen Miller"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Daniel 1 as a diet plan",
+        "popular": "Daniel's vegetables-and-water diet is a biblical model for healthy eating or a spiritual 'Daniel Fast' that guarantees health and breakthroughs.",
+        "inContext": "Daniel's concern was loyalty, not nutrition. Eating the king's food would mark him as the king's dependant and perhaps involve unclean or idol-offered food (Dan 1:8). The point of the ten-day test is that God, not the king's rich table, gave them health and wisdom (Dan 1:17). Later Daniel eats normally and fasts from meat and wine only during a period of mourning (Dan 10:2-3). Commentators across traditions (Goldingay, Longman, Lucas) agree.",
+        "defence": "Many evangelical teachers who promote the 'Daniel Fast' present it as a voluntary spiritual discipline inspired by the text, not as a command or guarantee, which is reasonable. The concern is only when it is taught as the meaning of Dan 1.",
+        "whyItMatters": "The real lesson is how to serve faithfully inside a powerful system without being owned by it, a question for every believer in work and public life.",
+        "refs": [
+          "Dan 1:8-17",
+          "Dan 10:2-3"
+        ],
+        "scholars": [
+          "John Goldingay",
+          "Tremper Longman III",
+          "Ernest Lucas"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Daniel taught Jews under pagan empires, from Babylon to Antiochus IV, that God still ruled, that faithfulness was worth dying for, and that God would vindicate the faithful, even beyond death.",
+      "now": "Daniel helps believers serve faithfully in secular institutions, resist the pull of powers that demand ultimate loyalty, pray with confession and hope, and trust that all empires are temporary while God's kingdom endures."
+    },
+    "sources": [
+      {
+        "author": "John J. Collins",
+        "title": "Daniel (Hermeneia)",
+        "year": 1993
+      },
+      {
+        "author": "John E. Goldingay",
+        "title": "Daniel (Word Biblical Commentary)",
+        "year": 1989
+      },
+      {
+        "author": "Ernest C. Lucas",
+        "title": "Daniel (Apollos Old Testament Commentary)",
+        "year": 2002
+      },
+      {
+        "author": "Joyce G. Baldwin",
+        "title": "Daniel (Tyndale Old Testament Commentaries)",
+        "year": 1978
+      },
+      {
+        "author": "Tremper Longman III",
+        "title": "Daniel (NIV Application Commentary)",
+        "year": 1999
       }
     ]
   }

@@ -105,7 +105,7 @@
         ]
       }
     ],
-    "jewishLens": "For a Jewish reader Hosea is above all a book about teshuvah (returning). Its closing chapter, 'Return, O Israel, to the LORD your God' (Hos 14:1-2), opens the haftarah for Shabbat Shuvah, the 'Sabbath of Return' between Rosh Hashanah and Yom Kippur. Its line 'take with you words' (Hos 14:2) was read by the rabbis as a charter for prayer standing in place of sacrifice once the temple was gone. Hosea 6:6, 'I desired mercy (hesed) and not sacrifice', was similarly used after AD 70: a well-known story in *Avot de-Rabbi Natan* has Rabban Yohanan ben Zakkai comfort a disciple at the temple ruins by saying that acts of loving-kindness now atone.\n\nThe marriage image lives in daily practice. When a Jewish man winds the tefillin strap around his finger each weekday morning he recites Hosea 2:19-20 (Hebrew 2:21-22), 'I will betroth you to me forever... in faithfulness, and you shall know the LORD.' The covenant is renewed as a betrothal, every day. Hosea 2 is also the haftarah for Bamidbar, read near Shavuot, the festival of the Sinai covenant, so the wilderness 'honeymoon' (Hos 2:14-15) is heard alongside Israel's wilderness journey.\n\nThe Talmud (*Pesahim* 87a-b) tells a pointed story: when God told Hosea that Israel had sinned, Hosea answered 'exchange them for another nation'. God then had him marry Gomer, and when Hosea could not bear to send away his own wife and children, God said, in effect, 'Neither can I abandon mine.' Medieval interpreters disagreed on whether the marriage was a real event (Rashi tends to read it narratively) or a prophetic vision (Ibn Ezra and Maimonides). Either way, the relationship, not the transaction, is the heart of the book: God is hurt, argues with himself, and refuses to let go (Hos 11:8-9).",
+    "jewishLens": "Hosea opens the Twelve (Trei Asar), which Jewish tradition treats as a single book on one scroll; Ben Sira already speaks of 'the twelve prophets' around 180 BC, and the Talmud (*Bava Batra* 14b) explains that the short prophecies were joined so that none would be lost. For a Jewish reader Hosea is above all a book about teshuvah (returning). Its closing chapter, 'Return, O Israel, to the LORD your God' (Hos 14:1-2), opens the haftarah for Shabbat Shuvah, the 'Sabbath of Return' between Rosh Hashanah and Yom Kippur. Its line 'take with you words' (Hos 14:2) was read by the rabbis as a charter for prayer standing in place of sacrifice once the temple was gone. Hosea 6:6, 'I desired mercy (hesed) and not sacrifice', was similarly used after AD 70: a well-known story in *Avot de-Rabbi Natan* has Rabban Yohanan ben Zakkai comfort a disciple at the temple ruins by saying that acts of loving-kindness now atone.\n\nThe marriage image lives in daily practice. When a Jewish man winds the tefillin strap around his finger each weekday morning he recites Hosea 2:19-20 (Hebrew 2:21-22), 'I will betroth you to me forever... in faithfulness, and you shall know the LORD.' The covenant is renewed as a betrothal, every day. Hosea 2 is also the haftarah for Bamidbar, read near Shavuot, the festival of the Sinai covenant, so the wilderness 'honeymoon' (Hos 2:14-15) is heard alongside Israel's wilderness journey.\n\nThe Talmud (*Pesahim* 87a-b) tells a pointed story: when God told Hosea that Israel had sinned, Hosea answered 'exchange them for another nation'. God then had him marry Gomer, and when Hosea could not bear to send away his own wife and children, God said, in effect, 'Neither can I abandon mine.' Medieval interpreters disagreed on whether the marriage was a real event (Rashi tends to read it narratively) or a prophetic vision (Ibn Ezra and Maimonides). Either way, the relationship, not the transaction, is the heart of the book: God is hurt, argues with himself, and refuses to let go (Hos 11:8-9).",
     "flow": [
       {
         "label": "Marriage as living parable",
@@ -2070,6 +2070,2088 @@
         "author": "Adele Berlin and Marc Zvi Brettler (eds.)",
         "title": "The Jewish Study Bible, 2nd ed.",
         "year": 2014
+      }
+    ]
+  },
+  {
+    "id": "nahum",
+    "oneLine": "A poem of comfort for the victims of empire: the cruel city of Nineveh will fall, because the God who is slow to anger does not leave the guilty unpunished.",
+    "author": {
+      "name": "Nahum the Elkoshite",
+      "who": "A Judean prophet whose name means 'comfort'. His home town, Elkosh, is unknown; guesses range from Galilee (Capernaum, 'village of Nahum', is a later and doubtful link) to a site in Judah. He was a poet of unusual power, writing some of the most vivid battle verse in the Bible.",
+      "howWeKnow": "The heading calls the book 'the oracle concerning Nineveh, the book of the vision of Nahum the Elkoshite' (Nah 1:1), the only prophetic book called a 'book' (sefer) in its title, which suggests it was written, not just spoken.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Judah",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Nahum writes to comfort Judah (Nah 1:15). The exact location of Elkosh is unknown.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Judah, living under Assyrian domination; the oracles are addressed rhetorically to Nineveh",
+      "place": "Judah (about Nineveh)",
+      "coords": [
+        43.15,
+        36.36
+      ],
+      "situation": "For over a century Assyria had deported, taxed and terrorised the nations, including Israel and Judah. Nahum announces that its capital will fall, as indeed it did in 612 BC.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -663,
+        "event": "Ashurbanipal's army sacks Thebes (No-Amon) in Egypt, the event Nahum cites as a warning (Nah 3:8-10)."
+      },
+      {
+        "year": -627,
+        "event": "Death of Ashurbanipal (approximate); the Assyrian empire begins to unravel in civil war."
+      },
+      {
+        "year": -626,
+        "event": "Nabopolassar becomes king of Babylon and leads its revolt against Assyria."
+      },
+      {
+        "year": -612,
+        "event": "Babylonians and Medes besiege and destroy Nineveh; the Babylonian Chronicle records its fall."
+      },
+      {
+        "year": -609,
+        "event": "The last Assyrian king loses Harran; Assyria disappears as a power."
+      }
+    ],
+    "backdrop": "In Nahum's lifetime Assyria was the greatest empire the world had yet seen. Its kings recorded their campaigns proudly: deportations of whole peoples, mounds of severed heads, captives flayed or impaled. Judah had survived Sennacherib's siege in 701 BC but stayed a vassal, paying tribute, under Manasseh. Nineveh, its capital, was enormous, with a city wall about twelve kilometres around, palaces, gardens and an aqueduct system. Its wealth came from plunder and tribute, which is why Nahum calls it 'the bloody city, all full of lies and plunder' (Nah 3:1).\n\nNahum mentions the fall of Thebes, Egypt's great city, to the Assyrians in 663 BC, so he wrote after that. Nineveh fell in 612 BC to a coalition of Babylonians and Medes, so he wrote before it, or at least before it was common knowledge. Most place him in the later 600s, when Assyria's decline after Ashurbanipal's death made its fall imaginable. The book's vivid descriptions of chariots, shields and opened gates (Nah 2:3-6) are poetry; some scholars link 'the river gates are opened' to a flood mentioned by later Greek writers, but the Babylonian Chronicle says nothing of a flood and others read the line figuratively.\n\nAfter 612 BC Nineveh was never rebuilt as a capital. When the Greek historian Xenophon passed the site two centuries later, he did not even recognise it by name.",
+    "culture": [
+      {
+        "term": "Oracle against a nation (massa)",
+        "explain": "A massa, or 'burden', is a prophetic judgment speech against a foreign power. Though aimed at Nineveh, it was heard by Judah as good news.",
+        "refs": [
+          "Nah 1:1",
+          "Isa 13:1"
+        ]
+      },
+      {
+        "term": "Divine warrior",
+        "explain": "Nahum opens with God marching in storm and earthquake, drying seas and melting mountains, the way older poems describe God leading Israel out of Egypt. It assures that God is stronger than any empire.",
+        "refs": [
+          "Nah 1:2-6",
+          "Hab 3:3-15"
+        ]
+      },
+      {
+        "term": "Acrostic hymn",
+        "explain": "Nahum 1:2-8 is a partial alphabetic acrostic: successive lines begin with successive Hebrew letters for about half the alphabet, a sign of careful, artful composition.",
+        "refs": [
+          "Nah 1:2-8"
+        ]
+      },
+      {
+        "term": "Herald of good news",
+        "explain": "A runner on the mountains brings word that the enemy is beaten, so Judah may again keep its feasts in peace. The same image appears in Isaiah for the return from exile.",
+        "refs": [
+          "Nah 1:15",
+          "Isa 52:7"
+        ]
+      },
+      {
+        "term": "Taunt song",
+        "explain": "Chapter 3 mocks Nineveh as a sorceress-prostitute and its officials as locusts that fly away, a common ancient form of shaming a fallen enemy.",
+        "refs": [
+          "Nah 3:4-7",
+          "Nah 3:15-19"
+        ]
+      }
+    ],
+    "jewishLens": "Nahum is not read as a haftarah in the regular synagogue cycle, but its opening creed has a deep place in Jewish theology. Nahum 1:2-3 restates God's self-description from Exodus 34:6-7 ('slow to anger... will by no means clear the guilty') but stresses its second half, while Jonah 4:2 stresses its first. Rabbinic and modern Jewish readers often pair the two: the same God who spared a repentant Nineveh in Jonah judges an unrepentant Nineveh in Nahum. Medieval Jewish commentators commonly explained the difference by saying that Nineveh's repentance in Jonah's day did not last, so the judgment once withheld finally came.\n\nFor a covenant people who had lost the northern tribes to Assyria, Nahum is not gloating but the vindication of God's justice: God is 'a stronghold in the day of trouble; he knows those who take refuge in him' (Nah 1:7). The promise that Judah may 'keep your feasts, fulfil your vows' (Nah 1:15) shows the goal: freedom to worship and live under God rather than an emperor. The Dead Sea Scrolls include a commentary on Nahum (4QpNah, the *Pesher Nahum*), which applied its imagery to the community's own enemies, including the Hasmonean ruler who crucified his opponents, showing how Nahum became a lens for later tyranny.",
+    "flow": [
+      {
+        "label": "The jealous, patient God",
+        "detail": "A hymn of God's power: slow to anger yet great in might, a refuge for those who trust him and an overwhelming flood to his foes.",
+        "refs": [
+          "Nah 1:2-8"
+        ]
+      },
+      {
+        "label": "Judah freed, Nineveh doomed",
+        "detail": "Oracles alternate: the yoke on Judah will be broken, Nineveh's line cut off; a herald announces peace.",
+        "refs": [
+          "Nah 1:9-15"
+        ]
+      },
+      {
+        "label": "The attack on Nineveh",
+        "detail": "A vivid battle scene: red shields, racing chariots, opened gates, plunder carried off.",
+        "refs": [
+          "Nah 2:1-10"
+        ]
+      },
+      {
+        "label": "The lions' den empty",
+        "detail": "Assyria, which hunted like a lion to feed its cubs, will itself be hunted.",
+        "refs": [
+          "Nah 2:11-13"
+        ]
+      },
+      {
+        "label": "Woe to the bloody city",
+        "detail": "Nineveh's violence and lies are exposed; like Thebes, it will fall.",
+        "refs": [
+          "Nah 3:1-11"
+        ]
+      },
+      {
+        "label": "No healing for your wound",
+        "detail": "Its defences crumble, its officials flee, and all who hear clap their hands, for who has not suffered its cruelty?",
+        "refs": [
+          "Nah 3:12-19"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Nahum: comfort for the oppressed",
+      "branches": [
+        {
+          "label": "God",
+          "items": [
+            "Jealous and avenging",
+            "Slow to anger",
+            "Refuge in trouble"
+          ]
+        },
+        {
+          "label": "Nineveh",
+          "items": [
+            "Bloody city",
+            "Lion's den",
+            "Lies and plunder"
+          ]
+        },
+        {
+          "label": "Its fall",
+          "items": [
+            "Gates opened",
+            "Like Thebes",
+            "No healing"
+          ]
+        },
+        {
+          "label": "Judah",
+          "items": [
+            "Yoke broken",
+            "Herald of peace",
+            "Keep your feasts"
+          ]
+        },
+        {
+          "label": "Reading it",
+          "items": [
+            "Pairs with Jonah",
+            "Justice for victims",
+            "Not personal revenge"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Avenging",
+        "original": "noqem",
+        "meaning": "Executing just retribution, the right of a lawful ruler, not private revenge; God does it, so his people need not.",
+        "refs": [
+          "Nah 1:2"
+        ]
+      },
+      {
+        "word": "Jealous",
+        "original": "qanno",
+        "meaning": "Zealous, protective of a covenant relationship; used of God's passion for his people and his own honour.",
+        "refs": [
+          "Nah 1:2",
+          "Exod 20:5"
+        ]
+      },
+      {
+        "word": "Stronghold / refuge",
+        "original": "ma'oz / chasah",
+        "meaning": "A fortress and the act of taking shelter; God knows those who shelter in him.",
+        "refs": [
+          "Nah 1:7"
+        ]
+      },
+      {
+        "word": "Peace",
+        "original": "shalom",
+        "meaning": "Wholeness and security; the herald's good news is that the oppressor is gone.",
+        "refs": [
+          "Nah 1:15"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "jonah",
+        "how": "Jonah shows God sparing a repentant Nineveh; Nahum shows him judging it once its cruelty returns. Both quote the Exodus 34 creed, from opposite sides.",
+        "refs": [
+          "Jonah 4:2",
+          "Nah 1:3"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isaiah also announces Assyria's downfall and uses the same 'beautiful feet' herald image for good news.",
+        "refs": [
+          "Isa 10:5-19",
+          "Isa 52:7",
+          "Nah 1:15"
+        ]
+      },
+      {
+        "bookId": "2-kings",
+        "how": "Kings describes Assyria's conquest of Israel and siege of Jerusalem, the history Nahum answers.",
+        "refs": [
+          "2 Kgs 17:5-6",
+          "2 Kgs 18:13"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul applies the herald of good news to those who preach Christ, and tells believers to leave vengeance to God.",
+        "refs": [
+          "Rom 10:15",
+          "Rom 12:19"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation's taunt over fallen Babylon, the city of luxury, sorcery and blood, closely parallels Nahum's song over Nineveh.",
+        "refs": [
+          "Rev 18:2-3",
+          "Rev 18:23-24",
+          "Nah 3:4"
+        ]
+      }
+    ],
+    "jesusLens": "Christians read Nahum's herald on the mountains 'who brings good news, who publishes peace' (Nah 1:15) through Paul, who applies the image to preachers of the gospel of Christ (Rom 10:15). The book's picture of God defeating an oppressive power that held his people captive is echoed in the New Testament's language of Christ disarming 'the rulers and authorities' (Col 2:15). At the same time Jesus forbids his followers personal vengeance (Matt 5:43-45), so Christians, like Jews, read Nahum as God's justice, not a permission for human revenge. Jewish readers see in Nahum the reassurance that no empire is permanent and that God remains the refuge of his covenant people.",
+    "misreadings": [
+      {
+        "topic": "Nahum as sub-Christian revenge poetry",
+        "popular": "Many Christians either skip Nahum as embarrassing (a gleeful celebration of an enemy's destruction, out of step with 'love your enemies') or treat it as proof that the 'Old Testament God' was harsher than Jesus.",
+        "inContext": "Nahum was written for victims of one of history's most brutal empires. Julia O'Brien and J. J. M. Roberts note its hard edges but also its function: to assure the powerless that cruelty does not go unpunished and that God, not Judah, is the avenger. The book itself says God is 'slow to anger' and 'good, a stronghold' (Nah 1:3; Nah 1:7) and asks 'who has not felt your endless cruelty?' (Nah 3:19).",
+        "defence": "Evangelical scholars such as O. Palmer Robertson and Tremper Longman argue that Nahum's God is the same as Jesus' God, who also warns of judgment (Matt 23:33-36), and that Revelation celebrates the fall of oppressive 'Babylon' in similar terms. They agree that Nahum's voice must be balanced by Jonah's, but defend divine justice as good news for the oppressed. Scholars with ethical reservations (e.g. O'Brien) still accept that the book speaks from the underside of empire.",
+        "whyItMatters": "Seeing Nahum as justice for the oppressed helps readers hear it as hope, not hatred, and keeps the Bible's witness on mercy and justice together.",
+        "refs": [
+          "Nah 1:2-8",
+          "Nah 3:19",
+          "Jonah 4:2",
+          "Rev 18:20"
+        ],
+        "scholars": [
+          "Julia M. O'Brien",
+          "J. J. M. Roberts",
+          "O. Palmer Robertson",
+          "Tremper Longman III"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For Judah under the Assyrian boot, Nahum said that the empire was not eternal, that God had seen its crimes, and that they would again be free to keep their feasts.",
+      "now": "Nahum gives words to people suffering under abusive power, assuring them that God is a refuge and that tyranny will not last. It also warns any strong nation, church or person that violence and exploitation carry their own judgment."
+    },
+    "sources": [
+      {
+        "author": "O. Palmer Robertson",
+        "title": "The Books of Nahum, Habakkuk, and Zephaniah (NICOT)",
+        "year": 1990
+      },
+      {
+        "author": "J. J. M. Roberts",
+        "title": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+        "year": 1991
+      },
+      {
+        "author": "Julia M. O'Brien",
+        "title": "Nahum (Readings: A New Biblical Commentary)",
+        "year": 2002
+      },
+      {
+        "author": "Aron Pinker",
+        "title": "Nahum and the Greek Tradition on Nineveh's Fall (Journal of Hebrew Scriptures 6)",
+        "year": 2006
+      }
+    ]
+  },
+  {
+    "id": "habakkuk",
+    "oneLine": "A prophet argues with God about injustice and about God using cruel Babylon, waits for an answer, and ends singing that he will rejoice in God even if every crop fails.",
+    "author": {
+      "name": "Habakkuk the prophet",
+      "who": "A Judean prophet in Jerusalem in the late 600s BC. Unusually, he is called 'the prophet' (ha-navi) in the heading, and the final psalm carries musical directions, which has led some to think he served among the temple singers.",
+      "howWeKnow": "The headings (Hab 1:1; Hab 3:1). A later legend in the Greek additions to Daniel (*Bel and the Dragon*) has an angel carry Habakkuk to Babylon to feed Daniel in the lions' den; this is tradition, not history.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The setting is Judah facing the rise of Babylon, probably under King Jehoiakim.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The faithful in Judah who were troubled by injustice at home and terror abroad",
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "After Josiah's reforms collapsed, Jehoiakim's Judah was full of violence and bent justice. Then the Babylonians (Chaldeans) defeated Egypt and Assyria and swept into the region, raising a harder question: how can a good God use a worse nation to judge his own?",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -609,
+        "event": "King Josiah is killed at Megiddo by Pharaoh Neco; Jehoiakim is placed on the throne."
+      },
+      {
+        "year": -605,
+        "event": "Nebuchadnezzar defeats Egypt at Carchemish and becomes king of Babylon; Judah becomes a Babylonian vassal."
+      },
+      {
+        "year": -601,
+        "event": "A drawn battle between Babylon and Egypt encourages Jehoiakim to rebel."
+      },
+      {
+        "year": -597,
+        "event": "Nebuchadnezzar captures Jerusalem and deports King Jehoiachin and leading citizens."
+      }
+    ],
+    "backdrop": "Habakkuk lived through whiplash. Josiah's reforms of the 620s had raised hopes of renewal, but Josiah died in battle in 609 BC and his son Jehoiakim reversed much of it, building a lavish palace with unpaid labour (Jer 22:13-17). Inside Judah, Habakkuk sees 'violence', 'strife' and a law that is 'paralysed' (Hab 1:2-4).\n\nAbroad, the Neo-Babylonian empire was rising fast. The Babylonians, whom the Bible calls Chaldeans after their tribal origins in southern Mesopotamia, joined the Medes to destroy Nineveh in 612 BC and then crushed Egypt at Carchemish in 605 BC. Habakkuk describes their cavalry as faster than leopards and their army as a fishing net that sweeps up nations (Hab 1:8; Hab 1:14-17). God tells him he is raising them up to judge Judah, which only deepens the prophet's distress.\n\nThe book is shaped as a dialogue: two complaints and two answers, a series of five 'woes' against the oppressor, and a closing psalm. Its central line, 'the righteous shall live by his faith (or faithfulness)' (Hab 2:4), became one of the most quoted OT verses in the New Testament and in later Christian theology.",
+    "culture": [
+      {
+        "term": "Lament and complaint",
+        "explain": "Israel's faith allowed honest protest to God: 'How long, O LORD?' Habakkuk argues in the tradition of the lament psalms, not as an unbeliever but as a covenant partner.",
+        "refs": [
+          "Hab 1:2-4",
+          "Hab 1:12-13",
+          "Ps 13:1-2"
+        ]
+      },
+      {
+        "term": "Watchtower",
+        "explain": "A sentry on the walls watched for messengers. Habakkuk stations himself to wait for God's reply, a picture of patient, alert faith.",
+        "refs": [
+          "Hab 2:1"
+        ]
+      },
+      {
+        "term": "Written vision",
+        "explain": "God tells him to write the vision on tablets so that 'he may run who reads it', probably so a herald can carry the message, and because its fulfilment will come at the appointed time.",
+        "refs": [
+          "Hab 2:2-3"
+        ]
+      },
+      {
+        "term": "Woe oracles",
+        "explain": "'Woe' (hoy) was a funeral cry. Five woes against the oppressor condemn plunder, unjust gain, bloodshed, humiliating others and idolatry.",
+        "refs": [
+          "Hab 2:6-19"
+        ]
+      },
+      {
+        "term": "Shigionoth and Selah",
+        "explain": "Musical terms in Habakkuk 3, as in the Psalms. They show the prayer was sung in worship; their exact meaning is uncertain.",
+        "refs": [
+          "Hab 3:1",
+          "Hab 3:3",
+          "Hab 3:19"
+        ]
+      },
+      {
+        "term": "Theophany",
+        "explain": "A dramatic appearance of God, here coming from Teman and Mount Paran in the south as at Sinai, shaking the earth and splitting rivers, recalling the exodus and conquest.",
+        "refs": [
+          "Hab 3:3-15",
+          "Deut 33:2"
+        ]
+      }
+    ],
+    "jewishLens": "Habakkuk 2:20 through 3:19 is the haftarah for the second day of Shavuot, the festival of the giving of the Torah. Its vision of God coming from Teman and Paran with brilliance and shaking the mountains is read as a poetic memory of the revelation at Sinai. The Talmud (*Makkot* 24a) says that Habakkuk reduced all the commandments to one principle: 'the righteous shall live by his faith (emunah)' (Hab 2:4). In Hebrew emunah means steady trustworthiness and faithful trust together: the person who stays loyal to God when everything seems to contradict his promises.\n\nThe Dead Sea Scrolls include a running commentary on Habakkuk 1-2, the *Pesher Habakkuk* (1QpHab), one of the first scrolls found. It reads the Chaldeans as the 'Kittim' (probably the Romans) and applies Hab 2:4 to those in Judah who keep the Torah and stay faithful to the community's 'Teacher of Righteousness', showing that already before Paul the verse was a focus for questions about who will be saved in the end time. For Jewish readers today, Habakkuk models a faith that argues with God from inside the covenant and then chooses to trust him: 'though the fig tree does not blossom... yet I will rejoice in the LORD' (Hab 3:17-18).",
+    "flow": [
+      {
+        "label": "How long? Injustice at home",
+        "detail": "Habakkuk complains that violence fills Judah and God seems not to act.",
+        "refs": [
+          "Hab 1:2-4"
+        ]
+      },
+      {
+        "label": "God raises Babylon",
+        "detail": "God answers that he is raising up the Chaldeans, swift and ruthless, to judge Judah.",
+        "refs": [
+          "Hab 1:5-11"
+        ]
+      },
+      {
+        "label": "But they are worse!",
+        "detail": "How can a holy God use the wicked to swallow those more righteous? Habakkuk climbs his watchtower to wait.",
+        "refs": [
+          "Hab 1:12-17",
+          "Hab 2:1"
+        ]
+      },
+      {
+        "label": "Write the vision; live by faith",
+        "detail": "The answer will surely come; the proud will fall, but the righteous will live by faithfulness.",
+        "refs": [
+          "Hab 2:2-5"
+        ]
+      },
+      {
+        "label": "Five woes on the oppressor",
+        "detail": "The plunderer will be plundered; the earth will be filled with the knowledge of God's glory; let all the earth be silent.",
+        "refs": [
+          "Hab 2:6-20"
+        ]
+      },
+      {
+        "label": "Prayer: God comes in power",
+        "detail": "Habakkuk recalls God marching out to save his people as in the exodus.",
+        "refs": [
+          "Hab 3:1-15"
+        ]
+      },
+      {
+        "label": "Yet I will rejoice",
+        "detail": "Though harvests fail and flocks vanish, he will rejoice in the God of his salvation.",
+        "refs": [
+          "Hab 3:16-19"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Habakkuk: faith in the dark",
+      "branches": [
+        {
+          "label": "Questions",
+          "items": [
+            "How long?",
+            "Why tolerate wrong?",
+            "Why use Babylon?"
+          ]
+        },
+        {
+          "label": "God's answers",
+          "items": [
+            "Raising the Chaldeans",
+            "Vision has its time",
+            "Proud will fall"
+          ]
+        },
+        {
+          "label": "Key verse",
+          "items": [
+            "Righteous live by faith",
+            "Emunah: faithful trust",
+            "Quoted three times in NT"
+          ]
+        },
+        {
+          "label": "Five woes",
+          "items": [
+            "Plunder",
+            "Unjust gain",
+            "Cities built on blood",
+            "Idols that cannot speak"
+          ]
+        },
+        {
+          "label": "Final song",
+          "items": [
+            "God's march from Teman",
+            "Fig tree fails",
+            "Yet I will rejoice"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Faith / faithfulness",
+        "original": "emunah",
+        "meaning": "Firmness, reliability, steady trust; the righteous person holds on to God and stays loyal through the crisis.",
+        "refs": [
+          "Hab 2:4"
+        ]
+      },
+      {
+        "word": "Violence",
+        "original": "chamas",
+        "meaning": "Brutal wrongdoing; Habakkuk's first complaint and the charge against Babylon.",
+        "refs": [
+          "Hab 1:2-3",
+          "Hab 1:9",
+          "Hab 2:17"
+        ]
+      },
+      {
+        "word": "Vision",
+        "original": "chazon",
+        "meaning": "A revelation from God, to be written down and awaited.",
+        "refs": [
+          "Hab 2:2-3"
+        ]
+      },
+      {
+        "word": "Rejoice",
+        "original": "alaz / gil",
+        "meaning": "To exult and dance for joy; the book's last word on God despite loss.",
+        "refs": [
+          "Hab 3:18"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "romans",
+        "how": "Paul quotes Hab 2:4 as the theme text for the gospel: the righteous will live by faith.",
+        "refs": [
+          "Rom 1:16-17"
+        ]
+      },
+      {
+        "bookId": "galatians",
+        "how": "Paul uses Hab 2:4 to argue that justification comes by faith, not by the works of the law.",
+        "refs": [
+          "Gal 3:11"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews quotes Hab 2:3-4 (Greek) to urge persecuted believers to endure and not shrink back.",
+        "refs": [
+          "Heb 10:36-39"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Paul warns the synagogue in Pisidian Antioch with Hab 1:5: 'Look, you scoffers... I am doing a work you would not believe.'",
+        "refs": [
+          "Acts 13:40-41",
+          "Hab 1:5"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Habakkuk's complaint and closing song follow the shape of the lament psalms, moving from protest to trust.",
+        "refs": [
+          "Ps 13",
+          "Ps 73:16-17"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "The earth 'filled with the knowledge of the glory of the LORD' echoes Isaiah's vision of the messianic age.",
+        "refs": [
+          "Hab 2:14",
+          "Isa 11:9"
+        ]
+      }
+    ],
+    "jesusLens": "Habakkuk 2:4 is quoted three times in the New Testament (Rom 1:17; Gal 3:11; Heb 10:38), each time to show how God's people live in the time between promise and fulfilment: by trusting God's faithfulness revealed in Jesus. Some scholars (e.g. Richard Hays, Douglas Campbell) argue that Paul hears 'the righteous one' as Jesus himself, the faithful one whose faithfulness brings life; others (e.g. Douglas Moo) hold it means the believer who trusts. Hebrews, following the Greek text, applies 'the coming one will come and will not delay' to Christ's return (Heb 10:37). Jewish readers do not read a messianic figure in the verse; they hear a call to steadfast covenant loyalty under pressure. Both readings meet in Habakkuk's closing confession that joy in God does not depend on circumstances.",
+    "misreadings": [
+      {
+        "topic": "'The righteous shall live by faith': faith alone, or faithfulness?",
+        "popular": "Since Luther, Habakkuk 2:4 is often read through Romans as the classic proof of justification by faith alone: individuals are declared right with God by believing, not by doing anything.",
+        "inContext": "In Habakkuk, emunah means faithfulness and steady trust, the loyalty of a covenant member who keeps holding on to God during invasion and injustice while the proud collapse. Scholars like Francis Andersen, J. J. M. Roberts and, on the Pauline side, N. T. Wright and Matthew Bates (with his stress on pistis as 'allegiance') argue that Paul's use keeps this sense of loyal trust, not a bare mental assent.",
+        "defence": "Reformed and evangelical scholars such as Douglas Moo, Thomas Schreiner and O. Palmer Robertson reply that trusting God is not a work and that Paul rightly draws out the verse's contrast between the proud, self-reliant person and the one who depends on God. They agree emunah includes perseverance but argue that it is God's faithfulness, received by trust, that gives life. Many on both sides now agree that 'faith' and 'faithfulness' are not opposites: trust that endures is the point.",
+        "whyItMatters": "Hearing Habakkuk's own context keeps 'faith' from shrinking to a one-time decision and shows it as the enduring trust that carries God's people through crisis.",
+        "refs": [
+          "Hab 2:4",
+          "Rom 1:17",
+          "Gal 3:11",
+          "Heb 10:38-39"
+        ],
+        "scholars": [
+          "Francis I. Andersen",
+          "N. T. Wright",
+          "Matthew W. Bates",
+          "Douglas J. Moo",
+          "Thomas R. Schreiner",
+          "O. Palmer Robertson"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'Write the vision and make it plain' (Hab 2:2) as goal-setting",
+        "popular": "Hab 2:2 is widely used for personal vision statements, vision boards, church strategic plans or business goals: write down your dream and God will bring it to pass.",
+        "inContext": "The 'vision' is God's revelation to Habakkuk about judgment on Babylon and the survival of the faithful. It is written down so a herald can carry it and so that people can wait for God's appointed time (Hab 2:3). It is God's plan, not the reader's.",
+        "defence": "Some pastors argue that the principle of clearly communicating a God-given direction is legitimate by analogy. Evangelical commentators (e.g. Robertson, Bruckner) generally agree the analogy is loose and warn against attaching the promise 'it will surely come' to human plans.",
+        "whyItMatters": "Applied to our own dreams, the verse can become a promise God never made; read in context it teaches patient trust in God's timing for his justice.",
+        "refs": [
+          "Hab 2:2-3"
+        ],
+        "scholars": [
+          "O. Palmer Robertson",
+          "James Bruckner"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For faithful Judeans facing invasion, Habakkuk gave permission to question God honestly and showed a way through: wait, trust God's justice, stay faithful, and find joy in God when everything else is stripped away.",
+      "now": "Habakkuk is a guide for anyone who has asked why God allows injustice or why things get worse after prayer. It models honest complaint, patient waiting and a joy in God that does not depend on harvests, health or success."
+    },
+    "sources": [
+      {
+        "author": "Francis I. Andersen",
+        "title": "Habakkuk (Anchor Bible 25)",
+        "year": 2001
+      },
+      {
+        "author": "O. Palmer Robertson",
+        "title": "The Books of Nahum, Habakkuk, and Zephaniah (NICOT)",
+        "year": 1990
+      },
+      {
+        "author": "J. J. M. Roberts",
+        "title": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+        "year": 1991
+      },
+      {
+        "author": "Richard B. Hays",
+        "title": "The Faith of Jesus Christ",
+        "year": 1983
+      }
+    ]
+  },
+  {
+    "id": "zephaniah",
+    "oneLine": "Zephaniah warns complacent Jerusalem of a terrifying Day of the LORD that will sweep the whole earth, then pictures a humble remnant over whom God sings for joy.",
+    "author": {
+      "name": "Zephaniah son of Cushi",
+      "who": "A Jerusalem prophet with a four-generation pedigree ending in 'Hezekiah' (Zeph 1:1), probably King Hezekiah, which would make him a distant cousin of King Josiah. His father's name, Cushi, has prompted the suggestion of African (Cushite) ancestry; this is possible but uncertain.",
+      "howWeKnow": "The heading dates him to Josiah's reign. His intimate knowledge of Jerusalem's districts (the Fish Gate, the Second Quarter, the Mortar) suggests he lived in the city.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "He names city quarters and markets (Zeph 1:10-11).",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Jerusalem's officials, royal household, priests and merchants",
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "After the long reign of Manasseh, Jerusalem mixed the worship of the LORD with Baal, the 'host of heaven' and Milcom, adopted foreign fashions, and assumed God would do 'neither good nor ill'. Josiah's reform had not yet begun or was just beginning.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -640,
+        "event": "Josiah becomes king of Judah at age eight after his father Amon is assassinated."
+      },
+      {
+        "year": -627,
+        "event": "Ashurbanipal dies (approximate); Assyria's grip on the west loosens."
+      },
+      {
+        "year": -622,
+        "event": "The book of the law is found in the temple; Josiah's reform removes idolatrous shrines (2 Kgs 22-23)."
+      },
+      {
+        "year": -612,
+        "event": "Nineveh falls, as Zephaniah foretold (Zeph 2:13-15)."
+      },
+      {
+        "year": -586,
+        "event": "Jerusalem itself falls to Babylon, fulfilling the warnings of the Day of the LORD."
+      }
+    ],
+    "backdrop": "Manasseh's 55-year reign (c. 697-642 BC) had made Judah a loyal Assyrian vassal and brought in the worship of the stars, Baal and Molech; Kings says he filled Jerusalem with innocent blood (2 Kgs 21:16). His son Amon was murdered after two years, and the eight-year-old Josiah became king. Zephaniah's list of sins (Baal's remnant, idol priests, rooftop worship of the stars, swearing by Milcom, wearing foreign clothes) matches what Josiah removed in 622 BC, so most scholars date the prophet just before that reform, perhaps helping to inspire it.\n\nThe great powers were shifting. Assyria was near the end; Babylon was rising; Egypt was reasserting itself. Earlier scholars linked Zephaniah's 'day of wrath' to a Scythian invasion described by the Greek historian Herodotus, but that idea is now widely doubted. Zephaniah's language is deliberately cosmic: he reverses creation, sweeping away humans, animals, birds and fish (Zeph 1:2-3), as if undoing Genesis 1.\n\nYet his warnings were aimed above all at complacency: those 'settled on their dregs' like wine left too long, who say in their hearts 'the LORD will not do good, nor will he do ill' (Zeph 1:12). The book then turns, with surprising tenderness, to a humble and lowly remnant and a God who rejoices over his people with singing.",
+    "culture": [
+      {
+        "term": "Day of the LORD",
+        "explain": "Zephaniah gives the Bible's fullest description: a day of wrath, distress, ruin, darkness and trumpet blast, near and hastening fast. It falls first on Judah and then on the nations.",
+        "refs": [
+          "Zeph 1:7",
+          "Zeph 1:14-18",
+          "Zeph 2:2-3"
+        ]
+      },
+      {
+        "term": "Creation reversed",
+        "explain": "The order of creatures swept away (humans, beasts, birds, fish) runs Genesis 1 backwards, signalling judgment as un-creation.",
+        "refs": [
+          "Zeph 1:2-3",
+          "Gen 1:20-26"
+        ]
+      },
+      {
+        "term": "Settled on the lees",
+        "explain": "Wine left on its sediment too long thickens and spoils. It pictures comfortable people who never get shaken and assume God is inactive.",
+        "refs": [
+          "Zeph 1:12",
+          "Jer 48:11"
+        ]
+      },
+      {
+        "term": "The anawim (humble poor)",
+        "explain": "The 'humble of the land' who seek righteousness become a key group: a lowly people who trust in God's name, not in wealth or pride.",
+        "refs": [
+          "Zeph 2:3",
+          "Zeph 3:12"
+        ]
+      },
+      {
+        "term": "Pure speech",
+        "explain": "God promises to give the peoples 'pure lips' so all may call on his name, a reversal of Babel's confusion of tongues.",
+        "refs": [
+          "Zeph 3:9",
+          "Gen 11:7-9"
+        ]
+      },
+      {
+        "term": "Divine joy",
+        "explain": "God himself sings and dances over Zion like a bridegroom or a warrior returned in victory.",
+        "refs": [
+          "Zeph 3:14-17"
+        ]
+      }
+    ],
+    "jewishLens": "Zephaniah is not among the regular haftarot, but its themes are woven into the Jewish High Holy Days, when the Day of Judgment is a central theme. Its promise that God will give the peoples 'a pure language, that they may all call on the name of the LORD and serve him with one consent' (Zeph 3:9) became a key text for Jewish universalism: Maimonides cites it in his *Mishneh Torah* (Laws of Kings 11) to describe the messianic era, when the nations will turn to serve God together. Jewish commentators such as Rashi read the 'humble remnant' (Zeph 3:12-13) as faithful Israel purified through exile.\n\nThe joyful ending, 'The LORD your God is in your midst, a mighty one who will save; he will rejoice over you with gladness' (Zeph 3:17), is understood relationally: God's presence returns to Zion, like a husband delighting in a restored marriage. The book's last verse promises that God will gather the scattered and make them 'a name and a praise among all the peoples of the earth' when he restores their fortunes, linking judgment, exile and return in one covenant story.",
+    "flow": [
+      {
+        "label": "Sweeping judgment announced",
+        "detail": "God will sweep everything from the earth, starting with Judah's idolatry and syncretism.",
+        "refs": [
+          "Zeph 1:1-6"
+        ]
+      },
+      {
+        "label": "Sacrifice day in Jerusalem",
+        "detail": "God has prepared a 'sacrifice' and will search Jerusalem with lamps; the complacent will lose their goods.",
+        "refs": [
+          "Zeph 1:7-13"
+        ]
+      },
+      {
+        "label": "Day of wrath",
+        "detail": "The great day of the LORD is near: darkness, distress and no rescue by silver or gold.",
+        "refs": [
+          "Zeph 1:14-18"
+        ]
+      },
+      {
+        "label": "Seek humility",
+        "detail": "Gather yourselves; seek righteousness and humility, perhaps you will be hidden on that day.",
+        "refs": [
+          "Zeph 2:1-3"
+        ]
+      },
+      {
+        "label": "Nations on every side",
+        "detail": "Philistia, Moab, Ammon, Cush and Assyria are judged; Nineveh becomes a desert.",
+        "refs": [
+          "Zeph 2:4-15"
+        ]
+      },
+      {
+        "label": "Jerusalem's leaders indicted",
+        "detail": "Officials like lions, judges like wolves, prophets reckless, priests profane: the city refuses correction.",
+        "refs": [
+          "Zeph 3:1-8"
+        ]
+      },
+      {
+        "label": "God sings over his people",
+        "detail": "Pure lips for the nations, a humble remnant, and God rejoicing as he gathers the exiles.",
+        "refs": [
+          "Zeph 3:9-20"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Zephaniah: the Day and the song",
+      "branches": [
+        {
+          "label": "Day of the LORD",
+          "items": [
+            "Near and hastening",
+            "Day of wrath",
+            "Creation undone"
+          ]
+        },
+        {
+          "label": "Sins",
+          "items": [
+            "Baal and star worship",
+            "Swearing by Milcom",
+            "Complacency",
+            "Corrupt leaders"
+          ]
+        },
+        {
+          "label": "Nations",
+          "items": [
+            "Philistia",
+            "Moab and Ammon",
+            "Cush",
+            "Nineveh"
+          ]
+        },
+        {
+          "label": "Remnant",
+          "items": [
+            "Humble and lowly",
+            "Seek righteousness",
+            "Trust God's name"
+          ]
+        },
+        {
+          "label": "Joy",
+          "items": [
+            "Pure lips for peoples",
+            "God in your midst",
+            "Sings over you"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Day",
+        "original": "yom",
+        "meaning": "The Day of the LORD, named or alluded to about twenty times in three chapters.",
+        "refs": [
+          "Zeph 1:14-16"
+        ]
+      },
+      {
+        "word": "Humility",
+        "original": "anavah",
+        "meaning": "Lowliness before God; the quality of the remnant who seek him.",
+        "refs": [
+          "Zeph 2:3",
+          "Zeph 3:12"
+        ]
+      },
+      {
+        "word": "Seek",
+        "original": "baqash",
+        "meaning": "To look for diligently; the only hope offered before the Day comes.",
+        "refs": [
+          "Zeph 1:6",
+          "Zeph 2:3"
+        ]
+      },
+      {
+        "word": "Rejoice",
+        "original": "sus / ranan",
+        "meaning": "To exult and to shout for joy; used of Zion and of God himself.",
+        "refs": [
+          "Zeph 3:14",
+          "Zeph 3:17"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-kings",
+        "how": "Kings narrates Josiah's reform, which removed the exact practices Zephaniah condemns.",
+        "refs": [
+          "2 Kgs 23:4-14",
+          "Zeph 1:4-5"
+        ]
+      },
+      {
+        "bookId": "amos",
+        "how": "Amos first said the Day of the LORD would be darkness for Israel; Zephaniah expands it into a cosmic day.",
+        "refs": [
+          "Amos 5:18-20",
+          "Zeph 1:15"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "Zephaniah reverses creation and Babel: un-creation in judgment, one pure speech in restoration.",
+        "refs": [
+          "Gen 11:1-9",
+          "Zeph 1:2-3",
+          "Zeph 3:9"
+        ]
+      },
+      {
+        "bookId": "joel",
+        "how": "Joel and Zephaniah share the language of a 'day of darkness and gloom' and the call to gather before it comes.",
+        "refs": [
+          "Joel 2:1-2",
+          "Zeph 1:15"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Mary's song echoes the theme of God lifting up the humble and bringing down the proud.",
+        "refs": [
+          "Luke 1:51-53",
+          "Zeph 3:11-12"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation's great day of wrath and the redeemed with no lie in their mouths echo Zephaniah.",
+        "refs": [
+          "Rev 6:17",
+          "Rev 14:5",
+          "Zeph 3:13"
+        ]
+      }
+    ],
+    "jesusLens": "Zephaniah's 'King of Israel, the LORD, in your midst' (Zeph 3:15) and 'daughter of Zion, rejoice' are echoed when the crowds greet Jesus entering Jerusalem as king (John 12:13-15, which quotes the parallel in Zech 9:9). Christians see the gift of 'pure lips' to the nations so that all call on God's name (Zeph 3:9) as anticipated at Pentecost, when Babel's division is reversed (Acts 2:5-11). The humble remnant resembles the 'poor in spirit' and 'meek' of the Beatitudes (Matt 5:3-5). The medieval Latin hymn *Dies irae*, sung in the Requiem Mass, drew its opening words from the Vulgate of Zeph 1:15 and applied them to Christ's final judgment. Jewish readers see the same passages as the future restoration of Israel and the turning of the nations to God in the messianic age.",
+    "misreadings": [
+      {
+        "topic": "The Day of the LORD as only a far-off end-times event",
+        "popular": "Zephaniah's 'great day of the LORD' is often read purely as a description of the final judgment or a future tribulation period, with little connection to the prophet's own time.",
+        "inContext": "Zephaniah addressed Jerusalem in the 630s-620s BC, and the 'Day' fell on Nineveh in 612 and on Jerusalem in 586 BC. Adele Berlin and J. J. M. Roberts show how the prophet uses universal, creation-wide language to describe a coming historical catastrophe and the moral order behind it. In prophetic perspective a near judgment and a final one can be seen together.",
+        "defence": "Evangelical scholars such as O. Palmer Robertson and Daniel Block accept the historical fulfilment and argue for a further, final horizon, since the scope (all the earth, all nations turned to God) was not exhausted in 586 BC. Both sides agree that ignoring the near fulfilment flattens the prophet's call to his own generation.",
+        "whyItMatters": "Seeing both horizons keeps Zephaniah's warning from becoming a distant prediction and lets its call to humility speak to each generation.",
+        "refs": [
+          "Zeph 1:7",
+          "Zeph 1:14-18",
+          "Zeph 2:13",
+          "Zeph 3:8-9"
+        ],
+        "scholars": [
+          "Adele Berlin",
+          "J. J. M. Roberts",
+          "O. Palmer Robertson",
+          "Daniel I. Block"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Zephaniah 3:17 as private comfort only",
+        "popular": "'He will rejoice over you with singing' is a favourite individual devotional verse, read as God's personal delight in each believer.",
+        "inContext": "The 'you' is the daughter of Zion: a restored, humbled people after judgment, whose shame is removed and exiles gathered (Zeph 3:14-20). God's joy is over a purified community living together in truth.",
+        "defence": "Many evangelical writers note that what is true of God's people is true of each member, so personal application is valid. They agree it is strengthened, not weakened, by remembering its corporate, covenant setting.",
+        "whyItMatters": "The fuller reading ties God's delight to a community renewed in humility and honesty, not only to private feelings.",
+        "refs": [
+          "Zeph 3:12-20"
+        ],
+        "scholars": [
+          "Adele Berlin",
+          "O. Palmer Robertson"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For Jerusalem under young Josiah, Zephaniah said that God was neither absent nor indifferent, that religious mixing and complacency would bring disaster, and that the humble who sought him would find shelter. His words likely fed Josiah's reform and later comforted exiles.",
+      "now": "Zephaniah challenges the quiet assumption that God does nothing, good or bad. It calls for humility rather than self-reliance and ends with one of Scripture's most joyful pictures: a God who sings over the people he has restored."
+    },
+    "sources": [
+      {
+        "author": "Adele Berlin",
+        "title": "Zephaniah (Anchor Bible 25A)",
+        "year": 1994
+      },
+      {
+        "author": "O. Palmer Robertson",
+        "title": "The Books of Nahum, Habakkuk, and Zephaniah (NICOT)",
+        "year": 1990
+      },
+      {
+        "author": "J. J. M. Roberts",
+        "title": "Nahum, Habakkuk, and Zephaniah (Old Testament Library)",
+        "year": 1991
+      },
+      {
+        "author": "Moses Maimonides",
+        "title": "Mishneh Torah, Laws of Kings and Their Wars",
+        "locator": "11.4",
+        "confidence": "needs-verification"
+      }
+    ]
+  },
+  {
+    "id": "haggai",
+    "oneLine": "In four short, dated messages Haggai stirs a discouraged returned community to stop waiting and rebuild God's house, promising that God is with them and that its glory will surpass the old.",
+    "author": {
+      "name": "Haggai the prophet",
+      "who": "A prophet in Jerusalem among the returned exiles. His name probably means 'festal' or 'born on a feast day'. Some suggest from Hag 2:3 that he was old enough to remember Solomon's temple, but that is a guess.",
+      "howWeKnow": "The book reports his words in the third person and dates each one to the day. Ezra names him with Zechariah as the prophets who encouraged the rebuilding (Ezra 5:1; Ezra 6:14). Jewish tradition counts him among the Men of the Great Assembly.",
+      "otherWritings": [],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Delivered in Jerusalem; the dated framework was probably arranged by a disciple or editor soon after, perhaps together with Zech 1-8.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Zerubbabel the governor, Joshua the high priest and 'the remnant of the people'",
+      "place": "Jerusalem and Judah (the Persian province of Yehud)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "About eighteen years after the first return, the temple's foundation had been laid but work had stopped. People were building their own houses while drought and poor harvests left them short. They said, 'The time has not yet come.'",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -520,
+      "to": -520,
+      "note": "From the first day of the sixth month to the twenty-fourth day of the ninth month of Darius' second year: late August to mid-December 520 BC."
+    },
+    "worldEvents": [
+      {
+        "year": -539,
+        "event": "Cyrus the Great takes Babylon; the next year he permits exiles to return and rebuild the temple (Ezra 1:1-4)."
+      },
+      {
+        "year": -536,
+        "event": "Returned exiles lay the temple's foundation, but opposition halts the work (Ezra 3:8-4:5)."
+      },
+      {
+        "year": -522,
+        "event": "Darius I seizes the Persian throne amid revolts across the empire, recorded in his Behistun inscription."
+      },
+      {
+        "year": -520,
+        "event": "Haggai and Zechariah urge the rebuilding; work resumes under Zerubbabel and Joshua."
+      },
+      {
+        "year": -515,
+        "event": "The second temple is completed in Adar of Darius' sixth year (Ezra 6:15)."
+      }
+    ],
+    "backdrop": "The return from Babylon had not been glorious. Only a minority of exiles came back. Jerusalem was a small, poor town in a tiny Persian province called Yehud, surrounded by hostile neighbours. The first group under Sheshbazzar and Zerubbabel had laid the temple's foundation with tears and shouting (Ezra 3:10-13), but local opposition and their own struggles stopped the work for about sixteen years.\n\nIn 522-521 BC the Persian empire was shaken by revolts as Darius I fought to secure his throne. By 520 he had won. Haggai's first message comes in the late summer of that year, at the time of the fig and grape harvest, which was poor. He connects the drought to their neglect: you sow much and harvest little, and your wages go into a bag with holes (Hag 1:6). Within twenty-four days the leaders and people resumed work.\n\nWhen the foundation was laid again, older people who remembered Solomon's temple were disappointed by its modest size (Hag 2:3; Ezra 3:12). Haggai promises that God will shake the nations so that their treasures come in, and that the latter glory of the house will be greater than the former. He ends by naming Zerubbabel, David's descendant, as God's chosen 'signet ring', reversing the curse on his grandfather Jehoiachin (Jer 22:24).",
+    "culture": [
+      {
+        "term": "Temple as God's dwelling",
+        "explain": "The temple was not just a building but the place where God chose to live among his people, the centre of covenant life. Neglecting it meant treating God's presence as unimportant.",
+        "refs": [
+          "Hag 1:4",
+          "Hag 1:8",
+          "1 Kgs 8:10-13"
+        ]
+      },
+      {
+        "term": "Paneled houses",
+        "explain": "Panelling (cedar-lined or roofed houses) was a sign of luxury. The people had time and resources for their own comfort but not for God's house.",
+        "refs": [
+          "Hag 1:4",
+          "Jer 22:14"
+        ]
+      },
+      {
+        "term": "Covenant curses in the harvest",
+        "explain": "Drought, blight and mildew were the covenant curses listed in Deuteronomy. Haggai reads the poor harvests as a covenant warning, not random bad luck.",
+        "refs": [
+          "Hag 1:9-11",
+          "Hag 2:17",
+          "Deut 28:22-24"
+        ]
+      },
+      {
+        "term": "Holiness and defilement",
+        "explain": "Haggai asks the priests a ruling: holiness does not spread by touch, but impurity does. A people with unclean lives make their offerings unclean too.",
+        "refs": [
+          "Hag 2:10-14",
+          "Lev 6:27"
+        ]
+      },
+      {
+        "term": "Signet ring",
+        "explain": "A king's seal ring carried his authority. Calling Zerubbabel God's signet reverses Jeremiah's word that Jehoiachin would be pulled off like a ring, reviving hope for David's line.",
+        "refs": [
+          "Hag 2:23",
+          "Jer 22:24-30"
+        ]
+      }
+    ],
+    "jewishLens": "In Jewish tradition Haggai, Zechariah and Malachi were the last prophets. The Talmud (*Yoma* 9b; *Sanhedrin* 11a) says that after their deaths 'the holy spirit departed from Israel', meaning that prophecy in the classical sense ceased. They are also counted among the Men of the Great Assembly, the body that tradition credits with shaping Jewish prayer and finalising parts of Scripture (*Bava Batra* 15a).\n\nHaggai's promise that 'the latter glory of this house shall be greater than the former' (Hag 2:9) was discussed by the rabbis. The Talmud (*Yoma* 21b) notes that the second temple lacked five things the first had, including the ark and the divine Presence (Shekhinah), reading a missing letter in Hag 1:8 as a hint. Others (*Bava Batra* 3a) explained the greater glory by the second temple's greater size or its longer duration (it stood about 420 years against the first temple's 410). For a covenant people, the message is relational: 'I am with you, declares the LORD' (Hag 1:13), and 'My Spirit remains in your midst; fear not' (Hag 2:5). God's presence, promised at the exodus, has not been withdrawn from the small returned community.",
+    "flow": [
+      {
+        "label": "Consider your ways",
+        "detail": "The people say it is not time to build; Haggai points to their poor harvests and paneled homes and calls them to rebuild.",
+        "refs": [
+          "Hag 1:1-11"
+        ]
+      },
+      {
+        "label": "The people obey",
+        "detail": "Leaders and remnant fear the LORD, who promises 'I am with you' and stirs their spirits; work begins in 24 days.",
+        "refs": [
+          "Hag 1:12-15"
+        ]
+      },
+      {
+        "label": "Take courage",
+        "detail": "To those disappointed by the small building, God promises his Spirit, the treasures of the nations and a greater glory.",
+        "refs": [
+          "Hag 2:1-9"
+        ]
+      },
+      {
+        "label": "Unclean offerings",
+        "detail": "A ruling on holiness shows their past worship was defiled, but from this day God will bless.",
+        "refs": [
+          "Hag 2:10-19"
+        ]
+      },
+      {
+        "label": "Zerubbabel the signet",
+        "detail": "God will shake kingdoms and make David's heir his chosen signet ring.",
+        "refs": [
+          "Hag 2:20-23"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Haggai: build my house",
+      "branches": [
+        {
+          "label": "Problem",
+          "items": [
+            "'Not yet the time'",
+            "Paneled houses",
+            "Temple in ruins"
+          ]
+        },
+        {
+          "label": "Signs",
+          "items": [
+            "Drought and blight",
+            "Wages in holed bags",
+            "Little harvest"
+          ]
+        },
+        {
+          "label": "Promises",
+          "items": [
+            "I am with you",
+            "My Spirit remains",
+            "Greater glory"
+          ]
+        },
+        {
+          "label": "Leaders",
+          "items": [
+            "Zerubbabel the governor",
+            "Joshua the high priest",
+            "Signet ring hope"
+          ]
+        },
+        {
+          "label": "Dates",
+          "items": [
+            "Darius year two",
+            "Four messages",
+            "Aug to Dec 520 BC"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Consider (set your heart)",
+        "original": "simu levavkhem",
+        "meaning": "Literally 'set your heart on your ways': stop and reflect honestly. Repeated five times.",
+        "refs": [
+          "Hag 1:5",
+          "Hag 1:7",
+          "Hag 2:15",
+          "Hag 2:18"
+        ]
+      },
+      {
+        "word": "Glory",
+        "original": "kavod",
+        "meaning": "Weight, honour, the visible splendour of God's presence; God will be glorified in the house and fill it with glory.",
+        "refs": [
+          "Hag 1:8",
+          "Hag 2:3",
+          "Hag 2:7-9"
+        ]
+      },
+      {
+        "word": "Shake",
+        "original": "ra'ash",
+        "meaning": "To quake; God will shake heaven, earth and nations, overturning thrones.",
+        "refs": [
+          "Hag 2:6-7",
+          "Hag 2:21-22"
+        ]
+      },
+      {
+        "word": "Remnant",
+        "original": "she'erit",
+        "meaning": "The small returned community, the survivors through whom God continues his covenant.",
+        "refs": [
+          "Hag 1:12",
+          "Hag 1:14",
+          "Hag 2:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "ezra",
+        "how": "Ezra narrates the halt in building and how Haggai and Zechariah's prophesying restarted it.",
+        "refs": [
+          "Ezra 4:24-5:2",
+          "Ezra 6:14-15"
+        ]
+      },
+      {
+        "bookId": "zechariah",
+        "how": "Zechariah began preaching two months after Haggai, and the two books share dates, leaders and the temple theme.",
+        "refs": [
+          "Zech 1:1",
+          "Zech 4:6-10"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Haggai's signet promise to Zerubbabel reverses Jeremiah's curse on Jehoiachin.",
+        "refs": [
+          "Jer 22:24",
+          "Hag 2:23"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews quotes the promise to shake heaven and earth once more, applying it to the unshakeable kingdom believers receive.",
+        "refs": [
+          "Heb 12:26-28",
+          "Hag 2:6"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Zerubbabel appears in Jesus' genealogy, linking the restored line of David to the Messiah.",
+        "refs": [
+          "Matt 1:12-13"
+        ]
+      }
+    ],
+    "jesusLens": "Christians have often read the 'greater glory' of the latter house (Hag 2:9) as fulfilled when Jesus taught in the second temple, and more deeply when he spoke of his own body as the temple (John 2:19-21). Hebrews takes up the promise that God will 'shake the heavens and the earth' as a description of the final judgment, leaving only 'a kingdom that cannot be shaken' (Heb 12:26-28). Zerubbabel, God's chosen signet from David's line, appears in the genealogies of Jesus (Matt 1:12; Luke 3:27), so Christians see the hope placed in him as reaching its goal in Christ. The KJV's 'the desire of all nations shall come' (Hag 2:7) became a messianic title in Christian hymnody, though most modern translations read 'the treasures of all nations'. Jewish readers see the passage as fulfilled in the second temple and pointing to the messianic age, without identifying a single figure.",
+    "misreadings": [
+      {
+        "topic": "Haggai 1 as a church building campaign text",
+        "popular": "Haggai is frequently used to promote church building projects and fundraising: God's people should prioritise the church building before their own homes, or God will withhold blessing.",
+        "inContext": "Haggai's temple was the unique place of God's dwelling under the Sinai covenant, the centre of the nation's relationship with God, not one congregation's meeting place. The rebuke was to a whole covenant community neglecting God's presence. Carol and Eric Meyers and Mark Boda highlight its covenantal and post-exilic context, including the hope that God's presence would return.",
+        "defence": "Evangelical scholars such as Boda and Joyce Baldwin note that the New Testament transfers the temple idea to Christ and his people (1 Cor 3:16; Eph 2:19-22), so the lasting application is about prioritising God's presence and kingdom, not real estate. Some pastors argue a building can serve that mission, which is fair, but most scholars agree the direct equation of a church building with Haggai's temple is a stretch.",
+        "whyItMatters": "Applied directly to buildings, Haggai can pressure people financially; read in context it asks whether God's presence and purposes come first in a community's life.",
+        "refs": [
+          "Hag 1:2-11",
+          "1 Cor 3:16",
+          "Eph 2:19-22"
+        ],
+        "scholars": [
+          "Carol L. Meyers",
+          "Eric M. Meyers",
+          "Mark J. Boda",
+          "Joyce G. Baldwin"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'The desire of all nations' (Hag 2:7) as a name for the Messiah",
+        "popular": "Following the KJV, many hymns and sermons call Jesus 'the Desire of all nations', reading Hag 2:7 as a prophecy of his coming to the temple.",
+        "inContext": "The Hebrew noun (chemdat) is singular but the verb 'shall come' is plural, and the next verse says 'the silver is mine and the gold is mine' (Hag 2:8). Most modern scholars and translations (ESV, NIV, NRSV, JPS) render it 'the treasures of all nations', meaning the nations' wealth flowing into God's house, as in Isa 60:5-11.",
+        "defence": "Some traditional interpreters (following the Vulgate and many Church Fathers) defend the messianic reading as a fuller meaning, and note that Christ's presence made the second temple glorious. Many evangelicals accept the 'treasures' translation while seeing a broader fulfilment in the nations coming to worship through Christ.",
+        "whyItMatters": "Knowing the translation issue helps readers distinguish what Haggai said from later devotional use, without losing the hope of the nations coming to God.",
+        "refs": [
+          "Hag 2:6-9",
+          "Isa 60:5-11"
+        ],
+        "scholars": [
+          "Carol L. Meyers",
+          "Eric M. Meyers",
+          "Joyce G. Baldwin",
+          "Mark J. Boda"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A small, poor and discouraged community heard that God was still with them, that their circumstances were tied to their priorities, and that their modest temple was part of a much bigger plan for the nations.",
+      "now": "Haggai asks people to 'consider their ways': where time and resources go, and whether God's presence and purposes are put off until 'the right time'. It also encourages anyone disappointed by small beginnings that God's glory is not measured by size."
+    },
+    "sources": [
+      {
+        "author": "Carol L. Meyers and Eric M. Meyers",
+        "title": "Haggai, Zechariah 1-8 (Anchor Bible 25B)",
+        "year": 1987
+      },
+      {
+        "author": "Mark J. Boda",
+        "title": "Haggai, Zechariah (NIV Application Commentary)",
+        "year": 2004
+      },
+      {
+        "author": "Joyce G. Baldwin",
+        "title": "Haggai, Zechariah, Malachi (Tyndale Old Testament Commentaries)",
+        "year": 1972
+      }
+    ]
+  },
+  {
+    "id": "zechariah",
+    "oneLine": "Through night visions and later oracles Zechariah calls the returned exiles to return to God, encourages the temple's rebuilding, and paints a humble king, a pierced one and a day when the LORD is king over all the earth.",
+    "author": {
+      "name": "Zechariah son of Berechiah, son of Iddo",
+      "who": "A prophet and probably a priest: Iddo heads a priestly family among the returned exiles (Neh 12:4; Neh 12:16). His name means 'the LORD remembers'. He began preaching two months after Haggai and continued at least two years.",
+      "howWeKnow": "The dated headings of Zech 1-8 and Ezra's notice (Ezra 5:1; Ezra 6:14). Zech 9-14 has no dates and a different style, so many scholars think it comes from later prophets in his tradition; others defend Zechariah as the author of the whole, perhaps in his later life.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Zech 1-8 was clearly delivered in Jerusalem during the rebuilding; the setting of Zech 9-14 is less certain.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The returned exiles in Jerusalem, their governor Zerubbabel and high priest Joshua",
+      "place": "Jerusalem (Persian province of Yehud)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "The community had restarted the temple but faced small resources, internal guilt, questions about the priesthood and the Davidic line, and uncertainty about whether God had really returned. Later oracles address conflicts, bad leaders ('shepherds') and the final Day.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -520,
+        "event": "Zechariah begins preaching in the eighth month of Darius' second year (Zech 1:1)."
+      },
+      {
+        "year": -519,
+        "event": "The night visions, dated 24th of Shebat in Darius' second year (early 519 BC)."
+      },
+      {
+        "year": -518,
+        "event": "A delegation from Bethel asks whether to keep the fasts mourning Jerusalem's fall (Zech 7:1-3)."
+      },
+      {
+        "year": -515,
+        "event": "The second temple is dedicated."
+      },
+      {
+        "year": -490,
+        "event": "Persia's invasion of Greece is repulsed at Marathon, part of the wider Persian-Greek conflict some link to Zech 9:13."
+      }
+    ],
+    "backdrop": "Zechariah worked alongside Haggai. Where Haggai is blunt and practical, Zechariah is visionary. In a single night he saw eight visions (horses patrolling the earth, horns and craftsmen, a man measuring Jerusalem, Joshua the high priest cleansed, a lampstand fed by two olive trees, a flying scroll, a woman in a basket carried to Babylon, and four chariots). Each answered a fear of the small community: Is God still angry? Who will protect us? Can our priest serve when he is defiled by exile? Can we finish the temple?\n\nThe Persian empire under Darius I was now stable and well organised, with provinces, governors and roads. Yehud was tiny, perhaps a few thousand people around Jerusalem. The visions insist that this small beginning is the start of something worldwide: 'Who has despised the day of small things?' (Zech 4:10). In chapters 7-8, Zechariah answers a question about fasting by recalling the former prophets' call to justice and then promising that the fasts will become feasts and that people from many nations will seek the LORD in Jerusalem.\n\nChapters 9-14 have a different feel: two 'burdens' (oracles) about a coming king, worthless shepherds, a pierced one mourned by Jerusalem, a struck shepherd and scattered sheep, and a final battle when the LORD stands on the Mount of Olives. These chapters are among the most quoted in the passion narratives of the Gospels.",
+    "culture": [
+      {
+        "term": "Night visions",
+        "explain": "Zechariah's visions are explained by an interpreting angel, an early form of the apocalyptic style later seen in Daniel and Revelation: symbols, angelic guides and cosmic scope.",
+        "refs": [
+          "Zech 1:8-11",
+          "Zech 4:1-6",
+          "Zech 6:1-8"
+        ]
+      },
+      {
+        "term": "The accuser (ha-satan)",
+        "explain": "In the vision of Joshua, 'the accuser' stands to oppose the high priest. God rebukes him, removes Joshua's filthy clothes and gives him clean robes, a picture of a forgiven priesthood.",
+        "refs": [
+          "Zech 3:1-5",
+          "Job 1:6-12"
+        ]
+      },
+      {
+        "term": "The Branch",
+        "explain": "A title (tsemach, 'sprout') for a coming Davidic ruler who will build the temple and unite king and priest, drawing on Jeremiah's promise.",
+        "refs": [
+          "Zech 3:8",
+          "Zech 6:12-13",
+          "Jer 23:5"
+        ]
+      },
+      {
+        "term": "Shepherds",
+        "explain": "Leaders were called shepherds. Zechariah condemns worthless shepherds who sell the flock and acts out a sign of being paid off with thirty pieces of silver, the price of a slave.",
+        "refs": [
+          "Zech 10:2-3",
+          "Zech 11:4-17",
+          "Exod 21:32"
+        ]
+      },
+      {
+        "term": "Fasts turned to feasts",
+        "explain": "Four fasts remembered Jerusalem's siege and fall (the 4th, 5th, 7th and 10th months). God promises they will become times of joy if the people love truth and peace.",
+        "refs": [
+          "Zech 7:3-5",
+          "Zech 8:19"
+        ]
+      },
+      {
+        "term": "Holiness everywhere",
+        "explain": "In the last day even horse bells and cooking pots will be inscribed 'Holy to the LORD', as once only the high priest's headpiece was.",
+        "refs": [
+          "Zech 14:20-21",
+          "Exod 28:36"
+        ]
+      }
+    ],
+    "jewishLens": "Zechariah 2:10-4:7 (Hebrew 2:14-4:7) is the haftarah for the Sabbath of Hanukkah, because of the vision of the golden lampstand (menorah) and its key line, 'Not by might, nor by power, but by my Spirit, says the LORD of hosts' (Zech 4:6), which became the motto of the festival's meaning: God, not military strength, saves. The same passage is read with Beha'alotekha, where Aaron lights the lamps. Zechariah 14, with its picture of the nations going up each year to keep Sukkot in Jerusalem (Zech 14:16), is the haftarah for the first day of Sukkot.\n\nZechariah 14:9, 'On that day the LORD will be one and his name one', concludes the *Aleinu* prayer said at the end of every Jewish service, so Zechariah's hope for God's universal kingship closes Jewish worship daily. Zechariah 8:23, where ten men from the nations grasp the garment of a Jew saying 'Let us go with you, for we have heard that God is with you', has been read as the vision of Israel's priestly calling to the nations. The Talmud (*Sukkah* 52a) discusses the 'pierced one' of Zech 12:10, with one view applying it to the Messiah son of Joseph, a figure slain in the end-time war, showing that Jewish tradition also read the passage messianically.",
+    "flow": [
+      {
+        "label": "Return to me",
+        "detail": "God calls the people not to repeat their ancestors' error: 'Return to me and I will return to you.'",
+        "refs": [
+          "Zech 1:1-6"
+        ]
+      },
+      {
+        "label": "Eight night visions",
+        "detail": "Visions assure that God is jealous for Jerusalem, will judge the nations, cleanse the priesthood and finish the temple by his Spirit.",
+        "refs": [
+          "Zech 1:7-21",
+          "Zech 3:1-10",
+          "Zech 4:1-14",
+          "Zech 6:1-8"
+        ]
+      },
+      {
+        "label": "Crowning the Branch",
+        "detail": "A crown for Joshua points to the Branch who will build the temple and bear royal honour.",
+        "refs": [
+          "Zech 6:9-15"
+        ]
+      },
+      {
+        "label": "Fasts and justice",
+        "detail": "Asked about fasting, God answers: practise justice and mercy; then fasts will become feasts and nations will seek him.",
+        "refs": [
+          "Zech 7:1-14",
+          "Zech 8:1-23"
+        ]
+      },
+      {
+        "label": "The humble king comes",
+        "detail": "Zion's king rides in on a donkey, bringing peace to the nations, while worthless shepherds are judged.",
+        "refs": [
+          "Zech 9:9-10",
+          "Zech 11:4-17"
+        ]
+      },
+      {
+        "label": "The pierced one and the fountain",
+        "detail": "Jerusalem mourns the one it pierced; a fountain opens to cleanse sin; the shepherd is struck and the sheep scattered.",
+        "refs": [
+          "Zech 12:10",
+          "Zech 13:1",
+          "Zech 13:7-9"
+        ]
+      },
+      {
+        "label": "The LORD king over all",
+        "detail": "The LORD stands on the Mount of Olives, living waters flow, and the nations worship at Sukkot.",
+        "refs": [
+          "Zech 14:3-9",
+          "Zech 14:16-21"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Zechariah: the LORD remembers",
+      "branches": [
+        {
+          "label": "Visions",
+          "items": [
+            "Horsemen among myrtles",
+            "Measuring line",
+            "Joshua's clean robes",
+            "Lampstand and olive trees"
+          ]
+        },
+        {
+          "label": "Temple and leaders",
+          "items": [
+            "Not by might",
+            "Day of small things",
+            "The Branch"
+          ]
+        },
+        {
+          "label": "Ethics",
+          "items": [
+            "Return to me",
+            "Justice and mercy",
+            "Fasts to feasts"
+          ]
+        },
+        {
+          "label": "Coming king",
+          "items": [
+            "Humble on a donkey",
+            "Thirty pieces of silver",
+            "Pierced one mourned",
+            "Struck shepherd"
+          ]
+        },
+        {
+          "label": "Final day",
+          "items": [
+            "Mount of Olives splits",
+            "Living waters",
+            "LORD one, name one",
+            "Nations keep Sukkot"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Remember",
+        "original": "zakhar",
+        "meaning": "To call to mind and act on behalf of; it is the root of Zechariah's name ('the LORD remembers').",
+        "refs": [
+          "Zech 1:1",
+          "Zech 10:9"
+        ]
+      },
+      {
+        "word": "Return",
+        "original": "shuv",
+        "meaning": "Turning back to God, and God turning back to his people; the book's opening appeal.",
+        "refs": [
+          "Zech 1:3-4",
+          "Zech 8:3"
+        ]
+      },
+      {
+        "word": "Jealous",
+        "original": "qin'ah",
+        "meaning": "Passionate covenant zeal; God is jealous for Zion with great jealousy.",
+        "refs": [
+          "Zech 1:14",
+          "Zech 8:2"
+        ]
+      },
+      {
+        "word": "Branch",
+        "original": "tsemach",
+        "meaning": "A sprout from a stump; title for the coming Davidic ruler-priest.",
+        "refs": [
+          "Zech 3:8",
+          "Zech 6:12"
+        ]
+      },
+      {
+        "word": "Spirit",
+        "original": "ruach",
+        "meaning": "God's empowering presence, the source of the temple's completion, not human force.",
+        "refs": [
+          "Zech 4:6",
+          "Zech 12:10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "haggai",
+        "how": "Haggai and Zechariah worked together on the temple project, addressing the same leaders in the same year.",
+        "refs": [
+          "Hag 1:1",
+          "Zech 1:1",
+          "Ezra 5:1"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew quotes the humble king on a donkey, the thirty pieces of silver and the struck shepherd in the passion story.",
+        "refs": [
+          "Matt 21:4-5",
+          "Matt 26:31",
+          "Matt 27:9-10"
+        ]
+      },
+      {
+        "bookId": "john",
+        "how": "John cites the king on a donkey and 'they will look on him whom they pierced' at the crucifixion.",
+        "refs": [
+          "John 12:14-15",
+          "John 19:37"
+        ]
+      },
+      {
+        "bookId": "revelation",
+        "how": "Revelation reuses Zechariah's horses, lampstands and olive trees, and the pierced one seen by all tribes.",
+        "refs": [
+          "Rev 1:7",
+          "Rev 6:1-8",
+          "Rev 11:4"
+        ]
+      },
+      {
+        "bookId": "ezekiel",
+        "how": "Ezekiel's river flowing from the temple and his shepherd oracles lie behind Zechariah's living waters and bad shepherds.",
+        "refs": [
+          "Ezek 47:1-12",
+          "Ezek 34:1-10",
+          "Zech 14:8"
+        ]
+      },
+      {
+        "bookId": "job",
+        "how": "Like Job, Zechariah shows 'the accuser' in the heavenly court, silenced by God.",
+        "refs": [
+          "Job 1:6-12",
+          "Zech 3:1-2"
+        ]
+      }
+    ],
+    "jesusLens": "No prophetic book is quoted more densely in the Gospels' passion accounts. Jesus deliberately rides a donkey into Jerusalem, acting out Zech 9:9 (Matt 21:4-5; John 12:14-15). He applies 'strike the shepherd, and the sheep will be scattered' to himself on the way to Gethsemane (Mark 14:27). Judas' thirty pieces of silver and the potter's field recall Zech 11:12-13 (Matt 27:9-10, where Matthew attributes it to Jeremiah, probably combining Jeremiah's field purchase with Zechariah). John sees the soldier's spear as 'they shall look on him whom they pierced' (John 19:37). Jesus' cleansing of the temple and his words on the Mount of Olives may also echo Zech 14 (Zech 14:21; Mark 11:15-17). Jewish interpretation reads these passages of Israel's future king, the Messiah son of David and (in one Talmudic view) a slain Messiah son of Joseph, and of a coming day when God reigns over all nations from Jerusalem.",
+    "misreadings": [
+      {
+        "topic": "Zechariah 14 as a literal end-times map",
+        "popular": "In popular prophecy teaching, Zech 14 is read as a precise script: a future siege of Jerusalem, Jesus' feet landing on the Mount of Olives which literally splits in two, and a millennial temple where nations keep the Feast of Tabernacles.",
+        "inContext": "Zechariah 9-14 uses apocalyptic imagery common in the late prophets: cosmic battle, a mountain split, living waters, a world with no night. Scholars such as Carol and Eric Meyers and Mark Boda read it as symbolic language for God's final victory, the purification of his people and the inclusion of the nations in Israel's worship. Jewish readers also read it as future but focus on God's universal kingship and the nations keeping Sukkot.",
+        "defence": "Dispensational scholars (e.g. Charles Feinberg, Eugene Merrill) argue that the geographic detail (the Mount of Olives, specific gates) points to a literal future fulfilment at Christ's return, and note Acts 1:11-12 links Jesus' return with the Mount of Olives. Amillennial and many other evangelical scholars read it as symbolic of Christ's victory and the new creation. This is a genuine scholarly disagreement, not just a popular error.",
+        "whyItMatters": "Whichever reading one holds, the chapter's main point, 'the LORD will be king over all the earth', should not be lost in arguments over timelines.",
+        "refs": [
+          "Zech 14:1-9",
+          "Zech 14:16-21",
+          "Acts 1:11-12",
+          "Rev 21:22-25"
+        ],
+        "scholars": [
+          "Carol L. Meyers",
+          "Eric M. Meyers",
+          "Mark J. Boda",
+          "Charles L. Feinberg",
+          "Eugene H. Merrill"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "A tiny, struggling community heard that God remembered them, had forgiven their priests, would finish the temple by his Spirit, and had a future in mind that included the nations. Later readers found in its shepherd oracles hope through times of failed leadership.",
+      "now": "Zechariah encourages people who feel small and overlooked: 'not by might, nor by power, but by my Spirit'. It ties worship to justice and mercy, and points to a king who comes in humility and a day when the whole world is holy to God."
+    },
+    "sources": [
+      {
+        "author": "Mark J. Boda",
+        "title": "The Book of Zechariah (NICOT)",
+        "year": 2016
+      },
+      {
+        "author": "Carol L. Meyers and Eric M. Meyers",
+        "title": "Zechariah 9-14 (Anchor Bible 25C)",
+        "year": 1993
+      },
+      {
+        "author": "Joyce G. Baldwin",
+        "title": "Haggai, Zechariah, Malachi (Tyndale Old Testament Commentaries)",
+        "year": 1972
+      },
+      {
+        "author": "Eugene H. Merrill",
+        "title": "Haggai, Zechariah, Malachi: An Exegetical Commentary",
+        "year": 1994,
+        "confidence": "needs-verification"
+      }
+    ]
+  },
+  {
+    "id": "malachi",
+    "oneLine": "In a series of arguments with a weary, cynical people, 'my messenger' defends God's covenant love, exposes careless worship, broken marriages and withheld tithes, and promises a messenger and Elijah before the great day.",
+    "author": {
+      "name": "Malachi ('my messenger')",
+      "who": "Either a prophet named Malachi or an anonymous prophet whose title was taken from Mal 3:1. The Greek Septuagint translates the heading as 'by the hand of his messenger'. Jewish tradition (Targum Jonathan on Mal 1:1; Talmud *Megillah* 15a, view of R. Joshua ben Korha) identifies Malachi with Ezra the scribe.",
+      "howWeKnow": "Only the heading (Mal 1:1). The setting (a governor, a functioning temple, and the issues Nehemiah also faced) places the book in the mid-400s BC.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The prophet addresses priests serving at the rebuilt temple.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "Priests and people of Judah in the Persian period",
+      "place": "Jerusalem (province of Yehud)",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "situation": "Two or three generations after the return, the temple worked but the excitement was gone. Priests offered blind and lame animals, men divorced their Judean wives to marry outside the covenant, tithes went unpaid, and people asked where the God of justice was.",
+      "confidence": "scholarly-consensus"
+    },
+    "worldEvents": [
+      {
+        "year": -515,
+        "event": "The second temple is completed."
+      },
+      {
+        "year": -458,
+        "event": "Ezra arrives in Jerusalem (traditional date, in Artaxerxes I's seventh year) to teach the law."
+      },
+      {
+        "year": -445,
+        "event": "Nehemiah arrives as governor and rebuilds the walls."
+      },
+      {
+        "year": -432,
+        "event": "Nehemiah returns to find tithes neglected, priests compromised and mixed marriages (Neh 13)."
+      },
+      {
+        "year": -407,
+        "event": "Letters from the Jewish garrison at Elephantine in Egypt show Judean life and temple concerns in the Persian empire."
+      }
+    ],
+    "backdrop": "By Malachi's time the prophecies of Haggai and Zechariah had not visibly come true. The temple stood, but there was no glory filling it, no Davidic king, no nations streaming in. Judah was still a small province under a Persian governor (Mal 1:8). Harvests were uncertain and locusts ('the devourer', Mal 3:11) a threat. The mood was tired and sceptical: 'It is vain to serve God' (Mal 3:14).\n\nThe problems Malachi names match those that Ezra and Nehemiah confronted. Nehemiah found the Levites had left the temple because their portions had not been paid (Neh 13:10-12), and men had married women from neighbouring peoples (Neh 13:23-27); a priestly family had married into Sanballat's household (Neh 13:28-29). Malachi adds that men were 'dealing treacherously' with the wives of their youth (Mal 2:14-16). Most scholars therefore date him around 460-430 BC, either just before or during Nehemiah's work.\n\nThe book is built from six disputations: God makes a statement, the people object ('How have you loved us?'), and God answers. This question-and-answer form lets the prophet expose the people's attitudes in their own words. The last verses, calling to remember Moses' law and promising Elijah, close the prophetic books in the Christian Old Testament and bridge to the Gospels.",
+    "culture": [
+      {
+        "term": "Disputation speech",
+        "explain": "Each section quotes the people's objection ('How have we despised your name?') and answers it, a courtroom-style debate that turns their cynicism back on them.",
+        "refs": [
+          "Mal 1:2",
+          "Mal 1:6-7",
+          "Mal 2:17",
+          "Mal 3:7-8"
+        ]
+      },
+      {
+        "term": "Honour and shame",
+        "explain": "A son honours a father and a servant a master; offering God blind animals you would not give the governor shames him. Malachi frames worship in terms of honour owed in a relationship.",
+        "refs": [
+          "Mal 1:6-8",
+          "Mal 1:14"
+        ]
+      },
+      {
+        "term": "Covenant with Levi",
+        "explain": "Priests were meant to guard knowledge and teach Torah truly, as Levi's covenant required. Malachi's priests have corrupted that covenant by partiality.",
+        "refs": [
+          "Mal 2:4-9",
+          "Num 25:12-13",
+          "Deut 33:8-10"
+        ]
+      },
+      {
+        "term": "Marriage as covenant",
+        "explain": "Malachi calls the wife 'your companion and your wife by covenant', with God as witness. Divorcing her to marry outside the covenant was treachery against both wife and God.",
+        "refs": [
+          "Mal 2:14-16",
+          "Prov 2:17"
+        ]
+      },
+      {
+        "term": "Tithes and storehouse",
+        "explain": "Tithes (a tenth of produce) supported the Levites, priests and the poor; they were stored in temple storerooms. Withholding them starved the temple's ministry.",
+        "refs": [
+          "Mal 3:8-10",
+          "Num 18:21-24",
+          "Deut 14:28-29",
+          "Neh 13:10-12"
+        ]
+      },
+      {
+        "term": "Book of remembrance",
+        "explain": "Like a Persian king's record of loyal subjects (Esth 6:1-3), God keeps a scroll of those who fear him; they will be his treasured possession.",
+        "refs": [
+          "Mal 3:16-17",
+          "Exod 19:5"
+        ]
+      }
+    ],
+    "jewishLens": "Malachi opens and closes with family love. 'I have loved you, says the LORD' (Mal 1:2) answers a people who doubted it; the end promises Elijah 'will turn the hearts of fathers to their children and the hearts of children to their fathers' (Mal 4:6). Malachi 1:1-2:7 is the haftarah for parashat Toldot, where Jacob and Esau are born, because of 'I loved Jacob and hated Esau', which in its Hebrew idiom means choosing one for covenant role rather than personal hatred. Malachi 3:4-4:6 (Hebrew 3:4-24) is read on Shabbat HaGadol, the 'Great Sabbath' before Passover. Because the book ends with the word 'curse', the synagogue repeats the previous verse about Elijah so that the reading ends in hope.\n\nThe Elijah promise is central to Jewish expectation. At the Passover seder a cup is poured for Elijah and the door opened for him, the herald of redemption. In rabbinic tradition Elijah will resolve unsettled legal questions (the Talmud marks some debates teiku, 'let it stand' until Elijah comes) and restore families and peace (Mishnah *Eduyot* 8:7). Tradition counted Malachi with Haggai and Zechariah as the last of the prophets, after whom the holy spirit of prophecy departed from Israel. Malachi's call, 'Remember the Torah of my servant Moses' (Mal 4:4), shows the shift from prophetic voice to the study of Torah that shaped later Judaism.",
+    "flow": [
+      {
+        "label": "'I have loved you'",
+        "detail": "God affirms his covenant love for Jacob, shown against Edom's ruin; the people ask, 'How?'",
+        "refs": [
+          "Mal 1:2-5"
+        ]
+      },
+      {
+        "label": "Dishonouring worship",
+        "detail": "Priests offer blemished sacrifices and break Levi's covenant; God's name will be great among the nations.",
+        "refs": [
+          "Mal 1:6-14",
+          "Mal 2:1-9"
+        ]
+      },
+      {
+        "label": "Faithlessness in families",
+        "detail": "Marrying outside the covenant and divorcing the wife of one's youth profanes God's covenant.",
+        "refs": [
+          "Mal 2:10-16"
+        ]
+      },
+      {
+        "label": "Where is the God of justice?",
+        "detail": "God will send his messenger and come suddenly to his temple to refine priests and judge oppressors.",
+        "refs": [
+          "Mal 2:17",
+          "Mal 3:1-5"
+        ]
+      },
+      {
+        "label": "Return and bring the tithe",
+        "detail": "Return to me; stop robbing God; test me and see blessings poured out.",
+        "refs": [
+          "Mal 3:6-12"
+        ]
+      },
+      {
+        "label": "Those who fear God remembered",
+        "detail": "Against the cynics, a book of remembrance records the faithful; the day will burn the arrogant and heal the God-fearing.",
+        "refs": [
+          "Mal 3:13-18",
+          "Mal 4:1-3"
+        ]
+      },
+      {
+        "label": "Remember Moses; Elijah will come",
+        "detail": "Keep the law of Moses; Elijah will come before the great day to turn hearts.",
+        "refs": [
+          "Mal 4:4-6"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Malachi: 'I have loved you'",
+      "branches": [
+        {
+          "label": "Doubts",
+          "items": [
+            "How have you loved us?",
+            "Where is justice?",
+            "It is vain to serve God"
+          ]
+        },
+        {
+          "label": "Worship",
+          "items": [
+            "Blind, lame offerings",
+            "Priests break Levi's covenant",
+            "God's name among nations"
+          ]
+        },
+        {
+          "label": "Covenant faithfulness",
+          "items": [
+            "Wife of your youth",
+            "Treachery in divorce",
+            "Tithes withheld"
+          ]
+        },
+        {
+          "label": "Coming day",
+          "items": [
+            "Messenger prepares way",
+            "Refiner's fire",
+            "Sun of righteousness"
+          ]
+        },
+        {
+          "label": "Ending",
+          "items": [
+            "Remember Moses",
+            "Elijah will come",
+            "Hearts of fathers turned"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Messenger",
+        "original": "mal'akh",
+        "meaning": "Messenger or angel; the prophet's name/title and the coming herald who prepares God's way.",
+        "refs": [
+          "Mal 1:1",
+          "Mal 2:7",
+          "Mal 3:1"
+        ]
+      },
+      {
+        "word": "Covenant",
+        "original": "berit",
+        "meaning": "A binding relationship with promises; Malachi speaks of covenants with Levi, the fathers, in marriage, and the 'messenger of the covenant'.",
+        "refs": [
+          "Mal 2:4-5",
+          "Mal 2:10",
+          "Mal 2:14",
+          "Mal 3:1"
+        ]
+      },
+      {
+        "word": "Deal treacherously",
+        "original": "bagad",
+        "meaning": "To betray, to break faith; used five times in the marriage section.",
+        "refs": [
+          "Mal 2:10-16"
+        ]
+      },
+      {
+        "word": "Return",
+        "original": "shuv",
+        "meaning": "'Return to me, and I will return to you': the covenant invitation, echoing Zechariah.",
+        "refs": [
+          "Mal 3:7",
+          "Zech 1:3"
+        ]
+      },
+      {
+        "word": "Fear (of God)",
+        "original": "yir'ah",
+        "meaning": "Reverent awe and loyalty; those who fear God's name are remembered and healed.",
+        "refs": [
+          "Mal 1:6",
+          "Mal 3:16",
+          "Mal 4:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "nehemiah",
+        "how": "Nehemiah faced the same abuses: unpaid Levites, corrupted priests and mixed marriages.",
+        "refs": [
+          "Neh 13:10-14",
+          "Neh 13:23-29"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "God's love for Jacob over Esau reaches back to the twins' story.",
+        "refs": [
+          "Gen 25:23",
+          "Mal 1:2-3"
+        ]
+      },
+      {
+        "bookId": "mark",
+        "how": "Mark opens his Gospel by quoting Malachi's messenger (with Isaiah) for John the Baptist.",
+        "refs": [
+          "Mark 1:2-4",
+          "Mal 3:1"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus identifies John the Baptist as the Elijah who was to come.",
+        "refs": [
+          "Matt 11:10-14",
+          "Matt 17:10-13",
+          "Mal 4:5"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "The angel says John will go in the spirit and power of Elijah to turn fathers' hearts to their children.",
+        "refs": [
+          "Luke 1:16-17",
+          "Mal 4:6"
+        ]
+      },
+      {
+        "bookId": "romans",
+        "how": "Paul quotes 'Jacob I loved, Esau I hated' in his discussion of God's election.",
+        "refs": [
+          "Rom 9:10-13",
+          "Mal 1:2-3"
+        ]
+      }
+    ],
+    "jesusLens": "The Gospels open where Malachi ends. Mark begins with Malachi's messenger who prepares the way (Mark 1:2), and the Gospels identify him as John the Baptist (Matt 11:10). Jesus says John is the 'Elijah who is to come' for those willing to accept it (Matt 11:14; Matt 17:12), while John himself denies being literally Elijah (John 1:21), so the fulfilment is in role and spirit (Luke 1:17). If John is the messenger, then the 'Lord who will suddenly come to his temple' (Mal 3:1) is Jesus, who enters the temple and cleanses it (Mark 11:15-17). Christians also read 'the sun of righteousness shall rise with healing in its wings' (Mal 4:2) of Christ, as in Charles Wesley's carol 'Hark! The Herald Angels Sing'. Jewish tradition still awaits Elijah as herald of the Messiah, honoured at every Passover seder and in the song 'Eliyahu ha-Navi' sung after Havdalah at the close of the Sabbath.",
+    "misreadings": [
+      {
+        "topic": "Malachi 3:10 tithing as a prosperity formula",
+        "popular": "Malachi 3:8-12 is widely preached as a guarantee: give ten percent of your income to your local church and God will open the windows of heaven and pour out financial blessing; fail to tithe and you are 'robbing God' and under a curse. Prosperity preachers extend it to 'seed faith' giving for returns.",
+        "inContext": "Malachi addresses an agricultural covenant community whose tithes of produce fed the Levites, priests and the poor (Deut 14:28-29; Neh 13:10-12). The blessing promised is rain and freedom from locusts so the land is fruitful (Mal 3:10-11), the covenant blessings of Deuteronomy for the nation. The 'curse' is the covenant curse on the whole people. Andrew Hill and Craig Blomberg stress that the passage is about covenant loyalty and supporting the temple's ministry, not an investment scheme for individuals.",
+        "defence": "Many traditional evangelicals (e.g. R. T. Kendall) argue that tithing predates Moses (Gen 14:20; Gen 28:22) and remains a sound pattern, and that God does honour faithful, generous giving (2 Cor 9:6-11). Most evangelical scholars, however, including Blomberg and Hill, reject the prosperity reading as a misuse: New Testament giving is generous, cheerful and need-focused, and God's blessing is not a guaranteed financial return. On whether the tithe itself binds Christians, evangelicals genuinely disagree.",
+        "whyItMatters": "Read as a formula, Malachi 3 can burden the poor and turn God into a vending machine; read in context it calls a community to honour God and provide for those who serve and those in need.",
+        "refs": [
+          "Mal 3:8-12",
+          "Deut 14:28-29",
+          "Neh 13:10-12",
+          "2 Cor 9:6-11"
+        ],
+        "scholars": [
+          "Andrew E. Hill",
+          "Craig L. Blomberg",
+          "R. T. Kendall"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "'I hate divorce' (Mal 2:16) as an absolute rule",
+        "popular": "Mal 2:16, in older translations 'the LORD... saith that he hateth putting away', is often used to say that God hates all divorce, sometimes in ways that pressure victims of abuse or abandonment to stay.",
+        "inContext": "The Hebrew is difficult; many modern translations read 'the man who hates and divorces... covers his garment with violence' (ESV, similar NIV 2011). The context is men breaking faith with 'the wife of your youth' to marry outside the covenant. Gordon Hugenberger and David Instone-Brewer argue the verse condemns treacherous divorce that abandons a faithful wife, and links it with 'violence' against her.",
+        "defence": "Traditional scholars (e.g. Joyce Baldwin, and many Reformed teachers) emphasise that whichever translation is right, the passage shows God's strong concern for marital faithfulness and the covenant witness of marriage. Most agree it should not be used to keep a spouse in an abusive situation, since the target of the condemnation is the unfaithful, violent partner.",
+        "whyItMatters": "In context the verse protects the vulnerable spouse; it rebukes treachery and violence rather than adding burdens to those who are betrayed.",
+        "refs": [
+          "Mal 2:13-16"
+        ],
+        "scholars": [
+          "Gordon P. Hugenberger",
+          "David Instone-Brewer",
+          "Joyce G. Baldwin"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "For a weary community whose hopes seemed unfulfilled, Malachi insisted that God still loved them, that their worship, marriages and giving mattered to him, and that a day of justice and healing was coming, announced by a messenger.",
+      "now": "Malachi speaks to faith that has gone routine and cynical. It asks whether we give God our leftovers, keep faith with spouses, support those who serve and the poor, and still believe God will put things right. It also ends the Old Testament looking forward to someone who will prepare the way."
+    },
+    "sources": [
+      {
+        "author": "Andrew E. Hill",
+        "title": "Malachi (Anchor Bible 25D)",
+        "year": 1998
+      },
+      {
+        "author": "Gordon P. Hugenberger",
+        "title": "Marriage as a Covenant: A Study of Biblical Law and Ethics Governing Marriage Developed from the Perspective of Malachi",
+        "year": 1994
+      },
+      {
+        "author": "David Instone-Brewer",
+        "title": "Divorce and Remarriage in the Bible: The Social and Literary Context",
+        "year": 2002
+      },
+      {
+        "author": "Craig L. Blomberg",
+        "title": "Neither Poverty nor Riches: A Biblical Theology of Possessions",
+        "year": 1999
       }
     ]
   }

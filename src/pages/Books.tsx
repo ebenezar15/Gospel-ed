@@ -130,15 +130,18 @@ function WhenWritten() {
   const nav = useNavigate();
   const [hover, setHover] = useState<string | null>(null);
   const [mode, setMode] = useState<'written' | 'both'>('both');
-  const lo = -1500, hi = 120, x = (y: number) => ((Math.max(lo, Math.min(hi, y)) - lo) / (hi - lo)) * 100;
-  const ticks = [-1400, -1200, -1000, -800, -600, -400, -200, 0, 100];
+  const [range, setRange] = useState<'all' | 'OT' | 'NT'>('all');
+  const [lo, hi] = range === 'NT' ? [-10, 130] : range === 'OT' ? [-1500, -100] : [-1500, 120];
+  const x = (y: number) => ((Math.max(lo, Math.min(hi, y)) - lo) / (hi - lo)) * 100;
+  const ticks = range === 'NT' ? [0, 20, 40, 60, 80, 100, 120] : range === 'OT' ? [-1400, -1200, -1000, -800, -600, -400, -200] : [-1400, -1200, -1000, -800, -600, -400, -200, 0, 100];
   return (
     <div>
       <p className="font-serif text-[1.08rem] max-w-[70ch] mb-3">Each row is a book. The dot is when most scholars think it was written (whiskers show the range of serious proposals); the soft bar is the span of history the book describes. Many Old Testament books were completed long after the events they tell.</p>
-      <div className="flex gap-2 mb-3"><button className={`btn ${mode === 'both' ? 'btn-primary' : ''}`} onClick={() => setMode('both')}>Written + story span</button><button className={`btn ${mode === 'written' ? 'btn-primary' : ''}`} onClick={() => setMode('written')}>Writing dates only</button></div>
+      <div className="flex flex-wrap gap-2 mb-3"><button className={`btn ${mode === 'both' ? 'btn-primary' : ''}`} onClick={() => setMode('both')}>Written + story span</button><button className={`btn ${mode === 'written' ? 'btn-primary' : ''}`} onClick={() => setMode('written')}>Writing dates only</button>
+        <span className="w-px bg-line mx-1" />{(['all', 'OT', 'NT'] as const).map((r) => <button key={r} className={`btn ${range === r ? 'btn-primary' : ''}`} onClick={() => setRange(r)}>{r === 'all' ? 'Whole Bible' : r === 'OT' ? 'Zoom: Old Testament' : 'Zoom: New Testament'}</button>)}</div>
       <div className="card p-3 overflow-x-auto"><div className="min-w-[640px]">
         <div className="relative h-5 ml-28 text-[.65rem] text-muted">{ticks.map((t) => <span key={t} className="absolute -translate-x-1/2" style={{ left: `${x(t)}%` }}>{fmtYear(t)}</span>)}</div>
-        {books.map((b, i) => { const st = studyById.get(b.id); const alts = (b.date.alternatives ?? []).map((a) => a.year); const mn = Math.min(b.date.year, ...alts), mx = Math.max(b.date.year, ...alts); const g = GROUP(i); const first = i === 0 || GROUP(i - 1) !== g; return (
+        {books.map((b, i) => { if (range !== 'all' && b.testament !== range) return null; const st = studyById.get(b.id); const alts = (b.date.alternatives ?? []).map((a) => a.year); const mn = Math.min(b.date.year, ...alts), mx = Math.max(b.date.year, ...alts); const g = GROUP(i); const first = i === 0 || GROUP(i - 1) !== g; return (
           <div key={b.id}>
             {first && <div className="eyebrow mt-2 mb-0.5">{g}</div>}
             <button onClick={() => nav(`/books/${b.id}`)} onMouseEnter={() => setHover(b.id)} onMouseLeave={() => setHover(null)} className={`flex items-center w-full h-5 group ${hover === b.id ? 'bg-sunk' : ''}`}>

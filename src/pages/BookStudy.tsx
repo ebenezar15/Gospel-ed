@@ -16,7 +16,9 @@ function FromToMap({ s }: { s: BookStudyT }) {
   if (b && (!a || a[0] !== b[0] || a[1] !== b[1])) places.push(pin('to', `To: ${s.writtenTo.place}`, b));
   if (!places.length) return null;
   const routes: MapRoute[] = a && b && places.length === 2 ? [{ id: 'letter', color: 'rgb(var(--accent))', coords: [a, b], dashed: true }] : [];
-  return <BibleMap places={places} routes={routes} height={360} label={`Where ${bookName(s.id)} was written and sent`} highlight="from" />;
+  const pts = places.map((p) => p.coords);
+  const focus: [number, number, number, number] = [Math.min(...pts.map((p) => p[0])) - 7, Math.min(...pts.map((p) => p[1])) - 4.5, Math.max(...pts.map((p) => p[0])) + 7, Math.max(...pts.map((p) => p[1])) + 4.5];
+  return <BibleMap places={places} routes={routes} height={360} focus={focus} label={`Where ${bookName(s.id)} was written and sent`} highlight="from" />;
 }
 
 /** The study block shown on every book page. */
