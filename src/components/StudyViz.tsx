@@ -163,14 +163,12 @@ export function TimeBar({ written, setIn, events }: { written: number; setIn?: {
   const sorted = [...events].sort((a, b) => a.year - b.year);
   return (
     <div>
-      <div className="relative h-24 mt-2">
+      <div className="relative h-24 mt-2 overflow-hidden">
         <div className="absolute left-0 right-0 top-12 h-0.5 bg-line" />
         {setIn && <div className="absolute top-[42px] h-3 rounded-full" style={{ left: `${x(setIn.from)}%`, width: `${Math.max(0.8, x(setIn.to) - x(setIn.from))}%`, background: 'rgb(var(--ot) / .35)' }} title={setIn.note} />}
         {setIn && <div className="absolute top-[58px] text-[.7rem] text-muted whitespace-nowrap" style={{ left: `${x(setIn.from)}%` }}>story: {fmtYear(setIn.from)}–{fmtYear(setIn.to)}</div>}
-        <div className="absolute -translate-x-1/2 flex flex-col items-center" style={{ left: `${x(written)}%`, top: 0 }}>
-          <span className="text-[.7rem] font-bold text-accent whitespace-nowrap">written ~{fmtYear(written)}</span>
-          <span className="w-4 h-4 rounded-full bg-accent border-2 border-surface mt-[22px] shadow" />
-        </div>
+        <span className="absolute text-[.7rem] font-bold text-accent whitespace-nowrap" style={x(written) > 80 ? { right: `${100 - x(written)}%`, top: 0 } : x(written) < 20 ? { left: `${x(written)}%`, top: 0 } : { left: `${x(written)}%`, top: 0, transform: 'translateX(-50%)' }}>written ~{fmtYear(written)}</span>
+        <span className="absolute -translate-x-1/2 top-[38px] w-4 h-4 rounded-full bg-accent border-2 border-surface shadow" style={{ left: `${x(written)}%` }} />
         {sorted.map((e, i) => <button key={i} onClick={() => setSel(sel === i ? null : i)} className="absolute -translate-x-1/2 top-[42px] w-3 h-3 rotate-45 border-2 hover:scale-125 transition-transform" style={{ left: `${x(e.year)}%`, background: sel === i ? 'rgb(var(--nt))' : 'rgb(var(--surface))', borderColor: 'rgb(var(--nt))' }} aria-label={e.event} />)}
       </div>
       <ul className="grid gap-1 sm:grid-cols-2 text-sm">{sorted.map((e, i) => <li key={i}><button onClick={() => setSel(i)} className={`text-left ${sel === i ? 'text-accent' : ''}`}><span className="tabular font-semibold">{fmtYear(e.year)}</span> · {e.event}</button></li>)}</ul>
