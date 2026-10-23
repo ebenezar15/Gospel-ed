@@ -3617,5 +3617,3148 @@
         "year": 2018
       }
     ]
+  },
+  {
+    "id": "2-samuel",
+    "oneLine": "2 Samuel tells how David became king of all Israel, received God's everlasting covenant, and then, through his own sin with Bathsheba, saw violence tear through his family and kingdom.",
+    "author": {
+      "name": "Unknown; Nathan and Gad by tradition; Deuteronomistic historians (critical)",
+      "who": "The Talmud (Baba Bathra 15a) credits Nathan and Gad, prophets in David's court, with completing the book of Samuel. Critical scholars see it as part of the Deuteronomistic History, incorporating an older court history of David's reign.",
+      "howWeKnow": "1 Chr 29:29 mentions records of David's reign 'in the book of Samuel the seer, and in the book of Nathan the prophet, and in the book of Gad the seer', which tradition took as the sources. In 1926 Leonhard Rost identified a 'Succession Narrative' (2 Sam 9-20 with 1 Kgs 1-2) answering the question 'who will sit on David's throne?'. Its vivid, intimate detail led some to think it was written by an eyewitness in Solomon's court. Others date it later and read it as a critique of the monarchy. 2 Sam 21-24 is widely seen as an appendix of collected material arranged in a careful pattern.",
+      "otherWritings": [
+        "1 Samuel (one book with 2 Samuel in the Hebrew Bible)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The court material probably originated in Jerusalem; the final shaping is placed by critical scholars in the late monarchy or exile.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Israel under David's dynasty, and later the exiles",
+      "place": "Judah",
+      "situation": "Readers needed to understand both the glory of God's promise to David and the cost of David's sin. For exiles who had seen the Davidic throne fall, the question was urgent: was God's promise that David's house would last forever (2 Sam 7:16) still true?",
+      "confidence": "debated"
+    },
+    "setIn": {
+      "from": -1010,
+      "to": -970,
+      "note": "David's reign of forty years: seven and a half in Hebron, thirty-three in Jerusalem (2 Sam 5:4-5). Conventional dates are c. 1010-970 BC. Scholars debate the size of David's kingdom: maximalists accept a regional state; some minimalists see a small chiefdom. The Tel Dan Stele (9th century) confirms a dynasty called the 'house of David'; excavations in the City of David (e.g. the Large Stone Structure, which Eilat Mazar linked to David's palace) remain disputed."
+    },
+    "worldEvents": [
+      {
+        "year": -1000,
+        "event": "Phoenician cities, especially Tyre under Hiram, flourish in sea trade; Hiram sends cedar and builders to David."
+      },
+      {
+        "year": -1000,
+        "event": "Assyria and Egypt are both weak, leaving room for small states like Israel and Aram to expand."
+      },
+      {
+        "year": -990,
+        "event": "Aramean kingdoms such as Zobah and Damascus rise in Syria; David fights them."
+      },
+      {
+        "year": -970,
+        "event": "Solomon succeeds David."
+      },
+      {
+        "year": -840,
+        "event": "The Tel Dan Stele, written by an Aramean king, refers to the 'house of David', the earliest outside reference to David."
+      }
+    ],
+    "backdrop": "After Saul's death, David moves cautiously. He mourns Saul and Jonathan in a moving lament (2 Sam 1:17-27), is anointed king over Judah at Hebron, and waits seven years while Saul's son Ish-bosheth rules the northern tribes. Only after a long civil war and the murders of Abner and Ish-bosheth (which David condemns) do the northern tribes come to Hebron and make a covenant with him (2 Sam 5:1-3).\n\nDavid's master stroke is capturing Jerusalem, a Jebusite city on the border between Judah and Benjamin that belonged to no tribe (2 Sam 5:6-9). It becomes 'the city of David', a neutral capital. He then brings the ark of God there with dancing and sacrifice (2 Sam 6), making Jerusalem the religious as well as political centre. When David wants to build God a house (temple), God turns the idea around: God will build David a 'house', a dynasty, and David's son will build the temple (2 Sam 7:11-13). This promise, the Davidic covenant, becomes one of the pillars of the Old Testament's hope.\n\nThe turning point is 2 Sam 11. 'At the time when kings go forth to battle', David stays home, sees Bathsheba bathing, takes her, and when she becomes pregnant arranges the death of her husband Uriah, one of his most loyal soldiers. The prophet Nathan confronts David with a parable about a rich man who steals a poor man's only lamb, and announces that 'the sword shall never depart from thine house' (2 Sam 12:10). The following chapters show exactly that: Amnon rapes his half-sister Tamar, Absalom kills Amnon, Absalom revolts and drives David from Jerusalem, and Absalom dies, leaving David weeping, 'O my son Absalom' (2 Sam 18:33).\n\nThe book is remarkable among ancient royal writings. Assyrian and Egyptian kings recorded only victories. 2 Samuel records the king's adultery, murder, weakness as a father and failures as a ruler. Many scholars see this as evidence of an authentic prophetic tradition that held kings accountable to God's law.",
+    "culture": [
+      {
+        "term": "Covenant with David",
+        "explain": "God promises David a dynasty, a kingdom and a throne forever, with the king treated as God's son. Unlike Sinai, the promise is unconditional in its ultimate outcome, though individual kings can be disciplined.",
+        "refs": [
+          "2 Sam 7:12-16",
+          "Ps 89:3-4",
+          "Ps 89:28-37"
+        ]
+      },
+      {
+        "term": "Royal grant covenant",
+        "explain": "Ancient kings rewarded loyal servants with land or dynasty grants. Moshe Weinfeld compared God's promise to David to these royal grants.",
+        "refs": [
+          "2 Sam 7:8-16",
+          "2 Sam 23:5"
+        ]
+      },
+      {
+        "term": "The ark's holiness",
+        "explain": "When Uzzah touches the ark to steady it, he dies. The ark was meant to be carried on poles by Levites, not on a cart like the Philistines did.",
+        "refs": [
+          "2 Sam 6:6-7",
+          "Num 4:15",
+          "1 Chr 15:13-15"
+        ]
+      },
+      {
+        "term": "Prophet confronts king",
+        "explain": "Nathan's parable traps David into judging himself. Few ancient courts allowed a prophet to accuse the king to his face.",
+        "refs": [
+          "2 Sam 12:1-14"
+        ]
+      },
+      {
+        "term": "Taking the king's concubines",
+        "explain": "Taking a king's concubines was a public claim to his throne. Absalom does so on the roof, fulfilling Nathan's words.",
+        "refs": [
+          "2 Sam 16:20-22",
+          "2 Sam 12:11-12",
+          "1 Kgs 2:13-22"
+        ]
+      },
+      {
+        "term": "Hesed to Saul's house",
+        "explain": "In the ancient world a new dynasty often wiped out the old. David instead shows covenant kindness to Jonathan's lame son Mephibosheth.",
+        "refs": [
+          "2 Sam 9:1-13",
+          "1 Sam 20:14-17"
+        ]
+      }
+    ],
+    "jewishLens": "For Jewish tradition David is the ideal king, the 'sweet psalmist of Israel' (2 Sam 23:1) and the ancestor of the Messiah, often called *Mashiach ben David*. The Davidic covenant of 2 Sam 7 is central to Jewish messianic hope; the blessings recited after the haftarah each Sabbath include a prayer for the return of David's kingdom. The story of David bringing the ark to Jerusalem (2 Sam 6:1-7:17) is read as the haftarah alongside the death of Nadab and Abihu (Lev 9-11), pairing two stories of holiness that cannot be handled carelessly. David's song in 2 Sam 22 (almost identical to Ps 18) is the haftarah for the seventh day of Passover, set beside the Song of the Sea.\n\nThe rabbis wrestled openly with David's sin. One Talmudic opinion (Shabbat 56a) argues that technically David did not commit adultery, because soldiers gave their wives conditional divorces before battle. But other rabbis insist on the plain sense, and the text itself has God say through Nathan 'thou hast despised the commandment of the LORD' (2 Sam 12:9). The more common rabbinic lesson is that David is the model of the penitent: he admits 'I have sinned against the LORD' (2 Sam 12:13), and Psalm 51 is linked by its heading to this moment. The Talmud says David's repentance was meant to teach that no one is beyond return (Avodah Zarah 4b-5a).\n\nThe first audience would have heard 2 Samuel as the story of God's faithfulness to a flawed king. The everlasting promise does not depend on David's goodness, but sin still has terrible consequences inside his family and nation. God remains the true King, the one who 'took thee from the sheepcote' (2 Sam 7:8). David's grateful prayer after the covenant, 'Who am I, O Lord GOD, and what is my house, that thou hast brought me hitherto?' (2 Sam 7:18), shows the right response: humble wonder at grace.",
+    "flow": [
+      {
+        "label": "Mourning Saul and Jonathan",
+        "detail": "David honours Saul in a lament and executes the man who claims to have killed him.",
+        "refs": [
+          "2 Sam 1:1-16",
+          "2 Sam 1:17-27"
+        ]
+      },
+      {
+        "label": "King over all Israel",
+        "detail": "After civil war with Saul's house, the tribes make David king; he captures Jerusalem and defeats the Philistines.",
+        "refs": [
+          "2 Sam 2:1-4",
+          "2 Sam 5:1-10",
+          "2 Sam 5:17-25"
+        ]
+      },
+      {
+        "label": "Ark to Jerusalem",
+        "detail": "David brings the ark to the city with joy; Uzzah's death and Michal's scorn show the seriousness of worship.",
+        "refs": [
+          "2 Sam 6:1-23"
+        ]
+      },
+      {
+        "label": "God's covenant with David",
+        "detail": "God promises David an everlasting house and throne; David responds in humble prayer.",
+        "refs": [
+          "2 Sam 7:1-17",
+          "2 Sam 7:18-29"
+        ]
+      },
+      {
+        "label": "Bathsheba and Uriah",
+        "detail": "David takes Bathsheba and has Uriah killed. Nathan confronts him and David repents, but judgment is announced.",
+        "refs": [
+          "2 Sam 11:1-27",
+          "2 Sam 12:1-14"
+        ]
+      },
+      {
+        "label": "The sword in David's house",
+        "detail": "Amnon rapes Tamar, Absalom kills Amnon and later rebels; David flees, Absalom dies and David grieves.",
+        "refs": [
+          "2 Sam 13:1-29",
+          "2 Sam 15:1-14",
+          "2 Sam 18:9-15",
+          "2 Sam 18:33"
+        ]
+      },
+      {
+        "label": "Appendix: songs, heroes, census",
+        "detail": "Famine, David's song of deliverance, his last words, his mighty men, and the census that ends with an altar at Araunah's threshing floor.",
+        "refs": [
+          "2 Sam 22:1-51",
+          "2 Sam 23:1-7",
+          "2 Sam 24:18-25"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "2 Samuel: promise and price",
+      "branches": [
+        {
+          "label": "Kingdom built",
+          "items": [
+            "Hebron then Jerusalem",
+            "Philistines defeated",
+            "Ark brought home",
+            "Wars with neighbours"
+          ]
+        },
+        {
+          "label": "Davidic covenant",
+          "items": [
+            "House, not temple",
+            "Son of God",
+            "Throne forever",
+            "Discipline, not rejection"
+          ]
+        },
+        {
+          "label": "David's sin",
+          "items": [
+            "Bathsheba taken",
+            "Uriah killed",
+            "Nathan's parable",
+            "Psalm 51 repentance"
+          ]
+        },
+        {
+          "label": "Family breakdown",
+          "items": [
+            "Tamar's rape",
+            "Amnon killed",
+            "Absalom's revolt",
+            "Weeping for Absalom"
+          ]
+        },
+        {
+          "label": "Grace and honesty",
+          "items": [
+            "Kindness to Mephibosheth",
+            "King held accountable",
+            "Temple site bought",
+            "God still faithful"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "House",
+        "original": "bayit (בַּיִת)",
+        "meaning": "A building, a household or a dynasty. 2 Sam 7 plays on all three: David wants to build God a house; God will build David a house.",
+        "refs": [
+          "2 Sam 7:5",
+          "2 Sam 7:11",
+          "2 Sam 7:16"
+        ]
+      },
+      {
+        "word": "Forever",
+        "original": "'ad 'olam (עַד־עוֹלָם)",
+        "meaning": "For an age-long, unlimited time. The repeated word in God's promise to David.",
+        "refs": [
+          "2 Sam 7:13",
+          "2 Sam 7:16",
+          "2 Sam 7:29"
+        ]
+      },
+      {
+        "word": "Kindness",
+        "original": "hesed (חֶסֶד)",
+        "meaning": "Covenant loyalty. God promises not to take his hesed from David's son; David shows hesed to Jonathan's son.",
+        "refs": [
+          "2 Sam 7:15",
+          "2 Sam 9:1",
+          "2 Sam 9:7"
+        ]
+      },
+      {
+        "word": "Send / take",
+        "original": "shalach, laqach (שָׁלַח, לָקַח)",
+        "meaning": "In 2 Sam 11 David repeatedly 'sends' and 'takes', showing power abused. Nathan's parable echoes the rich man who 'took' the lamb.",
+        "refs": [
+          "2 Sam 11:3-4",
+          "2 Sam 11:14",
+          "2 Sam 12:4"
+        ]
+      },
+      {
+        "word": "Sinned",
+        "original": "chata'ti (חָטָאתִי)",
+        "meaning": "'I have sinned': David's two-word Hebrew confession, contrasting with Saul's excuses.",
+        "refs": [
+          "2 Sam 12:13",
+          "2 Sam 24:10"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-chronicles",
+        "how": "Chronicles retells David's reign but omits Bathsheba and Absalom, focusing on David's preparation for the temple.",
+        "refs": [
+          "1 Chr 17:1-15",
+          "1 Chr 22:6-10"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Psalm 51 is linked by its heading to Nathan's rebuke; Psalm 3 to Absalom's revolt; Psalm 89 and 132 meditate on the Davidic covenant.",
+        "refs": [
+          "Ps 51:1-4",
+          "Ps 3:1-8",
+          "Ps 89:19-37",
+          "Ps 132:11-12"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isaiah promises a shoot from Jesse's stump and a child who will sit on David's throne forever.",
+        "refs": [
+          "Isa 9:6-7",
+          "Isa 11:1-5"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Gabriel announces that God will give Jesus 'the throne of his father David' and an endless kingdom, echoing 2 Sam 7.",
+        "refs": [
+          "Luke 1:32-33"
+        ]
+      },
+      {
+        "bookId": "hebrews",
+        "how": "Hebrews applies 'I will be his father, and he shall be my son' to Jesus.",
+        "refs": [
+          "Heb 1:5",
+          "2 Sam 7:14"
+        ]
+      },
+      {
+        "bookId": "acts",
+        "how": "Peter argues that God's oath to put David's descendant on his throne was fulfilled in the resurrection of Jesus.",
+        "refs": [
+          "Acts 2:29-36"
+        ]
+      }
+    ],
+    "jesusLens": "The Davidic covenant (2 Sam 7:12-16) is one of the main roots of the New Testament's claim that Jesus is the Messiah. Matthew begins 'Jesus Christ, the son of David' (Matt 1:1); Gabriel promises Jesus David's throne (Luke 1:32-33); and Paul says the gospel concerns God's Son 'made of the seed of David according to the flesh' (Rom 1:3). The promise 'I will be his father, and he shall be my son' (2 Sam 7:14) is applied to Jesus in Heb 1:5. The New Testament also draws on the contrasts: David, the king who took another man's wife and life, versus Jesus, the king who lays down his life; David leaving Jerusalem over the Mount of Olives in grief (2 Sam 15:30) has been compared to Jesus' path to Gethsemane. Jewish readers see 2 Sam 7 as the foundation of the hope that a descendant of David will restore Israel in the messianic age; the disagreement with Christians is over whether Jesus is that descendant, not over the importance of the promise.",
+    "misreadings": [
+      {
+        "topic": "Bathsheba as seductress",
+        "popular": "Many sermons and films portray Bathsheba as a temptress who deliberately bathed where the king could see, sharing the blame for adultery.",
+        "inContext": "The text puts the blame on David. He stays home from battle, he sees, he sends, he takes (2 Sam 11:1-4). Bathsheba was bathing for ritual purification (2 Sam 11:4), probably in her own courtyard, and could hardly refuse a king's summons. Nathan's parable casts her as the innocent lamb and David as the thief (2 Sam 12:1-9); God's judgment falls on David. Scholars such as Richard Davidson, Sara Koenig and Robert Alter argue that the narrative treats David's act as abuse of power, some calling it 'power rape'.",
+        "defence": "Some evangelical commentators note that the text does not report Bathsheba's feelings and that she later acts with political shrewdness (1 Kgs 1:11-31), so we should not overstate either her innocence or guilt. But nearly all careful commentators, evangelical and otherwise, agree that the narrator places responsibility on David.",
+        "whyItMatters": "Blaming Bathsheba repeats David's abuse; reading the text as written exposes how leaders misuse power and shows that God sees the vulnerable.",
+        "refs": [
+          "2 Sam 11:1-4",
+          "2 Sam 12:1-9",
+          "2 Sam 12:13"
+        ],
+        "scholars": [
+          "Richard M. Davidson",
+          "Sara Koenig",
+          "Robert Alter",
+          "Dale Ralph Davis"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Grace cancels consequences",
+        "popular": "Because David repented and was forgiven, the story shows that confession wipes everything clean; God's forgiveness means there are no lasting consequences.",
+        "inContext": "Nathan announces both: 'The LORD also hath put away thy sin; thou shalt not die' and 'the sword shall never depart from thine house' (2 Sam 12:10-14). The rest of the book shows David's family reaping what he sowed. Forgiveness restores the relationship with God, but it does not erase the damage done to others. Both Jewish and Christian interpreters have stressed this.",
+        "defence": "Evangelical teachers agree, often distinguishing God's judicial forgiveness from his fatherly discipline (Heb 12:5-11). The popular simplification is acknowledged across traditions.",
+        "whyItMatters": "Understanding both grace and consequence helps churches respond honestly when leaders fall, caring for victims rather than rushing to restoration.",
+        "refs": [
+          "2 Sam 12:10-14",
+          "Heb 12:5-11"
+        ],
+        "scholars": [
+          "Walter Brueggemann",
+          "Robert Gordon",
+          "Dale Ralph Davis"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "2 Samuel grounded Israel's hope in God's unbreakable promise to David's house, while warning kings that God's anointed are not above his law and that sin brings real consequences on families and nations.",
+      "now": "2 Samuel speaks about the abuse of power, the courage to confront leaders, true repentance, the long consequences of sin in families, kindness to the weak, and a God whose promises survive human failure."
+    },
+    "sources": [
+      {
+        "author": "Robert Alter",
+        "title": "The David Story: A Translation with Commentary of 1 and 2 Samuel",
+        "year": 1999
+      },
+      {
+        "author": "P. Kyle McCarter Jr.",
+        "title": "II Samuel (Anchor Bible)",
+        "year": 1984
+      },
+      {
+        "author": "Leonhard Rost",
+        "title": "The Succession to the Throne of David (English translation of 1926 German original)",
+        "year": 1982
+      },
+      {
+        "author": "Baruch Halpern",
+        "title": "David's Secret Demons: Messiah, Murderer, Traitor, King",
+        "year": 2001
+      },
+      {
+        "author": "Sara M. Koenig",
+        "title": "Bathsheba Survives",
+        "year": 2018
+      }
+    ]
+  },
+  {
+    "id": "1-kings",
+    "oneLine": "1 Kings tells how Solomon's glorious kingdom and temple were undone by divided loyalties, how the nation split in two, and how prophets like Elijah fought to keep Israel faithful to the LORD.",
+    "author": {
+      "name": "Unknown; Jeremiah by Jewish tradition; Deuteronomistic historians (critical)",
+      "who": "The Talmud (Baba Bathra 15a) names Jeremiah. Most scholars see Kings as the climax of the Deuteronomistic History, compiled by scribes shaped by Deuteronomy's theology, using royal annals and prophetic stories.",
+      "howWeKnow": "Kings cites its sources by name: 'the book of the acts of Solomon' (1 Kgs 11:41), 'the book of the chronicles of the kings of Israel' (1 Kgs 14:19) and 'of the kings of Judah' (1 Kgs 14:29). It judges every king by Deuteronomy's standards: loyalty to the LORD alone and worship at the place he chose. Frank Moore Cross proposed a first edition under Josiah and a second in the exile; Martin Noth one exilic author; the Göttingen school several exilic layers.",
+      "otherWritings": [
+        "2 Kings (one book in the Hebrew Bible)",
+        "Part of the Deuteronomistic History"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem and/or Babylon",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "On the double-redaction view, a first edition was written in Jerusalem under Josiah (c. 620 BC) and completed in exile in Babylon (c. 560 BC). Coordinates are for Jerusalem.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Judah in its last decades and the exiles in Babylon",
+      "place": "Jerusalem and Babylon",
+      "situation": "The temple Solomon built had been burned and the people deported. Kings answers the exiles' painful question: how did this happen? Not because the LORD was weak, but because king and people broke the covenant again and again despite the prophets' warnings.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -971,
+      "to": -852,
+      "note": "From David's old age and Solomon's accession (c. 971/970 BC) to the death of Ahab (c. 853 BC) and the start of Ahaziah's reign. Edwin Thiele's widely used chronology dates the division of the kingdom to 931/930 BC. Ahab's participation in the battle of Qarqar (853 BC) is confirmed by Assyrian records, providing a fixed anchor."
+    },
+    "worldEvents": [
+      {
+        "year": -970,
+        "event": "Hiram I rules Tyre; Phoenician trade networks span the Mediterranean."
+      },
+      {
+        "year": -925,
+        "event": "Pharaoh Shoshenq I (biblical Shishak) campaigns in Canaan, recorded on a temple wall at Karnak (compare 1 Kgs 14:25-26)."
+      },
+      {
+        "year": -880,
+        "event": "Omri founds Samaria as Israel's capital; Assyrian texts later call Israel 'the house of Omri'."
+      },
+      {
+        "year": -853,
+        "event": "At the battle of Qarqar, Shalmaneser III of Assyria lists 'Ahab the Israelite' with 2,000 chariots among his opponents (Kurkh Monolith)."
+      },
+      {
+        "year": -840,
+        "event": "The Mesha Stele records Moab's revolt against Israel and mentions Omri."
+      }
+    ],
+    "backdrop": "1 Kings opens with an old, cold David and a palace power struggle. Adonijah makes himself king, but Nathan and Bathsheba secure the throne for Solomon (1 Kgs 1). Solomon consolidates power, asks God for wisdom rather than riches, and builds the temple and his palace with Phoenician help. His reign is pictured as a golden age: peace, trade, international fame and wisdom 'that excelled the wisdom of all the children of the east country' (1 Kgs 4:30).\n\nArchaeologists debate how grand Solomon's kingdom really was. Yigael Yadin linked similar six-chambered gates at Hazor, Megiddo and Gezer to Solomon's building projects (1 Kgs 9:15). Israel Finkelstein's 'low chronology' redates many of these structures to the 9th century and the Omride kings, picturing 10th-century Jerusalem as modest. Others (Amihai Mazar, Yosef Garfinkel) argue for a significant 10th-century state. The question remains open.\n\nThe narrator shows cracks in the golden age. Solomon takes 700 wives and 300 concubines, many from nations Israel was told not to marry, and builds shrines for their gods (1 Kgs 11:1-8). He also uses forced labour and heavy taxes. When his son Rehoboam refuses to lighten the load, the ten northern tribes break away under Jeroboam (1 Kgs 12). Jeroboam sets up golden calves at Bethel and Dan so that his people will not go to Jerusalem (1 Kgs 12:26-30), a sin the narrator holds against every later northern king.\n\nThe second half focuses on the northern kingdom under the Omride dynasty, especially Ahab and his Phoenician queen Jezebel, who promote the worship of Baal. Into this crisis steps Elijah the Tishbite. He announces drought (a direct challenge to Baal, the storm god), confronts the prophets of Baal on Mount Carmel and, when Jezebel threatens him, flees to Horeb, where God meets him not in wind, earthquake or fire, but in 'a still small voice' (1 Kgs 19:12). Kings presents prophets as the covenant's enforcers, calling kings back to the LORD.",
+    "culture": [
+      {
+        "term": "Temple as God's house",
+        "explain": "Ancient temples were seen as divine palaces. Solomon's temple followed a common Syro-Phoenician layout (porch, main hall, inner sanctuary), similar to the temple excavated at Ain Dara in Syria. But no statue of God stood inside.",
+        "refs": [
+          "1 Kgs 6:1-38",
+          "1 Kgs 8:10-13",
+          "1 Kgs 8:27"
+        ]
+      },
+      {
+        "term": "High places",
+        "explain": "Local hilltop shrines used for worship of the LORD and of other gods. Deuteronomy demanded one central place; Kings condemns even good kings for leaving the high places standing.",
+        "refs": [
+          "1 Kgs 3:2-4",
+          "1 Kgs 15:14",
+          "1 Kgs 22:43"
+        ]
+      },
+      {
+        "term": "Royal marriages and alliances",
+        "explain": "Kings sealed treaties by marrying foreign princesses, who brought their gods with them. Solomon's marriages were diplomacy, but the narrator sees them as spiritual compromise.",
+        "refs": [
+          "1 Kgs 3:1",
+          "1 Kgs 11:1-8",
+          "Deut 17:17"
+        ]
+      },
+      {
+        "term": "Baal the storm god",
+        "explain": "Baal was believed to bring rain and fertility. Elijah's drought and the fire on Carmel strike at Baal's claimed powers.",
+        "refs": [
+          "1 Kgs 17:1",
+          "1 Kgs 18:21-39"
+        ]
+      },
+      {
+        "term": "Regnal formulas",
+        "explain": "Each king is introduced with the same pattern: when he began to reign, how long, his mother's name (for Judah), and whether he did right or evil. The pattern lets readers compare kings.",
+        "refs": [
+          "1 Kgs 15:1-5",
+          "1 Kgs 15:9-11",
+          "1 Kgs 16:29-33"
+        ]
+      },
+      {
+        "term": "Inherited land",
+        "explain": "Naboth refuses to sell his vineyard because family land was God's gift that should not be sold (Lev 25:23). Jezebel's plot shows a foreign idea of royal power overruling covenant law.",
+        "refs": [
+          "1 Kgs 21:1-16",
+          "Lev 25:23"
+        ]
+      }
+    ],
+    "jewishLens": "Kings is the last of the Former Prophets in the Hebrew Bible, and many of its chapters are read as haftarot. When the Torah tells of Abraham's old age (Gen 23-25), the haftarah is David's old age and Solomon's succession (1 Kgs 1:1-31). When Jacob blesses his sons on his deathbed, the haftarah is David's charge to Solomon (1 Kgs 2:1-12). The building of the temple is read with the building of the tabernacle (1 Kgs 5:12-6:13), and Elijah on Mount Carmel (1 Kgs 18) is read with the golden calf (Exod 30-34), two stories about Israel wavering between God and an idol. Solomon's dedication prayer (1 Kgs 8) is read on Sukkot, since the dedication took place at that feast (1 Kgs 8:2).\n\nElijah holds a unique place in Jewish life. Because he was taken up alive (2 Kgs 2:11) and Malachi promises he will return before the day of the LORD (Mal 4:5-6), Jewish tradition sees him as the forerunner of the Messiah. A cup is poured for Elijah at the Passover Seder and the door opened for him; a chair is set for him at every circumcision; and the song *Eliyahu ha-Navi* is sung at the close of every Sabbath. The rabbis say Elijah will settle unresolved questions of law (the word *teku*, 'let it stand', was later read as an acronym pointing to him).\n\nSolomon's prayer at the temple dedication is the heart of the book for its first audience. He admits that 'the heaven and heaven of heavens cannot contain thee' (1 Kgs 8:27) and asks that when Israel sins and is taken captive to a far land, if they pray toward this house and repent, God will hear and forgive (1 Kgs 8:46-50). Exiles in Babylon prayed toward Jerusalem on the basis of this prayer (compare Dan 6:10), and Jews still face Jerusalem when they pray. The covenant relationship did not end with the temple's destruction; Solomon himself had made provision for repentance in exile.",
+    "flow": [
+      {
+        "label": "Solomon secures the throne",
+        "detail": "David names Solomon king and charges him to keep the law; rivals are removed.",
+        "refs": [
+          "1 Kgs 1:28-40",
+          "1 Kgs 2:1-4",
+          "1 Kgs 2:46"
+        ]
+      },
+      {
+        "label": "Wisdom and wealth",
+        "detail": "Solomon asks for a listening heart; God grants wisdom, riches and honour. Israel enjoys peace.",
+        "refs": [
+          "1 Kgs 3:5-14",
+          "1 Kgs 3:16-28",
+          "1 Kgs 4:20-25"
+        ]
+      },
+      {
+        "label": "Temple built and dedicated",
+        "detail": "The temple is built in seven years. God's glory fills it and Solomon prays for forgiveness and for foreigners.",
+        "refs": [
+          "1 Kgs 6:1",
+          "1 Kgs 8:10-11",
+          "1 Kgs 8:41-43",
+          "1 Kgs 8:46-53"
+        ]
+      },
+      {
+        "label": "Solomon's heart turns",
+        "detail": "Wealth, horses and foreign wives lead Solomon to build shrines for other gods. God announces the kingdom will be torn.",
+        "refs": [
+          "1 Kgs 10:14-29",
+          "1 Kgs 11:1-13"
+        ]
+      },
+      {
+        "label": "The kingdom divides",
+        "detail": "Rehoboam's harshness drives the north away. Jeroboam sets up golden calves at Bethel and Dan.",
+        "refs": [
+          "1 Kgs 12:1-20",
+          "1 Kgs 12:25-33"
+        ]
+      },
+      {
+        "label": "Kings rise and fall",
+        "detail": "Northern dynasties are overthrown in coups; Judah has some good kings like Asa. Omri builds Samaria and Ahab marries Jezebel.",
+        "refs": [
+          "1 Kgs 15:9-14",
+          "1 Kgs 16:23-33"
+        ]
+      },
+      {
+        "label": "Elijah against Baal",
+        "detail": "Elijah announces drought, is fed by ravens and a widow, defeats Baal's prophets on Carmel and meets God at Horeb.",
+        "refs": [
+          "1 Kgs 17:1-24",
+          "1 Kgs 18:20-40",
+          "1 Kgs 19:9-18"
+        ]
+      },
+      {
+        "label": "Ahab's end",
+        "detail": "Ahab seizes Naboth's vineyard and is condemned; ignoring the prophet Micaiah, he dies in battle at Ramoth-gilead.",
+        "refs": [
+          "1 Kgs 21:1-29",
+          "1 Kgs 22:13-38"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "1 Kings: glory, division, prophets",
+      "branches": [
+        {
+          "label": "Solomon",
+          "items": [
+            "Listening heart",
+            "Temple builder",
+            "International fame",
+            "Divided heart"
+          ]
+        },
+        {
+          "label": "Temple",
+          "items": [
+            "God's glory fills",
+            "Heaven cannot contain",
+            "Prayer toward this house",
+            "Foreigners welcome"
+          ]
+        },
+        {
+          "label": "Division",
+          "items": [
+            "Rehoboam's harshness",
+            "Jeroboam's calves",
+            "Two kingdoms",
+            "Rival sanctuaries"
+          ]
+        },
+        {
+          "label": "Kings judged",
+          "items": [
+            "Did right or evil",
+            "High places remain",
+            "Omri and Ahab",
+            "Jezebel's Baal"
+          ]
+        },
+        {
+          "label": "Prophets",
+          "items": [
+            "Ahijah",
+            "Elijah on Carmel",
+            "Still small voice",
+            "Micaiah's truth"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Listening heart",
+        "original": "lev shomea' (לֵב שֹׁמֵעַ)",
+        "meaning": "What Solomon asks for: a heart that hears God and the people, able to judge rightly. Usually translated 'understanding heart'.",
+        "refs": [
+          "1 Kgs 3:9"
+        ]
+      },
+      {
+        "word": "Wholly devoted / perfect",
+        "original": "shalem (שָׁלֵם)",
+        "meaning": "Whole, undivided. Solomon's heart was not 'perfect with the LORD' as David's was; the word plays on Solomon's name (Shelomoh).",
+        "refs": [
+          "1 Kgs 8:61",
+          "1 Kgs 11:4"
+        ]
+      },
+      {
+        "word": "Name",
+        "original": "shem (שֵׁם)",
+        "meaning": "God's name dwells in the temple: his presence and reputation, without confining God to a building.",
+        "refs": [
+          "1 Kgs 8:16",
+          "1 Kgs 8:29",
+          "1 Kgs 9:3"
+        ]
+      },
+      {
+        "word": "Halt / limp",
+        "original": "pasach (פָּסַח)",
+        "meaning": "Elijah asks how long Israel will 'halt between two opinions'; the same verb describes the Baal prophets' limping dance.",
+        "refs": [
+          "1 Kgs 18:21",
+          "1 Kgs 18:26"
+        ]
+      },
+      {
+        "word": "Sound of thin silence",
+        "original": "qol demamah daqqah (קוֹל דְּמָמָה דַקָּה)",
+        "meaning": "Literally 'a voice of thin silence'; translated 'a still small voice'. God's presence comes not in spectacle but in quiet.",
+        "refs": [
+          "1 Kgs 19:12"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-chronicles",
+        "how": "Chronicles retells Solomon's reign and Judah's kings, omitting Solomon's apostasy and most of the north.",
+        "refs": [
+          "2 Chr 1:7-12",
+          "2 Chr 5:13-14",
+          "2 Chr 7:1-3"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Solomon breaks almost every point of Deuteronomy's law of the king: horses from Egypt, many wives, much gold.",
+        "refs": [
+          "Deut 17:16-17",
+          "1 Kgs 10:26-29",
+          "1 Kgs 11:3"
+        ]
+      },
+      {
+        "bookId": "proverbs",
+        "how": "Proverbs is attributed in large part to Solomon, whose wisdom 1 Kings celebrates.",
+        "refs": [
+          "Prov 1:1",
+          "1 Kgs 4:32"
+        ]
+      },
+      {
+        "bookId": "malachi",
+        "how": "Malachi promises Elijah will return before the day of the LORD.",
+        "refs": [
+          "Mal 4:5-6"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Jesus cites Elijah's ministry to the widow of Zarephath as God's care for outsiders; John the Baptist comes in Elijah's spirit.",
+        "refs": [
+          "Luke 4:25-26",
+          "Luke 1:17"
+        ]
+      },
+      {
+        "bookId": "james",
+        "how": "James holds up Elijah as a man 'subject to like passions as we are' whose prayer was powerful.",
+        "refs": [
+          "Jas 5:17-18"
+        ]
+      }
+    ],
+    "jesusLens": "Jesus said 'a greater than Solomon is here' (Matt 12:42), presenting himself as the true wise son of David who brings God's kingdom. Solomon built the temple; Jesus speaks of his own body as the temple (John 2:19-21). The Queen of Sheba coming from far away to hear Solomon's wisdom (1 Kgs 10:1-9) prefigured, for early Christians, the nations coming to Christ. Elijah is central in the Gospels: John the Baptist comes 'in the spirit and power of Elias' (Luke 1:17; Matt 11:14), Elijah appears with Moses at the transfiguration (Mark 9:4), and Jesus raises a widow's son at Nain (Luke 7:11-16) as Elijah did at Zarephath (1 Kgs 17:17-24). Jewish tradition continues to await Elijah as herald of the Messiah, and many Jewish readers see Solomon's son as the 'son of David' line through which redemption will come. Christians and Jews read Solomon's failures alike as a sign that no ordinary king fulfils God's promise.",
+    "misreadings": [
+      {
+        "topic": "The 'still small voice' as inner personal guidance",
+        "popular": "God speaks to believers today mainly through a quiet inner voice, as he did to Elijah; we should learn to listen for this whisper in our hearts for personal decisions.",
+        "inContext": "At Horeb God meets a despairing prophet who thinks he alone is left. The scene echoes Moses on the same mountain (Exod 33:18-23): God passes by, not in wind, earthquake or fire (the usual signs of his appearing) but in 'a sound of thin silence'. Then God speaks clearly, giving Elijah a commission and correcting him: there are 7,000 faithful (1 Kgs 19:15-18). The point is that God's work is not always spectacular, and that Elijah is not alone, rather than a technique for private guidance.",
+        "defence": "Many evangelical and charismatic teachers believe God does speak to individuals inwardly and use this passage as an illustration; scholars such as Dallas Willard defended a careful practice of hearing God. Evangelical commentators like Iain Provan and Dale Ralph Davis accept that God can work quietly but stress the passage's covenant and prophetic setting. The disagreement is about application more than about the text.",
+        "whyItMatters": "Reading the passage in context comforts discouraged leaders: God is present in the quiet, he still has a plan, and the faithful are more than we think.",
+        "refs": [
+          "1 Kgs 19:9-18",
+          "Exod 33:18-23"
+        ],
+        "scholars": [
+          "Iain Provan",
+          "Dale Ralph Davis",
+          "Dallas Willard",
+          "Walter Brueggemann"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Solomon's wisdom as a path to riches",
+        "popular": "Solomon asked for wisdom and God added wealth; so if you seek God first, he will make you prosperous like Solomon.",
+        "inContext": "God did give Solomon riches he did not ask for (1 Kgs 3:13). But the narrator then shows that the riches, horses and foreign alliances became Solomon's downfall, breaking Deuteronomy's limits on kings (Deut 17:16-17; 1 Kgs 10:26-11:4). Scholars such as Iain Provan and Walter Brueggemann read the account of Solomon's glory as subtly critical.",
+        "defence": "Evangelical scholars agree that 1 Kings presents wealth as both gift and danger. Some see the early chapters as genuinely celebrating Solomon before his decline; others see irony from the start. All agree it is not a formula for prosperity.",
+        "whyItMatters": "Solomon's story warns that God's gifts can become idols, and that a divided heart can ruin even the wisest person.",
+        "refs": [
+          "1 Kgs 3:10-14",
+          "1 Kgs 10:26-29",
+          "1 Kgs 11:1-6",
+          "Deut 17:16-17"
+        ],
+        "scholars": [
+          "Iain Provan",
+          "Walter Brueggemann",
+          "Mordechai Cogan",
+          "Peter Leithart"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "For exiles, 1 Kings explained that the temple's fall began with Solomon's divided heart and Jeroboam's rival worship, that prophets had warned faithfully, and that Solomon's prayer still offered a way back: repent and pray toward God's house, even from Babylon.",
+      "now": "1 Kings speaks about wisdom and its misuse, the seduction of wealth and power, political division, worship that mixes God with other loyalties, courage against corrupt power (Elijah, Micaiah, Naboth) and God's quiet presence with burned-out servants."
+    },
+    "sources": [
+      {
+        "author": "Iain W. Provan",
+        "title": "1 and 2 Kings (New International Biblical Commentary)",
+        "year": 1995
+      },
+      {
+        "author": "Mordechai Cogan",
+        "title": "1 Kings (Anchor Bible)",
+        "year": 2001
+      },
+      {
+        "author": "Frank Moore Cross",
+        "title": "Canaanite Myth and Hebrew Epic",
+        "year": 1973
+      },
+      {
+        "author": "Iain Provan, V. Philips Long and Tremper Longman III",
+        "title": "A Biblical History of Israel",
+        "year": 2003
+      },
+      {
+        "author": "Edwin R. Thiele",
+        "title": "The Mysterious Numbers of the Hebrew Kings",
+        "year": 1951
+      }
+    ]
+  },
+  {
+    "id": "2-kings",
+    "oneLine": "2 Kings follows both kingdoms downhill, from Elisha's wonders through the fall of Samaria to Assyria and Jerusalem to Babylon, explaining exile as the result of covenant betrayal while leaving a small window of hope.",
+    "author": {
+      "name": "Unknown; Jeremiah by Jewish tradition; Deuteronomistic historians (critical)",
+      "who": "The Talmud attributes Kings to Jeremiah. The last chapters closely match Jer 52. Critical scholars see 2 Kings as the conclusion of the Deuteronomistic History, completed in the Babylonian exile.",
+      "howWeKnow": "The last event recorded is the release of King Jehoiachin from prison in Babylon in the 37th year of his exile (2 Kgs 25:27), about 561 BC, so the book was finished after that. The book names its sources (the chronicles of the kings of Israel and Judah) and includes prophetic story cycles about Elisha. Many scholars see a Josianic edition ending with Josiah's reform (2 Kgs 23:25), updated after 586 BC to explain the disaster (2 Kgs 23:26-27).",
+      "otherWritings": [
+        "1 Kings (one book in the Hebrew Bible)",
+        "Part of the Deuteronomistic History"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Babylon (final edition), possibly using Jerusalem sources",
+      "coords": [
+        44.42,
+        32.54
+      ],
+      "note": "The final edition probably came from exiles in Babylon, or from those left in Judah, around 560 BC. Coordinates are for Babylon.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "Judeans in exile and those left in the ruined land",
+      "place": "Babylonia and Judah",
+      "situation": "The temple was burned, the king blinded or imprisoned, and the people scattered. Was God defeated? Had he abandoned his covenant? 2 Kings answers: the LORD is just and his word came true exactly; the fault is Israel's. Yet the final paragraph, with David's heir eating at the Babylonian king's table, hints that the story is not over.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -852,
+      "to": -561,
+      "note": "From Ahaziah of Israel and Elijah's departure (c. 852 BC) to Jehoiachin's release (c. 561 BC). Fixed points come from Assyrian and Babylonian records: Jehu's tribute to Shalmaneser III (841 BC), the fall of Samaria (722 BC), Sennacherib's invasion (701 BC), the first capture of Jerusalem (16 March 597 BC, in the Babylonian Chronicle) and its destruction (586 BC, some say 587)."
+    },
+    "worldEvents": [
+      {
+        "year": -841,
+        "event": "Shalmaneser III's Black Obelisk shows Jehu (or his envoy) bowing with tribute, the only ancient picture of an Israelite king."
+      },
+      {
+        "year": -722,
+        "event": "Samaria falls to Assyria after a three-year siege; Sargon II claims to have deported 27,290 people."
+      },
+      {
+        "year": -701,
+        "event": "Sennacherib invades Judah, besieges Lachish (shown in reliefs at Nineveh) and shuts Hezekiah up in Jerusalem 'like a bird in a cage', but does not take the city."
+      },
+      {
+        "year": -612,
+        "event": "Nineveh falls to the Babylonians and Medes; Assyria's empire collapses."
+      },
+      {
+        "year": -586,
+        "event": "Babylon destroys Jerusalem and the temple; the Lachish letters capture the final weeks of Judah's defence."
+      }
+    ],
+    "backdrop": "2 Kings covers about three centuries in which the small kingdoms of Israel and Judah were caught between superpowers. In the 9th century the threat came from Aram (Damascus), whose kings fought Israel for decades. From the mid-8th century the Neo-Assyrian Empire under Tiglath-pileser III began a new policy: conquering, deporting and resettling whole populations to break national identities. The northern kingdom of Israel, weakened by coups (four kings were assassinated in about fifteen years, 2 Kgs 15), was swallowed up. Samaria fell in 722 BC, its people were deported and foreigners settled in their place (2 Kgs 17:6; 2 Kgs 17:24).\n\nJudah survived another 135 years. Hezekiah reformed worship, built the Siloam tunnel to bring water inside Jerusalem (2 Kgs 20:20; its Hebrew inscription was found in 1880), and resisted Sennacherib in 701 BC. Assyria's own annals boast of shutting Hezekiah up in Jerusalem but do not claim to have taken it, which fits the Bible's account of the city's deliverance (2 Kgs 19:35-36). But Hezekiah's son Manasseh reigned 55 years and filled Judah with idolatry and violence (2 Kgs 21:1-16), and the narrator marks this as the point of no return.\n\nJosiah, the last great reformer, purged idolatry after the book of the law was found in the temple (2 Kgs 22-23). He is praised above all kings (2 Kgs 23:25), yet he died at Megiddo fighting Pharaoh Neco (2 Kgs 23:29). After him, Judah lurched between Egypt and Babylon. Nebuchadnezzar took Jerusalem in 597 BC, deporting King Jehoiachin, the elite and craftsmen (including the young Ezekiel). When Zedekiah rebelled, Babylon returned, burned the temple in 586 BC and deported most of the rest.\n\nAgainst this backdrop stand the prophets. Elisha, Elijah's successor, performs more miracles than anyone in the Old Testament: healing water, multiplying oil and bread, raising a dead boy, healing the Syrian general Naaman. Kings also names Jonah (2 Kgs 14:25) and Isaiah (2 Kgs 19-20) and the prophetess Huldah (2 Kgs 22:14). The narrator's verdict on the north is explicit: the LORD 'testified against Israel... by all the prophets', but they would not hear (2 Kgs 17:13-14).",
+    "culture": [
+      {
+        "term": "Assyrian deportation",
+        "explain": "Assyria moved conquered peoples across the empire to prevent revolt. The resettled people in Samaria mixed their gods with worship of the LORD, the background to the later Samaritans.",
+        "refs": [
+          "2 Kgs 17:6",
+          "2 Kgs 17:24-33",
+          "2 Kgs 18:31-32"
+        ]
+      },
+      {
+        "term": "Vassal tribute",
+        "explain": "Small kings paid annual tribute to stay alive. Stopping payment meant rebellion, and Kings shows Hoshea, Hezekiah, Jehoiakim and Zedekiah taking that gamble.",
+        "refs": [
+          "2 Kgs 15:19-20",
+          "2 Kgs 17:3-4",
+          "2 Kgs 18:13-16",
+          "2 Kgs 24:1"
+        ]
+      },
+      {
+        "term": "Sons of the prophets",
+        "explain": "Communities or guilds of prophets who gathered around leaders like Elijah and Elisha, living together and sharing meals.",
+        "refs": [
+          "2 Kgs 2:3-7",
+          "2 Kgs 4:38-44",
+          "2 Kgs 6:1-7"
+        ]
+      },
+      {
+        "term": "Child sacrifice",
+        "explain": "Passing children 'through the fire' was practised in Phoenician and Ammonite religion and adopted by Kings Ahaz and Manasseh. The valley of Hinnom (Gehenna) became associated with it.",
+        "refs": [
+          "2 Kgs 16:3",
+          "2 Kgs 21:6",
+          "2 Kgs 23:10"
+        ]
+      },
+      {
+        "term": "Book of the law found",
+        "explain": "Ancient kings sometimes reported finding old foundation documents during temple repairs. The book found under Josiah is usually identified with Deuteronomy.",
+        "refs": [
+          "2 Kgs 22:8-13",
+          "2 Kgs 23:1-3"
+        ]
+      },
+      {
+        "term": "Seals and bullae",
+        "explain": "Clay seal impressions found in Jerusalem bear names of officials from this era, including Gemariah son of Shaphan (compare Jer 36:10) and a bulla reading 'belonging to Hezekiah son of Ahaz, king of Judah'.",
+        "refs": [
+          "2 Kgs 22:3",
+          "2 Kgs 18:1"
+        ]
+      }
+    ],
+    "jewishLens": "The Elisha stories are favourites in the synagogue haftarah cycle. The Shunammite woman promised a son (2 Kgs 4:1-37) is read with the story of Sarah promised Isaac (Gen 18); Naaman's healing (2 Kgs 5) with the laws of skin disease (Lev 12-13); and the four lepers who discover the abandoned Aramean camp (2 Kgs 7:3-20) with the laws of purification (Lev 14-15). Josiah's great Passover (2 Kgs 23) is read on the second day of Passover, and the account of Jehoash repairing the temple with public funds (2 Kgs 12) is read on Shabbat Shekalim, when the annual half-shekel for the temple was announced.\n\nThe rabbis drew moral lessons from the kings. Hezekiah is praised for spreading Torah study so widely that, according to the Talmud (Sanhedrin 94b), there was no child in the land unfamiliar with the laws of purity. Manasseh, the worst king, became a symbol of the power of repentance: Chronicles says he repented in captivity (2 Chr 33:12-13), and the rabbis debated whether even he has a share in the world to come (Mishnah Sanhedrin 10:2 lists him among those who do not, but other teachers say his repentance was accepted). Elijah's chariot of fire made him a living link between heaven and earth.\n\nThe first audience, exiles in Babylon, would have heard 2 Kings as a hard but honest confession. The narrator's long sermon at the fall of Samaria (2 Kgs 17:7-23) lists the sins: other gods, high places, ignoring the prophets, rejecting the covenant. Judah did the same. This was not God's failure but Israel's. Yet the book refuses to end in despair. Its last scene shows Jehoiachin, the exiled son of David, released from prison and given a seat at the king's table 'all the days of his life' (2 Kgs 25:29-30). The line of David survives. The covenant relationship, though wounded, is not dead, and readers are left to wait, like Solomon prayed, for God to hear from heaven and forgive (1 Kgs 8:46-50).",
+    "flow": [
+      {
+        "label": "Elijah's mantle passes",
+        "detail": "Elijah is taken up in a whirlwind; Elisha receives a double portion of his spirit.",
+        "refs": [
+          "2 Kgs 2:1-15"
+        ]
+      },
+      {
+        "label": "Elisha's wonders",
+        "detail": "Elisha helps widows, raises a boy, feeds a crowd, heals Naaman and opens his servant's eyes to God's armies.",
+        "refs": [
+          "2 Kgs 4:1-44",
+          "2 Kgs 5:1-19",
+          "2 Kgs 6:15-17"
+        ]
+      },
+      {
+        "label": "Jehu's bloody purge",
+        "detail": "Jehu is anointed, kills Joram, Jezebel and Ahab's house and wipes out Baal worship, but keeps Jeroboam's calves.",
+        "refs": [
+          "2 Kgs 9:1-37",
+          "2 Kgs 10:18-31"
+        ]
+      },
+      {
+        "label": "Samaria falls",
+        "detail": "After decades of instability, Assyria destroys the northern kingdom; the narrator explains why.",
+        "refs": [
+          "2 Kgs 17:1-6",
+          "2 Kgs 17:7-23"
+        ]
+      },
+      {
+        "label": "Hezekiah trusts God",
+        "detail": "Hezekiah reforms worship, prays when Sennacherib besieges Jerusalem, and the city is delivered.",
+        "refs": [
+          "2 Kgs 18:1-8",
+          "2 Kgs 19:14-20",
+          "2 Kgs 19:32-37"
+        ]
+      },
+      {
+        "label": "Manasseh's evil",
+        "detail": "Manasseh rebuilds idolatry and sheds innocent blood; God announces Jerusalem's fate.",
+        "refs": [
+          "2 Kgs 21:1-16"
+        ]
+      },
+      {
+        "label": "Josiah's reform",
+        "detail": "The book of the law is found; Josiah renews the covenant, purges idols and keeps Passover, but the judgment is only delayed.",
+        "refs": [
+          "2 Kgs 22:8-20",
+          "2 Kgs 23:1-25",
+          "2 Kgs 23:26-27"
+        ]
+      },
+      {
+        "label": "Jerusalem falls, hope flickers",
+        "detail": "Babylon captures Jerusalem, burns the temple and deports the people. Jehoiachin is later released and honoured.",
+        "refs": [
+          "2 Kgs 24:10-16",
+          "2 Kgs 25:8-12",
+          "2 Kgs 25:27-30"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "2 Kings: the road to exile",
+      "branches": [
+        {
+          "label": "Prophets",
+          "items": [
+            "Elisha's double portion",
+            "Naaman healed",
+            "Isaiah and Hezekiah",
+            "Huldah's word"
+          ]
+        },
+        {
+          "label": "Northern kingdom",
+          "items": [
+            "Jehu's purge",
+            "Jeroboam's calves persist",
+            "Coups and chaos",
+            "Fall of Samaria"
+          ]
+        },
+        {
+          "label": "Southern kingdom",
+          "items": [
+            "Athaliah and Joash",
+            "Hezekiah's trust",
+            "Manasseh's evil",
+            "Josiah's reform"
+          ]
+        },
+        {
+          "label": "Empires",
+          "items": [
+            "Aram",
+            "Assyria",
+            "Egypt",
+            "Babylon"
+          ]
+        },
+        {
+          "label": "Judgment and hope",
+          "items": [
+            "Covenant curses fulfilled",
+            "Temple burned",
+            "Exile",
+            "David's heir released"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Exile / carry away",
+        "original": "galah (גָּלָה)",
+        "meaning": "To uncover, depart, go into exile. The word sounds the book's ending for both kingdoms.",
+        "refs": [
+          "2 Kgs 17:6",
+          "2 Kgs 17:23",
+          "2 Kgs 25:21"
+        ]
+      },
+      {
+        "word": "Sin / cause to sin",
+        "original": "chata', hechti' (חָטָא, הֶחֱטִיא)",
+        "meaning": "To miss the mark; in the causative, to make others sin. The refrain about northern kings: they 'made Israel to sin'.",
+        "refs": [
+          "2 Kgs 10:29",
+          "2 Kgs 17:21-22"
+        ]
+      },
+      {
+        "word": "Trust",
+        "original": "batach (בָּטַח)",
+        "meaning": "To rely on. The Assyrian envoy mocks Hezekiah's trust; the narrator says no king trusted the LORD like him.",
+        "refs": [
+          "2 Kgs 18:5",
+          "2 Kgs 18:19-22"
+        ]
+      },
+      {
+        "word": "Turn / return",
+        "original": "shuv (שׁוּב)",
+        "meaning": "To turn back to God (repent). Josiah 'turned to the LORD with all his heart'.",
+        "refs": [
+          "2 Kgs 17:13",
+          "2 Kgs 23:25"
+        ]
+      },
+      {
+        "word": "Word of the LORD",
+        "original": "devar YHWH (דְּבַר יְהוָה)",
+        "meaning": "The prophetic word that always comes true in Kings, shaping history.",
+        "refs": [
+          "2 Kgs 1:17",
+          "2 Kgs 10:10",
+          "2 Kgs 24:2"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "isaiah",
+        "how": "Isa 36-39 repeats the account of Hezekiah and Sennacherib almost word for word.",
+        "refs": [
+          "Isa 36:1-22",
+          "Isa 37:1-38",
+          "2 Kgs 18:13-37"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Jeremiah prophesied through Judah's last kings; Jer 52 matches the end of 2 Kings.",
+        "refs": [
+          "Jer 52:1-34",
+          "2 Kgs 24:18-25:30"
+        ]
+      },
+      {
+        "bookId": "2-chronicles",
+        "how": "Chronicles retells Judah's last kings with more emphasis on repentance, including Manasseh's change of heart.",
+        "refs": [
+          "2 Chr 33:10-17",
+          "2 Chr 36:15-21"
+        ]
+      },
+      {
+        "bookId": "jonah",
+        "how": "Jonah son of Amittai is named as a prophet in the days of Jeroboam II.",
+        "refs": [
+          "2 Kgs 14:25",
+          "Jonah 1:1"
+        ]
+      },
+      {
+        "bookId": "luke",
+        "how": "Jesus cites Naaman the Syrian as an outsider God healed, angering his hometown.",
+        "refs": [
+          "Luke 4:27"
+        ]
+      },
+      {
+        "bookId": "ezra",
+        "how": "Ezra picks up the story that 2 Kings ends: exile is followed by return.",
+        "refs": [
+          "Ezra 1:1-4",
+          "2 Kgs 25:21"
+        ]
+      }
+    ],
+    "jesusLens": "Many of Jesus' miracles echo Elisha: he feeds a crowd with a few loaves and has leftovers (compare 2 Kgs 4:42-44 with Mark 6:35-44), raises the dead, and heals a leper. In Nazareth Jesus points to Naaman, a foreign enemy healed by Israel's God, as a sign of God's grace to outsiders (Luke 4:27). Elijah's ascension and the passing of his spirit to Elisha are echoed in Jesus' ascension and the giving of the Spirit to his disciples (Acts 1:8-11; Acts 2:1-4). The last scene of 2 Kings, David's heir lifted from prison to the king's table, has been read by Christian interpreters as a seed of hope fulfilled in the Son of David who is raised and enthroned. Jewish readers likewise see in Jehoiachin's release the survival of David's line; his grandson Zerubbabel led the return (1 Chr 3:17-19; Ezra 3:2).",
+    "misreadings": [
+      {
+        "topic": "Elisha and the 'little children' mauled by bears",
+        "popular": "Sceptics cite 2 Kgs 2:23-24 as proof of a petty, cruel God who killed small children for teasing a bald man; some popular preaching uses it simply to warn children not to mock adults.",
+        "inContext": "The Hebrew *ne'arim qetannim* can mean 'young men' or 'youths'; *na'ar* is used for adults such as Joseph at 17 and soldiers. The scene is at Bethel, the centre of Jeroboam's calf worship, and a large group (at least 42) confronts the new prophet with 'go up, thou bald head', possibly mocking Elijah's ascension and telling Elisha to disappear too. The episode reads as a rejection of God's prophet by an apostate city, echoing the covenant curse of wild animals (Lev 26:21-22).",
+        "defence": "Evangelical commentators such as Iain Provan and Dale Ralph Davis argue for this contextual reading. Some scholars still find the story troubling and admit the text gives few details. Critics like Burke Long see it as a legend from a prophetic guild exalting Elisha's authority. Most agree it is not about children teasing a bald man.",
+        "whyItMatters": "Reading the scene in its covenant setting shows that rejecting God's word had real consequences in Israel's life, without turning the story into a fairy tale about grumpy prophets.",
+        "refs": [
+          "2 Kgs 2:23-24",
+          "Lev 26:21-22",
+          "1 Kgs 12:28-30"
+        ],
+        "scholars": [
+          "Iain Provan",
+          "Dale Ralph Davis",
+          "Burke O. Long",
+          "Mordechai Cogan"
+        ],
+        "confidence": "debated"
+      },
+      {
+        "topic": "Good kings are rewarded, bad kings punished, at once",
+        "popular": "Kings teaches a simple formula: obey God and you will prosper; disobey and you will be punished, in your own lifetime.",
+        "inContext": "Kings is more complex. Manasseh, the worst king, reigns 55 years (2 Kgs 21:1); Josiah, the best, dies young in battle (2 Kgs 23:29). Judgment comes on the nation over generations, after long patience, and good reforms can delay but not cancel it (2 Kgs 22:18-20; 2 Kgs 23:26). The book's theology is covenantal and corporate. Scholars note that Chronicles, by contrast, shows more immediate consequences, and the two books together give a fuller picture.",
+        "defence": "Evangelical scholars agree that Kings shows God's long patience and delayed judgment, while affirming that it does teach real cause and effect between covenant faithfulness and national fate. The popular formula is generally acknowledged as an oversimplification.",
+        "whyItMatters": "Kings helps readers understand why the righteous suffer and the wicked sometimes flourish, and that God's justice works across history, not always on our timetable.",
+        "refs": [
+          "2 Kgs 21:1-16",
+          "2 Kgs 22:18-20",
+          "2 Kgs 23:25-29"
+        ],
+        "scholars": [
+          "Iain Provan",
+          "Terence Fretheim",
+          "Gerhard von Rad",
+          "Peter Leithart"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "2 Kings helped exiles grieve honestly, admit their sin, recognise that God's word through the prophets had come true, and hold on to the thin thread of hope in David's surviving heir.",
+      "now": "2 Kings speaks to nations and churches about the long-term consequences of unfaithfulness, the courage of reformers, the danger of relying on political alliances, God's care for outsiders like Naaman, and hope that survives catastrophe."
+    },
+    "sources": [
+      {
+        "author": "Mordechai Cogan and Hayim Tadmor",
+        "title": "II Kings (Anchor Bible)",
+        "year": 1988
+      },
+      {
+        "author": "Iain W. Provan",
+        "title": "1 and 2 Kings (New International Biblical Commentary)",
+        "year": 1995
+      },
+      {
+        "author": "Peter J. Leithart",
+        "title": "1 and 2 Kings (Brazos Theological Commentary)",
+        "year": 2006
+      },
+      {
+        "author": "Terence E. Fretheim",
+        "title": "First and Second Kings (Westminster Bible Companion)",
+        "year": 1999
+      },
+      {
+        "author": "Martin Noth",
+        "title": "The Deuteronomistic History (English translation)",
+        "year": 1981
+      }
+    ]
+  },
+  {
+    "id": "1-chronicles",
+    "oneLine": "1 Chronicles retells Israel's story from Adam to David for a small community back from exile, to show that they still belong to God's people and that worship at the temple is the heart of their identity.",
+    "author": {
+      "name": "The Chronicler (anonymous); Ezra by Jewish tradition",
+      "who": "An unnamed writer, usually called 'the Chronicler', probably a Levite or someone close to the Levitical singers and gatekeepers of the Second Temple in Jerusalem. The Talmud (Baba Bathra 15a) names Ezra.",
+      "howWeKnow": "The writer's deep interest in Levites, singers, gatekeepers and temple service, often adding material not found in Samuel-Kings (1 Chr 15:16-24; 1 Chr 23-26), points to temple circles. The genealogy of David's descendants runs several generations after the exile (1 Chr 3:17-24), so the work dates from at least the late 5th or 4th century BC. The ending of 2 Chronicles overlaps with the start of Ezra (2 Chr 36:22-23; Ezra 1:1-3), which long suggested the same author; since the 1960s-70s Sara Japhet and H. G. M. Williamson have argued from differences in language and theology that they are separate works.",
+      "otherWritings": [
+        "2 Chronicles (one book with 1 Chronicles in the Hebrew Bible)",
+        "Ezra-Nehemiah (traditional and older critical view, now widely questioned)"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem in the Persian province of Yehud",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Probably written in Jerusalem around the Second Temple, sometime between about 400 and 300 BC. Some date it earlier (c. 520-500 BC, near the temple's rebuilding) and a few later, in the early Hellenistic period.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The post-exilic community of Judah",
+      "place": "Jerusalem and the small province of Yehud",
+      "situation": "The returned community was tiny, poor, ruled by Persia, with no king and a modest temple. Were they still God's people? Did the promises to David still matter? Chronicles answers by linking them, through genealogies, to Adam, Abraham and the twelve tribes, and by showing David organising the worship they still practised.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -1010,
+      "to": -970,
+      "note": "The genealogies (1 Chr 1-9) run from Adam to the post-exilic community. The narrative (1 Chr 10-29) covers Saul's death and David's reign, c. 1010-970 BC, ending with Solomon's accession."
+    },
+    "worldEvents": [
+      {
+        "year": -539,
+        "event": "Cyrus of Persia conquers Babylon and allows exiles to return; the Cyrus Cylinder describes his policy of restoring peoples and temples."
+      },
+      {
+        "year": -516,
+        "event": "The Second Temple is completed in Jerusalem."
+      },
+      {
+        "year": -445,
+        "event": "Nehemiah rebuilds Jerusalem's walls."
+      },
+      {
+        "year": -407,
+        "event": "Jews at Elephantine in Egypt write to Persian officials asking to rebuild their temple, showing Jewish communities spread across the empire."
+      },
+      {
+        "year": -332,
+        "event": "Alexander the Great conquers the Persian Empire, including Judah."
+      }
+    ],
+    "backdrop": "Chronicles was written a century or more after the return from exile. Judah (Yehud) was a small Persian province about 40 kilometres across, with a population of perhaps 20,000-30,000. There was no king; the high priest and Persian governor held authority. The rebuilt temple was smaller than Solomon's, and some older people had wept when they saw its foundations (Ezra 3:12). The community's questions were about identity and continuity: are we the same Israel that God chose? Is God still with us?\n\nThe Chronicler answers by rewriting history. Using Samuel and Kings as a main source (often word for word), he selects, omits and adds. He starts with nine chapters of genealogy from Adam, placing the community within the whole human story and within all twelve tribes, not just Judah. He then tells the story of David, but leaves out David's struggle with Saul, his adultery with Bathsheba and Absalom's revolt. Instead he focuses on David bringing the ark to Jerusalem, organising the Levites and singers, receiving God's covenant and preparing everything for the temple Solomon will build. Almost a third of the David story is about worship.\n\nSome readers have called this whitewashing. Scholars today generally see it differently: the Chronicler's readers already knew Samuel-Kings, and he was not trying to replace them but to draw out lessons for a new situation, much as the four Gospels each tell Jesus' story with different emphases. Sara Japhet, H. G. M. Williamson and others have shown his careful theological purpose. He does include David's sinful census (1 Chr 21), because it leads to the purchase of the temple site.\n\nThe Greek translators called the book *Paraleipomena*, 'things left out', thinking it was a supplement to Kings. The Hebrew title *Divrei ha-Yamim* means 'the events of the days'. Jerome suggested it be called a 'chronicle of the whole of sacred history', which gave us the English title.",
+    "culture": [
+      {
+        "term": "Genealogies as identity",
+        "explain": "In a collectivist culture, who you descend from defines who you are and what you may do: inherit land, serve as priest, belong to the assembly. The genealogies say: you are still Israel.",
+        "refs": [
+          "1 Chr 1:1",
+          "1 Chr 9:1-2",
+          "Ezra 2:59-63"
+        ]
+      },
+      {
+        "term": "All Israel",
+        "explain": "The Chronicler keeps saying 'all Israel': the twelve tribes together, not only Judah. He hopes for a reunited people around the temple.",
+        "refs": [
+          "1 Chr 11:1-3",
+          "1 Chr 12:38",
+          "1 Chr 15:3"
+        ]
+      },
+      {
+        "term": "Levites and singers",
+        "explain": "Levites assisted priests, guarded gates and led music. David organises them into divisions; the Chronicler gives music a prophetic role.",
+        "refs": [
+          "1 Chr 15:16-24",
+          "1 Chr 16:4-7",
+          "1 Chr 25:1-7"
+        ]
+      },
+      {
+        "term": "The ark's proper carrying",
+        "explain": "Uzzah's death happened because the ark was put on a cart; David now has Levites carry it on poles 'according to the word of the LORD'.",
+        "refs": [
+          "1 Chr 13:9-10",
+          "1 Chr 15:13-15"
+        ]
+      },
+      {
+        "term": "Man of rest",
+        "explain": "David cannot build the temple because he shed much blood; Solomon, a 'man of rest' whose name echoes shalom (peace), will build it.",
+        "refs": [
+          "1 Chr 22:8-10",
+          "1 Chr 28:3"
+        ]
+      },
+      {
+        "term": "Sources and quotations",
+        "explain": "The Chronicler cites prophetic records (Samuel, Nathan, Gad) and royal annals. Ancient historians shaped their sources openly for teaching purposes.",
+        "refs": [
+          "1 Chr 29:29",
+          "1 Chr 9:1"
+        ]
+      }
+    ],
+    "jewishLens": "In most printed Hebrew Bibles, following the order in the Talmud (Baba Bathra 14b), Chronicles is the last book of the Tanakh. The whole Hebrew Bible therefore runs from Adam (Gen 1; 1 Chr 1:1) to Cyrus' call to 'go up' to Jerusalem (2 Chr 36:23), a story of creation, exile and return. A rabbinic saying holds that Chronicles was given only to be interpreted (*lidrosh*, Leviticus Rabbah 1:3), meaning its lists and names hide teaching. The Talmud (Megillah 13a), for example, reads the obscure 'Bithiah the daughter of Pharaoh' (1 Chr 4:18) as the princess who rescued Moses, rewarded by being called 'daughter of the LORD' (Bithiah).\n\nChronicles shaped Jewish prayer. David's psalm when the ark arrives (1 Chr 16:8-36) and David's blessing at the end of his life (1 Chr 29:10-13: 'Thine, O LORD, is the greatness, and the power, and the glory...') are recited in the daily morning service. The latter's words also influenced the ending added to the Lord's Prayer in many manuscripts. The book's emphasis on music, singers and praise has made it a resource for liturgy in synagogue and church.\n\nThe first audience would hear 1 Chronicles as a message of belonging. Their names were written into Israel's family tree, from Adam onwards. The David they met was the founder of their worship, the king who said 'all things come of thee, and of thine own have we given thee' (1 Chr 29:14) and 'we are strangers before thee, and sojourners, as were all our fathers' (1 Chr 29:15). A small, powerless community could still give generously, worship joyfully and trust that God's covenant with David was not finished.",
+    "flow": [
+      {
+        "label": "Genealogies from Adam",
+        "detail": "Nine chapters trace humanity, Abraham's line, the twelve tribes and the returned community, focusing on Judah, Levi and Benjamin.",
+        "refs": [
+          "1 Chr 1:1-4",
+          "1 Chr 2:1-2",
+          "1 Chr 6:31-32",
+          "1 Chr 9:1-3"
+        ]
+      },
+      {
+        "label": "Saul's death and why",
+        "detail": "Saul died for unfaithfulness and for not seeking the LORD, so the kingdom passed to David.",
+        "refs": [
+          "1 Chr 10:13-14"
+        ]
+      },
+      {
+        "label": "All Israel makes David king",
+        "detail": "The tribes come together to anoint David, take Jerusalem and gather his mighty men.",
+        "refs": [
+          "1 Chr 11:1-9",
+          "1 Chr 12:38-40"
+        ]
+      },
+      {
+        "label": "Ark brought to Jerusalem",
+        "detail": "After the failure with Uzzah, the ark is carried properly with Levites and music; David appoints worship leaders.",
+        "refs": [
+          "1 Chr 13:1-14",
+          "1 Chr 15:1-28",
+          "1 Chr 16:4-36"
+        ]
+      },
+      {
+        "label": "God's covenant with David",
+        "detail": "God promises David a lasting house and that his son will build the temple.",
+        "refs": [
+          "1 Chr 17:1-15"
+        ]
+      },
+      {
+        "label": "Census and temple site",
+        "detail": "David's census brings plague, but leads to the purchase of the threshing floor where the temple will stand.",
+        "refs": [
+          "1 Chr 21:1-30",
+          "1 Chr 22:1"
+        ]
+      },
+      {
+        "label": "Preparing for the temple",
+        "detail": "David gathers materials, organises priests, Levites, singers and gatekeepers, and hands Solomon the plans.",
+        "refs": [
+          "1 Chr 22:2-19",
+          "1 Chr 23:1-6",
+          "1 Chr 28:11-21"
+        ]
+      },
+      {
+        "label": "David's prayer and death",
+        "detail": "The people give freely; David blesses God and Solomon becomes king.",
+        "refs": [
+          "1 Chr 29:1-19",
+          "1 Chr 29:22-30"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "1 Chronicles: belonging and worship",
+      "branches": [
+        {
+          "label": "Genealogies",
+          "items": [
+            "From Adam",
+            "Twelve tribes",
+            "Judah and Levi focus",
+            "Returned exiles named"
+          ]
+        },
+        {
+          "label": "David",
+          "items": [
+            "Made king by all Israel",
+            "Seeks the LORD",
+            "Covenant received",
+            "Man of war, not builder"
+          ]
+        },
+        {
+          "label": "Worship",
+          "items": [
+            "Ark carried rightly",
+            "Levites organised",
+            "Singers as prophets",
+            "Psalm of thanksgiving"
+          ]
+        },
+        {
+          "label": "Temple preparation",
+          "items": [
+            "Site bought",
+            "Materials gathered",
+            "Plans given",
+            "Solomon charged"
+          ]
+        },
+        {
+          "label": "Themes",
+          "items": [
+            "Seek the LORD",
+            "All Israel united",
+            "Generous giving",
+            "Continuity with the past"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Seek",
+        "original": "darash (דָּרַשׁ)",
+        "meaning": "To seek, enquire of or devote oneself to God. The Chronicler's key verb for true faith.",
+        "refs": [
+          "1 Chr 10:13-14",
+          "1 Chr 16:11",
+          "1 Chr 28:9"
+        ]
+      },
+      {
+        "word": "Unfaithfulness",
+        "original": "ma'al (מַעַל)",
+        "meaning": "Breach of trust, treachery toward God, especially in worship. It explains Saul's fall and the exile.",
+        "refs": [
+          "1 Chr 9:1",
+          "1 Chr 10:13"
+        ]
+      },
+      {
+        "word": "Rest",
+        "original": "menuchah (מְנוּחָה)",
+        "meaning": "Peace from enemies. Solomon is a 'man of rest', and the temple is a 'house of rest' for the ark.",
+        "refs": [
+          "1 Chr 22:9",
+          "1 Chr 28:2"
+        ]
+      },
+      {
+        "word": "Give thanks / praise",
+        "original": "hodu (הוֹדוּ)",
+        "meaning": "'Give thanks': the opening of David's psalm and a refrain of Levitical worship, 'for his mercy endureth for ever'.",
+        "refs": [
+          "1 Chr 16:8",
+          "1 Chr 16:34",
+          "1 Chr 16:41"
+        ]
+      },
+      {
+        "word": "Willingly offer",
+        "original": "nadav (נָדַב)",
+        "meaning": "To give freely and gladly. The people's generous giving for the temple is a model of joyful worship.",
+        "refs": [
+          "1 Chr 29:5-9",
+          "1 Chr 29:14",
+          "1 Chr 29:17"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-samuel",
+        "how": "Chronicles uses Samuel as a source, often word for word, but omits David's sins and family turmoil except the census.",
+        "refs": [
+          "2 Sam 7:1-17",
+          "1 Chr 17:1-15",
+          "2 Sam 24:1",
+          "1 Chr 21:1"
+        ]
+      },
+      {
+        "bookId": "genesis",
+        "how": "The genealogies begin with Adam and follow Genesis' lines of descent.",
+        "refs": [
+          "Gen 5:1-32",
+          "1 Chr 1:1-4"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "David's thanksgiving psalm in 1 Chr 16 combines parts of Ps 105, Ps 96 and Ps 106.",
+        "refs": [
+          "1 Chr 16:8-36",
+          "Ps 105:1-15",
+          "Ps 96:1-13",
+          "Ps 106:1"
+        ]
+      },
+      {
+        "bookId": "ezra",
+        "how": "Chronicles and Ezra share the post-exilic setting, the focus on temple and Levites, and the overlapping verses about Cyrus.",
+        "refs": [
+          "2 Chr 36:22-23",
+          "Ezra 1:1-3"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Matthew's genealogy of Jesus, like Chronicles, uses a structured family tree to present identity and the Davidic hope.",
+        "refs": [
+          "Matt 1:1-17",
+          "1 Chr 3:1-19"
+        ]
+      }
+    ],
+    "jesusLens": "Chronicles keeps the Davidic hope alive when no Davidic king reigns: it traces David's line well past the exile (1 Chr 3:17-24) and records God's promise to establish his son's throne forever (1 Chr 17:11-14). In the Chronicler's version, God says 'I will settle him in mine house and in my kingdom for ever' (1 Chr 17:14), tying the king to God's own kingdom, which Christians read as pointing to Jesus as the Son of David who reigns in God's kingdom. Matthew opens his Gospel with a genealogy shaped like Chronicles' (Matt 1:1-17), and the theme of a new temple built by David's son is applied to Jesus and the church (John 2:19-21; Eph 2:19-22). Jewish readers see in Chronicles the continuing promise of a Davidic Messiah and the centrality of temple worship, now expressed in prayer until the temple is restored.",
+    "misreadings": [
+      {
+        "topic": "The Prayer of Jabez as a formula for blessing",
+        "popular": "Bruce Wilkinson's bestselling *The Prayer of Jabez* (2000) encouraged believers to pray Jabez's words daily (1 Chr 4:10), asking God to 'enlarge my coast', expecting God to expand their influence and blessings.",
+        "inContext": "Jabez's prayer is a two-verse note inside a long genealogy of Judah. His name sounds like the Hebrew for 'pain', and his prayer asks God to reverse that omen: to bless him, enlarge his territory (literal land), be with him and keep him from harm. In the Chronicler's theology it illustrates a key theme: those who call on God are heard. Scholars note it is an example of seeking God, not a formula.",
+        "defence": "Supporters argue the text does commend Jabez ('more honourable than his brethren') and that God 'granted him that which he requested', so asking boldly for blessing is biblical. Evangelical critics, including many Reformed writers, worried that the book encouraged a mechanical, self-focused prayer. Both sides agree that God hears prayer; the question is whether this verse is a pattern to repeat or an example of trust.",
+        "whyItMatters": "Reading Jabez in context keeps prayer relational, an act of trust in a covenant God, rather than a technique for success.",
+        "refs": [
+          "1 Chr 4:9-10",
+          "1 Chr 5:20",
+          "2 Chr 15:2"
+        ],
+        "scholars": [
+          "Bruce Wilkinson",
+          "Sara Japhet",
+          "Ralph Klein",
+          "Martin Selman"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Chronicles as an unreliable, sanitised history",
+        "popular": "Some readers (and some older critics) see Chronicles as a whitewash that hides David's sins and is therefore less trustworthy than Samuel-Kings; others try to harmonise every difference.",
+        "inContext": "The Chronicler assumes readers know Samuel-Kings and writes a theological retelling for a new audience, like a sermon on familiar history. He includes sins when they serve his point (the census, 1 Chr 21). Scholars such as Sara Japhet, H. G. M. Williamson and Ralph Klein read his changes as deliberate interpretation; he also sometimes preserves older text forms (Samuel fragments from Qumran sometimes agree with Chronicles).",
+        "defence": "Conservative scholars such as Raymond Dillard and Martin Selman accept that the Chronicler shapes his material theologically but hold that he used reliable sources and did not invent history. They harmonise some differences (e.g. the numbers) as scribal errors. Critics see more free composition. Both agree his purpose is teaching, not deception.",
+        "whyItMatters": "Seeing Chronicles as a deliberate retelling helps readers appreciate how Scripture itself interprets earlier Scripture for new situations.",
+        "refs": [
+          "1 Chr 21:1",
+          "2 Sam 24:1",
+          "1 Chr 29:29"
+        ],
+        "scholars": [
+          "Sara Japhet",
+          "H. G. M. Williamson",
+          "Raymond Dillard",
+          "Martin Selman"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "1 Chronicles told a small, discouraged community that they belonged to the great family of Israel stretching back to Adam, that worship at the temple was their life's centre, and that God's promise to David still stood.",
+      "now": "1 Chronicles speaks to communities that feel small and marginal: you belong to a long story; worship and generosity matter; God's promises are not cancelled by weakness. It also shows how to retell history to draw out lessons for new generations."
+    },
+    "sources": [
+      {
+        "author": "Sara Japhet",
+        "title": "I and II Chronicles (Old Testament Library)",
+        "year": 1993
+      },
+      {
+        "author": "H. G. M. Williamson",
+        "title": "1 and 2 Chronicles (New Century Bible Commentary)",
+        "year": 1982
+      },
+      {
+        "author": "Ralph W. Klein",
+        "title": "1 Chronicles (Hermeneia)",
+        "year": 2006
+      },
+      {
+        "author": "Martin J. Selman",
+        "title": "1 Chronicles (Tyndale Old Testament Commentaries)",
+        "year": 1994
+      },
+      {
+        "author": "Bruce Wilkinson",
+        "title": "The Prayer of Jabez",
+        "year": 2000
+      }
+    ]
+  },
+  {
+    "id": "2-chronicles",
+    "oneLine": "2 Chronicles retells the story of Solomon and the kings of Judah to show that when God's people seek him and humble themselves he heals and restores, and it ends with an open door home.",
+    "author": {
+      "name": "The Chronicler (anonymous); Ezra by Jewish tradition",
+      "who": "The same writer as 1 Chronicles, probably a Levite connected with the Second Temple in Persian-period Jerusalem.",
+      "howWeKnow": "The style, theology and interests (temple, Levites, 'seeking' God, all Israel) are continuous with 1 Chronicles. The writer reworks 1-2 Kings, cites other sources such as 'the book of Nathan the prophet' and 'the visions of Iddo the seer' (2 Chr 9:29) and 'the story [midrash] of the prophet Iddo' (2 Chr 13:22), and adds material on Judah's kings not found in Kings. Scholars debate how much of this comes from lost sources and how much is the Chronicler's own composition.",
+      "otherWritings": [
+        "1 Chronicles"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem in the Persian province of Yehud",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Most scholars place the writing in Jerusalem in the 4th century BC, with the Second Temple in operation.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The post-exilic community of Judah",
+      "place": "Jerusalem and Yehud",
+      "situation": "The community lived under Persia, without a king and with a modest temple. They needed to know whether their worship mattered, whether their own generation could know God's blessing, and whether repentance was really possible after so great a judgment.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -971,
+      "to": -538,
+      "note": "From Solomon's accession (c. 971/970 BC) through the fall of Jerusalem (586 BC) to Cyrus' decree (538 BC). The book barely mentions the northern kingdom except where it touches Judah."
+    },
+    "worldEvents": [
+      {
+        "year": -925,
+        "event": "Shishak (Shoshenq I) invades Judah; Chronicles gives a fuller account with a prophetic message (2 Chr 12:1-12)."
+      },
+      {
+        "year": -701,
+        "event": "Sennacherib besieges Jerusalem under Hezekiah."
+      },
+      {
+        "year": -586,
+        "event": "Babylon destroys Jerusalem and the temple."
+      },
+      {
+        "year": -538,
+        "event": "Cyrus allows the exiles to return and rebuild the temple."
+      },
+      {
+        "year": -400,
+        "event": "Approximate time of writing, under Persian rule, when the Jerusalem temple is the centre of Jewish life."
+      }
+    ],
+    "backdrop": "2 Chronicles begins with Solomon's wisdom and devotes six chapters to building and dedicating the temple (2 Chr 2-7). In the Chronicler's version, fire falls from heaven on the sacrifices and God's glory fills the house so that the priests cannot enter (2 Chr 7:1-3). God's answer to Solomon's prayer includes the famous promise: 'If my people, which are called by my name, shall humble themselves, and pray, and seek my face, and turn from their wicked ways; then will I hear from heaven, and will forgive their sin, and will heal their land' (2 Chr 7:14). This verse is the key to the rest of the book.\n\nAfter Solomon, the Chronicler follows only Judah. The north, which broke away from David's house and the temple, is mostly left out, though its people are always invited back (2 Chr 13:4-12; 2 Chr 30:1-12). Each king is a test case of the 2 Chr 7:14 principle. When Rehoboam is attacked by Shishak, he and his princes humble themselves, and the disaster is limited (2 Chr 12:6-7). Asa seeks God and has peace, but late in life relies on Aram and on physicians rather than God (2 Chr 16:7-12). Jehoshaphat prays 'we know not what to do: but our eyes are upon thee' and the enemy armies destroy each other while the Levites sing (2 Chr 20:12; 2 Chr 20:21-23).\n\nThis pattern has been called 'immediate retribution': blessing follows faithfulness and trouble follows sin within the same generation. Older critics like Julius Wellhausen saw it as artificial. More recent scholars (Japhet, Williamson, Raymond Dillard) argue it is a deliberate message for the post-exilic community: each generation stands before God for itself (compare Ezek 18), and no generation is trapped by its parents' sins. The most striking case is Manasseh, the worst king in Kings, who in Chronicles repents in Babylonian captivity and is restored (2 Chr 33:10-17), a living picture of exile and return.\n\nThe book ends with the exile explained as the land enjoying its sabbaths for seventy years, as Jeremiah prophesied (2 Chr 36:21; compare Lev 26:34-35; Jer 25:11), and then with Cyrus' decree. The final word in the Hebrew is *ve-ya'al*, 'and let him go up'.",
+    "culture": [
+      {
+        "term": "Seeking God",
+        "explain": "For the Chronicler, to 'seek' God is to turn to him in worship, prayer and trust, especially in crisis. Kings who seek him prosper; those who rely on foreign alliances fail.",
+        "refs": [
+          "2 Chr 7:14",
+          "2 Chr 15:2",
+          "2 Chr 16:9"
+        ]
+      },
+      {
+        "term": "Levitical music in battle",
+        "explain": "Singers lead the army, praising 'the beauty of holiness'. Worship is presented as a form of trust that God himself will fight.",
+        "refs": [
+          "2 Chr 20:21-22",
+          "2 Chr 5:12-14"
+        ]
+      },
+      {
+        "term": "Prophets as messengers of second chances",
+        "explain": "The Chronicler adds many prophets who warn kings, giving each a chance to repent before judgment.",
+        "refs": [
+          "2 Chr 12:5",
+          "2 Chr 15:1-7",
+          "2 Chr 36:15-16"
+        ]
+      },
+      {
+        "term": "Passover for all Israel",
+        "explain": "Hezekiah invites the remnant of the northern tribes to Jerusalem for Passover; when some come unclean, he prays and God pardons them, showing heart over ritual.",
+        "refs": [
+          "2 Chr 30:1-12",
+          "2 Chr 30:18-20"
+        ]
+      },
+      {
+        "term": "Sabbath for the land",
+        "explain": "Leviticus said the land would rest during exile to make up for neglected sabbath years. The Chronicler links this with Jeremiah's seventy years.",
+        "refs": [
+          "2 Chr 36:21",
+          "Lev 26:34-35",
+          "Jer 25:11"
+        ]
+      },
+      {
+        "term": "Royal pride and the temple",
+        "explain": "King Uzziah enters the temple to burn incense, a priestly role, and is struck with skin disease: even kings must respect God's holiness.",
+        "refs": [
+          "2 Chr 26:16-21"
+        ]
+      }
+    ],
+    "jewishLens": "In the Jewish canon 2 Chronicles is the last book of the Hebrew Bible. Its final verse is Cyrus' proclamation: 'Who is there among you of all his people? The LORD his God be with him, and let him go up' (2 Chr 36:23). The Hebrew Bible thus ends not with judgment but with an invitation to return to Jerusalem and rebuild God's house. The word for 'go up' (*'alah*) gives the modern Hebrew term *aliyah*, used both for immigrating to the land of Israel and for being called up to read the Torah in synagogue. Generations of Jews have felt this final verse as a call to hope and return.\n\nThe Chronicler's story of Manasseh's repentance (2 Chr 33:12-13) became a key text for rabbinic teaching on the power of repentance (*teshuvah*). Later Jewish writers composed a 'Prayer of Manasseh' imagining his words in captivity (it survives in Greek and is included in some Christian Bibles). The rabbis taught that the gates of repentance are never shut, and Manasseh became the classic proof. Hezekiah's prayer for the unclean worshippers (2 Chr 30:18-20) is also cited as showing that God looks on the heart that 'prepareth his heart to seek God'.\n\nThe first audience would have heard 2 Chronicles as a sermon on how to live as God's people now. The temple was rebuilt; the covenant was still open. Each generation could seek God, humble itself, pray and be heard. God is the one whose 'eyes run to and fro throughout the whole earth, to shew himself strong in the behalf of them whose heart is perfect toward him' (2 Chr 16:9). The relationship is not a cold ledger but a living covenant in which God is eager to forgive.",
+    "flow": [
+      {
+        "label": "Solomon's wisdom and temple",
+        "detail": "Solomon asks for wisdom, builds the temple with Hiram's help and brings in the ark.",
+        "refs": [
+          "2 Chr 1:7-12",
+          "2 Chr 3:1-2",
+          "2 Chr 5:2-14"
+        ]
+      },
+      {
+        "label": "Glory, fire and promise",
+        "detail": "Fire falls, glory fills the temple, and God promises to hear when his people humble themselves and pray.",
+        "refs": [
+          "2 Chr 6:18-21",
+          "2 Chr 7:1-3",
+          "2 Chr 7:12-16"
+        ]
+      },
+      {
+        "label": "Division and Judah's kings",
+        "detail": "The north breaks away; Rehoboam, Abijah and Asa experience the results of forsaking or seeking the LORD.",
+        "refs": [
+          "2 Chr 10:16-19",
+          "2 Chr 12:1-12",
+          "2 Chr 13:4-12",
+          "2 Chr 15:1-15"
+        ]
+      },
+      {
+        "label": "Jehoshaphat's prayer and praise",
+        "detail": "Facing invasion, Judah fasts and prays; singers lead the army and God gives victory.",
+        "refs": [
+          "2 Chr 20:1-30"
+        ]
+      },
+      {
+        "label": "Good beginnings, bad endings",
+        "detail": "Joash, Amaziah and Uzziah start well and end badly through pride and apostasy.",
+        "refs": [
+          "2 Chr 24:17-22",
+          "2 Chr 25:14-16",
+          "2 Chr 26:16-21"
+        ]
+      },
+      {
+        "label": "Hezekiah and Josiah's renewals",
+        "detail": "Hezekiah cleanses the temple and holds a Passover for all Israel; Josiah renews the covenant and keeps a great Passover.",
+        "refs": [
+          "2 Chr 29:3-36",
+          "2 Chr 30:1-27",
+          "2 Chr 34:29-33",
+          "2 Chr 35:1-19"
+        ]
+      },
+      {
+        "label": "Manasseh repents",
+        "detail": "Taken to Babylon in chains, the worst king humbles himself and God restores him.",
+        "refs": [
+          "2 Chr 33:1-20"
+        ]
+      },
+      {
+        "label": "Exile, then the call home",
+        "detail": "Ignoring God's messengers, Judah falls; the land keeps its sabbaths until Cyrus invites the people home.",
+        "refs": [
+          "2 Chr 36:15-21",
+          "2 Chr 36:22-23"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "2 Chronicles: seek God, be healed",
+      "branches": [
+        {
+          "label": "Temple",
+          "items": [
+            "Solomon builds",
+            "Glory and fire",
+            "House of prayer",
+            "Cleansed and renewed"
+          ]
+        },
+        {
+          "label": "2 Chronicles 7:14",
+          "items": [
+            "Humble yourselves",
+            "Pray and seek",
+            "Turn from wickedness",
+            "God hears and heals"
+          ]
+        },
+        {
+          "label": "Kings as test cases",
+          "items": [
+            "Asa",
+            "Jehoshaphat",
+            "Uzziah's pride",
+            "Hezekiah",
+            "Josiah"
+          ]
+        },
+        {
+          "label": "Repentance",
+          "items": [
+            "Rehoboam humbled",
+            "Unclean pardoned",
+            "Manasseh restored",
+            "Prophets warn first"
+          ]
+        },
+        {
+          "label": "Hope",
+          "items": [
+            "Land's sabbath rest",
+            "Seventy years",
+            "Cyrus' decree",
+            "Let him go up"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Seek",
+        "original": "darash, biqqesh (דָּרַשׁ, בִּקֵּשׁ)",
+        "meaning": "To turn to God in worship and dependence; the hinge of blessing in Chronicles.",
+        "refs": [
+          "2 Chr 7:14",
+          "2 Chr 15:2",
+          "2 Chr 15:12"
+        ]
+      },
+      {
+        "word": "Humble oneself",
+        "original": "kana' (כָּנַע)",
+        "meaning": "To bow down, submit. Even wicked kings who humble themselves are spared.",
+        "refs": [
+          "2 Chr 7:14",
+          "2 Chr 12:6-7",
+          "2 Chr 33:12"
+        ]
+      },
+      {
+        "word": "Forsake",
+        "original": "'azav (עָזַב)",
+        "meaning": "To abandon. The opposite of seeking: 'if ye forsake him, he will forsake you'.",
+        "refs": [
+          "2 Chr 12:1",
+          "2 Chr 15:2",
+          "2 Chr 24:20"
+        ]
+      },
+      {
+        "word": "Rely on",
+        "original": "sha'an (שָׁעַן)",
+        "meaning": "To lean on. Kings are judged by whether they rely on God or on human allies.",
+        "refs": [
+          "2 Chr 14:11",
+          "2 Chr 16:7-8"
+        ]
+      },
+      {
+        "word": "Go up",
+        "original": "'alah (עָלָה)",
+        "meaning": "To ascend; the last word of the Hebrew Bible, calling exiles home to Jerusalem.",
+        "refs": [
+          "2 Chr 36:23"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "1-kings",
+        "how": "Chronicles reworks the Kings account of Solomon, omitting his apostasy and expanding the temple dedication.",
+        "refs": [
+          "1 Kgs 8:1-66",
+          "2 Chr 5:2-7:10"
+        ]
+      },
+      {
+        "bookId": "2-kings",
+        "how": "Chronicles retells Judah's last kings, adding Manasseh's repentance and more prophetic warnings.",
+        "refs": [
+          "2 Kgs 21:1-18",
+          "2 Chr 33:1-20"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Chronicles cites Jeremiah's seventy years and his laments for Josiah.",
+        "refs": [
+          "2 Chr 35:25",
+          "2 Chr 36:21",
+          "Jer 25:11-12"
+        ]
+      },
+      {
+        "bookId": "ezra",
+        "how": "The last verses of 2 Chronicles are repeated at the start of Ezra, linking the books.",
+        "refs": [
+          "2 Chr 36:22-23",
+          "Ezra 1:1-3"
+        ]
+      },
+      {
+        "bookId": "matthew",
+        "how": "Jesus refers to the murder of Zechariah son of Jehoiada in the temple court (2 Chr 24:20-22), the last martyr in the Hebrew Bible's order.",
+        "refs": [
+          "Matt 23:35",
+          "2 Chr 24:20-22"
+        ]
+      }
+    ],
+    "jesusLens": "When Jesus speaks of the blood of righteous martyrs 'from the blood of righteous Abel unto the blood of Zacharias' (Matt 23:35; Luke 11:51), he seems to span the Hebrew Bible from its first book (Genesis) to its last (Chronicles, 2 Chr 24:20-22), which suggests the Jewish canon in his day ended with Chronicles. Christians have seen the temple themes of 2 Chronicles fulfilled in Jesus, whose body is the true temple (John 2:19-21) and in whom God's glory dwells. The book's promise that God hears the humble and heals the land echoes in Jesus' welcome to repentant sinners (Luke 15:7; Luke 18:13-14). Jewish readers emphasise the Chronicler's call to seek God through prayer and repentance and the final invitation to return to Jerusalem, which became a lasting expression of hope for the land and the temple.",
+    "misreadings": [
+      {
+        "topic": "2 Chronicles 7:14 and modern nations",
+        "popular": "Many evangelicals, especially in the United States, quote 2 Chr 7:14 as a promise for their country: if Christians humble themselves and pray, God will heal the nation's moral and political problems.",
+        "inContext": "God speaks to Solomon at the temple dedication about Israel, 'my people, which are called by my name', in the covenant land. The 'land' is literal: drought, locusts and plague (2 Chr 7:13). The promise answers Solomon's prayer about praying toward the temple (2 Chr 6:26-31). The Chronicler then shows the promise at work in Judah's history. Scholars such as Sara Japhet, H. G. M. Williamson and Andrew Hill stress this covenant setting.",
+        "defence": "Evangelical scholars such as Raymond Dillard and Martin Selman note that the principle of humility, prayer and repentance applies to God's people in every age, and that the New Testament calls the church God's people. They caution, however, against identifying any modern nation with Israel or treating the verse as a political promise. The 'my people' today is the church, and its 'healing' is primarily spiritual.",
+        "whyItMatters": "Applied to a modern nation, the verse can feed nationalism or blame others; applied to God's people, it calls the church to its own humility and repentance first.",
+        "refs": [
+          "2 Chr 6:26-31",
+          "2 Chr 7:12-16",
+          "1 Pet 2:9-10"
+        ],
+        "scholars": [
+          "Sara Japhet",
+          "H. G. M. Williamson",
+          "Raymond Dillard",
+          "Martin Selman",
+          "Andrew Hill"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Chronicles teaches that suffering always means sin",
+        "popular": "Because Chronicles shows trouble following sin, some readers conclude that if a person or church suffers, they must have done something wrong.",
+        "inContext": "The Chronicler's pattern is a pastoral message to the post-exilic community: each generation is free to seek God and is not doomed by its ancestors. It is a call to repentance, not a rule for diagnosing every misfortune. Other books (Job, Lamentations, Psalms of lament) show innocent suffering. Scholars such as Brian Kelly have argued that the Chronicler's 'retribution' is really a theology of restoration.",
+        "defence": "Evangelical scholars agree that Chronicles shows cause and effect under the covenant but insist it must be read alongside Job and the Psalms. Few would defend the idea that all suffering is punishment.",
+        "whyItMatters": "Read rightly, Chronicles gives hope that any generation can turn to God; misread, it adds guilt to the suffering.",
+        "refs": [
+          "2 Chr 15:2-4",
+          "2 Chr 30:9",
+          "Job 1:1",
+          "John 9:1-3"
+        ],
+        "scholars": [
+          "Brian E. Kelly",
+          "Raymond Dillard",
+          "Sara Japhet"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "2 Chronicles taught the returned exiles that their generation could know God's blessing if they sought him, that worship at the temple was central, that even the worst could repent, and that God's last word to them was an invitation to go up and rebuild.",
+      "now": "2 Chronicles speaks about humility, prayer and repentance as a community, finishing well rather than only starting well, trusting God more than alliances, worship as an act of faith in crisis, and a God who welcomes back even the worst sinner."
+    },
+    "sources": [
+      {
+        "author": "Raymond B. Dillard",
+        "title": "2 Chronicles (Word Biblical Commentary)",
+        "year": 1987
+      },
+      {
+        "author": "Sara Japhet",
+        "title": "The Ideology of the Book of Chronicles and Its Place in Biblical Thought",
+        "year": 1989
+      },
+      {
+        "author": "H. G. M. Williamson",
+        "title": "1 and 2 Chronicles (New Century Bible Commentary)",
+        "year": 1982
+      },
+      {
+        "author": "Brian E. Kelly",
+        "title": "Retribution and Eschatology in Chronicles",
+        "year": 1996
+      },
+      {
+        "author": "Martin J. Selman",
+        "title": "2 Chronicles (Tyndale Old Testament Commentaries)",
+        "year": 1994
+      }
+    ]
+  },
+  {
+    "id": "ezra",
+    "oneLine": "Ezra tells how God moved Persian kings to send the exiles home, how they rebuilt the temple against opposition, and how the scribe Ezra recommitted the community to God's law.",
+    "author": {
+      "name": "Ezra and an anonymous compiler",
+      "who": "Ezra was a priest descended from Aaron and 'a ready scribe in the law of Moses' (Ezra 7:6), sent to Jerusalem with Persian authority. The Talmud credits him with the book. Most scholars think an anonymous editor compiled Ezra-Nehemiah from Ezra's memoir, Nehemiah's memoir, lists and official documents.",
+      "howWeKnow": "Ezra 7:27-9:15 is written in the first person ('I'), suggesting Ezra's own memoir. Large sections are in Aramaic, the official language of the Persian Empire (Ezra 4:8-6:18; Ezra 7:12-26), presented as copies of letters and decrees. Many scholars accept that these reflect authentic Persian administrative style; others think some were composed or edited later. The Elephantine papyri from Egypt (late 5th century BC) show similar Aramaic letter forms.",
+      "otherWritings": [
+        "Nehemiah (one book with Ezra in the Hebrew Bible)",
+        "Chronicles (by Talmudic tradition)"
+      ],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "The book was probably compiled in Jerusalem around 400 BC from Ezra's memoir and official documents, though some scholars date the final compilation into the Hellenistic period.",
+      "confidence": "debated"
+    },
+    "writtenTo": {
+      "who": "The returned community in Judah",
+      "place": "Jerusalem and Yehud",
+      "situation": "The community had returned from Babylon but faced hostility from neighbours, discouragement, poverty and the pressure to blend in with surrounding peoples. They needed to see that their return fulfilled prophecy, that God was working through foreign kings, and that their identity depended on faithfulness to the Torah.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -538,
+      "to": -457,
+      "note": "Ezra 1-6 covers the first return under Sheshbazzar and Zerubbabel (538 BC) to the temple's completion (516/515 BC). Ezra 7-10 jumps about 58 years to Ezra's arrival in the seventh year of Artaxerxes (Ezra 7:7), usually 458 BC (Artaxerxes I). Some scholars place Ezra's arrival in 398 BC under Artaxerxes II, after Nehemiah, partly because Nehemiah's high priest Eliashib seems to precede Ezra's contemporary Jehohanan (Ezra 10:6; Neh 12:22-23). The biblical order puts Ezra first."
+    },
+    "worldEvents": [
+      {
+        "year": -539,
+        "event": "Cyrus the Great captures Babylon; the Cyrus Cylinder describes his policy of returning peoples and their gods' images to their homes."
+      },
+      {
+        "year": -520,
+        "event": "Haggai and Zechariah urge the people to resume building the temple (Ezra 5:1-2); Darius I consolidates Persian rule (Behistun Inscription)."
+      },
+      {
+        "year": -516,
+        "event": "The Second Temple is completed in the sixth year of Darius (Ezra 6:15)."
+      },
+      {
+        "year": -480,
+        "event": "Xerxes I invades Greece and is defeated at Salamis."
+      },
+      {
+        "year": -458,
+        "event": "Ezra arrives in Jerusalem with a royal commission (traditional dating)."
+      }
+    ],
+    "backdrop": "In 539 BC Cyrus the Great of Persia took Babylon without a major battle. Unlike the Assyrians and Babylonians, the Persians allowed conquered peoples to return home and restore their temples, keeping them loyal and paying taxes. The Cyrus Cylinder, discovered in 1879, records this policy in Babylonian terms (though it does not mention the Jews). Ezra opens with Cyrus' decree, presented as the LORD 'stirring up the spirit of Cyrus' to fulfil Jeremiah's prophecy of seventy years (Ezra 1:1; Jer 29:10).\n\nThe first return was led by Sheshbazzar and then Zerubbabel, a grandson of King Jehoiachin, and Jeshua the high priest. About 42,000 people returned (Ezra 2:64), a fraction of the exiles; many stayed in Babylon, which became a major centre of Jewish life for over a thousand years. The returnees rebuilt the altar and laid the temple foundation amid shouts of joy and the weeping of old men who remembered Solomon's temple (Ezra 3:10-13).\n\nOpposition came quickly. 'The adversaries of Judah and Benjamin', people who had been settled in the north by Assyria and worshipped the LORD alongside other gods, offered to help and were refused (Ezra 4:1-3; compare 2 Kgs 17:24-33). They then frustrated the work for years. Ezra 4 also collects later letters of opposition from the reigns of Xerxes and Artaxerxes, arranged by theme rather than date, which can confuse readers. Prompted by Haggai and Zechariah, the people resumed building in 520 BC; when local officials questioned them, Darius found Cyrus' decree in the archives at Ecbatana and ordered the work funded (Ezra 6:1-12). The temple was completed in 516/515 BC and dedicated with Passover.\n\nDecades later Ezra arrived with a royal letter authorising him to teach and enforce 'the law of thy God' (Ezra 7:25-26). Persian kings did support local law codes in their provinces, which helps explain his commission. Ezra had 'prepared his heart to seek the law of the LORD, and to do it, and to teach' (Ezra 7:10). His first major crisis was intermarriage: many returnees, including priests and leaders, had married women from surrounding peoples. Ezra's response, public mourning and a covenant to send away foreign wives and children (Ezra 9-10), is one of the most difficult passages in the Bible.",
+    "culture": [
+      {
+        "term": "Persian imperial policy",
+        "explain": "Persia ruled through local elites and temples, supporting local religion and law as long as taxes were paid and order kept. The returnees depended on royal permission.",
+        "refs": [
+          "Ezra 1:1-4",
+          "Ezra 6:6-12",
+          "Ezra 7:21-26"
+        ]
+      },
+      {
+        "term": "Golah (the exiles)",
+        "explain": "The returned exiles called themselves the golah, the 'exile community', and saw themselves as the true remnant of Israel, distinct from those who had stayed in the land.",
+        "refs": [
+          "Ezra 1:11",
+          "Ezra 4:1",
+          "Ezra 10:7-8"
+        ]
+      },
+      {
+        "term": "Genealogical records",
+        "explain": "Families proved their Israelite and priestly descent by written records. Those who could not were excluded from the priesthood until a priest with Urim and Thummim could decide.",
+        "refs": [
+          "Ezra 2:59-63",
+          "Neh 7:61-65"
+        ]
+      },
+      {
+        "term": "Aramaic documents",
+        "explain": "Aramaic was the language of Persian administration from Egypt to India. The book quotes letters and decrees in it, showing the community's dependence on imperial paperwork.",
+        "refs": [
+          "Ezra 4:8-16",
+          "Ezra 6:3-12",
+          "Ezra 7:12-26"
+        ]
+      },
+      {
+        "term": "Scribe (sofer)",
+        "explain": "Originally a royal secretary; Ezra becomes the model of the scribe as Torah scholar and teacher, a role that grows into the rabbis.",
+        "refs": [
+          "Ezra 7:6",
+          "Ezra 7:10-11",
+          "Neh 8:1-8"
+        ]
+      },
+      {
+        "term": "Holy seed",
+        "explain": "Ezra calls Israel 'the holy seed' that has 'mingled' with the peoples, using the language of Lev 19:19 and Deut 7:3-4. Scholars debate whether the concern was ethnic, religious, or both.",
+        "refs": [
+          "Ezra 9:1-2",
+          "Deut 7:3-4",
+          "Isa 6:13"
+        ]
+      }
+    ],
+    "jewishLens": "In the Hebrew Bible, Ezra and Nehemiah are a single book in the Writings, placed just before Chronicles. Jewish tradition holds Ezra in enormous honour. The Talmud (Sanhedrin 21b) says that Ezra was worthy to have the Torah given through him, had Moses not come first. Tradition credits him with restoring the Torah to the people after the exile, introducing the square Aramaic script still used for Hebrew today, and leading the 'Men of the Great Assembly' who, according to the Mishnah (Avot 1:1), received the tradition from the prophets and passed it to the sages. The Talmud (Bava Kamma 82a) lists ten enactments attributed to Ezra, including the public reading of the Torah on Mondays, Thursdays and Sabbath afternoons, still practised in synagogues.\n\nThe first audience would have heard Ezra as a story of God's faithfulness after the worst disaster in their history. The God who had sent them into exile now 'stirred up the spirit' of a pagan emperor to send them home (Ezra 1:1), and 'the hand of the LORD his God' was upon Ezra (Ezra 7:6; Ezra 7:9; Ezra 7:28). The rebuilding of the temple and the restoration of Torah meant that the covenant relationship continued. The Passover kept at the temple's dedication included not only returnees but 'all such as had separated themselves unto them from the filthiness of the heathen of the land, to seek the LORD God of Israel' (Ezra 6:21), suggesting that the community was open to those who joined it in worship.\n\nThe intermarriage crisis was understood within the memory of what had led to exile. Solomon's foreign wives had turned his heart to other gods (1 Kgs 11:1-8), and Deuteronomy had warned that marriages with Canaanite peoples would lead Israel to serve their gods (Deut 7:3-4). For a tiny community surrounded by others, losing its distinct worship and language (compare Neh 13:23-24) seemed to threaten its very existence. Ezra's prayer of confession (Ezra 9:6-15) is a model of corporate repentance in which the leader identifies with the people's sin: 'our iniquities are increased over our head'.",
+    "flow": [
+      {
+        "label": "Cyrus' decree",
+        "detail": "God stirs Cyrus to allow the exiles to return and rebuild the temple, sending back the temple vessels.",
+        "refs": [
+          "Ezra 1:1-11"
+        ]
+      },
+      {
+        "label": "The returnees listed",
+        "detail": "Families, priests, Levites and servants return; those who cannot prove descent are noted.",
+        "refs": [
+          "Ezra 2:1-2",
+          "Ezra 2:59-70"
+        ]
+      },
+      {
+        "label": "Altar and foundation",
+        "detail": "The altar is rebuilt and the temple foundation laid with joy and weeping.",
+        "refs": [
+          "Ezra 3:1-6",
+          "Ezra 3:10-13"
+        ]
+      },
+      {
+        "label": "Opposition halts the work",
+        "detail": "Local adversaries are refused a share and then frustrate the building for years through accusations to the Persian court.",
+        "refs": [
+          "Ezra 4:1-5",
+          "Ezra 4:17-24"
+        ]
+      },
+      {
+        "label": "Prophets and temple completed",
+        "detail": "Haggai and Zechariah stir the people; Darius confirms Cyrus' decree; the temple is finished and Passover kept.",
+        "refs": [
+          "Ezra 5:1-2",
+          "Ezra 6:1-15",
+          "Ezra 6:19-22"
+        ]
+      },
+      {
+        "label": "Ezra sent with the law",
+        "detail": "Ezra, a scribe devoted to studying, doing and teaching the Torah, comes with a royal letter and a second group of returnees.",
+        "refs": [
+          "Ezra 7:6-10",
+          "Ezra 7:25-28",
+          "Ezra 8:21-23"
+        ]
+      },
+      {
+        "label": "Intermarriage crisis",
+        "detail": "Ezra mourns the people's mixed marriages, prays a confession, and the community agrees to separate from foreign wives.",
+        "refs": [
+          "Ezra 9:1-15",
+          "Ezra 10:1-17",
+          "Ezra 10:44"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Ezra: return and renewal",
+      "branches": [
+        {
+          "label": "Return",
+          "items": [
+            "Cyrus' decree",
+            "Prophecy fulfilled",
+            "Temple vessels restored",
+            "Lists of returnees"
+          ]
+        },
+        {
+          "label": "Temple",
+          "items": [
+            "Altar rebuilt",
+            "Foundation laid",
+            "Opposition and delay",
+            "Completed in 516 BC"
+          ]
+        },
+        {
+          "label": "God's hand",
+          "items": [
+            "Stirs pagan kings",
+            "Good hand upon Ezra",
+            "Protects the journey",
+            "Through prophets"
+          ]
+        },
+        {
+          "label": "Torah",
+          "items": [
+            "Ezra the scribe",
+            "Study, do, teach",
+            "Royal commission",
+            "Community reshaped"
+          ]
+        },
+        {
+          "label": "Identity",
+          "items": [
+            "Holy seed",
+            "Separation from idolatry",
+            "Mixed marriages",
+            "Corporate confession"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Exile community",
+        "original": "golah (גּוֹלָה)",
+        "meaning": "The returned exiles who formed the core of the restored community.",
+        "refs": [
+          "Ezra 1:11",
+          "Ezra 4:1",
+          "Ezra 10:16"
+        ]
+      },
+      {
+        "word": "Stir up",
+        "original": "he'ir (הֵעִיר)",
+        "meaning": "To rouse. God stirs Cyrus' spirit and the spirit of the returnees.",
+        "refs": [
+          "Ezra 1:1",
+          "Ezra 1:5"
+        ]
+      },
+      {
+        "word": "Hand of God",
+        "original": "yad Elohim (יַד אֱלֹהִים)",
+        "meaning": "God's favour and power guiding events, a refrain in Ezra and Nehemiah.",
+        "refs": [
+          "Ezra 7:6",
+          "Ezra 7:28",
+          "Ezra 8:22"
+        ]
+      },
+      {
+        "word": "Scribe",
+        "original": "sofer (סֹפֵר)",
+        "meaning": "Writer, secretary and, for Ezra, expert teacher of the Torah.",
+        "refs": [
+          "Ezra 7:6",
+          "Ezra 7:11"
+        ]
+      },
+      {
+        "word": "Separate",
+        "original": "badal (בָּדַל)",
+        "meaning": "To divide or set apart, as God separated light from darkness and Israel from the nations; used for both separating from idolatry and from foreign wives.",
+        "refs": [
+          "Ezra 6:21",
+          "Ezra 9:1",
+          "Ezra 10:11"
+        ]
+      },
+      {
+        "word": "Remnant / escaped",
+        "original": "pelétah, she'erit (פְּלֵיטָה, שְׁאֵרִית)",
+        "meaning": "Those who survived judgment; Ezra calls the community a remnant given a 'nail' in God's holy place.",
+        "refs": [
+          "Ezra 9:8",
+          "Ezra 9:13-15"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "2-chronicles",
+        "how": "Ezra opens with the same decree of Cyrus that closes Chronicles.",
+        "refs": [
+          "2 Chr 36:22-23",
+          "Ezra 1:1-3"
+        ]
+      },
+      {
+        "bookId": "nehemiah",
+        "how": "Ezra and Nehemiah form one book in the Hebrew Bible; Ezra reappears reading the law in Neh 8.",
+        "refs": [
+          "Neh 8:1-9",
+          "Neh 12:36"
+        ]
+      },
+      {
+        "bookId": "haggai",
+        "how": "Haggai's prophecies in 520 BC spurred the rebuilding of the temple described in Ezra 5-6.",
+        "refs": [
+          "Hag 1:1-15",
+          "Ezra 5:1-2"
+        ]
+      },
+      {
+        "bookId": "zechariah",
+        "how": "Zechariah encouraged Zerubbabel and Joshua the high priest to complete the temple.",
+        "refs": [
+          "Zech 4:6-10",
+          "Ezra 6:14"
+        ]
+      },
+      {
+        "bookId": "isaiah",
+        "how": "Isaiah names Cyrus as the LORD's anointed who will say of Jerusalem 'thou shalt be built'.",
+        "refs": [
+          "Isa 44:28",
+          "Isa 45:1-4"
+        ]
+      },
+      {
+        "bookId": "jeremiah",
+        "how": "Ezra presents the return as fulfilling Jeremiah's prophecy of seventy years.",
+        "refs": [
+          "Jer 29:10",
+          "Ezra 1:1"
+        ]
+      }
+    ],
+    "jesusLens": "Ezra shows a return from exile that was real but incomplete: the people are back but still 'servants' under foreign kings (Ezra 9:9; compare Neh 9:36). Many scholars, including N. T. Wright, argue that this sense of an unfinished exile shaped first-century Jewish hope, and that Jesus' announcement of the kingdom was heard as the promise of a final return and restoration. Zerubbabel, the Davidic descendant who led the return, appears in Jesus' genealogy (Matt 1:12-13), and the rebuilt temple is the one that Herod later enlarged and in which Jesus taught. Christians see Jesus as the true temple and as a teacher of the Torah who, like Ezra, calls people back to its heart. Jewish tradition sees Ezra as the founder of the scribal tradition from which rabbinic Judaism grew, and the regular public reading of Torah as his lasting gift.",
+    "misreadings": [
+      {
+        "topic": "Ezra 9-10 as racial purity or as a model for divorce",
+        "popular": "Some readers cite Ezra 9-10 as proof that the Bible endorses racial or ethnic separation; others have used it to argue that believers married to unbelievers should leave them.",
+        "inContext": "Ezra's concern is framed by Deuteronomy's warning that marriages with surrounding peoples would lead Israel into idolatry (Deut 7:3-4) and by Solomon's fall (Neh 13:26). The 'abominations' of the peoples are religious (Ezra 9:1). The community did accept outsiders who separated from idolatry and sought the LORD (Ezra 6:21), and Ruth shows a Moabite woman welcomed. Scholars such as H. G. M. Williamson and Joseph Blenkinsopp discuss the tension; some, like Katherine Southwood and Tamara Eskenazi, note that the 'holy seed' language (Ezra 9:2) does move toward an ethnic boundary, and that the book of Ruth and Jonah may be biblical counter-voices.",
+        "defence": "Evangelical scholars such as Derek Kidner, Mervin Breneman and F. Charles Fensham read the measure as a painful, specific response to a threat to the community's survival and faith, not a timeless rule. They note that Paul explicitly tells believers not to divorce unbelieving spouses who wish to stay (1 Cor 7:12-14), so the passage cannot be a Christian model. They also point out that the issue was faith, not race.",
+        "whyItMatters": "Using Ezra to justify racism is a serious misreading; using it to justify divorce contradicts Paul. Reading it in context shows a community desperate to remain faithful, and invites honest discussion about the human cost of its decision.",
+        "refs": [
+          "Ezra 6:21",
+          "Ezra 9:1-2",
+          "Ezra 10:3",
+          "Deut 7:3-4",
+          "1 Cor 7:12-14"
+        ],
+        "scholars": [
+          "H. G. M. Williamson",
+          "Joseph Blenkinsopp",
+          "Tamara Cohn Eskenazi",
+          "Derek Kidner",
+          "F. Charles Fensham"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Ezra assured the returned exiles that God had kept his word and was still at work through unlikely rulers, that rebuilding worship was worth the struggle, and that their survival as a people depended on faithfulness to the Torah.",
+      "now": "Ezra speaks to communities rebuilding after disaster, to anyone facing opposition to a good work, and to leaders who must call people back to Scripture. It also raises hard questions about how faith communities keep their identity without excluding or harming others."
+    },
+    "sources": [
+      {
+        "author": "H. G. M. Williamson",
+        "title": "Ezra, Nehemiah (Word Biblical Commentary)",
+        "year": 1985
+      },
+      {
+        "author": "Joseph Blenkinsopp",
+        "title": "Ezra-Nehemiah (Old Testament Library)",
+        "year": 1988
+      },
+      {
+        "author": "Tamara Cohn Eskenazi",
+        "title": "In an Age of Prose: A Literary Approach to Ezra-Nehemiah",
+        "year": 1988
+      },
+      {
+        "author": "F. Charles Fensham",
+        "title": "The Books of Ezra and Nehemiah (NICOT)",
+        "year": 1982
+      },
+      {
+        "author": "Derek Kidner",
+        "title": "Ezra and Nehemiah (Tyndale Old Testament Commentaries)",
+        "year": 1979
+      }
+    ]
+  },
+  {
+    "id": "nehemiah",
+    "oneLine": "Nehemiah tells how a Jewish official at the Persian court rebuilt Jerusalem's broken walls in 52 days against fierce opposition, and how the people then rebuilt their life around God's law.",
+    "author": {
+      "name": "Nehemiah (memoir) and the compiler of Ezra-Nehemiah",
+      "who": "Nehemiah son of Hachaliah was cupbearer to King Artaxerxes I, a trusted personal servant with access to the king. He became governor of Judah. Much of the book is his first-person memoir; an editor added lists and the account of Ezra's reading of the law.",
+      "howWeKnow": "The book opens 'The words of Nehemiah the son of Hachaliah' (Neh 1:1) and large sections are in the first person (Neh 1-7; parts of Neh 12-13), including short prayers such as 'Remember me, O my God, for good' (Neh 5:19; Neh 13:31). Scholars widely accept this 'Nehemiah Memoir' as authentic; it resembles ancient votive or report inscriptions in which officials list their deeds before a god. The Elephantine papyri (407 BC) mention Sanballat as governor of Samaria and Johanan as high priest in Jerusalem (compare Neh 12:22), confirming the setting.",
+      "otherWritings": [
+        "Ezra (one book with Nehemiah in the Hebrew Bible)"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    "writtenFrom": {
+      "place": "Jerusalem",
+      "coords": [
+        35.23,
+        31.78
+      ],
+      "note": "Nehemiah wrote his memoir in Jerusalem, probably after his second term as governor (after 432 BC). The combined Ezra-Nehemiah was compiled later, probably around 400 BC.",
+      "confidence": "scholarly-consensus"
+    },
+    "writtenTo": {
+      "who": "The Jewish community in Judah and before God",
+      "place": "Jerusalem and Yehud",
+      "situation": "Nearly a century after the first return, Jerusalem was still largely in ruins, its walls broken and its people poor, harassed by neighbouring officials and in danger of drifting from the covenant. Nehemiah's memoir reports his work both to the community and, through his prayers, to God.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -445,
+      "to": -432,
+      "note": "Nehemiah hears the news in the month Kislev of Artaxerxes' twentieth year (Neh 1:1) and asks permission in Nisan (Neh 2:1), 445/444 BC. He governs twelve years, returns to the king in the thirty-second year (Neh 13:6, 433/432 BC), and comes back for a second term of reforms. The identification with Artaxerxes I (465-424 BC) is supported by the Elephantine papyri."
+    },
+    "worldEvents": [
+      {
+        "year": -460,
+        "event": "Egypt revolts against Persia with Athenian support; the western provinces, including Judah, become strategically important."
+      },
+      {
+        "year": -449,
+        "event": "The Peace of Callias (debated) ends open war between Athens and Persia."
+      },
+      {
+        "year": -445,
+        "event": "Nehemiah arrives in Jerusalem as governor and rebuilds the walls."
+      },
+      {
+        "year": -431,
+        "event": "The Peloponnesian War begins between Athens and Sparta."
+      },
+      {
+        "year": -407,
+        "event": "Jews at Elephantine write to Bagohi, governor of Judah, and to the sons of Sanballat, governor of Samaria, asking for help to rebuild their temple."
+      }
+    ],
+    "backdrop": "By the mid-5th century BC the Jerusalem temple had stood for seventy years, but the city around it was thinly populated and unprotected. Walls in the ancient world were not only defence; they signalled that a city had status and honour. A city without walls was exposed to raids and shame: 'the remnant... are in great affliction and reproach' (Neh 1:3). Ezra 4:7-23 records an earlier attempt to rebuild that was halted by Artaxerxes himself after local officials accused the Jews of planning rebellion.\n\nNehemiah held one of the most trusted positions in the Persian court. A cupbearer tasted the king's wine to guard against poison and often became an adviser. When the king noticed his sadness, Nehemiah prayed silently and asked to be sent to rebuild the city (Neh 2:1-8). The king granted him letters, timber and an escort, and later appointed him governor. That a king who had once stopped the work now commissioned it is presented as 'the good hand of my God upon me' (Neh 2:8).\n\nOpposition came from neighbouring officials: Sanballat the Horonite (governor of Samaria), Tobiah the Ammonite (possibly governor in Transjordan, with family ties to Jerusalem's priests) and Geshem the Arab (a powerful ruler named on a silver bowl found in Egypt). They used mockery, threats of attack, false rumours of rebellion, attempts to lure Nehemiah to a trap and a hired false prophet (Neh 4:1-3; Neh 6:1-14). The people built with tools in one hand and weapons in the other (Neh 4:17-18). The walls were finished in 52 days (Neh 6:15).\n\nNehemiah also faced an inner crisis. Wealthy Jews were charging interest and taking the children of poorer Jews as debt slaves during a famine and tax burden (Neh 5:1-5). Nehemiah was furious and forced the nobles to cancel debts and return property, while he himself refused the governor's food allowance (Neh 5:14-18). Then came spiritual renewal: Ezra read the Torah publicly from morning to midday, Levites explained it, the people wept and were told to celebrate, kept the feast of Booths, confessed their history in a long prayer, and signed a covenant (Neh 8-10). The book ends with Nehemiah's second term, in which he finds the old problems back: Tobiah lodging in the temple, Levites unpaid, Sabbath trading and mixed marriages in which children could no longer speak Hebrew (Neh 13).",
+    "culture": [
+      {
+        "term": "Cupbearer",
+        "explain": "A royal official who served and tasted the king's wine; a position of great trust and personal access. Nehemiah risks his position by appearing sad before the king.",
+        "refs": [
+          "Neh 1:11",
+          "Neh 2:1-2"
+        ]
+      },
+      {
+        "term": "Walls and honour",
+        "explain": "Broken walls meant shame and vulnerability. Rebuilding them restored the city's honour among its neighbours, who then 'were much cast down in their own eyes'.",
+        "refs": [
+          "Neh 1:3",
+          "Neh 2:17",
+          "Neh 6:16"
+        ]
+      },
+      {
+        "term": "Debt slavery",
+        "explain": "Poor families mortgaged land and sold children into service to pay taxes and buy grain. The Torah forbade charging interest to fellow Israelites and limited slavery.",
+        "refs": [
+          "Neh 5:1-5",
+          "Lev 25:35-43",
+          "Deut 23:19"
+        ]
+      },
+      {
+        "term": "Public reading and interpretation",
+        "explain": "Ezra reads from a wooden platform; Levites help the people understand, probably including translation into Aramaic and explanation. This became the pattern for synagogue reading.",
+        "refs": [
+          "Neh 8:1-8"
+        ]
+      },
+      {
+        "term": "Written covenant (amanah)",
+        "explain": "The people make a 'sure covenant' in writing, sealed by leaders, Levites and priests, committing to specific practices: no mixed marriages, Sabbath, sabbath year, temple tax, firstfruits and tithes.",
+        "refs": [
+          "Neh 9:38",
+          "Neh 10:28-39"
+        ]
+      },
+      {
+        "term": "Remember me",
+        "explain": "Nehemiah's short prayers ask God to remember his deeds, similar to inscriptions of ancient officials. They show an intimate, ongoing relationship with God amid action.",
+        "refs": [
+          "Neh 5:19",
+          "Neh 13:14",
+          "Neh 13:31"
+        ]
+      }
+    ],
+    "jewishLens": "Nehemiah 8 is one of the founding scenes of Jewish worship. The Talmud (Megillah 3a; Nedarim 37b) reads the words of Neh 8:8, 'they read in the book in the law of God distinctly, and gave the sense, and caused them to understand the reading', as describing translation (*targum*) into Aramaic, the division of verses, and the traditional chanting and vocalisation. From this scene comes the pattern of public Torah reading with explanation, still practised every Sabbath. Several verses of Nehemiah's great prayer (Neh 9:6-11), recalling God's covenant with Abraham, are recited every morning in the daily prayers just before the Song of the Sea.\n\nThe rabbis respected Nehemiah but noticed his habit of asking God to remember his good deeds. The Talmud (Sanhedrin 93b) suggests that this is why his memoir was not given its own book but was joined to Ezra's: he spoke too favourably of himself. Still, Jewish tradition honours him as a leader who restored Jerusalem and enforced Sabbath observance, a key marker of Jewish identity in exile and after.\n\nThe first audience would have heard Nehemiah as a story about rebuilding both walls and covenant. The walls gave security and honour, but the deeper restoration was the people's return to the Torah: hearing it together, weeping, celebrating ('the joy of the LORD is your strength', Neh 8:10), confessing their history in a long prayer that rehearses God's faithfulness and their failure (Neh 9), and binding themselves again. They knew they were still 'servants' in their own land, giving its produce to foreign kings (Neh 9:36-37). Yet they were God's people, living within his covenant, and they chose to commit themselves to it again.",
+    "flow": [
+      {
+        "label": "Bad news and prayer",
+        "detail": "Nehemiah hears Jerusalem is in ruins, mourns, fasts and prays, confessing Israel's sin and claiming God's promise.",
+        "refs": [
+          "Neh 1:1-11"
+        ]
+      },
+      {
+        "label": "The king sends him",
+        "detail": "Nehemiah asks Artaxerxes for permission and resources; he arrives, inspects the walls by night and rallies the people.",
+        "refs": [
+          "Neh 2:1-8",
+          "Neh 2:11-18"
+        ]
+      },
+      {
+        "label": "Building together",
+        "detail": "Families and groups rebuild sections of wall near their homes, from priests to goldsmiths and daughters.",
+        "refs": [
+          "Neh 3:1-32"
+        ]
+      },
+      {
+        "label": "Opposition outside and in",
+        "detail": "Enemies mock and threaten; workers build armed. Nehemiah confronts nobles exploiting the poor.",
+        "refs": [
+          "Neh 4:1-23",
+          "Neh 5:1-13"
+        ]
+      },
+      {
+        "label": "Wall finished in 52 days",
+        "detail": "Plots against Nehemiah fail and the wall is completed; even enemies see that this work was of God.",
+        "refs": [
+          "Neh 6:1-16"
+        ]
+      },
+      {
+        "label": "Law read, covenant renewed",
+        "detail": "Ezra reads the Torah; the people weep, celebrate Booths, confess their history and sign a covenant.",
+        "refs": [
+          "Neh 8:1-18",
+          "Neh 9:1-38",
+          "Neh 10:28-39"
+        ]
+      },
+      {
+        "label": "Dedication and backsliding",
+        "detail": "The walls are dedicated with choirs, but during Nehemiah's absence the people slip; he returns and reforms again.",
+        "refs": [
+          "Neh 12:27-43",
+          "Neh 13:4-31"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Nehemiah: rebuilding walls and covenant",
+      "branches": [
+        {
+          "label": "Prayer",
+          "items": [
+            "Fasting and confession",
+            "Arrow prayers",
+            "Remember me",
+            "Great covenant prayer"
+          ]
+        },
+        {
+          "label": "Rebuilding",
+          "items": [
+            "Royal permission",
+            "Everyone a section",
+            "Sword and trowel",
+            "52 days"
+          ]
+        },
+        {
+          "label": "Opposition",
+          "items": [
+            "Sanballat and Tobiah",
+            "Mockery and threats",
+            "False prophets",
+            "Political accusations"
+          ]
+        },
+        {
+          "label": "Justice",
+          "items": [
+            "Debts cancelled",
+            "Children freed",
+            "Governor's restraint",
+            "Levites provided for"
+          ]
+        },
+        {
+          "label": "Renewal",
+          "items": [
+            "Law read aloud",
+            "Joy of the LORD",
+            "Feast of Booths",
+            "Written covenant"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Wall",
+        "original": "chomah (חוֹמָה)",
+        "meaning": "City wall: protection, identity and honour. The book's central project.",
+        "refs": [
+          "Neh 1:3",
+          "Neh 2:17",
+          "Neh 6:15"
+        ]
+      },
+      {
+        "word": "Remember",
+        "original": "zakhar (זָכַר)",
+        "meaning": "Nehemiah asks God to remember the covenant, his good deeds, and the wrongs of enemies.",
+        "refs": [
+          "Neh 1:8",
+          "Neh 5:19",
+          "Neh 13:31"
+        ]
+      },
+      {
+        "word": "Reproach",
+        "original": "cherpah (חֶרְפָּה)",
+        "meaning": "Shame, disgrace. Rebuilding removes the reproach of the people among the nations.",
+        "refs": [
+          "Neh 1:3",
+          "Neh 2:17",
+          "Neh 5:9"
+        ]
+      },
+      {
+        "word": "Joy",
+        "original": "chedvah, simchah (חֶדְוָה, שִׂמְחָה)",
+        "meaning": "Gladness. 'The joy of the LORD is your strength'; the dedication's joy is heard far away.",
+        "refs": [
+          "Neh 8:10",
+          "Neh 8:17",
+          "Neh 12:43"
+        ]
+      },
+      {
+        "word": "Firm covenant",
+        "original": "amanah (אֲמָנָה)",
+        "meaning": "A firm, written agreement; from the root of 'amen' and 'faithfulness'.",
+        "refs": [
+          "Neh 9:38",
+          "Neh 11:23"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "ezra",
+        "how": "Nehemiah continues Ezra's story; Ezra himself leads the reading of the law in Neh 8.",
+        "refs": [
+          "Ezra 7:10",
+          "Neh 8:1-9"
+        ]
+      },
+      {
+        "bookId": "deuteronomy",
+        "how": "Nehemiah's prayer quotes Deuteronomy's promise of return, and the public reading at Booths follows Deut 31.",
+        "refs": [
+          "Neh 1:8-9",
+          "Deut 30:1-4",
+          "Deut 31:10-13"
+        ]
+      },
+      {
+        "bookId": "malachi",
+        "how": "Malachi addresses the same problems: corrupt priests, withheld tithes and marriages to worshippers of other gods.",
+        "refs": [
+          "Mal 1:6-8",
+          "Mal 2:11",
+          "Mal 3:8-10",
+          "Neh 13:10-13"
+        ]
+      },
+      {
+        "bookId": "psalms",
+        "how": "Nehemiah's great prayer in Neh 9 retells history like Ps 105 and 106, celebrating God's faithfulness and confessing sin.",
+        "refs": [
+          "Neh 9:6-38",
+          "Ps 106:6-48"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "Nehemiah's and Daniel's prayers share the pattern of confession for the nation in exile, appealing to God's covenant mercy.",
+        "refs": [
+          "Neh 1:5-11",
+          "Dan 9:4-19"
+        ]
+      }
+    ],
+    "jesusLens": "Nehemiah leaves the restoration incomplete. The people are back, but still under foreign rule, still failing, still needing reform (Neh 9:36-37; Neh 13). Christian readers see this as preparing for the fuller restoration Jesus brings. Nehemiah, who leaves a position of comfort in the palace to identify with his people's shame and rebuild their city, has been compared to Christ, who left heaven to restore his people. The heavenly Jerusalem in the New Testament has walls and gates, open to all nations (Rev 21:12-25). Jesus' teaching in synagogues followed the pattern of reading and explaining Scripture that Nehemiah 8 established (Luke 4:16-21). Jewish readers see in Nehemiah the restoration of Jerusalem and the Sabbath as central to Jewish life, and the model of Torah read and explained to the whole community.",
+    "misreadings": [
+      {
+        "topic": "Nehemiah as a leadership manual",
+        "popular": "Nehemiah is often taught as a guide to effective leadership: vision-casting, planning, delegation, overcoming opposition and project management, a model for pastors and business leaders.",
+        "inContext": "Nehemiah does show skilful leadership, but the book's own focus is God: his 'good hand', answered prayer, covenant renewal and the community's life around the Torah. The climax is not the finished wall but the reading of the law and the people's confession and commitment (Neh 8-10). The ending shows that even a gifted leader cannot keep a people faithful (Neh 13). Scholars such as Tamara Eskenazi stress that the book highlights the whole community's role, not one hero.",
+        "defence": "Evangelical writers such as J. Oswald Sanders and Charles Swindoll draw leadership lessons from Nehemiah, which the memoir's style invites. Commentators like Derek Kidner and Mervin Breneman accept this application but caution against reducing the book to technique. Both sides agree that Nehemiah's leadership flows from prayer and covenant loyalty.",
+        "whyItMatters": "Reading Nehemiah only as leadership advice can miss its call to communal repentance, justice for the poor and renewal around God's word.",
+        "refs": [
+          "Neh 1:4-11",
+          "Neh 5:1-13",
+          "Neh 8:1-12",
+          "Neh 13:4-31"
+        ],
+        "scholars": [
+          "Tamara Cohn Eskenazi",
+          "Derek Kidner",
+          "Mervin Breneman",
+          "J. Oswald Sanders"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "'The joy of the LORD is your strength' as personal happiness",
+        "popular": "Neh 8:10 is often quoted as a promise that God will give believers inner joy and emotional strength in hard times.",
+        "inContext": "The people were weeping as the law convicted them. Nehemiah and Ezra tell them to stop mourning on a holy day, celebrate with food, and send portions to those who have nothing (Neh 8:9-12). The 'joy of the LORD' is the communal festival joy of a people restored to covenant, shared with the poor. It is a strength rooted in God's faithfulness, not merely a personal feeling.",
+        "defence": "Evangelical teachers rightly apply the verse to individual believers' strength in God, which is a valid extension. Scholars on all sides agree the original setting is communal celebration and generosity.",
+        "whyItMatters": "In context, the verse joins joy, worship and generosity to the poor; it calls communities to celebrate God together, not only individuals to feel better.",
+        "refs": [
+          "Neh 8:9-12"
+        ],
+        "scholars": [
+          "H. G. M. Williamson",
+          "Derek Kidner",
+          "Mervin Breneman"
+        ],
+        "confidence": "scholarly-consensus"
+      }
+    ],
+    "relevance": {
+      "then": "Nehemiah gave the Jerusalem community security, honour and a renewed covenant, showing that God's hand was with them even under Persian rule, and calling them to justice, Sabbath and faithfulness.",
+      "now": "Nehemiah speaks about prayerful action, rebuilding broken communities, standing firm against intimidation, refusing to exploit the poor, renewing worship around Scripture and the reality that reform needs constant renewal."
+    },
+    "sources": [
+      {
+        "author": "H. G. M. Williamson",
+        "title": "Ezra, Nehemiah (Word Biblical Commentary)",
+        "year": 1985
+      },
+      {
+        "author": "Joseph Blenkinsopp",
+        "title": "Ezra-Nehemiah (Old Testament Library)",
+        "year": 1988
+      },
+      {
+        "author": "Tamara Cohn Eskenazi",
+        "title": "In an Age of Prose: A Literary Approach to Ezra-Nehemiah",
+        "year": 1988
+      },
+      {
+        "author": "Mervin Breneman",
+        "title": "Ezra, Nehemiah, Esther (New American Commentary)",
+        "year": 1993
+      },
+      {
+        "author": "Bezalel Porten",
+        "title": "Archives from Elephantine: The Life of an Ancient Jewish Military Colony",
+        "year": 1968
+      }
+    ]
+  },
+  {
+    "id": "esther",
+    "oneLine": "Esther tells how a Jewish orphan who became queen of Persia risked her life to stop a genocide, and how hidden providence turned the plot upside down, giving rise to the feast of Purim.",
+    "author": {
+      "name": "Anonymous",
+      "who": "An unknown Jewish writer familiar with Persian court life. The Talmud (Baba Bathra 15a) credits the 'Men of the Great Assembly'. Some medieval interpreters suggested Mordecai, citing Esth 9:20.",
+      "howWeKnow": "The book does not name its author. It refers to the 'book of the chronicles of the kings of Media and Persia' (Esth 10:2) and shows detailed knowledge of Persian customs, vocabulary and the palace at Susa. Its Hebrew contains Persian loanwords and late features, suggesting composition in the late Persian or early Hellenistic period.",
+      "otherWritings": [],
+      "confidence": "debated"
+    },
+    "writtenFrom": {
+      "place": "Persian diaspora, possibly Susa",
+      "coords": [
+        48.25,
+        32.19
+      ],
+      "note": "The writer likely lived among the Jewish communities of the eastern diaspora, perhaps in Susa itself, where Jews lived under Persian rule. Coordinates are for Susa.",
+      "confidence": "speculative"
+    },
+    "writtenTo": {
+      "who": "Jews scattered across the Persian Empire",
+      "place": "The eastern diaspora and Judah",
+      "situation": "Most Jews did not return to Judah; they lived as minorities in a vast empire, dependent on the whims of rulers and exposed to hostility. Esther gave them a story of survival and explained the origin of Purim, a festival celebrated far from Jerusalem and the temple.",
+      "confidence": "scholarly-consensus"
+    },
+    "setIn": {
+      "from": -483,
+      "to": -473,
+      "note": "From the third year of Ahasuerus (Esth 1:3) to his twelfth and thirteenth years (Esth 3:7; Esth 9:1). Ahasuerus is usually identified with Xerxes I (486-465 BC), giving about 483-473 BC. Greek historians mention Xerxes' queen as Amestris, not Vashti or Esther, which is one reason some scholars read the book as a historical novella; others argue Esther and Vashti could be secondary wives or that Greek sources are incomplete."
+    },
+    "worldEvents": [
+      {
+        "year": -486,
+        "event": "Xerxes I becomes king of Persia."
+      },
+      {
+        "year": -480,
+        "event": "Xerxes invades Greece; Persia wins at Thermopylae but loses at Salamis (between Esth 1:3 and Esth 2:16 in the book's timeline)."
+      },
+      {
+        "year": -479,
+        "event": "Persian defeat at Plataea ends Xerxes' Greek campaign."
+      },
+      {
+        "year": -473,
+        "event": "Approximate date of Haman's decree and its reversal, the origin of Purim."
+      },
+      {
+        "year": -465,
+        "event": "Xerxes is assassinated in a palace conspiracy, illustrating the dangers of the court Esther depicts."
+      }
+    ],
+    "backdrop": "Esther is set in Susa, one of the capitals of the Persian Empire, under Ahasuerus, generally identified with Xerxes I. The palace at Susa, excavated by French archaeologists, had a vast audience hall (apadana) with columns, matching the setting of royal banquets and audiences (Esth 1:5-6). Greek historians like Herodotus describe Xerxes as a ruler of lavish feasts, sudden anger and heavy dependence on advisers, much like the king in Esther. Persian laws sealed with the king's ring were presented as irrevocable (Esth 1:19; Esth 8:8), though no Persian source states this rule outright.\n\nThe historicity of Esther is debated. Some scholars accept it as history, pointing to the accurate details of Persian court life and possible parallels such as a tablet mentioning an official named Marduka at the Persian court in Xerxes' time (whether this is Mordecai is disputed; the name was common). Others read it as a historical novella or festival legend written to explain Purim, noting difficulties: Herodotus names Xerxes' queen as Amestris; Mordecai's genealogy (Esth 2:5-6) could make him over 100 years old if he was deported in 597 BC; and the story's numerous reversals and banquets have a literary symmetry. Evangelical scholars such as Karen Jobes and Mervin Breneman hold to its historical core while recognising its artful storytelling.\n\nThe central villain, Haman, is called 'the Agagite' (Esth 3:1), linking him with Agag, the Amalekite king whom Saul failed to kill (1 Sam 15). Mordecai is a Benjaminite descended from Kish, Saul's father (Esth 2:5). The story replays an ancient conflict: Israel against Amalek (Exod 17:8-16; Deut 25:17-19), with Saul's descendant now completing what Saul failed to do. The detail that the Jews 'laid not their hand on the prey' (Esth 9:10; Esth 9:15-16), repeated three times, contrasts with Saul's taking of plunder (1 Sam 15:9).\n\nThe most striking feature of Esther is that God is never mentioned. There is no prayer, no temple, no covenant language, only fasting (Esth 4:16). Yet the story is full of 'coincidences': Esther becomes queen at the right moment; Mordecai uncovers a plot that is recorded; the king cannot sleep and reads the record on exactly the right night (Esth 6:1-3); Haman builds a gallows that becomes his own. The Greek version adds six passages with prayers and explicit mention of God, showing that early readers felt the absence; these additions are part of the Catholic and Orthodox Old Testament.",
+    "culture": [
+      {
+        "term": "The Persian court",
+        "explain": "The king was surrounded by layers of officials, eunuchs and protocol. Approaching the king without summons could mean death unless he extended his sceptre.",
+        "refs": [
+          "Esth 1:10-15",
+          "Esth 4:11",
+          "Esth 5:1-2"
+        ]
+      },
+      {
+        "term": "The king's harem",
+        "explain": "Women were gathered to the palace for a year of beauty treatments before one night with the king; most never saw him again. Esther's position was not a romance but a dangerous and controlled life.",
+        "refs": [
+          "Esth 2:2-4",
+          "Esth 2:12-14"
+        ]
+      },
+      {
+        "term": "Irrevocable law",
+        "explain": "A law sealed with the king's ring could not be revoked; Esther and Mordecai have to issue a counter-decree allowing the Jews to defend themselves.",
+        "refs": [
+          "Esth 1:19",
+          "Esth 8:8",
+          "Esth 8:11"
+        ]
+      },
+      {
+        "term": "Casting lots (pur)",
+        "explain": "Haman casts the 'pur' (an Akkadian word for lot) to choose the date for genocide. The feast of Purim is named after it.",
+        "refs": [
+          "Esth 3:7",
+          "Esth 9:24-26"
+        ]
+      },
+      {
+        "term": "Amalek",
+        "explain": "Israel's archetypal enemy who attacked the weak in the wilderness. Haman the Agagite is from this line, and Jewish tradition sees every attempt to destroy the Jews as an echo of Amalek.",
+        "refs": [
+          "Exod 17:8-16",
+          "Deut 25:17-19",
+          "1 Sam 15:8-9",
+          "Esth 3:1"
+        ]
+      },
+      {
+        "term": "Honour and shame",
+        "explain": "The story turns on honour: Vashti refuses to be displayed, Haman demands Mordecai's bow, and is forced to honour him publicly. Reversals of honour drive the plot.",
+        "refs": [
+          "Esth 1:10-12",
+          "Esth 3:2-6",
+          "Esth 6:6-11"
+        ]
+      }
+    ],
+    "jewishLens": "Esther, called the *Megillah* (the scroll), is read aloud in synagogue on the festival of Purim, once in the evening and once in the morning. Whenever Haman's name is read, the congregation drowns it out with noisemakers (*graggers*), stamping and booing, fulfilling the command to 'blot out the remembrance of Amalek' (Deut 25:19). Purim is the most joyful day in the Jewish calendar: people send gifts of food to friends (*mishloach manot*) and gifts to the poor (*matanot la-evyonim*), both commanded in Esth 9:22, hold a festive meal and wear costumes. The day before, the Fast of Esther recalls the queen's three-day fast (Esth 4:16). Maimonides wrote that in the messianic age the books of the prophets may cease to be read, but the scroll of Esther will remain (Mishneh Torah, Laws of Megillah 2:18).\n\nThe absence of God's name was explained by the rabbis through a wordplay. The Talmud (Hullin 139b) asks where Esther is hinted at in the Torah and answers with Deut 31:18: 'I will surely hide (*haster astir*) my face'. The name Esther sounds like 'I will hide'. God's face is hidden, but God is not absent; he works behind the scenes. This idea of *hester panim* (the hiding of God's face) became a central theme in Jewish theology, especially for times of exile and persecution, including reflection after the Holocaust. The rabbis also noted that the Jews 'confirmed, and took upon them' the observance of Purim (Esth 9:27); the Talmud (Shabbat 88a) reads this as a renewed, freely chosen acceptance of the Torah, in contrast to Sinai.\n\nThe first audience, Jews living as a scattered minority, would have heard Esther as their story. Haman describes them perfectly: 'a certain people scattered abroad and dispersed among the people... and their laws are diverse from all people' (Esth 3:8). They had no army, no king and no temple nearby. Yet through courage, solidarity and hidden providence, they survived. Mordecai's words to Esther, 'who knoweth whether thou art come to the kingdom for such a time as this?' (Esth 4:14), express faith that deliverance will come, and that each person must take responsibility for their people.",
+    "flow": [
+      {
+        "label": "Vashti deposed",
+        "detail": "At a lavish feast the king summons Queen Vashti to display her beauty; she refuses and is removed.",
+        "refs": [
+          "Esth 1:1-22"
+        ]
+      },
+      {
+        "label": "Esther becomes queen",
+        "detail": "Esther, an orphan raised by her cousin Mordecai, is taken into the harem and chosen as queen, keeping her Jewish identity secret.",
+        "refs": [
+          "Esth 2:1-18"
+        ]
+      },
+      {
+        "label": "Haman's plot",
+        "detail": "Mordecai refuses to bow to Haman; Haman casts lots and obtains a decree to destroy all Jews.",
+        "refs": [
+          "Esth 3:1-15"
+        ]
+      },
+      {
+        "label": "For such a time as this",
+        "detail": "Mordecai urges Esther to act; she calls for a fast and risks her life by approaching the king.",
+        "refs": [
+          "Esth 4:1-17",
+          "Esth 5:1-8"
+        ]
+      },
+      {
+        "label": "A sleepless night",
+        "detail": "The king cannot sleep, reads of Mordecai's service, and Haman is forced to honour the man he planned to hang.",
+        "refs": [
+          "Esth 6:1-14"
+        ]
+      },
+      {
+        "label": "Haman exposed",
+        "detail": "At Esther's second banquet she reveals her identity and Haman's plot; Haman is hanged on his own gallows.",
+        "refs": [
+          "Esth 7:1-10"
+        ]
+      },
+      {
+        "label": "The reversal",
+        "detail": "A new decree allows the Jews to defend themselves; on the appointed day they overcome their attackers.",
+        "refs": [
+          "Esth 8:3-17",
+          "Esth 9:1-16"
+        ]
+      },
+      {
+        "label": "Purim established",
+        "detail": "Mordecai and Esther institute an annual feast of joy, gifts and care for the poor.",
+        "refs": [
+          "Esth 9:17-32",
+          "Esth 10:1-3"
+        ]
+      }
+    ],
+    "mindmap": {
+      "center": "Esther: hidden providence",
+      "branches": [
+        {
+          "label": "Characters",
+          "items": [
+            "Esther the queen",
+            "Mordecai the guardian",
+            "Haman the enemy",
+            "Ahasuerus the king",
+            "Vashti"
+          ]
+        },
+        {
+          "label": "Hidden God",
+          "items": [
+            "No divine name",
+            "Perfect timing",
+            "Sleepless king",
+            "Hester panim"
+          ]
+        },
+        {
+          "label": "Reversals",
+          "items": [
+            "Gallows turned",
+            "Honour reversed",
+            "Decree countered",
+            "Mourning to feasting"
+          ]
+        },
+        {
+          "label": "Diaspora life",
+          "items": [
+            "Scattered minority",
+            "Secret identity",
+            "Dangerous court",
+            "Solidarity and fasting"
+          ]
+        },
+        {
+          "label": "Purim",
+          "items": [
+            "Lots cast",
+            "Reading the scroll",
+            "Gifts to friends",
+            "Gifts to the poor"
+          ]
+        }
+      ]
+    },
+    "keyWords": [
+      {
+        "word": "Lot",
+        "original": "pur (פּוּר)",
+        "meaning": "A lot cast to decide a day; from Akkadian puru. Gives the feast its name.",
+        "refs": [
+          "Esth 3:7",
+          "Esth 9:24",
+          "Esth 9:26"
+        ]
+      },
+      {
+        "word": "Turned to the contrary",
+        "original": "nahafokh hu (וְנַהֲפוֹךְ הוּא)",
+        "meaning": "'It was turned upside down': the theme verse of reversal.",
+        "refs": [
+          "Esth 9:1",
+          "Esth 9:22"
+        ]
+      },
+      {
+        "word": "Time",
+        "original": "'et (עֵת)",
+        "meaning": "A season or appointed time; 'for such a time as this'.",
+        "refs": [
+          "Esth 4:14"
+        ]
+      },
+      {
+        "word": "Relief and deliverance",
+        "original": "revach ve-hatzalah (רֶוַח וְהַצָּלָה)",
+        "meaning": "Mordecai's confidence that deliverance will arise 'from another place' if Esther stays silent.",
+        "refs": [
+          "Esth 4:14"
+        ]
+      },
+      {
+        "word": "Banquet",
+        "original": "mishteh (מִשְׁתֶּה)",
+        "meaning": "A drinking feast. Ten banquets structure the story, from the king's display to Purim's celebration.",
+        "refs": [
+          "Esth 1:3",
+          "Esth 5:4",
+          "Esth 9:17"
+        ]
+      }
+    ],
+    "connections": [
+      {
+        "bookId": "genesis",
+        "how": "Esther and Mordecai echo Joseph: a Jew raised to power in a foreign court, given the king's ring and robe, saving his people.",
+        "refs": [
+          "Gen 41:42-43",
+          "Esth 6:11",
+          "Esth 8:2",
+          "Gen 50:20"
+        ]
+      },
+      {
+        "bookId": "exodus",
+        "how": "The conflict with Haman the Agagite continues the ancient war with Amalek.",
+        "refs": [
+          "Exod 17:8-16",
+          "Esth 3:1"
+        ]
+      },
+      {
+        "bookId": "1-samuel",
+        "how": "Mordecai, a descendant of Kish like Saul, defeats Agag's descendant, completing what Saul left undone, and the Jews take no plunder.",
+        "refs": [
+          "1 Sam 15:8-9",
+          "Esth 2:5",
+          "Esth 9:10"
+        ]
+      },
+      {
+        "bookId": "daniel",
+        "how": "Daniel and Esther both portray faithful Jews serving in foreign courts under threat.",
+        "refs": [
+          "Dan 6:1-28",
+          "Esth 4:13-16"
+        ]
+      },
+      {
+        "bookId": "nehemiah",
+        "how": "Nehemiah, like Esther, served at the Persian court and used his position to help his people.",
+        "refs": [
+          "Neh 1:11",
+          "Neh 2:1-8"
+        ]
+      }
+    ],
+    "jesusLens": "Esther is the only Old Testament book not quoted or alluded to directly in the New Testament, and it was not found among the Dead Sea Scrolls. Christian interpreters have nonetheless found in it a picture of the mediator who risks her life to intercede for her people before the king (Esth 4:16), pointing to Christ who intercedes for his people at the cost of his own life (Heb 7:25). The theme of hidden providence, God working through ordinary events to save, anticipates the cross, where the worst human plot became the means of salvation (Acts 2:23-24). The reversal of mourning into joy (Esth 9:22) echoes in Jesus' promise that the disciples' sorrow will be turned to joy (John 16:20). Jewish readers see in Esther the enduring survival of the Jewish people against all who seek their destruction and the call for each Jew to act for their people when the moment comes.",
+    "misreadings": [
+      {
+        "topic": "'For such a time as this' as personal destiny",
+        "popular": "Esth 4:14 is often used to tell individuals that God has placed them where they are for a special purpose or calling, encouraging them to seize their moment of destiny.",
+        "inContext": "Mordecai's words are about the survival of the whole Jewish people. He tells Esther that deliverance will come 'from another place' even if she stays silent, but she and her family will perish. Her position is not about personal fulfilment but about using her access to save others at great risk. Scholars such as Karen Jobes and Jon Levenson stress the communal and providential frame.",
+        "defence": "Evangelical teachers rightly draw the principle that God places people in positions to serve his purposes, which the book supports. Commentators agree the application should emphasise responsibility, risk and service to others rather than self-realisation.",
+        "whyItMatters": "In context, the verse calls people to costly solidarity with the vulnerable, not to a sense of personal destiny.",
+        "refs": [
+          "Esth 4:13-16"
+        ],
+        "scholars": [
+          "Karen Jobes",
+          "Jon Levenson",
+          "Adele Berlin",
+          "Mervin Breneman"
+        ],
+        "confidence": "scholarly-consensus"
+      },
+      {
+        "topic": "Esther 9 as vengeful bloodshed",
+        "popular": "Some Christian readers, including Martin Luther, found Esther too nationalistic and its ending too violent, reading Esth 9 as revenge that sits poorly with the gospel.",
+        "inContext": "Haman's decree, which could not be revoked, authorised anyone to kill Jews and seize their property on a set day (Esth 3:13). The counter-decree allowed Jews to defend themselves against those who attacked them (Esth 8:11). The text stresses that they 'laid not their hand on the prey' (Esth 9:10; Esth 9:15-16), a deliberate contrast with Saul. Jewish scholars such as Adele Berlin and Jon Levenson read the chapter as self-defence and as the reversal of genocide, while acknowledging that the numbers and the second day in Susa raise real questions.",
+        "defence": "Evangelical scholars such as Karen Jobes and Frederic Bush defend the book's place in the canon and read Esth 9 as defensive. Some scholars, Jewish and Christian, admit the chapter remains troubling and read it as hyperbolic or as a reflection of a persecuted minority's longing for justice. Luther's criticism is now widely seen as tied to his wider negative attitude toward Jews.",
+        "whyItMatters": "Reading Esther 9 carelessly can reinforce stereotypes of Jews as vengeful; in context it is a story of a threatened minority surviving genocide.",
+        "refs": [
+          "Esth 3:13",
+          "Esth 8:11",
+          "Esth 9:10",
+          "Esth 9:15-16",
+          "1 Sam 15:9"
+        ],
+        "scholars": [
+          "Adele Berlin",
+          "Jon Levenson",
+          "Karen Jobes",
+          "Frederic Bush",
+          "Michael V. Fox"
+        ],
+        "confidence": "debated"
+      }
+    ],
+    "relevance": {
+      "then": "Esther assured Jews of the diaspora that God's providence protected them even in a foreign empire, that courage and solidarity mattered, and that their deliverance should be remembered with joy and generosity every year.",
+      "now": "Esther speaks to minorities facing hostility, to people who feel God is silent, to anyone with access to power who could speak for the vulnerable, and to all who need to remember that hidden providence can turn things upside down."
+    },
+    "sources": [
+      {
+        "author": "Jon D. Levenson",
+        "title": "Esther (Old Testament Library)",
+        "year": 1997
+      },
+      {
+        "author": "Karen H. Jobes",
+        "title": "Esther (NIV Application Commentary)",
+        "year": 1999
+      },
+      {
+        "author": "Adele Berlin",
+        "title": "Esther (The JPS Bible Commentary)",
+        "year": 2001
+      },
+      {
+        "author": "Michael V. Fox",
+        "title": "Character and Ideology in the Book of Esther",
+        "year": 1991
+      },
+      {
+        "author": "Frederic W. Bush",
+        "title": "Ruth, Esther (Word Biblical Commentary)",
+        "year": 1996
+      }
+    ]
   }
 ]

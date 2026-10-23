@@ -20,28 +20,30 @@ export function MindMap({ center, branches }: { center: string; branches: { labe
   return (
     <div>
       {/* wide: radial */}
-      <div className="hidden md:block relative w-full" style={{ aspectRatio: '16 / 9' }}>
+      <div className="hidden md:block relative w-full mb-10" style={{ aspectRatio: "16 / 9" }}>
         <svg viewBox="0 0 160 90" className="absolute inset-0 w-full h-full" aria-hidden>
           {branches.map((b, i) => {
             const a = (i / n) * Math.PI * 2 - Math.PI / 2;
-            const x = 80 + Math.cos(a) * 52, y = 45 + Math.sin(a) * 30;
+            const x = 80 + Math.cos(a) * 46, y = 45 + Math.sin(a) * 30;
             return <motion.path key={i} d={`M80 45 Q ${(80 + x) / 2 + Math.sin(a) * 6} ${(45 + y) / 2 - Math.cos(a) * 4} ${x} ${y}`} fill="none" stroke={col(i, open === null || open === i ? 0.75 : 0.2)} strokeWidth={open === i ? 0.9 : 0.5} initial={{ pathLength: 0 }} animate={{ pathLength: 1 }} transition={{ duration: 0.6, delay: i * 0.08 }} />;
           })}
         </svg>
-        <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[22%] aspect-square rounded-full flex items-center justify-center text-center p-3 display text-xl leading-tight border-2 shadow-lg" style={{ background: 'rgb(var(--surface))', borderColor: 'rgb(var(--accent))' }}>{center}</div>
+        <div className="absolute left-1/2 top-1/2 -translate-x-1/2 -translate-y-1/2 w-[19%] aspect-square rounded-full flex items-center justify-center text-center p-3 display text-xl leading-tight border-2 shadow-lg" style={{ background: 'rgb(var(--surface))', borderColor: 'rgb(var(--accent))' }}>{center}</div>
         {branches.map((b, i) => {
           const a = (i / n) * Math.PI * 2 - Math.PI / 2;
-          const x = 50 + (Math.cos(a) * 52 * 100) / 160, y = 50 + (Math.sin(a) * 30 * 100) / 90;
+          const x = 50 + (Math.cos(a) * 46 * 100) / 160, y = 50 + (Math.sin(a) * 30 * 100) / 90;
           const on = open === i;
           return (
-            <motion.button key={i} onClick={() => setOpen(on ? null : i)} initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: open === null || on ? 1 : 0.55, scale: 1 }} transition={{ delay: 0.2 + i * 0.08 }}
-              className={`absolute -translate-x-1/2 -translate-y-1/2 card px-3 py-2 text-left w-[24%] ${on ? 'z-20 shadow-xl' : 'z-10'}`} style={{ left: `${x}%`, top: `${y}%`, borderColor: col(i, on ? 1 : 0.5), borderWidth: on ? 2 : 1 }}>
+            <div key={i} className={`absolute -translate-x-1/2 -translate-y-1/2 w-[24%] ${on ? 'z-20' : 'z-10'}`} style={{ left: `${x}%`, top: `${y}%` }}>
+            <motion.button onClick={() => setOpen(on ? null : i)} initial={{ opacity: 0, scale: 0.8 }} animate={{ opacity: open === null || on ? 1 : 0.55, scale: 1 }} transition={{ delay: 0.2 + i * 0.08 }}
+              className={`card px-3 py-2 text-left w-full ${on ? 'shadow-xl' : ''}`} style={{ borderColor: col(i, on ? 1 : 0.5), borderWidth: on ? 2 : 1 }}>
               <div className="font-semibold leading-tight text-sm" style={{ color: col(i) }}>{b.label}</div>
               <AnimatePresence initial={false}>
                 {on ? <motion.ul initial={{ height: 0, opacity: 0 }} animate={{ height: 'auto', opacity: 1 }} exit={{ height: 0, opacity: 0 }} className="mt-1 space-y-0.5 text-[.8rem] font-serif overflow-hidden">{b.items.map((it) => <li key={it}>• {it}</li>)}</motion.ul>
                   : <div className="text-[.7rem] text-muted">{b.items.length} ideas · tap</div>}
               </AnimatePresence>
             </motion.button>
+            </div>
           );
         })}
       </div>
