@@ -6,10 +6,11 @@ import { PageHeader, Section, Tabs, Refs, Ref, PersonLink, PlaceLink, Paras, Dat
 import BibleMap, { routeFromPlaceIds } from '../components/BibleMap';
 import Chat from '../components/Chat';
 import type { PersonT } from '../schemas';
+import { t, tv, isTa } from '../i18n';
 
 type Tab = 'overview' | 'timeline' | 'journey' | 'family' | 'connections' | 'gifts' | 'stories' | 'context' | 'legacy' | 'interview';
 
-const TYPE_LABEL: Record<string, string> = { family: 'Family', spouse: 'Spouse', mentor: 'Mentor / disciple', ally: 'Ally', enemy: 'Enemy', 'co-worker': 'Co-worker', confrontation: 'Confrontation', successor: 'Successor' };
+const TYPE_LABEL: Record<string, string> = { family: t('Family'), spouse: t('Spouse'), mentor: t('Mentor / disciple'), ally: t('Ally'), enemy: t('Enemy'), 'co-worker': t('Co-worker'), confrontation: t('Confrontation'), successor: t('Successor') };
 
 function FamilyDiagram({ p }: { p: PersonT }) {
   const box = (id: string) => (
@@ -24,7 +25,7 @@ function FamilyDiagram({ p }: { p: PersonT }) {
   const f = p.family;
   return (
     <div className="flex flex-col items-center gap-3">
-      {row('Parents', f.parents)}
+      {row(t('Parents'), f.parents)}
       {f.parents.length > 0 && <div className="w-px h-5 bg-line" />}
       <div className="flex flex-wrap items-center justify-center gap-3">
         {f.siblings.length > 0 && <div className="flex flex-wrap gap-2 opacity-80">{f.siblings.map(box)}</div>}
@@ -32,9 +33,9 @@ function FamilyDiagram({ p }: { p: PersonT }) {
         {f.spouses.length > 0 && <><span className="rubric display text-2xl">⚭</span><div className="flex flex-wrap gap-2">{f.spouses.map(box)}</div></>}
       </div>
       {f.children.length > 0 && <div className="w-px h-5 bg-line" />}
-      {row('Children', f.children)}
-      {!f.parents.length && !f.children.length && !f.spouses.length && !f.siblings.length && <Empty>The text names no relatives of {p.names.primary} who have profiles in the atlas.</Empty>}
-      <Link to={`/family?root=${p.id}`} className="btn mt-2">Open in the family tree explorer →</Link>
+      {row(t('Children'), f.children)}
+      {!f.parents.length && !f.children.length && !f.spouses.length && !f.siblings.length && <Empty>{t('The text names no relatives of {name} who have profiles in the atlas.', { name: p.names.primary })}</Empty>}
+      <Link to={`/family?root=${p.id}`} className="btn mt-2">{t('Open in the family tree explorer →')}</Link>
     </div>
   );
 }
@@ -42,7 +43,7 @@ function FamilyDiagram({ p }: { p: PersonT }) {
 function MiniTimeline({ p }: { p: PersonT }) {
   const evs = p.events.filter((e) => e.year !== undefined).sort((a, b) => a.year! - b.year!);
   const l = lifespan(p);
-  if (!evs.length || !l) return <Empty>The text gives no datable anchors for {p.names.primary}’s life, so the events are listed in narrative order under Stories.</Empty>;
+  if (!evs.length || !l) return <Empty>{t('The text gives no datable anchors for {name}’s life, so the events are listed in narrative order under Stories.', { name: p.names.primary })}</Empty>;
   const [a, b] = [Math.min(l[0], evs[0].year!), Math.max(l[1], evs.at(-1)!.year!)];
   const x = (y: number) => (b === a ? 50 : ((y - a) / (b - a)) * 100);
   return (
@@ -78,9 +79,9 @@ export default function PersonPage() {
   const [sp, setSp] = useSearchParams();
   const p = personById.get(id);
   const tab = (sp.get('tab') as Tab) || 'overview';
-  const setTab = (t: Tab) => { const n = new URLSearchParams(sp); n.set('tab', t); setSp(n, { replace: true }); };
+  const setTab = (x: Tab) => { const n = new URLSearchParams(sp); n.set('tab', x); setSp(n, { replace: true }); };
   const contemps = useMemo(() => (p ? contemporaries(p).slice(0, 24) : []), [p]);
-  if (!p) return <Empty>No profile with the id “{id}”. <Link className="text-accent" to="/people">Browse all people</Link>.</Empty>;
+  if (!p) return <Empty>{t('No profile with the id “{id}”.', { id })} <Link className="text-accent" to="/people">{t('Browse all people')}</Link>.</Empty>;
   const l = lifespan(p);
   const rels = adjacency.get(p.id) ?? [];
   const journeyIds = (p.journey ?? []).sort((a, b) => a.order - b.order);
@@ -100,68 +101,68 @@ Summary: ${p.summary}
 ${p.textSays ? `What the text says: ${p.textSays}` : ''}
 Key events: ${p.events.map((e) => `${e.title} (${e.refs.join(', ')}): ${e.summary}`).join(' | ')}
 ${p.arc ? `Strengths: ${p.arc.strengths.join('; ')}. Failures: ${p.arc.failures.join('; ')}. Turning points: ${p.arc.turningPoints.join('; ')}.` : ''}
-Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spouses.join(', ') || '—'}; children ${p.family.children.join(', ') || '—'}.`;
+Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spouses.join(', ') || '—'}; children ${p.family.children.join(', ') || '—'}.${isTa ? '\nReply in clear, natural modern Tamil (Tamil script), using Tamil Union Version spellings for Bible names. Keep scripture references like (Gen 22:1-14) in English letters.' : ''}`;
 
   return (
     <div>
-      <div className="text-sm mb-3"><Link to="/people" className="text-muted hover:text-accent">← People</Link></div>
+      <div className="text-sm mb-3"><Link to="/people" className="text-muted hover:text-accent">{t('← People')}</Link></div>
       <PageHeader
-        eyebrow={[p.testament === 'NT' ? 'New Testament' : p.testament === 'OT' ? 'Old Testament' : 'Both testaments', ...p.eraIds.map((e) => eraById.get(e)?.name ?? e)].join(' · ')}
+        eyebrow={[p.testament === 'NT' ? t('New Testament') : p.testament === 'OT' ? t('Old Testament') : t('Both testaments'), ...p.eraIds.map((e) => eraById.get(e)?.name ?? e)].join(' · ')}
         title={<span className="flex flex-wrap items-baseline gap-x-4">{p.names.primary}{p.names.original && <span className="font-orig text-3xl text-muted" dir="auto">{p.names.original}</span>}</span>}
-        actions={<><Bookmark path={`/people/${p.id}`} /><button className="btn" onClick={() => setTab('interview')}>Interview {p.names.primary.split(' ')[0]}</button></>}>
-        {p.names.meaning && <span>Name meaning: <i>“{p.names.meaning}”</i>. </span>}
-        {p.names.aliases.length > 0 && <span>Also called {p.names.aliases.join(', ')}.</span>}
+        actions={<><Bookmark path={`/people/${p.id}`} /><button className="btn" onClick={() => setTab('interview')}>{t('Interview {name}', { name: p.names.primary.split(' ')[0] })}</button></>}>
+        {p.names.meaning && <span>{t('Name meaning:')} <i>“{p.names.meaning}”</i>. </span>}
+        {p.names.aliases.length > 0 && <span>{t('Also called {names}.', { names: p.names.aliases.join(', ') })}</span>}
       </PageHeader>
 
       <div className="grid gap-x-8 gap-y-2 sm:grid-cols-2 lg:grid-cols-4 card p-4 mb-6 text-sm">
-        <div><div className="eyebrow">Born</div>{p.born ? <DateWithConf d={p.born} /> : <span className="text-muted">Not stated</span>}</div>
-        <div><div className="eyebrow">Died</div>{p.died ? <DateWithConf d={p.died} /> : <span className="text-muted">Not stated</span>}</div>
-        <div><div className="eyebrow">Roles</div>{p.roles.join(', ')}</div>
-        <div><div className="eyebrow">{p.tribe ? 'Tribe' : 'Nation'}</div>{p.tribe ?? p.nation ?? '—'}</div>
+        <div><div className="eyebrow">{t('Born')}</div>{p.born ? <DateWithConf d={p.born} /> : <span className="text-muted">{t('Not stated')}</span>}</div>
+        <div><div className="eyebrow">{t('Died')}</div>{p.died ? <DateWithConf d={p.died} /> : <span className="text-muted">{t('Not stated')}</span>}</div>
+        <div><div className="eyebrow">{t('Roles')}</div>{p.roles.join(', ')}</div>
+        <div><div className="eyebrow">{p.tribe ? t('Tribe') : t('Nation')}</div>{p.tribe ?? p.nation ?? '—'}</div>
       </div>
 
       <Tabs<Tab> value={tab} onChange={setTab} tabs={[
-        { id: 'overview', label: 'Overview' }, { id: 'timeline', label: 'Timeline' }, { id: 'journey', label: 'Journey Map', hidden: !route.length && !placesHere.length },
-        { id: 'family', label: 'Family' }, { id: 'connections', label: `Connections (${rels.length})` }, { id: 'gifts', label: 'Gifts & Skills' },
-        { id: 'stories', label: 'Stories' }, { id: 'context', label: 'Context' }, { id: 'legacy', label: 'Legacy' }, { id: 'interview', label: '✦ Interview' },
+        { id: 'overview', label: t('Overview') }, { id: 'timeline', label: t('Timeline') }, { id: 'journey', label: t('Journey Map'), hidden: !route.length && !placesHere.length },
+        { id: 'family', label: t('Family') }, { id: 'connections', label: t('Connections ({n})', { n: rels.length }) }, { id: 'gifts', label: t('Gifts & Skills') },
+        { id: 'stories', label: t('Stories') }, { id: 'context', label: t('Context') }, { id: 'legacy', label: t('Legacy') }, { id: 'interview', label: t('✦ Interview') },
       ]} />
 
       {tab === 'overview' && (
         <div className="grid gap-8 lg:grid-cols-[minmax(0,1fr)_300px]">
           <div className="min-w-0">
             <Paras text={p.summary} className="dropcap" />
-            {p.textSays && (<Section title="What the text says"><Paras text={p.textSays} /></Section>)}
+            {p.textSays && (<Section title={t('What the text says')}><Paras text={p.textSays} /></Section>)}
             {p.interpretations?.length ? (
-              <Section title="How traditions read them">
+              <Section title={t('How traditions read them')}>
                 <div className="grid gap-3 md:grid-cols-2">{p.interpretations.map((i) => <div key={i.tradition} className="card p-3"><div className="eyebrow mb-1">{i.tradition}</div><p className="font-serif text-[.95rem]">{i.view}</p></div>)}</div>
               </Section>
             ) : null}
             {p.arc && (
-              <Section title="Character arc">
+              <Section title={t('Character arc')}>
                 <div className="grid gap-3 md:grid-cols-3">
-                  {([['Strengths', p.arc.strengths, 'good'], ['Failures', p.arc.failures, 'bad'], ['Turning points', p.arc.turningPoints, 'accent']] as const).map(([t, l, c]) => (
-                    <div key={t} className="card p-3"><div className="eyebrow mb-1.5" style={{ color: `rgb(var(--${c}))` }}>{t}</div><ul className="font-serif text-[.95rem] space-y-1.5 list-disc pl-4">{l.map((x) => <li key={x}>{x}</li>)}</ul></div>
+                  {([[t('Strengths'), p.arc.strengths, 'good'], [t('Failures'), p.arc.failures, 'bad'], [t('Turning points'), p.arc.turningPoints, 'accent']] as const).map(([h, l, c]) => (
+                    <div key={h} className="card p-3"><div className="eyebrow mb-1.5" style={{ color: `rgb(var(--${c}))` }}>{h}</div><ul className="font-serif text-[.95rem] space-y-1.5 list-disc pl-4">{l.map((x) => <li key={x}>{x}</li>)}</ul></div>
                   ))}
                 </div>
               </Section>
             )}
             {p.traditions?.length ? (
-              <Section title="Extra-biblical traditions">
-                <ul className="space-y-2">{p.traditions.map((t, i) => <li key={i} className="card p-3"><Conf c="tradition" small /> <span className="font-serif">{t.text}</span> <span className="text-xs text-muted">— {t.source}</span></li>)}</ul>
+              <Section title={t('Extra-biblical traditions')}>
+                <ul className="space-y-2">{p.traditions.map((tr, i) => <li key={i} className="card p-3"><Conf c="tradition" small /> <span className="font-serif">{tr.text}</span> <span className="text-xs text-muted">— {tr.source}</span></li>)}</ul>
               </Section>
             ) : null}
-            <Section title="Key references"><Refs refs={p.refs} /></Section>
+            <Section title={t('Key references')}><Refs refs={p.refs} /></Section>
           </div>
           <aside className="space-y-4">
             <div className="card p-4">
-              <div className="eyebrow mb-2">Who else was alive then?</div>
-              {!l ? <p className="text-sm text-muted font-serif">No datable lifespan, so contemporaries can’t be computed.</p> : contemps.length ? (
-                <ul className="space-y-1 text-sm">{contemps.slice(0, 12).map(({ p: q, overlap }) => <li key={q.id} className="flex justify-between gap-2"><PersonLink id={q.id} /><span className="text-muted tabular text-xs">{overlap} yrs overlap</span></li>)}</ul>
-              ) : <p className="text-sm text-muted">No overlapping dated lives.</p>}
-              {l && <Link to={`/lens?year=${Math.round((l[0] + l[1]) / 2)}`} className="text-xs text-accent mt-2 inline-block">Open the year lens →</Link>}
+              <div className="eyebrow mb-2">{t('Who else was alive then?')}</div>
+              {!l ? <p className="text-sm text-muted font-serif">{t('No datable lifespan, so contemporaries can’t be computed.')}</p> : contemps.length ? (
+                <ul className="space-y-1 text-sm">{contemps.slice(0, 12).map(({ p: q, overlap }) => <li key={q.id} className="flex justify-between gap-2"><PersonLink id={q.id} /><span className="text-muted tabular text-xs">{t('{n} yrs overlap', { n: overlap })}</span></li>)}</ul>
+              ) : <p className="text-sm text-muted">{t('No overlapping dated lives.')}</p>}
+              {l && <Link to={`/lens?year=${Math.round((l[0] + l[1]) / 2)}`} className="text-xs text-accent mt-2 inline-block">{t('Open the year lens →')}</Link>}
             </div>
-            {p.books?.length ? <div className="card p-4"><div className="eyebrow mb-2">Appears in</div><div className="flex flex-wrap gap-1">{p.books.map((b) => <span key={b} className="chip">{b}</span>)}</div></div> : null}
-            {occ.length > 0 && <div className="card p-4"><div className="eyebrow mb-2">Work</div>{occ.map((o) => <Link key={o.id} to={`/work#${o.id}`} className="chip mr-1 mb-1 hover:border-accent">{o.name}</Link>)}</div>}
+            {p.books?.length ? <div className="card p-4"><div className="eyebrow mb-2">{t('Appears in')}</div><div className="flex flex-wrap gap-1">{p.books.map((b) => <span key={b} className="chip">{b}</span>)}</div></div> : null}
+            {occ.length > 0 && <div className="card p-4"><div className="eyebrow mb-2">{t('Work')}</div>{occ.map((o) => <Link key={o.id} to={`/work#${o.id}`} className="chip mr-1 mb-1 hover:border-accent">{o.name}</Link>)}</div>}
           </aside>
         </div>
       )}
@@ -170,13 +171,13 @@ Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spou
 
       {tab === 'journey' && (
         <div className="space-y-4">
-          <BibleMap routes={route.length > 1 ? [{ id: p.id, color: 'rgb(var(--accent-2))', coords: route }] : []} places={placesHere} label={`Journey of ${p.names.primary}`} />
+          <BibleMap routes={route.length > 1 ? [{ id: p.id, color: 'rgb(var(--accent-2))', coords: route }] : []} places={placesHere} label={t('Journey of {name}', { name: p.names.primary })} />
           {journeyIds.length > 0 && (
             <ol className="grid gap-2 md:grid-cols-2">
               {journeyIds.map((j, i) => <li key={i} className="card p-3"><span className="rubric display text-lg mr-2 tabular">{i + 1}</span><PlaceLink id={j.placeId} />{j.year !== undefined && <span className="text-muted text-sm tabular"> · {fmtYear(j.year)}</span>}<p className="font-serif text-[.95rem] mt-1">{j.note}</p><Refs refs={j.refs} max={3} /></li>)}
             </ol>
           )}
-          {namedJourneys.length > 0 && <div className="flex flex-wrap gap-2">{namedJourneys.map((j) => <Link key={j.id} className="btn" to={`/maps?journey=${j.id}`}>Walk: {j.title} →</Link>)}</div>}
+          {namedJourneys.length > 0 && <div className="flex flex-wrap gap-2">{namedJourneys.map((j) => <Link key={j.id} className="btn" to={`/maps?journey=${j.id}`}>{t('Walk: {title} →', { title: j.title })}</Link>)}</div>}
         </div>
       )}
 
@@ -188,22 +189,22 @@ Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spou
             <div className="grid gap-2 md:grid-cols-2">
               {rels.map((r, i) => { const other = r.from === p.id ? r.to : r.from; return (
                 <div key={i} className="card p-3 flex gap-3 items-start">
-                  <span className="chip shrink-0">{TYPE_LABEL[r.type]}</span>
+                  <span className="chip shrink-0">{TYPE_LABEL[r.type] ?? tv(r.type)}</span>
                   <div className="min-w-0"><PersonLink id={other} className="font-semibold" />{r.note && <span className="text-sm text-muted"> — {r.note}</span>}<div className="mt-1"><Refs refs={r.refs} max={3} /></div></div>
                 </div>
               ); })}
             </div>
-            <Link to={`/connections?focus=${p.id}`} className="btn mt-4">See {p.names.primary} in the connections graph →</Link>
+            <Link to={`/connections?focus=${p.id}`} className="btn mt-4">{t('See {name} in the connections graph →', { name: p.names.primary })}</Link>
           </div>
-        ) : <Empty>No recorded relationships yet.</Empty>
+        ) : <Empty>{t('No recorded relationships yet.')}</Empty>
       )}
 
       {tab === 'gifts' && (
         <div className="grid gap-6 md:grid-cols-2">
-          {([['Spiritual gifts & callings', p.gifts], ['Skills', p.skills]] as const).map(([t, list]) => (
-            <Section key={t} title={t}>{list.length ? <ul className="space-y-2">{list.map((g) => <li key={g.name} className="card p-3"><div className="font-semibold mb-1">{g.name}</div><Refs refs={g.refs} /></li>)}</ul> : <p className="text-muted font-serif">None recorded.</p>}</Section>
+          {([[t('Spiritual gifts & callings'), p.gifts], [t('Skills'), p.skills]] as const).map(([h, list]) => (
+            <Section key={h} title={h}>{list.length ? <ul className="space-y-2">{list.map((g) => <li key={g.name} className="card p-3"><div className="font-semibold mb-1">{g.name}</div><Refs refs={g.refs} /></li>)}</ul> : <p className="text-muted font-serif">{t('None recorded.')}</p>}</Section>
           ))}
-          <Section title="Occupations"><div className="flex flex-wrap gap-1.5">{p.occupations.map((o) => <span key={o} className="chip">{o}</span>)}</div></Section>
+          <Section title={t('Occupations')}><div className="flex flex-wrap gap-1.5">{p.occupations.map((o) => <span key={o} className="chip">{o}</span>)}</div></Section>
         </div>
       )}
 
@@ -221,21 +222,21 @@ Family: parents ${p.family.parents.join(', ') || '—'}; spouses ${p.family.spou
 
       {tab === 'context' && (
         <div className="space-y-6">
-          {p.context ? <Paras text={p.context} /> : <p className="text-muted font-serif">No context notes yet.</p>}
-          {ctx.length > 0 && <Section title="From the context library"><div className="grid gap-2 md:grid-cols-2">{ctx.map((c) => <Link key={c.id} to={`/context/${c.id}`} className="card p-3 hover:border-accent"><div className="eyebrow">{c.category}</div><div className="display text-lg">{c.title}</div><p className="text-sm text-muted">{c.summary}</p></Link>)}</div></Section>}
+          {p.context ? <Paras text={p.context} /> : <p className="text-muted font-serif">{t('No context notes yet.')}</p>}
+          {ctx.length > 0 && <Section title={t('From the context library')}><div className="grid gap-2 md:grid-cols-2">{ctx.map((c) => <Link key={c.id} to={`/context/${c.id}`} className="card p-3 hover:border-accent"><div className="eyebrow">{tv(c.category)}</div><div className="display text-lg">{c.title}</div><p className="text-sm text-muted">{c.summary}</p></Link>)}</div></Section>}
         </div>
       )}
 
-      {tab === 'legacy' && (p.legacy ? <Paras text={p.legacy} /> : <p className="text-muted font-serif">No legacy notes yet.</p>)}
+      {tab === 'legacy' && (p.legacy ? <Paras text={p.legacy} /> : <p className="text-muted font-serif">{t('No legacy notes yet.')}</p>)}
 
       {tab === 'interview' && (
         <div className="grid gap-6 lg:grid-cols-[minmax(0,1fr)_280px]">
-          <Chat key={p.id} rules={rules} speaker={p.names.primary} placeholder={`Ask ${p.names.primary.split(' ')[0]} a question…`}
-            intro={`An imaginative conversation with ${p.names.primary}, written by Claude from this profile and cited scripture. Treat it as a study aid, not as revelation or history.`}
-            suggestions={[`What was the hardest moment of your life?`, `What did you understand about God that others missed?`, `What do you wish you had done differently?`, `Who shaped you most?`]} />
+          <Chat key={p.id} rules={rules} speaker={p.names.primary} placeholder={t('Ask {name} a question…', { name: p.names.primary.split(' ')[0] })}
+            intro={t('An imaginative conversation with {name}, written by Claude from this profile and cited scripture. Treat it as a study aid, not as revelation or history.', { name: p.names.primary })}
+            suggestions={[t('What was the hardest moment of your life?'), t('What did you understand about God that others missed?'), t('What do you wish you had done differently?'), t('Who shaped you most?')]} />
           <aside className="text-sm text-muted font-serif space-y-2">
-            <p>Answers cite chapter and verse so you can check them. Hover any reference elsewhere in the atlas to read the KJV text.</p>
-            <p>Questions use your own Claude account. Nothing is stored after you leave the page.</p>
+            <p>{t('Answers cite chapter and verse so you can check them. Hover any reference elsewhere in the atlas to read the KJV text.')}</p>
+            <p>{t('Questions use your own Claude account. Nothing is stored after you leave the page.')}</p>
           </aside>
         </div>
       )}

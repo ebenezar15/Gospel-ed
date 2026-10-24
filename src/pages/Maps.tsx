@@ -5,6 +5,7 @@ import BibleMap, { type MapRoute } from '../components/BibleMap';
 import { journeys, journeyById, places, placeById, empires, timeline, people, eras, eraById, placeName, placeLabel, modernName } from '../data';
 import { PageHeader, Refs, Conf, fmtYear, PersonLink, Empty } from '../components/ui';
 import { prefersReduced } from '../store';
+import { t, tv } from '../i18n';
 
 const PALETTE = ['rgb(var(--accent-2))', 'rgb(var(--accent))', 'rgb(var(--good))', 'rgb(var(--warn))'];
 
@@ -28,8 +29,8 @@ export default function Maps() {
   useEffect(() => {
     if (!playing || !journey) return;
     if ((stop ?? -1) >= journey.stops.length - 1) { setPlaying(false); return; }
-    const t = setTimeout(() => setStop((s) => (s ?? -1) + 1), prefersReduced() ? 1200 : 2600);
-    return () => clearTimeout(t);
+    const tm = setTimeout(() => setStop((s) => (s ?? -1) + 1), prefersReduced() ? 1200 : 2600);
+    return () => clearTimeout(tm);
   }, [playing, stop, journey]);
 
   const activeEmpires = empires.filter((e) => e.start <= year && year <= e.end);
@@ -44,35 +45,35 @@ export default function Maps() {
 
   return (
     <div>
-      <PageHeader eyebrow="Interactive atlas" title="Maps & Journeys">
-        Walk a route stop by stop, or slide through time to watch empires rise and events light up. Disputed locations and routes are labelled.
+      <PageHeader eyebrow={t('Interactive atlas')} title={t('Maps & Journeys')}>
+        {t('Walk a route stop by stop, or slide through time to watch empires rise and events light up. Disputed locations and routes are labelled.')}
       </PageHeader>
       <div className="flex gap-2 mb-4">
-        <button className={`btn ${mode === 'journey' ? 'btn-primary' : ''}`} onClick={() => setMode('journey')}>Journeys</button>
-        <button className={`btn ${mode === 'time' ? 'btn-primary' : ''}`} onClick={() => setMode('time')}>Time slider</button>
+        <button className={`btn ${mode === 'journey' ? 'btn-primary' : ''}`} onClick={() => setMode('journey')}>{t('Journeys')}</button>
+        <button className={`btn ${mode === 'time' ? 'btn-primary' : ''}`} onClick={() => setMode('time')}>{t('Time slider')}</button>
       </div>
       <div className="grid gap-5 lg:grid-cols-[minmax(0,1fr)_340px]">
         <div className="min-w-0 space-y-3">
           {mode === 'journey' ? (
             <BibleMap routes={routes} places={journey ? stopPlaces : place ? [place] : places.filter((p) => p.type === 'city').slice(0, 300)} activeStop={stop}
-              highlight={journey && stop !== null ? journey.stops[stop]?.placeId : pid} onPlace={(id) => update('place', id)} label={journey ? journey.title : 'Places of the Bible'} />
+              highlight={journey && stop !== null ? journey.stops[stop]?.placeId : pid} onPlace={(id) => update('place', id)} label={journey ? journey.title : t('Places of the Bible')} />
           ) : (
             <>
-              <BibleMap places={place ? [...eventPlaces, place] : eventPlaces} empires={activeEmpires} highlight={pid} onPlace={(id) => update('place', id)} focus={[-6, 12, 60, 46]} year={year} label={`The world around ${fmtYear(year)}`} />
+              <BibleMap places={place ? [...eventPlaces, place] : eventPlaces} empires={activeEmpires} highlight={pid} onPlace={(id) => update('place', id)} focus={[-6, 12, 60, 46]} year={year} label={t('The world around {year}', { year: fmtYear(year) })} />
               <div className="card p-3">
-                <div className="flex flex-wrap justify-between gap-2 mb-1 text-sm"><span className="display text-xl tabular">{fmtYear(year)}</span><span className="text-muted">{era?.name} · {activeEmpires.map((e) => e.name).join(', ') || 'no major empire in data'}</span></div>
-                <input id="map-year" aria-label="Year" type="range" min={-2200} max={700} step={10} value={year} onChange={(e) => setYear(+e.target.value)} className="w-full accent-[rgb(var(--accent-2))]" />
-                <div className="flex justify-between text-xs text-muted tabular"><span>2200 BC</span><span>1 BC / AD 1</span><span>AD 700</span></div>
+                <div className="flex flex-wrap justify-between gap-2 mb-1 text-sm"><span className="display text-xl tabular">{fmtYear(year)}</span><span className="text-muted">{era?.name} · {activeEmpires.map((e) => e.name).join(', ') || t('no major empire in data')}</span></div>
+                <input id="map-year" aria-label={t('Year')} type="range" min={-2200} max={700} step={10} value={year} onChange={(e) => setYear(+e.target.value)} className="w-full accent-[rgb(var(--accent-2))]" />
+                <div className="flex justify-between text-xs text-muted tabular"><span>{fmtYear(-2200)}</span><span>{fmtYear(-1)} / {fmtYear(1)}</span><span>{fmtYear(700)}</span></div>
               </div>
             </>
           )}
           {mode === 'journey' && journey && (
             <div className="card p-4">
               <div className="flex flex-wrap items-center gap-2 mb-3">
-                <button className="btn btn-primary" onClick={() => { if (stop === null || stop >= journey.stops.length - 1) setStop(0); setPlaying((p) => !p); }}>{playing ? '❚❚ Pause' : '▶ Walk the route'}</button>
-                <button className="btn" disabled={!stop} onClick={() => { setPlaying(false); setStop((s) => Math.max(0, (s ?? 0) - 1)); }}>← Back</button>
-                <button className="btn" disabled={stop === journey.stops.length - 1} onClick={() => { setPlaying(false); setStop((s) => (s === null ? 0 : Math.min(journey.stops.length - 1, s + 1))); }}>Next →</button>
-                <span className="text-sm text-muted tabular ml-auto">{stop === null ? `${journey.stops.length} stops` : `Stop ${stop + 1} of ${journey.stops.length}`}</span>
+                <button className="btn btn-primary" onClick={() => { if (stop === null || stop >= journey.stops.length - 1) setStop(0); setPlaying((p) => !p); }}>{playing ? t('❚❚ Pause') : t('▶ Walk the route')}</button>
+                <button className="btn" disabled={!stop} onClick={() => { setPlaying(false); setStop((s) => Math.max(0, (s ?? 0) - 1)); }}>{t('← Back')}</button>
+                <button className="btn" disabled={stop === journey.stops.length - 1} onClick={() => { setPlaying(false); setStop((s) => (s === null ? 0 : Math.min(journey.stops.length - 1, s + 1))); }}>{t('Next →')}</button>
+                <span className="text-sm text-muted tabular ml-auto">{stop === null ? t('{n} stops', { n: journey.stops.length }) : t('Stop {i} of {n}', { i: stop + 1, n: journey.stops.length })}</span>
               </div>
               <AnimatePresence mode="wait">
                 {stop !== null && journey.stops[stop] && (
@@ -86,7 +87,7 @@ export default function Maps() {
               {stop === null && <p className="font-serif">{journey.summary}</p>}
               {variants.length > 1 && (
                 <div className="mt-3 pt-3 border-t border-line text-sm space-y-1">
-                  <div className="eyebrow">Proposed routes</div>
+                  <div className="eyebrow">{t('Proposed routes')}</div>
                   {variants.map((v, i) => <button key={v.id} onClick={() => update('journey', v.id)} className="flex items-center gap-2 hover:text-accent"><span className="inline-block w-6 h-0.5" style={{ background: PALETTE[i % PALETTE.length] }} />{v.variant ?? v.title} <Conf c={v.confidence} small /></button>)}
                 </div>
               )}
@@ -96,15 +97,15 @@ export default function Maps() {
         <aside className="space-y-4 min-w-0">
           {place ? (
             <div className="card p-4">
-              <div className="flex justify-between items-start gap-2"><div><div className="eyebrow">{place.type}</div><h2 className="display text-3xl">{placeLabel(place)}</h2>{modernName(place) && <div className="text-sm text-muted">Today: {modernName(place)}</div>}</div><button className="btn !px-2 !py-0.5" onClick={() => update('place', null)} aria-label="Close place">✕</button></div>
+              <div className="flex justify-between items-start gap-2"><div><div className="eyebrow">{tv(place.type)}</div><h2 className="display text-3xl">{placeLabel(place)}</h2>{modernName(place) && <div className="text-sm text-muted">{t('Today: {name}', { name: modernName(place) ?? '' })}</div>}</div><button className="btn !px-2 !py-0.5" onClick={() => update('place', null)} aria-label={t('Close place')}>✕</button></div>
               {place.names.length > 1 && <div className="text-sm text-muted mb-2">{place.names.filter((n) => n.era !== 'modern').map((n) => `${n.name} (${eraById.get(n.era)?.name ?? n.era})`).join(' · ')}</div>}
-              <div className="mb-2"><Conf c={place.coordConfidence} small /> <span className="text-xs text-muted">location</span></div>
+              <div className="mb-2"><Conf c={place.coordConfidence} small /> <span className="text-xs text-muted">{t('location')}</span></div>
               <p className="font-serif">{place.summary}</p>
-              {place.archaeology && <p className="font-serif text-sm mt-2 p-2 bg-sunk rounded"><span className="eyebrow block">Archaeology</span>{place.archaeology}</p>}
+              {place.archaeology && <p className="font-serif text-sm mt-2 p-2 bg-sunk rounded"><span className="eyebrow block">{t('Archaeology')}</span>{place.archaeology}</p>}
               <div className="mt-2"><Refs refs={place.refs} max={5} /></div>
-              {placePeople.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">People</div><div className="flex flex-wrap gap-x-3 gap-y-1 text-sm">{placePeople.map((p) => <PersonLink key={p.id} id={p.id} />)}</div></div>}
-              {placeEvents.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">Events</div><ul className="text-sm space-y-1">{placeEvents.map((e) => <li key={e.id}><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span>{e.title}</li>)}</ul></div>}
-              {placeJourneys.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">Journeys through here</div>{placeJourneys.map((j) => <button key={j.id} className="chip mr-1 mb-1 hover:border-accent" onClick={() => { setMode('journey'); update('journey', j.id); }}>{j.title}</button>)}</div>}
+              {placePeople.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">{t('People')}</div><div className="flex flex-wrap gap-x-3 gap-y-1 text-sm">{placePeople.map((p) => <PersonLink key={p.id} id={p.id} />)}</div></div>}
+              {placeEvents.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">{t('Events')}</div><ul className="text-sm space-y-1">{placeEvents.map((e) => <li key={e.id}><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span>{e.title}</li>)}</ul></div>}
+              {placeJourneys.length > 0 && <div className="mt-3"><div className="eyebrow mb-1">{t('Journeys through here')}</div>{placeJourneys.map((j) => <button key={j.id} className="chip mr-1 mb-1 hover:border-accent" onClick={() => { setMode('journey'); update('journey', j.id); }}>{j.title}</button>)}</div>}
             </div>
           ) : null}
           {mode === 'journey' ? (
@@ -118,16 +119,16 @@ export default function Maps() {
                     </button>
                   ))}
                 </div>
-              )) : <Empty>Journeys are still being charted.</Empty>}
+              )) : <Empty>{t('Journeys are still being charted.')}</Empty>}
             </div>
           ) : (
             <div className="card p-3">
-              <div className="eyebrow mb-2">Within 40 years of {fmtYear(year)}</div>
-              {eventsNow.length ? <ul className="space-y-2 text-sm">{eventsNow.map((e) => <li key={e.id}><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span><span className="font-semibold">{e.title}</span> <Conf c={e.date.confidence} small /><div className="text-muted">{e.placeIds.map(placeName).join(', ')}</div></li>)}</ul> : <p className="text-sm text-muted font-serif">No mapped events in this window. Slide on.</p>}
+              <div className="eyebrow mb-2">{t('Within 40 years of {year}', { year: fmtYear(year) })}</div>
+              {eventsNow.length ? <ul className="space-y-2 text-sm">{eventsNow.map((e) => <li key={e.id}><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span><span className="font-semibold">{e.title}</span> <Conf c={e.date.confidence} small /><div className="text-muted">{e.placeIds.map(placeName).join(', ')}</div></li>)}</ul> : <p className="text-sm text-muted font-serif">{t('No mapped events in this window. Slide on.')}</p>}
             </div>
           )}
-          {journey && <div className="text-sm text-muted"><span className="eyebrow">Travellers </span>{journey.personIds.map((id, i) => <span key={id}>{i ? ', ' : ''}<PersonLink id={id} /></span>)} · {eraById.get(journey.eraId)?.name}</div>}
-          {!journey && !place && mode === 'journey' && <p className="text-sm text-muted font-serif">Pick a journey to draw it, or tap any dot for the people and events tied to that place. <Link to="/maps?journey=abraham" className="text-accent">Start with Abraham →</Link></p>}
+          {journey && <div className="text-sm text-muted"><span className="eyebrow">{t('Travellers')} </span>{journey.personIds.map((id, i) => <span key={id}>{i ? ', ' : ''}<PersonLink id={id} /></span>)} · {eraById.get(journey.eraId)?.name}</div>}
+          {!journey && !place && mode === 'journey' && <p className="text-sm text-muted font-serif">{t('Pick a journey to draw it, or tap any dot for the people and events tied to that place.')} <Link to="/maps?journey=abraham" className="text-accent">{t('Start with Abraham →')}</Link></p>}
         </aside>
       </div>
     </div>

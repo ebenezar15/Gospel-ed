@@ -6,12 +6,13 @@ import { select } from 'd3-selection';
 import { motion } from 'framer-motion';
 import { childrenOf, personById, people } from '../data';
 import { PageHeader, Refs, Section } from '../components/ui';
+import { t } from '../i18n';
 
 type N = { id: string; children?: N[] };
 const LINES: Record<string, { label: string; ids: string[] }> = {
-  messianic: { label: 'Messianic line', ids: ['adam', 'seth', 'enosh', 'kenan', 'mahalalel', 'jared', 'enoch', 'methuselah', 'lamech-father-of-noah', 'noah', 'shem', 'arphaxad', 'shelah', 'eber', 'peleg', 'reu', 'serug', 'nahor', 'terah', 'abraham', 'isaac', 'jacob', 'judah', 'perez', 'hezron', 'ram', 'amminadab', 'nahshon', 'salmon', 'boaz', 'obed', 'jesse', 'david', 'solomon', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoiakim', 'jehoiachin', 'zerubbabel', 'joseph-of-nazareth', 'mary-mother-of-jesus', 'jesus'] },
-  levitical: { label: 'Levitical / priestly line', ids: ['jacob', 'levi', 'amram', 'aaron', 'moses', 'miriam', 'nadab', 'abihu', 'eleazar-priest', 'ithamar', 'phinehas', 'eli', 'hophni', 'phinehas-son-of-eli', 'ichabod', 'abiathar', 'zadok', 'zechariah-priest', 'john-the-baptist', 'elizabeth'] },
-  royal: { label: 'House of David', ids: ['jesse', 'david', 'solomon', 'absalom', 'amnon', 'adonijah', 'nathan-son-of-david', 'tamar-daughter-of-david', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoahaz-of-judah', 'jehoiakim', 'jehoiachin', 'zedekiah', 'zerubbabel'] },
+  messianic: { label: t('Messianic line'), ids: ['adam', 'seth', 'enosh', 'kenan', 'mahalalel', 'jared', 'enoch', 'methuselah', 'lamech-father-of-noah', 'noah', 'shem', 'arphaxad', 'shelah', 'eber', 'peleg', 'reu', 'serug', 'nahor', 'terah', 'abraham', 'isaac', 'jacob', 'judah', 'perez', 'hezron', 'ram', 'amminadab', 'nahshon', 'salmon', 'boaz', 'obed', 'jesse', 'david', 'solomon', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoiakim', 'jehoiachin', 'zerubbabel', 'joseph-of-nazareth', 'mary-mother-of-jesus', 'jesus'] },
+  levitical: { label: t('Levitical / priestly line'), ids: ['jacob', 'levi', 'amram', 'aaron', 'moses', 'miriam', 'nadab', 'abihu', 'eleazar-priest', 'ithamar', 'phinehas', 'eli', 'hophni', 'phinehas-son-of-eli', 'ichabod', 'abiathar', 'zadok', 'zechariah-priest', 'john-the-baptist', 'elizabeth'] },
+  royal: { label: t('House of David'), ids: ['jesse', 'david', 'solomon', 'absalom', 'amnon', 'adonijah', 'nathan-son-of-david', 'tamar-daughter-of-david', 'rehoboam', 'abijah-of-judah', 'asa', 'jehoshaphat', 'jehoram-of-judah', 'ahaziah-of-judah', 'joash-judah', 'amaziah', 'uzziah', 'jotham', 'ahaz', 'hezekiah', 'manasseh-king', 'josiah', 'jehoahaz-of-judah', 'jehoiakim', 'jehoiachin', 'zedekiah', 'zerubbabel'] },
 };
 
 function build(root: string, collapsed: Set<string>): N {
@@ -30,7 +31,7 @@ export default function Family() {
   const root = sp.get('root') && personById.has(sp.get('root')!) ? sp.get('root')! : personById.has('adam') ? 'adam' : roots[0]?.id;
   const [line, setLine] = useState<keyof typeof LINES | ''>('messianic');
   const [collapsed, setCollapsed] = useState<Set<string>>(new Set());
-  const [t, setT] = useState<ZoomTransform>(zoomIdentity);
+  const [zt, setZt] = useState<ZoomTransform>(zoomIdentity);
   const zRef = useRef<ReturnType<typeof d3zoom<SVGSVGElement, unknown>> | null>(null);
   const svg = useRef<SVGSVGElement>(null);
   const data = useMemo(() => (root ? build(root, collapsed) : null), [root, collapsed]);
@@ -50,7 +51,7 @@ export default function Family() {
   const hl = line ? new Set(LINES[line].ids) : new Set<string>();
   useEffect(() => {
     if (!svg.current) return;
-    const z = d3zoom<SVGSVGElement, unknown>().scaleExtent([0.2, 3]).on('zoom', (e) => setT(e.transform));
+    const z = d3zoom<SVGSVGElement, unknown>().scaleExtent([0.2, 3]).on('zoom', (e) => setZt(e.transform));
     zRef.current = z;
     select(svg.current).call(z).call(z.transform, fit());
     return () => { select(svg.current!).on('.zoom', null); };
@@ -65,23 +66,23 @@ export default function Family() {
 
   return (
     <div>
-      <PageHeader eyebrow="Genealogy explorer" title="Family Trees">
-        Built from every parent–child link in the atlas. Drag to pan and scroll to zoom. Click a dot to fold or unfold its branch; click a name to open the profile. Generations the text skips are joined directly.
+      <PageHeader eyebrow={t('Genealogy explorer')} title={t('Family Trees')}>
+        {t('Built from every parent–child link in the atlas. Drag to pan and scroll to zoom. Click a dot to fold or unfold its branch; click a name to open the profile. Generations the text skips are joined directly.')}
       </PageHeader>
       <div className="flex flex-wrap gap-2 items-center mb-4">
-        <label className="eyebrow" htmlFor="fam-root">Start from</label>
+        <label className="eyebrow" htmlFor="fam-root">{t('Start from')}</label>
         <select id="fam-root" className="input !w-auto" value={root} onChange={(e) => { setCollapsed(new Set()); setSp({ root: e.target.value }); }}>
           {roots.map((p) => <option key={p.id} value={p.id}>{p.names.primary}</option>)}
         </select>
-        <span className="eyebrow ml-2">Highlight</span>
+        <span className="eyebrow ml-2">{t('Highlight')}</span>
         {(Object.keys(LINES) as (keyof typeof LINES)[]).map((k) => <button key={k} className={`btn !py-1 ${line === k ? 'btn-primary' : ''}`} onClick={() => setLine(line === k ? '' : k)}>{LINES[k].label}</button>)}
-        <button className="btn !py-1" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.transform, fit())}>Reset view</button>
+        <button className="btn !py-1" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.transform, fit())}>{t('Reset view')}</button>
       </div>
       {data && (
         <>
           <div className="card overflow-hidden hidden md:block">
-            <svg ref={svg} viewBox={`0 0 ${VW} ${VH}`} className="w-full h-auto block touch-none cursor-grab" role="img" aria-label="Family tree; a nested list follows for screen readers">
-              <g transform={t.toString()}>
+            <svg ref={svg} viewBox={`0 0 ${VW} ${VH}`} className="w-full h-auto block touch-none cursor-grab" role="img" aria-label={t('Family tree; a nested list follows for screen readers')}>
+              <g transform={zt.toString()}>
                 {links.map((l, i) => {
                   const a = P(l.source), b = P(l.target); const on = hl.has(l.source.data.id) && hl.has(l.target.data.id);
                   return <motion.path key={l.target.data.id + i} d={`M${a.x},${a.y}C${(a.x + b.x) / 2},${a.y} ${(a.x + b.x) / 2},${b.y} ${b.x},${b.y}`} fill="none"
@@ -92,7 +93,7 @@ export default function Family() {
                   return (
                     <motion.g key={n.data.id} initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ delay: n.depth * 0.04 }}>
                       <circle cx={x} cy={y} r={6} fill={folded ? 'rgb(var(--accent))' : on ? 'rgb(var(--accent-2))' : 'rgb(var(--surface))'} stroke={on ? 'rgb(var(--accent-2))' : 'rgb(var(--muted))'} strokeWidth={1.5}
-                        className={has ? 'cursor-pointer' : ''} onClick={() => has && toggle(n.data.id)} role={has ? 'button' : undefined} aria-label={has ? `${folded ? 'Unfold' : 'Fold'} ${p.names.primary}` : undefined} />
+                        className={has ? 'cursor-pointer' : ''} onClick={() => has && toggle(n.data.id)} role={has ? 'button' : undefined} aria-label={has ? t(folded ? 'Unfold {name}' : 'Fold {name}', { name: p.names.primary }) : undefined} />
                       <Link to={`/people/${n.data.id}`}>
                         <text x={x + 10} y={y + 4} fontSize={13} fill={on ? 'rgb(var(--accent-2))' : 'rgb(var(--text))'} fontWeight={on ? 600 : 400} paintOrder="stroke" stroke="rgb(var(--bg))" strokeWidth={3} className="hover:underline">{p.names.primary}{folded ? ' …' : ''}</text>
                       </Link>
@@ -105,10 +106,10 @@ export default function Family() {
           <ul className="md:hidden card p-4 text-[.95rem] space-y-1">{renderList(data)}</ul>
         </>
       )}
-      <Section title="Why Matthew and Luke give different genealogies">
+      <Section title={t('Why Matthew and Luke give different genealogies')}>
         <div className="grid gap-4 md:grid-cols-2 prose-serif !max-w-none">
-          <div className="card p-4"><div className="eyebrow mb-1">What the text shows</div><p>Matthew traces Jesus from Abraham through David and Solomon, arranged in three sets of fourteen (Matt 1:17). Luke runs backward from Jesus to Adam, passing through David’s son Nathan rather than Solomon (Luke 3:31). The two lists agree from Abraham to David and meet again at Shealtiel and Zerubbabel.</p><div className="mt-2"><Refs refs={['Matt 1:1-17', 'Luke 3:23-38']} /></div></div>
-          <div className="card p-4"><div className="eyebrow mb-1">Main explanations</div><ul className="list-disc pl-5 space-y-1.5"><li><b>Mary’s line in Luke:</b> Luke gives Mary’s ancestry, with Heli as Joseph’s father-in-law (a view dating to the Reformation era, held by many evangelicals).</li><li><b>Levirate marriage:</b> Julius Africanus (c. 220, cited by Eusebius, <i>Church History</i> 1.7) proposed that Heli and Jacob were half-brothers, one legal and one natural father.</li><li><b>Royal vs natural descent:</b> Matthew gives the legal royal succession, Luke the physical descent.</li><li><b>Theological arrangement:</b> many critical scholars see each list as shaped for its Gospel’s purpose rather than as archival records.</li></ul></div>
+          <div className="card p-4"><div className="eyebrow mb-1">{t('What the text shows')}</div><p>{t('Matthew traces Jesus from Abraham through David and Solomon, arranged in three sets of fourteen (Matt 1:17). Luke runs backward from Jesus to Adam, passing through David’s son Nathan rather than Solomon (Luke 3:31). The two lists agree from Abraham to David and meet again at Shealtiel and Zerubbabel.')}</p><div className="mt-2"><Refs refs={['Matt 1:1-17', 'Luke 3:23-38']} /></div></div>
+          <div className="card p-4"><div className="eyebrow mb-1">{t('Main explanations')}</div><ul className="list-disc pl-5 space-y-1.5"><li><b>{t('Mary’s line in Luke:')}</b> {t('Luke gives Mary’s ancestry, with Heli as Joseph’s father-in-law (a view dating to the Reformation era, held by many evangelicals).')}</li><li><b>{t('Levirate marriage:')}</b> {t('Julius Africanus (c. 220, cited by Eusebius, Church History 1.7) proposed that Heli and Jacob were half-brothers, one legal and one natural father.')}</li><li><b>{t('Royal vs natural descent:')}</b> {t('Matthew gives the legal royal succession, Luke the physical descent.')}</li><li><b>{t('Theological arrangement:')}</b> {t('many critical scholars see each list as shaped for its Gospel’s purpose rather than as archival records.')}</li></ul></div>
         </div>
       </Section>
     </div>

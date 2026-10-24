@@ -7,6 +7,7 @@ import land from '../generated/land.json';
 import { placeById, placeLabel } from '../data';
 import type { EmpireT, PlaceT } from '../schemas';
 import { prefersReduced } from '../store';
+import { t } from '../i18n';
 
 export type MapRoute = { id: string; color: string; coords: [number, number][]; labels?: string[]; dashed?: boolean };
 type Props = {
@@ -32,9 +33,9 @@ const RIVERS: { name: string; c: [number, number][] }[] = [
   { name: 'Tigris', c: [[39.8, 38.4], [41.2, 37.6], [42.4, 37.0], [43.1, 36.3], [43.6, 35.0], [44.4, 33.3], [45.6, 32.3], [46.8, 31.4], [47.8, 30.6]] },
 ];
 
-export default function BibleMap({ routes = [], places = [], empires = [], highlight, activeStop, onPlace, focus, height = 520, label = 'Map of the biblical world', year }: Props) {
+export default function BibleMap({ routes = [], places = [], empires = [], highlight, activeStop, onPlace, focus, height = 520, label = t('Map of the biblical world'), year }: Props) {
   const svg = useRef<SVGSVGElement>(null);
-  const [t, setT] = useState<ZoomTransform>(zoomIdentity);
+  const [zt, setT] = useState<ZoomTransform>(zoomIdentity);
   const zRef = useRef<ReturnType<typeof d3zoom<SVGSVGElement, unknown>> | null>(null);
   const H = Math.round((height / 640) * W * 0.64);
 
@@ -65,13 +66,13 @@ export default function BibleMap({ routes = [], places = [], empires = [], highl
 
   const P = (c: [number, number]) => projection(c) ?? [0, 0];
   const reduced = prefersReduced();
-  const k = t.k;
+  const k = zt.k;
 
   return (
     <div className="relative card overflow-hidden" style={{ touchAction: 'none' }}>
       <svg ref={svg} viewBox={`0 0 ${W} ${H}`} className="w-full h-auto block cursor-grab active:cursor-grabbing" role="img" aria-label={label}>
         <rect width={W} height={H} className="map-sea" />
-        <g transform={t.toString()}>
+        <g transform={zt.toString()}>
           <path d={path(geoGraticule10()) ?? ''} fill="none" stroke="rgb(var(--border))" strokeWidth={0.4 / k} strokeDasharray={`${2 / k} ${3 / k}`} />
           <path d={path(land as any) ?? ''} className="map-land" style={{ strokeWidth: 0.7 / k }} />
           {RIVERS.map((r) => <path key={r.name} d={path({ type: 'LineString', coordinates: r.c } as any) ?? ''} fill="none" stroke="rgb(var(--accent) / .55)" strokeWidth={1.4 / k} />)}
@@ -122,9 +123,9 @@ export default function BibleMap({ routes = [], places = [], empires = [], highl
         </g>
       </svg>
       <div className="absolute right-2 bottom-2 flex gap-1">
-        <button className="btn !px-2 !py-1" aria-label="Zoom in" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.scaleBy, 1.6)}>+</button>
-        <button className="btn !px-2 !py-1" aria-label="Zoom out" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.scaleBy, 1 / 1.6)}>−</button>
-        <button className="btn !px-2 !py-1" aria-label="Reset view" onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.transform, zoomIdentity)}>⟲</button>
+        <button className="btn !px-2 !py-1" aria-label={t('Zoom in')} onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.scaleBy, 1.6)}>+</button>
+        <button className="btn !px-2 !py-1" aria-label={t('Zoom out')} onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.scaleBy, 1 / 1.6)}>−</button>
+        <button className="btn !px-2 !py-1" aria-label={t('Reset view')} onClick={() => svg.current && zRef.current && select(svg.current).call(zRef.current.transform, zoomIdentity)}>⟲</button>
       </div>
     </div>
   );
