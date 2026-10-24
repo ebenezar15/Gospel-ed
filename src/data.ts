@@ -7,7 +7,9 @@ import type {
 import { applyOverlay } from './i18n';
 
 const files = import.meta.glob('../content/*.json', { eager: true, import: 'default' }) as Record<string, unknown>;
-for (const [k, v] of Object.entries(files)) applyOverlay(k.replace('../content/', ''), v);
+/** Writes the Tamil overlay into the loaded content objects in place. Every index below holds references to
+ *  these same objects, so calling this after the module has run (but before the first render) is enough. */
+export function applyContentOverlay() { for (const [k, v] of Object.entries(files)) applyOverlay(k.replace('../content/', ''), v); }
 const get = <T,>(name: string, fallback: T): T => (files[`../content/${name}`] as T) ?? fallback;
 const many = <T,>(prefix: string): T[] =>
   Object.keys(files).filter((k) => k.startsWith(`../content/${prefix}`)).sort().flatMap((k) => files[k] as T[]);

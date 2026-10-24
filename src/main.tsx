@@ -6,4 +6,6 @@ import { isTa, loadOverlay } from './i18n';
 document.documentElement.lang = isTa ? 'ta' : 'en';
 const root = ReactDOM.createRoot(document.getElementById('root')!);
 if (isTa) root.render(<div style={{ display: 'grid', placeItems: 'center', height: '100vh', fontFamily: 'Noto Sans Tamil, sans-serif', opacity: 0.7 }}>தமிழ் உள்ளடக்கம் ஏற்றப்படுகிறது…</div>);
-loadOverlay().then(() => import('./App')).then(({ default: App }) => root.render(<App />));
+loadOverlay()
+  .then(() => Promise.all([import('./App'), import('./data')]))
+  .then(([{ default: App }, data]) => { data.applyContentOverlay(); root.render(<App />); });

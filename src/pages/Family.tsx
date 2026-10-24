@@ -61,7 +61,7 @@ export default function Family() {
 
   const renderList = (n: N, d = 0): JSX.Element => (
     <li key={n.id + d}><Link to={`/people/${n.id}`} className={`hover:text-accent ${hl.has(n.id) ? 'rubric font-semibold' : ''}`}>{personById.get(n.id)?.names.primary}</Link>
-      {n.children && <ul className="pl-4 border-l border-line ml-1">{n.children.map((c) => renderList(c, d + 1))}</ul>}</li>
+      {n.children && <ul className={d < 5 ? "pl-4 border-l border-line ml-1" : "pl-0"}>{n.children.map((c) => renderList(c, d + 1))}</ul>}</li>
   );
 
   return (
