@@ -8,6 +8,7 @@ import { loadKJV, versesFor, refLabel } from '../lib/kjv';
 import { BOOKS } from '../lib/canon';
 import { useUI } from '../store';
 import Chat from '../components/Chat';
+import { t, isTa, loadTamilBook } from '../i18n';
 
 type Tab = 'verse' | 'paths' | 'compare' | 'saved' | 'ask';
 
@@ -16,24 +17,30 @@ function VersePanel({ initial }: { initial: string }) {
   const [shown, setShown] = useState(initial || 'John 1:1-14');
   const [verses, setVerses] = useState<{ c: number; v: number; text: string }[] | null>(null);
   const p = parseRef(shown);
-  useEffect(() => { setVerses(null); if (p) loadKJV().then((k) => setVerses(versesFor(k, p, 200))); }, [shown]);
+  const [ta, setTa] = useState(isTa);
+  useEffect(() => {
+    setVerses(null); if (!p) return;
+    const kjv = () => { setTa(false); return loadKJV().then((k) => setVerses(versesFor(k, p, 200))); };
+    if (isTa) loadTamilBook(p.book).then((bk) => { setTa(true); setVerses(versesFor([...Array(p.book)].concat([bk]) as string[][][], p, 200)); }).catch(kjv);
+    else kjv();
+  }, [shown]);
   const go = (r: string) => { setQ(r); setShown(r); };
   const chapter = p ? `${BOOKS[p.book].abbr} ${p.c1}` : '';
   return (
     <div>
       <form className="flex gap-2 mb-4" onSubmit={(e) => { e.preventDefault(); setShown(q.trim()); }}>
-        <label htmlFor="verse-q" className="sr-only">Reference</label>
-        <input id="verse-q" className="input" value={q} onChange={(e) => setQ(e.target.value)} placeholder="e.g. Rom 8:28-39 or Ps 23" />
-        <button className="btn btn-primary">Read</button>
+        <label htmlFor="verse-q" className="sr-only">{t('Reference')}</label>
+        <input id="verse-q" className="input" value={q} onChange={(e) => setQ(e.target.value)} placeholder={t('e.g. Rom 8:28-39 or Ps 23')} />
+        <button className="btn btn-primary">{t('Read')}</button>
       </form>
-      {!p ? <Empty>“{shown}” isn’t a reference I recognise. Use abbreviations like Gen, 1 Sam, Ps, Matt, 1 Cor, with chapter and verse (Gen 12:1-3).</Empty> : (
+      {!p ? <Empty>{t('“{ref}” isn’t a reference I recognise. Use abbreviations like Gen, 1 Sam, Ps, Matt, 1 Cor, with chapter and verse (Gen 12:1-3).', { ref: shown })}</Empty> : (
         <article className="card p-5 md:p-8">
           <div className="flex justify-between items-baseline gap-2 mb-4 flex-wrap">
             <h2 className="display text-3xl">{refLabel(shown)}</h2>
             <div className="flex gap-1">
-              {p.c1 > 1 && <button className="btn !py-1" onClick={() => go(`${BOOKS[p.book].abbr} ${p.c1 - 1}`)}>← Ch. {p.c1 - 1}</button>}
-              {(p.v1 !== undefined) && <button className="btn !py-1" onClick={() => go(chapter)}>Whole chapter</button>}
-              <button className="btn !py-1" onClick={() => go(`${BOOKS[p.book].abbr} ${p.c2 + 1}`)}>Ch. {p.c2 + 1} →</button>
+              {p.c1 > 1 && <button className="btn !py-1" onClick={() => go(`${BOOKS[p.book].abbr} ${p.c1 - 1}`)}>{t('← Ch. {n}', { n: p.c1 - 1 })}</button>}
+              {(p.v1 !== undefined) && <button className="btn !py-1" onClick={() => go(chapter)}>{t('Whole chapter')}</button>}
+              <button className="btn !py-1" onClick={() => go(`${BOOKS[p.book].abbr} ${p.c2 + 1}`)}>{t('Ch. {n} →', { n: p.c2 + 1 })}</button>
             </div>
           </div>
           {!verses ? <div className="space-y-2">{[0, 1, 2, 3].map((i) => <div key={i} className="skeleton h-4" />)}</div> : (
@@ -41,7 +48,7 @@ function VersePanel({ initial }: { initial: string }) {
               {verses.map((v) => <span key={`${v.c}:${v.v}`}><sup className="rubric font-sans text-[.65rem] mr-0.5 tabular">{v.c !== p.c1 || v.v === 1 ? `${v.c}:` : ''}{v.v}</sup>{v.text} </span>)}
             </div>
           )}
-          <p className="text-xs text-muted mt-5">King James Version, public domain. Versification follows the KJV.</p>
+          <p className="text-xs text-muted mt-5">{ta ? t('Tamil Union Version, public domain. Versification follows the KJV.') : t('King James Version, public domain. Versification follows the KJV.')}</p>
         </article>
       )}
     </div>
@@ -53,25 +60,25 @@ function Paths({ initial }: { initial: string | null }) {
   const [step, setStep] = useState(0);
   const p = studyPaths.find((x) => x.id === id);
   useEffect(() => setStep(0), [id]);
-  if (!studyPaths.length) return <Empty>Guided paths are still being written.</Empty>;
+  if (!studyPaths.length) return <Empty>{t('Guided paths are still being written.')}</Empty>;
   return (
     <div className="grid gap-5 lg:grid-cols-[260px_minmax(0,1fr)]">
-      <nav className="space-y-1">{studyPaths.map((x) => <button key={x.id} onClick={() => setId(x.id)} className={`w-full text-left px-3 py-2 rounded ${x.id === id ? 'bg-sunk font-semibold' : 'hover:bg-sunk'}`}>{x.title}<div className="text-xs text-muted font-normal">{x.steps.length} steps</div></button>)}</nav>
+      <nav className="space-y-1">{studyPaths.map((x) => <button key={x.id} onClick={() => setId(x.id)} className={`w-full text-left px-3 py-2 rounded ${x.id === id ? 'bg-sunk font-semibold' : 'hover:bg-sunk'}`}>{x.title}<div className="text-xs text-muted font-normal">{t('{n} steps', { n: x.steps.length })}</div></button>)}</nav>
       {p && (
         <div className="min-w-0">
           <h2 className="display text-3xl">{p.title}</h2>
           <p className="font-serif text-muted mb-4">{p.summary}</p>
-          <div className="flex gap-1 mb-4">{p.steps.map((_, i) => <button key={i} onClick={() => setStep(i)} aria-label={`Step ${i + 1}`} className={`h-1.5 flex-1 rounded ${i <= step ? 'bg-accent2' : 'bg-sunk'}`} />)}</div>
+          <div className="flex gap-1 mb-4">{p.steps.map((_, i) => <button key={i} onClick={() => setStep(i)} aria-label={t('Step {n}', { n: i + 1 })} className={`h-1.5 flex-1 rounded ${i <= step ? 'bg-accent2' : 'bg-sunk'}`} />)}</div>
           <div className="card p-5">
-            <div className="eyebrow mb-1">Step {step + 1} of {p.steps.length}</div>
+            <div className="eyebrow mb-1">{t('Step {n} of {total}', { n: step + 1, total: p.steps.length })}</div>
             <h3 className="display text-2xl mb-2">{p.steps[step].title}</h3>
             <p className="font-serif text-lg leading-relaxed">{p.steps[step].body}</p>
             <div className="mt-3"><Refs refs={p.steps[step].refs} /></div>
-            {p.steps[step].link && <Link to={p.steps[step].link!} className="btn mt-4">Open in the atlas →</Link>}
+            {p.steps[step].link && <Link to={p.steps[step].link!} className="btn mt-4">{t('Open in the atlas →')}</Link>}
           </div>
           <div className="flex justify-between mt-3">
-            <button className="btn" disabled={step === 0} onClick={() => setStep(step - 1)}>← Previous</button>
-            <button className="btn btn-primary" disabled={step === p.steps.length - 1} onClick={() => setStep(step + 1)}>Next →</button>
+            <button className="btn" disabled={step === 0} onClick={() => setStep(step - 1)}>{t('← Previous')}</button>
+            <button className="btn btn-primary" disabled={step === p.steps.length - 1} onClick={() => setStep(step + 1)}>{t('Next →')}</button>
           </div>
         </div>
       )}
@@ -89,22 +96,22 @@ function Compare() {
   return (
     <div>
       <div className="grid gap-2 grid-cols-2 mb-4">
-        {[[a, setA], [b, setB]].map(([v, s], i) => <select key={i} id={`cmp-person-${i}`} aria-label={`Person ${i + 1}`} className="input" value={v as string} onChange={(e) => (s as (x: string) => void)(e.target.value)}>{sorted.map((p) => <option key={p.id} value={p.id}>{p.names.primary}</option>)}</select>)}
+        {[[a, setA], [b, setB]].map(([v, s], i) => <select key={i} id={`cmp-person-${i}`} aria-label={t('Person {n}', { n: i + 1 })} className="input" value={v as string} onChange={(e) => (s as (x: string) => void)(e.target.value)}>{sorted.map((p) => <option key={p.id} value={p.id}>{p.names.primary}</option>)}</select>)}
       </div>
       {pa && pb && (
         <div className="scroll-x"><table className="w-full min-w-[560px] text-sm font-serif"><tbody>
-          {row('Name', (p) => <Link to={`/people/${p.id}`} className="display text-2xl hover:text-accent">{p.names.primary}</Link>)}
-          {row('Lived', (p) => { const l = lifespan(p); return l ? `${fmtYear(l[0])} – ${fmtYear(l[1])}` : 'Undated'; })}
-          {row('Roles', (p) => p.roles.join(', '))}
-          {row('Work', (p) => p.occupations.join(', ') || '—')}
-          {row('Gifts', (p) => p.gifts.map((g) => g.name).join(', ') || '—')}
-          {row('Strengths', (p) => p.arc?.strengths.join('; ') ?? '—')}
-          {row('Failures', (p) => p.arc?.failures.join('; ') ?? '—')}
-          {row('Turning points', (p) => p.arc?.turningPoints.join('; ') ?? '—')}
-          {row('Summary', (p) => p.summary.split('\n')[0])}
+          {row(t('Name'), (p) => <Link to={`/people/${p.id}`} className="display text-2xl hover:text-accent">{p.names.primary}</Link>)}
+          {row(t('Lived'), (p) => { const l = lifespan(p); return l ? `${fmtYear(l[0])} – ${fmtYear(l[1])}` : t('Undated'); })}
+          {row(t('Roles'), (p) => p.roles.join(', '))}
+          {row(t('Work'), (p) => p.occupations.join(', ') || '—')}
+          {row(t('Gifts'), (p) => p.gifts.map((g) => g.name).join(', ') || '—')}
+          {row(t('Strengths'), (p) => p.arc?.strengths.join('; ') ?? '—')}
+          {row(t('Failures'), (p) => p.arc?.failures.join('; ') ?? '—')}
+          {row(t('Turning points'), (p) => p.arc?.turningPoints.join('; ') ?? '—')}
+          {row(t('Summary'), (p) => p.summary.split('\n')[0])}
         </tbody></table></div>
       )}
-      {pa && pb && <p className="text-sm text-muted mt-3">{shared ? `${pa.names.primary} and ${pb.names.primary} were alive at the same time.` : `Their recorded lifespans don’t overlap.`} <Link className="text-accent" to={`/connections?from=${pa.id}&to=${pb.id}`}>How are they connected? →</Link></p>}
+      {pa && pb && <p className="text-sm text-muted mt-3">{shared ? t('{a} and {b} were alive at the same time.', { a: pa.names.primary, b: pb.names.primary }) : t('Their recorded lifespans don’t overlap.')} <Link className="text-accent" to={`/connections?from=${pa.id}&to=${pb.id}`}>{t('How are they connected? →')}</Link></p>}
     </div>
   );
 }
@@ -112,17 +119,17 @@ function Compare() {
 function Saved() {
   const { bookmarks, notes, addNote, removeNote, toggleBookmark } = useUI();
   const [draft, setDraft] = useState('');
-  const [target, setTarget] = useState('General');
+  const [target, setTarget] = useState(t('General'));
   return (
     <div className="grid gap-6 md:grid-cols-2">
-      <Section title="Bookmarks">{bookmarks.length ? <ul className="space-y-1.5">{bookmarks.map((b) => <li key={b} className="flex justify-between gap-2"><Link className="hover:text-accent" to={b}>{b}</Link><button className="text-xs text-muted hover:text-bad" onClick={() => toggleBookmark(b)}>Remove</button></li>)}</ul> : <p className="text-muted font-serif">Use the ☆ Save button on any person, book, debate or context page.</p>}</Section>
-      <Section title="Notes">
+      <Section title={t('Bookmarks')}>{bookmarks.length ? <ul className="space-y-1.5">{bookmarks.map((b) => <li key={b} className="flex justify-between gap-2"><Link className="hover:text-accent" to={b}>{b}</Link><button className="text-xs text-muted hover:text-bad" onClick={() => toggleBookmark(b)}>{t('Remove')}</button></li>)}</ul> : <p className="text-muted font-serif">{t('Use the ☆ Save button on any person, book, debate or context page.')}</p>}</Section>
+      <Section title={t('Notes')}>
         <form className="space-y-2 mb-4" onSubmit={(e) => { e.preventDefault(); if (draft.trim()) { addNote(target, draft.trim()); setDraft(''); } }}>
-          <input id="note-target" className="input" value={target} onChange={(e) => setTarget(e.target.value)} placeholder="About (a verse, person, topic)" />
-          <textarea id="note-text" className="input min-h-24" value={draft} onChange={(e) => setDraft(e.target.value)} placeholder="Write a note…" />
-          <button className="btn btn-primary">Save note</button>
+          <input id="note-target" className="input" value={target} onChange={(e) => setTarget(e.target.value)} placeholder={t('About (a verse, person, topic)')} />
+          <textarea id="note-text" className="input min-h-24" value={draft} onChange={(e) => setDraft(e.target.value)} placeholder={t('Write a note…')} />
+          <button className="btn btn-primary">{t('Save note')}</button>
         </form>
-        {notes.length ? <ul className="space-y-2">{[...notes].reverse().map((n) => <li key={n.id} className="card p-3"><div className="flex justify-between"><span className="eyebrow">{n.target}</span><button className="text-xs text-muted hover:text-bad" onClick={() => removeNote(n.id)}>Delete</button></div><p className="font-serif whitespace-pre-wrap">{n.text}</p><div className="text-xs text-muted">{new Date(n.at).toLocaleDateString()}</div></li>)}</ul> : <p className="text-muted font-serif text-sm">Notes stay in this browser only.</p>}
+        {notes.length ? <ul className="space-y-2">{[...notes].reverse().map((n) => <li key={n.id} className="card p-3"><div className="flex justify-between"><span className="eyebrow">{n.target}</span><button className="text-xs text-muted hover:text-bad" onClick={() => removeNote(n.id)}>{t('Delete')}</button></div><p className="font-serif whitespace-pre-wrap">{n.text}</p><div className="text-xs text-muted">{new Date(n.at).toLocaleDateString(isTa ? 'ta-IN' : undefined)}</div></li>)}</ul> : <p className="text-muted font-serif text-sm">{t('Notes stay in this browser only.')}</p>}
       </Section>
     </div>
   );
@@ -144,9 +151,9 @@ function AskAtlas({ initial }: { initial?: string }) {
       execute: async (i: any) => { const p = parseRef(String(i.ref)); if (!p) throw new Error('Unrecognised reference format'); const k = await loadKJV(); return versesFor(k, p, 40).map((v) => `${v.c}:${v.v} ${v.text}`).join('\n'); } },
   ];
   const rules = `You are the guide inside Logos Atlas, an even-handed Bible, church-history and theology study app. Use the tools to look things up in the atlas and to quote KJV text before answering. Cite scripture as (Book chapter:verse). On contested questions, describe the main views fairly and never declare one correct. Distinguish what the text says from interpretation and from later tradition. Never fabricate quotations or citations; say when you are unsure. Keep answers under 250 words unless asked for more. When you mention an atlas person or debate, give its id in brackets like [person:paul] or [debate:atonement].`;
-  return <Chat initial={initial} rules={rules} speaker="Atlas guide" tools={tools} placeholder="Ask anything about the Bible, its people or its debates…"
-    intro="Ask a question and the guide will search the atlas and read the KJV text before answering."
-    suggestions={['Which prophets were active when Samaria fell?', 'What does Acts 3:21 mean in different traditions?', 'Compare Elijah and John the Baptist', 'What did the earliest Christians preach?']} />;
+  return <Chat initial={initial} rules={rules} speaker={t('Atlas guide')} tools={tools} placeholder={t('Ask anything about the Bible, its people or its debates…')}
+    intro={t('Ask a question and the guide will search the atlas and read the KJV text before answering.')}
+    suggestions={[t('Which prophets were active when Samaria fell?'), t('What does Acts 3:21 mean in different traditions?'), t('Compare Elijah and John the Baptist'), t('What did the earliest Christians preach?')]} />;
 }
 
 export default function Study() {
@@ -158,8 +165,8 @@ export default function Study() {
   useEffect(() => { if (verse) setTab('verse'); }, [verse]);
   return (
     <div>
-      <PageHeader eyebrow="Study desk" title="Study">Read any passage, walk a guided path, compare two lives, keep notes, or ask the atlas a question.</PageHeader>
-      <Tabs<Tab> value={tab} onChange={setTab} tabs={[{ id: 'paths', label: 'Guided paths' }, { id: 'verse', label: 'Verse panel' }, { id: 'compare', label: 'Compare people' }, { id: 'saved', label: 'Bookmarks & notes' }, { id: 'ask', label: '✦ Ask the Atlas' }]} />
+      <PageHeader eyebrow={t('Study desk')} title={t('Study')}>{t('Read any passage, walk a guided path, compare two lives, keep notes, or ask the atlas a question.')}</PageHeader>
+      <Tabs<Tab> value={tab} onChange={setTab} tabs={[{ id: 'paths', label: t('Guided paths') }, { id: 'verse', label: t('Verse panel') }, { id: 'compare', label: t('Compare people') }, { id: 'saved', label: t('Bookmarks & notes') }, { id: 'ask', label: t('✦ Ask the Atlas') }]} />
       {tab === 'verse' && <VersePanel key={verse ?? ''} initial={verse ?? ''} />}
       {tab === 'paths' && <Paths initial={path} />}
       {tab === 'compare' && <Compare />}
