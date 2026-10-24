@@ -13,7 +13,7 @@ for n in names:
     try: ta = json.load(open(p))
     except Exception as e: print(f'{n}: INVALID JSON {e}'); bad += 1; continue
     miss = [k for k in src if k not in ta]; extra = [k for k in ta if k not in src]
-    eng = [k for k in src if k in ta and len(src[k]) > 12 and len(re.findall(r'[஀-௿]', ta[k])) < 0.15 * len(re.sub(r'[\s\d\W]', '', ta[k]) or 'x')]
+    eng = [k for k in src if k in ta and not re.fullmatch(r'[a-z0-9]+(-[a-z0-9]+)+', src[k]) and len(src[k]) > 12 and len(re.findall(r'[஀-௿]', ta[k])) < 0.15 * len(re.sub(r'[\s\d\W]', '', ta[k]) or 'x')]
     paras = [k for k in src if k in ta and src[k].count('\n\n') != ta[k].count('\n\n')]
     refs = [k for k in src if k in ta and set(REF.findall(src[k])) - set(REF.findall(ta[k]))]
     probs = []
