@@ -25,7 +25,7 @@ for f in glob.glob(J('i18n', 'src', '*.json')): src_text.update(json.load(open(f
 out, done, total = {}, 0, 0
 for f, paths in manifest.items():
     # never overlay id-like strings (link targets such as positionId / parent values)
-    m = {p: tr[i] for p, i in paths.items() if i in tr and not IDLIKE.fullmatch(src_text.get(i, '')) and not p.split('.')[-1].endswith(('Id', 'Ids')) and p.split('.')[-1] != 'parent' and '.status.' not in '.' + p}
+    m = {p: tr[i] for p, i in paths.items() if i in tr and not IDLIKE.fullmatch(src_text.get(i, '')) and not any(seg.endswith(('Id', 'Ids')) for seg in p.split('.')) and not src_text.get(i, '').startswith('/') and p.split('.')[-1] != 'parent' and '.status.' not in '.' + p}
     total += len(paths); done += len(m)
     if m: out[f] = m
 os.makedirs(J('public', 'ta'), exist_ok=True)
