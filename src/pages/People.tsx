@@ -5,8 +5,9 @@ import Fuse from 'fuse.js';
 import { people, eras, lifespan } from '../data';
 import { PageHeader, Stagger, item, fmtYear, Empty } from '../components/ui';
 import { useUI } from '../store';
+import { t, tv } from '../i18n';
 
-const ROLE_GROUPS = ['prophet', 'king', 'queen', 'judge', 'priest', 'apostle', 'disciple', 'patriarch', 'matriarch', 'evangelist', 'missionary', 'ruler', 'warrior', 'scribe', 'teacher'];
+const ROLE_GROUPS: string[] = ['prophet', 'king', 'queen', 'judge', 'priest', 'apostle', 'disciple', 'patriarch', 'matriarch', 'evangelist', 'missionary', 'ruler', 'warrior', 'scribe', 'teacher'];
 
 export default function People() {
   const [sp, setSp] = useSearchParams();
@@ -33,18 +34,18 @@ export default function People() {
 
   return (
     <div>
-      <PageHeader eyebrow="Character atlas" title="People of the Bible">
-        Patriarchs, prophets, kings, apostles, outsiders and enemies. Every profile separates what the text says from how traditions read it, and labels each date by how sure we can be.
+      <PageHeader eyebrow={t('Character atlas')} title={t('People of the Bible')}>
+        {t('Patriarchs, prophets, kings, apostles, outsiders and enemies. Every profile separates what the text says from how traditions read it, and labels each date by how sure we can be.')}
       </PageHeader>
       <div className="card p-3 mb-5 grid gap-2 md:grid-cols-[2fr_repeat(4,1fr)]">
-        <input id="people-q" className="input" placeholder="Search names, aliases, roles…" value={q} onChange={(e) => setQ(e.target.value)} />
-        <select id="people-t" className="input" value={testament} onChange={(e) => setParam('t', e.target.value)} aria-label="Testament"><option value="">Both testaments</option><option value="OT">Old Testament</option><option value="NT">New Testament</option></select>
-        <select id="people-role" className="input" value={role} onChange={(e) => setParam('role', e.target.value)} aria-label="Role"><option value="">Any role</option>{ROLE_GROUPS.map((r) => <option key={r} value={r}>{r[0].toUpperCase() + r.slice(1)}</option>)}</select>
-        <select id="people-tier" className="input" value={tier} onChange={(e) => setParam('tier', e.target.value)} aria-label="Profile depth"><option value="">All profiles</option><option value="major">Major</option><option value="secondary">Secondary</option><option value="minor">Minor</option></select>
-        <select id="people-sort" className="input" value={sort} onChange={(e) => setParam('sort', e.target.value)} aria-label="Sort"><option value="chron">Chronological</option><option value="name">A–Z</option></select>
+        <input id="people-q" className="input" placeholder={t('Search names, aliases, roles…')} value={q} onChange={(e) => setQ(e.target.value)} />
+        <select id="people-t" className="input" value={testament} onChange={(e) => setParam('t', e.target.value)} aria-label={t('Testament')}><option value="">{t('Both testaments')}</option><option value="OT">{t('Old Testament')}</option><option value="NT">{t('New Testament')}</option></select>
+        <select id="people-role" className="input" value={role} onChange={(e) => setParam('role', e.target.value)} aria-label={t('Role')}><option value="">{t('Any role')}</option>{ROLE_GROUPS.map((r) => <option key={r} value={r}>{t(r[0].toUpperCase() + r.slice(1))}</option>)}</select>
+        <select id="people-tier" className="input" value={tier} onChange={(e) => setParam('tier', e.target.value)} aria-label={t('Profile depth')}><option value="">{t('All profiles')}</option><option value="major">{t('Major')}</option><option value="secondary">{t('Secondary')}</option><option value="minor">{t('Minor')}</option></select>
+        <select id="people-sort" className="input" value={sort} onChange={(e) => setParam('sort', e.target.value)} aria-label={t('Sort')}><option value="chron">{t('Chronological')}</option><option value="name">{t('A–Z')}</option></select>
       </div>
-      <div className="text-sm text-muted mb-3 tabular">{list.length} {list.length === 1 ? 'person' : 'people'}{eraFilter ? ` in ${eras.find((e) => e.id === eraFilter)?.name}` : ''}</div>
-      {!list.length ? <Empty>No one matches those filters. Clear the search or the era filter in the sidebar.</Empty> : (
+      <div className="text-sm text-muted mb-3 tabular">{eraFilter ? t(list.length === 1 ? '{n} person in {era}' : '{n} people in {era}', { n: list.length, era: eras.find((e) => e.id === eraFilter)?.name ?? '' }) : t(list.length === 1 ? '{n} person' : '{n} people', { n: list.length })}</div>
+      {!list.length ? <Empty>{t('No one matches those filters. Clear the search or the era filter in the sidebar.')}</Empty> : (
         <Stagger className="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
           {list.map((p) => {
             const l = lifespan(p);
@@ -58,7 +59,7 @@ export default function People() {
                   </div>
                   <div className="text-xs text-muted">{[p.roles.slice(0, 3).join(' · '), l ? `${fmtYear(l[0])} – ${fmtYear(l[1])}` : null].filter(Boolean).join('  ·  ')}</div>
                   <p className="text-sm font-serif leading-snug line-clamp-3">{p.summary.split('\n')[0]}</p>
-                  <div className="mt-auto pt-1 flex gap-1.5"><span className="chip !text-[.65rem]">{p.tier}</span>{p.names.meaning && <span className="chip !text-[.65rem] !block truncate min-w-0">“{p.names.meaning}”</span>}</div>
+                  <div className="mt-auto pt-1 flex gap-1.5"><span className="chip !text-[.65rem]">{tv(p.tier)}</span>{p.names.meaning && <span className="chip !text-[.65rem] !block truncate min-w-0">“{p.names.meaning}”</span>}</div>
                 </Link>
               </motion.div>
             );

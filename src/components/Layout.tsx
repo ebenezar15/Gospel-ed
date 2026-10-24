@@ -37,27 +37,27 @@ function useSearchIndex() {
       ...books.map((b) => ({ kind: t('Book'), title: b.name, sub: b.genre, to: `/books/${b.id}` })),
       ...allDebates.map((d) => ({ kind: d.category === 'movement' ? t('Movement') : t('Debate'), title: d.title, sub: d.positions.map((p) => p.name).join(' · '), to: d.category === 'movement' ? `/movements/${d.id}` : `/debates/${d.id}` })),
       ...allDebates.flatMap((d) => d.positions.map((p) => ({ kind: t('Position'), title: p.name, sub: d.title, to: `/debates/${d.id}?pos=${p.id}` }))),
-      ...contextItems.map((c) => ({ kind: t('Context'), title: c.title, sub: c.category, to: `/context/${c.id}` })),
+      ...contextItems.map((c) => ({ kind: t('Context'), title: c.title, sub: tv(c.category), to: `/context/${c.id}` })),
       ...occupations.map((o) => ({ kind: o.kind === 'trade' ? t('Occupation') : t('Ministry'), title: o.name, sub: o.summary.slice(0, 80), to: `/work#${o.id}` })),
       ...journeys.map((j) => ({ kind: t('Journey'), title: j.title, sub: j.variant ?? j.summary.slice(0, 80), to: `/maps?journey=${j.id}` })),
-      ...afterlifeTerms.map((t) => ({ kind: t('Term'), title: t.term, sub: t.original, to: `/afterlife#${t.id}` })),
+      ...afterlifeTerms.map((a) => ({ kind: t('Term'), title: a.term, sub: a.original, to: `/afterlife#${a.id}` })),
       ...gospelNodes.map((g) => ({ kind: t('Gospel history'), title: g.title, sub: `${g.year} · ${g.place}`, to: `/gospel-history?node=${g.id}` })),
       ...eras.map((e) => ({ kind: t('Era'), title: e.name, sub: e.summary.slice(0, 80), to: `/timeline?era=${e.id}` })),
       ...guides.map((g) => ({ kind: t('Study guide'), title: g.title, sub: g.question, to: `/guides/${g.id}` })),
       ...figures.map((f) => ({ kind: t('Theologian'), title: f.name, sub: `${f.lived} · ${f.profession}`, to: '/theologians' })),
-      ...canonBooks.map((b) => ({ kind: t('Omitted book'), title: b.title, sub: b.altTitles.join(', ') || b.category, to: `/canon?book=${b.id}` })),
+      ...canonBooks.map((b) => ({ kind: t('Omitted book'), title: b.title, sub: b.altTitles.join(', ') || tv(b.category), to: `/canon?book=${b.id}` })),
       ...paradoxes.map((p) => ({ kind: t('Paradox'), title: p.title, sub: p.takeaway, to: `/paradoxes?p=${p.id}` })),
-      ...types.map((t) => ({ kind: t('Type'), title: `${t.type.name} → ${t.antitype.name}`, sub: t.title, to: `/types?t=${t.id}` })),
+      ...types.map((ty) => ({ kind: t('Type'), title: `${ty.type.name} → ${ty.antitype.name}`, sub: ty.title, to: `/types?t=${ty.id}` })),
       ...symbols.map((s) => ({ kind: t('Symbol'), title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
       ...bibleHistory.variants.map((v) => ({ kind: t('Disputed passage'), title: v.title, sub: v.ref, to: '/bible-history' })),
       ...gods.map((g) => ({ kind: t('God'), title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
       ...godsExtra.showdowns.map((s) => ({ kind: t('Showdown'), title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
-      ...deepStudies.flatMap((d) => [{ kind: t('Deep study'), title: d.title, sub: `${d.chapters.length} chapters, chapter by chapter`, to: `/books/${d.id}/deep` },
+      ...deepStudies.flatMap((d) => [{ kind: t('Deep study'), title: d.title, sub: t('{n} chapters, chapter by chapter', { n: d.chapters.length }), to: `/books/${d.id}/deep` },
         ...d.chapters.map((c) => ({ kind: t('Chapter study'), title: `${books.find((b) => b.id === d.id)?.name ?? d.id} ${c.n}: ${c.title}`, sub: c.summary.slice(0, 80), to: `/books/${d.id}/deep?ch=${c.n}` }))]),
       ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
-      { kind: t('Page'), title: 'When the books were written', sub: 'Timeline of all 66 books', to: '/books?tab=when' },
-      { kind: t('Page'), title: 'Where the books were written', sub: 'Map of authors and first readers', to: '/books?tab=where' },
-      { kind: t('Page'), title: 'The divine council', sub: 'Psalm 82, Deuteronomy 32:8, sons of God', to: '/gods?tab=council' },
+      { kind: t('Page'), title: t('When the books were written'), sub: t('Timeline of all 66 books'), to: '/books?tab=when' },
+      { kind: t('Page'), title: t('Where the books were written'), sub: t('Map of authors and first readers'), to: '/books?tab=where' },
+      { kind: t('Page'), title: t('The divine council'), sub: t('Psalm 82, Deuteronomy 32:8, sons of God'), to: '/gods?tab=council' },
       ...studyPaths.map((s) => ({ kind: t('Study path'), title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: t('Page'), title: i.label, sub: g.group, to: i.to }))),
     ];
@@ -74,7 +74,7 @@ function CommandPalette({ open, onClose }: { open: boolean; onClose: () => void 
   useEffect(() => { if (open) { setQ(''); setSel(0); setTimeout(() => input.current?.focus(), 10); } }, [open]);
   const verse = parseRef(q.trim().replace(/^(\w+)\s/, (m) => m.charAt(0).toUpperCase() + m.slice(1)));
   const hits: Hit[] = [
-    ...(verse ? [{ kind: t('Verse'), title: q.trim(), sub: 'Open in the verse panel (KJV)', to: `/study?verse=${encodeURIComponent(q.trim())}` }] : []),
+    ...(verse ? [{ kind: t('Verse'), title: q.trim(), sub: t('Open in the verse panel (KJV)'), to: `/study?verse=${encodeURIComponent(q.trim())}` }] : []),
     ...(q ? fuse.search(q, { limit: 14 }).map((r) => r.item) : NAV.flatMap((g) => g.items.map((i) => ({ kind: t('Page'), title: i.label, sub: g.group, to: i.to })))),
   ];
   const go = (h: Hit) => { nav(h.to); onClose(); };
@@ -82,8 +82,8 @@ function CommandPalette({ open, onClose }: { open: boolean; onClose: () => void 
     <AnimatePresence>
       {open && (
         <motion.div className="fixed inset-0 z-[70] bg-black/40 flex items-start justify-center pt-[10vh] gutter" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onMouseDown={onClose}>
-          <motion.div role="dialog" aria-label="Search the atlas" className="card w-full max-w-xl shadow-2xl overflow-hidden" initial={{ y: -12, scale: .98 }} animate={{ y: 0, scale: 1 }} onMouseDown={(e) => e.stopPropagation()}>
-            <input ref={input} id="palette-q" value={q} onChange={(e) => { setQ(e.target.value); setSel(0); }} placeholder="Search people, places, placeLabel, books, debates… or type a verse (John 3:16)"
+          <motion.div role="dialog" aria-label={t('Search the atlas')} className="card w-full max-w-xl shadow-2xl overflow-hidden" initial={{ y: -12, scale: .98 }} animate={{ y: 0, scale: 1 }} onMouseDown={(e) => e.stopPropagation()}>
+            <input ref={input} id="palette-q" value={q} onChange={(e) => { setQ(e.target.value); setSel(0); }} placeholder={t('Search people, places, books, debates… or type a verse (John 3:16)')}
               className="w-full bg-transparent px-4 py-3.5 text-base border-b border-line outline-none"
               onKeyDown={(e) => {
                 if (e.key === 'ArrowDown') { e.preventDefault(); setSel((s) => Math.min(s + 1, hits.length - 1)); }
@@ -100,7 +100,7 @@ function CommandPalette({ open, onClose }: { open: boolean; onClose: () => void 
                   </button>
                 </li>
               ))}
-              {!hits.length && <li className="px-4 py-6 text-muted">Nothing matches “{q}”. Try a name, a place, or a reference like Rom 8:28.</li>}
+              {!hits.length && <li className="px-4 py-6 text-muted">{t('Nothing matches “{q}”. Try a name, a place, or a reference like Rom 8:28.', { q })}</li>}
             </ul>
           </motion.div>
         </motion.div>
@@ -109,39 +109,40 @@ function CommandPalette({ open, onClose }: { open: boolean; onClose: () => void 
   );
 }
 
+const MODE_LABEL = { system: t('System'), light: t('Light'), dark: t('Dark') } as const;
 function ThemeMenu() {
   const { scheme, mode, reducedMotion, showSpeculative, chronology, set } = useUI();
   const [open, setOpen] = useState(false);
   return (
     <div className="relative">
       <button className="btn w-full justify-between" onClick={() => setOpen((o) => !o)} aria-expanded={open}>
-        <span>Appearance</span><span className="text-muted">{SCHEMES.find((s) => s.id === scheme)?.name ?? 'Parchment'}</span>
+        <span>{t('Appearance')}</span><span className="text-muted">{t(SCHEMES.find((s) => s.id === scheme)?.name ?? 'Parchment')}</span>
       </button>
       {open && (
         <div className="absolute bottom-full mb-2 left-0 w-72 card shadow-xl p-3 z-50 space-y-3">
           <div>
-            <div className="eyebrow mb-1.5">Scheme</div>
+            <div className="eyebrow mb-1.5">{t('Scheme')}</div>
             <div className="grid grid-cols-2 gap-1.5">
               {SCHEMES.map((s) => (
                 <button key={s.id} data-scheme-preview={s.id} onClick={() => set({ scheme: s.id })} className={`text-left p-2 rounded border ${scheme === s.id ? 'border-accent' : 'border-line'}`}>
-                  <div className="flex gap-1 mb-1">{s.swatch.map((c) => <span key={c} className="w-3 h-3 rounded-full border border-line" style={{ background: c }} />)}</div><div className="text-sm font-medium">{s.name}</div><div className="text-[.68rem] text-muted leading-tight">{s.note}</div>
+                  <div className="flex gap-1 mb-1">{s.swatch.map((c) => <span key={c} className="w-3 h-3 rounded-full border border-line" style={{ background: c }} />)}</div><div className="text-sm font-medium">{t(s.name)}</div><div className="text-[.68rem] text-muted leading-tight">{t(s.note)}</div>
                 </button>
               ))}
             </div>
           </div>
           <div>
-            <div className="eyebrow mb-1.5">Light / dark</div>
-            <div className="flex gap-1">{(['system', 'light', 'dark'] as const).map((m) => <button key={m} className={`btn flex-1 justify-center ${mode === m ? 'btn-primary' : ''}`} onClick={() => set({ mode: m })}>{m}</button>)}</div>
+            <div className="eyebrow mb-1.5">{t('Light / dark')}</div>
+            <div className="flex gap-1">{(['system', 'light', 'dark'] as const).map((m) => <button key={m} className={`btn flex-1 justify-center ${mode === m ? 'btn-primary' : ''}`} onClick={() => set({ mode: m })}>{MODE_LABEL[m]}</button>)}</div>
           </div>
           <div>
-            <div className="eyebrow mb-1.5">Exodus chronology</div>
+            <div className="eyebrow mb-1.5">{t('Exodus chronology')}</div>
             <div className="flex gap-1">
-              <button className={`btn flex-1 justify-center ${chronology === 'early' ? 'btn-primary' : ''}`} onClick={() => set({ chronology: 'early' })}>Early (c. 1446 BC)</button>
-              <button className={`btn flex-1 justify-center ${chronology === 'late' ? 'btn-primary' : ''}`} onClick={() => set({ chronology: 'late' })}>Late (c. 1260 BC)</button>
+              <button className={`btn flex-1 justify-center ${chronology === 'early' ? 'btn-primary' : ''}`} onClick={() => set({ chronology: 'early' })}>{t('Early (c. 1446 BC)')}</button>
+              <button className={`btn flex-1 justify-center ${chronology === 'late' ? 'btn-primary' : ''}`} onClick={() => set({ chronology: 'late' })}>{t('Late (c. 1260 BC)')}</button>
             </div>
           </div>
-          <label className="flex items-center gap-2 text-sm"><input type="checkbox" id="opt-motion" checked={reducedMotion} onChange={(e) => set({ reducedMotion: e.target.checked })} /> Reduce motion</label>
-          <label className="flex items-center gap-2 text-sm"><input type="checkbox" id="opt-spec" checked={showSpeculative} onChange={(e) => set({ showSpeculative: e.target.checked })} /> Show speculative items</label>
+          <label className="flex items-center gap-2 text-sm"><input type="checkbox" id="opt-motion" checked={reducedMotion} onChange={(e) => set({ reducedMotion: e.target.checked })} /> {t('Reduce motion')}</label>
+          <label className="flex items-center gap-2 text-sm"><input type="checkbox" id="opt-spec" checked={showSpeculative} onChange={(e) => set({ showSpeculative: e.target.checked })} /> {t('Show speculative items')}</label>
         </div>
       )}
     </div>
@@ -151,8 +152,8 @@ function ThemeMenu() {
 function EraFilter() {
   const { eraFilter, set } = useUI();
   return (
-    <select id="era-filter" aria-label="Filter everything by era" value={eraFilter ?? ''} onChange={(e) => set({ eraFilter: e.target.value || null })} className="input !py-1.5 !text-sm">
-      <option value="">All eras</option>
+    <select id="era-filter" aria-label={t('Filter everything by era')} value={eraFilter ?? ''} onChange={(e) => set({ eraFilter: e.target.value || null })} className="input !py-1.5 !text-sm">
+      <option value="">{t('All eras')}</option>
       {eras.map((e) => <option key={e.id} value={e.id}>{e.name}</option>)}
     </select>
   );
@@ -195,7 +196,7 @@ export default function Layout({ children }: { children: ReactNode }) {
   }, [loc.pathname]);
 
   const navList = (compact = false) => (
-    <nav aria-label="Main" className={compact ? 'flex flex-col items-center gap-1' : 'space-y-5'}>
+    <nav aria-label={t('Main')} className={compact ? 'flex flex-col items-center gap-1' : 'space-y-5'}>
       {NAV.map((g, gi) => (
         <div key={g.group} className={compact ? 'flex flex-col items-center gap-1 w-full' : ''}>
           {compact ? (gi > 0 && <span className="block w-6 h-px bg-line my-1.5" aria-hidden />) : <div className="eyebrow mb-1.5 px-2">{g.group}</div>}
@@ -220,22 +221,22 @@ export default function Layout({ children }: { children: ReactNode }) {
   const brand = (
     <NavLink to="/" className="flex items-center gap-2.5 min-w-0">
       {logo}
-      <span className="leading-none min-w-0"><span className="display text-[1.35rem] font-semibold tracking-tight block">Logos Atlas</span><span className="text-[.6rem] tracking-[.12em] uppercase text-muted whitespace-nowrap">Bible · People · Doctrine</span></span>
+      <span className="leading-none min-w-0"><span className="display text-[1.35rem] font-semibold tracking-tight block">Logos Atlas</span><span className="text-[.6rem] tracking-[.12em] uppercase text-muted whitespace-nowrap">{t('Bible · People · Doctrine')}</span></span>
     </NavLink>
   );
   const collapseBtn = (
-    <button className="btn !px-2.5 !py-1.5 shrink-0" onClick={() => setOpen(false)} aria-label="Hide menu" title="Hide menu ( [ )">
+    <button className="btn !px-2.5 !py-1.5 shrink-0" onClick={() => setOpen(false)} aria-label={t('Hide menu')} title={t('Hide menu ( [ )')}>
       <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden><path d="M10 3 5 8l5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
     </button>
   );
   const fullPane = (
     <>
       <div className="flex items-center justify-between gap-2 px-1">{brand}{collapseBtn}</div>
-      <button className="btn justify-between text-muted" onClick={() => setPalette(true)}><span>Search…</span><kbd className="text-xs">Ctrl K</kbd></button>
+      <button className="btn justify-between text-muted" onClick={() => setPalette(true)}><span>{t('Search…')}</span><kbd className="text-xs">Ctrl K</kbd></button>
       <EraFilter />
       <div className="flex-1">{navList()}</div>
       <ThemeMenu />
-      <p className="text-[.68rem] text-muted px-1 leading-snug">Scripture text: King James Version (public domain). Summaries are original; confidence labels mark what is text, consensus, debate or tradition. Press [ to show or hide this menu.</p>
+      <p className="text-[.68rem] text-muted px-1 leading-snug">{t('Scripture text: King James Version (public domain). Summaries are original; confidence labels mark what is text, consensus, debate or tradition. Press [ to show or hide this menu.')}</p>
     </>
   );
   const safeTop = { paddingTop: 'max(1.25rem, calc(env(safe-area-inset-top, 0px) + .75rem))', paddingLeft: 'max(12px, env(safe-area-inset-left, 0px))' };
@@ -245,11 +246,11 @@ export default function Layout({ children }: { children: ReactNode }) {
       {/* Tablet & desktop: a slim icon rail that is always there, plus the full pane when open. */}
       {!phone && !pinned && (
         <aside className="hidden md:flex flex-col items-center gap-2 [&>*]:shrink-0 sticky top-0 h-[100dvh] w-16 shrink-0 overflow-y-auto overflow-x-visible border-r border-line bg-surface py-4 z-30" style={{ paddingTop: safeTop.paddingTop, paddingLeft: 'env(safe-area-inset-left, 0px)' }}>
-          <NavLink to="/" aria-label="Home" title="Logos Atlas">{logo}</NavLink>
-          <button className="w-10 h-10 rounded-full border border-line flex items-center justify-center hover:border-accent" onClick={() => setOpen(true)} aria-label="Show menu" title="Show menu ( [ )">
+          <NavLink to="/" aria-label={t('Home')} title="Logos Atlas">{logo}</NavLink>
+          <button className="w-10 h-10 rounded-full border border-line flex items-center justify-center hover:border-accent" onClick={() => setOpen(true)} aria-label={t('Show menu')} title={t('Show menu ( [ )')}>
             <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden><path d="M6 3l5 5-5 5" fill="none" stroke="currentColor" strokeWidth="1.8" strokeLinecap="round" strokeLinejoin="round" /></svg>
           </button>
-          <button className="w-10 h-10 rounded-full hover:bg-sunk flex items-center justify-center" onClick={() => setPalette(true)} aria-label="Search" title="Search (Ctrl K)">
+          <button className="w-10 h-10 rounded-full hover:bg-sunk flex items-center justify-center" onClick={() => setPalette(true)} aria-label={t('Search')} title={t('Search (Ctrl K)')}>
             <svg width="17" height="17" viewBox="0 0 16 16" aria-hidden><circle cx="7" cy="7" r="4.6" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
           </button>
           <span className="block w-6 h-px bg-line my-1" aria-hidden />
@@ -275,10 +276,10 @@ export default function Layout({ children }: { children: ReactNode }) {
       {/* Phones: top bar + slide-in drawer from the left. */}
       <header className="md:hidden sticky top-[env(safe-area-inset-top,0px)] z-40 bg-surface border-b border-line gutter py-2.5 flex items-center justify-between gap-3">
         <div className="flex items-center gap-2.5 min-w-0">
-          <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label="Open menu">☰</button>
+          <button className="btn !px-2.5" onClick={() => setDrawer(true)} aria-label={t('Open menu')}>☰</button>
           {brand}
         </div>
-        <div className="flex items-center gap-1.5"><LangSwitch compact /><button className="btn !px-2.5" onClick={() => setPalette(true)} aria-label="Search">
+        <div className="flex items-center gap-1.5"><LangSwitch compact /><button className="btn !px-2.5" onClick={() => setPalette(true)} aria-label={t('Search')}>
           <svg width="17" height="17" viewBox="0 0 16 16" aria-hidden><circle cx="7" cy="7" r="4.6" fill="none" stroke="currentColor" strokeWidth="1.6" /><path d="m10.5 10.5 3.5 3.5" stroke="currentColor" strokeWidth="1.6" strokeLinecap="round" /></svg>
         </button></div>
       </header>
@@ -287,7 +288,7 @@ export default function Layout({ children }: { children: ReactNode }) {
           <motion.div className="fixed inset-0 z-50 bg-black/40" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setDrawer(false)}>
             <motion.aside className="absolute left-0 top-0 bottom-0 w-[min(300px,85vw)] bg-surface border-r border-line p-4 overflow-y-auto space-y-4" style={{ paddingTop: 'calc(1rem + env(safe-area-inset-top,0px))', paddingLeft: 'max(16px, env(safe-area-inset-left,0px))' }}
               initial={{ x: -300 }} animate={{ x: 0 }} exit={{ x: -300 }} transition={{ type: 'tween', duration: 0.22 }} onClick={(e) => e.stopPropagation()}>
-              <div className="flex items-center justify-between gap-2"><div className="min-w-0">{brand}</div><button className="btn !px-2.5" onClick={() => setDrawer(false)} aria-label="Close menu">✕</button></div>
+              <div className="flex items-center justify-between gap-2"><div className="min-w-0">{brand}</div><button className="btn !px-2.5" onClick={() => setDrawer(false)} aria-label={t('Close menu')}>✕</button></div>
               <EraFilter />{navList()}<ThemeMenu />
             </motion.aside>
           </motion.div>
