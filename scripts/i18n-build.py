@@ -8,9 +8,14 @@ for f in glob.glob(J('i18n', 'ta', '*.json')):
     try: tr.update(json.load(open(f)))
     except Exception as e: print('skip bad file', f, e)
 manifest = json.load(open(J('i18n', 'manifest.json')))
+import re
+IDLIKE = re.compile(r'[a-z0-9]+([-_][a-z0-9]+)*')
+src_text = {}
+for f in glob.glob(J('i18n', 'src', '*.json')): src_text.update(json.load(open(f)))
 out, done, total = {}, 0, 0
 for f, paths in manifest.items():
-    m = {p: tr[i] for p, i in paths.items() if i in tr}
+    # never overlay id-like strings (link targets such as positionId / parent values)
+    m = {p: tr[i] for p, i in paths.items() if i in tr and not IDLIKE.fullmatch(src_text.get(i, '')) and not p.split('.')[-1].endswith(('Id', 'Ids')) and p.split('.')[-1] != 'parent' and '.status.' not in '.' + p}
     total += len(paths); done += len(m)
     if m: out[f] = m
 os.makedirs(J('public', 'ta'), exist_ok=True)

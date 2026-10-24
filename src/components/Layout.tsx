@@ -7,59 +7,59 @@ import {
   people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies,
 } from '../data';
 import { parseRef } from '../lib/refs';
-import { lang, setLang } from '../i18n';
+import { lang, setLang, t, tv } from '../i18n';
 
 const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
-  { group: 'The Book', items: [
-    { to: '/', label: 'Home', glyph: '⌂' }, { to: '/guides', label: 'Study Guides', glyph: '❖' }, { to: '/people', label: 'People', glyph: '☺' }, { to: '/rosters', label: 'Rosters', glyph: '≡' },
-    { to: '/books', label: 'Books', glyph: '❦' }, { to: '/family', label: 'Family Tree', glyph: '⚘' }, { to: '/connections', label: 'Connections', glyph: '✣' },
-    { to: '/work', label: 'Work & Ministry', glyph: '⚒' },
+  { group: t('The Book'), items: [
+    { to: '/', label: t('Home'), glyph: '⌂' }, { to: '/guides', label: t('Study Guides'), glyph: '❖' }, { to: '/people', label: t('People'), glyph: '☺' }, { to: '/rosters', label: t('Rosters'), glyph: '≡' },
+    { to: '/books', label: t('Books'), glyph: '❦' }, { to: '/family', label: t('Family Tree'), glyph: '⚘' }, { to: '/connections', label: t('Connections'), glyph: '✣' },
+    { to: '/work', label: t('Work & Ministry'), glyph: '⚒' },
   ] },
-  { group: 'Reading the Bible', items: [
-    { to: '/bible-history', label: 'Bible History', glyph: '▤' }, { to: '/canon', label: 'Omitted & Lost Books', glyph: '✠' },
-    { to: '/types', label: 'Types & Shadows', glyph: '⇄' }, { to: '/symbols', label: 'Symbols & Imagery', glyph: '◈' }, { to: '/paradoxes', label: 'Paradoxes', glyph: '☯' },
-    { to: '/gods', label: 'Gods of the Nations', glyph: '♆' },
+  { group: t('Reading the Bible'), items: [
+    { to: '/bible-history', label: t('Bible History'), glyph: '▤' }, { to: '/canon', label: t('Omitted & Lost Books'), glyph: '✠' },
+    { to: '/types', label: t('Types & Shadows'), glyph: '⇄' }, { to: '/symbols', label: t('Symbols & Imagery'), glyph: '◈' }, { to: '/paradoxes', label: t('Paradoxes'), glyph: '☯' },
+    { to: '/gods', label: t('Gods of the Nations'), glyph: '♆' },
   ] },
-  { group: 'Time & Place', items: [{ to: '/timeline', label: 'Timeline', glyph: '⟿' }, { to: '/maps', label: 'Maps & Journeys', glyph: '✦' }, { to: '/lens', label: 'Who Was Alive?', glyph: '◎' }] },
-  { group: 'Gospel & Doctrine', items: [
-    { to: '/gospel-history', label: 'Gospel Through History', glyph: '✉' }, { to: '/afterlife', label: 'Afterlife & Kingdom', glyph: '☼' },
-    { to: '/debates', label: 'Debates', glyph: '⚖' }, { to: '/theologians', label: 'Theologians', glyph: '✒' }, { to: '/movements', label: 'Movements', glyph: '✧' }, { to: '/context', label: 'Cultural Context', glyph: '❂' },
+  { group: t('Time & Place'), items: [{ to: '/timeline', label: t('Timeline'), glyph: '⟿' }, { to: '/maps', label: t('Maps & Journeys'), glyph: '✦' }, { to: '/lens', label: t('Who Was Alive?'), glyph: '◎' }] },
+  { group: t('Gospel & Doctrine'), items: [
+    { to: '/gospel-history', label: t('Gospel Through History'), glyph: '✉' }, { to: '/afterlife', label: t('Afterlife & Kingdom'), glyph: '☼' },
+    { to: '/debates', label: t('Debates'), glyph: '⚖' }, { to: '/theologians', label: t('Theologians'), glyph: '✒' }, { to: '/movements', label: t('Movements'), glyph: '✧' }, { to: '/context', label: t('Cultural Context'), glyph: '❂' },
   ] },
-  { group: 'Study', items: [{ to: '/study', label: 'Study Desk', glyph: '✎' }, { to: '/quiz', label: 'Quiz & Cards', glyph: '?' }] },
+  { group: t('Study'), items: [{ to: '/study', label: t('Study Desk'), glyph: '✎' }, { to: '/quiz', label: t('Quiz & Cards'), glyph: '?' }] },
 ];
 
 type Hit = { kind: string; title: string; sub: string; to: string };
 function useSearchIndex() {
   return useMemo(() => {
     const docs: Hit[] = [
-      ...people.map((p) => ({ kind: 'Person', title: p.names.primary, sub: [p.names.aliases.join(', '), p.roles.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/people/${p.id}` })),
-      ...places.map((p) => ({ kind: 'Place', title: placeLabel(p), sub: p.names.map((n) => n.name).join(' / '), to: `/maps?place=${p.id}` })),
-      ...books.map((b) => ({ kind: 'Book', title: b.name, sub: b.genre, to: `/books/${b.id}` })),
-      ...allDebates.map((d) => ({ kind: d.category === 'movement' ? 'Movement' : 'Debate', title: d.title, sub: d.positions.map((p) => p.name).join(' · '), to: d.category === 'movement' ? `/movements/${d.id}` : `/debates/${d.id}` })),
-      ...allDebates.flatMap((d) => d.positions.map((p) => ({ kind: 'Position', title: p.name, sub: d.title, to: `/debates/${d.id}?pos=${p.id}` }))),
-      ...contextItems.map((c) => ({ kind: 'Context', title: c.title, sub: c.category, to: `/context/${c.id}` })),
-      ...occupations.map((o) => ({ kind: o.kind === 'trade' ? 'Occupation' : 'Ministry', title: o.name, sub: o.summary.slice(0, 80), to: `/work#${o.id}` })),
-      ...journeys.map((j) => ({ kind: 'Journey', title: j.title, sub: j.variant ?? j.summary.slice(0, 80), to: `/maps?journey=${j.id}` })),
-      ...afterlifeTerms.map((t) => ({ kind: 'Term', title: t.term, sub: t.original, to: `/afterlife#${t.id}` })),
-      ...gospelNodes.map((g) => ({ kind: 'Gospel history', title: g.title, sub: `${g.year} · ${g.place}`, to: `/gospel-history?node=${g.id}` })),
-      ...eras.map((e) => ({ kind: 'Era', title: e.name, sub: e.summary.slice(0, 80), to: `/timeline?era=${e.id}` })),
-      ...guides.map((g) => ({ kind: 'Study guide', title: g.title, sub: g.question, to: `/guides/${g.id}` })),
-      ...figures.map((f) => ({ kind: 'Theologian', title: f.name, sub: `${f.lived} · ${f.profession}`, to: '/theologians' })),
-      ...canonBooks.map((b) => ({ kind: 'Omitted book', title: b.title, sub: b.altTitles.join(', ') || b.category, to: `/canon?book=${b.id}` })),
-      ...paradoxes.map((p) => ({ kind: 'Paradox', title: p.title, sub: p.takeaway, to: `/paradoxes?p=${p.id}` })),
-      ...types.map((t) => ({ kind: 'Type', title: `${t.type.name} → ${t.antitype.name}`, sub: t.title, to: `/types?t=${t.id}` })),
-      ...symbols.map((s) => ({ kind: 'Symbol', title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
-      ...bibleHistory.variants.map((v) => ({ kind: 'Disputed passage', title: v.title, sub: v.ref, to: '/bible-history' })),
-      ...gods.map((g) => ({ kind: 'God', title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
-      ...godsExtra.showdowns.map((s) => ({ kind: 'Showdown', title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
-      ...deepStudies.flatMap((d) => [{ kind: 'Deep study', title: d.title, sub: `${d.chapters.length} chapters, chapter by chapter`, to: `/books/${d.id}/deep` },
-        ...d.chapters.map((c) => ({ kind: 'Chapter study', title: `${books.find((b) => b.id === d.id)?.name ?? d.id} ${c.n}: ${c.title}`, sub: c.summary.slice(0, 80), to: `/books/${d.id}/deep?ch=${c.n}` }))]),
-      ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: 'Misreading', title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
-      { kind: 'Page', title: 'When the books were written', sub: 'Timeline of all 66 books', to: '/books?tab=when' },
-      { kind: 'Page', title: 'Where the books were written', sub: 'Map of authors and first readers', to: '/books?tab=where' },
-      { kind: 'Page', title: 'The divine council', sub: 'Psalm 82, Deuteronomy 32:8, sons of God', to: '/gods?tab=council' },
-      ...studyPaths.map((s) => ({ kind: 'Study path', title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
-      ...NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to }))),
+      ...people.map((p) => ({ kind: t('Person'), title: p.names.primary, sub: [p.names.aliases.join(', '), p.roles.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/people/${p.id}` })),
+      ...places.map((p) => ({ kind: t('Place'), title: placeLabel(p), sub: p.names.map((n) => n.name).join(' / '), to: `/maps?place=${p.id}` })),
+      ...books.map((b) => ({ kind: t('Book'), title: b.name, sub: b.genre, to: `/books/${b.id}` })),
+      ...allDebates.map((d) => ({ kind: d.category === 'movement' ? t('Movement') : t('Debate'), title: d.title, sub: d.positions.map((p) => p.name).join(' · '), to: d.category === 'movement' ? `/movements/${d.id}` : `/debates/${d.id}` })),
+      ...allDebates.flatMap((d) => d.positions.map((p) => ({ kind: t('Position'), title: p.name, sub: d.title, to: `/debates/${d.id}?pos=${p.id}` }))),
+      ...contextItems.map((c) => ({ kind: t('Context'), title: c.title, sub: c.category, to: `/context/${c.id}` })),
+      ...occupations.map((o) => ({ kind: o.kind === 'trade' ? t('Occupation') : t('Ministry'), title: o.name, sub: o.summary.slice(0, 80), to: `/work#${o.id}` })),
+      ...journeys.map((j) => ({ kind: t('Journey'), title: j.title, sub: j.variant ?? j.summary.slice(0, 80), to: `/maps?journey=${j.id}` })),
+      ...afterlifeTerms.map((t) => ({ kind: t('Term'), title: t.term, sub: t.original, to: `/afterlife#${t.id}` })),
+      ...gospelNodes.map((g) => ({ kind: t('Gospel history'), title: g.title, sub: `${g.year} · ${g.place}`, to: `/gospel-history?node=${g.id}` })),
+      ...eras.map((e) => ({ kind: t('Era'), title: e.name, sub: e.summary.slice(0, 80), to: `/timeline?era=${e.id}` })),
+      ...guides.map((g) => ({ kind: t('Study guide'), title: g.title, sub: g.question, to: `/guides/${g.id}` })),
+      ...figures.map((f) => ({ kind: t('Theologian'), title: f.name, sub: `${f.lived} · ${f.profession}`, to: '/theologians' })),
+      ...canonBooks.map((b) => ({ kind: t('Omitted book'), title: b.title, sub: b.altTitles.join(', ') || b.category, to: `/canon?book=${b.id}` })),
+      ...paradoxes.map((p) => ({ kind: t('Paradox'), title: p.title, sub: p.takeaway, to: `/paradoxes?p=${p.id}` })),
+      ...types.map((t) => ({ kind: t('Type'), title: `${t.type.name} → ${t.antitype.name}`, sub: t.title, to: `/types?t=${t.id}` })),
+      ...symbols.map((s) => ({ kind: t('Symbol'), title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
+      ...bibleHistory.variants.map((v) => ({ kind: t('Disputed passage'), title: v.title, sub: v.ref, to: '/bible-history' })),
+      ...gods.map((g) => ({ kind: t('God'), title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
+      ...godsExtra.showdowns.map((s) => ({ kind: t('Showdown'), title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
+      ...deepStudies.flatMap((d) => [{ kind: t('Deep study'), title: d.title, sub: `${d.chapters.length} chapters, chapter by chapter`, to: `/books/${d.id}/deep` },
+        ...d.chapters.map((c) => ({ kind: t('Chapter study'), title: `${books.find((b) => b.id === d.id)?.name ?? d.id} ${c.n}: ${c.title}`, sub: c.summary.slice(0, 80), to: `/books/${d.id}/deep?ch=${c.n}` }))]),
+      ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
+      { kind: t('Page'), title: 'When the books were written', sub: 'Timeline of all 66 books', to: '/books?tab=when' },
+      { kind: t('Page'), title: 'Where the books were written', sub: 'Map of authors and first readers', to: '/books?tab=where' },
+      { kind: t('Page'), title: 'The divine council', sub: 'Psalm 82, Deuteronomy 32:8, sons of God', to: '/gods?tab=council' },
+      ...studyPaths.map((s) => ({ kind: t('Study path'), title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
+      ...NAV.flatMap((g) => g.items.map((i) => ({ kind: t('Page'), title: i.label, sub: g.group, to: i.to }))),
     ];
     return new Fuse(docs, { keys: [{ name: 'title', weight: 3 }, 'sub'], threshold: 0.32, ignoreLocation: true });
   }, []);
@@ -74,8 +74,8 @@ function CommandPalette({ open, onClose }: { open: boolean; onClose: () => void 
   useEffect(() => { if (open) { setQ(''); setSel(0); setTimeout(() => input.current?.focus(), 10); } }, [open]);
   const verse = parseRef(q.trim().replace(/^(\w+)\s/, (m) => m.charAt(0).toUpperCase() + m.slice(1)));
   const hits: Hit[] = [
-    ...(verse ? [{ kind: 'Verse', title: q.trim(), sub: 'Open in the verse panel (KJV)', to: `/study?verse=${encodeURIComponent(q.trim())}` }] : []),
-    ...(q ? fuse.search(q, { limit: 14 }).map((r) => r.item) : NAV.flatMap((g) => g.items.map((i) => ({ kind: 'Page', title: i.label, sub: g.group, to: i.to })))),
+    ...(verse ? [{ kind: t('Verse'), title: q.trim(), sub: 'Open in the verse panel (KJV)', to: `/study?verse=${encodeURIComponent(q.trim())}` }] : []),
+    ...(q ? fuse.search(q, { limit: 14 }).map((r) => r.item) : NAV.flatMap((g) => g.items.map((i) => ({ kind: t('Page'), title: i.label, sub: g.group, to: i.to })))),
   ];
   const go = (h: Hit) => { nav(h.to); onClose(); };
   return (
