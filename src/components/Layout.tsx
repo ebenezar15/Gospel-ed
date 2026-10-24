@@ -50,7 +50,7 @@ function useSearchIndex() {
       ...types.map((ty) => ({ kind: t('Type'), title: `${ty.type.name} → ${ty.antitype.name}`, sub: ty.title, to: `/types?t=${ty.id}` })),
       ...symbols.map((s) => ({ kind: t('Symbol'), title: s.name, sub: s.meanings.slice(0, 3).map((m) => m.meaning).join(', '), to: `/symbols?s=${s.id}` })),
       ...bibleHistory.variants.map((v) => ({ kind: t('Disputed passage'), title: v.title, sub: v.ref, to: '/bible-history' })),
-      ...gods.map((g) => ({ kind: t('God'), title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
+      ...gods.map((g) => ({ kind: t('Deity'), title: g.name, sub: [g.otherNames.join(', '), g.domains.slice(0, 3).join(', ')].filter(Boolean).join(' · '), to: `/gods?tab=gods&g=${g.id}` })),
       ...godsExtra.showdowns.map((s) => ({ kind: t('Showdown'), title: s.title, sub: s.place, to: '/gods?tab=showdowns' })),
       ...deepStudies.flatMap((d) => [{ kind: t('Deep study'), title: d.title, sub: t('{n} chapters, chapter by chapter', { n: d.chapters.length }), to: `/books/${d.id}/deep` },
         ...d.chapters.map((c) => ({ kind: t('Chapter study'), title: `${books.find((b) => b.id === d.id)?.name ?? d.id} ${c.n}: ${c.title}`, sub: c.summary.slice(0, 80), to: `/books/${d.id}/deep?ch=${c.n}` }))]),

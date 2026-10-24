@@ -12,7 +12,7 @@ const TRAD: { key: keyof CanonBookT['status']; label: string }[] = [
 ];
 const STATUS: Record<string, { label: string; short: string; c: string; o: number }> = {
   canon: { label: t('Scripture'), short: t('Scripture'), c: 'good', o: 0.85 }, deuterocanon: { label: t('Deuterocanon (scripture)'), short: t('Deuterocanon'), c: 'good', o: 0.5 },
-  appendix: { label: t('Appendix'), short: t('Appendix'), c: 'warn', o: 0.45 }, 'read-not-canon': { label: t('Read, not scripture'), short: t('Read'), c: 'warn', o: 0.25 },
+  appendix: { label: t('Appendix'), short: t('Appendix'), c: 'warn', o: 0.45 }, 'read-not-canon': { label: t('Read, not scripture'), short: t('Read only'), c: 'warn', o: 0.25 },
   rejected: { label: t('Rejected'), short: t('Rejected'), c: 'bad', o: 0.22 }, lost: { label: t('Lost'), short: t('Lost'), c: 'muted', o: 0.25 }, 'n/a': { label: t('Not applicable'), short: t('N/A'), c: 'border', o: 0.25 },
 };
 const CAT: Record<CanonBookT['category'], string> = {
