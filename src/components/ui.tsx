@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { parseRef } from '../lib/refs';
 import { loadKJV, versesFor, refLabel, refShort } from '../lib/kjv';
-import { isTa, t, loadTamilBook, TA_ABBR } from '../i18n';
+import { isTa, t, tv, loadTamilBook, TA_ABBR } from '../i18n';
 import { BOOK_INDEX } from '../lib/canon';
 import { personById, placeName, personName } from '../data';
 import type { ConfidenceT, DateValueT, SourceT } from '../schemas';
@@ -13,13 +13,13 @@ export const fmtYear = (y: number) => (isTa ? (y < 0 ? `கி.மு. ${-y}` : 
 export function fmtDate(d?: DateValueT) { if (!d) return '—'; return `${d.circa ? (isTa ? 'சு. ' : 'c. ') : ''}${fmtYear(d.year)}`; }
 
 const CONF_LABEL: Record<ConfidenceT, string> = {
-  biblical: 'Biblical', 'scholarly-consensus': 'Scholarly consensus', debated: 'Debated', tradition: 'Tradition', speculative: 'Speculative', 'needs-verification': 'Needs verification',
+  biblical: t('Biblical'), 'scholarly-consensus': t('Scholarly consensus'), debated: t('Debated'), tradition: t('Tradition'), speculative: t('Speculative'), 'needs-verification': t('Needs verification'),
 };
 const CONF_HELP: Record<ConfidenceT, string> = {
-  biblical: 'Stated in the biblical text', 'scholarly-consensus': 'Broadly agreed by scholars', debated: 'Scholars disagree; alternatives shown', tradition: 'Extra-biblical church tradition', speculative: 'Speculative reconstruction', 'needs-verification': 'Citation not yet verified',
+  biblical: t('Stated in the biblical text'), 'scholarly-consensus': t('Broadly agreed by scholars'), debated: t('Scholars disagree; alternatives shown'), tradition: t('Extra-biblical church tradition'), speculative: t('Speculative reconstruction'), 'needs-verification': t('Citation not yet verified'),
 };
 export function Conf({ c, small }: { c: ConfidenceT; small?: boolean }) {
-  return <span title={CONF_HELP[c]} className={`chip conf conf-${c} ${small ? '!text-[.65rem] !py-0' : ''}`}>{CONF_LABEL[c]}</span>;
+  return <span title={CONF_HELP[c]} className={`chip conf conf-${c} ${small ? '!text-[.65rem] !py-0' : ''}`}>{CONF_LABEL[c] ?? tv(c)}</span>;
 }
 export function DateWithConf({ d, label }: { d?: DateValueT; label?: string }) {
   const chronology = useUI((s) => s.chronology);
@@ -28,9 +28,9 @@ export function DateWithConf({ d, label }: { d?: DateValueT; label?: string }) {
   return (
     <span className="inline-flex flex-wrap items-center gap-1.5">
       {label && <span className="text-muted text-sm">{label}</span>}
-      <span className="tabular font-medium">{alt ? `c. ${fmtYear(alt.year)}` : fmtDate(d)}</span>
+      <span className="tabular font-medium">{alt ? `${isTa ? 'சு. ' : 'c. '}${fmtYear(alt.year)}` : fmtDate(d)}</span>
       <Conf c={d.confidence} small />
-      {d.alternatives?.length ? <span className="text-xs text-muted">alt: {d.alternatives.map((a) => `${a.label} ${fmtYear(a.year)}`).join(' · ')}</span> : null}
+      {d.alternatives?.length ? <span className="text-xs text-muted">{t('alt:')} {d.alternatives.map((a) => `${tv(a.label)} ${fmtYear(a.year)}`).join(' · ')}</span> : null}
     </span>
   );
 }
@@ -55,7 +55,7 @@ export function Ref({ r }: { r: string }) {
     const h = (e: PointerEvent) => { if (box.current && !box.current.contains(e.target as Node)) setOpen(false); };
     document.addEventListener('pointerdown', h); return () => document.removeEventListener('pointerdown', h);
   }, [open]);
-  if (!parsed) return <span className="chip text-bad" title="Unrecognised reference">{r}</span>;
+  if (!parsed) return <span className="chip text-bad" title={t('Unrecognised reference')}>{r}</span>;
   return (
     <span ref={box} className="relative inline-block" onPointerEnter={(e) => e.pointerType === 'mouse' && setOpen(true)} onPointerLeave={(e) => e.pointerType === 'mouse' && setOpen(false)}>
       <button type="button" onClick={() => setOpen((o) => !o)} className="chip hover:border-accent font-serif !text-[.78rem]" aria-expanded={open}>
@@ -98,8 +98,8 @@ export function PlaceLink({ id }: { id: string }) {
 export function SourceLine({ s }: { s: SourceT }) {
   return (
     <span className="text-sm">
-      {s.author}, <i>{s.title}</i>{s.locator ? ` ${s.locator}` : ''}{s.year ? ` (${s.year < 0 ? `${-s.year} BC` : s.year})` : ''}
-      {s.publicDomain && <span className="chip ml-1 !text-[.65rem]">public domain</span>}
+      {s.author}, <i>{s.title}</i>{s.locator ? ` ${s.locator}` : ''}{s.year ? ` (${s.year < 0 ? fmtYear(s.year) : s.year})` : ''}
+      {s.publicDomain && <span className="chip ml-1 !text-[.65rem]">{t('public domain')}</span>}
       {s.confidence && s.confidence !== 'biblical' && <span className="ml-1"><Conf c={s.confidence} small /></span>}
     </span>
   );
@@ -160,5 +160,5 @@ export function SkeletonCards({ n = 6 }: { n?: number }) {
 export function Bookmark({ path }: { path: string }) {
   const { bookmarks, toggleBookmark } = useUI();
   const on = bookmarks.includes(path);
-  return <button className="btn" onClick={() => toggleBookmark(path)} aria-pressed={on}>{on ? '★ Saved' : '☆ Save'}</button>;
+  return <button className="btn" onClick={() => toggleBookmark(path)} aria-pressed={on}>{on ? t('★ Saved') : t('☆ Save')}</button>;
 }
