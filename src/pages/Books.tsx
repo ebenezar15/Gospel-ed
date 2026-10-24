@@ -181,7 +181,7 @@ function WhereWritten() {
       <div className="grid gap-4 lg:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)]">
         <BibleMap places={places} routes={routes} height={520} label={t('Where the books were written')} onPlace={(k) => { const id = list.find((s) => s.writtenFrom.coords!.join(',') === k)?.id; if (id) setSel(id); }} />
         <div className="space-y-2 max-h-[560px] overflow-y-auto pr-1">
-          {cur && <div className="card p-4 border-accent"><Link to={`/books/${cur.id}`} className="display text-2xl hover:text-accent">{books.find((b) => b.id === cur.id)?.name} →</Link><p className="text-sm mt-1"><b>{t('From')}</b> {cur.writtenFrom.place} · <b>{t('to')}</b> {cur.writtenTo.who}</p><p className="font-serif mt-1.5">{cur.writtenTo.situation}</p></div>}
+          {cur && <div className="card p-4 border-accent"><Link to={`/books/${cur.id}`} className="display text-2xl hover:text-accent">{books.find((b) => b.id === cur.id)?.name} →</Link><p className="text-sm mt-1"><b>{t('Written from')}:</b> {cur.writtenFrom.place} · <b>{t('Written to')}:</b> {cur.writtenTo.who}</p><p className="font-serif mt-1.5">{cur.writtenTo.situation}</p></div>}
           <div className="flex flex-wrap gap-1.5">{list.map((s) => <button key={s.id} onClick={() => setSel(s.id)} className={`chip ${sel === s.id ? '!border-accent text-accent' : ''}`}>{books.find((b) => b.id === s.id)?.name}</button>)}</div>
         </div>
       </div>

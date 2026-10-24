@@ -9,7 +9,17 @@ for f in glob.glob(J('i18n', 'ta', '*.json')):
     except Exception as e: print('skip bad file', f, e)
 manifest = json.load(open(J('i18n', 'manifest.json')))
 import re
-IDLIKE = re.compile(r'[a-z0-9]+([-_][a-z0-9]+)*')
+# id-like = a real id somewhere in the content, or a slug with a hyphen/underscore/digit (e.g. "christus-victor", "es-c1")
+SLUG = re.compile(r'[a-z0-9]*([-_][a-z0-9]+)+|[a-z]+\d+[a-z0-9]*')
+IDS = set()
+def collect(v, k=None):
+    if isinstance(v, dict): [collect(x, kk) for kk, x in v.items()]
+    elif isinstance(v, list): [collect(x, k) for x in v]
+    elif isinstance(v, str) and k == 'id': IDS.add(v)
+for cf in glob.glob(J('content', '*.json')): collect(json.load(open(cf)))
+class _Id:
+    def fullmatch(self, t): return t in IDS or SLUG.fullmatch(t)
+IDLIKE = _Id()
 src_text = {}
 for f in glob.glob(J('i18n', 'src', '*.json')): src_text.update(json.load(open(f)))
 out, done, total = {}, 0, 0

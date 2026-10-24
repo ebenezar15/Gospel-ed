@@ -3,6 +3,7 @@ import { Link, useSearchParams } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { alive, empires, rosters, timeline, eras, lifespan } from '../data';
 import { PageHeader, fmtYear, Conf, Empty } from '../components/ui';
+import { t, tv } from '../i18n';
 
 export default function Lens() {
   const [sp, setSp] = useSearchParams();
@@ -13,23 +14,24 @@ export default function Lens() {
   const rulers = rosters.filter((r) => /king|herod|roman|high-priest|judge/i.test(r.id)).map((r) => ({ r, on: r.entries.filter((e) => e.start !== undefined && e.end !== undefined && e.start! <= year && year <= e.end!) })).filter((x) => x.on.length);
   const ev = timeline.filter((e) => Math.abs(e.date.year - year) <= 15);
   const emp = empires.filter((e) => e.start <= year && year <= e.end);
+  const titleParts = t('Who was alive in {year}?').split('{year}');
   const jumps = [-1446, -1010, -853, -722, -701, -586, -538, -445, -167, -4, 30, 49, 70, 325];
   return (
     <div>
-      <PageHeader eyebrow="Synchronism lens" title={<>Who was alive in <span className="rubric tabular">{fmtYear(year)}</span>?</>}>
-        Pick any year to see the people, rulers, empires and events that overlapped. Lifespans are approximate; open a profile to see how sure each date is.
+      <PageHeader eyebrow={t('Synchronism lens')} title={<>{titleParts[0]}<span className="rubric tabular">{fmtYear(year)}</span>{titleParts[1]}</>}>
+        {t('Pick any year to see the people, rulers, empires and events that overlapped. Lifespans are approximate; open a profile to see how sure each date is.')}
       </PageHeader>
       <div className="card p-4 mb-6">
-        <input id="lens-year" aria-label="Year" type="range" min={-2200} max={120} value={year} onChange={(e) => setYear(+e.target.value)} className="w-full accent-[rgb(var(--accent-2))]" />
+        <input id="lens-year" aria-label={t('Year')} type="range" min={-2200} max={120} value={year} onChange={(e) => setYear(+e.target.value)} className="w-full accent-[rgb(var(--accent-2))]" />
         <div className="flex flex-wrap gap-1.5 mt-2 items-center">
-          <span className="eyebrow mr-1">Jump to</span>
+          <span className="eyebrow mr-1">{t('Jump to')}</span>
           {jumps.map((y) => <button key={y} className={`chip hover:border-accent tabular ${y === year ? '!border-accent2' : ''}`} onClick={() => setYear(y)}>{fmtYear(y)}</button>)}
           <span className="text-sm text-muted ml-auto">{era?.name}</span>
         </div>
       </div>
       <div className="grid gap-6 lg:grid-cols-[minmax(0,1.4fr)_minmax(0,1fr)]">
         <section>
-          <h2 className="text-2xl rubric mb-3">People ({living.length})</h2>
+          <h2 className="text-2xl rubric mb-3">{t('People ({n})', { n: living.length })}</h2>
           {living.length ? (
             <div className="space-y-2">
               {living.map((p) => {
@@ -45,14 +47,14 @@ export default function Lens() {
                 );
               })}
             </div>
-          ) : <Empty>No dated lives cross {fmtYear(year)}. Try one of the jump years.</Empty>}
+          ) : <Empty>{t('No dated lives cross {year}. Try one of the jump years.', { year: fmtYear(year) })}</Empty>}
         </section>
         <section className="space-y-5">
           {rulers.map(({ r, on }) => (
-            <div key={r.id}><h3 className="eyebrow mb-1.5">{r.title}</h3>{on.map((e) => <div key={e.name} className="card p-2.5 mb-1.5 flex justify-between gap-2"><span>{e.personId ? <Link className="hover:text-accent font-medium" to={`/people/${e.personId}`}>{e.name}</Link> : <span className="font-medium">{e.name}</span>}</span><span className="text-xs text-muted tabular">{fmtYear(e.start!)}–{fmtYear(e.end!)}{e.verdict && e.verdict !== 'n/a' ? ` · ${e.verdict}` : ''}</span></div>)}</div>
+            <div key={r.id}><h3 className="eyebrow mb-1.5">{r.title}</h3>{on.map((e) => <div key={e.name} className="card p-2.5 mb-1.5 flex justify-between gap-2"><span>{e.personId ? <Link className="hover:text-accent font-medium" to={`/people/${e.personId}`}>{e.name}</Link> : <span className="font-medium">{e.name}</span>}</span><span className="text-xs text-muted tabular">{fmtYear(e.start!)}–{fmtYear(e.end!)}{e.verdict && e.verdict !== 'n/a' ? ` · ${tv(e.verdict)}` : ''}</span></div>)}</div>
           ))}
-          <div><h3 className="eyebrow mb-1.5">Empires</h3>{emp.length ? emp.map((e) => <div key={e.id} className="text-sm mb-1"><span className="font-medium">{e.name}</span> <span className="text-muted tabular">{fmtYear(e.start)}–{fmtYear(e.end)}</span></div>) : <p className="text-sm text-muted">None in data.</p>}</div>
-          <div><h3 className="eyebrow mb-1.5">Events within 15 years</h3>{ev.length ? ev.map((e) => <div key={e.id} className="text-sm mb-1.5"><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span>{e.title} <Conf c={e.date.confidence} small /></div>) : <p className="text-sm text-muted">None recorded.</p>}</div>
+          <div><h3 className="eyebrow mb-1.5">{t('Empires')}</h3>{emp.length ? emp.map((e) => <div key={e.id} className="text-sm mb-1"><span className="font-medium">{e.name}</span> <span className="text-muted tabular">{fmtYear(e.start)}–{fmtYear(e.end)}</span></div>) : <p className="text-sm text-muted">{t('None in data.')}</p>}</div>
+          <div><h3 className="eyebrow mb-1.5">{t('Events within 15 years')}</h3>{ev.length ? ev.map((e) => <div key={e.id} className="text-sm mb-1.5"><span className="tabular text-muted mr-1.5">{fmtYear(e.date.year)}</span>{e.title} <Conf c={e.date.confidence} small /></div>) : <p className="text-sm text-muted">{t('None recorded.')}</p>}</div>
         </section>
       </div>
     </div>
