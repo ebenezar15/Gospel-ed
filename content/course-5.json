@@ -1,0 +1,1976 @@
+{
+ "unit": {
+  "id": "u5",
+  "order": 5,
+  "title": "From Reading to Living",
+  "summary": "Why one Bible produces many churches and what still unites them; how our assumptions about God and humanity flow all the way into how we live; three ways of handling Scripture (biblicist, liberal, and the Christ-centred contextual reading); and a step-by-step method that brings the whole course together."
+ },
+ "lessons": [
+  {
+   "id": "denominations",
+   "n": 22,
+   "title": "One Truth, So Many Denominations?",
+   "question": "If there is one Truth and one Lord, why are there so many churches and doctrines? Who is right, and what actually unites us?",
+   "bigIdea": "Most Christian divisions grew from real history (language, politics, power and honest disagreement over hard texts), not from a Bible that says nothing clearly. The Truth is first a Person, Jesus (John 14:6); the churches agree on far more about him than they disagree on, and his prayer for unity (John 17) is grounded in our shared union with him, not in uniformity.",
+   "minutes": 40,
+   "sections": [
+    {
+     "heading": "What is a doctrine?",
+     "body": "A doctrine is simply a teaching. The New Testament word is *didaskalia*, “teaching” or “instruction”. Paul tells Timothy to watch his life and his doctrine closely, because both matter (1 Tim 4:16). From the start, the church “continued steadfastly in the apostles’ doctrine” (Acts 2:42), meaning the shared teaching about Jesus that the apostles passed on.\n\nOver time, Christians learned to sort teachings by weight. A *dogma* is a teaching a church regards as binding for all its members (for example, that God is Trinity). A *doctrine* may be held firmly by one tradition but not by another (for example, how baptism should be done). An *opinion* is a personal view that should never divide a church (for example, the exact order of end-time events). The American Baptist theologian Albert Mohler called this sorting “theological triage”, borrowing the word from emergency medicine: first-order issues define the faith, second-order issues usually shape which church you join, and third-order issues should never separate believers.\n\nThis lesson uses that simple idea throughout. Much confusion about “one Truth, so many denominations” disappears once we ask: which level of teaching are these churches actually divided over?",
+     "refs": [
+      "1 Tim 4:16",
+      "Acts 2:42",
+      "Titus 2:1",
+      "John 14:6"
+     ]
+    },
+    {
+     "heading": "How the divisions arose",
+     "body": "Division is not new. Paul and Barnabas parted ways over a person (Acts 15:36-40). Corinth split into fan clubs: “I am of Paul”, “I am of Apollos” (1 Cor 1:10-13). The early church fought over who Jesus is, and the great councils (Nicaea 325, Constantinople 381, Ephesus 431, Chalcedon 451) drew lines that still exist. After 451, the churches we now call Oriental Orthodox (Coptic, Ethiopian, Armenian, Syriac) did not accept the wording of Chalcedon, partly over theology and partly over language and politics.\n\nIn 1054 the Latin-speaking West and the Greek-speaking East exchanged excommunications. The issues included the authority of the bishop of Rome and the Western addition of the word *filioque* (“and the Son”) to the Nicene Creed, but centuries of language, culture and empire lay underneath. Those excommunications were formally lifted in 1965, though the churches remain separate.\n\nThe Western Reformation began in 1517. Lutherans and the Reformed (Zwingli, Calvin) both stressed the authority of Scripture and salvation by grace through faith, but disagreed about the Lord’s Supper. In 1525 in Zurich the first Anabaptists baptised adults who confessed faith, and many were persecuted by Catholics and Protestants alike. In 1534 the Church of England separated from Rome under Henry VIII, for political as much as theological reasons. Baptists emerged from English Separatists in 1609. Methodism began as a renewal movement inside the Church of England under John and Charles Wesley and became separate churches in America (1784) and Britain (after Wesley’s death in 1791). The Pentecostal movement grew from revivals at Topeka (1901) and Azusa Street, Los Angeles (1906). Since then thousands of independent, non-denominational and African, Asian and Latin American churches have formed.\n\nNotice the pattern: some splits were about doctrine, but many were about language, nation, personality, or a renewal movement that its parent church could not hold.",
+     "refs": [
+      "Acts 15:36-40",
+      "1 Cor 1:10-13",
+      "Gal 2:11-14"
+     ]
+    },
+    {
+     "heading": "Why interpretation divides",
+     "body": "Peter admitted that some things in Paul are “hard to understand” (2 Pet 3:16), and Paul said we now see “through a glass, darkly” (1 Cor 13:12). Sincere readers do disagree. The sociologist Christian Smith calls this “pervasive interpretive pluralism”: the same Bible, read by sincere and intelligent people, produces many different answers on many topics.\n\nThe deeper causes are the ones this course has studied. Different presuppositions (Lesson 10). Different views of how authority works: Scripture alone, or Scripture within the living tradition of the church (Lesson 9). Different handling of genre and literal language (Lesson 11). Different weight given to single verses (Lesson 14). Different starting points for the whole story: for example, whether God’s covenant with Israel and the church are one people or two (dispensational and covenant theology).\n\nBut it is also fair to say that interpretation is not the only cause. Pride, power, politics and fear have split churches over issues that Scripture itself treats as minor. Paul’s rebuke in Corinth was not “you read the text differently” but “you are acting like mere humans” (1 Cor 3:3-4).",
+     "refs": [
+      "2 Pet 3:16",
+      "1 Cor 13:12",
+      "1 Cor 3:3-4",
+      "Rom 14:1-5"
+     ]
+    },
+    {
+     "heading": "In essentials unity",
+     "body": "A famous saying runs: “In essentials unity, in non-essentials liberty, in all things charity.” It is often credited to Augustine, but no one has found it in his writings. The earliest known source is a 1626 Latin peace tract by the Lutheran pastor Peter Meiderlin, who wrote under the pen name Rupertus Meldenius during the bitter quarrels that led into the Thirty Years’ War. Richard Baxter and others made it popular in English.\n\nWhat counts as essential? Most churches point to the ancient creeds. The Apostles’ Creed (which grew from an early Roman baptismal creed), the Nicene Creed (325, expanded in 381) and the Definition of Chalcedon (451) summarise the core: one God, Father, Son and Holy Spirit; Jesus truly God and truly human; his virgin birth, death, resurrection, ascension and return to judge; the forgiveness of sins and the life of the world to come. Paul himself passes on a short creed of “first importance”: Christ died for our sins, was buried, and rose on the third day (1 Cor 15:3-4).\n\nAround the year 434, Vincent of Lérins proposed a test for the core faith: what has been believed everywhere, always, and by all. Not every tradition draws the line in the same place. For Catholics and Orthodox, the sacraments and the church’s own teaching office belong much closer to the centre than most Protestants would place them. Honesty means admitting that even the list of “essentials” is partly disputed, while the creedal core is shared by the vast majority of Christians in the world.",
+     "refs": [
+      "1 Cor 15:3-4",
+      "Eph 4:4-6",
+      "Rom 14:1-5",
+      "1 Tim 3:16"
+     ]
+    },
+    {
+     "heading": "John 17: what kind of unity?",
+     "body": "On the night before he died, Jesus prayed for all future believers “that they all may be one; as thou, Father, art in me, and I in thee, that they also may be one in us: that the world may believe” (John 17:21). The model of this unity is the relationship of Father and Son, and its source is our being “in us”, that is, in God. It is unity by union, not by uniformity. Paul says the same: we are to keep the unity the Spirit has already made (Eph 4:3), because there is one body, one Spirit, one Lord, one faith, one baptism (Eph 4:4-6).\n\nChristians disagree about what this unity should look like. Catholics teach that it is fully expressed in visible communion with the bishops in union with the bishop of Rome (Vatican II’s *Unitatis Redintegratio*, 1964, also calls other Christians “brothers” and “separated brethren”). The Orthodox see the one Church as the communion that has kept the apostolic faith and the Eucharist unbroken. Many Protestants speak of the “invisible church”: all true believers, wherever they worship. Pentecostals and charismatics often stress the shared experience of the Spirit across church lines.\n\nThe last century saw real movement: the World Council of Churches (1948), the Lausanne Movement (1974), and the 1999 Joint Declaration on the Doctrine of Justification between Lutherans and Catholics, which said that the sixteenth-century condemnations on that topic no longer apply to the partner’s teaching as now presented.",
+     "refs": [
+      "John 17:20-23",
+      "Eph 4:3-6",
+      "1 Cor 12:12-13",
+      "Gal 3:28"
+     ]
+    },
+    {
+     "heading": "What unites",
+     "body": "If the Truth is first a Person (John 14:6), then unity is first a shared belonging to him. “No man can say that Jesus is the Lord, but by the Holy Ghost” (1 Cor 12:3). John’s test is confession of Jesus come in the flesh and love for one another (1 John 4:2; 1 John 4:7-8). Jesus said the world would recognise his disciples by their love (John 13:35), not by their uniform opinions.\n\nThis connects with the lens of this whole course. If Jesus is the centre, then the closer churches move to him, the closer they move to each other, like spokes moving toward the hub of a wheel. That picture does not erase real disagreements; it puts them in proportion. John Wesley put it simply in his sermon “Catholic Spirit”: even when we cannot think alike, we can love alike.",
+     "refs": [
+      "1 Cor 12:3",
+      "1 John 4:2",
+      "John 13:35",
+      "Col 1:17-18"
+     ]
+    }
+   ],
+   "visuals": [
+    {
+     "kind": "timeline",
+     "title": "How the church family branched",
+     "intro": "Major points where Christian families separated or new movements formed. Dates are traditional markers; most separations took decades.",
+     "events": [
+      {
+       "year": 451,
+       "label": "Chalcedon",
+       "text": "The Council of Chalcedon defines Christ as one person in two natures. Churches in Egypt, Ethiopia, Armenia and Syria do not accept its wording and become the Oriental Orthodox family."
+      },
+      {
+       "year": 1054,
+       "label": "East and West divide",
+       "text": "Rome and Constantinople exchange excommunications over papal authority, the filioque and centuries of cultural drift. The mutual excommunications are lifted in 1965."
+      },
+      {
+       "year": 1517,
+       "label": "Luther’s 95 Theses",
+       "text": "The Reformation begins in Wittenberg. Lutheran churches form around justification by faith and the authority of Scripture."
+      },
+      {
+       "year": 1525,
+       "label": "Anabaptists",
+       "text": "In Zurich the first believers’ baptisms take place. Mennonites, Amish and Hutterites descend from this radical wing."
+      },
+      {
+       "year": 1534,
+       "label": "Church of England",
+       "text": "The Act of Supremacy makes the English monarch head of the church. Anglicanism later develops a ‘middle way’ between Rome and Geneva."
+      },
+      {
+       "year": 1536,
+       "label": "Reformed churches",
+       "text": "Calvin’s *Institutes* first appear. Reformed and Presbyterian churches spread from Geneva, Scotland and the Netherlands."
+      },
+      {
+       "year": 1609,
+       "label": "Baptists",
+       "text": "English Separatists under John Smyth in Amsterdam begin baptising believers. Baptists become one of the largest Protestant families."
+      },
+      {
+       "year": 1784,
+       "label": "Methodists",
+       "text": "The Wesleys’ renewal movement inside the Church of England becomes a separate church in America in 1784, and in Britain after 1791."
+      },
+      {
+       "year": 1906,
+       "label": "Azusa Street",
+       "text": "The Los Angeles revival spreads Pentecostalism worldwide. Today Pentecostal and charismatic Christians number in the hundreds of millions."
+      },
+      {
+       "year": 1948,
+       "label": "World Council of Churches",
+       "text": "Many Protestant, Anglican and Orthodox churches form a fellowship to seek visible unity. The Catholic Church takes part in some of its work without being a member."
+      },
+      {
+       "year": 1999,
+       "label": "Joint Declaration",
+       "text": "Lutherans and Catholics sign a shared statement on justification by grace, the doctrine that started the Reformation."
+      }
+     ]
+    },
+    {
+     "kind": "map",
+     "title": "The family tree of churches",
+     "intro": "A simplified map of the main Christian families and where they came from. Every family here confesses Jesus as Lord and most accept the Nicene Creed.",
+     "nodes": [
+      {
+       "id": "early",
+       "label": "The early church",
+       "detail": "One fellowship in many cities, held together by the apostles’ teaching, baptism, the Lord’s Supper and prayer.",
+       "refs": [
+        "Acts 2:42",
+        "Eph 4:4-6"
+       ]
+      },
+      {
+       "id": "oriental",
+       "label": "Oriental Orthodox",
+       "detail": "Coptic, Ethiopian, Armenian, Syriac and Indian (Malankara) churches that did not accept Chalcedon’s wording in 451. Many today say the difference was mostly words, not faith."
+      },
+      {
+       "id": "east",
+       "label": "Church of the East",
+       "detail": "The church of Persia and beyond, which reached China and India. Separated after the Council of Ephesus (431)."
+      },
+      {
+       "id": "orthodox",
+       "label": "Eastern Orthodox",
+       "detail": "Greek, Russian, Serbian, Romanian and other churches. Emphasise the Fathers, the councils, worship and theosis (union with God)."
+      },
+      {
+       "id": "catholic",
+       "label": "Roman Catholic",
+       "detail": "The largest Christian family. Scripture and Tradition interpreted by the bishops in communion with the Pope."
+      },
+      {
+       "id": "lutheran",
+       "label": "Lutheran",
+       "detail": "From Luther (1517). Justification by grace through faith; Christ truly present in the Lord’s Supper."
+      },
+      {
+       "id": "reformed",
+       "label": "Reformed and Presbyterian",
+       "detail": "From Zwingli and Calvin. God’s sovereignty, covenant, ordered church life."
+      },
+      {
+       "id": "anabaptist",
+       "label": "Anabaptist",
+       "detail": "From 1525. Believers’ baptism, following Jesus’ way of peace, church separate from state. Mennonites, Amish, Hutterites."
+      },
+      {
+       "id": "anglican",
+       "label": "Anglican",
+       "detail": "From 1534. Bishops, the Book of Common Prayer, Scripture read with tradition and reason."
+      },
+      {
+       "id": "baptist",
+       "label": "Baptist",
+       "detail": "From 1609. Believers’ baptism by immersion, congregational government, religious liberty."
+      },
+      {
+       "id": "methodist",
+       "label": "Methodist and Holiness",
+       "detail": "From the Wesleys’ revival. Grace offered to all, holiness of heart and life. The Holiness movement grew from it."
+      },
+      {
+       "id": "pentecostal",
+       "label": "Pentecostal and charismatic",
+       "detail": "From 1901 and 1906. Baptism in the Spirit, gifts of the Spirit, healing, mission. Now spread across every family."
+      },
+      {
+       "id": "independent",
+       "label": "Independent and non-denominational",
+       "detail": "Local churches and networks with no historic denomination, plus many African, Asian and Latin American initiated churches."
+      }
+     ],
+     "edges": [
+      {
+       "from": "early",
+       "to": "east",
+       "label": "after 431"
+      },
+      {
+       "from": "early",
+       "to": "oriental",
+       "label": "after 451"
+      },
+      {
+       "from": "early",
+       "to": "orthodox",
+       "label": "East"
+      },
+      {
+       "from": "early",
+       "to": "catholic",
+       "label": "West"
+      },
+      {
+       "from": "orthodox",
+       "to": "catholic",
+       "label": "divided 1054"
+      },
+      {
+       "from": "catholic",
+       "to": "lutheran",
+       "label": "Reformation 1517"
+      },
+      {
+       "from": "catholic",
+       "to": "reformed",
+       "label": "Reformation"
+      },
+      {
+       "from": "catholic",
+       "to": "anglican",
+       "label": "1534"
+      },
+      {
+       "from": "reformed",
+       "to": "anabaptist",
+       "label": "Zurich 1525"
+      },
+      {
+       "from": "anglican",
+       "to": "baptist",
+       "label": "Separatists 1609"
+      },
+      {
+       "from": "anglican",
+       "to": "methodist",
+       "label": "Wesleyan revival"
+      },
+      {
+       "from": "methodist",
+       "to": "pentecostal",
+       "label": "Holiness roots"
+      },
+      {
+       "from": "pentecostal",
+       "to": "independent",
+       "label": "networks"
+      },
+      {
+       "from": "baptist",
+       "to": "independent",
+       "label": "free churches"
+      }
+     ]
+    },
+    {
+     "kind": "sorter",
+     "title": "Essential, secondary, or conscience?",
+     "intro": "Sort each teaching by how most churches treat it. Traditions draw these lines differently (Catholics and Orthodox place the sacraments nearer the centre), so the answers show the broad consensus, not one church’s list.",
+     "categories": [
+      {
+       "id": "creed",
+       "label": "Creedal core (held by nearly all churches)"
+      },
+      {
+       "id": "second",
+       "label": "Secondary (usually decides which church you join)"
+      },
+      {
+       "id": "third",
+       "label": "Conscience or preference (should never divide)"
+      }
+     ],
+     "items": [
+      {
+       "text": "Jesus rose bodily from the dead.",
+       "ref": "1 Cor 15:3-4",
+       "answer": "creed",
+       "why": "Paul calls it “of first importance”, and every ancient creed confesses it."
+      },
+      {
+       "text": "God is Father, Son and Holy Spirit.",
+       "ref": "Matt 28:19",
+       "answer": "creed",
+       "why": "Defined at Nicaea (325) and Constantinople (381), and confessed by Catholic, Orthodox and nearly all Protestant churches."
+      },
+      {
+       "text": "Jesus will come again to judge the living and the dead.",
+       "ref": "Acts 10:42",
+       "answer": "creed",
+       "why": "Both the Apostles’ and Nicene Creeds confess it. How and when are debated; that he comes is shared."
+      },
+      {
+       "text": "Babies should (or should not) be baptised.",
+       "ref": "Acts 16:33",
+       "answer": "second",
+       "why": "Sincere churches read the household baptisms differently. It usually determines which church you belong to, but not whether someone is a Christian."
+      },
+      {
+       "text": "What exactly happens in the Lord’s Supper.",
+       "ref": "1 Cor 11:23-26",
+       "answer": "second",
+       "why": "This divided Luther and Zwingli. For Catholics and Orthodox it is much closer to the core than for most Protestants."
+      },
+      {
+       "text": "Whether the gifts of tongues and prophecy continue today.",
+       "ref": "1 Cor 12:7-11",
+       "answer": "second",
+       "why": "Cessationists and continuationists usually worship in different churches, yet they recognise each other as believers."
+      },
+      {
+       "text": "Whether there will be a rapture before a seven-year tribulation.",
+       "ref": "1 Thess 4:16-17",
+       "answer": "third",
+       "why": "The order of end-time events is debated even within one denomination. No ancient creed defines it."
+      },
+      {
+       "text": "Hymns or modern worship songs, robes or jeans.",
+       "ref": "Col 3:16",
+       "answer": "third",
+       "why": "Paul names psalms, hymns and spiritual songs. Style is a matter of culture and taste."
+      },
+      {
+       "text": "Eating meat or only vegetables; keeping special days.",
+       "ref": "Rom 14:5-6",
+       "answer": "third",
+       "why": "Paul says exactly this: let each be fully convinced in their own mind, and do not judge one another."
+      }
+     ]
+    }
+   ],
+   "keyVerses": [
+    "John 17:20-23",
+    "Eph 4:3-6",
+    "1 Cor 1:10-13",
+    "1 Cor 15:3-4",
+    "Rom 14:1-5",
+    "John 13:35"
+   ],
+   "voices": [
+    {
+     "text": "In essentials unity, in non-essentials liberty, in all things charity.",
+     "who": "Rupertus Meldenius (Peter Meiderlin)",
+     "source": "Paraenesis votiva pro pace Ecclesiae (1626), traditional English form of his closing line"
+    },
+    {
+     "text": "Though we can not think alike, may we not love alike? May we not be of one heart, though we are not of one opinion?",
+     "who": "John Wesley",
+     "source": "Sermon 39, “Catholic Spirit” (1750)"
+    }
+   ],
+   "views": [
+    {
+     "name": "Visible communion with the apostolic see",
+     "who": "Roman Catholic Church (Vatican II, *Unitatis Redintegratio*; Pope John Paul II, *Ut Unum Sint*, 1995)",
+     "summary": "Christ founded one Church, which subsists in the Catholic Church. Unity is visible: one faith, one set of sacraments, one communion of bishops with the bishop of Rome. Other Christians are truly united to Christ by baptism and are real, if imperfect, members of his body.",
+     "strengths": "Takes seriously that John 17 asks for a unity the world can see. Offers a clear way to settle disputes. Has led much modern ecumenical dialogue.",
+     "critiques": "Orthodox and Protestants do not accept the claims made for the papacy. Critics point out that a single teaching office has not prevented internal disagreement."
+    },
+    {
+     "name": "The one Church that kept the faith",
+     "who": "Eastern Orthodox churches (e.g. Kallistos Ware, *The Orthodox Church*)",
+     "summary": "The Church is one, and unity means sharing the same apostolic faith, the councils and the Eucharist. Unity is restored by returning to the common faith of the first millennium, not by compromise.",
+     "strengths": "Roots unity in worship and the shared life of the Trinity. Strong sense of continuity with the early church.",
+     "critiques": "Others ask whether this simply equates the one Church with one family of churches. Orthodox churches also divide among themselves on jurisdiction and nationality."
+    },
+    {
+     "name": "Spiritual unity of all believers",
+     "who": "Many Protestants and evangelicals (the Westminster Confession’s ‘invisible church’; C. S. Lewis’s *Mere Christianity*; the Lausanne Covenant, 1974)",
+     "summary": "All who truly trust Christ are one body already, whatever their church. Denominations are like rooms in one house: you live in a room, but the hall is shared. Unity is expressed in shared mission and mutual love rather than one structure.",
+     "strengths": "Explains why believers across churches recognise each other instantly. Gives freedom for diverse expressions and cultures.",
+     "critiques": "Can make division seem acceptable and invisible unity an excuse. Jesus asks for a unity the world can see (John 17:21)."
+    },
+    {
+     "name": "Reconciled diversity",
+     "who": "Many ecumenical Lutherans, Anglicans and Methodists (e.g. the World Council of Churches; the 1999 Joint Declaration)",
+     "summary": "Different churches can recognise each other’s faith, ministries and sacraments without merging. Differences that once divided can become different emphases within one faith.",
+     "strengths": "Has produced concrete agreements and shared communion between churches. Respects history and conscience.",
+     "critiques": "Conservatives in several churches worry it can blur real doctrinal differences. Progress has been slow at the local level."
+    },
+    {
+     "name": "No denominations: back to the Bible",
+     "who": "Restorationist and non-denominational churches (Stone-Campbell movement of the early 1800s; many independent churches today)",
+     "summary": "Drop human labels and creeds, and simply be ‘Christians only’, following the New Testament pattern. Unity will come when all return to the Bible alone.",
+     "strengths": "Sincere longing for unity and simplicity. Refuses to let labels define faith.",
+     "critiques": "History shows such movements soon form their own traditions and divisions. Every reading of the Bible already carries presuppositions (Lesson 10)."
+    }
+   ],
+   "misreadings": [
+    {
+     "topic": "“There are 33,000 (or 45,000) Protestant denominations, so the Bible must be hopelessly unclear.”",
+     "popular": "A large number is often quoted to show that Protestants cannot agree, or that the Bible cannot be understood at all.",
+     "inContext": "The figures come from the *World Christian Encyclopedia* (2001) and the Center for the Study of Global Christianity, which count a denomination separately in each country and include Catholic, Orthodox, Anglican and other groups. Many ‘denominations’ are the same church in different nations. Most of these bodies share the creedal core and differ on secondary matters.",
+     "defence": "Protestant theologians since the Reformation have said that Scripture is clear on what is necessary for salvation, while admitting not everything is equally clear. The Westminster Confession (1.7) says exactly this. Catholic writers answer that the scale of disagreement still shows the need for a teaching authority. Both sides agree the raw number is misleading.",
+     "whyItMatters": "Exaggerated numbers breed cynicism (“no one can know anything”) or pride (“only my group is right”). Accurate numbers lead to humility and hope.",
+     "refs": [
+      "2 Pet 3:16",
+      "Ps 119:130",
+      "1 Cor 13:12"
+     ],
+     "scholars": [
+      "David B. Barrett",
+      "Todd M. Johnson",
+      "Christian Smith"
+     ],
+     "confidence": "scholarly-consensus"
+    },
+    {
+     "topic": "John 17 as a call for one organisation, or as purely invisible",
+     "popular": "Some read “that they may be one” as a demand that all Christians join one institution. Others read it as already fulfilled invisibly, so visible division does not matter.",
+     "inContext": "Jesus grounds unity in mutual indwelling: “as thou, Father, art in me, and I in thee, that they also may be one in us” (John 17:21). The pattern is relational union. Yet it is meant to be seen: “that the world may believe”. The text pushes against both uniformity and indifference.",
+     "defence": "Catholic and Orthodox interpreters answer that relational union needs visible, sacramental expression, so structures matter. Many evangelicals answer that the union is real now in the Spirit and is expressed through love and shared mission. Both agree that division is a wound, not an ideal.",
+     "whyItMatters": "How we read this prayer shapes whether we treat other churches as rivals, as strangers, or as family.",
+     "refs": [
+      "John 17:21-23",
+      "Eph 4:3",
+      "John 13:35"
+     ],
+     "scholars": [
+      "Raymond Brown",
+      "Kallistos Ware",
+      "D. A. Carson"
+     ],
+     "confidence": "debated"
+    }
+   ],
+   "discuss": [
+    "Which church tradition did you grow up in? What did it teach you, implicitly, about other churches?",
+    "Of the splits on the timeline, which seem mostly about doctrine, and which mostly about language, politics or personality?",
+    "Try the sorter again with your group. Where did you disagree, and why?",
+    "Jesus grounds unity in being “in us” (John 17:21). How does union with Christ change the way we see believers we disagree with?",
+    "Wesley said we may not think alike but can love alike. Where is that hard for you?",
+    "What would it look like for churches in your town to show the world they are one?"
+   ],
+   "practice": [
+    "Read the Nicene Creed slowly. Underline every line your church believes. Then ask a friend from a different church to do the same, and compare.",
+    "Visit a service in a different Christian tradition this month. Note three things you share and one thing you learned.",
+    "Pray John 17:20-23 for a church you have been suspicious of, by name.",
+    "Before your next argument about doctrine, ask yourself: is this first, second or third order?"
+   ],
+   "links": [
+    {
+     "to": "/theologians",
+     "label": "Theologians across the traditions"
+    },
+    {
+     "to": "/debates",
+     "label": "The great debates, side by side"
+    },
+    {
+     "to": "/bible-history",
+     "label": "How the Bible and the church developed"
+    },
+    {
+     "to": "/topics/hermeneutics",
+     "label": "Why sincere readers disagree"
+    }
+   ],
+   "sources": [
+    {
+     "author": "Justo L. González",
+     "title": "The Story of Christianity",
+     "year": 1984
+    },
+    {
+     "author": "Mark A. Noll",
+     "title": "Turning Points: Decisive Moments in the History of Christianity",
+     "year": 1997
+    },
+    {
+     "author": "Christian Smith",
+     "title": "The Bible Made Impossible: Why Biblicism Is Not a Truly Evangelical Reading of Scripture",
+     "year": 2011
+    },
+    {
+     "author": "Second Vatican Council",
+     "title": "Unitatis Redintegratio (Decree on Ecumenism)",
+     "year": 1964
+    },
+    {
+     "author": "Rupertus Meldenius (Peter Meiderlin)",
+     "title": "Paraenesis votiva pro pace Ecclesiae ad Theologos Augustanae Confessionis",
+     "year": 1626
+    },
+    {
+     "author": "Albert Mohler",
+     "title": "A Call for Theological Triage and Christian Maturity",
+     "year": 2004,
+     "confidence": "needs-verification"
+    }
+   ]
+  },
+  {
+   "id": "the-chain",
+   "n": 23,
+   "title": "From Assumptions to Lifestyle",
+   "question": "Why does how I live depend on how I read? “Bad lifestyle comes from bad ecclesiology; bad ecclesiology from bad eschatology; bad eschatology from bad theology; bad theology from bad biblical interpretation; and bad biblical interpretation from bad presuppositions and anthropology.”",
+   "bigIdea": "What we assume about God and about what a human is flows downstream into how we read, what we believe, what we hope for, how we do church and finally how we live. The New Testament’s answer starts upstream: in Christ we learn who God is and who we are, and life flows from union with him, not from copying him from the outside.",
+   "minutes": 45,
+   "sections": [
+    {
+     "heading": "The chain, link by link",
+     "body": "The learner’s chain runs upstream like a river traced back to its source. *Lifestyle* is how we actually live. *Ecclesiology* is what we believe the church is and how it should work. *Eschatology* is what we believe about the end and the hope of the world. *Theology* (in the narrow sense) is what we believe God is like. *Biblical interpretation* is how we read the Bible. *Presuppositions* are the assumptions we bring before we read (Lesson 10), and *anthropology* is our view of what a human being is.\n\nAn example shows how it works. Suppose I assume that God is mainly an angry judge and that humans are worthless. I will read the Bible as a set of threats and rules. My theology will picture a distant God who must be kept happy. My eschatology will be about escape: the world will burn, so get out. My ecclesiology will make the church a holding room for the saved, or a fortress against the world. And my lifestyle will be marked by fear, withdrawal or control.\n\nJesus taught the same principle with a tree: a good tree bears good fruit (Matt 7:17-18). Fruit is the visible end of an invisible root. Paul prays that the eyes of our heart would be enlightened (Eph 1:18), because what we see shapes how we walk.",
+     "refs": [
+      "Matt 7:17-18",
+      "Eph 1:18",
+      "Prov 4:23",
+      "Rom 12:2"
+     ]
+    },
+    {
+     "heading": "Anthropology: what is a human?",
+     "body": "Genesis says humans are made in the image and likeness of God (Gen 1:26-27), and Psalm 8 says we are crowned with glory and honour. Genesis 3 tells how that image-bearer turned from God, and the rest of Scripture shows the damage. Traditions describe the damage differently. Augustine, Luther and Calvin taught that sin affects every part of us (often called “total depravity”, which means sin touches everything, not that humans are as bad as they could be). Orthodox Christians usually say the image remains but the likeness to God is lost and must be restored. Catholics speak of a nature wounded but not destroyed. Wesleyans stress “prevenient grace”: God’s grace already at work in every person before they believe.\n\nThe New Testament adds a surprising claim: we only see the true human in Jesus. He is “the image of the invisible God” (Col 1:15), the “last Adam” (1 Cor 15:45), the one in whom we see humanity crowned with glory as Psalm 8 promised (Heb 2:6-9). Pilate said more than he knew: “Behold the man!” (John 19:5). Karl Barth built his whole doctrine of humanity on this idea: we learn what a human is from Jesus, not from Adam.\n\nThe learner’s source, Tommy Miller, puts it this way: “He is not a superhuman; he is the human.” If our anthropology starts with Adam’s failure, we will read the Bible as a manual for managing failure. If it starts with Christ, we read it as the story of God restoring his image.",
+     "refs": [
+      "Gen 1:26-27",
+      "Ps 8:4-6",
+      "Col 1:15",
+      "1 Cor 15:45-49",
+      "Heb 2:6-9",
+      "John 19:5"
+     ]
+    },
+    {
+     "heading": "Tragic ontology: copying Jesus or living from him?",
+     "body": "*Ontology* means the study of being: what something most deeply is. Tommy Miller uses the phrase “tragic ontology” for a mistake he believes is common: reading Christ’s work through Adam’s eyes. In that view, Jesus is mainly an example (his life is “exemplary”), and our task is to try harder to copy him. Miller argues that the New Testament presents Jesus’ life as “vicarious”: done on our behalf and in our place, so that we share in it. The question shifts from “What should I do?” to “Who am I in him?”\n\nPaul’s language supports the concern. “I am crucified with Christ: nevertheless I live; yet not I, but Christ liveth in me” (Gal 2:20). “Our old man is crucified with him” (Rom 6:6). “Ye are dead, and your life is hid with Christ in God” (Col 3:3). “If any man be in Christ, he is a new creature” (2 Cor 5:17). These are statements of identity, not instructions. Theologians call this *union with Christ*. It is central in Calvin (who wrote that as long as Christ remains outside us, all he did is of no use to us; *Institutes* 3.1.1), in the Orthodox teaching of *theosis* (sharing in the divine nature, 2 Pet 1:4), and in the Scottish theologians T. F. and J. B. Torrance, who spoke of the “vicarious humanity of Christ”: Jesus believes, obeys and worships for us and in us.\n\nIn fairness, imitation is also biblical. Paul says, “Be ye followers of me, even as I also am of Christ” (1 Cor 11:1), and “be ye therefore followers of God, as dear children” (Eph 5:1). Peter says Christ left us an example (1 Pet 2:21). The issue is not whether we follow Jesus’ example but where the power comes from. The New Testament pattern is that the command flows from the identity: “you are dead and your life is hidden with Christ” (Col 3:3), therefore “put to death what is earthly” (Col 3:5). Scholars call this the *indicative* (what is true) grounding the *imperative* (what to do).",
+     "refs": [
+      "Gal 2:20",
+      "Rom 6:3-11",
+      "Col 3:1-5",
+      "2 Cor 5:17",
+      "2 Pet 1:4",
+      "1 Cor 11:1",
+      "Eph 5:1-2"
+     ]
+    },
+    {
+     "heading": "John and Paul: a language of union",
+     "body": "The learner notes that John and Paul give us a language. That is accurate. Paul’s favourite phrase is “in Christ” (with “in him” and “in the Lord” it appears well over a hundred times). John’s is “abide” or “remain”: “Abide in me, and I in you” (John 15:4). Jesus says, “At that day ye shall know that I am in my Father, and ye in me, and I in you” (John 14:20). John’s first letter goes further: “as he is, so are we in this world” (1 John 4:17).\n\nJohn’s Gospel also reads differently from Matthew, Mark and Luke (called the *Synoptic* Gospels, “seen together”, because they share much material and order). Around AD 200 Clement of Alexandria said that John, seeing that the outward facts had been set down, wrote a “spiritual Gospel” (recorded by Eusebius, *Church History* 6.14.7). The Gospel’s author is “the disciple whom Jesus loved”, who lay close to Jesus’ chest at the Last Supper (John 13:23-25). Church tradition from Irenaeus onward identifies him as John the son of Zebedee; many modern scholars debate this.\n\nTwo gentle corrections keep the picture balanced. The Synoptics are not mere reports: each is a carefully shaped theological portrait (Mark opens with “Jesus Christ, the Son of God”, Mark 1:1; Matthew ends with “I am with you always”, Matt 28:20). And John insists he is also a witness to real events (John 19:35; John 21:24). Still, John’s stated purpose is revelation: “that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name” (John 20:31). Both John and Paul break the idea that God stands far away from us. God was in Christ reconciling the world to himself (2 Cor 5:19); those who were far off have been brought near (Eph 2:13).",
+     "refs": [
+      "John 15:4-5",
+      "John 14:20",
+      "1 John 4:17",
+      "John 13:23-25",
+      "John 20:31",
+      "2 Cor 5:19",
+      "Eph 2:13-16"
+     ]
+    },
+    {
+     "heading": "Why is there no “hell” in John or Paul?",
+     "body": "The learner’s observation is correct. The word usually translated “hell” in the Gospels is *Gehenna*, the name of the Valley of Hinnom outside Jerusalem, where children had once been sacrificed (Jer 7:31) and which became a picture of judgement. Gehenna appears twelve times in the New Testament: seven in Matthew, three in Mark, once in Luke, and once in James (Jas 3:6). It never appears in John’s Gospel or in any of Paul’s letters. Paul also never uses *Hades* (the realm of the dead) in the best manuscripts.\n\nBut John and Paul do speak of judgement, in their own words. John: whoever believes in the Son has eternal life, but whoever does not obey the Son “shall not see life; but the wrath of God abideth on him” (John 3:36); those who have done evil will rise “unto the resurrection of damnation” (John 5:28-29); God gave his Son so that people “should not perish” (John 3:16). Paul: “the day of wrath and revelation of the righteous judgment of God” (Rom 2:5-8); those who do not obey the gospel “shall be punished with everlasting destruction from the presence of the Lord” (2 Thess 1:9). Revelation, traditionally linked with John though its authorship is debated, uses the “lake of fire” (Rev 20:14-15).\n\nSo what does the silence mean? Christians read it in four main ways. (1) *Traditional view*: same reality, different vocabulary. Gehenna was a local Jerusalem image Jesus used with Jewish hearers; Paul wrote mainly to non-Jews and used words like wrath and destruction. (2) *Conditional immortality*: Paul and John speak of death, perishing and destruction, which suggests the end of the wicked rather than endless torment (Edward Fudge). (3) *Christian universalism*: Paul’s hope that “in Christ shall all be made alive” (1 Cor 15:22) and that God will reconcile all things (Col 1:20) suggests judgement is purifying and not final (Thomas Talbott, David Bentley Hart). (4) *A union reading*, close to the learner’s: John and Paul frame everything as life in union with God versus death outside it, so the real question is relationship, not a place. Each view must account for all the texts above. The app’s afterlife pages set out each view in full.",
+     "refs": [
+      "Jer 7:31",
+      "Jas 3:6",
+      "John 3:16-18",
+      "John 3:36",
+      "John 5:28-29",
+      "Rom 2:5-8",
+      "2 Thess 1:9",
+      "1 Cor 15:22"
+     ]
+    },
+    {
+     "heading": "The healthy chain",
+     "body": "The chain also runs in a good direction. If we begin with true presuppositions (God is exactly like Jesus, Heb 1:3; humans are made in his image and restored in Christ, Col 3:10), we will read the Bible as a story that leads to him. Our theology will see a Father who runs to the prodigal (Luke 15:20). Our eschatology will hope for new creation, not escape (Rom 8:19-21; Rev 21:5). Our ecclesiology will see the church as a family and a body, a foretaste of that new creation (Eph 2:19-22). And our lifestyle will bear the fruit of the Spirit (Gal 5:22-23).\n\nTwo cautions keep this from becoming a slogan. First, the chain is a teaching picture, not a law: real life runs both ways. Our habits and worship also shape what we believe (an old Christian saying is *lex orandi, lex credendi*: the law of prayer is the law of belief), and the philosopher James K. A. Smith argues that our loves are formed by practices before ideas. Second, even right ideas do not save; Jesus does. The goal is not a perfect theory but a living union with the Person at the source of the river.",
+     "refs": [
+      "Heb 1:3",
+      "Col 3:10",
+      "Luke 15:20",
+      "Rom 8:19-21",
+      "Eph 2:19-22",
+      "Gal 5:22-23"
+     ]
+    }
+   ],
+   "visuals": [
+    {
+     "kind": "chain",
+     "title": "The learner’s chain: how bad assumptions become a bad life",
+     "intro": "Start at the root. Each link feeds the next. Example in each step: an angry, distant picture of God.",
+     "links": [
+      {
+       "label": "Bad presuppositions and anthropology",
+       "detail": "Assumptions brought to the text: God is mainly angry; a human is a worthless sinner to be managed. Adam, not Christ, defines what a human is."
+      },
+      {
+       "label": "Bad biblical interpretation",
+       "detail": "The Bible is read as a rule book of threats, verses pulled out of context, every text given equal weight regardless of Jesus."
+      },
+      {
+       "label": "Bad theology",
+       "detail": "God becomes distant, unpredictable or two-faced, unlike the Father Jesus revealed."
+      },
+      {
+       "label": "Bad eschatology",
+       "detail": "Hope becomes escape: the world will burn, so get out. Fear of the end replaces hope in new creation."
+      },
+      {
+       "label": "Bad ecclesiology",
+       "detail": "The church becomes a holding room for the saved, a fortress against outsiders, or a machine for control."
+      },
+      {
+       "label": "Bad lifestyle",
+       "detail": "Fear, shame, withdrawal from the world, judging others, or burnout from trying to earn approval."
+      }
+     ]
+    },
+    {
+     "kind": "chain",
+     "title": "The healthy chain: life flowing from Christ",
+     "intro": "The same chain with Jesus at the root.",
+     "links": [
+      {
+       "label": "Christ-shaped presuppositions",
+       "detail": "God is exactly like Jesus (Heb 1:3). The true human is Jesus; in him we are restored to God’s image (Col 3:10)."
+      },
+      {
+       "label": "Christ-centred interpretation",
+       "detail": "Scripture read as one story that bears witness to him (John 5:39), with genre and context respected."
+      },
+      {
+       "label": "Trinitarian theology",
+       "detail": "A Father who loves, a Son who reveals, a Spirit who unites us to them (John 14:20)."
+      },
+      {
+       "label": "Hope of new creation",
+       "detail": "God renews his world rather than abandoning it (Rom 8:19-21; Rev 21:5). Judgement is real, and it serves God’s setting right."
+      },
+      {
+       "label": "The church as family and body",
+       "detail": "A community of union with Christ and each other, a foretaste of the world to come (Eph 2:19-22)."
+      },
+      {
+       "label": "A life of love and fruit",
+       "detail": "Not copying from outside but living from inside: love, joy, peace, patience (Gal 5:22-23)."
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "title": "Imitation alone vs union with Christ",
+     "intro": "Both are in the New Testament. The difference is which comes first and where the power comes from.",
+     "columns": [
+      "Imitation alone",
+      "Union with Christ (with imitation flowing from it)"
+     ],
+     "rows": [
+      {
+       "label": "Starting question",
+       "cells": [
+        "What would Jesus do? What should I do?",
+        "Who am I in Christ? What is he doing in me?"
+       ]
+      },
+      {
+       "label": "How Jesus’ life is seen",
+       "cells": [
+        "Exemplary: a perfect model to copy",
+        "Vicarious: lived for us and shared with us (Gal 2:20)"
+       ]
+      },
+      {
+       "label": "Where power comes from",
+       "cells": [
+        "My effort, discipline and willpower",
+        "The life of Christ by the Spirit within (Col 3:3-4)"
+       ]
+      },
+      {
+       "label": "View of the self",
+       "cells": [
+        "The old self trying to improve",
+        "The old self crucified with Christ; a new creation (Rom 6:6; 2 Cor 5:17)"
+       ]
+      },
+      {
+       "label": "Key texts",
+       "cells": [
+        "1 Cor 11:1; 1 Pet 2:21; 1 John 2:6",
+        "John 15:4-5; Rom 6:3-11; Gal 2:20; Col 3:3"
+       ]
+      },
+      {
+       "label": "Typical fruit",
+       "cells": [
+        "Can produce earnest discipleship, but also pride or exhaustion",
+        "Rest, confidence and love, with obedience as overflow"
+       ]
+      },
+      {
+       "label": "Risk if misused",
+       "cells": [
+        "Moralism: religion as self-improvement",
+        "Passivity: “I am in Christ, so effort does not matter”"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "title": "Judgement language across the New Testament",
+     "intro": "Gehenna is absent from John and Paul, but judgement is not.",
+     "columns": [
+      "Uses “Gehenna”?",
+      "How judgement is described",
+      "Sample texts"
+     ],
+     "rows": [
+      {
+       "label": "Matthew, Mark, Luke",
+       "cells": [
+        "Yes, 11 times, on Jesus’ lips",
+        "Fire, outer darkness, weeping; warnings to insiders",
+        "Matt 10:28; Mark 9:43-47; Luke 12:5"
+       ]
+      },
+      {
+       "label": "John’s Gospel",
+       "cells": [
+        "No",
+        "Perishing, condemnation, wrath remaining, resurrection to judgement",
+        "John 3:16-18; John 3:36; John 5:28-29"
+       ]
+      },
+      {
+       "label": "Paul’s letters",
+       "cells": [
+        "No",
+        "Wrath, death, destruction, exclusion from the Lord’s presence",
+        "Rom 2:5-8; Rom 6:23; 2 Thess 1:9"
+       ]
+      },
+      {
+       "label": "James",
+       "cells": [
+        "Yes, once",
+        "The tongue “set on fire of hell”",
+        "Jas 3:6"
+       ]
+      },
+      {
+       "label": "Revelation",
+       "cells": [
+        "No (uses “lake of fire” and Hades)",
+        "The second death; Death and Hades thrown into the lake of fire",
+        "Rev 20:13-15; Rev 21:8"
+       ]
+      }
+     ]
+    }
+   ],
+   "keyVerses": [
+    "Gal 2:20",
+    "Rom 6:4-6",
+    "Col 3:3",
+    "2 Cor 5:17",
+    "John 14:20",
+    "John 15:4-5",
+    "Matt 7:17-18"
+   ],
+   "voices": [
+    {
+     "text": "The human is unknowable apart from the saving incarnation of Jesus Christ. For thousands of years, we watched ourselves bleed and guessed what a human might be. We offered sacrifices, built systems, and called our best efforts holiness. But the human remains a mystery until Jesus walks into time. He is not a superhuman; he is the human.",
+     "who": "Tommy Miller"
+    },
+    {
+     "text": "Tragic ontology is the attempt to use Adam's perspective to interpret Christ's redemptive acts and sees Jesus' life as exemplary rather than vicarious. What to do, rather than Who you are…. Tragic ontology endeavors to make the flesh more holy by \"copying\" Jesus rather than recognizing its co-death in Christ and finding life and being in union with Jesus. The reality of redemption can't be understood by the reasoning inherited by Adam through the fall.",
+     "who": "Tommy Miller"
+    },
+    {
+     "text": "He was made man that we might be made God.",
+     "who": "Athanasius of Alexandria",
+     "source": "On the Incarnation 54 (traditional English rendering)"
+    }
+   ],
+   "views": [
+    {
+     "name": "Union first: identity before activity",
+     "who": "John Calvin (*Institutes* 3.1.1); Eastern Orthodox theosis; T. F. and J. B. Torrance (*Worship, Community and the Triune God of Grace*, 1996); Constantine Campbell (*Paul and Union with Christ*, 2012); Tommy Miller",
+     "summary": "Salvation is participation in Christ: his death, resurrection and life become ours by the Spirit. Christian living is learning to live from what is already true. Jesus’ humanity is vicarious: he believes, obeys and worships on our behalf, and we share in it.",
+     "strengths": "Matches Paul’s pervasive “in Christ” language and John’s “abide”. Frees people from performance and shame. Unites justification and transformation in one Person.",
+     "critiques": "If taught carelessly it can sound as if obedience does not matter. Some worry it blurs the line between Creator and creature, which Orthodox and Reformed writers both work hard to guard."
+    },
+    {
+     "name": "Following Jesus: the way of discipleship",
+     "who": "Thomas à Kempis (*The Imitation of Christ*, c. 1420s); the Anabaptist tradition of *Nachfolge* (following); Dietrich Bonhoeffer (*Discipleship*, 1937); Charles Sheldon (*In His Steps*, 1896)",
+     "summary": "Jesus calls people to follow him, not merely to believe ideas about him. Grace that does not lead to obedience is what Bonhoeffer called “cheap grace”. Imitating Christ, including in suffering and love of enemies, is the shape of a real faith.",
+     "strengths": "Takes the Sermon on the Mount and Jesus’ call “follow me” seriously. Has produced martyrs, peacemakers and reformers.",
+     "critiques": "Can slide into moralism if separated from union and grace. Bonhoeffer himself grounded discipleship in Christ’s call and presence, not in self-effort, so the best of this view is not ‘imitation alone’."
+    },
+    {
+     "name": "Indicative and imperative together",
+     "who": "Mainstream Reformed and evangelical scholarship (Herman Ridderbos, *Paul: An Outline of His Theology*; Douglas Moo; Thomas Schreiner); also Catholic and Wesleyan writers on grace and cooperation",
+     "summary": "Paul never sets identity against effort. He says “you have died” and then “put to death” (Col 3:3-5); “work out your own salvation… for it is God which worketh in you” (Phil 2:12-13). Union is the ground; real, Spirit-empowered effort is the response.",
+     "strengths": "Holds all the texts together. Guards against both moralism and passivity.",
+     "critiques": "Union-first writers answer that in practice the imperative often swallows the indicative in preaching, which is exactly the problem the learner is naming."
+    },
+    {
+     "name": "The chain is real but runs both ways",
+     "who": "James K. A. Smith (*Desiring the Kingdom*, 2009); the ancient principle *lex orandi, lex credendi*",
+     "summary": "Humans are not only thinkers but lovers and worshippers. Our practices and habits shape our beliefs as much as our beliefs shape our practices. So the chain needs a loop: change can start at the lifestyle end too, through worship, community and service.",
+     "strengths": "Fits how people actually change. Explains why sound doctrine sometimes coexists with bad living, and why a changed community can change minds.",
+     "critiques": "Can underplay the role of truth and teaching, which the New Testament stresses (1 Tim 4:16). Supporters of the chain reply that it describes the main direction, not the only one."
+    }
+   ],
+   "misreadings": [
+    {
+     "topic": "“Since I am in Christ, effort and obedience no longer matter.”",
+     "popular": "Some grace teaching is heard as saying that union with Christ makes commands, discipline and effort unnecessary, even legalistic.",
+     "inContext": "Paul’s union passages are always followed by commands. Romans 6 moves from “we are buried with him” (Rom 6:4) to “let not sin therefore reign” and “yield yourselves unto God” (Rom 6:12-13). Union is the power for obedience, not a replacement for it.",
+     "defence": "Traditional evangelical and Reformed teachers (e.g. Sinclair Ferguson, *The Whole Christ*, 2016) agree that legalism and antinomianism (lawlessness) are twin errors with one cure: Christ himself. Union-first writers usually agree; they object to commands without identity, not to commands as such.",
+     "whyItMatters": "The goal of the healthy chain is a changed life. A union that bears no fruit is not what John or Paul meant (John 15:5).",
+     "refs": [
+      "Rom 6:4",
+      "Rom 6:12-13",
+      "Phil 2:12-13",
+      "John 15:5"
+     ],
+     "scholars": [
+      "Sinclair Ferguson",
+      "Constantine Campbell",
+      "Michael Gorman"
+     ],
+     "confidence": "scholarly-consensus"
+    },
+    {
+     "topic": "“John and Paul never mention hell, so they did not believe in judgement.”",
+     "popular": "The absence of the word Gehenna is taken to mean John and Paul taught no judgement at all.",
+     "inContext": "Both speak clearly of judgement in their own vocabulary: wrath remaining (John 3:36), resurrection to judgement (John 5:28-29), the day of wrath (Rom 2:5), everlasting destruction (2 Thess 1:9). The silence about Gehenna is real and worth asking about, but it is a silence about one image, not about judgement.",
+     "defence": "Traditionalists argue the vocabulary changed with the audience, not the doctrine. Conditionalists and universalists argue the change of vocabulary matters for what judgement is like. All three agree the texts on judgement must be read, not ignored.",
+     "whyItMatters": "Building a doctrine on what a text does not say is a form of the one-verse problem (Lesson 14). Honest reading weighs both the silence and the speech.",
+     "refs": [
+      "John 3:36",
+      "John 5:28-29",
+      "Rom 2:5-8",
+      "2 Thess 1:9"
+     ],
+     "scholars": [
+      "Edward Fudge",
+      "Thomas Talbott",
+      "Christopher Morgan",
+      "Robert Peterson"
+     ],
+     "confidence": "debated"
+    }
+   ],
+   "discuss": [
+    "Trace the chain in your own story. Which presupposition about God or about yourself shaped the way you first read the Bible?",
+    "Do you more naturally ask “What should I do?” or “Who am I in Christ?” Where did you learn that?",
+    "Read Romans 6:1-14 together. Mark every statement of identity and every command. What is the order?",
+    "Tommy Miller says “he is not a superhuman; he is the human”. What changes if Jesus, not Adam, defines what a human is?",
+    "Why might John and Paul avoid the word Gehenna? Which of the four readings seems strongest to you, and what texts would the others point you to?",
+    "Where have you seen the chain run the other way, with practices changing beliefs?"
+   ],
+   "practice": [
+    "Each morning this week, before reading your to-do list, read Galatians 2:20 aloud and say one sentence about who you are in Christ.",
+    "Read Ephesians 1-3 and list every phrase with “in Christ”, “in him” or “with him”. Then read Ephesians 4-6 and notice how the commands rest on that list.",
+    "Write out your own chain: one presupposition you held, how it shaped your reading, your view of God, your hope, your church life, your habits. Then rewrite it with Christ at the root.",
+    "When you notice yourself trying to “copy” Jesus in your own strength, pause and pray John 15:4: “Abide in me, and I in you.”"
+   ],
+   "links": [
+    {
+     "to": "/afterlife",
+     "label": "Views of judgement and the afterlife"
+    },
+    {
+     "to": "/books/john/deep",
+     "label": "Deep study: the Gospel of John"
+    },
+    {
+     "to": "/books/romans/deep",
+     "label": "Deep study: Romans (union in Romans 6)"
+    },
+    {
+     "to": "/gospel-history",
+     "label": "How the four Gospels came to be"
+    },
+    {
+     "to": "/paradoxes",
+     "label": "Paradoxes: grace and effort"
+    }
+   ],
+   "sources": [
+    {
+     "author": "Constantine R. Campbell",
+     "title": "Paul and Union with Christ: An Exegetical and Theological Study",
+     "year": 2012
+    },
+    {
+     "author": "John Calvin",
+     "title": "Institutes of the Christian Religion",
+     "year": 1559,
+     "locator": "3.1.1",
+     "publicDomain": true
+    },
+    {
+     "author": "James B. Torrance",
+     "title": "Worship, Community and the Triune God of Grace",
+     "year": 1996
+    },
+    {
+     "author": "Eusebius of Caesarea",
+     "title": "Church History",
+     "locator": "6.14.7",
+     "publicDomain": true
+    },
+    {
+     "author": "Edward William Fudge",
+     "title": "The Fire That Consumes",
+     "year": 1982
+    },
+    {
+     "author": "James K. A. Smith",
+     "title": "Desiring the Kingdom: Worship, Worldview, and Cultural Formation",
+     "year": 2009
+    }
+   ]
+  },
+  {
+   "id": "three-ways",
+   "n": 24,
+   "title": "Biblicist, Liberal, or the Heart of the Father?",
+   "question": "Is it enough to ask “Is it biblical?” What is the difference between a biblicist, a liberal, and someone who reads with the context and the heart of the Father?",
+   "bigIdea": "“Is it biblical?” is a good question that can give bad answers, because almost anything (polygamy, slavery, holy war) can be shown to be ‘in the Bible’. A better question is “Is it Christ-like, read in its context?” Biblicists, liberals and Christ-centred readers all love truth; they differ on where final authority lies and how the Bible’s hard parts are handled.",
+   "minutes": 45,
+   "sections": [
+    {
+     "heading": "The problem with “Is it biblical?”",
+     "body": "Christians often settle questions by asking, “Is it biblical?” The instinct is good: the Bereans checked even Paul against the Scriptures (Acts 17:11). But the question has a weakness. Many things are “in the Bible” that no Christian today would practise. Abraham, Jacob and David had several wives, and the Law regulated polygamy rather than forbidding it (Exod 21:10; Deut 21:15). The Law permitted Israelites to own foreign slaves for life (Lev 25:44-46), and Paul told slaves to obey their masters (Eph 6:5). Israel was told to destroy whole peoples (Deut 7:2; 1 Sam 15:3).\n\nIf the Bible is treated as a rule book where every verse is an equal command for all times, these texts become weapons. The learner’s point is that the question must change: not only “Is it in the Bible?” but “Is it Christological?” In other words, does this reading fit what God has revealed in Jesus, the one in whom “the fulness of the Godhead” dwells bodily (Col 2:9)?\n\nThis lesson sets out three ways of answering, as fairly as possible: biblicism, liberal or progressive reading, and the Christ-centred contextual reading the learner holds. Many Christians blend elements of all three.",
+     "refs": [
+      "Acts 17:11",
+      "Exod 21:10",
+      "Deut 21:15",
+      "Lev 25:44-46",
+      "Eph 6:5",
+      "1 Sam 15:3",
+      "Col 2:9"
+     ]
+    },
+    {
+     "heading": "Biblicism, fairly described",
+     "body": "The word “biblicism” is used in two ways. The historian David Bebbington used it for one of the four marks of evangelicals: a deep love and high regard for the Bible (with conversion, the cross and active mission). In that broad sense most evangelicals happily call themselves biblicists.\n\nThe sociologist Christian Smith, in *The Bible Made Impossible* (2011), used the word more narrowly for a set of assumptions: that the Bible is clear to any sincere reader, that it addresses every subject of life, that its teaching is universally applicable, that it can be read by “common sense” without tradition, and that it works like a handbook for faith and practice. Smith’s argument is that this approach defeats itself, because the same Bible, read this way, produces endless disagreement (“pervasive interpretive pluralism”). His own answer is to read the Bible Christocentrically, as a witness to Christ.\n\nThe strengths of biblicism are real. It honours God’s words, gives ordinary believers access to Scripture, and resists fashion. It also deserves a fair hearing: careful inerrantist scholars such as D. A. Carson or Paul Copan are not naive literalists. They use genre, context, covenant and progressive revelation (Lesson 16) to explain why polygamy and holy war are not commands for today. Critics of Smith, including reviewers at The Gospel Coalition and Peter Leithart, argue that his critique hits popular biblicism but not the best evangelical scholarship.",
+     "refs": [
+      "Ps 119:105",
+      "2 Tim 3:16-17",
+      "Matt 19:8",
+      "Deut 29:29"
+     ]
+    },
+    {
+     "heading": "Liberal and progressive reading, fairly described",
+     "body": "Liberal theology began with thinkers such as Friedrich Schleiermacher (1768-1834), who wanted to keep faith credible after the Enlightenment. He located religion in the human experience of utter dependence on God. Adolf von Harnack (*What Is Christianity?*, 1900) sought the simple gospel of Jesus beneath later doctrine. In recent decades writers such as Marcus Borg (*Reading the Bible Again for the First Time*, 2001) read the Bible as a human witness to people’s experience of God, “historical and metaphorical”, and many progressive Christians today read it the same way.\n\nThe liberal instinct deserves respect. It takes science and history seriously, refuses to defend cruelty because a verse seems to command it, and has often been on the side of the poor and excluded. It is honest that the Bible contains human voices, including mistaken ones.\n\nIts critics, from J. Gresham Machen (*Christianity and Liberalism*, 1923) to many today, argue that it makes the modern reader’s conscience the final judge of Scripture. If we decide in advance what God may be like, Jesus himself can be edited to fit, including his miracles and resurrection. Note that “progressive Christianity” is not the same thing as “progressive revelation” (Lesson 16): the first often relativises Scripture; the second says God revealed himself step by step, climaxing in Christ.",
+     "refs": [
+      "1 Cor 15:14-17",
+      "Jer 17:9",
+      "2 Tim 4:3-4",
+      "Gal 1:8"
+     ]
+    },
+    {
+     "heading": "The Christ-centred, context-aware reading",
+     "body": "The learner’s third way says: read every text in its own context (language, culture, audience, genre), and read the whole through Jesus, who is “the exact representation” of God’s being (Heb 1:3) and the one who “hath declared” (Greek *exēgēsato*, “exegeted”) the Father (John 1:18). The Scriptures testify about him (John 5:39) and are fulfilled in him (Luke 24:27). Jesus himself reread the Scriptures this way: “Ye have heard that it was said… but I say unto you” (Matt 5:38-44); “I will have mercy, and not sacrifice” (Matt 12:7, quoting Hos 6:6). When his disciples wanted to call fire down like Elijah, he rebuked them (Luke 9:54-55).\n\nThis view is held by Greg Boyd (*The Crucifixion of the Warrior God*, 2017), Brad Jersak (*A More Christlike God*, 2015), Brian Zahnd, Peter Enns (*The Bible Tells Me So*, 2014), Eric Seibert (*Disturbing Divine Behavior*, 2009) and, in popular form, Bill Johnson (“Jesus is perfect theology”). It has older roots: Luther judged books by whether they “promote Christ” (*was Christum treibet*), and Augustine said any reading that does not build up love of God and neighbour has not yet understood the text. Its holders insist it is neither biblicist nor liberal: it keeps a high view of Christ and of Scripture as witness to him, while refusing to let any text paint a God unlike Jesus.\n\nIts critics raise serious questions. (1) Who decides what is “Christlike”? Jesus also spoke of judgement and Gehenna (Matt 10:28; Matt 25:46), and Revelation shows him as judge (Rev 19:11-16). (2) Jesus treated the Old Testament as God’s word (Matt 5:17-18; John 10:35), not as a record of mistaken perceptions. (3) In the second century Marcion rejected the Old Testament God altogether; critics worry this view drifts in his direction, although its holders strongly reject Marcion and keep the whole canon. Evangelical scholars such as Carson, Copan and N. T. Wright agree that Jesus is the key to Scripture, but argue that a key unlocks the whole house; it does not remove rooms.",
+     "refs": [
+      "Heb 1:1-3",
+      "John 1:18",
+      "John 5:39-40",
+      "Luke 24:27",
+      "Matt 5:38-44",
+      "Luke 9:54-55",
+      "Matt 25:46",
+      "John 10:35"
+     ]
+    },
+    {
+     "heading": "Violence in the name of Scripture",
+     "body": "The learner writes: “Without the Word (Jesus) the Bible becomes deadly.” History supports the warning. Crusaders after 1095 marched under the banner of holy war. In 1534-1535 radical apocalyptic leaders in Münster set up a violent ‘New Jerusalem’. Exodus 22:18 (“Thou shalt not suffer a witch to live”) was used to justify witch trials across Europe and New England. Supporters of slavery in America quoted Leviticus 25 and Ephesians 6, and some taught a so-called “curse of Ham” from Genesis 9:25 (a text that actually curses Canaan, not Ham, and says nothing about Africans). Settlers in several lands saw themselves as Israel entering Canaan. The historian Mark Noll shows that in the American Civil War both sides read the same Bible ‘literally’ and reached opposite answers about slavery.\n\nBut the Bible was also the main weapon against these evils. Abolitionists such as William Wilberforce and Frederick Douglass appealed to the image of God in every person (Gen 1:27), to Jesus’ mission to set captives free (Luke 4:18), and to Paul’s “neither bond nor free” (Gal 3:28). Martin Luther King Jr. and Desmond Tutu preached from the prophets and the Sermon on the Mount. The difference was not whether people used the Bible, but how: as a rule book of proof texts, or as a story whose centre is the crucified Christ who prayed for his enemies (Luke 23:34).",
+     "refs": [
+      "Exod 22:18",
+      "Gen 9:25",
+      "Gen 1:27",
+      "Luke 4:18",
+      "Gal 3:28",
+      "Luke 23:34",
+      "2 Cor 3:6"
+     ]
+    }
+   ],
+   "visuals": [
+    {
+     "kind": "spectrum",
+     "title": "From biblicist to liberal, and where the Jesus lens sits",
+     "intro": "A line from ‘every verse is a direct, timeless command’ to ‘the Bible is a human record of religious experience’. Holders of the Christ-centred reading would say they are not on this line at all but on a different axis (centred on Christ rather than on the text or on modern reason); it is placed at the point they would accept as their nearest neighbours.",
+     "left": "Biblicist: every verse a timeless rule",
+     "right": "Liberal: a human record of experience",
+     "stops": [
+      {
+       "pos": 5,
+       "label": "Strict biblicism",
+       "who": "Popular ‘the Bible says it, I believe it’ preaching; some independent fundamentalist churches",
+       "text": "Every verse is equally God’s direct word for today, to be applied as literally as possible. Context and genre are seen as excuses."
+      },
+      {
+       "pos": 20,
+       "label": "Confessional inerrancy",
+       "who": "Chicago Statement on Biblical Inerrancy (1978); D. A. Carson; Kevin DeYoung",
+       "text": "The Bible is without error in all it affirms, read according to genre and covenant. Old Testament laws are fulfilled in Christ, not simply repeated."
+      },
+      {
+       "pos": 32,
+       "label": "Redemptive-movement reading",
+       "who": "William Webb (*Slaves, Women and Homosexuals*, 2001); Paul Copan (*Is God a Moral Monster?*, 2011)",
+       "text": "Scripture moves its first audience forward from where they were. Follow the direction of travel, not the starting point."
+      },
+      {
+       "pos": 42,
+       "label": "Catholic: Scripture in the Church",
+       "who": "*Dei Verbum* 12 (1965); Pontifical Biblical Commission (1993)",
+       "text": "God speaks through human authors; read by genre and context, within the unity of Scripture and the living Tradition."
+      },
+      {
+       "pos": 50,
+       "label": "Christ-centred, context-aware (the learner’s view)",
+       "who": "Greg Boyd; Brad Jersak; Brian Zahnd; Peter Enns; Eric Seibert; Bill Johnson; Tommy Miller",
+       "text": "High Christology and honest history: every text in its context, and the whole read through Jesus. Any picture of God unlike Jesus is a partial perception, not the final word."
+      },
+      {
+       "pos": 68,
+       "label": "Progressive evangelical",
+       "who": "Rachel Held Evans (*Inspired*, 2018); many post-evangelical writers",
+       "text": "The Bible is an inspired but very human library, full of argument and story. Reading it means joining the conversation."
+      },
+      {
+       "pos": 82,
+       "label": "Mainline liberal",
+       "who": "Marcus Borg; much mainline Protestant scholarship",
+       "text": "Read the Bible ‘historically and metaphorically’ as Israel’s and the early church’s witness to their experience of God."
+      },
+      {
+       "pos": 95,
+       "label": "Radical revisionism",
+       "who": "John Shelby Spong (*Rescuing the Bible from Fundamentalism*, 1991)",
+       "text": "Traditional theism and miracles are set aside; the Bible is reinterpreted almost entirely as symbol."
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "title": "Three ways of reading, side by side",
+     "intro": "Each column is described as its own holders would describe it.",
+     "columns": [
+      "Biblicist",
+      "Liberal / progressive",
+      "Christ-centred and contextual"
+     ],
+     "rows": [
+      {
+       "label": "Final authority",
+       "cells": [
+        "The words of the Bible, taken plainly",
+        "Reason, conscience and experience, informed by the Bible",
+        "Jesus Christ, to whom the whole Bible bears witness"
+       ]
+      },
+      {
+       "label": "What the Bible is",
+       "cells": [
+        "God’s handbook for faith and life",
+        "A human record of encounters with God",
+        "An inspired, honest witness to God’s self-revelation, completed in Jesus"
+       ]
+      },
+      {
+       "label": "Polygamy",
+       "cells": [
+        "Described, not commanded; God’s ideal is Genesis 2",
+        "An ancient cultural practice later outgrown",
+        "Tolerated because of “hardness of heart” (Matt 19:8); Jesus restores the beginning"
+       ]
+      },
+      {
+       "label": "Slavery texts",
+       "cells": [
+        "Regulated a social reality; the gospel undermined it from within",
+        "Morally wrong; the Bible reflects its time",
+        "Read through Galatians 3:28 and Philemon 1:16: in Christ the slave is a brother"
+       ]
+      },
+      {
+       "label": "Violent texts (e.g. 1 Sam 15:3)",
+       "cells": [
+        "God’s just judgement on a specific nation at a specific time",
+        "Israel’s mistaken belief that God wanted war",
+        "An accommodated, partial perception; the cross shows what God is truly like"
+       ]
+      },
+      {
+       "label": "Strength",
+       "cells": [
+        "Reverence for Scripture; clarity; resistance to fashion",
+        "Honesty about difficulty; compassion; openness to learning",
+        "Keeps Christ at the centre; honest about history; refuses a God unlike Jesus"
+       ]
+      },
+      {
+       "label": "Main risk",
+       "cells": [
+        "Proof-texting; using verses as weapons",
+        "Making the modern reader the judge of God",
+        "Defining ‘Christlike’ selectively; underplaying judgement texts"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "lenses",
+     "title": "One hard verse, five readings",
+     "intro": "How different readers handle the command against Amalek.",
+     "ref": "1 Sam 15:3",
+     "passage": "Now go and smite Amalek, and utterly destroy all that they have, and spare them not; but slay both man and woman, infant and suckling, ox and sheep, camel and ass. (KJV)",
+     "lenses": [
+      {
+       "name": "Biblicist",
+       "who": "Popular conservative preaching",
+       "reading": "God commanded it, so it was right. God is the giver of life and may take it. We should not question his judgements."
+      },
+      {
+       "name": "Careful inerrantist",
+       "who": "Paul Copan and Matthew Flannagan (*Did God Really Command Genocide?*, 2014)",
+       "reading": "Ancient war reports used stock, exaggerated language (“utterly destroy”); later texts show Amalekites still alive (1 Sam 27:8). The command was a unique, limited judgement, never a pattern for today."
+      },
+      {
+       "name": "Liberal / critical",
+       "who": "Much historical-critical scholarship",
+       "reading": "This reflects Israel’s ancient belief that its god fought its wars, a belief common to its neighbours. It tells us about Israel, not about God."
+      },
+      {
+       "name": "Christ-centred",
+       "who": "Greg Boyd; Eric Seibert; Brad Jersak",
+       "reading": "Samuel’s perception of God was real but partial. Measured by the crucified Christ who prayed for his enemies (Luke 23:34), this is not the true face of God. Boyd reads such texts as places where God let himself be portrayed in sinful ways, as he bore sin on the cross."
+      },
+      {
+       "name": "Jewish tradition",
+       "who": "Rabbinic and medieval commentators (e.g. Maimonides)",
+       "reading": "Many rabbis limited the command: Maimonides taught that even Amalek must first be offered peace, and later authorities held that since Assyria mixed the nations, no one can now be identified as Amalek. ‘Amalek’ became a symbol of evil to be resisted within."
+      }
+     ]
+    }
+   ],
+   "keyVerses": [
+    "Heb 1:1-3",
+    "John 1:18",
+    "John 5:39-40",
+    "Matt 19:8",
+    "Matt 5:38-44",
+    "Acts 17:11",
+    "2 Cor 3:6"
+   ],
+   "voices": [
+    {
+     "text": "Jesus is perfect theology.",
+     "who": "Bill Johnson",
+     "source": "A phrase he has used widely in sermons and books"
+    },
+    {
+     "text": "Whoever, then, thinks that he understands the Holy Scriptures, or any part of them, but puts such an interpretation upon them as does not tend to build up this twofold love of God and our neighbour, does not yet understand them as he ought.",
+     "who": "Augustine of Hippo",
+     "source": "On Christian Doctrine 1.36.40 (trans. J. F. Shaw)"
+    }
+   ],
+   "views": [
+    {
+     "name": "Biblicism (popular evangelical)",
+     "who": "Many evangelical and fundamentalist churches; described critically by Christian Smith (*The Bible Made Impossible*, 2011)",
+     "summary": "The Bible is God’s clear, complete handbook. Find the verse, believe it, obey it. Tradition and scholarship are useful only as far as they agree with a plain reading.",
+     "strengths": "Gives every believer direct access to God’s word. Values obedience. Resists cultural pressure to soften hard truths.",
+     "critiques": "Pervasive disagreement among biblicists shows ‘plain reading’ is not plain. Treating all texts as equal rules produced defences of slavery and violence. Critics say it puts the book above the Person it points to."
+    },
+    {
+     "name": "Confessional evangelical (inerrancy with genre and covenant)",
+     "who": "D. A. Carson; Paul Copan; Kevin DeYoung (*Taking God at His Word*, 2014); N. T. Wright (not an inerrantist in the American sense, but a strong defender of biblical authority)",
+     "summary": "Scripture is fully God’s word and fully human, without error in what it affirms. Read it by genre, covenant and the progress of revelation; Christ fulfils the Law, so not every command applies directly today.",
+     "strengths": "Takes both the text and its context seriously. Explains hard texts without discarding them. Keeps Jesus’ own high view of Scripture.",
+     "critiques": "Christ-centred readers say it still ends up defending divine violence that does not look like Jesus. Liberals say it explains away genuine human error."
+    },
+    {
+     "name": "Liberal and progressive",
+     "who": "Friedrich Schleiermacher; Adolf von Harnack; Marcus Borg; many mainline scholars and progressive Christians",
+     "summary": "The Bible is a deeply human record of people’s encounter with God, inspired in the sense that it inspires. Its moral vision develops, and modern Christians must discern what remains true.",
+     "strengths": "Honest about history, science and moral difficulty. Has defended the marginalised. Frees people from using texts as weapons.",
+     "critiques": "Who judges the Bible? If reason or experience is final, the resurrection and Jesus himself can be revised. Machen argued it becomes a different religion."
+    },
+    {
+     "name": "Christ-centred and contextual (‘the heart of the Father’)",
+     "who": "Greg Boyd; Brad Jersak; Brian Zahnd; Peter Enns; Eric Seibert; Bill Johnson; Tommy Miller; with roots in Luther’s ‘what promotes Christ’ and Augustine’s love rule",
+     "summary": "Every text is read in its context, and the whole is read through Jesus, the exact image of the Father (Heb 1:3). The Old Testament is an inspired, honest record of a people’s developing perception of the God who has always been like Jesus.",
+     "strengths": "Follows Jesus’ own rereading of Scripture (Matt 5). Takes both the text and its history seriously. Refuses to justify violence by appeal to a God unlike Christ.",
+     "critiques": "Who defines ‘Christlike’, given Jesus’ own warnings of judgement? Jesus affirmed the Old Testament as God’s word. Critics fear a drift toward Marcion, though its holders reject that and keep the whole canon."
+    }
+   ],
+   "misreadings": [
+    {
+     "topic": "“Liberals do not take the Bible seriously” / “Biblicists are simple literalists.”",
+     "popular": "Each side often describes the other in its worst form: liberals as people who throw the Bible away, biblicists as people who read every word with a wooden literalism.",
+     "inContext": "Many liberal scholars have spent their lives on the Hebrew and Greek text, and many conservative scholars read Revelation as symbol and Psalms as poetry. The real difference is not effort or intelligence but where final authority lies and what counts as an error.",
+     "defence": "Conservative scholars (e.g. Carson) respond that they do not reject genre or history, only the idea that the Bible affirms falsehoods. Liberal scholars respond that honesty about the human side is a form of respect for the text. Both agree caricature helps no one.",
+     "whyItMatters": "If we only meet the worst version of other views, we never learn from their best insights, and we cannot fairly test our own.",
+     "refs": [
+      "Prov 18:17",
+      "Jas 1:19",
+      "Matt 7:3-5"
+     ],
+     "scholars": [
+      "Christian Smith",
+      "Peter Leithart",
+      "Marcus Borg",
+      "D. A. Carson"
+     ],
+     "confidence": "scholarly-consensus"
+    },
+    {
+     "topic": "“A Christ-centred reading just means choosing the verses you like.”",
+     "popular": "Critics often say that the Jesus lens is a polite way of ignoring uncomfortable texts.",
+     "inContext": "Its serious holders read the hard texts closely (Boyd’s study runs to two volumes) and argue that Jesus himself gave this key: “ye have heard that it was said… but I say unto you” (Matt 5:43-44), and “they are they which testify of me” (John 5:39). The claim is not that texts are deleted but that they are interpreted by their centre.",
+     "defence": "Evangelical critics answer that the risk is real in practice: the reader’s picture of Jesus can become a filter shaped by modern values, and Jesus’ own sayings about judgement must belong to the picture. Many on both sides agree that the test of honesty is whether the hard sayings of Jesus are included too.",
+     "whyItMatters": "A lens that only sees what we already like is not the lens of Christ. A fair version of this view must let Jesus surprise and correct its holders as well.",
+     "refs": [
+      "Matt 5:43-44",
+      "John 5:39",
+      "Matt 10:28",
+      "Luke 9:54-55"
+     ],
+     "scholars": [
+      "Greg Boyd",
+      "Brad Jersak",
+      "Paul Copan",
+      "D. A. Carson"
+     ],
+     "confidence": "debated"
+    }
+   ],
+   "discuss": [
+    "When have you heard “Is it biblical?” used well, and when has it been used to defend something unlike Jesus?",
+    "Look at the spectrum. Where would you place yourself, and where was the church you grew up in?",
+    "In the compare table, which column’s ‘main risk’ do you feel most tempted by?",
+    "Read Luke 9:51-56. What does Jesus’ rebuke of James and John teach about using Old Testament examples?",
+    "The same Bible was used both to defend and to abolish slavery. What made the difference?",
+    "If someone asked you, “How do you know what is Christlike?”, what would you answer, and which hard sayings of Jesus would you include?"
+   ],
+   "practice": [
+    "Choose one hard text (for example 1 Samuel 15:3 or Psalm 137:9). Read it through each of the five lenses above and write one sentence on what each gets right.",
+    "Read Matthew 5:17-48 in one sitting. List every “ye have heard… but I say unto you”. What did Jesus keep, deepen or overturn?",
+    "Read a short piece by an author from a different point on the spectrum than yours, and write down its strongest argument in a way its author would accept.",
+    "This week, when you hear a claim that something is “biblical”, ask a second question: does this look like Jesus?"
+   ],
+   "links": [
+    {
+     "to": "/topics/hermeneutics",
+     "label": "Hermeneutics deep study"
+    },
+    {
+     "to": "/debates",
+     "label": "Debates: inspiration and the Christocentric hermeneutic"
+    },
+    {
+     "to": "/paradoxes",
+     "label": "Holding hard texts and paradoxes"
+    },
+    {
+     "to": "/books/hebrews/deep",
+     "label": "Hebrews: God has spoken in his Son"
+    }
+   ],
+   "sources": [
+    {
+     "author": "Christian Smith",
+     "title": "The Bible Made Impossible: Why Biblicism Is Not a Truly Evangelical Reading of Scripture",
+     "year": 2011
+    },
+    {
+     "author": "David W. Bebbington",
+     "title": "Evangelicalism in Modern Britain: A History from the 1730s to the 1980s",
+     "year": 1989
+    },
+    {
+     "author": "Mark A. Noll",
+     "title": "The Civil War as a Theological Crisis",
+     "year": 2006
+    },
+    {
+     "author": "Gregory A. Boyd",
+     "title": "The Crucifixion of the Warrior God",
+     "year": 2017
+    },
+    {
+     "author": "Paul Copan",
+     "title": "Is God a Moral Monster? Making Sense of the Old Testament God",
+     "year": 2011
+    },
+    {
+     "author": "J. Gresham Machen",
+     "title": "Christianity and Liberalism",
+     "year": 1923,
+     "publicDomain": true
+    }
+   ]
+  },
+  {
+   "id": "method",
+   "n": 25,
+   "title": "Putting It Together: A Way of Reading",
+   "question": "After everything in this course, how should I actually sit down with a passage, especially a hard one, and read it well?",
+   "bigIdea": "Good reading is not a formula but a habit with eleven simple steps: pray, check your presuppositions, read the text, name its genre, place it in its context, set it in the whole canon, look at it through Christ, listen with the community, depend on the Spirit, test it by love and fruit, and then live it.",
+   "minutes": 50,
+   "sections": [
+    {
+     "heading": "Why a method, and why not a formula",
+     "body": "This course has shown that there is no “plain reading” (Lesson 10), that the Bible speaks in many kinds of literature (Lesson 11), that context changes meaning (Lesson 12), that not everything described is prescribed (Lesson 13), that one verse can mislead (Lesson 14), that Jesus is the key (Unit 4), and that reading shapes living (Lesson 23). A method gathers these lessons into a habit, the way a musician practises scales until they become instinct.\n\nBut a method is not a machine. Ezra “prepared his heart to seek the law of the LORD, and to do it, and to teach” (Ezra 7:10): heart, study, obedience and teaching together. The Emmaus disciples had the Scriptures, but needed the risen Jesus to open them and to make their hearts burn (Luke 24:27; Luke 24:32). The steps below serve that meeting; they do not replace it.\n\nMany traditions have offered similar maps. The Catholic *Dei Verbum* 12 (1965) asks readers to attend to the human author, the literary forms, the culture, the unity of all Scripture, the living Tradition, and the Spirit. Methodists speak of the “Wesleyan quadrilateral” (a term coined by Albert Outler in the 1960s): Scripture first, read with tradition, reason and experience. Richard Hays (*The Moral Vision of the New Testament*, 1996) describes four tasks: describe the text, see the whole canon, bridge to our time, and live it in community. The method here draws from all of them.",
+     "refs": [
+      "Ezra 7:10",
+      "Luke 24:27",
+      "Luke 24:32",
+      "Ps 119:18"
+     ]
+    },
+    {
+     "heading": "Steps 1-4: heart and text",
+     "body": "1. Pray. Ask God to open your eyes (Ps 119:18). Prayer is not a ritual before the real work; it is admitting that we need the Author’s help to understand.\n\n2. Check your presuppositions. What do I want this passage to say? What did my church teach me it says? What am I afraid it says? This is *prolegomena* (the study of the assumptions we bring) made personal. Naming our assumptions is the first defence against *eisegesis* (reading our ideas into the text).\n\n3. Read the text itself. Read the whole paragraph, then the chapter. Read it in more than one translation (Lesson 4). Notice repeated words, connecting words (“therefore”, “but”), who is speaking and to whom.\n\n4. Name the genre. Is this law, story, poem, proverb, prophecy, gospel, letter or apocalypse? Psalm 18:9-10 shows God riding a cherub on the wings of the wind: poetry, not a weather report. A proverb is a general truth, not a promise (Prov 22:6). Genre tells you what kind of truth to expect.",
+     "refs": [
+      "Ps 119:18",
+      "Prov 22:6",
+      "Ps 18:9-10",
+      "Neh 8:8"
+     ]
+    },
+    {
+     "heading": "Steps 5-8: the bigger picture",
+     "body": "5. Context. Who wrote this, to whom, when and why? What did words and customs mean then? The Bible was not written *to* us, but it was given *for* us (Rom 15:4). A text cannot mean for us what it could never have meant for them, though its meaning can deepen as God’s story unfolds.\n\n6. Canon. Where does this text stand in the whole Bible’s story: creation, fall, Israel, Christ, church, new creation? What do other passages on the same theme say? Is this an early stage of revelation or the fullness? This is “Scripture interprets Scripture” (Lesson 14), and it guards against building a doctrine on one verse.\n\n7. Christ. How does this text lead to, or get fulfilled, corrected or transformed in Jesus? “They are they which testify of me” (John 5:39). If a reading gives us a God unlike Jesus, the learner’s view says we have not yet finished reading (Heb 1:1-3). Other traditions phrase this differently (Christ as fulfilment, as key, as goal), but nearly all Christians agree that Christ is the centre.\n\n8. Community. How have Christians across time and traditions read this? What do the creeds say? What does someone from another culture, gender or church notice that I miss? The Spirit gave teachers to the whole body (Eph 4:11-13), and the Jerusalem council reached its decision together (Acts 15:28).",
+     "refs": [
+      "Rom 15:4",
+      "1 Cor 10:11",
+      "John 5:39",
+      "Heb 1:1-3",
+      "Eph 4:11-13",
+      "Acts 15:28"
+     ]
+    },
+    {
+     "heading": "Steps 9-11: Spirit, love and life",
+     "body": "9. Spirit. Jesus promised that the Spirit would guide us into all truth and take what is his and show it to us (John 16:13-14). This is where *logos* becomes *rhema* (Lesson 6): the written word becomes a living word for me today. The Spirit never contradicts the character of Christ he was sent to reveal.\n\n10. The love and fruit test. Augustine taught that a reading which does not build up love of God and neighbour has not yet been understood (*On Christian Doctrine* 1.36.40). Jesus said the whole Law hangs on these two commandments (Matt 22:37-40) and that we know a tree by its fruit (Matt 7:16-20). Ask: does this reading produce love, joy, peace, patience, kindness (Gal 5:22-23), or fear, pride and harm? This test does not mean every true reading feels comfortable; Jesus’ love often confronts. It means a reading that justifies cruelty has gone wrong somewhere.\n\n11. Application. “Be ye doers of the word, and not hearers only” (Jas 1:22). What does this call me to believe, to trust, to stop, to start? Who am I in Christ in light of this text (Lesson 23)? Begin with identity, then action. Share it with someone; reading is completed in living.",
+     "refs": [
+      "John 16:13-14",
+      "Matt 22:37-40",
+      "Matt 7:16-20",
+      "Gal 5:22-23",
+      "Jas 1:22-25",
+      "1 Cor 13:1-2"
+     ]
+    },
+    {
+     "heading": "A worked example: Psalm 137:9",
+     "body": "“Happy shall he be, that taketh and dasheth thy little ones against the stones” (Ps 137:9). (1) We pray, admitting the verse shocks us. (2) We notice our presuppositions: some of us want to defend it, some to delete it. (3) We read the whole psalm: exiles by the rivers of Babylon, mocked and asked to sing Zion’s songs (Ps 137:1-3). (4) Genre: a lament and a curse prayer (scholars call it an *imprecatory psalm*), raw poetry, not a law. (5) Context: Babylon had destroyed Jerusalem and its children (Lam 2:20-21); the psalmist asks God to repay Babylon as Babylon had done (compare Jer 51:24). (6) Canon: Scripture also says vengeance belongs to God (Deut 32:35), and the Prophets promise Babylon’s fall. (7) Christ: Jesus, wronged far more, prayed “Father, forgive them” (Luke 23:34) and told us to bless those who curse us (Luke 6:28). (8) Community: Augustine and other Fathers read the “little ones” as small sins to be crushed while young; many modern readers see an honest model of bringing rage to God instead of acting on it. (9) Spirit: we ask what the Spirit is showing us about our own anger. (10) Love test: a reading that encourages harming children fails at once. (11) Application: bring your deepest anger to God in prayer, and leave justice with him.\n\nNotice that the method did not delete the verse or defend violence. It placed an honest cry of pain inside the larger story, and let Jesus have the last word.",
+     "refs": [
+      "Ps 137:1-9",
+      "Lam 2:20-21",
+      "Deut 32:35",
+      "Rom 12:19",
+      "Luke 23:34",
+      "Luke 6:28"
+     ]
+    }
+   ],
+   "visuals": [
+    {
+     "kind": "flow",
+     "title": "The eleven-step way of reading",
+     "intro": "Walk through these with any passage. The first steps prepare the heart, the middle steps hear the text, the last steps turn it into life.",
+     "steps": [
+      {
+       "label": "1. Pray",
+       "detail": "Ask the Author to open your eyes. Admit you need help to understand.",
+       "refs": [
+        "Ps 119:18"
+       ]
+      },
+      {
+       "label": "2. Check presuppositions",
+       "detail": "What do I want, fear or already assume this says? Name it before you read.",
+       "refs": [
+        "Prov 18:17"
+       ]
+      },
+      {
+       "label": "3. Read the text",
+       "detail": "The whole paragraph and chapter, in more than one translation. Who speaks, to whom, with what connecting words?",
+       "refs": [
+        "Neh 8:8"
+       ]
+      },
+      {
+       "label": "4. Name the genre",
+       "detail": "Law, story, poem, proverb, prophecy, gospel, letter or apocalypse? Each speaks truth differently.",
+       "refs": [
+        "Ps 18:9-10"
+       ]
+      },
+      {
+       "label": "5. Context",
+       "detail": "Author, audience, date, culture, language. Not written to us, but given for us.",
+       "refs": [
+        "Rom 15:4"
+       ]
+      },
+      {
+       "label": "6. Canon",
+       "detail": "Where does it sit in the whole story? What do other texts say? Avoid the one-verse trap.",
+       "refs": [
+        "Acts 17:11"
+       ]
+      },
+      {
+       "label": "7. Christ",
+       "detail": "How does this lead to, or get fulfilled or transformed in, Jesus, the exact image of the Father?",
+       "refs": [
+        "John 5:39",
+        "Heb 1:3"
+       ]
+      },
+      {
+       "label": "8. Community",
+       "detail": "How have Christians across time, cultures and traditions read it? What do the creeds say?",
+       "refs": [
+        "Eph 4:11-13"
+       ]
+      },
+      {
+       "label": "9. Spirit",
+       "detail": "Listen for the living word for today. The Spirit always reveals Christ.",
+       "refs": [
+        "John 16:13-14"
+       ]
+      },
+      {
+       "label": "10. Love and fruit test",
+       "detail": "Does this reading build love of God and neighbour, and bear the Spirit’s fruit?",
+       "refs": [
+        "Matt 22:37-40",
+        "Gal 5:22-23"
+       ]
+      },
+      {
+       "label": "11. Apply",
+       "detail": "Who am I in Christ here, and what will I believe, stop or start? Share it.",
+       "refs": [
+        "Jas 1:22"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "decision",
+     "title": "How should I handle this difficult verse?",
+     "intro": "A question tree for a verse that troubles you. It does not replace study or community; it points you to the next step.",
+     "start": "q-genre",
+     "nodes": [
+      {
+       "id": "q-genre",
+       "q": "What kind of writing is this verse in?",
+       "options": [
+        {
+         "label": "Poetry, prayer, lament or song",
+         "next": "q-poetry"
+        },
+        {
+         "label": "Story or history",
+         "next": "q-describe"
+        },
+        {
+         "label": "Law or command",
+         "next": "q-covenant"
+        },
+        {
+         "label": "Prophecy or apocalyptic vision",
+         "next": "r-symbol"
+        },
+        {
+         "label": "Letter or teaching",
+         "next": "q-context"
+        }
+       ]
+      },
+      {
+       "id": "q-poetry",
+       "q": "Is it expressing the writer’s feeling to God, or making a statement about God?",
+       "options": [
+        {
+         "label": "Expressing pain, anger or longing",
+         "next": "r-lament"
+        },
+        {
+         "label": "Describing God in images",
+         "next": "r-symbol"
+        }
+       ]
+      },
+      {
+       "id": "q-describe",
+       "q": "Does the text present this action as approved, or simply report it?",
+       "options": [
+        {
+         "label": "It just reports what happened",
+         "next": "r-descriptive"
+        },
+        {
+         "label": "It says God commanded or approved it",
+         "next": "q-christ"
+        }
+       ]
+      },
+      {
+       "id": "q-covenant",
+       "q": "Was this law given to Israel under the Sinai covenant for its life in the land?",
+       "options": [
+        {
+         "label": "Yes, it is part of the Law of Moses",
+         "next": "q-christ"
+        },
+        {
+         "label": "No, it is a command in the New Testament",
+         "next": "q-context"
+        }
+       ]
+      },
+      {
+       "id": "q-context",
+       "q": "Is the command tied to a specific local situation or culture?",
+       "options": [
+        {
+         "label": "Yes, it addresses a local problem or custom",
+         "next": "r-principle"
+        },
+        {
+         "label": "No, it is grounded in creation, the gospel or Christ’s example",
+         "next": "r-obey"
+        },
+        {
+         "label": "I am not sure",
+         "next": "r-community"
+        }
+       ]
+      },
+      {
+       "id": "q-christ",
+       "q": "When you set this beside Jesus’ teaching and the cross, what do you see?",
+       "options": [
+        {
+         "label": "Jesus confirms and deepens it",
+         "next": "r-obey"
+        },
+        {
+         "label": "Jesus fulfils, transforms or reverses it",
+         "next": "r-christ"
+        },
+        {
+         "label": "I genuinely cannot tell",
+         "next": "r-community"
+        }
+       ]
+      }
+     ],
+     "results": [
+      {
+       "id": "r-lament",
+       "title": "Honest prayer, not a command",
+       "text": "Laments and curse psalms show us how to bring raw feeling to God rather than act on it. Pray it as honesty, then hand vengeance to God.",
+       "refs": [
+        "Ps 137:1-9",
+        "Rom 12:19"
+       ]
+      },
+      {
+       "id": "r-symbol",
+       "title": "Read the images as images",
+       "text": "Ask what the picture meant in its world and what it says about God’s character or purpose. Do not turn poetic or visionary images into literal timetables or physics.",
+       "refs": [
+        "Ps 18:9-10",
+        "Rev 1:20"
+       ]
+      },
+      {
+       "id": "r-descriptive",
+       "title": "Described, not prescribed",
+       "text": "The Bible honestly records sin and failure, often without comment. Look at the consequences in the story and at the wider canon before drawing a lesson.",
+       "refs": [
+        "Judg 21:25",
+        "Gen 16:1-6"
+       ]
+      },
+      {
+       "id": "r-christ",
+       "title": "Read it through Jesus",
+       "text": "The text records a real stage in God’s dealings with his people. Jesus is the fullness of that revelation; follow his teaching and character, and read the earlier text as pointing toward him. Traditions explain this differently (fulfilment, accommodation, progressive revelation), but all let Christ have the final word.",
+       "refs": [
+        "Matt 5:38-44",
+        "Matt 19:8",
+        "Heb 1:1-3"
+       ]
+      },
+      {
+       "id": "r-principle",
+       "title": "Find the principle, translate the practice",
+       "text": "Ask what the command aimed at in that setting (order, love, witness, holiness), then ask how that same aim is best served in your setting.",
+       "refs": [
+        "1 Cor 9:19-23",
+        "Rom 14:13-19"
+       ]
+      },
+      {
+       "id": "r-obey",
+       "title": "Receive it and obey from union",
+       "text": "This command expresses Christ’s heart and still stands. Obey it as one who lives in Christ, by the Spirit’s strength, not by self-effort.",
+       "refs": [
+        "John 14:15",
+        "Gal 2:20"
+       ]
+      },
+      {
+       "id": "r-community",
+       "title": "Hold it humbly and ask others",
+       "text": "Some texts remain hard. Read what Christians of several traditions have said, talk with your community, and hold your conclusion with humility. It is fine to say “I do not know yet”.",
+       "refs": [
+        "Acts 15:6",
+        "Prov 15:22",
+        "1 Cor 13:12"
+       ]
+      }
+     ]
+    },
+    {
+     "kind": "sorter",
+     "title": "Which step is this?",
+     "intro": "Each sentence describes something a reader does. Sort it into the stage of the method it belongs to.",
+     "categories": [
+      {
+       "id": "heart",
+       "label": "Heart (pray, presuppositions)"
+      },
+      {
+       "id": "text",
+       "label": "Text (read, genre, context)"
+      },
+      {
+       "id": "story",
+       "label": "Whole story (canon, Christ, community)"
+      },
+      {
+       "id": "life",
+       "label": "Life (Spirit, love test, apply)"
+      }
+     ],
+     "items": [
+      {
+       "text": "“I realise I want this verse to prove my church is right.”",
+       "answer": "heart",
+       "why": "Naming what you want the text to say is checking your presuppositions."
+      },
+      {
+       "text": "“Psalm 18 is a victory song full of storm imagery.”",
+       "ref": "Ps 18:9-10",
+       "answer": "text",
+       "why": "Identifying genre: poetry uses images, not reports."
+      },
+      {
+       "text": "“Corinth was a port city where head coverings carried social meaning.”",
+       "ref": "1 Cor 11:5",
+       "answer": "text",
+       "why": "This is historical and cultural context."
+      },
+      {
+       "text": "“Jesus quotes this law and then says, ‘but I say unto you’.”",
+       "ref": "Matt 5:38-39",
+       "answer": "story",
+       "why": "Reading the text through Christ."
+      },
+      {
+       "text": "“What do the Nicene Creed and the early Fathers say about this?”",
+       "answer": "story",
+       "why": "Listening to the community across time."
+      },
+      {
+       "text": "“Does Hebrews say anything about the sacrifices in Leviticus?”",
+       "ref": "Heb 10:1",
+       "answer": "story",
+       "why": "Letting Scripture interpret Scripture within the whole canon."
+      },
+      {
+       "text": "“Lord, open my eyes to see wonderful things in your law.”",
+       "ref": "Ps 119:18",
+       "answer": "heart",
+       "why": "Prayer, the first step."
+      },
+      {
+       "text": "“My reading makes me harsher toward my neighbour. Something is wrong.”",
+       "ref": "Matt 22:39",
+       "answer": "life",
+       "why": "The love and fruit test."
+      },
+      {
+       "text": "“This week I will forgive the person who hurt me.”",
+       "ref": "Jas 1:22",
+       "answer": "life",
+       "why": "Application: doing the word."
+      },
+      {
+       "text": "“This word suddenly speaks to my situation today.”",
+       "ref": "John 16:13",
+       "answer": "life",
+       "why": "The Spirit making the written word a living word."
+      }
+     ]
+    },
+    {
+     "kind": "compare",
+     "title": "Other maps of good reading",
+     "intro": "This course’s method borrows from several traditions. Each lists similar steps in its own order.",
+     "columns": [
+      "Main steps",
+      "Distinctive emphasis"
+     ],
+     "rows": [
+      {
+       "label": "Catholic: *Dei Verbum* 12 (1965)",
+       "cells": [
+        "The human author’s intention; literary forms; culture of the time; the unity of all Scripture; the living Tradition; the analogy of faith",
+        "Read “in the same Spirit in which it was written”, within the Church"
+       ]
+      },
+      {
+       "label": "Wesleyan quadrilateral (Albert Outler)",
+       "cells": [
+        "Scripture, read with tradition, reason and experience",
+        "Scripture is primary; the other three help us understand it"
+       ]
+      },
+      {
+       "label": "Fee and Stuart, *How to Read the Bible for All Its Worth*",
+       "cells": [
+        "Exegesis (what it meant then), then hermeneutics (what it means now), genre by genre",
+        "Genre-specific rules for each kind of writing"
+       ]
+      },
+      {
+       "label": "Richard Hays, *The Moral Vision of the New Testament*",
+       "cells": [
+        "Descriptive, synthetic (whole canon), hermeneutical (bridge to now), pragmatic (live it)",
+        "Three focal images: community, cross, new creation"
+       ]
+      },
+      {
+       "label": "Pentecostal hermeneutic (Kenneth Archer)",
+       "cells": [
+        "Word, Spirit and community in conversation",
+        "Expectation that God speaks and acts today"
+       ]
+      },
+      {
+       "label": "This course",
+       "cells": [
+        "Pray, presuppositions, text, genre, context, canon, Christ, community, Spirit, love test, apply",
+        "Jesus as the lens; identity in Christ before action"
+       ]
+      }
+     ]
+    }
+   ],
+   "keyVerses": [
+    "Luke 24:27",
+    "Ps 119:18",
+    "John 5:39",
+    "John 16:13-14",
+    "Matt 22:37-40",
+    "Jas 1:22",
+    "Ezra 7:10"
+   ],
+   "voices": [
+    {
+     "text": "Whoever, then, thinks that he understands the Holy Scriptures, or any part of them, but puts such an interpretation upon them as does not tend to build up this twofold love of God and our neighbour, does not yet understand them as he ought.",
+     "who": "Augustine of Hippo",
+     "source": "On Christian Doctrine 1.36.40 (trans. J. F. Shaw)"
+    },
+    {
+     "text": "If a reading of Scripture gives you a Father who is unlike the Son, your reading is incorrect. Scripture bears witness to the Word; it is not the Word himself (John 5:39–40). Jesus is the measure that measures all.",
+     "who": "Tommy Miller"
+    }
+   ],
+   "views": [
+    {
+     "name": "Historical-grammatical method",
+     "who": "Mainstream evangelical scholarship (Gordon Fee and Douglas Stuart; Grant Osborne, *The Hermeneutical Spiral*, 1991)",
+     "summary": "Find the meaning the human author intended for the first audience, using grammar, history and genre. Then apply that meaning carefully to today.",
+     "strengths": "Disciplined and testable. Guards against reading our ideas into the text. Respects the human authors.",
+     "critiques": "Can stop at ‘what it meant’ and never reach Christ or the Spirit. The New Testament writers themselves read the Old Testament in ways that go beyond the human author’s intent."
+    },
+    {
+     "name": "Theological interpretation of Scripture",
+     "who": "Kevin Vanhoozer; Daniel Treier; Stephen Fowl; drawing on the church fathers",
+     "summary": "Read the Bible as Christian Scripture, within the creeds and the church’s worship, aiming to know God, not only past history.",
+     "strengths": "Recovers the church’s long tradition of reading. Keeps Christ and the Trinity at the centre.",
+     "critiques": "Some historians worry it lets doctrine overrule the text. Its methods can be less clearly defined."
+    },
+    {
+     "name": "Christ-centred and Christotelic reading",
+     "who": "Peter Enns; Greg Boyd; Brad Jersak; Brian Zahnd; Tommy Miller; in other forms Graeme Goldsworthy and Tim Keller",
+     "summary": "Christ is the goal (Greek *telos*) and lens of all Scripture. Every text is read in its context and then in light of Jesus, the exact image of the Father.",
+     "strengths": "Follows the pattern of Luke 24:27 and John 5:39. Gives a clear centre for weighing hard texts.",
+     "critiques": "Different holders mean different things by it: for Goldsworthy and Keller it confirms the whole Old Testament, while for Boyd and Jersak it reinterprets parts of it. Critics ask who defines ‘Christlike’."
+    },
+    {
+     "name": "Catholic and Orthodox: Scripture within Tradition",
+     "who": "*Dei Verbum* (1965); Pontifical Biblical Commission, *The Interpretation of the Bible in the Church* (1993); Orthodox writers such as Georges Florovsky",
+     "summary": "The Bible is the Church’s book. It is read with the Fathers, the liturgy and the teaching Church, which guards against private misinterpretation.",
+     "strengths": "Gives a strong safeguard against individualism and a deep well of past readings.",
+     "critiques": "Protestants ask how Scripture can correct the Church if the Church is its final interpreter."
+    },
+    {
+     "name": "Pentecostal and charismatic reading",
+     "who": "Kenneth Archer (*A Pentecostal Hermeneutic*, 2004); Craig Keener (*Spirit Hermeneutics*, 2016)",
+     "summary": "The Spirit who inspired Scripture still speaks through it. Reading is a conversation between Word, Spirit and community, expecting God to act as he did in the text.",
+     "strengths": "Recovers expectancy and the experience of God in reading. Keener insists it must include careful historical study.",
+     "critiques": "Without discipline, ‘the Spirit told me’ can override the text. Its best practitioners agree and tie the Spirit to Christ and Scripture."
+    }
+   ],
+   "misreadings": [
+    {
+     "topic": "“A good method guarantees the right answer.”",
+     "popular": "Some readers hope that if they follow the right steps, every difficult text will resolve and every disagreement end.",
+     "inContext": "Even the apostles had to work things out together (Acts 15), and Peter found some of Paul hard (2 Pet 3:16). A method makes us more honest and more humble; it does not remove all mystery (1 Cor 13:12).",
+     "defence": "Scholars of every tradition agree that methods are tools, not guarantees. Evangelicals stress that Scripture is clear on what is necessary for salvation; Catholics and Orthodox add the Church’s guidance; Pentecostals add the Spirit. None claims a method removes the need for faith and humility.",
+     "whyItMatters": "Expecting a formula can make us proud when we think we have it right, and despairing when we cannot resolve a text. The goal is faithfulness, not control.",
+     "refs": [
+      "Acts 15:6-7",
+      "2 Pet 3:16",
+      "1 Cor 13:12",
+      "Deut 29:29"
+     ],
+     "scholars": [
+      "Gordon Fee",
+      "Kevin Vanhoozer",
+      "Richard Hays"
+     ],
+     "confidence": "scholarly-consensus"
+    },
+    {
+     "topic": "“The Spirit step means I can skip the study steps.”",
+     "popular": "Some believers think that if the Spirit speaks to them, history, language and context do not matter.",
+     "inContext": "The same Spirit inspired the text in its original context. The Bereans received the word eagerly and also searched the Scriptures daily (Acts 17:11). Jesus opened the Scriptures to the Emmaus disciples by explaining them “beginning at Moses and all the prophets” (Luke 24:27).",
+     "defence": "Pentecostal scholars such as Craig Keener argue the Spirit works through careful study, not around it. Traditional evangelicals stress that the Spirit illumines what the text means; he does not add new meanings that contradict it.",
+     "whyItMatters": "Spirit and study belong together. Separating them produces either dry scholarship or unchecked private revelation.",
+     "refs": [
+      "Acts 17:11",
+      "Luke 24:27",
+      "1 John 4:1",
+      "1 Thess 5:19-21"
+     ],
+     "scholars": [
+      "Craig Keener",
+      "Kenneth Archer",
+      "Gordon Fee"
+     ],
+     "confidence": "scholarly-consensus"
+    }
+   ],
+   "discuss": [
+    "Which of the eleven steps do you naturally do, and which do you usually skip?",
+    "Walk through the decision tree together with a verse that troubles someone in your group. Where did you end up?",
+    "Read the Psalm 137 example again. Which step changed your understanding most?",
+    "How do you tell the difference between the Spirit speaking to you through a text and your own wishes?",
+    "Augustine’s love test is very old. Why might it be one of the most important steps?",
+    "Looking back over the whole course, what is one way your reading of the Bible has changed?"
+   ],
+   "practice": [
+    "Choose one passage (for example Matthew 5:38-48 or Genesis 22) and walk through all eleven steps, writing one or two sentences for each.",
+    "Copy the eleven steps onto a card and keep it in your Bible for a month.",
+    "Read one passage with a friend from a different church tradition, using steps 7 and 8 together.",
+    "Choose one hard verse you have avoided and run it through the decision tree. Write down where you landed and what question remains."
+   ],
+   "links": [
+    {
+     "to": "/topics/hermeneutics",
+     "label": "Hermeneutics deep study and method"
+    },
+    {
+     "to": "/types",
+     "label": "Types and shadows: seeing Christ in the Old Testament"
+    },
+    {
+     "to": "/paradoxes",
+     "label": "Holding paradox"
+    },
+    {
+     "to": "/books",
+     "label": "Book studies to practise on"
+    },
+    {
+     "to": "/guides",
+     "label": "Study guides"
+    }
+   ],
+   "sources": [
+    {
+     "author": "Augustine of Hippo",
+     "title": "On Christian Doctrine",
+     "locator": "1.36.40",
+     "publicDomain": true
+    },
+    {
+     "author": "Second Vatican Council",
+     "title": "Dei Verbum (Dogmatic Constitution on Divine Revelation)",
+     "year": 1965,
+     "locator": "12"
+    },
+    {
+     "author": "Gordon D. Fee and Douglas Stuart",
+     "title": "How to Read the Bible for All Its Worth",
+     "year": 1981
+    },
+    {
+     "author": "Richard B. Hays",
+     "title": "The Moral Vision of the New Testament",
+     "year": 1996
+    },
+    {
+     "author": "Craig S. Keener",
+     "title": "Spirit Hermeneutics: Reading Scripture in Light of Pentecost",
+     "year": 2016
+    },
+    {
+     "author": "Kenneth J. Archer",
+     "title": "A Pentecostal Hermeneutic for the Twenty-First Century: Spirit, Scripture and Community",
+     "year": 2004
+    }
+   ]
+  }
+ ]
+}
