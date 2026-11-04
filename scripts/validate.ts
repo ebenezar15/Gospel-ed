@@ -57,6 +57,16 @@ for (const f of names) {
   const ids = new Set<string>();
   if (Array.isArray(data)) data.forEach((d: any) => { if (d?.id) { if (ids.has(d.id)) err(f, `duplicate id ${d.id}`); ids.add(d.id); } });
   walk(f, data, '');
+  if (f.startsWith('course-') && data?.lessons) {
+    for (const l of data.lessons) for (const v of l.visuals) {
+      const where = `lesson ${l.n} visual "${v.title}"`;
+      if (v.kind === 'map') { const ids = new Set(v.nodes.map((n: any) => n.id)); v.edges.forEach((e: any) => { if (!ids.has(e.from) || !ids.has(e.to)) err(f, `${where}: edge ${e.from}->${e.to} missing node`); }); }
+      if (v.kind === 'decision') { const ids = new Set([...v.nodes.map((n: any) => n.id), ...v.results.map((r: any) => r.id)]); if (!ids.has(v.start)) err(f, `${where}: start missing`); v.nodes.forEach((n: any) => n.options.forEach((o: any) => { if (!ids.has(o.next)) err(f, `${where}: ${n.id} -> missing ${o.next}`); })); }
+      if (v.kind === 'sorter') { const ids = new Set(v.categories.map((c: any) => c.id)); v.items.forEach((it: any) => { if (!ids.has(it.answer)) err(f, `${where}: answer "${it.answer}" is not a category id`); }); }
+      if (v.kind === 'compare') v.rows.forEach((r: any) => { if (r.cells.length !== v.columns.length) err(f, `${where}: row "${r.label}" has ${r.cells.length} cells, expected ${v.columns.length}`); });
+    }
+    for (const l of data.lessons) for (const k of l.links) if (!k.to.startsWith('/')) err(f, `lesson ${l.n}: link "${k.to}" must start with /`);
+  }
   if (f.startsWith('topic-') && data?.map) {
     const ids = new Set(data.map.nodes.map((n: any) => n.id)), groups = new Set(data.groups.map((g: any) => g.id));
     data.map.edges.forEach((e: any) => { if (!ids.has(e.from) || !ids.has(e.to)) err(f, `map edge ${e.from}->${e.to} points to a missing node`); });

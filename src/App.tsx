@@ -30,6 +30,7 @@ import Types from './pages/Types';
 import Symbols from './pages/Symbols';
 import Gods from './pages/Gods';
 import TopicPage, { TopicsIndex } from './pages/Topic';
+import { CourseMap, LessonPage } from './pages/Course';
 
 export default function App() {
   return (
@@ -70,6 +71,8 @@ export default function App() {
           <Route path="/symbols" element={<Symbols />} />
           <Route path="/gods" element={<Gods />} />
           <Route path="/topics" element={<TopicsIndex />} />
+          <Route path="/course" element={<CourseMap />} />
+          <Route path="/course/:id" element={<LessonPage />} />
           <Route path="/topics/:id" element={<TopicPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>

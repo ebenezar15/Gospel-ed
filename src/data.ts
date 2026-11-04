@@ -1,7 +1,7 @@
 /** Loads every /content/*.json file at build time and builds the cross-reference indexes the UI uses. */
 import type {
   PersonT, PlaceT, EraT, TimelineEventT, EmpireT, JourneyT, RelationshipT, RosterT, BookT, DebateT,
-  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, TopicStudyT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
+  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, TopicStudyT, CourseUnitT, LessonT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
 import { applyOverlay } from './i18n';
@@ -56,6 +56,12 @@ export const deepById = new Map(deepStudies.map((x) => [x.id, x]));
 const TOPIC_ORDER = ['hermeneutics', 'ministries', 'gifts'];
 export const topics: TopicStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/topic-')).map((k) => files[k] as TopicStudyT).filter((x) => x && x.id).sort((a, b) => TOPIC_ORDER.indexOf(a.id) - TOPIC_ORDER.indexOf(b.id));
 export const topicById = new Map(topics.map((x) => [x.id, x]));
+/** Course files may split one unit across several files (course-3a, course-3b); merge them by unit id. */
+const unitParts = Object.keys(files).filter((k) => k.startsWith('../content/course-')).sort().map((k) => files[k] as CourseUnitT).filter((x) => x?.unit);
+export const courseUnits: (CourseUnitT['unit'] & { lessons: LessonT[] })[] = [...unitParts.reduce((m, p) => {
+  const u = m.get(p.unit.id) ?? { ...p.unit, lessons: [] as LessonT[] }; u.lessons.push(...p.lessons); m.set(p.unit.id, u); return m;
+}, new Map<string, CourseUnitT['unit'] & { lessons: LessonT[] }>()).values()].sort((a, b) => a.order - b.order).map((u) => ({ ...u, lessons: [...u.lessons].sort((a, b) => a.n - b.n) }));
+export const courseLessons: LessonT[] = courseUnits.flatMap((u) => u.lessons);
 export const guideById = new Map(guides.map((g) => [g.id, g]));
 /** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */
 export const plain: PlainLayerT = Object.assign({}, get<PlainLayerT>('plain-1.json', {}), get<PlainLayerT>('plain-2.json', {}));

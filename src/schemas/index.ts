@@ -354,6 +354,40 @@ export const TopicStudy = z.object({
 });
 export type TopicStudyT = z.infer<typeof TopicStudy>;
 
+/* ---------- course: "The Bible: how we got it and how to read it" (round 7) ---------- */
+const VBase = { title: z.string(), intro: z.string().optional() };
+export const Visual = z.discriminatedUnion('kind', [
+  z.object({ kind: z.literal('flow'), ...VBase, steps: z.array(z.object({ label: z.string(), detail: z.string(), refs: z.array(Ref).optional() })) }),
+  z.object({ kind: z.literal('chain'), ...VBase, links: z.array(z.object({ label: z.string(), detail: z.string() })) }), // cause-and-effect chain, first item = root cause
+  z.object({ kind: z.literal('compare'), ...VBase, columns: z.array(z.string()), rows: z.array(z.object({ label: z.string(), cells: z.array(z.string()) })) }),
+  z.object({ kind: z.literal('spectrum'), ...VBase, left: z.string(), right: z.string(), stops: z.array(z.object({ pos: z.number(), label: z.string(), who: z.string(), text: z.string() })) }),
+  z.object({ kind: z.literal('timeline'), ...VBase, events: z.array(z.object({ year: z.number(), label: z.string(), text: z.string() })) }),
+  z.object({ kind: z.literal('map'), ...VBase, nodes: z.array(z.object({ id: z.string(), label: z.string(), detail: z.string(), refs: z.array(Ref).optional() })), edges: z.array(z.object({ from: z.string(), to: z.string(), label: z.string() })) }),
+  z.object({ kind: z.literal('decision'), ...VBase, start: z.string(), nodes: z.array(z.object({ id: z.string(), q: z.string(), options: z.array(z.object({ label: z.string(), next: z.string() })) })), results: z.array(z.object({ id: z.string(), title: z.string(), text: z.string(), refs: z.array(Ref).optional() })) }),
+  z.object({ kind: z.literal('sorter'), ...VBase, categories: z.array(z.object({ id: z.string(), label: z.string() })), items: z.array(z.object({ text: z.string(), ref: Ref.optional(), answer: z.string(), why: z.string() })) }), // drag-free sorting game: reader picks a category for each item
+  z.object({ kind: z.literal('lenses'), ...VBase, ref: Ref, passage: z.string(), lenses: z.array(z.object({ name: z.string(), who: z.string(), reading: z.string() })) }), // one passage read through several lenses
+  z.object({ kind: z.literal('versions'), ...VBase, ref: Ref, original: z.string().optional(), versions: z.array(z.object({ name: z.string(), text: z.string(), note: z.string() })) }), // translations side by side
+  z.object({ kind: z.literal('wordstudy'), ...VBase, word: z.string(), original: z.string(), senses: z.array(z.object({ meaning: z.string(), note: z.string(), refs: z.array(Ref) })) }),
+]);
+export const Lesson = z.object({
+  id: z.string(), n: z.number(), title: z.string(),
+  question: z.string(),              // the question this lesson answers, in the learner's words
+  bigIdea: z.string(),               // one or two sentences to remember
+  minutes: z.number(),               // estimated study time
+  sections: z.array(z.object({ heading: z.string(), body: z.string(), refs: z.array(Ref) })), // 3-6 teaching sections
+  visuals: z.array(Visual),          // 2-4 interactive visuals
+  keyVerses: z.array(Ref),
+  voices: z.array(z.object({ text: z.string(), who: z.string(), source: z.string().optional() })), // short quotations with attribution (only real, attributable quotes)
+  views: z.array(z.object({ name: z.string(), who: z.string(), summary: z.string(), strengths: z.string(), critiques: z.string() })),
+  misreadings: z.array(Misreading),
+  discuss: z.array(z.string()),      // small-group discussion questions
+  practice: z.array(z.string()),     // things to try this week
+  links: z.array(z.object({ to: z.string(), label: z.string() })), // related pages inside the app
+  sources: z.array(Source),
+});
+export const CourseUnit = z.object({ unit: z.object({ id: z.string(), order: z.number(), title: z.string(), summary: z.string() }), lessons: z.array(Lesson) });
+export type VisualT = z.infer<typeof Visual>; export type LessonT = z.infer<typeof Lesson>; export type CourseUnitT = z.infer<typeof CourseUnit>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
@@ -379,6 +413,7 @@ export const FILES = {
   'study-ot-1.json': z.array(BookStudy), 'study-ot-2.json': z.array(BookStudy), 'study-ot-3.json': z.array(BookStudy), 'study-nt-1.json': z.array(BookStudy), 'study-nt-2.json': z.array(BookStudy),
   'deep-john.json': DeepStudy, 'deep-romans.json': DeepStudy, 'deep-hebrews.json': DeepStudy, 'deep-galatians.json': DeepStudy, 'deep-ephesians.json': DeepStudy,
   'topic-hermeneutics.json': TopicStudy, 'topic-ministries.json': TopicStudy, 'topic-gifts.json': TopicStudy,
+  'course-1.json': CourseUnit, 'course-2.json': CourseUnit, 'course-3a.json': CourseUnit, 'course-3b.json': CourseUnit, 'course-4a.json': CourseUnit, 'course-4b.json': CourseUnit, 'course-5.json': CourseUnit,
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),

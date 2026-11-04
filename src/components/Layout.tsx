@@ -4,14 +4,14 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies, topics,
+  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies, topics, courseLessons,
 } from '../data';
 import { parseRef } from '../lib/refs';
 import { lang, setLang, t, tv } from '../i18n';
 
 const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
   { group: t('The Book'), items: [
-    { to: '/', label: t('Home'), glyph: '⌂' }, { to: '/guides', label: t('Study Guides'), glyph: '❖' }, { to: '/people', label: t('People'), glyph: '☺' }, { to: '/rosters', label: t('Rosters'), glyph: '≡' },
+    { to: '/', label: t('Home'), glyph: '⌂' }, { to: '/course', label: t('Bible Course'), glyph: '✪' }, { to: '/guides', label: t('Study Guides'), glyph: '❖' }, { to: '/people', label: t('People'), glyph: '☺' }, { to: '/rosters', label: t('Rosters'), glyph: '≡' },
     { to: '/books', label: t('Books'), glyph: '❦' }, { to: '/family', label: t('Family Tree'), glyph: '⚘' }, { to: '/connections', label: t('Connections'), glyph: '✣' },
     { to: '/work', label: t('Work & Ministry'), glyph: '⚒' },
     { to: '/topics/ministries', label: t('Ministries in the Bible'), glyph: '⛪' }, { to: '/topics/gifts', label: t('Gifts & Talents'), glyph: '✿' },
@@ -59,6 +59,7 @@ function useSearchIndex() {
       ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
       { kind: t('Page'), title: t('When the books were written'), sub: t('Timeline of all 66 books'), to: '/books?tab=when' },
       { kind: t('Page'), title: t('Where the books were written'), sub: t('Map of authors and first readers'), to: '/books?tab=where' },
+      ...courseLessons.map((l) => ({ kind: t('Lesson'), title: `${l.n}. ${l.title}`, sub: l.question, to: `/course/${l.id}` })),
       ...topics.flatMap((tp) => [{ kind: t('Topic study'), title: tp.title, sub: tp.subtitle, to: `/topics/${tp.id}` },
         ...tp.gallery.items.map((x) => ({ kind: t('Topic study'), title: x.title, sub: tp.title.split(':')[0], to: `/topics/${tp.id}?tab=gallery` })),
         ...tp.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: tp.title.split(':')[0], to: `/topics/${tp.id}?tab=misreadings` }))]),
