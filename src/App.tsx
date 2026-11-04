@@ -2,7 +2,7 @@ import React from 'react';
 import { HashRouter, Routes, Route } from 'react-router-dom';
 import './styles.css';
 import Layout from './components/Layout';
-import Home from './pages/Home';
+import Welcome from './pages/Welcome';
 import People from './pages/People';
 import PersonPage from './pages/PersonPage';
 import Rosters from './pages/Rosters';
@@ -38,7 +38,7 @@ export default function App() {
     <HashRouter>
       <Layout>
         <Routes>
-          <Route path="/" element={<Home />} />
+          <Route path="/" element={<Welcome />} />
           <Route path="/people" element={<People />} />
           <Route path="/people/:id" element={<PersonPage />} />
           <Route path="/rosters" element={<Rosters />} />

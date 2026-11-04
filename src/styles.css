@@ -76,3 +76,40 @@ html[lang="ta"] .dropcap::first-letter { float: none; font: inherit; color: inhe
 html[lang="ta"] main select { max-width: 100%; }
 html[lang="ta"] main { overflow-wrap: anywhere; }
 html[lang="ta"] .chip { white-space: normal; }
+
+/* ===== Aurora redesign ===== */
+html[data-scheme="aurora"] body { background: rgb(var(--bg)); }
+html[data-scheme="aurora"] .paper-grain::before { display: none; }
+html[data-scheme="aurora"] .card { border-radius: 1.4rem; border-color: rgb(var(--border) / .8); box-shadow: 0 1px 2px rgb(20 16 60 / .04), 0 10px 30px -18px rgb(var(--glow) / .35); }
+html[data-scheme="aurora"] a.card:hover, html[data-scheme="aurora"] button.card:hover { transform: translateY(-2px); box-shadow: 0 2px 4px rgb(20 16 60 / .05), 0 22px 44px -22px rgb(var(--glow) / .55); }
+html[data-scheme="aurora"] .btn { border-radius: 999px; box-shadow: 0 1px 2px rgb(20 16 60 / .05); }
+html[data-scheme="aurora"] .btn-primary { background: linear-gradient(135deg, rgb(var(--accent)), rgb(var(--accent) / .82)); box-shadow: 0 8px 20px -10px rgb(var(--accent) / .8); }
+html[data-scheme="aurora"] .chip { background: rgb(var(--surface)); border-color: rgb(var(--border)); }
+html[data-scheme="aurora"] .input { border-radius: 1rem; }
+html[data-scheme="aurora"] .rubric { color: rgb(var(--accent)); }
+html[data-scheme="aurora"] .eyebrow { color: rgb(var(--accent) / .9); letter-spacing: .12em; }
+html[data-scheme="aurora"] .prose-serif, html[data-scheme="aurora"] .font-serif { font-family: "Avenir Next", "AvenirNext", Avenir, "Nunito Sans", "Noto Sans Tamil", ui-sans-serif, system-ui, sans-serif; font-weight: 400; }
+html[data-scheme="aurora"] .prose-serif { font-size: 1.04rem; line-height: 1.75; }
+html[data-scheme="aurora"] h1, html[data-scheme="aurora"] .display { letter-spacing: -0.025em; }
+html[data-scheme="aurora"] .tab[aria-selected="true"] { color: rgb(var(--accent)); }
+
+/* drifting aurora backdrop */
+.aurora-bg { position: fixed; inset: 0; z-index: -1; overflow: hidden; pointer-events: none; }
+.aurora-bg span { position: absolute; width: 60vmax; height: 60vmax; border-radius: 50%; filter: blur(70px); opacity: .5; animation: drift 26s ease-in-out infinite alternate; }
+.aurora-bg span:nth-child(1) { background: rgb(var(--room, 124 92 232) / .22); top: -25vmax; left: -15vmax; }
+.aurora-bg span:nth-child(2) { background: rgb(var(--room2, 236 98 150) / .16); bottom: -30vmax; right: -20vmax; animation-duration: 32s; }
+.aurora-bg span:nth-child(3) { background: rgb(var(--nt) / .10); top: 30vh; left: 40vw; width: 40vmax; height: 40vmax; animation-duration: 38s; }
+@keyframes drift { 0% { transform: translate(0,0) scale(1); } 50% { transform: translate(6vmax, 4vmax) scale(1.08); } 100% { transform: translate(-4vmax, 6vmax) scale(.95); } }
+html:not([data-scheme="aurora"]) .aurora-bg { display: none; }
+html[data-motion="reduced"] .aurora-bg span { animation: none; }
+@media (prefers-reduced-motion: reduce) { .aurora-bg span { animation: none; } }
+
+/* glass surfaces for bars and docks */
+.glass { background: rgb(var(--surface) / .72); backdrop-filter: blur(18px) saturate(1.4); -webkit-backdrop-filter: blur(18px) saturate(1.4); }
+
+/* flowing connectors: animated dashes for diagram lines */
+.flow-line { stroke-dasharray: 6 8; animation: flow 1.2s linear infinite; }
+@keyframes flow { to { stroke-dashoffset: -14; } }
+html[data-motion="reduced"] .flow-line { animation: none; }
+@media (prefers-reduced-motion: reduce) { .flow-line { animation: none; } }
+.react-flow__edge.animated path { stroke-dasharray: 6 8 !important; }

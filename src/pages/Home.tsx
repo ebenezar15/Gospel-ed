@@ -11,7 +11,7 @@ import { t, tv, isTa, loadTamilBook } from '../i18n';
 
 const DAILY = ['Mic 6:8', 'Isa 40:31', 'John 1:14', 'Rom 8:38-39', 'Ps 46:10', 'Gen 12:2-3', 'Acts 3:21', 'Rev 21:5', 'Luke 4:18-19', 'Hab 3:17-18', 'Lam 3:22-23', 'Col 1:19-20', 'Ruth 1:16', 'Heb 11:13', 'Mark 1:15'];
 
-function River() {
+export function River() {
   const W = 1100, H = 190;
   const sc = useMemo(() => makeEraScale(W), []);
   const nav = useNavigate();
@@ -90,6 +90,24 @@ const DOORS = [
   { to: '/gods?tab=showdowns', k: t('Witness'), t: t('Elijah vs Baal, the ark vs Dagon'), d: t('The Bible’s showdowns with the gods, scene by scene.') },
   { to: '/types', k: t('Cross over'), t: t('From shadow to substance'), d: t('Passover lamb to Christ, Jonah to the tomb.') },
 ];
+
+export function DailyVerse() {
+  const [verse, setVerse] = useState<string>('');
+  const ref = DAILY[Math.floor(Date.now() / 86_400_000) % DAILY.length];
+  useEffect(() => {
+    const p = parseRef(ref); if (!p) return;
+    const kjv = () => loadKJV().then((k) => setVerse(versesFor(k, p).map((v) => v.text).join(' ')));
+    if (isTa) loadTamilBook(p.book).then((bk) => setVerse(versesFor([...Array(p.book)].concat([bk]) as string[][][], p).map((v) => v.text).join(' '))).catch(kjv);
+    else kjv();
+  }, [ref]);
+  return (
+    <motion.blockquote className="card p-5 md:p-6 relative h-full" initial={{ opacity: 0.5, y: 10 }} animate={{ opacity: 1, y: 0 }} transition={{ delay: 0.2 }}>
+      <div className="eyebrow mb-2">{t('Today’s verse')}</div>
+      <p className="font-serif text-xl leading-relaxed min-h-[4.5rem]">{verse || <span className="block skeleton h-16" />}</p>
+      <footer className="mt-3 flex items-center justify-between"><Ref r={ref} /><span className="text-xs text-muted">{isTa ? 'தமிழ் (யூனியன்)' : 'King James Version'}</span></footer>
+    </motion.blockquote>
+  );
+}
 
 export default function Home() {
   const [verse, setVerse] = useState<string>('');

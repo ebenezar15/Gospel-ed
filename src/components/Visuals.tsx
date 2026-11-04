@@ -44,7 +44,7 @@ function Flow({ v }: { v: V<'flow'> }) {
     <div>
       <div className="flex flex-wrap items-center gap-y-2">{v.steps.map((st, i) => (
         <div key={i} className="flex items-center"><button onClick={() => setAt(i)} className={`rounded-xl border px-3 py-2 text-left text-sm font-semibold max-w-[11rem] leading-tight transition-colors ${i === at ? 'bg-accent text-accentInk border-accent' : i < at ? 'border-accent text-accent' : 'border-line'}`}><span className="tabular opacity-70 mr-1">{i + 1}</span>{st.label}</button>
-          {i < v.steps.length - 1 && <svg width="22" height="12" className="shrink-0 mx-0.5" aria-hidden><path d="M1 6h16m-4-4 4 4-4 4" fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /></svg>}</div>))}</div>
+          {i < v.steps.length - 1 && <svg width="22" height="12" className="shrink-0 mx-0.5" aria-hidden><path d="M1 6h16" className={i < at ? 'flow-line' : ''} fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /><path d="M13 2l4 4-4 4" fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /></svg>}</div>))}</div>
       {s && <motion.div key={at} initial={{ opacity: 0.4, y: 6 }} animate={{ opacity: 1, y: 0 }} className="mt-3 rounded-xl p-4" style={{ background: color('accent', 0.06) }}>
         <div className="font-semibold">{s.label}</div><p className="font-serif mt-1"><Rich text={s.detail} /></p>{s.refs?.length ? <div className="mt-2"><Refs refs={s.refs} max={4} /></div> : null}
         <div className="flex justify-between mt-3"><button className="btn" disabled={at === 0} onClick={() => setAt(at - 1)}>←</button><button className="btn btn-primary" disabled={at === v.steps.length - 1} onClick={() => setAt(at + 1)}>{t('Next step')} →</button></div>
@@ -63,7 +63,7 @@ function Chain({ v }: { v: V<'chain'> }) {
           <span className="w-7 h-7 rounded-full flex items-center justify-center text-sm font-bold shrink-0" style={{ background: color(PAL[i % PAL.length]), color: 'rgb(var(--accent-ink))' }}>{i + 1}</span>
           <span className="min-w-0"><span className="font-semibold block">{l.label}</span>{open === i && <span className="font-serif block mt-1"><Rich text={l.detail} /></span>}</span>
         </motion.button>
-        {i < v.links.length - 1 && <div className="h-5 flex items-center" style={{ marginLeft: `${Math.min(i, 6) * 0.9 + 1.2}rem` }}><span className="text-accent">↓</span><span className="text-xs text-muted ml-2">{t('leads to')}</span></div>}
+        {i < v.links.length - 1 && <div className="h-5 flex items-center" style={{ marginLeft: `${Math.min(i, 6) * 0.9 + 1.2}rem` }}><motion.span className="text-accent inline-block" animate={{ y: [0, 3, 0] }} transition={{ duration: 1.4, repeat: Infinity, delay: i * 0.15 }}>↓</motion.span><span className="text-xs text-muted ml-2">{t('leads to')}</span></div>}
       </li>))}</ol>
   );
 }
@@ -122,7 +122,7 @@ function ConceptMap({ v }: { v: V<'map'> }) {
       const pos = i === 0 ? { x: 0, y: 0 } : { x: Math.cos(a) * R * 1.35, y: Math.sin(a) * R };
       return { id: x.id, position: pos, data: { label: x.label }, style: { width: 150, borderRadius: 14, padding: 8, fontSize: 13, fontWeight: 600, lineHeight: 1.2, background: sel === x.id ? 'rgb(var(--accent))' : 'rgb(var(--surface))', color: sel === x.id ? 'rgb(var(--accent-ink))' : 'rgb(var(--text))', border: `2px solid ${color(i === 0 ? 'accent' : PAL[i % PAL.length], 0.7)}` } };
     });
-    const edges: Edge[] = v.edges.map((e, i) => { const on = sel === e.from || sel === e.to; return { id: `e${i}`, source: e.from, target: e.to, label: on ? e.label : undefined, animated: on, markerEnd: { type: MarkerType.ArrowClosed }, style: { stroke: on ? 'rgb(var(--accent))' : 'rgb(var(--border))', strokeWidth: on ? 2 : 1.2 }, labelStyle: { fontSize: 11 }, labelBgStyle: { fill: 'rgb(var(--surface))' } }; });
+    const edges: Edge[] = v.edges.map((e, i) => { const on = sel === e.from || sel === e.to; return { id: `e${i}`, source: e.from, target: e.to, label: on ? e.label : undefined, animated: true, markerEnd: { type: MarkerType.ArrowClosed }, style: { stroke: on ? 'rgb(var(--accent))' : 'rgb(var(--border))', strokeWidth: on ? 2 : 1.2 }, labelStyle: { fontSize: 11 }, labelBgStyle: { fill: 'rgb(var(--surface))' } }; });
     return { nodes, edges };
   }, [v, sel]);
   const n = v.nodes.find((x) => x.id === sel);

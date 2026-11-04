@@ -72,7 +72,7 @@ export function FlowChart({ steps }: { steps: { label: string; detail: string; r
               <div className="text-[.65rem] tabular text-muted">{t('STEP {n}', { n: i + 1 })}</div>
               <div className="text-sm font-semibold leading-tight">{st.label}</div>
             </button>
-            {i < steps.length - 1 && <svg width="26" height="14" className="shrink-0 mx-0.5" aria-hidden><path d="M2 7h18m-5-5 5 5-5 5" fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /></svg>}
+            {i < steps.length - 1 && <svg width="26" height="14" className="shrink-0 mx-0.5" aria-hidden><path d="M2 7h18" className={i < at ? 'flow-line' : ''} fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /><path d="M15 2l5 5-5 5" fill="none" stroke={i < at ? 'rgb(var(--accent))' : 'rgb(var(--border))'} strokeWidth="2" /></svg>}
           </div>
         ))}
       </div>

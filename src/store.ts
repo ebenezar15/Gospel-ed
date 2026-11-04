@@ -2,6 +2,7 @@ import { create } from 'zustand';
 import { persist, createJSONStorage } from 'zustand/middleware';
 
 export const SCHEMES = [
+  { id: 'aurora', swatch: ['#7c5ce8', '#ec6296', '#f6f5fc'], name: 'Aurora', note: 'Calm and modern: soft gradients and rounded cards' },
   { id: 'parchment', swatch: ['#9a6b12', '#7d2a1d', '#0c1424'], name: 'Parchment', note: 'Gold and oxblood; night blue in dark mode' },
   { id: 'byzantine', swatch: ['#6a2a8a', '#a0700a', '#f3eef6'], name: 'Byzantine', note: 'Imperial purple and gold' },
   { id: 'iona', swatch: ['#2c6e45', '#8a4a1c', '#edf2ea'], name: 'Iona', note: 'Celtic green and peat' },
@@ -30,18 +31,20 @@ const safeStorage = createJSONStorage(() => {
 });
 
 export const useUI = create<UI>()(persist((set) => ({
-  scheme: 'parchment', mode: 'system', reducedMotion: false, showSpeculative: false, chronology: 'early',
+  scheme: 'aurora', mode: 'system', reducedMotion: false, showSpeculative: false, chronology: 'early',
   eraFilter: null, bookmarks: [], notes: [], quizBest: 0, courseDone: [], navOpen: null,
   set: (p) => set(p),
   toggleBookmark: (path) => set((s) => ({ bookmarks: s.bookmarks.includes(path) ? s.bookmarks.filter((b) => b !== path) : [...s.bookmarks, path] })),
   addNote: (target, text) => set((s) => ({ notes: [...s.notes, { id: Math.random().toString(36).slice(2), target, text, at: Date.now() }] })),
   removeNote: (id) => set((s) => ({ notes: s.notes.filter((n) => n.id !== id) })),
-}), { name: 'logos-ui', storage: safeStorage }));
+}), { name: 'logos-ui', storage: safeStorage, version: 2,
+  // v2: the redesign makes Aurora the default look; move everyone onto it once (they can switch back in Appearance).
+  migrate: (state: any, v) => (v < 2 ? { ...state, scheme: 'aurora' } : state) }));
 
 /** Mirror theme state onto <html> so CSS tokens switch. */
 export function applyTheme(scheme: Scheme, mode: Mode, reduced: boolean) {
   const r = document.documentElement;
-  r.dataset.scheme = SCHEMES.some((s) => s.id === scheme) ? scheme : 'parchment';
+  r.dataset.scheme = SCHEMES.some((s) => s.id === scheme) ? scheme : 'aurora';
   if (mode === 'system') delete r.dataset.mode; else r.dataset.mode = mode;
   if (reduced) r.dataset.motion = 'reduced'; else delete r.dataset.motion;
 }

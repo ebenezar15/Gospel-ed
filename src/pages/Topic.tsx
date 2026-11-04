@@ -121,7 +121,7 @@ function ConceptMap({ tp }: { tp: TopicStudyT }) {
     });
     const edges: Edge[] = tp.map.edges.map((e, i) => {
       const on = sel === e.from || sel === e.to;
-      return { id: `e${i}`, source: e.from, target: e.to, label: on ? e.label : undefined, type: 'smoothstep', animated: on, markerEnd: { type: MarkerType.ArrowClosed },
+      return { id: `e${i}`, source: e.from, target: e.to, label: on ? e.label : undefined, type: 'smoothstep', animated: true, markerEnd: { type: MarkerType.ArrowClosed },
         style: { stroke: on ? 'rgb(var(--accent))' : 'rgb(var(--border))', strokeWidth: on ? 2 : 1.2, opacity: only ? 0.35 : 1 }, labelStyle: { fontSize: 11, fill: 'rgb(var(--text))' }, labelBgStyle: { fill: 'rgb(var(--surface))' } };
     });
     return { nodes, edges };

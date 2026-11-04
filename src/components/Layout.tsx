@@ -9,7 +9,7 @@ import {
 import { parseRef } from '../lib/refs';
 import { lang, setLang, t, tv } from '../i18n';
 
-const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
+export const NAV: { group: string; items: { to: string; label: string; glyph: string }[] }[] = [
   { group: t('The Book'), items: [
     { to: '/', label: t('Home'), glyph: '⌂' }, { to: '/course', label: t('Bible Course'), glyph: '✪' }, { to: '/guides', label: t('Study Guides'), glyph: '❖' }, { to: '/people', label: t('People'), glyph: '☺' }, { to: '/rosters', label: t('Rosters'), glyph: '≡' },
     { to: '/books', label: t('Books'), glyph: '❦' }, { to: '/family', label: t('Family Tree'), glyph: '⚘' }, { to: '/connections', label: t('Connections'), glyph: '✣' },
