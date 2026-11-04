@@ -58,9 +58,10 @@ export const topics: TopicStudyT[] = Object.keys(files).filter((k) => k.startsWi
 export const topicById = new Map(topics.map((x) => [x.id, x]));
 /** Course files may split one unit across several files (course-3a, course-3b); merge them by unit id. */
 const unitParts = Object.keys(files).filter((k) => k.startsWith('../content/course-')).sort().map((k) => files[k] as CourseUnitT).filter((x) => x?.unit);
-export const courseUnits: (CourseUnitT['unit'] & { lessons: LessonT[] })[] = [...unitParts.reduce((m, p) => {
-  const u = m.get(p.unit.id) ?? { ...p.unit, lessons: [] as LessonT[] }; u.lessons.push(...p.lessons); m.set(p.unit.id, u); return m;
-}, new Map<string, CourseUnitT['unit'] & { lessons: LessonT[] }>()).values()].sort((a, b) => a.order - b.order).map((u) => ({ ...u, lessons: [...u.lessons].sort((a, b) => a.n - b.n) }));
+export const courseUnits: { id: string; order: number; unit: CourseUnitT['unit']; lessons: LessonT[] }[] = [...unitParts.reduce((m, p) => {
+  // keep a reference to the unit object (not a copy) so the Tamil overlay, applied later in place, shows up
+  const u = m.get(p.unit.id) ?? { id: p.unit.id, order: p.unit.order, unit: p.unit, lessons: [] as LessonT[] }; u.lessons.push(...p.lessons); m.set(p.unit.id, u); return m;
+}, new Map<string, { id: string; order: number; unit: CourseUnitT['unit']; lessons: LessonT[] }>()).values()].sort((a, b) => a.order - b.order).map((u) => ({ ...u, lessons: [...u.lessons].sort((a, b) => a.n - b.n) }));
 export const courseLessons: LessonT[] = courseUnits.flatMap((u) => u.lessons);
 export const guideById = new Map(guides.map((g) => [g.id, g]));
 /** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */

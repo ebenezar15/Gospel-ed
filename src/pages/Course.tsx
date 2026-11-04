@@ -28,8 +28,8 @@ export function CourseMap() {
       </div>
       <div className="space-y-8">{courseUnits.map((u, ui) => { const c = UNIT_COLORS[ui % UNIT_COLORS.length]; return (
         <section key={u.id}>
-          <div className="flex items-baseline gap-3 mb-1"><span className="display text-4xl tabular" style={{ color: color(c) }}>{ui + 1}</span><h2 className="display text-2xl">{u.title}</h2></div>
-          <p className="font-serif text-muted max-w-[72ch] mb-3">{u.summary}</p>
+          <div className="flex items-baseline gap-3 mb-1"><span className="display text-4xl tabular" style={{ color: color(c) }}>{ui + 1}</span><h2 className="display text-2xl">{u.unit.title}</h2></div>
+          <p className="font-serif text-muted max-w-[72ch] mb-3">{u.unit.summary}</p>
           <ol className="relative grid gap-2 sm:grid-cols-2 lg:grid-cols-3">{u.lessons.map((l, i) => { const ok = done.includes(l.id); return (
             <motion.li key={l.id} initial={{ opacity: 0.5, y: 8 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: i * 0.05 }}>
               <Link to={`/course/${l.id}`} className="card p-4 flex gap-3 h-full hover:border-accent relative overflow-hidden">
@@ -54,7 +54,7 @@ export function LessonPage() {
   const prev = courseLessons[i - 1], next = courseLessons[i + 1];
   return (
     <div>
-      <div className="text-sm mb-3 flex flex-wrap justify-between gap-2"><Link to="/course" className="text-muted hover:text-accent">← {t('Course map')}</Link><span className="text-muted">{unit?.title} · {t('Lesson {n} of {total}', { n: l.n, total: courseLessons.length })}</span></div>
+      <div className="text-sm mb-3 flex flex-wrap justify-between gap-2"><Link to="/course" className="text-muted hover:text-accent">← {t('Course map')}</Link><span className="text-muted">{unit?.unit.title} · {t('Lesson {n} of {total}', { n: l.n, total: courseLessons.length })}</span></div>
       <div className="h-1.5 rounded-full bg-sunk overflow-hidden mb-5"><div className="h-full bg-accent" style={{ width: `${(l.n / courseLessons.length) * 100}%` }} /></div>
       <PageHeader eyebrow={t('Lesson {n}', { n: l.n })} title={l.title} actions={<Bookmark path={`/course/${l.id}`} />}><span className="text-ink">{l.question}</span></PageHeader>
       <motion.div initial={{ opacity: 0, y: 8 }} animate={{ opacity: 1, y: 0 }} className="card p-5 mb-6 border-2" style={{ borderColor: color('accent', 0.6), background: color('accent', 0.05) }}>
