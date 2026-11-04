@@ -29,6 +29,7 @@ import BibleHistory from './pages/BibleHistory';
 import Types from './pages/Types';
 import Symbols from './pages/Symbols';
 import Gods from './pages/Gods';
+import TopicPage, { TopicsIndex } from './pages/Topic';
 
 export default function App() {
   return (
@@ -68,6 +69,8 @@ export default function App() {
           <Route path="/types" element={<Types />} />
           <Route path="/symbols" element={<Symbols />} />
           <Route path="/gods" element={<Gods />} />
+          <Route path="/topics" element={<TopicsIndex />} />
+          <Route path="/topics/:id" element={<TopicPage />} />
           <Route path="*" element={<NotFound />} />
         </Routes>
       </Layout>

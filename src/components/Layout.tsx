@@ -4,7 +4,7 @@ import { AnimatePresence, motion } from 'framer-motion';
 import Fuse from 'fuse.js';
 import { SCHEMES, useUI, applyTheme } from '../store';
 import {
-  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies,
+  people, places, placeLabel, books, guides, figures, canonBooks, paradoxes, types, symbols, bibleHistory, gods, godsExtra, allDebates, contextItems, occupations, journeys, afterlifeTerms, gospelNodes, eras, studyPaths, deepStudies, bookStudies, topics,
 } from '../data';
 import { parseRef } from '../lib/refs';
 import { lang, setLang, t, tv } from '../i18n';
@@ -14,18 +14,20 @@ const NAV: { group: string; items: { to: string; label: string; glyph: string }[
     { to: '/', label: t('Home'), glyph: '⌂' }, { to: '/guides', label: t('Study Guides'), glyph: '❖' }, { to: '/people', label: t('People'), glyph: '☺' }, { to: '/rosters', label: t('Rosters'), glyph: '≡' },
     { to: '/books', label: t('Books'), glyph: '❦' }, { to: '/family', label: t('Family Tree'), glyph: '⚘' }, { to: '/connections', label: t('Connections'), glyph: '✣' },
     { to: '/work', label: t('Work & Ministry'), glyph: '⚒' },
+    { to: '/topics/ministries', label: t('Ministries in the Bible'), glyph: '⛪' }, { to: '/topics/gifts', label: t('Gifts & Talents'), glyph: '✿' },
   ] },
   { group: t('Reading the Bible'), items: [
     { to: '/bible-history', label: t('Bible History'), glyph: '▤' }, { to: '/canon', label: t('Omitted & Lost Books'), glyph: '✠' },
     { to: '/types', label: t('Types & Shadows'), glyph: '⇄' }, { to: '/symbols', label: t('Symbols & Imagery'), glyph: '◈' }, { to: '/paradoxes', label: t('Paradoxes'), glyph: '☯' },
     { to: '/gods', label: t('Gods of the Nations'), glyph: '♆' },
+    { to: '/topics/hermeneutics', label: t('Interpreting the Bible'), glyph: '⌕' },
   ] },
   { group: t('Time & Place'), items: [{ to: '/timeline', label: t('Timeline'), glyph: '⟿' }, { to: '/maps', label: t('Maps & Journeys'), glyph: '✦' }, { to: '/lens', label: t('Who Was Alive?'), glyph: '◎' }] },
   { group: t('Gospel & Doctrine'), items: [
     { to: '/gospel-history', label: t('Gospel Through History'), glyph: '✉' }, { to: '/afterlife', label: t('Afterlife & Kingdom'), glyph: '☼' },
     { to: '/debates', label: t('Debates'), glyph: '⚖' }, { to: '/theologians', label: t('Theologians'), glyph: '✒' }, { to: '/movements', label: t('Movements'), glyph: '✧' }, { to: '/context', label: t('Cultural Context'), glyph: '❂' },
   ] },
-  { group: t('Study'), items: [{ to: '/study', label: t('Study Desk'), glyph: '✎' }, { to: '/quiz', label: t('Quiz & Cards'), glyph: '?' }] },
+  { group: t('Study'), items: [{ to: '/topics', label: t('Topic Studies'), glyph: '◫' }, { to: '/study', label: t('Study Desk'), glyph: '✎' }, { to: '/quiz', label: t('Quiz & Cards'), glyph: '?' }] },
 ];
 
 type Hit = { kind: string; title: string; sub: string; to: string };
@@ -57,6 +59,9 @@ function useSearchIndex() {
       ...bookStudies.flatMap((s) => s.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: books.find((b) => b.id === s.id)?.name ?? '', to: `/books/${s.id}` }))),
       { kind: t('Page'), title: t('When the books were written'), sub: t('Timeline of all 66 books'), to: '/books?tab=when' },
       { kind: t('Page'), title: t('Where the books were written'), sub: t('Map of authors and first readers'), to: '/books?tab=where' },
+      ...topics.flatMap((tp) => [{ kind: t('Topic study'), title: tp.title, sub: tp.subtitle, to: `/topics/${tp.id}` },
+        ...tp.gallery.items.map((x) => ({ kind: t('Topic study'), title: x.title, sub: tp.title.split(':')[0], to: `/topics/${tp.id}?tab=gallery` })),
+        ...tp.misreadings.map((m) => ({ kind: t('Misreading'), title: m.topic, sub: tp.title.split(':')[0], to: `/topics/${tp.id}?tab=misreadings` }))]),
       { kind: t('Page'), title: t('The divine council'), sub: t('Psalm 82, Deuteronomy 32:8, sons of God'), to: '/gods?tab=council' },
       ...studyPaths.map((s) => ({ kind: t('Study path'), title: s.title, sub: s.summary.slice(0, 80), to: `/study?path=${s.id}` })),
       ...NAV.flatMap((g) => g.items.map((i) => ({ kind: t('Page'), title: i.label, sub: g.group, to: i.to }))),

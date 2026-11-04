@@ -57,6 +57,15 @@ for (const f of names) {
   const ids = new Set<string>();
   if (Array.isArray(data)) data.forEach((d: any) => { if (d?.id) { if (ids.has(d.id)) err(f, `duplicate id ${d.id}`); ids.add(d.id); } });
   walk(f, data, '');
+  if (f.startsWith('topic-') && data?.map) {
+    const ids = new Set(data.map.nodes.map((n: any) => n.id)), groups = new Set(data.groups.map((g: any) => g.id));
+    data.map.edges.forEach((e: any) => { if (!ids.has(e.from) || !ids.has(e.to)) err(f, `map edge ${e.from}->${e.to} points to a missing node`); });
+    [...data.map.nodes, ...data.gallery.items].forEach((n: any) => { if (!groups.has(n.group)) err(f, `unknown group "${n.group}" on ${n.id}`); });
+    const dn = new Set([...data.decision.nodes.map((n: any) => n.id), ...data.decision.results.map((r: any) => r.id)]);
+    if (!dn.has(data.decision.start)) err(f, `decision start "${data.decision.start}" missing`);
+    data.decision.nodes.forEach((n: any) => n.options.forEach((o: any) => { if (!dn.has(o.next)) err(f, `decision ${n.id} option -> missing "${o.next}"`); }));
+    data.compare.rows.forEach((r: any) => { if (r.cells.length !== data.compare.columns.length) err(f, `compare row "${r.label}" has ${r.cells.length} cells, expected ${data.compare.columns.length}`); });
+  }
   console.log(`✓ ${f}: ${Array.isArray(data) ? data.length + ' items' : 'object'}`);
 }
 

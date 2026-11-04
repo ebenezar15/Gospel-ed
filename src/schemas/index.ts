@@ -331,6 +331,29 @@ export const DeepStudy = z.object({
 });
 export type BookStudyT = z.infer<typeof BookStudy>; export type DeepStudyT = z.infer<typeof DeepStudy>; export type MisreadingT = z.infer<typeof Misreading>;
 
+/* ---------- topic deep studies (round 6): hermeneutics, ministries, gifts ---------- */
+const TNode = z.object({ id: z.string(), label: z.string(), group: z.string(), detail: z.string(), refs: z.array(Ref), examples: z.array(z.string()).optional() });
+export const TopicStudy = z.object({
+  id: z.string(), title: z.string(), subtitle: z.string(),
+  plain: z.string(),                 // the honest short answer in everyday words (3-6 sentences)
+  keyPoints: z.array(z.string()),    // 5-8
+  groups: z.array(z.object({ id: z.string(), label: z.string(), color: z.enum(['accent', 'accent-2', 'ot', 'nt', 'good', 'warn']) })), // colour groups used by map nodes and gallery
+  map: z.object({ title: z.string(), intro: z.string(), nodes: z.array(TNode), edges: z.array(z.object({ from: z.string(), to: z.string(), label: z.string() })) }), // concept map, 12-30 nodes
+  flow: z.object({ title: z.string(), intro: z.string(), steps: z.array(z.object({ label: z.string(), detail: z.string(), ask: z.array(z.string()), refs: z.array(Ref) })) }), // a method / process flowchart, 5-9 steps
+  decision: z.object({ title: z.string(), intro: z.string(), start: z.string(), nodes: z.array(z.object({ id: z.string(), q: z.string(), options: z.array(z.object({ label: z.string(), next: z.string() })) })), results: z.array(z.object({ id: z.string(), title: z.string(), text: z.string(), refs: z.array(Ref) })) }), // interactive decision tree
+  timeline: z.object({ title: z.string(), events: z.array(z.object({ year: z.number(), label: z.string(), text: z.string(), group: z.string() })) }), // 10-24 events
+  gallery: z.object({ title: z.string(), intro: z.string(), items: z.array(z.object({ id: z.string(), title: z.string(), group: z.string(), summary: z.string(), detail: z.string(), refs: z.array(Ref), people: z.array(z.string()) })) }), // filterable cards, 12-40
+  compare: z.object({ title: z.string(), columns: z.array(z.string()), rows: z.array(z.object({ label: z.string(), cells: z.array(z.string()) })) }),
+  spectrum: z.object({ title: z.string(), intro: z.string(), left: z.string(), right: z.string(), stops: z.array(z.object({ pos: z.number(), label: z.string(), text: z.string(), who: z.string() })) }), // positions 0-100 on a line between two poles
+  cases: z.array(z.object({ title: z.string(), ref: Ref, question: z.string(), steps: z.array(z.object({ step: z.string(), note: z.string() })), takeaway: z.string() })), // worked examples, 3-6
+  sections: z.array(z.object({ id: z.string(), heading: z.string(), body: z.string(), refs: z.array(Ref), callout: z.object({ kind: z.enum(['myth', 'debate', 'tradition', 'tip']), text: z.string() }).optional(), confidence: Confidence.optional() })), // long-form chapters, 6-10
+  misreadings: z.array(Misreading),
+  views: z.array(z.object({ name: z.string(), who: z.string(), summary: z.string(), strengths: z.string(), critiques: z.string() })),
+  practice: z.array(z.object({ title: z.string(), steps: z.array(z.string()) })), // practical exercises for readers / small groups
+  sources: z.array(Source),
+});
+export type TopicStudyT = z.infer<typeof TopicStudy>;
+
 /** Which schema validates which content file. Files may hold an array (most) or a single object (emphasis). */
 export const FILES = {
   'people-1.json': z.array(Person), 'people-2.json': z.array(Person), 'people-3.json': z.array(Person),
@@ -355,6 +378,7 @@ export const FILES = {
   'gods-1.json': z.array(God), 'gods-2.json': z.array(God), 'gods-extra.json': GodsExtra, 'council.json': Council, 'debates-6.json': z.array(Debate),
   'study-ot-1.json': z.array(BookStudy), 'study-ot-2.json': z.array(BookStudy), 'study-ot-3.json': z.array(BookStudy), 'study-nt-1.json': z.array(BookStudy), 'study-nt-2.json': z.array(BookStudy),
   'deep-john.json': DeepStudy, 'deep-romans.json': DeepStudy, 'deep-hebrews.json': DeepStudy, 'deep-galatians.json': DeepStudy, 'deep-ephesians.json': DeepStudy,
+  'topic-hermeneutics.json': TopicStudy, 'topic-ministries.json': TopicStudy, 'topic-gifts.json': TopicStudy,
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),
   'eras.json': z.array(Era),

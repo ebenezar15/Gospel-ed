@@ -111,3 +111,23 @@ The user asked how evangelicals have misunderstood these books. Handle this fair
 - `writtenFrom.coords` / `writtenTo.coords` = [longitude, latitude] (e.g. Rome [12.5, 41.9], Jerusalem [35.23, 31.78], Babylon [44.42, 32.54], Ephesus [27.34, 37.94], Corinth [22.88, 37.91]). Omit coords if wholly unknown.
 - `worldEvents`: 3–6 dated events (negative years = BC) surrounding the writing.
 - Plain language for a curious non-specialist: short sentences, define every technical term. Depth through specifics, not jargon.
+
+---
+# Round 6: Topic deep studies (topic-*.json)
+
+Schema `TopicStudy` in `src/schemas/index.ts` — read every field comment; each field becomes a specific interactive visual:
+- `map` → a zoomable concept map (nodes coloured by `group`, labelled arrows from `edges`). Node `label` ≤ 5 words; `detail` 2–4 sentences; ids kebab-case.
+- `flow` → a step-by-step flowchart the reader walks through; each step has 2–4 `ask` questions the reader can ask of a passage/situation.
+- `decision` → an interactive decision tree (question → options → next question or result). 4–9 question nodes, 4–8 results. Every `next` must be a node id or result id.
+- `timeline` → a horizontal history; `group` uses a `groups` id. Negative years = BC.
+- `gallery` → filterable cards (filter by `group`); `people` = names (plain text).
+- `compare` → a comparison table; every row must have exactly as many `cells` as there are `columns`.
+- `spectrum` → a line between two poles (`left` = 0, `right` = 100) with labelled positions (`pos` 0–100) and who holds them. Present every position fairly.
+- `cases` → worked examples the reader steps through.
+- `sections` → long-form plain-language chapters (2–5 paragraphs, `\n\n` between), with an optional callout.
+- `misreadings` → same fair three-way format as round 5 (popular / in context / how traditional scholars answer).
+- `views` → the main schools of thought with strengths and critiques, steelmanned.
+- `practice` → exercises for individuals or small groups.
+
+Same editorial rules as before: strict scripture ref format, confidence labels, even-handed, never caricature evangelicals, Catholics, Orthodox, Pentecostals, Jewish readers or liberal scholars; plain language for curious non-specialists; define technical terms; name real scholars and real works (mark uncertain ones needs-verification). Use WebSearch (ToolSearch "select:WebSearch") to check facts and positions you are unsure of. The app is bilingual: write clean English sentences that will translate well (avoid puns and idioms that only work in English).
+Validate: `npx tsx scripts/validate.ts topic-<name>.json` until "No errors." (it also checks map edges, decision links, groups and table widths).

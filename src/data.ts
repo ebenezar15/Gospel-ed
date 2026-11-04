@@ -1,7 +1,7 @@
 /** Loads every /content/*.json file at build time and builds the cross-reference indexes the UI uses. */
 import type {
   PersonT, PlaceT, EraT, TimelineEventT, EmpireT, JourneyT, RelationshipT, RosterT, BookT, DebateT,
-  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
+  GospelNodeT, EmphasisT, DeepDiveT, PlainLayerT, CanonBookT, ParadoxT, BibleHistoryT, TypeLinkT, SymbolT, GodT, GodsExtraT, CouncilT, BookStudyT, DeepStudyT, TopicStudyT, GuidingQuestionT, TermT, EarlyViewT, ContextItemT, OccupationT, GiftsListT, StudyPathT, QuizQT,
 } from './schemas';
 
 import { applyOverlay } from './i18n';
@@ -53,6 +53,9 @@ export const bookStudies: BookStudyT[] = [...many<BookStudyT>('study-ot-'), ...m
 export const studyById = new Map(bookStudies.map((x) => [x.id, x]));
 export const deepStudies: DeepStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/deep-')).map((k) => files[k] as DeepStudyT).filter((x) => x && x.id);
 export const deepById = new Map(deepStudies.map((x) => [x.id, x]));
+const TOPIC_ORDER = ['hermeneutics', 'ministries', 'gifts'];
+export const topics: TopicStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/topic-')).map((k) => files[k] as TopicStudyT).filter((x) => x && x.id).sort((a, b) => TOPIC_ORDER.indexOf(a.id) - TOPIC_ORDER.indexOf(b.id));
+export const topicById = new Map(topics.map((x) => [x.id, x]));
 export const guideById = new Map(guides.map((g) => [g.id, g]));
 /** Plain-language summaries keyed by debate id (merged from plain-*.json overlays). */
 export const plain: PlainLayerT = Object.assign({}, get<PlainLayerT>('plain-1.json', {}), get<PlainLayerT>('plain-2.json', {}));
