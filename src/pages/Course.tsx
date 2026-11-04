@@ -6,6 +6,10 @@ import { PageHeader, Section, Refs, Paras, Empty, Bookmark, Rich, SourceLine } f
 import { Misreadings } from '../components/StudyViz';
 import { VisualView } from '../components/Visuals';
 import { useUI } from '../store';
+import Reel, { type ReelId } from '../components/Reels';
+
+/** Lessons that open with an animated explainer. */
+const LESSON_REEL: Record<string, ReelId> = { 'why-the-bible': 'big-story', 'how-it-was-formed': 'how-we-got-it', 'ot-nt': 'covenant-thread', 'jesus-the-word': 'jesus-lens', 'the-chain': 'the-chain', method: 'reading-well' };
 import { t } from '../i18n';
 
 const color = (c: string, a = 1) => `rgb(var(--${c}) / ${a})`;
@@ -62,6 +66,7 @@ export function LessonPage() {
         <div className="mt-3"><Refs refs={l.keyVerses} max={8} /></div>
       </motion.div>
 
+      {LESSON_REEL[l.id] && <div className="mb-8"><Reel id={LESSON_REEL[l.id]} /></div>}
       <div className="space-y-8">
         {l.sections.map((s, k) => (
           <section key={k}>

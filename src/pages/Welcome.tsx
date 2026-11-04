@@ -1,6 +1,7 @@
 /** The home page: greeting, an animated hero, today's verse, course progress, animated explainer reels,
  *  an explore grid of every section, the River of Ages and big questions. */
 import { useState, type CSSProperties } from 'react';
+import { createPortal } from 'react-dom';
 import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import Reel, { REELS, ReelCard, type ReelId } from '../components/Reels';
@@ -102,7 +103,7 @@ export default function Welcome() {
           <div key={g.group}>
             <div className="eyebrow mb-2" style={{ color: c(tone) }}>{g.group}</div>
             <div className="grid gap-2.5 grid-cols-2 sm:grid-cols-3 lg:grid-cols-5">{items.map((i, k) => (
-              <motion.div key={i.to} initial={{ opacity: 0, y: 12 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: k * 0.04 }}>
+              <motion.div key={i.to} initial={{ opacity: 0.35, y: 12 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ delay: k * 0.04 }}>
                 <Link to={i.to} className="card p-4 h-full flex flex-col gap-2 group">
                   <span className="w-10 h-10 rounded-2xl flex items-center justify-center text-lg transition-transform group-hover:scale-110 group-hover:-rotate-6" style={{ background: c(tone, 0.12), color: c(tone) }}>{i.glyph}</span>
                   <span className="font-semibold leading-tight">{i.label}</span>
@@ -122,13 +123,13 @@ export default function Welcome() {
           <Link key={g.id} to={`/guides/${g.id}`} className="card p-4 flex flex-col gap-1.5 group"><span className="eyebrow">{tv(g.category)}</span><span className="display text-lg leading-snug font-semibold group-hover:text-accent">{g.question}</span><span className="font-serif text-muted line-clamp-2">{g.plainAnswer}</span></Link>))}</div>
       </section>}
 
-      <AnimatePresence>{reel && (
+      {createPortal(<AnimatePresence>{reel && (
         <motion.div className="fixed inset-0 z-[70] bg-black/50 flex items-center justify-center p-3 md:p-8" initial={{ opacity: 0 }} animate={{ opacity: 1 }} exit={{ opacity: 0 }} onClick={() => setReel(null)}>
           <motion.div className="w-full max-w-4xl max-h-[92vh] overflow-y-auto bg-surface rounded-[1.8rem] p-3 md:p-5 shadow-2xl" initial={{ scale: 0.95, y: 20 }} animate={{ scale: 1, y: 0 }} exit={{ scale: 0.95, y: 20 }} onClick={(e) => e.stopPropagation()}>
             <div className="flex justify-between items-center mb-2"><span className="font-bold">{REELS.find((r) => r.id === reel)?.title}</span><button className="btn !px-3" onClick={() => setReel(null)} aria-label={t('Close')}>✕</button></div>
             <Reel id={reel} autoPlay />
           </motion.div>
-        </motion.div>)}</AnimatePresence>
+        </motion.div>)}</AnimatePresence>, document.body)}
     </div>
   );
 }
