@@ -1546,5 +1546,77 @@
 "family": "types",
 "strings": 138,
 "chars": 16401
+},
+{
+"chunk": "258",
+"family": "topic-gifts",
+"strings": 221,
+"chars": 23981
+},
+{
+"chunk": "259",
+"family": "topic-gifts",
+"strings": 255,
+"chars": 23873
+},
+{
+"chunk": "260",
+"family": "topic-gifts",
+"strings": 61,
+"chars": 23937
+},
+{
+"chunk": "261",
+"family": "topic-gifts",
+"strings": 64,
+"chars": 6834
+},
+{
+"chunk": "262",
+"family": "topic-hermeneutics",
+"strings": 230,
+"chars": 23974
+},
+{
+"chunk": "263",
+"family": "topic-hermeneutics",
+"strings": 277,
+"chars": 23902
+},
+{
+"chunk": "264",
+"family": "topic-hermeneutics",
+"strings": 66,
+"chars": 23691
+},
+{
+"chunk": "265",
+"family": "topic-hermeneutics",
+"strings": 109,
+"chars": 19717
+},
+{
+"chunk": "266",
+"family": "topic-ministries",
+"strings": 245,
+"chars": 23806
+},
+{
+"chunk": "267",
+"family": "topic-ministries",
+"strings": 224,
+"chars": 23920
+},
+{
+"chunk": "268",
+"family": "topic-ministries",
+"strings": 60,
+"chars": 22261
+},
+{
+"chunk": "269",
+"family": "topic-ministries",
+"strings": 100,
+"chars": 21342
 }
 ]

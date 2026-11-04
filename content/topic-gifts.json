@@ -1,0 +1,2416 @@
+{
+  "id": "gifts",
+  "title": "Gifts and Talents: Expression, Not Just a Tool",
+  "subtitle": "How Christians can use their gifts, why evangelicals often turned every gift into a tool for evangelism, and what a fuller biblical picture looks like",
+  "plain": "Every ability you have, from teaching a Bible study to fixing an engine or writing a song, is a gift from God (1 Cor 4:7). The Bible gives gifts several purposes at once: they reflect the image of the Creator, they serve and build up other people, they honour God as worship, and they can point people to Christ. Many evangelicals, out of real love for the lost and a sense of urgency, came to treat gifts mainly as tools for sharing the gospel, so that a song or a business or a painting only 'counted' if it led to a conversation about Jesus. That instinct protects something important: the gospel must be spoken, and people do need to hear it (Rom 10:14-15). But when it becomes the only measure, it can split life into 'sacred' and 'secular', turn art into advertising, and make neighbours into projects. The healthier view held by many evangelical, Catholic, Orthodox and Reformed teachers is that gifts are both expression and witness: done well and in love, they glorify God in themselves, and that same faithful work often opens the door for words.",
+  "keyPoints": [
+    "The first gifts in the Bible are creative and practical: God fills Bezalel with his Spirit to make beautiful things for worship (Exod 31:1-6), long before any list of 'spiritual gifts'.",
+    "In the parable, a 'talent' was a large sum of money, not a natural ability; the English meaning of 'talent' grew out of later readings of the parable (Matt 25:14-30).",
+    "Paul gives Spirit gifts a clear purpose: love and the building up of the body (1 Cor 12:7, 1 Cor 14:12), and he says gifts without love are worth nothing (1 Cor 13:1-3).",
+    "Ordinary work is service to God and neighbour (Col 3:23-24); Luther and the Reformers taught that a farmer or a mother is as truly called as a priest.",
+    "The evangelistic framing of gifts has real roots: urgency about eternity, love for people, the Great Commission and revivalist history. It deserves understanding, not mockery.",
+    "Its costs are also real: a sacred/secular divide, art used as propaganda, people treated as targets, guilt over 'non-ministry' work, and weak craft.",
+    "The strongest evangelical answers (Lausanne, Stott, Keller, Crouch) hold together that proclamation matters uniquely and that good work and beauty matter in themselves.",
+    "The Hebrew word avodah means both work and worship, and the Sabbath reminds us that our worth is not our output."
+  ],
+  "groups": [
+    {
+      "id": "creation",
+      "label": "Creation and the image of God",
+      "color": "ot"
+    },
+    {
+      "id": "spirit",
+      "label": "Gifts of the Spirit",
+      "color": "nt"
+    },
+    {
+      "id": "craft",
+      "label": "Natural talents and craft",
+      "color": "accent-2"
+    },
+    {
+      "id": "vocation",
+      "label": "Vocation and work",
+      "color": "good"
+    },
+    {
+      "id": "mission",
+      "label": "Mission and witness",
+      "color": "accent"
+    },
+    {
+      "id": "history",
+      "label": "History of the debate",
+      "color": "warn"
+    }
+  ],
+  "map": {
+    "title": "How gifts, creation, love and mission connect",
+    "intro": "This map shows how the Bible ties gifts to creation, to the Spirit, to work and to mission. Follow the arrows: gifts begin in the image of God, are shaped by love, and flow out as worship, service and witness. The 'sacred/secular divide' node shows where the connections were later broken.",
+    "nodes": [
+      {
+        "id": "image-of-god",
+        "label": "Image of God",
+        "group": "creation",
+        "detail": "Humans are made in God's image and likeness (Gen 1:26-27). In context this means, at least, that humans represent God in the world and share in his creative, ordering rule. A creative God makes creative creatures, so human making is part of what it means to be human, not a distraction from it.",
+        "refs": [
+          "Gen 1:26-27",
+          "Ps 8:3-8"
+        ]
+      },
+      {
+        "id": "cultural-mandate",
+        "label": "Cultural mandate",
+        "group": "creation",
+        "detail": "God tells the first humans to fill the earth and rule it (Gen 1:28) and places Adam in the garden 'to work it and keep it' (Gen 2:15). Theologians call this the 'cultural mandate': the call to develop the world's potential through work, culture and care. Adam naming the animals is an early picture of ordering and understanding creation.",
+        "refs": [
+          "Gen 1:28",
+          "Gen 2:15",
+          "Gen 2:19-20"
+        ]
+      },
+      {
+        "id": "bezalel",
+        "label": "Bezalel filled with Spirit",
+        "group": "craft",
+        "detail": "The first person in the Bible said to be 'filled with the Spirit of God' is an artist: Bezalel, gifted with skill in metal, stone, wood and design to build the tabernacle (Exod 31:1-6). God also gives him and Oholiab the ability to teach others (Exod 35:34). Craft is a Spirit gift.",
+        "refs": [
+          "Exod 31:1-6",
+          "Exod 35:30-35"
+        ],
+        "examples": [
+          "Bezalel",
+          "Oholiab"
+        ]
+      },
+      {
+        "id": "skill-wisdom",
+        "label": "Skill as wisdom",
+        "group": "craft",
+        "detail": "In Hebrew the same word, chokmah, means both 'wisdom' and 'skill'. The craftsmen of the tabernacle are called 'wise-hearted'. Proverbs praises the person skilled in work who will stand before kings (Prov 22:29), and Isaiah says the farmer's know-how is taught by God (Isa 28:26).",
+        "refs": [
+          "Prov 22:29",
+          "Exod 35:25-26",
+          "Isa 28:23-29"
+        ]
+      },
+      {
+        "id": "music-psalms",
+        "label": "Music and psalms",
+        "group": "craft",
+        "detail": "David organises skilled musicians for the temple, who 'prophesy' with lyres and cymbals (1 Chr 25:1-7). The Psalms ask for skilful playing (Ps 33:3). Music in Israel is first worship and expression of lament and joy, and it also declares God's deeds among the nations (Ps 96:3).",
+        "refs": [
+          "1 Chr 25:1-7",
+          "Ps 33:1-3",
+          "Ps 96:1-3"
+        ],
+        "examples": [
+          "David",
+          "Asaph",
+          "Heman",
+          "Jeduthun"
+        ]
+      },
+      {
+        "id": "spirit-gifts",
+        "label": "Spiritual gifts lists",
+        "group": "spirit",
+        "detail": "Paul and Peter list gifts (charismata, 'grace-gifts') in Rom 12:6-8, 1 Cor 12:8-10 and 12:28-30, Eph 4:11 and 1 Pet 4:10-11. The lists differ and overlap, which suggests they are samples, not a complete catalogue. They include both 'supernatural' gifts (healing, tongues) and ordinary ones (giving, leading, mercy).",
+        "refs": [
+          "Rom 12:6-8",
+          "1 Cor 12:4-11",
+          "Eph 4:11-12",
+          "1 Pet 4:10-11"
+        ]
+      },
+      {
+        "id": "fruit",
+        "label": "Fruit of the Spirit",
+        "group": "spirit",
+        "detail": "Gifts differ from person to person, but the fruit of the Spirit (love, joy, peace and the rest) is meant to grow in everyone (Gal 5:22-23). Gifts describe what we do for others; fruit describes who we are becoming. Gifts without fruit can harm the church.",
+        "refs": [
+          "Gal 5:22-23"
+        ]
+      },
+      {
+        "id": "love",
+        "label": "Love: the better way",
+        "group": "spirit",
+        "detail": "Paul places his great chapter on love between two chapters on gifts. Prophecy, knowledge, faith and even self-sacrifice without love are 'nothing' (1 Cor 13:1-3). Love is the motive and the measure of every gift, and it outlasts them all (1 Cor 13:8-13).",
+        "refs": [
+          "1 Cor 12:31-13:13",
+          "1 Cor 14:1"
+        ]
+      },
+      {
+        "id": "body",
+        "label": "Body of Christ",
+        "group": "spirit",
+        "detail": "Gifts are given 'for the common good' (1 Cor 12:7). The church is one body with many parts, and the weaker-seeming parts are indispensable (1 Cor 12:21-26). No gift is for private display; each serves the whole.",
+        "refs": [
+          "1 Cor 12:7",
+          "1 Cor 12:12-27",
+          "Rom 12:4-5"
+        ]
+      },
+      {
+        "id": "vocation",
+        "label": "Vocation",
+        "group": "vocation",
+        "detail": "Vocation means 'calling'. Paul tells believers to remain in the station in which they were called and to serve God there (1 Cor 7:17-24), and to work heartily 'as for the Lord' (Col 3:23-24). The Reformers used this to argue that every honest occupation is a calling from God.",
+        "refs": [
+          "1 Cor 7:17-24",
+          "Col 3:23-24",
+          "Eph 6:5-8"
+        ]
+      },
+      {
+        "id": "common-grace",
+        "label": "Common grace",
+        "group": "creation",
+        "detail": "God gives good gifts to all people, believers or not: rain, harvests, skill and wisdom (Matt 5:45, Acts 14:17). Culture first appears in Cain's line (music, metalwork, herding, Gen 4:20-22). Reformed theology calls this 'common grace': talent is God's gift even where he is not acknowledged.",
+        "refs": [
+          "Matt 5:45",
+          "Acts 14:17",
+          "Gen 4:20-22",
+          "Jas 1:17"
+        ]
+      },
+      {
+        "id": "beauty",
+        "label": "Beauty",
+        "group": "creation",
+        "detail": "God made trees 'pleasant to the sight' as well as good for food (Gen 2:9) and ordered priestly garments 'for glory and for beauty' (Exod 28:2). Beauty is not only decoration for a message; it reflects God's own goodness (Ps 27:4). Paul tells believers to think about whatever is lovely (Phil 4:8).",
+        "refs": [
+          "Gen 2:9",
+          "Exod 28:2",
+          "Ps 27:4",
+          "Phil 4:8"
+        ]
+      },
+      {
+        "id": "worship",
+        "label": "Worship",
+        "group": "vocation",
+        "detail": "Paul calls offering our whole bodies to God our 'reasonable' or 'spiritual worship' (Rom 12:1). Hebrews names praise and also doing good and sharing as sacrifices pleasing to God (Heb 13:15-16). Worship is wider than singing: it includes faithful work and love.",
+        "refs": [
+          "Rom 12:1",
+          "Heb 13:15-16",
+          "Col 3:17"
+        ]
+      },
+      {
+        "id": "avodah",
+        "label": "Avodah: work and worship",
+        "group": "vocation",
+        "detail": "The Hebrew root avad gives avodah, which means work, service and worship. Adam is to 'work' (avad) the garden (Gen 2:15); Israel is to 'serve' (avad) God at Sinai (Exod 3:12); the Levites perform the 'service' of the sanctuary (Num 8:11). The language itself refuses a split between labour and worship.",
+        "refs": [
+          "Gen 2:15",
+          "Exod 3:12",
+          "Exod 20:9",
+          "Num 8:11"
+        ]
+      },
+      {
+        "id": "sabbath",
+        "label": "Sabbath rest",
+        "group": "vocation",
+        "detail": "Immediately after naming Bezalel, God commands the Sabbath (Exod 31:12-17): even holy work stops. Work is good, but it is not our identity or our saviour. Rest declares that God, not our productivity, holds the world together.",
+        "refs": [
+          "Exod 31:12-17",
+          "Exod 20:8-11",
+          "Deut 5:12-15"
+        ]
+      },
+      {
+        "id": "witness",
+        "label": "Witness",
+        "group": "mission",
+        "detail": "Jesus says people will see good works and glorify the Father (Matt 5:16). Peter says honourable conduct among outsiders can lead them to glorify God (1 Pet 2:12). Witness includes how we live and work, and it also includes being ready to give a reason for our hope (1 Pet 3:15).",
+        "refs": [
+          "Matt 5:14-16",
+          "1 Pet 2:12",
+          "1 Pet 3:15-16"
+        ]
+      },
+      {
+        "id": "great-commission",
+        "label": "Great Commission",
+        "group": "mission",
+        "detail": "The risen Jesus sends his disciples to make disciples of all nations, baptising and teaching them (Matt 28:18-20), and to be his witnesses to the ends of the earth (Acts 1:8). For many evangelicals this command defines the church's central task.",
+        "refs": [
+          "Matt 28:18-20",
+          "Acts 1:8",
+          "Luke 24:46-48"
+        ]
+      },
+      {
+        "id": "evangelism",
+        "label": "Evangelism",
+        "group": "mission",
+        "detail": "Evangelism is announcing the good news of Jesus and calling people to trust him. Paul insists that people cannot believe without hearing (Rom 10:14-15) and adapts his life to win others (1 Cor 9:19-23). Some people have a particular gift as evangelists (Eph 4:11), but all believers can speak of their hope.",
+        "refs": [
+          "Rom 10:14-15",
+          "1 Cor 9:19-23",
+          "Eph 4:11",
+          "2 Tim 4:5"
+        ]
+      },
+      {
+        "id": "sacred-secular",
+        "label": "Sacred/secular divide",
+        "group": "history",
+        "detail": "The idea that some activities (prayer, preaching, missions) are 'spiritual' while others (business, art, housework) are merely 'secular'. It has ancient roots in a two-tier view of Christian life and modern forms in evangelical culture. The Lausanne Cape Town Commitment (2010) named it a major obstacle to mission.",
+        "refs": [
+          "Col 3:17",
+          "1 Cor 10:31"
+        ]
+      },
+      {
+        "id": "stewardship",
+        "label": "Stewardship and talents",
+        "group": "vocation",
+        "detail": "In the parable of the talents, a master entrusts large sums of money to servants according to their ability (Matt 25:14-30). A 'talent' was a weight of silver worth many years of wages. The parable is about faithfulness with what the master entrusts, and later readers applied it to every kind of ability.",
+        "refs": [
+          "Matt 25:14-30",
+          "Luke 19:11-27",
+          "1 Pet 4:10"
+        ]
+      },
+      {
+        "id": "neighbour-love",
+        "label": "Love of neighbour",
+        "group": "vocation",
+        "detail": "Jesus joins love of God and love of neighbour as the two great commandments (Matt 22:37-40). Much of our daily work is how we love neighbours: growing food, healing, teaching, building. The Good Samaritan helps without first asking about belief (Luke 10:25-37).",
+        "refs": [
+          "Matt 22:37-40",
+          "Luke 10:25-37",
+          "Gal 6:10"
+        ]
+      },
+      {
+        "id": "new-creation",
+        "label": "New creation",
+        "group": "creation",
+        "detail": "Revelation pictures the kings of the earth bringing 'the glory and honour of the nations' into the new Jerusalem (Rev 21:24-26), echoing Isa 60. Many interpreters read this as human culture, purified, entering God's renewed world. Others read it more modestly as the nations' worship. Paul says labour 'in the Lord' is not in vain (1 Cor 15:58).",
+        "refs": [
+          "Rev 21:24-26",
+          "Isa 60:5-11",
+          "1 Cor 15:58"
+        ]
+      },
+      {
+        "id": "kingdom-hope",
+        "label": "What lasts?",
+        "group": "mission",
+        "detail": "Some Christians say only souls and God's word last forever, so only work that saves souls truly matters. Others point to bodily resurrection and a renewed earth (Rom 8:19-21) and to works that 'follow' believers (Rev 14:13). Your answer to 'what lasts?' shapes how you value gifts.",
+        "refs": [
+          "Rom 8:19-21",
+          "Rev 14:13",
+          "1 Cor 3:10-15",
+          "2 Pet 3:10-13"
+        ]
+      },
+      {
+        "id": "grace-gift",
+        "label": "Grace and gift",
+        "group": "spirit",
+        "detail": "Charisma comes from charis, grace. A gift is first something received, not achieved: 'What do you have that you did not receive?' (1 Cor 4:7). This frees people from boasting and from despair, and it creates gratitude and a relationship with the Giver.",
+        "refs": [
+          "1 Cor 4:7",
+          "Rom 12:3-6",
+          "Jas 1:17"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "from": "image-of-god",
+        "to": "cultural-mandate",
+        "label": "commissions"
+      },
+      {
+        "from": "image-of-god",
+        "to": "beauty",
+        "label": "reflects God's"
+      },
+      {
+        "from": "cultural-mandate",
+        "to": "avodah",
+        "label": "named as"
+      },
+      {
+        "from": "cultural-mandate",
+        "to": "vocation",
+        "label": "grounds"
+      },
+      {
+        "from": "bezalel",
+        "to": "skill-wisdom",
+        "label": "shows craft as"
+      },
+      {
+        "from": "bezalel",
+        "to": "worship",
+        "label": "builds for"
+      },
+      {
+        "from": "bezalel",
+        "to": "sabbath",
+        "label": "followed by"
+      },
+      {
+        "from": "skill-wisdom",
+        "to": "music-psalms",
+        "label": "includes"
+      },
+      {
+        "from": "music-psalms",
+        "to": "worship",
+        "label": "expresses"
+      },
+      {
+        "from": "music-psalms",
+        "to": "witness",
+        "label": "declares to nations"
+      },
+      {
+        "from": "grace-gift",
+        "to": "spirit-gifts",
+        "label": "names"
+      },
+      {
+        "from": "grace-gift",
+        "to": "bezalel",
+        "label": "also covers"
+      },
+      {
+        "from": "spirit-gifts",
+        "to": "body",
+        "label": "given for"
+      },
+      {
+        "from": "love",
+        "to": "spirit-gifts",
+        "label": "measures"
+      },
+      {
+        "from": "fruit",
+        "to": "love",
+        "label": "begins with"
+      },
+      {
+        "from": "common-grace",
+        "to": "skill-wisdom",
+        "label": "gives to all"
+      },
+      {
+        "from": "vocation",
+        "to": "neighbour-love",
+        "label": "serves"
+      },
+      {
+        "from": "avodah",
+        "to": "worship",
+        "label": "is also"
+      },
+      {
+        "from": "stewardship",
+        "to": "vocation",
+        "label": "applied to"
+      },
+      {
+        "from": "neighbour-love",
+        "to": "witness",
+        "label": "becomes"
+      },
+      {
+        "from": "witness",
+        "to": "evangelism",
+        "label": "opens door to"
+      },
+      {
+        "from": "great-commission",
+        "to": "evangelism",
+        "label": "commands"
+      },
+      {
+        "from": "great-commission",
+        "to": "neighbour-love",
+        "label": "teaches to obey"
+      },
+      {
+        "from": "sacred-secular",
+        "to": "vocation",
+        "label": "devalues"
+      },
+      {
+        "from": "sacred-secular",
+        "to": "evangelism",
+        "label": "overloads"
+      },
+      {
+        "from": "kingdom-hope",
+        "to": "sacred-secular",
+        "label": "'only souls last' feeds"
+      },
+      {
+        "from": "kingdom-hope",
+        "to": "new-creation",
+        "label": "answered by"
+      },
+      {
+        "from": "new-creation",
+        "to": "beauty",
+        "label": "gathers"
+      },
+      {
+        "from": "body",
+        "to": "witness",
+        "label": "unity shows"
+      },
+      {
+        "from": "worship",
+        "to": "new-creation",
+        "label": "fulfilled in"
+      }
+    ]
+  },
+  "flow": {
+    "title": "From gift to faithful use",
+    "intro": "A path for any gift, whether it is preaching, carpentry, accounting or song-writing. The steps are not a ladder you climb once; most people walk around this circle many times.",
+    "steps": [
+      {
+        "label": "Discover the gift",
+        "detail": "Notice what you do well, what others thank you for, and what you love doing. Gifts are often confirmed by the community rather than self-declared (1 Tim 4:14).",
+        "ask": [
+          "What do people repeatedly ask me to help with?",
+          "What work makes me lose track of time?",
+          "Has my church or my workplace confirmed this ability?"
+        ],
+        "refs": [
+          "Rom 12:3-6",
+          "1 Tim 4:14"
+        ]
+      },
+      {
+        "label": "Receive it as grace",
+        "detail": "A gift is received, not earned (1 Cor 4:7). That removes both pride and false modesty, and it turns the gift into a relationship of thanks with the Giver.",
+        "ask": [
+          "Do I treat this ability as mine to boast about?",
+          "Do I despise it because it seems ordinary?",
+          "Can I thank God for it by name?"
+        ],
+        "refs": [
+          "1 Cor 4:7",
+          "Jas 1:17"
+        ]
+      },
+      {
+        "label": "Develop it with skill",
+        "detail": "Bezalel was gifted and also trained and taught others (Exod 35:34). Paul tells Timothy to fan his gift into flame and practise it (2 Tim 1:6, 1 Tim 4:15). Good intentions do not replace good craft.",
+        "ask": [
+          "What would it mean to get better at this?",
+          "Who could mentor or train me?",
+          "Am I using 'it's for God' as an excuse for careless work?"
+        ],
+        "refs": [
+          "Exod 35:30-35",
+          "2 Tim 1:6",
+          "1 Tim 4:15",
+          "Prov 22:29"
+        ]
+      },
+      {
+        "label": "Offer it in love",
+        "detail": "Without love even spectacular gifts are 'nothing' (1 Cor 13:1-3). Love asks what actually helps the other person, not what makes me look useful.",
+        "ask": [
+          "Whom does this gift actually serve?",
+          "Would I still do it if no one noticed?",
+          "Is my motive love, fear, or a wish to be admired?"
+        ],
+        "refs": [
+          "1 Cor 13:1-3",
+          "Matt 6:1-4"
+        ]
+      },
+      {
+        "label": "Serve body and neighbour",
+        "detail": "Spirit gifts build up the church (1 Cor 14:12); daily work serves neighbours and the common good (Gal 6:10, Jer 29:7). Both are real service to God.",
+        "ask": [
+          "How does this build up my church family?",
+          "How does it serve people outside the church?",
+          "Am I seeking the welfare of my city through it?"
+        ],
+        "refs": [
+          "1 Cor 14:12",
+          "Gal 6:10",
+          "Jer 29:7",
+          "1 Pet 4:10-11"
+        ]
+      },
+      {
+        "label": "Let it witness",
+        "detail": "Work done with excellence and integrity 'adorns' the gospel (Titus 2:10) and makes people curious (1 Pet 2:12). When questions come, be ready to speak gently about your hope (1 Pet 3:15).",
+        "ask": [
+          "Does the quality and honesty of my work speak well of Christ?",
+          "Am I ready to explain my hope when asked?",
+          "Am I respecting people's freedom, or pressuring them?"
+        ],
+        "refs": [
+          "Titus 2:9-10",
+          "1 Pet 2:12",
+          "1 Pet 3:15-16",
+          "Col 4:5-6"
+        ]
+      },
+      {
+        "label": "Rest and give thanks",
+        "detail": "God looked at his work and called it good, then rested (Gen 1:31, Gen 2:2-3). Moses saw the finished tabernacle and blessed the workers (Exod 39:43). End with thanks and Sabbath, not with anxiety about results.",
+        "ask": [
+          "Can I stop and call good work good?",
+          "Do I measure my worth by results?",
+          "What will I thank God for in this work today?"
+        ],
+        "refs": [
+          "Gen 1:31",
+          "Exod 39:42-43",
+          "Ps 90:17",
+          "Col 3:17"
+        ]
+      }
+    ]
+  },
+  "decision": {
+    "title": "Does my work or gift have to 'lead to evangelism' to matter to God?",
+    "intro": "Answer honestly. The results present the main Christian views fairly. Most mature believers end up holding several of them together.",
+    "start": "q-kind",
+    "nodes": [
+      {
+        "id": "q-kind",
+        "q": "What kind of gift or work are you thinking about?",
+        "options": [
+          {
+            "label": "A ministry gift used in church (teaching, helping, prophecy, leading)",
+            "next": "q-body"
+          },
+          {
+            "label": "My daily job, trade or profession",
+            "next": "q-vocation"
+          },
+          {
+            "label": "A creative or artistic talent",
+            "next": "q-art"
+          },
+          {
+            "label": "Any of these: I feel guilty that it is not 'real ministry'",
+            "next": "q-guilt"
+          }
+        ]
+      },
+      {
+        "id": "q-body",
+        "q": "When you use this gift, who is mainly helped?",
+        "options": [
+          {
+            "label": "Fellow believers are built up and encouraged",
+            "next": "r-body"
+          },
+          {
+            "label": "People outside the church hear about Christ",
+            "next": "q-speak"
+          },
+          {
+            "label": "Honestly, it is mostly about feeling useful or being seen",
+            "next": "r-rest"
+          }
+        ]
+      },
+      {
+        "id": "q-vocation",
+        "q": "Does your work meet real needs of other people (food, health, safety, order, knowledge, beauty)?",
+        "options": [
+          {
+            "label": "Yes, people are clearly served by it",
+            "next": "q-witness"
+          },
+          {
+            "label": "Not obviously; it feels pointless or purely for money",
+            "next": "q-creation"
+          }
+        ]
+      },
+      {
+        "id": "q-creation",
+        "q": "Does God value good things for their own sake, apart from how useful they are?",
+        "options": [
+          {
+            "label": "Yes: God called creation good before anyone was saved",
+            "next": "q-witness"
+          },
+          {
+            "label": "I think only eternal things really count",
+            "next": "q-lasts"
+          }
+        ]
+      },
+      {
+        "id": "q-lasts",
+        "q": "What do you think will last into the age to come?",
+        "options": [
+          {
+            "label": "Only people's souls and God's word",
+            "next": "r-priority"
+          },
+          {
+            "label": "People, raised bodily, in a renewed creation where good work is purified and kept",
+            "next": "r-both"
+          }
+        ]
+      },
+      {
+        "id": "q-art",
+        "q": "How do you approach your creative work?",
+        "options": [
+          {
+            "label": "I try to make it honest, skilful and true",
+            "next": "q-witness"
+          },
+          {
+            "label": "I add a gospel message so that it 'counts', even if the craft suffers",
+            "next": "q-guilt"
+          }
+        ]
+      },
+      {
+        "id": "q-guilt",
+        "q": "Where does the feeling that it must lead to evangelism come from?",
+        "options": [
+          {
+            "label": "Real love for people who do not know Christ",
+            "next": "q-speak"
+          },
+          {
+            "label": "A fear that God is disappointed with ordinary work",
+            "next": "r-neighbour"
+          },
+          {
+            "label": "Pressure from church culture that only praises 'ministry'",
+            "next": "r-neighbour"
+          }
+        ]
+      },
+      {
+        "id": "q-witness",
+        "q": "Do the people around you know you follow Jesus, and do chances to talk arise?",
+        "options": [
+          {
+            "label": "Yes, natural openings come and I take them",
+            "next": "r-speak"
+          },
+          {
+            "label": "They see my work and character, though we seldom talk about faith",
+            "next": "r-both"
+          },
+          {
+            "label": "Rarely, and I am tempted to force conversations",
+            "next": "q-speak"
+          }
+        ]
+      },
+      {
+        "id": "q-speak",
+        "q": "When you think about sharing your faith, how do you see the other person?",
+        "options": [
+          {
+            "label": "As a neighbour I love whether or not they respond",
+            "next": "r-speak"
+          },
+          {
+            "label": "If I am honest, sometimes as a target or a number",
+            "next": "r-projects"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "id": "r-both",
+        "title": "Expression and witness are both real",
+        "text": "Your gift honours God in itself, because it reflects the creativity of the God whose image you bear, and it serves others. That same faithful work is also a witness: people see good works and glorify the Father (Matt 5:16). Many evangelical and Reformed teachers (Keller, Crouch, Stott) and Catholic and Orthodox traditions hold this integrated view. Keep both: do the work well and in love, and be ready to speak when asked.",
+        "refs": [
+          "Gen 1:26-28",
+          "Matt 5:14-16",
+          "1 Cor 15:58",
+          "Rev 21:24-26"
+        ]
+      },
+      {
+        "id": "r-neighbour",
+        "title": "Your work is service to your neighbour",
+        "text": "Ordinary work is not second-class. Paul tells workers to serve 'as for the Lord' (Col 3:23-24), and Luther taught that God feeds and cares for the world through people's daily callings. You do not need to attach a sermon to a well-made table or a carefully kept account for it to please God. Release the guilt; offer the work with thanks.",
+        "refs": [
+          "Col 3:23-24",
+          "1 Thess 4:11-12",
+          "Eph 4:28",
+          "Matt 22:37-40"
+        ]
+      },
+      {
+        "id": "r-speak",
+        "title": "Use the opportunities to speak",
+        "text": "Your life and work have earned you trust; now let your words follow. Paul asks how people will believe without hearing (Rom 10:14-15), and Peter says to be ready to give a reason for your hope, with gentleness and respect (1 Pet 3:15). This is not a betrayal of good work but its natural partner. Evangelicals rightly insist that silence about Christ is not neutral.",
+        "refs": [
+          "Rom 10:14-15",
+          "1 Pet 3:15-16",
+          "Col 4:5-6",
+          "Acts 1:8"
+        ]
+      },
+      {
+        "id": "r-projects",
+        "title": "Beware making people into projects",
+        "text": "Love that is conditional on conversion is not yet the love Jesus showed. He healed ten lepers knowing nine would not return (Luke 17:11-19), and he looked at the rich young man and loved him though he walked away (Mark 10:21). Serve people because they bear God's image. Keep sharing Christ, but as a gift offered to a friend, not as a sale closed with a customer.",
+        "refs": [
+          "Luke 17:11-19",
+          "Mark 10:21",
+          "Luke 10:25-37",
+          "1 Cor 13:4-7"
+        ]
+      },
+      {
+        "id": "r-body",
+        "title": "Gifts are for building up the body",
+        "text": "Spirit gifts are given 'for the common good' (1 Cor 12:7) and to build up the church (1 Cor 14:12, Eph 4:12). Encouraging, teaching, helping and giving within the church are not lesser than evangelism; a loving, united church is itself a witness to the world (John 13:35, John 17:21).",
+        "refs": [
+          "1 Cor 12:7",
+          "1 Cor 14:12",
+          "Eph 4:11-16",
+          "John 13:34-35"
+        ]
+      },
+      {
+        "id": "r-priority",
+        "title": "Proclamation has a unique place",
+        "text": "Some careful evangelical teachers (for example DeYoung and Gilbert, Piper) argue that because people face eternal judgement and salvation, the church's distinct mission is to proclaim Christ and make disciples. This is a serious view rooted in texts like Matt 28:18-20 and 2 Cor 5:20. Notice, though, that these same writers also affirm that a Christian's ordinary work and good deeds please God; they distinguish what the church as an institution is sent to do from everything a Christian may rightly do. Consider also the resurrection hope of a renewed creation (Rom 8:19-21).",
+        "refs": [
+          "Matt 28:18-20",
+          "2 Cor 5:18-20",
+          "Rom 8:19-21",
+          "Col 3:23-24"
+        ]
+      },
+      {
+        "id": "r-rest",
+        "title": "Rest: your worth is not your output",
+        "text": "If your gift has become a way to feel valuable, God's first answer is Sabbath. Even the holy work of the tabernacle stopped for rest (Exod 31:12-17). You are loved before you are useful. Receive that, then return to your gift with freedom rather than pressure.",
+        "refs": [
+          "Exod 31:12-17",
+          "Matt 11:28-30",
+          "Mark 6:31",
+          "Luke 10:38-42"
+        ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "How Christians have thought about gifts, work and witness",
+    "events": [
+      {
+        "year": -1446,
+        "label": "Bezalel builds the tabernacle",
+        "text": "God fills Bezalel with his Spirit for skill in craft and gives Oholiab to help him (Exod 31:1-6). This is the traditional early date for the exodus; many scholars prefer about 1260 BC. Either way, Israel's memory puts artistic skill at the heart of worship.",
+        "group": "craft"
+      },
+      {
+        "year": -1000,
+        "label": "David organises temple musicians",
+        "text": "The Chronicler describes David appointing families of skilled singers and players, led by Asaph, Heman and Jeduthun, to 'prophesy' with instruments (1 Chr 25:1-7). Music becomes a permanent, trained ministry.",
+        "group": "craft"
+      },
+      {
+        "year": 150,
+        "label": "Christians in ordinary trades",
+        "text": "The *Epistle to Diognetus* (second century, date uncertain) says Christians live in ordinary cities, follow local customs in dress and food, and yet show a remarkable way of life. Early Christians kept their trades, though writers like Tertullian (*On Idolatry*) said they must refuse work that served idol worship.",
+        "group": "history"
+      },
+      {
+        "year": 530,
+        "label": "Benedict's Rule: prayer and work",
+        "text": "The *Rule of St Benedict* (about 530) orders monastic life around set hours of prayer and set hours of manual work and reading; chapter 48 says idleness is the enemy of the soul. The famous motto 'ora et labora' (pray and work) summarises this rhythm, but the phrase itself is not in the Rule and seems to date from the nineteenth century.",
+        "group": "vocation"
+      },
+      {
+        "year": 1144,
+        "label": "Medieval ranking of callings",
+        "text": "Abbot Suger dedicates the rebuilt choir of Saint-Denis near Paris, its light and coloured glass meant to lift the mind from material beauty to God. Medieval cathedrals were the work of thousands of skilled craftsmen, yet the 'religious' life of monks and clergy was ranked above lay work. This hierarchy goes back to writers like Eusebius of Caesarea (*Demonstration of the Gospel* 1.8, early fourth century), who described a 'perfect' life given wholly to God and a lower, 'permitted' life for those who farm, trade and marry.",
+        "group": "craft"
+      },
+      {
+        "year": 1520,
+        "label": "Luther on calling",
+        "text": "In his 1520 treatises Luther argues that all baptised Christians are priests and that the works of monks and priests are no holier in God's sight than the work of a farmer in the field or a woman in her household. Later he describes daily callings as 'masks of God' through which God cares for the world. The popular line about God 'milking the cows through the milkmaid' paraphrases this idea and is usually traced to Gustaf Wingren's summary, not to a confirmed Luther text.",
+        "group": "vocation"
+      },
+      {
+        "year": 1559,
+        "label": "Calvin's 'sentry post'",
+        "text": "In the final edition of the *Institutes* (3.10.6), Calvin says God has assigned each person a calling, like a sentry post, so that no one drifts through life, and that no task is so humble that it does not shine before God when done in obedience.",
+        "group": "vocation"
+      },
+      {
+        "year": 1603,
+        "label": "Puritan teaching on calling",
+        "text": "William Perkins's *A Treatise of the Vocations or Callings of Men* (published 1603) distinguishes a 'general calling' to be a Christian from a 'particular calling' to a trade, and teaches that both serve God and the common good. Later Puritans such as Richard Baxter developed this in detail.",
+        "group": "vocation"
+      },
+      {
+        "year": 1675,
+        "label": "Pietism and the heart",
+        "text": "Philipp Jakob Spener's *Pia Desideria* calls for heart-religion, Bible study groups and active lay faith. Pietism energised missions, education and care for orphans (Francke at Halle), and also taught many to judge activities by their direct spiritual usefulness.",
+        "group": "mission"
+      },
+      {
+        "year": 1723,
+        "label": "Bach: 'to God alone the glory'",
+        "text": "J. S. Bach becomes cantor in Leipzig. He often headed scores 'J.J.' (Jesu juva, 'Jesus, help') and ended them 'S.D.G.' (Soli Deo gloria, 'to God alone the glory'), on secular pieces as well as church works. In his Bible he noted that 1 Chronicles 25 is the foundation of God-pleasing church music.",
+        "group": "craft"
+      },
+      {
+        "year": 1760,
+        "label": "Wesley: 'The Use of Money'",
+        "text": "John Wesley's sermon on money (preached from the 1740s and printed around 1760) urges Christians to gain all they can by honest work, save all they can and give all they can. Methodism joined fervent evangelism with schools, medicine and help for the poor.",
+        "group": "mission"
+      },
+      {
+        "year": 1835,
+        "label": "Finney's 'new measures'",
+        "text": "Charles Finney's *Lectures on Revivals of Religion* argue that revival is the right use of appropriate means, defending techniques such as the 'anxious bench'. Revivalism made the conversion of individuals the measure of the church's success, though Finney himself also backed abolition and social reform.",
+        "group": "mission"
+      },
+      {
+        "year": 1873,
+        "label": "Moody and Sankey",
+        "text": "D. L. Moody preaches and Ira Sankey sings across Britain (1873-1875). Sankey's gospel songs were written and sung to prepare hearers for the sermon. Moody famously described the world as a wrecked ship and his task as saving as many as he could in the lifeboat, an image that shaped generations of evangelical priorities.",
+        "group": "mission"
+      },
+      {
+        "year": 1910,
+        "label": "Edinburgh Missionary Conference",
+        "text": "The World Missionary Conference in Edinburgh, chaired by John R. Mott, gathers Protestant missions with the hope of evangelising the world 'in this generation'. Missions then included schools, hospitals and translation alongside preaching.",
+        "group": "mission"
+      },
+      {
+        "year": 1925,
+        "label": "Fundamentalism and the 'great reversal'",
+        "text": "After the Fundamentalist-Modernist controversies of the 1920s, many conservative Protestants withdrew from cultural and social engagement, which they linked with the liberal 'social gospel'. Historian Timothy L. Smith called this the 'great reversal', and sociologist David Moberg made the phrase famous in his 1972 book. Premillennial expectation of the end often reinforced the focus on saving souls.",
+        "group": "history"
+      },
+      {
+        "year": 1942,
+        "label": "Sayers: 'Why Work?'",
+        "text": "In an address at Eastbourne on 23 April 1942, Dorothy L. Sayers argues that the church has failed workers by caring only that they are honest and come to church, not that their work is good. Work should be the full expression of a person's God-given faculties. Her book *The Mind of the Maker* (1941) links human creativity to the Trinity.",
+        "group": "vocation"
+      },
+      {
+        "year": 1949,
+        "label": "Billy Graham's crusades",
+        "text": "Billy Graham's Los Angeles campaign launches decades of mass evangelism. Music, film, broadcasting and celebrity testimony were enlisted for the crusades, making 'using your gift for the gospel' a powerful and inspiring model for millions.",
+        "group": "mission"
+      },
+      {
+        "year": 1972,
+        "label": "Jesus music becomes 'ministry'",
+        "text": "Larry Norman's song 'Why Should the Devil Have All the Good Music?' (1972) captures the Jesus-music movement that grew into the Contemporary Christian Music industry. Debates followed for decades over whether Christian musicians were ministers who must mention Jesus or artists free to write about all of life.",
+        "group": "craft"
+      },
+      {
+        "year": 1973,
+        "label": "Schaeffer: *Art and the Bible*",
+        "text": "Francis Schaeffer argues that art is not justified only by being a vehicle for evangelism; a Christian's creativity is valuable as the work of a creature made in God's image. With his friend Hans Rookmaaker he encouraged evangelicals to take the arts seriously.",
+        "group": "craft"
+      },
+      {
+        "year": 1974,
+        "label": "Lausanne Covenant",
+        "text": "The International Congress on World Evangelization, led by Billy Graham and with John Stott as chief drafter of the Covenant, affirms that evangelism and socio-political involvement are both part of Christian duty, while stating that in the church's mission of sacrificial service evangelism is primary.",
+        "group": "mission"
+      },
+      {
+        "year": 2008,
+        "label": "Crouch: *Culture Making*",
+        "text": "Andy Crouch argues that the only way to change culture is to make more and better culture, and that Christians should move beyond condemning, critiquing, copying or consuming culture toward cultivating and creating it.",
+        "group": "craft"
+      },
+      {
+        "year": 2011,
+        "label": "DeYoung and Gilbert",
+        "text": "In *What Is the Mission of the Church?* Kevin DeYoung and Greg Gilbert argue that the church's distinct mission is to make disciples through proclaiming the gospel, while affirming that Christians should do good works and that ordinary vocations honour God. Their book is a careful counterweight to calls for 'holistic' mission.",
+        "group": "mission"
+      },
+      {
+        "year": 2012,
+        "label": "Keller: *Every Good Endeavor*",
+        "text": "Tim Keller, with Katherine Leary Alsdorf, presents work as part of God's good design, damaged by sin and redeemed through the gospel. The book draws on Luther and Sayers and helped spread the 'faith and work' movement. (Two years earlier, the Lausanne Cape Town Commitment of 2010 named the sacred-secular divide as a major obstacle to mission.)",
+        "group": "vocation"
+      },
+      {
+        "year": 2017,
+        "label": "Fujimura: *Culture Care*",
+        "text": "Painter Makoto Fujimura calls Christians to 'culture care': tending culture like a garden, offering beauty as a gift rather than a weapon in culture wars. He develops this in *Art and Faith: A Theology of Making* (2020).",
+        "group": "craft"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Gifts and talents: what they are, and how each can be expression and witness",
+    "intro": "Filter by colour. Each card names a gift, shows where Scripture mentions it, gives people who show it, and describes how it can be both an expression of love and worship and a witness to Christ. The spiritual-gift lists are already in the Gifts section of the app; here the focus is on how each gift is used.",
+    "items": [
+      {
+        "id": "prophecy",
+        "title": "Prophecy",
+        "group": "spirit",
+        "summary": "Speaking a word from God that strengthens, encourages and comforts (1 Cor 14:3).",
+        "detail": "Christians disagree on whether prophecy today means new revelation, Spirit-prompted insight, or faithful preaching. Expression: it is love speaking truth to build others up. Witness: Paul says an outsider who hears prophecy may be convicted and declare that God is truly among you (1 Cor 14:24-25).",
+        "refs": [
+          "1 Cor 14:3",
+          "1 Cor 14:24-25",
+          "Rom 12:6"
+        ],
+        "people": [
+          "Agabus",
+          "Philip's daughters",
+          "Huldah"
+        ]
+      },
+      {
+        "id": "teaching",
+        "title": "Teaching",
+        "group": "spirit",
+        "summary": "Explaining God's word clearly so others understand and obey.",
+        "detail": "Teachers carry extra responsibility (Jas 3:1). Expression: delight in truth and in other people's growth. Witness: clear teaching equips the whole church for its work in the world (Eph 4:12).",
+        "refs": [
+          "Rom 12:7",
+          "Eph 4:11-12",
+          "Jas 3:1"
+        ],
+        "people": [
+          "Ezra",
+          "Priscilla and Aquila",
+          "Apollos"
+        ]
+      },
+      {
+        "id": "encouragement",
+        "title": "Encouragement (exhortation)",
+        "group": "spirit",
+        "summary": "Coming alongside people to urge, comfort and strengthen them.",
+        "detail": "Barnabas' name means 'son of encouragement' (Acts 4:36). Expression: compassion in words. Witness: Barnabas vouched for Paul and saw grace in Antioch, and 'a great many people were added to the Lord' (Acts 11:23-24).",
+        "refs": [
+          "Rom 12:8",
+          "Acts 4:36",
+          "Acts 11:22-24"
+        ],
+        "people": [
+          "Barnabas",
+          "Jonathan (1 Sam 23:16)"
+        ]
+      },
+      {
+        "id": "giving",
+        "title": "Giving",
+        "group": "spirit",
+        "summary": "Sharing resources generously and simply.",
+        "detail": "Paul asks givers to give with generosity or simplicity (Rom 12:8) and cheerfully (2 Cor 9:7). Expression: joy in God's generosity. Witness: the Gentile collection for Jerusalem showed one family across ethnic lines, and those who received it would glorify God (2 Cor 9:12-13).",
+        "refs": [
+          "Rom 12:8",
+          "2 Cor 9:6-13"
+        ],
+        "people": [
+          "Barnabas (Acts 4:37)",
+          "Joanna and Susanna (Luke 8:3)"
+        ]
+      },
+      {
+        "id": "leading",
+        "title": "Leading and administration",
+        "group": "spirit",
+        "summary": "Guiding a community with care and diligence; the Greek word in 1 Cor 12:28 pictures a ship's pilot.",
+        "detail": "Expression: ordering a community so that others can flourish. Witness: when the apostles organised fair food distribution, 'the word of God continued to increase' (Acts 6:1-7).",
+        "refs": [
+          "Rom 12:8",
+          "1 Cor 12:28",
+          "Acts 6:1-7"
+        ],
+        "people": [
+          "James in Jerusalem",
+          "Jethro's advice to Moses (Exod 18)"
+        ]
+      },
+      {
+        "id": "mercy",
+        "title": "Mercy",
+        "group": "spirit",
+        "summary": "Caring for the suffering, sick and poor, done 'with cheerfulness' (Rom 12:8).",
+        "detail": "Expression: it mirrors the mercy of God. Witness: early Christian care for the sick in plagues impressed even critics. Mercy should not be withheld from those who will never believe (Luke 6:35-36).",
+        "refs": [
+          "Rom 12:8",
+          "Luke 6:35-36",
+          "Luke 10:33-37"
+        ],
+        "people": [
+          "The Good Samaritan (parable)",
+          "Dorcas"
+        ]
+      },
+      {
+        "id": "helps",
+        "title": "Service and helps",
+        "group": "spirit",
+        "summary": "Practical, often unseen work that keeps the body functioning.",
+        "detail": "'Helps' in 1 Cor 12:28 appears only there. Expression: humble love like Jesus washing feet (John 13:14-15). Witness: Peter says those who serve should do so in God's strength 'so that in everything God may be glorified' (1 Pet 4:11).",
+        "refs": [
+          "Rom 12:7",
+          "1 Cor 12:28",
+          "1 Pet 4:11",
+          "John 13:12-15"
+        ],
+        "people": [
+          "Phoebe",
+          "Stephanas' household (1 Cor 16:15)"
+        ]
+      },
+      {
+        "id": "hospitality",
+        "title": "Hospitality",
+        "group": "spirit",
+        "summary": "Welcoming strangers and believers into one's home and table.",
+        "detail": "Peter links hospitality directly to using gifts (1 Pet 4:9-10). Expression: the warmth of God's welcome. Witness: Lydia's house became the base of the church in Philippi (Acts 16:14-15, Acts 16:40).",
+        "refs": [
+          "1 Pet 4:9-10",
+          "Rom 12:13",
+          "Heb 13:2",
+          "Acts 16:14-15"
+        ],
+        "people": [
+          "Abraham (Gen 18)",
+          "Lydia",
+          "Gaius (Rom 16:23)"
+        ]
+      },
+      {
+        "id": "wisdom-knowledge",
+        "title": "Word of wisdom and knowledge",
+        "group": "spirit",
+        "summary": "Spirit-given insight for a situation or understanding of God's ways.",
+        "detail": "Interpreters differ on whether these are revelatory or wise teaching. Expression: helping people see clearly. Witness: Jesus promised the Spirit would give words to believers on trial before rulers (Luke 21:14-15).",
+        "refs": [
+          "1 Cor 12:8",
+          "Luke 21:14-15",
+          "Jas 1:5"
+        ],
+        "people": [
+          "Stephen (Acts 6:10)",
+          "Solomon"
+        ]
+      },
+      {
+        "id": "faith-gift",
+        "title": "Faith",
+        "group": "spirit",
+        "summary": "Unusual trust in God for a particular task or need.",
+        "detail": "Different from the saving faith every believer has. Expression: it encourages a whole community to trust God. Witness: answered prayer and courage in hardship make people ask where the hope comes from.",
+        "refs": [
+          "1 Cor 12:9",
+          "1 Cor 13:2",
+          "Heb 11:32-34"
+        ],
+        "people": [
+          "George Muller (later example)",
+          "Elijah"
+        ]
+      },
+      {
+        "id": "healing-miracles",
+        "title": "Healing and miracles",
+        "group": "spirit",
+        "summary": "God's power to heal and do signs through believers.",
+        "detail": "Continuationists and cessationists disagree about whether these continue (see /debates/cessationism). Expression: compassion; Jesus healed because he was moved with pity (Mark 1:41). Witness: signs drew attention to the message in Acts (Acts 3:6-16), but Jesus also healed many who did not follow him.",
+        "refs": [
+          "1 Cor 12:9-10",
+          "Mark 1:40-42",
+          "Acts 3:6-16"
+        ],
+        "people": [
+          "Peter",
+          "Paul",
+          "Philip the evangelist"
+        ]
+      },
+      {
+        "id": "discernment",
+        "title": "Discerning spirits",
+        "group": "spirit",
+        "summary": "Telling the difference between what comes from God and what does not.",
+        "detail": "Expression: protecting people out of love. Witness: a church that is not easily deceived is a safer place for seekers (1 John 4:1).",
+        "refs": [
+          "1 Cor 12:10",
+          "1 John 4:1",
+          "Acts 16:16-18"
+        ],
+        "people": [
+          "Paul at Philippi",
+          "Peter with Ananias (Acts 5)"
+        ]
+      },
+      {
+        "id": "tongues",
+        "title": "Tongues and interpretation",
+        "group": "spirit",
+        "summary": "Speaking in languages not learned, with interpretation for the church.",
+        "detail": "Paul values tongues for private prayer but asks for interpretation in church so that others are built up (1 Cor 14:2-5). Expression: prayer beyond words. Witness: at Pentecost hearers heard God's works in their own languages (Acts 2:5-11), but Paul warns that uninterpreted tongues may confuse outsiders (1 Cor 14:23).",
+        "refs": [
+          "1 Cor 12:10",
+          "1 Cor 14:2-5",
+          "1 Cor 14:23",
+          "Acts 2:5-11"
+        ],
+        "people": [
+          "The Pentecost disciples",
+          "The Corinthians"
+        ]
+      },
+      {
+        "id": "evangelist",
+        "title": "Evangelist",
+        "group": "mission",
+        "summary": "A particular gift for announcing the gospel and leading people to faith.",
+        "detail": "Not every believer has this gift (Eph 4:11), though all can witness. Expression: joy in good news and love for people. Witness: this is its direct purpose, and the church should honour and support those who have it.",
+        "refs": [
+          "Eph 4:11",
+          "Acts 21:8",
+          "2 Tim 4:5",
+          "Acts 8:26-40"
+        ],
+        "people": [
+          "Philip the evangelist",
+          "Timothy"
+        ]
+      },
+      {
+        "id": "apostle-planting",
+        "title": "Apostle and church-planter",
+        "group": "mission",
+        "summary": "Sent to start and establish churches where Christ is not known.",
+        "detail": "Whether 'apostle' continues as a role is debated; many use it loosely for pioneer mission. Expression: obedience and love for the unreached. Witness: Paul's ambition was to preach where Christ had not been named (Rom 15:20).",
+        "refs": [
+          "Eph 4:11",
+          "Rom 15:18-21",
+          "1 Cor 3:6-10"
+        ],
+        "people": [
+          "Paul",
+          "Barnabas"
+        ]
+      },
+      {
+        "id": "shepherding",
+        "title": "Shepherding (pastoring)",
+        "group": "spirit",
+        "summary": "Caring for a flock: feeding, guarding and seeking the lost.",
+        "detail": "Expression: the care of the Good Shepherd (John 10:11). Witness: shepherds are to be examples to the flock (1 Pet 5:2-3) and well thought of by outsiders (1 Tim 3:7).",
+        "refs": [
+          "Eph 4:11",
+          "1 Pet 5:1-4",
+          "John 21:15-17",
+          "1 Tim 3:7"
+        ],
+        "people": [
+          "Peter",
+          "The elders at Ephesus (Acts 20)"
+        ]
+      },
+      {
+        "id": "craftsmanship",
+        "title": "Craftsmanship",
+        "group": "craft",
+        "summary": "Skill in metal, wood, stone and design, given by the Spirit.",
+        "detail": "Bezalel is the first person 'filled with the Spirit of God' (Exod 31:3). Expression: making beautiful, durable things in the image of the Maker. Witness: Solomon's temple, made with the skill of Hiram of Tyre, drew the nations' attention to Israel's God (1 Kgs 8:41-43).",
+        "refs": [
+          "Exod 31:1-6",
+          "1 Kgs 7:13-14",
+          "1 Kgs 8:41-43"
+        ],
+        "people": [
+          "Bezalel",
+          "Oholiab",
+          "Hiram (Huram-abi) of Tyre"
+        ]
+      },
+      {
+        "id": "textiles",
+        "title": "Weaving, sewing and textile arts",
+        "group": "craft",
+        "summary": "Skilled women spun and wove for the tabernacle; Dorcas sewed for widows.",
+        "detail": "Exodus calls the women who spun 'wise-hearted' (Exod 35:25-26). Expression: care made visible in cloth. Witness: Dorcas' garments were shown with tears when she died, and after she was raised 'many believed in the Lord' (Acts 9:39-42).",
+        "refs": [
+          "Exod 35:25-26",
+          "Acts 9:36-42",
+          "Prov 31:19-22"
+        ],
+        "people": [
+          "The women of Exodus 35",
+          "Dorcas (Tabitha)",
+          "The woman of Proverbs 31"
+        ]
+      },
+      {
+        "id": "music",
+        "title": "Music",
+        "group": "craft",
+        "summary": "Playing and singing with skill, for God and for people.",
+        "detail": "David's playing brought relief to Saul (1 Sam 16:23), and trained musicians led temple worship (1 Chr 25:7). Expression: lament, joy and praise. Witness: Paul and Silas singing in prison were heard by the other prisoners (Acts 16:25), and the Psalms call the nations to sing (Ps 96:1-3).",
+        "refs": [
+          "1 Sam 16:23",
+          "1 Chr 25:1-7",
+          "Ps 33:3",
+          "Acts 16:25"
+        ],
+        "people": [
+          "David",
+          "Asaph",
+          "Chenaniah (1 Chr 15:22)",
+          "J. S. Bach (later)"
+        ]
+      },
+      {
+        "id": "poetry",
+        "title": "Poetry and song-writing",
+        "group": "craft",
+        "summary": "Shaping language with beauty and depth.",
+        "detail": "About a third of the Old Testament is poetry. Expression: Ps 45:1 pictures a heart overflowing with a good theme and a tongue like the pen of a ready writer. Witness: poems and hymns teach and carry the faith across generations (Col 3:16).",
+        "refs": [
+          "Ps 45:1",
+          "Col 3:16",
+          "Exod 15:1-21"
+        ],
+        "people": [
+          "David",
+          "Miriam",
+          "Moses",
+          "Mary (Luke 1:46-55)"
+        ]
+      },
+      {
+        "id": "visual-design",
+        "title": "Visual art and design",
+        "group": "craft",
+        "summary": "Colour, form and pattern for glory and beauty.",
+        "detail": "The priests' garments were to be made 'for glory and for beauty' (Exod 28:2) with pomegranates and gold bells. Expression: beauty that needs no extra justification. Witness: beauty can awaken longing for God that argument alone does not reach.",
+        "refs": [
+          "Exod 28:2",
+          "Exod 28:33-34",
+          "Exod 25:31-34"
+        ],
+        "people": [
+          "Bezalel",
+          "Oholiab (designer and embroiderer, Exod 38:23)"
+        ]
+      },
+      {
+        "id": "building",
+        "title": "Building and engineering",
+        "group": "craft",
+        "summary": "Planning, organising and constructing.",
+        "detail": "Nehemiah rebuilt Jerusalem's walls in 52 days. Expression: securing a city's welfare. Witness: the nations around 'perceived that this work had been accomplished with the help of our God' (Neh 6:15-16).",
+        "refs": [
+          "Neh 6:15-16",
+          "Neh 2:17-18",
+          "Luke 14:28-30"
+        ],
+        "people": [
+          "Nehemiah",
+          "Zerubbabel"
+        ]
+      },
+      {
+        "id": "farming",
+        "title": "Farming and care of land",
+        "group": "creation",
+        "summary": "Working and keeping the earth to feed others.",
+        "detail": "Isaiah says God himself instructs the farmer in when to plough and how to thresh (Isa 28:23-29). Expression: obedience to the first command to work and keep the garden. Witness: Ruth and Boaz's harvest field becomes a place of kindness and covenant loyalty (Ruth 2:8-12).",
+        "refs": [
+          "Gen 2:15",
+          "Isa 28:23-29",
+          "Ruth 2:8-12",
+          "Ps 104:14-15"
+        ],
+        "people": [
+          "Adam",
+          "Boaz",
+          "Uzziah, who loved the soil (2 Chr 26:10)"
+        ]
+      },
+      {
+        "id": "statecraft",
+        "title": "Administration and statecraft",
+        "group": "vocation",
+        "summary": "Running organisations and nations wisely and honestly.",
+        "detail": "Joseph managed Egypt's grain; Daniel served foreign kings so faithfully that his enemies could find no fault (Dan 6:4). Expression: justice and order for the common good. Witness: Pharaoh recognised the Spirit of God in Joseph (Gen 41:38), and Darius praised Daniel's God (Dan 6:25-27).",
+        "refs": [
+          "Gen 41:38-40",
+          "Dan 6:1-5",
+          "Dan 6:25-27",
+          "Jer 29:7"
+        ],
+        "people": [
+          "Joseph",
+          "Daniel",
+          "Nehemiah",
+          "Esther"
+        ]
+      },
+      {
+        "id": "business",
+        "title": "Trade and business",
+        "group": "vocation",
+        "summary": "Producing and selling goods honestly to meet needs.",
+        "detail": "Lydia sold purple cloth; the capable woman of Proverbs 31 buys a field and sells garments. Expression: creativity, provision and generosity (Prov 31:20). Witness: Lydia's business network and home became the first church in Europe (Acts 16:14-15).",
+        "refs": [
+          "Prov 31:16-24",
+          "Acts 16:14-15",
+          "Eph 4:28"
+        ],
+        "people": [
+          "Lydia",
+          "The woman of Proverbs 31",
+          "Priscilla and Aquila"
+        ]
+      },
+      {
+        "id": "tentmaking",
+        "title": "Manual trades that fund mission",
+        "group": "vocation",
+        "summary": "Working with one's hands to avoid being a burden.",
+        "detail": "Paul worked as a tentmaker or leatherworker (Acts 18:3). Expression: dignity of ordinary labour and love that refuses to burden others. Witness: Paul presented his work as an example of the gospel's freely given grace (1 Thess 2:9, Acts 20:34-35).",
+        "refs": [
+          "Acts 18:1-4",
+          "1 Thess 2:9",
+          "Acts 20:33-35",
+          "2 Thess 3:7-9"
+        ],
+        "people": [
+          "Paul",
+          "Priscilla",
+          "Aquila"
+        ]
+      },
+      {
+        "id": "learning",
+        "title": "Learning and science",
+        "group": "creation",
+        "summary": "Studying God's world and human wisdom.",
+        "detail": "Solomon spoke of trees, animals, birds and fish (1 Kgs 4:33); Daniel and his friends were given skill in all learning (Dan 1:17). Expression: delight in God's works (Ps 111:2). Witness: kings came to hear Solomon's wisdom (1 Kgs 4:34).",
+        "refs": [
+          "1 Kgs 4:29-34",
+          "Dan 1:17-20",
+          "Ps 111:2",
+          "Gen 2:19-20"
+        ],
+        "people": [
+          "Solomon",
+          "Daniel",
+          "Moses, learned in Egypt (Acts 7:22)"
+        ]
+      },
+      {
+        "id": "medicine",
+        "title": "Medicine and care of the body",
+        "group": "vocation",
+        "summary": "Healing through skill and knowledge.",
+        "detail": "Paul calls Luke 'the beloved physician' (Col 4:14). Expression: honouring the body God made. Witness: Christian hospitals and medical missions have carried both compassion and the gospel, at best without making care conditional on belief.",
+        "refs": [
+          "Col 4:14",
+          "Luke 10:34",
+          "1 Tim 5:23"
+        ],
+        "people": [
+          "Luke"
+        ]
+      },
+      {
+        "id": "writing",
+        "title": "Writing and research",
+        "group": "craft",
+        "summary": "Careful investigation and orderly writing.",
+        "detail": "Luke 'carefully investigated everything' to write an orderly account (Luke 1:1-4). Expression: love of truth. Witness: his purpose was that Theophilus might know the certainty of what he had been taught.",
+        "refs": [
+          "Luke 1:1-4",
+          "Eccl 12:9-10"
+        ],
+        "people": [
+          "Luke",
+          "The Teacher of Ecclesiastes",
+          "Baruch the scribe"
+        ]
+      },
+      {
+        "id": "speaking",
+        "title": "Speaking and persuasion",
+        "group": "mission",
+        "summary": "Eloquence and the ability to reason in public.",
+        "detail": "Apollos was eloquent and competent in the Scriptures, and he 'powerfully refuted' opponents in public (Acts 18:24-28). Expression: love for clear truth. Witness: direct. Paul also warns against trusting eloquence rather than the cross (1 Cor 2:1-5).",
+        "refs": [
+          "Acts 18:24-28",
+          "1 Cor 2:1-5",
+          "Col 4:6"
+        ],
+        "people": [
+          "Apollos",
+          "Paul at Athens (Acts 17)"
+        ]
+      },
+      {
+        "id": "dance",
+        "title": "Dance and bodily celebration",
+        "group": "craft",
+        "summary": "Joy expressed with the whole body.",
+        "detail": "Miriam led women with tambourines and dancing after the sea crossing (Exod 15:20-21); David danced before the LORD with all his might (2 Sam 6:14). Expression: whole-body praise. Witness: public celebration showed what God had done, though Michal despised it (2 Sam 6:16).",
+        "refs": [
+          "Exod 15:20-21",
+          "2 Sam 6:14-16",
+          "Ps 149:3"
+        ],
+        "people": [
+          "Miriam",
+          "David"
+        ]
+      },
+      {
+        "id": "parenting",
+        "title": "Nurture and passing on faith",
+        "group": "vocation",
+        "summary": "Raising and teaching children in daily life.",
+        "detail": "Israel was to teach God's words at home, on the road, lying down and rising (Deut 6:6-7). Expression: love that shapes a life. Witness: Timothy's faith came first through his grandmother Lois and mother Eunice (2 Tim 1:5).",
+        "refs": [
+          "Deut 6:6-7",
+          "2 Tim 1:5",
+          "2 Tim 3:14-15",
+          "Prov 31:26-28"
+        ],
+        "people": [
+          "Lois",
+          "Eunice",
+          "Hannah"
+        ]
+      },
+      {
+        "id": "naming-ordering",
+        "title": "Naming, ordering and caring",
+        "group": "creation",
+        "summary": "Bringing understanding and order to the created world.",
+        "detail": "Adam's first task after work in the garden is to name the animals (Gen 2:19-20). Expression: sharing God's ordering of chaos in Genesis 1. Witness: when humans rule as caring stewards, creation itself shows the character of its King (Ps 8:3-9).",
+        "refs": [
+          "Gen 2:19-20",
+          "Gen 1:28",
+          "Ps 8:3-9"
+        ],
+        "people": [
+          "Adam"
+        ]
+      }
+    ]
+  },
+  "compare": {
+    "title": "Three ways of seeing gifts",
+    "columns": [
+      "Gift as instrument",
+      "Gift as expression",
+      "Integrated view"
+    ],
+    "rows": [
+      {
+        "label": "Main purpose",
+        "cells": [
+          "To bring people to faith in Christ; a gift is valuable as a means to evangelism.",
+          "To reflect God's image, love neighbours and honour God; a gift is good in itself.",
+          "Both: gifts glorify God and serve people in themselves, and that faithful work also witnesses and opens doors for the gospel."
+        ]
+      },
+      {
+        "label": "Measure of success",
+        "cells": [
+          "Conversations started, decisions made, people reached.",
+          "Faithfulness, skill, beauty, truth and real benefit to others.",
+          "Faithfulness and love first; fruitfulness in witness is hoped for but left to God (1 Cor 3:6-7)."
+        ]
+      },
+      {
+        "label": "Typical example",
+        "cells": [
+          "A concert with an altar call; a café run mainly to reach customers; a novel written to carry a gospel message.",
+          "A Christian composer writing an honest symphony; a nurse caring well without mentioning faith.",
+          "A well-run business with fair wages whose owner prays for customers and speaks of Christ when trust allows."
+        ]
+      },
+      {
+        "label": "Biblical support",
+        "cells": [
+          "Matt 28:18-20; Rom 10:14-15; 1 Cor 9:22-23; 1 Cor 10:31-33; Col 4:5-6.",
+          "Gen 1:26-28; Exod 31:1-6; Prov 22:29; Mark 14:6; Col 3:23-24.",
+          "Matt 5:16; 1 Pet 2:12; 1 Pet 3:15; Titus 2:10; 1 Cor 15:58."
+        ]
+      },
+      {
+        "label": "Strengths",
+        "cells": [
+          "Takes eternity seriously; keeps the church from forgetting to speak; channels great energy into mission.",
+          "Honours creation and craft; frees believers from guilt; treats people as neighbours, not targets.",
+          "Holds together creation and redemption, word and deed; fits the whole Bible's story."
+        ]
+      },
+      {
+        "label": "Risks",
+        "cells": [
+          "Sacred/secular split; art as propaganda; people as projects; burnout and guilt; weak craft.",
+          "Silence about Christ; witness becomes vague; comfort with the world as it is; neglect of the lost.",
+          "Can become vague 'both/and' that never prioritises; each side may suspect it dilutes their concern."
+        ]
+      },
+      {
+        "label": "Who holds it",
+        "cells": [
+          "Many revivalists and mass evangelists; some mission agencies; popular youth and church culture.",
+          "Many artists and craftspeople; Catholic and Orthodox traditions of beauty; some Kuyperian voices; Jewish teaching on avodah.",
+          "Lausanne movement, John Stott, Tim Keller, Andy Crouch, Makoto Fujimura, Dorothy Sayers, Francis Schaeffer."
+        ]
+      }
+    ]
+  },
+  "spectrum": {
+    "title": "What are gifts for?",
+    "intro": "These are real positions held by sincere Christians. Most do not deny the other pole entirely; they differ on emphasis and priority. Place yourself, then read the position on the other side as its best defenders would put it.",
+    "left": "Mainly a tool for evangelism",
+    "right": "Mainly expression of the image of God and love of neighbour",
+    "stops": [
+      {
+        "pos": 8,
+        "label": "Revivalist urgency",
+        "text": "The world is a sinking ship and time is short. Every gift, from singing to business, should be harnessed to rescue souls. This view grew from real love and urgency and fuelled great missionary sacrifice.",
+        "who": "Many nineteenth- and twentieth-century revivalists (Finney, Moody); parts of mass-evangelism culture"
+      },
+      {
+        "pos": 25,
+        "label": "Great Commission priority",
+        "text": "Christians should do good works and honour God in their jobs, but the church's unique mission is making disciples. Because eternal destinies are at stake, proclamation has priority, and this should shape how gifts are directed.",
+        "who": "Kevin DeYoung and Greg Gilbert; John Piper (with his stress that worship, not missions, is the ultimate goal); many Great-Commission-focused evangelicals"
+      },
+      {
+        "pos": 42,
+        "label": "Holistic mission with evangelism primary",
+        "text": "Evangelism and social responsibility are both Christian duty and belong together, like two wings, but in the church's mission evangelism is primary. Gifts serve both word and deed.",
+        "who": "Lausanne Covenant (1974); John Stott; the Grand Rapids report (1982)"
+      },
+      {
+        "pos": 55,
+        "label": "Integral mission and faith-work",
+        "text": "Word and deed are inseparable parts of one mission. Ordinary work is a calling, and the sacred/secular divide must go. Witness flows from integrated lives rather than from added messages.",
+        "who": "Latin American theologians René Padilla and Samuel Escobar; Tim Keller; Andy Crouch; the Cape Town Commitment (2010)"
+      },
+      {
+        "pos": 62,
+        "label": "Anabaptist community witness",
+        "text": "Gifts are first for building a visible community that lives the way of Jesus: sharing, peacemaking, simple living. The church's life together is its witness, more than individual achievement or cultural influence.",
+        "who": "Mennonite and Anabaptist traditions; John Howard Yoder; Stanley Hauerwas (influenced by this tradition)"
+      },
+      {
+        "pos": 72,
+        "label": "Kuyperian cultural calling",
+        "text": "Christ claims every square inch of life. Science, art, politics and business are callings in their own right, with their own God-given standards, not merely platforms for evangelism.",
+        "who": "Abraham Kuyper; Herman Bavinck; Hans Rookmaaker; Al Wolters; Richard Mouw; Francis Schaeffer (in his writing on art)"
+      },
+      {
+        "pos": 82,
+        "label": "Sacramental beauty",
+        "text": "Beauty, liturgy, icons and craft can make God's presence and goodness visible. Art serves worship and the human person; it is not reducible to a message.",
+        "who": "Catholic tradition (John Paul II, *Letter to Artists*, 1999); Orthodox iconography and liturgy; Anglican and high-church traditions"
+      },
+      {
+        "pos": 92,
+        "label": "Art as gift, not weapon",
+        "text": "The artist offers beauty gratuitously, as God made the world, and tends culture like a garden. Making art only to win arguments damages both the art and the gospel.",
+        "who": "Makoto Fujimura; Dorothy L. Sayers; J. R. R. Tolkien's idea of 'sub-creation'; many Christian artists"
+      }
+    ]
+  },
+  "cases": [
+    {
+      "title": "Bezalel and Oholiab: Spirit-filled artists",
+      "ref": "Exod 31:1-6",
+      "question": "What does it mean that the first person 'filled with the Spirit' is a craftsman?",
+      "steps": [
+        {
+          "step": "Read who is called",
+          "note": "God calls Bezalel 'by name' and fills him with the Spirit of God, with wisdom, understanding, knowledge and all craftsmanship (Exod 31:2-3). The language matches the way the Spirit equips prophets and kings."
+        },
+        {
+          "step": "Notice what they make",
+          "note": "The tabernacle, its furniture, the priests' garments 'for glory and for beauty' (Exod 28:2). Their work is for worship, but much of it is ornament: almond blossoms, pomegranates, cherubim. Beauty is part of the purpose."
+        },
+        {
+          "step": "See the teaching gift",
+          "note": "God also gives them the ability to teach others (Exod 35:34). Gifts are passed on in community, and many 'wise-hearted' men and women join the work (Exod 36:1-2)."
+        },
+        {
+          "step": "Watch what follows",
+          "note": "Straight after the call comes the Sabbath command (Exod 31:12-17). Later Jewish teaching derived the categories of work forbidden on the Sabbath from the labours of building the tabernacle (Talmud, Shabbat 49b). Holy work is good, and it still stops for rest."
+        }
+      ],
+      "takeaway": "Artistic skill can be a direct gift of the Spirit, given for worship and beauty, taught in community and bounded by rest. It did not need to 'lead to evangelism' to be holy."
+    },
+    {
+      "title": "David's harp for Saul",
+      "ref": "1 Sam 16:14-23",
+      "question": "Is it ministry when a gifted person simply helps someone who suffers?",
+      "steps": [
+        {
+          "step": "The need",
+          "note": "Saul is tormented by a harmful spirit, and his servants look for 'a man who is skilful in playing the lyre' (1 Sam 16:16)."
+        },
+        {
+          "step": "The description of David",
+          "note": "He is skilful in playing, a man of valour, prudent in speech, of good presence, 'and the LORD is with him' (1 Sam 16:18). Skill and godliness are named together."
+        },
+        {
+          "step": "What the music does",
+          "note": "When David plays, Saul is refreshed and the harmful spirit departs (1 Sam 16:23). There is no sermon; the music itself is the service."
+        },
+        {
+          "step": "The wider story",
+          "note": "The same gift later produces psalms that Israel sang for centuries. David's music served one troubled king and also became a witness to the nations (Ps 57:9)."
+        }
+      ],
+      "takeaway": "A skill used with care for one suffering person is real service to God. Over time, such faithfulness can become a far wider witness than anyone planned."
+    },
+    {
+      "title": "Dorcas and her sewing",
+      "ref": "Acts 9:36-42",
+      "question": "How does practical craft become both love and witness?",
+      "steps": [
+        {
+          "step": "Her reputation",
+          "note": "Luke calls Tabitha (Dorcas) a disciple 'full of good works and acts of charity' (Acts 9:36). Her name is given in both Aramaic and Greek, which may suggest she moved in both communities."
+        },
+        {
+          "step": "The evidence of her love",
+          "note": "At her death the widows weep and show Peter the tunics and garments she made while she was with them (Acts 9:39). Her love was stitched into clothing for the poor."
+        },
+        {
+          "step": "The miracle and its effect",
+          "note": "Peter prays and she is raised, and it 'became known throughout all Joppa, and many believed in the Lord' (Acts 9:42). Strictly, the miracle led to faith; but it was her life of love that drew the grieving community together."
+        },
+        {
+          "step": "What not to say",
+          "note": "The text does not say she sewed in order to evangelise. It presents her work as good in itself, and God used it within a larger witness."
+        }
+      ],
+      "takeaway": "Ordinary craft offered in love is honoured by God and remembered by the church; witness grew around a life of mercy rather than replacing it."
+    },
+    {
+      "title": "Paul the tentmaker",
+      "ref": "Acts 18:1-4",
+      "question": "Was Paul's trade only a way to fund 'real' ministry?",
+      "steps": [
+        {
+          "step": "The trade",
+          "note": "Paul stays with Aquila and Priscilla in Corinth 'because he was of the same trade', working as tentmakers (Acts 18:3). The Greek word may mean leatherworker; scholars debate the details."
+        },
+        {
+          "step": "His reasons",
+          "note": "He worked night and day so as not to burden anyone while preaching (1 Thess 2:9), and to give an example of honest work to idle believers (2 Thess 3:7-9). He also gave up his right to support so the gospel would be free of charge (1 Cor 9:12-18)."
+        },
+        {
+          "step": "The workshop as a place of witness",
+          "note": "Ancient workshops were places of conversation. Many scholars (for example Ronald Hock) suggest Paul's workshop was itself a setting for teaching."
+        },
+        {
+          "step": "The balance",
+          "note": "Paul did value his work partly for the gospel's sake. Yet he also told ordinary believers to work quietly with their hands to win the respect of outsiders and depend on no one (1 Thess 4:11-12), and to work so they could share with those in need (Eph 4:28)."
+        }
+      ],
+      "takeaway": "Paul shows the integrated view: honest manual work has dignity, supports others and also serves the gospel. Both instrument and expression are present, and neither cancels the other."
+    },
+    {
+      "title": "The woman's perfume: 'a beautiful thing'",
+      "ref": "Mark 14:3-9",
+      "question": "What does Jesus say about an extravagant gift with no practical use?",
+      "steps": [
+        {
+          "step": "The act",
+          "note": "A woman breaks a jar of costly nard, worth about a year's wages, and pours it on Jesus' head (Mark 14:3-5)."
+        },
+        {
+          "step": "The objection",
+          "note": "Some say it should have been sold and given to the poor. Their logic is efficiency: a gift is valued by its usefulness."
+        },
+        {
+          "step": "Jesus' answer",
+          "note": "'She has done a beautiful thing to me' (Mark 14:6). The Greek kalon ergon means a good or beautiful work. Jesus defends an act of pure devotion and links it to his coming burial (Mark 14:8)."
+        },
+        {
+          "step": "The surprise ending",
+          "note": "Jesus says that wherever the gospel is proclaimed in the whole world, what she has done will be told in memory of her (Mark 14:9). An act with no evangelistic purpose became part of the gospel's own proclamation."
+        }
+      ],
+      "takeaway": "Worship and beauty offered to Jesus need no further justification, and God may weave such expression into the gospel's witness far beyond our planning."
+    },
+    {
+      "title": "Daniel's administrative excellence",
+      "ref": "Dan 6:1-5",
+      "question": "How does faithful work in a non-Christian setting honour God?",
+      "steps": [
+        {
+          "step": "The setting",
+          "note": "Daniel serves Babylonian and Persian kings as an exile. Jeremiah had told exiles to seek the welfare of the city and pray for it (Jer 29:7)."
+        },
+        {
+          "step": "His excellence",
+          "note": "He distinguishes himself because 'an excellent spirit was in him', and the king plans to set him over the whole kingdom (Dan 6:3). His rivals can find no corruption or negligence (Dan 6:4)."
+        },
+        {
+          "step": "His faithfulness",
+          "note": "The only charge they can bring concerns his God. He keeps praying three times a day toward Jerusalem (Dan 6:10)."
+        },
+        {
+          "step": "The result",
+          "note": "After the lions' den, Darius writes to all peoples that they should fear the God of Daniel (Dan 6:25-27). Daniel's witness rested on years of competent, honest work and visible devotion."
+        }
+      ],
+      "takeaway": "Competent, honest service in a secular workplace is itself faithfulness to God, and combined with open devotion it can become a public witness."
+    }
+  ],
+  "sections": [
+    {
+      "id": "image-creativity",
+      "heading": "The image of God and human creativity",
+      "body": "The Bible begins with God as maker. He speaks, separates, forms, fills and calls things good (Gen 1:31). Then he makes humans 'in his image' and tells them to fill and rule the earth (Gen 1:26-28). Whatever else the image of God means, in context it includes representing God and sharing, in a creaturely way, in his creative and ordering work. Adam is put in the garden 'to work it and keep it' (Gen 2:15) and names the animals (Gen 2:19-20).\n\nThis means human creativity is not a distraction from spiritual life. It is part of being human. When a carpenter makes a sound chair, a scientist names a new species, or a mother turns a house into a home, they are doing a small version of what God did in Genesis 1: bringing order, beauty and life.\n\nTheologians call this the 'cultural mandate': the calling to develop the world's possibilities. Dorothy Sayers, in *The Mind of the Maker* (1941), argued that the one thing we are told about God before we are told we are made in his image is that he creates. J. R. R. Tolkien called human art 'sub-creation': we make because we are made by a Maker.\n\nSin damages this calling. Work becomes toil (Gen 3:17-19), and the first city and the first metalworker appear in Cain's line (Gen 4:17-22). Yet God does not withdraw the gift. Culture remains good and also corrupted, waiting for redemption.",
+      "refs": [
+        "Gen 1:26-28",
+        "Gen 1:31",
+        "Gen 2:15",
+        "Gen 2:19-20",
+        "Gen 3:17-19",
+        "Gen 4:17-22",
+        "Ps 8:3-8"
+      ],
+      "confidence": "scholarly-consensus",
+      "callout": {
+        "kind": "debate",
+        "text": "Scholars debate what the 'image of God' is: a capacity (reason, creativity), a relationship (with God and others), or a royal function (representing God's rule). Most now stress the functional and relational readings. All three support seeing creativity as part of human dignity."
+      }
+    },
+    {
+      "id": "talents-vs-gifts",
+      "heading": "Talents and spiritual gifts: what the words mean",
+      "body": "In Jesus' parable, a 'talent' (Greek talanton) was a unit of weight for silver or gold. One talent was worth roughly 6,000 denarii, about twenty years' wages for a labourer. The servants receive money 'each according to his ability' (Matt 25:15). The parable is about faithfulness with what the master entrusts while he is away, and about the coming judgement.\n\nThe English meaning of 'talent' as a natural ability grew from medieval and later Christian readings of this parable. So when preachers apply the parable to musical or athletic talent, they are making an application, not giving the original meaning. That application is not wrong in itself, since stewardship covers everything God entrusts (1 Pet 4:10), but the first audience would have heard something different. Some scholars (for example Joachim Jeremias) think the parable first targeted leaders who buried God's gift to Israel instead of sharing it.\n\n'Spiritual gifts' translates charismata, from charis, grace. In the New Testament it covers prophecy and tongues, but also giving, leading and showing mercy (Rom 12:6-8). Peter speaks of 'God's varied grace' in two broad kinds: speaking and serving (1 Pet 4:10-11).\n\nThe Old Testament blurs the line further. Bezalel's craft is a gift of the Spirit (Exod 31:3), and Isaiah says the farmer's wisdom comes from God (Isa 28:26). Many teachers therefore say that the difference between 'natural talents' and 'spiritual gifts' is less sharp than we often think: both are God's gifts, both are to serve others, and the Spirit can take up and transform natural ability.",
+      "refs": [
+        "Matt 25:14-30",
+        "Luke 19:11-27",
+        "1 Pet 4:10-11",
+        "Rom 12:6-8",
+        "Exod 31:1-6",
+        "Isa 28:23-29"
+      ],
+      "confidence": "scholarly-consensus",
+      "callout": {
+        "kind": "myth",
+        "text": "Myth: the parable of the talents is about natural abilities. In the story a talent is money. Applying it to abilities is a later, legitimate extension, but it is not the parable's original subject."
+      }
+    },
+    {
+      "id": "spirit-gifts-purpose",
+      "heading": "Spirit gifts: love and building up the body",
+      "body": "Paul's longest discussion of gifts (1 Corinthians 12-14) was written to a church that ranked people by spectacular abilities. His answer has three movements. First, all gifts come from the same Spirit, Lord and God and are given 'for the common good' (1 Cor 12:4-7). Second, the church is a body: the eye cannot say to the hand 'I have no need of you', and the parts that seem weaker are indispensable (1 Cor 12:21-22). Third, without love every gift is worthless (1 Cor 13:1-3).\n\nIn chapter 14 Paul gives a practical test: does this build up the church? He prefers prophecy to uninterpreted tongues in the meeting because it builds others up (1 Cor 14:3-5), and he says 'let all things be done for building up' (1 Cor 14:26).\n\nSo the main purpose Paul gives for Spirit gifts is not evangelism as such but love and the building up of the body. Yet the two connect. Paul imagines an outsider coming into a meeting and being convicted by prophecy, so that he falls down and worships God (1 Cor 14:24-25). Jesus said that the disciples' love for one another would show the world they belong to him (John 13:35). A loving, healthy church is itself a witness.\n\nThis is also where the existing gift lists in the app can mislead if read alone. Paul places the fruit of love above all gifts (Gal 5:22-23, 1 Cor 13:13).",
+      "refs": [
+        "1 Cor 12:4-7",
+        "1 Cor 12:21-26",
+        "1 Cor 13:1-3",
+        "1 Cor 14:3-5",
+        "1 Cor 14:24-26",
+        "John 13:34-35",
+        "Eph 4:11-16"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "work-vocation",
+      "heading": "Work and vocation: serving God in ordinary life",
+      "body": "Paul tells believers, including slaves in harsh households, 'Whatever you do, work heartily, as for the Lord and not for men' (Col 3:23-24). He tells the Thessalonians to work with their hands and live quietly (1 Thess 4:11-12), and he tells former thieves to work so they can share with those in need (Eph 4:28). Work is service to God, provision for oneself and a way to love others.\n\nFor much of church history, however, a two-level view dominated. Eusebius of Caesarea (early fourth century) described a 'perfect' life of prayer and renunciation and a 'permitted' life of farming, trade and family. In the medieval West, 'vocation' usually meant a call to the priesthood or religious orders.\n\nMartin Luther challenged this. In his 1520 writings he argued that all baptised believers are priests and that the work of a farmer or housemaid is no less holy than that of a monk. He taught that God cares for the world through ordinary callings, which he called 'masks of God'. Calvin added that each calling is like a 'sentry post' assigned by God (*Institutes* 3.10.6). The Puritans spoke of a 'general calling' to follow Christ and 'particular callings' to trades.\n\nTwo popular quotations need care. The line 'God milks the cows through the vocation of the milkmaid' is a fair summary of Luther's idea but is usually traced to Gustaf Wingren's book *Luther on Vocation*, not to a confirmed Luther sentence. The line about the Christian shoemaker making good shoes rather than putting little crosses on them is widely attributed to Luther but has no known source in his writings; scholars such as Frederick Gaiser think it is a modern saying.",
+      "refs": [
+        "Col 3:23-24",
+        "1 Thess 4:11-12",
+        "Eph 4:28",
+        "1 Cor 7:17-24",
+        "Eph 6:5-8"
+      ],
+      "confidence": "scholarly-consensus",
+      "callout": {
+        "kind": "myth",
+        "text": "Myth: Luther said 'The Christian shoemaker does his duty not by putting little crosses on the shoes, but by making good shoes.' No source in Luther's works is known. It summarises his view well enough, but it should not be quoted as his words."
+      }
+    },
+    {
+      "id": "history-evangelistic-framing",
+      "heading": "Why evangelicals turned gifts into tools for evangelism",
+      "body": "To understand this framing, start with its best motives. Evangelicals believe that people without Christ face real, eternal loss and that the gospel is God's power to save (Rom 1:16). Jesus commanded his followers to make disciples of all nations (Matt 28:18-20), and Paul asked how people can believe without hearing (Rom 10:14). If that is true, then love itself seems to require urgency. Many who 'used every gift for the gospel' gave up comfort, careers and even their lives out of love for people they had never met.\n\nHistory sharpened this instinct. The revivals of the eighteenth and nineteenth centuries made conversion the central Christian event. Charles Finney taught that revival came through the right use of means, so techniques and music were enlisted. D. L. Moody pictured the world as a wrecked ship and his calling as saving as many as possible in a lifeboat. Ira Sankey's songs were written to prepare hearts for the sermon. Premillennial expectation, the belief that Christ would soon return and the world would grow worse before then, made improving culture seem like 'polishing brass on a sinking ship'.\n\nIn the early twentieth century the Fundamentalist-Modernist conflict hardened this. Liberal Protestants stressed the 'social gospel' and cultural progress; many conservatives responded by focusing almost entirely on personal salvation. Historian Timothy L. Smith and sociologist David Moberg (*The Great Reversal*, 1972) called this retreat from social and cultural engagement the 'great reversal', since nineteenth-century evangelicals had been deeply involved in reform.\n\nFrom this came familiar patterns: the saying that 'only two things last forever, God's word and people's souls'; tracts left with restaurant tips; concerts and sports events valued mainly for the altar call; and a market in 'Christian' products, from music to mints, defined by explicit religious content. Many sincere believers learned to ask of every activity, 'How can I use this to share the gospel?'",
+      "refs": [
+        "Rom 1:16",
+        "Rom 10:14-15",
+        "Matt 28:18-20",
+        "2 Cor 5:20",
+        "1 Cor 9:22-23"
+      ],
+      "confidence": "scholarly-consensus",
+      "callout": {
+        "kind": "tip",
+        "text": "Read this history charitably. The evangelistic framing grew from love, from obedience to Christ's command and from a sincere view of eternity. Critics who forget this tend to caricature it."
+      }
+    },
+    {
+      "id": "costs",
+      "heading": "The costs of making every gift a tool",
+      "body": "Even its friends now admit the instrumental view has had real costs.\n\nFirst, a sacred/secular divide. If only evangelism and church work truly count, most Christians spend most of their week on things they believe God does not much care about. The Lausanne Cape Town Commitment (2010) named this divide as one of the greatest obstacles to mobilising God's people for mission.\n\nSecond, art as propaganda. Francis Schaeffer warned in *Art and the Bible* (1973) that a Christian's art does not need to be justified by being a vehicle for evangelism. When songs must contain enough 'Jesus' references to count, or stories exist only to carry a message, the craft often becomes weak and the message hollow. Outsiders recognise advertising.\n\nThird, people as projects. When a friendship is valued only as a route to conversion, people feel it. Jesus' love did not depend on response: he healed ten lepers when only one came back (Luke 17:11-19).\n\nFourth, burnout and guilt. Believers who think their job is spiritually worthless may either overload church activity or quietly despair. Sayers argued that the church lost the working world partly because it showed no interest in whether their work was good.\n\nFifth, a smaller gospel. If God cares only about souls, the Bible's hope of resurrection bodies and a renewed creation (Rom 8:19-23) shrinks into an escape from the world.",
+      "refs": [
+        "Col 3:17",
+        "Luke 17:11-19",
+        "Rom 8:19-23",
+        "Matt 6:1-4",
+        "Phil 4:8"
+      ],
+      "confidence": "debated",
+      "callout": {
+        "kind": "debate",
+        "text": "Defenders reply that these are abuses, not the view itself. Careful Great-Commission evangelicals also affirm vocation and beauty; they insist only that the eternal stakes give proclamation a special priority."
+      }
+    },
+    {
+      "id": "evangelical-responses",
+      "heading": "The best evangelical responses, and the strongest defence of priority",
+      "body": "Within evangelicalism itself a rich response developed. Carl Henry's *The Uneasy Conscience of Modern Fundamentalism* (1947) urged conservatives to re-engage society. The Lausanne Covenant (1974), drafted largely by John Stott, affirmed that evangelism and social responsibility are both part of Christian duty, while also saying that evangelism is primary in the church's mission of sacrificial service. Stott liked to describe word and deed as partners. Later voices went further: René Padilla and Samuel Escobar spoke of 'integral mission'; Tim Keller (*Every Good Endeavor*, 2012) taught that work is part of God's design; Andy Crouch (*Culture Making*, 2008) argued that Christians should create good culture, not only condemn or copy it; Makoto Fujimura calls for 'culture care'.\n\nThe strongest defence of evangelistic priority deserves equal hearing. Kevin DeYoung and Greg Gilbert (*What Is the Mission of the Church?*, 2011) argue that the church as an institution has a specific mission, given in the Great Commission: to make disciples by proclaiming the gospel and teaching obedience. They warn that if 'mission' means everything good, it soon means nothing, and the hardest task, telling people about Christ, quietly drops away. Importantly, they do not deny that individual Christians honour God in their vocations; they affirm it.\n\nJohn Piper adds a different angle: 'Missions exists because worship doesn't' (*Let the Nations Be Glad*, 1993). Worship of God is the ultimate goal; evangelism serves it. This actually supports valuing gifts as worship, while keeping urgency for those who do not yet worship.\n\nThe honest conclusion is that both sides agree on more than they often think: proclamation is necessary, good work matters to God, and love must drive both. Their real disagreement is over the church's priorities and how 'mission' should be defined.",
+      "refs": [
+        "Matt 28:18-20",
+        "2 Cor 5:18-20",
+        "Matt 5:16",
+        "Titus 2:14",
+        "Gal 6:10"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "id": "jewish-lens",
+      "heading": "The Jewish relational lens: avodah, Sabbath and the world as gift",
+      "body": "The Hebrew root avad stands behind words for work, service and worship. Adam is to work (avad) the ground (Gen 2:15). God tells Moses that Israel will serve (avad) him at Sinai (Exod 3:12). The Ten Commandments say 'six days you shall labour' with the same root (Exod 20:9). Later, avodah became the name for the temple service, and after the temple fell, the rabbis called prayer 'the service of the heart'. The language itself suggests that work and worship are not two separate worlds.\n\nThe Sabbath sets a boundary on work. Six days of labour are commanded, and so is the seventh day of rest (Exod 20:8-11). Deuteronomy grounds it in freedom from slavery (Deut 5:12-15): a people who rest show they are no longer defined by output. The rabbis derived the 39 categories of work forbidden on the Sabbath from the tasks used in building the tabernacle (Talmud, Shabbat 49b), so the very work of Bezalel defines what rest means.\n\nJewish tradition also treats the world as a gift that calls for thanks. The Talmud says that enjoying anything in this world without a blessing is like taking what belongs to God (Berakhot 35a). Blessings are said over bread, fruit, a rainbow and even new clothes. Everyday enjoyment becomes relationship with the Giver.\n\nBe careful with the popular phrase tikkun olam, 'repairing the world'. In the Mishnah it refers to legal rulings made 'for the good order of the world'. The Aleinu prayer hopes 'to perfect the world under the kingdom of the Almighty'. Lurianic Kabbalah (sixteenth century) gave it a cosmic, mystical meaning, and modern Jewish movements use it for social action. It should not be presented as a single ancient doctrine that human work fixes the world.\n\nFor Christians this lens helps: gifts are received within a covenant relationship, used in service that is also worship, and held lightly by people who rest.",
+      "refs": [
+        "Gen 2:15",
+        "Exod 3:12",
+        "Exod 20:8-11",
+        "Deut 5:12-15",
+        "Exod 31:12-17",
+        "Num 8:11"
+      ],
+      "confidence": "scholarly-consensus",
+      "callout": {
+        "kind": "tradition",
+        "text": "Rabbinic sources cited here (Shabbat 49b, Berakhot 35a) are later than the Bible and belong to Jewish tradition. They show how Jewish readers have understood these texts, not what the biblical authors stated."
+      }
+    },
+    {
+      "id": "integrated-vision",
+      "heading": "A healthy integrated vision",
+      "body": "Putting this together, a gift is first a grace received (1 Cor 4:7). It reflects the creativity of the God whose image we bear. It is meant to be developed with skill, offered in love, and used to serve the church and our neighbours. Done this way, it is worship (Rom 12:1).\n\nWitness is not an extra layer stuck on top. It grows naturally from faithful, excellent, loving work, as Jesus said: people see good works and glorify the Father (Matt 5:16). And because people need to hear the good news, Christians should also be ready to speak, with gentleness and respect (1 Pet 3:15). Expression and witness are partners.\n\nThe final hope matters here. Paul ends his resurrection chapter by saying that labour in the Lord is not in vain (1 Cor 15:58). Revelation pictures the glory and honour of the nations brought into the new Jerusalem (Rev 21:24-26). Interpreters differ on how literally to take this, but it suggests that what is good and true in human culture is not simply thrown away. Our work, tested and purified, may in some way last (1 Cor 3:12-14).\n\nPractically: do your work well; love the people it serves; pray for them; speak of Christ when trust and opportunity allow; rest; and give thanks. Do not despise the gifted evangelist, and do not despise the gifted carpenter. Both belong to one body.",
+      "refs": [
+        "1 Cor 4:7",
+        "Rom 12:1",
+        "Matt 5:16",
+        "1 Pet 3:15",
+        "1 Cor 15:58",
+        "Rev 21:24-26",
+        "1 Cor 3:12-14"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "The parable of the talents is about natural abilities",
+      "popular": "God gives each person natural talents, such as music, sport or business, and will judge whether we used them for him. Burying your talent means wasting your abilities.",
+      "inContext": "A talent was a large sum of money, and the servants receive it 'each according to his ability' (Matt 25:15), so ability and the entrusted gift are distinct. In Matthew the parable sits among warnings about readiness for the Son of Man's return (Matt 24-25). Many scholars (Joachim Jeremias, and more recently R. T. France) see the entrusted wealth as the kingdom, God's word or the responsibilities given to disciples; Jeremias thought it first targeted leaders who 'buried' God's gift to Israel. The English sense of 'talent' as ability comes from later readings of this parable.",
+      "defence": "Traditional evangelical commentators (for example D. A. Carson and Craig Blomberg) agree on the money detail, but note that the principle of faithful stewardship applies to all God entrusts, including abilities (1 Pet 4:10). Applying the parable to talents is a legitimate extension, provided we do not miss its main point: active faithfulness while awaiting the master's return.",
+      "whyItMatters": "Reading it only as 'use your abilities' can turn it into a productivity lesson. Reading it in context keeps the focus on faithfulness to the Master, which covers abilities but is bigger than them.",
+      "refs": [
+        "Matt 25:14-30",
+        "Luke 19:11-27",
+        "1 Pet 4:10",
+        "Matt 24:45-51"
+      ],
+      "scholars": [
+        "Joachim Jeremias",
+        "R. T. France",
+        "D. A. Carson",
+        "Craig Blomberg"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "'Do all to the glory of God' means everything must point people to Christ",
+      "popular": "1 Cor 10:31 means that every activity, even eating and drinking, should be done in a way that explicitly points people to Jesus and opens a door for the gospel.",
+      "inContext": "The verse concludes Paul's long discussion of food offered to idols (1 Cor 8-10). Glorifying God here means acting with thanksgiving (1 Cor 10:30), avoiding idolatry and not harming a weaker believer's conscience. Ordinary eating, received with thanks, can glorify God. Scholars such as Gordon Fee and Anthony Thiselton stress this pastoral context.",
+      "defence": "The evangelistic reading has real support in the very next verses: Paul says he tries to please everyone 'not seeking my own advantage, but that of many, that they may be saved' (1 Cor 10:32-33). Careful evangelical readers (for example D. A. Carson and Thomas Schreiner) conclude that glorifying God includes thanksgiving and love, and that concern for others' salvation is part of that love. The popular reading is not wrong, just too narrow.",
+      "whyItMatters": "Both truths free and focus us: ordinary life received with thanks honours God, and our freedom should be used with concern for others' salvation.",
+      "refs": [
+        "1 Cor 10:31-33",
+        "1 Cor 10:23-30",
+        "1 Cor 9:19-23",
+        "1 Tim 4:4-5"
+      ],
+      "scholars": [
+        "Gordon Fee",
+        "Anthony Thiselton",
+        "D. A. Carson",
+        "Thomas Schreiner"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "'Redeem the time' means fill every moment with spiritual activity",
+      "popular": "Eph 5:16 ('redeeming the time') means believers should not waste time on hobbies, art or leisure, but use every moment for prayer, Bible study and evangelism.",
+      "inContext": "The phrase means 'making the most of the opportunity' (Greek kairos, a fitting moment) 'because the days are evil'. In Col 4:5 the same phrase concerns wise conduct toward outsiders. It is about wisdom and alertness, not about eliminating rest or creativity. Scripture also commands rest and celebrates feasts.",
+      "defence": "Evangelical scholars such as Peter O'Brien and Douglas Moo note that the phrase does carry urgency, especially in Colossians, where it is linked to gracious speech with outsiders (Col 4:5-6). The evangelistic reading is fair for Colossians; the error is turning it into a rule against ordinary enjoyment.",
+      "whyItMatters": "Read as 'never rest', it leads to burnout and guilt. Read as 'live wisely and seize real opportunities', it fits both Sabbath and witness.",
+      "refs": [
+        "Eph 5:15-16",
+        "Col 4:5-6",
+        "Eccl 3:1-8",
+        "Mark 6:31"
+      ],
+      "scholars": [
+        "Peter T. O'Brien",
+        "Douglas Moo",
+        "Andrew Lincoln"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Col 3:23 is about church work",
+      "popular": "'Whatever you do, work heartily, as for the Lord' is often quoted for volunteers in church ministry, as if church work is where we truly serve the Lord.",
+      "inContext": "Paul is addressing slaves working in ordinary households (Col 3:22-25). The most menial labour, done for earthly masters, is service to the Lord Christ who will reward it. The verse is the opposite of a sacred/secular split: it sanctifies everyday work.",
+      "defence": "Few scholars dispute this. Evangelical commentators like Douglas Moo agree it applies to all work. Some note that the verse should not be used to ignore the injustice of slavery; it addresses how believers act within a hard situation, and Paul also commands masters to be just (Col 4:1).",
+      "whyItMatters": "This verse is one of the clearest biblical answers to the guilt many Christians feel about 'secular' jobs.",
+      "refs": [
+        "Col 3:22-25",
+        "Col 4:1",
+        "Eph 6:5-9"
+      ],
+      "scholars": [
+        "Douglas Moo",
+        "N. T. Wright",
+        "Scot McKnight"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "Every gift must be used for evangelism",
+      "popular": "The Great Commission is the church's one task, so a gift that does not lead to sharing the gospel is a wasted gift.",
+      "inContext": "The New Testament gives gifts several purposes: building up the body (1 Cor 14:12), serving others (1 Pet 4:10), glorifying God (1 Pet 4:11) and showing love (1 Cor 13). The Old Testament honours craft, music and wise administration in their own right (Exod 31:1-6, Prov 22:29). Writers such as Tim Keller and Andy Crouch argue that evangelism is essential but is not the only thing God cares about.",
+      "defence": "Great-Commission evangelicals such as Kevin DeYoung and Greg Gilbert answer that they do not claim every gift must be evangelism. Their claim is narrower: the church as an institution has proclamation as its distinct mission, while individual Christians serve God in many ways. They warn that without this priority, evangelism gets crowded out.",
+      "whyItMatters": "The difference is between saying 'evangelism matters most for the church's mission' and 'nothing else matters'. The first is a serious position; the second is a popular distortion.",
+      "refs": [
+        "Matt 28:18-20",
+        "1 Cor 14:12",
+        "1 Pet 4:10-11",
+        "Exod 31:1-6"
+      ],
+      "scholars": [
+        "Kevin DeYoung",
+        "Greg Gilbert",
+        "Tim Keller",
+        "Andy Crouch"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Only souls last forever",
+      "popular": "Only two things last forever: God's word and people's souls. So the only work with eternal value is work that saves souls.",
+      "inContext": "The Bible's hope is bodily resurrection and a renewed creation (Rom 8:19-23, Rev 21:1-5), not only souls in heaven. Revelation pictures the glory of the nations entering the city (Rev 21:24-26), and Paul says labour in the Lord is not in vain (1 Cor 15:58). N. T. Wright and Richard Middleton argue that good work done now is somehow taken up into God's new creation.",
+      "defence": "Many evangelicals (for example Douglas Moo on 2 Peter) note that 2 Pet 3:10-12 speaks of the present world being dissolved by fire, so the continuity of human works is uncertain. They agree that persons, not projects, are what we can be sure will last, and that this should give evangelism urgency. Both sides agree the saying is too simple: God's word and people last, and resurrection means more than souls.",
+      "whyItMatters": "Your view of what lasts shapes whether you value craft, care and culture as part of God's purposes or treat them as disposable.",
+      "refs": [
+        "Rom 8:19-23",
+        "Rev 21:1-5",
+        "Rev 21:24-26",
+        "1 Cor 15:58",
+        "2 Pet 3:10-13"
+      ],
+      "scholars": [
+        "N. T. Wright",
+        "J. Richard Middleton",
+        "Douglas Moo",
+        "Richard Mouw"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Spiritual gifts are supernatural; talents are merely natural",
+      "popular": "Spiritual gifts are special abilities the Spirit gives at conversion; natural talents are human abilities and are less spiritual.",
+      "inContext": "Bezalel's craft is called the work of the Spirit (Exod 31:3), Isaiah says God teaches the farmer (Isa 28:26), and Paul lists ordinary activities like giving and leading among the charismata (Rom 12:8). Many scholars (for example Gordon Fee, James Dunn) stress that in Paul a 'charisma' is any concrete expression of grace for others.",
+      "defence": "Some evangelicals rightly answer that the New Testament does distinguish the Spirit's gifts within the church, given for its building up, from abilities everyone has by common grace. Being a good musician does not make someone a worship leader. The gifts are related but not identical; the Spirit can take up natural ability and direct it to new ends.",
+      "whyItMatters": "Too sharp a split devalues ordinary gifts; too little distinction can forget that the Spirit's gifts are for the church's building up in love.",
+      "refs": [
+        "Exod 31:1-6",
+        "Isa 28:23-29",
+        "Rom 12:6-8",
+        "1 Cor 12:4-7"
+      ],
+      "scholars": [
+        "Gordon Fee",
+        "James Dunn",
+        "Wayne Grudem",
+        "Sam Storms"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "Being seen versus not being seen",
+      "popular": "Jesus said 'let your light shine before others' (Matt 5:16), so Christians should make their good works and gifts visible as advertisements for the faith.",
+      "inContext": "In the same sermon Jesus warns against doing good works 'to be seen' (Matt 6:1-4). The difference is purpose: in Matt 5:16 the aim is that people glorify the Father; in Matt 6 the aim is one's own reputation. Light shines by being light, not by marketing.",
+      "defence": "Evangelical commentators (for example Craig Keener and D. A. Carson) agree there is no contradiction: visible good works are right when they point to God, and wrong when they serve self. The evangelistic instinct to let works be seen is biblical, if the motive is God's glory.",
+      "whyItMatters": "This keeps gifts from becoming either hidden out of false modesty or displayed out of pride.",
+      "refs": [
+        "Matt 5:14-16",
+        "Matt 6:1-4",
+        "1 Pet 2:12"
+      ],
+      "scholars": [
+        "Craig Keener",
+        "D. A. Carson",
+        "Dale Allison"
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "views": [
+    {
+      "name": "Evangelistic priority (Great Commission focus)",
+      "who": "Revivalist tradition; Kevin DeYoung and Greg Gilbert; John Piper; many mission agencies",
+      "summary": "Because people face eternal destinies, proclaiming Christ has a unique urgency. The church's distinct mission is to make disciples. Christians should do good work, but the church must not let other good things crowd out evangelism.",
+      "strengths": "Takes eternity and the Great Commission seriously; guards against the loss of evangelism seen in some mainline churches; has inspired great sacrifice and missionary love.",
+      "critiques": "At popular level it can create a sacred/secular split, art as propaganda and people as projects. Critics say it can shrink the Bible's story to rescue from the world rather than renewal of it."
+    },
+    {
+      "name": "Holistic mission (Lausanne)",
+      "who": "Lausanne Covenant (1974); John Stott; Grand Rapids report (1982); Chris Wright",
+      "summary": "Evangelism and social responsibility are both Christian duty and partners in mission. Evangelism has a certain primacy, but word and deed go together.",
+      "strengths": "Holds together Scripture's concern for proclamation and for justice and mercy; broad support across global evangelicalism.",
+      "critiques": "Some say 'primacy' still keeps culture and work second-class; others say 'holistic' can blur the church's distinct task and let evangelism fade."
+    },
+    {
+      "name": "Integral mission and faith-work",
+      "who": "René Padilla; Samuel Escobar; Tim Keller; Katherine Leary Alsdorf; Andy Crouch; the Cape Town Commitment (2010)",
+      "summary": "Word and deed are inseparable parts of one mission. Ordinary work is a calling, the sacred/secular divide must be rejected, and witness flows from integrated lives.",
+      "strengths": "Gives dignity to ordinary Christians' weekday lives; fits Col 3:23 and the Reformation doctrine of vocation; produces better craft and more natural witness.",
+      "critiques": "DeYoung and Gilbert warn that when everything is mission, nothing is; critics also say faith-work talk can drift toward a professional-class focus that neglects manual and low-paid workers."
+    },
+    {
+      "name": "Neo-Calvinist cultural calling",
+      "who": "Abraham Kuyper; Herman Bavinck; Hans Rookmaaker; Al Wolters; Richard Mouw; Francis Schaeffer on art",
+      "summary": "Christ is Lord of every area of life. Each sphere, such as art, science, business and politics, has its own God-given norms, and Christians serve God by working faithfully within them.",
+      "strengths": "A strong theology of creation and culture; values art and science on their own terms; hope for a renewed creation.",
+      "critiques": "Can become triumphalist or political; may underplay the call to personal conversion; critics from the Anabaptist side say it trusts cultural power too much."
+    },
+    {
+      "name": "Sacramental and beauty traditions",
+      "who": "Catholic tradition (John Paul II, *Letter to Artists*); Eastern Orthodox iconography and liturgy; Anglo-Catholic traditions",
+      "summary": "Beauty and material things can mediate God's presence. Art, music and architecture serve worship and human dignity, and beauty itself draws people to God.",
+      "strengths": "Long experience of art in worship; deep theology of incarnation and creation; witness through beauty that does not reduce art to a message.",
+      "critiques": "Protestants worry about images and ritual replacing the word; some say beauty can become an end in itself or a mark of wealth."
+    },
+    {
+      "name": "Anabaptist community witness",
+      "who": "Mennonite and Brethren traditions; John Howard Yoder; Stanley Hauerwas (influenced by it)",
+      "summary": "Gifts serve first to build a visible community of disciples living the way of Jesus. The church's shared life, peacemaking and simplicity are its primary witness.",
+      "strengths": "Takes the church as a body seriously; resists using gifts for status or power; guards against both individualism and cultural compromise.",
+      "critiques": "May undervalue individual vocations in wider society, the arts or public life; critics say it can become withdrawn from culture."
+    },
+    {
+      "name": "Art as gift (artists' voices)",
+      "who": "Makoto Fujimura; Dorothy L. Sayers; J. R. R. Tolkien; Madeleine L'Engle",
+      "summary": "Making is part of bearing God's image. Art should be offered as a gift, honestly and well, not used as a weapon or advertisement. Such art witnesses because it is true and beautiful.",
+      "strengths": "Restores dignity to craft; draws from the Bible's own poetry and beauty; often reaches people that direct argument cannot.",
+      "critiques": "May neglect explicit proclamation; can seem elitist or remote from everyday church life; the boundary between 'gift' and self-expression can blur."
+    }
+  ],
+  "practice": [
+    {
+      "title": "Gift inventory with community feedback",
+      "steps": [
+        "List what you do well, what you love doing, and what others regularly ask you to help with. Include both 'church' gifts and work, craft and home skills.",
+        "Ask three people who know you well (one from church, one from work or school, one from family) what they see as your gifts. Write down their answers without arguing.",
+        "Compare the lists. Where do they agree? Where do others see something you do not?",
+        "For each gift, write one way it builds up the church and one way it serves people outside the church.",
+        "Pray, thanking God by name for each gift (1 Cor 4:7)."
+      ]
+    },
+    {
+      "title": "The Bezalel reading: a small group study",
+      "steps": [
+        "Read Exod 31:1-11, Exod 35:30-36:7 and Exod 39:42-43 aloud.",
+        "Note every phrase about skill, wisdom, the Spirit, willing hearts and teaching.",
+        "Discuss: Why might God give the first 'filling with the Spirit' to an artist? What does it say about your own work?",
+        "Read Exod 31:12-17. Discuss why the Sabbath command comes right after the call to build.",
+        "Each person names one piece of work they will do this week 'with skill, for glory and for beauty'."
+      ]
+    },
+    {
+      "title": "Workplace witness without projects",
+      "steps": [
+        "Write the names of five people you work or study with.",
+        "Pray for each by name every day for a month, for their good and not only their conversion.",
+        "Ask: how can my work serve them better this week? Do one concrete thing.",
+        "Notice natural openings to speak about your hope, and take them gently (1 Pet 3:15). Do not force any.",
+        "At the end of the month, reflect: did I treat them as neighbours or as targets?"
+      ]
+    },
+    {
+      "title": "A Sabbath from usefulness",
+      "steps": [
+        "Choose a day or half-day this week to stop productive work.",
+        "Do something creative or beautiful with no goal: walk, draw, cook, play music, read poetry.",
+        "Say a blessing or prayer of thanks over ordinary things: food, light, people.",
+        "Afterwards, write down how it felt to be loved without producing anything.",
+        "Read Exod 20:8-11 and Deut 5:12-15 and discuss what freedom the Sabbath gives."
+      ]
+    },
+    {
+      "title": "Craft and message: an honest review",
+      "steps": [
+        "Pick one piece of 'Christian' art, music or media and one piece of art by a Christian that does not mention faith directly.",
+        "Ask of each: Is it true? Is it well made? Is it beautiful? Does it love its audience?",
+        "Discuss Schaeffer's claim that art does not need to justify itself as evangelism, and DeYoung and Gilbert's concern that the church not forget to proclaim.",
+        "If you make things, choose one thing to improve in your craft this month."
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "Gustaf Wingren",
+      "title": "Luther on Vocation",
+      "year": 1957,
+      "locator": "English translation; Swedish original 1942"
+    },
+    {
+      "author": "Martin Luther",
+      "title": "The Babylonian Captivity of the Church",
+      "year": 1520,
+      "publicDomain": true
+    },
+    {
+      "author": "Martin Luther",
+      "title": "To the Christian Nobility of the German Nation",
+      "year": 1520,
+      "publicDomain": true
+    },
+    {
+      "author": "John Calvin",
+      "title": "Institutes of the Christian Religion",
+      "year": 1559,
+      "locator": "3.10.6",
+      "publicDomain": true
+    },
+    {
+      "author": "William Perkins",
+      "title": "A Treatise of the Vocations or Callings of Men",
+      "year": 1603,
+      "publicDomain": true
+    },
+    {
+      "author": "Eusebius of Caesarea",
+      "title": "Demonstration of the Gospel",
+      "locator": "1.8",
+      "publicDomain": true
+    },
+    {
+      "author": "Benedict of Nursia",
+      "title": "The Rule of St Benedict",
+      "locator": "ch. 48",
+      "publicDomain": true
+    },
+    {
+      "author": "John Wesley",
+      "title": "The Use of Money (Sermon 50)",
+      "year": 1760,
+      "publicDomain": true,
+      "confidence": "needs-verification"
+    },
+    {
+      "author": "Charles G. Finney",
+      "title": "Lectures on Revivals of Religion",
+      "year": 1835,
+      "publicDomain": true
+    },
+    {
+      "author": "Dwight L. Moody",
+      "title": "New Sermons, Addresses and Prayers",
+      "year": 1877,
+      "locator": "source of the 'wrecked vessel' and lifeboat image as usually cited",
+      "publicDomain": true,
+      "confidence": "needs-verification"
+    },
+    {
+      "author": "Abraham Kuyper",
+      "title": "Sphere Sovereignty (inaugural address, Free University of Amsterdam)",
+      "year": 1880,
+      "publicDomain": true
+    },
+    {
+      "author": "Timothy L. Smith",
+      "title": "Revivalism and Social Reform",
+      "year": 1957
+    },
+    {
+      "author": "David O. Moberg",
+      "title": "The Great Reversal: Evangelism versus Social Concern",
+      "year": 1972
+    },
+    {
+      "author": "Dorothy L. Sayers",
+      "title": "The Mind of the Maker",
+      "year": 1941
+    },
+    {
+      "author": "Dorothy L. Sayers",
+      "title": "Why Work? (address at Eastbourne, 23 April 1942), reprinted in Creed or Chaos?",
+      "year": 1942
+    },
+    {
+      "author": "Carl F. H. Henry",
+      "title": "The Uneasy Conscience of Modern Fundamentalism",
+      "year": 1947
+    },
+    {
+      "author": "Francis A. Schaeffer",
+      "title": "Art and the Bible",
+      "year": 1973
+    },
+    {
+      "author": "H. R. Rookmaaker",
+      "title": "Modern Art and the Death of a Culture",
+      "year": 1970
+    },
+    {
+      "author": "Lausanne Committee for World Evangelization",
+      "title": "The Lausanne Covenant",
+      "year": 1974,
+      "locator": "paras. 5-6"
+    },
+    {
+      "author": "Lausanne Movement",
+      "title": "The Cape Town Commitment",
+      "year": 2010,
+      "locator": "Part II A.3 'Truth and the workplace'"
+    },
+    {
+      "author": "John R. W. Stott",
+      "title": "Christian Mission in the Modern World",
+      "year": 1975
+    },
+    {
+      "author": "C. René Padilla",
+      "title": "Mission Between the Times",
+      "year": 1985
+    },
+    {
+      "author": "Al Wolters",
+      "title": "Creation Regained",
+      "year": 1985
+    },
+    {
+      "author": "Richard J. Mouw",
+      "title": "When the Kings Come Marching In",
+      "year": 1983
+    },
+    {
+      "author": "John Piper",
+      "title": "Let the Nations Be Glad!",
+      "year": 1993
+    },
+    {
+      "author": "Pope John Paul II",
+      "title": "Letter to Artists",
+      "year": 1999
+    },
+    {
+      "author": "Andy Crouch",
+      "title": "Culture Making: Recovering Our Creative Calling",
+      "year": 2008
+    },
+    {
+      "author": "Kevin DeYoung and Greg Gilbert",
+      "title": "What Is the Mission of the Church?",
+      "year": 2011
+    },
+    {
+      "author": "Timothy Keller with Katherine Leary Alsdorf",
+      "title": "Every Good Endeavor: Connecting Your Work to God's Work",
+      "year": 2012
+    },
+    {
+      "author": "Makoto Fujimura",
+      "title": "Culture Care: Reconnecting with Beauty for Our Common Life",
+      "year": 2017
+    },
+    {
+      "author": "Makoto Fujimura",
+      "title": "Art and Faith: A Theology of Making",
+      "year": 2020
+    },
+    {
+      "author": "Frederick J. Gaiser",
+      "title": "What Luther Didn't Say About Vocation",
+      "year": 2005,
+      "locator": "Word and World 25.4",
+      "confidence": "needs-verification"
+    },
+    {
+      "author": "Ronald F. Hock",
+      "title": "The Social Context of Paul's Ministry: Tentmaking and Apostleship",
+      "year": 1980
+    },
+    {
+      "author": "J. R. R. Tolkien",
+      "title": "On Fairy-Stories",
+      "year": 1947
+    },
+    {
+      "author": "Gregory Alan Thornbury",
+      "title": "Why Should the Devil Have All the Good Music? Larry Norman and the Perils of Christian Rock",
+      "year": 2018
+    },
+    {
+      "author": "Babylonian Talmud",
+      "title": "Shabbat 49b; Berakhot 35a",
+      "confidence": "tradition"
+    },
+    {
+      "author": "Joachim Jeremias",
+      "title": "The Parables of Jesus",
+      "year": 1954,
+      "locator": "English translation"
+    },
+    {
+      "author": "J. Richard Middleton",
+      "title": "A New Heaven and a New Earth",
+      "year": 2014
+    }
+  ]
+}

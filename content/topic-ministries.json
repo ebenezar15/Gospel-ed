@@ -1,0 +1,2965 @@
+{
+  "id": "ministries",
+  "title": "Ministries in the Bible: Who Served God, and How",
+  "subtitle": "From Adam's garden work to the elders, deacons, prophets and patrons of the first churches, and how Christians have organised ministry ever since",
+  "plain": "In the Bible, \"ministry\" simply means service done for God and on his behalf. It begins in Eden, where Adam is told to work and keep the garden, and it runs through Israel's priests, prophets, kings, judges, Levites, scribes, musicians and craftsmen. Jesus gathers all of these up: Christians call him the true Prophet, Priest and King, and he defines greatness as serving. After Pentecost the Spirit is poured out on \"all flesh\", so every believer is gifted to serve, while some are recognised as apostles, prophets, evangelists, pastors, teachers, elders and deacons to equip the rest. Churches still disagree about how these roles continue today, who may hold them, and how clergy and laity relate. This study sets out what the text says, how each tradition reads it, and how you might discover where God is calling you to serve.",
+  "keyPoints": [
+    "\"Ministry\" translates Greek *diakonia* (service, commissioned work). It covers preaching the word and waiting on tables alike (Acts 6:1-4).",
+    "Ministry starts before religion has offices: Adam's call to \"work and keep\" the garden uses words later used of priests serving and guarding the tabernacle (Gen 2:15, Num 3:7-8).",
+    "Israel's offices of prophet, priest and king each mediated God's rule and presence; the New Testament presents Jesus as fulfilling all three (Heb 1:1-3).",
+    "The outpouring of the Spirit on \"all flesh\" (Joel 2:28-29, Acts 2:17-18) makes ministry the calling of the whole people of God, not of a special caste.",
+    "The New Testament names several leadership roles (apostles, prophets, evangelists, pastors and teachers, elders or overseers, deacons) whose purpose is to equip every member (Eph 4:11-16).",
+    "Character comes before gifting: the qualifications for elders and deacons are almost entirely about life and relationships (1 Tim 3:1-13, Titus 1:5-9).",
+    "Traditions differ sharply on apostolic succession, the fivefold ministry, women's roles and the clergy-laity line. Each position has serious biblical arguments and is presented here fairly.",
+    "Most ministry happens outside church buildings: in households, hospitality, patronage, daily work and prayer (Col 3:23-24, Rom 16:1-5)."
+  ],
+  "groups": [
+    {
+      "id": "ot-offices",
+      "label": "Old Testament offices",
+      "color": "ot"
+    },
+    {
+      "id": "ot-service",
+      "label": "Old Testament service and craft",
+      "color": "warn"
+    },
+    {
+      "id": "jesus",
+      "label": "Jesus' ministry",
+      "color": "accent"
+    },
+    {
+      "id": "apostolic",
+      "label": "Apostolic church",
+      "color": "nt"
+    },
+    {
+      "id": "every-member",
+      "label": "Every-member gifts",
+      "color": "good"
+    },
+    {
+      "id": "history",
+      "label": "Church history and today",
+      "color": "accent-2"
+    }
+  ],
+  "map": {
+    "title": "How the ministries of Scripture connect",
+    "intro": "Each node is a ministry, office or idea. Arrows show how the Bible links them: one office fulfilled in Christ, another continued by the church, another serving or equipping the rest. Follow the arrows from Eden to the every-member body and on into church history.",
+    "nodes": [
+      {
+        "id": "adam-work",
+        "label": "Adam: work and keep",
+        "group": "ot-service",
+        "detail": "The first human vocation is to \"work\" ('abad) and \"keep\" (shamar) the garden. The same pair of verbs later describes Levites serving and guarding the tabernacle, so many scholars read Eden as the first sanctuary and Adam as a priest-gardener. Ministry begins as caring for God's world in his presence.",
+        "refs": [
+          "Gen 2:15",
+          "Gen 1:26-28",
+          "Num 3:7-8"
+        ],
+        "examples": [
+          "Adam",
+          "Eve"
+        ]
+      },
+      {
+        "id": "prophet-ot",
+        "label": "Prophet (Old Testament)",
+        "group": "ot-offices",
+        "detail": "A prophet was called directly by God to speak his word, often to confront kings and call Israel back to the covenant. Prophecy was not hereditary. Moses is the model prophet, and God promised to raise up \"a prophet like you\".",
+        "refs": [
+          "Deut 18:15-22",
+          "Amos 7:14-15",
+          "Jer 1:4-10"
+        ],
+        "examples": [
+          "Moses",
+          "Deborah",
+          "Samuel",
+          "Elijah",
+          "Huldah",
+          "Isaiah"
+        ]
+      },
+      {
+        "id": "priest-ot",
+        "label": "Priest (Old Testament)",
+        "group": "ot-offices",
+        "detail": "Aaron's descendants offered sacrifices, blessed the people, distinguished holy from common and taught the law. The priest brought the people to God and God's blessing to the people.",
+        "refs": [
+          "Exod 28:1",
+          "Lev 10:10-11",
+          "Num 6:22-27",
+          "Mal 2:7"
+        ],
+        "examples": [
+          "Aaron",
+          "Eleazar",
+          "Zadok",
+          "Ezra"
+        ]
+      },
+      {
+        "id": "king",
+        "label": "King",
+        "group": "ot-offices",
+        "detail": "Israel's king was \"the LORD's anointed\", meant to rule under God's law, not above it. Deuteronomy limits his wealth and power and requires him to copy and read the Torah. David is the model king; most kings fell short.",
+        "refs": [
+          "Deut 17:14-20",
+          "1 Sam 16:13",
+          "2 Sam 7:12-16"
+        ],
+        "examples": [
+          "David",
+          "Hezekiah",
+          "Josiah"
+        ]
+      },
+      {
+        "id": "judge",
+        "label": "Judge (deliverer)",
+        "group": "ot-offices",
+        "detail": "Before the monarchy God raised up judges (shophetim), who delivered tribes from oppression and then led them. Deborah also settled disputes. The judges show God working through unlikely, charismatic leaders.",
+        "refs": [
+          "Judg 2:16-19",
+          "Judg 4:4-5",
+          "Deut 16:18-20"
+        ],
+        "examples": [
+          "Deborah",
+          "Gideon",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "elders-israel",
+        "label": "Elders of Israel",
+        "group": "ot-offices",
+        "detail": "Senior heads of families and clans represented the people, judged cases at the city gate and witnessed agreements. Moses shared his burden with seventy elders, on whom the Spirit rested.",
+        "refs": [
+          "Num 11:16-17",
+          "Num 11:24-29",
+          "Ruth 4:1-11"
+        ],
+        "examples": [
+          "The seventy",
+          "Boaz's town elders"
+        ]
+      },
+      {
+        "id": "levite-musician",
+        "label": "Levites and musicians",
+        "group": "ot-service",
+        "detail": "Levites carried and guarded the tabernacle, later served as gatekeepers, treasurers, teachers and singers. David organised 288 trained musicians who \"prophesied\" with lyres, harps and cymbals.",
+        "refs": [
+          "Num 8:5-26",
+          "1 Chr 25:1-7",
+          "2 Chr 17:7-9",
+          "Neh 8:7-8"
+        ],
+        "examples": [
+          "Asaph",
+          "Heman",
+          "Jeduthun"
+        ]
+      },
+      {
+        "id": "scribe-sage",
+        "label": "Scribe and sage",
+        "group": "ot-service",
+        "detail": "Scribes kept records and copied and taught the law; sages gave wise counsel. Jeremiah lists three channels of guidance: the priest's instruction, the counsel of the wise and the prophet's word. Ezra combined priest and scribe.",
+        "refs": [
+          "Jer 18:18",
+          "Ezra 7:6-10",
+          "Prov 1:1-7"
+        ],
+        "examples": [
+          "Ezra",
+          "Baruch",
+          "Shaphan",
+          "Solomon"
+        ]
+      },
+      {
+        "id": "nazirite",
+        "label": "Nazirite",
+        "group": "ot-service",
+        "detail": "Any Israelite man or woman could take a Nazirite vow of special consecration: no vine products, no razor, no contact with the dead. It shows that dedicated service was open beyond the priestly family.",
+        "refs": [
+          "Num 6:1-21",
+          "Judg 13:5",
+          "Amos 2:11-12",
+          "Acts 21:23-26"
+        ],
+        "examples": [
+          "Samson",
+          "Samuel",
+          "Paul (a vow)"
+        ]
+      },
+      {
+        "id": "craftsman",
+        "label": "Craftsman (Bezalel)",
+        "group": "ot-service",
+        "detail": "The first person said to be \"filled with the Spirit of God\" is Bezalel, an artisan in metal, stone and wood. Women spun fabric for the tabernacle. Skilled craft is presented as Spirit-given ministry.",
+        "refs": [
+          "Exod 31:1-11",
+          "Exod 35:25-35",
+          "Exod 36:1-2"
+        ],
+        "examples": [
+          "Bezalel",
+          "Oholiab",
+          "Hiram of Tyre"
+        ]
+      },
+      {
+        "id": "christ-threefold",
+        "label": "Christ: prophet, priest, king",
+        "group": "jesus",
+        "detail": "The New Testament presents Jesus as the prophet like Moses, the high priest who offers himself, and the Son of David who reigns. Since Eusebius, and especially John Calvin, Christians have called this the threefold office (munus triplex). Jesus defines his own ministry as service: he came to serve and give his life.",
+        "refs": [
+          "Acts 3:22-26",
+          "Heb 4:14-16",
+          "Heb 7:23-28",
+          "Matt 28:18",
+          "Mark 10:45"
+        ],
+        "examples": [
+          "Jesus"
+        ]
+      },
+      {
+        "id": "twelve",
+        "label": "The Twelve",
+        "group": "apostolic",
+        "detail": "Jesus chose twelve \"to be with him\" and to be sent out to preach and heal. The number echoes Israel's twelve tribes and signals Israel's renewal. After Judas, Matthias was chosen as a witness of the resurrection.",
+        "refs": [
+          "Mark 3:13-19",
+          "Matt 19:28",
+          "Acts 1:21-26",
+          "Rev 21:14"
+        ],
+        "examples": [
+          "Peter",
+          "James",
+          "John",
+          "Matthias"
+        ]
+      },
+      {
+        "id": "apostle",
+        "label": "Apostle (wider circle)",
+        "group": "apostolic",
+        "detail": "Apostolos means one sent with authority. Beyond the Twelve, the title covers Paul, Barnabas, probably James the Lord's brother, Andronicus and Junia, and \"messengers of the churches\". Whether apostles exist today is one of the main debates.",
+        "refs": [
+          "1 Cor 15:5-9",
+          "Acts 14:14",
+          "Rom 16:7",
+          "2 Cor 8:23",
+          "Eph 2:20"
+        ],
+        "examples": [
+          "Paul",
+          "Barnabas",
+          "Junia",
+          "Andronicus"
+        ]
+      },
+      {
+        "id": "prophet-nt",
+        "label": "Prophet (New Testament)",
+        "group": "apostolic",
+        "detail": "New Testament prophets speak for the strengthening, encouragement and comfort of the church. Their words are to be weighed. Agabus, the prophets at Antioch and Philip's four daughters are examples.",
+        "refs": [
+          "1 Cor 14:1-5",
+          "1 Cor 14:29-33",
+          "Acts 11:27-28",
+          "Acts 21:9",
+          "1 Thess 5:19-21"
+        ],
+        "examples": [
+          "Agabus",
+          "Judas and Silas",
+          "Philip's daughters"
+        ]
+      },
+      {
+        "id": "evangelist",
+        "label": "Evangelist",
+        "group": "apostolic",
+        "detail": "An evangelist announces the good news, especially to those outside. Only Philip is called \"the evangelist\", and Timothy is told to do the work of one.",
+        "refs": [
+          "Acts 21:8",
+          "Acts 8:5-12",
+          "Eph 4:11",
+          "2 Tim 4:5"
+        ],
+        "examples": [
+          "Philip"
+        ]
+      },
+      {
+        "id": "pastor-shepherd",
+        "label": "Pastor-shepherd",
+        "group": "apostolic",
+        "detail": "\"Pastor\" means shepherd. The noun appears for a church role only in Ephesians 4:11, while elders are told to shepherd God's flock under Christ the chief Shepherd. Many read \"pastors and teachers\" as one role.",
+        "refs": [
+          "Eph 4:11",
+          "1 Pet 5:1-4",
+          "Acts 20:28",
+          "John 21:15-17"
+        ],
+        "examples": [
+          "Peter",
+          "the Ephesian elders"
+        ]
+      },
+      {
+        "id": "teacher",
+        "label": "Teacher",
+        "group": "apostolic",
+        "detail": "Teachers pass on and explain the apostolic message and Scripture. They are ranked high in Paul's list and warned that teachers will be judged more strictly.",
+        "refs": [
+          "Acts 13:1",
+          "1 Cor 12:28",
+          "Jas 3:1",
+          "2 Tim 2:2"
+        ],
+        "examples": [
+          "Apollos",
+          "Priscilla and Aquila",
+          "Paul"
+        ]
+      },
+      {
+        "id": "elder-overseer",
+        "label": "Elder / overseer",
+        "group": "apostolic",
+        "detail": "Each church was led by a group of elders (presbyteroi), also called overseers (episkopoi). They taught, shepherded, guarded the flock and prayed for the sick. Their qualifications are mainly about character.",
+        "refs": [
+          "Acts 14:23",
+          "Acts 20:17-28",
+          "Titus 1:5-9",
+          "1 Tim 3:1-7",
+          "Jas 5:14"
+        ],
+        "examples": [
+          "the Ephesian elders",
+          "Peter (a fellow elder)"
+        ]
+      },
+      {
+        "id": "deacon",
+        "label": "Deacon",
+        "group": "apostolic",
+        "detail": "Diakonos means servant or agent. It became the name of a recognised role alongside overseers. Many trace it to the Seven of Acts 6, though the text does not call them deacons.",
+        "refs": [
+          "Phil 1:1",
+          "1 Tim 3:8-13",
+          "Acts 6:1-6",
+          "Rom 16:1"
+        ],
+        "examples": [
+          "the Seven",
+          "Phoebe"
+        ]
+      },
+      {
+        "id": "widows",
+        "label": "Order of widows",
+        "group": "apostolic",
+        "detail": "Older widows without family support were \"enrolled\": supported by the church and committed to prayer, hospitality and good works. It is the first recognised women's ministry group in the church.",
+        "refs": [
+          "1 Tim 5:3-16",
+          "Acts 9:36-41",
+          "Luke 2:36-38"
+        ],
+        "examples": [
+          "Anna",
+          "the widows of Joppa"
+        ]
+      },
+      {
+        "id": "spirit-poured",
+        "label": "Spirit on all flesh",
+        "group": "every-member",
+        "detail": "Joel promised that God would pour out his Spirit on sons and daughters, old and young, slaves male and female. Peter says this happened at Pentecost. Moses had wished that all God's people were prophets.",
+        "refs": [
+          "Joel 2:28-29",
+          "Acts 2:16-18",
+          "Num 11:29"
+        ],
+        "examples": [
+          "the 120 at Pentecost"
+        ]
+      },
+      {
+        "id": "priesthood-all",
+        "label": "Priesthood of all believers",
+        "group": "every-member",
+        "detail": "Israel was called \"a kingdom of priests\"; Peter applies this to the church. Every believer offers spiritual sacrifices and declares God's praises. Luther made this a rallying cry of the Reformation.",
+        "refs": [
+          "Exod 19:5-6",
+          "1 Pet 2:5",
+          "1 Pet 2:9",
+          "Rev 1:6"
+        ],
+        "examples": [
+          "every believer"
+        ]
+      },
+      {
+        "id": "every-member",
+        "label": "Every-member ministry",
+        "group": "every-member",
+        "detail": "Christ gives leaders \"to equip the saints for the work of ministry\", so that the body builds itself up as each part does its work. Every believer has a gift to use for others.",
+        "refs": [
+          "Eph 4:11-16",
+          "Rom 12:3-8",
+          "1 Cor 12:4-27",
+          "1 Pet 4:10-11"
+        ],
+        "examples": [
+          "the whole body"
+        ]
+      },
+      {
+        "id": "hospitality",
+        "label": "Hospitality",
+        "group": "every-member",
+        "detail": "Hospitality (philoxenia, \"love of strangers\") was a core ministry. Churches met in homes, travelling teachers depended on hosts, and overseers had to be hospitable.",
+        "refs": [
+          "Rom 12:13",
+          "Heb 13:2",
+          "1 Pet 4:9",
+          "3 John 1:5-8"
+        ],
+        "examples": [
+          "Priscilla and Aquila",
+          "Gaius",
+          "Nympha",
+          "Lydia"
+        ]
+      },
+      {
+        "id": "patrons",
+        "label": "Patrons (Phoebe, Lydia)",
+        "group": "every-member",
+        "detail": "In the Roman world a patron used resources and status to protect and advance others. Phoebe is a prostatis (patron) of many; Lydia hosts Paul's team; women of means support Jesus. Patronage became a channel of gospel service.",
+        "refs": [
+          "Rom 16:1-2",
+          "Acts 16:14-15",
+          "Luke 8:1-3",
+          "Col 4:15"
+        ],
+        "examples": [
+          "Phoebe",
+          "Lydia",
+          "Joanna",
+          "Susanna"
+        ]
+      },
+      {
+        "id": "work-vocation",
+        "label": "Work as worship",
+        "group": "every-member",
+        "detail": "Paul tells believers, even slaves, to work wholeheartedly \"as for the Lord\". Daily work, done for God and neighbour, is part of ministry. This links the church back to Eden.",
+        "refs": [
+          "Col 3:23-24",
+          "Eph 6:5-8",
+          "1 Thess 4:11-12"
+        ],
+        "examples": [
+          "Paul the tentmaker",
+          "Lydia the cloth trader"
+        ]
+      },
+      {
+        "id": "bishop-order",
+        "label": "Bishop, presbyter, deacon",
+        "group": "history",
+        "detail": "By about 110 Ignatius of Antioch urges churches to gather around one bishop with presbyters and deacons. This threefold order became the pattern of Catholic, Orthodox and Anglican churches. Whether it is a faithful development or a departure is debated.",
+        "refs": [
+          "Phil 1:1",
+          "Titus 1:5-7"
+        ],
+        "examples": [
+          "Ignatius",
+          "Polycarp"
+        ]
+      },
+      {
+        "id": "clergy-laity",
+        "label": "Clergy-laity divide",
+        "group": "history",
+        "detail": "From the third century onward the church increasingly distinguished clergy (kleros, \"the lot\") from laity (laos, \"the people\"). In the medieval West the gap widened. Every reform movement since has tried to redraw this line in some way.",
+        "refs": [
+          "1 Pet 5:3",
+          "1 Pet 2:9"
+        ],
+        "examples": [
+          "Cyprian",
+          "Gregory VII"
+        ]
+      },
+      {
+        "id": "fivefold-movement",
+        "label": "Fivefold-ministry movements",
+        "group": "history",
+        "detail": "Some modern charismatic movements teach that apostles and prophets, along with evangelists, pastors and teachers, are continuing governing offices. Others use the five as a model of church functions (APEST). Cessationists and many continuationists disagree.",
+        "refs": [
+          "Eph 4:11-13",
+          "Eph 2:20"
+        ],
+        "examples": [
+          "C. Peter Wagner",
+          "Alan Hirsch"
+        ]
+      }
+    ],
+    "edges": [
+      {
+        "from": "adam-work",
+        "to": "priest-ot",
+        "label": "pattern for"
+      },
+      {
+        "from": "adam-work",
+        "to": "work-vocation",
+        "label": "restored in"
+      },
+      {
+        "from": "prophet-ot",
+        "to": "christ-threefold",
+        "label": "fulfilled in"
+      },
+      {
+        "from": "priest-ot",
+        "to": "christ-threefold",
+        "label": "fulfilled in"
+      },
+      {
+        "from": "king",
+        "to": "christ-threefold",
+        "label": "fulfilled in"
+      },
+      {
+        "from": "judge",
+        "to": "king",
+        "label": "gives way to"
+      },
+      {
+        "from": "prophet-ot",
+        "to": "king",
+        "label": "anoints and confronts"
+      },
+      {
+        "from": "levite-musician",
+        "to": "priest-ot",
+        "label": "serves"
+      },
+      {
+        "from": "scribe-sage",
+        "to": "teacher",
+        "label": "continued by"
+      },
+      {
+        "from": "elders-israel",
+        "to": "elder-overseer",
+        "label": "continued by"
+      },
+      {
+        "from": "elders-israel",
+        "to": "spirit-poured",
+        "label": "foretaste of"
+      },
+      {
+        "from": "nazirite",
+        "to": "priesthood-all",
+        "label": "anticipates"
+      },
+      {
+        "from": "craftsman",
+        "to": "work-vocation",
+        "label": "models"
+      },
+      {
+        "from": "christ-threefold",
+        "to": "twelve",
+        "label": "appoints"
+      },
+      {
+        "from": "christ-threefold",
+        "to": "spirit-poured",
+        "label": "pours out"
+      },
+      {
+        "from": "christ-threefold",
+        "to": "priesthood-all",
+        "label": "shares office with"
+      },
+      {
+        "from": "twelve",
+        "to": "apostle",
+        "label": "core of"
+      },
+      {
+        "from": "apostle",
+        "to": "elder-overseer",
+        "label": "appoints"
+      },
+      {
+        "from": "twelve",
+        "to": "deacon",
+        "label": "appoints the Seven"
+      },
+      {
+        "from": "spirit-poured",
+        "to": "prophet-nt",
+        "label": "gives"
+      },
+      {
+        "from": "spirit-poured",
+        "to": "every-member",
+        "label": "empowers"
+      },
+      {
+        "from": "apostle",
+        "to": "every-member",
+        "label": "equips"
+      },
+      {
+        "from": "prophet-nt",
+        "to": "every-member",
+        "label": "equips"
+      },
+      {
+        "from": "evangelist",
+        "to": "every-member",
+        "label": "equips"
+      },
+      {
+        "from": "pastor-shepherd",
+        "to": "every-member",
+        "label": "equips"
+      },
+      {
+        "from": "teacher",
+        "to": "every-member",
+        "label": "equips"
+      },
+      {
+        "from": "elder-overseer",
+        "to": "pastor-shepherd",
+        "label": "does the work of"
+      },
+      {
+        "from": "deacon",
+        "to": "widows",
+        "label": "serves"
+      },
+      {
+        "from": "hospitality",
+        "to": "apostle",
+        "label": "sustains"
+      },
+      {
+        "from": "patrons",
+        "to": "hospitality",
+        "label": "provides homes for"
+      },
+      {
+        "from": "priesthood-all",
+        "to": "every-member",
+        "label": "expressed as"
+      },
+      {
+        "from": "every-member",
+        "to": "work-vocation",
+        "label": "extends into"
+      },
+      {
+        "from": "elder-overseer",
+        "to": "bishop-order",
+        "label": "develops into"
+      },
+      {
+        "from": "bishop-order",
+        "to": "clergy-laity",
+        "label": "leads to"
+      },
+      {
+        "from": "clergy-laity",
+        "to": "priesthood-all",
+        "label": "challenged by"
+      },
+      {
+        "from": "apostle",
+        "to": "fivefold-movement",
+        "label": "claimed by"
+      },
+      {
+        "from": "prophet-nt",
+        "to": "fivefold-movement",
+        "label": "claimed by"
+      }
+    ]
+  },
+  "flow": {
+    "title": "How ministry unfolds through the story of Scripture",
+    "intro": "Ministry is not invented by the church. It grows through the whole biblical story: from a gardener in Eden, to a priestly nation with specialised offices, through exile, to Jesus, the Spirit-filled body and the new creation. At each step, ask the questions to read a passage or your own situation in the light of that stage.",
+    "steps": [
+      {
+        "label": "Eden: work and keep",
+        "detail": "God places the human in the garden \"to work it and keep it\" and gives humanity rule over creation as his image. Ministry begins as faithful, worshipful care for God's world in his presence.",
+        "ask": [
+          "What part of God's world has been placed in my care?",
+          "Do I see ordinary work here as service to God?",
+          "How does this passage show human beings representing God?"
+        ],
+        "refs": [
+          "Gen 1:26-28",
+          "Gen 2:15",
+          "Ps 8:3-8"
+        ]
+      },
+      {
+        "label": "A kingdom of priests",
+        "detail": "At Sinai God calls all Israel a \"kingdom of priests and a holy nation\", a people who would bring God's blessing to the nations. The whole people has a ministry before any office is named.",
+        "ask": [
+          "How does this passage describe the calling of the whole people, not just its leaders?",
+          "How was Israel meant to bless the nations?",
+          "Where is God's presence among his people here?"
+        ],
+        "refs": [
+          "Exod 19:4-6",
+          "Gen 12:1-3",
+          "Deut 4:5-8"
+        ]
+      },
+      {
+        "label": "Israel's offices and servants",
+        "detail": "God gives priests, Levites, prophets, judges, elders, kings, scribes, sages, musicians and craftsmen. Each office serves the covenant, and each can fail when it serves itself instead of God and the people.",
+        "ask": [
+          "Which office is at work here, and what was it for?",
+          "Is the leader serving the people or using them?",
+          "How does this office point beyond itself to something better?"
+        ],
+        "refs": [
+          "Deut 17:14-20",
+          "Deut 18:15-22",
+          "Exod 28:1",
+          "Ezek 34:1-10"
+        ]
+      },
+      {
+        "label": "Exile: ministry without temple",
+        "detail": "With the temple destroyed, faithful service continued in a foreign land: Jeremiah tells exiles to seek the welfare of Babylon, Daniel and Nehemiah serve in royal courts, Esther risks her position, and Ezra teaches the Torah. Scripture, prayer and community become central.",
+        "ask": [
+          "How can someone serve God faithfully inside a system that does not share their faith?",
+          "Where is God at work without a temple or official structure?",
+          "What does this passage say about seeking the good of the city?"
+        ],
+        "refs": [
+          "Jer 29:4-7",
+          "Dan 1:17-21",
+          "Neh 1:11",
+          "Esth 4:14",
+          "Ezra 7:10"
+        ]
+      },
+      {
+        "label": "Jesus: the servant Lord",
+        "detail": "Jesus comes as the anointed prophet, the self-offering priest and the promised king. He washes feet, calls the Twelve and redefines greatness as service.",
+        "ask": [
+          "How does Jesus fulfil or transform the office in view?",
+          "What does he model about authority and service here?",
+          "Whom is he training, and how?"
+        ],
+        "refs": [
+          "Luke 4:16-21",
+          "Mark 10:42-45",
+          "John 13:12-17",
+          "Heb 7:23-28"
+        ]
+      },
+      {
+        "label": "Spirit on all flesh",
+        "detail": "At Pentecost the Spirit is poured out on men and women, young and old, slave and free, as Joel promised. Moses' wish that all God's people were prophets begins to come true.",
+        "ask": [
+          "Who receives the Spirit in this passage, and who might have been surprised?",
+          "What does the Spirit enable people to do?",
+          "How does this widen who can serve?"
+        ],
+        "refs": [
+          "Joel 2:28-29",
+          "Acts 2:1-4",
+          "Acts 2:16-18",
+          "Num 11:29"
+        ]
+      },
+      {
+        "label": "Body ministry and its leaders",
+        "detail": "Every believer receives grace-gifts for the common good, and Christ gives apostles, prophets, evangelists, pastors and teachers to equip them. Elders and deacons are appointed for each congregation, chosen for character.",
+        "ask": [
+          "Is anyone in this passage doing all the ministry alone?",
+          "How are leaders equipping others rather than replacing them?",
+          "What role does character play in recognising leaders here?"
+        ],
+        "refs": [
+          "Eph 4:11-16",
+          "1 Cor 12:4-11",
+          "Acts 14:23",
+          "1 Tim 3:1-13"
+        ]
+      },
+      {
+        "label": "New creation: reigning servants",
+        "detail": "The story ends where it began, in a garden-city with God's presence. The redeemed are a kingdom and priests who serve God and reign for ever. Faithful service now is practice for the age to come.",
+        "ask": [
+          "How does this passage connect present service with the future?",
+          "What will last from the work done now?",
+          "How does this hope give dignity to small and hidden ministries?"
+        ],
+        "refs": [
+          "Rev 5:9-10",
+          "Rev 22:1-5",
+          "1 Cor 15:58",
+          "Matt 25:21"
+        ]
+      }
+    ]
+  },
+  "decision": {
+    "title": "Where might God be calling me to serve?",
+    "intro": "This is not a personality test, and no website can tell you your calling. In Scripture people discover ministry by serving, noticing needs, using what God has given, being recognised by others and growing in character. Use this guide to think and pray, then talk it through with mature believers who know you. Every result comes back to the same two checks: community confirmation and character.",
+    "start": "q-start",
+    "nodes": [
+      {
+        "id": "q-start",
+        "q": "Which best describes where you are right now?",
+        "options": [
+          {
+            "label": "I already serve regularly in some way, even small",
+            "next": "q-thanks"
+          },
+          {
+            "label": "I am not serving yet, but I want to",
+            "next": "q-needs"
+          },
+          {
+            "label": "I am in a season of real limits (illness, caring for others, old age, heavy work)",
+            "next": "q-season"
+          }
+        ]
+      },
+      {
+        "id": "q-thanks",
+        "q": "When you serve, what do other people most often thank you for or ask you to do again?",
+        "options": [
+          {
+            "label": "Explaining the Bible or helping people understand God",
+            "next": "q-confirm-word"
+          },
+          {
+            "label": "Practical help: meals, visits, repairs, care",
+            "next": "r-mercy"
+          },
+          {
+            "label": "Organising people, plans or money so things work",
+            "next": "q-lead"
+          },
+          {
+            "label": "Making things: music, art, design, building, writing",
+            "next": "r-craft"
+          },
+          {
+            "label": "Listening and praying with people",
+            "next": "r-intercession"
+          },
+          {
+            "label": "I honestly do not know",
+            "next": "q-needs"
+          }
+        ]
+      },
+      {
+        "id": "q-needs",
+        "q": "Look around your church, home, work and neighbourhood. Which need moves you most to act?",
+        "options": [
+          {
+            "label": "People who do not know or understand the gospel",
+            "next": "q-confirm-word"
+          },
+          {
+            "label": "People who are poor, sick, lonely or overlooked",
+            "next": "r-mercy"
+          },
+          {
+            "label": "Groups that lack direction, structure or good systems",
+            "next": "q-lead"
+          },
+          {
+            "label": "Worship, spaces or communication that lack beauty and skill",
+            "next": "r-craft"
+          },
+          {
+            "label": "Colleagues, customers and the life of my workplace",
+            "next": "q-place"
+          },
+          {
+            "label": "Families, newcomers and people with nowhere to belong",
+            "next": "r-hospitality"
+          }
+        ]
+      },
+      {
+        "id": "q-season",
+        "q": "In this season, what can you still offer, even in small amounts?",
+        "options": [
+          {
+            "label": "Prayer, often for long stretches",
+            "next": "r-intercession"
+          },
+          {
+            "label": "A home, a table or a phone to welcome and encourage",
+            "next": "r-hospitality"
+          },
+          {
+            "label": "Faithful daily work or care done as for the Lord",
+            "next": "q-place"
+          }
+        ]
+      },
+      {
+        "id": "q-place",
+        "q": "Where do you spend most of your waking hours?",
+        "options": [
+          {
+            "label": "At a job, business, school or public role",
+            "next": "r-marketplace"
+          },
+          {
+            "label": "At home, raising children or caring for family",
+            "next": "r-hospitality"
+          },
+          {
+            "label": "Among neighbours or people in need",
+            "next": "r-mercy"
+          }
+        ]
+      },
+      {
+        "id": "q-lead",
+        "q": "What kind of leading do you find yourself drawn to?",
+        "options": [
+          {
+            "label": "Coordinating teams, projects, finances or events",
+            "next": "r-lead"
+          },
+          {
+            "label": "Spiritual care and oversight of people, including teaching",
+            "next": "q-confirm-word"
+          }
+        ]
+      },
+      {
+        "id": "q-confirm-word",
+        "q": "Have mature believers who know you well recognised this gift and encouraged you to grow in it?",
+        "options": [
+          {
+            "label": "Yes, more than one, and I have had chances to serve this way",
+            "next": "q-character"
+          },
+          {
+            "label": "Not yet, or only my own sense of it",
+            "next": "r-wait"
+          }
+        ]
+      },
+      {
+        "id": "q-character",
+        "q": "Read 1 Timothy 3:1-13 and Titus 1:5-9 slowly. Would people close to you say your life, home and relationships broadly match this, while you keep growing?",
+        "options": [
+          {
+            "label": "Yes, broadly, and I am open to correction",
+            "next": "r-word"
+          },
+          {
+            "label": "There is a serious area that needs attention first",
+            "next": "r-wait"
+          }
+        ]
+      }
+    ],
+    "results": [
+      {
+        "id": "r-word",
+        "title": "Word and shepherding ministries",
+        "text": "You may be called to ministries of the word: teaching, preaching, evangelism, discipling or, in time, recognised oversight as an elder or pastor. Scripture treats these as weighty: teachers are judged more strictly, and elders must be able to teach and live above reproach. Next steps: serve under experienced leaders, study seriously, and let your church test and recognise the gift. Traditions differ on who may hold which offices, so learn your own church's convictions and the reasons for them.",
+        "refs": [
+          "2 Tim 2:2",
+          "1 Tim 4:12-16",
+          "Jas 3:1",
+          "1 Pet 5:1-4",
+          "Acts 13:1-3"
+        ]
+      },
+      {
+        "id": "r-mercy",
+        "title": "Mercy and practical service",
+        "text": "You may be drawn to ministries of mercy: caring for the sick, poor, widows, refugees and prisoners, or the practical service that keeps a church alive. The Seven were appointed so that widows were not neglected, and Jesus says that serving \"the least of these\" is serving him. This is not second-class ministry. Look for a team to join, and ask whether your church might recognise you for this work, as it did the Seven.",
+        "refs": [
+          "Acts 6:1-6",
+          "Matt 25:34-40",
+          "Rom 12:8",
+          "Jas 1:27",
+          "Acts 9:36-39"
+        ]
+      },
+      {
+        "id": "r-lead",
+        "title": "Administration and leadership",
+        "text": "Paul lists \"administrating\" (literally steering, like a ship's pilot) and \"leading\" among the gifts. Jethro's advice to Moses and the apostles' delegation in Acts 6 show that good structure frees others for ministry. Lead as a servant, not a lord, and invite accountability. Character matters as much as competence, so ask trusted people to speak into how you lead.",
+        "refs": [
+          "1 Cor 12:28",
+          "Rom 12:8",
+          "Exod 18:13-26",
+          "Mark 10:42-45",
+          "Acts 6:2-4"
+        ]
+      },
+      {
+        "id": "r-craft",
+        "title": "Craft, music and creativity",
+        "text": "Bezalel was filled with the Spirit for craftsmanship, and David appointed trained musicians to lead Israel's praise. Making beautiful, skilful work for God and others is a real ministry, whether in worship, buildings, design, writing or media. Keep your skill growing, serve within a community rather than as a lone performer, and remember that humility and holiness matter more than talent.",
+        "refs": [
+          "Exod 31:1-6",
+          "Exod 35:30-35",
+          "1 Chr 25:1-7",
+          "Ps 33:3",
+          "Col 3:16"
+        ]
+      },
+      {
+        "id": "r-marketplace",
+        "title": "Marketplace and vocation",
+        "text": "Your main ministry may be where you already are: your daily work, done honestly and well \"as for the Lord\". Joseph, Daniel, Nehemiah, Lydia and Paul the tentmaker served God through their trades and public roles. Ask how your work serves your neighbour and reflects God's care for his world, and find believers who will pray with you and hold you to integrity there.",
+        "refs": [
+          "Col 3:23-24",
+          "Gen 2:15",
+          "Jer 29:7",
+          "Acts 18:1-4",
+          "Dan 6:3-4"
+        ]
+      },
+      {
+        "id": "r-hospitality",
+        "title": "Family and hospitality",
+        "text": "The early church grew through homes. Priscilla and Aquila, Lydia, Nympha and Gaius opened their households for worship and welcome, and parents and grandparents like Lois and Eunice passed on faith. Hospitality, raising children in the faith and welcoming strangers are ministries the New Testament expects of every believer and requires of leaders.",
+        "refs": [
+          "Rom 16:3-5",
+          "Acts 16:14-15",
+          "Rom 12:13",
+          "Heb 13:2",
+          "2 Tim 1:5"
+        ]
+      },
+      {
+        "id": "r-intercession",
+        "title": "Intercession and encouragement",
+        "text": "Prayer is a ministry, not a fallback. Anna served God with fasting and prayer night and day, and Epaphras \"wrestled in prayer\" for a church far away. Many hidden servants carry churches through prayer and quiet encouragement. Join with others in praying, and let your church know you are available to pray with people.",
+        "refs": [
+          "Luke 2:36-38",
+          "Col 4:12-13",
+          "1 Tim 5:5",
+          "Jas 5:16",
+          "1 Thess 5:11"
+        ]
+      },
+      {
+        "id": "r-wait",
+        "title": "Keep serving, and seek confirmation",
+        "text": "This is not a \"no\". In Scripture, people were usually recognised for ministry after they had been tested and seen by others: the Seven were already known to be full of the Spirit and wisdom, and deacons are to be tested first. For now, serve in whatever is in front of you, ask a mature believer to walk with you, and attend to any area of character that needs healing. Gifts become clear over time and in community.",
+        "refs": [
+          "Acts 6:3",
+          "1 Tim 3:10",
+          "1 Tim 5:22",
+          "Luke 16:10",
+          "Gal 6:1-2"
+        ]
+      }
+    ]
+  },
+  "timeline": {
+    "title": "Ministry from Sinai to the global church",
+    "events": [
+      {
+        "year": -1446,
+        "label": "Aaron ordained as priest",
+        "text": "At Sinai Aaron and his sons are washed, clothed, anointed and ordained over seven days (Exod 29, Lev 8-9). The date follows the early-exodus chronology; many scholars prefer about 1260 BC.",
+        "group": "ot-offices"
+      },
+      {
+        "year": -1445,
+        "label": "Levites set apart",
+        "text": "The tribe of Levi is given to the priests to carry, guard and serve the tabernacle, in place of Israel's firstborn, from about age 25 to 50 (Num 3, Num 8). Dates approximate.",
+        "group": "ot-service"
+      },
+      {
+        "year": -1200,
+        "label": "The judges",
+        "text": "In the generations before the monarchy, God raises up deliverers such as Deborah, Gideon and Samson. Deborah is both prophet and judge (Judg 4:4-5). Dating is approximate and debated.",
+        "group": "ot-offices"
+      },
+      {
+        "year": -1050,
+        "label": "Samuel and the prophet bands",
+        "text": "Samuel, prophet, priest-like leader and last judge, rides a circuit to judge Israel and presides over a \"company of prophets\" (1 Sam 7:15-17, 1 Sam 19:20). Later the \"sons of the prophets\" gather around Elijah and Elisha (2 Kgs 2:3, 2 Kgs 6:1). Approximate date.",
+        "group": "ot-offices"
+      },
+      {
+        "year": -970,
+        "label": "David's musicians",
+        "text": "David organises Levitical singers and 288 trained musicians under Asaph, Heman and Jeduthun, who \"prophesy\" with instruments (1 Chr 25:1-7). Approximate date.",
+        "group": "ot-service"
+      },
+      {
+        "year": -458,
+        "label": "Ezra the scribe",
+        "text": "Ezra, a priest and \"skilled scribe\", comes to Jerusalem having set his heart to study, do and teach the Torah. With Levites he reads and explains the law to the people (Ezra 7:6-10, Neh 8:1-8). Date on the traditional reckoning; some prefer 398 BC.",
+        "group": "ot-service"
+      },
+      {
+        "year": -250,
+        "label": "Synagogues and teachers",
+        "text": "The earliest inscriptions for Jewish prayer-houses come from Egypt in the third century BC. By Jesus' day synagogues in Galilee and Judea were places for reading and teaching the Scriptures, led largely by lay people, and respected teachers were called \"rabbi\". Approximate date.",
+        "group": "ot-service"
+      },
+      {
+        "year": 28,
+        "label": "Jesus calls the Twelve",
+        "text": "Jesus appoints twelve \"to be with him\" and to be sent out to preach and heal, symbolising renewed Israel (Mark 3:13-19). Approximate date.",
+        "group": "jesus"
+      },
+      {
+        "year": 33,
+        "label": "The Seven appointed",
+        "text": "When Greek-speaking widows are overlooked, the church chooses seven men \"full of the Spirit and wisdom\" and the apostles lay hands on them (Acts 6:1-6). Approximate date; some prefer the mid 30s.",
+        "group": "apostolic"
+      },
+      {
+        "year": 47,
+        "label": "Antioch's prophets and teachers",
+        "text": "A diverse leadership team at Antioch, including a Cypriot, an African and a member of Herod's court, worships and fasts, and the Spirit sends Barnabas and Saul (Acts 13:1-3). Approximate date.",
+        "group": "apostolic"
+      },
+      {
+        "year": 63,
+        "label": "The Pastoral letters",
+        "text": "1 and 2 Timothy and Titus set out qualifications for overseers, elders and deacons and instructions on widows. Traditional dating is about 62-67; many critical scholars date them later and attribute them to a follower of Paul.",
+        "group": "apostolic"
+      },
+      {
+        "year": 100,
+        "label": "The Didache",
+        "text": "This early church manual (dated anywhere from about 50 to 120) welcomes travelling apostles and prophets but warns that one who stays three days or asks for money is a false prophet. It also tells churches to appoint bishops and deacons for themselves (Didache 11-13, 15).",
+        "group": "history"
+      },
+      {
+        "year": 110,
+        "label": "Ignatius and the bishop",
+        "text": "On his way to martyrdom, Ignatius of Antioch urges churches to do nothing without the bishop, gathered with presbyters and deacons (for example, *To the Smyrnaeans* 8). This is the first clear witness to a single bishop over each city church. Approximate date.",
+        "group": "history"
+      },
+      {
+        "year": 320,
+        "label": "Monastic ministry",
+        "text": "After Antony's withdrawal to the desert, Pachomius founds communal monasteries in Egypt (about 320). Monks and nuns become teachers, healers, scholars and missionaries; Benedict's Rule (about 530) shapes Western monastic life for centuries. Approximate dates.",
+        "group": "history"
+      },
+      {
+        "year": 1075,
+        "label": "Medieval clergy and laity",
+        "text": "The Gregorian reforms of the late eleventh century strengthen clerical celibacy and separate clergy from lay control. Over the Middle Ages, ministry becomes largely identified with the ordained priesthood, though lay movements such as the Beguines and Franciscans push back.",
+        "group": "history"
+      },
+      {
+        "year": 1520,
+        "label": "Luther: all believers are priests",
+        "text": "In *To the Christian Nobility of the German Nation*, Martin Luther argues that all the baptised are consecrated priests, and that ordination sets some apart for public office rather than a higher spiritual state.",
+        "group": "history"
+      },
+      {
+        "year": 1527,
+        "label": "Anabaptist congregational ministry",
+        "text": "The Schleitheim Confession teaches that shepherds should be chosen by the congregation, supported by it and disciplined by it. Anabaptists stress shared discernment, mutual aid and the ministry of ordinary members.",
+        "group": "history"
+      },
+      {
+        "year": 1739,
+        "label": "Wesley's lay preachers",
+        "text": "Early Methodism relies on lay preachers such as Joseph Humphreys, John Cennick and Thomas Maxfield. John Wesley at first hesitates, then accepts lay preaching as a work of God, and organises lay leaders in classes and circuits.",
+        "group": "history"
+      },
+      {
+        "year": 1859,
+        "label": "Women in revival movements",
+        "text": "Building on Wesley's acceptance of women with an \"extraordinary call\" such as Sarah Crosby and Mary Bosanquet (1771), Phoebe Palmer publishes *Promise of the Father* and Catherine Booth *Female Ministry* (both 1859), defending women's preaching from Joel 2 and Acts 2.",
+        "group": "history"
+      },
+      {
+        "year": 1906,
+        "label": "Azusa Street revival",
+        "text": "Under William J. Seymour, an African American preacher, the Los Angeles revival spreads Pentecostalism worldwide. It stresses the Spirit's gifts for every believer and gives prominent roles to women and people of colour.",
+        "group": "history"
+      },
+      {
+        "year": 1965,
+        "label": "Vatican II on the laity",
+        "text": "The Second Vatican Council's decree *Apostolicam Actuositatem* (1965), building on *Lumen Gentium* (1964), teaches that lay people share in Christ's priestly, prophetic and kingly office and have their own apostolate in the world. The permanent diaconate is also restored.",
+        "group": "history"
+      },
+      {
+        "year": 1972,
+        "label": "Every-member ministry",
+        "text": "Ray Stedman's *Body Life* (1972) popularises the idea that pastors equip members to do the ministry (Eph 4:12). Later writers such as R. Paul Stevens (*The Other Six Days*, 1999) extend this to daily work.",
+        "group": "every-member"
+      },
+      {
+        "year": 1996,
+        "label": "Apostolic and fivefold movements",
+        "text": "Drawing on earlier currents such as the Latter Rain movement (1948), C. Peter Wagner and others begin describing a \"New Apostolic Reformation\" led by present-day apostles and prophets. Separately, Alan Hirsch's APEST model (2006) treats the five as functions in every church.",
+        "group": "history"
+      },
+      {
+        "year": 2000,
+        "label": "Majority-World churches",
+        "text": "By around 2000 most Christians live in Africa, Asia and Latin America. Many of these churches, from Chinese house churches to African independent and Latin American Pentecostal churches, rely heavily on lay leaders, women evangelists and bivocational pastors.",
+        "group": "history"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Explorer: every ministry, office and role",
+    "intro": "Filter by group to explore each ministry: what Scripture says, key passages and people who held it. Cards on church history show how later traditions developed these roles.",
+    "items": [
+      {
+        "id": "g-priest",
+        "title": "Priest and high priest",
+        "group": "ot-offices",
+        "summary": "Aaron's descendants who offered sacrifice, blessed and taught.",
+        "detail": "Priests mediated between God and Israel: offering sacrifices, burning incense, blessing the people and teaching the difference between holy and common. The high priest alone entered the Most Holy Place on the Day of Atonement. Malachi calls the priest \"the messenger of the LORD\" whose lips should guard knowledge.",
+        "refs": [
+          "Exod 28:1",
+          "Lev 10:10-11",
+          "Lev 16:1-34",
+          "Num 6:22-27",
+          "Mal 2:7"
+        ],
+        "people": [
+          "Aaron",
+          "Eleazar",
+          "Phinehas",
+          "Zadok",
+          "Joshua the high priest"
+        ]
+      },
+      {
+        "id": "g-prophet-ot",
+        "title": "Prophet and prophetess",
+        "group": "ot-offices",
+        "summary": "Called directly by God to speak his word.",
+        "detail": "Prophets received God's word and spoke it to kings and people, calling them back to the covenant and announcing judgment and hope. Women prophets such as Miriam, Deborah and Huldah are named without apology; King Josiah's officials consulted Huldah about the newly found book of the law. True prophets were tested by faithfulness to God and fulfilment.",
+        "refs": [
+          "Deut 18:15-22",
+          "Exod 15:20",
+          "Judg 4:4",
+          "2 Kgs 22:14-20",
+          "Jer 1:4-10"
+        ],
+        "people": [
+          "Moses",
+          "Miriam",
+          "Deborah",
+          "Samuel",
+          "Elijah",
+          "Huldah",
+          "Isaiah",
+          "Jeremiah"
+        ]
+      },
+      {
+        "id": "g-king",
+        "title": "King",
+        "group": "ot-offices",
+        "summary": "The LORD's anointed, meant to rule under God's law.",
+        "detail": "Israel's king was to be chosen by God, not multiply horses, wives or wealth, and read the law daily so his heart would not be lifted above his brothers. Kings could not take priestly duties: Saul and Uzziah were judged for doing so. God's promise of an everlasting throne to David became the root of messianic hope.",
+        "refs": [
+          "Deut 17:14-20",
+          "1 Sam 13:8-14",
+          "2 Chr 26:16-21",
+          "2 Sam 7:12-16"
+        ],
+        "people": [
+          "Saul",
+          "David",
+          "Solomon",
+          "Hezekiah",
+          "Josiah"
+        ]
+      },
+      {
+        "id": "g-judge",
+        "title": "Judge",
+        "group": "ot-offices",
+        "summary": "A God-raised deliverer and leader before the monarchy.",
+        "detail": "The judges were raised up when Israel cried out under oppression. They delivered the people and often led them afterwards. Their mixed characters show God working through flawed people. Deuteronomy also commands local judges and officers who must judge justly and refuse bribes.",
+        "refs": [
+          "Judg 2:16-19",
+          "Judg 4:4-5",
+          "Deut 16:18-20",
+          "1 Sam 7:15-17"
+        ],
+        "people": [
+          "Othniel",
+          "Deborah",
+          "Gideon",
+          "Jephthah",
+          "Samson",
+          "Samuel"
+        ]
+      },
+      {
+        "id": "g-elders-israel",
+        "title": "Elders of Israel",
+        "group": "ot-offices",
+        "summary": "Heads of families who represented and judged the people.",
+        "detail": "Elders sat at the city gate to settle disputes and witness agreements, represented Israel before Moses and kings, and shared leadership. When the Spirit rested on the seventy elders they prophesied, and Moses wished all God's people could have the Spirit.",
+        "refs": [
+          "Exod 24:1",
+          "Num 11:16-17",
+          "Num 11:24-29",
+          "Ruth 4:1-11"
+        ],
+        "people": [
+          "the seventy elders",
+          "Eldad",
+          "Medad",
+          "Boaz"
+        ]
+      },
+      {
+        "id": "g-levite",
+        "title": "Levite",
+        "group": "ot-service",
+        "summary": "Tribe set apart to assist the priests and serve the sanctuary.",
+        "detail": "Levites carried and guarded the tabernacle, later serving as gatekeepers, treasurers, judges and teachers. They received no tribal land; the LORD was their inheritance, and they lived on the tithes. Under Jehoshaphat they travelled to teach the law, and under Ezra they explained it to the people.",
+        "refs": [
+          "Num 3:5-10",
+          "Num 8:24-26",
+          "Num 18:20-24",
+          "2 Chr 17:7-9",
+          "Neh 8:7-8"
+        ],
+        "people": [
+          "Levi",
+          "Korah's sons",
+          "Jeshua"
+        ]
+      },
+      {
+        "id": "g-musician",
+        "title": "Musician and singer",
+        "group": "ot-service",
+        "summary": "Trained Levites who led Israel's worship.",
+        "detail": "David appointed Levitical singers and instrumentalists for continual praise. The Chronicler says they \"prophesied\" with lyres, harps and cymbals and lists 288 who were trained and skilled. Many psalms are linked to Asaph and the sons of Korah.",
+        "refs": [
+          "1 Chr 15:16-24",
+          "1 Chr 25:1-7",
+          "2 Chr 5:12-14",
+          "Ps 50:1"
+        ],
+        "people": [
+          "Asaph",
+          "Heman",
+          "Jeduthun",
+          "Chenaniah"
+        ]
+      },
+      {
+        "id": "g-scribe",
+        "title": "Scribe",
+        "group": "ot-service",
+        "summary": "Record-keeper, copyist and teacher of the law.",
+        "detail": "Royal scribes served as secretaries of state. Baruch wrote down Jeremiah's words. After the exile, Ezra the priest-scribe became the model of one who studies, practises and teaches the Torah. By Jesus' time scribes were recognised experts in the law.",
+        "refs": [
+          "2 Sam 8:17",
+          "Jer 36:4",
+          "Ezra 7:6-10",
+          "Matt 13:52"
+        ],
+        "people": [
+          "Shaphan",
+          "Baruch",
+          "Ezra"
+        ]
+      },
+      {
+        "id": "g-sage",
+        "title": "Sage (the wise)",
+        "group": "ot-service",
+        "summary": "Counsellor and teacher of practical wisdom.",
+        "detail": "Alongside priest and prophet, Jeremiah names \"the wise\" who give counsel. Wisdom literature collects their teaching for daily life. Wise women also appear, such as the women of Tekoa and Abel who counsel and negotiate.",
+        "refs": [
+          "Jer 18:18",
+          "Prov 1:1-7",
+          "2 Sam 14:1-20",
+          "2 Sam 20:16-22"
+        ],
+        "people": [
+          "Solomon",
+          "Agur",
+          "Lemuel's mother",
+          "the wise woman of Abel"
+        ]
+      },
+      {
+        "id": "g-nazirite",
+        "title": "Nazirite",
+        "group": "ot-service",
+        "summary": "A man or woman under a vow of special consecration.",
+        "detail": "The Nazirite vow was open to any Israelite, male or female: no wine or grape products, no cutting of hair, no contact with the dead. Some were lifelong Nazirites from birth. Paul joins in completing a Nazirite-type vow in Jerusalem.",
+        "refs": [
+          "Num 6:1-21",
+          "Judg 13:5",
+          "1 Sam 1:11",
+          "Acts 21:23-26"
+        ],
+        "people": [
+          "Samson",
+          "Samuel",
+          "John the Baptist (often so understood)"
+        ]
+      },
+      {
+        "id": "g-craftsman",
+        "title": "Craftsman and artisan",
+        "group": "ot-service",
+        "summary": "Spirit-filled skill for building God's dwelling.",
+        "detail": "God fills Bezalel with his Spirit, wisdom and skill for metal, stone and woodwork, and gives him and Oholiab the ability to teach others. Skilled women spin yarn for the tabernacle. Later Hiram of Tyre works bronze for Solomon's temple.",
+        "refs": [
+          "Exod 31:1-11",
+          "Exod 35:25-35",
+          "Exod 36:1-2",
+          "1 Kgs 7:13-14"
+        ],
+        "people": [
+          "Bezalel",
+          "Oholiab",
+          "Hiram the bronzeworker"
+        ]
+      },
+      {
+        "id": "g-court",
+        "title": "Servant in a foreign court",
+        "group": "ot-service",
+        "summary": "Serving God within a pagan government.",
+        "detail": "Joseph, Daniel, Nehemiah and Esther serve God inside foreign empires. They combine competence and integrity with loyalty to God, and their public roles protect God's people. Jeremiah tells exiles to seek the welfare of the city.",
+        "refs": [
+          "Gen 41:37-45",
+          "Dan 6:1-5",
+          "Neh 1:11",
+          "Esth 4:14",
+          "Jer 29:7"
+        ],
+        "people": [
+          "Joseph",
+          "Daniel",
+          "Nehemiah",
+          "Esther",
+          "Mordecai"
+        ]
+      },
+      {
+        "id": "g-tent-women",
+        "title": "Women who served at the tent",
+        "group": "ot-service",
+        "summary": "A little-known group serving at the sanctuary entrance.",
+        "detail": "Exodus mentions women \"who served at the entrance of the tent of meeting\", whose bronze mirrors were made into the basin; 1 Samuel mentions them again at Shiloh. The same verb is used for Levitical service. What exactly they did is unknown.",
+        "refs": [
+          "Exod 38:8",
+          "1 Sam 2:22"
+        ],
+        "people": [
+          "unnamed women"
+        ]
+      },
+      {
+        "id": "g-christ-prophet",
+        "title": "Christ the Prophet",
+        "group": "jesus",
+        "summary": "The prophet like Moses, and God's final word.",
+        "detail": "Crowds recognised Jesus as a prophet, and Peter identifies him with the prophet like Moses. Hebrews says that God, who spoke through the prophets, has now spoken by his Son. Jesus announces his mission with Isaiah's words about the Spirit-anointed messenger.",
+        "refs": [
+          "Deut 18:15",
+          "Luke 4:16-21",
+          "Luke 7:16",
+          "Acts 3:22-23",
+          "Heb 1:1-2"
+        ],
+        "people": [
+          "Jesus"
+        ]
+      },
+      {
+        "id": "g-christ-priest",
+        "title": "Christ the Priest",
+        "group": "jesus",
+        "summary": "The high priest who offers himself once for all.",
+        "detail": "Hebrews presents Jesus as a priest after the order of Melchizedek, sympathetic to our weakness, who offers himself as the final sacrifice and lives to intercede. This is why the New Testament never calls any church leader a \"priest\" (hiereus) in the sacrificial sense, though traditions differ on how the later Christian priesthood relates to this.",
+        "refs": [
+          "Ps 110:4",
+          "Heb 4:14-16",
+          "Heb 7:23-28",
+          "Heb 9:11-14",
+          "John 17:1-26"
+        ],
+        "people": [
+          "Jesus"
+        ]
+      },
+      {
+        "id": "g-christ-king",
+        "title": "Christ the King",
+        "group": "jesus",
+        "summary": "The Son of David who reigns by serving.",
+        "detail": "Jesus proclaims the kingdom of God, enters Jerusalem as the humble king of Zechariah 9, and after the resurrection claims all authority in heaven and on earth. His kingship is exercised through the cross and shared with his people.",
+        "refs": [
+          "Mark 1:14-15",
+          "Zech 9:9",
+          "Matt 21:1-11",
+          "Matt 28:18-20",
+          "Rev 19:16"
+        ],
+        "people": [
+          "Jesus"
+        ]
+      },
+      {
+        "id": "g-christ-servant",
+        "title": "Christ the Servant",
+        "group": "jesus",
+        "summary": "The model for all ministry: authority through service.",
+        "detail": "Jesus says the Son of Man came not to be served but to serve and give his life as a ransom. He washes his disciples' feet and tells them to do likewise. Every Christian ministry is measured by this pattern rather than by status.",
+        "refs": [
+          "Isa 42:1-4",
+          "Mark 10:42-45",
+          "Luke 22:24-27",
+          "John 13:12-17",
+          "Phil 2:5-8"
+        ],
+        "people": [
+          "Jesus"
+        ]
+      },
+      {
+        "id": "g-twelve",
+        "title": "The Twelve",
+        "group": "apostolic",
+        "summary": "Jesus' chosen inner circle, symbol of renewed Israel.",
+        "detail": "Jesus chose twelve to be with him and be sent out. They will \"judge the twelve tribes of Israel\", and their names are on the foundations of the new Jerusalem. Their unique role as eyewitnesses of the earthly Jesus cannot be repeated, which is why most traditions see the Twelve as a closed group.",
+        "refs": [
+          "Mark 3:13-19",
+          "Matt 10:1-8",
+          "Matt 19:28",
+          "Acts 1:21-26",
+          "Rev 21:14"
+        ],
+        "people": [
+          "Peter",
+          "Andrew",
+          "James",
+          "John",
+          "Matthew",
+          "Thomas",
+          "Matthias"
+        ]
+      },
+      {
+        "id": "g-apostle",
+        "title": "Apostle",
+        "group": "apostolic",
+        "summary": "One sent with authority to plant and found churches.",
+        "detail": "Paul calls himself an apostle because he saw the risen Lord and was sent by him. Barnabas, Andronicus and Junia are also called apostles, and some \"apostles of the churches\" were delegates of congregations. Apostles laid the foundation of the church and were tested for authenticity.",
+        "refs": [
+          "1 Cor 9:1-2",
+          "1 Cor 15:5-9",
+          "Gal 1:1",
+          "Acts 14:14",
+          "Rom 16:7",
+          "2 Cor 12:12"
+        ],
+        "people": [
+          "Paul",
+          "Barnabas",
+          "James the Lord's brother",
+          "Andronicus",
+          "Junia"
+        ]
+      },
+      {
+        "id": "g-prophet-nt",
+        "title": "Prophet (church)",
+        "group": "apostolic",
+        "summary": "Speaks for strengthening, encouragement and comfort.",
+        "detail": "New Testament prophecy builds up the church and is weighed by others. Prophets at Antioch and Jerusalem warn of famine and guide mission. Philip's four daughters prophesied, and Paul assumes women pray and prophesy in worship.",
+        "refs": [
+          "Acts 11:27-30",
+          "Acts 13:1-2",
+          "Acts 21:9-11",
+          "1 Cor 11:4-5",
+          "1 Cor 14:3",
+          "1 Cor 14:29-33"
+        ],
+        "people": [
+          "Agabus",
+          "Judas",
+          "Silas",
+          "Philip's daughters"
+        ]
+      },
+      {
+        "id": "g-evangelist",
+        "title": "Evangelist",
+        "group": "apostolic",
+        "summary": "Announces the good news to those outside.",
+        "detail": "Philip preaches in Samaria and explains Isaiah to an Ethiopian official. He is the only person called \"the evangelist\". Timothy, a pastor-teacher, is told to \"do the work of an evangelist\", suggesting this is a function as well as a gift.",
+        "refs": [
+          "Acts 8:5-12",
+          "Acts 8:26-40",
+          "Acts 21:8",
+          "Eph 4:11",
+          "2 Tim 4:5"
+        ],
+        "people": [
+          "Philip",
+          "Timothy"
+        ]
+      },
+      {
+        "id": "g-pastor",
+        "title": "Pastor-shepherd",
+        "group": "apostolic",
+        "summary": "Shepherds the flock under Christ the chief Shepherd.",
+        "detail": "God condemned Israel's selfish shepherds and promised to shepherd his people himself. Jesus is the good shepherd, and he tells Peter to feed his sheep. Elders are told to shepherd God's flock willingly, not for gain, and by example rather than domination.",
+        "refs": [
+          "Ezek 34:1-16",
+          "John 10:11-16",
+          "John 21:15-17",
+          "Acts 20:28",
+          "1 Pet 5:1-4"
+        ],
+        "people": [
+          "Peter",
+          "the Ephesian elders"
+        ]
+      },
+      {
+        "id": "g-teacher",
+        "title": "Teacher",
+        "group": "apostolic",
+        "summary": "Explains Scripture and the apostolic message.",
+        "detail": "Teachers pass on what they received, guard sound teaching and train others to teach. Priscilla and Aquila explain the way of God more accurately to Apollos. James warns that teachers will be judged more strictly.",
+        "refs": [
+          "Acts 13:1",
+          "Acts 18:24-28",
+          "1 Cor 12:28",
+          "2 Tim 2:2",
+          "Jas 3:1"
+        ],
+        "people": [
+          "Apollos",
+          "Priscilla",
+          "Aquila",
+          "Barnabas"
+        ]
+      },
+      {
+        "id": "g-elder",
+        "title": "Elder / overseer",
+        "group": "apostolic",
+        "summary": "A team of recognised leaders in each church.",
+        "detail": "Paul and Barnabas appointed elders in every church. In Acts 20 and Titus 1 \"elder\" and \"overseer\" describe the same people, which is why many Protestants see one office. Elders teach, shepherd, guard against false teaching and pray for the sick, and they must be above reproach.",
+        "refs": [
+          "Acts 14:23",
+          "Acts 20:17-31",
+          "1 Tim 3:1-7",
+          "1 Tim 5:17",
+          "Titus 1:5-9",
+          "Jas 5:14"
+        ],
+        "people": [
+          "the Ephesian elders",
+          "Peter"
+        ]
+      },
+      {
+        "id": "g-deacon",
+        "title": "Deacon",
+        "group": "apostolic",
+        "summary": "A recognised servant role alongside the overseers.",
+        "detail": "Paul greets \"overseers and deacons\" at Philippi, and 1 Timothy gives deacons' qualifications, including faithful family life and being tested first. 1 Timothy 3:11 mentions \"women\", which may mean deacons' wives or women deacons. Phoebe is called a diakonos of the church at Cenchreae.",
+        "refs": [
+          "Phil 1:1",
+          "1 Tim 3:8-13",
+          "Rom 16:1",
+          "Acts 6:1-6"
+        ],
+        "people": [
+          "Phoebe",
+          "Stephen",
+          "Philip"
+        ]
+      },
+      {
+        "id": "g-widows",
+        "title": "Enrolled widows",
+        "group": "apostolic",
+        "summary": "Older women supported by the church and devoted to prayer.",
+        "detail": "1 Timothy describes a list of widows over sixty, known for good works, hospitality, washing the feet of the saints and helping the afflicted, who devoted themselves to prayer. Later sources show widows as a recognised order in the early church.",
+        "refs": [
+          "1 Tim 5:3-16",
+          "Acts 6:1",
+          "Acts 9:39",
+          "Luke 2:36-38"
+        ],
+        "people": [
+          "Anna",
+          "Dorcas's friends"
+        ]
+      },
+      {
+        "id": "g-delegates",
+        "title": "Apostolic delegates",
+        "group": "apostolic",
+        "summary": "Trusted co-workers sent to set churches in order.",
+        "detail": "Timothy and Titus act for Paul in Ephesus and Crete: correcting false teaching, appointing elders and setting an example. Their role is temporary and mobile rather than a local office. Traditions differ on whether they are early bishops or missionary assistants.",
+        "refs": [
+          "1 Tim 1:3-4",
+          "1 Tim 4:12-16",
+          "Titus 1:5",
+          "2 Tim 4:1-5"
+        ],
+        "people": [
+          "Timothy",
+          "Titus",
+          "Tychicus"
+        ]
+      },
+      {
+        "id": "g-coworkers",
+        "title": "Co-workers in the gospel",
+        "group": "apostolic",
+        "summary": "Paul's wide team of men and women synergoi.",
+        "detail": "Paul names many co-workers (synergoi) who laboured with him: Priscilla and Aquila, Euodia and Syntyche who \"contended at my side\", Epaphroditus, Mary, Tryphaena, Tryphosa and Persis who \"worked hard in the Lord\". Ministry was a team effort.",
+        "refs": [
+          "Rom 16:3-16",
+          "Phil 2:25",
+          "Phil 4:2-3",
+          "Col 4:7-14"
+        ],
+        "people": [
+          "Priscilla",
+          "Aquila",
+          "Euodia",
+          "Syntyche",
+          "Epaphroditus",
+          "Persis"
+        ]
+      },
+      {
+        "id": "g-body",
+        "title": "Every member a minister",
+        "group": "every-member",
+        "summary": "Each believer gifted by the Spirit for the common good.",
+        "detail": "Paul pictures the church as a body where every part is needed and the weaker parts are indispensable. Gifts include speaking gifts and serving gifts. Peter says each should use whatever gift they have received to serve others as stewards of God's varied grace.",
+        "refs": [
+          "Rom 12:3-8",
+          "1 Cor 12:4-27",
+          "Eph 4:7",
+          "Eph 4:16",
+          "1 Pet 4:10-11"
+        ],
+        "people": [
+          "every believer"
+        ]
+      },
+      {
+        "id": "g-host",
+        "title": "Host of a house church",
+        "group": "every-member",
+        "summary": "Opening a household for worship and welcome.",
+        "detail": "Early churches met in homes. Hosts provided space, food, protection and often leadership. Priscilla and Aquila, Nympha, Philemon and Gaius are named hosts. Hospitality to travelling teachers made them \"fellow workers for the truth\".",
+        "refs": [
+          "Rom 16:3-5",
+          "Rom 16:23",
+          "Col 4:15",
+          "Phlm 1:1-2",
+          "3 John 1:5-8"
+        ],
+        "people": [
+          "Priscilla",
+          "Aquila",
+          "Nympha",
+          "Philemon",
+          "Gaius"
+        ]
+      },
+      {
+        "id": "g-patron",
+        "title": "Patron and benefactor",
+        "group": "every-member",
+        "summary": "Using wealth and status to protect and support others.",
+        "detail": "Phoebe is a prostatis, a patron or benefactor, of many including Paul, and she probably carried Romans. Women of means supported Jesus out of their resources. Lydia, a dealer in purple cloth, opened her house to Paul's team. In the gospel, patronage is turned toward service rather than honour-seeking.",
+        "refs": [
+          "Rom 16:1-2",
+          "Luke 8:1-3",
+          "Acts 16:14-15",
+          "Acts 16:40"
+        ],
+        "people": [
+          "Phoebe",
+          "Lydia",
+          "Joanna",
+          "Susanna"
+        ]
+      },
+      {
+        "id": "g-intercessor",
+        "title": "Intercessor",
+        "group": "every-member",
+        "summary": "Standing before God on behalf of others.",
+        "detail": "Abraham, Moses and Samuel interceded for others. Anna worshipped night and day with fasting and prayer; Epaphras laboured in prayer for the Colossians. The New Testament asks every believer to pray for all people, including rulers.",
+        "refs": [
+          "Gen 18:22-33",
+          "Exod 32:11-14",
+          "1 Sam 12:23",
+          "Luke 2:37",
+          "Col 4:12",
+          "1 Tim 2:1-2"
+        ],
+        "people": [
+          "Moses",
+          "Samuel",
+          "Anna",
+          "Epaphras"
+        ]
+      },
+      {
+        "id": "g-household",
+        "title": "Parent and household teacher",
+        "group": "every-member",
+        "summary": "Passing on faith at home.",
+        "detail": "Israel's parents were told to talk about God's words at home and on the road. Timothy's faith first lived in his grandmother Lois and mother Eunice. Households, not just congregations, were centres of discipleship.",
+        "refs": [
+          "Deut 6:6-7",
+          "Prov 1:8",
+          "Eph 6:4",
+          "2 Tim 1:5",
+          "2 Tim 3:14-15"
+        ],
+        "people": [
+          "Lois",
+          "Eunice",
+          "Hannah"
+        ]
+      },
+      {
+        "id": "g-worker",
+        "title": "Worker and maker",
+        "group": "every-member",
+        "summary": "Daily work offered to God and neighbour.",
+        "detail": "Paul worked as a tentmaker so as not to burden the churches, and urges believers to work quietly and well. Work done \"heartily, as for the Lord\" is service to Christ, whatever its status. Many traditions call this vocation.",
+        "refs": [
+          "Acts 18:1-4",
+          "Acts 20:34-35",
+          "Col 3:23-24",
+          "1 Thess 4:11-12",
+          "Eph 4:28"
+        ],
+        "people": [
+          "Paul",
+          "Priscilla",
+          "Aquila",
+          "Lydia"
+        ]
+      },
+      {
+        "id": "g-bishop",
+        "title": "Bishop (later single overseer)",
+        "group": "history",
+        "summary": "One overseer presiding over a city's church.",
+        "detail": "By the early second century many churches had one bishop over the presbyters and deacons. Catholic, Orthodox and Anglican churches see bishops as successors of the apostles. Many Protestants see this as a later, if understandable, development of the plural elder-overseers of the New Testament.",
+        "refs": [
+          "Acts 20:28",
+          "1 Tim 3:1-2",
+          "Titus 1:7"
+        ],
+        "people": [
+          "Ignatius of Antioch",
+          "Polycarp",
+          "Cyprian"
+        ]
+      },
+      {
+        "id": "g-presbyter-priest",
+        "title": "Presbyter-priest",
+        "group": "history",
+        "summary": "The elder understood as priest of the Eucharist.",
+        "detail": "The English \"priest\" derives from presbyter (elder). In Catholic and Orthodox teaching, the ordained priest acts in the person of Christ at the Eucharist and shares the ministerial priesthood, which differs in kind from the common priesthood of all the baptised. Most Protestants call their ministers elders, pastors or ministers instead.",
+        "refs": [
+          "Jas 5:14",
+          "1 Pet 2:9",
+          "Heb 7:23-25"
+        ],
+        "people": [
+          "parish priests",
+          "Orthodox presbyters"
+        ]
+      },
+      {
+        "id": "g-monastic",
+        "title": "Monk and nun",
+        "group": "history",
+        "summary": "Lives devoted to prayer, work and service in community.",
+        "detail": "From the fourth century, monastic communities preserved Scripture, ran schools and hospitals, and sent missionaries. Abbesses such as Hilda of Whitby led large communities. Protestants largely rejected vows but some revived intentional communities.",
+        "refs": [
+          "Luke 18:28-30",
+          "1 Cor 7:32-35",
+          "Acts 2:42-47"
+        ],
+        "people": [
+          "Antony",
+          "Pachomius",
+          "Benedict",
+          "Hilda of Whitby"
+        ]
+      },
+      {
+        "id": "g-lay-preacher",
+        "title": "Lay preacher and class leader",
+        "group": "history",
+        "summary": "Unordained men and women preaching and pastoring.",
+        "detail": "Methodism spread through lay preachers and class leaders who met weekly with small groups. Wesley later accepted some women preachers with an \"extraordinary call\". Many Majority-World churches rely on lay leaders today.",
+        "refs": [
+          "Acts 8:4",
+          "Acts 18:26",
+          "Col 3:16"
+        ],
+        "people": [
+          "Thomas Maxfield",
+          "Sarah Crosby",
+          "Mary Bosanquet Fletcher"
+        ]
+      },
+      {
+        "id": "g-modern-apostle",
+        "title": "Modern apostle and prophet",
+        "group": "history",
+        "summary": "Present-day governing apostles and prophets, a contested claim.",
+        "detail": "Some charismatic networks recognise apostles and prophets as ongoing offices with authority over churches. Others use \"apostolic\" for pioneering missionary work only. Critics, including many charismatics, warn against unaccountable authority and new revelation. See the fivefold section for fair statements of each view.",
+        "refs": [
+          "Eph 4:11-13",
+          "Eph 2:20",
+          "2 Cor 11:13",
+          "Rev 2:2"
+        ],
+        "people": [
+          "C. Peter Wagner",
+          "Bill Hamon",
+          "Alan Hirsch"
+        ]
+      }
+    ]
+  },
+  "compare": {
+    "title": "Old Testament office, Christ's fulfilment, and the church today",
+    "columns": [
+      "In Israel",
+      "Fulfilled in Christ",
+      "Shared with the whole church",
+      "How traditions apply it today"
+    ],
+    "rows": [
+      {
+        "label": "Prophet",
+        "cells": [
+          "Called individually to speak God's word and call Israel back to the covenant (Deut 18:15-22)",
+          "The prophet like Moses and God's final Word (Acts 3:22, Heb 1:1-2)",
+          "Spirit on all flesh: sons and daughters prophesy; all witness to Christ (Acts 2:17-18)",
+          "Cessationists: prophecy as revelation has ceased; preaching continues the prophetic task. Continuationists: prophecy continues, tested by Scripture. Some networks recognise prophets as an office."
+        ]
+      },
+      {
+        "label": "Priest",
+        "cells": [
+          "Aaron's line offers sacrifice, blesses and teaches (Lev 10:10-11)",
+          "The great high priest who offers himself once for all (Heb 7:27)",
+          "A royal priesthood offering spiritual sacrifices of praise, good works and sharing (1 Pet 2:9, Heb 13:15-16)",
+          "Catholic and Orthodox: an ordained ministerial priesthood alongside the common priesthood. Protestants: no sacrificing priesthood; ministers are elders and pastors."
+        ]
+      },
+      {
+        "label": "King",
+        "cells": [
+          "The LORD's anointed rules under God's law (Deut 17:18-20)",
+          "Son of David with all authority, ruling through the cross (Matt 28:18)",
+          "Believers reign with Christ, now in service and later in glory (Rev 5:10, 2 Tim 2:12)",
+          "Expressed as servant leadership, governance by elders or bishops, and Christians serving in public life. Dominion-style readings are debated."
+        ]
+      },
+      {
+        "label": "Levite and temple servant",
+        "cells": [
+          "Assisted priests, guarded the sanctuary, led music and taught (Num 8, 1 Chr 25)",
+          "Jesus is the true temple and the servant of all (John 2:19-21, Mark 10:45)",
+          "Every believer serves with gifts of help, mercy and leadership (Rom 12:6-8)",
+          "Deacons, worship leaders, administrators and volunteers; Catholic and Orthodox churches also keep minor orders and the diaconate."
+        ]
+      },
+      {
+        "label": "Elders",
+        "cells": [
+          "Clan heads judge at the gate and share Moses' burden (Num 11:16-17)",
+          "Christ the chief Shepherd (1 Pet 5:4)",
+          "Mature believers care for one another (Gal 6:1-2)",
+          "Presbyterian and Baptist elders, Catholic and Orthodox presbyters, Anglican priests, church councils."
+        ]
+      },
+      {
+        "label": "Scribe and sage",
+        "cells": [
+          "Copied, studied and taught the Torah; gave wise counsel (Ezra 7:10, Jer 18:18)",
+          "Wisdom of God in person; the teacher with authority (1 Cor 1:24, Matt 7:28-29)",
+          "Let the word dwell richly as all teach and admonish one another (Col 3:16)",
+          "Pastors, teachers, theologians, catechists and small-group leaders."
+        ]
+      },
+      {
+        "label": "Craftsman",
+        "cells": [
+          "Bezalel filled with the Spirit for skill (Exod 31:1-5)",
+          "Jesus the tekton, builder of God's house (Mark 6:3, Heb 3:3-6)",
+          "Each builds on the foundation with work that will be tested (1 Cor 3:10-15)",
+          "Arts, architecture, design and every skilled trade understood as vocation."
+        ]
+      }
+    ]
+  },
+  "spectrum": {
+    "title": "Who may lead and teach? Women and church office",
+    "intro": "Christians who equally love Scripture disagree about which roles are open to women. This line maps the main positions from the most restrictive to the most open. Each is stated as its own holders would put it. Catholic and Orthodox churches reason differently (from the sacramental priesthood rather than from Paul's teaching passages), so their position is described on its own terms.",
+    "left": "Teaching and governing offices reserved to qualified men",
+    "right": "All offices open to men and women on the same terms",
+    "stops": [
+      {
+        "pos": 5,
+        "label": "Broad complementarian",
+        "text": "Men and women are equal in dignity but have different, complementary roles in church and home. Women should not preach to or teach mixed adult gatherings or hold elder or pastoral office, based on 1 Timothy 2:12, the creation order (1 Tim 2:13) and male eldership qualifications (1 Tim 3:2). Women serve in many other ministries.",
+        "who": "Danvers Statement (1987); John Piper, Wayne Grudem (*Recovering Biblical Manhood and Womanhood*, 1991); many conservative Reformed and Baptist churches"
+      },
+      {
+        "pos": 15,
+        "label": "Catholic and Orthodox priesthood",
+        "text": "Ordination to the priesthood and episcopate is reserved to men, because the priest acts as an icon of Christ the bridegroom and because Jesus chose twelve men. This is a sacramental, not mainly a Pauline, argument. Women serve as religious superiors, theologians, catechists, lectors and in many lay ministries; Orthodox churches are discussing reviving deaconesses, and the Patriarchate of Alexandria consecrated some in 2017.",
+        "who": "Catholic Church (*Inter Insigniores* 1976, *Ordinatio Sacerdotalis* 1994, Catechism 1577); Eastern Orthodox churches; Kallistos Ware; Thomas Hopko"
+      },
+      {
+        "pos": 30,
+        "label": "Narrow complementarian",
+        "text": "Only the office of elder or senior pastor is reserved for qualified men. Women may teach, lead ministries, serve as deacons and in some churches preach under the elders' authority. The restriction is read as applying to authoritative oversight of the church, not to every kind of teaching.",
+        "who": "Tim and Kathy Keller; Thomas Schreiner on women deacons; many Presbyterian Church in America churches with women serving alongside deacons; Southern Baptist *Baptist Faith and Message* (2000) limits only the office of pastor"
+      },
+      {
+        "pos": 50,
+        "label": "Mediating and transitional",
+        "text": "Women may preach and be ordained to many offices, but some limits on senior oversight remain, or the question is treated as open for conscience. Some churches allowed women priests long before women bishops. Supporters see this as wise patience; critics on both sides see it as inconsistent.",
+        "who": "Church of England between 1994 (women priests) and 2014 (women bishops); some Anglican and evangelical-free church networks; many Majority-World churches in practice"
+      },
+      {
+        "pos": 75,
+        "label": "Evangelical egalitarian",
+        "text": "Scripture's trajectory and examples (Deborah, Huldah, Phoebe, Junia, Priscilla, prophesying daughters) show that gifts, not gender, determine ministry. The restrictive passages addressed specific problems, such as false teaching in Ephesus or disruptive questions in Corinth. Galatians 3:28 and Acts 2:17-18 set the wider frame.",
+        "who": "Gordon Fee, Philip Payne, Craig Keener, Lynn Cohick, Michael Bird, Christians for Biblical Equality; the Assemblies of God (USA) and many Pentecostal, Wesleyan and Holiness churches"
+      },
+      {
+        "pos": 92,
+        "label": "Mainline and revisionist",
+        "text": "Gender has no bearing on any office. Some argue certain restrictive passages reflect the culture of their authors or a later stage of tradition rather than Paul himself, and should not bind the church. Equality is a matter of justice as well as gifting.",
+        "who": "Elisabeth Schüssler Fiorenza (*In Memory of Her*, 1983); most mainline Protestant churches, e.g. the Evangelical Lutheran Church in America, the United Methodist Church, the Church of Scotland"
+      }
+    ]
+  },
+  "cases": [
+    {
+      "title": "Phoebe of Cenchreae",
+      "ref": "Rom 16:1-2",
+      "question": "What does Paul's commendation of Phoebe show about women and ministry in the first churches?",
+      "steps": [
+        {
+          "step": "Read the words",
+          "note": "Paul calls Phoebe \"our sister\", a diakonos of the church at Cenchreae, and a prostatis \"of many and of myself as well\". He asks Rome to receive her and help her in whatever she needs."
+        },
+        {
+          "step": "Diakonos",
+          "note": "The same word Paul uses for himself, Apollos and Timothy as ministers. Here it is attached to a particular church, which suggests a recognised role. Whether that means the office of deacon (as in Phil 1:1) or a more general \"minister\" is debated."
+        },
+        {
+          "step": "Prostatis",
+          "note": "This word normally means patron or benefactor, someone who uses means and influence on behalf of others. Paul says she was his patron, which is striking in an honour culture."
+        },
+        {
+          "step": "Letter carrier",
+          "note": "Most scholars think Phoebe carried Romans to Rome. Letter carriers often read and explained the letter, so she may have been the first to interpret Romans to its hearers (Lynn Cohick, Beverly Gaventa). This is likely but not stated in the text."
+        },
+        {
+          "step": "How traditions read her",
+          "note": "Egalitarians see a deacon and leader. Complementarians often accept she was a deacon or deaconess and a patron, while noting this is not elder oversight. Catholic and Orthodox writers cite her in discussions of historic deaconesses."
+        }
+      ],
+      "takeaway": "Whatever one's view of church office, Phoebe was a recognised, trusted, resourced servant of the church whom Paul publicly honoured and entrusted with his most important letter."
+    },
+    {
+      "title": "Junia, \"outstanding among the apostles\"",
+      "ref": "Rom 16:7",
+      "question": "Was Junia a woman, and was she an apostle?",
+      "steps": [
+        {
+          "step": "Name",
+          "note": "Ancient commentators, including John Chrysostom, read Iounian as the woman's name Junia. The male form \"Junias\" became common in medieval and modern times, but it is not attested as a Roman name. Most scholars now agree Junia was a woman (Eldon Epp, Richard Bauckham)."
+        },
+        {
+          "step": "Relationship",
+          "note": "Andronicus and Junia were probably a married couple, Jewish (Paul's \"kin\"), believers before Paul, and fellow prisoners with him."
+        },
+        {
+          "step": "The phrase",
+          "note": "Episēmoi en tois apostolois can mean \"outstanding among the apostles\" (they were apostles) or \"well known to the apostles\" (they were esteemed by them). Michael Burer and Daniel Wallace (2001) argued for the second; Richard Bauckham, Linda Belleville and others answered that the first is the natural reading."
+        },
+        {
+          "step": "What kind of apostle?",
+          "note": "If an apostle, Junia was probably in the wider group of commissioned missionaries, not among the Twelve. That still makes her a recognised, travelling gospel worker."
+        }
+      ],
+      "takeaway": "Junia was almost certainly a woman, and most interpreters (including Chrysostom) read her as an apostle in the wider sense, though a minority reading remains possible. Either way, she suffered for the gospel and Paul held her in high honour."
+    },
+    {
+      "title": "The Seven",
+      "ref": "Acts 6:1-7",
+      "question": "How did the first church solve a ministry problem, and what does it teach about service?",
+      "steps": [
+        {
+          "step": "The problem",
+          "note": "Greek-speaking Jewish widows were overlooked in the daily distribution of food. A real injustice threatened unity along cultural lines."
+        },
+        {
+          "step": "Two diakoniai",
+          "note": "The apostles say they must not neglect the \"word of God\" to \"serve tables\", and will devote themselves to prayer and the \"ministry (diakonia) of the word\". Both are diakonia; neither is beneath the other."
+        },
+        {
+          "step": "Choose by character",
+          "note": "The community chooses seven men \"of good repute, full of the Spirit and of wisdom\". All have Greek names, suggesting the neglected group was given leaders from among themselves."
+        },
+        {
+          "step": "Recognise publicly",
+          "note": "The apostles pray and lay hands on them. Many traditions see this as the origin of the diaconate, though Luke never calls them deacons."
+        },
+        {
+          "step": "Beyond the job description",
+          "note": "Stephen and Philip, two of the Seven, soon become powerful preachers and evangelists. Service roles were not boxes."
+        }
+      ],
+      "takeaway": "Good structure, chosen for character and recognised by the community, frees every kind of ministry and lets those closest to a need help meet it."
+    },
+    {
+      "title": "Timothy's charge",
+      "ref": "2 Tim 4:1-5",
+      "question": "What does Paul ask of a young church leader?",
+      "steps": [
+        {
+          "step": "Context",
+          "note": "Timothy has been left in Ephesus to correct false teaching. He is young, perhaps timid, and often unwell (1 Tim 4:12, 2 Tim 1:7, 1 Tim 5:23)."
+        },
+        {
+          "step": "Recognised gift",
+          "note": "His gift came through prophecy and the laying on of hands by Paul and the elders. Ministry is received and confirmed in community (1 Tim 4:14, 2 Tim 1:6)."
+        },
+        {
+          "step": "Life and doctrine",
+          "note": "\"Keep a close watch on yourself and on the teaching.\" Character and content go together (1 Tim 4:16)."
+        },
+        {
+          "step": "Pass it on",
+          "note": "He is to entrust what he has heard to faithful people who can teach others, four generations of discipleship in one verse (2 Tim 2:2)."
+        },
+        {
+          "step": "Do the work",
+          "note": "Preach the word, be ready in season and out, correct, rebuke and encourage with patience, endure suffering and do the work of an evangelist."
+        }
+      ],
+      "takeaway": "Christian leadership is a trust: received through community, guarded by character, centred on the word and multiplied by training others."
+    },
+    {
+      "title": "Bezalel the craftsman",
+      "ref": "Exod 31:1-11",
+      "question": "What does the first Spirit-filled person in Scripture teach about ministry?",
+      "steps": [
+        {
+          "step": "Called by name",
+          "note": "God says, \"I have called by name Bezalel.\" Call language is used for a craftsman, not a priest or prophet."
+        },
+        {
+          "step": "Filled with the Spirit",
+          "note": "He is filled with the Spirit of God, with ability, intelligence, knowledge and all craftsmanship. This is the first time Scripture says someone is filled with God's Spirit."
+        },
+        {
+          "step": "Teamwork and teaching",
+          "note": "Oholiab is given to work with him, and both are given the ability to teach others (Exod 35:34). Skilled women spin and give (Exod 35:25-26)."
+        },
+        {
+          "step": "Making space for God",
+          "note": "Their work makes the tabernacle, the place where God dwells among his people. Art and craft serve worship and presence."
+        }
+      ],
+      "takeaway": "Skill in making things can be a Spirit-given ministry. The church today should honour artists, builders and makers as servants of God."
+    },
+    {
+      "title": "Anna the prophetess",
+      "ref": "Luke 2:36-38",
+      "question": "What does an elderly widow in the temple show about hidden ministry?",
+      "steps": [
+        {
+          "step": "Who she is",
+          "note": "Anna, daughter of Phanuel of the tribe of Asher, is called a prophetess. She was widowed after seven years of marriage and is now very old."
+        },
+        {
+          "step": "Her service",
+          "note": "She never left the temple, \"worshipping with fasting and prayer night and day\". Luke uses a verb (latreuō) often used for priestly service."
+        },
+        {
+          "step": "Her word",
+          "note": "Seeing the infant Jesus, she gives thanks and speaks about him to all who were waiting for the redemption of Jerusalem. She is among the first to proclaim Christ."
+        },
+        {
+          "step": "Link forward",
+          "note": "Her life matches the enrolled widows of 1 Timothy 5:5, who continue in prayer night and day."
+        }
+      ],
+      "takeaway": "Faithful prayer over many years is ministry, and God gives a hidden servant a central place in announcing the Messiah."
+    }
+  ],
+  "sections": [
+    {
+      "id": "what-is-ministry",
+      "heading": "What does \"ministry\" mean? Diakonia as service",
+      "body": "The English word \"ministry\" comes from the Latin *ministerium*, \"service\". In the New Testament it usually translates the Greek *diakonia*, and a minister is a *diakonos*. These words cover a wide range. Martha's work in the kitchen is diakonia (Luke 10:40). The women who supported Jesus \"served\" him from their resources (Luke 8:3). The apostles' preaching is the \"ministry of the word\" (Acts 6:4), and Paul calls the whole gospel task \"the ministry of reconciliation\" (2 Cor 5:18). Even a collection of money for poor believers is a diakonia (Rom 15:25-27).\n\nFor a long time scholars assumed that diakonia meant humble, menial service, like waiting on tables. In 1990 the Australian Catholic scholar John N. Collins (*Diakonia: Re-interpreting the Ancient Sources*) argued that in Greek usage the words more often meant acting as a commissioned agent or go-between, carrying out a task on someone else's authority. Many scholars now accept that both ideas are present: a diakonos is someone sent and authorised, and the task may well be lowly. Jesus holds both together when he says he came \"not to be served but to serve\" (Mark 10:45).\n\nOld Testament Hebrew has its own service words. The verb *'abad* (to work, serve, worship) describes Adam's work in the garden, Israel's worship of God and the Levites' tabernacle duties. The verb *sharat* is used of priests and Levites \"ministering\" before the LORD. In both testaments, then, ministry means doing God's work on God's behalf for the good of others. It is not first a job title but a way of life that some people also carry out in recognised roles.",
+      "refs": [
+        "Luke 10:40",
+        "Luke 8:1-3",
+        "Acts 6:1-4",
+        "2 Cor 5:18-20",
+        "Rom 15:25-27",
+        "Mark 10:45",
+        "Num 3:6-8"
+      ],
+      "callout": {
+        "kind": "debate",
+        "text": "John N. Collins' work on diakonia sparked a debate. Some, including many Catholic and Anglican writers, think it shows diakonia was a commissioned, even official, role. Others, such as the German scholar Anni Hentschel, developed his approach further, while many still stress that care for the needy remains part of diakonia. The two readings are complementary rather than opposed."
+      },
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "ot-offices",
+      "heading": "Israel's offices and what they were for",
+      "body": "Israel's calling was first a corporate one: at Sinai the whole nation is called \"a kingdom of priests and a holy nation\" (Exod 19:6). Within that people God appointed particular servants. Priests from Aaron's family brought sacrifices, blessed the people and taught the law (Lev 10:10-11, Num 6:22-27). Levites guarded and served the sanctuary and later taught and sang (Num 8, 1 Chr 25). Prophets were called one by one to speak God's word, usually to confront power (Deut 18:15-22). Judges delivered tribes in crisis (Judg 2:16-19). Kings were to rule under the law, not above it (Deut 17:14-20). Elders represented families and settled disputes at the gate (Ruth 4:1-11). Scribes and sages taught and counselled (Jer 18:18).\n\nThese offices had a shared purpose: to keep Israel in covenant relationship with God and to make God's rule and presence real among the people. They also checked one another. Prophets anointed and rebuked kings (1 Sam 16:13, 2 Sam 12:1-14); kings could not take a priest's role (1 Sam 13:8-14, 2 Chr 26:16-21). Power was spread out.\n\nThe Old Testament is honest that every office failed. Priests like Eli's sons abused worshippers (1 Sam 2:12-17), prophets spoke lies for money (Mic 3:5-11), and kings led Israel into idolatry. Ezekiel 34 condemns Israel's \"shepherds\" for feeding themselves instead of the flock and promises that God himself will shepherd his people through a coming David. This hope prepares for the New Testament claim that Jesus fulfils these offices.\n\nService was not limited to formal offices. The Nazirite vow was open to men and women (Num 6:2). Bezalel, a craftsman, is the first person said to be filled with God's Spirit (Exod 31:3). Women served at the entrance of the tent of meeting (Exod 38:8). Ministry in Israel was broader than its offices.",
+      "refs": [
+        "Exod 19:5-6",
+        "Lev 10:10-11",
+        "Deut 17:14-20",
+        "Deut 18:15-22",
+        "Ezek 34:1-24",
+        "Num 6:2",
+        "Exod 31:1-5"
+      ],
+      "confidence": "biblical"
+    },
+    {
+      "id": "threefold-office",
+      "heading": "Jesus, the true Prophet, Priest and King",
+      "body": "The New Testament presents Jesus as gathering up Israel's offices in himself. He is the prophet like Moses, whose words must be heard (Acts 3:22-23), and God's final word (Heb 1:1-2). He is the great high priest who offers himself once for all and now intercedes for his people (Heb 7:23-28). He is the Son of David, given all authority in heaven and on earth (Matt 28:18). Each title is now filled by \"Christ\", which means \"anointed one\", since prophets, priests and kings were all anointed.\n\nThe church historian Eusebius (early fourth century, *Church History* 1.3) already linked Christ with all three anointed offices. John Calvin developed it into the doctrine of the threefold office (*munus triplex*) in his *Institutes* (2.15). Catholic teaching adopted the same language at Vatican II, which says all the baptised share in Christ's priestly, prophetic and kingly office (*Lumen Gentium* 31). Orthodox, Lutheran and Reformed theologians also use it.\n\nTwo points matter for ministry. First, Jesus defines his offices by service. He is a king who washes feet (John 13:12-17) and a priest who is also the sacrifice. Any ministry that copies the world's way of \"lording it over\" others contradicts him (Mark 10:42-45). Second, because Christ has fulfilled these offices, Christian ministry does not repeat them but shares in his ministry. Traditions differ on how: Catholic and Orthodox churches see the ordained priest as acting in the person of Christ at the Eucharist; Protestant churches stress that Christ is the only mediator and all believers share his priesthood. Both agree no minister replaces Christ.",
+      "refs": [
+        "Acts 3:22-23",
+        "Heb 1:1-3",
+        "Heb 7:23-28",
+        "Matt 28:18-20",
+        "John 13:12-17",
+        "Mark 10:42-45",
+        "1 Tim 2:5"
+      ],
+      "callout": {
+        "kind": "tradition",
+        "text": "The \"threefold office\" is a theological summary, not a phrase found in Scripture. It is widely used across Catholic, Orthodox and Protestant theology, and is a helpful lens rather than a test of orthodoxy."
+      },
+      "confidence": "tradition"
+    },
+    {
+      "id": "apostles",
+      "heading": "Apostles then and now: the debate",
+      "body": "An apostle (*apostolos*) is \"one sent\" with authority. The New Testament uses the word in at least three ways. First, the Twelve, chosen by Jesus as witnesses of his whole ministry and symbol of renewed Israel (Mark 3:13-19, Acts 1:21-22). Second, Paul and a wider group who saw the risen Lord and were commissioned by him to found churches, such as Barnabas, James the Lord's brother and probably Andronicus and Junia (1 Cor 15:5-9, Acts 14:14, Rom 16:7). Third, \"messengers\" (apostoloi) sent by churches on a task, such as Epaphroditus (Phil 2:25, 2 Cor 8:23).\n\nAre there apostles today? There are three main answers. (1) Most Protestant traditions, and most cessationists, say no in the foundational sense: the church is \"built on the foundation of the apostles and prophets\" (Eph 2:20), and a foundation is laid once. They point to the requirement of seeing the risen Christ (1 Cor 9:1) and Paul's description of himself as \"last of all\" (1 Cor 15:8). Apostolic authority now resides in the apostolic writings. (2) Catholic, Orthodox and Anglican churches teach apostolic succession: bishops succeed the apostles in teaching and governing, not as eyewitnesses but as guardians of the apostolic faith, as Irenaeus and Clement of Rome already argued. (3) Many Pentecostals and charismatics hold that apostolic ministry continues in a functional sense: pioneering missionaries and church-planters who lay foundations in new places. A smaller group, often called the New Apostolic Reformation, teaches that apostles hold governing authority over churches and networks today.\n\nThese views overlap more than they seem. Almost everyone agrees that the Twelve and Paul were unique, that the New Testament is the authoritative apostolic witness, and that the church must stay \"apostolic\" by holding to their teaching and continuing their mission. The real disagreement is whether any present-day person can bear the title with authority, and how that authority is checked.",
+      "refs": [
+        "Mark 3:13-19",
+        "Acts 1:21-22",
+        "1 Cor 15:5-9",
+        "1 Cor 9:1",
+        "Eph 2:20",
+        "Rom 16:7",
+        "Phil 2:25",
+        "Rev 2:2"
+      ],
+      "callout": {
+        "kind": "debate",
+        "text": "Ask anyone who claims apostolic authority the questions the New Testament asks: Is the message the apostolic gospel (Gal 1:8)? Is the person accountable and tested (Rev 2:2)? Does their life show the marks of an apostle, including suffering and servanthood (2 Cor 11:23-30)?"
+      },
+      "confidence": "debated"
+    },
+    {
+      "id": "fivefold",
+      "heading": "The fivefold-ministry question (Ephesians 4:11)",
+      "body": "Ephesians 4:11 says that the ascended Christ \"gave the apostles, the prophets, the evangelists, the shepherds and teachers, to equip the saints for the work of ministry, for building up the body of Christ\". Since \"shepherds and teachers\" share a single article in Greek, many read them as one role, making four groups rather than five. The purpose clause is clear: these gifts exist to equip everyone else (Eph 4:12-16).\n\nCessationists (for example Richard Gaffin, Thomas Schreiner, and in a stronger form John MacArthur) argue that apostles and prophets were foundational gifts for the first generation (Eph 2:20, Eph 3:5). Evangelists, pastors and teachers continue. Prophecy in the sense of new revelation has ceased now that Scripture is complete. They value the stability and sufficiency of Scripture this gives, and warn against new claims of authority.\n\nContinuationists (for example Wayne Grudem, Gordon Fee, Sam Storms, Craig Keener) argue that nothing in Ephesians 4 says some gifts will end before the church reaches maturity in Christ (Eph 4:13), and that New Testament prophecy was weighed and was not equal to Scripture (1 Cor 14:29, 1 Thess 5:19-21). Many of them accept ongoing prophecy and pioneering \"apostolic\" mission while rejecting new governing apostles. Alan Hirsch's APEST model, popular among missional churches, treats the five as functions every church needs, not ranked offices.\n\nThe New Apostolic Reformation (NAR), a label used by C. Peter Wagner from about 1996, teaches that God is restoring the offices of apostle and prophet to govern the church, with apostles over networks and prophets bringing fresh revelation for strategy. Supporters say this recovers biblical patterns and explains the rapid growth of independent networks worldwide. Critics, including many Pentecostals and charismatics as well as authors R. Douglas Geivett and Holly Pivec, warn that it can create unaccountable authority, encourage extra-biblical revelation and politicise prophecy. Some leaders associated with the label reject it as describing an organised movement.",
+      "refs": [
+        "Eph 4:11-16",
+        "Eph 2:20",
+        "Eph 3:5",
+        "1 Cor 12:28-31",
+        "1 Cor 14:29-33",
+        "1 Thess 5:19-21"
+      ],
+      "callout": {
+        "kind": "debate",
+        "text": "For the wider debate on whether miraculous gifts continue, see /debates/cessationism and /movements/prophetic-movement. Many continuationists reject the NAR's view of governing apostles; it is wrong to treat all charismatics as NAR."
+      },
+      "confidence": "debated"
+    },
+    {
+      "id": "elders-deacons",
+      "heading": "Elders, overseers and deacons",
+      "body": "Local churches in the New Testament were led by groups of elders (*presbyteroi*). Paul and Barnabas appointed elders \"in every church\" (Acts 14:23), and Paul addressed the Ephesian elders as those whom the Spirit had made overseers (*episkopoi*) to shepherd the flock (Acts 20:17, Acts 20:28). Titus 1:5-7 again uses \"elder\" and \"overseer\" for the same people. Most scholars therefore agree that in the New Testament period the two words describe one office: \"elder\" points to maturity and dignity, a term from Jewish life; \"overseer\" points to the task of supervision, a term from Greek civic life.\n\nThe qualifications in 1 Timothy 3:1-7 and Titus 1:5-9 are striking for what they emphasise. Only one is a skill, \"able to teach\". The rest concern character and relationships: faithful in marriage, self-controlled, hospitable, not violent or quarrelsome, not a lover of money, managing the household well, respected by outsiders. Elders lead by example, not domination (1 Pet 5:3).\n\nDeacons (*diakonoi*) appear alongside overseers (Phil 1:1). Their qualifications are similar, without the requirement to teach, and they must \"be tested first\" (1 Tim 3:8-10). 1 Timothy 3:11 speaks of \"women\" (gynaikes), which could mean deacons' wives or women deacons. Many early church sources describe women deacons, especially in the East, who assisted at baptisms of women and visited women in their homes.\n\nHow churches apply this varies. Presbyterians distinguish teaching and ruling elders (from 1 Tim 5:17). Many Baptist churches have one pastor plus deacons, or a plural eldership (Alexander Strauch's *Biblical Eldership* argues strongly for the latter). Catholic, Orthodox and Anglican churches have bishops, priests and deacons, seeing the single bishop as a legitimate early development. Congregational churches stress the authority of the whole membership.",
+      "refs": [
+        "Acts 14:23",
+        "Acts 20:17-28",
+        "Titus 1:5-9",
+        "1 Tim 3:1-13",
+        "1 Tim 5:17",
+        "1 Pet 5:1-4",
+        "Phil 1:1"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "women",
+      "heading": "Women in ministry: three main approaches",
+      "body": "Scripture names many women who served God: Miriam the prophet who led Israel's song (Exod 15:20, Mic 6:4), Deborah the prophet and judge (Judg 4:4-5), Huldah, whom the king's officials consulted about the book of the law (2 Kgs 22:14-20), Anna the prophetess (Luke 2:36-38), the women who supported Jesus and were first witnesses of the resurrection (Luke 8:1-3, Luke 24:1-10), Priscilla, who taught Apollos with her husband (Acts 18:26), Phoebe the deacon and patron (Rom 16:1-2), Junia among the apostles (Rom 16:7), Euodia and Syntyche who \"contended at my side\" (Phil 4:2-3), and Philip's prophesying daughters (Acts 21:9). Paul assumes women pray and prophesy in worship (1 Cor 11:5).\n\nThe same letters contain passages that restrict women's roles: \"women should keep silent in the churches\" (1 Cor 14:34-35) and \"I do not permit a woman to teach or to exercise authority over a man\" (1 Tim 2:11-15). How to hold these together is the question.\n\nComplementarians (John Piper, Wayne Grudem, Thomas Schreiner, Andreas Köstenberger, Kathy Keller) argue that 1 Timothy 2 grounds its instruction in creation (1 Tim 2:13), not culture, so it applies today; that elders are described as men (1 Tim 3:2); and that women's many ministries in Scripture never include elder oversight. Equal dignity is affirmed, but roles differ. Egalitarians (Gordon Fee, Philip Payne, Craig Keener, Lynn Cohick, Michael Bird) argue that Paul's practice shows women in leadership, that 1 Timothy 2 addresses a specific situation of false teaching in Ephesus, that the Greek *authentein* is a rare word that may mean domineering, that the creation reference may be illustration rather than universal rule, and that the trajectory of Galatians 3:28 and Acts 2:17-18 points toward full participation.\n\nCatholic and Orthodox churches approach the question differently. They reserve the priesthood and episcopate to men mainly for sacramental reasons: Christ chose twelve men, and the priest represents Christ the bridegroom at the Eucharist (*Inter Insigniores*, 1976; *Ordinatio Sacerdotalis*, 1994). At the same time they honour women as saints, martyrs, abbesses, theologians and Doctors of the Church, such as Catherine of Siena and Teresa of Ávila, and Mary the mother of Jesus is honoured above all. Discussion continues about women deacons, which existed in the early church; Pope Francis opened the ministries of lector and acolyte to women in 2021, and the Patriarchate of Alexandria consecrated deaconesses in 2017.\n\nAll three camps include people who take Scripture with full seriousness. A fair conversation recognises that the disagreement is about how to read particular texts, not about whether women are equal before God (Gal 3:28, 1 Pet 3:7).",
+      "refs": [
+        "Judg 4:4-5",
+        "2 Kgs 22:14-20",
+        "Acts 18:26",
+        "Rom 16:1-7",
+        "1 Cor 11:5",
+        "1 Cor 14:34-35",
+        "1 Tim 2:11-15",
+        "Gal 3:28",
+        "Acts 2:17-18"
+      ],
+      "callout": {
+        "kind": "myth",
+        "text": "Myth: \"Complementarians think women are inferior\" or \"egalitarians ignore the Bible.\" Both are straw men. Leading complementarians affirm full equality of dignity, and leading egalitarians argue from careful exegesis of the same texts. See /debates/gender-roles."
+      },
+      "confidence": "debated"
+    },
+    {
+      "id": "outside-walls",
+      "heading": "Ministry outside church walls: work as worship",
+      "body": "Most Christians spend most of their waking hours outside church gatherings. Scripture treats that time as ministry too. Adam's first task was to \"work and keep\" the garden (Gen 2:15), using words that later describe priestly service; work was worship before the fall. Joseph ran a grain programme, Daniel served in government, Nehemiah was a cupbearer, Lydia traded in purple cloth and Paul made tents (Gen 41:46-49, Dan 6:3, Neh 1:11, Acts 16:14, Acts 18:3).\n\nPaul tells even slaves to work \"heartily, as for the Lord and not for men\", because \"you are serving the Lord Christ\" (Col 3:23-24). He urges believers to work quietly with their hands so as to be respected by outsiders and not dependent (1 Thess 4:11-12), and to work in order to have something to share (Eph 4:28). Ordinary work, done well, honestly and for the good of others, is service to Christ.\n\nThe Reformers drew on this to reject the medieval idea that monks and priests had a higher \"religious\" vocation. Luther taught that a milkmaid or a shoemaker serves God in their calling. Modern writers such as Dorothy L. Sayers (\"Why Work?\", 1942), Miroslav Volf (*Work in the Spirit*, 1991), R. Paul Stevens (*The Other Six Days*, 1999) and Tim Keller (*Every Good Endeavor*, 2012) develop the theme. Catholic teaching, especially after Vatican II, stresses that lay people sanctify the world from within through their work and family life (*Apostolicam Actuositatem* 2).\n\nThis does not erase the importance of gathered church ministry or of supporting those who preach the gospel (1 Cor 9:14). It means the church gathers to be equipped, then scatters to serve.",
+      "refs": [
+        "Gen 2:15",
+        "Col 3:23-24",
+        "1 Thess 4:11-12",
+        "Eph 4:28",
+        "Acts 18:1-4",
+        "Jer 29:7",
+        "1 Cor 10:31"
+      ],
+      "callout": {
+        "kind": "tip",
+        "text": "Try asking at the end of a work day: Whom did I serve today? What did I make or keep that God cares about? Where did I reflect his character?"
+      },
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "clergy-laity",
+      "heading": "The clergy-laity divide and its history",
+      "body": "The New Testament uses *laos* (\"people\") for the whole people of God and *klēros* (\"lot\" or \"inheritance\") for the whole people as God's portion (1 Pet 5:3, where elders are not to dominate \"those in your charge\", literally \"the lots\"). It has no separate word for a clergy class. Yet it does recognise leaders who are to be respected, supported and obeyed (1 Thess 5:12-13, 1 Tim 5:17-18, Heb 13:17).\n\nBy the early second century, Ignatius of Antioch describes a single bishop with presbyters and deacons. In the third century Cyprian of Carthage and others speak of a clergy order distinct from the laity, and Old Testament priestly language begins to be applied to Christian ministers. After Constantine, clergy received legal privileges. In the medieval West, clerical celibacy, Latin liturgy and the Gregorian reforms of the eleventh century widened the gap, and \"religious\" came to mean monks and nuns.\n\nThe Reformation challenged this. Luther taught that all the baptised are priests and that ordained ministers are servants appointed by the community for public preaching and sacraments. Anabaptists went further, stressing congregational discernment and mutual ministry. Later, Pietists, Methodists, Pentecostals and the house-church movement each pushed for wider lay participation. In the Catholic Church, Vatican II taught that clergy and laity share one dignity and mission, with lay people carrying the apostolate into the world (*Lumen Gentium* 30-38, *Apostolicam Actuositatem*).\n\nViews of this history differ. Catholic and Orthodox writers see the ordained ministry as a genuine gift of the Spirit that grew from apostolic roots, while admitting clericalism (the abuse of clerical power) is a real danger; Pope Francis repeatedly criticised clericalism. Many Protestants see the clergy-laity divide as a departure from Scripture that the Reformation began to correct, while often recreating it in their own churches with a \"pastor does everything\" culture. A balanced view keeps both truths: God gives leaders, and every believer is a minister.",
+      "refs": [
+        "1 Pet 2:9",
+        "1 Pet 5:1-3",
+        "1 Thess 5:12-13",
+        "1 Tim 5:17-18",
+        "Heb 13:17",
+        "Eph 4:11-12"
+      ],
+      "callout": {
+        "kind": "tradition",
+        "text": "The words \"clergy\" and \"laity\" come from Greek words that in the New Testament describe the whole church. The separation into two classes is a post-biblical development, judged differently by different traditions."
+      },
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "id": "household",
+      "heading": "Ministry in Jewish and Mediterranean terms: household, hospitality, patronage",
+      "body": "In the first-century world, life was organised around the household (*oikos*): an extended family with slaves, workers, clients and guests, often running a business from home. Churches met in households (Rom 16:5, Col 4:15), and whole households were baptised (Acts 16:15, Acts 16:33). Ministry therefore looked less like a programme run from a building and more like a family's shared life: meals, hospitality, teaching at table, caring for members' needs. Paul calls the church \"the household of God\" (1 Tim 3:15) and requires elders to manage their own households well.\n\nHospitality to strangers was a sacred duty in Jewish tradition, modelled by Abraham at Mamre (Gen 18:1-8; see Heb 13:2). Travelling apostles, prophets and teachers depended on it, which is why 3 John praises Gaius for supporting them and the Didache tells churches how to test them. The Greek *philoxenia* means \"love of strangers\".\n\nPatronage was the social glue of the Roman world. Wealthy patrons provided protection, money and status; clients repaid them with loyalty and public honour. The gospel both used and transformed this system. Women and men of means, such as Joanna, Susanna, Lydia and Phoebe, used their resources for Christ's mission (Luke 8:1-3, Rom 16:1-2). But Jesus warns against seeking honour by giving and tells hosts to invite those who cannot repay (Luke 14:12-14). God is the ultimate patron whose grace (*charis*) creates a relationship of gratitude and loyalty, and believers become patrons for one another (David deSilva, *Honor, Patronage, Kinship and Purity*, 2000).\n\nSeen this way, many ministries modern churches overlook were central: opening one's home, using wealth and influence for others, raising children in the faith, caring for widows and orphans, and welcoming strangers. These were the everyday channels through which the gospel spread.",
+      "refs": [
+        "Rom 16:3-5",
+        "Col 4:15",
+        "Acts 16:14-15",
+        "1 Tim 3:4-5",
+        "1 Tim 3:15",
+        "Heb 13:2",
+        "Gen 18:1-8",
+        "Luke 14:12-14",
+        "3 John 1:5-8"
+      ],
+      "confidence": "scholarly-consensus"
+    }
+  ],
+  "misreadings": [
+    {
+      "topic": "\"Ministry is what the pastor does\"",
+      "popular": "The pastor is the minister. Church members support the ministry by attending, giving and volunteering for programmes, but real ministry, such as preaching, counselling and visiting, is the pastor's job and what we pay him or her for.",
+      "inContext": "Ephesians 4:11-12 says Christ gives leaders \"to equip the saints for the work of ministry\". The ministry belongs to the saints; leaders equip. Every believer has a gift for others (1 Pet 4:10), and the body grows \"when each part is working properly\" (Eph 4:16). Ray Stedman, R. Paul Stevens and Greg Ogden (*Unfinished Business*) argue that the New Testament knows only one people of God, all ministers, some of whom are leaders. Catholic teaching since Vatican II says the same in its own terms: lay people have their own apostolate by baptism.",
+      "defence": "Defenders of a strong pastoral office, such as many Reformed and Lutheran writers, agree that every believer serves but warn against flattening real distinctions. Scripture does set apart some for preaching and oversight, tells churches to honour and pay them (1 Tim 5:17-18) and to obey their leaders (Heb 13:17). Some also note a grammatical debate in Eph 4:12 about whether leaders both equip and do ministry themselves. The best of both sides agree: leaders have a real and weighty calling, and that calling is to multiply ministry, not monopolise it.",
+      "whyItMatters": "If ministry belongs only to pastors, most gifts lie unused, pastors burn out, and members see themselves as consumers. If every member serves and leaders equip, the church becomes the body Paul describes.",
+      "refs": [
+        "Eph 4:11-16",
+        "1 Pet 4:10-11",
+        "1 Cor 12:7",
+        "1 Tim 5:17-18",
+        "Heb 13:17"
+      ],
+      "scholars": [
+        "Ray Stedman",
+        "R. Paul Stevens",
+        "Greg Ogden",
+        "Hans Küng",
+        "Alexander Strauch"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "\"Secular work is second-class; full-time ministry is the higher calling\"",
+      "popular": "The most committed Christians go into \"full-time ministry\" as pastors or missionaries. Other jobs are mainly a way to earn money, support the church and find people to evangelise.",
+      "inContext": "Scripture starts with work as worship (Gen 2:15) and tells believers to work \"as for the Lord\" (Col 3:23-24). Bezalel's craft is Spirit-filled (Exod 31:3), and Joseph, Daniel and Nehemiah serve God in government. Luther attacked the medieval idea of a higher religious estate, teaching that every calling is holy when done in faith. Writers such as Tim Keller, Miroslav Volf and R. Paul Stevens develop a theology of vocation where work itself, not only the witness done at work, matters to God.",
+      "defence": "Traditional evangelical and missions voices respond that Scripture does call some to leave their nets (Mark 1:16-20) and does tell churches to support gospel workers (1 Cor 9:14). Evangelism and church planting have eternal stakes. Most agree that \"full-time\" is a misleading phrase, since every Christian is a full-time disciple, but they insist the unique task of gospel proclamation must not be lost in a general theology of work.",
+      "whyItMatters": "Most believers will never be paid by a church. If their work is second-class, they live with guilt or division between Sunday and Monday. If work is ministry, every job becomes a place to serve God and neighbour.",
+      "refs": [
+        "Gen 2:15",
+        "Col 3:23-24",
+        "Exod 31:1-5",
+        "1 Cor 10:31",
+        "Mark 1:16-20",
+        "1 Cor 9:14"
+      ],
+      "scholars": [
+        "Martin Luther",
+        "Dorothy L. Sayers",
+        "Miroslav Volf",
+        "R. Paul Stevens",
+        "Tim Keller"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "\"The priesthood of all believers means I do not need a church or leaders\"",
+      "popular": "Since every believer is a priest with direct access to God, I can interpret Scripture for myself, worship God alone and do not need pastors, sacraments or church authority.",
+      "inContext": "1 Peter 2:9 is addressed to a people in the plural: \"you are a chosen race, a royal priesthood\". It echoes Exodus 19:6, where the whole nation is called to be priests for the world. The emphasis is corporate and outward: declaring God's praises to others. Luther used it to argue that all believers can serve and pray for one another, not that each is self-sufficient. Timothy George and other Reformation historians note that Luther spoke of the priesthood of all believers, not the priesthood of each believer alone.",
+      "defence": "Defenders of individual access, especially in Baptist and free-church tradition, rightly stress that every believer can approach God through Christ without a human mediator (Heb 4:16, 1 Tim 2:5) and must read Scripture for themselves, as the Bereans did (Acts 17:11). But they also hold that believers belong to local churches with leaders and discipline (Heb 10:24-25, Matt 18:15-17). Catholic and Orthodox theologians add that the common priesthood is real but works together with the ordained priesthood. All agree the doctrine does not license isolation.",
+      "whyItMatters": "Read individualistically, the doctrine can dissolve community and accountability. Read as Scripture means it, it makes every believer a servant who brings others to God and God's praise to others.",
+      "refs": [
+        "1 Pet 2:5",
+        "1 Pet 2:9",
+        "Exod 19:5-6",
+        "Rev 1:6",
+        "Heb 4:16",
+        "Heb 10:24-25"
+      ],
+      "scholars": [
+        "Timothy George",
+        "Martin Luther",
+        "Hans Küng",
+        "Kallistos Ware"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "\"Ephesians 4:11 lists five offices every church must install\"",
+      "popular": "God has given five offices, apostles, prophets, evangelists, pastors and teachers, and a church is incomplete without all five functioning as recognised leaders with authority.",
+      "inContext": "Ephesians 4:11 lists gifted people Christ gives to the church, but the emphasis is on their purpose: equipping all believers for ministry until the body reaches maturity (Eph 4:12-13). The Greek links \"shepherds and teachers\" closely, so many read four groups. Paul's other lists (Rom 12:6-8, 1 Cor 12:28) differ, suggesting he is not giving a fixed organisational chart. Many continuationists, such as Gordon Fee and Craig Keener, accept ongoing apostolic and prophetic ministry but not a five-office template.",
+      "defence": "Supporters of fivefold ministry, such as C. Peter Wagner and some Pentecostal networks, argue that Eph 4:13 says these gifts continue \"until we all attain to the unity of the faith\", which has not yet happened, so all five should remain. Alan Hirsch argues that churches lacking apostolic and prophetic gifts become inward-looking. Cessationists respond that apostles and prophets were foundational (Eph 2:20). Both cessationist and moderate continuationist scholars caution against making the list into a hierarchy.",
+      "whyItMatters": "If the list is a mandatory structure, churches may elevate individuals with titles and little accountability. If it is a description of gifts that equip, every church can ask whether pioneering, prophetic, evangelistic, pastoral and teaching gifts are being encouraged without inventing new hierarchies.",
+      "refs": [
+        "Eph 4:11-16",
+        "Eph 2:20",
+        "Rom 12:6-8",
+        "1 Cor 12:28-31"
+      ],
+      "scholars": [
+        "Gordon Fee",
+        "Craig Keener",
+        "C. Peter Wagner",
+        "Alan Hirsch",
+        "Richard Gaffin",
+        "R. Douglas Geivett",
+        "Holly Pivec"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "\"Phoebe and other women were only helpers\"",
+      "popular": "Women in the New Testament served behind the scenes: making meals, providing money and helping the men who did the real ministry. Phoebe was a \"servant\" (as older translations say) who helped Paul.",
+      "inContext": "Phoebe is called a diakonos \"of the church at Cenchreae\", the same word Paul uses for himself and Timothy, and a prostatis, patron, of many including Paul (Rom 16:1-2). She probably carried and presented Romans. Junia is \"outstanding among the apostles\" (Rom 16:7), Priscilla teaches Apollos (Acts 18:26), and Euodia and Syntyche \"contended at my side in the gospel\" (Phil 4:2-3). Lynn Cohick, Richard Bauckham and Beverly Gaventa show that women had real influence as patrons and leaders in the early church.",
+      "defence": "Complementarian scholars such as Thomas Schreiner and Douglas Moo accept that Phoebe was probably a deacon and a patron, that Priscilla taught, and that women served widely and visibly. They argue that none of these roles is elder oversight, and that \"helper\" was never meant to diminish. Many now prefer translations like \"deacon\" or \"minister\" for Phoebe. The disagreement is about church office, not about whether these women were significant.",
+      "whyItMatters": "Underestimating these women hides real models of courageous service. Overstating the evidence can claim more than the text says. Careful reading honours both the women and the text.",
+      "refs": [
+        "Rom 16:1-7",
+        "Acts 18:24-26",
+        "Phil 4:2-3",
+        "Luke 8:1-3"
+      ],
+      "scholars": [
+        "Lynn Cohick",
+        "Richard Bauckham",
+        "Beverly Roberts Gaventa",
+        "Thomas Schreiner",
+        "Douglas Moo"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "\"Jesus abolished teachers, and the scribes were dry legalists\"",
+      "popular": "Jesus said \"call no one rabbi\" and opposed the scribes and Pharisees, who taught dead rules. So Christianity is about the Spirit, not trained teachers or careful study.",
+      "inContext": "Jesus was himself called Rabbi and taught in synagogues as a Jewish teacher. In Matthew 23:8-12 he warns against loving titles and status, not against teaching, and he commissions his disciples to teach (Matt 28:20). He praises the scribe \"trained for the kingdom\" who brings out treasures new and old (Matt 13:52). Scholars such as E. P. Sanders and Amy-Jill Levine show that the scribes and Pharisees were respected lay teachers who sought to apply Torah to daily life; Jesus' criticisms target hypocrisy and burden-laying, as other Jewish teachers also did.",
+      "defence": "Traditional scholars such as D. A. Carson and Craig Blomberg agree that \"legalists\" is a caricature and that Jesus' critique is aimed at specific failures, while noting that the Gospels do record serious conflict over Jesus' authority and the Sabbath. Teaching remains a gift and office in the church (1 Cor 12:28, Jas 3:1), and Ezra the scribe is a model of devotion to the word.",
+      "whyItMatters": "Despising study and teaching weakens the church and repeats an old anti-Jewish caricature. Jesus' warning is against status-seeking, which applies to Christian teachers as much as to anyone.",
+      "refs": [
+        "Matt 23:1-12",
+        "Matt 13:52",
+        "Matt 28:19-20",
+        "Ezra 7:10",
+        "Jas 3:1"
+      ],
+      "scholars": [
+        "E. P. Sanders",
+        "Amy-Jill Levine",
+        "D. A. Carson",
+        "Craig Blomberg"
+      ],
+      "confidence": "scholarly-consensus"
+    },
+    {
+      "topic": "\"A gifts test will tell me my ministry\"",
+      "popular": "Take a spiritual-gifts inventory, find your top three gifts, and you will know which ministry to join. Your gift profile is your calling.",
+      "inContext": "Paul's lists of gifts vary (Rom 12, 1 Cor 12, Eph 4, 1 Pet 4), suggesting they are examples rather than a complete catalogue. In Scripture people discover their ministry by serving in real needs, being recognised by the community and growing in character, as with the Seven (Acts 6:3) and Timothy (1 Tim 4:14). The Spirit gives gifts \"as he wills\" and for the common good (1 Cor 12:7-11), and love is the more excellent way (1 Cor 13).",
+      "defence": "Defenders of inventories, such as many church-growth and small-group trainers, say they are useful starting points that help quiet people name what they enjoy and see their value. Writers such as Thomas Schreiner and Kenneth Berding, while sceptical of fixed lists, accept that reflecting on one's strengths can help. The common ground: tests can prompt reflection but should never replace serving, community confirmation and character.",
+      "whyItMatters": "A test-first approach can make people wait for the perfect fit or refuse needs outside their \"gift\". A serve-first approach grows gifts through love.",
+      "refs": [
+        "1 Cor 12:4-11",
+        "Rom 12:3-8",
+        "1 Cor 13:1-3",
+        "Acts 6:3",
+        "1 Tim 4:14"
+      ],
+      "scholars": [
+        "Kenneth Berding",
+        "Thomas Schreiner",
+        "Gordon Fee"
+      ],
+      "confidence": "debated"
+    },
+    {
+      "topic": "\"Diakonia just means menial service\"",
+      "popular": "Being a minister means being a humble servant who waits on others; the word diakonos simply means a table waiter.",
+      "inContext": "John N. Collins showed that diakonia language in Greek often refers to a commissioned agent acting on behalf of someone else, a go-between or emissary. Paul is a diakonos of the new covenant (2 Cor 3:6), of God (2 Cor 6:4) and of the gospel (Col 1:23). The point is less the lowliness of the task than the authority of the one who sends.",
+      "defence": "Others, including many evangelical and Catholic interpreters, agree that Collins corrected an overemphasis but insist that humility remains central, because Jesus explicitly joins diakonia with lowly table service and gives his life as a servant (Luke 22:26-27, Mark 10:45). Both the commissioning and the humility belong together.",
+      "whyItMatters": "If ministry means only lowliness, leaders may neglect real responsibility. If it means only authority, leaders may forget the towel and basin. Jesus models both.",
+      "refs": [
+        "2 Cor 3:6",
+        "2 Cor 6:4",
+        "Col 1:23",
+        "Luke 22:24-27",
+        "Mark 10:45"
+      ],
+      "scholars": [
+        "John N. Collins",
+        "Anni Hentschel",
+        "Paula Gooder"
+      ],
+      "confidence": "debated"
+    }
+  ],
+  "views": [
+    {
+      "name": "Roman Catholic",
+      "who": "Catholic Church; *Lumen Gentium* (1964), *Apostolicam Actuositatem* (1965), Catechism 871-945 and 1536-1600; theologians Yves Congar, Edward Schillebeeckx",
+      "summary": "Christ founded his church on the apostles, and bishops succeed them in teaching, sanctifying and governing, with the Pope as successor of Peter. Holy orders has three degrees: bishop, priest and deacon. The ministerial priesthood differs in kind from the common priesthood of the baptised, but both share in Christ's one priesthood. Since Vatican II the church stresses the lay apostolate in the world and lay ministries such as catechist, lector and acolyte.",
+      "strengths": "Strong historical continuity with the early church's bishops; a clear sacramental theology; a rich vision of lay holiness in the world; a worldwide structure that preserves unity.",
+      "critiques": "Protestants argue the New Testament does not support a sacrificing priesthood or a separate clerical caste, and that apostolic succession of office cannot guarantee faithfulness. Some Catholics themselves criticise clericalism. Catholics reply that the succession serves the apostolic faith, not the reverse, and that Vatican II deliberately raised the laity."
+    },
+    {
+      "name": "Eastern Orthodox",
+      "who": "Eastern Orthodox churches; John Zizioulas (*Being as Communion*, 1985), Nicholas Afanasiev, Kallistos Ware, Alexander Schmemann",
+      "summary": "The church is a eucharistic community gathered around its bishop, who is an icon of Christ. Ministries exist within the gathered liturgy: bishop, presbyters, deacons and the laity, who are also an ordained order through baptism and chrismation. Ministry is understood relationally, as a gift within communion rather than a power over others.",
+      "strengths": "Holds ministry and worship together; a deep theology of the whole people of God as the \"royal priesthood\" in the liturgy; strong continuity with the early church.",
+      "critiques": "Protestants raise the same questions as for Catholic orders. Some Orthodox voices themselves call for fuller lay participation and for recovering the order of deaconesses. Defenders note that Orthodoxy's conciliar and liturgical shape already involves the laity deeply."
+    },
+    {
+      "name": "Reformed and Presbyterian",
+      "who": "John Calvin (*Institutes* 4.3); Westminster Form of Presbyterial Church Government (1645); modern: Timothy Keller, Edmund Clowney",
+      "summary": "Christ rules his church through his word and through elders. Calvin identified four ongoing offices: pastors, teachers (doctors), elders and deacons. Teaching and ruling elders govern together in sessions, presbyteries and assemblies. All believers share Christ's threefold office and serve God in their vocations.",
+      "strengths": "Plural, accountable leadership; close attention to New Testament patterns; a strong theology of vocation and of the threefold office.",
+      "critiques": "Critics say the distinction between teaching and ruling elders is thin in the text, and that Reformed churches can become dominated by educated clergy. Charismatics say it underplays spiritual gifts. Defenders respond that order and gifts work together, as Paul insists (1 Cor 14:40)."
+    },
+    {
+      "name": "Baptist and free church",
+      "who": "Southern Baptist and other Baptist bodies; congregational churches; Alexander Strauch (*Biblical Eldership*); Mark Dever",
+      "summary": "Each local congregation is self-governing under Christ. Two offices are recognised, pastor-elder and deacon. The congregation as a whole holds final authority, for example in receiving members and choosing leaders. Strong emphasis falls on the priesthood of all believers and soul liberty.",
+      "strengths": "Takes the local church seriously; gives real responsibility to members; simple structure close to the New Testament's two named offices.",
+      "critiques": "Critics say single-pastor models can concentrate power, independence can isolate churches from accountability, and congregational votes can become political. Many Baptists have responded by recovering plural eldership and voluntary associations."
+    },
+    {
+      "name": "Pentecostal and charismatic",
+      "who": "Assemblies of God, Church of God in Christ, many independent churches; Gordon Fee, Amos Yong, Sam Storms, Craig Keener",
+      "summary": "The Spirit poured out at Pentecost empowers every believer for witness, with gifts including prophecy, healing and tongues. Ministry is charismatic (gift-based) as well as structured. Many Pentecostal bodies ordain women and give large roles to lay evangelists. Most hold that apostolic and prophetic ministries continue in some form, tested by Scripture.",
+      "strengths": "Recovers Acts 2 and Joel 2: every member, including women, the poor and the young, as a Spirit-empowered minister; has driven explosive growth in the Majority World.",
+      "critiques": "Critics warn of weak theological training, celebrity leadership and unchecked prophetic claims. Many Pentecostal scholars agree and call for better discernment and accountability, pointing to Paul's instructions for orderly, tested gifts (1 Cor 14:29-33)."
+    },
+    {
+      "name": "New Apostolic and fivefold networks",
+      "who": "C. Peter Wagner, Bill Hamon and related networks (often called the New Apostolic Reformation); in a different form, Alan Hirsch's APEST",
+      "summary": "God is restoring the offices of apostle and prophet alongside evangelists, pastors and teachers. Apostles provide governing oversight to networks of churches; prophets bring revelation for direction. Hirsch's APEST, by contrast, treats the five as functions every church needs, with no new governing hierarchy.",
+      "strengths": "Takes Ephesians 4 seriously as a description of ongoing ministry; encourages pioneering mission and prophetic courage; explains how many fast-growing independent networks actually function.",
+      "critiques": "Cessationists, many classical Pentecostals (the Assemblies of God formally disapproved the Latter Rain movement's teaching in 1949) and writers such as R. Douglas Geivett and Holly Pivec warn of unaccountable authority, revelation treated as near-scriptural, and political or \"dominion\" agendas. Supporters reply that abuses are not inherent and that apostles must be accountable. See /movements/dominion-theology and /movements/prophetic-movement."
+    },
+    {
+      "name": "Anabaptist and every-member",
+      "who": "Schleitheim Confession (1527); Mennonite, Brethren and Hutterite churches; John Howard Yoder (*Body Politics*, 1992); the house-church movement",
+      "summary": "The church is a community of disciples where everyone has a voice and a role. Leaders are chosen from and by the congregation and remain accountable to it. Discernment is shared (1 Cor 14:29), mutual aid is practised, and ministry is expressed in discipleship, peace-making and service to neighbours.",
+      "strengths": "Embodies the priesthood of all believers; strong accountability; a powerful witness of community, simplicity and peace.",
+      "critiques": "Critics say it can underplay recognised leadership and teaching gifts, and that small, separated communities can become insular. Anabaptists respond that leaders are fully recognised but serve within the community, not above it."
+    }
+  ],
+  "practice": [
+    {
+      "title": "Map the ministries in your church",
+      "steps": [
+        "As a group, list every ministry you can see happening in your church in a month, including hidden ones (cleaning, meals, prayer, giving lifts, counting money).",
+        "Sort them using Romans 12:6-8 and 1 Peter 4:10-11 into speaking and serving ministries.",
+        "Ask: which needs are not being met? Which gifts are not being used?",
+        "Pray together for the people doing hidden ministries, and thank at least one of them this week."
+      ]
+    },
+    {
+      "title": "Read the qualifications slowly",
+      "steps": [
+        "Read 1 Timothy 3:1-13 and Titus 1:5-9 aloud.",
+        "Underline everything about skill and circle everything about character. Count each.",
+        "Ask: why does Paul put so much weight on character, home and reputation?",
+        "Choose one quality to pray about for yourself this month, whatever your role, and ask a friend to check in with you."
+      ]
+    },
+    {
+      "title": "A work-as-worship audit",
+      "steps": [
+        "Read Genesis 2:15 and Colossians 3:23-24.",
+        "Write down the main tasks of your week, paid or unpaid.",
+        "For each, ask: whom does this serve? What part of God's world does it care for? How could I do it more \"as for the Lord\"?",
+        "Share one answer with your group and pray for one another's workplaces by name."
+      ]
+    },
+    {
+      "title": "Trace one ministry through the Bible",
+      "steps": [
+        "Choose one: shepherd, priest, prophet, king or hospitality.",
+        "Find it in the Old Testament (e.g. Ezek 34, Exod 28, Deut 18, Deut 17, Gen 18).",
+        "See how Jesus fulfils or models it (John 10, Heb 7, Luke 4, Matt 21, Luke 14).",
+        "See how the church shares it (1 Pet 5, 1 Pet 2, Acts 2, Rev 5, Rom 12). Write one sentence on what it means for you."
+      ]
+    },
+    {
+      "title": "Listen to the other side",
+      "steps": [
+        "Pick one debate from this study: women in ministry, apostles today, or clergy and laity.",
+        "Each person reads the strongest case for a view they do not hold, using the Views and Spectrum tabs or a recommended book.",
+        "Present it to the group as fairly as its holders would, until they would say, \"Yes, that is what we believe.\"",
+        "Then discuss: what did you learn? Where do you still disagree, and how can you serve together anyway?"
+      ]
+    }
+  ],
+  "sources": [
+    {
+      "author": "John N. Collins",
+      "title": "Diakonia: Re-interpreting the Ancient Sources",
+      "year": 1990
+    },
+    {
+      "author": "Alexander Strauch",
+      "title": "Biblical Eldership: An Urgent Call to Restore Biblical Church Leadership (revised edition)",
+      "year": 1995
+    },
+    {
+      "author": "R. Paul Stevens",
+      "title": "The Other Six Days: Vocation, Work, and Ministry in Biblical Perspective",
+      "year": 1999
+    },
+    {
+      "author": "Timothy Keller with Katherine Leary Alsdorf",
+      "title": "Every Good Endeavor: Connecting Your Work to God's Work",
+      "year": 2012
+    },
+    {
+      "author": "Ed Stetzer and Thom S. Rainer",
+      "title": "Transformational Church",
+      "year": 2010
+    },
+    {
+      "author": "Ray C. Stedman",
+      "title": "Body Life",
+      "year": 1972
+    },
+    {
+      "author": "Greg Ogden",
+      "title": "Unfinished Business: Returning the Ministry to the People of God",
+      "year": 2003
+    },
+    {
+      "author": "Miroslav Volf",
+      "title": "Work in the Spirit: Toward a Theology of Work",
+      "year": 1991
+    },
+    {
+      "author": "Dorothy L. Sayers",
+      "title": "Why Work? (address, later in Creed or Chaos?)",
+      "year": 1942
+    },
+    {
+      "author": "Gordon D. Fee",
+      "title": "God's Empowering Presence: The Holy Spirit in the Letters of Paul",
+      "year": 1994
+    },
+    {
+      "author": "Ronald W. Pierce and Rebecca Merrill Groothuis (eds.), with Gordon D. Fee",
+      "title": "Discovering Biblical Equality",
+      "year": 2004
+    },
+    {
+      "author": "Lynn H. Cohick",
+      "title": "Women in the World of the Earliest Christians",
+      "year": 2009
+    },
+    {
+      "author": "Andreas J. Köstenberger and Thomas R. Schreiner (eds.)",
+      "title": "Women in the Church: An Interpretation and Application of 1 Timothy 2:9-15 (3rd edition)",
+      "year": 2016
+    },
+    {
+      "author": "Thomas R. Schreiner",
+      "title": "Spiritual Gifts: What They Are and Why They Matter",
+      "year": 2018
+    },
+    {
+      "author": "Michael F. Bird",
+      "title": "Bourgeois Babes, Bossy Wives, and Bobby Haircuts: A Case for Gender Equality in Ministry",
+      "year": 2012
+    },
+    {
+      "author": "Wayne Grudem",
+      "title": "Evangelical Feminism and Biblical Truth",
+      "year": 2004
+    },
+    {
+      "author": "Wayne Grudem",
+      "title": "The Gift of Prophecy in the New Testament and Today",
+      "year": 1988
+    },
+    {
+      "author": "John Piper and Wayne Grudem (eds.)",
+      "title": "Recovering Biblical Manhood and Womanhood",
+      "year": 1991
+    },
+    {
+      "author": "Philip B. Payne",
+      "title": "Man and Woman, One in Christ",
+      "year": 2009
+    },
+    {
+      "author": "Craig S. Keener",
+      "title": "Paul, Women and Wives",
+      "year": 1992
+    },
+    {
+      "author": "Eldon Jay Epp",
+      "title": "Junia: The First Woman Apostle",
+      "year": 2005
+    },
+    {
+      "author": "Richard Bauckham",
+      "title": "Gospel Women: Studies of the Named Women in the Gospels",
+      "year": 2002
+    },
+    {
+      "author": "Michael H. Burer and Daniel B. Wallace",
+      "title": "Was Junia Really an Apostle? A Re-examination of Rom 16.7",
+      "year": 2001,
+      "locator": "New Testament Studies 47"
+    },
+    {
+      "author": "Hans Küng",
+      "title": "The Church",
+      "year": 1967
+    },
+    {
+      "author": "Second Vatican Council",
+      "title": "Lumen Gentium (Dogmatic Constitution on the Church)",
+      "year": 1964
+    },
+    {
+      "author": "Second Vatican Council",
+      "title": "Apostolicam Actuositatem (Decree on the Apostolate of the Laity)",
+      "year": 1965
+    },
+    {
+      "author": "John Paul II",
+      "title": "Ordinatio Sacerdotalis",
+      "year": 1994
+    },
+    {
+      "author": "Edward Schillebeeckx",
+      "title": "Ministry: Leadership in the Community of Jesus Christ",
+      "year": 1981
+    },
+    {
+      "author": "John D. Zizioulas",
+      "title": "Being as Communion: Studies in Personhood and the Church",
+      "year": 1985
+    },
+    {
+      "author": "John Calvin",
+      "title": "Institutes of the Christian Religion",
+      "year": 1559,
+      "locator": "2.15 (threefold office); 4.3 (offices of the church)",
+      "publicDomain": true
+    },
+    {
+      "author": "Martin Luther",
+      "title": "To the Christian Nobility of the German Nation",
+      "year": 1520,
+      "publicDomain": true
+    },
+    {
+      "author": "Ignatius of Antioch",
+      "title": "Letter to the Smyrnaeans",
+      "locator": "8",
+      "publicDomain": true
+    },
+    {
+      "author": "Michael W. Holmes (ed.)",
+      "title": "The Apostolic Fathers: Greek Texts and English Translations (3rd edition; includes the Didache)",
+      "year": 2007
+    },
+    {
+      "author": "Paul Wesley Chilcote",
+      "title": "John Wesley and the Women Preachers of Early Methodism",
+      "year": 1991
+    },
+    {
+      "author": "R. Douglas Geivett and Holly Pivec",
+      "title": "A New Apostolic Reformation? A Biblical Response to a Worldwide Movement",
+      "year": 2014
+    },
+    {
+      "author": "C. Peter Wagner",
+      "title": "Apostles Today",
+      "year": 2006
+    },
+    {
+      "author": "Alan Hirsch",
+      "title": "The Forgotten Ways",
+      "year": 2006
+    },
+    {
+      "author": "Benjamin L. Merkle",
+      "title": "40 Questions About Elders and Deacons",
+      "year": 2008
+    },
+    {
+      "author": "R. Alastair Campbell",
+      "title": "The Elders: Seniority within Earliest Christianity",
+      "year": 1994
+    },
+    {
+      "author": "David A. deSilva",
+      "title": "Honor, Patronage, Kinship and Purity: Unlocking New Testament Culture",
+      "year": 2000
+    },
+    {
+      "author": "Timothy George",
+      "title": "Theology of the Reformers",
+      "year": 1988
+    },
+    {
+      "author": "John Howard Yoder",
+      "title": "Body Politics: Five Practices of the Christian Community Before the Watching World",
+      "year": 1992
+    },
+    {
+      "author": "Philip Jenkins",
+      "title": "The Next Christendom: The Coming of Global Christianity",
+      "year": 2002
+    },
+    {
+      "author": "Allan H. Anderson",
+      "title": "An Introduction to Pentecostalism",
+      "year": 2004
+    },
+    {
+      "author": "Kenneth Berding",
+      "title": "What Are Spiritual Gifts? Rethinking the Conventional View",
+      "year": 2006
+    },
+    {
+      "author": "Anni Hentschel",
+      "title": "Diakonia im Neuen Testament",
+      "year": 2007,
+      "confidence": "needs-verification"
+    },
+    {
+      "author": "Linda Belleville",
+      "title": "Iounian ... episēmoi en tois apostolois: A Re-examination of Romans 16.7 in Light of Primary Source Materials",
+      "year": 2005,
+      "locator": "New Testament Studies 51",
+      "confidence": "needs-verification"
+    }
+  ]
+}

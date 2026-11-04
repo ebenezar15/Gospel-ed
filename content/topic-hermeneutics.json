@@ -1,0 +1,2644 @@
+{
+ "id": "hermeneutics",
+ "title": "Biblical Hermeneutics: How to Read the Bible Well",
+ "subtitle": "A plain-language deep study of interpretation: methods, history, genres, context, the Jewish covenant lens, Christ, the Spirit and the community",
+ "plain": "Hermeneutics is the study of how we understand and apply a text. Everyone who reads the Bible interprets it, so the real question is whether we do it carefully or carelessly. Reading well means listening first to what a passage meant to its first hearers: its kind of writing (genre), the words around it, and its Jewish and ancient setting. Then we place it inside the Bible's one big covenant story, see how it points to or is fulfilled in Jesus, and ask what it calls us to do today, together with other believers. Christians have read Scripture in different ways across history, and sincere people still disagree on some passages. Good reading holds firm convictions with humility.",
+ "keyPoints": [
+  "Interpretation is unavoidable: every reader brings questions, language and culture to the text. The goal is to let the text correct us rather than echo us.",
+  "A text cannot mean today what it could never have meant to its author and first audience, though its meaning can grow deeper as God's story unfolds.",
+  "Genre matters: a psalm, a law, a proverb, a parable and a vision each work differently and must be read by their own rules.",
+  "Context is king: read whole paragraphs, chapters and books, not isolated verses.",
+  "The Bible grew up inside Israel's covenant life. Jewish ways of reading (midrash, wordplay, linking texts, story) shaped Jesus and the apostles.",
+  "Christians read the whole Bible as one story that finds its goal in Christ, but this must not erase the Old Testament's own voice.",
+  "The Spirit and the community of believers, past and present, help us read; humility, patience and charity help us disagree well."
+ ],
+ "groups": [
+  {
+   "id": "ancient-jewish",
+   "label": "Ancient Israel & Jewish interpretation",
+   "color": "ot"
+  },
+  {
+   "id": "early-church",
+   "label": "Apostles & early church",
+   "color": "nt"
+  },
+  {
+   "id": "medieval",
+   "label": "Medieval (Christian and Jewish)",
+   "color": "accent-2"
+  },
+  {
+   "id": "reformation",
+   "label": "Reformation & Protestant heirs",
+   "color": "accent"
+  },
+  {
+   "id": "modern-critical",
+   "label": "Modern critical era",
+   "color": "warn"
+  },
+  {
+   "id": "contemporary",
+   "label": "Contemporary approaches",
+   "color": "good"
+  }
+ ],
+ "map": {
+  "title": "The world of interpretation: what we read, and how",
+  "intro": "This map shows the main things a reader must pay attention to (the text, its author, its first audience, its genre and contexts, the whole canon, Christ, the Spirit and the community) and the main methods Christians and Jews have used to read it. Colours show the era that put the most weight on each idea, though most ideas are older than the era that named them. Arrows show how they relate.",
+  "nodes": [
+   {
+    "id": "text",
+    "label": "The text",
+    "group": "ancient-jewish",
+    "detail": "The words of Scripture as we have them, in Hebrew, Aramaic and Greek, and in translation. Every method begins here. When Ezra read the Law, the Levites helped the people understand it, so reading and explaining belonged together from the start.",
+    "refs": [
+     "Neh 8:8",
+     "2 Tim 3:16-17"
+    ]
+   },
+   {
+    "id": "author",
+    "label": "Author (human and divine)",
+    "group": "reformation",
+    "detail": "Christians believe each book has a human author writing in a real time and place, and that God speaks through that human voice. The Reformers stressed that the meaning the human author intended is the anchor of interpretation. Many add that God may intend more than the human author fully saw.",
+    "refs": [
+     "2 Pet 1:20-21",
+     "Luke 1:1-4",
+     "Heb 1:1-2"
+    ]
+   },
+   {
+    "id": "first-audience",
+    "label": "First audience",
+    "group": "modern-critical",
+    "detail": "The people who first heard the text: exiles in Babylon, a church in Corinth, Israel at Sinai. The Bible was written for us but not first to us. Asking what they would have heard keeps us from reading our own world into theirs.",
+    "refs": [
+     "1 Cor 1:2",
+     "Jer 29:1",
+     "Rom 15:4"
+    ]
+   },
+   {
+    "id": "genre",
+    "label": "Genre (kind of writing)",
+    "group": "modern-critical",
+    "detail": "Genre is the kind of writing: story, law, poetry, wisdom, prophecy, apocalyptic vision, gospel, parable or letter. Each has its own rules, like the difference between a news report and a love song. Modern form criticism made genre a central question, though wise readers always noticed it.",
+    "refs": [
+     "Ps 1:1-3",
+     "Luke 15:3",
+     "Rev 1:1"
+    ]
+   },
+   {
+    "id": "literary-context",
+    "label": "Literary context",
+    "group": "contemporary",
+    "detail": "The words around a passage: the sentence, paragraph, chapter, book and its flow of thought. Literary and narrative approaches teach us to notice structure, repetition, characters and plot. Most famous misreadings come from ignoring the verses next door.",
+    "refs": [
+     "Luke 15:1-3",
+     "Phil 4:11-13"
+    ]
+   },
+   {
+    "id": "historical-context",
+    "label": "Historical-cultural context",
+    "group": "modern-critical",
+    "detail": "The world behind the text: empires, customs, family life, temple, honour and shame, patronage, farming, money. This background explains what words and actions meant then. Archaeology and ancient writings help us see it.",
+    "refs": [
+     "Luke 2:1-2",
+     "Ruth 4:7"
+    ]
+   },
+   {
+    "id": "canon",
+    "label": "The whole canon",
+    "group": "contemporary",
+    "detail": "The canon is the collection of books the church receives as Scripture. Reading a passage within the whole Bible lets Scripture interpret Scripture. Brevard Childs' canonical approach stressed the final shape of the books as the church received them.",
+    "refs": [
+     "Luke 24:44",
+     "2 Tim 3:15"
+    ]
+   },
+   {
+    "id": "covenant-story",
+    "label": "Covenant story",
+    "group": "ancient-jewish",
+    "detail": "The Bible's big story is about a faithful God who binds himself to a people by covenant: with Noah, Abraham, Israel at Sinai, David, and the promised new covenant. Each passage sits somewhere in this unfolding relationship. Knowing where helps us know how it applies.",
+    "refs": [
+     "Gen 12:1-3",
+     "Exod 19:5-6",
+     "2 Sam 7:12-16",
+     "Jer 31:31-34",
+     "Luke 22:20"
+    ]
+   },
+   {
+    "id": "christ",
+    "label": "Christ, the goal",
+    "group": "early-church",
+    "detail": "Jesus taught that Moses, the Prophets and the Psalms speak of him. Christians therefore read the whole story as reaching its goal in his life, death, resurrection and reign. How directly each text points to him is debated.",
+    "refs": [
+     "Luke 24:27",
+     "Luke 24:44-45",
+     "John 5:39",
+     "2 Cor 1:20"
+    ]
+   },
+   {
+    "id": "spirit",
+    "label": "The Holy Spirit",
+    "group": "early-church",
+    "detail": "Christians believe the Spirit who inspired Scripture also opens readers' minds to understand and obey it. This is called illumination. It does not replace study; it gives understanding, conviction and love.",
+    "refs": [
+     "John 16:13",
+     "1 Cor 2:12-14",
+     "Eph 1:17-18",
+     "Ps 119:18"
+    ]
+   },
+   {
+    "id": "community",
+    "label": "Community and tradition",
+    "group": "early-church",
+    "detail": "We read with the church past and present: creeds, teachers, other cultures and the local congregation. The Jerusalem Council read Scripture together to settle a hard question. Tradition can guide, and it can also need correcting by Scripture.",
+    "refs": [
+     "Acts 15:6-21",
+     "Acts 17:11",
+     "2 Thess 2:15"
+    ]
+   },
+   {
+    "id": "rule-of-faith",
+    "label": "Rule of faith",
+    "group": "early-church",
+    "detail": "Early Christian writers such as Irenaeus and Tertullian summarised the apostles' teaching (one God, Creator; Jesus Christ, born, crucified, risen; the Holy Spirit) as a 'rule' or measuring line for reading Scripture. Interpretations that broke this rule were judged wrong. The creeds grew from it.",
+    "refs": [
+     "1 Cor 15:3-5",
+     "Jude 1:3",
+     "2 Tim 1:13"
+    ]
+   },
+   {
+    "id": "reader-today",
+    "label": "Reader today",
+    "group": "contemporary",
+    "detail": "We bring our own language, culture, questions and blind spots. Modern philosophers such as Hans-Georg Gadamer showed that no reader is neutral. Being honest about our starting point is the first step to hearing the text afresh.",
+    "refs": [
+     "Rom 15:4",
+     "Acts 8:30-31"
+    ]
+   },
+   {
+    "id": "application",
+    "label": "Application and obedience",
+    "group": "reformation",
+    "detail": "The goal of reading is not only knowledge but faith, love and obedience. Application asks how the passage's principle now shapes belief, worship, character and life together. It should flow from the meaning, not replace it.",
+    "refs": [
+     "Jas 1:22-25",
+     "2 Tim 3:16-17",
+     "Matt 7:24"
+    ]
+   },
+   {
+    "id": "midrash-pesher",
+    "label": "Midrash and pesher",
+    "group": "ancient-jewish",
+    "detail": "Midrash is Jewish searching of Scripture, linking texts and filling gaps to draw out teaching. Pesher, found in the Dead Sea Scrolls, reads prophecy as fulfilled in the reader's own community. Both shaped how the New Testament quotes the Old.",
+    "refs": [
+     "2 Chr 24:27",
+     "Hab 2:2-3",
+     "Acts 2:16-21"
+    ]
+   },
+   {
+    "id": "jewish-covenant-reading",
+    "label": "Jewish relational covenant reading",
+    "group": "ancient-jewish",
+    "detail": "This approach reads the Bible as its first Jewish hearers did: as the story of a God in loyal, covenant relationship with a people, with Torah as a gift within that relationship, and with Jesus as a Jewish teacher using Jewish methods and idioms. Writers such as Marvin Wilson, Lois Tverberg and Kenneth Bailey popularise it.",
+    "refs": [
+     "Deut 7:7-9",
+     "Ps 119:97",
+     "Matt 5:17"
+    ]
+   },
+   {
+    "id": "allegorical",
+    "label": "Allegorical reading",
+    "group": "early-church",
+    "detail": "Allegory finds a second, spiritual meaning in the details of a text, beyond the literal story. Philo of Alexandria and later Origen used it widely. Paul uses an allegory once, of Hagar and Sarah. Its risk is that the reader's ideas replace the author's.",
+    "refs": [
+     "Gal 4:21-31"
+    ]
+   },
+   {
+    "id": "typological",
+    "label": "Typological reading",
+    "group": "early-church",
+    "detail": "Typology sees real people, events and institutions in Israel's history as patterns (types) that God repeats and fulfils more fully later, especially in Christ. Adam, the Passover, the manna and the bronze serpent are examples used in the New Testament. Unlike allegory, it keeps the history.",
+    "refs": [
+     "Rom 5:14",
+     "1 Cor 10:6",
+     "1 Cor 10:11",
+     "John 3:14-15"
+    ]
+   },
+   {
+    "id": "quadriga",
+    "label": "Four senses (Quadriga)",
+    "group": "medieval",
+    "detail": "Medieval Christians read texts in four senses: literal (what happened), allegorical (what to believe), moral (what to do) and anagogical (what to hope for). Thomas Aquinas insisted all spiritual senses rest on the literal. Jewish readers later spoke of four levels too (PaRDeS).",
+    "refs": [
+     "Gal 4:24",
+     "1 Cor 10:11"
+    ]
+   },
+   {
+    "id": "grammatical-historical",
+    "label": "Grammatical-historical method",
+    "group": "reformation",
+    "detail": "This method seeks the plain sense the human author intended, using grammar, word meanings, genre and historical setting. It has roots in the school of Antioch and the Reformers and is the standard evangelical method. Its weakness can be stopping at 'then' without reaching Christ or 'now'.",
+    "refs": [
+     "Neh 8:8",
+     "Luke 1:1-4"
+    ]
+   },
+   {
+    "id": "redemptive-historical",
+    "label": "Redemptive-historical reading",
+    "group": "reformation",
+    "detail": "This approach, developed in Reformed biblical theology (Geerhardus Vos and others), reads each passage by its place in the unfolding history of salvation: creation, fall, Israel, Christ, church, new creation. It asks what God was doing at that stage of the story.",
+    "refs": [
+     "Heb 1:1-2",
+     "Gal 4:4-5"
+    ]
+   },
+   {
+    "id": "christocentric",
+    "label": "Christ-centred / Christotelic",
+    "group": "reformation",
+    "detail": "Christ-centred readings look for how every passage relates to Christ. Some find him predicted or present in many texts; 'Christotelic' readers (like Peter Enns) prefer to say the Old Testament's story has its goal (telos) in Christ, seen most clearly after the resurrection. The debate is about how, not whether, Christ matters.",
+    "refs": [
+     "Luke 24:27",
+     "Rom 10:4",
+     "1 Pet 1:10-12"
+    ]
+   },
+   {
+    "id": "historical-critical",
+    "label": "Historical-critical method",
+    "group": "modern-critical",
+    "detail": "A family of methods (source, form and redaction criticism and others) that study how texts were written, edited and passed on, treating the Bible like other ancient writings. It has uncovered much about language and history. Critics fear it can silence the Bible as Scripture when used with naturalistic assumptions.",
+    "refs": [
+     "Luke 1:1-3"
+    ]
+   },
+   {
+    "id": "canonical",
+    "label": "Canonical approach",
+    "group": "contemporary",
+    "detail": "Associated with Brevard Childs, this approach reads books in their final form as Scripture for the believing community, rather than only reconstructing earlier sources. It values the shape and order of the canon as meaningful.",
+    "refs": [
+     "Luke 24:44",
+     "2 Tim 3:15-16"
+    ]
+   },
+   {
+    "id": "narrative",
+    "label": "Narrative criticism",
+    "group": "contemporary",
+    "detail": "Narrative criticism studies biblical stories as stories: plot, character, point of view, timing, repetition and silence. Robert Alter and others showed how artful Hebrew narrative is. It helps readers notice what the storyteller is doing without moralising every detail.",
+    "refs": [
+     "Gen 22:1-19",
+     "2 Sam 11:1-27"
+    ]
+   },
+   {
+    "id": "reader-response",
+    "label": "Reader-response",
+    "group": "contemporary",
+    "detail": "Reader-response approaches stress the reader's role in making meaning. Moderate forms note how texts invite responses; strong forms (Stanley Fish) say meaning is produced by communities of readers. It exposes hidden assumptions but can lose the text's ability to challenge us.",
+    "refs": [
+     "Matt 13:9",
+     "Mark 4:24"
+    ]
+   },
+   {
+    "id": "theological",
+    "label": "Theological interpretation",
+    "group": "contemporary",
+    "detail": "Theological interpretation of Scripture (TIS) reads the Bible as God's word to the church, using Christian doctrine, creeds and the history of interpretation alongside history and grammar. Kevin Vanhoozer, Daniel Treier and others lead this movement.",
+    "refs": [
+     "2 Tim 3:16-17",
+     "Rom 15:4"
+    ]
+   }
+  ],
+  "edges": [
+   {
+    "from": "author",
+    "to": "text",
+    "label": "writes, under God"
+   },
+   {
+    "from": "text",
+    "to": "first-audience",
+    "label": "first addressed to"
+   },
+   {
+    "from": "genre",
+    "to": "text",
+    "label": "tells us how to read"
+   },
+   {
+    "from": "literary-context",
+    "to": "text",
+    "label": "surrounds and shapes"
+   },
+   {
+    "from": "historical-context",
+    "to": "first-audience",
+    "label": "was their world"
+   },
+   {
+    "from": "text",
+    "to": "canon",
+    "label": "belongs within"
+   },
+   {
+    "from": "canon",
+    "to": "covenant-story",
+    "label": "tells one story of"
+   },
+   {
+    "from": "covenant-story",
+    "to": "christ",
+    "label": "reaches its goal in"
+   },
+   {
+    "from": "spirit",
+    "to": "reader-today",
+    "label": "illuminates"
+   },
+   {
+    "from": "community",
+    "to": "reader-today",
+    "label": "guides and corrects"
+   },
+   {
+    "from": "rule-of-faith",
+    "to": "community",
+    "label": "summarises the faith of"
+   },
+   {
+    "from": "reader-today",
+    "to": "application",
+    "label": "responds in"
+   },
+   {
+    "from": "christ",
+    "to": "application",
+    "label": "shapes"
+   },
+   {
+    "from": "midrash-pesher",
+    "to": "christ",
+    "label": "methods the apostles used to show"
+   },
+   {
+    "from": "jewish-covenant-reading",
+    "to": "covenant-story",
+    "label": "foregrounds"
+   },
+   {
+    "from": "jewish-covenant-reading",
+    "to": "historical-context",
+    "label": "reads inside"
+   },
+   {
+    "from": "allegorical",
+    "to": "text",
+    "label": "seeks a hidden sense in"
+   },
+   {
+    "from": "typological",
+    "to": "covenant-story",
+    "label": "traces patterns in"
+   },
+   {
+    "from": "typological",
+    "to": "christ",
+    "label": "fulfilled in"
+   },
+   {
+    "from": "quadriga",
+    "to": "allegorical",
+    "label": "systematised"
+   },
+   {
+    "from": "quadriga",
+    "to": "application",
+    "label": "includes a moral sense for"
+   },
+   {
+    "from": "grammatical-historical",
+    "to": "author",
+    "label": "seeks the intent of"
+   },
+   {
+    "from": "grammatical-historical",
+    "to": "historical-context",
+    "label": "relies on"
+   },
+   {
+    "from": "redemptive-historical",
+    "to": "covenant-story",
+    "label": "locates each text in"
+   },
+   {
+    "from": "christocentric",
+    "to": "christ",
+    "label": "reads every text toward"
+   },
+   {
+    "from": "historical-critical",
+    "to": "historical-context",
+    "label": "reconstructs"
+   },
+   {
+    "from": "historical-critical",
+    "to": "author",
+    "label": "asks about sources behind"
+   },
+   {
+    "from": "canonical",
+    "to": "canon",
+    "label": "reads the final form of"
+   },
+   {
+    "from": "narrative",
+    "to": "literary-context",
+    "label": "studies plot and character in"
+   },
+   {
+    "from": "reader-response",
+    "to": "reader-today",
+    "label": "stresses the role of"
+   },
+   {
+    "from": "theological",
+    "to": "rule-of-faith",
+    "label": "reads with"
+   },
+   {
+    "from": "theological",
+    "to": "community",
+    "label": "reads for the church"
+   }
+  ]
+ },
+ "flow": {
+  "title": "A nine-step method for reading any passage",
+  "intro": "Walk through these steps in order the first few times. With practice they become a habit. The first five steps listen to what the text meant then; the last four ask what it means within the whole Bible and for us now. Prayer belongs at every step.",
+  "steps": [
+   {
+    "label": "Observe carefully",
+    "detail": "Read the passage slowly, several times, in more than one translation if you can. Write down what it actually says before deciding what it means.",
+    "ask": [
+     "Who is speaking, to whom, and about what?",
+     "Which words or ideas are repeated?",
+     "What surprises me or confuses me here?",
+     "What does the text not say that I assumed it said?"
+    ],
+    "refs": [
+     "Neh 8:8",
+     "Acts 17:11",
+     "Ps 119:18"
+    ]
+   },
+   {
+    "label": "Identify the genre",
+    "detail": "Decide what kind of writing this is: story, law, song, wisdom saying, prophecy, vision, gospel, parable or letter. Genre sets the rules, as a recipe and a poem do in daily life.",
+    "ask": [
+     "Is this telling a story, giving commands, praying, teaching wisdom, warning, or describing a vision?",
+     "Is the language plain or figurative (pictures, poetry, exaggeration)?",
+     "How do other passages of this kind work?"
+    ],
+    "refs": [
+     "Ps 98:8",
+     "Prov 26:4-5",
+     "Luke 15:3"
+    ]
+   },
+   {
+    "label": "Read the literary context",
+    "detail": "Read the whole paragraph, the chapter, and ideally the whole book. Trace how the passage fits the author's flow of thought.",
+    "ask": [
+     "What comes just before and just after?",
+     "What question or problem is the author addressing?",
+     "Does a word like 'therefore' or 'but' link this to something earlier?"
+    ],
+    "refs": [
+     "Luke 15:1-3",
+     "Phil 4:10-13",
+     "Rom 12:1"
+    ]
+   },
+   {
+    "label": "Explore the historical, cultural and Jewish context",
+    "detail": "Ask what the first hearers knew that we do not: their history, customs, religious practices, and the Jewish ways of thinking and speaking that shaped both Testaments.",
+    "ask": [
+     "What was happening in Israel or the church at this time?",
+     "What customs (honour and shame, family, patronage, temple, feasts) lie behind this?",
+     "How would a first-century Jew or an Israelite under the covenant hear these words?",
+     "Is there an idiom or figure of speech here?"
+    ],
+    "refs": [
+     "Ruth 4:7",
+     "John 7:37-38",
+     "Luke 14:26"
+    ]
+   },
+   {
+    "label": "State what it meant to them",
+    "detail": "In one or two sentences, say what the author was communicating to the first audience. This is the anchor: a text cannot mean today what it could never have meant then.",
+    "ask": [
+     "What did the author want these hearers to believe, feel or do?",
+     "Can I state it without mentioning myself?",
+     "Would a careful first-century (or ancient Israelite) listener agree with my summary?"
+    ],
+    "refs": [
+     "Jer 29:1",
+     "1 Cor 7:1",
+     "John 20:31"
+    ]
+   },
+   {
+    "label": "Place it in the covenant story",
+    "detail": "Locate the passage in the Bible's unfolding story: creation, fall, the covenants with Abraham, Israel and David, exile and return, Christ, the church and new creation. Different covenant settings change how a command applies.",
+    "ask": [
+     "Where in God's story does this passage stand?",
+     "Which covenant is in view, and how does the new covenant relate to it?",
+     "How do later passages pick up this theme?"
+    ],
+    "refs": [
+     "Gen 12:1-3",
+     "Jer 31:31-34",
+     "Heb 8:6-13",
+     "Gal 3:23-25"
+    ]
+   },
+   {
+    "label": "See how it relates to Christ",
+    "detail": "Ask how this passage relates to Jesus: as promise, pattern (type), contrast, preparation or direct teaching. Do this honestly, without forcing him into every detail.",
+    "ask": [
+     "Does the New Testament quote or echo this passage?",
+     "Does it show a need, pattern or promise that Jesus meets?",
+     "How does Jesus' life, death and resurrection change how I read it?"
+    ],
+    "refs": [
+     "Luke 24:27",
+     "Luke 24:44-45",
+     "2 Cor 1:20",
+     "Heb 1:1-2"
+    ]
+   },
+   {
+    "label": "Draw out the lasting principle",
+    "detail": "Identify the timeless truth about God, people and life with God that the passage teaches. A good principle is clearly in the text, true across the Bible, and relevant to both the first audience and us.",
+    "ask": [
+     "What does this show about God's character and ways?",
+     "Is the principle taught elsewhere in Scripture?",
+     "Is any part of the passage tied only to its original situation?"
+    ],
+    "refs": [
+     "1 Cor 9:9-10",
+     "1 Cor 10:6",
+     "Rom 15:4"
+    ]
+   },
+   {
+    "label": "Apply it today, in community",
+    "detail": "Ask how the principle shapes faith, worship, character and relationships now. Test your application with others in the church and with the wider Christian tradition, and then act on it.",
+    "ask": [
+     "What would obedience look like this week, for me and for us together?",
+     "Does my application respect the meaning I found, or replace it?",
+     "What do other believers, past and present, from other cultures, see here?",
+     "How does this lead me to love God and neighbour?"
+    ],
+    "refs": [
+     "Jas 1:22-25",
+     "Acts 15:6-21",
+     "Matt 22:37-40",
+     "Col 3:16"
+    ]
+   }
+  ]
+ },
+ "decision": {
+  "title": "What kind of passage am I reading, and how should I read it?",
+  "intro": "Answer a few questions about the passage in front of you. The tree will name its likely genre and give you reading tips. Some passages mix genres (Jeremiah has stories, poems and letters), so try the tree on a paragraph at a time.",
+  "start": "q-start",
+  "nodes": [
+   {
+    "id": "q-start",
+    "q": "What is the passage mainly doing?",
+    "options": [
+     {
+      "label": "Telling a story with people, places and events",
+      "next": "q-story"
+     },
+     {
+      "label": "Singing, praying or using poetry",
+      "next": "q-poetry"
+     },
+     {
+      "label": "Giving commands or instructions",
+      "next": "q-command"
+     },
+     {
+      "label": "Delivering a message from God or describing visions",
+      "next": "q-vision"
+     },
+     {
+      "label": "Teaching wisdom about how life works",
+      "next": "q-wisdom"
+     }
+    ]
+   },
+   {
+    "id": "q-story",
+    "q": "Whose story is it?",
+    "options": [
+     {
+      "label": "Israel's history or the early church (Genesis to Esther, Acts)",
+      "next": "r-narrative"
+     },
+     {
+      "label": "The life, teaching, death and resurrection of Jesus",
+      "next": "r-gospel"
+     },
+     {
+      "label": "A short story Jesus tells to make a point",
+      "next": "r-parable"
+     }
+    ]
+   },
+   {
+    "id": "q-poetry",
+    "q": "Who is the poem addressed to?",
+    "options": [
+     {
+      "label": "To God, or to worshippers about God (praise, lament, thanks)",
+      "next": "r-psalm"
+     },
+     {
+      "label": "To a beloved, or reflecting on life and suffering",
+      "next": "q-wisdom"
+     },
+     {
+      "label": "To Israel or the nations, from a prophet",
+      "next": "r-prophecy"
+     }
+    ]
+   },
+   {
+    "id": "q-command",
+    "q": "Where do the commands appear?",
+    "options": [
+     {
+      "label": "In the Law given to Israel (Exodus to Deuteronomy)",
+      "next": "r-law"
+     },
+     {
+      "label": "In a letter to a church or a church leader",
+      "next": "r-epistle"
+     },
+     {
+      "label": "In a short saying in Proverbs",
+      "next": "r-proverb"
+     },
+     {
+      "label": "In Jesus' teaching in a Gospel",
+      "next": "r-gospel"
+     }
+    ]
+   },
+   {
+    "id": "q-vision",
+    "q": "What does the message look like?",
+    "options": [
+     {
+      "label": "A prophet calls Israel back to the covenant, with warnings and hopes",
+      "next": "r-prophecy"
+     },
+     {
+      "label": "Strange symbols: beasts, numbers, heavenly scenes, cosmic battle",
+      "next": "r-apocalyptic"
+     }
+    ]
+   },
+   {
+    "id": "q-wisdom",
+    "q": "How is the wisdom given?",
+    "options": [
+     {
+      "label": "Short, punchy two-line sayings",
+      "next": "r-proverb"
+     },
+     {
+      "label": "Long speeches, debates or reflections (Job, Ecclesiastes, Song of Songs)",
+      "next": "r-wisdom"
+     }
+    ]
+   }
+  ],
+  "results": [
+   {
+    "id": "r-narrative",
+    "title": "Narrative (story)",
+    "text": "Read the whole story, not just a scene. Narratives usually show rather than tell: the narrator often reports what people did without approving it. Ask what the story reveals about God and his covenant purposes before asking which character to copy. Watch for repeated words and the narrator's rare comments (such as 'everyone did what was right in his own eyes').",
+    "refs": [
+     "Judg 21:25",
+     "2 Sam 11:27",
+     "Gen 50:20",
+     "Rom 15:4"
+    ]
+   },
+   {
+    "id": "r-law",
+    "title": "Law (Torah)",
+    "text": "Torah means 'instruction' and was given to a people God had already rescued, as part of a covenant relationship. Read it as a gift that shaped a holy nation. Ask what each law reveals about God's character and justice. Christians differ on how the laws apply now (moral, civil, ceremonial categories; or the whole Law fulfilled in Christ), but all agree Jesus summed it up in love of God and neighbour.",
+    "refs": [
+     "Exod 20:1-2",
+     "Lev 19:18",
+     "Matt 5:17-20",
+     "Matt 22:37-40",
+     "Gal 3:24"
+    ]
+   },
+   {
+    "id": "r-psalm",
+    "title": "Psalm (prayer and song)",
+    "text": "Psalms are poetry, written to be sung and prayed. Expect parallel lines that repeat or contrast an idea, and strong images. Laments give honest words to pain and anger; they model prayer, not doctrine about God's failure. Ask what kind of psalm it is (praise, lament, thanksgiving, royal, wisdom) and pray it yourself.",
+    "refs": [
+     "Ps 13:1-6",
+     "Ps 19:1-2",
+     "Ps 22:1",
+     "Ps 137:8-9"
+    ]
+   },
+   {
+    "id": "r-wisdom",
+    "title": "Wisdom literature (Job, Ecclesiastes, Song)",
+    "text": "Read the whole argument. In Job, the friends say many true-sounding things that God finally rejects, so a single verse may be a wrong view. Ecclesiastes tests life 'under the sun' and lands on fearing God. The Song celebrates love; it has also been read as a picture of God and his people. Ask what the book as a whole concludes.",
+    "refs": [
+     "Job 42:7",
+     "Eccl 1:2",
+     "Eccl 12:13",
+     "Song 8:6-7"
+    ]
+   },
+   {
+    "id": "r-proverb",
+    "title": "Proverb",
+    "text": "Proverbs are short sayings about how life generally works, not promises or guarantees. Some deliberately pull against each other so that the reader learns to judge the situation. Read a proverb alongside others on the same topic, and ask what kind of person it trains you to be.",
+    "refs": [
+     "Prov 22:6",
+     "Prov 26:4-5",
+     "Prov 1:7",
+     "Prov 16:3"
+    ]
+   },
+   {
+    "id": "r-prophecy",
+    "title": "Prophecy",
+    "text": "Most prophecy is covenant preaching: calling Israel back to faithfulness, warning of judgement, and promising restoration. Only a small part predicts far-future events. Many warnings are conditional. Ask what was happening then, which covenant blessings or curses are in view, and how the New Testament reads the promise.",
+    "refs": [
+     "Jer 7:1-11",
+     "Jer 18:7-10",
+     "Amos 5:21-24",
+     "Acts 2:16-21"
+    ]
+   },
+   {
+    "id": "r-apocalyptic",
+    "title": "Apocalyptic vision",
+    "text": "Apocalyptic writing ('revealing') uses vivid symbols, numbers and heavenly scenes to show who really rules history, especially to suffering believers. Do not read it like a newspaper; ask what each symbol meant in the Old Testament and in its first setting. Christians read Revelation in several ways (preterist, historicist, futurist, idealist), but all agree its message is that the Lamb wins.",
+    "refs": [
+     "Dan 7:1-14",
+     "Rev 1:1",
+     "Rev 1:20",
+     "Rev 5:5-6"
+    ]
+   },
+   {
+    "id": "r-gospel",
+    "title": "Gospel",
+    "text": "The Gospels are ancient biographies with a purpose: to show who Jesus is so that readers trust him. Read each Gospel on its own terms (what Mark stresses is not what John stresses), notice the Old Testament echoes, and read Jesus' teaching in its Jewish setting. Compare parallel accounts to see each writer's emphasis.",
+    "refs": [
+     "Mark 1:1",
+     "Luke 1:1-4",
+     "John 20:30-31",
+     "Matt 5:17"
+    ]
+   },
+   {
+    "id": "r-parable",
+    "title": "Parable",
+    "text": "Parables are short stories that surprise and challenge. Find the main point or points, usually tied to the audience Jesus was answering; do not turn every detail into a symbol. Ask who the first hearers would identify with, and where the twist comes.",
+    "refs": [
+     "Luke 15:1-3",
+     "Luke 10:25-37",
+     "Matt 13:18-23",
+     "Luke 18:9-14"
+    ]
+   },
+   {
+    "id": "r-epistle",
+    "title": "Epistle (letter)",
+    "text": "Letters answer real situations, so reconstruct the questions behind them (Paul often says 'now concerning'). Follow the argument from start to finish, and notice how theology leads into practice. Ask which instructions express timeless principles and which apply them to local customs, and do this consistently.",
+    "refs": [
+     "1 Cor 7:1",
+     "1 Cor 16:1",
+     "Rom 12:1-2",
+     "Eph 4:1"
+    ]
+   }
+  ]
+ },
+ "timeline": {
+  "title": "How God's people have read Scripture: a history of interpretation",
+  "events": [
+   {
+    "year": -445,
+    "label": "Ezra reads the Law and the Levites explain it",
+    "text": "After the return from exile, Ezra reads the Torah aloud to the people in Jerusalem while Levites 'give the sense' so that the people understand (Neh 8:8). Many see here the roots of public reading with explanation, and of translation into Aramaic. Date approximate (around 445 BC, in Nehemiah's time).",
+    "group": "ancient-jewish"
+   },
+   {
+    "year": -100,
+    "label": "Qumran pesher commentaries",
+    "text": "The Dead Sea Scrolls community writes 'pesher' commentaries (such as the Habakkuk Pesher) that read the prophets as speaking directly about their own community and the last days. The copies date from roughly the first century BC.",
+    "group": "ancient-jewish"
+   },
+   {
+    "year": -20,
+    "label": "Hillel and the seven rules",
+    "text": "Rabbinic tradition credits Hillel the Elder (active around the turn of the eras) with seven rules (middot) for interpreting Torah, including 'light and heavy' (an argument from lesser to greater) and linking passages by shared words. The lists appear in later sources (Tosefta Sanhedrin 7.11, the Sifra introduction, Avot de Rabbi Natan 37); how far they go back to Hillel himself is debated.",
+    "group": "ancient-jewish"
+   },
+   {
+    "year": 30,
+    "label": "Philo of Alexandria's allegories",
+    "text": "Philo (about 20 BC to AD 50), a Jewish philosopher in Alexandria, reads the books of Moses allegorically, finding in them truths about the soul and virtue that fit Greek philosophy, while still keeping the commandments. His method strongly influenced later Christian readers in Alexandria.",
+    "group": "ancient-jewish"
+   },
+   {
+    "year": 30,
+    "label": "Jesus opens the Scriptures (Luke 24)",
+    "text": "After his resurrection, Jesus explains to two disciples on the road to Emmaus, and then to the eleven, how Moses, the Prophets and the Psalms speak of him, and opens their minds to understand (Luke 24:27, 44-45). Jesus also argues with Jewish methods such as lesser-to-greater reasoning. The year is approximate (AD 30 or 33).",
+    "group": "early-church"
+   },
+   {
+    "year": 50,
+    "label": "Paul's typology and allegory",
+    "text": "Paul reads Israel's wilderness story as 'examples' (typoi) for the church (1 Cor 10:6, 11), Adam as a 'type' of Christ (Rom 5:14), and Hagar and Sarah 'allegorically' (Gal 4:24). His use of the Old Testament shows Jewish methods transformed by faith in the risen Messiah. Galatians is dated between about AD 48 and 55.",
+    "group": "early-church"
+   },
+   {
+    "year": 225,
+    "label": "Origen's three senses",
+    "text": "Origen of Alexandria, in *On First Principles* Book 4 (around 220 to 230), teaches that Scripture has a body, soul and spirit: literal, moral and spiritual senses. He was also a careful textual scholar (the Hexapla). His allegorical readings were influential and controversial.",
+    "group": "early-church"
+   },
+   {
+    "year": 390,
+    "label": "The school of Antioch",
+    "text": "Teachers linked with Antioch, especially Diodore of Tarsus, Theodore of Mopsuestia (about 350 to 428) and John Chrysostom (about 347 to 407), stress the historical sense and the author's flow of thought, while allowing 'theoria', a spiritual insight grounded in history. Older textbooks set Antioch against Alexandria sharply; recent scholars (such as Frances Young) show both schools shared more than once thought.",
+    "group": "early-church"
+   },
+   {
+    "year": 397,
+    "label": "Augustine's *On Christian Doctrine*",
+    "text": "Augustine begins *On Christian Doctrine* in 397 and finishes it in 426 or 427. He teaches readers to know the languages, history and figures of speech, to read unclear passages by clearer ones and the rule of faith, and that any reading which does not build love of God and neighbour has not yet understood Scripture.",
+    "group": "early-church"
+   },
+   {
+    "year": 1080,
+    "label": "Rashi and the plain sense",
+    "text": "Rashi of Troyes (1040 to 1105) writes commentaries on the Torah and Talmud that remain central in Jewish study. He weighs 'peshat' (the plain, contextual sense) alongside rabbinic midrash. His work influenced Christian scholars too, including Nicholas of Lyra, whom Luther read.",
+    "group": "medieval"
+   },
+   {
+    "year": 1260,
+    "label": "The four senses (Quadriga)",
+    "text": "Medieval Christian teachers summarise the four senses in a famous Latin rhyme (attributed to Augustine of Dacia, about 1260): the letter teaches what happened, allegory what to believe, the moral sense what to do, the anagogical sense what to hope for. The four senses go back to John Cassian (*Conferences* 14.8, about 420s).",
+    "group": "medieval"
+   },
+   {
+    "year": 1268,
+    "label": "Aquinas grounds the senses in the literal",
+    "text": "Thomas Aquinas, in the *Summa Theologiae* (part I, question 1, article 10), teaches that God, the author of Scripture, can signify through events as well as words, but that all spiritual senses rest on the literal sense, and only the literal sense can be used to prove doctrine.",
+    "group": "medieval"
+   },
+   {
+    "year": 1516,
+    "label": "Erasmus' Greek New Testament",
+    "text": "Erasmus publishes the first printed Greek New Testament to be put on sale, with a fresh Latin translation and notes. The Renaissance call 'back to the sources' sends interpreters to the original languages, preparing the way for the Reformation.",
+    "group": "reformation"
+   },
+   {
+    "year": 1522,
+    "label": "Luther and Calvin: the plain sense",
+    "text": "Martin Luther publishes his German New Testament (1522) and insists on the plain, grammatical sense, 'Scripture interprets itself', and Christ as the centre of Scripture. John Calvin (*Institutes*, 1536; Romans commentary, 1540) prizes brief, clear exposition of the author's meaning and the inner witness of the Spirit.",
+    "group": "reformation"
+   },
+   {
+    "year": 1670,
+    "label": "Spinoza and the rise of historical criticism",
+    "text": "Baruch Spinoza's *Theological-Political Treatise* (1670) argues that the Bible must be studied like nature, from its own history and language alone, without assuming it is divine. Questions about who wrote what and when become central in the European Enlightenment.",
+    "group": "modern-critical"
+   },
+   {
+    "year": 1838,
+    "label": "Schleiermacher and general hermeneutics",
+    "text": "Friedrich Schleiermacher's lectures on hermeneutics (given between 1805 and 1833, published after his death in 1838) treat understanding any text as an art: grasping both its language and the mind of its author. Hermeneutics becomes a general theory of understanding, not only rules for the Bible.",
+    "group": "modern-critical"
+   },
+   {
+    "year": 1878,
+    "label": "Wellhausen's documentary hypothesis",
+    "text": "Julius Wellhausen's history of Israel (1878, later titled *Prolegomena to the History of Israel*) popularises the theory that the Pentateuch was combined from four sources (J, E, D, P). It dominated critical scholarship for a century and is now heavily revised or contested.",
+    "group": "modern-critical"
+   },
+   {
+    "year": 1919,
+    "label": "Barth's *Romans*",
+    "text": "Karl Barth's commentary on Romans (1919, rewritten 1922) protests that historical study had stopped hearing Scripture as God's living word. He calls for interpretation that lets the text speak as divine address, a key spark for later theological interpretation.",
+    "group": "contemporary"
+   },
+   {
+    "year": 1978,
+    "label": "The Chicago Statement",
+    "text": "Evangelical scholars meeting in Chicago issue the *Chicago Statement on Biblical Inerrancy* (1978), followed by the *Chicago Statement on Biblical Hermeneutics* (1982). The second affirms the grammatical-historical method, attention to genre, and the single meaning of a text with many applications.",
+    "group": "contemporary"
+   },
+   {
+    "year": 1979,
+    "label": "Childs' canonical approach",
+    "text": "Brevard Childs' *Introduction to the Old Testament as Scripture* (1979) argues that the final shape of the biblical books, as received by synagogue and church, is the proper focus of interpretation for the community of faith.",
+    "group": "contemporary"
+   },
+   {
+    "year": 1981,
+    "label": "Narrative criticism",
+    "text": "Robert Alter's *The Art of Biblical Narrative* (1981) shows the subtle skill of Hebrew storytelling: repetition, dialogue, type-scenes and silence. Narrative criticism of the Gospels grows alongside it in the 1980s.",
+    "group": "contemporary"
+   },
+   {
+    "year": 2005,
+    "label": "Theological interpretation of Scripture",
+    "text": "The *Dictionary for Theological Interpretation of the Bible* (edited by Kevin Vanhoozer, 2005) and the *Journal of Theological Interpretation* (from 2007) mark a movement to read the Bible as Scripture for the church, drawing on creeds and pre-modern interpreters as well as modern study.",
+    "group": "contemporary"
+   },
+   {
+    "year": 2006,
+    "label": "Majority-World readings",
+    "text": "The *Africa Bible Commentary* (2006), written by African scholars, and later the *South Asia Bible Commentary* (2015), show how readers in collectivist, honour-based and multi-faith cultures often see things Western readers miss. Writers such as Randolph Richards and Brandon O'Brien make the same point for Western readers.",
+    "group": "contemporary"
+   },
+   {
+    "year": 2011,
+    "label": "Jewish-context readings of the New Testament",
+    "text": "*The Jewish Annotated New Testament* (edited by Amy-Jill Levine and Marc Zvi Brettler, 2011) gathers Jewish scholars to explain the New Testament's Jewish setting. Christian writers such as Marvin Wilson, Lois Tverberg and Kenneth Bailey help believers read Jesus as a Jewish teacher within Israel's covenant life.",
+    "group": "contemporary"
+   }
+  ]
+ },
+ "gallery": {
+  "title": "Genres and tools of interpretation",
+  "intro": "Each card explains a kind of biblical writing or a key term in interpretation. Filter by colour to see where each idea comes from: the genres of the Old Testament (and Jewish reading terms) are marked as ancient Jewish; the New Testament genres and early Christian terms as apostles and early church; later terms by the era that named them.",
+  "items": [
+   {
+    "id": "g-narrative",
+    "title": "Narrative",
+    "group": "ancient-jewish",
+    "summary": "Stories that show God at work in history.",
+    "detail": "About 40 percent of the Old Testament is narrative. Biblical stories are told briefly and artfully; the narrator often reports without commenting, so we must not assume that what a person did is what God approved. The main character of every biblical story is God.",
+    "refs": [
+     "Gen 22:1-19",
+     "Judg 21:25",
+     "2 Sam 11:27"
+    ],
+    "people": [
+     "Robert Alter",
+     "Gordon Fee",
+     "Douglas Stuart"
+    ]
+   },
+   {
+    "id": "g-law",
+    "title": "Law (Torah)",
+    "group": "ancient-jewish",
+    "summary": "Covenant instruction for a rescued people.",
+    "detail": "Torah means teaching or instruction. The laws were given after the exodus, as the terms of a relationship, not a ladder to earn it. They include worship, justice, family and daily life. Christians debate how each law applies after Christ.",
+    "refs": [
+     "Exod 20:1-17",
+     "Lev 19:18",
+     "Deut 6:4-9"
+    ],
+    "people": [
+     "Christopher J. H. Wright",
+     "Marvin Wilson"
+    ]
+   },
+   {
+    "id": "g-psalm",
+    "title": "Psalms and Hebrew poetry",
+    "group": "ancient-jewish",
+    "summary": "Prayers and songs built on parallel lines and images.",
+    "detail": "Hebrew poetry rhymes ideas more than sounds. Psalms include praise, lament, thanksgiving, royal and wisdom psalms. They teach us how to speak to God in every season, including anger and grief.",
+    "refs": [
+     "Ps 13:1-6",
+     "Ps 23:1-6",
+     "Ps 88:1-18"
+    ],
+    "people": [
+     "Robert Lowth",
+     "Walter Brueggemann"
+    ]
+   },
+   {
+    "id": "g-wisdom",
+    "title": "Wisdom literature",
+    "group": "ancient-jewish",
+    "summary": "Reflection on how to live well in God's world.",
+    "detail": "Job, Proverbs, Ecclesiastes and the Song of Songs explore life's order and its puzzles. Job and Ecclesiastes must be read as whole arguments, because some speeches are later corrected.",
+    "refs": [
+     "Prov 1:7",
+     "Job 42:7",
+     "Eccl 12:13"
+    ],
+    "people": [
+     "Tremper Longman III"
+    ]
+   },
+   {
+    "id": "g-proverb",
+    "title": "Proverb",
+    "group": "ancient-jewish",
+    "summary": "Short sayings about what usually happens, not promises.",
+    "detail": "A proverb is a general truth stated memorably. 'Train up a child' describes how life usually goes, not a guarantee for every family. Paired proverbs that seem to clash (answer a fool, do not answer a fool) teach wise judgement.",
+    "refs": [
+     "Prov 22:6",
+     "Prov 26:4-5",
+     "Prov 10:4"
+    ],
+    "people": [
+     "Gordon Fee",
+     "Douglas Stuart"
+    ]
+   },
+   {
+    "id": "g-prophecy",
+    "title": "Prophecy",
+    "group": "ancient-jewish",
+    "summary": "Covenant preaching: warning, call to return, and hope.",
+    "detail": "Prophets were God's messengers enforcing the covenant. Most of their words address their own time. Fee and Stuart estimate that less than 2 percent of Old Testament prophecy is messianic, less than 5 percent describes the new-covenant age, and less than 1 percent concerns events still future to us. Many warnings are conditional on repentance.",
+    "refs": [
+     "Jer 18:7-10",
+     "Amos 5:21-24",
+     "Jonah 3:4-10"
+    ],
+    "people": [
+     "Abraham Joshua Heschel",
+     "Douglas Stuart"
+    ]
+   },
+   {
+    "id": "g-apocalyptic",
+    "title": "Apocalyptic",
+    "group": "ancient-jewish",
+    "summary": "Symbolic visions revealing who rules history.",
+    "detail": "Apocalyptic writing grew in Jewish circles (Daniel, 1 Enoch) and is continued in Revelation. Its beasts, numbers and colours are a picture language drawn from the Old Testament. It comforts persecuted believers that God and the Lamb will win.",
+    "refs": [
+     "Dan 7:1-14",
+     "Rev 1:20",
+     "Rev 5:5-6"
+    ],
+    "people": [
+     "Richard Bauckham",
+     "John J. Collins",
+     "G. K. Beale"
+    ]
+   },
+   {
+    "id": "g-gospel",
+    "title": "Gospel",
+    "group": "early-church",
+    "summary": "Ancient biographies of Jesus with a message.",
+    "detail": "The four Gospels resemble Greco-Roman lives (bioi) but proclaim good news. Each writer selects and arranges material for his audience, so reading 'horizontally' (comparing parallels) and 'vertically' (following one Gospel's story) both help.",
+    "refs": [
+     "Mark 1:1",
+     "Luke 1:1-4",
+     "John 20:30-31"
+    ],
+    "people": [
+     "Richard Burridge",
+     "Richard Bauckham"
+    ]
+   },
+   {
+    "id": "g-parable",
+    "title": "Parable",
+    "group": "early-church",
+    "summary": "Short, surprising stories that call for a response.",
+    "detail": "Parables were a familiar Jewish teaching form (the rabbis told them too). They usually make one or a few main points tied to their audience. Jesus sometimes explained details symbolically, but readers should be cautious about turning every detail into a code.",
+    "refs": [
+     "Luke 15:1-32",
+     "Luke 10:25-37",
+     "Matt 13:18-23"
+    ],
+    "people": [
+     "Kenneth Bailey",
+     "Craig Blomberg",
+     "Amy-Jill Levine"
+    ]
+   },
+   {
+    "id": "g-epistle",
+    "title": "Epistle (letter)",
+    "group": "early-church",
+    "summary": "Pastoral letters answering real situations.",
+    "detail": "New Testament letters follow ancient letter forms (greeting, thanksgiving, body, closing). They were read aloud to gathered churches. We hear one side of a conversation, so we reconstruct the situation carefully and humbly.",
+    "refs": [
+     "1 Cor 7:1",
+     "Col 4:16",
+     "Phlm 1:1-3"
+    ],
+    "people": [
+     "E. Randolph Richards",
+     "Gordon Fee"
+    ]
+   },
+   {
+    "id": "t-exegesis",
+    "title": "Exegesis vs eisegesis",
+    "group": "reformation",
+    "summary": "Reading meaning out of the text, not into it.",
+    "detail": "Exegesis (Greek: 'leading out') draws out what the text says. Eisegesis ('leading in') reads our own ideas into it. All readers drift toward eisegesis; method, community and the Spirit help us correct it.",
+    "refs": [
+     "2 Tim 2:15",
+     "2 Pet 3:16",
+     "Neh 8:8"
+    ],
+    "people": [
+     "D. A. Carson",
+     "Gordon Fee"
+    ]
+   },
+   {
+    "id": "t-context",
+    "title": "Context",
+    "group": "reformation",
+    "summary": "The words, book, history and culture around a passage.",
+    "detail": "Literary context is the surrounding text; historical-cultural context is the world behind it; canonical context is the whole Bible. A verse without context becomes a pretext for whatever we want it to say.",
+    "refs": [
+     "Acts 17:11",
+     "Luke 4:9-12"
+    ],
+    "people": [
+     "William Klein",
+     "Craig Blomberg",
+     "Robert Hubbard"
+    ]
+   },
+   {
+    "id": "t-authorial-intent",
+    "title": "Authorial intent",
+    "group": "contemporary",
+    "summary": "What the author meant to communicate.",
+    "detail": "E. D. Hirsch argued that the author's intended meaning is the only stable norm for interpretation. Kevin Vanhoozer reframed it as the author's 'communicative act'. Critics note that we know authors only through their texts and that God may mean more than the human writer saw.",
+    "refs": [
+     "Luke 1:1-4",
+     "John 20:31",
+     "1 Pet 1:10-12"
+    ],
+    "people": [
+     "E. D. Hirsch",
+     "Kevin Vanhoozer",
+     "Walter Kaiser"
+    ]
+   },
+   {
+    "id": "t-sensus-plenior",
+    "title": "Sensus plenior",
+    "group": "contemporary",
+    "summary": "A 'fuller sense' intended by God beyond the human author's awareness.",
+    "detail": "The Latin phrase means 'fuller sense'. Catholic scholars in the twentieth century (notably Raymond Brown) developed it to explain how texts like Isaiah 7:14 can mean more in Christ. Some evangelicals accept it in a limited form; others prefer to speak of typology or canonical meaning.",
+    "refs": [
+     "Isa 7:14",
+     "Matt 1:22-23",
+     "John 11:49-52"
+    ],
+    "people": [
+     "Raymond Brown",
+     "Douglas Moo"
+    ]
+   },
+   {
+    "id": "t-typology",
+    "title": "Typology",
+    "group": "early-church",
+    "summary": "Real history as patterns that God fulfils later.",
+    "detail": "A type (Greek typos, 'pattern' or 'imprint') is a real person, event or institution that foreshadows a later, greater fulfilment. The New Testament sees types in Adam, the flood, the Passover lamb, the wilderness and the temple.",
+    "refs": [
+     "Rom 5:14",
+     "1 Cor 10:6",
+     "1 Pet 3:20-21",
+     "John 3:14-15"
+    ],
+    "people": [
+     "Leonhard Goppelt",
+     "Richard Hays",
+     "G. K. Beale"
+    ]
+   },
+   {
+    "id": "t-allegory",
+    "title": "Allegory",
+    "group": "early-church",
+    "summary": "Finding a second, symbolic meaning in a text's details.",
+    "detail": "Some texts are allegories by design (Ezekiel's eagles, some parables). Allegorical interpretation goes further, reading spiritual meanings into ordinary stories. Paul does it once (Gal 4:24). Used carefully under the rule of faith it fed devotion; used freely it lets readers make texts say anything.",
+    "refs": [
+     "Gal 4:21-31",
+     "Ezek 17:1-10",
+     "Matt 13:18-23"
+    ],
+    "people": [
+     "Philo",
+     "Origen",
+     "Henri de Lubac"
+    ]
+   },
+   {
+    "id": "t-chiasm",
+    "title": "Chiasm",
+    "group": "modern-critical",
+    "summary": "A mirror pattern: A-B-B'-A', often with the key point at the centre.",
+    "detail": "Named after the Greek letter chi (X), a chiasm repeats ideas in reverse order. It helped hearers remember and highlighted the centre. Small examples are clear; large ones proposed for whole books are sometimes over-ingenious.",
+    "refs": [
+     "Gen 9:6",
+     "Matt 23:12",
+     "Mark 2:27"
+    ],
+    "people": [
+     "Nils Lund",
+     "Kenneth Bailey"
+    ]
+   },
+   {
+    "id": "t-inclusio",
+    "title": "Inclusio",
+    "group": "modern-critical",
+    "summary": "Bookends: the same words at the start and end of a section.",
+    "detail": "An inclusio marks the boundaries of a unit and its theme. Psalm 8 begins and ends with the same praise. Matthew frames Jesus' teaching and healing in chapters 5 to 9 with almost identical summaries.",
+    "refs": [
+     "Ps 8:1",
+     "Ps 8:9",
+     "Matt 4:23",
+     "Matt 9:35"
+    ],
+    "people": [
+     "Robert Alter"
+    ]
+   },
+   {
+    "id": "t-parallelism",
+    "title": "Parallelism",
+    "group": "modern-critical",
+    "summary": "Lines that echo, contrast or build on each other.",
+    "detail": "Robert Lowth (1753) described Hebrew parallelism as synonymous, antithetic and synthetic. Recent scholars (James Kugel, Robert Alter) show the second line usually sharpens or intensifies the first: 'A, and what's more, B'.",
+    "refs": [
+     "Ps 19:1",
+     "Prov 15:1",
+     "Isa 1:3"
+    ],
+    "people": [
+     "Robert Lowth",
+     "James Kugel",
+     "Robert Alter"
+    ]
+   },
+   {
+    "id": "t-hyperbole",
+    "title": "Hyperbole",
+    "group": "ancient-jewish",
+    "summary": "Deliberate exaggeration to make a point.",
+    "detail": "Jesus uses Jewish teaching hyperbole: tear out your eye, a camel through a needle's eye, swallowing a camel. Reading it as literal instruction misses its force; ignoring it misses its seriousness.",
+    "refs": [
+     "Matt 5:29-30",
+     "Matt 19:24",
+     "Matt 23:24"
+    ],
+    "people": [
+     "Robert Stein",
+     "Lois Tverberg"
+    ]
+   },
+   {
+    "id": "t-idiom",
+    "title": "Idiom",
+    "group": "ancient-jewish",
+    "summary": "Expressions whose meaning is not the sum of their words.",
+    "detail": "'Hate your father' in Luke 14:26 is a Semitic idiom for 'love less' (compare Gen 29:30-31, where Jacob loved Rachel more than Leah and Leah is called 'hated'). A 'good eye' or 'evil eye' referred to generosity or stinginess.",
+    "refs": [
+     "Luke 14:26",
+     "Gen 29:30-31",
+     "Matt 6:22-23",
+     "Prov 28:22"
+    ],
+    "people": [
+     "Lois Tverberg",
+     "David Bivin"
+    ]
+   },
+   {
+    "id": "t-covenant",
+    "title": "Covenant",
+    "group": "ancient-jewish",
+    "summary": "A binding, loyal relationship sealed by promise.",
+    "detail": "Covenant (Hebrew berit) is the Bible's main way of describing God's relationship with people. The covenants with Noah, Abraham, Israel, David and the new covenant form the backbone of the story. Ancient treaties help explain their shape.",
+    "refs": [
+     "Gen 15:18",
+     "Exod 19:5-6",
+     "Jer 31:31-34",
+     "Luke 22:20"
+    ],
+    "people": [
+     "Meredith Kline",
+     "Scott Hahn",
+     "Peter Gentry"
+    ]
+   },
+   {
+    "id": "t-already-not-yet",
+    "title": "Already / not yet",
+    "group": "contemporary",
+    "summary": "God's kingdom has begun in Jesus but is not yet complete.",
+    "detail": "Jesus announced the kingdom as present, yet taught his followers to pray for it to come. This tension shapes how we read promises: some are fulfilled now in part and will be fulfilled fully later. Geerhardus Vos, Oscar Cullmann and George Eldon Ladd developed the idea.",
+    "refs": [
+     "Mark 1:15",
+     "Luke 17:21",
+     "Rom 8:23",
+     "1 John 3:2"
+    ],
+    "people": [
+     "George Eldon Ladd",
+     "Oscar Cullmann",
+     "Geerhardus Vos"
+    ]
+   },
+   {
+    "id": "t-progressive-revelation",
+    "title": "Progressive revelation",
+    "group": "modern-critical",
+    "summary": "God revealed himself step by step through history.",
+    "detail": "God spoke 'in many ways' before speaking fully in his Son. Later revelation does not contradict earlier revelation but completes it. This explains why some practices (sacrifices, food laws) change after Christ.",
+    "refs": [
+     "Heb 1:1-2",
+     "Gal 4:4-5",
+     "Mark 7:19"
+    ],
+    "people": [
+     "Geerhardus Vos",
+     "Graeme Goldsworthy"
+    ]
+   },
+   {
+    "id": "t-rule-of-faith",
+    "title": "Rule of faith / analogy of faith",
+    "group": "early-church",
+    "summary": "Read each passage in harmony with the whole faith.",
+    "detail": "The early 'rule of faith' (Irenaeus, Tertullian) summarised the apostolic gospel as a guide for reading. The Reformers' 'analogy of faith' means Scripture interprets Scripture: unclear passages are read in light of clear ones.",
+    "refs": [
+     "Rom 12:6",
+     "1 Cor 15:3-5",
+     "Jude 1:3"
+    ],
+    "people": [
+     "Irenaeus",
+     "Tertullian",
+     "Augustine",
+     "Martin Luther"
+    ]
+   },
+   {
+    "id": "t-illumination",
+    "title": "Illumination of the Spirit",
+    "group": "reformation",
+    "summary": "The Spirit helps believers understand and receive Scripture.",
+    "detail": "Inspiration is the Spirit's work in giving Scripture; illumination is his work in readers. Calvin spoke of the inner witness of the Spirit that convinces us Scripture is God's word. Illumination does not reveal new meanings but helps us grasp and embrace the meaning.",
+    "refs": [
+     "1 Cor 2:12-14",
+     "Eph 1:17-18",
+     "Luke 24:45",
+     "Ps 119:18"
+    ],
+    "people": [
+     "John Calvin",
+     "Craig Keener",
+     "Kenneth Archer"
+    ]
+   },
+   {
+    "id": "t-midrash",
+    "title": "Midrash",
+    "group": "ancient-jewish",
+    "summary": "Jewish 'searching' of Scripture to draw out teaching.",
+    "detail": "Midrash (from darash, 'to seek') links texts, explores gaps and applies Scripture to life, through law (halakhah) and story (aggadah). The Hebrew word appears in Chronicles for written records or commentaries. New Testament writers sometimes argue in midrashic ways.",
+    "refs": [
+     "2 Chr 24:27",
+     "Matt 22:31-32",
+     "Heb 7:1-3"
+    ],
+    "people": [
+     "James Kugel",
+     "Jacob Neusner",
+     "Richard Longenecker"
+    ]
+   },
+   {
+    "id": "t-pesher",
+    "title": "Pesher",
+    "group": "ancient-jewish",
+    "summary": "'This is that': prophecy applied to the present community.",
+    "detail": "Pesher means 'interpretation'. The Qumran scrolls read prophetic verses line by line as being fulfilled in their own day. Peter's 'this is what was spoken by the prophet Joel' at Pentecost has a similar shape, centred on Jesus.",
+    "refs": [
+     "Hab 2:2-3",
+     "Acts 2:16-21",
+     "Dan 5:26"
+    ],
+    "people": [
+     "Geza Vermes",
+     "Richard Longenecker"
+    ]
+   }
+  ]
+ },
+ "compare": {
+  "title": "The major approaches compared",
+  "columns": [
+   "Where meaning lives",
+   "Key question",
+   "Strength",
+   "Risk",
+   "Who uses it"
+  ],
+  "rows": [
+   {
+    "label": "Grammatical-historical",
+    "cells": [
+     "In the human author's intended meaning, expressed in words, genre and setting",
+     "What did the author mean to the first readers?",
+     "Guards against reading our ideas into the text; gives shared, checkable results",
+     "Can stop at 'then' and never reach Christ, the church or today; can underplay the divine author",
+     "Most evangelical scholars and seminaries; the Chicago Statement on Hermeneutics"
+    ]
+   },
+   {
+    "label": "Allegorical",
+    "cells": [
+     "In spiritual realities behind the literal details",
+     "What deeper truth about Christ, the soul or heaven does this picture?",
+     "Reads all Scripture as nourishing faith and love; takes the divine author seriously",
+     "Meaning becomes arbitrary and controlled by the reader's ideas",
+     "Philo, Origen, many church fathers and medieval preachers; parts of Orthodox and Catholic devotion"
+    ]
+   },
+   {
+    "label": "Typological",
+    "cells": [
+     "In patterns God built into real history, fulfilled later",
+     "How does this person or event foreshadow what God does in Christ?",
+     "Follows the New Testament's own practice; keeps history real",
+     "Seeing types everywhere without textual warrant",
+     "The apostles, the church fathers, Reformed and Catholic interpreters alike"
+    ]
+   },
+   {
+    "label": "Four senses (Quadriga)",
+    "cells": [
+     "In the literal sense plus allegorical, moral and anagogical senses",
+     "What happened, what should I believe, do and hope?",
+     "Holds study and devotion together; every text speaks to faith, life and hope",
+     "Spiritual senses can drift far from the letter",
+     "Medieval Western church; renewed interest among Catholic and theological interpreters"
+    ]
+   },
+   {
+    "label": "Redemptive-historical",
+    "cells": [
+     "In the text's place in the unfolding history of salvation",
+     "What stage of God's plan is this, and how does it lead to Christ?",
+     "Shows the Bible's unity and avoids moralising stories",
+     "Can flatten each passage into 'the same sermon'; may neglect ethics",
+     "Reformed biblical theology: Vos, Clowney, Goldsworthy, Greidanus"
+    ]
+   },
+   {
+    "label": "Historical-critical",
+    "cells": [
+     "In the text's original historical setting and the history of its composition",
+     "How did this text arise, and what did it mean in its time?",
+     "Rich knowledge of languages, history and how texts developed",
+     "Naturalistic assumptions can exclude God's action; results can be speculative",
+     "University biblical studies worldwide; used critically by many believing scholars"
+    ]
+   },
+   {
+    "label": "Canonical",
+    "cells": [
+     "In the final form of the text within the whole canon of the community",
+     "How does this book function as Scripture alongside the others?",
+     "Respects the Bible as received by synagogue and church; reunites study and faith",
+     "Can bypass historical questions; which canon (Jewish, Protestant, Catholic, Orthodox)?",
+     "Brevard Childs, Christopher Seitz, many theological interpreters"
+    ]
+   },
+   {
+    "label": "Narrative / literary",
+    "cells": [
+     "In the story world: plot, character, point of view",
+     "How does this story work and what does it invite us to see?",
+     "Takes biblical artistry seriously; resists moralising fragments",
+     "Can treat history as merely story; may lose the 'did it happen' question",
+     "Robert Alter, Meir Sternberg, R. Alan Culpepper, many preachers"
+    ]
+   },
+   {
+    "label": "Reader-response",
+    "cells": [
+     "In the encounter between the text and its readers or reading communities",
+     "What does this text do to readers, and how do communities read it?",
+     "Exposes hidden assumptions; values voices often unheard",
+     "In strong forms the text can no longer correct the reader",
+     "Stanley Fish, Wolfgang Iser; adapted by liberation, feminist and some Majority-World readers"
+    ]
+   },
+   {
+    "label": "Theological interpretation",
+    "cells": [
+     "In God's communicative action through the text to the church",
+     "What is God saying to his people through this text, read with the creeds?",
+     "Restores Scripture as Scripture; learns from pre-modern readers",
+     "Doctrine may override what the text actually says; definitions vary",
+     "Kevin Vanhoozer, Daniel Treier, Stephen Fowl, Brazos commentary writers"
+    ]
+   },
+   {
+    "label": "Pentecostal / Spirit hermeneutic",
+    "cells": [
+     "In the Spirit's present voice through the text, within the community",
+     "How does the Spirit who inspired this text speak and act through it now?",
+     "Expects transformation and experience of God; reads Acts as a living pattern",
+     "Subjective impressions can override the text without careful testing",
+     "Kenneth Archer, Amos Yong, Craig Keener, global Pentecostal churches"
+    ]
+   },
+   {
+    "label": "Jewish-context / relational covenant",
+    "cells": [
+     "In the covenant relationship and Jewish world of the first hearers",
+     "How would Israel or Jesus' Jewish hearers have understood this?",
+     "Recovers idioms, methods and the relational heart of Torah and gospel; counters anti-Jewish readings",
+     "Can over-claim from later rabbinic sources or romanticise 'Hebrew thought'",
+     "Marvin Wilson, Lois Tverberg, Kenneth Bailey, Amy-Jill Levine, N. T. Wright (in his own way)"
+    ]
+   }
+  ]
+ },
+ "spectrum": {
+  "title": "Where is meaning found?",
+  "intro": "Interpreters differ on where the meaning of a text is anchored. At one end, meaning is fixed by the author in the original setting. At the other, meaning is made by readers and communities today. Almost everyone sits somewhere between, and most traditions hold several factors together. These placements are approximate and meant to start conversation, not to label anyone.",
+  "left": "Author and original setting",
+  "right": "Reader and community today",
+  "stops": [
+   {
+    "pos": 4,
+    "label": "Meaning is the author's intention",
+    "text": "A text means what its author willed it to mean; this meaning is fixed and determinate. Its significance for later readers can change, but its meaning cannot. This protects the text from being bent by readers.",
+    "who": "E. D. Hirsch (*Validity in Interpretation*, 1967); Walter Kaiser"
+   },
+   {
+    "pos": 10,
+    "label": "Original setting reconstructed",
+    "text": "Meaning is found by reconstructing what the text meant in its historical setting and how it came to be. What it means for faith today is a separate question for theologians.",
+    "who": "Classic historical-critical scholarship (Krister Stendahl's 'what it meant' versus 'what it means')"
+   },
+   {
+    "pos": 18,
+    "label": "Grammatical-historical with many applications",
+    "text": "A text has one meaning, the author's, but many applications. The divine author stands behind the human author and the whole canon helps clarify the meaning.",
+    "who": "Gordon Fee and Douglas Stuart; the Chicago Statement on Biblical Hermeneutics (1982)"
+   },
+   {
+    "pos": 32,
+    "label": "The author's communicative act",
+    "text": "Meaning is what the author does with words (promising, warning, comforting). Readers are called not only to grasp it but to perform it faithfully, like actors with a script. The author remains the anchor, but understanding is active.",
+    "who": "Kevin Vanhoozer (*Is There a Meaning in This Text?*, 1998); Anthony Thiselton"
+   },
+   {
+    "pos": 40,
+    "label": "Author's intent within living Tradition",
+    "text": "Interpreters must seek what the human authors intended, using genre and history, and also read Scripture as a whole, within the living Tradition of the church, with the magisterium (teaching office) serving the word of God.",
+    "who": "Catholic Church (*Dei Verbum* 12, 1965; Pontifical Biblical Commission, 1993)"
+   },
+   {
+    "pos": 46,
+    "label": "Final form for the believing community",
+    "text": "Meaning is found in the final shape of the text as the community of faith received it as Scripture, not mainly in reconstructed earlier stages or in the individual reader.",
+    "who": "Brevard Childs and the canonical approach"
+   },
+   {
+    "pos": 52,
+    "label": "Scripture within the mind of the Fathers",
+    "text": "Scripture lives within the Church. Its meaning is received through the worship, the councils and the 'mind of the Fathers', where the historical sense opens into a spiritual vision (theoria) of Christ.",
+    "who": "Eastern Orthodox tradition (Georges Florovsky, John Breck)"
+   },
+   {
+    "pos": 60,
+    "label": "The world in front of the text",
+    "text": "Once written, a text gains a life beyond its author. Its meaning is the 'world' it opens up in front of readers, which they can inhabit. Careful explanation and personal understanding go together.",
+    "who": "Paul Ricoeur"
+   },
+   {
+    "pos": 66,
+    "label": "Word, Spirit and community together",
+    "text": "Meaning emerges in the conversation between Scripture, the Spirit's present work and the discerning community. The Spirit who inspired the text speaks through it today, tested by Scripture and the church.",
+    "who": "Pentecostal hermeneutics (Kenneth Archer, Amos Yong); Craig Keener holds a more author-anchored version"
+   },
+   {
+    "pos": 72,
+    "label": "Fusion of horizons",
+    "text": "Understanding happens when the 'horizon' of the text meets the horizon of the reader, shaped by history and tradition. No one reads from nowhere, and every understanding is an event.",
+    "who": "Hans-Georg Gadamer (*Truth and Method*, 1960)"
+   },
+   {
+    "pos": 82,
+    "label": "Reading from the margins",
+    "text": "Readers in situations of poverty, oppression or minority status see what comfortable readers miss. The social location of readers rightly shapes which meanings come to light.",
+    "who": "Liberation and contextual readings (Gustavo Gutierrez, R. S. Sugirtharajah)"
+   },
+   {
+    "pos": 95,
+    "label": "Interpretive communities make meaning",
+    "text": "There is no meaning 'in' the text independent of readers. Communities of interpretation, with shared assumptions, determine what readers see.",
+    "who": "Stanley Fish (*Is There a Text in This Class?*, 1980)"
+   }
+  ]
+ },
+ "cases": [
+  {
+   "title": "A promise of plans to prosper you?",
+   "ref": "Jer 29:11",
+   "question": "Is this God's personal promise that my career and life plans will succeed?",
+   "steps": [
+    {
+     "step": "Observe",
+     "note": "God says he knows the plans he has for 'you' (in Hebrew, a plural 'you all'), plans for peace (shalom) and not evil, to give a future and a hope."
+    },
+    {
+     "step": "Genre and literary context",
+     "note": "This is part of a letter Jeremiah sent to the exiles in Babylon (29:1). Just before, God says they will stay 70 years (29:10), so they should build houses, marry and seek the welfare of Babylon (29:4-7)."
+    },
+    {
+     "step": "Historical context",
+     "note": "Many hearers would die in exile before the 70 years ended. False prophets were promising a quick return (29:8-9). The promise is for the people as a whole, after a long wait."
+    },
+    {
+     "step": "What it meant then",
+     "note": "God had not abandoned his covenant people. Judgement was real and long, but his purpose for Israel was restoration, and they should seek him wholeheartedly (29:12-14)."
+    },
+    {
+     "step": "Covenant story and Christ",
+     "note": "The return from exile and the greater restoration the prophets promised point forward to the new covenant (Jer 31:31-34), fulfilled in Christ, who gathers a people and gives them a living hope."
+    },
+    {
+     "step": "Principle and application",
+     "note": "God's purposes for his people are good and faithful even in long, painful seasons. Today this encourages believers together to trust God, settle and seek the good of the place they are in, without treating the verse as a guarantee of personal success."
+    }
+   ],
+   "takeaway": "The verse is a precious promise of God's faithfulness to his people, but it was spoken to a community in exile, with a long wait. Read in context, it is deeper than a career promise: it teaches patient hope and faithful living where God has placed us."
+  },
+  {
+   "title": "I can do all things?",
+   "ref": "Phil 4:13",
+   "question": "Does this verse mean Christ will give me strength to win any contest or achieve any goal?",
+   "steps": [
+    {
+     "step": "Observe",
+     "note": "Paul says he can do 'all things' through the one who strengthens him."
+    },
+    {
+     "step": "Literary context",
+     "note": "The previous verses (4:10-12) are about money and circumstances: Paul has learned to be content when well fed and when hungry, in plenty and in need. 'All things' means 'all these circumstances'."
+    },
+    {
+     "step": "Historical context",
+     "note": "Paul writes from prison, thanking the Philippians for a gift. In the Greco-Roman world, gifts created obligations; Paul gratefully receives the gift while making clear his security is in Christ, not in patrons."
+    },
+    {
+     "step": "What it meant then",
+     "note": "Christ gives Paul the strength to be content and faithful in any situation, including poverty and prison."
+    },
+    {
+     "step": "Principle and application",
+     "note": "Believers can face both success and loss with contentment through Christ's strength. An athlete can certainly apply this, but to lose well as much as to win."
+    }
+   ],
+   "takeaway": "The verse is about contentment in every situation, not about achieving every goal. That is a stronger promise: Christ is enough in hunger as well as in plenty."
+  },
+  {
+   "title": "Where two or three are gathered",
+   "ref": "Matt 18:20",
+   "question": "Is this verse mainly about small prayer meetings, assuring us Jesus is present when few attend?",
+   "steps": [
+    {
+     "step": "Literary context",
+     "note": "Matthew 18:15-20 is about restoring a brother or sister who sins: go privately, then with one or two others, then to the church. 'Two or three' echoes the rule of two or three witnesses (Deut 19:15)."
+    },
+    {
+     "step": "Jewish context",
+     "note": "A saying later recorded in the Mishnah (Avot 3) teaches that when two sit together and words of Torah pass between them, God's presence (the Shekhinah) rests with them. Jesus makes a similar but bolder claim: he himself is present."
+    },
+    {
+     "step": "What it meant then",
+     "note": "When the community seeks to discern and decide on discipline in Jesus' name, he is present with them, backing their faithful judgement."
+    },
+    {
+     "step": "Christ and principle",
+     "note": "Jesus is the presence of God among his people, as the temple once was. His presence gives authority and comfort to the church's careful decisions."
+    },
+    {
+     "step": "Application",
+     "note": "The verse can encourage small gatherings, since Jesus is always with his people (Matt 28:20). But its main application is to seek reconciliation and make hard decisions together, prayerfully, in his name."
+    }
+   ],
+   "takeaway": "Jesus is indeed with small gatherings, but this verse specifically promises his presence to a community doing the hard work of restoring a member. It challenges as well as comforts."
+  },
+  {
+   "title": "Behold, I stand at the door and knock",
+   "ref": "Rev 3:20",
+   "question": "Is this an invitation to a non-believer to open the heart and receive Jesus?",
+   "steps": [
+    {
+     "step": "Literary context",
+     "note": "This is the end of a message to the church in Laodicea (3:14-22), a wealthy congregation Jesus calls lukewarm. He rebukes them because he loves them (3:19)."
+    },
+    {
+     "step": "Historical context",
+     "note": "Laodicea was a rich banking and textile city. Its water supply was known for being lukewarm compared to the hot springs of Hierapolis and the cold water of Colossae (a common reading, though some scholars question it)."
+    },
+    {
+     "step": "Cultural context",
+     "note": "Eating together was a sign of close friendship and covenant fellowship. Jesus asks to be welcomed back to the table of a church that has shut him out."
+    },
+    {
+     "step": "What it meant then",
+     "note": "A call to a complacent church to repent and renew fellowship with Christ."
+    },
+    {
+     "step": "Application",
+     "note": "Many evangelists use the verse to invite people to faith. Most commentators see that as an extension by analogy, since the same Christ does invite all. The primary application is to churches and believers who have grown comfortable."
+    }
+   ],
+   "takeaway": "The primary audience is a church, not an unbeliever. The verse calls comfortable Christians back to close fellowship with Jesus. Using it evangelistically is possible by analogy, but its first challenge is to us."
+  },
+  {
+   "title": "The days of creation",
+   "ref": "Gen 1:1-2:3",
+   "question": "What kind of text is Genesis 1, and what is it mainly teaching?",
+   "steps": [
+    {
+     "step": "Observe",
+     "note": "A highly ordered account: repeated formulas ('and God said', 'it was good', 'evening and morning'), six days and a seventh day of rest. Days 1 to 3 form realms; days 4 to 6 fill them."
+    },
+    {
+     "step": "Genre",
+     "note": "Readers disagree. Some read it as straightforward historical narrative (young-earth creationists); others as an elevated, patterned narrative or a theological framework (the framework view of Meredith Kline), or as an account of God inaugurating the cosmos as his temple (John Walton). Many hold day-age or analogical-day views."
+    },
+    {
+     "step": "Historical-cultural context",
+     "note": "Other ancient Near Eastern stories had gods fighting and making humans as slaves. Genesis presents one God who creates by his word, calls the sun and moon mere lights, and makes all humans in his image, as royal representatives."
+    },
+    {
+     "step": "What it meant then",
+     "note": "For Israel, it declared that their covenant God is Creator of all, that the world is good, that humans bear his image, and that Sabbath rest is built into creation."
+    },
+    {
+     "step": "Covenant story and Christ",
+     "note": "The New Testament reads creation through Christ, the Word by whom all things were made, and looks to a new creation."
+    },
+    {
+     "step": "Application",
+     "note": "All Christian views agree on the core: God is Creator, the world is good, humans are his image-bearers, and rest is holy. Questions about the age of the earth are debated among faithful readers and should be held with charity."
+    }
+   ],
+   "takeaway": "Asking about genre and ancient context does not weaken Genesis 1; it shows what it most clearly teaches. Christians disagree on how literally to take the days, but share its central truths."
+  },
+  {
+   "title": "Women silent in the churches?",
+   "ref": "1 Cor 14:34-35",
+   "question": "How should we read Paul's instruction that women keep silent in church?",
+   "steps": [
+    {
+     "step": "Literary context",
+     "note": "Chapter 14 is about orderly worship: tongues, prophecy and weighing prophecy. Earlier, Paul assumes women pray and prophesy in worship (11:5), so 'silent' cannot mean total silence in every sense."
+    },
+    {
+     "step": "Text history",
+     "note": "In some Western manuscripts these two verses appear after verse 40 rather than after verse 33. Gordon Fee and Philip Payne argue they were a later addition; most scholars think they are original but discuss why they moved."
+    },
+    {
+     "step": "Readings offered",
+     "note": "Complementarian scholars (such as D. A. Carson and Wayne Grudem) often read it as women not taking part in the authoritative weighing of prophecies. Egalitarian scholars (such as Craig Keener) often read it as disruptive questions from wives with less education, addressed to a local situation. Others see a quoted Corinthian slogan that Paul rejects."
+    },
+    {
+     "step": "Covenant story and principle",
+     "note": "All agree worship should be orderly, edifying and reflect God's peace (14:33, 14:40), and that women and men alike are gifted members of Christ's body."
+    },
+    {
+     "step": "Application",
+     "note": "Different churches apply the passage differently. Reading carefully helps believers understand why others conclude differently, and to hold their own view with humility."
+    }
+   ],
+   "takeaway": "This is a genuinely debated passage. Good method narrows the options, rules out some readings (total silence contradicts 11:5) and helps us disagree fairly, even when it does not settle every question."
+  }
+ ],
+ "sections": [
+  {
+   "id": "unavoidable",
+   "heading": "Why interpretation is unavoidable",
+   "body": "Some people say, 'I don't interpret the Bible, I just read it.' But the moment we read, we interpret. We read in a translation, which already involves thousands of decisions. We bring our language, our culture, our church background and our questions. Even deciding that a verse is a command for us, and not only for Timothy or Israel, is an interpretation.\n\nThe Bible itself shows this. When Ezra read the Law, the Levites 'gave the sense' so the people understood. The Ethiopian official reading Isaiah asked Philip, 'How can I understand unless someone guides me?' Peter admits that some things in Paul's letters are hard to understand and that unstable people twist them. Jesus repeatedly asked his opponents, 'Have you not read?', not because they had not read the words but because they had missed the meaning.\n\nSo the question is not whether we interpret, but whether we do it well. 'Hermeneutics' (from the Greek hermeneuo, to explain or translate) is simply the study of how to understand and apply texts faithfully. Good hermeneutics does not make the Bible harder to read. It helps ordinary believers hear more clearly what God is saying, and protects them from people who would use the Bible for their own ends.\n\nThere are always two 'horizons': the world of the text and the world of the reader. Anthony Thiselton called this the problem of the two horizons. Interpretation is the work of letting the text's horizon speak to ours without forcing it into our shape.",
+   "refs": [
+    "Neh 8:8",
+    "Acts 8:30-31",
+    "2 Pet 3:16",
+    "Matt 12:3-5",
+    "Luke 10:26"
+   ],
+   "callout": {
+    "kind": "myth",
+    "text": "Myth: 'Interpretation is only for scholars.' In fact every reader interprets. The Reformers taught that Scripture's main message is clear enough for ordinary believers (its 'clarity' or perspicuity), while also valuing teachers and study for harder passages."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "jewish-roots",
+   "heading": "The Jewish roots of Christian interpretation",
+   "body": "Christian interpretation was born inside Jewish interpretation. Jesus and the apostles were Jews who read the Hebrew Scriptures with methods their hearers recognised. Learning these methods helps us understand how the New Testament uses the Old.\n\nMidrash ('searching') was the rabbinic practice of exploring a text closely, linking it to other texts by shared words, filling gaps in stories, and applying it to life. Rabbinic tradition credits Hillel the Elder with seven rules (middot). Two are easy to see in the New Testament. 'Light and heavy' (qal vahomer) argues from lesser to greater: if God clothes the grass, how much more you (Matt 6:30); if you rescue a sheep on the Sabbath, how much more a person (Matt 12:11-12). 'Equal decree' (gezerah shavah) links two passages that share a word: many scholars see this behind Jesus joining 'You shall love the Lord your God' (Deut 6:5) and 'You shall love your neighbour' (Lev 19:18).\n\nPesher ('interpretation') is found in the Dead Sea Scrolls. The Qumran community read the prophets line by line as being fulfilled in their own time: 'this is that'. Peter's sermon at Pentecost has a similar shape: 'this is what was spoken by the prophet Joel.' The difference is the centre: for the apostles, the prophecies come true in Jesus the Messiah and the gift of the Spirit.\n\nWhen the New Testament quotes the Old, it often has the whole passage in mind, not just the line quoted (C. H. Dodd argued this in 1952; Richard Hays has developed it through the idea of 'echoes'). Matthew's 'Out of Egypt I called my son' (Hos 11:1) is not a prediction torn from context; Matthew sees Jesus reliving Israel's story as the faithful Son. Some uses still puzzle readers, and scholars debate whether we should imitate the apostles' methods or only trust their conclusions.",
+   "refs": [
+    "Matt 6:30",
+    "Matt 12:11-12",
+    "Matt 22:37-40",
+    "Deut 6:5",
+    "Lev 19:18",
+    "Acts 2:16-21",
+    "Matt 2:15",
+    "Hos 11:1"
+   ],
+   "callout": {
+    "kind": "debate",
+    "text": "Can we read the Old Testament the way the apostles did? Richard Longenecker argued that we should reproduce their conclusions, not necessarily their Jewish methods. Others (Richard Hays, Peter Enns, Matthew Bates) argue the church should learn from the apostles' Christ-centred, figural way of reading as a model."
+   },
+   "confidence": "debated"
+  },
+  {
+   "id": "church-history",
+   "heading": "How the church has read Scripture through history",
+   "body": "The early church inherited both Jewish and Greek ways of reading. In Alexandria, Philo had read Moses allegorically, and Christian teachers like Origen did the same, finding Christ and the soul's journey in the details. Origen spoke of a literal, moral and spiritual sense, like body, soul and spirit. In Antioch, teachers such as Theodore of Mopsuestia and John Chrysostom put more weight on the historical sense and the author's argument. Older books set these two schools against each other; recent scholars show both sought Christ in Scripture and both used figural readings, in different measures.\n\nAugustine, in *On Christian Doctrine*, gave the West a lasting guide: learn the languages and history, read unclear passages by clearer ones, follow the rule of faith, and remember that the purpose of Scripture is love of God and neighbour. In the medieval period this developed into the four senses (literal, allegorical, moral and anagogical). Thomas Aquinas insisted that all spiritual meanings rest on the literal sense. Jewish scholars like Rashi worked to recover the plain sense (peshat) alongside midrash.\n\nThe Renaissance cry 'back to the sources' sent scholars like Erasmus to the Greek and Hebrew texts. The Reformers (Luther, Calvin and others) stressed the plain, grammatical sense, Scripture interpreting Scripture, and Christ as the centre. They did not reject the church fathers but tested them by Scripture.\n\nFrom the 1600s, Enlightenment scholars such as Spinoza began to study the Bible like any other ancient book, asking about authors, sources and dates. This historical criticism produced great learning and serious challenges to faith. In the twentieth century, Karl Barth and later movements (canonical, narrative and theological interpretation) sought to read the Bible again as Scripture without ignoring history. Today, readers from Africa, Asia and Latin America, and Jewish scholars of the New Testament, are adding voices the Western church long lacked.",
+   "refs": [
+    "Gal 4:24",
+    "1 Cor 10:11",
+    "Luke 24:27",
+    "Acts 17:11"
+   ],
+   "callout": {
+    "kind": "tradition",
+    "text": "The four senses were often summed up in a Latin rhyme: the letter teaches what happened, allegory what you should believe, the moral sense what you should do, the anagogical sense where you are heading. It is a tradition of reading, not a biblical command, but it reminds readers that Scripture speaks to faith, life and hope."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "literal",
+   "heading": "Literal, not literalistic",
+   "body": "Many Christians say, 'I read the Bible literally.' Usually they mean, 'I take it at its word, as true.' That is a good instinct. But the old meaning of 'literal sense' (sensus literalis) was the meaning the author intended, including figures of speech. A literal reading of a poem reads it as a poem.\n\nA literalistic reading treats every word as flat, plain description. That leads to errors the Bible itself does not intend. When the Psalms say the trees clap their hands, or Jesus calls himself a door, no one thinks trees have hands or Jesus has hinges. When Jesus says to tear out your eye, he is using teaching hyperbole to show how seriously to take sin, not commanding self-harm.\n\nThe Bible uses metaphor (God is a rock), simile (like a lion), hyperbole (a camel through a needle), idiom ('hate your father', meaning love less), symbol (beasts in Daniel), and anthropomorphism (God's arm, God 'remembering'). Recognising these is not 'explaining away' the text. It is reading it the way its authors meant it.\n\nThe Chicago Statement on Biblical Hermeneutics (1982), a strongly conservative document, itself affirms that Scripture must be read according to its literary forms. So the question is never 'literal or not?' but 'what did the author mean by these words in this genre?'",
+   "refs": [
+    "Ps 98:8",
+    "John 10:9",
+    "Matt 5:29-30",
+    "Matt 19:24",
+    "Luke 14:26",
+    "Deut 32:4"
+   ],
+   "callout": {
+    "kind": "tip",
+    "text": "Ask: how would a careful reader in the author's own culture take this sentence? If they would hear a picture, read it as a picture, and then ask what truth the picture conveys."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "genre",
+   "heading": "Genre: reading each kind of writing by its own rules",
+   "body": "The Bible is a library, not a single book. It includes stories, laws, songs, proverbs, prophetic oracles, visions, Gospels, parables and letters. We read different kinds of writing differently every day: a news report, a love letter, a medical leaflet and a poem make different claims. The same is true of Scripture.\n\nProverbs state general truths, not guarantees: 'Train up a child' describes how life usually goes, and two proverbs side by side can give opposite advice for different situations. Narratives often describe what happened without approving it: the book of Judges ends by saying everyone did what was right in their own eyes, which is a warning, not a model. Psalms give us prayers, including honest laments; their curses on enemies are cries for justice handed over to God, not instructions for us to take revenge.\n\nProphecy is mostly covenant preaching to its own day, with conditional warnings (God relents when Nineveh repents). Apocalyptic visions use a symbolic picture language drawn from the Old Testament. Letters respond to real situations in real churches. Parables usually make one or a few main points tied to their audience.\n\nGenre is not a way to avoid what a text says. It is how we discover what it says. Gordon Fee and Douglas Stuart's *How to Read the Bible for All Its Worth* (first published 1981) is still a clear, accessible guide to reading each genre.",
+   "refs": [
+    "Prov 22:6",
+    "Prov 26:4-5",
+    "Judg 21:25",
+    "Ps 137:8-9",
+    "Rom 12:19",
+    "Jonah 3:10"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "verse-lifting",
+   "heading": "Context and the 'verse-lifting' problem",
+   "body": "Verse numbers were added long after the Bible was written: the chapter divisions in the 1200s (usually credited to Stephen Langton) and New Testament verse numbers in 1551 (Robert Estienne). They are useful for finding places, but they can trick us into reading single sentences as stand-alone sayings.\n\nVerse-lifting means taking a verse out of its setting and giving it a meaning its author never intended. It happens with good motives: we want comfort, guidance or a promise. Jeremiah 29:11 becomes a career promise, Philippians 4:13 a sports slogan, Malachi 3:10 a guarantee of financial return. Even the devil quoted a psalm to Jesus out of context; Jesus answered with another Scripture.\n\nThe cure is simple but takes discipline: read the paragraph, then the chapter, then the book. Ask who is speaking, to whom, and why. Ask whether the verse is a command, a description, a promise to a specific person, or a general truth. Many promises in Scripture belong to all God's people through Christ (2 Cor 1:20), but we discover which ones by reading them in context, not by lifting them out.\n\nThe Bereans in Acts were praised because they examined the Scriptures daily to see whether what Paul said was true. That is the habit we need: checking claims, including our own favourite ones, against the whole text.",
+   "refs": [
+    "Jer 29:1-14",
+    "Phil 4:11-13",
+    "Mal 3:8-12",
+    "Matt 4:5-7",
+    "Ps 91:11-12",
+    "2 Cor 1:20",
+    "Acts 17:11"
+   ],
+   "callout": {
+    "kind": "tip",
+    "text": "A simple rule: never read a Bible verse. Read a paragraph at least, and ideally the whole section, before deciding what any one verse means."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "covenant-lens",
+   "heading": "The Jewish cultural and relational covenant lens",
+   "body": "The Bible was written mostly by Jews, for people living in Israel's covenant story or in the Jewish-rooted early church. Reading it well means reading it as they did. This lens has several parts.\n\nFirst, covenant. God binds himself to a people in a loyal, committed relationship. The Hebrew word hesed (steadfast love, covenant loyalty) is at the heart of it. Torah was given to a people already rescued from Egypt, as the way of life within the relationship, not as a way to earn it. Many Jewish readers speak of Torah as a delight and a gift, as Psalm 119 does. This guards Christians against reading 'the Law' as only a burden or reading Judaism as mere legalism, a caricature both Jewish and Christian scholars now reject.\n\nSecond, community. Ancient Israelites and early Christians thought of themselves first as members of a family, a people, a household. Most 'you' words in the letters are plural. Promises like Jeremiah 29:11 were given to a nation. Salvation is deeply personal, but it is never only private: it brings people into a people.\n\nThird, culture. Honour and shame, hospitality, patronage and gift (charis), and trust or loyalty (pistis) shaped how first hearers understood words like grace and faith. Jesus taught as a Jewish rabbi, using parables, hyperbole, wordplay and the 'how much more' argument, and debating Torah within Jewish tradition.\n\nThis lens has limits. Many rabbinic sources were written down after the New Testament, so they must be used carefully. Popular talk of 'Hebrew thought' versus 'Greek thought' can be oversimplified. But used carefully, as scholars like Marvin Wilson, Kenneth Bailey, Lois Tverberg and Amy-Jill Levine do, the lens brings the Bible's relational heart into focus.",
+   "refs": [
+    "Exod 20:1-2",
+    "Deut 7:7-9",
+    "Ps 119:97",
+    "Exod 34:6-7",
+    "1 Pet 2:9-10",
+    "Matt 5:17-19",
+    "Rom 11:17-18"
+   ],
+   "callout": {
+    "kind": "myth",
+    "text": "Myth: 'Judaism taught salvation by works; Christianity teaches grace.' Since E. P. Sanders (1977), most scholars across traditions agree that ancient Judaism generally saw Israel's place in the covenant as a gift of God's grace, with obedience as the response. Scholars still debate how this affects reading Paul."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "christ-centred",
+   "heading": "Christ-centred reading and its abuses",
+   "body": "Jesus taught that the Scriptures bear witness to him and that Moses, the Prophets and the Psalms speak of his suffering and glory. So Christians read the Old Testament as a story that reaches its goal in Christ. Paul says all God's promises find their 'Yes' in him. This is not optional for Christian reading; it is how the apostles read.\n\nBut there are ways to do it badly. One abuse is allegorising every detail: making the scarlet cord of Rahab, every piece of tabernacle furniture, or every number into a hidden symbol of the cross, without any textual support. Another is skipping the Old Testament's own message: jumping straight to Jesus so that the stories of Israel, the laments of the psalms or the justice of the prophets are never heard on their own terms. A third, more serious, is supersessionism of the wrong kind: reading Christ in a way that treats the Jewish people as rejected or Judaism as worthless, which Paul himself warns against.\n\nScholars use different terms. Christocentric readers (such as Graeme Goldsworthy and Sidney Greidanus) seek legitimate paths from every text to Christ: promise and fulfilment, typology, the big story, contrast. Christotelic readers (such as Peter Enns) stress that the Old Testament has its own integrity and that Christ is its goal, seen most clearly in hindsight after the resurrection. Jewish readers remind Christians that the Hebrew Bible is also the living Scripture of the synagogue.\n\nA balanced approach reads each Old Testament passage first in its own setting, then asks honestly how it relates to Christ, and lets that relationship take the form the text itself supports.",
+   "refs": [
+    "John 5:39",
+    "Luke 24:25-27",
+    "Luke 24:44-47",
+    "2 Cor 1:20",
+    "1 Pet 1:10-12",
+    "Rom 11:1-2",
+    "Rom 11:28-29"
+   ],
+   "callout": {
+    "kind": "debate",
+    "text": "Does every sermon on an Old Testament text need to 'get to Jesus'? Many Reformed preachers say yes, because Christ is the goal of all Scripture. Others say every text should be read in light of Christ, but not every sermon must force a line to the cross."
+   },
+   "confidence": "debated"
+  },
+  {
+   "id": "spirit-community",
+   "heading": "The role of the Spirit and the community",
+   "body": "Christians believe the Holy Spirit inspired Scripture and also helps readers understand it. Paul says the natural person does not accept the things of the Spirit, because they are spiritually discerned. Jesus promised the Spirit would guide his disciples into truth. The risen Jesus 'opened their minds to understand the Scriptures'. Theologians call this illumination.\n\nIllumination does not mean the Spirit gives secret meanings that bypass the text, or that study is unnecessary. The same Spirit gave the grammar and the history. It means the Spirit helps us see, receive and obey what is there, and convicts and transforms us as we read. Pentecostal and charismatic scholars (Kenneth Archer, Amos Yong, Craig Keener in *Spirit Hermeneutics*) stress that the Spirit still speaks through Scripture and that we read best when we expect God to act, testing everything by the text.\n\nWe also read in community. The Jerusalem Council heard testimony, read the prophets (Amos 9), and reached a decision that 'seemed good to the Holy Spirit and to us'. The early church's rule of faith, the creeds, and the long history of interpretation are a community of readers across time. Christians in other cultures today are a community across space: African, Indian or Chinese believers often notice things about family, honour, spirits or poverty that Western readers miss.\n\nTraditions weigh this differently. Catholic and Orthodox Christians see the church's Tradition and teaching office as the authoritative context of interpretation. Protestants hold Scripture as the final authority but value tradition as a wise, fallible guide. All agree that private, isolated reading is not the ideal.",
+   "refs": [
+    "1 Cor 2:12-14",
+    "John 16:13",
+    "Luke 24:45",
+    "Acts 15:13-18",
+    "Acts 15:28",
+    "Amos 9:11-12",
+    "1 John 4:1"
+   ],
+   "callout": {
+    "kind": "tip",
+    "text": "Before you read, pray. After you read, share what you saw with someone else, and ask what they saw. The Spirit often speaks through the body, not only to the individual."
+   },
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "humility",
+   "heading": "Humility, disagreement and how to hold views",
+   "body": "Christians who love the Bible and read it carefully still disagree: on baptism, the Lord's Supper, the millennium, women in ministry, the days of creation, spiritual gifts and much else. This is not proof that interpretation is hopeless. It shows that the Bible is deep, that we are finite and sinful, and that we read from different places.\n\nA helpful practice is to distinguish levels of conviction. Some truths are at the centre of the faith, shared by the creeds: one God, Father, Son and Spirit; Jesus' incarnation, death and bodily resurrection; salvation by grace. Others are important but disputed among faithful Christians. Others are minor. A common saying (often credited to the seventeenth-century writer Rupertus Meldenius) puts it this way: in essentials unity, in non-essentials liberty, in all things charity.\n\nGrant Osborne called interpretation a 'hermeneutical spiral': we come to the text with assumptions, the text challenges them, we come back with better questions, and so on. Growth in understanding is a lifelong spiral, not a single leap.\n\nPractical humility looks like this: state the other view so well that its holders would say, 'Yes, that is what we believe.' Read the best defenders of views you reject. Admit what you do not know. Be ready to change your mind, and be willing to stand firm where the text is clear. Above all, remember Augustine's point: an interpretation that does not build up love of God and neighbour has not yet understood Scripture.",
+   "refs": [
+    "1 Cor 13:9-12",
+    "Rom 14:1-5",
+    "Eph 4:2-3",
+    "Jas 3:17",
+    "Deut 29:29",
+    "2 Tim 2:24-25"
+   ],
+   "callout": {
+    "kind": "tip",
+    "text": "When you disagree with another Christian about a passage, first ask: Do we agree on what it meant to the first hearers? Most disagreements start at a specific step in the method. Finding that step makes the conversation calmer and more fruitful."
+   },
+   "confidence": "scholarly-consensus"
+  }
+ ],
+ "misreadings": [
+  {
+   "topic": "'I just read it literally' versus reading it as literature",
+   "popular": "The faithful way to read the Bible is to take every statement at face value. Talking about genre, metaphor or culture is a way liberals explain away what God plainly says.",
+   "inContext": "The ancient and Reformation idea of the 'literal sense' meant the sense the author intended, including figures of speech, poetry and symbol. Jesus' hyperbole, the psalms' images and Revelation's symbols were understood as such by their first hearers. Scholars such as Gordon Fee, Douglas Stuart and Kevin Vanhoozer argue that reading by genre is how we honour the author's meaning.",
+   "defence": "Conservative scholars agree, and the Chicago Statement on Biblical Hermeneutics (1982) says so. Their concern is real: 'genre' and 'culture' can be misused to dismiss clear teaching, such as the bodily resurrection or miracles that the text presents as history. They ask that genre be judged by evidence in the text, not by modern discomfort. Both sides agree that the goal is the author's meaning, not a flat literalism or a convenient symbolism.",
+   "whyItMatters": "Flat literalism makes the Bible say things it never meant and can make faith look foolish. Careless 'it's just a metaphor' readings can empty the Bible of its claims. Genre-aware reading avoids both.",
+   "refs": [
+    "Matt 5:29-30",
+    "Ps 98:8",
+    "John 10:9",
+    "1 Cor 15:3-8"
+   ],
+   "scholars": [
+    "Gordon Fee",
+    "Douglas Stuart",
+    "Kevin Vanhoozer",
+    "R. C. Sproul",
+    "Walter Kaiser"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Every verse is a personal promise to me",
+   "popular": "Because the whole Bible is God's word to me, any promise I read can be claimed personally. If I read 'I know the plans I have for you', God is speaking those words to me about my life today.",
+   "inContext": "Most promises were spoken to specific people or communities in specific covenant settings: Jeremiah 29:11 to exiles waiting 70 years, Joshua 1 to Joshua entering Canaan. Paul says what was written 'was written for our instruction' (Rom 15:4), but that is different from saying each line was addressed to us. Scholars such as Christopher Wright and Scot McKnight stress reading the Bible as a story in which we find our place, rather than a box of individual promises.",
+   "defence": "Evangelical scholars rightly answer that all God's promises are 'Yes' in Christ (2 Cor 1:20), so many promises do apply to believers through him, and the Spirit does use particular verses to comfort particular people. The key is to see how a promise reaches us: through Christ and the new covenant, often in a deeper or different form than the original. Careful readers on all sides agree that verses can be applied, but that application should grow from their meaning.",
+   "whyItMatters": "Claiming promises out of context can lead to disappointment and even loss of faith when life does not go as 'promised'. Reading in context gives a sturdier hope grounded in God's covenant faithfulness.",
+   "refs": [
+    "Jer 29:10-14",
+    "Rom 15:4",
+    "2 Cor 1:20",
+    "Josh 1:5-9"
+   ],
+   "scholars": [
+    "Christopher J. H. Wright",
+    "Scot McKnight",
+    "Gordon Fee",
+    "J. I. Packer"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Malachi 3:10 as a financial guarantee",
+   "popular": "If you tithe faithfully, God promises to open the windows of heaven and pour out financial blessing. Giving is a seed that guarantees a harvest of money. Some prosperity teachers present this as a spiritual law.",
+   "inContext": "Malachi addresses post-exilic Judah under the Sinai covenant, where tithes supported the Levites, the temple and the poor. The people had robbed God by withholding them, and the blessing promised is covenant blessing on the land: rain, crops and protection from pests (3:11). Scholars note the promise is to the nation ('the whole nation', 3:9), within the Mosaic covenant's blessings and curses (Deut 28).",
+   "defence": "Many evangelical teachers who do not hold prosperity theology still use Malachi 3:10 to encourage generous, regular giving, arguing that the principle of trusting God with our resources carries over, and that Jesus commended generosity and promised God's care (Luke 6:38). Others hold that tithing is not binding on Christians, while generosity is (2 Cor 9:6-8). Both sides largely agree the verse is not a formula that guarantees personal wealth.",
+   "whyItMatters": "Turning a covenant promise to Israel into a money formula can exploit the poor and distort the gospel. Reading it in context still calls God's people to generous trust, without false guarantees.",
+   "refs": [
+    "Mal 3:8-12",
+    "Deut 14:28-29",
+    "Deut 28:1-12",
+    "2 Cor 9:6-8",
+    "Luke 6:38"
+   ],
+   "scholars": [
+    "Gordon Fee",
+    "Andreas Kostenberger",
+    "Craig Blomberg",
+    "Kate Bowler"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Allegory is always wrong, and the church fathers were simply fanciful",
+   "popular": "The early church went badly wrong by allegorising Scripture. Origen and the medieval monks made the Bible say whatever they wanted. The Reformation finally recovered the true literal method.",
+   "inContext": "Historians such as Frances Young and Henri de Lubac show that patristic readers were often careful scholars, reading under the rule of faith and seeking Christ and love in all Scripture. Paul himself uses allegory once (Gal 4:24) and typology often. Theological interpreters (Hans Boersma, Daniel Treier) argue that the church can learn again from pre-modern 'figural' reading, which kept the Bible spiritually alive.",
+   "defence": "Evangelical scholars answer that the Reformers had good reason to rein in allegory: when meaning drifts from the text, the church loses a shared standard and doctrine can be built on fancy. Calvin and Luther valued the Fathers yet rejected many allegories. Most evangelicals today distinguish typology (rooted in history and the New Testament's practice) from free allegory. Both sides can agree that the Fathers were neither foolish nor always right.",
+   "whyItMatters": "Dismissing the Fathers cuts us off from centuries of wise, devoted readers. Uncritically copying them can open the door to arbitrary meanings. Learning from them with discernment enriches modern reading.",
+   "refs": [
+    "Gal 4:21-31",
+    "1 Cor 10:1-11",
+    "Heb 8:5",
+    "Rom 5:14"
+   ],
+   "scholars": [
+    "Frances Young",
+    "Henri de Lubac",
+    "Hans Boersma",
+    "Daniel Treier",
+    "Moises Silva",
+    "Gerald Bray"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "topic": "The New Testament writers took Old Testament verses out of context",
+   "popular": "One view (often among sceptics) says the apostles misused the Old Testament, grabbing verses that had nothing to do with Jesus. Another (popular among believers) says every quoted verse was a direct prediction of Jesus that any reader could have seen.",
+   "inContext": "C. H. Dodd (1952) argued that New Testament writers usually had whole Old Testament contexts in mind. Richard Hays shows how they read figurally, hearing echoes of Israel's story in Jesus. Peter Enns argues that they used Jewish interpretive methods of their day, reading the Old Testament in light of its goal in Christ. Matthew's use of Hosea 11:1 is a typological reading of Israel's story, not a claim that Hosea predicted the infant Jesus.",
+   "defence": "Scholars such as G. K. Beale and D. A. Carson (*Commentary on the New Testament Use of the Old Testament*, 2007) argue the apostles respected the original contexts more than critics allow, and that their readings are grounded in the Old Testament's own patterns and hopes. They are more cautious than Enns about saying the apostles used methods we should not trust. Both sides reject the sceptic's claim that the apostles were careless, and both say 'prediction' is too narrow a category.",
+   "whyItMatters": "This shapes how Christians read the Old Testament and how they answer critics. Seeing typology and fulfilment, not just prediction, makes the apostles' reading more convincing and more beautiful.",
+   "refs": [
+    "Matt 2:15",
+    "Hos 11:1",
+    "Acts 2:25-32",
+    "Ps 16:8-11",
+    "1 Pet 1:10-12"
+   ],
+   "scholars": [
+    "C. H. Dodd",
+    "Richard B. Hays",
+    "Peter Enns",
+    "G. K. Beale",
+    "D. A. Carson",
+    "Richard Longenecker"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "topic": "Jesus rejected Jewish interpretation and the Pharisees were legalists",
+   "popular": "Jesus swept away the rabbis' man-made traditions and taught a simple, spiritual reading of Scripture. The Pharisees were legalistic hypocrites who added rules to earn God's favour.",
+   "inContext": "Jesus' teaching methods were deeply Jewish: parables, 'how much more' arguments, linking texts by shared words, debating the meaning of Torah. His disputes with Pharisees were arguments within a family about how to obey God, and he agreed with them on much (resurrection, Scripture's authority). Amy-Jill Levine, Lois Tverberg and E. P. Sanders warn that anti-Pharisee stereotypes have fed anti-Jewish prejudice. Many Pharisees sincerely sought holiness for ordinary people.",
+   "defence": "Evangelical scholars agree that caricatures of Pharisees are wrong. They also point out that Jesus did sharply criticise some traditions that set aside God's command (Mark 7:8-13) and hypocrisy in religious leaders (Matt 23), so his critique must not be erased. Scholars such as Craig Keener and Craig Blomberg hold both: Jesus was a Jewish teacher in Jewish debate, and he spoke with a unique authority over Torah ('but I say to you').",
+   "whyItMatters": "Seeing Jesus as a Jewish teacher helps us understand his words, honours the Jewish people, and helps us see ourselves in the Pharisees' temptations instead of looking down on them.",
+   "refs": [
+    "Matt 12:11-12",
+    "Matt 22:34-40",
+    "Mark 7:8-13",
+    "Matt 23:2-3",
+    "Matt 5:21-22",
+    "Acts 23:6"
+   ],
+   "scholars": [
+    "Amy-Jill Levine",
+    "Lois Tverberg",
+    "E. P. Sanders",
+    "Craig Keener",
+    "Craig Blomberg",
+    "David Flusser"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "The Spirit's guidance makes study unnecessary",
+   "popular": "If the Holy Spirit is my teacher, I do not need commentaries, history or other people's interpretations. What the Spirit shows me as I read is what the text means for me.",
+   "inContext": "The New Testament holds Spirit and study together: Luke researched carefully (Luke 1:1-4); Paul told Timothy to work hard at handling the word rightly; the Bereans examined the Scriptures. Pentecostal scholars such as Craig Keener (*Spirit Hermeneutics*, 2016) and Kenneth Archer argue for Spirit-led reading that embraces careful study and community testing, not one that bypasses them.",
+   "defence": "Reformed and evangelical scholars stress that the Spirit illuminates the meaning already in the text rather than adding new meanings, and that 'what it means to me' must not replace 'what it means'. Pentecostal scholars generally agree, while also stressing expectation that the Spirit will speak personally through the text. Both agree that study and Spirit are friends, and that impressions must be tested by Scripture and the church.",
+   "whyItMatters": "Without study, readers become vulnerable to their own bias and to manipulative teachers. Without the Spirit, study becomes dry. Both are needed for transformation.",
+   "refs": [
+    "Luke 1:1-4",
+    "2 Tim 2:15",
+    "Acts 17:11",
+    "1 Cor 2:12-14",
+    "1 John 4:1",
+    "1 Thess 5:19-21"
+   ],
+   "scholars": [
+    "Craig Keener",
+    "Kenneth Archer",
+    "Gordon Fee",
+    "J. I. Packer",
+    "Amos Yong"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Historical criticism is nothing but unbelief",
+   "popular": "Scholars who ask about sources, dates and editing are attacking the Bible. Believers should avoid critical scholarship altogether.",
+   "inContext": "Historical-critical methods arose partly from Enlightenment scepticism (Spinoza, Reimarus) and some practitioners reject miracles in advance. But many tools (textual criticism, study of ancient languages, archaeology, attention to how Luke used sources) are used by believing scholars too. Catholic teaching since *Divino Afflante Spiritu* (1943) and the Pontifical Biblical Commission (1993) encourages critical methods used with faith.",
+   "defence": "Evangelical scholars such as Craig Blomberg and Darrell Bock use critical methods while rejecting naturalistic assumptions; they distinguish the tools from the philosophy. Others, such as Eta Linnemann (a former Bultmann student), argued after conversion that the whole system is too bound to unbelief to be reused. Both camps agree that some critical conclusions (for example, rigid four-source theories of the Pentateuch) are far less certain than once claimed.",
+   "whyItMatters": "Rejecting all scholarship leaves believers unable to answer real questions; swallowing it uncritically can erode faith. Knowing the difference between method and assumption helps believers engage honestly.",
+   "refs": [
+    "Luke 1:1-4",
+    "1 Pet 3:15",
+    "Acts 17:11"
+   ],
+   "scholars": [
+    "Craig Blomberg",
+    "Darrell Bock",
+    "Eta Linnemann",
+    "Raymond Brown",
+    "N. T. Wright"
+   ],
+   "confidence": "debated"
+  }
+ ],
+ "views": [
+  {
+   "name": "Grammatical-historical (evangelical)",
+   "who": "Most evangelical scholars and seminaries; Walter Kaiser, Gordon Fee, Douglas Stuart, Grant Osborne, Klein, Blomberg and Hubbard; the Chicago Statement on Biblical Hermeneutics (1982)",
+   "summary": "The meaning of a text is what the human author intended to communicate, as God's inspired word, discovered through grammar, word study, genre and historical context. A text has one meaning and many applications. Scripture interprets Scripture, and the whole canon is consistent because God is its ultimate author.",
+   "strengths": "Gives a clear, shared standard; protects against reading in our own ideas; honours the human authors and history; accessible to ordinary believers with good tools.",
+   "critiques": "Critics say it can be too confident that we can reach the author's mind, can stop at 'then' without moving to Christ and the church today, and may struggle to explain how the apostles read the Old Testament. Defenders respond that the method includes canonical and redemptive-historical steps, and that the apostles' readings fit within the divine author's intention."
+  },
+  {
+   "name": "Catholic (Dei Verbum)",
+   "who": "The Catholic Church: Second Vatican Council's *Dei Verbum* (1965), the Pontifical Biblical Commission's *The Interpretation of the Bible in the Church* (1993); scholars such as Raymond Brown, Joseph Ratzinger (Benedict XVI), Scott Hahn",
+   "summary": "Scripture and Tradition flow from the same divine source. Interpreters must seek the meaning intended by the human authors, attending to literary forms and history, and also read with attention to the content and unity of all Scripture, the living Tradition of the whole church, and the analogy of faith. The teaching office (magisterium) is not above the word of God but serves it. Catholic teaching values both the literal and spiritual senses.",
+   "strengths": "Holds history and faith together; welcomes critical scholarship while keeping Scripture in the church's worship and doctrine; provides a stable communal context for interpretation.",
+   "critiques": "Protestants argue it can place Tradition and the magisterium in a position where they cannot be corrected by Scripture. Some critics within and outside Catholicism say historical-critical methods and traditional readings sit uneasily together. Catholic scholars respond that the magisterium is bound by Scripture and Tradition, and that faith and reason are partners."
+  },
+  {
+   "name": "Eastern Orthodox (tradition and the Fathers)",
+   "who": "Eastern Orthodox churches; Georges Florovsky, John Breck, Theodore Stylianopoulos, John Behr",
+   "summary": "Scripture is the heart of Holy Tradition and is read within the Church's worship, councils and the 'mind of the Fathers'. Its historical sense opens into theoria, a contemplative vision of Christ. Interpretation is a spiritual act of the whole Church, inseparable from prayer, liturgy and holiness of life.",
+   "strengths": "Rich continuity with the early church; unites study with worship and transformation; protects against individualistic reading.",
+   "critiques": "Protestants worry that tradition may become unaccountable to Scripture, and historical critics question patristic exegesis. Orthodox scholars answer that the Fathers themselves were bound to Scripture and that the Church, not the lone scholar, is Scripture's proper home."
+  },
+  {
+   "name": "Historical-critical",
+   "who": "University biblical studies; from Spinoza and Wellhausen to Rudolf Bultmann and many contemporary scholars, believing and non-believing",
+   "summary": "The Bible should be studied as historical documents using source, form, redaction, textual and social-scientific criticism. The aim is to reconstruct how texts were produced and what they meant in their original settings, before (or without) asking what they mean for faith.",
+   "strengths": "Enormous gains in knowledge of languages, history, manuscripts and how texts work; honest about difficulties; keeps readers from forcing modern ideas onto ancient texts.",
+   "critiques": "Believing critics say that naturalistic assumptions exclude God's action in advance, that many reconstructions are speculative, and that it can leave the Bible in the past. Many historical critics respond that their method is neutral and that faith communities can build on its results."
+  },
+  {
+   "name": "Canonical approach",
+   "who": "Brevard Childs, Christopher Seitz, many theological interpreters",
+   "summary": "The proper object of interpretation for the church is the final form of the biblical books in the canon as received by synagogue and church. The shape, order and arrangement of the books carry meaning. Earlier sources may be studied, but Scripture is the text as it stands.",
+   "strengths": "Reunites academic study with the community of faith; takes the whole Bible seriously as one witness; values the editors and communities who shaped it.",
+   "critiques": "Some say it sidesteps historical questions about what really happened; others ask which canon (Jewish, Protestant, Catholic, Orthodox) is in view. Evangelicals welcome its focus on the final text but some feel it does not affirm historicity strongly enough."
+  },
+  {
+   "name": "Theological interpretation of Scripture",
+   "who": "Kevin Vanhoozer, Daniel Treier, Stephen Fowl, Hans Boersma, R. R. Reno; the Brazos Theological Commentary",
+   "summary": "The Bible is read as God's communicative word to the church, using creeds, doctrine and the history of interpretation as aids alongside historical and literary study. Interpretation aims at knowing and loving God, and pre-modern readers are valued conversation partners.",
+   "strengths": "Restores Scripture as Scripture; bridges the gap between Bible scholars and theologians; recovers the wisdom of pre-modern readers.",
+   "critiques": "Critics say doctrine can overrule the text, that the movement is defined in many different ways, and that it may underplay historical study. Practitioners reply that they seek to integrate, not replace, careful exegesis."
+  },
+  {
+   "name": "Pentecostal / charismatic Spirit hermeneutic",
+   "who": "Kenneth Archer, Amos Yong, Craig Keener, Lee Roy Martin; global Pentecostal and charismatic churches",
+   "summary": "Interpretation is a conversation between Scripture, the Spirit and the community. Readers expect the Spirit who inspired Scripture to speak and act through it now. Narrative books such as Acts are read as patterns for church life today. Testimony and experience are tested by the text and the community.",
+   "strengths": "Expectant, transformational reading; takes the Spirit's present work seriously; gives voice to the global church; reads narrative as theology.",
+   "critiques": "Critics worry about subjectivity and about building doctrine on narrative examples. Pentecostal scholars answer that the community and the text test experience, and that all traditions read from experience whether they admit it or not. Keener stresses that Spirit-led reading begins with careful attention to the original meaning."
+  },
+  {
+   "name": "Jewish-context / relational covenant reading",
+   "who": "Marvin Wilson, Lois Tverberg, Kenneth Bailey, David Bivin, Brad Young (popular level); scholars such as Amy-Jill Levine, Marc Brettler, Mark Nanos, N. T. Wright (in various ways)",
+   "summary": "The Bible is read as its first hearers knew it: inside Israel's covenant relationship with God, with Torah as gift, the land, temple, feasts and the hope of restoration. Jesus is read as a Jewish teacher using Jewish methods, idioms and stories. Salvation is seen as God's faithful relationship with a people, not only individual transactions.",
+   "strengths": "Recovers lost meanings of idioms and customs; corrects anti-Jewish distortions; shows the relational heart of grace and faith; fits the New Testament's own Jewishness.",
+   "critiques": "Scholars warn against using rabbinic sources written centuries later as if they described Jesus' day, against romanticising 'Hebrew thought', and against making the Bible's background more important than its message. Careful practitioners agree and date their sources."
+  }
+ ],
+ "practice": [
+  {
+   "title": "The context circle",
+   "steps": [
+    "Choose a favourite verse that you have often heard on its own.",
+    "Read the whole paragraph around it and write one sentence on what the paragraph is about.",
+    "Read the whole chapter, then skim the whole book, and note who wrote it, to whom, and why.",
+    "Write down what the verse meant in that setting.",
+    "Compare this with how you have heard the verse used. Is the usual use faithful, a fair extension, or a misreading?"
+   ]
+  },
+  {
+   "title": "Genre detective",
+   "steps": [
+    "Pick three short passages: Proverbs 22:6, Psalm 137:7-9 and Revelation 13:1-2.",
+    "For each, name the genre using the decision tree in this study.",
+    "Write down two rules for reading that genre.",
+    "Explain what would go wrong if you read each one as if it were a different genre (for example, the proverb as a promise, or the vision as a newspaper report).",
+    "In a group, share your answers and note where you disagree."
+   ]
+  },
+  {
+   "title": "Then and now in four columns",
+   "steps": [
+    "Choose a short passage from a letter (for example, 1 Corinthians 8:1-13 on food offered to idols).",
+    "Column 1: What the text says (observe).",
+    "Column 2: What it meant to the first readers (their situation, culture, question).",
+    "Column 3: The lasting principle (true across the Bible).",
+    "Column 4: How it applies in your own culture today. Is there a modern equivalent to 'food offered to idols' where you live?"
+   ]
+  },
+  {
+   "title": "Trace an Old Testament quotation",
+   "steps": [
+    "Read Matthew 2:13-15 and note the quotation from Hosea.",
+    "Read Hosea 11:1-11 in full and write down what Hosea was talking about.",
+    "Ask: how is Jesus like Israel here, and how is he different (faithful where Israel was not)?",
+    "Discuss: is Matthew giving a prediction, a pattern (typology), or both?",
+    "Repeat with Acts 2:25-32 and Psalm 16."
+   ]
+  },
+  {
+   "title": "Read with the wider church",
+   "steps": [
+    "Choose a passage such as the parable of the prodigal son (Luke 15:11-32).",
+    "Write down what you notice first.",
+    "Read a commentary from another culture (for example, Kenneth Bailey on Middle Eastern village life, the *Africa Bible Commentary* or the *South Asia Bible Commentary*).",
+    "Read how an early church writer or a Reformer handled the passage.",
+    "Note one thing each voice saw that you missed, and pray about how it changes your response."
+   ]
+  },
+  {
+   "title": "A small-group hermeneutics night",
+   "steps": [
+    "Pray together for the Spirit's help and for humble hearts.",
+    "Read the passage aloud twice, from two translations.",
+    "Walk through the nine-step method in this study, with each person taking one step.",
+    "Agree on a one-sentence summary of what it meant then, and a one-sentence principle.",
+    "Each person names one concrete way to obey it this week, and the group checks in next time."
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "author": "Gordon D. Fee and Douglas Stuart",
+   "title": "How to Read the Bible for All Its Worth",
+   "year": 1981,
+   "locator": "4th ed. 2014"
+  },
+  {
+   "author": "William W. Klein, Craig L. Blomberg and Robert L. Hubbard Jr.",
+   "title": "Introduction to Biblical Interpretation",
+   "year": 1993,
+   "locator": "3rd ed. 2017"
+  },
+  {
+   "author": "Grant R. Osborne",
+   "title": "The Hermeneutical Spiral: A Comprehensive Introduction to Biblical Interpretation",
+   "year": 1991,
+   "locator": "2nd ed. 2006"
+  },
+  {
+   "author": "Kevin J. Vanhoozer",
+   "title": "Is There a Meaning in This Text? The Bible, the Reader, and the Morality of Literary Knowledge",
+   "year": 1998
+  },
+  {
+   "author": "Kevin J. Vanhoozer (ed.)",
+   "title": "Dictionary for Theological Interpretation of the Bible",
+   "year": 2005
+  },
+  {
+   "author": "Anthony C. Thiselton",
+   "title": "The Two Horizons",
+   "year": 1980
+  },
+  {
+   "author": "Anthony C. Thiselton",
+   "title": "New Horizons in Hermeneutics",
+   "year": 1992
+  },
+  {
+   "author": "Richard B. Hays",
+   "title": "Echoes of Scripture in the Letters of Paul",
+   "year": 1989
+  },
+  {
+   "author": "Richard B. Hays",
+   "title": "Echoes of Scripture in the Gospels",
+   "year": 2016
+  },
+  {
+   "author": "Peter Enns",
+   "title": "Inspiration and Incarnation: Evangelicals and the Problem of the Old Testament",
+   "year": 2005
+  },
+  {
+   "author": "Matthew W. Bates",
+   "title": "The Hermeneutics of the Apostolic Proclamation",
+   "year": 2012
+  },
+  {
+   "author": "Craig S. Keener",
+   "title": "Spirit Hermeneutics: Reading Scripture in Light of Pentecost",
+   "year": 2016
+  },
+  {
+   "author": "Kenneth J. Archer",
+   "title": "A Pentecostal Hermeneutic for the Twenty-First Century: Spirit, Scripture and Community",
+   "year": 2004
+  },
+  {
+   "author": "Lois Tverberg",
+   "title": "Reading the Bible with Rabbi Jesus",
+   "year": 2017
+  },
+  {
+   "author": "Marvin R. Wilson",
+   "title": "Our Father Abraham: Jewish Roots of the Christian Faith",
+   "year": 1989
+  },
+  {
+   "author": "Kenneth E. Bailey",
+   "title": "Jesus Through Middle Eastern Eyes",
+   "year": 2008
+  },
+  {
+   "author": "James L. Kugel",
+   "title": "How to Read the Bible: A Guide to Scripture, Then and Now",
+   "year": 2007
+  },
+  {
+   "author": "James L. Kugel",
+   "title": "The Bible As It Was",
+   "year": 1997
+  },
+  {
+   "author": "Amy-Jill Levine and Marc Zvi Brettler (eds.)",
+   "title": "The Jewish Annotated New Testament",
+   "year": 2011
+  },
+  {
+   "author": "Richard N. Longenecker",
+   "title": "Biblical Exegesis in the Apostolic Period",
+   "year": 1975
+  },
+  {
+   "author": "C. H. Dodd",
+   "title": "According to the Scriptures",
+   "year": 1952
+  },
+  {
+   "author": "G. K. Beale and D. A. Carson (eds.)",
+   "title": "Commentary on the New Testament Use of the Old Testament",
+   "year": 2007
+  },
+  {
+   "author": "Brevard S. Childs",
+   "title": "Introduction to the Old Testament as Scripture",
+   "year": 1979
+  },
+  {
+   "author": "Robert Alter",
+   "title": "The Art of Biblical Narrative",
+   "year": 1981
+  },
+  {
+   "author": "Daniel J. Treier",
+   "title": "Introducing Theological Interpretation of Scripture",
+   "year": 2008
+  },
+  {
+   "author": "Frances M. Young",
+   "title": "Biblical Exegesis and the Formation of Christian Culture",
+   "year": 1997
+  },
+  {
+   "author": "E. D. Hirsch Jr.",
+   "title": "Validity in Interpretation",
+   "year": 1967
+  },
+  {
+   "author": "Hans-Georg Gadamer",
+   "title": "Truth and Method",
+   "year": 1960
+  },
+  {
+   "author": "Stanley Fish",
+   "title": "Is There a Text in This Class? The Authority of Interpretive Communities",
+   "year": 1980
+  },
+  {
+   "author": "Paul Ricoeur",
+   "title": "Interpretation Theory: Discourse and the Surplus of Meaning",
+   "year": 1976
+  },
+  {
+   "author": "Second Vatican Council",
+   "title": "Dei Verbum (Dogmatic Constitution on Divine Revelation)",
+   "year": 1965,
+   "locator": "ch. 3, sec. 12"
+  },
+  {
+   "author": "Pontifical Biblical Commission",
+   "title": "The Interpretation of the Bible in the Church",
+   "year": 1993
+  },
+  {
+   "author": "International Council on Biblical Inerrancy",
+   "title": "Chicago Statement on Biblical Hermeneutics",
+   "year": 1982
+  },
+  {
+   "author": "John Breck",
+   "title": "Scripture in Tradition: The Bible and Its Interpretation in the Orthodox Church",
+   "year": 2001
+  },
+  {
+   "author": "Augustine of Hippo",
+   "title": "On Christian Doctrine (De doctrina christiana)",
+   "year": 426,
+   "locator": "1.36.40 (love as the goal of interpretation)",
+   "publicDomain": true
+  },
+  {
+   "author": "Origen",
+   "title": "On First Principles",
+   "locator": "Book 4",
+   "publicDomain": true
+  },
+  {
+   "author": "John Cassian",
+   "title": "Conferences",
+   "locator": "14.8 (the four senses)",
+   "publicDomain": true
+  },
+  {
+   "author": "Thomas Aquinas",
+   "title": "Summa Theologiae",
+   "locator": "I, q. 1, a. 10",
+   "publicDomain": true
+  },
+  {
+   "author": "Irenaeus of Lyon",
+   "title": "Against Heresies",
+   "locator": "1.10.1 (rule of faith)",
+   "publicDomain": true
+  },
+  {
+   "author": "Tokunboh Adeyemo (ed.)",
+   "title": "Africa Bible Commentary",
+   "year": 2006
+  },
+  {
+   "author": "Brian Wintle (ed.)",
+   "title": "South Asia Bible Commentary",
+   "year": 2015
+  },
+  {
+   "author": "E. Randolph Richards and Brandon J. O'Brien",
+   "title": "Misreading Scripture with Western Eyes",
+   "year": 2012
+  },
+  {
+   "author": "Graeme Goldsworthy",
+   "title": "Gospel-Centered Hermeneutics",
+   "year": 2006
+  },
+  {
+   "author": "Sidney Greidanus",
+   "title": "Preaching Christ from the Old Testament",
+   "year": 1999
+  },
+  {
+   "author": "Geerhardus Vos",
+   "title": "Biblical Theology: Old and New Testaments",
+   "year": 1948
+  },
+  {
+   "author": "D. A. Carson",
+   "title": "Exegetical Fallacies",
+   "year": 1984
+  },
+  {
+   "author": "Gordon D. Fee",
+   "title": "The First Epistle to the Corinthians (NICNT)",
+   "year": 1987,
+   "locator": "on 1 Cor 14:34-35"
+  },
+  {
+   "author": "John H. Walton",
+   "title": "The Lost World of Genesis One",
+   "year": 2009
+  },
+  {
+   "author": "Julius Wellhausen",
+   "title": "Prolegomena to the History of Israel",
+   "year": 1883,
+   "locator": "first published 1878 as Geschichte Israels",
+   "publicDomain": true
+  },
+  {
+   "author": "Baruch Spinoza",
+   "title": "Theological-Political Treatise",
+   "year": 1670,
+   "locator": "ch. 7",
+   "publicDomain": true
+  },
+  {
+   "author": "Hans Boersma",
+   "title": "Scripture as Real Presence: Sacramental Exegesis in the Early Church",
+   "year": 2017
+  },
+  {
+   "author": "Mishnah",
+   "title": "Avot (Sayings of the Fathers)",
+   "locator": "3.2 or 3.3 depending on edition (Shekhinah among those who study Torah)",
+   "publicDomain": true,
+   "confidence": "needs-verification"
+  },
+  {
+   "author": "Tosefta",
+   "title": "Sanhedrin",
+   "locator": "7.11 (seven rules of Hillel)",
+   "publicDomain": true,
+   "confidence": "needs-verification"
+  }
+ ]
+}

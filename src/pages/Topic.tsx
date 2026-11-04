@@ -116,8 +116,8 @@ function ConceptMap({ tp }: { tp: TopicStudyT }) {
     const nodes: Node[] = tp.map.nodes.map((n) => {
       const c = Math.max(0, cols.indexOf(n.group)); const r = counts.get(n.group) ?? 0; counts.set(n.group, r + 1);
       const gc = groupColor(tp, n.group); const dim = (only && n.group !== only) || (sel && !linked.has(n.id) && sel !== n.id && linked.size > 0);
-      return { id: n.id, position: { x: c * 240 + (r % 2) * 30, y: r * 92 }, data: { label: n.label },
-        style: { width: 190, borderRadius: 14, padding: '8px 10px', fontSize: 13, fontWeight: 600, opacity: dim ? 0.3 : 1, background: sel === n.id ? color(gc) : 'rgb(var(--surface))', color: sel === n.id ? 'rgb(var(--accent-ink))' : 'rgb(var(--text))', border: `2px solid ${color(gc, 0.8)}` } };
+      return { id: n.id, position: { x: c * 185 + (r % 2) * 18, y: r * 78 }, data: { label: n.label },
+        style: { width: 160, borderRadius: 14, padding: '8px 10px', fontSize: 14, fontWeight: 600, lineHeight: 1.2, opacity: dim ? 0.4 : 1, background: sel === n.id ? color(gc) : 'rgb(var(--surface))', color: sel === n.id ? 'rgb(var(--accent-ink))' : 'rgb(var(--text))', border: `2px solid ${color(gc, 0.8)}` } };
     });
     const edges: Edge[] = tp.map.edges.map((e, i) => {
       const on = sel === e.from || sel === e.to;
@@ -133,9 +133,9 @@ function ConceptMap({ tp }: { tp: TopicStudyT }) {
     <div>
       <h2 className="display text-2xl">{tp.map.title}</h2><p className="font-serif text-[1.05rem] max-w-[72ch] mt-1 mb-3"><Rich text={tp.map.intro} /></p>
       <GroupFilter tp={tp} value={only} onChange={setOnly} />
-      <div className="grid gap-4 lg:grid-cols-[minmax(0,1.6fr)_minmax(0,1fr)] mt-3">
-        <div className="card h-[560px] overflow-hidden"><ReactFlow nodes={nodes} edges={edges} fitView minZoom={0.15} maxZoom={1.6} nodesConnectable={false} onNodeClick={(_, x) => setSel(x.id)} proOptions={{ hideAttribution: true }}><Background gap={22} color="rgb(var(--border))" /><Controls showInteractive={false} /></ReactFlow></div>
-        {n && <motion.div key={n.id} className="card p-5 self-start" initial={{ opacity: 0.5, x: 8 }} animate={{ opacity: 1, x: 0 }}>
+      <div className="grid gap-4 mt-3">
+        <div className="card h-[440px] md:h-[600px] overflow-hidden"><ReactFlow nodes={nodes} edges={edges} fitView fitViewOptions={{ padding: 0.04 }} minZoom={0.15} maxZoom={1.6} nodesConnectable={false} onNodeClick={(_, x) => setSel(x.id)} proOptions={{ hideAttribution: true }}><Background gap={22} color="rgb(var(--border))" /><Controls showInteractive={false} /></ReactFlow></div>
+        {n && <motion.div key={n.id} className="card p-5 max-w-4xl" initial={{ opacity: 0.5, y: 8 }} animate={{ opacity: 1, y: 0 }}>
           <div className="eyebrow" style={{ color: color(groupColor(tp, n.group)) }}>{tp.groups.find((g) => g.id === n.group)?.label}</div>
           <div className="display text-2xl leading-tight">{n.label}</div>
           <p className="font-serif text-[1.05rem] mt-2"><Rich text={n.detail} /></p>
@@ -285,15 +285,17 @@ function Spectrum({ tp }: { tp: TopicStudyT }) {
   return (
     <div>
       <h2 className="display text-2xl">{s.title}</h2><p className="font-serif text-[1.05rem] max-w-[72ch] mt-1 mb-6"><Rich text={s.intro} /></p>
-      <div className="relative mx-2 md:mx-8 mb-20 mt-10">
-        <div className="h-3 rounded-full" style={{ background: `linear-gradient(90deg, ${color('nt', 0.7)}, ${color('accent', 0.4)}, ${color('ot', 0.7)})` }} />
-        {stops.map((x, i) => (
-          <button key={i} onClick={() => setSel(i)} className="absolute -translate-x-1/2 top-1/2 -translate-y-1/2 group" style={{ left: `${x.pos}%` }} aria-label={x.label}>
-            <span className={`block rounded-full border-[3px] transition-all ${i === sel ? 'w-7 h-7 bg-accent border-surface shadow-lg' : 'w-5 h-5 bg-surface border-accent'}`} />
-            <span className={`absolute left-1/2 -translate-x-1/2 ${i % 2 ? 'top-8' : 'bottom-8'} text-[.72rem] leading-tight w-24 text-center ${i === sel ? 'font-bold text-accent' : 'text-muted'}`}>{x.label}</span>
-          </button>))}
-        <div className="flex justify-between text-sm font-semibold mt-16 gap-4"><span className="max-w-[45%]">← {s.left}</span><span className="max-w-[45%] text-right">{s.right} →</span></div>
+      <div className="mx-4 md:mx-12 pt-6 pb-6 md:pt-14 md:pb-14">
+        <div className="relative h-3 rounded-full" style={{ background: `linear-gradient(90deg, ${color('nt', 0.7)}, ${color('accent', 0.4)}, ${color('ot', 0.7)})` }}>
+          {stops.map((x, i) => (
+            <button key={i} onClick={() => setSel(i)} className="absolute top-1/2 -translate-x-1/2 -translate-y-1/2" style={{ left: `${x.pos}%` }} aria-label={x.label}>
+              <span className={`block rounded-full border-[3px] transition-all ${i === sel ? 'w-7 h-7 bg-accent border-surface shadow-lg' : 'w-5 h-5 bg-surface border-accent'}`} />
+              <span className={`hidden md:block absolute left-1/2 -translate-x-1/2 ${i % 2 ? 'top-9' : 'bottom-9'} text-[.72rem] leading-tight w-[5.5rem] text-center ${i === sel ? 'font-bold text-accent' : 'text-muted'}`}>{x.label}</span>
+            </button>))}
+        </div>
       </div>
+      <div className="flex justify-between text-sm font-semibold mb-4 gap-4"><span className="max-w-[45%]">← {s.left}</span><span className="max-w-[45%] text-right">{s.right} →</span></div>
+      <div className="md:hidden flex flex-wrap gap-1.5 mb-4">{stops.map((x, i) => <button key={i} onClick={() => setSel(i)} className={`chip ${i === sel ? '!bg-accent !text-accentInk !border-accent' : ''}`}><span className="tabular opacity-70">{i + 1}</span>{x.label}</button>)}</div>
       {cur && <motion.div key={sel} initial={{ opacity: 0.4, y: 6 }} animate={{ opacity: 1, y: 0 }} className="card p-5 max-w-3xl">
         <div className="display text-2xl">{cur.label}</div><div className="text-sm text-muted">{cur.who}</div><p className="font-serif text-[1.06rem] mt-2"><Rich text={cur.text} /></p>
         <div className="flex justify-between mt-3"><button className="btn" disabled={sel === 0} onClick={() => setSel(sel - 1)}>←</button><button className="btn" disabled={sel === stops.length - 1} onClick={() => setSel(sel + 1)}>→</button></div>
