@@ -8,7 +8,7 @@ for f in glob.glob(J('i18n', 'ta', '*.json')):
     try: tr.update(json.load(open(f)))
     except Exception as e: print('skip bad file', f, e)
 manifest = json.load(open(J('i18n', 'manifest.json')))
-ENUM_KEYS = {'parent', 'books', 'abbr', 'category', 'criterion', 'kind', 'leans', 'region', 'role', 'side', 'testament', 'tier', 'track', 'type', 'verdict', 'warrant', 'status', 'confidence'}
+ENUM_KEYS = {'parent', 'books', 'abbr', 'answer', 'start', 'group', 'category', 'criterion', 'kind', 'leans', 'region', 'role', 'side', 'testament', 'tier', 'track', 'type', 'verdict', 'warrant', 'status', 'confidence'}
 import re
 # id-like = a real id somewhere in the content, or a slug with a hyphen/underscore/digit (e.g. "christus-victor", "es-c1")
 SLUG = re.compile(r'[a-z0-9]*([-_][a-z0-9]+)+|[a-z]+\d+[a-z0-9]*')
