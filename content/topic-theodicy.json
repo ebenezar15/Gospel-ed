@@ -1,0 +1,3075 @@
+{
+ "id": "theodicy",
+ "title": "Theodicy: God, Evil and Suffering",
+ "subtitle": "If God is good and powerful, why is there so much evil and pain? The question, the Bible's own answers and protests, the main Christian and Jewish responses, and how to stay with people who suffer",
+ "plain": "Theodicy is the attempt to show that God is just and good even though the world is full of evil and suffering; a 'defence' aims at less, showing only that God and evil are not logically contradictory. The problem is ancient and sharp: if God is fully good, fully powerful and fully knowing, why does he allow children to die of cancer, tsunamis to drown villages and people to torture one another? The Bible does not hide from this question. It contains whole books of protest (Job, Lamentations, Habakkuk), prayers that accuse God (Ps 88), and Jesus himself crying 'My God, why have you forsaken me?' (Mark 15:34). Christians and Jews have given many serious answers: evil comes from misused freedom, suffering can grow souls, God has reasons we cannot see, the world is a battlefield with real enemies, God suffers with us on the cross, and God will finally wipe away every tear (Rev 21:4). No answer removes all the difficulty, and the Bible itself warns against neat explanations offered to people in pain (Job 42:7). Most wise teachers hold the explanations loosely and the sufferer closely: lament, presence and hope come first, arguments second.",
+ "keyPoints": [
+  "The problem is usually stated as an 'inconsistent triad': God is all-powerful, God is wholly good, and evil exists. Every response either denies that the three really conflict or adjusts how one of them is understood.",
+  "Philosophers separate the logical problem (God and evil cannot both exist) from the evidential problem (the amount and kind of evil make God unlikely). Many philosophers, including many atheists, think Alvin Plantinga's free-will defence answered the logical form; the evidential form, pressed by William Rowe in 1979, is still widely debated.",
+  "The Bible rejects the simple rule that suffering always proves sin: God rebukes Job's friends (Job 42:7) and Jesus denies that the man born blind or the victims at Siloam were worse sinners (John 9:1-3, Luke 13:1-5).",
+  "Lament is not a lack of faith. About a third of the Psalms are complaints addressed to God, and the tradition of arguing with God runs from Abraham (Gen 18:25) and Moses (Exod 32:11-14) to Jewish thinkers after the Holocaust.",
+  "The main Christian responses (Augustinian, soul-making, free will, Reformed sovereignty, cosmic conflict, skeptical theism, open theism, process, cruciform) disagree about God's power, knowledge and control. Each has real strengths and real costs.",
+  "The New Testament answer is less an explanation than a story: God enters suffering in Jesus, defeats evil through the cross and resurrection, and promises a renewed creation where death is no more (Rom 8:18-25, 1 Cor 15:26, Rev 21:1-5).",
+  "Related problems include divine hiddenness, hell, violence in the Old Testament and animal suffering before humans existed; each sharpens the main question in a different way.",
+  "Pastorally, presence comes before explanation. Job's friends did best in their first seven silent days (Job 2:13). 'Everything happens for a reason' and 'you must not have enough faith' wound people and are not biblical teaching."
+ ],
+ "groups": [
+  {
+   "id": "problem",
+   "label": "The problem stated",
+   "color": "warn"
+  },
+  {
+   "id": "scripture",
+   "label": "Biblical voices",
+   "color": "ot"
+  },
+  {
+   "id": "classic",
+   "label": "Classic Christian responses",
+   "color": "nt"
+  },
+  {
+   "id": "modern",
+   "label": "Modern philosophical and theological responses",
+   "color": "accent"
+  },
+  {
+   "id": "jewish",
+   "label": "Jewish responses",
+   "color": "accent-2"
+  },
+  {
+   "id": "pastoral",
+   "label": "Lived and pastoral responses",
+   "color": "good"
+  }
+ ],
+ "map": {
+  "title": "The map of the problem of evil",
+  "intro": "Start with the triad in the centre. Red-toned nodes state the problem in its different forms; the others are the main responses from Scripture, Christian tradition, philosophy and Jewish thought. Follow the arrows to see what answers what, what grows out of what, and where views clash. No single node is 'the answer'; most thoughtful believers combine several.",
+  "nodes": [
+   {
+    "id": "triad",
+    "label": "The inconsistent triad",
+    "group": "problem",
+    "detail": "Three claims that seem unable to be true together: God is all-powerful, God is perfectly good, and evil exists. Lactantius reports Epicurus framing it this way, and David Hume restated it. Every theodicy is an attempt to show the three are consistent, or to refine what one of them means.",
+    "refs": [
+     "Hab 1:13",
+     "Ps 10:1",
+     "Jer 12:1"
+    ],
+    "examples": [
+     "Epicurus as reported by Lactantius",
+     "Hume, Dialogues Part 10",
+     "Mackie 1955"
+    ]
+   },
+   {
+    "id": "logical",
+    "label": "Logical problem",
+    "group": "problem",
+    "detail": "The claim that God and evil are strictly contradictory, so belief in God is irrational. J. L. Mackie pressed this in 'Evil and Omnipotence' (1955). The argument needs a hidden premise: that a good, powerful God would always eliminate evil. Critics of the argument ask whether that premise is necessarily true.",
+    "refs": [
+     "Gen 1:31",
+     "Ps 145:9"
+    ],
+    "examples": [
+     "J. L. Mackie",
+     "H. J. McCloskey"
+    ]
+   },
+   {
+    "id": "evidential",
+    "label": "Evidential problem",
+    "group": "problem",
+    "detail": "The weaker but stronger-feeling claim: the amount and kind of evil make God's existence improbable. William Rowe (1979) imagined a fawn trapped in a forest fire, burned and dying for days with no one to see it. Such suffering seems pointless, and a good God would not allow pointless suffering.",
+    "refs": [
+     "Rom 8:22",
+     "Ps 73:2-14"
+    ],
+    "examples": [
+     "William Rowe's fawn",
+     "Paul Draper",
+     "Bruce Russell"
+    ]
+   },
+   {
+    "id": "moral-evil",
+    "label": "Moral evil",
+    "group": "problem",
+    "detail": "Evil done by free agents: murder, cruelty, injustice, abuse, war. The Bible traces it to the human heart and to the misuse of the freedom God gave (Gen 4:6-8, Jer 17:9). It is the easiest kind to connect to the free-will response.",
+    "refs": [
+     "Gen 4:6-8",
+     "Jer 17:9",
+     "Jas 1:13-15",
+     "Mark 7:21-23"
+    ]
+   },
+   {
+    "id": "natural-evil",
+    "label": "Natural evil",
+    "group": "problem",
+    "detail": "Suffering that no human chose: earthquakes, tsunamis, disease, birth defects, famine. It is harder to blame on human freedom. Responses link it to the Fall, to fixed natural laws, to fallen spiritual powers, or to a creation that is good but not yet finished.",
+    "refs": [
+     "Rom 8:20-22",
+     "Luke 13:4",
+     "Gen 3:17-19"
+    ]
+   },
+   {
+    "id": "gratuitous",
+    "label": "Gratuitous evil",
+    "group": "problem",
+    "detail": "Evil that serves no greater good at all. If even one such evil exists, many argue, God cannot be both good and powerful. Theists either deny that any evil is truly pointless (skeptical theism, Reformed view) or argue that God may permit some pointless evil as the cost of a world with real freedom and stable laws (open theism, some free-will views).",
+    "refs": [
+     "Eccl 9:11",
+     "Eccl 8:14"
+    ]
+   },
+   {
+    "id": "horrendous",
+    "label": "Horrendous evils",
+    "group": "problem",
+    "detail": "Marilyn McCord Adams' term for evils so terrible that they seem to destroy the meaning of a person's life, such as a parent forced to harm their own child. She argued that general 'greater good' arguments are not enough; God must defeat such evils within each victim's own life, finally through union with God.",
+    "refs": [
+     "Lam 2:20",
+     "Ps 88:15-18",
+     "Rev 21:4"
+    ],
+    "examples": [
+     "Marilyn McCord Adams (1999)",
+     "The Holocaust",
+     "Child abuse"
+    ]
+   },
+   {
+    "id": "hiddenness",
+    "label": "Divine hiddenness",
+    "group": "problem",
+    "detail": "A related problem: if a loving God exists, why do many sincere seekers find no sign of him? J. L. Schellenberg argued in 1993 that a perfectly loving God would always make a relationship available to anyone not resisting it. The Bible itself speaks of God hiding his face.",
+    "refs": [
+     "Isa 45:15",
+     "Ps 13:1",
+     "Deut 31:17-18",
+     "Ps 22:1-2"
+    ]
+   },
+   {
+    "id": "animals",
+    "label": "Animal and pre-human suffering",
+    "group": "problem",
+    "detail": "Fossils show predation, disease and extinction for millions of years before humans. This troubles theodicies that blame all suffering on human sin. Responses include a cosmic fall of angelic powers, a 'cost of an evolving world' view, or a reading of Genesis in which death among animals was not the 'death' brought by sin.",
+    "refs": [
+     "Ps 104:21",
+     "Job 38:39-41",
+     "Rom 8:19-22",
+     "Isa 11:6-9"
+    ]
+   },
+   {
+    "id": "job",
+    "label": "The book of Job",
+    "group": "scripture",
+    "detail": "A blameless man loses everything after the accuser questions his motives. His friends insist he must have sinned; Job protests his innocence and demands a hearing. God answers from the whirlwind with questions about creation, never explaining the heavenly wager, then says the friends were wrong and Job spoke rightly.",
+    "refs": [
+     "Job 1:6-12",
+     "Job 38:1-7",
+     "Job 42:7-10"
+    ]
+   },
+   {
+    "id": "lament",
+    "label": "Lament and protest prayer",
+    "group": "scripture",
+    "detail": "The Bible gives sufferers words to complain to God: 'How long, O Lord?' (Ps 13:1). Lament is covenant speech: it holds God to his promises. Ps 88 ends in darkness without resolution, which tells sufferers that even unresolved prayer belongs in Scripture.",
+    "refs": [
+     "Ps 13",
+     "Ps 22",
+     "Ps 44",
+     "Ps 88",
+     "Lam 3:1-33",
+     "Hab 1:2-4"
+    ]
+   },
+   {
+    "id": "retribution",
+    "label": "Retribution theology",
+    "group": "scripture",
+    "detail": "The principle that the righteous prosper and the wicked suffer. It is true as a covenant pattern (Deut 28) and in Proverbs, but Job, Ecclesiastes and Jesus deny that it works as a rule for reading individual lives. Misused, it becomes the idea that every sufferer deserves it.",
+    "refs": [
+     "Deut 28:1-6",
+     "Prov 3:1-10",
+     "Job 4:7-9",
+     "Eccl 7:15"
+    ]
+   },
+   {
+    "id": "jesus-suffering",
+    "label": "Jesus on suffering",
+    "group": "scripture",
+    "detail": "Jesus refuses to link specific disasters to specific sins (Luke 13:1-5, John 9:1-3). He weeps at a tomb (John 11:35), heals as a sign of God's kingdom pushing back evil (Luke 13:16), and calls all people to repentance in the face of life's fragility.",
+    "refs": [
+     "Luke 13:1-5",
+     "John 9:1-3",
+     "John 11:35",
+     "Luke 13:16"
+    ]
+   },
+   {
+    "id": "cross",
+    "label": "The cross",
+    "group": "scripture",
+    "detail": "For Christians, the centre of any answer. The worst moral evil in the story, the murder of the innocent Son, is both freely done by wicked people and within God's saving plan (Acts 2:23). On the cross God does not explain suffering from a distance but enters it.",
+    "refs": [
+     "Mark 15:34",
+     "Acts 2:23",
+     "Isa 53:3-5",
+     "Heb 2:14-18"
+    ]
+   },
+   {
+    "id": "new-creation",
+    "label": "Eschatological hope",
+    "group": "scripture",
+    "detail": "The promise that present suffering is not the last word. Creation groans like a woman in labour waiting for renewal (Rom 8:18-25). Death will be destroyed (1 Cor 15:26) and God will wipe every tear (Rev 21:4). Many think no theodicy works without this horizon.",
+    "refs": [
+     "Rom 8:18-25",
+     "2 Cor 4:16-18",
+     "1 Cor 15:26",
+     "Rev 21:1-5"
+    ]
+   },
+   {
+    "id": "privation",
+    "label": "Augustinian: privation and Fall",
+    "group": "classic",
+    "detail": "Augustine taught that God made everything good and that evil is not a 'thing' but a lack or twisting of good, like blindness in an eye. Evil entered through the free rebellion of angels and humans; natural disorder follows the Fall. God permits evil only because he can bring greater good out of it.",
+    "refs": [
+     "Gen 1:31",
+     "Gen 3:17-19",
+     "Rom 5:12"
+    ],
+    "examples": [
+     "Augustine, Enchiridion 11",
+     "Aquinas",
+     "C. S. Lewis"
+    ]
+   },
+   {
+    "id": "soul-making",
+    "label": "Irenaean soul-making",
+    "group": "classic",
+    "detail": "Following hints in Irenaeus, John Hick (1966) argued that humans were made immature and placed in a challenging world at an 'epistemic distance' from God, so that they could freely grow into children of God. A world without pain could not produce courage, compassion or trust.",
+    "refs": [
+     "Rom 5:3-5",
+     "Jas 1:2-4",
+     "Heb 12:10-11"
+    ],
+    "examples": [
+     "Irenaeus, Against Heresies 4.37-39",
+     "John Hick",
+     "Keats' 'vale of soul-making'"
+    ]
+   },
+   {
+    "id": "free-will",
+    "label": "Free-will defence",
+    "group": "modern",
+    "detail": "Alvin Plantinga argued that a world with creatures who are truly free to do good is more valuable than a world of puppets, and that it is possible even God could not create such a world without some of them choosing evil. If that is even possible, the logical problem fails.",
+    "refs": [
+     "Deut 30:19",
+     "Josh 24:15",
+     "Gen 2:16-17"
+    ],
+    "examples": [
+     "Alvin Plantinga (1974)",
+     "Richard Swinburne"
+    ]
+   },
+   {
+    "id": "sovereignty",
+    "label": "Reformed meticulous sovereignty",
+    "group": "classic",
+    "detail": "God ordains everything that happens, including evil acts, without himself doing evil; human agents remain responsible (compatibilism). Joseph's words are the key text: 'you meant evil against me, but God meant it for good' (Gen 50:20). Evil is never pointless because God has a good purpose for every event.",
+    "refs": [
+     "Gen 50:20",
+     "Isa 45:7",
+     "Amos 3:6",
+     "Acts 4:27-28",
+     "Rom 8:28"
+    ],
+    "examples": [
+     "John Calvin",
+     "Westminster Confession",
+     "D. A. Carson",
+     "John Piper"
+    ]
+   },
+   {
+    "id": "best-world",
+    "label": "Best of all possible worlds",
+    "group": "classic",
+    "detail": "Gottfried Leibniz, who coined the word 'theodicy' (1710), argued that a perfect God must create the best possible world, so this one, with its evils, is the best whole. After the Lisbon earthquake of 1755 Voltaire mocked the idea in *Candide*.",
+    "refs": [
+     "Gen 1:31",
+     "Ps 104:24"
+    ],
+    "examples": [
+     "Leibniz, Theodicy (1710)",
+     "Voltaire, Candide (1759)"
+    ]
+   },
+   {
+    "id": "cosmic-conflict",
+    "label": "Cosmic conflict / warfare",
+    "group": "modern",
+    "detail": "The world is a battlefield. Real spiritual powers who freely rebelled against God oppress creation, and Jesus came to destroy the works of the devil (1 John 3:8). Much evil is not God's will at all but the work of enemies whose defeat began at the cross. Greg Boyd is a leading modern voice.",
+    "refs": [
+     "1 John 3:8",
+     "Eph 6:12",
+     "Luke 13:16",
+     "Acts 10:38",
+     "Col 2:15"
+    ],
+    "examples": [
+     "Greg Boyd",
+     "Gustaf Aulén's Christus Victor",
+     "Many church fathers"
+    ]
+   },
+   {
+    "id": "skeptical",
+    "label": "Skeptical theism",
+    "group": "modern",
+    "detail": "If God exists, we should expect not to see many of his reasons, just as an infant cannot see the reasons for a vaccination. So 'I cannot see a reason' does not show 'there is no reason'. Stephen Wykstra (1984) and Michael Bergmann developed this as a reply to Rowe.",
+    "refs": [
+     "Isa 55:8-9",
+     "Job 38:4",
+     "Rom 11:33-36",
+     "Deut 29:29"
+    ],
+    "examples": [
+     "Stephen Wykstra",
+     "Michael Bergmann",
+     "Daniel Howard-Snyder"
+    ]
+   },
+   {
+    "id": "open-theism",
+    "label": "Open theism",
+    "group": "modern",
+    "detail": "God knows everything that can be known, but the future free choices of creatures are not yet settled and so not yet knowable. God takes real risks in creating free beings. Specific evils may be genuinely pointless and grieve God, who works to bring good out of them.",
+    "refs": [
+     "Gen 6:6",
+     "Jer 3:7",
+     "Exod 32:14",
+     "Jer 18:7-10"
+    ],
+    "examples": [
+     "Clark Pinnock",
+     "John Sanders",
+     "William Hasker",
+     "Greg Boyd"
+    ]
+   },
+   {
+    "id": "process",
+    "label": "Process theology",
+    "group": "modern",
+    "detail": "God's power is persuasive, not coercive. God cannot unilaterally stop evil, because every creature has some power of its own. God lures the world toward good and suffers with it. This removes the problem of why God does not intervene, at the cost of a much more limited God.",
+    "refs": [
+     "Hos 11:8-9",
+     "Isa 63:9"
+    ],
+    "examples": [
+     "Alfred North Whitehead",
+     "Charles Hartshorne",
+     "David Ray Griffin",
+     "Thomas Jay Oord (related)"
+    ]
+   },
+   {
+    "id": "cruciform",
+    "label": "Theology of the cross",
+    "group": "classic",
+    "detail": "Luther taught that God is known most truly in weakness and suffering, not in displays of glory. Jürgen Moltmann (*The Crucified God*, 1972) argued that God himself suffers the godforsakenness of the cross. The answer to suffering is a suffering God who shares it from inside and overcomes it.",
+    "refs": [
+     "1 Cor 1:18-25",
+     "Mark 15:34",
+     "Phil 2:5-8",
+     "2 Cor 12:9-10"
+    ],
+    "examples": [
+     "Martin Luther, Heidelberg Disputation (1518)",
+     "Jürgen Moltmann",
+     "Kazoh Kitamori"
+    ]
+   },
+   {
+    "id": "passibility",
+    "label": "Can God suffer?",
+    "group": "classic",
+    "detail": "Classical theology (impassibility) says God is not overwhelmed or changed by suffering; the Son suffered in his human nature. Many modern theologians (passibility) say a loving God must truly feel grief. Both sides affirm that in Christ God truly entered human suffering.",
+    "refs": [
+     "Isa 63:9",
+     "Gen 6:6",
+     "Mal 3:6",
+     "Heb 4:15"
+    ],
+    "examples": [
+     "Thomas Aquinas",
+     "Paul Gavrilyuk",
+     "Abraham Joshua Heschel",
+     "Jürgen Moltmann"
+    ]
+   },
+   {
+    "id": "protest-atheism",
+    "label": "Protest: Ivan Karamazov",
+    "group": "modern",
+    "detail": "In Dostoevsky's novel (1880), Ivan does not deny God; he refuses the deal. No future harmony could justify the tears of one tortured child, so he 'returns his ticket'. Dostoevsky answers not with an argument but with the life of Father Zosima and Alyosha's active love.",
+    "refs": [
+     "Matt 18:6",
+     "Rev 6:9-11"
+    ],
+    "examples": [
+     "Fyodor Dostoevsky",
+     "Albert Camus, The Plague"
+    ]
+   },
+   {
+    "id": "argument-with-god",
+    "label": "Arguing with God",
+    "group": "jewish",
+    "detail": "A deep Jewish tradition of holding God to his own justice. Abraham asks, 'Shall not the Judge of all the earth do right?' (Gen 18:25). Moses pleads against God's wrath. Rabbinic stories, Yiddish prayers and Wiesel's *The Trial of God* continue it. Protest is an act of faith in God's covenant, not a rejection of it.",
+    "refs": [
+     "Gen 18:22-33",
+     "Exod 32:11-14",
+     "Num 14:13-19",
+     "Jer 12:1"
+    ],
+    "examples": [
+     "Abraham",
+     "Moses",
+     "Levi Yitzchak of Berditchev",
+     "Elie Wiesel"
+    ]
+   },
+   {
+    "id": "post-holocaust",
+    "label": "Post-Holocaust theology",
+    "group": "jewish",
+    "detail": "After six million Jews were murdered, Jewish thinkers divided. Richard Rubenstein rejected the God who acts in history; Emil Fackenheim named a '614th commandment' not to give Hitler posthumous victories; Eliezer Berkovits spoke of God hiding his face; Hans Jonas proposed a God who gave up power. Elie Wiesel kept faith and protest together.",
+    "refs": [
+     "Ps 44:17-26",
+     "Deut 31:17-18",
+     "Lam 5:20-22"
+    ],
+    "examples": [
+     "Elie Wiesel",
+     "Richard Rubenstein",
+     "Emil Fackenheim",
+     "Eliezer Berkovits",
+     "Hans Jonas",
+     "Irving Greenberg"
+    ]
+   },
+   {
+    "id": "kushner",
+    "label": "Kushner: good but limited",
+    "group": "jewish",
+    "detail": "Rabbi Harold Kushner, after his son died of a rare ageing disease, wrote *When Bad Things Happen to Good People* (1981). He concluded that God is good but does not control everything; God does not send tragedy but gives strength to bear it. The book comforted millions and was criticised for shrinking God.",
+    "refs": [
+     "Job 9:22-24",
+     "Ps 46:1"
+    ],
+    "examples": [
+     "Harold Kushner"
+    ]
+   },
+   {
+    "id": "presence",
+    "label": "Presence before explanation",
+    "group": "pastoral",
+    "detail": "Most pastoral wisdom says: sit with sufferers, weep with them, and do not hurry to explain. Job's friends were wise for seven silent days and foolish once they started to explain. Paul says God comforts us so we can comfort others.",
+    "refs": [
+     "Job 2:11-13",
+     "Rom 12:15",
+     "2 Cor 1:3-7",
+     "John 11:33-35"
+    ],
+    "examples": [
+     "Nicholas Wolterstorff, Lament for a Son",
+     "John Swinton",
+     "Hospice chaplaincy"
+    ]
+   },
+   {
+    "id": "karma-grace",
+    "label": "Karma and grace",
+    "group": "pastoral",
+    "detail": "In India, suffering is often explained by karma: the results of deeds in this or past lives. This resembles the retribution theology of Job's friends. The gospel answer stresses grace: suffering is not a simple payment for past deeds, and God's mercy is not earned. Christians should speak of this respectfully, knowing that Hindu traditions also teach grace (for example in Tamil Saiva and Vaishnava devotion).",
+    "refs": [
+     "John 9:1-3",
+     "Luke 13:1-5",
+     "Eph 2:8-9",
+     "Ps 103:10"
+    ],
+    "examples": [
+     "2004 tsunami in Tamil Nadu",
+     "Amy Carmichael at Dohnavur",
+     "Gladys Staines' forgiveness"
+    ]
+   }
+  ],
+  "edges": [
+   {
+    "from": "logical",
+    "to": "triad",
+    "label": "says it is contradictory"
+   },
+   {
+    "from": "evidential",
+    "to": "triad",
+    "label": "says it is improbable"
+   },
+   {
+    "from": "moral-evil",
+    "to": "triad",
+    "label": "is one source of"
+   },
+   {
+    "from": "natural-evil",
+    "to": "triad",
+    "label": "is one source of"
+   },
+   {
+    "from": "gratuitous",
+    "to": "evidential",
+    "label": "is the key premise of"
+   },
+   {
+    "from": "horrendous",
+    "to": "evidential",
+    "label": "sharpens"
+   },
+   {
+    "from": "animals",
+    "to": "natural-evil",
+    "label": "extends"
+   },
+   {
+    "from": "hiddenness",
+    "to": "triad",
+    "label": "is a sister problem to"
+   },
+   {
+    "from": "free-will",
+    "to": "logical",
+    "label": "widely judged to answer"
+   },
+   {
+    "from": "free-will",
+    "to": "moral-evil",
+    "label": "explains"
+   },
+   {
+    "from": "privation",
+    "to": "free-will",
+    "label": "is the ancestor of"
+   },
+   {
+    "from": "privation",
+    "to": "natural-evil",
+    "label": "traces to the Fall"
+   },
+   {
+    "from": "soul-making",
+    "to": "natural-evil",
+    "label": "explains as a training ground"
+   },
+   {
+    "from": "soul-making",
+    "to": "privation",
+    "label": "offers an alternative to"
+   },
+   {
+    "from": "skeptical",
+    "to": "evidential",
+    "label": "replies to"
+   },
+   {
+    "from": "skeptical",
+    "to": "gratuitous",
+    "label": "denies we can detect"
+   },
+   {
+    "from": "sovereignty",
+    "to": "gratuitous",
+    "label": "denies"
+   },
+   {
+    "from": "open-theism",
+    "to": "gratuitous",
+    "label": "allows some"
+   },
+   {
+    "from": "open-theism",
+    "to": "sovereignty",
+    "label": "rejects"
+   },
+   {
+    "from": "cosmic-conflict",
+    "to": "natural-evil",
+    "label": "blames partly on fallen powers"
+   },
+   {
+    "from": "cosmic-conflict",
+    "to": "animals",
+    "label": "offers a pre-human fall for"
+   },
+   {
+    "from": "cosmic-conflict",
+    "to": "open-theism",
+    "label": "often joined with"
+   },
+   {
+    "from": "process",
+    "to": "triad",
+    "label": "redefines God's power in"
+   },
+   {
+    "from": "best-world",
+    "to": "sovereignty",
+    "label": "shares confidence in a plan with"
+   },
+   {
+    "from": "protest-atheism",
+    "to": "best-world",
+    "label": "refuses the bargain of"
+   },
+   {
+    "from": "job",
+    "to": "retribution",
+    "label": "overturns as a rule"
+   },
+   {
+    "from": "job",
+    "to": "skeptical",
+    "label": "anticipates (Job 38)"
+   },
+   {
+    "from": "job",
+    "to": "lament",
+    "label": "is the great example of"
+   },
+   {
+    "from": "jesus-suffering",
+    "to": "retribution",
+    "label": "rejects for individuals"
+   },
+   {
+    "from": "karma-grace",
+    "to": "retribution",
+    "label": "parallels"
+   },
+   {
+    "from": "jesus-suffering",
+    "to": "karma-grace",
+    "label": "speaks to"
+   },
+   {
+    "from": "cross",
+    "to": "cruciform",
+    "label": "grounds"
+   },
+   {
+    "from": "cross",
+    "to": "cosmic-conflict",
+    "label": "is the victory in"
+   },
+   {
+    "from": "cross",
+    "to": "sovereignty",
+    "label": "is key text for (Acts 2:23)"
+   },
+   {
+    "from": "cruciform",
+    "to": "passibility",
+    "label": "raises the question"
+   },
+   {
+    "from": "cross",
+    "to": "new-creation",
+    "label": "opens the way to"
+   },
+   {
+    "from": "new-creation",
+    "to": "horrendous",
+    "label": "is needed to defeat"
+   },
+   {
+    "from": "lament",
+    "to": "argument-with-god",
+    "label": "shares roots with"
+   },
+   {
+    "from": "argument-with-god",
+    "to": "post-holocaust",
+    "label": "is renewed in"
+   },
+   {
+    "from": "post-holocaust",
+    "to": "process",
+    "label": "sometimes moves toward (Jonas)"
+   },
+   {
+    "from": "kushner",
+    "to": "process",
+    "label": "resembles"
+   },
+   {
+    "from": "lament",
+    "to": "presence",
+    "label": "gives words for"
+   },
+   {
+    "from": "presence",
+    "to": "job",
+    "label": "learns from the friends' silence"
+   },
+   {
+    "from": "hiddenness",
+    "to": "lament",
+    "label": "is voiced in"
+   },
+   {
+    "from": "protest-atheism",
+    "to": "argument-with-god",
+    "label": "echoes"
+   }
+  ]
+ },
+ "flow": {
+  "title": "Walking through evil and suffering: a path for thinking and praying",
+  "intro": "Use this path when you face a real evil, your own or someone else's, or when you study a hard passage about suffering. The order matters: it moves from honesty, to prayer, to careful thought, to action and hope. Many people jump straight to step 7 (explanations) and skip the rest; the Bible does not.",
+  "steps": [
+   {
+    "label": "Name the evil honestly",
+    "detail": "Say plainly what happened and that it is wrong. The Bible never calls evil good. Jesus was 'deeply moved' and angry at death before he raised Lazarus. Do not rush to soften the harm with religious phrases.",
+    "ask": [
+     "What exactly happened, and who was harmed?",
+     "Am I tempted to say it was 'not so bad' to protect God or myself?",
+     "What would I call this if it happened to a stranger?"
+    ],
+    "refs": [
+     "John 11:33-35",
+     "Isa 5:20",
+     "Rom 12:9"
+    ]
+   },
+   {
+    "label": "Identify the kind of evil",
+    "detail": "Is this moral evil (someone chose it), natural evil (disease, disaster), or both? Is it horrendous, the kind that threatens to destroy a life's meaning? Different responses fit different kinds, and mixing them up causes harm, for example blaming a cancer patient for their illness.",
+    "ask": [
+     "Did a human or group choose this, or did it come through nature?",
+     "Is there injustice here that needs to be named and resisted?",
+     "Does this evil seem to have any possible good outcome, or does it seem pointless?"
+    ],
+    "refs": [
+     "Gen 50:20",
+     "Luke 13:1-5",
+     "Eccl 9:11"
+    ]
+   },
+   {
+    "label": "Separate the two questions",
+    "detail": "There is the intellectual question ('How can God allow this?') and the personal one ('Where is God for me now?'). C. S. Lewis wrote one book on each: *The Problem of Pain* (1940) and, after his wife died, *A Grief Observed* (1961). A grieving person usually needs the second kind of help first.",
+    "ask": [
+     "Is the person asking for an argument, or for help to survive?",
+     "Am I answering a question that was not asked?",
+     "What does the sufferer need from me today?"
+    ],
+    "refs": [
+     "Job 2:11-13",
+     "Rom 12:15",
+     "Prov 25:20"
+    ]
+   },
+   {
+    "label": "Bring it to God in lament",
+    "detail": "Biblical lament usually has a shape: address God, complain honestly, ask for help, state trust, and sometimes promise praise. But Ps 88 has almost none of that and is still Scripture. You are allowed to say 'How long?' and 'Why?'. This is covenant faith speaking, not unbelief.",
+    "ask": [
+     "What do I actually want to say to God, without editing?",
+     "Which psalm says what I feel (Ps 13, 22, 44, 88)?",
+     "Can I keep talking to God even if I am angry with him?"
+    ],
+    "refs": [
+     "Ps 13",
+     "Ps 88",
+     "Ps 62:8",
+     "Lam 3:19-24"
+    ]
+   },
+   {
+    "label": "Test every explanation against Scripture",
+    "detail": "Ask whether an explanation repeats the mistake of Job's friends: assuming suffering proves sin, or that God owes success to the faithful. Jesus rejects that reasoning. Also ask whether it makes God the author of sin, or so weak that he cannot save.",
+    "ask": [
+     "Does this explanation blame the victim?",
+     "Would God say of this explanation what he said to Eliphaz (Job 42:7)?",
+     "Does it fit the character of God shown in Jesus?",
+     "Does it still let me call evil evil?"
+    ],
+    "refs": [
+     "Job 42:7",
+     "John 9:1-3",
+     "Jas 1:13",
+     "Heb 1:3"
+    ]
+   },
+   {
+    "label": "Look at the cross",
+    "detail": "The cross does not explain every evil, but it shows three things: God is not distant from suffering; God can bring salvation through the worst evil without approving it; and evil does not have the last word. Christians read every other suffering in that light.",
+    "ask": [
+     "What does it mean that God's Son cried 'why have you forsaken me'?",
+     "How can the cross be both a great crime and God's plan (Acts 2:23)?",
+     "What does the resurrection say about this situation?"
+    ],
+    "refs": [
+     "Mark 15:34",
+     "Acts 2:23",
+     "Rom 8:32",
+     "Heb 4:15-16"
+    ]
+   },
+   {
+    "label": "Weigh the main responses",
+    "detail": "Now compare the theodicies: free will, soul-making, sovereignty, cosmic conflict, skeptical theism, and others. Ask what each says about this specific evil. Most wise believers draw on several and admit that some mystery remains.",
+    "ask": [
+     "Which response best explains this kind of evil?",
+     "What does each response cost (God's power, goodness, or our understanding)?",
+     "Where must I say 'I do not know'?"
+    ],
+    "refs": [
+     "Deut 29:29",
+     "Rom 11:33-36",
+     "1 Cor 13:12"
+    ]
+   },
+   {
+    "label": "Act against the evil",
+    "detail": "The Bible's main response to evil is not a theory but resistance: heal, feed, protect, seek justice, forgive. Jesus treated sickness and oppression as enemies to defeat. Theodicy that leads to passivity has gone wrong.",
+    "ask": [
+     "What practical help is needed now?",
+     "Is there an injustice I should oppose?",
+     "Where can my own suffering make me more able to comfort others?"
+    ],
+    "refs": [
+     "Mic 6:8",
+     "Luke 4:18-19",
+     "Matt 25:35-40",
+     "2 Cor 1:3-4"
+    ]
+   },
+   {
+    "label": "Hold on to hope",
+    "detail": "The final answer in Scripture is the renewal of all things. Paul does not call present suffering small; he says it is not worth comparing with the glory to come. Hope does not cancel grief; it lets us 'grieve, but not as those who have no hope'.",
+    "ask": [
+     "What does God promise about the end of this suffering?",
+     "How do Rom 8 and Rev 21 change how I see today?",
+     "Who can hold hope for me when I cannot hold it myself?"
+    ],
+    "refs": [
+     "Rom 8:18-25",
+     "1 Thess 4:13-14",
+     "2 Cor 4:16-18",
+     "Rev 21:1-5"
+    ]
+   }
+  ]
+ },
+ "decision": {
+  "title": "Which response to evil fits your convictions?",
+  "intro": "This tree helps you see where your existing beliefs about God and the world lead. It does not tell you which view is true. If you are in pain right now, take the first branch; the arguments can wait.",
+  "start": "q-start",
+  "nodes": [
+   {
+    "id": "q-start",
+    "q": "What brings you to this question right now?",
+    "options": [
+     {
+      "label": "I or someone close to me is suffering now",
+      "next": "q-pain"
+     },
+     {
+      "label": "I want to think through the intellectual problem",
+      "next": "q-control"
+     },
+     {
+      "label": "I am troubled by a specific Bible passage or event",
+      "next": "q-text"
+     }
+    ]
+   },
+   {
+    "id": "q-pain",
+    "q": "What do you need most at this moment?",
+    "options": [
+     {
+      "label": "Words to speak to God, even angry ones",
+      "next": "r-lament"
+     },
+     {
+      "label": "To know God is with me in this",
+      "next": "r-cross"
+     },
+     {
+      "label": "To know this will not last forever",
+      "next": "r-hope"
+     }
+    ]
+   },
+   {
+    "id": "q-text",
+    "q": "What kind of text troubles you?",
+    "options": [
+     {
+      "label": "A text where God seems to send disaster or evil (Isa 45:7, Amos 3:6)",
+      "next": "q-control"
+     },
+     {
+      "label": "A text that says the righteous always prosper",
+      "next": "r-wisdom"
+     },
+     {
+      "label": "Violence commanded in the Old Testament",
+      "next": "r-hardtexts"
+     }
+    ]
+   },
+   {
+    "id": "q-control",
+    "q": "Does God decide every event that happens, including each evil act?",
+    "options": [
+     {
+      "label": "Yes: nothing happens outside God's specific plan",
+      "next": "q-reasons"
+     },
+     {
+      "label": "No: God allows creatures real freedom that he does not control",
+      "next": "q-future"
+     },
+     {
+      "label": "I am not sure",
+      "next": "q-limits"
+     }
+    ]
+   },
+   {
+    "id": "q-reasons",
+    "q": "Then does God have a good purpose for every evil, even if we cannot see it?",
+    "options": [
+     {
+      "label": "Yes, and Scripture shows enough of it to trust him",
+      "next": "r-reformed"
+     },
+     {
+      "label": "Yes, but we usually cannot see it at all",
+      "next": "r-skeptical"
+     }
+    ]
+   },
+   {
+    "id": "q-future",
+    "q": "Does God know every future free choice before it happens?",
+    "options": [
+     {
+      "label": "Yes, God knows the whole future",
+      "next": "q-why-freedom"
+     },
+     {
+      "label": "No, the free future is open and not yet knowable",
+      "next": "r-open"
+     }
+    ]
+   },
+   {
+    "id": "q-why-freedom",
+    "q": "Why did God give freedom that leads to evil?",
+    "options": [
+     {
+      "label": "Because love and goodness require real freedom",
+      "next": "r-freewill"
+     },
+     {
+      "label": "Because character is formed by struggle",
+      "next": "r-soulmaking"
+     },
+     {
+      "label": "Because spiritual powers also have freedom, and they rebelled",
+      "next": "r-warfare"
+     }
+    ]
+   },
+   {
+    "id": "q-limits",
+    "q": "Could God stop any evil he wanted to stop, if he chose to?",
+    "options": [
+     {
+      "label": "Yes, God is all-powerful",
+      "next": "q-future"
+     },
+     {
+      "label": "No, God's power is persuasive, not controlling",
+      "next": "r-process"
+     },
+     {
+      "label": "I cannot answer, and I want to protest",
+      "next": "r-protest"
+     }
+    ]
+   }
+  ],
+  "results": [
+   {
+    "id": "r-lament",
+    "title": "Start with lament",
+    "text": "Pray the lament psalms out loud: Ps 13 if you feel forgotten, Ps 22 if you feel abandoned, Ps 44 if you feel faithful yet punished, Ps 88 if you have no words of hope left. The Bible gives you permission to complain to God. Find one person who will listen without explaining.",
+    "refs": [
+     "Ps 13",
+     "Ps 22",
+     "Ps 44",
+     "Ps 88"
+    ]
+   },
+   {
+    "id": "r-cross",
+    "title": "The God who suffers with you",
+    "text": "Christians believe God has been inside human suffering in Jesus: rejected, tortured, abandoned, killed. He does not ask you to suffer anything he refused to share. Read the passion story slowly, and the promise that we have a high priest who sympathises with our weakness. This is the heart of the theology of the cross.",
+    "refs": [
+     "Isa 53:3-5",
+     "Heb 4:15-16",
+     "Mark 15:33-39",
+     "Rom 8:35-39"
+    ]
+   },
+   {
+    "id": "r-hope",
+    "title": "Eschatological hope",
+    "text": "Scripture promises a day when God will wipe away every tear and death will be no more. Paul, who suffered greatly, calls present troubles 'light and momentary' only when compared with that coming glory. Hope does not deny grief; it holds it within a larger story.",
+    "refs": [
+     "Rev 21:1-5",
+     "2 Cor 4:16-18",
+     "Rom 8:18-25",
+     "Isa 25:8"
+    ]
+   },
+   {
+    "id": "r-wisdom",
+    "title": "Let wisdom books correct each other",
+    "text": "Proverbs gives general patterns (wise living tends to go well). Job and Ecclesiastes show the exceptions: the righteous can suffer and the wicked can prosper. The Bible holds these together on purpose. Read Prov 3 alongside Job 21 and Ps 73.",
+    "refs": [
+     "Prov 3:1-10",
+     "Job 21:7-16",
+     "Ps 73:1-17",
+     "Eccl 7:15"
+    ]
+   },
+   {
+    "id": "r-hardtexts",
+    "title": "See the course lesson on hard texts",
+    "text": "Violence in the Old Testament is a related but separate problem. The app's course lesson 'Hard Texts: Violence, Accommodation and Changing Perception' sets out the main ways of reading these passages (hyperbole in ancient war language, accommodation, progressive revelation, the Jesus lens) and their critiques.",
+    "refs": [
+     "Deut 20:16-18",
+     "Josh 6:21",
+     "1 Sam 15:3",
+     "Matt 5:43-45"
+    ]
+   },
+   {
+    "id": "r-reformed",
+    "title": "Reformed / meticulous sovereignty",
+    "text": "Your answers fit the Reformed view (Calvin, Westminster Confession, D. A. Carson, John Piper): God ordains all things, including evil acts, for good ends, while humans remain responsible and God is not the author of sin. Its comfort is that no suffering is wasted. Its hardest question is how God is not responsible for evil he decrees. Read the critiques of this view as well.",
+    "refs": [
+     "Gen 50:20",
+     "Rom 8:28",
+     "Acts 4:27-28",
+     "Eph 1:11"
+    ]
+   },
+   {
+    "id": "r-skeptical",
+    "title": "Skeptical theism",
+    "text": "Your answers fit skeptical theism (Stephen Wykstra, Michael Bergmann): the gap between God's mind and ours means we should not expect to see God's reasons. This is a defence, not a full theodicy. Critics say it makes it hard to judge anything as good or bad. It is held both by Reformed and non-Reformed thinkers.",
+    "refs": [
+     "Isa 55:8-9",
+     "Job 38:1-4",
+     "Rom 11:33-36"
+    ]
+   },
+   {
+    "id": "r-open",
+    "title": "Open theism",
+    "text": "Your answers fit open theism (Clark Pinnock, John Sanders, William Hasker, Greg Boyd): God created a world with a genuinely open future, took a risk, and does not plan each evil. Some evils are truly pointless and grieve God. Its strength is that God is never the author of a child's murder. Critics say it weakens God's knowledge and the certainty of his promises.",
+    "refs": [
+     "Gen 6:6",
+     "Jer 18:7-10",
+     "Exod 32:14"
+    ]
+   },
+   {
+    "id": "r-freewill",
+    "title": "Free-will theodicy",
+    "text": "Your answers fit the free-will response (Augustine in its roots, Alvin Plantinga, Richard Swinburne): God values creatures who can freely love, and freedom makes evil possible. It explains moral evil well. Its weak points are natural evil and the sheer scale of some evils. Many combine it with soul-making or cosmic conflict to cover those.",
+    "refs": [
+     "Deut 30:19",
+     "Gen 2:16-17",
+     "Jas 1:13-15"
+    ]
+   },
+   {
+    "id": "r-soulmaking",
+    "title": "Irenaean soul-making",
+    "text": "Your answers fit the soul-making view (Irenaeus, John Hick): the world is a place where humans grow from innocence to maturity. Pain makes courage, compassion and faith possible. Critics ask why some suffering crushes rather than grows people, and why infants and animals suffer.",
+    "refs": [
+     "Rom 5:3-5",
+     "Jas 1:2-4",
+     "Heb 12:10-11",
+     "1 Pet 1:6-7"
+    ]
+   },
+   {
+    "id": "r-warfare",
+    "title": "Cosmic conflict (warfare) theodicy",
+    "text": "Your answers fit the warfare view (many church fathers, C. S. Lewis in parts, Greg Boyd): the world is in a war zone. Rebellious spiritual powers corrupt creation, and Jesus' ministry and cross are God's counter-attack. It explains why Jesus treated disease as an enemy. Critics say it is hard to prove and can make Satan too strong.",
+    "refs": [
+     "1 John 3:8",
+     "Eph 6:12",
+     "Luke 13:16",
+     "Col 2:15"
+    ]
+   },
+   {
+    "id": "r-process",
+    "title": "Process theology",
+    "text": "Your answers fit process theology (Whitehead, Hartshorne, David Ray Griffin) or the related 'essential kenosis' view (Thomas Jay Oord): God cannot force outcomes but lures the world toward good and suffers with it. It removes the question 'why did God not stop it?'. Critics say it gives up the biblical Creator and any guarantee that evil will be defeated.",
+    "refs": [
+     "Hos 11:8-9",
+     "Isa 63:9"
+    ]
+   },
+   {
+    "id": "r-protest",
+    "title": "The protest tradition",
+    "text": "Your answer fits the biblical and Jewish tradition of arguing with God: Abraham, Moses, Job, Jeremiah, and after the Holocaust Elie Wiesel. Protest takes God's justice so seriously that it holds God to it. It is a form of faith. Many in this tradition never resolve the question and still pray.",
+    "refs": [
+     "Gen 18:25",
+     "Job 13:3",
+     "Jer 12:1",
+     "Ps 44:23-26"
+    ]
+   }
+  ]
+ },
+ "timeline": {
+  "title": "How people have wrestled with evil and God",
+  "events": [
+   {
+    "year": -1000,
+    "label": "Lament psalms collected",
+    "text": "Many lament psalms are attributed to David and his musicians, though the Psalter was gathered over centuries. They give Israel a worship language for complaint, from 'How long?' (Ps 13) to the unrelieved darkness of Ps 88. Dates of individual psalms are debated.",
+    "group": "scripture"
+   },
+   {
+    "year": -605,
+    "label": "Habakkuk argues with God",
+    "text": "As Babylon rises, Habakkuk asks why God lets the wicked swallow the righteous (Hab 1:13). God answers that the righteous will live by faithfulness (Hab 2:4). The prophet ends trusting God even with empty fields (Hab 3:17-19). Date approximate.",
+    "group": "scripture"
+   },
+   {
+    "year": -586,
+    "label": "Jerusalem falls; Lamentations",
+    "text": "The Babylonians destroy the temple. Lamentations mourns the city in five acrostic poems, admits sin, and also protests the horror (Lam 2:20). At its centre stands hope in God's steadfast love (Lam 3:22-23). It ends with an open question (Lam 5:20-22).",
+    "group": "scripture"
+   },
+   {
+    "year": -500,
+    "label": "Job takes final shape",
+    "text": "The date of the book of Job is unknown; many scholars place its final form between the 7th and 4th centuries BC, while its setting is patriarchal. It is the Bible's longest treatment of innocent suffering.",
+    "group": "scripture"
+   },
+   {
+    "year": -300,
+    "label": "Epicurus' dilemma",
+    "text": "The Greek philosopher Epicurus (died about 270 BC) is credited with the dilemma: either God wants to remove evil and cannot, or can and does not want to. The form we know comes from the Christian writer Lactantius, centuries later.",
+    "group": "problem"
+   },
+   {
+    "year": 30,
+    "label": "Jesus on Siloam and the blind man",
+    "text": "Jesus rejects the idea that victims of a collapsed tower or a man born blind suffered for special sins (Luke 13:1-5, John 9:1-3). Within a few years he is crucified, crying the words of Ps 22. Exact year debated (about AD 30 or 33).",
+    "group": "scripture"
+   },
+   {
+    "year": 57,
+    "label": "Paul writes Romans 8",
+    "text": "Paul describes creation groaning in labour pains, the Spirit groaning in prayer, and nothing able to separate believers from God's love (Rom 8:18-39). Date approximate.",
+    "group": "scripture"
+   },
+   {
+    "year": 180,
+    "label": "Irenaeus on growth",
+    "text": "In *Against Heresies* Irenaeus pictures humans created as children who must grow into maturity and likeness to God. John Hick later took this as the seed of 'soul-making' theodicy. Date approximate.",
+    "group": "classic"
+   },
+   {
+    "year": 314,
+    "label": "Lactantius records the dilemma",
+    "text": "In *On the Anger of God* (chapter 13), Lactantius reports Epicurus' argument and answers that God permits evil so that wisdom and virtue can exist. Date approximate.",
+    "group": "classic"
+   },
+   {
+    "year": 421,
+    "label": "Augustine's Enchiridion",
+    "text": "Augustine sums up his view: evil is the privation (absence) of good, entering by the free will of angels and humans, and God, being good, would not allow evil unless he could bring good out of it. Western theology followed him for a thousand years. Date approximate.",
+    "group": "classic"
+   },
+   {
+    "year": 1265,
+    "label": "Aquinas' Summa begins",
+    "text": "Thomas Aquinas places the problem of evil as the first objection to God's existence and answers, following Augustine, that God permits evil to bring good out of it. He develops evil as privation and God as impassible.",
+    "group": "classic"
+   },
+   {
+    "year": 1518,
+    "label": "Luther's theology of the cross",
+    "text": "At the Heidelberg Disputation, Luther contrasts a 'theologian of glory', who calls evil good, with a 'theologian of the cross', who calls a thing what it is and finds God hidden in suffering.",
+    "group": "classic"
+   },
+   {
+    "year": 1710,
+    "label": "Leibniz coins 'theodicy'",
+    "text": "Gottfried Wilhelm Leibniz publishes *Essais de Théodicée*, from Greek words for 'God' and 'justice'. He argues that God chose the best of all possible worlds.",
+    "group": "modern"
+   },
+   {
+    "year": 1755,
+    "label": "Lisbon earthquake",
+    "text": "On 1 November, All Saints' Day, an earthquake, tsunami and fires destroy Lisbon, killing tens of thousands, many in churches. European thinkers debate whether this can be 'the best of all possible worlds'. Voltaire writes a poem (1756) and *Candide* (1759).",
+    "group": "problem"
+   },
+   {
+    "year": 1779,
+    "label": "Hume's Dialogues published",
+    "text": "In David Hume's *Dialogues Concerning Natural Religion*, published after his death, the character Philo restates 'Epicurus's old questions' and argues that the world's mixed goodness does not point to a perfectly good designer.",
+    "group": "problem"
+   },
+   {
+    "year": 1880,
+    "label": "The Brothers Karamazov",
+    "text": "Dostoevsky's Ivan Karamazov tells stories of tortured children and refuses any harmony bought at that price. Dostoevsky answers through the characters of Zosima and Alyosha rather than an argument.",
+    "group": "modern"
+   },
+   {
+    "year": 1955,
+    "label": "Mackie's logical argument",
+    "text": "J. L. Mackie's article 'Evil and Omnipotence' argues that the beliefs of theists are positively irrational. It sets the agenda for twenty years of philosophy of religion.",
+    "group": "problem"
+   },
+   {
+    "year": 1960,
+    "label": "Wiesel's Night in English",
+    "text": "Elie Wiesel's memoir of Auschwitz and Buchenwald appears in English (Yiddish 1956, French 1958). It records the death of faith in a God of easy answers and the question 'Where is God?' at the hanging of a child.",
+    "group": "jewish"
+   },
+   {
+    "year": 1966,
+    "label": "Hick and Rubenstein",
+    "text": "John Hick publishes *Evil and the God of Love*, setting Augustinian and Irenaean theodicies side by side. Richard Rubenstein publishes *After Auschwitz*, rejecting the traditional God of history. Emil Fackenheim announces his '614th commandment' the following year (1967).",
+    "group": "modern"
+   },
+   {
+    "year": 1972,
+    "label": "Moltmann's The Crucified God",
+    "text": "Jürgen Moltmann argues that God suffers in the cross of Jesus and that only a suffering God can help. The book shapes modern theology of suffering (English 1974).",
+    "group": "classic"
+   },
+   {
+    "year": 1974,
+    "label": "Plantinga's free-will defence",
+    "text": "Alvin Plantinga's *God, Freedom and Evil* argues that it is possible God could not create free creatures who never do wrong. Many philosophers come to regard the logical problem as answered.",
+    "group": "modern"
+   },
+   {
+    "year": 1979,
+    "label": "Rowe's evidential argument",
+    "text": "William Rowe's paper with the dying fawn shifts debate to the evidential problem: intense suffering that seems pointless makes God unlikely. Stephen Wykstra replies in 1984 with what becomes skeptical theism.",
+    "group": "problem"
+   },
+   {
+    "year": 1981,
+    "label": "Kushner's best-seller",
+    "text": "Rabbi Harold Kushner's *When Bad Things Happen to Good People* argues that God does not cause tragedies and is not all-controlling. Millions of readers, Jewish and Christian, find comfort; many theologians object.",
+    "group": "jewish"
+   },
+   {
+    "year": 2004,
+    "label": "Indian Ocean tsunami",
+    "text": "On 26 December, a tsunami kills about 230,000 people across many countries, including thousands on the Tamil Nadu coast, especially Nagapattinam district. Christians, Hindus and Muslims ask why; churches and temples become relief centres. Many Christian leaders said publicly that the first responses must be grief, presence and practical help, not quick explanations.",
+    "group": "pastoral"
+   }
+  ]
+ },
+ "gallery": {
+  "title": "Texts, thinkers and events in the conversation",
+  "intro": "Filter by colour group to see the biblical texts, the classic and modern thinkers, the Jewish voices, and the events and lives that shaped how people think about evil. Each card says what the person or text contributes and where it is questioned.",
+  "items": [
+   {
+    "id": "g-job",
+    "title": "Job",
+    "group": "scripture",
+    "summary": "A blameless man suffers, argues with God and is finally answered from the whirlwind.",
+    "detail": "The prologue lets readers see what Job never sees: a heavenly scene in which 'the satan' (Hebrew ha-satan, 'the accuser', with the article, more a title than a name) questions whether Job serves God for nothing. Job's friends defend God by accusing Job. Job accuses God but keeps addressing him. God's speeches (Job 38-41) do not explain the suffering; they widen Job's view of a vast, wild creation that God governs. God then says the friends 'have not spoken of me what is right, as my servant Job has' (Job 42:7) and asks Job to pray for them. Readers disagree whether the restoration at the end (Job 42:10-17) undercuts or completes the book's message.",
+    "refs": [
+     "Job 1:6-12",
+     "Job 2:11-13",
+     "Job 13:15",
+     "Job 19:25-27",
+     "Job 38:1-7",
+     "Job 42:1-17"
+    ],
+    "people": [
+     "Job",
+     "Eliphaz",
+     "Bildad",
+     "Zophar",
+     "Elihu"
+    ]
+   },
+   {
+    "id": "g-ps88",
+    "title": "Psalm 88: the darkest psalm",
+    "group": "scripture",
+    "summary": "A lament that never turns to praise and ends with the word 'darkness'.",
+    "detail": "Most laments move from complaint to trust. Psalm 88 does not. The psalmist has been afflicted since youth, feels cut off from God, and ends with friends gone and darkness as the only companion. Yet the whole psalm is addressed to 'the God of my salvation' (Ps 88:1). Its place in the Bible tells sufferers that continuing to pray in the dark is itself faith.",
+    "refs": [
+     "Ps 88"
+    ],
+    "people": [
+     "Heman the Ezrahite",
+     "Sons of Korah"
+    ]
+   },
+   {
+    "id": "g-ps22",
+    "title": "Psalm 22: forsaken and rescued",
+    "group": "scripture",
+    "summary": "'My God, my God, why have you forsaken me?', the psalm Jesus prayed on the cross.",
+    "detail": "The psalm alternates between abandonment and remembered trust, then turns to praise as God answers (Ps 22:21-24) and ends with the nations worshipping. When Jesus quotes its first line (Mark 15:34), Jewish hearers who knew the psalm by its opening would hear both the cry and the whole arc. Jesus' cry was real anguish, not a performance.",
+    "refs": [
+     "Ps 22",
+     "Mark 15:34",
+     "Matt 27:46"
+    ],
+    "people": [
+     "David",
+     "Jesus"
+    ]
+   },
+   {
+    "id": "g-ps44",
+    "title": "Psalm 44: faithful yet crushed",
+    "group": "scripture",
+    "summary": "The nation protests that it suffers even though it has kept the covenant.",
+    "detail": "Israel recalls God's past victories, then says: 'All this has come upon us, though we have not forgotten you' (Ps 44:17). It rejects the idea that the disaster is punishment and calls God to 'wake up' (Ps 44:23). Paul quotes verse 22 in Rom 8:36. Jewish thinkers after the Holocaust have often turned to this psalm.",
+    "refs": [
+     "Ps 44:17-26",
+     "Rom 8:36"
+    ],
+    "people": [
+     "Sons of Korah"
+    ]
+   },
+   {
+    "id": "g-ps73",
+    "title": "Psalm 73: the prosperity of the wicked",
+    "group": "scripture",
+    "summary": "Asaph nearly loses faith watching the wicked thrive, until he enters God's sanctuary.",
+    "detail": "The psalm honestly states the problem (Ps 73:2-14), then finds a new view in worship: the end of the wicked, and above all the presence of God as the psalmist's portion (Ps 73:23-26). It does not deny the facts; it changes the frame.",
+    "refs": [
+     "Ps 73"
+    ],
+    "people": [
+     "Asaph"
+    ]
+   },
+   {
+    "id": "g-habakkuk",
+    "title": "Habakkuk",
+    "group": "scripture",
+    "summary": "A prophet who questions God's justice and ends in trust without answers.",
+    "detail": "Habakkuk asks why God tolerates violence in Judah; God says he is raising up Babylon. That makes it worse: how can a holy God use a more wicked nation? The prophet waits on the watchtower and receives the promise that the righteous will live by faithfulness. The book ends with a song of trust even if the fig tree does not blossom (Hab 3:17-19).",
+    "refs": [
+     "Hab 1:2-4",
+     "Hab 1:12-17",
+     "Hab 2:1-4",
+     "Hab 3:17-19"
+    ],
+    "people": [
+     "Habakkuk"
+    ]
+   },
+   {
+    "id": "g-lamentations",
+    "title": "Lamentations",
+    "group": "scripture",
+    "summary": "Poems of grief after Jerusalem's destruction, with hope at the centre.",
+    "detail": "The book admits Judah's sin but refuses to let that explain away the horror; it describes starving mothers and slaughtered priests (Lam 2:20). Its centre declares that the Lord's mercies are new every morning (Lam 3:22-23) and that he does not afflict from the heart (Lam 3:33). It ends with a question, not an answer. Jews read it on Tisha B'Av, the fast for the temple's fall.",
+    "refs": [
+     "Lam 2:20",
+     "Lam 3:22-33",
+     "Lam 5:19-22"
+    ],
+    "people": [
+     "Jeremiah (traditional author)"
+    ]
+   },
+   {
+    "id": "g-ecclesiastes",
+    "title": "Ecclesiastes",
+    "group": "scripture",
+    "summary": "Life 'under the sun' is fleeting; time and chance happen to all.",
+    "detail": "The Teacher observes that the race is not always to the swift and that righteous people perish while the wicked live long (Eccl 7:15, Eccl 9:11). He refuses simple formulas but still counsels fearing God, enjoying God's gifts and remembering judgement (Eccl 12:13-14). The Hebrew word hevel ('vapour, breath') describes life's brevity and elusiveness.",
+    "refs": [
+     "Eccl 1:2",
+     "Eccl 7:15",
+     "Eccl 8:14",
+     "Eccl 9:11",
+     "Eccl 12:13-14"
+    ],
+    "people": [
+     "Qoheleth, the Teacher"
+    ]
+   },
+   {
+    "id": "g-siloam",
+    "title": "The tower of Siloam",
+    "group": "scripture",
+    "summary": "Jesus: those eighteen victims were not worse sinners than anyone else.",
+    "detail": "People tell Jesus about Galileans killed by Pilate. He raises a second case himself, a natural disaster: a tower that fell and killed eighteen. In both cases he denies that the victims were especially guilty, then turns the question back: 'unless you repent, you will all likewise perish'. Disaster is a call to everyone, not a verdict on the victims.",
+    "refs": [
+     "Luke 13:1-5"
+    ],
+    "people": [
+     "Jesus",
+     "Pontius Pilate"
+    ]
+   },
+   {
+    "id": "g-blind",
+    "title": "The man born blind",
+    "group": "scripture",
+    "summary": "'Who sinned, this man or his parents?' Neither.",
+    "detail": "The disciples assume a moral cause behind a birth defect, a view found in some Jewish teaching of the time. Jesus rejects both options and says the man's condition is an occasion for 'the works of God' to be displayed, and then heals him. The sentence is about what God will do, not a claim that God blinded him for a show; translators and interpreters debate the exact sense of John 9:3.",
+    "refs": [
+     "John 9:1-7",
+     "John 9:39-41"
+    ],
+    "people": [
+     "Jesus",
+     "The man born blind"
+    ]
+   },
+   {
+    "id": "g-joseph",
+    "title": "Joseph: meant for evil, meant for good",
+    "group": "scripture",
+    "summary": "Two intentions in one event: the brothers' evil and God's good purpose.",
+    "detail": "Joseph tells his brothers that they meant to harm him but God meant it for good, to keep many people alive (Gen 50:20). Reformed theologians read this as God ordaining the event; others read it as God redeeming an evil he permitted. Either way the text holds the brothers responsible and does not call the betrayal good.",
+    "refs": [
+     "Gen 37:18-28",
+     "Gen 45:4-8",
+     "Gen 50:15-21"
+    ],
+    "people": [
+     "Joseph",
+     "Judah",
+     "Jacob"
+    ]
+   },
+   {
+    "id": "g-thorn",
+    "title": "Paul's thorn in the flesh",
+    "group": "scripture",
+    "summary": "A 'messenger of Satan' that God did not remove, through which Christ's power was shown.",
+    "detail": "Paul pleads three times for relief and receives the answer: 'My grace is sufficient for you, for my power is made perfect in weakness' (2 Cor 12:9). The text holds together Satan's harm, God's purpose (to keep Paul from pride) and an unanswered request. What the thorn was is unknown.",
+    "refs": [
+     "2 Cor 12:7-10",
+     "2 Cor 4:7-12",
+     "2 Cor 11:23-29"
+    ],
+    "people": [
+     "Paul"
+    ]
+   },
+   {
+    "id": "g-rom8",
+    "title": "Romans 8: groaning and glory",
+    "group": "scripture",
+    "summary": "Creation, believers and the Spirit all groan toward renewal; nothing separates us from God's love.",
+    "detail": "Paul says creation was 'subjected to futility' in hope and waits for liberation (Rom 8:20-21). Believers groan too, and the Spirit groans in prayer (Rom 8:23-26). Verse 28 says God works in all things for good for those who love him; it does not say all things are good. The chapter ends with a list of real dangers that cannot separate us from God's love (Rom 8:35-39).",
+    "refs": [
+     "Rom 8:18-25",
+     "Rom 8:26-28",
+     "Rom 8:35-39"
+    ],
+    "people": [
+     "Paul"
+    ]
+   },
+   {
+    "id": "g-rev21",
+    "title": "Revelation 21: no more tears",
+    "group": "scripture",
+    "summary": "The end of the story: God dwells with humans and death is no more.",
+    "detail": "The martyrs ask 'How long?' (Rev 6:10). The book answers with judgement on evil powers and a new heaven and new earth where God wipes every tear and mourning and pain are gone (Rev 21:4). Many theologians say any adequate theodicy must look here, because only the end of the story can show whether evil is truly defeated.",
+    "refs": [
+     "Rev 6:9-11",
+     "Rev 21:1-5",
+     "Rev 22:1-5"
+    ],
+    "people": [
+     "John of Patmos"
+    ]
+   },
+   {
+    "id": "g-augustine",
+    "title": "Augustine of Hippo (354-430)",
+    "group": "classic",
+    "summary": "Evil is the absence of good, entered through free will; God brings good out of it.",
+    "detail": "Augustine had been a Manichean, believing in two equal powers of good and evil. He rejected this: God made all things good, and evil is a privation, a lack or corruption of good. Sin began in the free choice of angels and humans, and the disorder of nature followed. His influence on Western theology is enormous. Critics ask how a perfectly good creature could first choose evil, and how a historical Fall fits with suffering in nature long before humans.",
+    "refs": [
+     "Gen 1:31",
+     "Rom 5:12",
+     "Gen 3:17-19"
+    ],
+    "people": [
+     "Augustine"
+    ]
+   },
+   {
+    "id": "g-irenaeus",
+    "title": "Irenaeus of Lyon (about 130-202)",
+    "group": "classic",
+    "summary": "Humans were made as children, to grow into the likeness of God.",
+    "detail": "Irenaeus taught that Adam and Eve were created immature and that God patiently trains humanity toward maturity, with Christ recapitulating (summing up and restoring) the human story. He did not write a full theodicy, but John Hick named the 'Irenaean' type after him. Scholars debate how closely Hick's version matches Irenaeus.",
+    "refs": [
+     "Eph 4:13",
+     "Heb 5:8-9",
+     "1 Cor 3:1-2"
+    ],
+    "people": [
+     "Irenaeus"
+    ]
+   },
+   {
+    "id": "g-leibniz-voltaire",
+    "title": "Leibniz and Voltaire",
+    "group": "modern",
+    "summary": "'The best of all possible worlds' and its famous mockery.",
+    "detail": "Leibniz (1646-1716) argued that God, being perfect, must choose the best possible world, and that the evils in it are part of the best overall whole. After the 1755 Lisbon earthquake, Voltaire satirised the idea in *Candide*, whose tutor Pangloss keeps insisting that all is for the best amid disaster. Leibniz's actual argument is more careful than Pangloss, and some modern philosophers still defend a version of it.",
+    "refs": [
+     "Gen 1:31",
+     "Ps 104:24"
+    ],
+    "people": [
+     "Gottfried Wilhelm Leibniz",
+     "Voltaire",
+     "Jean-Jacques Rousseau"
+    ]
+   },
+   {
+    "id": "g-dostoevsky",
+    "title": "Dostoevsky's Ivan Karamazov",
+    "group": "modern",
+    "summary": "The protest of love against a harmony built on a child's tears.",
+    "detail": "In *The Brothers Karamazov* (1880), Ivan collects true newspaper stories of cruelty to children and says he cannot accept any final harmony that requires them; he respectfully 'returns his ticket'. His brother Alyosha does not refute him with argument but answers with Christ's forgiveness and active love. Many theologians say this chapter is the strongest statement of the problem ever written.",
+    "refs": [
+     "Matt 18:6",
+     "Matt 18:10",
+     "Rev 6:10"
+    ],
+    "people": [
+     "Fyodor Dostoevsky",
+     "Ivan Karamazov",
+     "Alyosha Karamazov",
+     "Father Zosima"
+    ]
+   },
+   {
+    "id": "g-lewis",
+    "title": "C. S. Lewis: two books on pain",
+    "group": "pastoral",
+    "summary": "*The Problem of Pain* (1940) argued; *A Grief Observed* (1961) cried out.",
+    "detail": "In 1940 Lewis defended free will, a fallen world and pain as God's 'megaphone to rouse a deaf world'. After the death of his wife Joy Davidman in 1960 he wrote a raw journal, first published under a pseudonym, describing God as a door slammed in his face, before slowly recovering faith. Readers value the pair because they show that the intellectual and personal problems are different.",
+    "refs": [
+     "Heb 12:5-11",
+     "Ps 30:5"
+    ],
+    "people": [
+     "C. S. Lewis",
+     "Joy Davidman"
+    ]
+   },
+   {
+    "id": "g-hick",
+    "title": "John Hick (1922-2012)",
+    "group": "modern",
+    "summary": "*Evil and the God of Love* (1966) and the 'vale of soul-making'.",
+    "detail": "Hick argued that God created humans at an 'epistemic distance', in a world where God is not obvious and where real dangers exist, so that faith and moral growth could be free. He borrowed John Keats' phrase 'the vale of soul-making'. To deal with lives cut short, he relied on growth continuing after death and, controversially, on universal salvation.",
+    "refs": [
+     "Rom 5:3-5",
+     "Jas 1:2-4"
+    ],
+    "people": [
+     "John Hick",
+     "John Keats"
+    ]
+   },
+   {
+    "id": "g-plantinga",
+    "title": "Alvin Plantinga (born 1932)",
+    "group": "modern",
+    "summary": "*God, Freedom and Evil* (1974): the free-will defence.",
+    "detail": "Plantinga offered a defence, not a theodicy: he did not claim to know God's actual reasons, only to show a possible one. If creatures are significantly free, it is possible that every world God could create with free creatures would contain some evil (he called this 'transworld depravity'). Many philosophers, including atheists, came to accept that the strict logical problem had been answered. He extended the defence to natural evil by suggesting it could be caused by free fallen spirits.",
+    "refs": [
+     "Deut 30:19",
+     "Gen 2:16-17"
+    ],
+    "people": [
+     "Alvin Plantinga"
+    ]
+   },
+   {
+    "id": "g-rowe",
+    "title": "William Rowe (1931-2015)",
+    "group": "problem",
+    "summary": "The fawn in the forest fire and the evidential argument (1979).",
+    "detail": "Rowe, who called himself a 'friendly atheist', granted that theists could be rational. But he argued that intense suffering which seems to serve no good, like a fawn dying slowly and unseen in a fire, makes it likely that pointless evil exists, and so likely that God does not. His argument remains a central point of debate.",
+    "refs": [
+     "Rom 8:22",
+     "Ps 145:9"
+    ],
+    "people": [
+     "William Rowe"
+    ]
+   },
+   {
+    "id": "g-adams",
+    "title": "Marilyn McCord Adams (1943-2017)",
+    "group": "modern",
+    "summary": "Horrendous evils must be defeated within each life.",
+    "detail": "An Episcopal priest and philosopher, Adams argued in *Horrendous Evils and the Goodness of God* (1999) that it is not enough for God to bring overall good from evil. God must be good to each person who suffered, making their life worth living on the whole, finally through intimate union with God, who in Christ shared horrendous suffering. Her view leans toward universal salvation, which critics question.",
+    "refs": [
+     "Rom 8:18",
+     "Rev 21:4",
+     "Phil 3:10"
+    ],
+    "people": [
+     "Marilyn McCord Adams"
+    ]
+   },
+   {
+    "id": "g-moltmann",
+    "title": "Jürgen Moltmann (1926-2024)",
+    "group": "classic",
+    "summary": "*The Crucified God*: God suffers in the cross of Christ.",
+    "detail": "As a German prisoner of war, Moltmann found hope reading Mark's account of Jesus' cry of forsakenness. In *The Crucified God* (1972) he argued that the cross is an event within God: the Father suffers the loss of the Son, the Son suffers abandonment, and the Spirit brings life out of death. Supporters find this deeply consoling; classical theologians worry it makes God dependent on the world.",
+    "refs": [
+     "Mark 15:34",
+     "2 Cor 5:19",
+     "Heb 2:10"
+    ],
+    "people": [
+     "Jürgen Moltmann"
+    ]
+   },
+   {
+    "id": "g-boyd",
+    "title": "Greg Boyd (born 1957)",
+    "group": "modern",
+    "summary": "Warfare theodicy: much evil is the work of God's enemies.",
+    "detail": "In *God at War* (1997) and *Satan and the Problem of Evil* (2001), Boyd argues that the Bible's main framework for evil is a cosmic conflict with rebellious powers, and that Jesus' ministry treats sickness and oppression as the work of the enemy. He combines this with open theism. Critics, especially Reformed ones, think he limits God's sovereignty too much.",
+    "refs": [
+     "1 John 3:8",
+     "Acts 10:38",
+     "Eph 6:12"
+    ],
+    "people": [
+     "Greg Boyd"
+    ]
+   },
+   {
+    "id": "g-process",
+    "title": "Process thinkers",
+    "group": "modern",
+    "summary": "God's power is persuasion; God suffers with the world.",
+    "detail": "Alfred North Whitehead (*Process and Reality*, 1929) called God 'the fellow-sufferer who understands'. Charles Hartshorne (*Omnipotence and Other Theological Mistakes*, 1984) and David Ray Griffin (*God, Power, and Evil*, 1976) argued that the classic idea of all-controlling power is incoherent. Thomas Jay Oord's 'essential kenosis' is a related evangelical-leaning view. Critics say this God cannot guarantee the final defeat of evil.",
+    "refs": [
+     "Hos 11:8-9",
+     "Isa 63:9"
+    ],
+    "people": [
+     "Alfred North Whitehead",
+     "Charles Hartshorne",
+     "David Ray Griffin",
+     "Thomas Jay Oord"
+    ]
+   },
+   {
+    "id": "g-wiesel",
+    "title": "Elie Wiesel (1928-2016)",
+    "group": "jewish",
+    "summary": "*Night*: faith wounded at Auschwitz, protest that never let go of God.",
+    "detail": "Wiesel was deported from Sighet at fifteen; his mother, sister and father died in the camps. *Night* describes the hanging of a child and a voice asking where God is, and Wiesel's inner answer that God is there, hanging on the gallows; readers interpret this as the death of faith, as God suffering with victims, or as both. His later play *The Trial of God* puts God on trial. He remained an observant, questioning Jew.",
+    "refs": [
+     "Ps 44:23-26",
+     "Job 13:3"
+    ],
+    "people": [
+     "Elie Wiesel"
+    ]
+   },
+   {
+    "id": "g-fackenheim",
+    "title": "Emil Fackenheim (1916-2003)",
+    "group": "jewish",
+    "summary": "The '614th commandment': do not hand Hitler posthumous victories.",
+    "detail": "Fackenheim, a rabbi and philosopher who was himself held in a camp in 1938, said in 1967 that Jews hear a commanding voice from Auschwitz: they must survive as Jews, remember the victims, not despair of the world or of God. The number adds one to the traditional 613 commandments of the Torah. Some Jewish thinkers object that no commandment can be added.",
+    "refs": [
+     "Deut 30:19",
+     "Deut 4:9"
+    ],
+    "people": [
+     "Emil Fackenheim"
+    ]
+   },
+   {
+    "id": "g-rubenstein-jonas",
+    "title": "Rubenstein and Jonas",
+    "group": "jewish",
+    "summary": "Two radical answers: the God of history is dead; God gave up power.",
+    "detail": "Richard Rubenstein (*After Auschwitz*, 1966) concluded that the traditional God who acts in history and chose Israel could not be believed after the Holocaust, though he valued Jewish community and ritual. Hans Jonas, in 'The Concept of God after Auschwitz' (lecture 1984), proposed that God, in creating, gave up power, so God did not intervene because God could not. Most Jews and Christians reject both, but both take the evil with full seriousness.",
+    "refs": [
+     "Ps 44:9-16",
+     "Lam 5:20-22"
+    ],
+    "people": [
+     "Richard Rubenstein",
+     "Hans Jonas"
+    ]
+   },
+   {
+    "id": "g-kushner",
+    "title": "Harold Kushner (1935-2023)",
+    "group": "jewish",
+    "summary": "*When Bad Things Happen to Good People* (1981).",
+    "detail": "Kushner's son Aaron had progeria and died at fourteen. Kushner read Job as choosing God's goodness over God's total power, and concluded that God does not cause our suffering but helps us bear it. His pastoral wisdom (do not blame the sufferer, do not blame God for a world of natural law) helped many. Critics said a God who cannot help is not the God of the Bible.",
+    "refs": [
+     "Job 9:22-24",
+     "Ps 121:1-2"
+    ],
+    "people": [
+     "Harold Kushner"
+    ]
+   },
+   {
+    "id": "g-lisbon",
+    "title": "The Lisbon earthquake (1755)",
+    "group": "problem",
+    "summary": "The natural disaster that shook the European Enlightenment.",
+    "detail": "On All Saints' Day an earthquake, then a tsunami and fires, destroyed much of Lisbon. Preachers called it judgement; Voltaire asked whether Lisbon was more wicked than Paris or London. Rousseau replied that humans had built crowded tall houses, so not all the harm was natural. The debate began the modern focus on natural evil.",
+    "refs": [
+     "Luke 13:4-5"
+    ],
+    "people": [
+     "Voltaire",
+     "Jean-Jacques Rousseau",
+     "Immanuel Kant"
+    ]
+   },
+   {
+    "id": "g-tsunami",
+    "title": "The 2004 tsunami in Tamil Nadu",
+    "group": "pastoral",
+    "summary": "Natural evil on the Indian coast, and how faith communities responded.",
+    "detail": "The wave of 26 December 2004 killed thousands along the Tamil Nadu coast, many of them fishing families, with Nagapattinam district hit hardest. Some explained it as karma, some as divine judgement, some as nature. Christian, Hindu and Muslim groups worked side by side in relief. The case tests the theodicies: none explain why these villages, and Jesus' words on Siloam warn against reading guilt into victims.",
+    "refs": [
+     "Luke 13:4-5",
+     "Rom 8:20-22",
+     "Ps 46:1-3"
+    ],
+    "people": [
+     "Fishing communities of Nagapattinam"
+    ]
+   },
+   {
+    "id": "g-carmichael",
+    "title": "Amy Carmichael at Dohnavur",
+    "group": "pastoral",
+    "summary": "A missionary in Tamil Nadu who wrote from twenty years of pain.",
+    "detail": "Amy Carmichael (1867-1951) founded the Dohnavur Fellowship in Tamil Nadu to protect children at risk. After a fall in 1931 she was largely bedridden until her death. Her writings from that period, such as *Rose from Brier*, written for fellow sufferers, refuse cheap comfort and speak of accepting what God does not remove while trusting his love.",
+    "refs": [
+     "2 Cor 12:9-10",
+     "Phil 4:11-13"
+    ],
+    "people": [
+     "Amy Carmichael"
+    ]
+   },
+   {
+    "id": "g-staines",
+    "title": "Gladys Staines forgives",
+    "group": "pastoral",
+    "summary": "Moral evil and forgiveness in Odisha, 1999.",
+    "detail": "In January 1999 the Australian missionary Graham Staines, who had served leprosy patients in Odisha for decades, was burned to death with his two young sons by a mob. His widow Gladys publicly forgave the killers and continued the work. Her response did not explain the evil; it answered it with forgiveness, a costly act many Indians across faiths found moving.",
+    "refs": [
+     "Luke 23:34",
+     "Rom 12:17-21",
+     "Acts 7:59-60"
+    ],
+    "people": [
+     "Graham Staines",
+     "Gladys Staines"
+    ]
+   },
+   {
+    "id": "g-wolterstorff",
+    "title": "Nicholas Wolterstorff, *Lament for a Son*",
+    "group": "pastoral",
+    "summary": "A philosopher's grief after his son's climbing accident (1987).",
+    "detail": "Wolterstorff, a leading Christian philosopher, wrote short meditations after his 25-year-old son Eric died. He refuses to say that God caused it for a reason, and he refuses to give up on God. He writes that he does not know why, and that God, too, suffers. The book is widely used in grief ministry.",
+    "refs": [
+     "Matt 5:4",
+     "2 Sam 18:33"
+    ],
+    "people": [
+     "Nicholas Wolterstorff"
+    ]
+   }
+  ]
+ },
+ "compare": {
+  "title": "Six major responses side by side",
+  "columns": [
+   "Augustinian / free will",
+   "Irenaean soul-making",
+   "Reformed sovereignty",
+   "Skeptical theism",
+   "Open theism and cosmic conflict",
+   "Process theology"
+  ],
+  "rows": [
+   {
+    "label": "Core claim",
+    "cells": [
+     "Evil is a corruption of good creation, caused by the free choices of angels and humans; God allows it because freedom is valuable and he brings good from it.",
+     "God made an immature humanity in a demanding world so that people could freely grow into mature children of God.",
+     "God ordains all that happens, including evil acts, for wise and good ends, without doing evil himself or removing human responsibility.",
+     "If God exists, we should not expect to see his reasons for permitting evil, so apparently pointless evil is not good evidence against God.",
+     "God made a world of real freedom, human and angelic; the future is partly open, and much evil is the work of rebels that God fights and grieves.",
+     "God cannot force outcomes; every creature has some power, and God lures the world toward good and suffers with it."
+    ]
+   },
+   {
+    "label": "God's power",
+    "cells": [
+     "All-powerful, but freely limits himself by creating free beings.",
+     "All-powerful; deliberately creates a world with risk and distance.",
+     "All-powerful and in specific control of every event.",
+     "All-powerful (the view assumes classical theism).",
+     "All-powerful in principle, but self-limited by the freedom he gives; works by love, not force.",
+     "Not all-powerful in the classical sense; power is persuasive, not coercive."
+    ]
+   },
+   {
+    "label": "God's knowledge of the future",
+    "cells": [
+     "Complete foreknowledge (Augustine; most defenders).",
+     "Usually complete foreknowledge.",
+     "Complete, because God decrees the future.",
+     "Complete (assumed).",
+     "Knows all possibilities and what he will do; future free choices are not yet settled facts.",
+     "Knows the past and present fully; the future is open."
+    ]
+   },
+   {
+    "label": "Explanation of moral evil",
+    "cells": [
+     "Misuse of free will by angels and humans.",
+     "Freedom is needed for real moral growth; evil choices are its risk.",
+     "Humans freely and responsibly choose evil, and God ordains it for a greater good (compatibilism).",
+     "God has reasons we cannot see; free will is one possibility.",
+     "Free agents, human and spiritual, oppose God's will.",
+     "Creatures have their own power and can resist God's lure."
+    ]
+   },
+   {
+    "label": "Explanation of natural evil",
+    "cells": [
+     "The Fall disordered creation; some add fallen angels (Plantinga).",
+     "A world of stable laws and real dangers is necessary for courage, care and growth.",
+     "Part of God's decree; the curse on creation after the Fall; God's purposes include it.",
+     "Unknown reasons; may include the value of stable natural laws.",
+     "Partly the work of fallen powers corrupting creation; partly the cost of a world with stable laws.",
+     "The world's own creative freedom at every level; God cannot prevent it."
+    ]
+   },
+   {
+    "label": "Does pointless evil exist?",
+    "cells": [
+     "Usually no: God brings good from all evil, though we may not see it.",
+     "No in the long run: all suffering is finally used for growth (Hick adds life after death).",
+     "No: every evil serves God's purpose.",
+     "We cannot know that any evil is pointless.",
+     "Yes, some evils have no specific purpose, though God works to redeem them.",
+     "Yes, many evils serve no purpose; God redeems what can be redeemed."
+    ]
+   },
+   {
+    "label": "Key texts",
+    "cells": [
+     "Gen 1:31; Gen 3; Rom 5:12; Jas 1:13-15",
+     "Rom 5:3-5; Jas 1:2-4; Heb 12:10-11",
+     "Gen 50:20; Isa 45:7; Acts 4:27-28; Eph 1:11",
+     "Isa 55:8-9; Job 38-41; Rom 11:33-36",
+     "1 John 3:8; Eph 6:12; Gen 6:6; Jer 18:7-10",
+     "Hos 11:8-9; Isa 63:9; images of God's grief"
+    ]
+   },
+   {
+    "label": "Main thinkers",
+    "cells": [
+     "Augustine, Aquinas, C. S. Lewis, Alvin Plantinga, Richard Swinburne",
+     "Irenaeus (roots), John Hick, Richard Swinburne (in part)",
+     "John Calvin, Jonathan Edwards, D. A. Carson, John Piper, Paul Helm",
+     "Stephen Wykstra, Michael Bergmann, Daniel Howard-Snyder",
+     "Clark Pinnock, John Sanders, William Hasker, Greg Boyd",
+     "A. N. Whitehead, Charles Hartshorne, David Ray Griffin, John Cobb"
+    ]
+   },
+   {
+    "label": "What it says to a sufferer",
+    "cells": [
+     "This was not what God made the world to be; God is bringing good out of it.",
+     "This can become part of your growth, and God is not finished with you.",
+     "God is in control; this is not random, and he means it for your good.",
+     "God has reasons you cannot see now; trust his character.",
+     "God did not want this; he is fighting it with you and grieving with you.",
+     "God did not and could not prevent this; he is with you, feeling it with you."
+    ]
+   },
+   {
+    "label": "Main strength",
+    "cells": [
+     "Keeps God wholly good and humans responsible; deep roots in tradition.",
+     "Explains why the world is hard and why character matters; forward-looking.",
+     "Strong comfort that nothing is wasted; takes many texts on providence at face value.",
+     "Modest and hard to refute; fits Job 38-41.",
+     "Lets us call specific evils against God's will; fits Jesus' war on sickness and demons.",
+     "Removes the question 'why did God not intervene?'."
+    ]
+   },
+   {
+    "label": "Main critique",
+    "cells": [
+     "Hard to apply to animal suffering before humans; why did God permit so much?",
+     "Some suffering crushes rather than builds; infants and animals do not grow from it.",
+     "Seems to make God the cause of evil; can feel cold to victims.",
+     "Can undermine our ability to judge anything good or bad; offers little comfort.",
+     "Seems to limit God's knowledge and control; can make Satan too large.",
+     "Seems to give up the Creator and any guarantee that evil will be defeated."
+    ]
+   },
+   {
+    "label": "Final hope",
+    "cells": [
+     "Resurrection and new creation restore what the Fall broke.",
+     "Completed growth into God's likeness, often beyond death.",
+     "God's glory and justice fully displayed; every purpose fulfilled.",
+     "God's reasons may become clearer when we see him face to face.",
+     "Victory over the powers, won at the cross, completed at Christ's return.",
+     "God remembers and treasures all that has been; hope is less concrete."
+    ]
+   }
+  ]
+ },
+ "spectrum": {
+  "title": "How directly is God involved in each evil?",
+  "intro": "This line runs from views in which God specifically decrees every event, to views in which God cannot prevent evil at all. Sincere Christians and Jews stand at every point. Most positions near the middle are combinations. Read the positions on the other side as their best defenders would state them.",
+  "left": "God specifically ordains every event, including each evil, for a good purpose",
+  "right": "God cannot prevent evil; God persuades and suffers with the world",
+  "stops": [
+   {
+    "pos": 4,
+    "label": "Meticulous providence",
+    "text": "Every event, from a falling sparrow to a cancer cell, is ordained by God's decree, and every evil has a specific good purpose. God is not the author of sin because he works through secondary causes and human choices. This view offers the strongest assurance that nothing is wasted.",
+    "who": "John Calvin; Jonathan Edwards; John Piper; Paul Helm"
+   },
+   {
+    "pos": 14,
+    "label": "Reformed compatibilism with mystery",
+    "text": "God ordains all things, and humans are fully responsible, but we cannot explain how these fit together. We should hold both because Scripture teaches both, and refuse to call God evil or make humans puppets.",
+    "who": "D. A. Carson (*How Long, O Lord?*); Westminster Confession; many Reformed pastors"
+   },
+   {
+    "pos": 24,
+    "label": "Thomist permission",
+    "text": "God is the first cause of all being but does not cause evil as such, since evil is a lack, not a thing. God permits evil to bring good from it. God's causation and creaturely freedom are on different levels, so they do not compete.",
+    "who": "Thomas Aquinas; many Catholic theologians; Brian Davies; Eleonore Stump (in her own form)"
+   },
+   {
+    "pos": 32,
+    "label": "Molinism (middle knowledge)",
+    "text": "God knows what every possible free creature would freely do in every situation, and chooses which world to create in light of that. God thus has full providence without determining choices. Evil is permitted as part of the best feasible world of free creatures.",
+    "who": "Luis de Molina; William Lane Craig; Thomas Flint"
+   },
+   {
+    "pos": 40,
+    "label": "Free-will theodicy",
+    "text": "God gave real freedom and so permits evil he does not want. He does not decree each evil, but foresees it and brings good from it. Natural evil follows the Fall or comes from fallen spiritual beings.",
+    "who": "Augustine (in part); C. S. Lewis; Alvin Plantinga; Richard Swinburne"
+   },
+   {
+    "pos": 48,
+    "label": "Soul-making",
+    "text": "God deliberately made a world with dangers and distance so that freedom and growth would be real. God allows evils generally, as features of a good kind of world, not as specific decrees.",
+    "who": "John Hick; elements in Swinburne and Irenaeus"
+   },
+   {
+    "pos": 54,
+    "label": "Natural-law theodicy",
+    "text": "God made a world that runs by stable laws, which we need in order to act responsibly and learn. The same laws that hold life together also produce earthquakes and diseases. God does not usually override them.",
+    "who": "Richard Swinburne; John Polkinghorne ('free-process defence'); Christopher Southgate on evolution"
+   },
+   {
+    "pos": 63,
+    "label": "Cosmic conflict",
+    "text": "God's will is often opposed by real rebel powers. Many evils are acts of war against God, not his plan. God has committed himself to fight by love and the cross, not by overpowering force, until the final victory.",
+    "who": "Greg Boyd; many early church fathers; Christus Victor tradition"
+   },
+   {
+    "pos": 72,
+    "label": "Open theism",
+    "text": "The future is partly open. God takes risks, responds to prayer and choices, and can be grieved. Specific evils are not planned or always foreseen in detail. God is still able to intervene and will finally win.",
+    "who": "Clark Pinnock; John Sanders; William Hasker; David Basinger"
+   },
+   {
+    "pos": 82,
+    "label": "Essential kenosis",
+    "text": "God's nature is self-giving, uncontrolling love. God cannot unilaterally prevent evil, not because of outside limits but because love by its nature does not control. God works with creatures to heal and redeem.",
+    "who": "Thomas Jay Oord"
+   },
+   {
+    "pos": 90,
+    "label": "Process theology",
+    "text": "God's power is persuasive by its nature. God offers each moment its best possibility and absorbs the world's suffering into his own life. God cannot stop evil but never stops working against it.",
+    "who": "Alfred North Whitehead; Charles Hartshorne; David Ray Griffin; John Cobb"
+   },
+   {
+    "pos": 96,
+    "label": "A God who gave up power",
+    "text": "In creating, God surrendered power so that the world could be itself. After Auschwitz, we must think of a suffering, becoming, caring, but not all-powerful God. Humans must now help God.",
+    "who": "Hans Jonas; in a different pastoral form, Harold Kushner"
+   }
+  ]
+ },
+ "cases": [
+  {
+   "title": "Job's friends: when good theology is applied badly",
+   "ref": "Job 4:7-9",
+   "question": "Eliphaz says the innocent never perish. What is wrong with that, if the Bible elsewhere says sin brings ruin?",
+   "steps": [
+    {
+     "step": "Read what Eliphaz says",
+     "note": "'Who that was innocent ever perished?' (Job 4:7). Those who plough iniquity reap trouble (Job 4:8). It sounds like Proverbs and Deuteronomy."
+    },
+    {
+     "step": "See the hidden premise",
+     "note": "Eliphaz turns a general pattern into a rule that works backwards: if you suffer, you must have sinned. Bildad applies it even to Job's dead children (Job 8:4), and Zophar says Job deserves worse (Job 11:6)."
+    },
+    {
+     "step": "Hear Job's reply",
+     "note": "Job insists he is innocent and calls his friends 'worthless physicians' who 'whitewash with lies' (Job 13:4). He says their silence would be wisdom (Job 13:5). He brings his complaint to God, not to them."
+    },
+    {
+     "step": "Hear God's verdict",
+     "note": "God tells Eliphaz, 'you have not spoken of me what is right, as my servant Job has' (Job 42:7). The protester is approved; the defenders of God are rebuked and need Job to pray for them."
+    }
+   ],
+   "takeaway": "Defending God by blaming the sufferer is condemned by God himself. True statements about sin and judgement become false when used to explain a particular person's pain."
+  },
+  {
+   "title": "The man born blind: a wrong question replaced",
+   "ref": "John 9:1-7",
+   "question": "When the disciples ask whose sin caused the blindness, what does Jesus change?",
+   "steps": [
+    {
+     "step": "Notice the assumption",
+     "note": "The disciples assume a moral cause and only ask whose: the man's (perhaps before birth) or his parents'. Some Jewish teaching of the time discussed both possibilities."
+    },
+    {
+     "step": "Jesus rejects both options",
+     "note": "'Neither this man nor his parents sinned' (John 9:3). He does not deny that sin exists; he denies that this suffering is a sign of special guilt."
+    },
+    {
+     "step": "Jesus turns from cause to purpose",
+     "note": "The question moves from 'why did this happen?' to 'what will God do here?'. Jesus says 'we must work the works of him who sent me' (John 9:4), then heals the man."
+    },
+    {
+     "step": "Watch the irony",
+     "note": "By the end, the man sees and confesses faith, while the religious leaders who were sure of their theology are called blind (John 9:39-41)."
+    }
+   ],
+   "takeaway": "Jesus moves the focus from blame to God's healing work. The fitting response to suffering is compassion and action, not a search for the guilty party."
+  },
+  {
+   "title": "Siloam: a disaster is not a verdict",
+   "ref": "Luke 13:1-5",
+   "question": "What does Jesus teach about a political massacre and an accidental collapse?",
+   "steps": [
+    {
+     "step": "Two kinds of evil",
+     "note": "Pilate killed Galileans while they offered sacrifices (moral evil). A tower fell in Siloam and killed eighteen (an accident, natural evil). Jesus addresses both."
+    },
+    {
+     "step": "Victims are not worse sinners",
+     "note": "Twice Jesus asks, 'Do you think they were worse?' and answers, 'No' (Luke 13:2-5)."
+    },
+    {
+     "step": "Everyone is called to repent",
+     "note": "Instead of explaining the deaths, Jesus uses them as a warning to all: life is fragile and judgement is real. The disaster says something to the living, not about the dead."
+    },
+    {
+     "step": "Read the next story",
+     "note": "Luke follows with a parable of patience for a fruitless tree (Luke 13:6-9) and a healing of a woman whom Satan had bound for eighteen years (Luke 13:10-16). God's patience and Jesus' war on evil frame the passage."
+    }
+   ],
+   "takeaway": "Christians should not read the tsunami, an earthquake or a bomb as proof of the victims' special guilt. Disasters call everyone to humility and turning to God."
+  },
+  {
+   "title": "Joseph: two intentions in one event",
+   "ref": "Gen 50:15-21",
+   "question": "How can the same event be meant for evil and meant for good?",
+   "steps": [
+    {
+     "step": "Remember the evil",
+     "note": "The brothers planned murder, then sold Joseph into slavery (Gen 37:18-28). Joseph suffered years of slavery and prison."
+    },
+    {
+     "step": "Hear Joseph's reading",
+     "note": "'You meant evil against me, but God meant it for good, to bring it about that many people should be kept alive' (Gen 50:20). The same Hebrew verb is used for both intentions."
+    },
+    {
+     "step": "Compare interpretations",
+     "note": "Reformed readers see God ordaining the event without being guilty of the brothers' sin. Free-will and open theists read it as God weaving a free evil into a good outcome. All agree the brothers were guilty and God was good."
+    },
+    {
+     "step": "Notice what Joseph does",
+     "note": "He weeps, forgives and provides for the brothers (Gen 50:21). His theology leads to mercy, not revenge."
+    }
+   ],
+   "takeaway": "Scripture can hold human evil and God's good purpose in one event without calling the evil good. This text comforts many, but it is Joseph's testimony looking back, not a sentence to impose on someone else's fresh grief."
+  },
+  {
+   "title": "Psalm 88: when prayer ends in darkness",
+   "ref": "Ps 88",
+   "question": "What do we do with a psalm that never finds comfort?",
+   "steps": [
+    {
+     "step": "Read it aloud slowly",
+     "note": "Notice that every complaint is spoken to God. 'O Lord, God of my salvation' (Ps 88:1) is the address of a believer, even when the content is despair."
+    },
+    {
+     "step": "See the accusation",
+     "note": "The psalmist says God's wrath lies on him and God has removed his friends (Ps 88:7-8). He does not blame himself; he puts the weight on God."
+    },
+    {
+     "step": "See the questions",
+     "note": "'Do you work wonders for the dead?' (Ps 88:10-12). He argues with God from God's own interest in being praised."
+    },
+    {
+     "step": "Notice the ending",
+     "note": "The final words are about darkness (Ps 88:18). There is no turn to praise. The psalm stayed in Israel's worship book anyway."
+    }
+   ],
+   "takeaway": "Faith sometimes looks like refusing to stop speaking to God when no comfort comes. The church should leave room for people whose prayers sound like Ps 88."
+  },
+  {
+   "title": "Paul's thorn: an unanswered prayer that became a gift",
+   "ref": "2 Cor 12:7-10",
+   "question": "Why did God not remove Paul's affliction?",
+   "steps": [
+    {
+     "step": "Name the sources",
+     "note": "The thorn was 'given' to Paul, it is 'a messenger of Satan', and its purpose was to keep him from pride (2 Cor 12:7). Paul sees God's purpose and Satan's harm in one affliction."
+    },
+    {
+     "step": "Paul prays three times",
+     "note": "He asks plainly for it to go (2 Cor 12:8). Asking for healing is not a lack of faith."
+    },
+    {
+     "step": "God answers differently",
+     "note": "'My grace is sufficient for you, for my power is made perfect in weakness' (2 Cor 12:9)."
+    },
+    {
+     "step": "Paul's new view",
+     "note": "He chooses to boast in weakness and to be content in hardship 'for the sake of Christ' (2 Cor 12:10). This is the theology of the cross in personal form."
+    }
+   ],
+   "takeaway": "Not every suffering is removed, even for great saints. Grace can meet us inside it. Paul's experience corrects any teaching that strong faith always brings healing."
+  },
+  {
+   "title": "The 2004 tsunami: karma, judgement or groaning creation?",
+   "ref": "Rom 8:18-25",
+   "question": "How should Christians in Tamil Nadu speak about a disaster that killed thousands of fishing families?",
+   "steps": [
+    {
+     "step": "Listen first",
+     "note": "People asked: Was this karma from past lives? Was it God's punishment? Was it the sea goddess? Before answering, Christians are called to weep with those who weep (Rom 12:15) and help."
+    },
+    {
+     "step": "Reject victim-blaming",
+     "note": "Jesus' answer about Siloam applies directly: those who died were not worse than others (Luke 13:4-5). This also answers a strict karma reading that sees the victims as paying for past deeds."
+    },
+    {
+     "step": "Place it in Rom 8",
+     "note": "Paul describes a creation 'subjected to futility' and 'groaning' until it is freed (Rom 8:20-22). The disaster is a sign that the world is not yet as God intends, not a message about these villages."
+    },
+    {
+     "step": "Speak of grace and hope respectfully",
+     "note": "Christians can say that God's love is not earned or lost by past deeds (Ps 103:10), that Jesus shares our suffering, and that God promises renewal. Many Hindu neighbours also believe in divine grace; respectful conversation starts there, not with attacking their faith."
+    }
+   ],
+   "takeaway": "Natural disasters are best spoken of as the groaning of an unfinished creation, met by God's presence and his people's help, never as proof that the victims deserved it."
+  }
+ ],
+ "sections": [
+  {
+   "id": "terms",
+   "heading": "What theodicy is, and what it is not",
+   "body": "The word 'theodicy' was made by the philosopher Gottfried Leibniz in 1710 from two Greek words, theos (God) and dike (justice). A theodicy tries to justify the ways of God: to give the actual reasons, or the most likely reasons, why a good and powerful God allows evil. The poet John Milton had already set himself the same aim in *Paradise Lost* (1667): to 'justify the ways of God to men'.\n\nPhilosophers distinguish a theodicy from a 'defence'. A defence is more modest. It does not claim to know God's reasons; it only shows that God and evil are not logically contradictory, by describing a possible reason. Alvin Plantinga's free-will defence is the best-known example.\n\nThe problem is usually set out as an 'inconsistent triad': (1) God is all-powerful, (2) God is wholly good, (3) evil exists. A good being would want to remove evil; a powerful being could. So why is evil here? Lactantius, a Christian writer of the early fourth century, reports this dilemma from the Greek philosopher Epicurus, and David Hume restated it in 1779 as 'Epicurus's old questions'.\n\nSome theologians criticise the whole project. Kenneth Surin and Terrence Tilley argued that theodicy can turn real victims into examples in an argument and can make evil seem acceptable. Their warning matters: theodicy should never replace lament, justice or care. But most Christian thinkers still believe careful reflection is a form of loving God with the mind, and that believers deserve honest help with honest questions.",
+   "refs": [
+    "Gen 18:25",
+    "Ps 10:1",
+    "Hab 1:13",
+    "1 Pet 3:15"
+   ],
+   "confidence": "scholarly-consensus",
+   "callout": {
+    "kind": "tip",
+    "text": "Three words to keep apart: theodicy (claims to give God's reasons), defence (shows a possible reason, so no contradiction), and lament (speaks to God about evil instead of explaining it). The Bible contains much more lament than theodicy."
+   }
+  },
+  {
+   "id": "logical-evidential",
+   "heading": "The logical problem and the evidential problem",
+   "body": "The logical problem says belief in God is self-contradictory. J. L. Mackie's 1955 article 'Evil and Omnipotence' argued this. For it to work, it must be necessarily true that a good, all-powerful God would prevent every evil. Plantinga replied that this is not necessarily true: if God wants creatures who freely choose good, he cannot guarantee that they always will, because a guaranteed free choice is not free. If that is even possible, there is no contradiction. Many philosophers, including well-known atheists, now accept that the logical form of the argument does not succeed.\n\nThe evidential problem is different. It grants that God and evil are consistent, but says the facts make God unlikely. William Rowe's 1979 paper asked us to picture a fawn trapped in a forest fire, badly burned, suffering for days and then dying, with no human ever knowing. What good could that serve? If there is even one truly pointless evil, Rowe argued, a perfectly good God does not exist; and it seems very likely that there is such evil.\n\nReplies to Rowe take three main forms. Skeptical theists (Stephen Wykstra, 1984; Michael Bergmann) say we are not in a position to judge that an evil has no purpose, given the gap between God's mind and ours. Others (Peter van Inwagen, William Hasker) argue that a world with real freedom and stable natural laws will contain some pointless evils, and that God may permit them. Still others, especially Reformed thinkers, argue that the overall evidence for God, including the resurrection of Jesus, outweighs the evidence from evil.\n\nThere is also a third form, sometimes called the existential or pastoral problem: not 'Does God exist?' but 'How can I trust God after this?'. Arguments rarely help here. This is where lament, community and the cross come first.",
+   "refs": [
+    "Gen 1:31",
+    "Deut 30:19",
+    "Rom 8:22",
+    "Isa 55:8-9"
+   ],
+   "confidence": "scholarly-consensus",
+   "callout": {
+    "kind": "debate",
+    "text": "Whether skeptical theism goes too far is debated. Critics such as Paul Draper and some theists argue that if we cannot judge God's reasons for permitting evil, we also cannot judge that anything is good or bad, or trust God's promises. Defenders reply that we can trust God's revealed promises while admitting we cannot see his reasons for particular evils."
+   }
+  },
+  {
+   "id": "kinds",
+   "heading": "Kinds of evil: moral, natural, gratuitous and horrendous",
+   "body": "Moral evil is evil done by agents who could have chosen otherwise: murder, lies, abuse, exploitation, genocide. Natural evil is suffering that comes from the way the natural world works: earthquakes, floods, cancers, birth defects. Many events are mixed. A famine may begin with drought and be made deadly by corruption; an earthquake kills more people where buildings are poorly made.\n\nThe Bible attributes moral evil to the human heart and to rebellious spiritual powers (Mark 7:21-23, Eph 6:12). It links natural disorder to the curse after human sin (Gen 3:17-19) and to a creation 'subjected to futility' that waits for freedom (Rom 8:20-21). It also shows God governing wild nature in ways humans cannot judge (Job 38-41), and Jesus treating disease as an enemy to defeat (Luke 13:16, Acts 10:38).\n\nGratuitous evil means evil that serves no greater good at all. Whether such evil exists is the central question in the evidential debate. Horrendous evil, a term from Marilyn McCord Adams, means evil so terrible that it seems to destroy the value of the victim's whole life. Adams argued that God must not only bring good out of such evil for the world in general, but must make each victim's life a great good to them, and that only intimate union with God can do that.\n\nNaming the kind of evil helps avoid harm. Treating cancer as if it were someone's moral failure, or treating abuse as if it were simply 'nature', causes real damage.",
+   "refs": [
+    "Mark 7:21-23",
+    "Eph 6:12",
+    "Gen 3:17-19",
+    "Rom 8:20-21",
+    "Job 38:1-7",
+    "Acts 10:38"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "id": "job",
+   "heading": "Job: the Bible's great argument about suffering",
+   "body": "The book of Job opens in heaven. 'The satan' (in Hebrew ha-satan, 'the accuser', with the definite article) appears among the heavenly beings and asks whether Job serves God for nothing (Job 1:9). Many scholars think this figure is a member of God's council acting as prosecutor, not yet the fully developed devil of later Jewish and Christian thought; others see continuity with the later figure. Either way, the question on trial is whether humans can love God for God's own sake.\n\nJob loses his wealth, children and health. His first response is worship (Job 1:21). Then three friends come and sit with him in silence for seven days (Job 2:13), which is the wisest thing they do. When Job curses the day of his birth (Job 3), they begin to defend God with the theology of retribution: the innocent do not perish, so Job must have sinned. Job refuses this. He demands to argue his case before God (Job 13:3, Job 31:35-37) while still hoping for a redeemer (Job 19:25-27).\n\nGod answers 'out of the whirlwind' (Job 38:1). He asks Job where he was when the earth was founded, and shows him the wild animals, the sea, Behemoth and Leviathan, none of which exist for human convenience. God never mentions the heavenly test. Job is humbled and comforted (Job 42:6; the Hebrew of this verse is difficult and can mean 'repent' or 'be comforted' about dust and ashes). Then God says the friends were wrong and Job was right (Job 42:7).\n\nJob's message is complex. It teaches that suffering is not always punishment; that honest protest is welcomed by God more than false defence of him; that God's wisdom governs a world much larger than human concerns; and that the deepest answer is an encounter with God, not an explanation. Jewish tradition read Job as a model of patience and also of protest; Christians have often seen in the innocent sufferer a foreshadowing of Christ.",
+   "refs": [
+    "Job 1:6-12",
+    "Job 1:21",
+    "Job 2:11-13",
+    "Job 13:3",
+    "Job 19:25-27",
+    "Job 38:1-7",
+    "Job 42:1-10"
+   ],
+   "confidence": "debated",
+   "callout": {
+    "kind": "debate",
+    "text": "Scholars debate whether the happy ending (Job 42:10-17) supports or weakens the book's challenge to retribution theology, and whether God's speeches are an answer, a rebuke, or a deliberate refusal to answer. Some also read Elihu's speeches (Job 32-37) as a later addition; others see them as preparing for God's speech."
+   }
+  },
+  {
+   "id": "lament",
+   "heading": "Lament: faith that complains",
+   "body": "About a third of the Psalms are laments. They follow a common pattern: address to God, complaint, request, expression of trust, and promise of praise. Walter Brueggemann described the Psalms as moving through orientation (life makes sense), disorientation (life falls apart) and new orientation (surprised by grace). Lament belongs to the middle stage, and the Bible gives it a large share.\n\nIn a Jewish covenant setting, lament is not rebellion. It is the speech of a partner who holds God to his promises. Psalm 44 says Israel has been faithful and still been crushed, and calls God to 'wake up'. Psalm 13 asks 'How long?' four times before it can say 'I trust'. Psalm 88 never reaches trust. Lamentations mourns Jerusalem with five careful poems, mixing confession of sin with protest against the horror.\n\nThe argument with God runs through the whole Bible. Abraham bargains for Sodom: 'Shall not the Judge of all the earth do right?' (Gen 18:25). Moses stands between God and the people (Exod 32:11-14). Jeremiah accuses God of deceiving him (Jer 20:7). Habakkuk asks why God is silent while the wicked swallow the righteous (Hab 1:13). Jesus prays Psalm 22 on the cross.\n\nMany churches sing almost only praise. Biblical scholars and pastors have argued that this leaves sufferers without words and suggests that complaint is unfaithful. Recovering lament gives people permission to bring their whole selves to God.",
+   "refs": [
+    "Ps 13",
+    "Ps 44:17-26",
+    "Ps 88",
+    "Gen 18:22-33",
+    "Jer 20:7-18",
+    "Hab 1:2-4",
+    "Lam 3:1-24",
+    "Mark 15:34"
+   ],
+   "confidence": "scholarly-consensus",
+   "callout": {
+    "kind": "myth",
+    "text": "Myth: complaining to God shows weak faith. In the Bible, the people who complain most honestly to God (Job, Jeremiah, the psalmists, Jesus in Gethsemane) are those closest to him. The opposite of lament is not faith; it is silence and distance."
+   }
+  },
+  {
+   "id": "jesus-cross",
+   "heading": "Jesus, the cross and the God who suffers",
+   "body": "Jesus did not give a theory of evil. He refused to blame victims (Luke 13:1-5, John 9:1-3), healed the sick and freed the oppressed as signs that God's kingdom was breaking in, and called evil by its name. He wept at Lazarus' tomb even though he was about to raise him (John 11:35). In Gethsemane he asked for the cup to pass (Mark 14:36).\n\nOn the cross, the innocent one suffers the worst of moral evil: betrayal, injustice, torture, mockery, and the feeling of abandonment by God (Mark 15:34). The New Testament says this was done by 'lawless men' and also happened 'according to the definite plan and foreknowledge of God' (Acts 2:23). It is the clearest example of God bringing the greatest good, salvation, out of the greatest evil, without calling the evil good.\n\nMartin Luther's 'theology of the cross' (Heidelberg Disputation, 1518) says God is found especially in suffering and weakness. Jürgen Moltmann (*The Crucified God*, 1972) went further: God himself suffers in the cross. The early church held that God is impassible (not subject to suffering as creatures are), and taught that the Son suffered in his human nature. Many modern theologians believe God truly feels grief, pointing to texts such as Gen 6:6, Hos 11:8 and Isa 63:9. Paul Gavrilyuk and others have argued that the Fathers' position was more subtle than its critics say: God freely and truly enters suffering in Christ without being overcome by it.\n\nThe cross is also a victory. The tradition called Christus Victor, named by Gustaf Aulén in 1930, stresses that at the cross Christ disarmed the powers (Col 2:15) and destroyed the one who has the power of death (Heb 2:14). The resurrection is God's announcement that evil and death will not have the last word.",
+   "refs": [
+    "Luke 13:1-5",
+    "John 11:35",
+    "Mark 14:36",
+    "Mark 15:34",
+    "Acts 2:23",
+    "Col 2:15",
+    "Heb 2:14-15",
+    "Isa 63:9"
+   ],
+   "confidence": "debated",
+   "callout": {
+    "kind": "debate",
+    "text": "Passibility (God can suffer) and impassibility (God is not subject to suffering) is a live debate. Both sides agree that in Jesus, God truly entered human suffering. They disagree about whether the divine nature itself is changed by it."
+   }
+  },
+  {
+   "id": "responses",
+   "heading": "The main Christian responses in brief",
+   "body": "The Augustinian response: creation was very good; evil is the absence or corruption of good; it came through the free rebellion of angels and humans; natural disorder followed the Fall; God permits evil to bring greater good from it. Free-will defences and theodicies (Plantinga, Swinburne) develop this tradition.\n\nThe Irenaean or soul-making response (John Hick): humans were created immature, at a distance from God, in a world of challenge, so that they could freely grow into the likeness of God. Suffering is the price of a world in which courage, compassion and faith are possible.\n\nThe Reformed response: God ordains whatsoever comes to pass, as the Westminster Confession (1646) puts it, yet is not the author of sin and does not remove human responsibility. Evil is never meaningless. Gen 50:20 and Acts 4:27-28 are central. Greater-good theodicies (God permits or ordains evil only for an outweighing good) are found here and in many other traditions.\n\nThe cosmic-conflict response: creation is a war zone between God and rebel spiritual powers; much evil is the enemy's work; Jesus came to destroy the works of the devil. Open theism adds that the future is partly open, so God does not plan each evil. Natural-law theodicy (Swinburne, Polkinghorne) says a world of stable laws, needed for responsible action, will also produce disasters. Process theology says God's power is persuasive, not coercive.\n\nFinally, the 'best of all possible worlds' view (Leibniz) says that God chose the best whole, evils included. Skeptical theism is less a theodicy than a reason not to expect one. Most believers combine several of these, for example free will for moral evil, natural law or cosmic conflict for natural evil, the cross for God's presence, and new creation for final hope.",
+   "refs": [
+    "Gen 1:31",
+    "Rom 5:12",
+    "Jas 1:2-4",
+    "Gen 50:20",
+    "Acts 4:27-28",
+    "1 John 3:8",
+    "Isa 55:8-9",
+    "Rev 21:4"
+   ],
+   "confidence": "debated",
+   "callout": {
+    "kind": "tip",
+    "text": "Ask of any response: What does it say about God's power, God's goodness and God's knowledge? What does it say about natural evil? What would it sound like at a child's funeral? A theodicy that cannot be said at a funeral may still be true, but it should be said with great care."
+   }
+  },
+  {
+   "id": "jewish",
+   "heading": "Jewish voices: covenant, protest and the Holocaust",
+   "body": "Jewish tradition reads suffering within the covenant. Deuteronomy links blessing and curse to faithfulness (Deut 28), and the prophets read the exile as judgement. But the same Scriptures contain Job, Ecclesiastes and the lament psalms, which deny that all suffering is punishment. The rabbis spoke of 'sufferings of love' (yissurin shel ahavah) and also told stories in which they argued with God. Hasidic tradition remembers Rabbi Levi Yitzchak of Berditchev bringing 'a lawsuit' against God on behalf of Israel.\n\nThe Holocaust (the Shoah) shook all of this. Six million Jews, including about one and a half million children, were murdered. Richard Rubenstein (*After Auschwitz*, 1966) said the God who acts in history to save his chosen people could no longer be believed. Emil Fackenheim (1967) replied with the '614th commandment': Jews are forbidden to give Hitler posthumous victories by abandoning Judaism, the Jewish people or hope. Eliezer Berkovits (*Faith after the Holocaust*, 1973) used the biblical idea of hester panim, God hiding his face (Deut 31:17-18, Isa 45:15), and the cost of human freedom. Irving Greenberg proposed that no statement about God should be made that would not be believable in the presence of burning children. Hans Jonas (1984) proposed that God had given up power in creating.\n\nElie Wiesel's *Night* and his play *The Trial of God* hold faith and protest together: one can put God on trial and still pray afterwards. Harold Kushner's popular book (1981) concluded that God is good but not all-powerful. Most traditional Jewish thinkers rejected that limitation, but many valued his refusal to blame victims.\n\nFor Christians, these voices are a gift and a warning. They show that protest can be a form of faith, and they remind Christians of the long history of Christian anti-Judaism that helped prepare the ground for the Holocaust. Christian theodicy must be able to stand in front of Jewish suffering without explaining it away.",
+   "refs": [
+    "Deut 28:1-14",
+    "Deut 31:17-18",
+    "Isa 45:15",
+    "Ps 44:17-26",
+    "Gen 18:25",
+    "Lam 5:20-22"
+   ],
+   "confidence": "scholarly-consensus",
+   "callout": {
+    "kind": "tradition",
+    "text": "The phrase 'sufferings of love' comes from the Talmud (Berakhot 5a), where the rabbis discuss suffering that does not come from sin. The discussion that follows (Berakhot 5b) also shows rabbis who said, in effect, 'neither the sufferings nor their reward', preferring to be spared both. Jewish tradition does not give one answer."
+   }
+  },
+  {
+   "id": "related",
+   "heading": "Related problems: hiddenness, hell, Old Testament violence and animal pain",
+   "body": "Divine hiddenness: J. L. Schellenberg (*Divine Hiddenness and Human Reason*, 1993) argued that a perfectly loving God would make a relationship with himself available to every person who is not resisting it, so the existence of sincere non-believers counts against God. Responses say God hides to protect freedom, to invite seeking, or to deepen trust; the Bible itself speaks of God hiding (Isa 45:15) and of seekers finding (Jer 29:13). The lament 'Why do you hide your face?' (Ps 44:24) shows that believers feel hiddenness too.\n\nHell: if God allows suffering now for good purposes, what of suffering without end? For many people the problem of hell is the hardest form of the problem of evil. Christians hold three main views: eternal conscious punishment, conditional immortality (the wicked finally perish), and hopeful or Christian universalism. The app's Afterlife and Kingdom section sets these out fairly.\n\nOld Testament violence: commands to destroy whole peoples (Deut 20:16-18, 1 Sam 15:3) raise the question of whether God himself commands evil. Responses include ancient war language as hyperbole, God's judgement on specific sins, accommodation to a violent culture, and reading the Old Testament through Jesus. The course lesson 'Hard Texts' covers this in detail.\n\nAnimal suffering and pre-human evil: fossils show predation, disease and mass extinctions over hundreds of millions of years before humans. This challenges the view that all natural evil follows human sin. Responses include a fall of angelic powers before human history (C. S. Lewis, Plantinga, Boyd), evolutionary theodicy in which a self-making creation is the only way to produce life like ours (Christopher Southgate), and the view that animal death was part of God's good creation while human death is the 'death' brought by sin (Ps 104:21, Job 38:39-41). All look to a renewed creation in which the wolf lies with the lamb (Isa 11:6-9).",
+   "refs": [
+    "Isa 45:15",
+    "Jer 29:13",
+    "Ps 44:24",
+    "Deut 20:16-18",
+    "Ps 104:21",
+    "Job 38:39-41",
+    "Isa 11:6-9",
+    "Rom 8:19-22"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "id": "india",
+   "heading": "Karma, grace and suffering in an Indian setting",
+   "body": "Many people in India, including many Christians' neighbours and relatives, explain suffering through karma: actions in this life or past lives bear fruit in later experience. The idea has moral power: it takes responsibility seriously and gives a sense of order. In Tamil tradition the Tirukkural devotes a chapter to destiny (oozh), and Tamil Saiva Siddhanta speaks of souls bound by karma and freed by the grace (arul) of God. Christians should describe these beliefs accurately and respectfully, and should know that grace is a strong theme in Hindu devotion too.\n\nThe Bible shares the idea that actions have consequences (Gal 6:7). But it rejects the reverse reasoning that a person's suffering shows what they deserve. Job's friends used that reasoning and were rebuked; Jesus rejected it about the man born blind and the victims at Siloam. A strict karma reading of suffering faces the same problem as the friends' theology: it can make victims of disability, caste oppression or disaster seem to deserve their lot. Dalit Christian theologians such as Arvind Nirmal have stressed that God in Christ stands with the oppressed rather than explaining their suffering as deserved.\n\nThe Christian alternative is grace. God 'does not deal with us according to our sins' (Ps 103:10). Salvation is a gift, not earned (Eph 2:8-9). Suffering is part of a creation that groans for renewal, not a ledger of debts. And God himself enters suffering in Jesus. This does not answer every question, but it changes the posture: from 'what did they do?' to 'how can we help, and where is God here?'.\n\nIndian Christian history also has examples of costly response to evil: Amy Carmichael's long illness at Dohnavur, the forgiveness of Gladys Staines in Odisha in 1999, and the shared relief work after the 2004 tsunami. These are not arguments, but they are part of the answer the church gives.",
+   "refs": [
+    "Gal 6:7",
+    "Job 42:7",
+    "John 9:1-3",
+    "Luke 13:4-5",
+    "Ps 103:10",
+    "Eph 2:8-9",
+    "Luke 4:18-19"
+   ],
+   "confidence": "debated",
+   "callout": {
+    "kind": "tip",
+    "text": "In conversation with Hindu friends, avoid caricature. Many Hindu traditions teach grace, devotion (bhakti) and divine compassion. A fruitful question is: 'How does God's grace relate to karma in your tradition?' Then share how Jesus answers the man born blind."
+   }
+  },
+  {
+   "id": "pastoral",
+   "heading": "Pastoral wisdom: presence before explanation",
+   "body": "When people suffer, they usually need presence before explanations. Job's friends were best in their seven days of silence (Job 2:13). Paul tells us to weep with those who weep (Rom 12:15). Jesus wept with Mary and Martha before he did anything else (John 11:33-35).\n\nThings that help: being there, practical help (food, rides, childcare), listening without correcting, reading lament psalms together, praying honestly, remembering anniversaries, and letting people say angry things to God. Things that harm: 'everything happens for a reason', 'God needed another angel', 'if you had more faith', 'at least...', comparing their suffering with others, and pressing Rom 8:28 on fresh grief.\n\nPastoral theologians such as John Swinton (*Raging with Compassion*, 2007) argue that the church's answer to evil is a set of practices, not a theory: lament, forgiveness, hospitality, thoughtful presence and hope. Nicholas Wolterstorff, after his son's death, wrote that he could not fit the death into any explanation, and that the people who helped were those who simply said they were with him in it.\n\nTheodicy is still useful. People in calm seasons need to think through these questions so that suffering does not find them unprepared, and some sufferers do want to talk about ideas. The wise rule is to let the sufferer lead, and to hold the arguments loosely and the person closely.",
+   "refs": [
+    "Job 2:11-13",
+    "Rom 12:15",
+    "John 11:33-35",
+    "2 Cor 1:3-7",
+    "Gal 6:2",
+    "Prov 25:20"
+   ],
+   "confidence": "scholarly-consensus",
+   "callout": {
+    "kind": "myth",
+    "text": "Myth: Christians must always have an answer. Scripture itself leaves many 'why' questions open (Deut 29:29). Saying 'I do not know why, but I am here and God has not left you' is often the most faithful thing a believer can say."
+   }
+  }
+ ],
+ "misreadings": [
+  {
+   "topic": "'Everything happens for a reason'",
+   "popular": "Every event, including every tragedy, has a specific purpose that God planned, so we should accept it and look for the lesson. Saying this is meant to comfort: nothing is random or wasted.",
+   "inContext": "The Bible does affirm God's providence (Gen 50:20, Rom 8:28), but it also shows God grieving over evil (Gen 6:6), Jesus treating sickness and death as enemies (Luke 13:16, John 11:33-35), and the Teacher saying 'time and chance happen to them all' (Eccl 9:11). The phrase as popularly used often slides into fatalism: accept whatever happens because it was meant to be. That is closer to Stoic or popular karma ideas than to the biblical picture of God fighting evil and calling his people to resist it.",
+   "defence": "Reformed scholars such as D. A. Carson and John Piper defend the core truth: God is sovereign over all things, and nothing is outside his purpose. But they also insist that this does not make evil good, does not remove human responsibility, and must not be used as a slogan to silence grief. Carson's *How Long, O Lord?* gives as much space to lament as to sovereignty.",
+   "whyItMatters": "Said to a grieving parent, 'everything happens for a reason' can sound like 'God wanted your child to die'. Even where the theology behind it is held, the phrase is a poor pastoral tool and can drive people from God.",
+   "refs": [
+    "Gen 50:20",
+    "Eccl 9:11",
+    "Gen 6:6",
+    "John 11:33-35",
+    "Rom 8:28"
+   ],
+   "scholars": [
+    "D. A. Carson",
+    "John Piper",
+    "Greg Boyd",
+    "Kate Bowler"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "topic": "Suffering means you have sinned",
+   "popular": "If something bad happens to you, God is probably punishing you or warning you about hidden sin. Health and success show God's favour; disaster shows his displeasure.",
+   "inContext": "This is the theology of Job's friends, and God says they did not speak rightly about him (Job 42:7). Jesus rejects it for the man born blind (John 9:1-3) and for the victims at Siloam (Luke 13:1-5). Deuteronomy's blessings and curses (Deut 28) are covenant terms for the nation as a whole, not a rule for reading each person's illness or loss. Psalm 44 and Ecclesiastes openly say that the faithful sometimes suffer and the wicked prosper.",
+   "defence": "Traditional scholars note that the Bible does sometimes link a specific suffering to sin (1 Cor 11:29-30, John 5:14), and that sin does bring natural consequences (Gal 6:7). So it is not wrong to examine oneself. The error is making this a universal rule and applying it to other people.",
+   "whyItMatters": "This misreading adds guilt and shame to pain, isolates sufferers, and blames victims of abuse, disability or disaster. It is also the shape of a strict karma reading, so correcting it matters in India.",
+   "refs": [
+    "Job 4:7-9",
+    "Job 42:7",
+    "John 9:1-3",
+    "Luke 13:1-5",
+    "Ps 44:17-22",
+    "John 5:14"
+   ],
+   "scholars": [
+    "John Walton",
+    "Tremper Longman III",
+    "N. T. Wright",
+    "Carol Newsom"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Rom 8:28 means everything is good",
+   "popular": "'All things work together for good' means that whatever happens to a Christian is good, or will soon turn out well in this life.",
+   "inContext": "Paul says God works in all things for good for those who love him, who are called according to his purpose (Rom 8:28). In context, the 'good' is being conformed to the image of Christ (Rom 8:29) and final glory (Rom 8:18, Rom 8:30). The surrounding verses list real evils: groaning creation, weakness, tribulation, famine, sword (Rom 8:22-23, Rom 8:35-36). Paul does not call these good; he says they cannot separate believers from God's love. Some manuscripts read 'God works all things for good', which makes God's action even clearer.",
+   "defence": "Evangelical commentators such as Douglas Moo and Thomas Schreiner affirm a strong reading of providence here: God really does govern all things toward his people's ultimate good. But they agree that the good is ultimate and Christ-shaped, not necessarily visible or comfortable now.",
+   "whyItMatters": "Used as a quick fix, Rom 8:28 can deny people the right to grieve and make God seem to call evil good. Read in context, it is a deep hope spoken in the middle of groaning.",
+   "refs": [
+    "Rom 8:18-30",
+    "Rom 8:35-39"
+   ],
+   "scholars": [
+    "Douglas Moo",
+    "Thomas Schreiner",
+    "N. T. Wright",
+    "Beverly Roberts Gaventa"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "'If you had enough faith, you would be healed'",
+   "popular": "God always wants to heal and prosper his children. If healing or blessing does not come, the problem is a lack of faith, unconfessed sin or negative words.",
+   "inContext": "Jesus did heal many and connected faith with healing (Mark 5:34). But Paul left Trophimus sick (2 Tim 4:20), told Timothy to take wine for frequent illness (1 Tim 5:23), and was not freed from his thorn (2 Cor 12:7-10). Hebrews lists faithful people who were tortured and killed and 'did not receive what was promised' (Heb 11:35-40). Faith in the Bible includes trust when healing does not come (Hab 3:17-19, Dan 3:17-18).",
+   "defence": "Pentecostal and charismatic teachers rightly stress that God still heals and that prayer for healing is biblical (Jas 5:14-16). Careful leaders in these movements, such as Gordon Fee (himself Pentecostal), criticised prosperity teaching while defending prayer for healing. The healthy view prays boldly and accepts God's answer.",
+   "whyItMatters": "Blaming the sick for their illness adds spiritual abuse to physical suffering. It also makes faith a technique and God a vending machine, which is the opposite of Job's faith that serves God 'for nothing' (Job 1:9).",
+   "refs": [
+    "2 Cor 12:7-10",
+    "2 Tim 4:20",
+    "Heb 11:35-40",
+    "Dan 3:17-18",
+    "Jas 5:14-16",
+    "Job 1:9"
+   ],
+   "scholars": [
+    "Gordon Fee",
+    "Kate Bowler",
+    "Craig Keener",
+    "Joni Eareckson Tada"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "God needs evil to bring about good",
+   "popular": "Good cannot exist without evil, like light without darkness; so God needed evil in order to show his goodness, mercy and justice.",
+   "inContext": "The Bible describes a good creation before evil (Gen 1:31) and a new creation after it (Rev 21:4); evil is an intruder, not a necessary part of reality. God brings good out of evil (Gen 50:20, Rom 5:20), but that is redemption, not dependence. Augustine taught that evil is parasitic on good, not its necessary opposite. The 'light needs darkness' idea is closer to philosophical dualism than to the biblical story.",
+   "defence": "Some Reformed theologians (for example in supralapsarian forms of Calvinism) do say God decreed the Fall so that his mercy and justice could be displayed, and point to Rom 9:22-23. Even they deny that God depends on evil or that evil is good in itself. Other traditions reject this reasoning as making God the author of evil.",
+   "whyItMatters": "If God needs evil, then evil is part of God's own nature or plan in a way that makes him less than wholly good. Keeping evil as an intruder lets believers oppose it wholeheartedly.",
+   "refs": [
+    "Gen 1:31",
+    "Gen 50:20",
+    "Rom 5:20",
+    "Rom 9:22-23",
+    "Jas 1:13",
+    "Rev 21:4"
+   ],
+   "scholars": [
+    "Augustine",
+    "Thomas Aquinas",
+    "John Calvin",
+    "David Bentley Hart"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "topic": "Lament shows a lack of faith",
+   "popular": "Mature Christians do not complain; they praise God in everything. Questioning God is rebellion or doubt.",
+   "inContext": "The Psalms are Israel's prayer book, and lament is its most common type. Abraham, Moses, Job, Jeremiah and Habakkuk argued with God and were not condemned for it. Jesus himself prayed Psalm 22. In a covenant relationship, complaint addressed to God assumes that God is listening and is bound by his promises. The 'grumbling' condemned in the wilderness (Num 14:1-4) was complaint against God to others, with a wish to go back to Egypt, not lament addressed to God.",
+   "defence": "Scholars from all traditions agree on the place of lament. Some pastors warn rightly that lament should not become permanent bitterness or self-pity, and that the Psalms usually move toward trust. Both concerns can be held together.",
+   "whyItMatters": "Forbidding lament teaches sufferers to hide their pain from God and the church. Restoring it lets faith survive suffering.",
+   "refs": [
+    "Ps 13",
+    "Ps 88",
+    "Gen 18:25",
+    "Jer 12:1",
+    "Mark 15:34",
+    "Num 14:1-4"
+   ],
+   "scholars": [
+    "Walter Brueggemann",
+    "Claus Westermann",
+    "Mark Vroegop",
+    "Ellen Davis"
+   ],
+   "confidence": "scholarly-consensus"
+  },
+  {
+   "topic": "Theodicy is only an intellectual puzzle",
+   "popular": "The problem of evil is a logic problem for philosophers. Once you have the right argument, the problem is solved.",
+   "inContext": "In the Bible, the problem of evil is mostly faced in prayer, protest, prophecy and action. Job's friends had arguments and were rebuked; Job had questions and met God. The New Testament answer is a person and a story (the cross, the resurrection, the new creation) more than a proof. Theologians such as Kenneth Surin and John Swinton warn that purely abstract theodicy can treat real victims as data.",
+   "defence": "Philosophers of religion such as Plantinga and Swinburne reply that intellectual answers are valuable: they remove false reasons for unbelief and help people think clearly before crisis comes. Their work was never meant to replace pastoral care.",
+   "whyItMatters": "Treating evil only as a puzzle can make Christians cold or glib. Ignoring the intellectual side can leave honest questioners without help. The church needs both, in the right order.",
+   "refs": [
+    "Job 42:7",
+    "Job 42:5",
+    "Rom 12:15",
+    "1 Pet 3:15"
+   ],
+   "scholars": [
+    "Kenneth Surin",
+    "John Swinton",
+    "Alvin Plantinga",
+    "Eleonore Stump"
+   ],
+   "confidence": "debated"
+  },
+  {
+   "topic": "The satan in Job is a rival god who controls the world",
+   "popular": "Job shows Satan as a power nearly equal to God, who can do whatever he wants to believers, or alternatively, it shows God making a bet at a human's expense.",
+   "inContext": "In Job, 'the satan' is one of the heavenly beings presenting themselves before God, acting as an accuser. He can act only within limits God sets (Job 1:12, Job 2:6). The scene shows that human suffering is part of a larger story that the sufferer cannot see, not that God plays games. The book never lets Job learn about the scene, which is part of its point.",
+   "defence": "Traditional readers see continuity with the later, fully developed Satan of the New Testament (Rev 12:9-10 calls him the accuser), and warfare theologians stress that real hostile powers exist. Both agree that Job places all such powers under God's ultimate authority.",
+   "whyItMatters": "Overrating the satan leads to dualism and fear; reading the prologue as a cruel bet can make God seem a gambler. The text's restraint keeps the focus on whether faith can be free and on God's final authority.",
+   "refs": [
+    "Job 1:6-12",
+    "Job 2:1-7",
+    "Zech 3:1-2",
+    "Rev 12:9-10"
+   ],
+   "scholars": [
+    "Robert Alter",
+    "John Walton",
+    "Greg Boyd",
+    "Carol Newsom"
+   ],
+   "confidence": "debated"
+  }
+ ],
+ "views": [
+  {
+   "name": "Augustinian (privation and Fall)",
+   "who": "Augustine, Thomas Aquinas, much Catholic and Protestant tradition, C. S. Lewis",
+   "summary": "God created everything good. Evil is not a substance but a privation, a lack or twisting of good. It entered through the free rebellion of angels and humans, and nature's disorder followed. God permits evil because he can bring greater good from it, supremely in Christ.",
+   "strengths": "Keeps God wholly good and evil wholly alien; takes human responsibility seriously; has deep roots in Scripture and tradition; explains why evil is parasitic on good.",
+   "critiques": "Struggles to explain how good creatures first chose evil, and how suffering among animals for millions of years can follow human sin. Critics say 'privation' does not capture how active and powerful evil feels."
+  },
+  {
+   "name": "Irenaean / soul-making",
+   "who": "Irenaeus (roots), John Hick, Richard Swinburne (in part)",
+   "summary": "Humans were made immature and at an 'epistemic distance' from God in a demanding world, so that they could freely grow into mature children of God. Pain and danger make courage, compassion, patience and trust possible.",
+   "strengths": "Explains why the world is hard rather than a paradise; fits biblical themes of testing and growth (Jas 1:2-4, Rom 5:3-5); looks forward rather than backward.",
+   "critiques": "Much suffering crushes rather than builds character; infants and animals suffer without growing. Hick's dependence on growth after death and universal salvation is disputed. It can make God seem to use people as means."
+  },
+  {
+   "name": "Free-will defence and theodicy",
+   "who": "Alvin Plantinga, Richard Swinburne, William Hasker, many evangelical philosophers",
+   "summary": "A world with creatures who are significantly free is more valuable than a world of automatons, and genuine freedom includes the possibility of evil. It is possible that God could not create a world of free beings who never did wrong. This answers the logical problem and explains much moral evil.",
+   "strengths": "Widely accepted as defeating the strict logical problem; fits the biblical call to choose (Deut 30:19); keeps evil as the creature's responsibility.",
+   "critiques": "Does not easily explain natural evil without appeal to fallen spirits. Critics ask why God does not intervene more often, and how this fits with heaven, where the redeemed are free yet do not sin. Reformed critics say it relies on a libertarian view of freedom the Bible does not teach."
+  },
+  {
+   "name": "Reformed / meticulous sovereignty",
+   "who": "John Calvin, Jonathan Edwards, Westminster Confession, D. A. Carson, John Piper, Paul Helm",
+   "summary": "God ordains all that comes to pass, including evil acts, without being the author of sin, and humans are fully responsible (compatibilism). Every evil serves God's wise and good purpose, as at the cross (Acts 4:27-28) and in Joseph's story (Gen 50:20).",
+   "strengths": "Takes the Bible's strong providence texts at face value; offers deep assurance that no suffering is meaningless; honours God's glory and freedom.",
+   "critiques": "Many find it hard to see how God is not responsible for evil he decrees. It can sound cold to victims of abuse. Critics say it struggles with texts showing God's grief and opposition to evil."
+  },
+  {
+   "name": "Cosmic conflict / warfare",
+   "who": "Many early church fathers, Gustaf Aulén (Christus Victor), Greg Boyd ('trinitarian warfare' model), many Pentecostal and majority-world Christians",
+   "summary": "The world is a war zone. Rebellious spiritual powers, freely created by God, oppress creation and humanity. Much evil is not God's will but the enemy's work. Jesus' healings and exorcisms are acts of war, and the cross is the decisive victory, to be completed at his return.",
+   "strengths": "Matches Jesus' ministry and the New Testament's language of powers; lets believers call particular evils 'not God's will'; makes sense to many cultures that experience spiritual oppression.",
+   "critiques": "Difficult to verify; can make Satan seem too powerful or become an excuse for avoiding human responsibility. Reformed critics say it weakens God's sovereignty; scientists question it as an explanation of natural evil."
+  },
+  {
+   "name": "Skeptical theism",
+   "who": "Stephen Wykstra, Michael Bergmann, Daniel Howard-Snyder, many Christian philosophers",
+   "summary": "Given the vast difference between God's knowledge and ours, we should not expect to see God's reasons for allowing many evils. So the fact that some evils look pointless is weak evidence that they are pointless.",
+   "strengths": "Modest and difficult to refute; matches God's answer to Job (Job 38-41) and Isa 55:8-9; can be combined with other views.",
+   "critiques": "Critics say it undermines moral judgement and the reliability of God's promises, and offers little comfort. Some say it would also stop us from inferring God's goodness from the world."
+  },
+  {
+   "name": "Open theism",
+   "who": "Clark Pinnock, John Sanders, William Hasker, David Basinger, Greg Boyd",
+   "summary": "God knows all that can be known, but future free choices are not yet settled facts. God takes risks, responds to prayer and can be grieved. Specific evils are not planned and some are pointless, though God works to redeem them.",
+   "strengths": "Takes seriously texts where God changes his mind or is surprised (Gen 6:6, Jer 3:7); frees God from responsibility for specific horrors; supports a relational view of prayer.",
+   "critiques": "Most traditions see it as denying God's full foreknowledge, which Scripture affirms in prophecy (Isa 46:9-10). Critics ask whether God's final victory is secure, and why God, if he can intervene, does not do so more often."
+  },
+  {
+   "name": "Process theology",
+   "who": "Alfred North Whitehead, Charles Hartshorne, David Ray Griffin, John Cobb; related: Thomas Jay Oord",
+   "summary": "God's power is persuasive, not coercive. Every creature has some self-determination. God offers each moment its best possibility and suffers with the world, but cannot unilaterally prevent evil.",
+   "strengths": "Removes the question 'why did God not stop it?'; presents God as the fellow-sufferer; fits a scientific picture of an evolving world.",
+   "critiques": "Gives up creation out of nothing and God's power to guarantee the final defeat of evil. Most Christians and Jews judge that it no longer describes the God of the Bible, who raised Jesus from the dead."
+  },
+  {
+   "name": "Theology of the cross (cruciform response)",
+   "who": "Martin Luther, Jürgen Moltmann, Kazoh Kitamori, Dietrich Bonhoeffer, many liberation theologians",
+   "summary": "God does not answer suffering from outside but enters it in the crucified Christ. God is known in weakness and godforsakenness. The cross shows God's solidarity with every victim, and the resurrection is God's promise that suffering will not have the last word.",
+   "strengths": "Centres on Jesus; offers deep comfort to victims; refuses easy explanations; joins theodicy to discipleship and solidarity with the oppressed.",
+   "critiques": "Classical theologians worry that some versions make God dependent on the world's suffering. Others note it says how God responds to evil but not why God permits it."
+  },
+  {
+   "name": "Jewish protest and post-Holocaust responses",
+   "who": "The biblical lament tradition; Levi Yitzchak of Berditchev; Elie Wiesel; Emil Fackenheim; Eliezer Berkovits; Irving Greenberg; Hans Jonas; Harold Kushner",
+   "summary": "A range of responses rooted in covenant: arguing with God on the basis of his own justice, refusing to let suffering destroy Jewish life and hope, speaking of God hiding his face, and in some cases rethinking God's power. Protest is treated as a form of faithfulness.",
+   "strengths": "Deeply biblical (Abraham, Moses, Job, the Psalms); refuses to explain away horror; keeps faith and honesty together; shaped by the most terrible evidence.",
+   "critiques": "Some forms (Rubenstein, Jonas, Kushner) give up the traditional God, which most Jews and Christians reject. Others leave the question unanswered, which some find unsatisfying, though its defenders see that as honesty."
+  }
+ ],
+ "practice": [
+  {
+   "title": "Write your own lament psalm",
+   "steps": [
+    "Read Ps 13 aloud and notice its parts: address, complaint, request, trust, praise.",
+    "Choose one real pain in your life or in the world.",
+    "Write a few lines for each part. Be honest in the complaint; do not soften it.",
+    "If you cannot honestly write the trust or praise lines yet, leave them blank, as Ps 88 does.",
+    "Pray it aloud, alone or with one trusted friend."
+   ]
+  },
+  {
+   "title": "Read Job in one sitting (group exercise)",
+   "steps": [
+    "Divide the book among readers: prologue (Job 1-2), Job's curse (Job 3), sample speeches of Eliphaz (Job 4-5) and Job (Job 6-7), Job's final defence (Job 29-31), God's speeches (Job 38-41), and the ending (Job 42).",
+    "Read it aloud as a drama, with different voices for each character.",
+    "Discuss: What did the friends get wrong? What did Job get right? Why does God not explain the prologue?",
+    "Ask each person to name one time they acted like Job's friends toward someone in pain."
+   ]
+  },
+  {
+   "title": "Map your own theodicy",
+   "steps": [
+    "Take the decision tree on this page and note which result you reach.",
+    "Look up that view in the comparison table. Write down its main strength and main critique.",
+    "Read the view furthest from yours on the spectrum, and write its best argument in one paragraph as its defenders would.",
+    "Note one place where you need to say 'I do not know'.",
+    "Share your map with a friend who holds a different view and listen without arguing."
+   ]
+  },
+  {
+   "title": "Practise what to say and not to say",
+   "steps": [
+    "In a group, list phrases people said to you or others in times of grief, sorting them into 'helped' and 'hurt'.",
+    "Compare the 'hurt' list with the misreadings on this page. Which ones repeat Job's friends?",
+    "Write three sentences you could say to someone grieving that are true, kind and do not explain too much (for example, 'I am so sorry. I am here.').",
+    "Agree on one practical act of help (a meal, a visit, a call) for someone in your community who is suffering."
+   ]
+  },
+  {
+   "title": "Read Luke 13 and John 9 against karma and retribution",
+   "steps": [
+    "Read Luke 13:1-5 and John 9:1-7 slowly.",
+    "List the assumptions behind the questions people ask Jesus.",
+    "Write down how Jesus answers and what he does next.",
+    "Discuss respectfully how these passages relate to ideas of karma common in India, and to 'prosperity' preaching in some churches.",
+    "Plan how you might explain Jesus' answer gently to a neighbour of another faith."
+   ]
+  },
+  {
+   "title": "Hope practice with Romans 8",
+   "steps": [
+    "Read Rom 8:18-39 each day for a week.",
+    "Each day note one 'groaning' you see in the world or in yourself (Rom 8:22-23).",
+    "Then note one sign of hope: an act of love, a small healing, a promise of God.",
+    "At the end of the week, read Rev 21:1-5 and write a short prayer for the day when tears are wiped away.",
+    "Ask: how does this hope change what I do for people suffering now?"
+   ]
+  }
+ ],
+ "sources": [
+  {
+   "author": "Augustine of Hippo",
+   "title": "Enchiridion on Faith, Hope and Love",
+   "year": 421,
+   "locator": "chapters 10-12",
+   "publicDomain": true
+  },
+  {
+   "author": "Augustine of Hippo",
+   "title": "Confessions",
+   "year": 400,
+   "locator": "book 7",
+   "publicDomain": true
+  },
+  {
+   "author": "Irenaeus of Lyon",
+   "title": "Against Heresies",
+   "year": 180,
+   "locator": "4.37-39",
+   "publicDomain": true
+  },
+  {
+   "author": "Lactantius",
+   "title": "On the Anger of God",
+   "year": 314,
+   "locator": "chapter 13",
+   "publicDomain": true
+  },
+  {
+   "author": "Thomas Aquinas",
+   "title": "Summa Theologiae",
+   "year": 1274,
+   "locator": "I, q. 2, a. 3; I, q. 48-49",
+   "publicDomain": true
+  },
+  {
+   "author": "Martin Luther",
+   "title": "Heidelberg Disputation",
+   "year": 1518,
+   "locator": "theses 19-21",
+   "publicDomain": true
+  },
+  {
+   "author": "John Calvin",
+   "title": "Institutes of the Christian Religion",
+   "year": 1559,
+   "locator": "1.16-18",
+   "publicDomain": true
+  },
+  {
+   "author": "Westminster Assembly",
+   "title": "Westminster Confession of Faith",
+   "year": 1646,
+   "locator": "chapters 3 and 5",
+   "publicDomain": true
+  },
+  {
+   "author": "John Milton",
+   "title": "Paradise Lost",
+   "year": 1667,
+   "locator": "book 1, line 26",
+   "publicDomain": true
+  },
+  {
+   "author": "Gottfried Wilhelm Leibniz",
+   "title": "Essays of Theodicy on the Goodness of God, the Freedom of Man and the Origin of Evil",
+   "year": 1710,
+   "publicDomain": true
+  },
+  {
+   "author": "Voltaire",
+   "title": "Candide",
+   "year": 1759,
+   "publicDomain": true
+  },
+  {
+   "author": "David Hume",
+   "title": "Dialogues Concerning Natural Religion",
+   "year": 1779,
+   "locator": "part 10",
+   "publicDomain": true
+  },
+  {
+   "author": "Fyodor Dostoevsky",
+   "title": "The Brothers Karamazov",
+   "year": 1880,
+   "locator": "book 5, chapter 4 ('Rebellion')",
+   "publicDomain": true
+  },
+  {
+   "author": "Alfred North Whitehead",
+   "title": "Process and Reality",
+   "year": 1929
+  },
+  {
+   "author": "Gustaf Aulén",
+   "title": "Christus Victor",
+   "year": 1931,
+   "locator": "English translation; Swedish original 1930"
+  },
+  {
+   "author": "C. S. Lewis",
+   "title": "The Problem of Pain",
+   "year": 1940
+  },
+  {
+   "author": "C. S. Lewis",
+   "title": "A Grief Observed",
+   "year": 1961
+  },
+  {
+   "author": "J. L. Mackie",
+   "title": "Evil and Omnipotence",
+   "year": 1955,
+   "locator": "Mind 64"
+  },
+  {
+   "author": "Elie Wiesel",
+   "title": "Night",
+   "year": 1960,
+   "locator": "English translation; Yiddish 1956, French 1958"
+  },
+  {
+   "author": "Elie Wiesel",
+   "title": "The Trial of God",
+   "year": 1979
+  },
+  {
+   "author": "John Hick",
+   "title": "Evil and the God of Love",
+   "year": 1966
+  },
+  {
+   "author": "Richard L. Rubenstein",
+   "title": "After Auschwitz",
+   "year": 1966
+  },
+  {
+   "author": "Emil L. Fackenheim",
+   "title": "The 614th Commandment",
+   "year": 1967,
+   "locator": "Judaism 16.3"
+  },
+  {
+   "author": "Emil L. Fackenheim",
+   "title": "God's Presence in History",
+   "year": 1970
+  },
+  {
+   "author": "Jürgen Moltmann",
+   "title": "The Crucified God",
+   "year": 1974,
+   "locator": "English translation; German original 1972"
+  },
+  {
+   "author": "Eliezer Berkovits",
+   "title": "Faith after the Holocaust",
+   "year": 1973
+  },
+  {
+   "author": "Alvin Plantinga",
+   "title": "God, Freedom and Evil",
+   "year": 1974
+  },
+  {
+   "author": "David Ray Griffin",
+   "title": "God, Power, and Evil: A Process Theodicy",
+   "year": 1976
+  },
+  {
+   "author": "Irving Greenberg",
+   "title": "Cloud of Smoke, Pillar of Fire: Judaism, Christianity, and Modernity after the Holocaust",
+   "year": 1977,
+   "locator": "in Eva Fleischner (ed.), Auschwitz: Beginning of a New Era?"
+  },
+  {
+   "author": "William L. Rowe",
+   "title": "The Problem of Evil and Some Varieties of Atheism",
+   "year": 1979,
+   "locator": "American Philosophical Quarterly 16"
+  },
+  {
+   "author": "Harold S. Kushner",
+   "title": "When Bad Things Happen to Good People",
+   "year": 1981
+  },
+  {
+   "author": "Walter Brueggemann",
+   "title": "The Message of the Psalms",
+   "year": 1984
+  },
+  {
+   "author": "Stephen J. Wykstra",
+   "title": "The Humean Obstacle to Evidential Arguments from Suffering",
+   "year": 1984,
+   "locator": "International Journal for Philosophy of Religion 16"
+  },
+  {
+   "author": "Charles Hartshorne",
+   "title": "Omnipotence and Other Theological Mistakes",
+   "year": 1984
+  },
+  {
+   "author": "Hans Jonas",
+   "title": "The Concept of God after Auschwitz: A Jewish Voice",
+   "year": 1987,
+   "locator": "Journal of Religion 67; lecture given 1984"
+  },
+  {
+   "author": "Kenneth Surin",
+   "title": "Theology and the Problem of Evil",
+   "year": 1986
+  },
+  {
+   "author": "Nicholas Wolterstorff",
+   "title": "Lament for a Son",
+   "year": 1987
+  },
+  {
+   "author": "D. A. Carson",
+   "title": "How Long, O Lord? Reflections on Suffering and Evil",
+   "year": 1990
+  },
+  {
+   "author": "Terrence W. Tilley",
+   "title": "The Evils of Theodicy",
+   "year": 1991
+  },
+  {
+   "author": "J. L. Schellenberg",
+   "title": "Divine Hiddenness and Human Reason",
+   "year": 1993
+  },
+  {
+   "author": "Clark Pinnock and others",
+   "title": "The Openness of God",
+   "year": 1994
+  },
+  {
+   "author": "Gregory A. Boyd",
+   "title": "God at War: The Bible and Spiritual Conflict",
+   "year": 1997
+  },
+  {
+   "author": "Richard Swinburne",
+   "title": "Providence and the Problem of Evil",
+   "year": 1998
+  },
+  {
+   "author": "Marilyn McCord Adams",
+   "title": "Horrendous Evils and the Goodness of God",
+   "year": 1999
+  },
+  {
+   "author": "Gregory A. Boyd",
+   "title": "Satan and the Problem of Evil",
+   "year": 2001
+  },
+  {
+   "author": "Michael Bergmann",
+   "title": "Skeptical Theism and Rowe's New Evidential Argument from Evil",
+   "year": 2001,
+   "locator": "Noûs 35"
+  },
+  {
+   "author": "Paul L. Gavrilyuk",
+   "title": "The Suffering of the Impassible God",
+   "year": 2004
+  },
+  {
+   "author": "N. T. Wright",
+   "title": "Evil and the Justice of God",
+   "year": 2006
+  },
+  {
+   "author": "Peter van Inwagen",
+   "title": "The Problem of Evil",
+   "year": 2006
+  },
+  {
+   "author": "John Swinton",
+   "title": "Raging with Compassion: Pastoral Responses to the Problem of Evil",
+   "year": 2007
+  },
+  {
+   "author": "Christopher Southgate",
+   "title": "The Groaning of Creation: God, Evolution, and the Problem of Evil",
+   "year": 2008
+  },
+  {
+   "author": "Eleonore Stump",
+   "title": "Wandering in Darkness: Narrative and the Problem of Suffering",
+   "year": 2010
+  },
+  {
+   "author": "Thomas Jay Oord",
+   "title": "The Uncontrolling Love of God",
+   "year": 2015
+  },
+  {
+   "author": "Babylonian Talmud",
+   "title": "Berakhot",
+   "locator": "5a-5b (sufferings of love)",
+   "publicDomain": true
+  },
+  {
+   "author": "Amy Carmichael",
+   "title": "Rose from Brier",
+   "year": 1933,
+   "confidence": "needs-verification"
+  },
+  {
+   "author": "Carol A. Newsom",
+   "title": "The Book of Job: A Contest of Moral Imaginations",
+   "year": 2003
+  }
+ ]
+}
