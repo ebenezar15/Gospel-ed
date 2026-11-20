@@ -412,7 +412,7 @@ export const FILES = {
   'gods-1.json': z.array(God), 'gods-2.json': z.array(God), 'gods-extra.json': GodsExtra, 'council.json': Council, 'debates-6.json': z.array(Debate),
   'study-ot-1.json': z.array(BookStudy), 'study-ot-2.json': z.array(BookStudy), 'study-ot-3.json': z.array(BookStudy), 'study-nt-1.json': z.array(BookStudy), 'study-nt-2.json': z.array(BookStudy),
   'deep-john.json': DeepStudy, 'deep-romans.json': DeepStudy, 'deep-hebrews.json': DeepStudy, 'deep-galatians.json': DeepStudy, 'deep-ephesians.json': DeepStudy,
-  'topic-hermeneutics.json': TopicStudy, 'topic-ministries.json': TopicStudy, 'topic-gifts.json': TopicStudy,
+  'topic-hermeneutics.json': TopicStudy, 'topic-ministries.json': TopicStudy, 'topic-gifts.json': TopicStudy, 'topic-theodicy.json': TopicStudy,
   'course-1.json': CourseUnit, 'course-2.json': CourseUnit, 'course-3a.json': CourseUnit, 'course-3b.json': CourseUnit, 'course-4a.json': CourseUnit, 'course-4b.json': CourseUnit, 'course-5.json': CourseUnit,
   'plain-1.json': PlainLayer, 'plain-2.json': PlainLayer,
   'places.json': z.array(Place),

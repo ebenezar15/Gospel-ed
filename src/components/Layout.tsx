@@ -24,7 +24,7 @@ export const NAV: { group: string; items: { to: string; label: string; glyph: st
   ] },
   { group: t('Time & Place'), items: [{ to: '/timeline', label: t('Timeline'), glyph: '⟿' }, { to: '/maps', label: t('Maps & Journeys'), glyph: '✦' }, { to: '/lens', label: t('Who Was Alive?'), glyph: '◎' }] },
   { group: t('Gospel & Doctrine'), items: [
-    { to: '/gospel-history', label: t('Gospel Through History'), glyph: '✉' }, { to: '/afterlife', label: t('Afterlife & Kingdom'), glyph: '☼' },
+    { to: '/gospel-history', label: t('Gospel Through History'), glyph: '✉' }, { to: '/afterlife', label: t('Afterlife & Kingdom'), glyph: '☼' }, { to: '/topics/theodicy', label: t('Theodicy: God & Suffering'), glyph: '✚' },
     { to: '/debates', label: t('Debates'), glyph: '⚖' }, { to: '/theologians', label: t('Theologians'), glyph: '✒' }, { to: '/movements', label: t('Movements'), glyph: '✧' }, { to: '/context', label: t('Cultural Context'), glyph: '❂' },
   ] },
   { group: t('Study'), items: [{ to: '/topics', label: t('Topic Studies'), glyph: '◫' }, { to: '/study', label: t('Study Desk'), glyph: '✎' }, { to: '/quiz', label: t('Quiz & Cards'), glyph: '?' }] },

@@ -53,7 +53,7 @@ export const bookStudies: BookStudyT[] = [...many<BookStudyT>('study-ot-'), ...m
 export const studyById = new Map(bookStudies.map((x) => [x.id, x]));
 export const deepStudies: DeepStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/deep-')).map((k) => files[k] as DeepStudyT).filter((x) => x && x.id);
 export const deepById = new Map(deepStudies.map((x) => [x.id, x]));
-const TOPIC_ORDER = ['hermeneutics', 'ministries', 'gifts'];
+const TOPIC_ORDER = ['hermeneutics', 'ministries', 'gifts', 'theodicy'];
 export const topics: TopicStudyT[] = Object.keys(files).filter((k) => k.startsWith('../content/topic-')).map((k) => files[k] as TopicStudyT).filter((x) => x && x.id).sort((a, b) => TOPIC_ORDER.indexOf(a.id) - TOPIC_ORDER.indexOf(b.id));
 export const topicById = new Map(topics.map((x) => [x.id, x]));
 /** Course files may split one unit across several files (course-3a, course-3b); merge them by unit id. */
