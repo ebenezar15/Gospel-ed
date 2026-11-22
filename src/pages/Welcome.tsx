@@ -48,7 +48,7 @@ function HeroArt() {
       </motion.g>
       {!still && [...Array(10)].map((_, i) => (
         <motion.circle key={`p${i}`} cx={170 + (i * 37) % 170} cy={250} r={1.5 + (i % 3)} fill={c(TONES[i % TONES.length], 0.7)}
-          animate={{ cy: [250, 120 - (i % 4) * 20], opacity: [0, 1, 0] }} transition={{ duration: 4 + (i % 4), repeat: Infinity, delay: i * 0.6, ease: 'easeOut' }} />))}
+          animate={{ y: [0, -130 - (i % 4) * 20], opacity: [0, 1, 0] }} transition={{ duration: 4 + (i % 4), repeat: Infinity, delay: i * 0.6, ease: 'easeOut' }} />))}
     </svg>
   );
 }
