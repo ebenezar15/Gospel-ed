@@ -1750,5 +1750,35 @@
 "family": "course",
 "strings": 109,
 "chars": 8986
+},
+{
+"chunk": "292",
+"family": "topic-theodicy",
+"strings": 274,
+"chars": 23945
+},
+{
+"chunk": "293",
+"family": "topic-theodicy",
+"strings": 178,
+"chars": 23990
+},
+{
+"chunk": "294",
+"family": "topic-theodicy",
+"strings": 209,
+"chars": 22175
+},
+{
+"chunk": "295",
+"family": "topic-theodicy",
+"strings": 58,
+"chars": 23998
+},
+{
+"chunk": "296",
+"family": "topic-theodicy",
+"strings": 82,
+"chars": 10776
 }
 ]
