@@ -109,8 +109,15 @@ const PROSE_REF = /\b([123] )?(Gen|Exod|Lev|Num|Deut|Josh|Judg|Ruth|Sam|Kgs|Chr|
 /** In Tamil mode, English book abbreviations inside prose ("Rom 3:20") become Tamil ones ("ரோம 3:20"). */
 export const localRefs = (s: string) => (isTa ? s.replace(PROSE_REF, (m) => { const i = BOOK_INDEX[m]; return i === undefined ? m : TA_ABBR[i]; }) : s);
 export function Rich({ text }: { text: string }) {
-  const parts = localRefs(text).split(/\*([^*\n]+)\*/g);
-  return <>{parts.map((x, i) => (i % 2 ? <i key={i}>{x}</i> : x))}</>;
+  // Inline links to pages inside the app: [label](/path). Then *italic*.
+  const segs = localRefs(text).split(/\[([^\]\n]+)\]\((\/[^)\s]*)\)/g);
+  const ital = (s: string, k: number) => s.split(/\*([^*\n]+)\*/g).map((x, i) => (i % 2 ? <i key={`${k}-${i}`}>{x}</i> : x));
+  const out: ReactNode[] = [];
+  for (let i = 0; i < segs.length; i += 3) {
+    out.push(...ital(segs[i], i));
+    if (i + 2 < segs.length) out.push(<Link key={`l${i}`} to={segs[i + 2]} className="text-accent underline decoration-dotted underline-offset-2 hover:decoration-solid" onClick={(e) => e.stopPropagation()}>{ital(segs[i + 1], i + 1)}</Link>);
+  }
+  return <>{out}</>;
 }
 export function Paras({ text, className }: { text?: string; className?: string }) {
   if (!text) return null;

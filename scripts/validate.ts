@@ -10,6 +10,7 @@ import { join } from 'node:path';
 import { FILES } from '../src/schemas';
 import { parseRef } from '../src/lib/refs';
 
+const KNOWN_ROUTES = new Set(['', 'people', 'rosters', 'books', 'timeline', 'maps', 'lens', 'family', 'connections', 'work', 'gospel-history', 'afterlife', 'debates', 'movements', 'context', 'study', 'quiz', 'guides', 'theologians', 'canon', 'paradoxes', 'bible-history', 'types', 'symbols', 'gods', 'topics', 'course']);
 const dir = join(import.meta.dirname, '..', 'content');
 const only = process.argv.slice(2).map((f) => f.replace(/^content\//, ''));
 const names = Object.keys(FILES) as (keyof typeof FILES)[];
@@ -67,6 +68,8 @@ for (const f of names) {
     }
     for (const l of data.lessons) for (const k of l.links) if (!k.to.startsWith('/')) err(f, `lesson ${l.n}: link "${k.to}" must start with /`);
   }
+  if (f.startsWith('topic-') && data?.links) for (const k of data.links) if (!k.to.startsWith('/')) err(f, `link "${k.to}" must start with /`);
+  for (const m of JSON.stringify(data).matchAll(/\]\((\/[^)\s]*)\)/g)) { const seg = m[1].split('/')[1]; if (!KNOWN_ROUTES.has(seg)) err(f, `inline link "${m[1]}" points to an unknown section`); }
   if (f.startsWith('topic-') && data?.map) {
     const ids = new Set(data.map.nodes.map((n: any) => n.id)), groups = new Set(data.groups.map((g: any) => g.id));
     data.map.edges.forEach((e: any) => { if (!ids.has(e.from) || !ids.has(e.to)) err(f, `map edge ${e.from}->${e.to} points to a missing node`); });

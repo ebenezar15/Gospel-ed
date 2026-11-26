@@ -65,6 +65,7 @@ export default function TopicPage() {
         {tab === 'views' && <Views tp={tp} />}
         {tab === 'practice' && <Practice tp={tp} />}
       </div>
+      {!!tp.links?.length && <section className="mt-10"><div className="eyebrow mb-2">{t('Go deeper in the atlas')}</div><div className="flex flex-wrap gap-2">{tp.links.map((k) => <Link key={k.to} to={k.to} className="btn">{k.label} →</Link>)}</div></section>}
     </div>
   );
 }

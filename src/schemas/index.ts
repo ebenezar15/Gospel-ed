@@ -347,6 +347,7 @@ export const TopicStudy = z.object({
   spectrum: z.object({ title: z.string(), intro: z.string(), left: z.string(), right: z.string(), stops: z.array(z.object({ pos: z.number(), label: z.string(), text: z.string(), who: z.string() })) }), // positions 0-100 on a line between two poles
   cases: z.array(z.object({ title: z.string(), ref: Ref, question: z.string(), steps: z.array(z.object({ step: z.string(), note: z.string() })), takeaway: z.string() })), // worked examples, 3-6
   sections: z.array(z.object({ id: z.string(), heading: z.string(), body: z.string(), refs: z.array(Ref), callout: z.object({ kind: z.enum(['myth', 'debate', 'tradition', 'tip']), text: z.string() }).optional(), confidence: Confidence.optional() })), // long-form chapters, 6-10
+  links: z.array(z.object({ to: z.string(), label: z.string() })).optional(), // related pages inside the app
   misreadings: z.array(Misreading),
   views: z.array(z.object({ name: z.string(), who: z.string(), summary: z.string(), strengths: z.string(), critiques: z.string() })),
   practice: z.array(z.object({ title: z.string(), steps: z.array(z.string()) })), // practical exercises for readers / small groups
